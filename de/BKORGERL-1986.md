@@ -1,0 +1,42 @@
+---
+title: "Organisationserlaß des Bundeskanzlers"
+identifier: "BKORGERL-1986"
+country: "de"
+rank: "bundesgesetz"
+publication_date: "1986-06-05"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://www.gesetze-im-internet.de/bkorgerl_1986/"
+department: "BMJ (Bundesministerium der Justiz)"
+doknr: "BJNR108640986"
+slug: "bkorgerl_1986"
+bgbl_reference: "BGBl I 1986, 864"
+---
+# Organisationserlaß des Bundeskanzlers
+
+##### I.
+
+Es wird ein Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit gebildet.
+
+##### II.
+
+Dem Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit werden übertragen:
+
+1. aus dem Geschäftsbereich des Bundesministers des Innern die Zuständigkeiten für
+
+a) Umweltschutz,
+
+b) Sicherheit kerntechnischer Anlagen, Strahlenschutz,
+
+2. aus dem Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten die Zuständigkeit für Umwelt, Naturschutz,
+
+3. aus dem Geschäftsbereich des Bundesministers für Jugend, Familie und Gesundheit die Zuständigkeiten für gesundheitliche Belange des Umweltschutzes, Strahlenhygiene, Rückstände von Schadstoffen in Lebensmitteln, Chemikalien.
+
+##### III.
+
+Das Bundesministerium für Jugend, Familie und Gesundheit wird zum Bundesministerium für Jugend, Familie, Frauen und Gesundheit umgebildet. Es erhält die Federführung für Frauenfragen einschließlich Gesetzgebungskompetenz. In einem ersten Schritt wird dazu aus dem Geschäftsbereich des Bundesministers für Arbeit und Sozialordnung die Zuständigkeit für Frau und Beruf auf den Bundesminister für Jugend, Familie, Frauen und Gesundheit übertragen.
+
+##### (XXXX)
+
+Die Einzelheiten des Übergangs werden zwischen den beteiligten Bundesministern geregelt und dem Chef des Bundeskanzleramtes mitgeteilt.
+
