@@ -1,0 +1,43 @@
+---
+title: "Anordnung über die Ernennung und Entlassung der Angehörigen der
+Grenzschutzreserve"
+identifier: "BGSRESERNANO"
+country: "de"
+rank: "bundesgesetz"
+publication_date: "1976-07-15"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://www.gesetze-im-internet.de/bgsresernano/"
+department: "BMJ (Bundesministerium der Justiz)"
+doknr: "BJNR020540976"
+slug: "bgsresernano"
+bgbl_reference: "BGBl I 1976, 2054"
+---
+# Anordnung über die Ernennung und Entlassung der Angehörigen der
+Grenzschutzreserve
+
+##### I.
+
+Auf Grund des § 55 Abs. 1 des Gesetzes über den Bundesgrenzschutz vom 18. August 1972 (Bundesgesetzbl. I S. 1834) und des Artikels 1 Abs. 2 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Grenzschutzoffiziere der Reserve vom 27. September 1973 (Bundesgesetzbl. I S. 1465) übertrage ich widerruflich die Ausübung des Rechts zur Ernennung und Entlassung von Dienstleistenden im Bundesgrenzschutz, die
+
+1. Dienstbezeichnungen von Polizeivollzugsbeamten der Laufbahn des mittleren Polizeivollzugsdienstes,
+
+2. Dienstbezeichnungen von Polizeivollzugsbeamten der Laufbahn des gehobenen Polizeivollzugsdienstes bis zur Dienstbezeichnung eines Polizeioberkommissars im BGS der Reserve
+
+führen,
+
+den Kommandeuren der Grenzschutzkommandos,
+
+dem Kommandeur der Grenzschutzschule,
+
+jeweils für ihren Geschäftsbereich.
+
+##### II.
+
+Für besondere Fälle behalte ich mir die Ernennung und Entlassung der in Abschnitt I Genannten vor. 
+Diese Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
+
+##### Schlußformel
+
+*Der Bundesminister des Innern*
+
