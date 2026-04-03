@@ -1,0 +1,39 @@
+---
+title: "Zwölfte Verordnung über zwingende Arbeitsbedingungen für das Maler- und Lackiererhandwerk"
+identifier: "MALERARBBV-12"
+country: "de"
+rank: "rechtsverordnung"
+publication_date: "2025-07-24"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://www.gesetze-im-internet.de/malerarbbv_12/"
+department: "BMJ (Bundesministerium der Justiz)"
+doknr: "BJNR0B30A0025"
+slug: "malerarbbv_12"
+bgbl_reference: "BGBl. I 2025, Nr. 179"
+amtabk: "12. MalerArbbV"
+---
+# Zwölfte Verordnung über zwingende Arbeitsbedingungen für das Maler- und Lackiererhandwerk
+
+##### Eingangsformel
+
+Das Bundesministerium für Arbeit und Soziales verordnet aufgrund des § 7 Absatz 1, 2 und 4 des Arbeitnehmer-Entsendegesetzes vom 20. April 2009 (BGBl. I S. 799), das zuletzt durch Artikel 1 des Gesetzes vom 28. Juni 2023 (BGBl. 2023 I Nr. 172) geändert worden ist, nachdem es den in den Geltungsbereich dieser Verordnung fallenden Arbeitgebern, Arbeitnehmerinnen und Arbeitnehmern, den Parteien des Tarifvertrags nach § 1 Absatz 1 dieser Verordnung, den Parteien von Tarifverträgen in der Branche mit zumindest teilweise demselben fachlichen Geltungsbereich sowie den paritätisch besetzten Kommissionen, die auf der Grundlage kirchlichen Rechts Arbeitsbedingungen für den Bereich kirchlicher Arbeitgeber zumindest teilweise im Geltungsbereich dieser Verordnung festlegen, Gelegenheit zur schriftlichen Stellungnahme gegeben hat:
+
+##### § 1 Zwingende Arbeitsbedingungen
+
+Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 28. April 2025, abgeschlossen zwischen dem Bundesverband Farbe, Gestaltung, Bautenschutz – Bundesinnungsverband des deutschen Maler- und Lackiererhandwerks und der Maler- und Lackiererinnung des Saarlandes einerseits sowie der Industriegewerkschaft Bauen-Agrar-Umwelt andererseits, finden auf alle nicht an den TV Mindestlohn gebundenen Arbeitgeber sowie Arbeitnehmerinnen und Arbeitnehmer Anwendung, die unter den Geltungsbereich der am 1. August 2025 geltenden Fassung des TV Mindestlohn fallen, wenn der Betrieb oder die selbstständige Betriebsabteilung nach dem fachlichen Geltungsbereich des TV Mindestlohn überwiegend Bauleistungen im Sinne des § 101 Absatz 2 des Dritten Buches Sozialgesetzbuch erbringt.
+
+##### § 2 Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 30. Juni 2027 außer Kraft.
+
+##### § 3 Inkrafttreten
+
+Diese Verordnung tritt am 1. August 2025 in Kraft.
+
+##### Anlage (zu § 1)Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 28. April 2025
+
+(Fundstelle: BGBl 2025 I Nr. 179, S. 3 - 7)
+
+(Text der Anlage siehe: TVMindestlohn Maler 12)
+
