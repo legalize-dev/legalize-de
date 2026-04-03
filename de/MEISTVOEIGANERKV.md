@@ -1,0 +1,48 @@
+---
+title: "Verordnung über die Anerkennung von Ausbildungsabschlüssen von Meistern
+der volkseigenen Industrie als Voraussetzung für die Eintragung in die
+Handwerksrolle"
+identifier: "MEISTVOEIGANERKV"
+country: "de"
+rank: "rechtsverordnung"
+publication_date: "1991-12-06"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://www.gesetze-im-internet.de/meistvoeiganerkv/"
+department: "BMJ (Bundesministerium der Justiz)"
+doknr: "BJNR021620991"
+slug: "meistvoeiganerkv"
+bgbl_reference: "BGBl I 1991, 2162"
+stand: "Geändert durch Art. 4 Abs. 4 G v. 25.3.1998 I 596"
+---
+# Verordnung über die Anerkennung von Ausbildungsabschlüssen von Meistern
+der volkseigenen Industrie als Voraussetzung für die Eintragung in die
+Handwerksrolle
+
+##### Eingangsformel
+
+Auf Grund des § 7 Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1) in Verbindung mit Anlage I Kapitel V Sachgebiet B Abschnitt III Nr. 1 Buchstabe n des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 999) verordnet der Bundesminister für Wirtschaft:
+
+##### § 1
+
+Ausbildungsabschlüsse zum Meister der volkseigenen Industrie, die bis zum 31. Dezember 1991 erlangt werden, werden für ein Handwerk, dessen Arbeitsgebiet nach Maßgabe der Anlage dem jeweiligen Fachgebiet des Ausbildungsabschlusses entspricht, als Voraussetzung für die Eintragung in die Handwerksrolle anerkannt, wenn der Inhaber des Ausbildungsabschlusses
+
+1. nach dem 31. Dezember 1981 eine dreijährige praktische Tätigkeit abgeleistet hat, die dem zu betreibenden oder einem mit diesem verwandten Handwerk entspricht, oder
+
+2. nach dem 9. November 1989 an Weiterbildungsmaßnahmen teilgenommen hat, in denen die in dem zu betreibenden oder in einem mit diesem verwandten Handwerk erforderlichen fachpraktischen und fachtheoretischen Fertigkeiten und Kenntnisse vermittelt worden sind, oder
+
+3. nach dem 31. Dezember 1981 Lehrlinge in einem Beruf ausgebildet hat, dessen Fachgebiet dem zu betreibenden Handwerk entspricht.
+
+##### § 2
+
+Diese Verordnung tritt am 1. Januar 1992 in Kraft.
+
+##### Schlußformel
+
+Der Bundesrat hat zugestimmt.
+
+##### Anlage (zu § 1)Ausbildungsabschlüsse von Meistern der volkseigenen Industrie, die einem Handwerk der Anlage A der Handwerksordnung entsprechen
+
+( Fundstelle: BGBl. I 1991, 2163 - 2168 )
+Meister der volkseigenen Industrieentsprechende HandwerkeMeister für AnlagenbauMetallbauerMaschinenbaumechanikerKupferschmiedeMeister für AusbauMaurerBeton- und StahlbetonbauerFeuerungs- und SchornsteinbauerWärme-, Kälte- undSchallschutzisoliererFliesen-, Platten- und MosaiklegerBetonstein- und TerrazzoherstellerEstrichlegerStukkateureMaler und LackiererMeister für Back- und TeigwarenproduktionBäckerKonditorenMeister für bautechnische InstandsetzungMaurerBeton- und StahlbetonbauerFeuerungs- und SchornsteinbauerDachdeckerWärme-, Kälte- undSchallschutzisoliererFliesen-, Platten- und MosaiklegerBetonstein- und TerrazzoherstellerEstrichlegerStukkateureMaler und LackiererMeister für BekleidungstechnikHerrenschneiderDamenschneiderWäscheschneiderModistenHut- und MützenmacherHandschuhmacherMeister für BeleuchtungstechnikElektroinstallateureMeister für BetonelementeproduktionMaurerBeton- und StahlbetonbauerBetonstein- und TerrazzoherstellerMeister für BlasinstrumentenbauMetallblasinstrumenten- undSchlagzeugmacherHolzblasinstrumentenmacherMeister für BMSR-TechnikElektroinstallateureElektromechanikerRadio- und FernsehtechnikerMeister für Brauerei und MälzereiBrauer und MälzerMeister für buchbinderischeWeiterverarbeitungBuchbinderMeister für BühnentechnikMaler und LackiererMetallbauerTischlerDachdeckermeisterDachdeckerDamenmaßschneiderDamenschneiderHerrenschneiderWäscheschneiderModistenHut- und MützenmacherHandschuhmacherMeister für DruckformenherstellungFlexografenChemigrafenMeister für DrucktechnikBuchdrucker; Schriftsetzer; DruckerSteindruckerSiebdruckerChemigrafenMeister für EisenbahnbautechnikStraßenbauerMeister für elektrischeElektroinstallateureEnergieanlagenElektromechanikerElektromaschinenbauerMeister für ElektroinstallationElektroinstallateureElektromechanikerMeister für ElektronikBüroinformationselektronikerElektromechanikerFernmeldeanlagenelektronikerRadio- und FernsehtechnikerMeister für ElektrotechnikElektroinstallateureElektromechanikerElektromaschinenbauerMeister für FahrzeugelektrikKraftfahrzeugelektrikerElektromechanikerElektromaschinenbauerMeister für FeinwerktechnikMaschinenbaumechanikerWerkzeugmacherDreherFeinmechanikerSchneidwerkzeugmechanikerChirurgiemechanikerFeinoptikerMeister für FleischverarbeitungFleischerMeister für FleischwirtschaftFleischerFotografenmeisterFotografenFriseurmeisterFriseureMeister für GalvanotechnikGalvaniseure und MetallschleiferMeister für Gasverteilung und -anwendungGas- und WasserinstallateureMeister für GebäudereinigungGebäudereinigerMeister für Gebäude- und FahrzeugreinigungGebäudereinigerMeister für GetreidewirtschaftMüllerMeister für GießereitechnikZinngießerMetallformer und MetallgießerGlockengießerMeister für GlastechnikGlasschleifer und GlasätzerMeister für HaushaltgeräteinstandsetzungElektroinstallateureElektromechanikerElektromaschinenbauerMeister für Heizungs-, Lüftungs- und SanitärtechnikKlempnerGas- und WasserinstallateureZentralheizungs- und LüftungsbauerHerrenmaßschneiderHerrenschneiderDamenschneiderWäscheschneiderModistenHut- und MützenmacherHandschuhmacherMeister für HochbauMaurerBeton- und StahlbetonbauerFeuerungs- und SchornsteinbauerZimmererDachdeckerMeister für HolztechnikTischlerModellbauerParkettlegerMeister für Instandhaltung von Elektrogeräten und -anlagenElektroinstallateureElektromechanikerElektromaschinenbauerMeister für IsolierungenWärme-, Kälte- undSchallschutzisoliererKarosseriebaumeisterKarosserie- und FahrzeugbauerWagnerMeister für KeramikKeramikerKerammaler- und -dekorierermeisterGlas- und PorzellanmalerKeramikerMeister für KraftfahrzeugelektrikKraftfahrzeugelektrikerElektromechanikerElektromaschinenbauerMeister für KraftfahrzeuginstandhaltungKarosserie- und FahrzeugbauerZweiradmechanikerKraftfahrzeugmechanikerKraftfahrzeugelektrikerLandmaschinenmechanikerLackierermeisterMaler und LackiererMeister für landtechnische InstandhaltungMetallbauerKraftfahrzeugmechanikerLandmaschinenmechanikerMeister für Leder- und KunstledertechnikGerberSattlerMalermeisterMaler und LackiererMeister für MaschinenbauMaschinenbaumechanikerMeister für Maschinen- undAnlageninstandhaltungMaschinenbaumechanikerMeister für MaßschneidereiHerrenschneiderDamenschneiderWäscheschneiderModistenHut- und MützenmacherHandschuhmacherMeister für MeliorationStraßenbauerMeister für MischfutterproduktionMüllerMeister für MühlenindustrieMüllerMeister für NachrichtentechnikFernmeldeanlagenelektronikerOfenbaumeisterBackofenbauerKachelofen- und LuftheizungsbauerMeister für OrgelbauOrgel- und HarmoniumbauerOrthopädiemechaniker- und BandagistenmeisterBandagistenOrthopädiemechanikerOrthopädieschuhmachermeisterSchuhmacherOrthopädieschuhmacherMeister für Plast- und ElastverarbeitungVulkaniseureMeister für PolstertechnikSattlerRaumausstatterMeister für Post- und FernmeldebetriebstechnikElektromechanikerFernmeldeanlagenelektronikerRahmenglasermeisterGlaserMeister für Rauchwarenherstellung und -verarbeitungKürschnerGerberMeister für ReproduktionstechnikBuchdrucker; Schriftsetzer; DruckerSteindruckerChemigrafenMeister für SatztechnikBuchdrucker; Schriftsetzer; DruckerSteindruckerMeister für SchienenfahrzeuginstandhaltungKarosserie- und FahrzeugbauerMaschinenbaumechanikerKraftfahrzeugmechanikerKraftfahrzeugelektrikerElektromechanikerElektromaschinenbauerMeister für SchiffbauBootsbauerSchiffbauerMeister für SchiffsbetriebstechnikMaschinenbaumechanikerKälteanlagenbauerGas- und WasserinstallateureZentralheizungs- und LüftungsbauerKupferschmiedeElektroinstallateureElektromechanikerElektromaschinenbauerMeister für SchmuckindustrieGoldschmiedeSilberschmiedeFarbsteinschleifer,Achatschleifer undSchmucksteingraveureSchrift- und GrafikmalermeisterSchilder- und LichtreklameherstellerMeister für Schuh- und LederwareninstandsetzungSchuhmacherSchuhmachermeisterSchuhmacherMeister für Spirituosen, Wein, Sekt und alkoholfreie GetränkeWeinküferStraßenbaumeisterStraßenbauerMeister für StraßenbautechnikStraßenbauerMeister für Streich- undGeigenbauerZupfinstrumentenbauZupfinstrumentenmacherMeister für TextilreinigungTextilreinigerMeister für Textilverarbeitung und -reparaturHerrenschneiderDamenschneiderWäscheschneiderModistenHut- und MützenmacherHandschuhmacherMeister für TiefbauStraßenbauerMeister für TiefbohrtechnikBrunnenbauerMeister für Tonzungen-Orgel- und HarmoniumbauerinstrumentenbauHandzuginstrumentenmacherUhrmachermeisterUhrmacherMeister für WärmeversorgungZentralheizungs- und LüftungsbauerMeister für Wein- und SektherstellungWeinküferMeister für WerksteinbearbeitungBetonstein- und TerrazzoherstellerSteinmetzen und SteinbildhauerZahntechnikermeisterZahntechnikerZimmerermeisterZimmerer
+
