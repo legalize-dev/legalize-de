@@ -1,0 +1,44 @@
+---
+title: "Verordnung zur innerstaatlichen Bestimmung der zuständigen Behörden für 
+die Abfrage des Europol-Informationssystems"
+identifier: "EUROPOL-ABFRAGEV"
+country: "de"
+rank: "rechtsverordnung"
+publication_date: "2007-05-22"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://www.gesetze-im-internet.de/europol-abfragev/"
+department: "BMJ (Bundesministerium der Justiz)"
+doknr: "BJNR094000007"
+slug: "europol-abfragev"
+bgbl_reference: "BGBl I 2007, 940"
+---
+# Verordnung zur innerstaatlichen Bestimmung der zuständigen Behörden für 
+die Abfrage des Europol-Informationssystems
+
+##### Eingangsformel
+
+Auf Grund des Artikels 1 Abs. 2 des Gesetzes zu dem Protokoll vom 27. November 2003 zur Änderung des Europol-Übereinkommens und zur Änderung des Europol-Gesetzes vom 17. März 2006 (BGBl. 2006 II S. 250) verordnet das Bundesministerium des Innern:
+
+##### § 1 Zuständige Behörden
+
+Zuständige Behörden im Sinn des Artikels 9 Abs. 4 Satz 1 des Übereinkommens vom 26. Juli 1995 auf Grund von Artikel K.3 des Vertrags über die Europäische Union über die Errichtung eines Europäischen Polizeiamts (Europol-Übereinkommen) (BGBl. 1997 II S. 2150, 1998 II S. 2930), zuletzt geändert durch das von der Bundesrepublik Deutschland am 27. November 2003 unterzeichnete Protokoll zur Änderung dieses Übereinkommens (BGBl. 2006 II S. 250), sind
+
+1. die im Anhang bezeichneten Staatsanwaltschaften,
+
+2. die Behörden des Zollfahndungsdienstes gemäß § 1 des Zollfahndungsdienstgesetzes,
+
+3. die Behörden der Bundespolizei.
+
+##### § 2 Inkrafttreten, Außerkrafttreten
+
+(1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+(2) Diese Verordnung tritt an dem Tag außer Kraft, an dem das Gesetz zu dem Protokoll vom 27. November 2003 zur Änderung des Europol-Übereinkommens und zur Änderung des Europol-Gesetzes außer Kraft tritt.
+
+(3) Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekannt zu geben.
+
+##### Anhang Zuständige Behörden für die Abfrage des Europol-Informationssystems
+
+Baden-WürttembergGeneralstaatsanwaltschaft StuttgartStaatsanwaltschaft EllwangenStaatsanwaltschaft HechingenStaatsanwaltschaft HeilbronnStaatsanwaltschaft RavensburgStaatsanwaltschaft RottweilStaatsanwaltschaft StuttgartStaatsanwaltschaft TübingenStaatsanwaltschaft UlmGeneralstaatsanwaltschaft KarlsruheStaatsanwaltschaft Baden-BadenStaatsanwaltschaft FreiburgStaatsanwaltschaft HeidelbergStaatsanwaltschaft KarlsruheStaatsanwaltschaft KonstanzStaatsanwaltschaft MannheimStaatsanwaltschaft MosbachStaatsanwaltschaft OffenbachStaatsanwaltschaft Waldshut-TiengenBayernGeneralstaatsanwaltschaft BambergGeneralstaatsanwaltschaft MünchenGeneralstaatsanwaltschaft NürnbergStaatsanwaltschaft AmbergStaatsanwaltschaft AnsbachStaatsanwaltschaft AschaffenburgStaatsanwaltschaft AugsburgStaatsanwaltschaft BambergStaatsanwaltschaft BayreuthStaatsanwaltschaft CoburgStaatsanwaltschaft DeggendorfStaatsanwaltschaft HofStaatsanwaltschaft IngolstadtStaatsanwaltschaft KemptenStaatsanwaltschaft LandshutStaatsanwaltschaft MemmingenStaatsanwaltschaft München IStaatsanwaltschaft München IIStaatsanwaltschaft Nürnberg-FürthStaatsanwaltschaft PassauStaatsanwaltschaft RegensburgStaatsanwaltschaft SchweinfurtStaatsanwaltschaft TraunsteinStaatsanwaltschaft WeidenStaatsanwaltschaft WürzburgBerlinGeneralstaatsanwaltschaft BerlinBrandenburgGeneralstaatsanwaltschaft des Landes BrandenburgStaatsanwaltschaft CottbusStaatsanwaltschaft Frankfurt (Oder)Staatsanwaltschaft NeuruppinStaatsanwaltschaft PotsdamBremenStaatsanwaltschaft BremenHamburgStaatsanwaltschaft HamburgHessenStaatsanwaltschaft DarmstadtStaatsanwaltschaft FrankfurtStaatsanwaltschaft FuldaStaatsanwaltschaft GießenStaatsanwaltschaft HanauStaatsanwaltschaft KasselStaatsanwaltschaft LimburgStaatsanwaltschaft MarburgStaatsanwaltschaft OffenbachStaatsanwaltschaft WetzlarStaatsanwaltschaft WiesbadenStaatsanwaltschaft bei dem OLG FrankfurtMecklenburg-VorpommernGeneralstaatsanwaltschaft RostockStaatsanwaltschaft RostockStaatsanwaltschaft SchwerinStaatsanwaltschaft NeubrandenburgStaatsanwaltschaft StralsundNiedersachsenGeneralstaatsanwaltschaft BraunschweigGeneralstaatsanwaltschaft CelleGeneralstaatsanwaltschaft OldenburgStaatsanwaltschaft AurichStaatsanwaltschaft BraunschweigStaatsanwaltschaft BückeburgStaatsanwaltschaft GöttingenStaatsanwaltschaft HannoverStaatsanwaltschaft HildesheimStaatsanwaltschaft LüneburgStaatsanwaltschaft OldenburgStaatsanwaltschaft OsnabrückStaatsanwaltschaft StadeStaatsanwaltschaft Verden (Aller)Nordrhein-WestfalenGeneralstaatsanwaltschaft KölnStaatsanwaltschaft AachenStaatsanwaltschaft BonnStaatsanwaltschaft KölnGeneralstaatsanwaltschaft HammStaatsanwaltschaft ArnsbergStaatsanwaltschaft BielefeldStaatsanwaltschaft BochumStaatsanwaltschaft DetmoldStaatsanwaltschaft DortmundStaatsanwaltschaft EssenStaatsanwaltschaft HagenStaatsanwaltschaft MünsterStaatsanwaltschaft PaderbornStaatsanwaltschaft SiegenGeneralstaatsanwaltschaft DüsseldorfStaatsanwaltschaft DüsseldorfStaatsanwaltschaft DuisburgStaatsanwaltschaft KleveStaatsanwaltschaft KrefeldStaatsanwaltschaft MönchengladbachStaatsanwaltschaft WuppertalRheinland-PfalzGeneralstaatsanwaltschaft KoblenzGeneralstaatsanwaltschaft ZweibrückenStaatsanwaltschaft Bad KreuznachStaatsanwaltschaft Frankenthal (Pfalz)Staatsanwaltschaft KaiserslauternStaatsanwaltschaft KoblenzStaatsanwaltschaft Landau in der PfalzStaatsanwaltschaft MainzStaatsanwaltschaft TrierStaatsanwaltschaft ZweibrückenSaarlandStaatsanwaltschaft bei dem Landgericht SaarbrückenSachsenGeneralstaatsanwaltschaft DresdenStaatsanwaltschaft BautzenStaatsanwaltschaft ChemnitzStaatsanwaltschaft DresdenStaatsanwaltschaft GörlitzStaatsanwaltschaft LeipzigStaatsanwaltschaft ZwickauSachsen-AnhaltGeneralstaatsanwaltschaft NaumburgStaatsanwaltschaft HalleStaatsanwaltschaft MagdeburgStaatsanwaltschaft DessauStaatsanwaltschaft StendalSchleswig-HolsteinStaatsanwaltschaft beim LG KielStaatsanwaltschaft LübeckStaatsanwaltschaft ItzehoeStaatsanwaltschaft FlensburgThüringenGeneralstaatsanwaltschaft JenaStaatsanwaltschaft ErfurtStaatsanwaltschaft GeraStaatsanwaltschaft MeiningenStaatsanwaltschaft MühlhausenGeneralbundesanwaltGeneralbundesanwalt
+
