@@ -1,0 +1,1306 @@
+---
+title: "Gebührenordnung für Maßnahmen im Straßenverkehr"
+identifier: "STGEBO-2011"
+country: "de"
+rank: "bundesgesetz"
+publication_date: "2011-01-25"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://www.gesetze-im-internet.de/stgebo_2011/"
+department: "BMJ (Bundesministerium der Justiz)"
+doknr: "BJNR009800011"
+slug: "stgebo_2011"
+bgbl_reference: "BGBl I 2011, 98"
+amtabk: "GebOSt"
+stand: "Zuletzt geändert durch Art. 3 V v. 19.12.2025 I Nr. 382"
+---
+# Gebührenordnung für Maßnahmen im Straßenverkehr
+
+##### Eingangsformel
+
+Auf Grund des § 6a Absatz 2 in Verbindung mit Absatz 3 und 4 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), des § 18 Absatz 2 in Verbindung mit Absatz 3 des Kraftfahrsachverständigengesetzes vom 22. Dezember 1971 (BGBl. I S. 2086) und des § 34a Absatz 2 in Verbindung mit Absatz 3 des Fahrlehrergesetzes vom 25. August 1969 *(BGBl. I S. 1336), von § 6a* Absatz 2 durch Artikel 2 Nummer 1 des Gesetzes vom 14. August 2006 (BGBl. I S. 1958), § 18 Absatz 2 zuletzt durch Artikel 291 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407), § 18 Absatz 3 durch Artikel 6 Nummer 12 Buchstabe b des Gesetzes vom 24. April 1998 (BGBl. I S. 747), § 34a Absatz 2 zuletzt durch Artikel 289 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 34a Absatz 3 zuletzt durch Artikel 2 des Gesetzes vom 24. April 1998 (BGBl. I S. 747) geändert worden sind, jeweils in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
+
+##### § 1 Gebührentarif
+
+(1) Für Amtshandlungen, einschließlich der Prüfungen und Untersuchungen im Sinne des § 6a des Straßenverkehrsgesetzes, des § 55 des Fahrlehrergesetzes und des § 18 des Kraftfahrsachverständigengesetzes, werden Gebühren nach dieser Verordnung erhoben. Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben sich aus dem Gebührentarif für Maßnahmen im Straßenverkehr (Anlage).
+
+(2) Bei der Erhebung der Gebühren dürfen mehrere miteinander verbundene, im Gebührentarif genannte Amtshandlungen, Prüfungen oder Untersuchungen in einer Gesamtbezeichnung, die zugehörigen Beträge in einem Gesamtbetrag zusammengefasst werden.
+
+(3) Unterliegt die Amtshandlung der Umsatzsteuer, kann diese der Gebühr hinzugerechnet werden.
+
+##### § 2 Auslagen
+
+(1) Soweit im Gebührentarif nichts anderes bestimmt ist, hat der Gebührenschuldner folgende Auslagen zu tragen:
+
+1. Portokosten; Entgelte für Zustellungen durch die Post mit Postzustellungsurkunde und für Nachnahmen sowie im Einschreibeverfahren; Entgelte für Eil- und Expresszustellungen, soweit sie auf besonderen Antrag des Gebührenschuldners erfolgen,
+
+2. Aufwendungen für weitere Ausfertigungen, Abschriften und Auszüge, die auf besonderen Antrag erteilt werden; für die Berechnung der Schreibauslagen gilt Nummer 31000 des Kostenverzeichnisses zum Gerichts- und Notarkostengesetz,
+
+3. Aufwendungen für Übersetzungen, die auf besonderen Antrag gefertigt werden,
+
+4. Kosten, die durch öffentliche Bekanntmachung entstehen, mit Ausnahme der hierbei erwachsenden Entgelte für Postdienstleistungen,
+
+5. die in entsprechender Anwendung des Justizvergütungs- und -entschädigungsgesetzes zu zahlenden Beträge; erhält ein Sachverständiger auf Grund des § 1 Absatz 2 Satz 2 jenes Gesetzes keine Vergütung, ist der Betrag zu entrichten, der ohne diese Vorschrift nach dem Gesetz zu zahlen wäre,
+
+6. die bei Geschäften außerhalb der Dienststelle den Bediensteten auf Grund gesetzlicher oder tarifvertraglicher Vorschriften gewährten Vergütungen (Reisekostenvergütung, Auslagenersatz) und die Kosten für die Bereitstellung von Räumen; für Personen, die weder Bundes- noch Landesbedienstete sind, gelten die Vorschriften über die Vergütung der Reisekosten der Bundesbeamten entsprechend,
+
+6a. die Aufwendungen für den Einsatz von Dienstwagen bei Dienstgeschäften außerhalb der Dienststelle,
+
+7. die Beträge, die anderen in- und ausländischen Behörden, öffentlichen Einrichtungen oder Beamten zustehen; und zwar auch dann, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung und dergleichen an die Behörden, Einrichtungen oder Beamten keine Zahlungen zu leisten sind,
+
+8. die Kosten für die Beförderung von Sachen, mit Ausnahme der hierbei erwachsenden Entgelte für Postdienstleistungen, und die Verwahrung von Sachen,
+
+9. die auf die Kosten der amtlich anerkannten Sachverständigen und Prüfer für den Kraftfahrzeugverkehr und der amtlich anerkannten Begutachtungsstellen für Fahreignung entfallende Mehrwertsteuer,
+
+10. die Kosten der amtlich anerkannten Sachverständigen und Prüfer sowie der Prüfstellen für Nachprüfungen im Auftrage des Kraftfahrt-Bundesamtes nach § 20 Absatz 6 der Straßenverkehrs-Zulassungs-Ordnung und § 9 der Fahrzeugteileverordnung sowie für Nachprüfungen nach international vereinbartem Recht, soweit ein Verstoß gegen diese Vorschriften nachgewiesen wird,
+
+11. die Aufwendungen für die Übersendung oder Überbringung der Mitteilung der Zulassungsbehörde an den Versicherer auf Grund der Versicherungsbestätigung nach § 50 Absatz 1 der Fahrzeug-Zulassungsverordnung oder der Anzeige nach § 51 Absatz 2 der Fahrzeug-Zulassungsverordnung,
+
+12. die Kosten eines amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr, eines technischen Dienstes mit Gesamtfahrzeugbefugnissen der jeweiligen Fahrzeugklassen oder einer anderen vom Kraftfahrt-Bundesamt beauftragten Stelle für die Begutachtung eines Kraftfahrzeugs mit automatisierter oder autonomer Fahrfunktion einschließlich der Bewertung der informationstechnischen Sicherheit von Fahrzeugen und Fahrzeugteilen,
+
+13. die Kosten eines von der zuständigen Behörde beauftragten Gutachtens gemäß § 9 Absatz 3 Satz 1 der Autonome-Fahrzeuge-Genehmigungs-und-Betriebs-Verordnung.
+
+(2) Die Erstattung der in Absatz 1 aufgeführten Auslagen kann auch verlangt werden, wenn für die Amtshandlung, Prüfung oder Untersuchung Gebührenfreiheit besteht, bei Auslagen nach Absatz 1 Nummer 1 bis 9 jedoch nur, soweit ihr Gesamtbetrag 3 Euro übersteigt. Auslagen für die Versendung von Akten im Wege der Amtshilfe werden nicht erhoben.
+
+##### § 3 Kostengläubiger
+
+(1) Kostengläubiger ist der Rechtsträger, dessen Stelle eine kostenpflichtige Amtshandlung, Prüfung oder Untersuchung vornimmt.
+
+(2) Bei den Gebühren der amtlich anerkannten Sachverständigen und Prüfer für den Kraftfahrzeugverkehr ist der Träger der Technischen Prüfstelle für den Kraftfahrzeugverkehr Kostengläubiger.
+
+##### § 4 Kostenschuldner
+
+(1) Zur Zahlung der Kosten ist verpflichtet,
+
+1. wer die Amtshandlung, Prüfung und Untersuchung veranlasst oder zu wessen Gunsten sie vorgenommen wird,
+
+2. wer die Kosten durch eine vor der zuständigen Behörde abgegebene oder ihr mitgeteilte Erklärung übernommen hat,
+
+3. wer für die Kostenschuld eines anderen kraft Gesetzes haftet.
+
+(2) Bei Amtshandlungen, Prüfungen und Untersuchungen zur Überwachung von Betrieben ist der Inhaber des Betriebs Kostenschuldner.
+
+(3) Mehrere Kostenschuldner haften als Gesamtschuldner.
+
+##### § 5 Persönliche Gebührenfreiheit
+
+(1) Von der Zahlung der Gebühren nach dem 1. und 2. Abschnitt des Gebührentarifs sind befreit:
+
+1. Die Bundesrepublik Deutschland und die bundesunmittelbaren juristischen Personen des öffentlichen Rechts, deren Ausgaben ganz oder teilweise auf Grund gesetzlicher Verpflichtung aus dem Haushalt des Bundes getragen werden;
+
+2. die Länder und die juristischen Personen des öffentlichen Rechts, die nach den Haushaltsplänen eines Landes für Rechnung eines Landes verwaltet werden;
+
+3. die Gemeinden und Gemeindeverbände sowie Zweckverbände und die sonstigen kommunalen Körperschaften des öffentlichen Rechts, sofern die Amtshandlungen, Prüfungen und Untersuchungen nicht ihre wirtschaftlichen Unternehmen betreffen;
+
+4. die ausländischen ständigen diplomatischen Missionen;
+
+5. die Mitglieder der ausländischen ständigen diplomatischen Missionen sowie die mit ihnen im gemeinsamen Haushalt lebenden Familienmitglieder, wenn der Fahrzeughalter weder Deutscher noch im Geltungsbereich dieser Verordnung ständig ansässig ist und dort keine private Erwerbstätigkeit ausübt. Bei Mitgliedern des dienstlichen Hauspersonals sowie den mit ihnen im gemeinsamen Haushalt lebenden Familienmitgliedern ist außerdem erforderlich, dass der Fahrzeughalter Angehöriger des Entsendestaats ist;
+
+6. die zugelassenen berufskonsularischen Vertretungen;
+
+7. die Mitglieder der berufskonsularischen Vertretungen sowie die mit ihnen im gemeinsamen Haushalt lebenden Familienmitglieder, wenn der Fahrzeughalter weder Deutscher noch im Geltungsbereich dieser Verordnung ständig ansässig ist und dort keine private Erwerbstätigkeit ausübt. Nummer 5 Satz 2 gilt entsprechend;
+
+8. die Berufskonsularbeamten oder Bediensteten des Verwaltungs- oder technischen Personals bei den von Wahlkonsularbeamten geleiteten konsularischen Vertretungen, sofern sie Angehörige des Entsendestaats sind, sowie die mit solchen Personen im gemeinsamen Haushalt lebenden Familienmitglieder, wenn der Fahrzeughalter weder Deutscher noch im Geltungsbereich dieser Verordnung ständig ansässig ist und dort keine private Erwerbstätigkeit ausübt;
+
+9. die amtlichen zwischenstaatlichen Organisationen und Einrichtungen anderer Staaten oder deren Mitglieder, soweit ihnen auf Grund völkerrechtlicher Übereinkünfte mit der Bundesrepublik Deutschland oder auf Grund von Rechtsverordnungen der Bundesregierung Vorrechte und Befreiungen wie diplomatischen Missionen oder diplomatischen Vertretern gewährt werden;
+
+10. die Ehegatten der in Nummer 9 genannten Personen.
+
+(2) Von der Zahlung der Gebühren nach den Nummern 413 und 414 des Gebührentarifs sind, soweit es sich um eine Vollprüfung im Rahmen des § 21 StVZO handelt, die in Absatz 1 Nummer 4 bis 10 aufgeführten Missionen, Vertretungen, Organisationen und Personen befreit.
+
+(3) Die Befreiung tritt nicht ein, soweit die in Absatz 1 Genannten berechtigt sind, die Gebühren Dritten aufzuerlegen.
+
+(4) Gebührenfreiheit nach Absatz 1 besteht nicht für Sondervermögen und Bundesbetriebe im Sinne des Artikels 110 Absatz 1 des Grundgesetzes, für gleichartige Einrichtungen der Länder sowie für öffentlich-rechtliche Unternehmen, an denen der Bund oder ein Land beteiligt ist.
+
+(5) Zur Zahlung von Gebühren bleiben die in Absatz 1 genannten Rechtsträger für Amtshandlungen folgender Behörden verpflichtet:
+
+1. Physikalisch-Technische Bundesanstalt,
+
+2. Bundesanstalt für Materialprüfung.
+
+(6) Die für die Erhebung der Gebühren zuständige Stelle kann Körperbehinderten aus Billigkeitsgründen Gebührenermäßigung oder Gebührenbefreiung für Amtshandlungen, Prüfungen oder Untersuchungen gewähren, die wegen der Behinderung erforderlich werden.
+
+(7) Von der Zahlung der Gebühren nach der Nummer 141 des Gebührentarifs sind Stellen außerhalb des Geltungsbereichs des Straßenverkehrsgesetzes befreit, soweit sie eine Auskunft auf der Grundlage von § 37 bis § 37c des Straßenverkehrsgesetzes erhalten.
+
+##### § 6 Übergangs- und Anwendungsbestimmungen
+
+(1) Die Vorschriften des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung sind anzuwenden, soweit nicht die §§ 1 bis 5 abweichende Regelungen über die Kostenerhebung, die Kostenbefreiung, den Umfang der zu erstattenden Auslagen, der Kostengläubiger- und Kostenschuldnerschaft enthalten.
+
+(2) Die Gebühren-Nummer 259 der Anlage ist mit Ablauf des 31. Dezember 2026 nicht mehr anzuwenden.
+
+(3) Die Gebühren-Nummer 265 der Anlage ist nicht anzuwenden, soweit
+
+1. die Landesregierung eine Gebührenordnung nach § 6a Absatz 5a Satz 1 bis 4 des Straßenverkehrsgesetzes erlässt oder
+
+2. diese Ermächtigung an einen anderen Rechtsträger nach § 6a Absatz 5a Satz 5 des Straßenverkehrsgesetzes weiter übertragen wird und soweit dieser auf dieser Grundlage eine Gebührenordnung erlässt.
+
+##### § 7 Inkrafttreten, Außerkrafttreten
+
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft; gleichzeitig tritt die Gebührenordnung für Maßnahmen im Straßenverkehr vom 26. Juni 1970 (BGBl. I S. 865, 1298), die zuletzt durch Artikel 4 der Verordnung vom 21. April 2009 (BGBl. I S. 872) geändert worden ist, außer Kraft.
+
+##### Schlussformel
+
+Der Bundesrat hat zugestimmt.
+
+##### Anlage (zu § 1)
+
+(Fundstelle: BGBl. I 2011, 101 - 123;
+bzgl. der einzelnen Änderungen vgl. Fußnoten)
+
+1. Abschnitt
+
+Gebühren des Bundes
+
+Gebühren- NummerGegenstandGebühr Euro
+
+A.Straßenverkehrsgesetz, Straßenverkehrs-Zulassungs-Ordnung, Fahrzeug-Zulassungsverordnung, Fahrerlaubnis-Verordnung, Berufskraftfahrerqualifikationsverordnung, Straßenverkehrs-Ordnung, EG-Fahrzeuggenehmigungsverordnung, Fahrzeugteileverordnung, Fahrpersonalverordnung und Internationale Vereinbarungen
+
+1.Erlaubnisse und Genehmigungen für Fahrzeuge und Fahrzeugteile sowie Autorisierungen
+
+111Erteilung
+
+111.1einer Allgemeinen Betriebserlaubnis (ABE) oder EG-Typgenehmigung (Mehrphasen-Typgenehmigung nach §§ 3, 11, 15, 20 EG-FGV) für Fahrzeugtypen bei Vorlage aller relevanten Systemgenehmigungen nach Einzelrichtlinien534,00 bis 734,00
+
+111.1.1einer EG-Typgenehmigung (Einphasen-Typgenehmigung und gemischte Typgenehmigung nach §§ 3, 11, 15, 20 EG-FGV) für Fahrzeugtypen ohne Vorlage aller relevanten Systemgenehmigungen nach Einzelrichtlinien 785,00 bis 4 853,00
+
+111.2einer Allgemeinen Betriebserlaubnis (ABE) oder amtlichen Bauartgenehmigung (ABG) für Fahrzeugteiletypen sowie einer Erlaubnis oder Genehmigung für selbstständige technische Einheiten, Autorisierung sowie nach Anlagen zur StVZO; je Erlaubnis- oder Genehmigungssachverhalt 404,00 bis 537,00
+
+111.2.1von Genehmigungen nach ECE-Regelung Nummer 90 für unterschiedliche Bremsbelag-Einheiten mit gleichem ReibmaterialGebühr nach Gebührennummer 111.2 (einmalig) zzgl. 22,00 Euro für jede weitere Folgegenehmigung
+
+111.3einer Betriebserlaubnis für Kraftfahrzeuge mit autonomer Fahrfunktion8 925,00 bis 89 240,00
+
+111.4einer Erprobungsgenehmigung für Kraftfahrzeuge mit autonomer Fahrfunktion8 925,00 bis 89 240,00
+
+111.5einer Genehmigung einer nachträglichen Aktivierung einer autonomen Fahrfunktion in bereits zugelassenen Kraftfahrzeugen nach Personal- und Sachaufwand je Stunde und Person49,00 bis 129,00
+
+111.6einer Genehmigung einer nachträglichen Aktivierung einer automatisierten Fahrfunktion in bereits zugelassenen Kraftfahrzeugen nach Personal- und Sachaufwand je Stunde und Person49,00 bis 129,00
+
+111.7einer Erprobungsgenehmigung für automatisierte Fahrfunktionen nach Personal- und Sachaufwand je Stunde und Person49,00 bis 129,00
+
+112Erteilung eines Nachtrags
+
+112.1zu einer Allgemeinen Betriebserlaubnis (ABE) oder EG-Typgenehmigung für Fahrzeugtypen
+
+112.1.1ohne Gutachten169,00 bis 179,00
+
+112.1.2mit Gutachten340,00 bis 360,00
+
+112.1.3zu einer EG-Typgenehmigung (Einphasen-Typgenehmigung und gemischte Typgenehmigung nach §§ 3, 11, 15, 20 EG-FGV) für einen Fahrzeugtyp ohne Vorlage aller relevanten Systemgenehmigungen nach Einzelrichtlinien 169,00 bis 2 429,00
+
+112.2zu einer Allgemeinen Betriebserlaubnis (ABE) oder amtlichen Bauartgenehmigung (ABG) für Fahrzeugteiletypen sowie zu einer Erlaubnis oder Genehmigung für selbstständige technische Einheiten, Autorisierung sowie nach Anlagen zur StVZO; je Erlaubnis- oder Genehmigungssachverhalt
+
+112.2.1ohne Gutachten125,00 bis 135,00
+
+112.2.2mit Gutachten251,00 bis 266,00
+
+112.3Erteilung von Nachträgen ohne Gutachten für mehrere Erlaubnisse oder Genehmigungen gleichzeitig auf Grund desselben SachverhaltsGebühr nach Gebührennummer 112.1 bzw. 112.2 (einmalig) zzgl. 22,00 Euro für jeden weiteren Folgenachtrag
+
+112.4zur Betriebserlaubnis für Kraftfahrzeuge mit autonomer Fahrfunktion4 462,50 bis 44 620,00
+
+112.5zur Erprobungsgenehmigung für Kraftfahrzeuge mit autonomer Fahrfunktion4 462,50 bis 44 620,00
+
+112.6einer Genehmigung einer nachträglichen Aktivierung einer autonomen Fahrfunktion in bereits zugelassenen Kraftfahrzeugen nach Personal- und Sachaufwand je Stunde und Person49,00 bis 129,00
+
+112.7einer Genehmigung einer nachträglichen Aktivierung einer automatisierten Fahrfunktion in bereits zugelassenen Kraftfahrzeugen nach Personal- und Sachaufwand je Stunde und Person49,00 bis 129,00
+
+112.8einer Erprobungsgenehmigung für automatisierte Fahrfunktionen nach Personal- und Sachaufwand je Stunde und Person 49,00 bis 129,00
+
+113Erteilung einer Unbedenklichkeitserklärung bei nachträglichen Änderungen genehmigter Fahrzeug- und Fahrzeugteiletypendie Hälfte der jeweiligen Gebühr nach den Gebührennummern 112.1.1 bis 112.2.2
+
+114Nachprüfung der Übereinstimmung der Produktion auf Grund einer durch das Kraftfahrt-Bundesamt erteilten Erlaubnis oder Genehmigung, wenn
+
+114.1ein Verstoß gegen Meldepflichten festgestellt wird141,00
+
+114.2eine Abweichung vom Typ oder von den Vorschriften über die Erlaubnis oder Genehmigung festgestellt wird 361,00
+
+1a.Anerkennung von Stellen zur Prüfung von Fahrzeugen und Fahrzeugteilen, Anerkennung von Stellen zur Kontrolle des Qualitätsmanagements bei der Herstellung von Fahrzeugen und Fahrzeugteilen, behördliche Bewertung von Maßnahmen zum Qualitäts- und Sicherheitsmanagement bei der Produktion von Fahrerkarte, Führerschein, Fahrerqualifizierungsnachweis und Zulassungsbescheinigung, Anfangsbewertung und Überprüfung der Übereinstimmung der Produktion
+
+115Anerkennung von Stellen zur Prüfung/Inspektion/Begutachtung von Fahrzeugen und Fahrzeugteilen
+
+115.1Anerkennung (ohne Begehung und Reisezeit)5 113,00 bis 23 622,00
+
+115.2Nachtrag zur Anerkennung (ohne Begehung und Reisezeit)2 556,00 bis 11 453,00
+
+115.3Begehung2 045,00 bis 7 158,00
+
+115.4Überwachung (mit Begehung)2 045,00 bis 10 737,00
+
+115.5Re-Anerkennung (ohne Begehung und Reisezeit)1 534,00 bis 7 669,00
+
+116Anerkennung von Stellen als Technischer Dienst im Genehmigungsverfahren nach EG-FGV
+
+116.1Anerkennung (ohne Begutachtung und Reisezeit)7 669,00 bis 41 517,00
+
+116.2Nachtrag zur Anerkennung (ohne Begutachtung und Reisezeit) 4 090,00 bis 20 758,00
+
+116.3Begutachtung2 556,00 bis 15 748,00
+
+116.4Überwachung (mit Begutachtung)4 090,00 bis 21 474,00
+
+116.5Re-Anerkennung (ohne Begutachtung und Reisezeit)2 556,00 bis 9 715,00
+
+117Anerkennung von Stellen zur Kontrolle des Qualitätsmanagements bei der Herstellung von Fahrzeugen und Fahrzeugteilen
+
+117.1Anerkennung (ohne Begutachtung und Reisezeit)7 158,00 bis 20 452,00
+
+117.2Nachtrag zur Anerkennung (ohne Begutachtung und Reisezeit)3 579,00 bis 7 669,00
+
+117.3Begutachtung2 556,00 bis 8 692,00
+
+117.4Überwachung (mit Begutachtung)2 045,00 bis 8 692,00
+
+117.5Re-Anerkennung (ohne Begehung und Reisezeit)4 090,00 bis 10 226,00
+
+118Stundensatz für Leistungen, die außerhalb der von den Gebührennummern 115 bis 117 erfassten Pflichtaufgaben erbracht werden 97,10
+
+119Bewertung der qualitätssichernden Maßnahmen bei Herstellern im Rahmen des Typgenehmigungsverfahrens (Anfangsbewertung und laufende Konformitätsprüfungen)
+
+119.1Konformitätsbericht für Unternehmen mit einer Fertigungsstätte 716,00
+
+119.2Konformitätsbericht je weitere Fertigungsstätte562,00
+
+119.3Vorprüfung gemäß Recyclingrichtlinie1 278,00 bis 8 181,00
+
+119.4Verlängerung der Vorprüfungsbescheinigung 614,00 bis 2 965,00
+
+119.5Bewertung der Unternehmen, die an der Herstellung oder Verteilung von Zulassungsbescheinigungen Teil I, EU-Führerscheinen, Fahrerqualifizierungsnachweisen, Stempeln, Plaketten, Plakettenträgern, Prüfmarken oder anderen Dokumenten beteiligt sind 2 659,00 bis 3 477,00
+
+119.6Bewertung von Überwachungsorganisationen 5 062,00 bis 6 442,00
+
+119.7Überwachung der an Herstellung oder Verteilung von Zulassungsbescheinigungen Teil I, EU-Führerscheinen, Fahrerqualifizierungsnachweisen, Stempeln, Plaketten, Plakettenträgern, Prüfmarken oder anderen Dokumenten beteiligten Unternehmen 1 483,00 bis 2 399,00
+
+119.8Überwachung von Überwachungsorganisationen 1 892,00 bis 2 914,00
+
+119.9(weggefallen)
+
+120Zulassung zur Selbstprüfung für Hersteller von Kleinserienfahrzeugen
+
+120.1Feststellen der Eignung und Zulassung zur Selbstprüfung (ohne Begutachtung von Prüfverfahren)3 120,00
+
+120.2Überwachung (ohne Begutachtung von Prüfverfahren) 1 270,00
+
+120.3Begutachtung je Prüfverfahren195,00
+
+120.4Stundensatz für Nachträge, Erweiterungen oder Änderungen der Urkunde in Sprache oder Format97,10
+
+121Stundensatz für Leistungen, die außerhalb der von den Gebührennummern 119 bis 120 erfassten Pflichtaufgaben erbracht werden 84,40
+
+122Stundensatz für Reisezeiten für Maßnahmen nach den Gebührennummern 115 bis 120 61,40
+
+2.Erfassung von Fahrzeugen und Fahrerlaubnissen
+
+123Zuteilung einer Zulassungsbescheinigung Teil II (einschließlich der Aufstellung der Erfassungsunterlagen)
+
+123.1Zuteilung einer Zulassungsbescheinigung Teil II nach § 14 Absatz 4 Nummer 1 FZV über die Zulassungsbehörde 4,40
+
+123.2Zuteilung einer Zulassungsbescheinigung Teil II nach § 14 Absatz 4 Nummer 2 FZV zur Ausfüllung durch den Hersteller oder dessen bevollmächtigten Vertreter nebst Überwachung 6,70
+
+124Aufstellung von Erfassungsunterlagen für das Zentrale Fahrzeugregister (ZFZR) –bei Fahrzeugen ohne Zulassungsbescheinigung Teil II–bei der Ausgabe der roten Kennzeichen oder der Kurzzeitkennzeichenoder Berichtigung der Erfassungsunterlagen bei Halterwechsel3,20
+
+125Berichtigung der Erfassungsunterlagen für das ZFZR in anderen Fällen1,20
+
+126Aufstellung der Erfassungsunterlagen für das Zentrale Fahrerlaubnisregister (ZFER)
+
+126.1bei Fahrerlaubnissen auf Probe1,80
+
+126.2in den übrigen Fällen1,00
+
+127Registrierung einer elektronischen Mitteilung über die Zuteilung eines Versicherungskennzeichens oder einer Versicherungsplakette im ZFZR0,20
+
+2aGroßkundenschnittstelle beim Kraftfahrt-Bundesamt
+
+128Registrierung einer juristischen Person des Privatrechts als Großkunde bei der Großkundenschnittstelle des Kraftfahrt-Bundesamtes3 220,00
+
+129Entgegennahme eines Antrages eines Großkunden durch die Großkundenschnittstelle [und Weiterleitung des Antrags an die zuständige Zulassungsbehörde]0,70
+
+3.Mitwirkung bei der Aufbietung von Urkunden
+
+131Aufbietung einer verlorenen Zulassungsbescheinigung Teil II, einschließlich der Kosten der öffentlichen Bekanntmachung5,10
+
+4.Auskünfte und Informationen und Mitteilungen
+
+141Auskunft über ein Kraftfahrzeug oder einen Anhänger
+
+141.1– im automatisierten Verfahren0,10
+
+141.2– im teilautomatisierten Verfahren (digitalisierte, formatgerechte Anfragen)4,00
+
+141.3– im schriftlichen Verfahren5,10
+
+142Sammelauskünfte im Rahmen von Rückrufaktionen
+
+142.1– bei erstmaliger Durchführung1 500,00 bis 5 000,00
+
+142.2– im Wiederholungsfall1 000,00 bis 4 000,00
+
+143Übersendung eines Informationsschreibens an einen Halter nach § 63d StVG, sofern dies durch einen Antragsteller veranlasst wirdZusätzlich zu den Gebühren nach den Nummern 143.1 und 143.2 werden Portokosten als Auslagen gesondert in der tatsächlich entstandenen Höhe erhoben.
+
+143.1– bei 1 bis 25 000 Schreiben2 500,00 bis 10 000,00
+
+143.2– bei mehr als 25 000 Schreiben5 000,00 bis 300 000,00
+
+144Schriftliche Auskunft über den Verbleib eines Fahrzeugs6,10
+
+145Auskunft aus dem Fahreignungsregister an eine Behörde in Fahrerlaubnisangelegenheiten und sonstigen in § 30 Absatz 1 Nummer 3, Absatz 2, 4, 4a und 4b StVG aufgeführten Verwaltungsmaßnahmen, soweit sie durch einen Antragsteller veranlasst werden3,30
+
+146Auskünfte aus dem und Mitteilungen an das Berufskraftfahrerqualifikationsregister (BQR), die im Zusammenhang mit der Ausstellung von Fahrerqualifizierungsnachweisen stehen5,00
+
+Gebühren aus den vorstehenden Unterabschnitten 2 und 4 werden teilweise für den Bund von den Behörden im Landesbereich erhoben.
+
+5.Ausnahmegenehmigungen
+
+151Erteilung einer Ausnahme bei Erteilung oder in Ergänzung einer Allgemeinen Betriebserlaubnis oder EG-Typgenehmigung oder Allgemeinen Bauartgenehmigung132,00
+
+152Entscheidung über eine Ausnahme von einer Vorschrift der StVZO in anderen Fällen je Ausnahmetatbestand und je Fahrzeug10,20 bis 511,00
+
+Bei einer zum Zeitpunkt der Erteilung der Ausnahme bekannten Anzahl betroffener Fahrzeuge bzw. gleichartiger Fälle kann unter Berücksichtigung des geringeren Verwaltungsaufwandes eine verminderte Gesamtgebühr berechnet werden; dabei darf die Untergrenze des Gebührenrahmens von 10,20 Euro je Fahrzeug und je Ausnahmetatbestand nicht unterschritten werden.
+
+6.Überprüfung von Trägern von Begutachtungsstellen für Fahreignung, von Trägern, die Kurse zur Wiederherstellung der Kraftfahreignung durchführen und von Technischen Prüfstellen, Bereich Fahrerlaubnisprüfung (Begutachtung nach § 72 FeV)
+
+160Erstbegutachtung
+
+160.1Erstbegutachtung eines Trägers von Begutachtungsstellen für Fahreignung (ohne Begutachtung vor Ort)7 669,00 bis 17 895,00
+
+160.2Erstbegutachtung eines Trägers, der Kurse zur Wiederherstellung der Kraftfahreignung durchführt (ohne Begutachtung vor Ort) 6 647,00 bis 17 895,00
+
+160.3Erstbegutachtung eines Trägers von Technischen Prüfstellen, Bereich Fahrerlaubnisprüfung (ohne Begutachtung vor Ort) 8 692,00 bis 18 918,00
+
+160.4Begutachtung vor Ort im Rahmen einer Erstbegutachtung (ohne Reisezeit)1 023,00 bis 2 556,00
+
+161Regelmäßige Begutachtung
+
+161.1Regelmäßige Begutachtung eines Trägers von Begutachtungsstellen für Fahreignung (ohne Begutachtung vor Ort) 2 045,00 bis 6 391,00
+
+161.2Regelmäßige Begutachtung eines Trägers, der Kurse zur Wiederherstellung der Kraftfahreignung durchführt (ohne Begutachtung vor Ort) 2 045,00 bis 6 391,00
+
+161.3Regelmäßige Begutachtung einer Technischen Prüfstelle, Bereich Fahrerlaubnisprüfung (ohne Begutachtung vor Ort) 2 045,00 bis 6 391,00
+
+161.4Begutachtung vor Ort im Rahmen einer regelmäßigen Begutachtung (ohne Reisezeit)1 023,00 bis 2 556,00
+
+162Gutachtenüberprüfung
+
+162.1Vorbereitung und Durchführung der regelmäßigen Überprüfung von Gutachten für einen Träger von Begutachtungsstellen für Fahreignung (ohne Überprüfung der einzelnen Gutachten)1 534,00
+
+162.2Regelmäßige Überprüfung eines einzelnen Gutachtens einer Begutachtungsstelle für Fahreignung61,40 bis 205,00
+
+162.3Vorbereitung und Durchführung der Überprüfung von Gutachten aus besonderem Anlass für einen Träger von Begutachtungsstellen für Fahreignung (ohne Überprüfung der einzelnen Gutachten)1 534,00
+
+162.4Überprüfung eines einzelnen Gutachtens aus besonderem Anlass einer Begutachtungsstelle für Fahreignung123,00 bis 307,00
+
+163Überprüfung einer Evaluationsstudie über ein Kursprogramm4 602,00 bis 12 782,00
+
+164Zusätzliche Leistungen
+
+164.1Stundensatz für Leistungen, die außerhalb der Gebührennummern 160 bis 163 erbracht werden92,00
+
+164.2Stundensatz für Reisezeit für Maßnahmen nach den Gebührennummern 160 bis 16361,40
+
+165Begutachtung des Trägers einer unabhängigen Stelle
+
+165.1Begutachtung des Trägers einer unabhängigen Stelle für die Bestätigung der Eignung von eingesetzten psychologischen Testverfahren und -geräten694,79
+
+165.2Begutachtung des Trägers einer unabhängigen Stelle für die Bestätigung der Eignung von Kursen zur Wiederherstellung der Kraftfahreignung694,79
+
+166Gutachterwechsel bei einer unabhängigen Stelle
+
+166.1Gutachterwechsel bei einer unabhängigen Stelle für die Bestätigung der Eignung von eingesetzten psychologischen Testverfahren und -geräten167,42
+
+166.2Gutachterwechsel bei einer unabhängigen Stelle für die Bestätigung der Eignung von Kursen zur Wiederherstellung der Kraftfahreignung167,42
+
+7.Erfahrungsaustausch des Personals der Begutachtungsstelle für Fahreignung
+
+170Teilnahme am Erfahrungsaustausch nach Satz 1 Nummer 7 der Anlage 14 zur FeV unter der Leitung der Bundesanstalt für Straßen- und Verkehrswesen (pro Kalenderjahr)1 534,00
+
+8.Digitales Kontrollgerät und Kontrollgerätkarten
+
+181Sicherheitstechnische Überprüfungen
+
+181.1Bewertung der an Herstellung oder Verteilung von EG-Kontrollgeräten und deren Komponenten beteiligten Stellen. Die Stundensätze für Audit und Reisezeit bemessen sich nach den Gebührennummern 119.9 und 1222 659,00 bis 6 900,00
+
+181.2Überwachung der an Herstellung oder Verteilung von EG-Kontrollgeräten und deren Komponenten beteiligten Stellen. Die Stundensätze für Audit und Reisezeit bemessen sich nach den Gebührennummern 119.9 und 1221 483,00 bis 2 518,00
+
+182Digitale Zertifikate und Verschlüsselungsdienstleistungen
+
+182.1Zuteilung eines Zertifikats für eine Fahrzeugeinheit als eine Komponente des digitalen Kontrollgeräts 1,20
+
+182.2Zuteilung eines kryptographischen Schlüssels für einen Weg- und Geschwindigkeitsgeber als eine Komponente des digitalen Kontrollgeräts0,65
+
+9.Maßnahmen des Fernstraßen-Bundesamts oder der auf Grund des Infrastrukturgesellschaftserrichtungsgesetzes beliehenen Gesellschaft privaten Rechts
+
+183Anordnung nach § 45 Absatz 6 StVO über Maßnahmen der Unternehmer an Arbeitsstellen 45,00 bis 1 070,00
+
+184Entscheidung über eine Erlaubnis nach § 29 Absatz 2 StVO für Veranstaltungen, die ausschließlich auf den mit Zeichen 330.1 und 330.2 gekennzeichneten Autobahnen in der Baulast des Bundes stattfinden (§ 44a Abs. 1 Satz 3 StVO) 45,00 bis 1 070,00
+
+bei größeren Veranstaltungen mit außergewöhnlich hohem Verwaltungsaufwand 1 070,00 bis 3 207,00
+
+185Entscheidung über eine Ausnahme von einer Vorschrift der StVO nach § 46 Absatz 2a StVO je Ausnahmetatbestand und je Fahrzeug/Person Bei einer zum Zeitpunkt der Erteilung der Ausnahme bekannten Anzahl betroffener Fahrzeuge/Personen bzw. gleichartiger Fälle kann unter Berücksichtigung des geringeren Verwaltungsaufwandes eine verminderte Gesamtgebühr berechnet werden; dabei darf die Untergrenze des Gebührenrahmens von 45,00 Euro je Fahrzeug/Person und je Ausnahmetatbestand nicht unterschritten werden. 45,00 bis 1 070,00
+
+186Zurückweisung eines Widerspruchs oder Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung Von der Festsetzung einer Gebühr ist abzusehen, soweit durch die Rücknahme des Widerspruchs das Verfahren besonders rasch und mit geringem Verwaltungsaufwand abgeschlossen werden kann, wenn dies der Billigkeit nicht widerspricht.Gebühr in Höhe der Gebühr fürdie beantragte oder angefochtene Amtshandlung, mindestensjedoch 180,00 Euro; beigebührenfreien angefochtenen Amtshandlungen 180,00 Euro.
+
+B.Sonstige Maßnahmen auf dem Gebiet des Straßenverkehrs
+
+198Für Maßnahmen außerhalb der Dienststelle, je Amtsperson102,00 bis 3 068,00
+
+199Für andere als die in diesem Abschnitt aufgeführten Maßnahmen nach Personal- und Sachaufwand je Stunde und Person15,30 bis 61,40
+
+2. Abschnitt
+
+Gebühren der Behörden im Landesbereich
+
+Gebühren- NummerGegenstandGebühr Euro
+
+A.Straßenverkehrsgesetz, Straßenverkehrs-Zulassungs-Ordnung, Fahrzeug-Zulassungsverordnung, EG-Fahrzeuggenehmigungsverordnung, Fahrerlaubnis-Verordnung
+
+1.Fahrerlaubnis, Führerschein und Fahrberechtigung
+
+201Prüfung eines Antrags auf Erteilung, Erweiterung oder Verlängerung einer Fahrerlaubnis oder einer Fahrerlaubnis zur Fahrgastbeförderung durch die nach § 21 Absatz 1 FeV zuständige Behörde; Prüfung eines Antrags auf Erteilung des Rechts, von einer ausländischen Fahrerlaubnis im Inland Gebrauch zu machen, durch die nach § 21 Absatz 1 FeV zuständige Behörde; Prüfung eines Antrags auf Erteilung einer Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes5,10
+
+202Erteilung einer Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung, Erteilung einer Fahrberechtigung, Erteilung des Rechts, von einer ausländischen Fahrerlaubnis im Inland Gebrauch zu machen, und/oder Ausfertigung des Führerscheins
+
+202.1Ersterteilung, Erweiterung oder Verlängerung einer Fahrerlaubnis, Ersterteilung oder Erweiterung einer Fahrerlaubnis zur Fahrgastbeförderung35,70
+
+bei anlassbezogener Eignungsbegutachtung zusätzlich10,20 bis 35,80
+
+202.2auf Grund einer Fahrerlaubnis aus einem Mitgliedstaat der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum sowie aus einem in Anlage 11 zur Fahrerlaubnis-Verordnung aufgeführten Staat, sofern keine Prüfung verlangt wird28,10
+
+202.3nach vorangegangener Versagung oder Entziehung der in- oder ausländischen Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung, nach vorangegangenem Verzicht auf die in- oder ausländische Fahrerlaubnis oder nach Verhängung einer Sperrfrist35,70 bis 258,50
+
+202.4als Ersatz20,40 bis 38,30
+
+202.5bei der Umstellung einer Fahrerlaubnis alten Rechts (§ 6 Absatz 6 Satz 2 FeV)25,50
+
+202.6bei besonders hohem Aufwand der Feststellung des Besitzstandes10,20 bis 30,70
+
+202.7Ausfertigung eines Führerscheins, soweit nicht bereits in den Nummern 202.1 bis 202.5 eingeschlossen, oder einer als Nachweis der Fahrerlaubnis geltenden befristeten Prüfungsbescheinigung (§ 22 Absatz 4 Satz 7 FeV), soweit vom Bewerber veranlasst10,20
+
+202.8Ausfertigung einer Prüfungsbescheinigung nach § 48a FeV7,70
+
+202.9Überprüfung einer Begleitperson nach § 48a Absatz 5 Satz 2 FeV1,50 bis 10,00
+
+202.10Erteilung einer Fahrberechtigung für Mitglieder der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes19,20
+
+203(weggefallen)
+
+204Verlängerung der Geltungsdauer einer Fahrerlaubnis zur Fahrgastbeförderung und Eintragung im Führerschein zur Fahrgastbeförderung28,60
+
+205Änderung oder Ergänzung eines Führerscheins zur Fahrgastbeförderung (ausgenommen Erweiterungen und Verlängerungen) oder Internationalen Führerscheins7,70
+
+206Versagung der Erteilung oder Erweiterung einer Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung; Versagung der Verlängerung der Geltungsdauer einer Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung; Entziehung, Widerruf oder Rücknahme einer Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung; Aberkennung des Rechts oder Feststellung der fehlenden Berechtigung, von einer ausländischen Fahrerlaubnis im Inland Gebrauch zu machen; Untersagen des Führens von Fahrzeugen oder Tieren33,20 bis 256,00
+
+207Entscheidung über die Erteilung, Versagung oder Ersatzausstellung eines Internationalen Führerscheins, gegebenenfalls einschließlich Ausfertigung11,20 bis 15,30
+
+208Anordnung von Maßnahmen zur Vorbereitung der Entscheidung über die Entziehung oder die Einschränkung der Fahrerlaubnis oder über die Anordnung von Auflagen nach § 46 FeV; Anordnung von Maßnahmen zur Vorbereitung der Entscheidung über die Entziehung der Fahrerlaubnis zur Fahrgastbeförderung nach § 48 Absatz 9 FeV12,80 bis 25,60
+
+209Verwarnung nach den Regelungen der Fahrerlaubnis auf Probe (§ 2a Absatz 2 Nummer 2 StVG), Ermahnung oder Verwarnung nach dem Fahreignungs-Bewertungssystem (§ 4 Absatz 5 Satz 1 Nummer 1 oder 2 StVG)17,90
+
+210Anordnung der Teilnahme an einem Aufbauseminar (§ 2a Absatz 2 Nummer 1 StVG) einschließlich der Mitteilungen an das Kraftfahrt-Bundesamt25,60
+
+211(weggefallen)
+
+212(weggefallen)
+
+213Entscheidung über eine Ausnahme von den Vorschriften der Fahrerlaubnis-Verordnung je Ausnahmetatbestand und je Person5,10 bis 511,00
+
+214Entscheidung über die Erteilung, Änderung, Versagung, Rücknahme oder Widerruf der Anerkennung, im Falle der Anerkennung einschließlich der Anerkennungsurkunde, sowie die Überprüfung
+
+214.1einer Begutachtungsstelle für Fahreignung nach § 66 FeV128,00 bis 2 556,00
+
+214.2einer Sehteststelle nach § 67 FeV51,10 bis 307,00
+
+214.3einer anderen Stelle nach § 68 FeV51,10 bis 511,00
+
+214.4eines Kurses zur Wiederherstellung der Kraftfahreignung nach § 70 FeV128,00 bis 2 556,00
+
+214.5(weggefallen)
+
+214.6Anerkennung als Kursleiter für die Durchführung von besonderen Aufbauseminaren gemäß § 36 FeV 33,20 bis 256,00
+
+215Seminarerlaubnis Verkehrspsychologie (§ 4a Absatz 3 StVG)
+
+215.1Erteilung der Seminarerlaubnis40,90
+
+215.2Erteilung der Seminarerlaubnis nach vorangegangener Versagung, Rücknahme oder Widerruf oder nach vorangegangenem Verzicht33,20 bis 256,00
+
+215.3Berichtigung eines Erlaubnisbescheides7,70
+
+215.4Erlaubnisbescheid als Ersatz für einen verlorenen oder unbrauchbar gewordenen, außer den Kosten einer etwaigen öffentlichen Ungültigkeitserklärung15,30 bis 38,30
+
+215.5Rücknahme oder Widerruf der Seminarerlaubnis33,20 bis 256,00
+
+215.6Zwangsweise Einziehung eines Erlaubnisbescheides. Diese Gebühr ist auch fällig, wenn die Voraussetzung für die zwangsweise Einziehung erst nach Einleiten der Zwangsmaßnahme beseitigt worden ist.14,30 bis 286,00
+
+215.7Überprüfung einer verkehrspsychologischen Teilmaßnahme des Fahreignungsseminars (§ 4a Absatz 8 Satz 1 Nummer 1 StVG). Die Gebühr ist auch zu entrichten, wenn die Untersuchung (Überwachung) ohne Verschulden der nach Landesrecht zuständigen Behörde und ohne ausreichende Entschuldigung des Inhabers der Seminarerlaubnis Verkehrspsychologie am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnte.30,70 bis 511,00
+
+215.8Versagung der Seminarerlaubnis33,20 bis 256,00
+
+216Eintragung der Schlüsselzahlen 96, 196 und 197 im Führerschein28,60
+
+217Anerkennung des Trägers einer unabhängigen Stelle
+
+217.1Anerkennung des Trägers einer unabhängigen Stelle für die Bestätigung der Eignung von eingesetzten psychologischen Testverfahren und -geräten250,00 bis 1 000,00
+
+217.2Anerkennung des Trägers einer unabhängigen Stelle für die Bestätigung der Eignung von Kursen zur Wiederherstellung der Kraftfahreignung250,00 bis 1 000,00
+
+2.Zulassung/Umkennzeichnung von Kraftfahrzeugen/Anhängern
+
+221Zulassung eines Kraftfahrzeugs/Anhängers
+
+Die Gebühren nach Nummern 221.1, 221.2, 221.3, 221.6 und 221.8 erhöhen sich bei gleichzeitiger Änderung technischer Daten um die Gebühr nach Nummer 225.
+
+Die Gebühren nach Nummern 221.1, 221.2 und 221.3 erhöhen sich, wenn der Abruf von Daten gemäß § 14 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.
+
+Die Gebühren nach den Nummern 221.1, 221.1.1, 221.2, 221.2.1, 221.10 und 221.10.1 erhöhen sich im Falle der Zuteilung einer vom regelmäßigen Zuteilungsverfahren der Zulassungsbehörde abweichenden Erkennungsnummer (Wunschkennzeichen) um 10,20 Euro.
+
+Die Gebühren nach Nummern 221.1, 221.2, 221.6 und 221.8 erhöhen sich im Falle des Umtauschs des Fahrzeugbriefs in eine Zulassungsbescheinigung Teil II um 5,10 Euro. Die Gebühren nach Nummern 221.1 und 221.2 erhöhen sich im Falle der Zuteilung eines Wechselkennzeichens um 6,00 Euro.
+
+221.1Zulassung oder Wiederzulassung – jeweils außer in den Fällen der Nummern 221.1.1, 221.6 und 221.7 –, Änderung des Kennzeichens, Änderung des Betriebszeitraums beim Saisonkennzeichen, Wechsel der Kennzeichenart, wobei in diesen Fällen eine erneute Zulassungsgebühr oder eine Gebühr nach Nummer 221.2, 221.6 oder 221.8 nicht zusätzlich anfällt30,00
+
+221.1.1Internetbasierte Zulassung, internetbasierte Wiederzulassung außer im Fall der Nummer 221.712,80
+
+Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten um 0,30 Euro
+
+221.1.2Tageszulassung eines Fahrzeugs45,90
+
+221.1.3Internetbasierte Tageszulassung14,90
+
+221.2Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel –, außer im Fall der Nummer 221.2.127,10
+
+221.2.1Internetbasierte Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel. Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten um 0,30 Euro.12,10
+
+221.3Entscheidung über die Zuteilung eines Ausfuhrkennzeichens31,40
+
+221.4Entscheidung über die Zuteilung von Kurzzeitkennzeichen10,20
+
+221.5Entscheidung über die Zuteilung von roten Kennzeichen25,60 bis 205,00
+
+221.6Wiederzulassung nach Außerbetriebsetzung innerhalb desselben Zulassungsbezirks – ohne Halterwechsel mit nach § 16 Absatz 1 Satz 4 FZV reserviertem Kennzeichen –, außer im Fall der Nummer 221.723,00
+
+221.7Internetbasierte Wiederzulassung nach Außerbetriebsetzung innerhalb desselben Zulassungsbezirks – ohne Halterwechsel und mit nach § 16 Absatz 1 Satz 4 reserviertem Kennzeichen – Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten um 0,30 Euro10,60
+
+221.8Umschreibung innerhalb desselben Zulassungsbezirks bei Beibehaltung des bisherigen Kennzeichens – Halterwechsel -, außer im Fall der Nummer 221.8.1.24,20
+
+221.8.1Internetbasierte Umschreibung innerhalb desselben Zulassungsbezirks bei Beibehaltung des bisherigen Kennzeichens – Halterwechsel10,40
+
+221.9Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk bei Beibehaltung des bisherigen Kennzeichens – mit und ohne Halterwechsel –, außer im Fall der Nummer 221.9.123,60
+
+221.9.1Internetbasierte Adressänderung nach Wohnsitzwechsel aus einem anderen Zulassungsbezirk bei Beibehaltung des bisherigen Kennzeichens – mit und ohne Halterwechsel.9,90
+
+221.10Umschreibung innerhalb desselben Zulassungsbezirks und Zuteilung eines neuen Kennzeichens – Halterwechsel –, außer im Fall der Nummer 221.10.1.26,20
+
+221.10.1Internetbasierte Umschreibung innerhalb desselben Zulassungsbezirks und Zuteilung eines neuen Kennzeichens – Halterwechsel – Diese Gebühr erhöht sich für einen Plakettenträger für Prüfplaketten um 0,30 Euro.12,40
+
+221.11.1Elektronischer Antrag einer juristischen Person auf Zulassung, Wiederzulassung oder Außerbetriebsetzung, der über die Großkundenschnittstelle beim Kraftfahrt-Bundesamt abgewickelt wird.entsprechend der Nummern 221.1.1, 221.7 oder 224
+
+221.11.2Soweit der Bearbeitungsaufwand aufgrund besonderer Umstände des Einzelfalls nicht durch die Gebühr nach Nummer 221.11.1 i.V.m. den Gebühren nach den Nummern 221.1.1, 221.7 oder 224 abgegolten ist, wird zusätzlich der Zeitaufwand berechnet. Die Gebühr hierfür beträgt je angefangene Viertelstunde Bearbeitungszeit 12,80 Euro.
+
+222Zuteilung und Ausfertigung eines Vordrucks einer Zulassungsbescheinigung Teil II außerhalb eines ZulassungsverfahrensDiese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 14 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.10,20
+
+223Zuteilung und Ausfertigung der Zulassungsbescheinigung Teil II außerhalb eines Zulassungsverfahrens einschließlich Erteilung der Betriebserlaubnis/Einzelgenehmigung nach § 13 EG-FGV49,70
+
+Diese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 14 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.
+
+223.1Erteilung der Betriebserlaubnis nach § 21 StVZO/Einzelgenehmigung nach § 13 EG-FGV39,50
+
+224Außerbetriebsetzung
+
+224.1innerhalb oder außerhalb des Zulassungsbezirks15,90
+
+224.2internetbasiert2,10
+
+224.3(weggefallen)
+
+224.4(weggefallen)
+
+225Ausfertigung, Ersatz oder Änderung der nationalen oder internationalen Fahrzeugpapiere oder -bescheinigungen wegen Änderung persönlicher oder technischer Daten oder Unbrauchbarkeit oder Verlust einschließlich Erteilung einer Betriebserlaubnis sowie Fahrzeugidentitätsprüfung in anderen als in den nach Nummern 221 und 227 erfassten FällenDiese Gebühr erhöht sich bei der Ausstellung einer Zulassungsbescheinigung Teil I um 0,90 Euro.10,20
+
+225.1Internetbasierte Änderung der Anschrift des Halters innerhalb desselben Zulassungsbezirks4,30
+
+226Auskunft aus dem Fahrzeugregister
+
+226.1Auskunft aus dem Fahrzeugregister an die Auskunftsstelle nach § 8a des Pflichtversicherungsgesetzes 3,10
+
+226.2Auskunft aus dem Fahrzeugregister bei Verrechnung über eine Zentralstelle der Versicherer 3,10
+
+226.3Entscheidung über die Auskunft aus dem Fahrzeugregister in sonstigen Fällen, gegebenenfalls einschließlich der Auskunftserteilung5,10
+
+227Zulassungsfreie FahrzeugeDie Gebühren nach Nummern 227.1 bis 227.5 erhöhen sich bei gleichzeitiger Änderung technischer Daten um die Gebühr nach Nummer 225.Die Gebühren nach Nummer 227.3 erhöhen sich, wenn der Abruf von Daten gemäß § 14 Absatz 3 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.Die Gebühren nach Nummern 227.2 und 227.3 erhöhen sich im Falle der Zuteilung eines Wunschkennzeichens um 10,20 Euro. Die Gebühren nach Nummern 227.1 bis 227.5 erhöhen sich im Falle des Umtauschs des Fahrzeugbriefs in eine Zulassungsbescheinigung Teil II um 5,10 Euro.
+
+227.1Erteilung der Betriebserlaubnis nach § 21 StVZO/Einzelgenehmigung nach § 13 EG-FGV39,50
+
+227.2Erteilung der Betriebserlaubnis/Einzelgenehmigung nach § 13 EG-FGV und Zuteilung eines eigenen Kennzeichens55,60
+
+227.3Umschreibung eines zulassungsfreien kennzeichenpflichtigen Fahrzeugs aus einem anderen Zulassungsbezirk und Zuteilung eines neuen Kennzeichens – mit und ohne Halterwechsel –27,00
+
+227.4Wiederinbetriebnahme eines zulassungsfreien kennzeichenpflichtigen Fahrzeugs nach Außerbetriebsetzung innerhalb desselben Zulassungsbezirks – ohne Halterwechsel und ohne Änderung der Kennzeichen –11,60
+
+227.5Umschreibung eines zulassungsfreien kennzeichenpflichtigen Fahrzeugs innerhalb des Zulassungsbezirks – Halterwechsel –16,70
+
+227.6Änderung der Erkennungsnummer oder des Betriebszeitraums beim Saisonkennzeichen27,00
+
+227.7Umschreibung eines zulassungsfreien kennzeichenpflichtigen Fahrzeugs aus einem anderen Zulassungsbezirk bei Beibehaltung des bisherigen Kennzeichens – ohne Halterwechsel – 16,70
+
+228Abstempeln von Kennzeichen sowie Zuteilung einer Prüfmarke in anderen als in den nach Nummern 221 und 227 erfassten Fällen2,60
+
+Zusätzlich
+
+228.1je HU-Plakette sowie Prüfmarke0,50
+
+228.2je Stempelplakette
+
+ohne farbiges Landeswappen0,70
+
+mit farbigem Landeswappen1,20
+
+228.3je Plakettenträger0,30
+
+229Ausgabe eines Fahrzeugscheinheftes nach Zuteilung eines roten Kennzeichens 10,20 bis 15,30
+
+230Vorwegzuteilung oder Reservierung von Erkennungsnummern an Fahrzeughalter, Fahrzeughändler oder Zulassungsdienste, je Erkennungsnummer2,60
+
+Diese Gebühr erhöht sich im Falle der Zuteilung eines Wunschkennzeichens um 10,20 Euro.
+
+231Amtshandlungen im Zusammenhang mit der Sicherungsübereignung eines Kraftfahrzeugs
+
+231.1Eintragung, Aufhebung oder Verwahrung, jeweils5,10
+
+231.2Übersendung der Zulassungsbescheinigung Teil II einschließlich Einschreibegebühr 10,20
+
+232Ausstellung, Berichtigung oder Ergänzung eines Anhängerverzeichnisses
+
+232.1Ausstellung eines Anhängerverzeichnisses je einzutragendes Fahrzeug2,60
+
+232.2Berichtigung oder Ergänzung eines Anhängerverzeichnisses je hinzugetragenes bzw. je zu streichendes Fahrzeug 2,60
+
+232.3Jede weitere Ausfertigung eines Anhängerverzeichnisses1,00
+
+233Bei Verwendung von Klebesiegeln erhöhen sich die Gebühren des Unterabschnitts 2 je Klebesiegel um 0,30 Euro.
+
+234Verlängerung der Frist für die nächste Hauptuntersuchung gemäß Nummer 2.4 der Anlage VIII zu § 29 StVZO 15,30
+
+235Aushändigung oder Anbringung des SP-Schildes5,10 bis 20,50
+
+236Aufbietung der Zulassungsbescheinigung Teil II8,70
+
+3.Amtliche Anerkennung und Überprüfung von Betrieben und Organisationen im Bereich der Überwachung
+
+241Entscheidung über die Erteilung, Änderung, Versagung, Rücknahme oder den Widerruf und im Falle der Anerkennung einschließlich der Ausfertigung einer Anerkennungsurkunde sowie die Überprüfung
+
+241.1einer Kraftfahrzeugwerkstatt zur Durchführung von Sicherheitsprüfungen, Gassystemeinbauprüfungen oder Gasanlagenprüfungen128,00 bis 256,00
+
+241.2einer Schulungsstätte zur Schulung von Fachkräften, die Sicherheitsprüfungen, Gassystemeinbauprüfungen oder Gasanlagenprüfungen durchführen256,00 bis 409,00
+
+241.3eines Fahrtschreiber- oder EG-Kontrollgeräteherstellers oder eines Fahrzeugherstellers nach § 57b Absatz 3 und 4 StVZO oder eines Geschwindigkeitsbegrenzerherstellers nach § 57d Absatz 4 StVZO56,20 bis 225,00
+
+241.4einer ÜberwachungsorganisationBei einer Überprüfung jeweils zuzüglich der Kosten für eine etwaige Überprüfung an Ort und Stelle.128,00 bis 1 023,00
+
+241.5einer Kraftfahrzeugwerkstatt zur Durchführung der Abgasuntersuchung38,30 bis 153,00
+
+241aErhebung und Speicherung der Daten nach Nummer 6.2.1 der Anlage VIIIc der StVZO und Auskunft zu diesen Daten oder Übermittlung dieser Daten nach den Nummern 6.2.2.1 und 6.2.2.3 der Anlage VIIIc der StVZO je Kraftfahrzeugwerkstatt für einen Zweijahreszeitraum25,00
+
+242Entscheidung über die Erteilung, Änderung, Versagung, Rücknahme oder den Widerruf der Bestätigung der Bestellung des technischen Leiters einer Überwachungsorganisation oder dessen Vertreters 25,60 bis 102,00
+
+243Entscheidung über die Erteilung, Änderung, Versagung, Rücknahme oder den Widerruf der Zustimmung zur Betrauung von Kraftfahrzeugsachverständigen mit der Durchführung von Untersuchungen nach Nummer 3.7 und Nummer 4.1.3 der Anlage VIIIb zur StVZO 33,20 bis 256,00
+
+244Prüfung von Bewerbern für die Durchführung von Hauptuntersuchungen einschließlich Abnahmen nach § 19 Absatz 3 StVZO für Überwachungsorganisationen 481,00
+
+Diese Gebühr schließt die Kosten für die Mitglieder des Prüfungsausschusses ein. Werden ein oder mehrere Teile der Prüfung nicht durchgeführt, ermäßigt sich die Gebühr für die Gesamtprüfung um jeweils 33 1/3 v. H. für jeden ausgefallenen Teil. Die sich dadurch ergebenden Teilbeträge werden auf volle Euro aufgerundet. Die Ermäßigung tritt nicht für die Teile ein, die ohne Verschulden des Prüfungsausschusses und ohne ausreichende Entschuldigung des Bewerbers am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnten.
+
+4.Sonstige Maßnahmen im Bereich des StVG, der StVZO, FZV, FeV, BKrFQV
+
+251Entscheidung über einen Antrag auf Tilgung einer Eintragung im Fahreignungsregister nach § 29 Absatz 3 Nummer 2 StVG 12,80 bis 102,00
+
+252Anordnung zum Führen eines Fahrtenbuches einschließlich der Prüfung der Eintragung21,50 bis 200,00
+
+253Nachprüfung der Mängelbeseitigung an einem Fahrzeug durch die Zulassungsbehörde 7,20
+
+254Sonstige Anordnungen nach dem Kraftfahrzeugsteuergesetz, der Straßenverkehrs-Zulassungs-Ordnung, der Fahrzeug-Zulassungsverordnung, der EG-Fahrzeuggenehmigungsverordnung, der Fahrerlaubnis-Verordnung 14,30 bis 286,00
+
+Die Gebühr ist auch fällig, wenn die Voraussetzungen für die Anordnung erst nach Einleiten der Zwangsmaßnahme beseitigt sowie nachgewiesen worden sind. Die Gebühr umfasst auch die im Zusammenhang mit der Vollstreckung der Anordnung entstehenden Kosten.
+
+255Entscheidung über eine Ausnahme von einer Vorschrift des Straßenverkehrsgesetzes, der Straßenverkehrs-Zulassungs-Ordnung, der Fahrzeug-Zulassungsverordnung, je Ausnahmetatbestand und je Fahrzeug/Person 10,20 bis 511,00
+
+Bei einer zum Zeitpunkt der Erteilung der Ausnahme bekannten Anzahl betroffener Fahrzeuge bzw. gleichartiger Fälle kann unter Berücksichtigung des geringeren Verwaltungsaufwandes eine verminderte Gesamtgebühr berechnet werden; dabei darf die Untergrenze des Gebührenrahmens von 10,20 Euro je Fahrzeug und je Ausnahmetatbestand nicht unterschritten werden.
+
+256Abnahme einer Versicherung an Eides statt durch Niederschrift bei der Verwaltungsbehörde (§ 5 StVG, § 9 Absatz 3 BKrFQV) 30,70
+
+257Bewertung alternativer Lehr- und Lernmethoden und Medien zur Gestaltung der verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars nach § 42 Absatz 2 FeV einschließlich der Auslagen für eine externe Begutachtung1 000,00 bis 10 000,00
+
+258Anerkennung eines Qualitätssicherungssystems für die verkehrspsychologische Teilmaßnahme des Fahreignungsseminars nach § 4a Absatz 8 StVGnach dem Zeitaufwandmit 12,80 Euroje angefangene Viertelstunde Bearbeitungszeit
+
+259Zuteilung einer Plakette zur Kennzeichnung von Fahrzeugen nach § 4 EmoG in Verbindung mit § 14 Absatz 4 FZV11,00
+
+260Zuteilung eines Ausweises zur Kennzeichnung von Carsharingfahrzeugen nach § 2 Nummer 1 und § 4 Absatz 1 CsgG11,00
+
+B.Straßenverkehrs-Ordnung
+
+261Anordnung nach § 45 Absatz 6 StVO über Maßnahmen der Unternehmer an Arbeitsstellen 10,20 bis 767,00
+
+262Anordnung zur Teilnahme am Verkehrsunterricht25,60
+
+263Entscheidung über eine Erlaubnis mit Ausnahme der Erlaubnis nach § 29 Absatz 3 StVO nach der StVOBei größeren Veranstaltungen mit außergewöhnlich hohem Verwaltungsaufwand10,20 bis 767,00 767,00 bis 2 301,00
+
+263.1Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- oder Schwertransporten nach § 29 Absatz 3 und § 46 Absatz 1 Satz 1 Nummer 2 und 5 StVO
+
+263.1.1bei Erteilung der Erlaubnis oder der Ausnahme40,00 bis 1 300,00 nach Maßgabe des Anhangs
+
+263.1.2bei Rücknahme eines Antrages durch den Antragsteller nach Beginn der sachlichen Bearbeitung oder bei Ablehnung einer Erlaubnis oder Ausnahme durch die Behörde aus einem anderen Grund als wegen Unzuständigkeit75 Prozent der Gebühr nach Nummer 263.1.1
+
+263.1.3bei Änderung einer bestehenden Erlaubnis oder Ausnahme
+
+263.1.3.1bei gewöhnlichem Aufwandentsprechend der Nummer 263.1.1
+
+263.1.3.2bei geringem Aufwand nach Zeitaufwand10,00 je angefangene Viertelstunde Bearbeitungszeit
+
+264Entscheidung über eine Ausnahme von einer Vorschrift der StVO je Ausnahmetatbestand und je Fahrzeug/Person mit Ausnahme der Ausnahmegenehmigung nach § 46 Absatz 1 Nummer 5 StVO 10,20 bis 767,00
+
+Bei einer zum Zeitpunkt der Erteilung der Ausnahme bekannten Anzahl betroffener Fahrzeuge/Personen bzw. gleichartiger Fälle kann unter Berücksichtigung des geringeren Verwaltungsaufwandes eine verminderte Gesamtgebühr berechnet werden; dabei darf die Untergrenze des Gebührenrahmens von 10,20 Euro je Fahrzeug/Person und je Ausnahmetatbestand nicht unterschritten werden.
+
+265Ausstellen eines Parkausweises für Bewohner10,20 bis 30,70 pro Jahr
+
+C.Ferienreiseverordnung
+
+271Entscheidung über eine Ausnahme von dem Verkehrsverbot für Lastkraftwagen 10,20 bis 179,00
+
+D.Fahrlehrergesetz
+
+301Fahrlehrerprüfung
+
+301.1für die Klasse BE
+
+– für die fahrpraktische Prüfung238,02
+
+– für die Fachkundeprüfung635,68
+
+– für die Lehrproben
+
+a) im theoretischen Unterricht210,92
+
+b) im fahrpraktischen Unterricht210,92
+
+301.2für die Erweiterung von der Klasse BE auf die Klasse A
+
+– für die fahrpraktische Prüfung238,02
+
+– für die Fachkundeprüfung434,96
+
+301.3für die Erweiterung von der Klasse BE auf die Klasse CE oder DE
+
+– für die fahrpraktische Prüfung Klasse CE oder DE300,52
+
+– für die Fachkundeprüfung Klasse CE oder DE434,96
+
+Diese Gebühren schließen die Kosten für die Mitglieder des Prüfungsausschusses – mit Ausnahme der Auslagen – ein. Die Gebühr ist auch zu entrichten für Teile, die ohne Verschulden des Prüfungsausschusses und ohne ausreichende Entschuldigung des Bewerbers am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnten.
+
+302Erteilung (außer der etwaigen Gebühr nach Nummer 308)
+
+302.1der Anwärterbefugnis einschließlich der Ausfertigung des Anwärterscheins 40,90
+
+302.2der Fahrlehrerlaubnis, der Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG) oder der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der Ausfertigung des Fahrlehrerscheins 40,90
+
+302.3der Fahrschulerlaubnis
+
+– an eine natürliche Person102,00
+
+– an eine juristische Person oder rechtsfähige Personengesellschaft153,00
+
+302.4der Zweigstellenerlaubnis 84,40
+
+302.5der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines Aus- oder Fortbildungsträgers nach § 45 Absatz 3 Satz 3, § 47 Absatz 1, § 48 oder § 53 Absatz 10 FahrlG102,00 bis 358,00
+
+302.6der Anwärterbefugnis einschließlich der Ausfertigung des Anwärterscheins33,20 bis 256,00
+
+der Fahrlehrerlaubnis, der Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG) oder der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der Ausfertigung des Fahrlehrerscheins
+
+der Fahrschulerlaubnis, der Zweigstellenerlaubnis oder
+
+der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines Aus- oder Fortbildungsträgers nach § 45 Absatz 2 Satz 4, § 47 Absatz 1, § 48 oder § 53 Absatz 10 FahrlG
+
+nach vorangegangener Versagung, Rücknahme oder Widerruf oder nach vorangegangenem Verzicht
+
+303Änderung
+
+303.1der Fahrlehrerlaubnis, der Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG) oder der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der Ausfertigung eines Fahrlehrerscheins oder eines Anwärterscheins 40,90
+
+303.2der Fahrschulerlaubnis 56,20
+
+303.3der Zweigstellenerlaubnis 40,90
+
+303.4der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte51,10 bis 169,00
+
+304Gestrichen
+
+305Ausfertigung eines Fahrlehrerscheins, eines Anwärterscheins15,30 bis 38,30
+
+306Rücknahme oder Widerruf der Fahrlehrerlaubnis, der Anwärterbefugnis, Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG), der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG), der Fahrschulerlaubnis, der Zweigstellenerlaubnis oder der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines Aus- oder Fortbildungsträgers nach § 45 Absatz 3 Satz 3, § 47 Absatz 1, § 48 oder § 53 Absatz 10 FahrlG33,20 bis 256,00
+
+307Zwangsweise Einziehung eines Fahrlehrerscheins, eines Anwärterscheins14,30 bis 286,00
+
+Diese Gebühr ist auch fällig, wenn die Voraussetzung für die zwangsweise Einziehung erst nach Einleiten der Zwangsmaßnahme beseitigt worden ist.
+
+308Überprüfung
+
+308.1der Fahrlehrerinnen und Fahrlehrer, einer Fahrschule oder Zweigstelle, eines Aufbauseminars, einer verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars nach § 46, einer Aus- oder Fortbildungsveranstaltung nach § 51 Absatz 1 FahrlG30,70 bis 511,00
+
+308.2einer Fahrlehrerausbildungsstätte30,70 bis 511,00
+
+Die Gebühr ist auch zu entrichten, wenn die Untersuchung (Überwachung) ohne Verschulden der Überwachungsbehörde und ohne ausreichende Entschuldigung des Fahrschulinhabers am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnte.
+
+309Erteilung oder Versagung einer Ausnahme von den Vorschriften über das Fahrlehrerwesen5,10 bis 511,00
+
+310Versagung (außer der etwaigen Gebühr nach Nummer 308) der Fahrlehrerlaubnis, der Ausbildungsfahrlehrerlaubnis (§ 16 FahrlG), der Seminarerlaubnis (§ 45 FahrlG), der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG), der Anwärterbefugnis, der Fahrschulerlaubnis, der Zweigstellenerlaubnis, der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte, eines Aus- oder Fortbildungsträgers nach § 45 Absatz 2 Satz 4, § 47 Absatz 1, § 48 oder § 53 Absatz 10 FahrlG oder deren Änderung33,20 bis 256,00
+
+311Genehmigung eines Qualitätssicherungssystems für die verkehrspädagogische Teilmaßnahme des Fahreignungsseminars oder für den Einweisungslehrgang nach § 46 Absatz 5 Satz 2 Nr. 4 Buchstabe b FahrlGnach dem Zeitaufwand mit 12,80 Euro je angefangene Viertelstunde Bearbeitungszeit
+
+E.Kraftfahrsachverständigengesetz
+
+321Prüfung für die
+
+321.1amtliche Anerkennung als Sachverständiger685,00
+
+321.2amtliche Anerkennung als Sachverständiger mit Teilbefugnissen608,00
+
+321.3amtliche Anerkennung als Prüfer562,00
+
+321.4amtliche Anerkennung als Prüfer mit Teilbefugnissen481,00
+
+321.5Erweiterung der amtlichen Anerkennung als Sachverständiger oder als Prüfer 481,00
+
+Diese Gebühren schließen die Kosten für die Mitglieder des Prüfungsausschusses ein. Werden ein oder mehrere Teile der Prüfung für die amtliche Anerkennung nicht durchgeführt, ermäßigt sich die Gebühr für die Gesamtprüfung um jeweils 33 1/3 v. H. für jeden ausgefallenen Teil. Die sich dadurch ergebenden Teilbeträge werden auf volle Euro aufgerundet. Die Ermäßigung tritt nicht für die Teile ein, die ohne Verschulden des Prüfungsausschusses und ohne ausreichende Entschuldigung des Bewerbers am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnten.
+
+322Entscheidung über die amtliche Anerkennung als Sachverständiger oder Prüfer, gegebenenfalls einschließlich der Ausfertigung des Ausweises25,60 bis 102,00
+
+323Ausfertigung des Ausweises über die Anerkennung als Ersatz für einen verlorenen oder unbrauchbar gewordenen, außer den Kosten einer etwaigen öffentlichen Ungültigerklärung10,20
+
+324Entscheidung über die Bestätigung der Bestellung oder Abberufung des Leiters einer Technischen Prüfstelle oder einer dieser unmittelbar nachgeordneten Dienststelle sowie von deren Stellvertretern25,60 bis 102,00
+
+325Rücknahme oder Widerruf der amtlichen Anerkennung oder ihrer Erweiterung, ausgenommen Ausscheiden aus Altersgründen28,10 bis 71,60
+
+326Zwangsweise Einziehung des Ausweises über die Anerkennung7,70 bis 40,90
+
+Die Gebühr ist auch fällig, wenn die Voraussetzung für die zwangsweise Einziehung erst nach Einleiten der Zwangsmaßnahme beseitigt worden ist.
+
+329Entscheidung über eine Ausnahme von den Vorschriften des Kraftfahrsachverständigengesetzes 25,60 bis 511,00
+
+FBerufskraftfahrerqualifikationsgesetz (BKrFQG) und Berufskraftfahrerqualifikationsverordnung (BKrFQV)
+
+343Fahrerqualifizierungsnachweis
+
+343.1Prüfung eines Antrags auf Ausstellung eines Fahrerqualifizierungsnachweises oder eines neuen Fahrerqualifizierungsnachweises bei Änderungen oder Beschädigung sowie Entscheidung über den Antrag (§§ 8 und 9 BKrFQV)15,80
+
+343.2Prüfung eines Antrags auf Ausstellung eines neuen Fahrerqualifizierungsnachweises bei Verlust oder Diebstahl sowie Entscheidung über den Antrag (§ 9 Absatz 2 BKrFQV)20,20
+
+343.3Ausstellung eines Fahrerqualifizierungsnachweises sowie Zustellung des Fahrerqualifizierungsnachweises im Direktversand innerhalb Deutschlands14,20
+
+343.4Ausstellung eines Fahrerqualifizierungsnachweises sowie Zustellung des Fahrerqualifizierungsnachweises im Direktversand in EU-Mitgliedstaaten15,60
+
+343.5Ausstellung eines Fahrerqualifizierungsnachweises im Expressverfahren sowie Aushändigung des Fahrerqualifizierungsnachweises20,60
+
+344Prüfung eines Antrags auf Anrechnung anderer abgeschlossener spezieller Aus- und Weiterbildungsmaßnahmen sowie Entscheidung über den Antrag (§ 2 Absatz 5, § 4 Absatz 4 BKrFQV)7,00
+
+345Entscheidung über die Erteilung bei Anerkennung einer Ausbildungsstätte nach § 9 BKrFQG, Untersagung der Ausübung von Tätigkeiten nach § 10 Absatz 4 BKrFQG, Rücknahme oder Widerruf der Anerkennung, einschließlich Anerkennungsurkunde, nach § 10 Absatz 1 und 2 BKrFQG51,10 bis 511,00
+
+346Überwachung der Ausbildungsstätten nach § 11 Absatz 1 und 2 BKrFQG30,70 bis 511,00
+
+Die Gebühr ist auch zu entrichten, wenn die Überwachung ohne Verschulden der Überwachungsbehörde und ohne ausreichende Entschuldigung des Inhabers der Ausbildungsstätte am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnte.
+
+G.Straßenverkehr-Transportbegleitungsverordnung
+
+350Entscheidung über die Erteilung der Übertragung der Anordnungsbefugnis für die Transportbegleitung390,00 bis 1 170,00
+
+350.1Erhöhung der Gebühr je Geschäftsführer40,00 bis 120,00
+
+350.2Erhöhung der Gebühr je Transportbegleiter20,00 bis 60,00
+
+351Ausscheiden eines Geschäftsführers40,00 bis 140,00
+
+352Eintritt eines Geschäftsführers70,00 bis 230,00
+
+353Ausscheiden eines Transportbegleiters30,00 bis 110,00
+
+354Neubeschäftigung eines Transportbegleiters50,00 bis 170,00
+
+355Erstellung oder Verlängerung eines Ausweises Transportbegleiter30,00 bis 110,00
+
+356Erstellung eines Ersatzdokuments bei Verlust etc.30,00 bis 110,00
+
+357Verlängerung der Geltungsdauer eines Übertragungsbescheides250,00 bis 770,00
+
+357.1Erhöhung der Gebühr je Geschäftsführer40,00 bis 120,00
+
+357.2Erhöhung der Gebühr je Transportbegleiter20,00 bis 60,00
+
+358Überprüfung eines Unternehmens290,00 bis 890,00
+
+359Rücknahme oder Widerruf der Übertragung der Anordnungsbefugnis für die Transportbegleitung920,00 bis 2 780,00
+
+360Sonstige Änderungen des Übertragungsbescheides, je nach Aufwand20,00 bis 300,00
+
+H.Sonstige Maßnahmen auf dem Gebiet des Straßenverkehrs
+
+398Androhung der Anordnung der im 2. Abschnitt genannten Maßnahmen, soweit bei den einzelnen Gebührennummern die Androhung nicht bereits selbst genannt ist10,20
+
+399Für andere als die in diesem Abschnitt aufgeführten Maßnahmen können Gebühren nach den Sätzen für vergleichbare Maßnahmen oder, soweit solche nicht bewertet sind, nach dem Zeitaufwand mit 12,80 Euro je angefangene Viertelstunde Arbeitszeit erhoben werden.
+
+400Zurückweisung eines Widerspruchs oder Rücknahme des Widerspruchs nach Beginn der sachlichen BearbeitungGebühr in Höhe der Gebühr für die beantragte oder angefochtene Amtshandlung, mindestens jedoch 25,60 Euro; bei gebührenfreien angefochtenen Amtshandlungen 25,60 Euro. Von der Festsetzung einer Gebühr ist abzusehen, soweit durch die Rücknahme des Widerspruchs das Verfahren besonders rasch und mit geringem Verwaltungsaufwand abgeschlossen werden kann, wenn dies der Billigkeit nicht widerspricht.
+
+I.Autonome-Fahrzeuge-Genehmigungs-und-Betriebs-Verordnung (AFGBV)
+
+400aGenehmigung des festgelegten Betriebsbereichs für Kraftfahrzeuge mit autonomer Fahrfunktion
+
+400a.1Prüfung eines Antrags zur Genehmigung eines festgelegten Betriebsbereichs für den Einsatz von Kraftfahrzeugen mit autonomer Fahrfunktion nach § 8 AFGBV einschließlich Begehung des Betriebsbereichs, Sachverhaltsaufklärung, Abstimmung mit zu beteiligenden Dritten, Prüfung der zugrundeliegenden Betriebserlaubnis des Kraftfahrzeugs mit autonomer Fahrfunktion sowie Entscheidung über den Antrag hinsichtlich Erteilung, Änderung, Verlängerung, Ablehnung oder Aufhebung, einschließlich Eintragung790,60 bis 79 060,00
+
+400a.2Begutachtung und Prüfung von Nachträgen für einen festgelegten Betriebsbereich für bereits genehmigte festgelegte Betriebsbereiche sowie Nachprüfung der Erfüllung der Voraussetzungen der Genehmigung eines genehmigten festgelegten Betriebsbereichs nach Personal- und Sachaufwand je Stunde und Person49,00 bis 129,00
+
+3. Abschnitt
+
+Gebühren der amtlich anerkannten Sachverständigen
+ und Prüfer für den Kraftfahrzeugverkehr, der Prüfstellen nach der Fahrzeugteileverordnung
+
+Gebühren- NummerGegenstandGebühr Euro
+
+1.Prüfung von Bewerbern um eine Fahrerlaubnis
+
+Die Gebühren zu den Nummern 401 bis 403 schließen etwaige Reisekosten des amtlich anerkannten Sachverständigen oder Prüfers für den Kraftfahrzeugverkehr ein.
+
+401Theoretische Prüfung
+
+401.1für eine Fahrerlaubnis aller Klassen, je11,10
+
+Werden mehrere Prüfungen an einem Termin durchgeführt, wird nur einmal die Gebühr erhoben.
+
+401.2nach § 5 FeV (Mofa 25)4,60
+
+401.3Zu den Gebühren nach den Nummern 401.1 und 401.2 werden erhoben:
+
+– Ausfertigung einer Bescheinigung nach § 5 FeV (Mofa 25)7,80
+
+– Prüfung am PC9,90
+
+– Einzelprüfung durch den Sachverständigen/Prüfer oder durch vom Bewerber gesondert zu bezahlenden Gebärdendolmetscherje angefangene Viertel-stunde Gebühr entsprechend Nummer 499
+
+402Praktische Prüfung für eine Fahrerlaubnis oder eine Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes
+
+In den Fällen, in denen der Termin für den theoretischen und praktischen Teil der Prüfung auf Antrag des Bewerbers auf einen Tag festgesetzt wird, der Bewerber jedoch den theoretischen Teil der Prüfung nicht besteht, wird für beide Prüfungsteile die volle Gebühr erhoben. Können der praktische oder der theoretische Teil ohne Verschulden des amtlich anerkannten Sachverständigen oder Prüfers und ohne ausreichende Entschuldigung des Bewerbers am festgesetzten Termin nicht stattfinden oder nicht beendet werden, wird die volle Gebühr für den ausgefallenen Prüfungsteil erhoben. Verkürzt sich die Dauer der praktischen Prüfung nach Anlage 7 Abschnitt 2.3 oder 2.5.1 FeV, ermäßigt sich die Gebühr entsprechend.
+
+402.1Praktische Prüfung für eine Fahrerlaubnis der Klasse A, A2 oder A1136,70
+
+402.1aPraktische Prüfung für eine Fahrerlaubnis der Klasse A oder A2 im Zuge der Stufenregelung nach § 15 Absatz 3 und 4 FeV118,60
+
+402.2(weggefallen)
+
+402.3Praktische Prüfung für eine Fahrerlaubnis der Klassen B, BE109,10
+
+402.4Praktische Prüfung für eine Fahrerlaubnis der Klassen C, CE164,50
+
+402.5Praktische Prüfung für eine Fahrerlaubnis der Klassen C1, C1E oder für eine Fahrberechtigung für Einsatzfahrzeuge der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes164,50
+
+402.6Praktische Prüfung für eine Fahrerlaubnis der Klassen D, D1164,50
+
+402.7Praktische Prüfung für eine Fahrerlaubnis der Klassen DE, D1E156,70
+
+402.8Praktische Prüfung für eine Fahrerlaubnis der Klasse AM109,10
+
+402.9Praktische Prüfung für eine Fahrerlaubnis der Klasse T136,70
+
+403(weggefallen)
+
+2.Prüfungen von Fahrzeugen und Fahrzeugteilen
+
+410Grundgebühr für Typprüfungen oder Musterprüfungen nach StVZO/EU/ECE/FzTV Mit den Grundgebühren ist folgender Aufwand abgedeckt:
+
+– Vorhaltung und Benutzung von Geräten, Einrichtungen und Anlagen, die zur technischen Prüfung und zur Erstellung der Gutachten notwendig sind, gleichgültig ob diese im Besitz der Technischen Prüfstelle stehen oder von ihr angemietet wurden;
+
+– Anlegen der Verwaltungsakte bei der Technischen Prüfstelle entsprechend den üblichen organisatorischen Verfahren für die Entgegennahme und Bearbeitung eines Auftrags zur Erstellung eines Gutachtens;
+
+– Durchsicht der Unterlagen/Anlagen, d. h. Überprüfung der vom Antragsteller zu liefernden Unterlagen/Anlagen durch den amtlich anerkannten Sachverständigen auf Vollständigkeit;
+
+– schreibtechnische Erstellung des Gutachtens einschließlich der vorgeschriebenen Anzahl von Mehrausfertigungen und einer Ausfertigung für den Antragsteller;
+
+– Porto, Telefon-, Telex- und sonstige Übermittlungskosten, die mit dem Prüf- und Bearbeitungsablauf anfallen.
+
+410.1Die Grundgebühr beträgt je Prüfungfür61,00
+
+1. Schilder
+
+2. Amtliche Kennzeichen
+
+3. Innenausstattung (Kontrolle, Symbole)
+
+4. Anordnung der fußbetätigten Einrichtungen
+
+5. Andere vergleichbare Fahrzeuge/Fahrzeugteile
+
+410.2Die Grundgebühr beträgt je Prüfungfür153,00
+
+1. Warnvorrichtung mit einer Folge von verschieden hohen Tönen
+
+2. Abschleppeinrichtungen
+
+3. Radabdeckungen
+
+4. Ladepritsche land- oder forstwirtschaftlicher Zugmaschinen
+
+5. Abgase aus Ottomotoren Typ III (Kurbelgehäuse)
+
+6. Betätigungsraum, Zugänge zum Fahrersitz, Türen und Fenster land- oder forstwirtschaftlicher Zugmaschinen
+
+7. Vorstehende Außenkanten
+
+8. Gleitschutzeinrichtungen
+
+9. Anhänger ohne Bremsanlage
+
+10. Fahrtschreiber und ähnliche Kontrollgeräte
+
+11. Andere vergleichbare Fahrzeuge/Fahrzeugteile
+
+410.3Die Grundgebühr beträgt je Prüfungfür245,00
+
+1. Rückwärtsgang, Geschwindigkeitsmessgerät und Höchstgeschwindigkeit
+
+2. Sicherungseinrichtung gegen unbefugte Benutzung
+
+3. Rückspiegel
+
+4. Kraftstoffbehälter aus Blech
+
+5. Beiwagen von Krafträdern
+
+6. Vorrichtung für Schallzeichen
+
+7. Andere vergleichbare Fahrzeuge/Fahrzeugteile
+
+410.4Die Grundgebühr beträgt je Prüfungfür305,00
+
+1. Sichtfeld
+
+2. Heizungen
+
+3. Unterfahrschutz
+
+4. Scheibenwischer, Wascher
+
+5. Lenkanlagen
+
+6. Anbau lichttechnischer Einrichtungen
+
+7. Abgase aus Ottomotoren, Typ II (Leerlauf)
+
+8. Türen
+
+9. Kopfstützen
+
+10. Bremsanlagen
+
+11. Kraftrad, Fahrrad mit Hilfsmotor, Krankenfahrstuhl
+
+12. Andere vergleichbare Fahrzeuge/Fahrzeugteile
+
+410.5Die Grundgebühr beträgt je Prüfungfür398,00
+
+1. Geräuschpegel und Auspuffeinrichtungen
+
+2. Einrichtungen zur Verbindung von Fahrzeugen
+
+3. Teile im Insassenraum (Aufprallschutz)
+
+4. Anhänger mit Bremsanlage
+
+5. Scheiben aus Sicherheitsglas
+
+6. Andere vergleichbare Fahrzeuge/Fahrzeugteile
+
+410.6Die Grundgebühr beträgt je Prüfungfür458,00
+
+1. Entfrostungs- und Trocknungsanlagen für Scheiben
+
+2. Kraftstoffverbrauch
+
+3. Widerstandsfähigkeit der Sitze und ihrer Verankerung
+
+4. Verhalten der Lenkanlagen bei Unfallstößen
+
+5. Verankerung der Sicherheitsgurte
+
+6. Stoßstangen
+
+7. Andere Kraftfahrzeuge
+
+8. Andere vergleichbare Fahrzeuge/Fahrzeugteile
+
+410.7Die Grundgebühr beträgt je Prüfungfür550,00
+
+1. Kraftstoffbehälter (Kunststoff)
+
+2. Motorleistung
+
+3. Reifenprüfung
+
+4. Abgase von Ottomotoren Typ I
+
+5. Abgase von Dieselmotoren
+
+6. Verhütung von Bränden
+
+7. Andere vergleichbare Fahrzeuge/Fahrzeugteile
+
+410.8Die Grundgebühr beträgt je Prüfungfür714,00
+
+1. Abgase von Ottomotoren Typ IV (Verdunstungsemissionen)
+
+2. Abgase von Ottomotoren Typ VI ( -7 C)
+
+3. EMV Komplettfahrzeug
+
+4. Andere vergleichbare Fahrzeuge/Fahrzeugteile
+
+411Grundgebühr für Nachprüfungen und Begutachtungen für Nachträge
+
+411.1Nachprüfungen Die Grundgebühr für Nachprüfungen im Auftrage des Kraftfahrt-Bundesamtes beträgt zwei Drittel der Grundgebühr nach den Nummern 410.1 bis 410.8. Erfordert die Nachprüfung in Abstimmung mit dem Auftraggeber ausnahmsweise eine Anmietung fremder Geräte, Einrichtungen oder Anlagen, können außerdem die nachgewiesenen Fremdkosten in Rechnung gestellt werden, soweit sie durch die Gebühr nach Satz 1 nicht abgegolten sind.
+
+411.2Nachtragsgutachten Die Grundgebühr für Begutachtungen für Nachträge zu Typprüfungen oder Musterprüfungen nach StVZO/EU/ECE/FzTV beträgt zwei Drittel der Grundgebühr nach den Nummern 410.1 bis 410.8.
+
+412Soweit der Aufwand nicht durch die Grundgebühren nach den Nummern 410.1 bis 410.8, 411.1 und 411.2 abgegolten ist, wird zusätzlich der Zeitaufwand berechnet. Die Gebühr hierfür beträgt je Sachverständigen und je angefangene Viertelstunde mindestens 20,30 Euro und höchstens 27,00 Euro. Der Stundensatz kann bis zu 50 v. H. über-
+
+schritten werden, wenn die Schwierigkeit der Leistung und besondere Umstände den Einsatz besonders spezialisierter Sachverständiger erfordern (z. B. Elektronikexperten). Der Einsatz mehrerer Sachverständiger bei einem Prüfauftrag und die Hinzuziehung von Prüfgehilfen wird mit dem Auftraggeber vorher abgestimmt. Der Zeitaufwand für den Prüfgehilfen wird mit 70 v. H. der vorgenannten Sätze berechnet.
+
+413Prüfung einzelner Fahrzeuge
+
+Begutachtung nach §§ 21 und 23 StVZO oder § 13 EG-FGV
+
+KomplettfahrzeugGutachten nach § 21 StVZO nach technischen Änderungen (§ 19Absatz 2 StVZO)Änderungsabnahme nach § 19 Absatz 3 StVZOHauptuntersuchung (HU) nach§ 29 StVZO,,,,,Sicherheitsprüfung (SP) nach § 29 StVZO
+
+Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV und GA nach § 23 StVZO,Gutachten nach § 21 StVZO auf Grund § 16 Absatz 2 Satz 6 FZV
+
+123456
+
+EuroEuroEuroEuroEuroEuro
+
+413.1Kleinkrafträder, Fahrräder mit Hilfsmotor, leichte vierrädrigeKraftfahrzeuge, Krankenfahrstühle55,7034,8019,00 bis 31,8014,30 bis 25,80––
+
+413.2Anhänger ohne Bremsanlage55,7034,8019,00 bis 31,8014,30 bis 25,8014,10 bis 26,10–
+
+413.3Krafträder65,0041,4021,50 bis 39,5017,60 bis 32,8025,40 bis 38,30–
+
+413.4Kraftfahrzeuge oder Anhänger mit einer zulässigen Gesamtmasse ...
+
+413.4.1... von nicht mehr als 3,5 t, soweit nicht unter den Nummern 413.1 bis 413.3 genannt97,9064,0032,70 bis 55,3024,90 bis 48,0032,90 bis 51,6027,30 bis 33,40
+
+413.4.2... von nicht mehr als 7,5 t, soweit nicht unter den Nummern 413.1 bis 413.4.1 genannt107,0079,2042,10 bis 74,4029,50 bis 58,5056,00 bis 71,0048,60 bis 60,70
+
+413.4.3... von nicht mehr als 12 t, soweit nicht unter den Nummern 413.1 bis 413.4.2 genannt121,0093,1048,50 bis 77,6029,50 bis 58,5070,60 bis 89,2054,70 bis 69,80
+
+413.4.4... von nicht mehr als 18 t, soweit nicht unter den Nummern 413.1 bis 413.4.3 genannt134,40100,1051,70 bis 80,8029,50 bis 58,5076,60 bis 98,2060,70 bis 75,80
+
+413.4.5... von nicht mehr als 32 t, soweit nicht unter den Nummern 413.1 bis 413.4.4 genannt154,60107,0054,90 bis 83,9029,50 bis 58,5085,70 bis 107,3066,80 bis 85,00
+
+413.4.6... über 32 t, soweitnicht unter den Nummern 413.1 bis 413.4.5 genannt175,80114,2058,00 bis 87,1029,50 bis 58,50100,90 bis 125,4081,90 bis 103,20
+
+_______________
+
+Gebühren- NummerGegenstandGebühr Euro
+
+413.5Abgasuntersuchung bestimmter Kraftfahrzeuge entsprechend der Durchführungs-Richtlinie für die Untersuchung der Abgase
+
+Wird die Abgasuntersuchung als Teiluntersuchung der Hauptuntersuchung durchgeführt, ergibt sich der zulässige Gebührenrahmen durch Multiplikation der festgeschriebenen Gebühren mit 0,85.
+
+413.5.1Kraftfahrzeuge – ohne Krafträder
+
+413.5.1.1Abgasuntersuchungen mit Abgasmessung am Auspuffendrohr23,70 bis 109,80
+
+413.5.1.2Abgasuntersuchungen ohne Abgasmessung am Auspuffendrohr13,40 bis 61,80
+
+413.5.2Krafträder9,20 bis 27,40
+
+413.6Gasanlagenprüfungen
+
+413.6.1Für die Untersuchung der Gasanlage im Rahmen der Hauptuntersuchung nach § 29 StVZO ohne vorliegenden Nachweis über eine durchgeführte Gasanlagenprüfung durch eine entsprechend anerkannte Kraftfahrzeugwerkstatt wird zur Gebühr nach den Nummern 413.3 und 413.4 folgende zusätzliche Gebühr erhoben24,60
+
+413.6.2Gassystemeinbauprüfung nach § 41a Absatz 5 StVZO123,20
+
+413.6.3Gasanlagenprüfung ohne Hauptuntersuchung31,40
+
+414Nachprüfung einzelner Fahrzeuge im Sinne der Nummern 413.1 bis 413.61,70 Euro bis 2/3 der Gebühr nach den Num-mern 413.1 bis 413.6.3
+
+415Prüfungen nach den §§ 41 und 42 BOKraft
+
+Im Rahmen der Hauptuntersuchung nach § 29 StVZO werden zur Gebühr nach Nummer 413 folgende zusätzliche Gebühren erhoben:
+
+415.1Kraftomnibusse15,10 bis 33,90
+
+415.2Taxen, Mietwagen7,50 bis 17,00
+
+415.3Nachprüfungen5,00 Euro bis 2/3 der Gebühr nach Nummer 415.1 beziehungsweise 415.2
+
+Im Bereich einer Technischen Prüfstelle dürfen in einem Land bei den Gebührennummern 413 bis 415 jeweils nur einheitliche Gebühren erhoben werden. Die Höhe der jeweiligen Gebühr kann von der Zustimmung der nach § 13 des Kraftfahrsachverständigengesetzes zuständigen Behörde abhängig gemacht werden.
+
+416Zuteilung einer Prüfplakette oder Prüfmarke auf Grund des § 29 StVZO 0,60
+
+417Erstellen einer Zweitschrift des Berichts über die Hauptuntersuchung nach § 29 oder der Prüfbescheinigung über die Abgasuntersuchung nach Nummer 1.2.1.1 der Anlage VIII StVZO3,40
+
+418Kann eine der unter den Nummern 413, 414 und 415 genannten Prüfungen am festgesetzten Tag nicht begonnen oder nicht zu Ende geführt werden aus Gründen, die der amtlich anerkannte Sachverständige oder Prüfer nicht zu vertreten hat, ist die für die Prüfung vorgesehene Gebühr fällig; waren mehrere Fahrzeuge zur Prüfung angemeldet, ist die Gebühr nur für das Fahrzeug fällig, für das die höchste Gebühr vorgesehen ist. Für die Fortsetzung einer derartig unterbrochenen Prüfung ist eine Gebühr bis zur Hälfte der Gebührensätze zu berechnen. Dies gilt auch, wenn die Prüfung wegen der Notwendigkeit besonderer Untersuchungen am festgesetzten Tag nicht beendet werden kann.
+
+419Reisekosten/ReisezeitenBei Prüfungen und Leistungen außerhalb der Anlagen der Technischen Prüfstelle werden zu den Gebühren die anfallenden Reisekosten in Rechnung gestellt, soweit in den einzelnen Gebührennummern nichts anderes bestimmt ist. Sie setzen sich zusammen aus den Fahrtkosten für öffentliche Verkehrsmittel und den steuerrechtlichen Höchstsätzen für Kilometer-, Tage- und Übernachtungsgeld. Höhere Kosten müssen begründet und nachgewiesen werden. Dies gilt auch für Reisenebenkosten. Bei Flugreisen von mehr als 12 Stunden Dauer können Kosten der Business-Klasse berechnet werden.Für die im Zusammenhang mit der Prüftätigkeit anfallenden Reisezeiten wird für jede begonnene Viertelstunde eine Gebühr nach Gebührennummer 499 berechnet.
+
+420Bei Verwendung von Klebesiegeln oder Klebestempeln erhöhen sich die Gebühren des Unterabschnitts 2 je Klebesiegel oder Klebestempel um 0,30 Euro.
+
+3.(weggefallen)
+
+4.Terminzuschläge
+
+460Soweit Überstunden oder Einsatz außerhalb der normalen Arbeitszeit mit dem Auftraggeber vereinbart sind, werden auf die Gebühren oder den Stundensatz
+
+– an normalen Werktagen zwischen 6.00 und 20.00 Uhr 30 v. H.,
+
+– an dienstfreien Werktagen zwischen 6.00 und 20.00 Uhr 60 v. H.,
+
+– in den Nachtstunden zwischen 20.00 und 6.00 Uhr 60 v. H.,
+
+– an Sonntagen zwischen 0.00 und 24.00 Uhr 80 v. H.,
+
+– an Feiertagen zwischen 0.00 und 24.00 Uhr 120 v. H.
+
+als Zuschlag erhoben.
+
+5.Sonstige Maßnahmen auf dem Gebiet des Straßenverkehrs
+
+499Für andere als die in diesem Abschnitt aufgeführten Prüfungen und Untersuchungen können Gebühren nach den Sätzen für vergleichbare Prüfungen oder Untersuchungen der Gebührennummern 401 bis 460 oder, soweit solche nicht bewertet sind, je angefangene Viertelstunde mindestens 22,70 Euro und höchstens 30,20 Euro erhoben werden. Der Zeitaufwand für Prüfgehilfen wird mit 70 v. H. des vorgenannten Satzes berechnet.
+
+##### Anhang (zu Gebühren-Nummer 263.1.1) Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- und Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO
+
+(Fundstelle: BGBl. I 2020, 822 - 824)
+
+1. Die Grundgebühr für eine Entscheidung beträgt 40,00 Euro.
+
+2. Diese Grundgebühr erhöht sich in Abhängigkeit von den nachfolgenden Kriterien. Dabei wird für jedes einzelne Kriterium ein Erhöhungsfaktor ermittelt. Die Höhe des jeweiligen Faktors ergibt sich aus den nachfolgend festgelegten Formeln. Die Faktoren der einzelnen Kriterien können auch den Wert 0 ergeben.
+
+a) Erlaubnis- oder Genehmigungszeitraum Wird eine Erlaubnis oder eine Genehmigung für einen Zeitraum von mehr als einem Monat erteilt, berechnet sich der Faktor (fZ) für das Kriterium „Erlaubnis- oder Genehmigungszeitraum“ wie folgt (x = die Anzahl der Monate im Einzelfall): Zeitraum 1 bis 3 MonatefZ = 0,5 · x - 0,5Zeitraum mehr als 3 bis 12 MonatefZ = 1/9 · x + 2/3Zeitraum mehr als 12 bis 36 MonatefZ = 1/24 · x + 1,5.
+
+b) Gesamtmasse Die Berechnung des Faktors (fM) für das Kriterium „Gesamtmasse“ erfolgt nach der folgenden Formel (x = die Gesamtmasse des Fahrzeugs im Einzelfall): Gesamtmasse 41,8 t bis 200 t:fM = 0,037926675 · x - 1,58533502Gesamtmasse mehr als 200 t:fM = 0,01 · x + 4.
+
+c) Anzahl der am Verfahren beteiligten Stellen Die Anzahl umfasst die Summe aller am Verfahren beteiligten Stellen einschließlich der des eigenen Bundeslandes. Die Berechnung des Faktors (fB) erfolgt nach folgender Formel (x = die Summe der jeweils im Einzelfall beteiligten Stellen): fB = 4/9 · x - 4/9.
+
+d) Anzahl der zu genehmigenden Fahrtwege oder Flächen oder Bereiche Als ein Fahrtweg gilt eine zusammenhängende Strecke, die aus Last- beziehungsweise Leerfahrtanteilen (= Fahrtweganteilen) bestehen kann. Bei flächendeckenden Daueranträgen gilt die Anzahl der nach Landesrecht festgelegten Flächen beziehungsweise Bereiche. Die „Anzahl“ gibt an, wie viele Fahrtwege, Flächen oder Bereiche Eingang in die Erlaubnis finden. Die Berechnung des Faktors (fStr) erfolgt nach folgender Formel (x = die Anzahl der jeweils im Einzelfall zu genehmigenden Fahrtwege/Flächen/Bereiche): fStr = (x - 1) / 2.
+
+e) Anzahl der von der Erlaubnis umfassten Fahrzeuge oder zulässigen Fahrzeugkombinationen Werden von einer Erlaubnis mehrere Fahrzeuge umfasst beziehungsweise kann der Erlaubnisadressat mehrere Fahrzeugkombinationen für die Durchführung des Transports beziehungsweise der Transporte wählen, berechnet sich der Faktor (fF) wie folgt (x = die Anzahl der jeweils im Einzelfall von der Erlaubnis umfassten Fahrzeuge beziehungsweise zulässigen Fahrzeugkombinationen, bei mehreren zulässigen Fahrzeugkombinationen ergibt sich die Anzahl aus der Multiplikation der Zahl der Zugmaschinen mit der Zahl der Anhänger): fF = 2/9 · x - 2/9.
+
+f) Anzahl der erheblichen Maßüberschreitungen Erheblich ist eine Maßüberschreitung, wenn einer der folgenden Werte überschritten wird: Der Faktor (fMÜ) wird mit folgenden festen Werten festgelegt: ein Wert ist überschrittenfMÜ = 2zwei Werte sind überschrittenfMÜ = 4drei Werte sind überschrittenfMÜ = 6.
+
+– Länge mehr als 50,00 m
+
+– Breite mehr als 4,00 m
+
+– Höhe mehr als 4,35 m.
+
+g) Zusätzlicher Arbeitsaufwand Entsteht bei der Erlaubnis- beziehungsweise Genehmigungsbehörde oder bei den übrigen beteiligten Stellen zusätzlicher Aufwand, der vom Antragsteller veranlasst wurde und der nicht bereits von den Kriterien nach den Buchstaben a bis f abgedeckt ist, so ist folgender Faktor (fA) anzuwenden: Aufwand normalfA = 0Aufwand erhöhtfA = 1Aufwand hochfA = 2Aufwand sehr hochfA = 3Aufwand außergewöhnlich hochfA = 4. Das Kriterium „Zusätzlicher Arbeitsaufwand“ gliedert sich in die nachfolgend aufgeführten Unterkriterien. Der höchste jeweils im Einzelfall ermittelte Aufwand ist für die Bestimmung des Faktors (fA) maßgeblich: AufwandDefinition**aa) Antragstellung**normalÜber das Verfahrensmanagement für Großraum- und Schwertransporte (VEMAGS).hochAußerhalb von VEMAGS.**bb) Antragsdaten allgemein**normalKeine Beanstandungen. Korrekt und vollständig. Antragsdaten entsprechen Ausnahmegenehmigung (AG) § 70 StVZO.hochSowohl Rückfragen oder Korrekturen als auch Ergänzungen oder Präzisierungen (zum Beispiel der Fahrzeugmaße) erforderlich, auch auf Veranlassung des Antragstellers. Antragsdaten entsprechen AG § 70 StVZO, es ist aber ein umfangreicher Abgleich erforderlich.sehr hochSowohl viele Rückfragen oder Korrekturen als auch Ergänzungen oder Präzisierungen (zum Beispiel der Fahrzeugmaße) erforderlich, auch auf Veranlassung des Antragstellers. Antragsdaten entsprechen AG § 70 StVZO, es ist aber ein sehr umfangreicher Abgleich erforderlich.Außergewöhnlich hochSowohl sehr viele Rückfragen oder Korrekturen als auch Ergänzungen oder Präzisierungen (zum Beispiel der Fahrzeugmaße) erforderlich, auch auf Veranlassung des Antragstellers. Antragsdaten entsprechen AG § 70 StVZO, es ist aber ein sehr umfangreicher Abgleich erforderlich.**cc) Antragsdaten Fahrweg**normalPräzise – bedürfen keiner Überarbeitung.hochKorrektur, Ergänzung oder Präzisierung erforderlich.sehr hochMitwirkung der Behörde zur Ermittlung eines geeigneten Fahrwegs erforderlich.Außergewöhnlich hochBesonders aufwändig, zum Beispiel durch Prüfung eines Streckenprotokolls durch Beteiligte.**dd) Anhörverfahren**normalKeine Anhörung (keine oder geringe Überschreitung der gesetzlichen Maße).erhöhtOhne Probleme und weitere Aktivitäten. Keine oder wenig Anpassungen und Rückfragen notwendig.hochErneute Anhörungen erforderlich, zum Beispiel durch Fahrwegänderungen durch Anhörpartner. Einige Anpassungen, Rückfragen, Präzisierungen notwendig.sehr hochErneute Anhörungen erforderlich, zum Beispiel durch Fahrwegänderungen durch Anhörpartner. Viele Anpassungen, Rückfragen, Präzisierungen notwendig.**ee) Bescheiderteilung**normalBescheiderteilung ohne Anhörverfahren.erhöhtBescheiderteilung nach Prüfen der Zustimmungserklärungen und Ordnen (Zusammenfassen) der Auflagen.hochAufwändige Bescheiderteilung nach Prüfen der Zustimmungserklärungen und Ordnen (Zusammenfassen) der Auflagen (zum Beispiel Fahrwegänderungen, Anpassung der Auflagen, Rückfragen).sehr hochSehr aufwändig, da Bescheiderteilung nach Prüfen der Zustimmungserklärungen nicht unmittelbar möglich, weil etliche Korrekturen und diverse Rückfragen mit Antragsteller und Anhörungsbehörden erforderlich sind.Außergewöhnlich hochBesonders aufwändig, zum Beispiel auf Grund von Festlegung ergänzender Maßnahmen, wie Anordnungen zur Demontage von Verkehrszeichen (VZ), Lichtzeichenanlagen, Aufstellen zusätzlicher VZ.
+
+3. Die Gesamtgebühr berechnet sich wie folgt:
+
+a) Berechnung des Gesamtfaktors Der Gesamtfaktor für die Berechnung des Erhöhungsbetrages wird durch die Addition der unter Nummer 2 Buchstabe a bis g ermittelten Faktoren der einzelnen Kriterien ermittelt: f = fZ + fM + fB + fStr + fF + fMÜ + fA.
+
+b) Berechnung des Erhöhungsbetrages Zur Ermittlung des Erhöhungsbetrages wird der Gesamtfaktor mit der Grundgebühr von 40,00 Euro multipliziert: Erhöhungsbetrag = f · 40,00 Euro.
+
+c) Berechnung der Gesamtgebühr Die Gesamtgebühr ergibt sich aus der Addition der Grundgebühr und des Erhöhungsbetrages: Gesamtgebühr = 40,00 Euro + Erhöhungsbetrag.
+
+d) Höchstgrenze Die Gesamtgebühr darf die obere Rahmengrenze von 1 300,00 Euro nicht überschreiten. Sie ist gegebenenfalls entsprechend zu kappen.
+
