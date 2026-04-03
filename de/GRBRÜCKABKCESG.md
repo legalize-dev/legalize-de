@@ -1,0 +1,44 @@
+---
+title: "Gesetz zu dem Vertrag vom 13. Juli 1995
+zwischen der Bundesrepublik Deutschland und der
+Tschechischen Republik über den Bau einer Grenzbrücke
+an der gemeinsamen Staatsgrenze im Zuge der Europastraße E 49"
+identifier: "GRBRÜCKABKCESG"
+country: "de"
+rank: "bundesgesetz"
+publication_date: "1996-11-26"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://www.gesetze-im-internet.de/grbr_ckabkcesg/"
+department: "BMJ (Bundesministerium der Justiz)"
+doknr: "BJNR266220996"
+slug: "grbr_ckabkcesg"
+bgbl_reference: "BGBl II 1996, 2662"
+---
+# Gesetz zu dem Vertrag vom 13. Juli 1995
+zwischen der Bundesrepublik Deutschland und der
+Tschechischen Republik über den Bau einer Grenzbrücke
+an der gemeinsamen Staatsgrenze im Zuge der Europastraße E 49
+
+##### Eingangsformel
+
+Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
+
+##### Art 1
+
+Dem in Prag am 13. Juli 1995 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Bau einer Grenzbrücke an der gemeinsamen Staatsgrenze im Zuge der Europastraße E 49 wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
+
+##### Art 2
+
+(1) Auf die in Artikel 9 Abs. 1 des Vertrags bezeichneten Umsätze findet tschechisches Mehrwertsteuerrecht Anwendung. Für diese Umsätze wird keine deutsche Umsatzsteuer erhoben.
+
+(2) Für die in Artikel 9 Abs. 2 Satz 1 des Vertrags genannten Waren werden außer Zöllen keine Einfuhrabgaben erhoben. Dies gilt nicht bei der Einfuhr für die öffentlichen Bauverwaltungen.
+
+(3) Die in Artikel 9 des Vertrags vorgesehenen steuerlichen Bestimmungen sind mit Wirkung vom 13. Juli 1995 anzuwenden.
+
+##### Art 3
+
+(1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+(2) Der Tag, an dem der Vertrag nach seinem Artikel 14 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+
