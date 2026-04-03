@@ -1,0 +1,22 @@
+---
+title: "Gesetz betreffend die Überleitung von Hypotheken des früheren Rechtes"
+identifier: "HYPÜBERLG"
+country: "de"
+rank: "bundesgesetz"
+publication_date: "1906-03-17"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://www.gesetze-im-internet.de/hyp_berlg/"
+department: "BMJ (Bundesministerium der Justiz)"
+doknr: "BJNR004290906"
+slug: "hyp_berlg"
+bgbl_reference: "RGBl 1906, 429"
+---
+# Gesetz betreffend die Überleitung von Hypotheken des früheren Rechtes
+
+##### (XXXX)
+
+Durch Landesgesetz kann bestimmt werden, daß ein zu der Zeit, zu welcher das Grundbuch als angelegt anzusehen ist, an einem Grundstücke bestehendes Pfandrecht, das zur Sicherung künftiger Ansprüche auf Zinsen, Kosten und andere Nebenleistungen neben dem Pfandrechte für die Hauptforderung bestellt worden ist, erlischt, wenn es sich mit dem Eigentum in einer Person vereinigt.
+
+Diese Bestimmung kann auch nach dem Zeitpunkte, zu welchem das Grundbuch als angelegt anzusehen ist, getroffen werden. Sie kann dahin erweitert werden, daß Hypotheken der bezeichneten Art, die sich schon mit dem Eigentum in einer Person vereinigt haben, als im Zeitpunkte der Vereinigung erloschen gelten.
+
