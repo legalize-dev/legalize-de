@@ -1,0 +1,40 @@
+---
+title: "Bekanntmachung über die Höhe der Regelbedarfe nach § 20 Absatz 5 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Januar 2012"
+identifier: "RBBEK-2012"
+country: "de"
+rank: "bekanntmachung"
+publication_date: "2011-10-20"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://www.gesetze-im-internet.de/rbbek_2012/"
+department: "BMJ (Bundesministerium der Justiz)"
+doknr: "BJNR209300011"
+slug: "rbbek_2012"
+bgbl_reference: "BGBl I 2011, 2093"
+---
+# Bekanntmachung über die Höhe der Regelbedarfe nach § 20 Absatz 5 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Januar 2012
+
+##### (XXXX)
+
+Nach § 20 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende – in der Fassung der Bekanntmachung vom 13. Mai 2011 (BGBl. I S. 850) wird hiermit Folgendes bekannt gemacht:
+
+Als Regelbedarfe nach § 20 Absatz 2 bis 4 sowie nach § 23 Nummer 1 des Zweiten Buches Sozialgesetzbuch (SGB II) werden für die Zeit ab 1. Januar 2012 anerkannt:
+
+1. für eine Person, die alleinstehend oder alleinerziehend ist oder deren Partnerin oder Partner minderjährig ist, monatlich 374 Euro (§ 20 Absatz 2 Satz 1 SGB II);
+
+2. für sonstige erwerbsfähige Angehörige der Bedarfsgemeinschaft, sofern sie das 18. Lebensjahr noch nicht vollendet haben, monatlich 287 Euro (§ 20 Absatz 2 Satz 2 Nummer 1 in Verbindung mit § 77 Absatz 4 Nummer 1 SGB II);
+
+3. für sonstige erwerbsfähige Angehörige der Bedarfsgemeinschaft, sofern sie das 18. Lebensjahr vollendet haben, sowie für Personen, die das 25. Lebensjahr noch nicht vollendet haben und ohne Zusicherung des zuständigen kommunalen Trägers nach § 22 Absatz 5 umziehen, bis zur Vollendung des 25. Lebensjahres, monatlich 299 Euro (§ 20 Absatz 2 Satz 2 Nummer 2 und § 20 Absatz 3 SGB II);
+
+4. für zwei Partner der Bedarfsgemeinschaft, die das 18. Lebensjahr vollendet haben, für jede dieser Personen ein Betrag in Höhe von monatlich 337 Euro (§ 20 Absatz 4 SGB II);
+
+5. für eine Person bis zur Vollendung des sechsten Lebensjahres monatlich 219 Euro (§ 23 Nummer 1 erste Alternative SGB II);
+
+6. für eine Person vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres monatlich 251 Euro (§ 23 Nummer 1 zweite Alternative in Verbindung mit § 77 Absatz 4 Nummer 3 SGB II);
+
+7. für Leistungsberechtigte im 15. Lebensjahr monatlich 287 Euro (§ 23 Nummer 1 dritte Alternative in Verbindung mit § 77 Absatz 4 Nummer 4 SGB II).
+
+##### Schlussformel
+
+*Bundesministerium für Arbeit und Soziales*
+
