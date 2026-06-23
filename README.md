@@ -1,43 +1,41 @@
-# Legalize — Deutschland
+# legalize-de
 
-> **Early stage** — This repository is under active development. File structure, commit history, and content may undergo significant changes, including full regeneration. Do not build tooling against the current layout without expecting breaking changes.
->
-> **Frühphase** — Dieses Repository befindet sich in aktiver Entwicklung. Dateistruktur, Commit-Verlauf und Inhalte können sich erheblich ändern, einschließlich vollständiger Neugenerierung. Bauen Sie keine Tools auf der aktuellen Struktur auf, ohne mit grundlegenden Änderungen zu rechnen.
+Deutschland — Gesetzgebung in Markdown, versioniert als Git-Repository.
 
-Konsolidierte deutsche Bundesgesetzgebung in Markdown, versioniert mit Git.
+Jedes Gesetz ist eine Datei; jede Reform ist ein Commit, datiert auf das tatsächliche amtliche Veröffentlichungsdatum. Das `git log` eines jeden Gesetzes zeigt seine vollständige Historie — wann es erlassen wurde, welche Artikel sich geändert haben und durch welche Norm.
 
-Jedes Gesetz ist eine Datei. Jede Änderung ist ein Commit.
+Bundesrecht der Bundesrepublik Deutschland: konsolidierte Fassungen von rund 6.900 Gesetzen und Rechtsverordnungen, wie sie über das Inhaltsverzeichnis (gii-toc.xml) von gesetze-im-internet.de bereitgestellt werden. Jede Norm ist eine Markdown-Datei; jede dokumentierte Änderung ist ein Git-Commit. Landesrecht (Recht der Bundesländer) ist nicht enthalten.
 
-Teil des Projekts [Legalize](https://github.com/legalize-dev/legalize) · [legalize.dev](https://legalize.dev)
+## Inhalt
 
-## Struktur
+- **Grundgesetz** (`GG.md`) — `de/GG.md`
+- **Bundesgesetz** (`{ABK}.md`) — `de/BGB.md`, `de/STGB.md`
+- **Rechtsverordnung** (`{ABK}.md`) — Verordnungen des Bundes (rank: rechtsverordnung).
+- **Bekanntmachung** (`{ABK}.md`) — Amtliche Bekanntmachungen (rank: bekanntmachung).
+- **Satzung** (`{ABK}.md`) — Satzungen (rank: satzung).
 
-```
-de/
-  GG.md                      — Grundgesetz
-  BGB.md                     — Bürgerliches Gesetzbuch
-  STGB.md                    — Strafgesetzbuch
-  HGB.md                     — Handelsgesetzbuch
-  ...
-```
+## Datenquelle
 
-Der normative Rang (Grundgesetz, Bundesgesetz, Rechtsverordnung, Bekanntmachung) steht im YAML-Frontmatter jeder Datei, nicht in der Verzeichnisstruktur.
+- **Gesetze im Internet — Bundesministerium der Justiz (BMJ) und Bundesamt für Justiz, technisch betrieben durch die juris GmbH**
+  - Portal: https://www.gesetze-im-internet.de/
+  - Inhaltsverzeichnis (TOC-XML): https://www.gesetze-im-internet.de/gii-toc.xml
+  - XML-Download je Gesetz: https://www.gesetze-im-internet.de/{slug}/xml.zip
 
-## Quelle
+## Hinweise
 
-Daten von [gesetze-im-internet.de](https://www.gesetze-im-internet.de/), bereitgestellt durch das BMJ (Bundesministerium der Justiz) über juris GmbH. Öffentlich zugänglich, keine Registrierung erforderlich.
+- Die hier veröffentlichten konsolidierten Fassungen sind nicht die amtliche Verkündungsfassung. Maßgeblich bleibt der im Bundesgesetzblatt (BGBl.) verkündete Text; die jeweilige Fundstelle ist im Frontmatter unter `extra.bgbl_reference` vermerkt.
+- Der Dateiname entspricht der amtlichen bzw. juris-Abkürzung (`jurabk`) in Großbuchstaben, Leerzeichen durch Bindestriche ersetzt (z. B. `GG`, `BGB`, `STGB`). Weitere Kennungen wie die juris-Dokumentnummer (`doknr`, beginnend mit „BJNR…") und der URL-Slug stehen im Frontmatter unter `extra`.
+- Bilder werden nicht übernommen; Tabellen, Listen sowie Fett- und Kursivauszeichnungen bleiben als Markdown erhalten.
 
-## Format
+## Weitere Länder
 
-Jede Datei enthält:
+Dieses Repository ist Teil von **Legalize**, das die Gesetzgebung mehrerer Länder als Git-Repositories pflegt. Den vollständigen Katalog finden Sie unter https://legalize.dev.
 
-- **YAML-Frontmatter**: Metadaten (Titel, Kennung, Datum, Rechtsstatus, BGBl-Referenz)
-- **Markdown-Inhalt**: konsolidierter Text mit hierarchischer Gliederung
+## Unterstützung
+
+Legalize ist kostenlos und offen. Wenn diese Arbeit für Sie nützlich ist, können Sie dazu beitragen, ihr Hosting und ihre Weiterentwicklung zu sichern: [Dieses Projekt unterstützen](https://buymeacoffee.com/legalizedev).
 
 ## Lizenz
 
-Die Gesetzestexte sind gemeinfrei. Die Strukturierung und Formatierung stehen unter der [MIT](LICENSE)-Lizenz.
-
----
-
-Erstellt von [Enrique Lopez](https://enriquelopez.eu) · [legalize.dev](https://legalize.dev)
+- **Pipeline-Code**: MIT (https://github.com/legalize-dev/legalize-pipeline)
+- **Daten**: gemeinfrei (amtliche Werke nach § 5 UrhG; freie Nutzung und Weiterverwendung)
