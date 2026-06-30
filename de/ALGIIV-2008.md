@@ -1,26 +1,30 @@
 ---
-title: "Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld"
+title: "Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Grundsicherungsgeld"
 identifier: "ALGIIV-2008"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2007-12-17"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/algiiv_2008/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR294200007"
 slug: "algiiv_2008"
 bgbl_reference: "BGBl I 2007, 2942"
-amtabk: "Bürgergeld-V"
-stand: "Zuletzt geändert durch Art. 1 V v. 20.8.2024 I Nr. 267"
+amtabk: "GrusiGV"
+stand: "Zuletzt geändert durch Art. 11 Abs. 14 G v. 16.4.2026 I Nr. 107"
 ---
-# Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld
+# Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Grundsicherungsgeld
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende – (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954, 2955), der durch Artikel 1 Nr. 11 des Gesetzes vom 20. Juli 2006 (BGBl. I S. 1706) geändert worden ist, verordnet das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-##### § 1 Nicht als Einkommen zu berücksichtigende Einnahmen
+###### § 1 Nicht als Einkommen zu berücksichtigende Einnahmen
 
 (1) Außer den in § 11a des Zweiten Buches Sozialgesetzbuch genannten Einnahmen sind nicht als Einkommen zu berücksichtigen:
 
@@ -40,7 +44,7 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 8. Kindergeld für Kinder des Hilfebedürftigen, soweit es nachweislich an das nicht im Haushalt des Hilfebedürftigen lebende Kind weitergeleitet wird,
 
-9. bei Beziehenden von Bürgergeld nach § 19 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch, die das 15. Lebensjahr noch nicht vollendet haben, Einnahmen aus Erwerbstätigkeit, soweit sie einen Betrag von 100 Euro monatlich nicht übersteigen,
+9. bei Beziehenden von Grundsicherungsgeld nach § 19 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch, die das 15. Lebensjahr noch nicht vollendet haben, Einnahmen aus Erwerbstätigkeit, soweit sie einen Betrag von 100 Euro monatlich nicht übersteigen,
 
 10. eine Witwen- oder Witwerrente nach § 67 Nummer 5 und 6 des Sechsten Buches Sozialgesetzbuch, soweit diese Rente bis zum Ende des dritten Kalendermonats nach Ablauf des Monats, in dem der Ehegatte verstorben ist, die anschließende Witwen- oder Witwerrente überschreitet,
 
@@ -54,7 +58,7 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 (3) Die Verletztenrente nach dem Siebten Buch Sozialgesetzbuch ist teilweise nicht als Einkommen zu berücksichtigen, wenn sie auf Grund eines in Ausübung der Wehrpflicht bei der Nationalen Volksarmee der ehemaligen Deutschen Demokratischen Republik erlittenen Gesundheitsschadens erbracht wird. Dabei bestimmt sich die Höhe des nicht zu berücksichtigenden Betrages nach der Höhe der vergleichbaren monatlichen Entschädigungszahlung nach § 83 Absatz 1 des Vierzehnten Buches Sozialgesetzbuch, die für den Grad der Schädigungsfolgen zu zahlen ist, der der jeweiligen Minderung der Erwerbsfähigkeit entspricht. Bei einer Minderung der Erwerbsfähigkeit um 20 Prozent beträgt der nicht zu berücksichtigende Betrag zwei Drittel, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein Drittel der Mindestgrundrente nach dem Vierzehnten Buch Sozialgesetzbuch.
 
-##### § 2 Berechnung des Einkommens aus nichtselbständiger Arbeit
+###### § 2 Berechnung des Einkommens aus nichtselbständiger Arbeit
 
 (1) Bei der Berechnung des Einkommens aus nichtselbständiger Arbeit (§ 14 des Vierten Buches Sozialgesetzbuch) ist von den Bruttoeinnahmen auszugehen.
 
@@ -74,7 +78,7 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 2. die Entscheidung über die Erbringung von Leistungen der Grundsicherung für Arbeitsuchende im Einzelfall keinen Aufschub duldet.
 
-##### § 3 Berechnung des Einkommens aus selbständiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft
+###### § 3 Berechnung des Einkommens aus selbständiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft
 
 (1) Bei der Berechnung des Einkommens aus selbständiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft ist von den Betriebseinnahmen auszugehen. Betriebseinnahmen sind alle aus selbständiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft erzielten Einnahmen, die im Bewilligungszeitraum nach § 41 Absatz 3 des Zweiten Buches Sozialgesetzbuch tatsächlich zufließen. Wird eine Erwerbstätigkeit nach Satz 1 nur während eines Teils des Bewilligungszeitraums ausgeübt, ist das Einkommen nur für diesen Zeitraum zu berechnen.
 
@@ -92,7 +96,7 @@ Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für 
 
 (7) Wird ein Kraftfahrzeug überwiegend betrieblich genutzt, sind die tatsächlich geleisteten notwendigen Ausgaben für dieses Kraftfahrzeug als betriebliche Ausgabe abzusetzen. Für private Fahrten sind die Ausgaben um 0,10 Euro für jeden gefahrenen Kilometer zu vermindern. Ein Kraftfahrzeug gilt als überwiegend betrieblich genutzt, wenn es zu mindestens 50 Prozent betrieblich genutzt wird. Wird ein Kraftfahrzeug überwiegend privat genutzt, sind die tatsächlichen Ausgaben keine Betriebsausgaben. Für betriebliche Fahrten können 0,10 Euro für jeden mit dem privaten Kraftfahrzeug gefahrenen Kilometer abgesetzt werden, soweit der oder die erwerbsfähige Leistungsberechtigte nicht höhere notwendige Ausgaben für Kraftstoff nachweist.
 
-##### § 4 Berechnung des Einkommens in sonstigen Fällen
+###### § 4 Berechnung des Einkommens in sonstigen Fällen
 
 Für die Berechnung des Einkommens aus Einnahmen, die nicht unter die §§ 2 und 3 fallen, ist § 2 entsprechend anzuwenden. Hierzu gehören insbesondere Einnahmen aus
 
@@ -104,11 +108,11 @@ Für die Berechnung des Einkommens aus Einnahmen, die nicht unter die §§ 2 und
 
 4. Wehr-, Ersatz- und Freiwilligendienstverhältnissen.
 
-##### § 5 Begrenzung abzugsfähiger Ausgaben
+###### § 5 Begrenzung abzugsfähiger Ausgaben
 
 Ausgaben sind höchstens bis zur Höhe der Einnahmen aus derselben Einkunftsart abzuziehen. Einkommen darf nicht um Ausgaben einer anderen Einkommensart vermindert werden.
 
-##### § 5a Beträge für die Prüfung der Hilfebedürftigkeit
+###### § 5a Beträge für die Prüfung der Hilfebedürftigkeit
 
 Bei der Prüfung der Hilfebedürftigkeit ist zugrunde zu legen
 
@@ -116,7 +120,7 @@ Bei der Prüfung der Hilfebedürftigkeit ist zugrunde zu legen
 
 2. für die mehrtägigen Klassenfahrten (§ 28 Absatz 2 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch) monatlich der Betrag, der sich bei der Teilung der Aufwendungen, die für die mehrtägige Klassenfahrt entstehen, auf einen Zeitraum von sechs Monaten ab Beginn des auf den Antrag folgenden Monats ergibt.
 
-##### § 6 Pauschbeträge für vom Einkommen abzusetzende Beträge
+###### § 6 Pauschbeträge für vom Einkommen abzusetzende Beträge
 
 (1) Als Pauschbeträge sind abzusetzen
 
@@ -134,21 +138,20 @@ Bei der Prüfung der Hilfebedürftigkeit ist zugrunde zu legen
 
 (3) Für Mehraufwendungen für Verpflegung ist, wenn die erwerbsfähige leistungsberechtigte Person vorübergehend von seiner Wohnung und dem Mittelpunkt seiner dauerhaft angelegten Erwerbstätigkeit entfernt erwerbstätig ist, für jeden Kalendertag, an dem die erwerbsfähige leistungsberechtigte Person wegen dieser vorübergehenden Tätigkeit von seiner Wohnung und dem Tätigkeitsmittelpunkt mindestens zwölf Stunden abwesend ist, ein Pauschbetrag in Höhe von 6 Euro abzusetzen.
 
-##### § 7 Nicht zu berücksichtigendes Vermögen
+###### § 7 Nicht zu berücksichtigendes Vermögen
 
 (1) Außer dem in § 12 Absatz 1 des Zweiten Buches Sozialgesetzbuch genannten Vermögen sind Vermögensgegenstände nicht als Vermögen zu berücksichtigen, die zur Aufnahme oder Fortsetzung der Berufsausbildung oder der Erwerbstätigkeit unentbehrlich sind.
 
 (2) Bei der § 9 Abs. 5 des Zweiten Buches Sozialgesetzbuch zu Grunde liegenden Vermutung, dass Verwandte und Verschwägerte an mit ihnen in Haushaltsgemeinschaft lebende Leistungsberechtigte Leistungen erbringen, ist Vermögen nicht zu berücksichtigen, das nach § 12 Abs. 2 des Zweiten Buches Sozialgesetzbuch abzusetzen oder nach § 12 Absatz 1 des Zweiten Buches Sozialgesetzbuch nicht zu berücksichtigen ist.
 
-##### § 8 Wert des Vermögens
+###### § 8 Wert des Vermögens
 
 Das Vermögen ist ohne Rücksicht auf steuerrechtliche Vorschriften mit seinem Verkehrswert zu berücksichtigen.
 
-##### § 9 Übergangsvorschrift
+###### § 9 Übergangsvorschrift
 
 § 6 Absatz 1 Nummer 3 und 4 in der ab dem 1. August 2016 geltenden Fassung ist erstmals anzuwenden für Bewilligungszeiträume, die nach dem 31. Juli 2016 begonnen haben.
 
-##### § 10 Inkrafttreten, Außerkrafttreten
+###### § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2008 in Kraft.
-
