@@ -4,24 +4,28 @@ identifier: "LNGG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2022-05-24"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/lngg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR080200022"
 slug: "lngg"
 bgbl_reference: "BGBl I 2022, 802"
-stand: "Zuletzt geändert durch Art. 6 G v. 3.7.2024 I Nr. 225"
+stand: "Zuletzt geändert durch Art. 5 G v. 12.5.2026 I Nr. 137"
 ---
 # Gesetz zur Beschleunigung des Einsatzes verflüssigten Erdgases
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-##### (XXXX) §§ 1 bis 4 (weggefallen)
+###### (XXXX) §§ 1 bis 4 (weggefallen)
 
-##### § 5 Maßgaben für die Anwendung des Bundes-Immissionsschutzgesetzes und der Industriekläranlagen-Zulassungs- und Überwachungsverordnung
+###### § 5 Maßgaben für die Anwendung des Bundes-Immissionsschutzgesetzes und der Industriekläranlagen-Zulassungs- und Überwachungsverordnung
 
 (1) (weggefallen)
 
@@ -39,15 +43,15 @@ Die zuständige Behörde übermittelt die dem Nachweis nach Satz 1 dienenden Unt
 
 (4) (weggefallen)
 
-##### (XXXX) §§ 6 bis 8 (weggefallen)
+###### (XXXX) §§ 6 bis 8 (weggefallen)
 
-##### § 9 Beschleunigte Vergabe- und Nachprüfungsverfahren
+###### § 9 Beschleunigte Vergabe- und Nachprüfungsverfahren
 
 (1)(außer Kraft)
 
-(2) Für Nachprüfungsverfahren vor der Vergabekammer sind für Vorhaben nach § 2 die vergaberechtlichen Vorschriften mit folgenden Maßgaben anzuwenden:
+(2) Für Nachprüfungsverfahren vor der Vergabekammer sind für Vorhaben nach § 2 dieses Gesetzes in der vor dem 1. Juli 2025 geltenden Fassung die vergaberechtlichen Vorschriften mit folgenden Maßgaben anzuwenden:
 
-1. Ergänzend zu § 166 Absatz 1 Satz 3 des Gesetzes gegen Wettbewerbsbeschränkungen kann auch nach Lage der Akten entschieden werden, soweit dies der Beschleunigung dient. Die mündliche Verhandlung kann im Wege der Bild- und Tonübertragung nach § 128a der Zivilprozessordnung durchgeführt werden.
+1. Ergänzend zu § 166 Absatz 1 Satz 3 des Gesetzes gegen Wettbewerbsbeschränkungen kann auch nach Lage der Akten entschieden werden, soweit dies der Beschleunigung dient.
 
 2. Abweichend von § 167 Absatz 1 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen trifft und begründet die Vergabekammer ihre Entscheidung innerhalb einer Frist von drei Wochen ab Eingang des Nachprüfungsantrags. Abweichend von § 167 Absatz 1 Satz 2 und 3 des Gesetzes gegen Wettbewerbsbeschränkungen kann die Entscheidungsfrist von drei Wochen nur einmalig und höchstens um zwei Wochen verlängert werden.
 
@@ -57,31 +61,27 @@ Die zuständige Behörde übermittelt die dem Nachweis nach Satz 1 dienenden Unt
 
 5. Stellt die Vergabekammer im Nachprüfungsverfahren einen Verstoß des Auftraggebers im Sinne des § 135 Absatz 1 Nummer 1 oder 2 des Gesetzes gegen Wettbewerbsbeschränkungen fest, hat sie den Absatz 1 Nummer 4 bis 6 zu beachten.
 
-(3) Für die sofortige Beschwerde sind für Vorhaben nach § 2 die vergaberechtlichen Vorschriften mit folgenden Maßgaben anzuwenden:
+(3) Für die sofortige Beschwerde sind für Vorhaben nach § 2 dieses Gesetzes in der vor dem 1. Juli 2025 geltenden Fassung die vergaberechtlichen Vorschriften mit folgenden Maßgaben anzuwenden:
 
 1. § 171 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass es auf die Frist in ihrer Ausgestaltung nach Absatz 2 Nummer 2 ankommt.
 
 2. Abweichend von § 172 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen ist die sofortige Beschwerde innerhalb von einer Notfrist von einer Woche einzulegen.
 
-3. Abweichend von § 173 Absatz 1 Satz 2 und 3 des Gesetzes gegen Wettbewerbsbeschränkungen entfällt die aufschiebende Wirkung gegenüber der Entscheidung der Vergabekammer bereits eine Woche nach Ablauf der Beschwerdefrist und kann nur für bis zu sechs Wochen verlängert werden. Bei der Abwägung nach § 173 Absatz 2 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen sind zusätzlich der Zweck nach § 1 sowie das besondere Interesse nach § 3 zu berücksichtigen, das in der Regel überwiegt.
+3. Bei der Abwägung nach § 176 Absatz 1 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen sind zusätzlich der Zweck nach § 1 sowie das besondere Interesse nach § 3 zu berücksichtigen, das in der Regel überwiegt. Abweichend von § 176 Absatz 3 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen ist die Vorabentscheidung über den Zuschlag längstens innerhalb von einer Woche nach Eingang des Antrags zu treffen und im Fall einer ausnahmsweisen Verlängerung der Zweck nach § 1 sowie das besondere Interesse nach § 3 zu berücksichtigen, das in der Regel überwiegt.
 
-4. Bei der Abwägung nach § 176 Absatz 1 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen sind zusätzlich der Zweck nach § 1 sowie das besondere Interesse nach § 3 zu berücksichtigen, das in der Regel überwiegt. Abweichend von § 176 Absatz 3 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen ist die Vorabentscheidung über den Zuschlag längstens innerhalb von einer Woche nach Eingang des Antrags zu treffen und im Fall einer ausnahmsweisen Verlängerung der Zweck nach § 1 sowie das besondere Interesse nach § 3 zu berücksichtigen, das in der Regel überwiegt.
+4. Ergänzend zu § 175 Absatz 2 in Verbindung mit § 65 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen kann das Gericht im Ausnahmefall nach Lage der Akten entscheiden, insbesondere wenn dies der Beschleunigung dient und kein unmittelbarer Eindruck der Parteien oder direkter Austausch des tatsächlichen und rechtlichen Vortrags erforderlich ist.
 
-5. § 177 des Gesetzes gegen Wettbewerbsbeschränkungen ist nicht anzuwenden.
+5. § 178 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass die Beschwerdeentscheidung innerhalb einer Frist von fünf Wochen ab Eingang der sofortigen Beschwerde zu treffen und zu begründen ist. Bei besonderen tatsächlichen oder rechtlichen Schwierigkeiten kann der Vorsitzende im Ausnahmefall die Frist durch Mitteilung an die Beteiligten einmalig um höchstens zwei Wochen verlängern. Abweichend von § 178 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen entscheidet das Gericht stets in der Sache selbst.
 
-6. Ergänzend zu § 175 Absatz 2 in Verbindung mit § 65 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen kann das Gericht im Ausnahmefall nach Lage der Akten entscheiden, insbesondere wenn dies der Beschleunigung dient und kein unmittelbarer Eindruck der Parteien oder direkter Austausch des tatsächlichen und rechtlichen Vortrags erforderlich ist. Die mündliche Verhandlung kann im Wege der Bild- und Tonübertragung nach § 128a der Zivilprozessordnung durchgeführt werden.
-
-7. § 178 des Gesetzes gegen Wettbewerbsbeschränkungen ist mit der Maßgabe anzuwenden, dass die Beschwerdeentscheidung innerhalb einer Frist von fünf Wochen ab Eingang der sofortigen Beschwerde zu treffen und zu begründen ist. Bei besonderen tatsächlichen oder rechtlichen Schwierigkeiten kann der Vorsitzende im Ausnahmefall die Frist durch Mitteilung an die Beteiligten einmalig um höchstens zwei Wochen verlängern. Abweichend von § 178 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen entscheidet das Gericht stets in der Sache selbst.
-
-8. Für das Beschwerdegericht gilt Nummer 5 entsprechend.
+6. Für das Beschwerdegericht gilt Absatz 2 Nummer 5 entsprechend.
 
 (4) (außer Kraft)
 
 (5) Bei Verfahren vor Gerichten der Zivil- oder Verwaltungsgerichtsbarkeit über die Vergabe öffentlicher Aufträge und Konzessionen für Vorhaben nach § 2, für die ein Nachprüfungsverfahren nach Absatz 2 nicht statthaft ist, sind alle bestehenden Beschleunigungsmöglichkeiten des jeweiligen Prozessrechts zu nutzen und Interessenabwägungen, insbesondere beim vorläufigen Rechtsschutz, unter Berücksichtigung des Zweckes nach § 1 sowie des besonderen Interesses nach § 3 zu treffen. Dieser Absatz gilt nicht für die Geltendmachung von Schadensersatzansprüchen.
 
-##### § 10 (weggefallen)
+###### § 10 (weggefallen)
 
-##### § 11 Rechtsbehelfe
+###### § 11 Rechtsbehelfe
 
 (1) Widerspruch und Anfechtungsklage gegen eine Zulassungsentscheidung für die Vorhaben nach § 2 sowie gegen die Entscheidung über den vorzeitigen Beginn einer Maßnahme haben keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung des Widerspruchs oder der Anfechtungsklage gegen eine Zulassungsentscheidung nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Zustellung der Zulassungsentscheidung gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der Verwaltungsgerichtsordnung gilt entsprechend.
 
@@ -91,7 +91,7 @@ Die zuständige Behörde übermittelt die dem Nachweis nach Satz 1 dienenden Unt
 
 (4) § 9 Absatz 2 und 3 bleibt unberührt.
 
-##### § 12 Zuständigkeit des Bundesverwaltungsgerichts
+###### § 12 Zuständigkeit des Bundesverwaltungsgerichts
 
 Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug über sämtliche Streitigkeiten über Vorhaben nach § 2. Satz 1 ist auch anzuwenden für
 
@@ -99,7 +99,7 @@ Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug über s
 
 2. Genehmigungen nach dem Bundes-Immissionsschutzgesetz für Anlagen, die für den Betrieb von Vorhaben nach § 2 notwendig sind.
 
-##### § 13 Übergangsregelungen
+###### § 13 Übergangsregelungen
 
 (1) Die Regelungen dieses Gesetzes sind auf bereits vor Inkrafttreten dieses Gesetzes begonnene, aber noch nicht abgeschlossene Verfahren über Zulassungen für die Errichtung und die Inbetriebnahme von Anlagen nach § 2 Absatz 1 Nummer 1, 2 und 4 sowie von Leitungen nach § 2 Absatz 1 Nummer 3 und 6 anzuwenden. Ein Verfahrensschritt, der bereits begonnen, aber noch nicht abgeschlossen wurde, ist neu zu beginnen, wenn er nach den Vorschriften dieses Gesetzes durchgeführt wird. Ein Verfahrensschritt nach Satz 2 muss nicht beendet werden, wenn er nach diesem Gesetz entfallen kann.
 
@@ -111,13 +111,13 @@ Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug über s
 
 (5) Die Regelungen des § 9 sind auch auf vor dem Inkrafttreten dieses Gesetzes begonnene, aber noch nicht abgeschlossene Vergabe- und Nachprüfungsverfahren anzuwenden, die die Vergabe öffentlicher Aufträge und Konzessionen für Vorhaben nach § 2 zum Gegenstand haben; für § 9 Absatz 1 Nummer 1, 2, 7, 8 und 9 sowie Absatz 4 gilt dies nur, sofern das Vergabeverfahren nach dem 24. Februar 2022 begonnen hat. Insbesondere sind § 9 Absatz 1 Nummer 3 bis 6 sowie die Regelungen zum Rechtsschutz nach § 9 Absatz 2, 3 und 5 auch anzuwenden, wenn bereits vor dem Inkrafttreten dieses Gesetzes das Vergabeverfahren abgeschlossen oder der Vertrag geschlossen wurde. Der Fristbeginn in Fällen des § 9 Absatz 2 und 3 fällt bei bereits vor Inkrafttreten dieses Gesetzes begonnenen Nachprüfungsverfahren frühestens auf den Tag des Inkrafttretens dieses Gesetzes; soweit vor dem Inkrafttreten dieses Gesetzes geltende Fristen in Nachprüfungsverfahren früher ablaufen als die Fristen nach § 9 Absatz 2 und 3, sind die vor Inkrafttreten dieses Gesetzes geltenden Fristen bis zu ihrem Ablauf anzuwenden.
 
-##### § 14 Inkrafttreten, Außerkrafttreten
+###### § 14 Inkrafttreten, Außerkrafttreten
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
 (2) Die §§ 1 bis 10 treten mit Ausnahme des § 5 Absatz 2 und 3 und des § 9 Absatz 2, 3 und 5 mit Ablauf des 30. Juni 2025 außer Kraft. § 13 tritt mit Ablauf des 30. Juni 2027 außer Kraft.
 
-##### Anlage (zu § 2)
+###### Anlage (zu § 2)
 
 (Fundstelle: BGBl. I 2022, 809; 
  bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -171,4 +171,3 @@ Nr.Vorhabenstandorte
 5.1Anlage nach § 2 Absatz 1 Nr. 1 – FSRU (Standort im Hafen)
 
 5.2Leitung nach § 2 Absatz 1 Nr. 3 (Standort im Hafen – Anschlusspunkt Gasfernleitungsnetz)
-
