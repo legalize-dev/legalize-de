@@ -4,25 +4,29 @@ identifier: "SCHWARZARBG-2004"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2004-07-23"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/schwarzarbg_2004/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR184210004"
 slug: "schwarzarbg_2004"
 bgbl_reference: "BGBl I 2004, 1842"
 amtabk: "SchwarzArbG"
-stand: "Zuletzt geändert durch Art. 20 G v. 20.12.2025 I Nr. 369"
+stand: "Zuletzt geändert durch Art. 8 Abs. 1 G v. 12.5.2026 I Nr. 137"
 ---
 # Gesetz zur Bekämpfung der Schwarzarbeit und illegalen Beschäftigung
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 Abschnitt 1Zweck§ 1Zweck des Gesetzes Abschnitt 2Prüfungen§ 2Prüfungsaufgaben§ 2aMitführungs- und Vorlagepflicht von Ausweispapieren§ 3Befugnisse bei der Prüfung von Personen§ 4Befugnisse bei der Prüfung von Unterlagen und Daten§ 5Duldungs- und Mitwirkungspflichten§ 5aElektronische Einsichtnahme in und Übermittlung von Unterlagen und Daten§ 5bUnzulässiges Anbieten und Nachfragen der Arbeitskraft§ 6Unterrichtung von und Zusammenarbeit mit Behörden im Inland und in der Europäischen Union sowie im Europäischen Wirtschaftsraum§ 6aÜbermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union§ 7Auskunftsansprüche bei anonymen Angeboten und Werbemaßnahmen Abschnitt 3Bußgeld- und Strafvorschriften§ 8Bußgeldvorschriften§ 9Strafvorschriften§ 10Beschäftigung von Ausländerinnen und Ausländern ohne Genehmigung, Aufenthaltstitel, Erlaubnis oder Berechtigung und zu ungünstigen Arbeitsbedingungen§ 10aBeschäftigung von Ausländern ohne Aufenthaltstitel, die Opfer von Menschenhandel sind§ 11Erwerbstätigkeit von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel in größerem Umfang oder von minderjährigen Ausländern Abschnitt 4Ermittlungen§ 12Allgemeines zu den Ordnungswidrigkeiten§ 13Zusammenarbeit in Bußgeldverfahren§ 14Ermittlungsbefugnisse§ 14aSelbstständige Durchführung von Ermittlungsverfahren§ 14bRechte und Pflichten bei der selbstständigen Durchführung von Ermittlungsverfahren§ 14cSachliche und örtliche Zuständigkeit bei der selbstständigen Durchführung von Ermittlungsverfahren Abschnitt 5Datenschutz§ 15Allgemeine Datenverarbeitung§ 16Zentrales Informationssystem für die Finanzkontrolle Schwarzarbeit§ 17Übermittlung von Daten aus dem zentralen Informationssystem§ 18Auskunft an die betroffene Person§ 19Löschung Abschnitt 6Verwaltungsverfahren, Rechtsweg§ 20Entschädigung der Zeugen und Sachverständigen§ 21Ausschluss von öffentlichen Aufträgen§ 22Verwaltungsverfahren§ 23RechtswegAbschnitt 7Zentralstelle und Risikomanagement§ 24Zentralstelle§ 25Zentrales Risikomanagement§ 26Operatives Informations- und Datenanalysesystem; Verordnungsermächtigung
 
 ## Abschnitt 1 Zweck
 
-##### § 1 Zweck des Gesetzes
+###### § 1 Zweck des Gesetzes
 
 (1) Zweck des Gesetzes ist die Verhinderung und Bekämpfung der Schwarzarbeit und illegalen Beschäftigung.
 
@@ -74,7 +78,7 @@ erbracht werden. Als nicht nachhaltig auf Gewinn gerichtet gilt insbesondere ein
 
 ## Abschnitt 2 Prüfungen
 
-##### § 2 Prüfungsaufgaben
+###### § 2 Prüfungsaufgaben
 
 (1) Die Behörden der Zollverwaltung prüfen, ob
 
@@ -156,6 +160,8 @@ Zur Erfüllung ihrer Mitteilungspflicht nach § 6 Absatz 1 Satz 1 in Verbindung 
 
 17. den nach Landesrecht für die Überprüfung der Einhaltung der Vergabe- und Tariftreuegesetze der Länder zuständigen Prüfungs- oder Kontrollstellen,
 
+17a. der Prüfstelle Bundestariftreue nach § 8 Absatz 1 des Bundestariftreuegesetzes,
+
 18. den nach Landesrecht für die Entgegennahme der Anmeldung von Prostituierten nach § 3 des Prostituiertenschutzgesetzes und für die Erlaubniserteilung an Prostitutionsgewerbetreibende nach § 12 des Prostituiertenschutzgesetzes zuständigen Behörden,
 
 19. den nach Landesrecht für die Erlaubniserteilung nach § 34a der Gewerbeordnung zuständigen Behörden und
@@ -166,7 +172,7 @@ Die Aufgaben dieser Stellen nach anderen Rechtsvorschriften bleiben unberührt. 
 
 (5) Die Entscheidung über die Durchführung von Prüfungen nach Absatz 1 liegt im pflichtgemäßen Ermessen der Behörden der Zollverwaltung. Die Prüfungen werden auf Grundlage eines risikoorientierten Ansatzes durchgeführt. Die Auswahl der zu prüfenden Sachverhalte erfolgt anhand einer Risikobewertung auf der Grundlage von Risikokriterien. Bei der Entscheidung über die Auswahl der zu prüfenden Sachverhalte können die Behörden der Zollverwaltung die Risikohinweise nach § 26 Absatz 5 Satz 4 berücksichtigen. Die Auswahl einer hinreichenden Anzahl von Prüfungen von Sachverhalten, zu denen keine Risikohinweise vorliegen, wird durch die Behörden der Zollverwaltung gewährleistet.
 
-##### § 2a Mitführungs- und Vorlagepflicht von Ausweispapieren
+###### § 2a Mitführungs- und Vorlagepflicht von Ausweispapieren
 
 (1) Bei der Erbringung von Dienst- oder Werkleistungen sind die in folgenden Wirtschaftsbereichen oder Wirtschaftszweigen tätigen Personen verpflichtet, ihren Personalausweis, Pass, Passersatz oder Ausweisersatz mitzuführen und den Behörden der Zollverwaltung auf Verlangen vorzulegen:
 
@@ -196,7 +202,7 @@ Die Aufgaben dieser Stellen nach anderen Rechtsvorschriften bleiben unberührt. 
 
 (3) Die Vorlagepflichten nach den Absätzen 1 und 2 bestehen auch gegenüber den nach Landesrecht für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach diesem Gesetz zuständigen Behörden in den Fällen des § 2 Absatz 3.
 
-##### § 3 Befugnisse bei der Prüfung von Personen
+###### § 3 Befugnisse bei der Prüfung von Personen
 
 (1) Zur Durchführung der Prüfungen nach § 2 Absatz 1 sind die Behörden der Zollverwaltung und die sie gemäß § 2 Absatz 4 unterstützenden Stellen befugt, angekündigt oder unangekündigt die Geschäftsräume, mit Ausnahme von Wohnungen, und Grundstücke von Arbeitgebern, Auftraggebern von Dienst- oder Werkleistungen, Entleihern sowie Selbstständigen (Prüfbeteiligte) während der Arbeitszeiten der dort tätigen Personen oder während der Geschäftszeiten zu betreten. Dabei sind die Behörden der Zollverwaltung und die sie gemäß § 2 Absatz 4 unterstützenden Stellen befugt,
 
@@ -242,7 +248,7 @@ Sie können zu diesem Zweck die in Satz 1 genannten Personen anhalten, sie nach 
 
 (6) Die Absätze 1 bis 4 gelten entsprechend für die nach Landesrecht für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach diesem Gesetz zuständigen Behörden zur Durchführung von Prüfungen nach § 2 Absatz 3, sofern Anhaltspunkte dafür vorliegen, dass Schwarzarbeit im Sinne des § 1 Absatz 2 Nummer 4 und 5 geleistet wird.
 
-##### § 4 Befugnisse bei der Prüfung von Unterlagen und Daten
+###### § 4 Befugnisse bei der Prüfung von Unterlagen und Daten
 
 (1) Zur Durchführung der Prüfungen nach § 2 Absatz 1 sind die Behörden der Zollverwaltung und die sie gemäß § 2 Absatz 4 unterstützenden Stellen befugt, angekündigt oder unangekündigt Geschäftsräume, mit Ausnahme von Wohnungen, und Grundstücke der Prüfbeteiligten während der Geschäftszeiten zu betreten und dort Einsicht in die in § 3 Absatz 1 Satz 2 Nummer 2 genannten Unterlagen und Daten zu nehmen. Das Recht zur Einsichtnahme besteht in Bezug auf die Unterlagen und Daten nach Satz 1 unabhängig von deren Format, Aufbewahrung und Speicherung. Zur Prüfung von mit Hilfe eines Datenverarbeitungssystems erstellten und gespeicherten Daten können die Behörden der Zollverwaltung das Datenverarbeitungssystem der Prüfbeteiligten nutzen. Die Verarbeitung und Aufbewahrung der in Satz 2 genannten Daten ist auch auf mobilen Datenverarbeitungssystemen der Behörden der Zollverwaltung unabhängig von deren Einsatzort zulässig, sofern für die Datenverarbeitungssysteme angemessene sowie den einschlägigen Vorschriften und Standards entsprechende Maßnahmen zur Gewährleistung der Informationssicherheit getroffen wurden, die dem jeweiligen Stand der Technik entsprechen sollen.
 
@@ -268,7 +274,7 @@ Für Satz 1 Nummer 2 und 3 gilt Absatz 1 Satz 4 entsprechend, und zwar unabhäng
 
 (4) Die Behörden der Zollverwaltung sind zur Durchführung der Prüfungen nach § 2 Abs. 1 befugt, bei dem Auftraggeber, der nicht Unternehmer im Sinne des § 2 des Umsatzsteuergesetzes 1999 ist, Einsicht in die Rechnungen, einen Zahlungsbeleg oder eine andere beweiskräftige Unterlage über ausgeführte Werklieferungen oder sonstige Leistungen im Zusammenhang mit einem Grundstück zu nehmen.
 
-##### § 5 Duldungs- und Mitwirkungspflichten
+###### § 5 Duldungs- und Mitwirkungspflichten
 
 (1) Arbeitgeber, tatsächlich oder scheinbar beschäftigte Arbeitnehmer und Arbeitnehmerinnen, Auftraggeber von Dienst- oder Werkleistungen, Entleiher, tatsächlich oder scheinbar selbstständig tätige Personen und Dritte haben bei einer Prüfung nach § 2 Absatz 1 und 3
 
@@ -296,7 +302,7 @@ Auskünfte, die die verpflichtete Person oder einen ihrer in § 15 der Abgabenor
 
 (5) Prüfbeteiligte dürfen automatisiert verarbeitbare Datenträger oder Daten in ihrer Gesamtheit und ohne Aussonderung zur Verfügung stellen, wenn die Aussonderung mit einem unverhältnismäßigen Aufwand verbunden wäre und überwiegende schutzwürdige Interessen der betroffenen Personen nicht entgegenstehen. In diesem Fall haben die Behörden der Zollverwaltung die Daten zu trennen und die nicht nach Satz 1 zu übermittelnden Daten zu löschen. Soweit die übermittelten Daten für Zwecke der Ermittlung von Straftaten oder Ordnungswidrigkeiten, der Ermittlung von steuerlich erheblichen Sachverhalten oder der Festsetzung von Sozialversicherungsbeiträgen oder Sozialleistungen nicht benötigt werden, sind die Datenträger nach Abschluss der Prüfungen nach § 2 Abs. 1 auf Verlangen des Arbeitgebers oder des Auftraggebers zurückzugeben oder die Daten unverzüglich zu löschen.
 
-##### § 5a Elektronische Einsichtnahme in und Übermittlung von Unterlagen und Daten
+###### § 5a Elektronische Einsichtnahme in und Übermittlung von Unterlagen und Daten
 
 (1) Der Prüfbeteiligte hat den Behörden der Zollverwaltung die elektronische Einsichtnahme in seine in § 3 Absatz 1 Satz 2 Nummer 2 genannten Unterlagen und Daten an Amtsstelle zu ermöglichen. Der Zugang für die Einsichtnahme ist den Behörden der Zollverwaltung kostenlos zu ermöglichen. Der Zugriff auf die in Satz 1 genannten Unterlagen und Daten richtet sich nach Absatz 2.
 
@@ -304,13 +310,13 @@ Auskünfte, die die verpflichtete Person oder einen ihrer in § 15 der Abgabenor
 
 (3) Die Absätze 1 und 2 gelten entsprechend für die in den Fällen des § 2 Absatz 3 zuständigen Behörden, sofern Anhaltspunkte dafür vorliegen, dass Schwarzarbeit im Sinne des § 1 Absatz 2 Satz 1 Nummer 4 und 5 geleistet wird.
 
-##### § 5b Unzulässiges Anbieten und Nachfragen der Arbeitskraft
+###### § 5b Unzulässiges Anbieten und Nachfragen der Arbeitskraft
 
 (1) Es ist einer Person verboten, ihre Arbeitskraft als Tagelöhner im öffentlichen Raum aus einer Gruppe heraus in einer Weise anzubieten, die geeignet ist, Schwarzarbeit oder illegale Beschäftigung zu ermöglichen. Ebenso ist es einer Person verboten, ein unzulässiges Anbieten der Arbeitskraft dadurch nachzufragen, dass sie ein solches Angebot einholt oder annimmt.
 
 (2) Die Behörden der Zollverwaltung können eine Person, die gegen das Verbot des unzulässigen Anbietens und Nachfragens der Arbeitskraft verstößt, vorübergehend von einem Ort verweisen oder ihr vorübergehend das Betreten eines Ortes verbieten.
 
-##### § 6 Unterrichtung von und Zusammenarbeit mit Behörden im Inland und in der Europäischen Union sowie im Europäischen Wirtschaftsraum
+###### § 6 Unterrichtung von und Zusammenarbeit mit Behörden im Inland und in der Europäischen Union sowie im Europäischen Wirtschaftsraum
 
 (1) Die Behörden der Zollverwaltung und die sie gemäß § 2 Absatz 4 unterstützenden Stellen sind verpflichtet, einander die für deren Prüfungen oder für die Zusammenarbeit nach Absatz 6 erforderlichen Informationen einschließlich personenbezogener Daten und die Ergebnisse der Prüfungen und Ermittlungen unverzüglich zu übermitteln, soweit deren Kenntnis für die Erfüllung der Aufgaben der Behörden oder Stellen erforderlich ist. Die Behörden der Zollverwaltung einerseits und die Strafverfolgungsbehörden und die Polizeivollzugsbehörden andererseits sind verpflichtet, einander die erforderlichen Informationen, einschließlich personenbezogener Daten, für die Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten, die in Zusammenhang mit einem der in § 2 Abs. 1 genannten Prüfgegenstände stehen, zu übermitteln. An Strafverfolgungsbehörden und Polizeivollzugsbehörden sind darüber hinaus Informationen einschließlich personenbezogener Daten zu übermitteln, sofern tatsächliche Anhaltspunkte dafür vorliegen, dass diese Informationen für die Verhütung und Verfolgung von Straftaten, die nicht in Zusammenhang mit einem der in § 2 Abs. 1 genannten Prüfgegenstände stehen, erforderlich sind.
 
@@ -354,9 +360,11 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsver
 
 13. das Mindestlohngesetz,
 
-14. die Arbeitsschutzgesetze oder
+14. die Arbeitsschutzgesetze,
 
-15. die Vergabe- und Tariftreuegesetze der Länder.
+15. die Vergabe- und Tariftreuegesetze der Länder oder
+
+16. das Bundestariftreuegesetz.
 
 Nach § 5 Absatz 3 Satz 1 in Verwahrung genommene Urkunden sind der Ausländerbehörde unverzüglich zu übermitteln.
 
@@ -364,7 +372,7 @@ Nach § 5 Absatz 3 Satz 1 in Verwahrung genommene Urkunden sind der Ausländerbe
 
 (6) Auf die Zusammenarbeit der Behörden der Zollverwaltung mit Behörden anderer Mitgliedstaaten der Europäischen Union und mit Behörden anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gemäß § 20 Absatz 2 des Arbeitnehmer-Entsendegesetzes, § 18 Absatz 2 des Mindestlohngesetzes und § 18 Absatz 6 des Arbeitnehmerüberlassungsgesetzes finden die §§ 8a bis 8e des Verwaltungsverfahrensgesetzes in Verbindung mit den Artikeln 6, 7, 14 bis 18 und 21 der Richtlinie 2014/67/EU in der Fassung vom 15. Mai 2014 auch in Verbindung mit Artikel 1 Absatz 11 Unterabsatz 1 Buchstabe c und Unterabsatz 2 und 3 der Richtlinie (EU) 2020/1057 in der Fassung vom 15. Juli 2020 Anwendung. Ersuchen auf Grundlage der Zusammenarbeit im Sinne des Satzes 1, die über das Binnenmarkt-Informationssystem eingehen und die nicht in Zusammenhang mit einem der in § 2 Absatz 1 genannten Prüfgegenstände stehen, werden von der Generalzolldirektion im Rahmen ihrer Funktion als Verbindungsbüro im Sinne des Artikels 4 Absatz 1 der Richtlinie 96/71/EG in der Fassung vom 16. Dezember 1996 an die zuständige nationale Zusammenarbeitsbehörde übermittelt. Die Generalzolldirektion darf die ihr von der zuständigen nationalen Zusammenarbeitsbehörde übermittelte Beantwortung des Ersuchens an die ersuchende Behörde übermitteln.
 
-##### § 6a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
+###### § 6a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
 
 (1) Die Behörden der Zollverwaltung können personenbezogene Daten, die in Zusammenhang mit einem der in § 2 Absatz 1 genannten Prüfgegenstände stehen, zum Zweck der Verhütung von Straftaten an eine für die Verhütung und Verfolgung zuständige Behörde eines Mitgliedstaates der Europäischen Union übermitteln. Dabei ist eine Übermittlung personenbezogener Daten ohne Ersuchen nur zulässig, wenn im Einzelfall die Gefahr der Begehung einer Straftat im Sinne des Artikels 2 Absatz 2 des Rahmenbeschlusses 2002/584/JI des Rates vom 13. Juni 2002 über den Europäischen Haftbefehl und die Übergabeverfahren zwischen den Mitgliedstaaten (ABl. L 190 vom 18.7.2002, S. 1), der zuletzt durch den Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S. 24) geändert worden ist, besteht und konkrete Anhaltspunkte dafür vorliegen, dass die Übermittlung dieser personenbezogenen Daten dazu beitragen könnte, eine solche Straftat zu verhindern.
 
@@ -410,7 +418,7 @@ Nach § 5 Absatz 3 Satz 1 in Verwahrung genommene Urkunden sind der Ausländerbe
 
 (7) Die Absätze 1 bis 6 finden auch Anwendung auf die Übermittlung von personenbezogenen Daten an für die Verhütung und Verfolgung von Straftaten zuständige Behörden eines Schengen-assoziierten Staates im Sinne von § 91 Absatz 3 des Gesetzes über die internationale Rechtshilfe in Strafsachen.
 
-##### § 7 Auskunftsansprüche bei anonymen Angeboten und Werbemaßnahmen
+###### § 7 Auskunftsansprüche bei anonymen Angeboten und Werbemaßnahmen
 
 (1) Wurden Angebote oder Werbemaßnahmen ohne Angabe von Name und Anschrift veröffentlicht und bestehen in diesem Zusammenhang Anhaltspunkte für Schwarzarbeit oder illegale Beschäftigung nach § 1, so ist derjenige, der das Angebot oder die Werbemaßnahme veröffentlicht hat, verpflichtet, den Behörden der Zollverwaltung Namen, Anschrift und Anzahl der Angebote oder Werbemaßnahmen des Auftraggebers des Angebots oder der Werbemaßnahme auf Verlangen unentgeltlich mitzuteilen. Soweit Name und Anschrift nicht vorliegen, sind die Daten mitzuteilen, die eine Identifizierung des Auftraggebers ermöglichen. Bei Anhaltspunkten nach § 1 Absatz 2 Satz 1 Nummer 4 oder 5 besteht diese Verpflichtung gegenüber den nach Landesrecht für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach diesem Gesetz zuständigen Behörden.
 
@@ -428,7 +436,7 @@ Nach § 5 Absatz 3 Satz 1 in Verwahrung genommene Urkunden sind der Ausländerbe
 
 ## Abschnitt 3 Bußgeld- und Strafvorschriften
 
-##### § 8 Bußgeldvorschriften
+###### § 8 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -504,21 +512,21 @@ erbracht werden. Als nicht nachhaltig auf Gewinn gerichtet gilt insbesondere ein
 
 3. die vorenthaltenen Beiträge nachträglich innerhalb der von der Einzugsstelle bestimmten angemessenen Frist entrichtet.
 
-##### § 9 Strafvorschriften
+###### § 9 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer eine in § 8 Absatz 4 bezeichnete Handlung begeht und gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
 
-##### § 10 Beschäftigung von Ausländerinnen und Ausländern ohne Genehmigung, Aufenthaltstitel, Erlaubnis oder Berechtigung und zu ungünstigen Arbeitsbedingungen
+###### § 10 Beschäftigung von Ausländerinnen und Ausländern ohne Genehmigung, Aufenthaltstitel, Erlaubnis oder Berechtigung und zu ungünstigen Arbeitsbedingungen
 
 (1) Wer vorsätzlich eine in § 404 Abs. 2 Nr. 3 des Dritten Buches Sozialgesetzbuch bezeichnete Handlung begeht und die Ausländerin oder den Ausländer zu Arbeitsbedingungen beschäftigt, die in einem auffälligen Missverhältnis zu den Arbeitsbedingungen deutscher Arbeitnehmer und Arbeitnehmerinnen stehen, die die gleiche oder eine vergleichbare Tätigkeit ausüben, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (2) In besonders schweren Fällen des Absatzes 1 ist die Strafe Freiheitsstrafe von sechs Monaten bis zu fünf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter gewerbsmäßig oder aus grobem Eigennutz handelt.
 
-##### § 10a Beschäftigung von Ausländern ohne Aufenthaltstitel, die Opfer von Menschenhandel sind
+###### § 10a Beschäftigung von Ausländern ohne Aufenthaltstitel, die Opfer von Menschenhandel sind
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 4a Absatz 5 Satz 1 oder 2 des Aufenthaltsgesetzes einen Ausländer beschäftigt und hierbei eine Lage ausnutzt, in der sich der Ausländer durch eine gegen ihn gerichtete Tat eines Dritten nach § 232a Absatz 1 bis 5 oder § 232b des Strafgesetzbuchs befindet.
 
-##### § 11 Erwerbstätigkeit von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel in größerem Umfang oder von minderjährigen Ausländern
+###### § 11 Erwerbstätigkeit von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel in größerem Umfang oder von minderjährigen Ausländern
 
 (1) Wer
 
@@ -542,7 +550,7 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 ## Abschnitt 4 Ermittlungen
 
-##### § 12 Allgemeines zu den Ordnungswidrigkeiten
+###### § 12 Allgemeines zu den Ordnungswidrigkeiten
 
 (1) Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten sind
 
@@ -562,7 +570,7 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 (5) Nimmt die Staatsanwaltschaft an der Hauptverhandlung nach § 75 Absatz 2 des Gesetzes über Ordnungswidrigkeiten nicht teil, so gibt das Gericht den Verwaltungsbehörden im Sinne des Absatzes 1 Gelegenheit, die Gründe vorzubringen, die aus ihrer Sicht für die Entscheidung von Bedeutung sind. Dies gilt auch, wenn das Gericht erwägt, das Verfahren einzustellen. Der Vertreter der Verwaltungsbehörden im Sinne des Absatzes 1 erhält in der Hauptverhandlung auf Verlangen das Wort. Ihm ist zu gestatten, Fragen an Betroffene, Zeugen und Sachverständige zu richten.
 
-##### § 13 Zusammenarbeit in Bußgeldverfahren
+###### § 13 Zusammenarbeit in Bußgeldverfahren
 
 (1) Die Behörden der Zollverwaltung arbeiten insbesondere mit den in § 2 Absatz 4 genannten unterstützenden Stellen zusammen.
 
@@ -570,7 +578,7 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 (3) Gerichte und Staatsanwaltschaften sollen den nach diesem Gesetz zuständigen Stellen Erkenntnisse übermitteln, die aus ihrer Sicht zur Verfolgung von Ordnungswidrigkeiten nach § 8 erforderlich sind, soweit nicht für das Gericht oder die Staatsanwaltschaft erkennbar ist, dass schutzwürdige Interessen der betroffenen Person oder anderer Verfahrensbeteiligter an dem Ausschluss der Übermittlung überwiegen. Dabei ist zu berücksichtigen, wie gesichert die zu übermittelnden Erkenntnisse sind.
 
-##### § 14 Ermittlungsbefugnisse
+###### § 14 Ermittlungsbefugnisse
 
 (1) Die Behörden der Zollverwaltung haben bei der Verfolgung von Straftaten und Ordnungswidrigkeiten, die mit einem der in § 2 Abs. 1 genannten Prüfgegenstände unmittelbar zusammenhängen, die gleichen Befugnisse wie die Polizeivollzugsbehörden nach der Strafprozessordnung und dem Gesetz über Ordnungswidrigkeiten. Ihre Beamten sind insoweit Ermittlungspersonen der Staatsanwaltschaft. In den Dienst der Zollverwaltung übergeleitete Angestellte nehmen die Befugnisse nach Satz 1 wahr und sind insoweit Ermittlungspersonen der Staatsanwaltschaft, wenn sie
 
@@ -586,7 +594,7 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 (4) § 5 Absatz 3 gilt im Ermittlungsverfahren entsprechend.
 
-##### § 14a Selbstständige Durchführung von Ermittlungsverfahren
+###### § 14a Selbstständige Durchführung von Ermittlungsverfahren
 
 (1) Die Behörden der Zollverwaltung führen in den Fällen, in denen ihnen die Befugnisse nach § 14 zustehen, die Ermittlungsverfahren nach Maßgabe dieser Vorschrift und in den Grenzen des § 14b selbstständig durch, wenn die Tat eine Straftat darstellt nach
 
@@ -630,7 +638,7 @@ Besteht bei den Behörden der Zollverwaltung Unsicherheit darüber, ob ein Ermit
 
 (4) Im Übrigen können die Behörden der Zollverwaltung die Strafsache jederzeit an die Staatsanwaltschaft abgeben. Die Staatsanwaltschaft kann die Strafsache jederzeit an sich ziehen. In beiden Fällen kann die Staatsanwaltschaft im Einvernehmen mit den Behörden der Zollverwaltung die Strafsache wieder an die Behörden der Zollverwaltung abgeben.
 
-##### § 14b Rechte und Pflichten bei der selbstständigen Durchführung von Ermittlungsverfahren
+###### § 14b Rechte und Pflichten bei der selbstständigen Durchführung von Ermittlungsverfahren
 
 (1) Führen die Behörden der Zollverwaltung das Ermittlungsverfahren nach § 14a selbstständig durch, so nehmen sie die Rechte und Pflichten wahr, die der Staatsanwaltschaft im Ermittlungsverfahren zustehen.
 
@@ -644,7 +652,7 @@ Besteht bei den Behörden der Zollverwaltung Unsicherheit darüber, ob ein Ermit
 
 (6) Das Gericht gibt den Behörden der Zollverwaltung Gelegenheit, diejenigen Gesichtspunkte vorzubringen, die aus ihrer Sicht für die Entscheidung von Bedeutung sind. Dies gilt auch, wenn das Gericht erwägt, das Verfahren einzustellen. Der Termin zur Hauptverhandlung und der Termin zur Vernehmung durch einen beauftragten oder ersuchten Richter nach den §§ 223 und 233 der Strafprozessordnung werden den Behörden der Zollverwaltung mitgeteilt. Ihre Vertretung erhält in der Hauptverhandlung auf Verlangen das Wort. Ihr ist zu gestatten, Fragen an Angeklagte, Zeugen und Sachverständige zu richten. Das Urteil und andere das Verfahren abschließende Entscheidungen sind den Behörden der Zollverwaltung mitzuteilen.
 
-##### § 14c Sachliche und örtliche Zuständigkeit bei der selbstständigen Durchführung von Ermittlungsverfahren
+###### § 14c Sachliche und örtliche Zuständigkeit bei der selbstständigen Durchführung von Ermittlungsverfahren
 
 (1) Sachlich zuständig für die Durchführung des selbstständigen Ermittlungsverfahrens nach § 14a ist das Hauptzollamt.
 
@@ -662,7 +670,7 @@ Sind nach Satz 1 mehrere Hauptzollämter zuständig, so gebührt der Vorzug demj
 
 ## Abschnitt 5 Datenschutz
 
-##### § 15 Allgemeine Datenverarbeitung
+###### § 15 Allgemeine Datenverarbeitung
 
 (1) Für die Wahrnehmung der Aufgaben nach diesem Gesetz durch die Behörden der Zollverwaltung gelten hinsichtlich der Sozialdaten die Vorschriften des Zweiten Kapitels des Zehnten Buches Sozialgesetzbuch. Diese Aufgaben gelten in datenschutzrechtlicher Hinsicht auch als Aufgaben nach dem Sozialgesetzbuch. Die Verarbeitung personenbezogener Daten im Ermittlungsverfahren richtet sich nach den Vorschriften der Strafprozessordnung und, sofern erforderlich, nach den Vorschriften des Gesetzes über Ordnungswidrigkeiten. Die Vorschriften des Vierten Abschnitts des Ersten Teils der Abgabenordnung zum Steuergeheimnis bleiben unberührt.
 
@@ -688,7 +696,7 @@ b) vergleichbar gewichtige Rechtsgüter geschützt werden sollen und
 
 (5) Sofern die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit Verstöße nach § 16 Absatz 2 des Bundesdatenschutzgesetzes beanstandet hat, kann sie oder er geeignete Maßnahmen anordnen, wenn dies zur Beseitigung eines erheblichen Verstoßes gegen datenschutzrechtliche Vorschriften erforderlich ist.
 
-##### § 16 Zentrales Informationssystem für die Finanzkontrolle Schwarzarbeit
+###### § 16 Zentrales Informationssystem für die Finanzkontrolle Schwarzarbeit
 
 (1) Die Behörden der Zollverwaltung führen ein zentrales Informationssystem für die Finanzkontrolle Schwarzarbeit, in dem die zur Aufgabenerfüllung nach diesem Gesetz erhobenen und übermittelten Daten automatisiert verarbeitet werden.
 
@@ -750,7 +758,7 @@ erforderlich sind.
 
 Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlass der Errichtungsanordnung anzuhören.
 
-##### § 17 Übermittlung von Daten aus dem zentralen Informationssystem
+###### § 17 Übermittlung von Daten aus dem zentralen Informationssystem
 
 (1) Die Übermittlung von Daten aus dem zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit erfolgt auf Ersuchen an
 
@@ -780,11 +788,11 @@ Soweit durch eine Übermittlung von Daten die Gefährdung des Untersuchungszweck
 
 (2) Die Übermittlung der Daten erfolgt im Wege eines automatisierten Abrufverfahrens oder eines automatisierten Anfrage- und Auskunftsverfahrens, im Fall einer Störung der Datenfernübertragung oder bei außergewöhnlicher Dringlichkeit telefonisch oder durch Telefax. Die beteiligten Stellen haben zu gewährleisten, dass dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit getroffen werden, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten gewährleisten; im Fall der Nutzung allgemein zugänglicher Netze sind dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren anzuwenden. Es gilt § 79 Abs. 2 bis 4 des Zehnten Buches Sozialgesetzbuch.
 
-##### § 18 Auskunft an die betroffene Person
+###### § 18 Auskunft an die betroffene Person
 
 Für die Auskunft an die betroffene Person gilt § 83 des Zehnten Buches Sozialgesetzbuch. Die Auskunft bedarf des Einvernehmens der zuständigen Staatsanwaltschaft, wenn sie Daten aus einem Verfahren betrifft, das zu einem Strafverfahren geführt hat.
 
-##### § 19 Löschung
+###### § 19 Löschung
 
 Die Daten im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit und die dazugehörigen Verfahrensakten sind nach den Bestimmungen des § 489 der Strafprozessordnung, des § 49c des Gesetzes über Ordnungswidrigkeiten und des § 84 des Zehnten Buches Sozialgesetzbuch zu löschen und zu vernichten, spätestens jedoch
 
@@ -814,11 +822,11 @@ Die Löschfrist für Hinweise und Risikohinweise nach Satz 1 Nummer 4 Buchstabe 
 
 ## Abschnitt 6 Verwaltungsverfahren, Rechtsweg
 
-##### § 20 Entschädigung der Zeugen und Sachverständigen
+###### § 20 Entschädigung der Zeugen und Sachverständigen
 
 Werden Zeugen und Sachverständige von den Behörden der Zollverwaltung herangezogen, so erhalten sie auf Antrag in entsprechender Anwendung des Justizvergütungs- und -entschädigungsgesetzes eine Entschädigung oder Vergütung.
 
-##### § 21 Ausschluss von öffentlichen Aufträgen
+###### § 21 Ausschluss von öffentlichen Aufträgen
 
 (1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag der in den §§ 99 und 100 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerber bis zu einer Dauer von drei Jahren ausgeschlossen werden, die oder deren nach Satzung oder Gesetz Vertretungsberechtigte nach
 
@@ -830,21 +838,21 @@ Werden Zeugen und Sachverständige von den Behörden der Zollverwaltung herangez
 
 4. § 266a Absatz 1 bis 4 des Strafgesetzbuches
 
-zu einer Freiheitsstrafe von mehr als drei Monaten oder einer Geldstrafe von mehr als neunzig Tagessätzen verurteilt oder mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro belegt worden sind. Das Gleiche gilt auch schon vor Durchführung eines Straf- oder Bußgeldverfahrens, wenn im Einzelfall angesichts der Beweislage kein vernünftiger Zweifel an einer schwerwiegenden Verfehlung nach Satz 1 besteht. Die für die Verfolgung oder Ahndung zuständigen Behörden nach Satz 1 Nr. 1 bis 4 dürfen den öffentlichen Auftraggebern nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die von öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen die erforderlichen Auskünfte geben. Öffentliche Auftraggeber nach Satz 3 fordern im Rahmen ihrer Tätigkeit Auskünfte aus dem Wettbewerbsregister an oder verlangen vom Bewerber eine Erklärung, dass die Voraussetzungen für einen Ausschluss nach Satz 1 oder 2 nicht vorliegen; auch im Falle einer Erklärung des Bewerbers können öffentliche Auftraggeber Auskünfte aus dem Wettbewerbsregister jederzeit anfordern. Für den Bewerber, der den Zuschlag erhalten soll, fordert der öffentliche Auftraggeber nach Satz 3 bei Aufträgen ab einer Höhe von 30 000 Euro vor Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregister an. Der Bewerber ist vor der Entscheidung über den Ausschluss zu hören.
+zu einer Freiheitsstrafe von mehr als drei Monaten oder einer Geldstrafe von mehr als neunzig Tagessätzen verurteilt oder mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro belegt worden sind. Das Gleiche gilt auch schon vor Durchführung eines Straf- oder Bußgeldverfahrens, wenn im Einzelfall angesichts der Beweislage kein vernünftiger Zweifel an einer schwerwiegenden Verfehlung nach Satz 1 besteht. Die für die Verfolgung oder Ahndung zuständigen Behörden nach Satz 1 Nr. 1 bis 4 dürfen den öffentlichen Auftraggebern nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die von öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen die erforderlichen Auskünfte geben. Öffentliche Auftraggeber nach Satz 3 fordern im Rahmen ihrer Tätigkeit Auskünfte aus dem Wettbewerbsregister an oder verlangen vom Bewerber eine Erklärung, dass die Voraussetzungen für einen Ausschluss nach Satz 1 oder 2 nicht vorliegen; auch im Falle einer Erklärung des Bewerbers können öffentliche Auftraggeber Auskünfte aus dem Wettbewerbsregister jederzeit anfordern. Für den Bewerber, der den Zuschlag erhalten soll, fordert der öffentliche Auftraggeber nach Satz 3 bei Aufträgen mit einem geschätzten Auftragswert ab 50 000 Euro ohne Umsatzsteuer vor Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregister an. Der Bewerber ist vor der Entscheidung über den Ausschluss zu hören.
 
 (2) Eine Verfehlung nach Absatz 1 steht einer Verletzung von Pflichten nach § 241 Abs. 2 des Bürgerlichen Gesetzbuchs gleich.
 
-##### § 22 Verwaltungsverfahren
+###### § 22 Verwaltungsverfahren
 
 Soweit dieses Gesetz nichts anderes bestimmt, gelten die Vorschriften der Abgabenordnung sinngemäß für das Verwaltungsverfahren der Behörden der Zollverwaltung nach diesem Gesetz.
 
-##### § 23 Rechtsweg
+###### § 23 Rechtsweg
 
 In öffentlich-rechtlichen Streitigkeiten über Verwaltungshandeln der Behörden der Zollverwaltung nach diesem Gesetz ist der Finanzrechtsweg gegeben.
 
 ## Abschnitt 7 Zentralstelle und Risikomanagement
 
-##### § 24 Zentralstelle
+###### § 24 Zentralstelle
 
 (1) Die Generalzolldirektion ist die Zentralstelle der Behörden der Zollverwaltung für die Bekämpfung der Schwarzarbeit und der illegalen Beschäftigung (Zentralstelle).
 
@@ -864,7 +872,7 @@ Die Zentralstelle kann personenbezogene Daten verarbeiten, soweit dies zur Erfü
 
 (4) Die Zentralstelle erstellt Statistiken über die Bekämpfung der Schwarzarbeit und der illegalen Beschäftigung nach diesem Gesetz. Die Zentralstelle hat die einheitliche und termingerechte Erstellung von Statistiken sicherzustellen, die Ergebnisse der Statistiken in angemessener Gliederung über das Internet zu veröffentlichen sowie die Daten der Statistiken zu analysieren.
 
-##### § 25 Zentrales Risikomanagement
+###### § 25 Zentrales Risikomanagement
 
 (1) Die Zentralstelle nimmt für die Hauptzollämter die Aufgaben des zentralen Risikomanagements für die Bekämpfung der Schwarzarbeit und illegalen Beschäftigung wahr. Die Zentralstelle arbeitet bei ihren Aufgaben des zentralen Risikomanagements mit den in § 2 Absatz 4 genannten Stellen sowie mit den Stellen, die für deren Datenhaltung verantwortlich sind, zusammen. Grundsätze dieser Zusammenarbeit werden im gegenseitigen Einvernehmen geregelt.
 
@@ -884,7 +892,7 @@ Die Zentralstelle kann personenbezogene Daten verarbeiten, soweit dies zur Erfü
 
 (5) Für die Aufgaben des zentralen Risikomanagements nach dieser Vorschrift kann die Zentralstelle ein operatives Informations- und Datenanalysesystem nach § 26 in den dort genannten Grenzen einsetzen.
 
-##### § 26 Operatives Informations- und Datenanalysesystem; Verordnungsermächtigung
+###### § 26 Operatives Informations- und Datenanalysesystem; Verordnungsermächtigung
 
 (1) Für die Entscheidung nach § 2 Absatz 5 Satz 4 werden in dem operativen Informations- und Datenanalysesystem die nach Absatz 2 gespeicherten Daten von der Zentralstelle anhand festgelegter Risikoindikatoren und Risikoparameter im Sinne des § 25 Absatz 2 hinsichtlich möglicher Risiken für das Auftreten von Schwarzarbeit und illegaler Beschäftigung unter Beachtung der nachfolgenden Absätze automationsgestützt analysiert und bewertet. Die Risikoindikatoren und die Risikoparameter werden von der Zentralstelle im Einvernehmen mit den betroffenen in Absatz 2 genannten Stellen für die von ihnen zum Abruf zur Verfügung gestellten oder übermittelten Daten sowie im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit festgelegt. Die automationsgestützte Analyse und Bewertung nach Satz 1 erfolgt in den Wirtschaftsbereichen oder Wirtschaftszweigen nach § 2a Absatz 1 dieses Gesetzes, nach § 4 des Arbeitnehmer-Entsendegesetzes sowie in den weiteren Wirtschaftsbereichen oder Wirtschaftszweigen nach Absatz 9 Satz 1 in Verbindung mit Absatz 9 Satz 2 Nummer 1.
 
@@ -941,4 +949,3 @@ Zur Identifikation des Arbeitgebers oder des Unternehmers darf die Zentralstelle
 3. weitere Einzelheiten zum Umfang der Daten nach § 26 Absatz 2 und der Verarbeitungsmethoden nach § 26 Absatz 4 bis 6.
 
 (10) Die Zentralstelle stellt durch organisatorische und technische Maßnahmen sicher, dass Daten nur gemäß ihrer rechtlichen Verwendbarkeit verarbeitet werden. Hierbei sind auch Begrenzungen der Zugriffsmöglichkeiten auf die automationsgestützten Systeme vorzusehen. Die organisatorischen und technischen Einzelheiten des operativen Informations- und Datenanalysesystems werden von der Zentralstelle in einer Verwaltungsvorschrift festgelegt. Die Verwaltungsvorschrift ist in der jeweils aktuellen Fassung im Bundesanzeiger zu veröffentlichen. Die Risikoparameter und Einzelheiten zur Risikobewertung dürfen nicht veröffentlicht werden.
-
