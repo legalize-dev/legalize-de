@@ -4,35 +4,39 @@ identifier: "KINDUVV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "1998-06-19"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/kinduvv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR136410998"
 slug: "kinduvv"
 bgbl_reference: "BGBl I 1998, 1364"
 amtabk: "KindUFV"
-stand: "Zuletzt geändert durch Art. 12 Abs. 20 G v. 16.12.2022 I 2328"
+stand: "Zuletzt geändert durch Art. 11 Abs. 6 G v. 16.4.2026 I Nr. 107"
 ---
 # Verordnung zur Einführung von Vordrucken für das vereinfachte Verfahren über den Unterhalt minderjähriger Kinder
 
-##### § 1 Formulare
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Formulare
 
 (1) Im vereinfachten Verfahren zur Festsetzung des Unterhalts für ein minderjähriges Kind wird das in der Anlage bestimmte Formular für den Antrag auf Festsetzung des Unterhalts nach den §§ 249 und 250 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit verwendet.
 
 (2) Absatz 1 gilt nicht, soweit Unterhalt
 
-1. für Zeiträume, für die das Kind Hilfe nach dem Zwölften Buch Sozialgesetzbuch, Bürgergeld nach § 19 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch, Hilfe zur Erziehung oder Eingliederungshilfe nach dem Achten Buch Sozialgesetzbuch, Leistungen nach dem Unterhaltsvorschussgesetz oder Unterhalt nach § 1607 Abs. 2 oder 3 des Bürgerlichen Gesetzbuchs erhalten hat, von dem Träger der Sozialhilfe, des Bürgergeldes, der öffentlichen Jugendhilfe, dem Land oder dem Dritten aus übergegangenem Recht oder
+1. für Zeiträume, für die das Kind Hilfe nach dem Zwölften Buch Sozialgesetzbuch, Grundsicherungsgeld nach § 19 Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch, Hilfe zur Erziehung oder Eingliederungshilfe nach dem Achten Buch Sozialgesetzbuch, Leistungen nach dem Unterhaltsvorschussgesetz oder Unterhalt nach § 1607 Abs. 2 oder 3 des Bürgerlichen Gesetzbuchs erhalten hat, von dem Träger der Sozialhilfe, des Grundsicherungsgeldes, der öffentlichen Jugendhilfe, dem Land oder dem Dritten aus übergegangenem Recht oder
 
 2. nach § 94 Absatz 4 Satz 2 des Zwölften Buches Sozialgesetzbuch, § 33 Absatz 1 Satz 2 und Absatz 3 Satz 2 des Zweiten Buches Sozialgesetzbuch oder nach § 7 Abs. 4 Satz 1 des Unterhaltsvorschußgesetzes
 
 verlangt wird. Wird das Formular nach § 3 Nummer 2 so angepasst, dass dem Gericht die Angaben als strukturierter Datensatz übermittelt werden können, sollen die nach Satz 1 Nummer 1 und 2 antragsberechtigten Behörden dieses Formular nutzen.
 
-##### § 2 Ausführung der Formulare
+###### § 2 Ausführung der Formulare
 
 Das in Anlage bestimmte Formular für den Antrag auf Festsetzung von Unterhalt soll in der erforderlichen Stückzahl als Durchschreibesatz ausgeführt werden, der insbesondere die für die Zustellung erforderliche Abschrift des Antrags mit einem Formular der Mitteilung des Gerichts nach § 251 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit enthält.
 
-##### § 3 Zulässige Abweichungen
+###### § 3 Zulässige Abweichungen
 
 Folgende Abweichungen von dem in der Anlage bestimmten Formular sind zulässig:
 
@@ -42,11 +46,10 @@ Folgende Abweichungen von dem in der Anlage bestimmten Formular sind zulässig:
 
 3. Verringerung oder Erweiterung der notwendigen Ausfüllfelder für Fälle, in denen Unterhalt für weniger oder mehr Kinder geltend gemacht wird oder aus anderen Gründen Ausfüllfelder für weitere Angaben notwendig sind.
 
-##### § 4 Übergangsvorschrift
+###### § 4 Übergangsvorschrift
 
 Für Verfahren, die bis zum 31. Dezember 2016 beantragt wurden, sind die bis dahin geltenden Formulare zu verwenden.
 
-##### Anlage (zu § 1 Absatz 1)
+###### Anlage (zu § 1 Absatz 1)
 
 (Fundstelle: BGBl. I 2015, 2022 - 2024)
-
