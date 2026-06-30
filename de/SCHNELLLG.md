@@ -4,30 +4,34 @@ identifier: "SCHNELLLG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2021-06-25"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/schnelllg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR214100021"
 slug: "schnelllg"
 bgbl_reference: "BGBl I 2021, 2141"
-stand: "Geändert durch Art. 12 G v. 22.12.2023 I Nr. 409"
+stand: "Zuletzt geändert durch Art. 8 Abs. 2 G v. 12.5.2026 I Nr. 137"
 ---
 # Gesetz über die Bereitstellung flächendeckender Schnellladeinfrastruktur für reine Batterieelektrofahrzeuge
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 Das Gesetz gilt für die Schnellladeinfrastruktur reiner Batterieelektrofahrzeuge der Klassen M und N im Sinne des Artikels 4 der Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG (ABl. L 151 vom 14.6.2018, S. 1), die durch die Verordnung (EU) 2019/2144 (ABl. L 325 vom 16.12.2019, S. 1) geändert worden ist, mit mindestens vier Rädern.
 
-##### § 1a Besondere Bedeutung der Errichtung und des Betriebs von Schnellladeinfrastruktur
+###### § 1a Besondere Bedeutung der Errichtung und des Betriebs von Schnellladeinfrastruktur
 
 Die Errichtung und der Betrieb von Schnellladepunkten und Schnellladestandorten an Bundesfernstraßen liegt im überragenden öffentlichen Interesse, solange und soweit eine bedarfsdeckende Ausstattung noch nicht erreicht ist. Das Bundesministerium für Digitales und Verkehr gibt den Zeitpunkt, zu dem die bedarfsdeckende Ausstattung mit Schnellladepunkten und Schnellladestandorten erreicht ist, im Bundesanzeiger bekannt.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist
 
@@ -49,7 +53,7 @@ Im Sinne dieses Gesetzes ist
 
 9. Bedarfsdeckung erreicht, wenn durch die Anzahl der Schnellladepunkte unzumutbare Wartezeiten vermieden werden.
 
-##### § 3 Aufgaben des Bundesministeriums für Verkehr und digitale Infrastruktur
+###### § 3 Aufgaben des Bundesministeriums für Verkehr und digitale Infrastruktur
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur gewährleistet die flächendeckende und bedarfsgerechte Bereitstellung von Schnellladeinfrastruktur für reine Batterieelektrofahrzeuge. Ein Rechtsanspruch auf die Gewährleistung der Bereitstellung von Schnellladeinfrastruktur besteht nicht. Die weitere Förderung von Elektromobilität durch andere Förderinstrumente wird durch dieses Gesetz nicht ausgeschlossen.
 
@@ -69,7 +73,7 @@ Im Sinne dieses Gesetzes ist
 
 (9) Das Bundesministerium für Verkehr und digitale Infrastruktur überwacht, inwiefern die Zielstellung nach Absatz 1 Satz 1 durch die auf Grundlage dieses Gesetzes ergriffenen Maßnahmen erreicht wird. Es sorgt bei Bedarf für eine Anpassung der Maßnahmen nach Maßgabe dieses Gesetzes und legt das entsprechend geänderte Konzept dem für Verkehr zuständigen Ausschuss des Deutschen Bundestages zur Zustimmung vor. Absatz 8 Satz 3 gilt entsprechend.
 
-##### § 4 Auswahl und Beauftragung von Auftragnehmern
+###### § 4 Auswahl und Beauftragung von Auftragnehmern
 
 (1) Die Bereitstellung von Schnellladeinfrastruktur wird in mehreren Losen ausgeschrieben, die Standorte oder Suchräume für Standorte nach § 3 Absatz 2 Satz 6 enthalten. Die Lose beziehen sich auf das gesamte Gebiet der Bundesrepublik Deutschland oder auf eine Region, die sich über mehrere Länder oder Teile mehrerer Länder erstrecken kann. Die Standorte bzw. Suchräume der bundesweiten Lose sollen Rastanlagen an Bundesfernstraßen einbeziehen. Einzelne Lose sollen sich in ihrem Zuschnitt räumlich überschneiden. In den Vergabeverfahren werden bundesweit insgesamt mindestens achtzehn regionale Lose gebildet. Daneben sollen bei Bedarf bundesweite Lose gebildet werden. Bei der Bestimmung der Lose werden folgende Kriterien zugrunde gelegt:
 
@@ -81,7 +85,7 @@ Im Sinne dieses Gesetzes ist
 
 4. das Ziel eines effektiven Wettbewerbs in den Vergabeverfahren gemäß § 3 Absatz 5 und eines effektiven Wettbewerbs unter den Anbietern von Schnellladeinfrastruktur nach Abschluss der Vergabeverfahren.
 
-(2) Bei der Losbildung werden mittelständische Interessen nach Maßgabe von § 97 Absatz 4 GWB berücksichtigt. In jeder Region soll mindestens ein im Verhältnis zu den anderen Losen kleineres Los gebildet werden, das mittelständischen Unternehmen eine Teilnahme ermöglicht. Bei der Bildung aller Lose sollen wirtschaftlich attraktive und weniger attraktive Standorte gebündelt werden. Das Bundesministerium für Verkehr und digitale Infrastruktur legt im Rahmen der Ausschreibung die Voraussetzungen fest, unter denen Unternehmen auf ein Los oder auf mehrere Lose bieten können.
+(2) Bei der Losbildung werden mittelständische Interessen nach Maßgabe von § 97 Absatz 4 und § 97a des Gesetzes gegen Wettbewerbsbeschränkungen berücksichtigt. In jeder Region soll mindestens ein im Verhältnis zu den anderen Losen kleineres Los gebildet werden, das mittelständischen Unternehmen eine Teilnahme ermöglicht. Bei der Bildung aller Lose sollen wirtschaftlich attraktive und weniger attraktive Standorte gebündelt werden. Das Bundesministerium für Verkehr und digitale Infrastruktur legt im Rahmen der Ausschreibung die Voraussetzungen fest, unter denen Unternehmen auf ein Los oder auf mehrere Lose bieten können.
 
 (3) Sofern das Bundesministerium für Verkehr und digitale Infrastruktur eine Auftragsbekanntmachung oder eine Vorinformation beabsichtigt, so ist diese am Tag der Veröffentlichung dem für Verkehr zuständigen Ausschuss des Deutschen Bundestages zur Information zu übermitteln.
 
@@ -89,7 +93,7 @@ Im Sinne dieses Gesetzes ist
 
 (5) Der Auftragnehmer hat das unbelastete Alleineigentum an den für den Betrieb der Schnellladestandorte erforderlichen beweglichen Sachen zu erwerben und darf das Eigentum weder belasten noch an Dritte übertragen, sofern nicht das Bundesministerium für Verkehr und digitale Infrastruktur eine andere Gestaltung für alle Verfahrensteilnehmer diskriminierungsfrei zulässt oder selbst Eigentümer der beweglichen Sachen wird.
 
-##### § 5 Nebenbetriebe an Bundesautobahnen
+###### § 5 Nebenbetriebe an Bundesautobahnen
 
 (1) Zur Erfüllung der Aufgabe nach § 3 Absatz 1 wird Schnellladeinfrastruktur im Rahmen des nach § 3 Absatz 2 ermittelten Bedarfs auch an geeigneten Flächen der Bundesautobahnen bereitgestellt.
 
@@ -107,7 +111,7 @@ Das Angebot kann die Rahmenbedingungen nach § 3 Absatz 3 beinhalten. Es kann da
 
 (5) § 15 des Bundesfernstraßengesetzes findet Anwendung, soweit dieses Gesetz keine abweichenden Regelungen trifft.
 
-##### § 6 Bestandsinfrastrukturanbieter
+###### § 6 Bestandsinfrastrukturanbieter
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur berücksichtigt die berechtigten Interessen der Bestandsinfrastrukturanbieter im Rahmen der Durchführung der Aufgaben nach § 3.
 
@@ -123,7 +127,7 @@ Nimmt das Bundesministerium für Verkehr und digitale Infrastruktur das Angebot 
 
 (4) Beabsichtigt ein Bestandsinfrastrukturanbieter den Betrieb von Schnellladeinfrastruktur einzustellen, hat er dies dem Bundesministerium für Verkehr und digitale Infrastruktur mindestens sechs Monate vor dem geplanten Zeitpunkt der Einstellung, im Fall einer späteren Entscheidung zur Einstellung spätestens unverzüglich nach der Entscheidung, anzuzeigen.
 
-##### § 7 Verordnungsermächtigung
+###### § 7 Verordnungsermächtigung
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Deutschen Bundestages
 
@@ -149,15 +153,14 @@ Eine Rechtsverordnung nach Satz 1 bedarf nicht der Zustimmung des Bundesrates.
 
 (4) Rechtsverordnungen nach Absatz 1 Nummer 1 und 2 sowie nach den Absätzen 2 und 3 erlässt das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie. Rechtsverordnungen nach Absatz 1 Nummer 2 und 4 erlässt das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der Finanzen.
 
-##### § 8 Beleihung
+###### § 8 Beleihung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann juristischen Personen des privaten Rechts mit ihrem Einverständnis die Befugnis verleihen, Verwaltungsaufgaben nach diesem Gesetz in eigenem Namen und in den Handlungsformen des öffentlichen Rechts wahrzunehmen, wenn sie die Gewähr für eine sachgerechte Erfüllung der ihnen übertragenen Aufgaben bieten und die Beleihung im öffentlichen Interesse liegt. Die Verleihung und die Entziehung der Befugnis obliegen dem Bundesministerium für Verkehr und digitale Infrastruktur; im Falle der Verleihung ist das Bundesministerium der Finanzen zu unterrichten. Die Beliehene unterliegt der Aufsicht des Bundesministeriums für Verkehr und digitale Infrastruktur; dieses kann die Aufsicht auf nachgeordnete Behörden übertragen. Im Falle der Staatshaftung wegen Ansprüchen Dritter kann der Bund gegenüber einer beliehenen juristischen Person des Privatrechts bei Vorliegen von Vorsatz oder grober Fahrlässigkeit Rückgriff nehmen.
 
-##### § 9 Berichterstattung
+###### § 9 Berichterstattung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur erstellt alle zwei Jahre, erstmals zum 1. Juli 2024, einen Bericht über die Flächendeckung, den Betrieb und die technische Ausstattung der Schnellladestandorte, über den Bedarf an Schnellladeinfrastruktur und ihre Auslastung, über den Erfüllungsgrad oder Hemmnisse bei der Erfüllung der Aufgaben nach § 3 und über weitere Anforderungen, die zur Erfüllung dieser Aufgaben erforderlich sind. Der Bericht soll darstellen, welcher Anteil der öffentlich zugänglichen Ladepunkte eigenwirtschaftlich betrieben wird, und verbleibende Wirtschaftlichkeitslücken der Betreiber bewerten. Er soll zudem eine Prognose des Bundesministeriums für Verkehr und digitale Infrastruktur enthalten, wann mit dem Ende der Markthochlaufphase zu rechnen ist. In diesem Bericht hat das Bundesministerium für Verkehr und digitale Infrastruktur begründet darzulegen, ob und inwieweit die Gewährleistung der flächendeckenden und bedarfsgerechten Bereitstellung von Schnellladeinfrastruktur durch das Bundesministerium für Verkehr und digitale Infrastruktur weiterhin erforderlich ist. Der Bericht ist den für Verkehr und Haushalt zuständigen Ausschüssen des Deutschen Bundestages vorzulegen.
 
-##### § 10 Inkrafttreten
+###### § 10 Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
-
