@@ -4,24 +4,28 @@ identifier: "MILOG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2014-08-11"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/milog/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR134810014"
 slug: "milog"
 bgbl_reference: "BGBl I 2014, 1348"
-stand: "Zuletzt geändert durch Art. 6 G v. 22.12.2025 I Nr. 369"
+stand: "Zuletzt geändert durch Art. 8 Abs. 3 G v. 12.5.2026 I Nr. 137"
 ---
 # Gesetz zur Regelung eines allgemeinen Mindestlohns
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ## Abschnitt 1 Festsetzung des allgemeinen Mindestlohns
 
 ## Unterabschnitt 1 Inhalt des Mindestlohns
 
-##### § 1 Mindestlohn
+###### § 1 Mindestlohn
 
 (1) Jede Arbeitnehmerin und jeder Arbeitnehmer hat Anspruch auf Zahlung eines Arbeitsentgelts mindestens in Höhe des Mindestlohns durch den Arbeitgeber.
 
@@ -29,7 +33,7 @@ stand: "Zuletzt geändert durch Art. 6 G v. 22.12.2025 I Nr. 369"
 
 (3) Die Regelungen des Arbeitnehmer-Entsendegesetzes, des Arbeitnehmerüberlassungsgesetzes und der auf ihrer Grundlage erlassenen Rechtsverordnungen gehen den Regelungen dieses Gesetzes vor, soweit die Höhe der auf ihrer Grundlage festgesetzten Branchenmindestlöhne die Höhe des Mindestlohns nicht unterschreitet.
 
-##### § 2 Fälligkeit des Mindestlohns
+###### § 2 Fälligkeit des Mindestlohns
 
 (1) Der Arbeitgeber ist verpflichtet, der Arbeitnehmerin oder dem Arbeitnehmer den Mindestlohn
 
@@ -43,25 +47,25 @@ zu zahlen. Für den Fall, dass keine Vereinbarung über die Fälligkeit getroffe
 
 (3) Die Absätze 1 und 2 gelten nicht für Wertguthabenvereinbarungen im Sinne des Vierten Buches Sozialgesetzbuch. Satz 1 gilt entsprechend für eine im Hinblick auf den Schutz der Arbeitnehmerinnen und Arbeitnehmer vergleichbare ausländische Regelung.
 
-##### § 3 Unabdingbarkeit des Mindestlohns
+###### § 3 Unabdingbarkeit des Mindestlohns
 
 Vereinbarungen, die den Anspruch auf Mindestlohn unterschreiten oder seine Geltendmachung beschränken oder ausschließen, sind insoweit unwirksam. Die Arbeitnehmerin oder der Arbeitnehmer kann auf den entstandenen Anspruch nach § 1 Absatz 1 nur durch gerichtlichen Vergleich verzichten; im Übrigen ist ein Verzicht ausgeschlossen. Die Verwirkung des Anspruchs ist ausgeschlossen.
 
 ## Unterabschnitt 2 Mindestlohnkommission
 
-##### § 4 Aufgabe und Zusammensetzung
+###### § 4 Aufgabe und Zusammensetzung
 
 (1) Die Bundesregierung errichtet eine ständige Mindestlohnkommission, die über die Anpassung der Höhe des Mindestlohns befindet.
 
 (2) Die Mindestlohnkommission wird alle fünf Jahre neu berufen. Sie besteht aus einer oder einem Vorsitzenden, sechs weiteren stimmberechtigten ständigen Mitgliedern und zwei Mitgliedern aus Kreisen der Wissenschaft ohne Stimmrecht (beratende Mitglieder).
 
-##### § 5 Stimmberechtigte Mitglieder
+###### § 5 Stimmberechtigte Mitglieder
 
 (1) Die Bundesregierung beruft je drei stimmberechtigte Mitglieder auf Vorschlag der Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer aus Kreisen der Vereinigungen von Arbeitgebern und Gewerkschaften. Die Spitzenorganisationen der Arbeitgeber und Arbeitnehmer sollen jeweils mindestens eine Frau und einen Mann als stimmberechtigte Mitglieder vorschlagen. Werden auf Arbeitgeber- oder auf Arbeitnehmerseite von den Spitzenorganisationen mehr als drei Personen vorgeschlagen, erfolgt die Auswahl zwischen den Vorschlägen im Verhältnis zur Bedeutung der jeweiligen Spitzenorganisationen für die Vertretung der Arbeitgeber- oder Arbeitnehmerinteressen im Arbeitsleben des Bundesgebietes. Übt eine Seite ihr Vorschlagsrecht nicht aus, werden die Mitglieder dieser Seite durch die Bundesregierung aus Kreisen der Vereinigungen von Arbeitgebern oder Gewerkschaften berufen.
 
 (2) Scheidet ein Mitglied aus, wird nach Maßgabe des Absatzes 1 Satz 1 und 4 ein neues Mitglied berufen.
 
-##### § 6 Vorsitz
+###### § 6 Vorsitz
 
 (1) Die Bundesregierung beruft die Vorsitzende oder den Vorsitzenden auf gemeinsamen Vorschlag der Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer.
 
@@ -69,7 +73,7 @@ Vereinbarungen, die den Anspruch auf Mindestlohn unterschreiten oder seine Gelte
 
 (3) Scheidet die Vorsitzende oder der Vorsitzende aus, wird nach Maßgabe der Absätze 1 und 2 eine neue Vorsitzende oder ein neuer Vorsitzender berufen.
 
-##### § 7 Beratende Mitglieder
+###### § 7 Beratende Mitglieder
 
 (1) Die Bundesregierung beruft auf Vorschlag der Spitzenorganisationen der Arbeitgeber und Arbeitnehmer zusätzlich je ein beratendes Mitglied aus Kreisen der Wissenschaft. Die Bundesregierung soll darauf hinwirken, dass die Spitzenorganisationen der Arbeitgeber und Arbeitnehmer eine Frau und einen Mann als beratendes Mitglied vorschlagen. Das beratende Mitglied soll in keinem Beschäftigungsverhältnis stehen zu
 
@@ -83,7 +87,7 @@ Vereinbarungen, die den Anspruch auf Mindestlohn unterschreiten oder seine Gelte
 
 (2) Die beratenden Mitglieder unterstützen die Mindestlohnkommission insbesondere bei der Prüfung nach § 9 Absatz 2 durch die Einbringung wissenschaftlichen Sachverstands. Sie haben das Recht, an den Beratungen der Mindestlohnkommission teilzunehmen.
 
-##### § 8 Rechtsstellung der Mitglieder
+###### § 8 Rechtsstellung der Mitglieder
 
 (1) Die Mitglieder der Mindestlohnkommission unterliegen bei der Wahrnehmung ihrer Tätigkeit keinen Weisungen.
 
@@ -91,7 +95,7 @@ Vereinbarungen, die den Anspruch auf Mindestlohn unterschreiten oder seine Gelte
 
 (3) Die Mitglieder der Mindestlohnkommission erhalten eine angemessene Entschädigung für den ihnen bei der Wahrnehmung ihrer Tätigkeit erwachsenden Verdienstausfall und Aufwand sowie Ersatz der Fahrtkosten entsprechend den für ehrenamtliche Richterinnen und Richter der Arbeitsgerichte geltenden Vorschriften. Die Entschädigung und die erstattungsfähigen Fahrtkosten setzt im Einzelfall die oder der Vorsitzende der Mindestlohnkommission fest.
 
-##### § 9 Beschluss der Mindestlohnkommission
+###### § 9 Beschluss der Mindestlohnkommission
 
 (1) Die Mindestlohnkommission hat über eine Anpassung der Höhe des Mindestlohns bis zum 30. Juni 2023 mit Wirkung zum 1. Januar 2024 zu beschließen. Danach hat die Mindestlohnkommission alle zwei Jahre über Anpassungen der Höhe des Mindestlohns zu beschließen.
 
@@ -101,7 +105,7 @@ Vereinbarungen, die den Anspruch auf Mindestlohn unterschreiten oder seine Gelte
 
 (4) Die Mindestlohnkommission evaluiert laufend die Auswirkungen des Mindestlohns auf den Schutz der Arbeitnehmerinnen und Arbeitnehmer, die Wettbewerbsbedingungen und die Beschäftigung in Bezug auf bestimmte Branchen und Regionen sowie die Produktivität und stellt ihre Erkenntnisse der Bundesregierung in einem Bericht alle zwei Jahre gemeinsam mit ihrem Beschluss zur Verfügung.
 
-##### § 10 Verfahren der Mindestlohnkommission
+###### § 10 Verfahren der Mindestlohnkommission
 
 (1) Die Mindestlohnkommission ist beschlussfähig, wenn mindestens die Hälfte ihrer stimmberechtigten Mitglieder anwesend ist.
 
@@ -117,13 +121,13 @@ Vereinbarungen, die den Anspruch auf Mindestlohn unterschreiten oder seine Gelte
 
 Die übrigen Verfahrensregelungen trifft die Mindestlohnkommission in einer Geschäftsordnung.
 
-##### § 11 Rechtsverordnung
+###### § 11 Rechtsverordnung
 
 (1) Die Bundesregierung kann die von der Mindestlohnkommission vorgeschlagene Anpassung des Mindestlohns durch Rechtsverordnung ohne Zustimmung des Bundesrates für alle Arbeitgeber sowie Arbeitnehmerinnen und Arbeitnehmer verbindlich machen. Die Rechtsverordnung tritt am im Beschluss der Mindestlohnkommission bezeichneten Tag, frühestens aber am Tag nach Verkündung in Kraft. Die Rechtsverordnung gilt, bis sie durch eine neue Rechtsverordnung abgelöst wird.
 
 (2) Vor Erlass der Rechtsverordnung erhalten die Spitzenorganisationen der Arbeitgeber und Arbeitnehmer, die Vereinigungen von Arbeitgebern und Gewerkschaften, die öffentlich-rechtlichen Religionsgesellschaften, die Wohlfahrtsverbände sowie die Verbände, die wirtschaftliche und soziale Interessen organisieren, Gelegenheit zur schriftlichen Stellungnahme. Die Frist zur Stellungnahme beträgt drei Wochen; sie beginnt mit der Bekanntmachung des Verordnungsentwurfs.
 
-##### § 12 Geschäfts- und Informationsstelle für den Mindestlohn; Kostenträgerschaft
+###### § 12 Geschäfts- und Informationsstelle für den Mindestlohn; Kostenträgerschaft
 
 (1) Die Mindestlohnkommission wird bei der Durchführung ihrer Aufgaben von einer Geschäftsstelle unterstützt. Die Geschäftsstelle untersteht insoweit fachlich der oder dem Vorsitzenden der Mindestlohnkommission.
 
@@ -135,17 +139,17 @@ Die übrigen Verfahrensregelungen trifft die Mindestlohnkommission in einer Gesc
 
 ## Abschnitt 2 Zivilrechtliche Durchsetzung
 
-##### § 13 Haftung des Auftraggebers
+###### § 13 Haftung des Auftraggebers
 
 § 14 des Arbeitnehmer-Entsendegesetzes findet entsprechende Anwendung.
 
 ## Abschnitt 3 Kontrolle und Durchsetzung durch staatliche Behörden
 
-##### § 14 Zuständigkeit
+###### § 14 Zuständigkeit
 
 Für die Prüfung der Einhaltung der Pflichten eines Arbeitgebers nach § 20 sind die Behörden der Zollverwaltung zuständig.
 
-##### § 15 Befugnisse der Behörden der Zollverwaltung und anderer Behörden; Mitwirkungspflichten des Arbeitgebers
+###### § 15 Befugnisse der Behörden der Zollverwaltung und anderer Behörden; Mitwirkungspflichten des Arbeitgebers
 
 Die §§ 2 bis 7, 13, 14, 15 bis 20, 22 und 23 des Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der Maßgabe, dass
 
@@ -155,11 +159,11 @@ Die §§ 2 bis 7, 13, 14, 15 bis 20, 22 und 23 des Schwarzarbeitsbekämpfungsges
 
 Entsandte Arbeitnehmerinnen und Arbeitnehmer können im Rahmen der Prüfungen nach dem Schwarzarbeitsbekämpfungsgesetz auch nach dem Abschluss der Entsendung kontaktiert werden.
 
-##### § 16 Meldepflicht
+###### § 16 Meldepflicht
 
-(1) Ein Arbeitgeber mit Sitz im Ausland, der eine Arbeitnehmerin oder einen Arbeitnehmer oder mehrere Arbeitnehmerinnen oder Arbeitnehmer in den in § 2a des Schwarzarbeitsbekämpfungsgesetzes genannten Wirtschaftsbereichen oder Wirtschaftszweigen im Anwendungsbereich dieses Gesetzes beschäftigt, ist verpflichtet, vor Beginn jeder Werk- oder Dienstleistung eine schriftliche Anmeldung in deutscher Sprache bei der zuständigen Behörde der Zollverwaltung nach Absatz 6 vorzulegen, die die für die Prüfung wesentlichen Angaben enthält. Wesentlich sind die Angaben über
+(1) Ein Arbeitgeber mit Sitz im Ausland, der eine Arbeitnehmerin oder einen Arbeitnehmer oder mehrere Arbeitnehmerinnen oder Arbeitnehmer in den in § 2a des Schwarzarbeitsbekämpfungsgesetzes genannten Wirtschaftsbereichen oder Wirtschaftszweigen im Anwendungsbereich dieses Gesetzes beschäftigt, ist verpflichtet, vor Beginn jeder Werk- oder Dienstleistung eine schriftliche Anmeldung in deutscher Sprache bei der zuständigen Behörde der Zollverwaltung vorzulegen, die die für die Prüfung wesentlichen Angaben enthält. Wesentlich sind die Angaben über
 
-1. den Familiennamen, den Vornamen und das Geburtsdatum der von ihm im Geltungsbereich dieses Gesetzes beschäftigten Arbeitnehmerinnen und Arbeitnehmer,
+1. den Familiennamen, den Vornamen, das Geburtsdatum, die Staatsangehörigkeit und Kontaktdaten der von ihm im Geltungsbereich dieses Gesetzes beschäftigten Arbeitnehmerinnen und Arbeitnehmer,
 
 2. den Beginn und die voraussichtliche Dauer der Beschäftigung,
 
@@ -167,15 +171,17 @@ Entsandte Arbeitnehmerinnen und Arbeitnehmer können im Rahmen der Prüfungen na
 
 4. den Ort im Inland, an dem die nach § 17 erforderlichen Unterlagen bereitgehalten werden,
 
-5. den Familiennamen, den Vornamen, das Geburtsdatum und die Anschrift in Deutschland der oder des verantwortlich Handelnden,
+5. den Familiennamen, den Vornamen und die Anschrift in Deutschland einer oder eines Zustellungsbevollmächtigten,
 
-6. die Branche, in die die Arbeitnehmerinnen und Arbeitnehmer entsandt werden sollen, und
+6. die Branche, in die die Arbeitnehmerinnen und Arbeitnehmer entsandt werden sollen,
 
-7. den Familiennamen, den Vornamen und die Anschrift in Deutschland einer oder eines Zustellungsbevollmächtigten, soweit diese oder dieser nicht mit der oder dem in Nummer 5 genannten verantwortlich Handelnden identisch ist.
+7. die Tätigkeit oder die Position der im Geltungsbereich dieses Gesetzes beschäftigten Arbeitnehmerinnen oder Arbeitnehmer für die Dauer der Beschäftigung und
+
+8. den Familiennamen, den Vornamen oder die Firma sowie die Anschrift des Auftraggebers.
 
 Änderungen bezüglich dieser Angaben hat der Arbeitgeber im Sinne des Satzes 1 unverzüglich zu melden.
 
-(2) Abweichend von Absatz 1 ist ein Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums verpflichtet, der zuständigen Behörde der Zollverwaltung vor Beginn der Beschäftigung einer Kraftfahrerin oder eines Kraftfahrers für die Durchführung von Güter- oder Personenbeförderungen im Inland nach § 36 Absatz 1 des Arbeitnehmer-Entsendegesetzes eine Anmeldung mit folgenden Angaben elektronisch zuzuleiten:
+(2) Abweichend von Absatz 1 ist ein Arbeitgeber mit Sitz in einem anderen Mitgliedstaat der Europäischen Union, des Europäischen Wirtschaftsraums oder des Vereinigten Königreichs Großbritannien und Nordirland verpflichtet, der zuständigen Behörde der Zollverwaltung vor Beginn der Beschäftigung einer Kraftfahrerin oder eines Kraftfahrers für die Durchführung von Güter- oder Personenbeförderungen im Inland nach § 36 Absatz 1 des Arbeitnehmer-Entsendegesetzes eine Anmeldung mit folgenden Angaben elektronisch zuzuleiten:
 
 1. die Identität des Unternehmens, sofern diese verfügbar ist in Form der Nummer der Gemeinschaftslizenz,
 
@@ -195,7 +201,7 @@ die Anmeldung ist mittels der elektronischen Schnittstelle des Binnenmarkt-Infor
 
 (3) Überlässt ein Verleiher mit Sitz im Ausland eine Arbeitnehmerin oder einen Arbeitnehmer oder mehrere Arbeitnehmerinnen oder Arbeitnehmer zur Arbeitsleistung einem Entleiher, hat der Verleiher in den in § 2a des Schwarzarbeitsbekämpfungsgesetzes genannten Wirtschaftsbereichen oder Wirtschaftszweigen unter den Voraussetzungen des Absatzes 1 Satz 1 vor Beginn jeder Werk- oder Dienstleistung der zuständigen Behörde der Zollverwaltung eine schriftliche Anmeldung in deutscher Sprache mit folgenden Angaben zuzuleiten:
 
-1. den Familiennamen, den Vornamen und das Geburtsdatum der überlassenen Arbeitnehmerinnen und Arbeitnehmer,
+1. den Familiennamen, den Vornamen, das Geburtsdatum, die Staatsangehörigkeit und Kontaktdaten der überlassenen Arbeitnehmerinnen und Arbeitnehmer,
 
 2. den Beginn und die Dauer der Überlassung,
 
@@ -207,21 +213,23 @@ die Anmeldung ist mittels der elektronischen Schnittstelle des Binnenmarkt-Infor
 
 6. die Branche, in die die Arbeitnehmerinnen und Arbeitnehmer entsandt werden sollen,
 
-7. den Familiennamen, den Vornamen oder die Firma sowie die Anschrift des Entleihers.
+7. die Tätigkeit oder die Position der im Geltungsbereich dieses Gesetzes beschäftigten Arbeitnehmerinnen und Arbeitnehmer für die Dauer der Beschäftigung und
+
+8. den Familiennamen, den Vornamen oder die Firma sowie die Anschrift des Entleihers.
 
 Absatz 1 Satz 3 gilt entsprechend.
 
 (4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne Zustimmung des Bundesrates bestimmen,
 
-1. dass, auf welche Weise und unter welchen technischen und organisatorischen Voraussetzungen eine Anmeldung, eine Änderungsmeldung und die Versicherung abweichend von Absatz 1 Satz 1 und 3, Absatz 2 und 3 Satz 1 und 2 und Absatz 4 elektronisch übermittelt werden kann,
+1. dass, auf welche Weise und unter welchen technischen und organisatorischen Voraussetzungen eine Anmeldung oder eine Änderungsmeldung abweichend von Absatz 1 Satz 1 und 3, Absatz 2 und 3 Satz 1 und 2 elektronisch übermittelt werden kann,
 
 2. unter welchen Voraussetzungen eine Änderungsmeldung ausnahmsweise entfallen kann, und
 
 3. wie das Meldeverfahren vereinfacht oder abgewandelt werden kann, sofern die entsandten Arbeitnehmerinnen und Arbeitnehmer im Rahmen einer regelmäßig wiederkehrenden Werk- oder Dienstleistung eingesetzt werden oder sonstige Besonderheiten der zu erbringenden Werk- oder Dienstleistungen dies erfordern.
 
-(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1 Satz 1 und Absatz 3 Satz 1 bestimmen.
+(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3 Satz 1 bestimmen.
 
-##### § 17 Erstellen und Bereithalten von Dokumenten
+###### § 17 Erstellen und Bereithalten von Dokumenten
 
 (1) Ein Arbeitgeber, der Arbeitnehmerinnen und Arbeitnehmer nach § 8 Absatz 1 des Vierten Buches Sozialgesetzbuch oder in den in § 2a des Schwarzarbeitsbekämpfungsgesetzes genannten Wirtschaftsbereichen oder Wirtschaftszweigen beschäftigt, ist verpflichtet, Beginn, Ende und Dauer der täglichen Arbeitszeit dieser Arbeitnehmerinnen und Arbeitnehmer spätestens bis zum Ablauf des siebten auf den Tag der Arbeitsleistung folgenden Kalendertages aufzuzeichnen und diese Aufzeichnungen mindestens zwei Jahre beginnend ab dem für die Aufzeichnung maßgeblichen Zeitpunkt aufzubewahren. Satz 1 gilt entsprechend für einen Entleiher, dem ein Verleiher eine Arbeitnehmerin oder einen Arbeitnehmer oder mehrere Arbeitnehmerinnen oder Arbeitnehmer zur Arbeitsleistung in einem der in § 2a des Schwarzarbeitsbekämpfungsgesetzes genannten Wirtschaftszweige überlässt. Satz 1 gilt nicht für Beschäftigungsverhältnisse nach § 8a des Vierten Buches Sozialgesetzbuch.
 
@@ -255,7 +263,7 @@ Soweit eine Anmeldung nach § 16 Absatz 2 nicht zugeleitet wurde, obwohl eine Be
 
 (4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne Zustimmung des Bundesrates bestimmen, wie die Verpflichtung des Arbeitgebers, die tägliche Arbeitszeit bei ihm beschäftigter Arbeitnehmerinnen und Arbeitnehmer aufzuzeichnen und diese Aufzeichnungen aufzubewahren, vereinfacht oder abgewandelt werden kann, sofern Besonderheiten der zu erbringenden Werk- oder Dienstleistungen oder Besonderheiten des jeweiligen Wirtschaftsbereiches oder Wirtschaftszweiges dies erfordern.
 
-##### § 18 Zusammenarbeit der in- und ausländischen Behörden
+###### § 18 Zusammenarbeit der in- und ausländischen Behörden
 
 (1) Die Behörden der Zollverwaltung unterrichten die zuständigen örtlichen Landesfinanzbehörden über Meldungen nach § 16 Absatz 1 und 3. Auf die Informationen zu den Meldungen nach § 16 Absatz 2 können die Landesfinanzbehörden über das Binnenmarkt-Informationssystem zugreifen.
 
@@ -263,7 +271,7 @@ Soweit eine Anmeldung nach § 16 Absatz 2 nicht zugeleitet wurde, obwohl eine Be
 
 (3) Die Behörden der Zollverwaltung unterrichten das Gewerbezentralregister über rechtskräftige Bußgeldentscheidungen nach § 21 Absatz 1 bis 3, sofern die Geldbuße mehr als zweihundert Euro beträgt.
 
-##### § 19 Ausschluss von der Vergabe öffentlicher Aufträge
+###### § 19 Ausschluss von der Vergabe öffentlicher Aufträge
 
 (1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerberinnen oder Bewerber für eine angemessene Zeit bis zur nachgewiesenen Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die wegen eines Verstoßes nach § 21 Absatz 1 Nummer 1 bis 10, 12 und 13 oder Absatz 2 mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro belegt worden sind.
 
@@ -271,15 +279,15 @@ Soweit eine Anmeldung nach § 16 Absatz 2 nicht zugeleitet wurde, obwohl eine Be
 
 (3) Öffentliche Auftraggeber nach Absatz 2 fordern im Rahmen ihrer Tätigkeit beim Wettbewerbsregister Auskünfte über rechtskräftige Bußgeldentscheidungen wegen einer Ordnungswidrigkeit nach § 21 Absatz 1 Nummer 1 bis 10, 12 und 13 oder Absatz 2 an oder verlangen von Bewerberinnen oder Bewerbern eine Erklärung, dass die Voraussetzungen für einen Ausschluss nach Absatz 1 nicht vorliegen. Im Falle einer Erklärung der Bewerberin oder des Bewerbers können öffentliche Auftraggeber nach Absatz 2 jederzeit zusätzlich Auskünfte des Wettbewerbsregisters anfordern.
 
-(4) Bei Aufträgen ab einer Höhe von 30 000 Euro fordert der öffentliche Auftraggeber nach Absatz 2 für die Bewerberin oder den Bewerber, die oder der den Zuschlag erhalten soll, vor der Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregisters an.
+(4) Bei Aufträgen mit einem geschätzten Auftragswert ab 50 000 Euro ohne Umsatzsteuer fordert der öffentliche Auftraggeber nach Absatz 2 für die Bewerberin oder den Bewerber, die oder der den Zuschlag erhalten soll, vor der Zuschlagserteilung eine Auskunft aus dem Wettbewerbsregisters an.
 
 (5) Vor der Entscheidung über den Ausschluss ist die Bewerberin oder der Bewerber zu hören.
 
-##### § 20 Pflichten des Arbeitgebers zur Zahlung des Mindestlohns
+###### § 20 Pflichten des Arbeitgebers zur Zahlung des Mindestlohns
 
 Arbeitgeber mit Sitz im In- oder Ausland sind verpflichtet, ihren im Inland beschäftigten Arbeitnehmerinnen und Arbeitnehmern ein Arbeitsentgelt mindestens in Höhe des Mindestlohns nach § 1 Absatz 2 spätestens zu dem in § 2 Absatz 1 Satz 1 Nummer 2 genannten Zeitpunkt zu zahlen.
 
-##### § 21 Bußgeldvorschriften
+###### § 21 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -323,7 +331,7 @@ Arbeitgeber mit Sitz im In- oder Ausland sind verpflichtet, ihren im Inland besc
 
 ## Abschnitt 4 Schlussvorschriften
 
-##### § 22 Persönlicher Anwendungsbereich
+###### § 22 Persönlicher Anwendungsbereich
 
 (1) Dieses Gesetz gilt für Arbeitnehmerinnen und Arbeitnehmer. Praktikantinnen und Praktikanten im Sinne des § 26 des Berufsbildungsgesetzes gelten als Arbeitnehmerinnen und Arbeitnehmer im Sinne dieses Gesetzes, es sei denn, dass sie
 
@@ -343,9 +351,8 @@ Praktikantin oder Praktikant ist unabhängig von der Bezeichnung des Rechtsverh�
 
 (4) Für Arbeitsverhältnisse von Arbeitnehmerinnen und Arbeitnehmern, die unmittelbar vor Beginn der Beschäftigung langzeitarbeitslos im Sinne des § 18 Absatz 1 des Dritten Buches Sozialgesetzbuch waren, gilt der Mindestlohn in den ersten sechs Monaten der Beschäftigung nicht. Die Bundesregierung hat den gesetzgebenden Körperschaften zum 1. Juni 2016 darüber zu berichten, inwieweit die Regelung nach Satz 1 die Wiedereingliederung von Langzeitarbeitslosen in den Arbeitsmarkt gefördert hat, und eine Einschätzung darüber abzugeben, ob diese Regelung fortbestehen soll.
 
-##### § 23 Evaluation
+###### § 23 Evaluation
 
 Dieses Gesetz ist im Jahr 2020 zu evaluieren.
 
-##### § 24 (weggefallen)
-
+###### § 24 (weggefallen)
