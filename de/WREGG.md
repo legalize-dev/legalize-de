@@ -4,18 +4,22 @@ identifier: "WREGG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2017-07-18"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/wregg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR273910017"
 slug: "wregg"
 bgbl_reference: "BGBl I 2017, 2739"
-stand: "Zuletzt geändert durch Art. 5 G v. 22.12.2025 I Nr. 369"
+stand: "Zuletzt geändert durch Art. 4 G v. 12.5.2026 I Nr. 137"
 ---
 # Gesetz zur Einrichtung und zum Betrieb eines Registers zum Schutz des Wettbewerbs um öffentliche Aufträge und Konzessionen
 
-##### § 1 Einrichtung des Wettbewerbsregisters
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Einrichtung des Wettbewerbsregisters
 
 (1) Beim Bundeskartellamt (Registerbehörde) wird ein Register zum Schutz des Wettbewerbs um öffentliche Aufträge und Konzessionen (Wettbewerbsregister) eingerichtet und geführt.
 
@@ -23,7 +27,7 @@ stand: "Zuletzt geändert durch Art. 5 G v. 22.12.2025 I Nr. 369"
 
 (3) Das Wettbewerbsregister wird in Form einer elektronischen Datenbank geführt.
 
-##### § 2 Eintragungsvoraussetzungen
+###### § 2 Eintragungsvoraussetzungen
 
 (1) In das Wettbewerbsregister sind einzutragen:
 
@@ -51,17 +55,17 @@ d) nach § 21 Absatz 1 Nummer 1 bis 10, 12 und 13 sowie Absatz 2 des Mindestlohn
 
 e) nach § 23 Absatz 1 Nummer 1 bis 11 und 13 sowie Absatz 2 des Arbeitnehmer-Entsendegesetzes;
 
-3. rechtskräftige Bußgeldentscheidungen, die nach § 30 des Gesetzes über Ordnungswidrigkeiten, auch in Verbindung mit § 130 des Gesetzes über Ordnungswidrigkeiten, wegen Straftaten nach Nummer 1 oder Straftaten oder Ordnungswidrigkeiten nach Nummer 2 ergangen sind; oder
+3. rechtskräftige Bußgeldentscheidungen, die nach § 30 des Gesetzes über Ordnungswidrigkeiten, auch in Verbindung mit § 130 des Gesetzes über Ordnungswidrigkeiten, wegen Straftaten nach Nummer 1 Buchstabe a bis d oder Straftaten oder Ordnungswidrigkeiten nach Nummer 2 ergangen sind; oder
 
 4. rechtskräftige Bußgeldentscheidungen, die wegen Ordnungswidrigkeiten nach § 24 Absatz 1 des Lieferkettensorgfaltspflichtengesetzes vom 16. Juli 2021 (BGBl. I S. 2959) ergangen sind, wenn ein Bußgeld von wenigstens einhundertfünfundsiebzigtausend Euro festgesetzt worden ist.
 
-(2) In das Wettbewerbsregister werden ferner Bußgeldentscheidungen eingetragen, die wegen Ordnungswidrigkeiten nach § 81 Absatz 1 Nummer 1, Absatz 2 Nummer 1 in Verbindung mit § 1 des Gesetzes gegen Wettbewerbsbeschränkungen ergangen sind, wenn eine Geldbuße von wenigstens fünfzigtausend Euro festgesetzt worden ist. Nicht eingetragen werden Bußgeldentscheidungen, die nach § 81a Absatz 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen ergangen sind.
+(2) In das Wettbewerbsregister werden ferner Bußgeldentscheidungen eingetragen, die wegen Ordnungswidrigkeiten nach § 81 Absatz 1 Nummer 1, Absatz 2 Nummer 1 in Verbindung mit § 1 des Gesetzes gegen Wettbewerbsbeschränkungen oder wegen Straftaten nach § 298 des Strafgesetzbuches ergangen sind, wenn eine Geldbuße von wenigstens fünfzigtausend Euro festgesetzt worden ist. Nicht eingetragen werden Bußgeldentscheidungen, die nach § 81a Absatz 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen ergangen sind.
 
-(3) Die Eintragung von strafgerichtlichen Entscheidungen und Bußgeldentscheidungen nach Absatz 1 Nummer 1 und 2 und von Entscheidungen gegen eine natürliche Person nach Absatz 2 erfolgt nur, wenn das Verhalten der natürlichen Person einem Unternehmen zuzurechnen ist. Das ist der Fall, wenn die natürliche Person als für die Leitung des Unternehmens Verantwortliche gehandelt hat, wozu auch die Überwachung der Geschäftsführung oder die sonstige Ausübung von Kontrollbefugnissen in leitender Stellung gehört.
+(3) Die Eintragung von strafgerichtlichen Entscheidungen und Bußgeldentscheidungen nach Absatz 1 Nummer 1 und 2 und von Entscheidungen gegen eine natürliche Person nach Absatz 1 Nummer 4 und Absatz 2 erfolgt nur, wenn das Verhalten der natürlichen Person einem Unternehmen zuzurechnen ist. Das ist der Fall, wenn die natürliche Person als für die Leitung des Unternehmens Verantwortliche gehandelt hat, wozu auch die Überwachung der Geschäftsführung oder die sonstige Ausübung von Kontrollbefugnissen in leitender Stellung gehört.
 
 (4) Unternehmen im Sinne dieses Gesetzes ist jede natürliche oder juristische Person oder eine Gruppe solcher Personen, die auf dem Markt die Lieferung von Waren, die Ausführung von Bauleistungen oder die Erbringung von sonstigen Leistungen anbietet. Erlischt eine juristische Person oder eine Personenvereinigung mit Unternehmenseigenschaft nachträglich, steht dies der Eintragung nicht entgegen.
 
-##### § 3 Inhalt der Eintragung in das Wettbewerbsregister
+###### § 3 Inhalt der Eintragung in das Wettbewerbsregister
 
 (1) Die Registerbehörde speichert folgende Daten, die ihr von einer nach § 4 zur Mitteilung verpflichteten Behörde übermittelt wurden, in einer elektronischen Datenbank:
 
@@ -107,7 +111,7 @@ d) die die Zurechnung des Fehlverhaltens zu einem Unternehmen gemäß § 2 Absat
 
 (4) Die Registerbehörde kann zur Überprüfung und Vervollständigung der in Absatz 1 Nummer 4 genannten Daten das Bundeszentralamt für Steuern um Übermittlung der gültigen Umsatzsteuer-Identifikationsnummer eines Unternehmens, das in das Wettbewerbsregister eingetragen ist oder eingetragen werden soll, ersuchen. In dem Ersuchen hat die Registerbehörde Name oder Firma sowie Rechtsform und Anschrift des betroffenen Unternehmens anzugeben. § 27a Absatz 2 Satz 2 des Umsatzsteuergesetzes bleibt unberührt.
 
-##### § 4 Mitteilungen
+###### § 4 Mitteilungen
 
 (1) Die Strafverfolgungsbehörden und die Behörden, die zur Verfolgung von Ordnungswidrigkeiten berufen sind, teilen bei Entscheidungen nach § 2 Absatz 1 und 2 der Registerbehörde unverzüglich die in § 3 Absatz 1 bezeichneten Daten mit. § 30 der Abgabenordnung steht der Mitteilung von Entscheidungen nach § 2 Absatz 1 Nummer 1 Buchstabe d sowie nach § 2 Absatz 1 Nummer 3 in Verbindung mit Absatz 1 Nummer 1 Buchstabe d nicht entgegen.
 
@@ -115,7 +119,7 @@ d) die die Zurechnung des Fehlverhaltens zu einem Unternehmen gemäß § 2 Absat
 
 (3) Werden den Strafverfolgungsbehörden oder den Behörden, die für die Verfolgung von Ordnungswidrigkeiten berufen sind, Umstände bekannt, die einer weiteren Speicherung der übermittelten Daten im Wettbewerbsregister entgegenstehen, so haben sie die Registerbehörde unverzüglich zu unterrichten.
 
-##### § 5 Gelegenheit zur Stellungnahme vor Eintragung in das Wettbewerbsregister; Auskunftsanspruch
+###### § 5 Gelegenheit zur Stellungnahme vor Eintragung in das Wettbewerbsregister; Auskunftsanspruch
 
 (1) Vor der Eintragung in das Wettbewerbsregister informiert die Registerbehörde das betroffene Unternehmen in Textform über den Inhalt der geplanten Eintragung und gibt ihm Gelegenheit, innerhalb von zwei Wochen nach Zugang der Information Stellung zu nehmen. Weist das betroffene Unternehmen nach, dass die übermittelten Daten fehlerhaft sind, sieht die Registerbehörde von einer Eintragung ab oder korrigiert die fehlerhaften Daten. Die Registerbehörde kann die Frist zur Stellungnahme verlängern. § 8 Absatz 3 ist entsprechend anzuwenden.
 
@@ -131,15 +135,17 @@ d) die die Zurechnung des Fehlverhaltens zu einem Unternehmen gemäß § 2 Absat
 
 (7) Für die Erteilung von Auskünften nach Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG gelten die Absätze 3 und 4 entsprechend.
 
-##### § 6 Abfragepflicht für Auftraggeber; Entscheidung über einen Ausschluss vom Vergabeverfahren
+###### § 6 Abfragepflicht für Auftraggeber; Entscheidung über einen Ausschluss vom Vergabeverfahren
 
-(1) Ein öffentlicher Auftraggeber nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen ist verpflichtet, vor der Erteilung des Zuschlags in einem Verfahren über die Vergabe öffentlicher Aufträge mit einem geschätzten Auftragswert ab 30 000 Euro ohne Umsatzsteuer bei der Registerbehörde abzufragen, ob im Wettbewerbsregister Eintragungen zu demjenigen Bieter, an den der öffentliche Auftraggeber den Auftrag zu vergeben beabsichtigt, gespeichert sind. Ein Sektorenauftraggeber nach § 100 Absatz 1 Nummer 1 des Gesetzes gegen Wettbewerbsbeschränkungen sowie ein Konzessionsgeber nach § 101 Absatz 1 Nummer 1 und 2 des Gesetzes gegen Wettbewerbsbeschränkungen sind ab Erreichen der Schwellenwerte des § 106 des Gesetzes gegen Wettbewerbsbeschränkungen verpflichtet, bei der Registerbehörde vor Zuschlagserteilung abzufragen, ob im Wettbewerbsregister Eintragungen zu demjenigen Bieter, an den sie den Auftrag zu vergeben beabsichtigen, gespeichert sind. Eine Verpflichtung zur Abfrage besteht abweichend von den Sätzen 1 und 2 nicht bei Sachverhalten, für die das Vergaberecht Ausnahmen von der Anwendbarkeit des Vergaberechts vorsieht. Auslandsdienststellen sind abweichend von den Sätzen 1 und 2 nicht verpflichtet, das Wettbewerbsregister abzufragen. Auf eine erneute Abfrage bei der Registerbehörde kann der Auftraggeber verzichten, wenn er innerhalb der letzten zwei Monate zu dem entsprechenden Unternehmen bereits eine Auskunft aus dem Wettbewerbsregister erhalten hat. Auftraggeber dürfen von Bietern oder Bewerbern nicht die Vorlage einer Auskunft nach § 5 Absatz 2 Satz 1 verlangen.
+(1) Ein öffentlicher Auftraggeber nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen ist verpflichtet, vor der Erteilung des Zuschlags in einem Verfahren über die Vergabe öffentlicher Aufträge mit einem geschätzten Auftragswert ab 50 000 Euro ohne Umsatzsteuer bei der Registerbehörde abzufragen, ob im Wettbewerbsregister Eintragungen zu demjenigen Bieter, an den der öffentliche Auftraggeber den Auftrag zu vergeben beabsichtigt, gespeichert sind. Ein Sektorenauftraggeber nach § 100 Absatz 1 Nummer 1 des Gesetzes gegen Wettbewerbsbeschränkungen sowie ein Konzessionsgeber nach § 101 Absatz 1 Nummer 1 und 2 des Gesetzes gegen Wettbewerbsbeschränkungen sind ab Erreichen der Schwellenwerte des § 106 des Gesetzes gegen Wettbewerbsbeschränkungen verpflichtet, bei der Registerbehörde vor Zuschlagserteilung abzufragen, ob im Wettbewerbsregister Eintragungen zu demjenigen Bieter, an den sie den Auftrag zu vergeben beabsichtigen, gespeichert sind. Eine Verpflichtung zur Abfrage besteht abweichend von den Sätzen 1 und 2 nicht bei Sachverhalten, für die das Vergaberecht Ausnahmen von der Anwendbarkeit des Vergaberechts vorsieht. Auslandsdienststellen sind abweichend von den Sätzen 1 und 2 nicht verpflichtet, das Wettbewerbsregister abzufragen. Auf eine erneute Abfrage bei der Registerbehörde kann der Auftraggeber verzichten, wenn er innerhalb der letzten zwei Monate zu dem entsprechenden Unternehmen bereits eine Auskunft aus dem Wettbewerbsregister erhalten hat. Auftraggeber dürfen von Bietern oder Bewerbern nicht die Vorlage einer Auskunft nach § 5 Absatz 2 Satz 1 verlangen.
 
 (2) Daneben können Auftraggeber nach Absatz 1 bei der Registerbehörde abfragen
 
-1. bei öffentlichen Aufträgen und Konzessionen mit einem geschätzten Auftrags- oder Vertragswert unterhalb der Wertgrenzen nach Absatz 1, ob Eintragungen im Wettbewerbsregister zu demjenigen Bieter vorliegen, an den der Auftraggeber den Auftrag oder die Konzession zu vergeben beabsichtigt, und
+1. bei öffentlichen Aufträgen und Konzessionen mit einem geschätzten Auftrags- oder Vertragswert unterhalb der Wertgrenzen nach Absatz 1, ob Eintragungen im Wettbewerbsregister zu demjenigen Bieter vorliegen, an den der Auftraggeber den Auftrag oder die Konzession zu vergeben beabsichtigt,
 
-2. im Rahmen eines Teilnahmewettbewerbs, ob Eintragungen im Wettbewerbsregister in Bezug auf diejenigen Bewerber vorliegen, die der Auftraggeber zur Abgabe eines Angebots auffordern will.
+2. im Rahmen eines Teilnahmewettbewerbs, ob Eintragungen im Wettbewerbsregister in Bezug auf diejenigen Bewerber vorliegen, die der Auftraggeber zur Abgabe eines Angebots auffordern will, und
+
+3. bei einem Direktauftrag, ob Eintragungen im Wettbewerbsregister zu demjenigen Unternehmen vorliegen, von dem der Auftraggeber die Leistung beschaffen will.
 
 (3) Die Registerbehörde übermittelt dem abfragenden Auftraggeber die im Wettbewerbsregister gespeicherten Daten über das Unternehmen, das in der Abfrage benannt ist. Gibt es im Wettbewerbsregister zu einem Unternehmen keine Eintragung, teilt die Registerbehörde dies dem Auftraggeber mit.
 
@@ -151,13 +157,13 @@ d) die die Zurechnung des Fehlverhaltens zu einem Unternehmen gemäß § 2 Absat
 
 (7) Die nach Absatz 3 und 6 sowie nach § 8 Absatz 4 Satz 5 übermittelten Daten sind vertraulich und dürfen vom Auftraggeber nur für Vergabeentscheidungen genutzt werden. Die Daten sind nach Ablauf der rechtlich vorgesehenen Aufbewahrungsfristen zu löschen.
 
-##### § 7 Löschung der Eintragung aus dem Wettbewerbsregister nach Fristablauf; Rechtswirkung der Löschung
+###### § 7 Löschung der Eintragung aus dem Wettbewerbsregister nach Fristablauf; Rechtswirkung der Löschung
 
 (1) Eintragungen über Straftaten nach § 2 Absatz 1 Nummer 1 Buchstabe a, c und d werden spätestens nach Ablauf von fünf Jahren ab dem Tag der Rechts- oder Bestandskraft der Entscheidung gelöscht. Eintragungen von Bußgeldentscheidungen nach § 2 Absatz 2 werden spätestens nach Ablauf von drei Jahren ab dem Erlass der Bußgeldentscheidung gelöscht. Im Übrigen werden Eintragungen spätestens nach Ablauf von drei Jahren ab dem Tag gelöscht, an dem die Entscheidung unanfechtbar geworden ist. Bei mehreren Eintragungen wegen desselben Fehlverhaltens ist eine Löschung aller ein Unternehmen betreffenden Eintragungen vorzunehmen, wenn die Voraussetzungen der Löschung für eine Eintragung gegeben sind und dieselben Fristen für die Löschung gelten; bei unterschiedlichen Fristen ist die längere Frist maßgeblich. Die Regelungen des § 4 Absatz 2 Satz 2 und des § 8 Absatz 1 Satz 3 bleiben unberührt.
 
 (2) Ist eine Eintragung im Wettbewerbsregister nach Absatz 1 oder § 8 gelöscht worden, so darf die der Eintragung zugrunde liegende Straftat oder Ordnungswidrigkeit in Vergabeverfahren nicht mehr zum Nachteil des betroffenen Unternehmens verwertet werden. Die Ablehnung eines Löschungsantrags nach § 8 Absatz 1 durch die Registerbehörde ist für den Auftraggeber nicht bindend.
 
-##### § 8 Vorzeitige Löschung der Eintragung aus dem Wettbewerbsregister wegen Selbstreinigung; Gebühren und Auslagen
+###### § 8 Vorzeitige Löschung der Eintragung aus dem Wettbewerbsregister wegen Selbstreinigung; Gebühren und Auslagen
 
 (1) Ist ein Unternehmen in das Wettbewerbsregister eingetragen worden, so kann es bei der Registerbehörde beantragen, dass die Eintragung wegen Selbstreinigung vor Ablauf der Löschungsfrist nach § 7 Absatz 1 aus dem Wettbewerbsregister gelöscht wird. Der Antrag ist zulässig, wenn das Unternehmen ein berechtigtes Interesse an der vorzeitigen Löschung glaubhaft macht. Die Eintragung ist zu löschen, wenn das Unternehmen gegenüber der Registerbehörde die Selbstreinigung im Fall des § 2 Absatz 1 Nummer 1 Buchstabe c und d entsprechend § 123 Absatz 4 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen, im Übrigen entsprechend § 125 des Gesetzes gegen Wettbewerbsbeschränkungen für die Zwecke des Vergabeverfahrens nachgewiesen hat.
 
@@ -177,13 +183,13 @@ Die §§ 57 und 59 bis 59b des Gesetzes gegen Wettbewerbsbeschränkungen sind en
 
 (6) Bei Anträgen auf vorzeitige Löschung aus dem Wettbewerbsregister wegen Selbstreinigung werden zur Deckung des Verwaltungsaufwands der Registerbehörde Gebühren und Auslagen erhoben. § 62 des Gesetzes gegen Wettbewerbsbeschränkungen und die auf dieser Grundlage erlassenen Rechtsverordnungen sind entsprechend anzuwenden; der Gebührenrahmen richtet sich nach § 62 Absatz 2 Satz 2 Nummer 2 des Gesetzes gegen Wettbewerbsbeschränkungen.
 
-##### § 9 Elektronische Datenübermittlung
+###### § 9 Elektronische Datenübermittlung
 
 (1) Die Kommunikation zwischen der Registerbehörde und den Strafverfolgungsbehörden, den zur Verfolgung von Ordnungswidrigkeiten berufenen Behörden, den Auftraggebern sowie den Unternehmen und den Stellen, die ein amtliches Verzeichnis führen, das den Anforderungen des Artikels 64 der Richtlinie 2014/24/EU entspricht, erfolgt in der Regel elektronisch.
 
 (2) Die Datenübermittlung an Auftraggeber kann im Wege eines automatisierten Verfahrens auf Abruf, das die Übermittlung personenbezogener Daten ermöglicht, erfolgen. Für die Verarbeitung von personenbezogenen Daten gelten die allgemeinen datenschutzrechtlichen Vorschriften, soweit dieses Gesetz oder die aufgrund dieses Gesetzes erlassene Rechtsverordnung keine besondere Regelung enthält.
 
-##### § 10 Verordnungsermächtigung
+###### § 10 Verordnungsermächtigung
 
 Die Bundesregierung erlässt mit Zustimmung des Bundesrates eine Rechtsverordnung, um Folgendes zu regeln:
 
@@ -209,7 +215,7 @@ c) die Kommunikation mit Unternehmen und natürlichen Personen, jeweils einschli
 
 8. den Gebührensatz und die Erhebung der Gebühr vom Kostenschuldner bei Erteilung der Auskunft nach § 5 Absatz 2 Satz 1 sowie die Erstattung von Auslagen.
 
-##### § 11 Rechtsweg
+###### § 11 Rechtsweg
 
 (1) Gegen Entscheidungen der Registerbehörde ist die Beschwerde zulässig. § 63 Absatz 1 Nummer 1 und 2, die §§ 64, 69, 70 Absatz 1 und 2, die §§ 71 bis 73 Absatz 1 Satz 2, Absatz 2 Satz 1 in Verbindung mit § 54 Absatz 2 Nummer 1 und 2, § 73 Absatz 3 und 4 Satz 1 erster Halbsatz und Satz 2, die §§ 74, 75 Absatz 1 bis 3, § 76 Absatz 1 Satz 1 und 2, Absatz 2 und 4 bis 6 sowie § 171 Absatz 3 des Gesetzes gegen Wettbewerbsbeschränkungen sind entsprechend anzuwenden, soweit nichts anderes bestimmt ist.
 
@@ -223,7 +229,7 @@ Eine Rückübertragung auf den Einzelrichter ist ausgeschlossen.
 
 (3) Die Entscheidung über die Beschwerde kann ohne mündliche Verhandlung ergehen, es sei denn, ein Beteiligter beantragt, eine mündliche Verhandlung durchzuführen. § 65 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen ist entsprechend anzuwenden.
 
-##### § 12 Anwendungsbestimmungen
+###### § 12 Anwendungsbestimmungen
 
 (1) Das Bundesministerium für Wirtschaft und Energie hat
 
@@ -232,4 +238,3 @@ Eine Rückübertragung auf den Einzelrichter ist ausgeschlossen.
 2. die Feststellung nach Nummer 1 im Bundesanzeiger bekannt zu machen.
 
 (2) Die §§ 2 und 4 sind nach Ablauf des Monats, der auf den Tag der Bekanntmachung nach Absatz 1 Nummer 2 folgt, anzuwenden; dieser Tag ist vom Bundesministerium für Wirtschaft und Energie unverzüglich im Bundesanzeiger bekannt zu machen. § 5 Absatz 2 und § 6 sind sechs Monate nach dem in Satz 1 genannten Tag anzuwenden; abweichend hiervon kann die Registerbehörde einem Auftraggeber auf dessen Ersuchen die Möglichkeit zur Abfrage nach § 6 Absatz 1 und 2 bereits ab dem in Satz 1 bezeichneten Tag eröffnen. Bis zur verpflichtenden Anwendung der in Satz 2 bezeichneten Vorschriften sind die landesrechtlichen Vorschriften über die Errichtung und den Betrieb eines dem § 1 entsprechenden Registers weiter anzuwenden.
-
