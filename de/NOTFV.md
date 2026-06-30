@@ -4,26 +4,30 @@ identifier: "NOTFV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2010-05-07"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/notfv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR057600010"
 slug: "notfv"
 bgbl_reference: "BGBl I 2010, 576"
-stand: "Zuletzt geändert durch Art. 6 V v. 11.12.2024 I Nr. 411"
+stand: "Zuletzt geändert durch Art. 2 G v. 18.6.2026 I Nr. 183"
 ---
 # Verordnung über die notarielle Fachprüfung
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bundesnotarordnung, die durch Artikel 1 Nummer 2 des Gesetzes vom 2. April 2009 (BGBl. I S. 696) eingefügt worden sind, verordnet das Bundesministerium der Justiz:
 
-##### Inhaltsübersicht
+###### Inhaltsübersicht
 
 ## Teil 1 Prüfungsamt für die notarielle Fachprüfung bei der Bundesnotarkammer
 
-##### § 1 Leitung des Prüfungsamtes
+###### § 1 Leitung des Prüfungsamtes
 
 (1) Die Leitung des Prüfungsamtes sorgt für den ordnungsgemäßen Geschäftsbetrieb des Prüfungsamtes.
 
@@ -33,7 +37,7 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 (4) Die Leitung des Prüfungsamtes erstattet dem Verwaltungsrat jedes Jahr schriftlich Bericht über die Tätigkeit des Prüfungsamtes. Sie ist verpflichtet, dem Verwaltungsrat auf Anforderung jederzeit Auskunft über Angelegenheiten des Prüfungsamtes zu erteilen und Akteneinsicht zu gewähren.
 
-##### § 2 Verwaltungsrat
+###### § 2 Verwaltungsrat
 
 (1) Der Verwaltungsrat kann der Leitung des Prüfungsamtes und den Mitgliedern der Aufgabenkommission im Einzelfall Weisungen erteilen.
 
@@ -43,7 +47,7 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 (4) Der Verwaltungsrat fasst seine Beschlüsse mit der Mehrheit der Stimmen seiner Mitglieder. In Sitzungen können abwesende Mitglieder dadurch an der Beschlussfassung teilnehmen, dass sie ihre schriftliche Stimme durch ein anderes Mitglied überreichen lassen. Schriftliche, fernmündliche oder andere vergleichbare Formen der Beschlussfassung außerhalb von Sitzungen sind nur zulässig, wenn kein Mitglied diesem Verfahren widerspricht.
 
-##### § 3 Aufgabenkommission
+###### § 3 Aufgabenkommission
 
 (1) Die Aufgabenkommission besteht aus mindestens acht und höchstens zehn Mitgliedern. Mindestens sechs der Mitglieder sollen Notarin oder Notar sein.
 
@@ -57,7 +61,7 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 (6) Die Mitglieder der Aufgabenkommission sind verpflichtet, dem Verwaltungsrat auf Anforderung Auskunft zu erteilen und Akteneinsicht zu gewähren.
 
-##### § 4 Prüfende
+###### § 4 Prüfende
 
 (1) Das Prüfungsamt bestellt die erforderliche Anzahl von Prüfenden, um eine ordnungsgemäße Durchführung der Prüfungen zu gewährleisten.
 
@@ -65,7 +69,7 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 ## Teil 2 Notarielle Fachprüfung
 
-##### § 5 Prüfungsgebiete
+###### § 5 Prüfungsgebiete
 
 (1) Der Prüfungsstoff umfasst , soweit diese Rechtsgebiete für die notarielle Amtstätigkeit von Bedeutung sind,
 
@@ -85,25 +89,21 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 (2) Andere Rechtsgebiete dürfen im Zusammenhang mit dem Prüfungsstoff zum Gegenstand der Prüfung gemacht werden, wenn sie in der notariellen Praxis typischerweise in diesem Zusammenhang auftreten oder soweit lediglich Verständnis und Arbeitsmethode festgestellt werden sollen und Einzelwissen nicht vorausgesetzt wird.
 
-##### § 6 Prüfungstermine
+###### § 6 Prüfungstermine
 
 (1) Es soll mindestens ein Prüfungstermin im Kalenderjahr angeboten werden.
 
 (2) Prüfungstermine sind von der Leitung des Prüfungsamtes festzulegen. Sie sind spätestens fünf Monate vor Beginn der schriftlichen Prüfung auf der Internetseite des Prüfungsamtes bekanntzugeben. Wenn die schriftliche Prüfung elektronisch durchgeführt werden soll, ist darauf bei der Bekanntgabe des Prüfungstermins hinzuweisen.
 
-##### § 7 Prüfungsorte
+###### § 7 Prüfungsorte
 
 (1) Prüfungen sollen an verschiedenen Orten im Gebiet des Anwaltsnotariats durchgeführt werden. Das Prüfungsamt wählt die Prüfungsorte nach pflichtgemäßem Ermessen aus. Bei der Auswahl soll das Prüfungsamt die Notarkammern aus dem Bereich des Anwaltsnotariats einbeziehen. Satz 1 gilt nicht für schriftliche Prüfungen, die elektronisch durchgeführt werden.
 
 (2) Ein Anspruch, die Prüfung an einem bestimmten Ort abzulegen, besteht nicht.
 
-##### § 8 Zulassung zur Prüfung
+###### § 8 Zulassung zur Prüfung
 
-(1) Die Zulassung zur notariellen Fachprüfung ist in schriftlicher Form beim Prüfungsamt zu beantragen. Dem Antrag sind beizufügen
-
-1. eine Ablichtung des Zeugnisses über die bestandene zweite juristische Staatsprüfung der Antragstellerin oder des Antragstellers,
-
-2. eine Bescheinigung der zuständigen Rechtsanwaltskammer über die Dauer der Zulassung der Antragstellerin oder des Antragstellers zur Rechtsanwaltschaft; die Bescheinigung muss weniger als drei Monate vor Stellung des Antrags auf Zulassung zur notariellen Fachprüfung ausgestellt worden sein.
+(1) Die Zulassung zur notariellen Fachprüfung ist in schriftlicher Form beim Prüfungsamt zu beantragen. Dem Antrag ist eine Abschrift des Zeugnisses über die bestandene zweite juristische Staatsprüfung beizufügen.
 
 (2) Die Antragsfrist für die Zulassung zur Prüfung endet drei Monate vor dem Beginn des schriftlichen Teils eines Prüfungstermins. Die Frist ist spätestens fünf Monate vor Beginn der schriftlichen Prüfung auf der Internetseite des Prüfungsamtes bekanntzugeben. Maßgeblich für die Einhaltung der Antragsfrist ist das Datum des Eingangs des Antrags beim Prüfungsamt.
 
@@ -115,13 +115,13 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 Der Antrag kann abgelehnt werden, wenn die Antragsfrist nach Absatz 2 verstrichen ist. Die Entscheidung über die Zulassung umfasst nur die Zulassung zum schriftlichen Teil der Prüfung. Sie ist der Antragstellerin oder dem Antragsteller schriftlich mitzuteilen. Der Bescheid über eine Ablehnung der Zulassung ist mit einer Rechtsbehelfsbelehrung zu versehen und der Antragstellerin oder dem Antragsteller zuzustellen.
 
-##### § 9 Rücktritt und Versäumnis
+###### § 9 Rücktritt und Versäumnis
 
-(1) Über das Vorliegen von Rücktritt und Versäumnis und deren Rechtsfolgen gemäß § 7e der Bundesnotarordnung entscheidet die Leitung des Prüfungsamtes durch Bescheid, der mit einer Rechtsbehelfsbelehrung zu versehen und der Antragstellerin oder dem Antragsteller zuzustellen ist. Die Nachweise gemäß § 7e Absatz 2 der Bundesnotarordnung sind unverzüglich beim Prüfungsamt einzureichen. Im Fall einer Krankheit ist der Nachweis grundsätzlich durch ein Zeugnis eines Gesundheitsamtes zu erbringen, das in der Regel nicht später als am Prüfungstag ausgestellt sein darf. In offensichtlichen Fällen kann auf die Vorlage eines Zeugnisses verzichtet werden.
+(1) Über das Vorliegen von Rücktritt und Versäumnis und deren Rechtsfolgen nach § 7e der Bundesnotarordnung entscheidet die Leitung des Prüfungsamtes durch Bescheid, der mit einer Rechtsbehelfsbelehrung zu versehen und dem Antragsteller zuzustellen ist. Die Nachweise nach § 7e Absatz 2 und 3 der Bundesnotarordnung sind unverzüglich beim Prüfungsamt einzureichen. Im Fall einer Krankheit ist der Nachweis grundsätzlich durch ein Zeugnis eines Gesundheitsamtes zu erbringen, das in der Regel nicht später als am Prüfungstag ausgestellt sein darf. In offensichtlichen Fällen kann auf die Vorlage eines Zeugnisses verzichtet werden.
 
-(2) Prüfungsleistungen, die gemäß § 7e Absatz 2 der Bundesnotarordnung erneut angefertigt oder nachgeholt werden dürfen, sind in dem Prüfungstermin zu erbringen, der auf die ganz oder teilweise versäumte Prüfung folgt.
+(2) Prüfungsleistungen, die gemäß § 7e Absatz 3 der Bundesnotarordnung erneut angefertigt oder nachgeholt werden dürfen, sind in dem Prüfungstermin zu erbringen, der auf die ganz oder teilweise versäumte Prüfung folgt.
 
-##### § 10 Vorbereitung der schriftlichen Prüfung
+###### § 10 Vorbereitung der schriftlichen Prüfung
 
 (1) Die Prüflinge sind spätestens vier Wochen vor Beginn der schriftlichen Prüfung schriftlich zu laden. Maßgeblich für die Einhaltung der Frist ist das Datum des Poststempels. Die Ladung erfolgt an die vom Prüfling in seinem Antrag auf Zulassung angegebene Adresse, sofern der Prüfling nicht vor Versendung der Ladung eine andere Adresse mitteilt. Die Ladung muss Zeit und Ort der einzelnen Prüfungsarbeiten enthalten und die zugelassenen Hilfsmittel benennen. Ferner wird jedem Prüfling mit der Ladung eine individuelle Kennziffer zugeteilt und bekannt gegeben.
 
@@ -129,7 +129,7 @@ Der Antrag kann abgelehnt werden, wenn die Antragsfrist nach Absatz 2 verstriche
 
 (3) Das Prüfungsamt bestimmt vor Beginn der Prüfung, welche Prüfenden die Aufsichtsarbeiten bewerten. Gleichzeitig sind für den Fall der Verhinderung der eingeteilten Personen Ersatzprüfende zu bestimmen.
 
-##### § 11 Anfertigung der Aufsichtsarbeiten
+###### § 11 Anfertigung der Aufsichtsarbeiten
 
 (1) Die Aufsichtsarbeiten sind innerhalb einer Kalenderwoche anzufertigen. An allen Prüfungsorten werden je Prüfungstermin dieselben Prüfungsaufgaben zur selben Zeit bearbeitet.
 
@@ -143,15 +143,15 @@ Der Antrag kann abgelehnt werden, wenn die Antragsfrist nach Absatz 2 verstriche
 
 (6) Über jeden Termin zur Anfertigung einer Aufsichtsarbeit wird von der Aufsichtsperson eine Niederschrift angefertigt, in die die teilnehmenden Prüflinge, der Zeitpunkt des Beginns und der Abgabe der Aufsichtsarbeiten, etwaige Ordnungsverstöße sowie alle sonstigen wesentlichen Vorkommnisse aufzunehmen sind. Die Niederschrift ist von der örtlichen Prüfungsleitung zu unterschreiben.
 
-##### § 12 Bewertung der Aufsichtsarbeiten
+###### § 12 Bewertung der Aufsichtsarbeiten
 
 Das Prüfungsamt leitet die Aufsichtsarbeiten unverzüglich den für die Bewertung bestimmten Prüfenden zu. Es ermittelt die Bewertungen der einzelnen Aufsichtsarbeiten nach Maßgabe des § 7b Absatz 2 Satz 4 der Bundesnotarordnung und führt die Einigung sowie bei Bedarf den Stichentscheid gemäß § 7b Absatz 2 Satz 5 der Bundesnotarordnung herbei.
 
-##### § 13 Ladung zur mündlichen Prüfung
+###### § 13 Ladung zur mündlichen Prüfung
 
 Die Prüflinge sind spätestens vier Wochen vor dem Termin der mündlichen Prüfung schriftlich zu laden. § 10 Absatz 1 Satz 2 und 3 gilt entsprechend. Die Ladung muss Zeit und Ort der mündlichen Prüfung enthalten und die zugelassenen Hilfsmittel benennen.
 
-##### § 14 Mündliche Prüfung
+###### § 14 Mündliche Prüfung
 
 (1) Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses leitet die mündliche Prüfung und sorgt für die Einhaltung der Prüfungsbestimmungen und für die Aufrechterhaltung der Ordnung.
 
@@ -165,39 +165,39 @@ Die Prüflinge sind spätestens vier Wochen vor dem Termin der mündlichen Prüf
 
 (6) Über die mündliche Prüfung ist eine Niederschrift anzufertigen, in die Ort und Zeit der Prüfung, die Zusammensetzung des Prüfungsausschusses, die Namen der anwesenden Prüflinge, die Gegenstände des Prüfungsgesprächs, die Bewertung der Leistungen in der mündlichen Prüfung, die Punktwerte für die Gesamtnoten der mündlichen Prüfung, alle sonstigen Entscheidungen des Prüfungsausschusses und die Verkündung der Entscheidungen des Prüfungsausschusses aufzunehmen sind. Die Niederschrift ist von der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses zu unterschreiben.
 
-##### § 15 Bewertung der mündlichen Prüfung
+###### § 15 Bewertung der mündlichen Prüfung
 
 Der Prüfungsausschuss stellt die Gesamtnote der mündlichen Prüfung fest. Bei der Ermittlung der Gesamtnote werden der Vortrag mit 30 Prozent und das Gruppenprüfungsgespräch mit 70 Prozent berücksichtigt.
 
-##### § 16 Nachteilsausgleich
+###### § 16 Nachteilsausgleich
 
 Die Leitung des Prüfungsamtes kann behinderten Prüflingen die Bearbeitungszeit für die Anfertigung der Aufsichtsarbeiten auf Antrag je nach Schwere der Behinderung um bis zu zwei Stunden für jede Aufsichtsarbeit verlängern. Sie kann für die mündliche Prüfung behinderten Prüflingen die Vorbereitungszeit für den Vortrag auf Antrag je nach Schwere der Behinderung um bis zu eine Stunde verlängern. Hilfsmittel und die Inanspruchnahme von Hilfeleistungen Dritter, die die besonderen Verhältnisse behinderter Menschen berücksichtigen, können durch die Leitung des Prüfungsamtes auf Antrag zugelassen werden. Die Anträge nach den Sätzen 1 bis 3 sind gleichzeitig mit dem Antrag auf Zulassung zur notariellen Fachprüfung beim Prüfungsamt zu stellen. Dem Prüfungsamt ist auf Verlangen ein amtsärztliches Zeugnis vorzulegen, aus dem im Falle von Satz 1 und Satz 2 auch hervorgeht, inwieweit die Behinderung die Fähigkeit des Prüflings einschränkt, die vorgeschriebene Bearbeitungszeit oder Vorbereitungszeit einzuhalten.
 
-##### § 17 Einsicht in Prüfungsunterlagen
+###### § 17 Einsicht in Prüfungsunterlagen
 
 Dem Prüfling ist auf Antrag die Einsicht in seine schriftlichen Prüfungsarbeiten einschließlich der Gutachten der Prüfenden zu gestatten. Der Antrag ist binnen eines Monats nach Bekanntgabe der Prüfungsgesamtnote bei dem Prüfungsamt zu stellen. Die Einsicht erfolgt in den Räumen des Prüfungsamtes.
 
-##### § 18 Mängel im Prüfungsverfahren
+###### § 18 Mängel im Prüfungsverfahren
 
 (1) War das Prüfungsverfahren mit Mängeln behaftet, die die Chancengleichheit der Prüflinge erheblich verletzt haben, so kann die Leitung des Prüfungsamtes auf Antrag eines Prüflings anordnen, dass die notarielle Fachprüfung oder einzelne Teile der Prüfung von den Prüflingen zu wiederholen sind, die durch den Mangel beschwert sind.
 
 (2) Ein Antrag nach Absatz 1 ist innerhalb eines Monats, nachdem die Antragstellerin oder der Antragsteller Kenntnis von dem Mangel erlangt hat, schriftlich beim Prüfungsamt zu stellen. Er darf keine Bedingungen enthalten und kann nicht zurückgenommen werden.
 
-##### § 19 Wiederholungsprüfung
+###### § 19 Wiederholungsprüfung
 
-(1) Für den Antrag auf Zulassung zur Wiederholungsprüfung gilt § 8. Mit dem Antrag ist zu erklären, ob eine Wiederholung gemäß § 7a Absatz 7 Satz 1 oder Satz 2 der Bundesnotarordnung beantragt wird. Bei Antragstellung innerhalb von fünf Jahren nach Abschluss des letzten Prüfungsverfahrens braucht der Nachweis gemäß § 8 Absatz 1 Nummer 1 nicht nochmals erbracht zu werden.
+(1) Für den Antrag auf Zulassung zur Wiederholungsprüfung gilt § 8. Mit dem Antrag ist zu erklären, ob eine Wiederholung gemäß § 7a Absatz 7 Satz 1 oder Satz 2 der Bundesnotarordnung beantragt wird. Bei Antragstellung innerhalb von fünf Jahren nach Abschluss des letzten Prüfungsverfahrens braucht der Nachweis gemäß § 8 Absatz 1 Satz 2 nicht nochmals erbracht zu werden.
 
 (2) Die Prüfung ist im gesamten Umfang zu wiederholen.
 
 (3) Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses für die mündliche Prüfung muss bei der Wiederholungsprüfung eine andere Person sein als im Termin der ersten Prüfung.
 
-##### § 20 Widerspruchsverfahren
+###### § 20 Widerspruchsverfahren
 
 Die Leitung des Prüfungsamtes holt Stellungnahmen der beteiligten Prüfenden ein, bevor über einen Widerspruch gegen einen Bescheid entschieden wird, dem eine Bewertung von Prüfungsleistungen zugrunde liegt. Eine Stellungnahme der Aufgabenkommission kann eingeholt werden, wenn dies für die Entscheidung über den Widerspruch erforderlich ist.
 
 ## Teil 3 Schlussvorschriften
 
-##### § 21 Aufbewahrungsfristen
+###### § 21 Aufbewahrungsfristen
 
 (1) Zeugnisse und Bescheide über das Ergebnis der notariellen Fachprüfung sowie die zugehörigen Zustellungsnachweise sind 50 Jahre aufzubewahren und anschließend zu vernichten. Gleiches gilt für die dem Prüfungsamt übermittelten Ausfertigungen oder Abschriften gerichtlicher Entscheidungen, die Bescheide über das Ergebnis der notariellen Fachprüfung betreffen.
 
@@ -207,11 +207,10 @@ Die Leitung des Prüfungsamtes holt Stellungnahmen der beteiligten Prüfenden ei
 
 (4) Die elektronische Aufbewahrung ist zulässig.
 
-##### § 22 Inkrafttreten
+###### § 22 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-##### Schlussformel
+###### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
