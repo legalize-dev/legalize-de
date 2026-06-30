@@ -4,22 +4,27 @@ identifier: "ERREICHBV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2023-07-28"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/erreichbv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR0CF0A0023"
 slug: "erreichbv"
 bgbl_reference: "BGBl I 2023, Nr. 207"
 amtabk: "ErrV"
+stand: "Geändert durch Art. 11 Abs. 15 G v. 16.4.2026 I Nr. 107"
 ---
 # Verordnung zur Regelung weiterer Voraussetzungen der Erreichbarkeit erwerbsfähiger Leistungsberechtigter nach dem Zweiten Buch Sozialgesetzbuch
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 13 Absatz 3 des Zweiten Buches Sozialgesetzbuch, der durch Artikel 1 Nummer 14 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2328) neu gefasst worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
-##### § 1 Näherer Bereich
+###### § 1 Näherer Bereich
 
 (1) Dienststelle im Sinne des § 7b Absatz 1 Satz 3 des Zweiten Buches Sozialgesetzbuch ist die für die Eingliederung der erwerbsfähigen leistungsberechtigten Person zuständige Dienststelle des örtlich zuständigen Jobcenters.
 
@@ -27,7 +32,7 @@ Auf Grund des § 13 Absatz 3 des Zweiten Buches Sozialgesetzbuch, der durch Arti
 
 (3) Absatz 2 gilt entsprechend für die Erreichbarkeit eines möglichen Arbeitsorts oder des Ortes, an dem die Integrationsmaßnahme durchgeführt wird.
 
-##### § 2 Möglichkeit der werktäglichen Kenntnisnahme
+###### § 2 Möglichkeit der werktäglichen Kenntnisnahme
 
 (1) Die erwerbsfähige leistungsberechtigte Person hat sicherzustellen, dass sie Mitteilungen und Aufforderungen des zuständigen Jobcenters werktäglich zur Kenntnis nehmen kann. Die Möglichkeit der Kenntnisnahme liegt auch vor, wenn die erwerbsfähige leistungsberechtigte Person sicherstellt, dass Mitteilungen und Aufforderungen durch Dritte zur Kenntnis genommen werden können und eine entsprechende Information durch diese an die erwerbsfähige leistungsberechtigte Person erfolgt.
 
@@ -37,7 +42,7 @@ Auf Grund des § 13 Absatz 3 des Zweiten Buches Sozialgesetzbuch, der durch Arti
 
 (4) Bei einer erwerbsfähigen leistungsberechtigten Person ohne festen Wohnsitz wird das Vorliegen der Voraussetzungen des Absatzes 1 angenommen, wenn sie die Dienststelle im Sinne des § 1 Absatz 1 einmal pro Leistungsmonat persönlich aufsucht. Sie muss der Dienststelle anlässlich der Vorsprache nach Satz 1 mitteilen, auf welchem Weg eine Kontaktaufnahme möglich ist.
 
-##### § 3 Weitere wichtige Gründe
+###### § 3 Weitere wichtige Gründe
 
 Ein wichtiger Grund für einen Aufenthalt außerhalb des näheren Bereichs nach § 7b Absatz 2 Satz 1 des Zweiten Buches Sozialgesetzbuch liegt neben den in § 7b Absatz 2 Satz 2 des Zweiten Buches Sozialgesetzbuch genannten Fällen vor, wenn erwerbsfähige Leistungsberechtigte den näheren Bereich verlassen, um Angehörige nach § 16 Absatz 5 des Zehnten Buches Sozialgesetzbuch zu unterstützen
 
@@ -49,7 +54,7 @@ Ein wichtiger Grund für einen Aufenthalt außerhalb des näheren Bereichs nach 
 
 Voraussetzung für die Anerkennung eines wichtigen Grundes nach Satz 1 ist, dass die Unterstützung erforderlich ist und die Eingliederung in Ausbildung oder Arbeit nicht wesentlich beeinträchtigt wird. Auf Aufforderung des Jobcenters haben die erwerbsfähigen Leistungsberechtigten die Erforderlichkeit der Unterstützungsleistung nachzuweisen.
 
-##### § 4 Zustimmungsverfahren
+###### § 4 Zustimmungsverfahren
 
 (1) Die erwerbsfähige leistungsberechtigte Person soll die Zustimmung der zuständigen Dienststelle des örtlich zuständigen Jobcenters zu einem Aufenthalt außerhalb des näheren Bereichs in der Regel spätestens fünf Werktage vor dem Verlassen des näheren Bereichs beantragen. Für Abwesenheiten, die sich nur auf Samstage, Sonntage oder Feiertage beziehen, ist keine Zustimmung erforderlich, wenn die erwerbsfähige leistungsberechtigte Person sicherstellt, dass sie die zugehenden Mitteilungen und Aufforderungen vor dem nächsten Werktag zur Kenntnis nehmen kann. § 6 dieser Verordnung sowie § 7b Absatz 2 Satz 3 des Zweiten Buches Sozialgesetzbuch bleiben unberührt.
 
@@ -59,7 +64,7 @@ Voraussetzung für die Anerkennung eines wichtigen Grundes nach Satz 1 ist, dass
 
 (4) Die nach Maßgabe des § 7b Absatz 3 Satz 1 des Zweiten Buches Sozialgesetzbuch zu erteilende Zustimmung kann frühestens drei Monate im Voraus erteilt werden. Bei erwerbsfähigen leistungsberechtigten Personen, die nicht arbeitslos sind, insbesondere bei Personen, die sich in Mutterschutz oder Elternzeit befinden und bei Schülerinnen oder Schülern gilt die Zustimmung mit der Antragstellung als erteilt.
 
-##### § 5 Dauer des Aufenthalts außerhalb des näheren Bereichs aus wichtigem Grund
+###### § 5 Dauer des Aufenthalts außerhalb des näheren Bereichs aus wichtigem Grund
 
 (1) Die Teilnahme an einer ärztlich verordneten Maßnahme der medizinischen Vorsorge oder der Rehabilitation ist ein wichtiger Grund für die Dauer der Maßnahme. Zu der Teilnahme gehören auch die Tage der An- und Abreise.
 
@@ -71,7 +76,7 @@ Voraussetzung für die Anerkennung eines wichtigen Grundes nach Satz 1 ist, dass
 
 (5) In den Fällen des § 3 liegt ein wichtiger Grund für die Dauer der erforderlichen Unterstützung vor. Die Dauer des Aufenthalts außerhalb des näheren Bereichs soll zwölf Wochen im Kalenderjahr nicht überschreiten.
 
-##### § 6 Aufenthalt außerhalb des näheren Bereichs aufgrund der Ausübung einer Erwerbstätigkeit
+###### § 6 Aufenthalt außerhalb des näheren Bereichs aufgrund der Ausübung einer Erwerbstätigkeit
 
 Für Aufenthalte außerhalb des näheren Bereichs während der Ausübung einer Erwerbstätigkeit in abhängiger Beschäftigung ist keine Zustimmung erforderlich, wenn die erwerbstätige leistungsberechtigte Person
 
@@ -81,17 +86,16 @@ Für Aufenthalte außerhalb des näheren Bereichs während der Ausübung einer E
 
 Für Aufenthalte außerhalb des näheren Bereichs aufgrund der Ausübung einer selbständigen Erwerbstätigkeit gilt Satz 1 mit der Maßgabe, dass die Abwesenheit zur Ausübung der Tätigkeit erforderlich sein muss. Die Mitteilung nach Satz 1 Nummer 2 soll vor dem erstmaligen Verlassen des näheren Bereichs aufgrund der Ausübung der Erwerbstätigkeit erfolgen. Dem Jobcenter ist zudem mitzuteilen, auf welchem Weg während der Abwesenheit eine Kontaktaufnahme möglich ist.
 
-##### § 7 Zustimmung bei Aufenthalt außerhalb des näheren Bereichs ohne wichtigen Grund
+###### § 7 Zustimmung bei Aufenthalt außerhalb des näheren Bereichs ohne wichtigen Grund
 
 (1) Die nach § 7b Absatz 3 Satz 1 des Zweiten Buches Sozialgesetzbuch mögliche Zustimmung ist zu erteilen, wenn die Eingliederung in Ausbildung oder Arbeit durch den Aufenthalt außerhalb des näheren Bereichs nicht wesentlich beeinträchtigt wird. Eine wesentliche Beeinträchtigung liegt insbesondere vor, wenn ein konkretes Ausbildungs- oder Arbeitsangebot vorliegt, das nach Ablauf des Aufenthalts außerhalb des näheren Bereichs nicht mehr angenommen werden kann. Die nach § 7b Absatz 3 Satz 2 des Zweiten Buches Sozialgesetzbuch mögliche Dauer des Aufenthalts außerhalb des näheren Bereichs ohne wichtigen Grund soll drei Wochen je Kalenderjahr nicht überschreiten. Bei Vorliegen besonderer Umstände kann die Zustimmung auch zu einem länger als drei Wochen dauernden Aufenthalt außerhalb des näheren Bereichs erteilt werden.
 
-(2) Erwerbsfähigen Leistungsberechtigten, die Bürgergeld ergänzend zu Einkommen aus einer sozialversicherungspflichtigen Beschäftigung beziehen, ist die Zustimmung zu einem Aufenthalt außerhalb des näheren Bereichs ohne wichtigen Grund für die Dauer ihres arbeitsvertraglichen Urlaubsanspruchs zu erteilen.
+(2) Erwerbsfähigen Leistungsberechtigten, die Grundsicherungsgeld ergänzend zu Einkommen aus einer sozialversicherungspflichtigen Beschäftigung beziehen, ist die Zustimmung zu einem Aufenthalt außerhalb des näheren Bereichs ohne wichtigen Grund für die Dauer ihres arbeitsvertraglichen Urlaubsanspruchs zu erteilen.
 
-##### § 8 Erreichbarkeit von Personen, die Arbeitslosengeld und Bürgergeld beziehen
+###### § 8 Erreichbarkeit von Personen, die Arbeitslosengeld und Grundsicherungsgeld beziehen
 
-Sofern die Agentur für Arbeit bei einer Person, die Anspruch auf Arbeitslosengeld oder Teilarbeitslosengeld hat, den Aufenthalt außerhalb des zeit- und ortsnahen Bereichs nach § 3 der Erreichbarkeits-Anordnung vom 23. Oktober 1997 (ANBA S. 1685; 1998 S. 1100), die zuletzt durch die Anordnung vom 26. September 2008 (ANBA Nr. 12 S. 5) geändert worden ist, anerkannt hat, so gilt für diese Person auch für den Bezug von Bürgergeld die Zustimmung für die Abwesenheit außerhalb des näheren Bereich als erteilt.
+Sofern die Agentur für Arbeit bei einer Person, die Anspruch auf Arbeitslosengeld oder Teilarbeitslosengeld hat, den Aufenthalt außerhalb des zeit- und ortsnahen Bereichs nach § 3 der Erreichbarkeits-Anordnung vom 23. Oktober 1997 (ANBA S. 1685; 1998 S. 1100), die zuletzt durch die Anordnung vom 26. September 2008 (ANBA Nr. 12 S. 5) geändert worden ist, anerkannt hat, so gilt für diese Person auch für den Bezug von Grundsicherungsgeld die Zustimmung für die Abwesenheit außerhalb des näheren Bereich als erteilt.
 
-##### § 9 Inkrafttreten
+###### § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
