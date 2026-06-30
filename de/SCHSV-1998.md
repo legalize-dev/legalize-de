@@ -4,32 +4,36 @@ identifier: "SCHSV-1998"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "1998-09-18"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/schsv_1998/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR302300998"
 slug: "schsv_1998"
 bgbl_reference: "BGBl I 1998, 3013, 3023"
 amtabk: "SchSV"
 stand: "Zuletzt geändert durch Art. 1 V v. 25.6.2024 I Nr. 217"
-hinweis: "Änderung durch Art. 6 V v. 25.3.2025 I Nr. 100 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+hinweis: "Änderung durch Art. 3 G v. 18.6.2026 I Nr. 184 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Schiffssicherheitsverordnung
 
-##### § 1 Zielsetzung und Geltungsbereich
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Zielsetzung und Geltungsbereich
 
 (1) Diese Verordnung dient der Sicherheit auf See einschließlich des damit unmittelbar im Zusammenhang stehenden Arbeitsschutzes von Beschäftigten auf Seeschiffen, des Umweltschutzes auf See und der wirksamen Anwendung des Schiffssicherheitsgesetzes vom 9. September 1998 (BGBl. I S. 2860). Der Geltungs- und Anwendungsbereich nach den §§ 1 und 2 des Schiffssicherheitsgesetzes findet entsprechende Anwendung; dabei umfaßt die Seefahrt für Seeschiffe, die seewärts der Grenze der Seefahrt im Sinne des § 1 der Flaggenrechtsverordnung vom 4. Juli 1990 (BGBl. I S. 1389) eingesetzt werden, auch das Aufsuchen, Benutzen und Verlassen der zugehörigen Lade-, Lösch-, Liege- und Werftplätze binnenwärts dieser Grenze.
 
 (2) Auf Schiffe unter einer ausländischen Flagge sind auch § 5 Abs. 5 und die dort genannten Regelungen sowie § 13 Abs. 5 anzuwenden.
 
-##### § 2 Verantwortlichkeit und Selbstkontrolle
+###### § 2 Verantwortlichkeit und Selbstkontrolle
 
 (1) Wer ein Schiff zur Seefahrt einsetzt, hat dafür zu sorgen, daß im Schiffsbetrieb auftretende Gefahrenquellen überprüft, im Betrieb gewonnene Erkenntnisse sowie andere wichtige hierzu zur Verfügung stehende Informationen und Unterlagen einschließlich der Aufzeichnungen der mit der Bedienung des Schiffes beauftragten Personen im Rahmen der Sicherheitsvorsorge ausgewertet und die zur Gefahrvermeidung und -verminderung erforderlichen Maßnahmen getroffen werden.
 
 (2) Verantwortlicher im Sinne dieser Verordnung ist derjenige, der nach Absatz 1 ein Schiff zur Seefahrt einsetzt, soweit nach den Vorschriften dieser Verordnung nichts anderes bestimmt ist. § 9 des Schiffssicherheitsgesetzes ist anzuwenden.
 
-##### § 3 Zusammenarbeit und maritime Sicherheitspartnerschaft
+###### § 3 Zusammenarbeit und maritime Sicherheitspartnerschaft
 
 (1) In der Zusammenarbeit der zuständigen Behörden der Bundesverkehrsverwaltung im Rahmen ihrer Möglichkeiten mit den nach § 3 des Schiffssicherheitsgesetzes Verpflichteten oder den für sie Tätigen können, insbesondere in den Bereichen der §§ 2 und 7 dieser Verordnung oder des § 12 des Schiffssicherheitsgesetzes,
 
@@ -49,13 +53,13 @@ werden. Soweit solche Absprachen oder Modelle die zur Verbesserung der Schiffssi
 
 3. Macht eine zuständige Behörde Auslegungen, allgemeine Ausnahmen und Befreiungen im Sinne des § 7, international beschlossene Empfehlungen im Sinne des § 12 des Schiffssicherheitsgesetzes oder international angenommene Standards im Sinne des § 9d des Seeaufgabengesetzes bekannt, so bezeichnet sie die zugehörigen Rechtsvorschriften.
 
-##### § 4 Regeln der Technik und der seemännischen Praxis
+###### § 4 Regeln der Technik und der seemännischen Praxis
 
 (1) Als Regeln der Technik und der seemännischen Praxis sind insbesondere die in Abschnitt E der Anlage zum Schiffssicherheitsgesetz aufgeführten, in Deutschland als anwendbare anerkannte Regeln der Technik oder der seemännischen Praxis bekanntgemachten internationalen Schiffssicherheitsnormen zu beachten.
 
 (2) (weggefallen)
 
-##### § 5 Internationaler schiffsbezogener Sicherheitsstandard
+###### § 5 Internationaler schiffsbezogener Sicherheitsstandard
 
 (1) Soweit internationale Regelungen, die in den Abschnitten A und C der Anlage zum Schiffssicherheitsgesetz aufgeführt sind, auf ein Schiff, das die Bundesflagge führt, anzuwenden sind, sind für dieses Schiff die jeweils einschlägigen Vorschriften dieser Regelungen und die in Abschnitt C der Anlage 1 enthaltenen Vorschriften einzuhalten.
 
@@ -67,13 +71,13 @@ werden. Soweit solche Absprachen oder Modelle die zur Verbesserung der Schiffssi
 
 (5) Beim Betrieb eines Schiffes, das eine ausländische Flagge führt, sind in den in Abschnitt D der Anlage 1 aufgeführten Fällen die dort genannten besonderen Anforderungen einzuhalten.
 
-##### § 5a Internationaler schiffsbezogener Sicherheitsstandard in besonderen Fällen
+###### § 5a Internationaler schiffsbezogener Sicherheitsstandard in besonderen Fällen
 
 (1) Soweit für ein Schiff, das § 5 Absatz 1 unterliegt, Ausnahmen gewährt werden, weil es sich im Verlauf seiner Reise nicht weiter als 20 Seemeilen vom nächstgelegenen Land entfernt, müssen mindestens die Anforderungen eingehalten werden, die das Schiff nach § 6 erfüllen müsste.
 
 (2) Ein Fahrgastschiff, das Absatz 1 unterliegt, muss mindestens die Anforderungen einhalten, die ein Schiff in der Inlandfahrt erfüllen muss.
 
-##### § 6 Schiffsbezogener Sicherheitsstandard in übrigen Fällen
+###### § 6 Schiffsbezogener Sicherheitsstandard in übrigen Fällen
 
 (1) Soweit für ein Schiff, das die Bundesflagge führt, nicht die in § 5 Absatz 1 und 2 bezeichneten Anforderungen einzuhalten sind, sind die Anforderungen nach Anlage 1a einzuhalten. Maßgeblich ist
 
@@ -109,11 +113,11 @@ Im Fall des Satzes 1 ist § 11 nicht anzuwenden.
 
 (2) Für ein Schiff, das einer bestimmten Schiffskategorie angehört, müssen, wenn es in einer anderen Schiffskategorie eingesetzt werden soll, die Anforderungen für Schiffe eingehalten werden, die zum Zeitpunkt der Änderung der Schiffskategorie auf Kiel gelegt worden sind, soweit nicht in den nachfolgenden Vorschriften etwas anderes bestimmt ist.
 
-##### § 6a Dampfkessel
+###### § 6a Dampfkessel
 
 Dampfkesselanlagen an Bord von Seeschiffen unter deutscher Flagge sind nach Maßgabe der Anlage 1a Teil 8 so auszulegen, zu bauen, auszurüsten und zu betreiben, dass sie unter allen Betriebsbedingungen zuverlässig arbeiten und zu keiner Zeit die Sicherheit des Schiffes und der an Bord befindlichen Personen gefährden. Schiffszeugnisse und -bescheinigungen nach § 9 Abs. 1 bis 4, hinsichtlich der Anlage 2 in Verbindung mit deren Abschnitt A Nr. 1, 2, 13a, 21a, 21b, 21c, 22a und 22c, dürfen für Seeschiffe, die mit Dampfkesselanlagen ausgerüstet sind, nur erteilt werden, wenn die Voraussetzungen des Satzes 1 erfüllt sind.
 
-##### § 6b Abwasserrückhalteanlagen
+###### § 6b Abwasserrückhalteanlagen
 
 (1) In Anlage IV Regel 2 Abs. 1 des MARPOL-Übereinkommens nicht genannte deutsche Schiffe, einschließlich Sportboote, oder solche Schiffe unter der Flagge eines anderen Ostseeanrainers bei der Fahrt in der Ostsee im Hoheitsgebiet oder in der ausschließlichen Wirtschaftszone der Bundesrepublik Deutschland müssen, sofern sie über eine Toilette verfügen, mit einer Abwasserrückhalteanlage ausgerüstet sein. Anlage IV Regel 12 Abs. 1 des MARPOL-Übereinkommens gilt für diese Schiffe entsprechend.
 
@@ -131,7 +135,7 @@ b) denen das Bundesamt für Seeschifffahrt und Hydrographie eine Bescheinigung �
 
 Die Bescheinigung nach Satz 1 Nr. 2 Buchstabe b wird für Schiffe erteilt, bei denen die Ausrüstung mit einer Abwasserrückhalteanlage aus anderen Gründen als in den Fällen des Satzes 1 Nr. 1 oder 2 Buchstabe a technisch unmöglich oder bezogen auf den Wert wirtschaftlich unzumutbar ist und dieser Umstand durch ein Einzel-, Gruppen- oder Modellgutachten eines öffentlich bestellten und vereidigten Sachverständigen oder eines gemäß Norm EN 45013 von einer akkreditierten Stelle zertifizierten Boots- und Yachtsachverständigen nachgewiesen ist.
 
-##### § 7 Ausnahmen und Befreiungen
+###### § 7 Ausnahmen und Befreiungen
 
 (1) Das Bundesamt für Seeschiffahrt und Hydrographie und die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation können im Rahmen ihrer Aufgaben nach dem Seeaufgabengesetz
 
@@ -153,11 +157,11 @@ auf Antrag Ausnahmen von verbindlichen Pflichten oder Befreiungen zulassen, sowe
 
 (6) (weggefallen)
 
-##### § 8 Funktionsfähigkeit von Schiffsausrüstung
+###### § 8 Funktionsfähigkeit von Schiffsausrüstung
 
 Schiffsausrüstung, die vor ihrer Verwendung an Bord von Schiffen, die die Bundesflagge führen, von der zuständigen Stelle oder von einem von der zuständigen Stelle anerkannten Betrieb geprüft worden ist, erhält nach erfolgreicher Prüfung eine Bescheinigung, aus der sich ergibt, bis zu welchem Zeitpunkt mit der erforderlichen Funktionsfähigkeit, insbesondere Messgenauigkeit und Anzeigegenauigkeit, gerechnet werden kann, wenn an der Ausrüstung keine Veränderungen stattfinden. Der Schiffseigentümer hat sicherzustellen, dass vor Eintritt des in Satz 1 bezeichneten Zeitpunktes für verwendete zulassungspflichtige Ausrüstung jeweils eine Wiederholungsprüfung durch die zuständige Stelle oder einen von der zuständigen Stelle anerkannten Betrieb durchgeführt wird.
 
-##### § 9 Schiffszeugnisse und -bescheinigungen, Schiffsbesichtigungen
+###### § 9 Schiffszeugnisse und -bescheinigungen, Schiffsbesichtigungen
 
 (1) Die Besichtigung und Zeugniserteilung ist vorzunehmen in Übereinstimmung mit den Leitlinien der Internationalen Seeschifffahrts-Organisation für die Besichtigung im Rahmen des Harmonisierten Systems der Besichtigung und Zeugniserteilung (HSSC), die zuletzt in der Entschließung A.1156(32) vom 15. Dezember 2021 (VkBl. 2022 S. 833) festgelegt wurden, in der jeweils geltenden Fassung.
 
@@ -187,7 +191,7 @@ vorgeführt wird. Er hat unverzüglich alle - auch betrieblichen - Mängel zu be
 
 (8) Der Eigentümer eines Schiffes hat ungültige oder verlorene und nach Neuausstellung wiedergefundene Schiffszeugnisse und -bescheinigungen unverzüglich nachweislich zu vernichten, soweit die ausstellende Behörde nicht etwas anderes anordnet. Der Eigentümer des Schiffes kann abweichend von Satz 1 ein solches Zeugnis auch der ausstellenden Behörde zurückgeben.
 
-##### § 10 Ausübung der Vollzugsaufgaben, Schiffsdaten
+###### § 10 Ausübung der Vollzugsaufgaben, Schiffsdaten
 
 (1) Die für die Vollzugsaufgaben nach dem Seeaufgabengesetz und dem Schiffssicherheitsgesetz zuständigen Behörden können Anordnungen treffen und Ausnahmen und Befreiungen nach § 7 Abs. 1 mit Auflagen verbinden.
 
@@ -195,7 +199,7 @@ vorgeführt wird. Er hat unverzüglich alle - auch betrieblichen - Mängel zu be
 
 (3) Das Bundesamt für Seeschiffahrt und Hydrographie erhebt die für die Ausführung des Schiffssicherheitsgesetzes und dieser Verordnung erforderlichen Schiffsdaten.
 
-##### § 11 Auslaufen und Weiterfahrt von Schiffen, die die Bundesflagge führen
+###### § 11 Auslaufen und Weiterfahrt von Schiffen, die die Bundesflagge führen
 
 (1) Wenn
 
@@ -211,7 +215,7 @@ verbietet die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunik
 
 (3) Stellt eine Schiffahrtspolizeibehörde einen in Absatz 1 genannten Sachverhalt fest, so kann sie bis zur Entscheidung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation das Auslaufen oder die Weiterfahrt für einen zu bestimmenden angemessenen Zeitraum verhindern.
 
-##### § 12 Überprüfung von Schiffen unter ausländischer Flagge (Hafenstaatkontrolle)
+###### § 12 Überprüfung von Schiffen unter ausländischer Flagge (Hafenstaatkontrolle)
 
 (1) Für die Hafenstaatkontrolle ist die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation zuständig. Sehen das Schiffssicherheitsgesetz oder die internationalen Regelungen ein Verhindern des Auslaufens oder der Weiterfahrt von Schiffen unter einer ausländischen Flagge vor, ist § 11 Abs. 3 entsprechend anzuwenden.
 
@@ -223,7 +227,7 @@ verbietet die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunik
 
 (5) Absatz 4 gilt für die Erfüllung der Aufgaben nach der Richtlinie (EU) 2017/2110 des Europäischen Parlaments und des Rates vom 15. November 2017 über ein System von Überprüfungen im Hinblick auf den sicheren Betrieb von Ro-Ro-Fahrgastschiffen und Fahrgast-Hochgeschwindigkeitsfahrzeugen im Linienverkehr und zur Änderung der Richtlinie 2009/16/EG sowie zur Aufhebung der Richtlinie 1999/35/EG des Rates (ABl. L 315 vom 30.11.2017, S. 61) in ihrer jeweils geltenden Fassung entsprechend.
 
-##### § 13 Verhaltenspflichten
+###### § 13 Verhaltenspflichten
 
 (1) Der Eigentümer eines Schiffes, das die Bundesflagge führt, hat dafür zu sorgen, daß
 
@@ -309,7 +313,7 @@ c) die niedrige Nennleistungsstufe nur eingestellt ist, wenn für die UKW-Seefun
 
 (6) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation kann von den Verhaltenspflichten in Absatz 2 Nr. 9 und Absatz 3 Nr. 1 und 2 bei Vorliegen eines wichtigen Grundes nach Maßgabe des § 7 Abs. 1 Ausnahmen zulassen.
 
-##### § 14 Ordnungswidrigkeiten
+###### § 14 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -387,11 +391,11 @@ d) entgegen § 13 Abs. 3 Nr. 4 den Kurs, die Position oder die Geschwindigkeit n
 
 3. in den übrigen Fällen des Absatzes 1 auf die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation.
 
-##### § 15 Übergangsregelung
+###### § 15 Übergangsregelung
 
 Fahrzeuge, die am 13. März 2018 über ein Sicherheitszeugnis für Ausbildungsfahrzeuge nach § 6 Absatz 1 Nummer 7 Buchstabe c in Verbindung mit § 15 der Schiffssicherheitsverordnung in der Fassung vom 29. März 2017 (BGBl. I S. 626) und § 52a Absatz 1 der Schiffssicherheitsverordnung vom 8. Dezember 1986 in der Fassung der Bekanntmachung vom 3. September 1997 (BGBl. I S. 2217), geändert durch die Verordnung vom 19. Juni 1998 (BGBl. I S. 1431), verfügt haben, erhalten auf Antrag bei Vorliegen der schiffssicherheitsrechtlichen Voraussetzungen ein Sicherheitszeugnis nach § 14 der See-Sportbootverordnung. Das Zeugnis kann nicht erneuert werden, wenn seit dem Ablauf der Gültigkeit des letzten Zeugnisses mehr als fünf Jahre vergangen sind.
 
-##### § 16 Anwendung weiterer Vorschriften, Zuständigkeit
+###### § 16 Anwendung weiterer Vorschriften, Zuständigkeit
 
 (1) Die sich aus den internationalen Regelungen (§ 1 Abs. 2 des Schiffssicherheitsgesetzes) ergebenden Pflichten, Anforderungen, Befugnisse und Aufgaben gehen in ihrem Anwendungsbereich, soweit nicht ausdrücklich anders bestimmt, den Pflichten, Anforderungen, Befugnissen und Aufgaben einschließlich der Ausnahmen und Befreiungen nach dieser Verordnung vor.
 
@@ -403,16 +407,16 @@ Fahrzeuge, die am 13. März 2018 über ein Sicherheitszeugnis für Ausbildungsfa
 
 (5) Nach dieser Verordnung zuständige Behörde ist, soweit nicht ausdrücklich anders bestimmt, die jeweils nach dem Seeaufgabengesetz zuständige Behörde oder Stelle.
 
-##### § 17 Verweisung auf technische Regelwerke
+###### § 17 Verweisung auf technische Regelwerke
 
 Soweit in oder auf Grund dieser Verordnung auf DIN-, DIN EN- und DIN EN ISO Normen Bezug genommen wird, sind diese im Beuth-Verlag GmbH, 10722 Berlin, erschienen. Sie sind beim Deutschen Patent- und Markenamt archivmäßig gesichert niedergelegt.
 
-##### Anlage 1 (zu § 5) Besondere Regelungen bei internationalem schiffsbezogenen Sicherheitsstandard
+###### Anlage 1 (zu § 5) Besondere Regelungen bei internationalem schiffsbezogenen Sicherheitsstandard
 
 (Fundstelle: BGBl. I 1998, 3030 - 3035,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-##### Anlage 1a (zu den §§ 6 und 6a) Schiffsbezogener Sicherheitsstandard in den übrigen Fällen
+###### Anlage 1a (zu den §§ 6 und 6a) Schiffsbezogener Sicherheitsstandard in den übrigen Fällen
 
 (Fundstelle: BGBl. I 2018, 244 - 334;
  bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2403,7 +2407,7 @@ b) von Kindern unter einem Jahr;
 
 a) **Schlepper:** ein Frachtschiff, das zum Ziehen und Schieben von Wasserfahrzeugen, schwimmenden Arbeitsgeräten und anderen schwimmenden Objekten gebaut und bestimmt ist;
 
-b) **Behördenfahrzeug:** ein Frachtschiff im Sinne des § 3 Buchstabe c des Flaggenrechtsgesetzes oder das zur Erfüllung hoheitlicher Aufgaben unter Aufsicht des Bundes, eines Landes oder einer Gemeinde oder eines Gemeindeverbandes eingesetzt ist und nicht Handelszwecken dient;
+b) **Behördenfahrzeug:** ein Frachtschiff im Sinne des § 3 Absatz 1 Nummer 3 des Flaggenrechtsgesetzes oder das zur Erfüllung hoheitlicher Aufgaben unter Aufsicht des Bundes, eines Landes oder einer Gemeinde oder eines Gemeindeverbandes eingesetzt ist und nicht Handelszwecken dient;
 
 c) **Wasserfahrzeug ohne eigenen Antrieb:** ein Frachtschiff, das gebaut ist, um von anderen Fahrzeugen gezogen oder geschoben zu werden, insbesondere Schuten oder Pontons;
 
@@ -2889,7 +2893,7 @@ c) Bei Fahrzeugen mit einer Länge unter 6 m kann die Berufsgenossenschaft in Ab
 10.3 Im Fall der Regel 2.1 Buchstabe b gilt ein maximaler Fahrtbereich entsprechend nachfolgender Tabelle: 
             Entwurfskategorie
 
-BootsartC
+ BootsartC
  max. Windstärke
  6 Bft.
  max. Wellenhöhe
@@ -4347,7 +4351,7 @@ Ausrüstung von Ölschlammverbrennungsanlagen an Dampfkesselanlagen
 
 **7.2** Die Zuverlässigkeit der Einrichtungen gemäß der Abschnitte 7.1.1 bis 7.1.4 ist dem Sachverständigen nachzuweisen.
 
-##### Anlage 2 (zu § 9)Schiffszeugnisse und -bescheinigungen, Schiffsbesichtigungen
+###### Anlage 2 (zu § 9)Schiffszeugnisse und -bescheinigungen, Schiffsbesichtigungen
 
 (Fundstelle: BGBl. I 1998, 3036 - 3039;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4356,14 +4360,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Stelle**(I). Zeugnisse/Bescheinigungen im Rahmen von SOLAS(1.)Sicherheitszeugnis für Fahrgastschiffe nach SOLAS Regel I/12BG Verkehr(2.)Bau-Sicherheitszeugnis für Frachtschiffe nach SOLAS Regel I/12BG Verkehr(3.)Ausrüstungs-Sicherheitszeugnis für Frachtschiffe nach SOLAS Regel I/12BG Verkehr(4.)Funk-Sicherheitszeugnis für Frachtschiffe nach SOLAS Regel I/12BG Verkehr(5.)Ausnahmezeugnis (SOLAS) nach SOLAS Regel I/12BG Verkehr(6.)Bescheinigung nach SOLAS Regel II-2/19.4BG Verkehr(7.)Dokument über die für einen sicheren Schiffsbetrieb erforderliche Mindestbesatzung nach SOLAS Regel V/14.2BG Verkehr(8.)Genehmigung für Getreidetransporte nach SOLAS Regel VI/9 in Verbindung mit dem Internationalen Getreide-CodeBG Verkehr(9.)Internationales Zeugnis über die Eignung zur Beförderung gefährlicher Chemikalien als Massengut (IBC) nach SOLAS Regel VII/10 in Verbindung mit I/12BG Verkehr(10.)Internationales Zeugnis über die Eignung zur Beförderung verflüssigter Gase als Massengut (IGC) nach SOLAS Regel VII/13 in Verbindung mit Regel I/12BG Verkehr(11.)(a)Dokument über die Erfüllung der einschlägigen Vorschriften (DOC) nach den SOLAS Regeln IX/4.1 und 4.2 (Internationales Schiffssicherheitsmanagement - ISM)BG Verkehr(b)Vorläufiges Dokument über die Erfüllung der einschlägigen VorschriftenBG Verkehr(12.)(a)Zeugnis über die Organisation von Sicherheitsmaßnahmen (SMC) nach SOLAS Regel IX/4.3 in Verbindung mit Regel I/12 (ISM)BG Verkehr(b)Vorläufiges Zeugnis über die Organisation von SicherheitsmaßnahmenBG Verkehr(13.)(a)Sicherheitszeugnis für Hochgeschwindigkeitsfahrzeuge nach SOLAS Regel X/3BG Verkehr(b)Bescheinigung über die Erlaubnis zum Betrieb von Hochgeschwindigkeitsfahrzeugen nach Abschnitt 1.9 des Hochgeschwindigkeits(HSC)-Codes in Verbindung mit SOLAS Regel X/3BG Verkehr(13a.)Internationales Zeugnis über die Gefahrenabwehr an Bord eines Schiffes nach Teil A Abschnitt 19.2 des ISPS-CodesBSH(13b.)Zeugnis für Polarschiffe nach SOLAS Regel XIV/3 in Verbindung mit dem Polar Code (Entschließung MSC385(94)) BG Verkehr(II). Zeugnisse/Bescheinigungen nach MARPOL 1973/78, soweit international in Kraft(14.)Internationales Zeugnis über die Verhütung der Ölverschmutzung nach MARPOL Anlage I Regel 6BG Verkehr(14a.)Internationales Ausnahmezeugnis für unbemannte Bargen ohne eigenen Antrieb (UNSP Bargen) in Bezug auf die Verhütung der Ölverschmutzung nach MARPOL Anlage I Regel 3 Absatz 7 BG Verkehr(15.)Internationales Zeugnis über die Verhütung der Verschmutzung bei der Beförderung schädlicher flüssiger Stoffe als Massengut nach MARPOL Anlage II Regel 9BG Verkehr(15a.)Bescheinigung über eine dreiseitige Vereinbarung nach MARPOL Anlage II Regel 6 Absatz 4BG Verkehr(16.)Zeugnis über die Eignung zur Beförderung gefährlicher Chemikalien als Massengut nach MARPOL Anlage II Regel 11 in Verbindung mit Nummer 1.6.4 des in Nummer II.2 der Anlage zum Schiffssicherheitsgesetz genannten BCH-CodesBG Verkehr(16a.)Internationales Zeugnis über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV Regel 5 und 6 BG-Verkehr(16b.)Internationales Ausnahmezeugnis für unbemannte Bargen ohne eigenen Antrieb (UNSP Bargen) in Bezug auf die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV Regel 3 Absatz 2 BG-Verkehr(17.)Internationales Zeugnis über die Verhütung der Luftverunreinigung durch Schiffe (IAPP-Zeugnis) nach MARPOL Anlage VI Regeln 6 und 8BG Verkehr(17a.)Internationales Zeugnis über die Energieeffizienz (IEE-Zeugnis) nach MARPOL Anlage VI Regel 6 und 8BG Verkehr(17b.)Internationales Ausnahmezeugnis für unbemannte Bargen ohne eigenen Antrieb (UNSP Bargen) in Bezug auf die Verhütung der Luftverunreinigung durch Schiffe nach MARPOL Anlage VI Regel 3 Absatz 4 BG Verkehr(18.)Internationales Motorenzeugnis über die Verhütung der Luftverunreinigung (EIAPP-Zeugnis) nach Kapitel 2 der Technischen Vorschrift über die Kontrolle der Stickstoffoxid-Emissionen aus Schiffsdieselmotoren in Verbindung mit MARPOL Anlage VI Regel 13BG Verkehr(III). Zeugnisse nach dem Internationalen Freibord-Übereinkommen von 1966(19.)Internationales Freibordzeugnis nach den Artikeln 3 und 16 Abs. 1 des ÜbereinkommensBG Verkehr(20.)Internationales Freibord-Ausnahmezeugnis nach den Artikeln 3 und 16 Abs. 2 des ÜbereinkommensBG Verkehr(IV). Bescheinigung nach dem Internationalen Schiffsvermessungs-Übereinkommen von 1969(21.)Internationaler Schiffsmeßbrief (1969) nach Artikel 7 des ÜbereinkommensBSH(V). Bescheinigung nach der Richtlinie 97/70/EG des Rates vom 11. Dezember 1997 über eine harmonisierte Sicherheitsregelung für Fischereifahrzeuge von 24 Meter Länge und mehr (ABl. EG Nr. L 34 S. 1)(22.)Konformitätszeugnis, Ausrüstungsverzeichnis und Ausnahmezeugnis nach Artikel 6 der RichtlinieBG Verkehr, BSH(VI). Zeugnisse und Bescheinigungen nach der Richtlinie 2009/45/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 über Sicherheitsvorschriften und -normen für Fahrgastschiffe (ABl. L 161 vom 25.6..2009, S. 1)(23.)a)Sicherheitszeugnis für Fahrgastschiffe nach Artikel 13 Absatz 1 und 2 der RichtlinieBG Verkehrb)Sicherheitszeugnis und Erlaubnisschein für Hochgeschwindigkeitsfahrzeuge nach Artikel 13 Absatz 3 der RichtlinieBG Verkehrc)Bau- und Ausrüstungszeugnis für Fahrzeuge mit dynamischem Auftrieb sowie Erlaubnisschein zum Betrieb von Fahrzeugen mit dynamischem Auftrieb nach Artikel 13 Absatz 3 der RichtlinieBG Verkehr(VII). Sonstige Zeugnisse und Bescheinigungen(24.)a)Schiffssicherheitszeugnis nach § 9 Abs. 3BG Verkehrb)Bescheinigung nach § 9 Abs. 5Generaldirektion Wasserstraßen und Schifffahrtc)(weggefallen)d)(weggefallen)(25.)a)Bescheinigung der amtlichen Vermessung (Meßbrief)BSHb)Meßbescheinigung (auf sechs Monate befristet)BSH(26.)(weggefallen)(27.)Zeugnis über die Eignung zur Beförderung verflüssigter Gase als Massengut in Verbindung mit Nummer 1.6.4 des GC-CodesBG Verkehr(27.) a)Internationales Zeugnis über ein Bewuchsschutzsystem (IAFS-Zeugnis) nach
 aa)Artikel 6 der Verordnung (EG) Nr. 782/2003 des Europäischen Parlamentsund des Rates vom 14. April 2003 über das Verbot zinnorganischer Verbindungen auf Schiffen (ABl. L 115 vom 9.5.2003, S. 1),bb)Anlage 4 Regel 2 des AFS-Übereinkommens (BGBl. 2008 II S. 520) einschließlich Spezifikation des BewuchsschutzsystemsBG Verkehr(27.) b)Internationales Zeugnis über die Ballastwasser-Behandlung nach der Anlage Regel E-2 des Ballastwasser-ÜbereinkommensBG Verkehr(28.)Vorbehaltlich Nummer (22.) sonstige Zeugnisse und Bescheinigungen nach der Schiffssicherheitsverordnung in einer Fassung vor dem 1. Oktober 1998 sowie Verlängerungen von Zeugnissen und Bescheinigungen, die auf Grund von inzwischen außer Kraft getretenen Vorschriften erteilt wurdenBSH, BG Verkehr.
 
-##### Anlage 3 (zu § 13 Abs. 4a)Befähigungsnachweise für den mobilen Seefunkdienst und den mobilen Seefunkdienst über Satelliten
+###### Anlage 3 (zu § 13 Abs. 4a)Befähigungsnachweise für den mobilen Seefunkdienst und den mobilen Seefunkdienst über Satelliten
 
 Fundstelle: BGBl. I 2001, 2281 - 2284;
 bzgl. der einzelnen Änderungen vgl. Fußnote
 
 a)Allgemeines Betriebszeugnis für Funker (ABZ)inAllgemeines Betriebszeugnis für Funker (General Operator's Certificate (GOC)),b)Beschränkt Gültiges Betriebszeugnis für Funker I (BZ I)inBeschränkt Gültiges Betriebszeugnis für Funker (Restricted Operator's Certificate (ROC)),c)Beschränkt Gültiges Betriebszeugnis für Funker II (BZ II)inUKW-Betriebszeugnis für Funker (UBZ).
 
-##### Anlage 4 Umsetzung von Rechtsakten der Europäischen Gemeinschaften und der Europäischen Union
+###### Anlage 4 Umsetzung von Rechtsakten der Europäischen Gemeinschaften und der Europäischen Union
 
 (Fundstelle: BGBl. 2024 I Nr. 217, S. 2 – 4)
 
@@ -4475,7 +4479,7 @@ Diese Anlage dient der Umsetzung der Richtlinie 2003/25/EG des Europäischen Par
 
 7.5 Nach der Genehmigung des Betriebs im Sinne von 7.1, 7.2 und 7.3 durch die Berufsgenossenschaft oder die zuständigen Behörden der ausländischen Hafenstaaten muss das Ro-Ro-Fahrgastschiff unter der Bundesflagge, das diesem Betrieb nachgeht, eine Bescheinigung zum Nachweis der Erfüllung der Bestimmungen dieser Richtlinie gemäß Regel 6.1 mitführen.
 
-##### Anhang zu Anlage 1 (Wattfahrt)
+###### Anhang zu Anlage 1 (Wattfahrt)
 
 (Fundstelle: BGBl. 2024 I, Nr. 370 S. 31 – 37)
 
@@ -4698,4 +4702,3 @@ Sicherheitsanforderungen an neue in der Inlandfahrt eingesetzte Fahrgastschiffe,
 Es gelten die Anforderungen der einschlägigen Bestimmungen des Kapitels II-1 Teile B bis B-4 des SOLAS-Übereinkommens soweit nicht nachfolgend etwas Abweichendes bestimmt ist:
 
 Der in Teil B-1, Regel 6.2.3 des SOLAS-Übereinkommens zu berechnende Unterteilungsfaktor R für Fahrgastschiffe wird als 0,95 R festgesetzt.
-
