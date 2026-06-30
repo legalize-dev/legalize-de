@@ -4,18 +4,22 @@ identifier: "WOFG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2001-09-13"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/wofg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR237610001"
 slug: "wofg"
 bgbl_reference: "BGBl I 2001, 2376"
-stand: "Zuletzt geändert durch Art. 12 Abs. 15 G v. 16.12.2022 I 2328"
+stand: "Zuletzt geändert durch Art. 11 Abs. 2 G v. 16.4.2026 I Nr. 107"
 ---
 # Gesetz über die soziale Wohnraumförderung
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 Teil 1
 			
@@ -340,7 +344,7 @@ Teil 1
 
 ## Abschnitt 1 Zweck und Maßnahmen der Förderung
 
-##### § 1 Zweck und Anwendungsbereich, Zielgruppe
+###### § 1 Zweck und Anwendungsbereich, Zielgruppe
 
 (1) Dieses Gesetz regelt die Förderung des Wohnungsbaus und anderer Maßnahmen zur Unterstützung von Haushalten bei der Versorgung mit Mietwohnraum, einschließlich genossenschaftlich genutzten Wohnraums, und bei der Bildung von selbst genutztem Wohneigentum (soziale Wohnraumförderung).
 
@@ -350,7 +354,7 @@ Teil 1
 
 2. die Förderung der Bildung selbst genutzten Wohneigentums insbesondere Familien und andere Haushalte mit Kindern sowie behinderte Menschen, die unter Berücksichtigung ihres Einkommens und der Eigenheimzulage die Belastungen des Baus oder Erwerbs von Wohnraum ohne soziale Wohnraumförderung nicht tragen können.
 
-##### § 2 Fördergegenstände und Fördermittel
+###### § 2 Fördergegenstände und Fördermittel
 
 (1) Fördergegenstände sind:
 
@@ -372,7 +376,7 @@ wenn damit die Unterstützung von Haushalten bei der Versorgung mit Mietwohnraum
 
 3. Bereitstellung von verbilligtem Bauland.
 
-##### § 3 Durchführung der Aufgaben und Zuständigkeiten
+###### § 3 Durchführung der Aufgaben und Zuständigkeiten
 
 (1) Länder, Gemeinden und Gemeindeverbände wirken nach Maßgabe dieses Gesetzes bei der sozialen Wohnraumförderung zusammen.
 
@@ -382,7 +386,7 @@ wenn damit die Unterstützung von Haushalten bei der Versorgung mit Mietwohnraum
 
 (4) Gemeinden und Gemeindeverbände können mit eigenen Mitteln eine Förderung nach diesem Gesetz und den hierzu erlassenen landesrechtlichen Vorschriften durchführen, soweit nicht im Übrigen Landesrecht entgegensteht.
 
-##### § 4 Bauland, sonstige Rahmenbedingungen
+###### § 4 Bauland, sonstige Rahmenbedingungen
 
 (1) Länder, Gemeinden, Gemeindeverbände, sonstige Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts und die von ihnen wirtschaftlich abhängigen Unternehmen sollen in ausreichendem Umfang geeignete Grundstücke als Bauland für den Wohnungsbau unter Berücksichtigung der Anforderungen des Kosten und Flächen sparenden Bauens zu Eigentum oder in Erbbaurecht überlassen.
 
@@ -395,7 +399,7 @@ wenn damit die Unterstützung von Haushalten bei der Versorgung mit Mietwohnraum
 ## Abschnitt 2 Grundsätze, Voraussetzungen und
 Förderzusage
 
-##### § 5 Anforderungen an die Förderung
+###### § 5 Anforderungen an die Förderung
 
 (1) Die soziale Wohnraumförderung wird nach diesem Gesetz und hierzu erlassenen Vorschriften des Landes durchgeführt.
 
@@ -403,7 +407,7 @@ Förderzusage
 
 (3) Die in den §§ 6 bis 8 und 10 bezeichneten Grundsätze sind bei den Bestimmungen nach Absatz 2 und, soweit solche Bestimmungen nicht getroffen sind, bei Entscheidungen, die zur Förderung ergehen, in der Abwägung und bei der Ermessensausübung zu berücksichtigen. Die Länder können weitere Grundsätze aufstellen.
 
-##### § 6 Allgemeine Fördergrundsätze
+###### § 6 Allgemeine Fördergrundsätze
 
 Die soziale Wohnraumförderung ist der Nachhaltigkeit einer Wohnraumversorgung verpflichtet, die die wirtschaftlichen und sozialen Erfordernisse mit der Erhaltung der Umwelt in Einklang bringt. Bei der Förderung sind zu berücksichtigen:
 
@@ -433,7 +437,7 @@ c) die Vergabe von Fördermitteln im Rahmen von Wettbewerbsverfahren;
 
 Maßnahmen der sozialen Wohnraumförderung, die im Zusammenhang mit städtebaulichen Sanierungs- und Entwicklungsmaßnahmen stehen, sind bevorzugt zu berücksichtigen.
 
-##### § 7 Besondere Grundsätze zur Förderung von Mietwohnraum
+###### § 7 Besondere Grundsätze zur Förderung von Mietwohnraum
 
 Bei der Förderung von Mietwohnraum sind folgende Grundsätze zu berücksichtigen:
 
@@ -447,7 +451,7 @@ b) auf Grund eines Vorbehalts in der Förderzusage durch Entscheidung der zustä
 
 3. Bei der Vermeidung und dem Ausgleich von Fehlförderungen sind soweit erforderlich Veränderungen der für die Wohnkostenentlastung maßgeblichen Einkommensverhältnisse und der Haushaltsgröße durch Überprüfungen in regelmäßigen zeitlichen Abständen zu berücksichtigen.
 
-##### § 8 Besondere Grundsätze zur Förderung der Bildung selbst genutzten Wohneigentums
+###### § 8 Besondere Grundsätze zur Förderung der Bildung selbst genutzten Wohneigentums
 
 Bei der Förderung der Bildung selbst genutzten Wohneigentums nach § 1 Abs. 2 Satz 2 Nr. 2 sind folgende Grundsätze zu berücksichtigen:
 
@@ -455,13 +459,18 @@ Bei der Förderung der Bildung selbst genutzten Wohneigentums nach § 1 Abs. 2 S
 
 2. Um eine angemessene Belastung des Bauherrn oder des Erwerbers des selbst genutzten Wohneigentums zu erreichen, sind bei der Festlegung der Förderung insbesondere die Einkommensentwicklung und die Eigenheimzulage nach dem Eigenheimzulagengesetz zu berücksichtigen. Fehlförderungen sind zu vermeiden. Soweit dies durch eine Förderung erfolgt, die auf die Entwicklung des Haushaltseinkommens abstellt, sind Veränderungen der maßgeblichen Einkommensverhältnisse und der Haushaltsgröße durch Überprüfungen in regelmäßigen zeitlichen Abständen zu berücksichtigen.
 
-##### § 9 Einkommensgrenzen
+###### § 9 Einkommensgrenzen
 
 (1) Die Förderung darf nur Haushalte begünstigen, deren Einkommen die Grenzen für das jährliche Einkommen, die in Absatz 2 bezeichnet oder von den Ländern nach Absatz 3 abweichend festgelegt sind, nicht überschreiten. Bei der Ermittlung des Einkommens sind die §§ 20 bis 24 anzuwenden.
 
-(2) Die Einkommensgrenze beträgt:
+(2) Die Einkommensgrenze beträgt: 
 
-für einen Einpersonenhaushalt
+	
+		
+		
+		
+			
+				für einen Einpersonenhaushalt
 				12.000 Euro,
 			
 			
@@ -487,7 +496,7 @@ Sind zum Haushalt rechnende Personen Kinder im Sinne des § 32 Abs. 1 bis 5 des 
 
 Abweichungen festzulegen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf eine oberste Landesbehörde übertragen.
 
-##### § 10 Wohnungsgrößen
+###### § 10 Wohnungsgrößen
 
 (1) Bei Bestimmungen der Länder über die Grenzen für Wohnungsgrößen sind folgende Grundsätze zu berücksichtigen:
 
@@ -497,7 +506,7 @@ Abweichungen festzulegen. Die Landesregierungen können diese Ermächtigung durc
 
 (2) Bei der Berechnung der Wohnfläche ist § 19 Abs. 1 anzuwenden.
 
-##### § 11 Förderempfänger
+###### § 11 Förderempfänger
 
 (1) Empfänger der Förderung ist
 
@@ -525,7 +534,7 @@ Abweichungen festzulegen. Die Landesregierungen können diese Ermächtigung durc
 
 Fördermittel können auch einem Bauherrn oder einem sonstigen Förderempfänger gewährt werden, für den an einem geeigneten Grundstück ein Erbbaurecht von angemessener Dauer bestellt ist oder der nachweist, dass der Erwerb eines derartigen Erbbaurechts gesichert ist.
 
-##### § 12 Bevorzugung von Maßnahmen, zusätzliche Förderung
+###### § 12 Bevorzugung von Maßnahmen, zusätzliche Förderung
 
 (1) Maßnahmen, bei denen Bauherren in Selbsthilfe tätig werden oder bei denen Mieter von Wohnraum Leistungen erbringen, durch die sie im Rahmen des Mietverhältnisses Vergünstigungen erlangen, können bei der Förderung bevorzugt werden. Selbsthilfe sind die Arbeitsleistungen, die zur Durchführung der geförderten Maßnahmen vom Bauherrn selbst, seinen Angehörigen oder von anderen unentgeltlich oder auf Gegenseitigkeit oder von Mitgliedern von Genossenschaften erbracht werden. Leistungen von Mietern sind die von
 
@@ -543,7 +552,7 @@ Fördermittel können auch einem Bauherrn oder einem sonstigen Förderempfänger
 
 4. besonderen experimentellen Ansätzen zur Weiterentwicklung des Wohnungsbaus.
 
-##### § 13 Förderzusage
+###### § 13 Förderzusage
 
 (1) Die Förderung wird auf Antrag durch eine Förderzusage der zuständigen Stelle gewährt.
 
@@ -561,13 +570,13 @@ In die Förderzusage können weitere für den jeweiligen Förderzweck erforderli
 
 ## Abschnitt 3 Kooperationsvertrag
 
-##### § 14 Zweck, Beteiligte
+###### § 14 Zweck, Beteiligte
 
 (1) Gemeinden, Gemeindeverbände und sonstige öffentliche Stellen können mit Eigentümern oder sonstigen Verfügungsberechtigten von Wohnraum Vereinbarungen über Angelegenheiten der örtlichen Wohnraumversorgung treffen (Kooperationsverträge), insbesondere zur Unterstützung von Maßnahmen der sozialen Wohnraumversorgung einschließlich der Verbesserung der Wohnverhältnisse sowie der Schaffung oder Erhaltung sozial stabiler Bewohnerstrukturen.
 
 (2) In die Vereinbarungen können Dritte, insbesondere öffentliche und private Träger sozialer Aufgaben und andere mit der Durchführung des Kooperationsvertrags Beauftragte, einbezogen werden. Soweit durch Vereinbarungen die Aufgaben der nach § 3 Abs. 2 Satz 3 zuständigen Stellen berührt werden, sind diese Stellen zu beteiligen.
 
-##### § 15 Gegenstände des Kooperationsvertrags
+###### § 15 Gegenstände des Kooperationsvertrags
 
 (1) Gegenstände des Kooperationsvertrags können insbesondere sein:
 
@@ -592,7 +601,7 @@ Wohnraumförderung
 
 ## Abschnitt 1 Begriffsbestimmungen
 
-##### § 16 Wohnungsbau, Modernisierung
+###### § 16 Wohnungsbau, Modernisierung
 
 (1) Wohnungsbau ist das Schaffen von Wohnraum durch
 
@@ -616,7 +625,7 @@ Wohnraumförderung
 
 Instandsetzungen, die durch Maßnahmen der Modernisierung verursacht werden, fallen unter die Modernisierung.
 
-##### § 17 Wohnraum
+###### § 17 Wohnraum
 
 (1) Wohnraum ist umbauter Raum, der tatsächlich und rechtlich zur dauernden Wohnnutzung geeignet und vom Verfügungsberechtigten dazu bestimmt ist. Wohnraum können Wohnungen oder einzelne Wohnräume sein.
 
@@ -624,7 +633,7 @@ Instandsetzungen, die durch Maßnahmen der Modernisierung verursacht werden, fal
 
 (3) Mietwohnraum ist Wohnraum, der den Bewohnern auf Grund eines Mietverhältnisses oder eines genossenschaftlichen oder sonstigen ähnlichen Nutzungsverhältnisses zum Gebrauch überlassen wird.
 
-##### § 18 Haushaltsangehörige
+###### § 18 Haushaltsangehörige
 
 (1) Zum Haushalt rechnen die in Absatz 2 bezeichneten Personen, die miteinander eine Wohn- und Wirtschaftsgemeinschaft führen (Haushaltsangehörige). Zum Haushalt rechnen auch Personen im Sinne des Absatzes 2, die alsbald in den Haushalt aufgenommen werden sollen.
 
@@ -640,17 +649,17 @@ Instandsetzungen, die durch Maßnahmen der Modernisierung verursacht werden, fal
 
 sowie deren Verwandte in gerader Linie und zweiten Grades in der Seitenlinie, Verschwägerte in gerader Linie und zweiten Grades in der Seitenlinie, Pflegekinder ohne Rücksicht auf ihr Alter und Pflegeeltern.
 
-##### § 19 Wohnfläche
+###### § 19 Wohnfläche
 
 Die Wohnfläche einer Wohnung ist die Summe der anrechenbaren Grundflächen der ausschließlich zur Wohnung gehörenden Räume. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Vorschriften zur Berechnung der Grundfläche und zur Anrechenbarkeit auf die Wohnfläche zu erlassen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf eine oberste Landesbehörde übertragen.
 
 ## Abschnitt 2 Einkommensermittlung
 
-##### § 20 Gesamteinkommen
+###### § 20 Gesamteinkommen
 
 Maßgebendes Einkommen ist das Gesamteinkommen des Haushalts. Gesamteinkommen des Haushalts im Sinne dieses Gesetzes ist die Summe der Jahreseinkommen der Haushaltsangehörigen abzüglich der Frei- und Abzugsbeträge nach § 24. Maßgebend sind die Verhältnisse im Zeitpunkt der Antragstellung.
 
-##### § 21 Begriff des Jahreseinkommens
+###### § 21 Begriff des Jahreseinkommens
 
 (1) Jahreseinkommen im Sinne dieses Gesetzes ist, vorbehaltlich der Absätze 2 und 3 sowie der §§ 22 und 23, die Summe der positiven Einkünfte im Sinne des § 2 Abs. 1, 2 und 5a des Einkommensteuergesetzes jedes Haushaltsangehörigen. Bei den Einkünften im Sinne des § 2 Abs. 1 Satz 1 Nr. 1 bis 3 des Einkommensteuergesetzes ist § 7g Abs. 1 bis 4 und 7 des Einkommensteuergesetzes nicht anzuwenden. Ein Ausgleich mit negativen Einkünften aus anderen Einkunftsarten und mit negativen Einkünften des zusammenveranlagten Ehegatten ist nicht zulässig.
 
@@ -740,7 +749,7 @@ e) Beiträge zur Deckung des Unterhaltsbedarfs nach dem Aufstiegsfortbildungsfö
 
 6.3 die Hälfte der nach § 3 Nr. 42 des Einkommensteuergesetzes steuerfreien Zuwendungen, die auf Grund des Fulbright-Abkommens gezahlt werden,
 
-7.1 das Bürgergeld nach § 19 Absatz 1 des Zweiten Buches Sozialgesetzbuch,
+7.1 das Grundsicherungsgeld nach § 19 Absatz 1 des Zweiten Buches Sozialgesetzbuch,
 
 7.2 die Leistungen der Hilfe zum Lebensunterhalt nach den §§ 27 bis 30 des Zwölften Buches Sozialgesetzbuch,
 
@@ -754,7 +763,7 @@ e) Beiträge zur Deckung des Unterhaltsbedarfs nach dem Aufstiegsfortbildungsfö
 
 (3) Aufwendungen zum Erwerb, zur Sicherung und zur Erhaltung von Einnahmen nach Absatz 2 mit Ausnahme der Nummern 5.3 bis 5.5 dürfen in der im Sinne des § 22 Abs. 1 und 2 zu erwartenden oder nachgewiesenen Höhe abgezogen werden.
 
-##### § 22 Zeitraum für die Ermittlung des Jahreseinkommens
+###### § 22 Zeitraum für die Ermittlung des Jahreseinkommens
 
 (1) Bei der Ermittlung des Jahreseinkommens ist das Einkommen zu Grunde zu legen, das in den zwölf Monaten ab dem Monat der Antragstellung zu erwarten ist. Hierzu kann auch von dem Einkommen ausgegangen werden, das innerhalb der letzten zwölf Monate vor Antragstellung erzielt worden ist. Änderungen sind zu berücksichtigen, wenn sie im Zeitpunkt der Antragstellung innerhalb von zwölf Monaten mit Sicherheit zu erwarten sind; Änderungen, deren Beginn oder Ausmaß nicht ermittelt werden können, bleiben außer Betracht.
 
@@ -764,7 +773,7 @@ e) Beiträge zur Deckung des Unterhaltsbedarfs nach dem Aufstiegsfortbildungsfö
 
 (4) Einmaliges Einkommen, das in einem nach Absatz 1 oder 2 maßgebenden Zeitraum anfällt, aber einem anderen Zeitraum zuzurechnen ist, ist so zu behandeln, als wäre es während des anderen Zeitraums angefallen. Einmaliges Einkommen, das einem nach Absatz 1 oder 2 maßgebenden Zeitraum zuzurechnen, aber in einem früheren Zeitraum angefallen ist, ist so zu behandeln, als wäre es während des nach Absatz 1 oder 2 maßgebenden Zeitraums angefallen. Satz 2 gilt nur für Einkommen, das innerhalb von drei Jahren vor Antragstellung angefallen ist.
 
-##### § 23 Pauschaler Abzug
+###### § 23 Pauschaler Abzug
 
 (1) Bei der Ermittlung des Jahreseinkommens wird von dem nach den §§ 21 und 22 ermittelten Betrag ein pauschaler Abzug in Höhe von jeweils 10 Prozent für die Leistung von
 
@@ -778,7 +787,7 @@ vorgenommen.
 
 (2) Werden keine Pflichtbeiträge nach Absatz 1 Nr. 2 oder 3 geleistet, so werden laufende Beiträge zu öffentlichen oder privaten Versicherungen oder ähnlichen Einrichtungen in der tatsächlich geleisteten Höhe, höchstens bis zu jeweils 10 Prozent des sich nach den §§ 21 und 22 ergebenden Betrages abgezogen, wenn die Beiträge der Zweckbestimmung der Pflichtbeiträge nach Absatz 1 Nr. 2 oder 3 entsprechen. Dies gilt auch, wenn die Beiträge zu Gunsten eines zum Haushalt rechnenden Angehörigen geleistet werden. Die Sätze 1 und 2 gelten nicht, wenn eine im Wesentlichen beitragsfreie Sicherung oder eine Sicherung, für die Beiträge von einem Dritten geleistet werden, besteht.
 
-##### § 24 Frei- und Abzugsbeträge
+###### § 24 Frei- und Abzugsbeträge
 
 (1) Bei der Ermittlung des Gesamteinkommens werden folgende Freibeträge abgesetzt:
 
@@ -807,13 +816,13 @@ b) von wenigstens 80, wenn der schwerbehinderte Mensch häuslich pflegebedürfti
 ## Abschnitt 3 Begründung und Sicherung von Belegungs- und
 Mietbindungen sowie von Bindungen für selbst genutztes Wohneigentum
 
-##### § 25 Anwendungsbereich
+###### § 25 Anwendungsbereich
 
 (1) Mietwohnraum unterliegt den in der Förderzusage nach § 13 Abs. 2 bestimmten Bindungen, insbesondere Belegungs- und Mietbindungen. Auf diese Bestimmungen sind die §§ 26 bis 33 und 52 anzuwenden.
 
 (2) Selbst genutztes Wohneigentum unterliegt den in der Förderzusage nach § 13 Abs. 2 bestimmten Bindungen. Auf diese Bestimmungen sind § 27 Abs. 7 Satz 1 Nr. 2 und 3 und Satz 3 bis 5 sowie Abs. 8, § 32 Abs. 1, 2 und 4 sowie die §§ 33 und 52 entsprechend anzuwenden.
 
-##### § 26 Gegenstände und Arten der Belegungsrechte
+###### § 26 Gegenstände und Arten der Belegungsrechte
 
 (1) Belegungsrechte können
 
@@ -829,7 +838,7 @@ begründet werden.
 
 (3) In der Förderzusage kann bestimmt werden, dass die zuständige Stelle unter in der Förderzusage festgelegten Voraussetzungen befristet oder unbefristet statt eines allgemeinen Belegungsrechts ein Benennungsrecht oder ein Besetzungsrecht im Sinne des Absatzes 2 ausüben kann.
 
-##### § 27 Wohnberechtigungsschein, Sicherung der Belegungsrechte
+###### § 27 Wohnberechtigungsschein, Sicherung der Belegungsrechte
 
 (1) Der Verfügungsberechtigte darf die Wohnung nur einem Wohnungssuchenden zum Gebrauch überlassen, wenn dieser ihm vorher seine Wohnberechtigung durch Übergabe eines Wohnberechtigungsscheins nachweist. Der Wohnberechtigungsschein wird nach Maßgabe der Absätze 2 bis 5 erteilt.
 
@@ -871,7 +880,7 @@ Im Fall des Satzes 1 Nr. 1 ist die Genehmigung zu erteilen, wenn der Verfügungs
 
 (8) Sobald voraussehbar ist, dass eine Wohnung bezugsfertig oder frei wird, hat der Verfügungsberechtigte dies der zuständigen Stelle unverzüglich schriftlich anzuzeigen und den voraussichtlichen Zeitpunkt der Bezugsfertigkeit oder des Freiwerdens mitzuteilen.
 
-##### § 28 Bestimmung und Sicherung der höchstzulässigen Miete
+###### § 28 Bestimmung und Sicherung der höchstzulässigen Miete
 
 (1) In der Förderzusage ist eine höchstzulässige Miete zu bestimmen; sie ist die Miete ohne den Betrag für Betriebskosten. In der Förderzusage können Änderungen der höchstzulässigen Miete während der Dauer der Förderung, auch für Mieterhöhungen nach durchgeführten Modernisierungen, vorgesehen oder vorbehalten werden. Bestimmungen über die höchstzulässige Miete dürfen nicht zum Nachteil des Mieters von den allgemeinen mietrechtlichen Vorschriften abweichen.
 
@@ -891,7 +900,7 @@ fordern, sich versprechen lassen oder annehmen.
 
 (6) Von den Absätzen 1 bis 5 abweichende Vereinbarungen im Mietvertrag sind unwirksam.
 
-##### § 29 Dauer der Belegungs- und Mietbindungen
+###### § 29 Dauer der Belegungs- und Mietbindungen
 
 (1) Die Dauer der Belegungs- und Mietbindungen ist in der Förderzusage durch Festlegung einer Frist zu bestimmen; bei der Gewährung von Darlehen sind Bestimmungen über die Dauer der Bindungen bei vorzeitiger vollständiger Rückzahlung der Darlehen zu treffen, die dem mit dem Einsatz der Fördermittel verfolgten Förderzweck Rechnung tragen. Die Bindungen bleiben bestehen
 
@@ -903,7 +912,7 @@ Bei der Gewährung von Zuschüssen bleiben die Bindungen im Fall der Rückforder
 
 (2) Die zuständige Stelle hat auf Antrag dem Verfügungsberechtigten und bei berechtigtem Interesse auch einem Wohnungssuchenden und dem Mieter schriftlich zu bestätigen, wie lange die Belegungs- und Mietbindungen dauern. Die Bestätigung ist gegenüber dem Verfügungsberechtigten und dem Mieter in tatsächlicher und rechtlicher Hinsicht verbindlich.
 
-##### § 30 Freistellung von Belegungsbindungen
+###### § 30 Freistellung von Belegungsbindungen
 
 (1) Die zuständige Stelle kann den Verfügungsberechtigten von den Verpflichtungen nach § 27 Abs. 1 und 7 Satz 1 freistellen, wenn und soweit
 
@@ -921,7 +930,7 @@ und für die Freistellung ein Ausgleich dadurch erfolgt, dass der Verfügungsber
 
 (3) Bei einer Freistellung kann von einem Ausgleich abgesehen werden, wenn und soweit die Freistellung im überwiegenden öffentlichen Interesse erteilt wird.
 
-##### § 31 Übertragung von Belegungs- und Mietbindungen
+###### § 31 Übertragung von Belegungs- und Mietbindungen
 
 (1) Die zuständige Stelle kann mit dem Verfügungsberechtigten vereinbaren, dass die Belegungs- und Mietbindungen von geförderten Wohnungen (Förderwohnungen) auf Ersatzwohnungen des Verfügungsberechtigten übergehen, wenn
 
@@ -937,7 +946,7 @@ und für die Freistellung ein Ausgleich dadurch erfolgt, dass der Verfügungsber
 
 (4) Sind gewährte Fördermittel durch dingliche Rechte am Grundstück der Förderwohnungen gesichert, können die zuständige Stelle, der Verfügungsberechtigte und der Gläubiger vereinbaren, dass die dinglichen Rechte aufgehoben und am Grundstück der Ersatzwohnungen neu bestellt werden.
 
-##### § 32 Sonstige Vorschriften der Sicherung
+###### § 32 Sonstige Vorschriften der Sicherung
 
 (1) Die zuständige Stelle kann Bestimmungen der Förderzusage nach den allgemeinen Vorschriften im Wege des Verwaltungszwangs vollziehen. Soweit die Bestimmungen in einem öffentlich-rechtlichen Vertrag getroffen werden, hat sich der Förderempfänger der sofortigen Vollstreckung nach § 61 des Verwaltungsverfahrensgesetzes oder nach entsprechenden landesrechtlichen Vorschriften zu unterwerfen.
 
@@ -965,13 +974,13 @@ verarbeiten, soweit dies zur Sicherung der Zweckbestimmung der Wohnungen und der
 
 (7) Für die Zwecke der Sicherung der höchstzulässigen Miete nach § 28 Abs. 2 bis 6 und für die übrigen Sicherungsvorschriften der Absätze 2, 3, 5 und 6 ist der sonstige Verfügungsberechtigte dem Vermieter gleichgestellt.
 
-##### § 33 Geldleistung bei Gesetzesverstößen
+###### § 33 Geldleistung bei Gesetzesverstößen
 
 Für die Zeit, während der der Verfügungsberechtigte oder ein von ihm Beauftragter schuldhaft gegen die Vorschriften des § 27 Abs. 1 oder 6 Satz 1 oder Abs. 7 Satz 1 oder Abs. 8 oder des § 28 Abs. 2 bis 4 oder des § 32 Abs. 3 Satz 1 verstößt, kann die zuständige Stelle für die Dauer des Verstoßes durch Verwaltungsakt von dem Verfügungsberechtigten Geldleistungen bis zu monatlich 5 Euro je Quadratmeter Wohnfläche der Wohnung, auf die sich der Verstoß bezieht, erheben. Für die Bemessung der Geldleistungen sind ausschließlich der Wohnwert der Wohnung und die Schwere des Verstoßes maßgebend. Die eingezogenen Geldleistungen sind für Maßnahmen der sozialen Wohnraumförderung einzusetzen.
 
 ## Abschnitt 4 Ausgleich von Fehlförderungen
 
-##### § 34 Grundlagen der Ausgleichszahlung
+###### § 34 Grundlagen der Ausgleichszahlung
 
 (1) Die Länder können, um eine Fehlförderung im Sinne des § 7 Nr. 2 Satz 1 und 3 auszugleichen, landesrechtliche Vorschriften über die Erhebung einer Ausgleichszahlung von Mietern geförderter Wohnungen erlassen; sie treffen dazu nach Maßgabe der Absätze 2 bis 4, des § 35 Abs. 1 Satz 2, des § 36 Abs. 1 und 3 sowie des § 37 Abs. 2 Satz 1 und 4 die erforderlichen Bestimmungen. Auf die Erhebung von Ausgleichszahlungen sind die Absätze 5 bis 7 sowie § 35 Abs. 1 Satz 1, 3 und 4 und Abs. 2 bis 4, § 36 Abs. 2 sowie § 37 Abs. 1 und 2 Satz 2 und 3 anzuwenden. § 32 Abs. 6 gilt entsprechend für die Vorschriften dieses Abschnitts.
 
@@ -999,7 +1008,7 @@ Die Tatsachen für die Ausnahme von der Leistungspflicht nach Satz 1 hat der Mie
 
 (7) Für die Zwecke des Ausgleichs von Fehlförderungen nach diesem Abschnitt sind sonstige Wohnungsinhaber den Mietern gleichgestellt.
 
-##### § 35 Einkommensermittlung und Einkommensnachweis
+###### § 35 Einkommensermittlung und Einkommensnachweis
 
 (1) Auf die Ermittlung des Gesamteinkommens sind die §§ 20 bis 24 unter Einbeziehung der die Wohnung nicht nur vorübergehend nutzenden Personen anzuwenden. Die Länder können bestimmen, dass abweichend von Satz 1 zur weitergehenden Berücksichtigung sozialer Gründe, die der Vermeidung nicht vertretbarer Belastungen dient, zusätzliche Freibeträge vom Gesamteinkommen abgesetzt werden können. Maßgebend für die Einkommensermittlung nach den Sätzen 1 und 2 sind die Verhältnisse neun Monate vor Beginn des durch landesrechtliche Vorschriften nach § 36 Abs. 1 Nr. 3 bestimmten Leistungszeitraums. Abweichend hiervon ist in den Fällen des § 37 Abs. 2 der Zeitpunkt der Antragstellung maßgebend.
 
@@ -1009,7 +1018,7 @@ Die Tatsachen für die Ausnahme von der Leistungspflicht nach Satz 1 hat der Mie
 
 (4) Finanzbehörden und Arbeitgeber haben der zuständigen Stelle Auskunft über die Einkommensverhältnisse zu erteilen, soweit dies für die Festsetzung der Ausgleichszahlung erforderlich ist und begründete Zweifel an der Richtigkeit der Angaben und der hierzu vorgelegten Nachweise bestehen. Vor einem Auskunftsersuchen an den Arbeitgeber soll dem Mieter oder der zur Angabe des Einkommens verpflichteten Person Gelegenheit zur Stellungnahme gegeben werden.
 
-##### § 36 Höhe der Ausgleichszahlung und Leistungszeitraum
+###### § 36 Höhe der Ausgleichszahlung und Leistungszeitraum
 
 (1) Die Länder bestimmen
 
@@ -1029,7 +1038,7 @@ Die Tatsachen für die Ausnahme von der Leistungspflicht nach Satz 1 hat der Mie
 
 festlegen. Sie können auch bestimmen, dass bei der Festsetzung der Ausgleichszahlung bestimmte eigene Leistungen des Mieters und der sich hieraus ergebende Mietvorteil zu seinen Gunsten berücksichtigt werden.
 
-##### § 37 Wegfall und Minderung der Ausgleichszahlung
+###### § 37 Wegfall und Minderung der Ausgleichszahlung
 
 (1) Die Verpflichtung zur Leistung einer Ausgleichszahlung erlischt, sobald die Wohnung nicht mehr der Mietbindung unterliegt oder von keinem der Mieter mehr genutzt wird.
 
@@ -1047,13 +1056,13 @@ Die Herabsetzung nach Satz 1 soll rückwirkend erfolgen, wenn das die Herabsetzu
 
 ## Teil 3 Bundesmittel
 
-##### (XXXX) §§ 38 bis 43 (weggefallen)
+###### (XXXX) §§ 38 bis 43 (weggefallen)
 
 -
 
 ## Teil 4 Ergänzungsvorschriften
 
-##### § 44 Sonderregelungen für einzelne Länder
+###### § 44 Sonderregelungen für einzelne Länder
 
 In dem in Artikel 3 des Einigungsvertrags genannten Gebiet gelten:
 
@@ -1061,7 +1070,7 @@ In dem in Artikel 3 des Einigungsvertrags genannten Gebiet gelten:
 
 2. Bei der Förderung der Modernisierung und, soweit sie nach Nummer 1 Fördergegenstand ist, der Instandsetzung von Mietwohnungen kann von der Begründung von Belegungsbindungen abgesehen werden, soweit in dem Gebiet auf Grund von nach § 12 Abs. 2 Satz 1 und 2 und § 13 des Altschuldenhilfe-Gesetzes erlassenen landesrechtlichen Vorschriften genügend Wohnungen belegungsgebunden sind.
 
-##### § 45 Förderung mit Wohnungsfürsorgemitteln
+###### § 45 Förderung mit Wohnungsfürsorgemitteln
 
 (1) Bei der Vergabe von Fördermitteln für Wohnungen, die für Angehörige des öffentlichen Dienstes oder ähnlicher Personengruppen aus öffentlichen Haushalten und Zweckvermögen unter Vereinbarung eines Wohnungsbesetzungsrechts unmittelbar oder mittelbar zur Verfügung gestellt werden (Wohnungsfürsorgemittel), findet § 28 entsprechende Anwendung.
 
@@ -1073,7 +1082,7 @@ In dem in Artikel 3 des Einigungsvertrags genannten Gebiet gelten:
 
 ## Teil 5 Überleitungs- und Schlussvorschriften
 
-##### § 46 Zeitlicher Anwendungsbereich
+###### § 46 Zeitlicher Anwendungsbereich
 
 (1) Die §§ 1 bis 45 dieses Gesetzes finden auf Maßnahmen der sozialen Wohnraumförderung Anwendung, für die die Förderzusage nach dem 31. Dezember 2001 erteilt wird.
 
@@ -1081,7 +1090,7 @@ In dem in Artikel 3 des Einigungsvertrags genannten Gebiet gelten:
 
 (3) Bis zum Erlass der Rechtsverordnung nach § 19 Abs. 1 Satz 2 sind die §§ 42 bis 44 der Zweiten Berechnungsverordnung in der Fassung der Bekanntmachung vom 12. Oktober 1990 (BGBl. I S. 2178), die zuletzt durch Artikel 8 Abs. 2 des Gesetzes vom 19. Juni 2001 (BGBl. I S. 1149) geändert worden ist, anzuwenden. Bis zum Erlass der Rechtsverordnung nach § 19 Abs. 2 Satz 2 ist hinsichtlich der Betriebskosten § 27 der Zweiten Berechnungsverordnung mit ihrer Anlage 3 anzuwenden.
 
-##### § 47 Darlehen des Bundes und Förderung auf Grund früheren Rechts
+###### § 47 Darlehen des Bundes und Förderung auf Grund früheren Rechts
 
 (1) weggefallen
 
@@ -1099,7 +1108,7 @@ In dem in Artikel 3 des Einigungsvertrags genannten Gebiet gelten:
 
 2. auf die Erteilung von Auskünften über die Einkommensverhältnisse ist § 32 Abs. 2 und 3 Satz 1 und Abs. 4 anzuwenden.
 
-##### § 48 Anwendung des Zweiten Wohnungsbaugesetzes
+###### § 48 Anwendung des Zweiten Wohnungsbaugesetzes
 
 (1) Folgende Vorschriften des Zweiten Wohnungsbaugesetzes in der bis zum 31. Dezember 2001 geltenden Fassung sind weiter anzuwenden:
 
@@ -1121,7 +1130,7 @@ e) nach § 88e des Zweiten Wohnungsbaugesetzes bewilligte einkommensorientierte 
 
 (2) Auf der Grundlage des Zweiten Wohnungsbaugesetzes wirksame Entscheidungen und sonstige Maßnahmen gelten weiter.
 
-##### § 49 Anwendung des Wohnungsbaugesetzes für das Saarland
+###### § 49 Anwendung des Wohnungsbaugesetzes für das Saarland
 
 (1) Folgende Vorschriften des Wohnungsbaugesetzes für das Saarland in der bis zum 31. Dezember 2001 geltenden Fassung sind weiter anzuwenden:
 
@@ -1141,7 +1150,7 @@ c) nach § 51a des Wohnungsbaugesetzes für das Saarland bewilligte Aufwendungsd
 
 (2) Auf der Grundlage des Wohnungsbaugesetzes für das Saarland wirksame Entscheidungen, die auf seiner Grundlage erlassenen Bestimmungen und sonstige Maßnahmen gelten weiter.
 
-##### § 50 Anwendung des Wohnungsbindungsgesetzes, der Neubaumietenverordnung und der Zweiten Berechnungsverordnung
+###### § 50 Anwendung des Wohnungsbindungsgesetzes, der Neubaumietenverordnung und der Zweiten Berechnungsverordnung
 
 (1) Das Wohnungsbindungsgesetz in der Fassung der Bekanntmachung vom 19. August 1994 (BGBl. I S. 2166, 2319), geändert durch Artikel 7 Abs. 11 des Gesetzes vom 19. Juni 2001 (BGBl. I S. 1149), die Neubaumietenverordnung in der Fassung der Bekanntmachung vom 12. Oktober 1990 (BGBl. I S. 2203), geändert durch Artikel 2 der Verordnung vom 13. Juli 1992 (BGBl. I S. 1250), und die Zweite Berechnungsverordnung in der Fassung der Bekanntmachung vom 12. Oktober 1990 (BGBl. I S. 2178), zuletzt geändert durch Artikel 8 Abs. 2 des Gesetzes vom 19. Juni 2001 (BGBl. I S. 1149), sind ab 1. Januar 2002 in der jeweils geltenden Fassung auf Wohnraum,
 
@@ -1159,13 +1168,13 @@ vorbehaltlich des Absatzes 2 anzuwenden, soweit das Wohnungsbindungsgesetz, die 
 
 (2) Verfahren nach dem Wohnungsbindungsgesetz, der Neubaumietenverordnung und der Zweiten Berechnungsverordnung, die vor dem 1. Januar 2002 und im Fall des § 46 Abs. 2 vor dem 1. Januar 2003 förmlich eingeleitet worden sind, werden nach den bis zum 31. Dezember 2001 geltenden Vorschriften abgeschlossen. Auf der Grundlage der jeweils bis zum 31. Dezember 2001 geltenden Fassung des Wohnungsbindungsgesetzes, der Neubaumietenverordnung und der Zweiten Berechnungsverordnung wirksame Entscheidungen und sonstige Maßnahmen gelten weiter. Verfahren, die nach dem 1. Januar 2002 nach § 46 Abs. 2 förmlich eingeleitet worden sind, können nach dem Wohnungsbindungsgesetz, der Neubaumietenverordnung und der Zweiten Berechnungsverordnung in der jeweils ab dem 1. Januar 2002 geltenden Fassung durchgeführt werden.
 
-##### § 51 Anwendung des Gesetzes über den Abbau der Fehlsubventionierung im Wohnungswesen
+###### § 51 Anwendung des Gesetzes über den Abbau der Fehlsubventionierung im Wohnungswesen
 
 (1) Das Gesetz über den Abbau der Fehlsubventionierung im Wohnungswesen in der Fassung der Bekanntmachung vom 19. August 1994 (BGBl. I S. 2180), zuletzt geändert durch Artikel 7 Abs. 13 des Gesetzes vom 19. Juni 2001 (BGBl. I S. 1149), ist ab 1. Januar 2002 in der jeweils geltenden Fassung für den in § 50 Abs. 1 Satz 1 Nr. 1 bis 3 und Satz 2 und den in § 2 Abs. 2 Nr. 2 des Wohnraumförderung-Überleitungsgesetzes vom 5. September 2006 (BGBl. I S. 2098, 2100) bezeichneten Wohnraum anzuwenden, bis das Land für die Erhebung von Ausgleichszahlungen nach Maßgabe des § 15 des Gesetzes über den Abbau der Fehlsubventionierung im Wohnungswesen Vorschriften erlassen hat.
 
 (2) § 50 Abs. 2 gilt für Verfahren sowie für wirksame Entscheidungen und sonstige Maßnahmen nach dem Gesetz über den Abbau der Fehlsubventionierung im Wohnungswesen entsprechend.
 
-##### § 52 Bußgeldvorschriften
+###### § 52 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1182,4 +1191,3 @@ vorbehaltlich des Absatzes 2 anzuwenden, soweit das Wohnungsbindungsgesetz, die 
 6. entgegen § 32 Abs. 3 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 6 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in den Fällen des Absatzes 1 Nr. 1 und 2 mit einer Geldbuße bis zu zehntausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
-
