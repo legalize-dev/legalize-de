@@ -4,26 +4,30 @@ identifier: "LUFTVSTG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2010-12-09"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/luftvstg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR188510010"
 slug: "luftvstg"
 bgbl_reference: "BGBl I 2010, 1885; 2013, 81"
-stand: "Zuletzt geändert durch Art. 1 G v. 27.3.2024 I Nr. 107"
+stand: "Zuletzt geändert durch Art. 1 G v. 18.6.2026 I Nr. 182"
 ---
 # Luftverkehrsteuergesetz
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
 
-##### § 1 Steuergegenstand
+###### Inhaltsübersicht
+
+###### § 1 Steuergegenstand
 
 (1) Der Luftverkehrsteuer unterliegt ein Rechtsvorgang, der zum Abflug eines Fluggastes von einem inländischen Startort mit einem Flugzeug oder Drehflügler durch ein Luftverkehrsunternehmen zu einem Zielort berechtigt.
 
 (2) Als Rechtsvorgang im Sinne des Absatzes 1 gilt auch die Zuweisung eines Sitzplatzes in einem Flugzeug oder Drehflügler an einen Fluggast, wenn kein anderer Rechtsvorgang im Sinne dieses Gesetzes vorausgegangen ist.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -53,17 +57,17 @@ c) mit der Sicherheit der Fluggäste oder
 
 d) mit der Versorgung der Fluggäste
 
-##### § 3 Sachlich und örtlich zuständige Behörde
+###### § 3 Sachlich und örtlich zuständige Behörde
 
 (1) Sachlich zuständige Behörde für die Durchführung dieses Gesetzes ist das Hauptzollamt.
 
 (2) Örtlich zuständige Behörde ist das Hauptzollamt, von dessen Bezirk aus der Unternehmer sein Luftverkehrsunternehmen betreibt. Für Luftverkehrsunternehmen, die ihren Sitz in einem anderen Mitgliedstaat der Europäischen Union haben und keinen steuerlichen Beauftragten benannt haben, ist das Hauptzollamt örtlich zuständig, in dessen Bezirk der erste Abflug erfolgt. Wurde ein steuerlicher Beauftragter benannt, ist das Hauptzollamt örtlich zuständig, in dessen Bezirk der steuerliche Beauftragte seinen Sitz hat. Für die Erteilung einer Erlaubnis gemäß § 8 Absatz 2 ist das Hauptzollamt örtlich zuständig, in dessen Bezirk der Antragsteller seinen Sitz hat. Abweichend von Satz 2 verbleibt die örtliche Zuständigkeit für Luftverkehrsunternehmen, die ihren Sitz in einem anderen Mitgliedstaat der Europäischen Union haben und die Benennung eines steuerlichen Beauftragten aufheben, bei dem bisher örtlich zuständigen Hauptzollamt. Für Luftverkehrsunternehmen, die ihren Sitz nicht im Inland oder in einem anderen Mitgliedstaat der Europäischen Union haben und keinen steuerlichen Beauftragten benannt haben, ist bis zur Benennung des steuerlichen Beauftragten das Hauptzollamt örtlich zuständig, in dessen Bezirk der erste Abflug erfolgt.
 
-##### § 4 Entstehung der Steuer
+###### § 4 Entstehung der Steuer
 
 Die Steuer nach § 1 entsteht mit dem Abflug des Fluggastes von einem inländischen Startort.
 
-##### § 5 Steuerbefreiungen
+###### § 5 Steuerbefreiungen
 
 Von der Besteuerung ausgenommen sind die folgenden Rechtsvorgänge, die zu einem Abflug von einem inländischen Startort berechtigen:
 
@@ -89,13 +93,13 @@ c) die hoheitliche Aufgaben auf einer inländischen Insel wahrnehmen
 
 8. Abflüge von Flugbesatzungen.
 
-##### § 6 Steuer- und Haftungsschuldner
+###### § 6 Steuer- und Haftungsschuldner
 
 (1) Steuerschuldner ist das Luftverkehrsunternehmen, das den Abflug nach § 1 durchführt. Daneben ist der steuerliche Beauftragte (§ 8) Steuerschuldner. Das Luftverkehrsunternehmen und der steuerliche Beauftragte sind Gesamtschuldner.
 
 (2) Benennt ein Unternehmen, das keinen Sitz im Inland oder in einem anderen Mitgliedstaat der Europäischen Union hat, keinen steuerlichen Beauftragten, so haften der Eigentümer und der Halter des Flugzeugs oder Drehflüglers für die Steuerschuld. Abweichend von § 219 der Abgabenordnung dürfen die Haftungsschuldner auch dann auf Zahlung in Anspruch genommen werden, wenn nicht zuvor in das bewegliche Vermögen des Steuerschuldners vollstreckt worden ist oder wenn nicht anzunehmen ist, dass die Vollstreckung aussichtslos sein würde.
 
-##### § 7 Registrierung
+###### § 7 Registrierung
 
 (1) Luftverkehrsunternehmen, die Abflüge im Sinne des § 1 vornehmen wollen, haben sich spätestens drei Wochen vor Durchführung des ersten Abflugs von einem inländischen Startort schriftlich gemäß Absatz 2 Satz 1 bis 3 beim zuständigen Hauptzollamt registrieren zu lassen. Abweichend von Satz 1 hat das Luftverkehrsunternehmen dem zuständigen Hauptzollamt unverzüglich schriftlich die Angaben nach Absatz 2 Satz 1 Nummer 1 bis 3 sowie das Abflugdatum und den inländischen Startort, von dem der Abflug durchgeführt werden soll, zu übermitteln, wenn
 
@@ -135,7 +139,7 @@ Luftverkehrsunternehmen, die keinen Sitz im Inland oder in einem anderen Mitglie
 
 (5) Das Hauptzollamt erteilt Luftverkehrsunternehmen einen schriftlichen Nachweis über die erfolgte Registrierung.
 
-##### § 8 Steuerliche Beauftragte
+###### § 8 Steuerliche Beauftragte
 
 (1) Steuerliche Beauftragte vertreten das Luftverkehrsunternehmen bei der Erfüllung seiner steuerlichen Rechte und Pflichten nach diesem Gesetz. Der steuerliche Beauftragte hat die Pflichten des Luftverkehrsunternehmens nach diesem Gesetz als eigene zu erfüllen. Er hat die gleichen Rechte und Pflichten wie der Vertretene.
 
@@ -159,23 +163,23 @@ Dem Antrag auf Erlaubnis ist bei nicht eingetragenen Unternehmen eine Kopie der 
 
 (5) Die Erlaubnis des Beauftragten ist zu widerrufen, wenn eine der in Absatz 2 Satz 2 genannten Voraussetzungen nicht mehr erfüllt ist.
 
-##### § 9 Sicherheit
+###### § 9 Sicherheit
 
 Das Hauptzollamt kann von den Steuerschuldnern eine Sicherheit bis zur Höhe der Steuer verlangen, die voraussichtlich für zwei Kalendermonate entsteht, wenn Anzeichen für eine Gefährdung der Steuer erkennbar sind.
 
-##### § 10 Bemessungsgrundlage
+###### § 10 Bemessungsgrundlage
 
 Die Steuer bemisst sich nach der Lage des jeweils gewählten Zielorts und der Anzahl der beförderten Fluggäste.
 
-##### § 11 Steuersatz
+###### § 11 Steuersatz
 
-(1) Die Steuer beträgt je Fluggast für Flüge mit einem Zielort
+(1) Die Steuer beträgt je Fluggast für Flüge mit einem Zielort 
 
 1.in einem Land der Anlage 1
 zu diesem Gesetz
-15,53 Euro2.in einem Land der Anlage 2
+13,03 Euro2.in einem Land der Anlage 2
 zu diesem Gesetz
-39,34 Euro3.in anderen Ländern70,83 Euro.
+33,01 Euro3.in anderen Ländern59,43 Euro.
 
 (2) Das Bundesministerium der Finanzen wird ab dem Jahr 2025 ermächtigt und verpflichtet, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Steuersätze nach Absatz 1 jeweils mit Wirkung für das folgende Kalenderjahr prozentual abzusenken, sofern das Luftverkehrsteueraufkommen in dem Vorjahr den Betrag von 2,33 Milliarden Euro übersteigt. Die prozentuale Absenkung errechnet sich aus dem Verhältnis des 2,33 Milliarden Euro übersteigenden Aufkommensbetrags zum 31. Dezember des jeweiligen Vorjahres zu 2,33 Milliarden Euro. Der abgesenkte Steuersatz wird auf volle Cent gerundet.
 
@@ -185,7 +189,7 @@ zu diesem Gesetz
 
 2. sich auf einer anderen inländischen, dänischen oder niederländischen Nordseeinsel befindet.
 
-##### § 12 Steueranmeldung, Fälligkeit
+###### § 12 Steueranmeldung, Fälligkeit
 
 (1) Der Steuerschuldner hat bis zum 10. Tag nach Ablauf des Kalendermonats, in dem die Steuer entstanden ist oder eine Steuerbefreiung nach § 5 in Anspruch genommen wurde, eine Steuererklärung nach amtlich vorgeschriebenem Vordruck abzugeben, in der die Steuer für den Kalendermonat selbst berechnet wird (Steueranmeldung). Die Steuer wird am 20. Tag nach Ablauf des Kalendermonats der Entstehung fällig.
 
@@ -193,7 +197,7 @@ zu diesem Gesetz
 
 (3) Wird nach § 7 Absatz 1 kein Antrag auf Registrierung gestellt, hat der Steuerschuldner unverzüglich für jeden Abflug eine Steueranmeldung abzugeben. Die Steuer ist sofort fällig.
 
-##### § 13 Aufzeichnungspflichten
+###### § 13 Aufzeichnungspflichten
 
 (1) Das Luftverkehrsunternehmen ist verpflichtet, zur Feststellung der Steuer, der Grundlagen ihrer Berechnung und zur Prüfung der Voraussetzungen der Steuerbefreiungen gemäß § 5 Aufzeichnungen gemäß Satz 2 und Absatz 2 Satz 1 zu führen. Die Aufzeichnungen müssen so beschaffen sein, dass es einem sachverständigen Dritten innerhalb einer angemessenen Frist möglich ist, die Grundlagen für die Besteuerung festzustellen. Soweit ein steuerlicher Beauftragter gemäß § 7 Absatz 2 Satz 3 und 4 benannt ist, hat das Luftverkehrsunternehmen diesem die Aufzeichnungen nach Satz 1 monatlich für den vorangegangenen Kalendermonat zu übermitteln. Der steuerliche Beauftragte hat die Aufzeichnungen zu Prüfungszwecken bereit zu halten.
 
@@ -207,17 +211,17 @@ zu diesem Gesetz
 
 Das Hauptzollamt kann weitere Aufzeichnungen verlangen oder besondere Anordnungen zu den Aufzeichnungen treffen, wenn dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich scheint.
 
-##### § 14 Steueraufsicht
+###### § 14 Steueraufsicht
 
 Die für die Luftverkehrsteuer bedeutsamen Sachverhalte unterliegen der Steueraufsicht nach § 209 Absatz 3 der Abgabenordnung. Das Betretungsrecht erstreckt sich auch auf das Flugzeug oder den Drehflügler des der Steueraufsicht unterliegenden Luftverkehrsunternehmens sowie der Grundstücke und Räume, auf oder in denen sich das Flugzeug oder der Drehflügler befindet.
 
-##### § 15 Geschäftsstatistik
+###### § 15 Geschäftsstatistik
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen können die Hauptzollämter für statistische Zwecke Erhebungen über die nach diesem Gesetz steuerrelevanten Verkehrsdaten anstellen und die Ergebnisse dem Statistischen Bundesamt zur Auswertung mitteilen.
 
 (2) Die Bundesfinanzbehörden können dem Statistischen Bundesamt auch bereits aufbereitete Daten zur Darstellung und Veröffentlichung für allgemeine Zwecke übermitteln.
 
-##### § 16 Bußgeldvorschriften
+###### § 16 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -233,7 +237,7 @@ Die für die Luftverkehrsteuer bedeutsamen Sachverhalte unterliegen der Steuerau
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-##### § 17 Datenaustausch und Auskunftspflichten
+###### § 17 Datenaustausch und Auskunftspflichten
 
 (1) Die Flugplatzbetreiber melden alle Abflüge mit Nennung des Abflugdatums und der Abflugzeit, des Zielorts, der Flugnummer und der Kennung des Flugzeugs oder Drehflüglers und des Luftverkehrsunternehmens, das den Abflug des Fluggastes von einem inländischen Startort durchführt auf Anforderung dem zuständigen Hauptzollamt. Das Hauptzollamt kann darüber hinaus weitere Angaben über steuerlich relevante Tatsachen verlangen.
 
@@ -241,7 +245,7 @@ Die für die Luftverkehrsteuer bedeutsamen Sachverhalte unterliegen der Steuerau
 
 (3) Das zuständige Hauptzollamt kann dem Luftfahrt-Bundesamt anlassbezogen oder auf Anforderung Auskünfte aus dem steuerlichen Verfahren erteilen, die erforderlich sind, um die nach dem Luftverkehrsrecht geforderte Zuverlässigkeit eines Luftverkehrsunternehmens oder die Einhaltung der Vorschriften dieses Gesetzes durch Luftverkehrsunternehmen mit Hauptsitz außerhalb des Geltungsbereichs des Luftrechts der Europäischen Union zu beurteilen.
 
-##### § 18 Ermächtigungen
+###### § 18 Ermächtigungen
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Durchführung dieses Gesetzes durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Verfahrensvereinfachung sowie zur Sicherung der Gleichmäßigkeit der Besteuerung und des Steueraufkommens Bestimmungen zu den §§ 1, 3, 4, 6 bis 15 und 17 Absatz 1 zu erlassen und dabei
 
@@ -295,7 +299,7 @@ f) die Haftung des Datenübermittlers für verkürzte Steuern oder für zu Unrec
 
 g) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen Erklärungspflichten des Steuerpflichtigen oder Antragstellers.
 
-##### § 19 Anwendungsvorschriften und Übergangsvorschriften
+###### § 19 Anwendungsvorschriften und Übergangsvorschriften
 
 (1) Dieses Gesetz ist erstmals auf Rechtsvorgänge ab dem 1. September 2010 anzuwenden, bei denen der Fluggast dem Luftverkehrsunternehmen erst am oder nach dem 1. September 2010 benannt wird und die zu Abflügen ab dem 1. Januar 2011 berechtigen.
 
@@ -307,7 +311,7 @@ g) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen E
 
 (5) § 11 Absatz 3 gilt vorbehaltlich des Satzes 2 bis zur Höhe von 7,50 Euro je Abflug des Fluggastes. Stellt die Europäische Kommission durch Beschluss fest, dass die Anwendung des ermäßigten Steuersatzes in Höhe von 20 Prozent des Steuersatzes nach § 11 Absatz 1 Nummer 1 keine staatliche Beihilfe im Sinne des Artikels 107 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union oder mit dem Binnenmarkt vereinbare Beihilfe darstellt, ist Satz 1 nicht weiter anzuwenden. Der Beschluss der Kommission ist durch das Bundesministerium der Finanzen im Bundesgesetzblatt bekannt zu geben.
 
-##### Anlage 1 (zu § 11)
+###### Anlage 1 (zu § 11)
 
 (Fundstelle: BGBl. I 2010, 1891)
 
@@ -365,7 +369,7 @@ MarokkoWeißrussland
 
 Moldau, Republik
 
-##### Anlage 2 (zu § 11)
+###### Anlage 2 (zu § 11)
 
 (Fundstelle: BGBl. I 2010, 1892)
 
@@ -422,4 +426,3 @@ KamerunUsbekistan
 Kap VerdeVereinigte Arabische Emirate
 
 KasachstanZentralafrikanische Republik
-
