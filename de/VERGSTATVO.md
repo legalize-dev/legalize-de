@@ -4,18 +4,22 @@ identifier: "VERGSTATVO"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2016-04-12"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/vergstatvo/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR069100016"
 slug: "vergstatvo"
 bgbl_reference: "BGBl I 2016, 624, 691"
-hinweis: "Geändert durch Art. 5 G v. 25.3.2020 I 674"
+hinweis: "Zuletzt geändert durch Art. 12 G v. 12.5.2026 I Nr. 137"
 ---
 # Verordnung zur Statistik über die Vergabe öffentlicher Aufträge und Konzessionen
 
-##### § 1 Anwendungsbereich und Grundsätze der Datenübermittlung
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Anwendungsbereich und Grundsätze der Datenübermittlung
 
 (1) Diese Verordnung regelt die Pflichten der Auftraggeber im Sinne von § 98 des Gesetzes gegen Wettbewerbsbeschränkungen zur Übermittlung der in § 3 aufgeführten Daten an das vom Bundesministerium für Wirtschaft und Energie zum Empfang und zur Verarbeitung der Daten beauftragte Statistische Bundesamt. Zur Erfüllung ihrer Pflichten nach Satz 1 bedienen sich die Auftraggeber Berichtsstellen. Berichtsstellen sind diejenigen Stellen, die Informationen über vergebene Aufträge und Konzessionen als Auftrag- oder Konzessionsgeber selbst oder für einen anderen Auftrag- oder Konzessionsgeber melden.
 
@@ -25,13 +29,13 @@ hinweis: "Geändert durch Art. 5 G v. 25.3.2020 I 674"
 
 (4) Das Statistische Bundesamt speichert die erhaltenen Daten, bereitet sie statistisch auf und erstellt im Auftrag des Bundesministeriums für Wirtschaft und Energie eine Vergabestatistik.
 
-##### § 2 Art und Umfang der Datenübermittlung
+###### § 2 Art und Umfang der Datenübermittlung
 
 (1) Auftraggeber im Sinne von § 98 des Gesetzes gegen Wettbewerbsbeschränkungen übermitteln nach der Vergabe eines öffentlichen Auftrags nach § 103 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen oder einer Konzession nach § 105 des Gesetzes gegen Wettbewerbsbeschränkungen bei Erreichen oder Überschreiten der in § 106 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Schwellenwerte die in § 3 Absatz 1 genannten Daten.
 
 (2) Öffentliche Auftraggeber im Sinne des § 99 des Gesetzes gegen Wettbewerbsbeschränkungen übermitteln nach der Vergabe eines öffentlichen Auftrags die in § 3 Absatz 2 und 3 aufgeführten Daten, wenn
 
-1. der Auftragswert ohne Umsatzsteuer 25 000 Euro überschreitet,
+1. der Auftragswert ohne Umsatzsteuer 50 000 Euro überschreitet,
 
 2. der Auftragswert den geltenden Schwellenwert gemäß § 106 des Gesetzes gegen Wettbewerbsbeschränkungen unterschreitet,
 
@@ -41,7 +45,7 @@ hinweis: "Geändert durch Art. 5 G v. 25.3.2020 I 674"
 
 (3) Die vorstehenden Pflichten gelten nicht bei der Vergabe öffentlicher Aufträge und Konzessionen durch Auslandsdienststellen von Auftraggebern.
 
-##### § 3 Zu übermittelnde Daten
+###### § 3 Zu übermittelnde Daten
 
 (1) In den Fällen des § 2 Absatz 1 umfasst die Pflicht zur Übermittlung die folgenden Daten:
 
@@ -63,7 +67,7 @@ hinweis: "Geändert durch Art. 5 G v. 25.3.2020 I 674"
 
 (3) Sofern Auftraggeber freiwillig Daten gemäß den Anlagen 1 bis 8 zu den Absätzen 1 und 2 zur statistischen Auswertung übermitteln, sind § 1 Absatz 2 und 3 und § 4 auch für diese Daten anzuwenden.
 
-##### § 4 Statistische Aufbereitung und Übermittlung der Daten; Veröffentlichung statistischer Auswertungen; Datenbank
+###### § 4 Statistische Aufbereitung und Übermittlung der Daten; Veröffentlichung statistischer Auswertungen; Datenbank
 
 (1) Das Statistische Bundesamt ist mit Einwilligung des Bundesministeriums für Wirtschaft und Energie berechtigt, aus den aufbereiteten Daten statistische Auswertungen zu veröffentlichen.
 
@@ -79,7 +83,7 @@ hinweis: "Geändert durch Art. 5 G v. 25.3.2020 I 674"
 
 (7) Das Statistische Bundesamt ist berechtigt, die Angaben zu den Merkmalen gemäß Abschnitt 2 der Anlagen 1 bis 8, mit Ausnahme der Angaben zu Auftraggebereigenschaft und Korrekturmeldung, in einer Datenbank zu speichern, um die technische Umsetzung der Datenübermittlung zu gewährleisten. Die freiwilligen Angaben zu den für Rückfragen zur Verfügung stehenden Personen sind auf Verlangen unverzüglich zu löschen.
 
-##### § 5 Datenübermittlung für die wissenschaftliche Forschung
+###### § 5 Datenübermittlung für die wissenschaftliche Forschung
 
 (1) Das Bundesministerium für Wirtschaft und Energie stellt Hochschulen und anderen Einrichtungen, die wissenschaftliche Forschung betreiben, auf Antrag statistische Auswertungen oder Daten in anonymisierter Form zur Verfügung, soweit
 
@@ -89,7 +93,7 @@ hinweis: "Geändert durch Art. 5 G v. 25.3.2020 I 674"
 
 (2) Das durch das Bundesministerium für Wirtschaft und Energie beauftragte Statistische Bundesamt ist berechtigt, die statistischen Auswertungen durchzuführen und die statistischen Auswertungen und Daten nach Absatz 1 zu übermitteln.
 
-##### § 6 Anwendungsbestimmung
+###### § 6 Anwendungsbestimmung
 
 (1) Das Bundesministerium für Wirtschaft und Energie hat
 
@@ -99,7 +103,7 @@ hinweis: "Geändert durch Art. 5 G v. 25.3.2020 I 674"
 
 (2) Die §§ 1 bis 5 sind ab dem ersten Tag des vierten Monats, der auf den Monat der Bekanntmachung nach Absatz 1 Satz 1 Nummer 2 folgt, anzuwenden; dieser Tag ist vom Bundesministerium für Wirtschaft und Energie unverzüglich im Bundesanzeiger bekanntzumachen.
 
-##### § 7 Übergangsregelung
+###### § 7 Übergangsregelung
 
 (1) Solange die §§ 1 bis 5 nicht nach § 6 anzuwenden sind, übermitteln die Auftraggeber dem Bundesministerium für Wirtschaft und Energie für vergebene Aufträge, die der Vergabeverordnung unterliegen, eine jährliche statistische Aufstellung der jeweils im Vorjahr vergebenen Aufträge, und zwar getrennt nach öffentlichen Liefer-, Dienstleistungs- und Bauaufträgen. Für jeden Auftraggeber enthält die statistische Aufstellung mindestens die Zahl und den Wert der vergebenen Aufträge. Die Daten werden, soweit möglich, wie folgt aufgeschlüsselt:
 
@@ -125,7 +129,7 @@ hinweis: "Geändert durch Art. 5 G v. 25.3.2020 I 674"
 
 (6) Das Bundesministerium für Wirtschaft und Energie setzt jeweils durch Allgemeinverfügung fest, in welcher Form die statistischen Angaben zu übermitteln sind. Die Allgemeinverfügung wird im Bundesanzeiger bekannt gemacht.
 
-##### Anlage 1 (zu § 3 Absatz 1 Nummer 1)Öffentlicher Auftrag durch einen öffentlichen Auftraggeber
+###### Anlage 1 (zu § 3 Absatz 1 Nummer 1)Öffentlicher Auftrag durch einen öffentlichen Auftraggeber
 
 (Fundstelle: BGBl. I 2020, 678 - 680)
 
@@ -226,7 +230,7 @@ Auftraggebereigenschaft☐ Öffentlicher Auftrag durch öffentliche Auftraggeber
 
 Angaben zur MeldungKorrekturmeldung☐ ja ☐ nein
 
-##### Anlage 2 (zu § 3 Absatz 1 Nummer 2)Öffentlicher Auftrag über eine soziale oder andere besondere Dienstleistung durch einen öffentlichen Auftraggeber
+###### Anlage 2 (zu § 3 Absatz 1 Nummer 2)Öffentlicher Auftrag über eine soziale oder andere besondere Dienstleistung durch einen öffentlichen Auftraggeber
 
 (Fundstelle: BGBl. I 2020, 682 - 685)
 
@@ -324,7 +328,7 @@ Auftraggebereigenschaft☐ Öffentlicher Auftrag durch öffentliche Auftraggeber
 
 Angaben zur MeldungKorrekturmeldung☐ ja ☐ nein
 
-##### Anlage 3 (zu § 3 Absatz 1 Nummer 3)Öffentlicher Auftrag durch einen Sektorenauftraggeber
+###### Anlage 3 (zu § 3 Absatz 1 Nummer 3)Öffentlicher Auftrag durch einen Sektorenauftraggeber
 
 (Fundstelle: BGBl. I 2020, 686 - 689)
 
@@ -425,7 +429,7 @@ Auftraggebereigenschaft☐ Öffentlicher Auftrag durch öffentliche Auftraggeber
 
 Angaben zur MeldungKorrekturmeldung☐ ja ☐ nein
 
-##### Anlage 4 (zu § 3 Absatz 1 Nummer 4)Öffentlicher Auftrag über eine soziale oder andere besondere Dienstleistung durch einen Sektorenauftraggeber
+###### Anlage 4 (zu § 3 Absatz 1 Nummer 4)Öffentlicher Auftrag über eine soziale oder andere besondere Dienstleistung durch einen Sektorenauftraggeber
 
 (Fundstelle: BGBl. I 2020, 690 - 693)
 
@@ -523,7 +527,7 @@ Auftraggebereigenschaft☐ Öffentlicher Auftrag durch öffentliche Auftraggeber
 
 Angaben zur MeldungKorrekturmeldung☐ ja ☐ nein
 
-##### Anlage 5 (zu § 3 Absatz 1 Nummer 5)Konzession durch einen Konzessionsgeber
+###### Anlage 5 (zu § 3 Absatz 1 Nummer 5)Konzession durch einen Konzessionsgeber
 
 (Fundstelle: BGBl. I 2020, 694 - 697)
 
@@ -615,7 +619,7 @@ Auftraggebereigenschaft☐ Öffentlicher Auftrag durch öffentliche Auftraggeber
 
 Angaben zur MeldungKorrekturmeldung☐ ja ☐ nein
 
-##### Anlage 6 (zu § 3 Absatz 1 Nummer 6)Konzession über eine soziale oder andere besondere Dienstleistung durch einen Konzessionsgeber
+###### Anlage 6 (zu § 3 Absatz 1 Nummer 6)Konzession über eine soziale oder andere besondere Dienstleistung durch einen Konzessionsgeber
 
 (Fundstelle: BGBl. I 2020, 698 - 701)
 
@@ -708,7 +712,7 @@ Auftraggebereigenschaft☐ Öffentlicher Auftrag durch öffentliche Auftraggeber
 
 Angaben zur MeldungKorrekturmeldung☐ ja ☐ nein
 
-##### Anlage 7 (zu § 3 Absatz 1 Nummer 7)Verteidigungs- oder sicherheitsspezifischer öffentlicher Auftrag durch einen öffentlichen Auftraggeber oder einen Sektorenauftraggeber
+###### Anlage 7 (zu § 3 Absatz 1 Nummer 7)Verteidigungs- oder sicherheitsspezifischer öffentlicher Auftrag durch einen öffentlichen Auftraggeber oder einen Sektorenauftraggeber
 
 (Fundstelle: BGBl. I 2020, 702 - 705)
 
@@ -799,7 +803,7 @@ Auftraggebereigenschaft☐ Öffentlicher Auftrag durch öffentliche Auftraggeber
 
 Angaben zur MeldungKorrekturmeldung☐ ja ☐ nein
 
-##### Anlage 8 (zu § 3 Absatz 2)Öffentlicher Auftrag durch einen öffentlichen Auftraggeber unterhalb des EU-Schwellenwertes
+###### Anlage 8 (zu § 3 Absatz 2)Öffentlicher Auftrag durch einen öffentlichen Auftraggeber unterhalb des EU-Schwellenwertes
 
 (Fundstelle: BGBl. I 2020, 706 - 709)
 
@@ -895,7 +899,7 @@ Auftraggebereigenschaft☐ Öffentlicher Auftrag durch öffentliche Auftraggeber
 
 Angaben zur MeldungKorrekturmeldung☐ ja ☐ nein
 
-##### Anlage 9 Erläuterung zu den Nachhaltigkeitskriterien im Sinne der Anlagen 1 bis 8
+###### Anlage 9 Erläuterung zu den Nachhaltigkeitskriterien im Sinne der Anlagen 1 bis 8
 
 (Fundstelle: BGBl. I 2020, 710)
 
@@ -942,4 +946,3 @@ Innovative Kriterien
 – Die in Auftrag gegebenen Bauleistungen, Lieferungen oder Dienstleistungen umfassen Forschungs- und Entwicklungstätigkeiten.
 
 – Die in Auftrag gegebenen Bauleistungen, Lieferungen oder Dienstleistungen dürften die Wirksamkeit der Arbeit des Beschaffers erhöhen.
-
