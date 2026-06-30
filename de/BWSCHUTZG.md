@@ -4,9 +4,10 @@ identifier: "BWSCHUTZG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2026-01-09"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bwschutzg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR0070C0026"
 slug: "bwschutzg"
@@ -14,13 +15,16 @@ bgbl_reference: "BGBl. I 2026, Nr. 7, 28"
 ---
 # Gesetz zur Stärkung des personellen Schutzes in der Bundeswehr
 
-## Abschnitt 1 (zukünftig in Kraft)
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
 
-## Unterabschnitt 1 (zukünftig in Kraft)
+## Abschnitt 1 Stärkung des personellen Schutzes
 
-## Titel 1 (zukünftig in Kraft)
+## Unterabschnitt 1 Personenüberprüfung
 
-##### § 1 Personenkreis
+## Titel 1 Unterstützte Verfassungstreueprüfung
+
+###### § 1 Personenkreis
 
 (1) Für Personen, die aufgrund freiwilliger Verpflichtung erstmalig in ein Wehrdienstverhältnis berufen werden sollen, ist vor dem Beginn des Wehrdienstverhältnisses eine unterstützte Verfassungstreueprüfung durchzuführen.
 
@@ -32,17 +36,17 @@ bgbl_reference: "BGBl. I 2026, Nr. 7, 28"
 
 2. für die Person nach den Absätzen 1 oder 2 (betroffene Person) bereits vor weniger als fünf Jahren vor dem vorgesehenen Dienstantritt eine Sicherheitsüberprüfung abgeschlossen wurde, ohne dass ein Sicherheitsrisiko festgestellt worden ist.
 
-##### § 2 Inhalt der unterstützten Verfassungstreueprüfung
+###### § 2 Inhalt der unterstützten Verfassungstreueprüfung
 
 Im Rahmen der unterstützten Verfassungstreueprüfung werden Informationen zur Bewertung herangezogen, ob die betroffene Person Gewähr dafür bietet, jederzeit für die freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes einzutreten.
 
-##### § 3 Zuständigkeiten
+###### § 3 Zuständigkeiten
 
 (1) Zuständig für Sammlung und Auswertung der Informationen ist der Militärische Abschirmdienst.
 
 (2) Zuständig für die Bewertung nach § 2 ist die für die Ernennung oder Heranziehung zuständige Stelle.
 
-##### § 4 Durchführung
+###### § 4 Durchführung
 
 (1) Die betroffene Person hat
 
@@ -92,13 +96,39 @@ Das nach Absatz 1 Nummer 3 durch die Ablichtung eines amtlichen Identitätsdokum
 
 ## Titel 2 Intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen
 
-##### (XXXX) §§ 5 und 6 (zukünftig in Kraft)
+###### § 5 Personenkreis; Verordnungsermächtigung
+
+(1) Für eine Soldatin oder einen Soldaten, die oder der in einer Verwendung mit besonders hohen Sicherheitsanforderungen eingesetzt werden soll (zu überprüfende Person), ist vor dieser Verwendung eine intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen durchzuführen.
+
+(2) Das Bundesministerium der Verteidigung legt im Einvernehmen mit dem Bundesministerium des Innern die Verwendungen mit besonders hohen Sicherheitsanforderungen durch Rechtsverordnung fest, die nicht der Zustimmung des Bundesrates bedarf.
+
+(3) § 1 Absatz 3 Nummer 1 gilt entsprechend.
+
+###### § 6 Durchführung nach dem Sicherheitsüberprüfungsgesetz
+
+Für die intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen finden die Vorschriften der erweiterten Sicherheitsüberprüfung mit Sicherheitsermittlungen nach dem Sicherheitsüberprüfungsgesetz mit der Maßgabe Anwendung, dass
+
+1. abweichend von § 12 Absatz 5 Satz 1 des Sicherheitsüberprüfungsgesetzes die mitwirkende Behörde die zu überprüfende Person auch dann selbst befragt, wenn eine sicherheitserhebliche Erkenntnis für das Erfordernis einer solchen Befragung nicht vorliegt,
+
+2. abweichend von § 17 Absatz 1 Satz 1 des Sicherheitsüberprüfungsgesetzes der zu überprüfenden Person bereits nach 30 Monaten ihre Sicherheitserklärung zur Aktualisierung zugeleitet wird,
+
+3. abweichend von § 17 Absatz 1 Satz 3 des Sicherheitsüberprüfungsgesetzes anlässlich der Aktualisierung der Sicherheitserklärung zusätzlich bei der zu überprüfenden Person und mitbetroffenen Person im Sinne des § 2 Absatz 2 des Sicherheitsüberprüfungsgesetzes die Maßnahmen nach § 12 Absatz 1 Nummer 1 bis 3, 5 und 6 sowie Absatz 2 des Sicherheitsüberprüfungsgesetzes durchgeführt werden,
+
+4. abweichend von § 17 Absatz 2 Satz 1 des Sicherheitsüberprüfungsgesetzes Widerholungsprüfungen bereits nach fünf Jahren eingeleitet werden und
+
+5. die Aktualisierung der Sicherheitserklärung mit den Maßnahmen der Wiederholungsüberprüfung nach Nummer 3 nicht eingeleitet wird, solange
+
+a) die Wiederholungsüberprüfung noch nicht abgeschlossen ist oder
+
+b) nach dem Abschluss der letzten Wiederholungsüberprüfung noch nicht 30 Monate vergangen sind.
 
 ## Unterabschnitt 2 Reisebeschränkungen
 
-##### § 7 (zukünftig in Kraft)
+###### § 7 Personenkreis
 
-##### § 8 Reiseanzeigen, Zustimmungsvorbehalt, Reiseverbot
+Die Regelungen dieses Unterabschnitts gelten für alle Beschäftigten des Geschäftsbereichs des Bundesministeriums der Verteidigung.
+
+###### § 8 Reiseanzeigen, Zustimmungsvorbehalt, Reiseverbot
 
 (1) Beschäftigte des Bundesministeriums der Verteidigung können verpflichtet werden, Privatreisen in und durch Regionen oder Staaten, für die eine Gefährdungslage besteht, rechtzeitig vorher anzuzeigen.
 
@@ -106,11 +136,11 @@ Das nach Absatz 1 Nummer 3 durch die Ablichtung eines amtlichen Identitätsdokum
 
 (3) Privatreisen in und durch Regionen oder Staaten, für die eine besonders erhebliche Gefährdungslage besteht, können verboten werden.
 
-##### § 9 Anzeige eines Vorkommnisses
+###### § 9 Anzeige eines Vorkommnisses
 
 Ergeben sich für Personen nach § 7 im Zusammenhang mit einer Reise in oder durch Regionen oder Staaten, für die mindestens eine Gefährdungslage nach § 8 Absatz 1 besteht, Anhaltspunkte, die auf einen Anbahnungs- oder Werbungsversuch ausländischer Nachrichtendienste hindeuten können, so hat die Person dies unverzüglich, spätestens nach ihrer Rückkehr, anzuzeigen.
 
-##### § 10 Verordnungsermächtigung
+###### § 10 Verordnungsermächtigung
 
 Das Bundesministerium der Verteidigung wird ermächtigt, im Einvernehmen mit dem Bundeskanzleramt durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere zu Reisebeschränkungen nach § 8 zu bestimmen. In der Rechtsverordnung nach Satz 1 ist insbesondere festzulegen
 
@@ -130,7 +160,6 @@ Das Bundesministerium der Verteidigung wird ermächtigt, im Einvernehmen mit dem
 
 ## Abschnitt 2 Schlussbestimmungen
 
-##### § 11 Übergangsvorschriften
+###### § 11 Übergangsvorschriften
 
 Vor dem 1. Juli 2026 nach § 37 Absatz 3 des Soldatengesetzes in der bis zum 30. Juni 2026 geltenden Fassung eingeleitete einfache Sicherheitsüberprüfungen nach dem Sicherheitsüberprüfungsgesetz sind noch nach dem bis zum 30. Juni 2026 geltenden Recht abzuschließen. § 1 Absatz 1 ist in diesen Fällen nicht anzuwenden.
-
