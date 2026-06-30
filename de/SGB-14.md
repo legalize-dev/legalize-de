@@ -4,19 +4,23 @@ identifier: "SGB-14"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2019-12-12"
-last_updated: "2026-04-04"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/sgb_14/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR265210019"
 slug: "sgb_14"
 bgbl_reference: "BGBl I 2019, 2652"
 amtabk: "SGB XIV"
-stand: "Zuletzt geändert durch Art. 1 V v. 13.6.2025 I Nr. 144"
+stand: "Zuletzt geändert durch Art. 1 V v. 17.6.2026 I Nr. 179"
 ---
 # Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung -
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 Kapitel 1Allgemeine Vorschriften§   1Aufgabe und Anwendungsbereich der Sozialen Entschädigung§   2Berechtigte der Sozialen Entschädigung§   3Leistungen der Sozialen EntschädigungKapitel 2Anspruch auf Leistungen
  der Sozialen EntschädigungAbschnitt 1Allgemeine Voraussetzungen§   4Anspruch auf Leistungen für Geschädigte§   5Grad der Schädigungsfolgen, Verordnungsermächtigung§   6Anspruch auf Leistungen für Angehörige, Hinterbliebene und Nahestehende§   7Anspruch auf Leistungen für Ausländerinnen und Ausländer§   8Konkurrenz von Ansprüchen§   9Ausschluss der Pfändbarkeit von Ansprüchen§  10Antragserfordernis§  11Beginn der Leistungserbringung, Kostenregelung für die erste Inanspruchnahme Schneller Hilfen§  12Übernahme der Aufwendungen für Dolmetscherinnen und Dolmetscher, Übersetzerinnen und Übersetzer sowie KommunikationshilfenAbschnitt 2EntschädigungstatbeständeUnterabschnitt 1Gewalttaten§  13Opfer von Gewalttaten§  14Gleichstellungen§  15Anspruch auf Leistungen bei Gewalttaten im Ausland§  16Ausschluss von Ansprüchen und Leistungen§  17Versagung von Leistungen§  18Ansprüche bei Gebrauch eines Kraftfahrzeugs§  19Ausschluss von Ansprüchen und Leistungen für Angehörige, Hinterbliebene und Nahestehende, Konkurrenzen§  20Versagung von Leistungen für Angehörige, Hinterbliebene und NahestehendeUnterabschnitt 2Kriegsauswirkungen beider Weltkriege§  21Opfer von Kriegsauswirkungen beider Weltkriege§  22Versagung, Entziehung und Minderung der LeistungUnterabschnitt 3Ereignisse im Zusammenhang
@@ -36,7 +40,7 @@ Kapitel 1Allgemeine Vorschriften§   1Aufgabe und Anwendungsbereich der Sozial
 
 ## Kapitel 1 Allgemeine Vorschriften
 
-##### § 1 Aufgabe und Anwendungsbereich der Sozialen Entschädigung
+###### § 1 Aufgabe und Anwendungsbereich der Sozialen Entschädigung
 
 (1) Die Soziale Entschädigung unterstützt Menschen, die durch ein schädigendes Ereignis, für das die staatliche Gemeinschaft eine besondere Verantwortung trägt, eine gesundheitliche Schädigung erlitten haben, bei der Bewältigung der dadurch entstandenen Folgen.
 
@@ -54,7 +58,7 @@ die eine gesundheitliche Schädigung verursacht haben.
 
 (3) Das schädigende Ereignis kann ein zeitlich begrenztes, ein wiederkehrendes oder ein über längere Zeit einwirkendes Ereignis sein.
 
-##### § 2 Berechtigte der Sozialen Entschädigung
+###### § 2 Berechtigte der Sozialen Entschädigung
 
 (1) Berechtigte sind Geschädigte sowie deren Angehörige, Hinterbliebene und Nahestehende.
 
@@ -74,7 +78,7 @@ einer an den Folgen einer Schädigung verstorbenen Person. Als Waisen gelten auc
 
 (5) Nahestehende sind Geschwister sowie Personen, die mit Geschädigten eine Lebensgemeinschaft führen, die der Ehe ähnlich ist.
 
-##### § 3 Leistungen der Sozialen Entschädigung
+###### § 3 Leistungen der Sozialen Entschädigung
 
 Die Soziale Entschädigung umfasst:
 
@@ -106,7 +110,7 @@ Die Soziale Entschädigung umfasst:
 
 ## Abschnitt 1 Allgemeine Voraussetzungen
 
-##### § 4 Anspruch auf Leistungen für Geschädigte
+###### § 4 Anspruch auf Leistungen für Geschädigte
 
 (1) Geschädigte haben Anspruch auf Leistungen der Sozialen Entschädigung wegen der anerkannten gesundheitlichen und der wirtschaftlichen Folgen einer gesundheitlichen Schädigung, die ursächlich auf ein schädigendes Ereignis zurückzuführen ist. Das Vorliegen der in Satz 1 genannten Anspruchsvoraussetzungen ist auf Antrag festzustellen.
 
@@ -130,7 +134,7 @@ c) bei der unverzüglichen Erstattung einer Strafanzeige oder auf dem Hin- oder 
 
 (6) Wenn die zur Anerkennung einer Gesundheitsstörung als Schädigungsfolge erforderliche Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache der Gesundheitsstörung in der medizinischen Wissenschaft Ungewissheit besteht, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung als Schädigungsfolge anerkannt werden. In den Fällen nach Kapitel 2 Abschnitt 2 Unterabschnitt 4 tritt an die Stelle der Zustimmung des Bundesministeriums für Arbeit und Soziales die Zustimmung der zuständigen obersten Landesbehörde. Die Zustimmung kann allgemein erteilt werden.
 
-##### § 5 Grad der Schädigungsfolgen, Verordnungsermächtigung
+###### § 5 Grad der Schädigungsfolgen, Verordnungsermächtigung
 
 (1) Der Grad der Schädigungsfolgen ist nach den allgemeinen Auswirkungen der körperlichen, seelischen, geistigen oder Sinnesbeeinträchtigungen, die durch die als Schädigungsfolge anerkannten Gesundheitsstörungen bedingt sind, in allen Lebensbereichen zu beurteilen. Er ist nach Zehnergraden von zehn bis 100 zu bemessen. Ein bis zu fünf Grad geringerer Grad der Schädigungsfolgen wird vom höheren Zehnergrad mit umfasst. Vorübergehende Gesundheitsstörungen sind nicht zu berücksichtigen. Als vorübergehend gilt ein Zeitraum von bis zu sechs Monaten. Bei geschädigten Kindern und Jugendlichen ist der Grad der Schädigungsfolgen nach dem Grad zu bemessen, der sich bei Erwachsenen mit gleicher Gesundheitsstörung ergibt, soweit damit keine Schlechterstellung der Kinder und Jugendlichen verbunden ist.
 
@@ -142,17 +146,17 @@ c) bei der unverzüglichen Erstattung einer Strafanzeige oder auf dem Hin- oder 
 
 3. das Verfahren für die Aufstellung und Fortentwicklung der in Nummer 1 und 2 genannten Grundsätze zu regeln.
 
-##### § 6 Anspruch auf Leistungen für Angehörige, Hinterbliebene und Nahestehende
+###### § 6 Anspruch auf Leistungen für Angehörige, Hinterbliebene und Nahestehende
 
 (1) Angehörige, Hinterbliebene und Nahestehende erhalten Schnelle Hilfen nach Maßgabe der Vorschriften des Kapitels 4 sowie besondere psychotherapeutische Leistungen nach § 43 Absatz 2 Nummer 1 in Verbindung mit § 43 Absatz 4.
 
 (2) Hinterbliebene erhalten darüber hinaus Leistungen zur Teilhabe am Arbeitsleben nach § 63 Absatz 3, Entschädigungszahlungen an Hinterbliebene nach Kapitel 9 Abschnitt 2, Leistungen zum Lebensunterhalt nach § 93 Absatz 1 Satz 2 und die Leistung zur Förderung einer Ausbildung nach § 94.
 
-##### § 7 Anspruch auf Leistungen für Ausländerinnen und Ausländer
+###### § 7 Anspruch auf Leistungen für Ausländerinnen und Ausländer
 
 Ausländerinnen und Ausländer haben dieselben Ansprüche wie Deutsche.
 
-##### § 8 Konkurrenz von Ansprüchen
+###### § 8 Konkurrenz von Ansprüchen
 
 (1) Berechtigte haben wegen eines schädigenden Ereignisses nach diesem Buch gegen den Bund oder die Länder nur die auf diesem Buch beruhenden Ansprüche. Jedoch finden die Vorschriften der beamtenrechtlichen Unfallfürsorge in der jeweils geltenden Fassung Anwendung. Trifft ein Entschädigungsanspruch aufgrund eines schädigenden Ereignisses nach Kapitel 2 Abschnitt 2 Unterabschnitt 1 mit einem Schadensersatzanspruch aufgrund fahrlässiger Amtspflichtverletzung zusammen, so wird der Anspruch nach § 839 Absatz 1 des Bürgerlichen Gesetzbuchs nicht dadurch ausgeschlossen, dass die Voraussetzungen für den Entschädigungsanspruch bestehen.
 
@@ -160,11 +164,11 @@ Ausländerinnen und Ausländer haben dieselben Ansprüche wie Deutsche.
 
 (3) Ansprüche nach dem Siebten Buch, nach dem Soldatenentschädigungsgesetz oder nach der beamtenrechtlichen Unfallfürsorge gehen den Ansprüchen nach diesem Buch vor, soweit beide Ansprüche auf derselben Ursache beruhen. Der Anspruch auf Leistungen nach diesem Buch ruht in Höhe der Versorgung aus der gesetzlichen Unfallversicherung oder nach dem Soldatenentschädigungsgesetz und in Höhe des Unterschiedsbetrags zwischen einer Versorgung nach allgemeinen beamtenrechtlichen Bestimmungen und aus der beamtenrechtlichen Unfallfürsorge, soweit beide Ansprüche auf derselben Ursache beruhen.
 
-##### § 9 Ausschluss der Pfändbarkeit von Ansprüchen
+###### § 9 Ausschluss der Pfändbarkeit von Ansprüchen
 
 Ansprüche auf Entschädigungszahlungen nach Kapitel 9 und die Geldleistung nach § 144 können nicht gepfändet werden.
 
-##### § 10 Antragserfordernis
+###### § 10 Antragserfordernis
 
 (1) Leistungen der Sozialen Entschädigung werden auf Antrag erbracht, soweit dieses Buch nichts Abweichendes regelt.
 
@@ -186,7 +190,7 @@ Ansprüche auf Entschädigungszahlungen nach Kapitel 9 und die Geldleistung nach
 
 (6) Der Antrag auf Leistungen der Sozialen Entschädigung als Opfer einer Gewalttat nach Abschnitt 2 Unterabschnitt 1 kann auch gestellt werden über eine Unterstützungsbehörde eines anderen Mitgliedstaates der Europäischen Union im Sinne des Artikels 3 Absatz 1 der Richtlinie 2004/80/EG des Rates vom 29. April 2004 zur Entschädigung der Opfer von Straftaten (ABl. L 261 vom 6.8.2004, S. 15).
 
-##### § 11 Beginn der Leistungserbringung, Kostenregelung für die erste Inanspruchnahme Schneller Hilfen
+###### § 11 Beginn der Leistungserbringung, Kostenregelung für die erste Inanspruchnahme Schneller Hilfen
 
 (1) Leistungen, die auf Antrag erbracht werden, sind ab dem Monat zu erbringen, in dem die Voraussetzungen für die Inanspruchnahme vorliegen, frühestens ab dem Monat, in dem der Antrag auf diese Leistungen gestellt wird.
 
@@ -198,7 +202,7 @@ Ansprüche auf Entschädigungszahlungen nach Kapitel 9 und die Geldleistung nach
 
 (5) Die Kosten für die ersten beiden Sitzungen in der Traumaambulanz sowie die erste Kontaktaufnahme durch das Fallmanagement werden auch dann getragen, wenn Ansprüche nach diesem Buch nicht bestehen, auch nicht im Erleichterten Verfahren nach § 115.
 
-##### § 12 Übernahme der Aufwendungen für Dolmetscherinnen und Dolmetscher, Übersetzerinnen und Übersetzer sowie Kommunikationshilfen
+###### § 12 Übernahme der Aufwendungen für Dolmetscherinnen und Dolmetscher, Übersetzerinnen und Übersetzer sowie Kommunikationshilfen
 
 (1) Bei der Ausführung von Leistungen nach diesem Buch und im Verwaltungsverfahren werden notwendige Aufwendungen für Dolmetscherinnen und Dolmetscher sowie Übersetzerinnen und Übersetzer von dem Träger der Sozialen Entschädigung getragen, wenn eine berechtigte oder antragstellende Person ihren gewöhnlichen Aufenthalt seit weniger als fünf Jahren im Geltungsbereich dieses Buches hat. Für Leistungen in einer Traumaambulanz und psychotherapeutische Leistungen nach Kapitel 5 beträgt diese Frist zehn Jahre.
 
@@ -210,7 +214,7 @@ Ansprüche auf Entschädigungszahlungen nach Kapitel 9 und die Geldleistung nach
 
 ## Unterabschnitt 1 Gewalttaten
 
-##### § 13 Opfer von Gewalttaten
+###### § 13 Opfer von Gewalttaten
 
 (1) Als Opfer einer Gewalttat erhält bei Vorliegen der Voraussetzungen nach § 4 Absatz 1 Leistungen der Sozialen Entschädigung, wer im Inland oder auf einem deutschen Schiff oder in einem deutschen Luftfahrzeug eine gesundheitliche Schädigung erlitten hat durch
 
@@ -220,7 +224,7 @@ Ansprüche auf Entschädigungszahlungen nach Kapitel 9 und die Geldleistung nach
 
 (2) Ein Verhalten im Sinne von Absatz 1 Nummer 2 ist in der Regel schwerwiegend, wenn es den Tatbestand des sexuellen Missbrauchs (§§ 174 bis 176d des Strafgesetzbuchs), des sexuellen Übergriffs, der sexuellen Nötigung, der Vergewaltigung (§§ 177 und 178 des Strafgesetzbuchs), des Menschenhandels (§§ 232 bis 233a des Strafgesetzbuchs), der Nachstellung (§ 238 Absatz 2 und 3 des Strafgesetzbuchs), der Geiselnahme (§ 239b des Strafgesetzbuchs) oder der räuberischen Erpressung (§ 255 des Strafgesetzbuchs) erfüllt oder von mindestens vergleichbarer Schwere ist.
 
-##### § 14 Gleichstellungen
+###### § 14 Gleichstellungen
 
 (1) Einer Gewalttat stehen gleich:
 
@@ -238,7 +242,7 @@ Ansprüche auf Entschädigungszahlungen nach Kapitel 9 und die Geldleistung nach
 
 (2) Den Opfern von Gewalttaten stehen Personen gleich, die in Folge des Miterlebens der Tat oder des Auffindens des Opfers eine gesundheitliche Schädigung erlitten haben. Den Opfern von Gewalttaten stehen weiterhin Personen gleich, die durch die Überbringung der Nachricht vom Tode oder der schwerwiegenden Verletzung des Opfers eine gesundheitliche Schädigung erlitten haben, wenn zwischen diesen Personen und dem Opfer im Sinne des § 13 oder des Absatzes 1 eine enge emotionale Beziehung besteht. Eine solche Beziehung besteht in der Regel mit Angehörigen und Nahestehenden.
 
-##### § 15 Anspruch auf Leistungen bei Gewalttaten im Ausland
+###### § 15 Anspruch auf Leistungen bei Gewalttaten im Ausland
 
 Personen, die durch ein schädigendes Ereignis nach den §§ 13 und 14 im Ausland eine gesundheitliche Schädigung erleiden, erhalten wegen der gesundheitlichen und wirtschaftlichen Folgen auf Antrag Leistungen nach Maßgabe des § 102, wenn sie
 
@@ -248,29 +252,29 @@ Personen, die durch ein schädigendes Ereignis nach den §§ 13 und 14 im Auslan
 
 Die Frist nach Satz 1 Nummer 2 verlängert sich auf ein Jahr, wenn der Auslandsaufenthalt dem Besuch einer Schule, Hochschule, der Berufsausbildung oder der Leistung eines freiwilligen Dienstes im Sinne des § 32 Absatz 4 Satz 1 Nummer 2 Buchstabe d des Einkommensteuergesetzes dient.
 
-##### § 16 Ausschluss von Ansprüchen und Leistungen
+###### § 16 Ausschluss von Ansprüchen und Leistungen
 
 (1) Von Ansprüchen nach diesem Buch ist ausgeschlossen, wer das schädigende Ereignis in vorwerfbarer Weise verursacht hat.
 
 (2) Leistungen sind so zu erbringen, dass sie nicht der Person wirtschaftlich zugutekommen, die das schädigende Ereignis verursacht hat.
 
-##### § 17 Versagung von Leistungen
+###### § 17 Versagung von Leistungen
 
 (1) Leistungen sind zu versagen, wenn es aus in dem eigenen Verhalten der Antragstellerin oder des Antragstellers liegenden Gründen unbillig wäre, Leistungen der Sozialen Entschädigung zu erbringen.
 
 (2) Leistungen können ganz oder teilweise versagt werden, wenn Geschädigte es unterlassen haben, das ihnen Mögliche und Zumutbare zur Aufklärung des Sachverhalts und zur Verfolgung der Täterin oder des Täters beizutragen.
 
-##### § 18 Ansprüche bei Gebrauch eines Kraftfahrzeugs
+###### § 18 Ansprüche bei Gebrauch eines Kraftfahrzeugs
 
 Wird eine Gewalttat im Sinne des § 13 durch den Gebrauch eines Kraftfahrzeugs oder eines Anhängers verübt, werden Leistungen nach diesem Buch erbracht.
 
-##### § 19 Ausschluss von Ansprüchen und Leistungen für Angehörige, Hinterbliebene und Nahestehende, Konkurrenzen
+###### § 19 Ausschluss von Ansprüchen und Leistungen für Angehörige, Hinterbliebene und Nahestehende, Konkurrenzen
 
 (1) Angehörige, Hinterbliebene und Nahestehende sind von Ansprüchen nach diesem Buch ausgeschlossen, wenn die Voraussetzungen des § 16 in der eigenen Person oder in der Person der oder des Geschädigten vorliegen.
 
 (2) § 18 gilt entsprechend.
 
-##### § 20 Versagung von Leistungen für Angehörige, Hinterbliebene und Nahestehende
+###### § 20 Versagung von Leistungen für Angehörige, Hinterbliebene und Nahestehende
 
 (1) Leistungen für Angehörige, Hinterbliebene und Nahestehende sind zu versagen, wenn die Voraussetzungen des § 17 Absatz 1 in der eigenen Person oder in der Person der oder des Geschädigten vorliegen.
 
@@ -278,11 +282,11 @@ Wird eine Gewalttat im Sinne des § 13 durch den Gebrauch eines Kraftfahrzeugs o
 
 ## Unterabschnitt 2 Kriegsauswirkungen beider Weltkriege
 
-##### § 21 Opfer von Kriegsauswirkungen beider Weltkriege
+###### § 21 Opfer von Kriegsauswirkungen beider Weltkriege
 
 Wer im Inland durch Auswirkungen kriegerischer Vorgänge im Zusammenhang mit einem der beiden Weltkriege, die einen kriegseigentümlichen Gefahrenbereich hinterlassen haben, eine gesundheitliche Schädigung erlitten hat, erhält bei Vorliegen der Voraussetzungen nach § 4 Absatz 1 Leistungen der Sozialen Entschädigung.
 
-##### § 22 Versagung, Entziehung und Minderung der Leistung
+###### § 22 Versagung, Entziehung und Minderung der Leistung
 
 (1) Leistungen der Sozialen Entschädigung sind zu versagen, wenn Geschädigte während der Herrschaft des Nationalsozialismus gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen haben. Anhaltspunkte, die eine besonders intensive Überprüfung erforderlich machen, ob Geschädigte durch ihr individuelles Verhalten gegen Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen haben, können sich insbesondere aus einer freiwilligen Mitgliedschaft in der SS ergeben.
 
@@ -294,7 +298,7 @@ Wer im Inland durch Auswirkungen kriegerischer Vorgänge im Zusammenhang mit ein
 
 ## Unterabschnitt 3 Ereignisse im Zusammenhang mit der Ableistung des Zivildienstes
 
-##### § 23 Geschädigte durch Ereignisse im Zusammenhang mit der Ableistung des Zivildienstes
+###### § 23 Geschädigte durch Ereignisse im Zusammenhang mit der Ableistung des Zivildienstes
 
 (1) Wer im Zusammenhang mit der Ableistung eines Zivildienstes eine gesundheitliche Schädigung durch eine Tätigkeit, einen Unfall, einen Angriff auf seine Person oder in sonstiger Weise erlitten hat (Zivildienstgeschädigter), erhält bei Vorliegen der Voraussetzungen nach § 4 Absatz 1 Leistungen der Sozialen Entschädigung.
 
@@ -316,7 +320,7 @@ b) mit anderen Dienstleistenden oder Berufstätigen oder in der gesetzlichen Unf
 
 ## Unterabschnitt 4 Schutzimpfungen oder andere Maßnahmen der spezifischen Prophylaxe
 
-##### § 24 Geschädigte durch Schutzimpfungen oder andere Maßnahmen der spezifischen Prophylaxe
+###### § 24 Geschädigte durch Schutzimpfungen oder andere Maßnahmen der spezifischen Prophylaxe
 
 Wer durch eine Schutzimpfung nach § 2 Nummer 9 des Infektionsschutzgesetzes oder durch eine andere Maßnahme der spezifischen Prophylaxe nach § 2 Nummer 10 des Infektionsschutzgesetzes,
 
@@ -332,11 +336,11 @@ eine gesundheitliche Schädigung erlitten hat, die über das übliche Ausmaß ei
 
 ## Kapitel 3 Leistungsgrundsätze
 
-##### § 25 Voraussetzungen
+###### § 25 Voraussetzungen
 
 Leistungen der Sozialen Entschädigung werden für schädigungsbedingte Bedarfe erbracht.
 
-##### § 26 Leistungsformen
+###### § 26 Leistungsformen
 
 (1) Leistungen der Sozialen Entschädigung werden erbracht in Form von Dienstleistungen, Sachleistungen und Geldleistungen.
 
@@ -352,11 +356,11 @@ Leistungen der Sozialen Entschädigung werden für schädigungsbedingte Bedarfe 
 
 4. Leistungen zur Weiterführung des Haushalts nach § 95.
 
-##### § 27 Vorrang von Leistungen zur Teilhabe
+###### § 27 Vorrang von Leistungen zur Teilhabe
 
 Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben, die erfolgversprechend und zumutbar sind, haben Vorrang vor dem Berufsschadensausgleich nach Kapitel 10. Im Übrigen gelten die Regelungen des § 9 des Neunten Buches.
 
-##### § 28 Verhältnis zu Leistungen anderer Träger
+###### § 28 Verhältnis zu Leistungen anderer Träger
 
 (1) Die Leistungen nach diesem Buch wegen eines schädigenden Ereignisses nach § 1 Absatz 2 gehen Leistungen anderer Träger, insbesondere anderer Sozialleistungsträger vor.
 
@@ -370,7 +374,7 @@ Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben, di
 
 ## Abschnitt 1 Leistungen der Schnellen Hilfen
 
-##### § 29 Leistungen und Leistungsart
+###### § 29 Leistungen und Leistungsart
 
 (1) Die Leistungen der Schnellen Hilfen umfassen Leistungen des Fallmanagements und Leistungen in einer Traumaambulanz.
 
@@ -378,7 +382,7 @@ Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben, di
 
 ## Abschnitt 2 Fallmanagement
 
-##### § 30 Leistungen des Fallmanagements
+###### § 30 Leistungen des Fallmanagements
 
 (1) Beim Fallmanagement werden die Berechtigten von einer Fallmanagerin oder einem Fallmanager aktivierend und koordinierend durch das Antragsverfahren und Leistungsverfahren begleitet.
 
@@ -410,23 +414,23 @@ Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben, di
 
 ## Abschnitt 3 Traumaambulanz
 
-##### § 31 Leistungen in einer Traumaambulanz
+###### § 31 Leistungen in einer Traumaambulanz
 
 (1) In einer Traumaambulanz wird psychotherapeutische Intervention erbracht, um den Eintritt einer psychischen Gesundheitsstörung oder deren Chronifizierung zu verhindern.
 
 (2) Psychotherapeutische Intervention wird nur in Traumaambulanzen erbracht, mit denen die Träger der Sozialen Entschädigung eine Vereinbarung nach § 37 geschlossen haben.
 
-##### § 32 Psychotherapeutische Frühintervention
+###### § 32 Psychotherapeutische Frühintervention
 
 (1) Geschädigte sollen psychotherapeutische Frühintervention in einer Traumaambulanz erhalten, wenn die erste Sitzung innerhalb von zwölf Monaten nach dem schädigenden Ereignis oder nach Kenntnisnahme hiervon erfolgt.
 
 (2) Angehörige, Hinterbliebene und Nahestehende sollen psychotherapeutische Frühintervention in einer Traumaambulanz erhalten, wenn die erste Sitzung innerhalb von zwölf Monaten erfolgt, nachdem sie von dem schädigenden Ereignis Kenntnis erlangt haben.
 
-##### § 33 Psychotherapeutische Intervention in anderen Fällen
+###### § 33 Psychotherapeutische Intervention in anderen Fällen
 
 Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende sollen psychotherapeutische Intervention in einer Traumaambulanz erhalten, wenn ein mehr als zwölf Monate zurückliegendes schädigendes Ereignis zu einer akuten psychischen Belastung geführt hat und die erste Sitzung innerhalb von zwölf Monaten nach Auftreten der akuten Belastung erfolgt.
 
-##### § 34 Leistungsvoraussetzungen und Leistungsumfang
+###### § 34 Leistungsvoraussetzungen und Leistungsumfang
 
 (1) Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende haben Anspruch auf insgesamt bis zu 15 Sitzungen in der Traumaambulanz nach Maßgabe der folgenden Absätze, sofern die Voraussetzungen nach § 32 oder § 33 vorliegen. Bei Kindern und Jugendlichen beträgt der Höchstanspruch 18 Sitzungen.
 
@@ -434,19 +438,19 @@ Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende sollen psychothe
 
 (3) Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende haben Anspruch auf bis zu zehn weitere Sitzungen, wenn diese erforderlich sind und ein Anspruch auf Leistungen der Traumaambulanz festgestellt wurde. Der Anspruch auf bis zu zehn weitere Sitzungen besteht auch dann, wenn die zuständige Behörde zwei Wochen nach Vorliegen des Antrags keine Entscheidung getroffen hat und die Traumaambulanz die dringende Behandlungsbedürftigkeit sowie die geplante Durchführung der weiteren Sitzungen vorab angezeigt hat.
 
-##### § 35 Weiterer Bedarf nach Betreuung in der Traumaambulanz
+###### § 35 Weiterer Bedarf nach Betreuung in der Traumaambulanz
 
 (1) Besteht bei Personen, die die Betreuung in der Traumaambulanz in Anspruch nehmen, auch nach dieser Betreuung weiterer psychotherapeutischer Behandlungsbedarf, so verweist der Träger der Sozialen Entschädigung sie auf weitere psychotherapeutische Angebote.
 
 (2) Die Traumaambulanz ist verpflichtet, der zuständigen Behörde den weiteren Bedarf so frühzeitig wie möglich mitzuteilen. Die nach Landesrecht zuständigen Behörden legen in den nach § 37 zu schließenden Vereinbarungen die Konsequenzen eines Verstoßes gegen die Informationspflicht aus Satz 1 fest.
 
-##### § 36 Fahrkosten
+###### § 36 Fahrkosten
 
 (1) Übernommen werden die erforderlichen Fahrkosten zur nächstgelegenen Traumaambulanz. Gleiches gilt für die erforderlichen Fahrkosten einer notwendigen Begleitperson sowie für Kinder, deren Mitnahme erforderlich ist, weil ihre Betreuung nicht sichergestellt ist. Übernommen werden auch die notwendigen Betreuungskosten für zu pflegende oder zu betreuende Familienangehörige sowohl für die Berechtigten als auch für die notwendigen Begleitpersonen für Kinder und Jugendliche.
 
 (2) Die Fahrkosten werden in Höhe des Betrages zu Grunde gelegt, der bei der Beförderung in der niedrigsten Klasse des zweckmäßigsten öffentlichen Verkehrsmittels zu zahlen ist. Bei der Beförderung in einem anderen Verkehrsmittel wird ein Betrag in Höhe der Wegstreckenentschädigung nach § 5 Absatz 1 Satz 2 des Bundesreisekostengesetzes zu Grunde gelegt.
 
-##### § 37 Vereinbarungen mit Traumaambulanzen
+###### § 37 Vereinbarungen mit Traumaambulanzen
 
 (1) Die nach Landesrecht zuständigen Behörden schließen Vereinbarungen mit Traumaambulanzen, die die Voraussetzungen nach diesem Abschnitt erfüllen. Am 1. Januar 2021 bestehende Vereinbarungen bleiben hiervon für die Dauer ihrer Laufzeit unberührt.
 
@@ -464,7 +468,7 @@ Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende sollen psychothe
 
 6. die Vergütung der von der Traumaambulanz erbrachten Leistungen.
 
-##### § 38 Verordnungsermächtigung
+###### § 38 Verordnungsermächtigung
 
 Das Nähere zu den Vereinbarungen nach § 37 regelt eine vom Bundesministerium für Arbeit und Soziales mit Zustimmung des Bundesrates zu erlassende Rechtsverordnung, die zum 1. Januar 2024 in Kraft tritt. Mindestinhalt der Verordnung sind Bestimmungen
 
@@ -484,11 +488,11 @@ Das Nähere zu den Vereinbarungen nach § 37 regelt eine vom Bundesministerium f
 
 ## Abschnitt 4 Kooperationsvereinbarungen
 
-##### § 39 Kooperationsvereinbarungen für Beratungs- und Begleitangebote
+###### § 39 Kooperationsvereinbarungen für Beratungs- und Begleitangebote
 
 Die Träger der Sozialen Entschädigung können Kooperationsvereinbarungen mit Organisationen schließen, die eine umfassende qualitätsgesicherte Beratung und Begleitung der Berechtigten sicherstellen. Dabei berücksichtigen sie Angebote, die sich an Angehörige besonders schutzbedürftiger Personengruppen richten. Sie können diesen Organisationen Sach- und Geldmittel zur Verfügung stellen.
 
-##### § 40 Verordnungsermächtigung
+###### § 40 Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die qualitativen Anforderungen an Kooperationsvereinbarungen zu regeln. Mindestinhalte der Verordnung sind:
 
@@ -500,13 +504,13 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsver
 
 ## Abschnitt 1 Leistungen und Nachweispflicht
 
-##### § 41 Anspruch auf Leistungen der Krankenbehandlung der Sozialen Entschädigung
+###### § 41 Anspruch auf Leistungen der Krankenbehandlung der Sozialen Entschädigung
 
 (1) Geschädigte haben für anerkannte Schädigungsfolgen Anspruch auf Leistungen der Krankenbehandlung der Sozialen Entschädigung nach den Vorschriften dieses Kapitels.
 
 (2) Ist eine Gesundheitsstörung im Sinne einer Verschlimmerung als Folge einer Schädigung anerkannt, besteht abweichend von Absatz 1 Anspruch auf Leistungen der Krankenbehandlung der Sozialen Entschädigung für die gesamte Gesundheitsstörung. Dies gilt nicht, wenn die als Folge einer Schädigung anerkannte Gesundheitsstörung auf den Zustand, der Leistungen der Krankenbehandlung erfordert, ohne Einfluss ist.
 
-##### § 42 Krankenbehandlung
+###### § 42 Krankenbehandlung
 
 (1) Geschädigte erhalten für anerkannte Schädigungsfolgen
 
@@ -524,7 +528,7 @@ Dabei gelten die Grundsätze der Leistungserbringung des Rechts der gesetzlichen
 
 (5) Absatz 1 gilt, soweit dieses Buch nichts Abweichendes bestimmt.
 
-##### § 43 Ergänzende Leistungen der Krankenbehandlung
+###### § 43 Ergänzende Leistungen der Krankenbehandlung
 
 (1) Geschädigte erhalten für anerkannte Schädigungsfolgen auf Antrag über die Leistungen der Krankenbehandlung nach § 42 hinaus ergänzende Leistungen, wenn diese unter Berücksichtigung der Art und Schwere des Einzelfalls und der besonderen Bedarfe der oder des Geschädigten notwendig sind. Die Krankenkassen sollen der zuständigen Verwaltungsbehörde Fälle mitteilen, in denen die Erbringung einer ergänzenden Leistung der Krankenbehandlung durch die zuständige Verwaltungsbehörde angezeigt ist.
 
@@ -556,17 +560,17 @@ c) von psychotherapeutisch tätigen Ärztinnen und Ärzten oder Psychotherapeuti
 
 3. zur Erreichung oder Sicherung des Behandlungserfolges notwendig sind.
 
-##### § 44 Sachleistungsprinzip, Kostenbeteiligung
+###### § 44 Sachleistungsprinzip, Kostenbeteiligung
 
 (1) Leistungen der Krankenbehandlung werden als Sachleistungen erbracht, soweit sich aus diesem Buch, dem Fünften Buch oder dem Neunten Buch nichts Abweichendes ergibt.
 
 (2) Geschädigte erhalten Sachleistungen ohne Beteiligung an den Kosten. Dies gilt nicht für nach § 42 Absatz 2 erbrachte Sachleistungen.
 
-##### § 45 Nachweispflicht
+###### § 45 Nachweispflicht
 
 Für den Nachweis der Berechtigung zur Inanspruchnahme von Leistungen der Krankenbehandlung der Sozialen Entschädigung nach § 42 gilt § 15 Absatz 2 bis 6 des Fünften Buches entsprechend. Abweichend von Satz 1 legitimieren sich Berechtigte, die über keine elektronische Gesundheitskarte nach § 291 des Fünften Buches verfügen, durch Vorlage von Behandlungsscheinen. Diese werden den Berechtigten von der nach § 57 Absatz 3 oder 4 zuständigen Krankenkasse ausgestellt.
 
-##### § 46 Versorgung mit Hilfsmitteln, Pauschbetrag für außergewöhnlichen Verschleiß von Kleidung und Wäsche
+###### § 46 Versorgung mit Hilfsmitteln, Pauschbetrag für außergewöhnlichen Verschleiß von Kleidung und Wäsche
 
 (1) Geschädigte erhalten für anerkannte Schädigungsfolgen
 
@@ -584,7 +588,7 @@ Zahnersatz gilt nicht als Hilfsmittel.
 
 Dabei gelten die Grundsätze der Leistungserbringung des Rechts der gesetzlichen Unfallversicherung.
 
-##### § 47 Krankengeld der Sozialen Entschädigung
+###### § 47 Krankengeld der Sozialen Entschädigung
 
 (1) Geschädigte erhalten bei einer durch eine anerkannte Schädigungsfolge verursachten Arbeitsunfähigkeit oder bei einer wegen einer anerkannten Schädigungsfolge erforderlichen stationären Behandlung Krankengeld der Sozialen Entschädigung entsprechend den Regelungen zum Krankengeld des Fünften Buches nach Maßgabe der Absätze 2 bis 9.
 
@@ -624,7 +628,7 @@ Satz 1 gilt nur, wenn Geschädigte arbeitsunfähig sind und ihnen kein Anspruch 
 
 3. sich in Fällen des § 45 Absatz 4 des Fünften Buches nach Absatz 4 berechnet.
 
-##### § 48 Beihilfe bei erheblicher Beeinträchtigung der Erwerbsgrundlage
+###### § 48 Beihilfe bei erheblicher Beeinträchtigung der Erwerbsgrundlage
 
 (1) Führt eine notwendige ambulante oder stationäre Behandlung einer anerkannten Schädigungsfolge zu einer erheblichen Beeinträchtigung der Erwerbsgrundlage der oder des Geschädigten, so kann ihr oder ihm eine Beihilfe gezahlt werden.
 
@@ -634,7 +638,7 @@ Satz 1 gilt nur, wenn Geschädigte arbeitsunfähig sind und ihnen kein Anspruch 
 
 (4) Die Beihilfe endet spätestens mit dem Wegfall des Krankengeldes der Sozialen Entschädigung. Wird kein Krankengeld der Sozialen Entschädigung geleistet, weil Geschädigte kein Einkommen erzielt haben, so endet die Beihilfe spätestens mit dem Zeitpunkt, zu dem, sofern Einkommen erzielt worden wäre, das Krankengeld der Sozialen Entschädigung weggefallen wäre.
 
-##### § 49 Zuschüsse bei Zahnersatz
+###### § 49 Zuschüsse bei Zahnersatz
 
 Anstelle der Versorgung mit Zahnersatz können Geschädigte für die Beschaffung eines Zahnersatzes wegen anerkannter Schädigungsfolgen einen Zuschuss in angemessener Höhe erhalten, wenn
 
@@ -642,7 +646,7 @@ Anstelle der Versorgung mit Zahnersatz können Geschädigte für die Beschaffung
 
 2. es sich bei dem erweiterten Zahnersatz um eine nicht teilbare Leistung handelt.
 
-##### § 50 Erstattung von Kosten bei selbst beschaffter Krankenbehandlung
+###### § 50 Erstattung von Kosten bei selbst beschaffter Krankenbehandlung
 
 (1) Entstehen Geschädigten Kosten für eine selbst beschaffte notwendige Behandlung von Schädigungsfolgen, bevor ihr Anspruch auf Leistungen der Sozialen Entschädigung anerkannt worden ist, so werden ihnen diese Kosten in angemessenem Umfang erstattet. Dies gilt auch, wenn nach Abschluss der Krankenbehandlung keine Gesundheitsstörung mehr vorliegt. Als angemessen gelten die Kosten, die bei der Inanspruchnahme der Sachleistung angefallen wären.
 
@@ -658,7 +662,7 @@ Anstelle der Versorgung mit Zahnersatz können Geschädigte für die Beschaffung
 
 (5) Werden Geschädigten die Kosten nach Absatz 1, 2, 3 oder 4 erstattet, so haben sie unter den Voraussetzungen des § 47 Anspruch auf Krankengeld der Sozialen Entschädigung.
 
-##### § 51 Erstattung von Kosten für Krankenbehandlung bei vorübergehendem Auslandsaufenthalt
+###### § 51 Erstattung von Kosten für Krankenbehandlung bei vorübergehendem Auslandsaufenthalt
 
 (1) Geschädigten werden bei einem vorübergehenden Aufenthalt im Ausland die Kosten der notwendigen Krankenbehandlung anerkannter Schädigungsfolgen erstattet. Der Anspruch auf Erstattung besteht bis zur Höhe der Vergütung, die die Krankenkassen bei Erbringung als Sachleistung im Inland zu tragen hätten.
 
@@ -674,7 +678,7 @@ Anstelle der Versorgung mit Zahnersatz können Geschädigte für die Beschaffung
 
 (5) Geschädigte können stationäre Krankenhausleistungen im Ausland in Anspruch nehmen, wenn zuvor die zuständige Verwaltungsbehörde zugestimmt hat. Die Zustimmung darf nur versagt werden, wenn die gleiche Behandlung oder eine Behandlung, die für Geschädigte ebenso wirksam ist und dem allgemein anerkannten Stand der medizinischen Erkenntnisse entspricht, rechtzeitig bei einem Vertragspartner der zuständigen Krankenkasse im Inland erlangt werden kann. War die stationäre Krankenhausbehandlung im Ausland unaufschiebbar, so darf den Geschädigten das Fehlen der vorherigen Zustimmung nicht entgegengehalten werden, soweit und solange sie daran gehindert waren, die Zustimmung einzuholen.
 
-##### § 52 Beiträge zur Arbeitsförderung, zur gesetzlichen Rentenversicherung und zur Alterssicherung
+###### § 52 Beiträge zur Arbeitsförderung, zur gesetzlichen Rentenversicherung und zur Alterssicherung
 
 (1) Für Geschädigte werden für die Zeit, in der sie Krankengeld der Sozialen Entschädigung erhalten, folgende Beiträge entrichtet:
 
@@ -706,7 +710,7 @@ Die Erstattung erfolgt bis zur Höhe der Beiträge, die zur gesetzlichen Rentenv
 
 3. legt der zuständigen Verwaltungsbehörde auf Anfrage Nachweise für die nach den Nummern 1 und 2 gemachten Meldungen vor.
 
-##### § 53 Reisekosten
+###### § 53 Reisekosten
 
 (1) Berechtigte haben Anspruch auf Übernahme von Fahrkosten und anderen Reisekosten, die im Zusammenhang mit einer Leistung der Krankenbehandlung entstehen. Den Berechtigten werden für sich, eine notwendige Begleitung sowie für Kinder, deren Mitnahme erforderlich ist, weil ihre anderweitige Betreuung nicht sichergestellt ist, die notwendigen Reisekosten einschließlich des Gepäcktransports sowie der Kosten für Verpflegung und Unterkunft in angemessenem Umfang ersetzt. Maßstab für die Angemessenheit ist das Bundesreisekostengesetz. Kein Anspruch auf Ersatz der Reisekosten besteht, wenn eine stationäre Behandlung ohne zwingenden Grund abgebrochen wird.
 
@@ -716,13 +720,13 @@ Die Erstattung erfolgt bis zur Höhe der Beiträge, die zur gesetzlichen Rentenv
 
 ## Abschnitt 2 Vergütung der Leistungserbringer
 
-##### § 54 Vergütung für Leistungen der Krankenbehandlung
+###### § 54 Vergütung für Leistungen der Krankenbehandlung
 
 (1) Die Leistungserbringer der Krankenbehandlung nach § 42 haben Anspruch auf die Vergütung, die für die Krankenbehandlung der Versicherten der gesetzlichen Krankenkassen zu zahlen ist.
 
 (2) Der Anspruch ist bei der nach § 57 Absatz 2 und Absatz 3 zuständigen Krankenkasse geltend zu machen.
 
-##### § 55 Vergütung für ergänzende Leistungen
+###### § 55 Vergütung für ergänzende Leistungen
 
 (1) Die Erbringer der in § 43 Absatz 1 genannten ergänzenden Leistungen haben Anspruch auf Vergütung. Der Anspruch ist bei der zuständigen Verwaltungsbehörde geltend zu machen.
 
@@ -746,7 +750,7 @@ Die Erstattung erfolgt bis zur Höhe der Beiträge, die zur gesetzlichen Rentenv
 
 (7) Die Höhe der Vergütung für besondere über die allgemeinen Krankenhausleistungen hinausgehende ärztliche und nichtärztliche Leistungen im Rahmen einer stationären Behandlung nach § 43 Absatz 2 Nummer 5 richtet sich nach § 17 des Gesetzes über die Entgelte für vollstationäre und teilstationäre Krankenhausleistungen in der jeweils geltenden Fassung.
 
-##### § 56 Vergütung für die Versorgung mit Hilfsmitteln
+###### § 56 Vergütung für die Versorgung mit Hilfsmitteln
 
 (1) Leistungserbringer der Versorgung mit Hilfsmitteln nach § 46 haben Anspruch auf die Vergütung, die für die Versorgung Versicherter der gesetzlichen Unfallversicherung zu zahlen ist.
 
@@ -754,7 +758,7 @@ Die Erstattung erfolgt bis zur Höhe der Beiträge, die zur gesetzlichen Rentenv
 
 ## Abschnitt 3 Zuständigkeit und Datenübermittlung
 
-##### § 57 Zuständigkeit
+###### § 57 Zuständigkeit
 
 (1) Die Krankenbehandlung der Sozialen Entschädigung wird von der zuständigen Verwaltungsbehörde durchgeführt.
 
@@ -782,11 +786,11 @@ erbringt. Die Wahl der Krankenkasse nach Satz 1 ist innerhalb von zwei Wochen na
 
 (6) Alle weiteren Leistungen erbringt die zuständige Verwaltungsbehörde. § 18 Absatz 6 Satz 2 und 3 des Neunten Buches bleiben unberührt.
 
-##### § 58 Zuständigkeit zur Entscheidung über Widersprüche
+###### § 58 Zuständigkeit zur Entscheidung über Widersprüche
 
 Über Widersprüche gegen Verwaltungsakte, die im Rahmen der Leistungserbringung von Krankenkassen nach § 57 Absatz 2, 3 und 4 und von Unfallkassen der Länder nach § 57 Absatz 5 erlassen werden, entscheidet die für die zuständige Verwaltungsbehörde zuständige Widerspruchsbehörde.
 
-##### § 59 Datenübermittlung
+###### § 59 Datenübermittlung
 
 (1) Die Leistungserbringer der Krankenbehandlung sind verpflichtet, der zuständigen Krankenkasse oder der zuständigen Verwaltungsbehörde die in den §§ 294, 294a, 295, 295a Absatz 3, §§ 298, 300, 301, 302 und 303 des Fünften Buches genannten Daten zu übermitteln, soweit dies für die Erfüllung der Aufgaben der zuständigen Krankenkasse oder der zuständigen Verwaltungsbehörde erforderlich ist.
 
@@ -794,7 +798,7 @@ erbringt. Die Wahl der Krankenkasse nach Satz 1 ist innerhalb von zwei Wochen na
 
 ## Abschnitt 4 Erstattungen von Aufwendungen und Verwaltungskosten
 
-##### § 60 Erstattung an Krankenkassen
+###### § 60 Erstattung an Krankenkassen
 
 (1) Den Krankenkassen werden von der zuständigen Verwaltungsbehörde halbjährlich die Aufwendungen erstattet, die ihnen nach § 57 Absatz 2, 3 und 4, den §§ 143 und 151 entstehen.
 
@@ -816,7 +820,7 @@ erbringt. Die Wahl der Krankenkasse nach Satz 1 ist innerhalb von zwei Wochen na
 
 (10) Den Krankenkassen werden von der zuständigen Verwaltungsbehörde kalenderhalbjährlich Verwaltungskosten in Höhe von 5 Prozent der Pauschalbeträge nach den Absätzen 2 und 5 erstattet.
 
-##### § 60a Datenerhebung
+###### § 60a Datenerhebung
 
 (1) Die zuständige Verwaltungsbehörde übermittelt für erstmals ab dem 1. Januar 2024 bewilligte Leistungen nach Kapitel 5 dieses Buches an die nach § 57 Absatz 2 bis 4 zuständige Krankenkasse folgende Daten:
 
@@ -870,7 +874,7 @@ Die zuständigen Verwaltungsbehörden übermitteln der Bundesstelle für Soziale
 
 (7) Die Krankenkassen melden die in Absatz 5 Satz 1 genannten Daten ab dem Jahr 2029 in anonymisierter Form an den Spitzenverband Bund der Krankenkassen. Für die Datenmeldung legt der Spitzenverband Bund der Krankenkassen das strukturierte Format für die anonymisierte Übermittlung der Daten fest.
 
-##### § 61 Erstattung an Unfallkassen der Länder
+###### § 61 Erstattung an Unfallkassen der Länder
 
 (1) Den Unfallkassen der Länder werden von der zuständigen Verwaltungsbehörde die Aufwendungen erstattet, die ihnen nach § 57 Absatz 5 entstehen.
 
@@ -880,7 +884,7 @@ Die zuständigen Verwaltungsbehörden übermitteln der Bundesstelle für Soziale
 
 ## Kapitel 6 Leistungen zur Teilhabe
 
-##### § 62 Leistungsumfang
+###### § 62 Leistungsumfang
 
 Leistungen zur Teilhabe sind
 
@@ -894,7 +898,7 @@ Leistungen zur Teilhabe sind
 
 Handelt es sich bei den Leistungen nach Satz 1 Nummer 1 bis 3 um eine Versorgung mit Hilfsmitteln, werden diese entsprechend § 46 Absatz 1 Satz 1 Nummer 1 und Absatz 2 erbracht. Die §§ 56 und 57 Absatz 5, die §§ 58 und 59 Absatz 2 und § 61 gelten entsprechend. Die Leistungen nach Nummer 4 einschließlich der erforderlichen unterhaltssichernden und anderen ergänzenden Leistungen werden im Rahmen der Leistungen der Krankenbehandlung nach Kapitel 5 erbracht.
 
-##### § 63 Leistungen zur Teilhabe am Arbeitsleben
+###### § 63 Leistungen zur Teilhabe am Arbeitsleben
 
 (1) Geschädigte erhalten als Leistungen zur Teilhabe am Arbeitsleben
 
@@ -914,7 +918,7 @@ Handelt es sich bei den Leistungen nach Satz 1 Nummer 1 bis 3 um eine Versorgung
 
 (3) Hinterbliebene erhalten Leistungen zur Teilhabe am Arbeitsleben, soweit der Antrag innerhalb eines Zeitraums von fünf Jahren nach dem Tod des oder der Geschädigten gestellt wird.
 
-##### § 64 Unterhaltssichernde und andere ergänzende Leistungen
+###### § 64 Unterhaltssichernde und andere ergänzende Leistungen
 
 (1) Geschädigte und Hinterbliebene, die Leistungen zur Teilhabe am Arbeitsleben nach § 63 erhalten, erhalten auch die folgenden unterhaltssichernden und anderen ergänzenden Leistungen:
 
@@ -940,31 +944,31 @@ Handelt es sich bei den Leistungen nach Satz 1 Nummer 1 bis 3 um eine Versorgung
 
 (5) § 64 Absatz 2 Satz 1 des Neunten Buches gilt für Geschädigte und Hinterbliebene entsprechend.
 
-##### § 65 Leistungen zur Teilhabe an Bildung
+###### § 65 Leistungen zur Teilhabe an Bildung
 
 Geschädigte, die auf Grund der Schädigungsfolgen zum leistungsberechtigten Personenkreis im Sinne von § 99 des Neunten Buches gehören, erhalten Leistungen zur Teilhabe an Bildung entsprechend Teil 2 Kapitel 5 des Neunten Buches.
 
-##### § 66 Leistungen zur Sozialen Teilhabe
+###### § 66 Leistungen zur Sozialen Teilhabe
 
 (1) Geschädigte, die auf Grund der Schädigungsfolgen zum leistungsberechtigten Personenkreis im Sinne von § 99 des Neunten Buches gehören, erhalten Leistungen zur Sozialen Teilhabe entsprechend Teil 2 Kapitel 6 des Neunten Buches.
 
 (2) Abweichend von Absatz 1 werden Leistungen zur Mobilität nach § 83 des Neunten Buches erbracht. Sie umfassen zudem Leistungen zum Betrieb, Unterhalt, Unterstellen und Abstellen eines Kraftfahrzeuges.
 
-##### § 67 Zusammentreffen von Teilhabeleistungen mit Pflegeleistungen in Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches
+###### § 67 Zusammentreffen von Teilhabeleistungen mit Pflegeleistungen in Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches
 
 Werden Leistungen zur Teilhabe nach § 62 Satz 1 Nummer 1 bis 3 in Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches erbracht, so umfasst die Leistung auch die Pflegeleistung in diesen Einrichtungen oder Räumlichkeiten. Satz 1 gilt auch für nicht schädigungsbedingte Pflegebedarfe. In den Fällen der Sätze 1 und 2 gilt § 75 Absatz 3. Stellt der Leistungserbringer fest, dass Berechtigte so pflegebedürftig sind, dass die Pflege in diesen Einrichtungen oder Räumlichkeiten nicht sichergestellt werden kann, vereinbaren der Träger der Sozialen Entschädigung und die zuständige Pflegekasse mit dem Leistungserbringer, dass die Leistung bei einem anderen Leistungserbringer erbracht wird. Dabei ist den berechtigten Wünschen der Berechtigten Rechnung zu tragen.
 
-##### § 68 Zusammentreffen von Teilhabeleistungen mit Pflegeleistungen außerhalb von Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches
+###### § 68 Zusammentreffen von Teilhabeleistungen mit Pflegeleistungen außerhalb von Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches
 
 (1) Treffen außerhalb von Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches Leistungen zur Teilhabe nach § 62 Satz 1 Nummer 1 bis 3 und Leistungen der sozialen Pflegeversicherung zusammen, so gilt § 13 Absatz 4 Satz 1 bis 3 und Absatz 4a des Elften Buches für den zuständigen Träger der Sozialen Entschädigung und für die zuständige Pflegekasse entsprechend.
 
 (2) Werden Leistungen zur Teilhabe nach § 62 Satz 1 Nummer 1 bis 3 außerhalb von Einrichtungen oder Räumlichkeiten im Sinne des Absatzes 1 erbracht und besteht darüber hinaus ein Anspruch auf Leistungen der häuslichen Pflege nach den §§ 64a bis 64f, 64i und 66 des Zwölften Buches, so umfassen die Leistungen zur Teilhabe nach § 63 Satz 1 Nummer 1 bis 3 diese Leistungen der häuslichen Pflege nach dem Zwölften Buch, solange die Teilhabeziele erreicht werden können. Satz 1 gilt entsprechend in den Fällen, in denen Berechtigte vorübergehend Leistungen nach den §§ 64g und 64h des Zwölften Buches in Anspruch nehmen. Die Sätze 1 und 2 gelten nicht, wenn Berechtigte vor Vollendung des für die Regelaltersgrenze im Sinne des Sechsten Buches erforderlichen Lebensjahres keine Leistungen zur Teilhabe nach § 62 Satz 1 Nummer 1 bis 3 erhalten haben, es sei denn, es handelt sich um einen Teilhabebedarf, der durch ein schädigendes Ereignis verursacht worden ist, welches erst nach Vollendung des für die Regelaltersgrenze im Sinne des Sechsten Buches erforderlichen Lebensjahres eingetreten ist.
 
-##### § 69 Wunsch- und Wahlrecht
+###### § 69 Wunsch- und Wahlrecht
 
 Bei der Entscheidung über die Leistungen zur Teilhabe und bei der Ausführung dieser Leistungen wird den berechtigten Wünschen der Berechtigten entsprochen. Dabei sind Art und Schwere der Schädigung, Gesundheitszustand und Lebensalter besonders zu berücksichtigen. Im Übrigen gilt § 8 des Neunten Buches.
 
-##### § 70 Besonderheiten der Leistungsbemessung
+###### § 70 Besonderheiten der Leistungsbemessung
 
 Art, Ausmaß und Dauer der Leistungen zur Teilhabe richten sich nach der Besonderheit des Einzelfalls sowie der Art des Bedarfes.
 
@@ -972,7 +976,7 @@ Art, Ausmaß und Dauer der Leistungen zur Teilhabe richten sich nach der Besonde
 
 ## Abschnitt 1 Anspruch und Pflegebedürftigkeit
 
-##### § 71 Anspruch auf Leistungen bei Pflegebedürftigkeit
+###### § 71 Anspruch auf Leistungen bei Pflegebedürftigkeit
 
 (1) Geschädigte haben Anspruch auf Leistungen bei Pflegebedürftigkeit, wenn sie auf Grund der anerkannten Schädigungsfolgen pflegebedürftig sind.
 
@@ -982,7 +986,7 @@ Art, Ausmaß und Dauer der Leistungen zur Teilhabe richten sich nach der Besonde
 
 2. die Auswirkungen der Schädigungsfolgen für die Beurteilung der Pflegebedürftigkeit den anderen Gesundheitsstörungen annähernd gleichwertig sind.
 
-##### § 72 Pflegebedürftigkeit und Pflegegrad
+###### § 72 Pflegebedürftigkeit und Pflegegrad
 
 (1) Für den Begriff der Pflegebedürftigkeit, für das Verfahren zur Ermittlung des Pflegegrades und für die Einordnung in die Pflegegrade gilt das Zweite Kapitel des Elften Buches.
 
@@ -990,13 +994,13 @@ Art, Ausmaß und Dauer der Leistungen zur Teilhabe richten sich nach der Besonde
 
 (3) Kommt ein Anspruch nach dem Elften Buch nicht in Betracht, so ermittelt die zuständige Verwaltungsbehörde den Pflegegrad in eigener Verantwortung. Sie kann sich dabei sachverständiger Dritter bedienen.
 
-##### § 73 Kostenübernahme vor Pflegebedürftigkeit im Sinne des Elften Buches
+###### § 73 Kostenübernahme vor Pflegebedürftigkeit im Sinne des Elften Buches
 
 Für Geschädigte, bei denen auf Grund eines schädigenden Ereignisses voraussichtlich nur weniger als sechs Monate eine Einschränkung der Selbständigkeiten oder der Fähigkeiten vorliegt und daher eine Pflegebedürftigkeit im Sinne des Elften Buches nicht gegeben ist, können Kosten im Umfang der Leistungen nach dem Siebten Kapitel des Zwölften Buches übernommen werden. Dies gilt nicht, wenn die Pflege durch ein Arbeitgebermodell nach § 76 sichergestellt wird.
 
 ## Abschnitt 2 Umfang der Leistungen bei Pflegebedürftigkeit
 
-##### § 74 Leistungen bei Pflegebedürftigkeit
+###### § 74 Leistungen bei Pflegebedürftigkeit
 
 Geschädigte erhalten bei schädigungsbedingter Pflegebedürftigkeit im Sinne des Abschnitts 1
 
@@ -1006,7 +1010,7 @@ Geschädigte erhalten bei schädigungsbedingter Pflegebedürftigkeit im Sinne de
 
 3. Leistungen bei Pflegebedürftigkeit im Arbeitgebermodell nach § 76.
 
-##### § 75 Ergänzende Leistungen bei Pflegebedürftigkeit
+###### § 75 Ergänzende Leistungen bei Pflegebedürftigkeit
 
 (1) Werden schädigungsbedingte Bedarfe nach § 74 Nummer 1 nur teilweise gedeckt, werden die über die Leistungen des Vierten Kapitels des Elften Buches hinausgehenden, notwendigen und angemessenen Kosten übernommen. Dies gilt bei folgenden Leistungsarten:
 
@@ -1030,7 +1034,7 @@ Geschädigte erhalten bei schädigungsbedingter Pflegebedürftigkeit im Sinne de
 
 (5) Geschädigte, die weder nach dem Elften Buch versichert sind noch nach beamtenrechtlichen Vorschriften einen Anspruch auf Leistungen bei Pflegebedürftigkeit haben, erhalten die Leistungen des Vierten Kapitels des Elften Buches sowie die Leistungen nach Absatz 1. Absatz 2 bis 4 gilt entsprechend.
 
-##### § 76 Häusliche Pflege im Arbeitgebermodell
+###### § 76 Häusliche Pflege im Arbeitgebermodell
 
 (1) Stellen Geschädigte die häusliche Pflege durch von ihnen beschäftigte besondere Pflegekräfte auf Grundlage eines Arbeitsvertrages sicher (Arbeitgebermodell), so werden ihnen die hierfür erforderlichen und angemessenen Kosten erstattet. Bei der Erstattung ist das Pflegegeld nach § 37 des Elften Buches anzurechnen. Kosten der Beschäftigung von Ehegatten sowie Eltern werden Berechtigten erstattet, wenn dadurch eine fachgerechte Pflege gewährleistet ist.
 
@@ -1042,7 +1046,7 @@ Geschädigte erhalten bei schädigungsbedingter Pflegebedürftigkeit im Sinne de
 
 ## Abschnitt 3 Zuständigkeit und Erstattung
 
-##### § 77 Zuständigkeit
+###### § 77 Zuständigkeit
 
 (1) Leistungen bei Pflegebedürftigkeit nach diesem Buch werden von der zuständigen Verwaltungsbehörde nach Maßgabe der folgenden Absätze erbracht.
 
@@ -1052,17 +1056,17 @@ Geschädigte erhalten bei schädigungsbedingter Pflegebedürftigkeit im Sinne de
 
 (4) Die übrigen Leistungen nach § 75 und § 76 erbringt die zuständige Verwaltungsbehörde.
 
-##### § 78 Widersprüche
+###### § 78 Widersprüche
 
 Über Widersprüche gegen Verwaltungsakte, die im Rahmen der Leistungserbringung von Pflegekassen nach § 77 Absatz 2 und 3 erlassen werden, entscheidet die für die Verwaltungsbehörde zuständige Widerspruchsbehörde.
 
-##### § 79 Datenübermittlung
+###### § 79 Datenübermittlung
 
 Für die Erbringer von Leistungen bei Pflegebedürftigkeit gelten die §§ 104 bis 106 des Elften Buches in entsprechender Anwendung, soweit dies für die Erfüllung der Aufgaben der zuständigen Pflegekasse oder der zuständigen Verwaltungsbehörde erforderlich ist.
 
 ## Abschnitt 4 Erstattungen von Aufwendungen und Verwaltungskosten
 
-##### § 80 Erstattung an Pflegekassen
+###### § 80 Erstattung an Pflegekassen
 
 (1) Den Pflegekassen werden von der zuständigen Verwaltungsbehörde halbjährlich die Aufwendungen erstattet, die ihnen nach § 77 Absatz 2 und 3 entstehen.
 
@@ -1076,11 +1080,11 @@ Für die Erbringer von Leistungen bei Pflegebedürftigkeit gelten die §§ 104 b
 
 (6) Bis zur Entscheidung der Schiedsstelle gelten die Absätze 1 und 2.
 
-##### § 81 (weggefallen)
+###### § 81 (weggefallen)
 
 ## Kapitel 8 Leistungen bei hochgradiger Sehbehinderung, Blindheit und Taubblindheit
 
-##### § 82 Anspruch und Umfang
+###### § 82 Anspruch und Umfang
 
 (1) Ist als Schädigungsfolge hochgradige Sehbehinderung nach Teil A Nummer 6 Buchstabe d der Versorgungsmedizin-Verordnung eingetreten, erhalten Geschädigte unabhängig vom Lebensalter die Hälfte des Betrags nach § 72 Absatz 2 des Zwölften Buches, der für blinde Menschen nach Vollendung des 18. Lebensjahres geleistet wird.
 
@@ -1094,19 +1098,19 @@ Für die Erbringer von Leistungen bei Pflegebedürftigkeit gelten die §§ 104 b
 
 ## Abschnitt 1 Entschädigungszahlungen an Geschädigte
 
-##### § 83 Monatliche Entschädigungszahlung
+###### § 83 Monatliche Entschädigungszahlung
 
 (1) Geschädigte erhalten eine monatliche Entschädigungszahlung von
 
-1. 434 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
+1. 452 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
 
-2. 868 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
+2. 905 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
 
-3. 1 302 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3. 1 357 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
-4. 1 736 Euro bei einem Grad der Schädigungsfolgen von 90,
+4. 1 810 Euro bei einem Grad der Schädigungsfolgen von 90,
 
-5. 2 169 Euro bei einem Grad der Schädigungsfolgen von 100.
+5. 2 261 Euro bei einem Grad der Schädigungsfolgen von 100.
 
 (2) Die monatliche Entschädigungszahlung nach Absatz 1 Nummer 5 erhöht sich für Geschädigte mit schwersten Schädigungsfolgen um 20 Prozent.
 
@@ -1124,7 +1128,7 @@ Für die Erbringer von Leistungen bei Pflegebedürftigkeit gelten die §§ 104 b
 
 eine weitere wesentliche Schädigungsfolge vorliegt, so dass der Leidenszustand vergleichbar außergewöhnlich ist wie bei den Geschädigten nach Satz 1. Schwerste Schädigungsfolgen können auch andere Geschädigte mit einem GdS von 100 haben, wenn deren außergewöhnlicher Leidenszustand vergleichbar ist mit den Geschädigten nach Satz 1.
 
-##### § 84 Abfindung
+###### § 84 Abfindung
 
 (1) Geschädigte, die einen Anspruch auf eine monatliche Entschädigungszahlung nach § 83 Absatz 1 Nummer 1 bis 5 haben, erhalten auf Antrag eine Abfindung. Der Antrag ist innerhalb eines Jahres nach Bewilligung der Entschädigungszahlung zu stellen.
 
@@ -1134,27 +1138,27 @@ eine weitere wesentliche Schädigungsfolge vorliegt, so dass der Leidenszustand 
 
 ## Abschnitt 2 Entschädigungszahlungen an Hinterbliebene
 
-##### § 85 Monatliche Entschädigungszahlung an Witwen und Witwer sowie an Partner einer eheähnlichen Gemeinschaft
+###### § 85 Monatliche Entschädigungszahlung an Witwen und Witwer sowie an Partner einer eheähnlichen Gemeinschaft
 
-(1) Eine monatliche Entschädigungszahlung in Höhe von 1 144 Euro erhält die Witwe oder der Witwer des oder der schädigungsbedingt verstorbenen Geschädigten. Dieser Betrag erhöht sich um jeweils 54 Euro monatlich für jedes im Haushalt lebende minderjährige Kind, das eine monatliche Entschädigungszahlung für Waisen bezieht oder einen monatlichen Betrag nach § 144 Absatz 1 erhält, in dem eine Geldleistung nach § 45 Absatz 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung enthalten ist.
+(1) Eine monatliche Entschädigungszahlung in Höhe von 1 193 Euro erhält die Witwe oder der Witwer des oder der schädigungsbedingt verstorbenen Geschädigten. Dieser Betrag erhöht sich um jeweils 56 Euro monatlich für jedes im Haushalt lebende minderjährige Kind, das eine monatliche Entschädigungszahlung für Waisen bezieht oder einen monatlichen Betrag nach § 144 Absatz 1 erhält, in dem eine Geldleistung nach § 45 Absatz 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung enthalten ist.
 
 (2) Die monatliche Entschädigungszahlung nach Absatz 1 erhalten auch Partner einer eheähnlichen Gemeinschaft, sofern ein Partner an den Schädigungsfolgen verstorben ist und der andere unter Verzicht auf eine Erwerbstätigkeit die Betreuung eines gemeinschaftlichen Kindes ausübt. Dieser Anspruch besteht für die ersten drei Lebensjahre des Kindes.
 
 (3) Der Anspruch auf die monatliche Entschädigungszahlung erlischt, wenn Witwen oder Witwer oder überlebende Partner einer eheähnlichen Gemeinschaft heiraten.
 
-##### § 86 Abfindung für Witwen und Witwer
+###### § 86 Abfindung für Witwen und Witwer
 
 (1) Witwen und Witwer erhalten auf Antrag eine Abfindung anstelle der monatlichen Entschädigungszahlung. Der Antrag ist innerhalb eines Jahres nach Bewilligung der Entschädigungszahlung zu stellen.
 
-(2) Die Abfindung beträgt 137 337 Euro. Auf die Abfindung sind bereits geleistete monatliche Entschädigungszahlungen anzurechnen.
+(2) Die Abfindung beträgt 143 160 Euro. Auf die Abfindung sind bereits geleistete monatliche Entschädigungszahlungen anzurechnen.
 
 (3) Mit der Zahlung der Abfindung sind alle Ansprüche auf die monatlichen Entschädigungszahlungen abgegolten.
 
-##### § 87 Monatliche Entschädigungszahlung an Waisen
+###### § 87 Monatliche Entschädigungszahlung an Waisen
 
-(1) Waisen eines schädigungsbedingt verstorbenen Elternteils erhalten jeweils eine monatliche Entschädigungszahlung in Höhe von 423 Euro.
+(1) Waisen eines schädigungsbedingt verstorbenen Elternteils erhalten jeweils eine monatliche Entschädigungszahlung in Höhe von 441 Euro.
 
-(2) Waisen schädigungsbedingt verstorbener Eltern erhalten jeweils eine monatliche Entschädigungszahlung in Höhe von 662 Euro.
+(2) Waisen schädigungsbedingt verstorbener Eltern erhalten jeweils eine monatliche Entschädigungszahlung in Höhe von 690 Euro.
 
 (3) Die monatlichen Entschädigungszahlungen werden gezahlt, bis die Waise 18 Jahre alt wird.
 
@@ -1164,7 +1168,7 @@ eine weitere wesentliche Schädigungsfolge vorliegt, so dass der Leidenszustand 
 
 2. in den Fällen des § 2 Absatz 2 mit Ausnahme des § 2 Absatz 2 Satz 1 Nummer 2 Buchstabe a des Bundeskindergeldgesetzes sowie in den Fällen des § 2 Absatz 3 des Bundeskindergeldgesetzes mit der Maßgabe, dass an die Stelle der Vollendung des 25. Lebensjahres die Vollendung des 27. Lebensjahres tritt.
 
-##### § 88 Monatliche Entschädigungszahlung an hinterbliebene Eltern
+###### § 88 Monatliche Entschädigungszahlung an hinterbliebene Eltern
 
 (1) Ist die oder der Geschädigte an den Folgen einer Schädigung gestorben, so erhalten Eltern eine monatliche Entschädigungszahlung, wenn sie
 
@@ -1178,9 +1182,9 @@ frühestens jedoch von dem Monat an, in dem der oder die Geschädigte das 18. Le
 
 (2) Die monatliche Entschädigungszahlung an Eltern beträgt für jedes Kind, das an den Folgen der Schädigung gestorben ist,
 
-1. für ein noch lebendes Elternteil 271 Euro,
+1. für ein noch lebendes Elternteil 282 Euro,
 
-2. für beide Elternteile je 163 Euro.
+2. für beide Elternteile je 170 Euro.
 
 (3) Den Eltern werden gleichgestellt
 
@@ -1190,7 +1194,7 @@ frühestens jedoch von dem Monat an, in dem der oder die Geschädigte das 18. Le
 
 ## Kapitel 10 Berufsschadensausgleich
 
-##### § 89 Voraussetzung und Höhe
+###### § 89 Voraussetzung und Höhe
 
 (1) Hat eine Geschädigte oder ein Geschädigter infolge der gesundheitlichen Schädigung einen Einkommensverlust, so erhält sie oder er monatlich einen Berufsschadensausgleich, wenn
 
@@ -1246,7 +1250,7 @@ Arbeitslosigkeit, schädigungs- oder altersbedingtes Ausscheiden aus dem Erwerbs
 
 (9) Geschädigte nach Absatz 1, die einen gemeinsamen Haushalt mit ihrer Ehegattin oder ihrem Ehegatten, einem Verwandten oder einem Stief- oder Pflegekind führen oder ohne die Schädigung führen würden, erhalten als Berufsschadensausgleich einen Betrag in Höhe der Hälfte der wegen der Folgen der Schädigung notwendigen Mehraufwendungen bei der Führung des gemeinsamen Haushalts.
 
-##### § 90 Feststellung
+###### § 90 Feststellung
 
 (1) Der Berufsschadensausgleich ist bei monatlich feststehendem Einkommen endgültig festzustellen. Bei monatlich nicht feststehendem Einkommen ist der Berufsschadensausgleich entsprechend den im Zeitpunkt der Bescheiderteilung bekannten Einkommensverhältnissen vorläufig festzusetzen und jeweils nachträglich endgültig festzustellen. Eine Neufeststellung erfolgt nur, wenn sich das Einkommen um mehr als fünf Euro verändert hat.
 
@@ -1254,7 +1258,7 @@ Arbeitslosigkeit, schädigungs- oder altersbedingtes Ausscheiden aus dem Erwerbs
 
 (3) Sonderleistungen, wie Weihnachtsgratifikationen, zusätzliche Monatsgehälter und Erfolgsprämien, sind als Einkommen in den Monaten zu berücksichtigen, in denen sie gezahlt werden.
 
-##### § 91 Verordnungsermächtigung
+###### § 91 Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zu bestimmen:
 
@@ -1270,7 +1274,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 ## Kapitel 11 Besondere Leistungen im Einzelfall
 
-##### § 92 Anspruch und Umfang
+###### § 92 Anspruch und Umfang
 
 (1) Geschädigte erhalten Besondere Leistungen im Einzelfall, soweit und solange sie nicht oder nicht ausreichend in der Lage sind, den jeweiligen Bedarf aus ihrem Einkommen und Vermögen zu decken, und dieses Unvermögen durch die Schädigungsfolgen entstanden ist.
 
@@ -1294,7 +1298,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 (7) § 26 des Zwölften Buches gilt entsprechend.
 
-##### § 93 Leistungen zum Lebensunterhalt
+###### § 93 Leistungen zum Lebensunterhalt
 
 (1) Geschädigte erhalten Leistungen zum Lebensunterhalt. Hinterbliebene erhalten Leistungen nach Satz 1 für einen Zeitraum von bis zu fünf Jahren nach dem Tod der oder des Geschädigten. Die Vorschriften des Dritten und Vierten Kapitels sowie § 145 Absatz 1 und 2 des Zwölften Buches gelten entsprechend unter Berücksichtigung der besonderen Lage der Geschädigten und Hinterbliebenen. Leistungen zum Lebensunterhalt werden nur erbracht, soweit der Lebensunterhalt nicht aus den übrigen Leistungen nach diesem Gesetz bestritten werden kann.
 
@@ -1304,7 +1308,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 (4) Der Anspruch auf Leistungen zum Lebensunterhalt kann nicht abgetreten, übertragen, verpfändet oder gepfändet werden.
 
-##### § 94 Leistung zur Förderung einer Ausbildung
+###### § 94 Leistung zur Förderung einer Ausbildung
 
 (1) Soweit bei Geschädigten und Waisen die Förderung einer Ausbildung nach dem Bundesausbildungsförderungsgesetz als Darlehen schädigungsbedingt erfolgt, übernimmt der Träger der Sozialen Entschädigung auf Antrag die Rückzahlung des Darlehens.
 
@@ -1322,7 +1326,7 @@ Im Fall des Satzes 1 Nummer 1 gelten die Darlehensleistungen ab dem Zeitpunkt de
 
 (5) Der Träger der Sozialen Entschädigung zahlt die von ihm zu übernehmende Darlehensschuld nach Kenntnis von der Unanfechtbarkeit des Bescheides nach Absatz 3 Satz 1 und nach Unanfechtbarkeit seiner Entscheidung über die teilweise oder vollständige Übernahme der Darlehensschuld in einer Summe an das Bundesverwaltungsamt zurück. § 18 Absatz 10 des Bundesausbildungsförderungsgesetzes findet keine Anwendung. Nach Kenntnis vom Zugang der Mitteilung nach Absatz 3 Satz 2 zahlt der Träger der Sozialen Entschädigung die von ihm zu übernehmende Darlehensschuld einschließlich der Zinsen nach § 18c Absatz 2 Satz 1 des Bundesausbildungsförderungsgesetzes binnen drei Monaten in einer Summe an die Kreditanstalt für Wiederaufbau zurück.
 
-##### § 95 Leistungen zur Weiterführung des Haushalts
+###### § 95 Leistungen zur Weiterführung des Haushalts
 
 (1) Geschädigte mit eigenem Haushalt erhalten Leistungen zur Weiterführung des Haushalts, wenn weder sie selbst noch, falls sie mit anderen Haushaltsangehörigen zusammenleben, die anderen Haushaltsangehörigen den Haushalt führen können und die Weiterführung des Haushalts geboten ist. Die Leistungen sollen in der Regel nur vorübergehend erbracht werden. Leistungen sind unbefristet zu erbringen, wenn
 
@@ -1336,21 +1340,21 @@ Im Fall des Satzes 1 Nummer 1 gelten die Darlehensleistungen ab dem Zeitpunkt de
 
 (4) Die Leistungen können auch durch Übernahme der angemessenen Kosten für eine vorübergehende anderweitige Unterbringung von Haushaltsangehörigen erbracht werden, wenn diese Unterbringung in besonderen Fällen neben oder statt der Weiterführung des Haushalts geboten ist.
 
-##### § 96 Leistungen in sonstigen Lebenslagen
+###### § 96 Leistungen in sonstigen Lebenslagen
 
 Geschädigte können Leistungen auch in sonstigen Lebenslagen erhalten, wenn diese den Einsatz öffentlicher Mittel unter Berücksichtigung der Ziele der Sozialen Entschädigung rechtfertigen.
 
-##### § 97 Wunsch- und Wahlrecht
+###### § 97 Wunsch- und Wahlrecht
 
 Bei der Entscheidung über die Besonderen Leistungen im Einzelfall und bei der Ausführung dieser Leistungen wird den berechtigten Wünschen der Berechtigten entsprochen. Dabei sind Art und Schwere der Schädigung, Gesundheitszustand und Lebensalter besonders zu berücksichtigen. Im Übrigen gilt § 8 des Neunten Buches entsprechend.
 
-##### § 98 Besonderheiten der Leistungsbemessung
+###### § 98 Besonderheiten der Leistungsbemessung
 
 Art, Ausmaß und Dauer der Besonderen Leistungen im Einzelfall richten sich nach der Besonderheit des Einzelfalls sowie der Art des Bedarfes.
 
 ## Kapitel 12 Überführung und Bestattung
 
-##### § 99 Leistungen bei Überführung und Bestattung
+###### § 99 Leistungen bei Überführung und Bestattung
 
 (1) Stirbt eine Geschädigte oder ein Geschädigter an den Schädigungsfolgen, so hat diejenige Person, die die Überführung veranlasst hat, einen Anspruch auf Übernahme der Kosten der Überführung. Der Anspruch auf Übernahme umfasst die tatsächlich entstandenen Kosten der Überführung an den Ort der Bestattung, soweit sie erforderlich und angemessen sind.
 
@@ -1366,7 +1370,7 @@ Art, Ausmaß und Dauer der Besonderen Leistungen im Einzelfall richten sich nach
 
 ## Kapitel 13 Härtefallregelung
 
-##### § 100 Ausgleich in Härtefällen
+###### § 100 Ausgleich in Härtefällen
 
 (1) Soweit sich im Einzelfall aus der Anwendung der Vorschriften dieses Buches eine besondere Härte ergibt, kann mit Zustimmung der zuständigen obersten Bundesbehörde oder der zuständigen obersten Landesbehörde ein angemessener Ausgleich erbracht werden.
 
@@ -1376,7 +1380,7 @@ Art, Ausmaß und Dauer der Besonderen Leistungen im Einzelfall richten sich nach
 
 ## Kapitel 14 Regelungen bei Wohnsitz oder gewöhnlichem Aufenthalt im Ausland
 
-##### § 101 Leistungen bei Wohnsitz oder gewöhnlichem Aufenthalt im Ausland
+###### § 101 Leistungen bei Wohnsitz oder gewöhnlichem Aufenthalt im Ausland
 
 (1) Geschädigte, ihre Angehörigen oder Hinterbliebenen sowie Nahestehende, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Ausland haben, erhalten Leistungen nach Maßgabe der Absätze 2 bis 9.
 
@@ -1398,7 +1402,7 @@ Art, Ausmaß und Dauer der Besonderen Leistungen im Einzelfall richten sich nach
 
 ## Kapitel 15 Besonderheiten der Leistungserbringung für einzelne Entschädigungstatbestände
 
-##### § 102 Leistungen bei Gewalttaten im Ausland
+###### § 102 Leistungen bei Gewalttaten im Ausland
 
 (1) Berechtigte nach § 15 erhalten Leistungen nach Maßgabe der folgenden Absätze.
 
@@ -1408,17 +1412,17 @@ Art, Ausmaß und Dauer der Besonderen Leistungen im Einzelfall richten sich nach
 
 (4) Geschädigte erhalten Einmalzahlungen in Höhe von
 
-1. 2 821 Euro bei einem Grad der Schädigungsfolgen von mindestens 30, aber weniger als 50,
+1. 2 941 Euro bei einem Grad der Schädigungsfolgen von mindestens 30, aber weniger als 50,
 
-2. 8 461 Euro bei einem Grad der Schädigungsfolgen von 50 bis 60,
+2. 8 820 Euro bei einem Grad der Schädigungsfolgen von 50 bis 60,
 
-3. 14 102 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3. 14 700 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
-4. 22 564 Euro bei einem Grad der Schädigungsfolgen von 90,
+4. 23 521 Euro bei einem Grad der Schädigungsfolgen von 90,
 
-5. 31 026 Euro bei einem Grad der Schädigungsfolgen von 100.
+5. 32 342 Euro bei einem Grad der Schädigungsfolgen von 100.
 
-(5) Ist eine Person, bei der die Voraussetzungen nach Absatz 1 vorliegen, an den Folgen der Schädigung gestorben, erhalten Hinterbliebene eine Einmalzahlung. Die Einmalzahlung beträgt bei Halbwaisen 2 821 Euro, bei Vollwaisen 3 797 Euro und bei weiteren Hinterbliebenen 8 461 Euro.
+(5) Ist eine Person, bei der die Voraussetzungen nach Absatz 1 vorliegen, an den Folgen der Schädigung gestorben, erhalten Hinterbliebene eine Einmalzahlung. Die Einmalzahlung beträgt bei Halbwaisen 2 941 Euro, bei Vollwaisen 3 958 Euro und bei weiteren Hinterbliebenen 8 820 Euro.
 
 (6) Angehörige und Hinterbliebene haben Anspruch auf Leistungen der Schnellen Hilfen. Diese werden im Inland erbracht. Überführungs- und Bestattungskosten werden nach § 99 erstattet.
 
@@ -1426,7 +1430,7 @@ Art, Ausmaß und Dauer der Besonderen Leistungen im Einzelfall richten sich nach
 
 (8) Leistungen nach den Absätzen 2 bis 6 sind zügig zu erbringen, auch wenn im Ausland noch Verfahren anhängig sind. Sieht der ausländische Staat Leistungen für Opfer von Gewalttaten vor und hat eine berechtigte Person einen Antrag auf solche Leistungen nicht gestellt, so können Leistungen nach den Absätzen 3 bis 5 in entsprechender Anwendung der §§ 66 und 67 des Ersten Buches ganz oder teilweise versagt werden.
 
-##### § 103 Leistungen für Zivildienstgeschädigte und Hinterbliebene
+###### § 103 Leistungen für Zivildienstgeschädigte und Hinterbliebene
 
 Zivildienstgeschädigte erhalten bei Vorliegen der Voraussetzungen nach § 23
 
@@ -1434,7 +1438,7 @@ Zivildienstgeschädigte erhalten bei Vorliegen der Voraussetzungen nach § 23
 
 2. während des Dienstverhältnisses Leistungen des Kapitels 4 Abschnitt 3 und des Kapitels 9 Abschnitt 1.
 
-##### § 104 Krankengeld der Sozialen Entschädigung für Zivildienstgeschädigte
+###### § 104 Krankengeld der Sozialen Entschädigung für Zivildienstgeschädigte
 
 Zivildienstgeschädigte, die infolge einer Zivildienstschädigung arbeitsunfähig sind, erhalten nach Beendigung des Zivildienstverhältnisses Krankengeld der Sozialen Entschädigung nach § 47 mit folgenden Maßgaben:
 
@@ -1444,7 +1448,7 @@ Zivildienstgeschädigte, die infolge einer Zivildienstschädigung arbeitsunfähi
 
 ## Kapitel 16 Einsatz von Einkommen und Vermögen
 
-##### § 105 Grundsätze
+###### § 105 Grundsätze
 
 (1) Die Vorschriften dieses Kapitels gelten für die Besonderen Leistungen im Einzelfall nach Kapitel 11 mit Ausnahme der Leistung zur Förderung einer Ausbildung nach § 94.
 
@@ -1454,7 +1458,7 @@ Zivildienstgeschädigte, die infolge einer Zivildienstschädigung arbeitsunfähi
 
 (4) Leistungen der Sozialen Entschädigung dürfen nicht von dem Einsatz von Einkommen oder dem Einsatz oder der Verwertung von Vermögen abhängig gemacht werden, soweit dies im Einzelfall bei Berücksichtigung der besonderen Lage derjenigen Person, die Einkommen oder Vermögen einzusetzen oder zu verwerten hat, oder für ihre unterhaltsberechtigten Angehörigen unbillig wäre.
 
-##### § 106 Berücksichtigung von Einkommen
+###### § 106 Berücksichtigung von Einkommen
 
 (1) Nicht als Einkommen zu berücksichtigen sind
 
@@ -1466,7 +1470,7 @@ Zivildienstgeschädigte, die infolge einer Zivildienstschädigung arbeitsunfähi
 
 (3) Als Einkommen gilt neben dem Einkommen der Berechtigten auch das Einkommen der nicht dauernd getrennt lebenden Ehegatten oder der Personen, die mit Berechtigten eine eheähnliche Lebensgemeinschaft führen, soweit es die für die Berechtigten maßgebliche Einkommensgrenze nach § 107 Absatz 1 übersteigt. Bei minderjährigen unverheirateten Berechtigten ist zur Deckung des Bedarfs auch das Einkommen der Eltern oder eines Elternteils einzusetzen, bei denen die Berechtigten leben. Abweichend von Satz 2 ist Einkommen der Eltern oder eines Elternteils nicht zu berücksichtigen, solange Berechtigte schwanger sind oder mindestens ein Kind bis zur Vollendung seines sechsten Lebensjahres betreuen. Zahlungen auf Grund eines bürgerlich-rechtlichen Unterhaltsanspruches sind insoweit Einkommen der Berechtigten, als das Einkommen der Unterhaltspflichtigen die für sie nach § 107 Absatz 1 zu ermittelnde Einkommensgrenze übersteigt. Ist ein Unterhaltsbetrag gerichtlich festgesetzt, sind die darauf beruhenden Zahlungen Einkommen der Berechtigten.
 
-##### § 107 Einkommensgrenze
+###### § 107 Einkommensgrenze
 
 (1) Einkommen der Berechtigten ist nur einzusetzen, soweit es während der Dauer des Bedarfs im Monat eine Einkommensgrenze übersteigt. Abweichend von den in § 85 Absatz 1 des Zwölften Buches genannten Beträgen sind hierbei zu berücksichtigen
 
@@ -1482,7 +1486,7 @@ Die Einkommensgrenze nach den Sätzen 1 und 2 beträgt höchstens das Achtfache 
 
 (3) Die Absätze 1 und 2 gelten nicht bei Leistungen zum Lebensunterhalt.
 
-##### § 108 Berücksichtigung von Vermögen
+###### § 108 Berücksichtigung von Vermögen
 
 (1) Entschädigungszahlungen nach Kapitel 9 und die Einmalzahlungen nach § 102 Absatz 4 und 5 sind nicht als Vermögen einzusetzen.
 
@@ -1490,7 +1494,7 @@ Die Einkommensgrenze nach den Sätzen 1 und 2 beträgt höchstens das Achtfache 
 
 (3) Bei minderjährigen unverheirateten Berechtigten ist zur Deckung des Bedarfs auch Vermögen der Eltern oder eines Elternteils einzusetzen oder zu verwerten. Abweichend von Satz 1 ist Vermögen der Eltern oder eines Elternteils nicht einzusetzen oder zu verwerten, solange Berechtigte schwanger sind oder mindestens ein Kind bis zur Vollendung seines sechsten Lebensjahres betreuen.
 
-##### § 109 Verordnungsermächtigung
+###### § 109 Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zu bestimmen, welche weiteren
 
@@ -1502,7 +1506,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 ## Kapitel 17 Anpassung
 
-##### § 110 Höhe und Zeitpunkt der Anpassung, Verordnungsermächtigung
+###### § 110 Höhe und Zeitpunkt der Anpassung, Verordnungsermächtigung
 
 (1) Die Höhe der Entschädigungszahlungen nach Kapitel 9, der Betrag nach § 89 Absatz 8 Satz 1 sowie die Höhe der Einmalzahlungen nach § 102 Absatz 4 und 5 werden jeweils entsprechend dem Prozentsatz angepasst, um den sich der aktuelle Rentenwert in der gesetzlichen Rentenversicherung verändert.
 
@@ -1516,15 +1520,15 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 ## Abschnitt 1 Organisation und Durchführung
 
-##### § 111 Träger der Sozialen Entschädigung
+###### § 111 Träger der Sozialen Entschädigung
 
 Träger der Sozialen Entschädigung sind die Länder.
 
-##### § 112 Sachliche Zuständigkeit
+###### § 112 Sachliche Zuständigkeit
 
 Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständigkeit kann auf gemeinsame Behörden oder auf andere Träger übertragen werden.
 
-##### § 113 Örtliche Zuständigkeit
+###### § 113 Örtliche Zuständigkeit
 
 (1) Die örtliche Zuständigkeit der Behörden nach § 112 bestimmen die Länder.
 
@@ -1538,7 +1542,7 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 
 (6) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die örtliche Zuständigkeit für Personen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Ausland haben, zu bestimmen.
 
-##### § 114 Aufgaben des Bundesministeriums für Arbeit und Soziales
+###### § 114 Aufgaben des Bundesministeriums für Arbeit und Soziales
 
 (1) Das Bundesministerium für Arbeit und Soziales wirkt auf die bundeseinheitliche Durchführung dieses Buches durch geeignete Maßnahmen hin.
 
@@ -1546,7 +1550,7 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 
 ## Abschnitt 2 Verfahren zur Prüfung des Leistungsanspruchs
 
-##### § 115 Erleichtertes Verfahren bei Leistungen der Schnellen Hilfen
+###### § 115 Erleichtertes Verfahren bei Leistungen der Schnellen Hilfen
 
 (1) Leistungen der Schnellen Hilfen werden in der Regel im Erleichterten Verfahren erbracht.
 
@@ -1554,7 +1558,7 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 
 (3) Im Erleichterten Verfahren wird weder eine Feststellung über die Richtigkeit oder Unrichtigkeit des von der antragstellenden Person vorgetragenen Sachverhaltes noch über das Bestehen oder Nichtbestehen weiterer, über die Schnellen Hilfen hinausgehende Ansprüche getroffen.
 
-##### § 116 Weiteres Verfahren
+###### § 116 Weiteres Verfahren
 
 (1) Nach der Entscheidung im Erleichterten Verfahren wird geprüft, ob Ansprüche auf Leistungen der Sozialen Entschädigung bestehen, es sei denn, die antragstellende Person hat den Antrag ausdrücklich auf Schnelle Hilfen beschränkt.
 
@@ -1562,7 +1566,7 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 
 (3) Ergibt die weitere Prüfung, dass Leistungsansprüche der Sozialen Entschädigung bestehen, erging im Erleichterten Verfahren aber ein nicht begünstigender Verwaltungsakt, wird der im Erleichterten Verfahren ergangene Verwaltungsakt widerrufen und über den Antrag neu entschieden.
 
-##### § 117 Beweiserleichterungen
+###### § 117 Beweiserleichterungen
 
 (1) Die Angaben der antragstellenden Person, die sich auf die mit der Schädigung im Zusammenhang stehenden Tatsachen beziehen, sind, wenn Beweismittel nicht vorhanden oder nicht zu beschaffen oder ohne Verschulden der antragstellenden Person oder ihrer Hinterbliebenen verlorengegangen sind, der Entscheidung zu Grunde zu legen, soweit sie nach den Umständen des Falles glaubhaft erscheinen.
 
@@ -1570,7 +1574,7 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 
 (3) Die Verwaltungsbehörde kann von der antragstellenden Person in besonderen Fällen die Abgabe einer eidesstattlichen Versicherung verlangen.
 
-##### § 118 Beiziehung von Unterlagen und Anhörung
+###### § 118 Beiziehung von Unterlagen und Anhörung
 
 (1) Mit Einwilligung der antragstellenden Person kann die zuständige Verwaltungsbehörde zur Aufklärung des Sachverhalts von öffentlichen, freien gemeinnützigen und privaten Krankenhäusern sowie Krankenhäusern öffentlich-rechtlicher Körperschaften und Trägern der Sozialversicherung Krankenpapiere, Aufzeichnungen, Krankengeschichten, Sektions- und Untersuchungsbefunde sowie Röntgenbilder im erforderlichen Maße zur Einsicht beiziehen. Die Verwaltungsbehörde hat für die Wahrung des ärztlichen Berufsgeheimnisses Sorge zu tragen. Unter denselben Voraussetzungen kann die Verwaltungsbehörde von privaten Ärztinnen und Ärzten und anderen Therapeutinnen und Therapeuten, die die antragstellende Person behandeln oder behandelt haben, Auskünfte einholen und Untersuchungsunterlagen zur Einsicht beziehen.
 
@@ -1578,7 +1582,7 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 
 (3) Ist die Anhörung vor den zuständigen Verwaltungsbehörden mit Schwierigkeiten verbunden, namentlich wegen der Entfernung des Aufenthaltsorts der zu hörenden Personen vom Sitz der Verwaltungsbehörde, so kann eine andere Verwaltungsbehörde und, wenn die Anhörung vor dieser ebenfalls Schwierigkeiten unterläge, eine andere Behörde um die Erledigung ersucht werden. Dasselbe gilt bei Gefahr im Verzug.
 
-##### § 119 Vorzeitige Leistungen und vorläufige Entscheidung
+###### § 119 Vorzeitige Leistungen und vorläufige Entscheidung
 
 (1) Bevor die Anspruchsvoraussetzungen nach § 4 festgestellt sind, können Geschädigte Leistungen der Krankenbehandlung sowie Leistungen zur Teilhabe und Besondere Leistungen im Einzelfall erhalten.
 
@@ -1586,7 +1590,7 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 
 ## Abschnitt 3 Weitere Regelungen
 
-##### § 120 Ansprüche gegen Schadensersatzpflichtige
+###### § 120 Ansprüche gegen Schadensersatzpflichtige
 
 (1) § 116 des Zehnten Buches gilt für den Übergang eines Anspruchs der oder des Berechtigten auf Ersatz eines Schadens auf den oder die jeweiligen Kostenträger der Sozialen Entschädigung entsprechend.
 
@@ -1596,25 +1600,25 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 
 (4) Die Krankenkassen haben der Verwaltungsbehörde die Tatsachen mitzuteilen, aus denen sich ergibt, dass ein Dritter den Schaden verursacht hat. Auf Anfrage haben die Krankenkassen und die Unfallkassen der Länder der Verwaltungsbehörde Angaben darüber zu machen, in welcher Höhe ihnen Kosten für Leistungen der Krankenbehandlung entstanden sind. Keine Angaben sind erforderlich für nichtstationäre ärztliche Behandlungen und die Versorgung mit Arzneimitteln und Verbandmitteln.
 
-##### § 121 Erstattung von Leistungen durch öffentlich-rechtliche Stellen
+###### § 121 Erstattung von Leistungen durch öffentlich-rechtliche Stellen
 
 Hat ein Träger der Sozialen Entschädigung Leistungen erbracht und stellt sich nachträglich heraus, dass eine andere öffentlich-rechtliche Stelle, die nicht Leistungsträger nach § 12 des Ersten Buches ist, zur Leistung verpflichtet gewesen wäre, hat die zur Leistung verpflichtete Stelle die Aufwendungen zu erstatten. Der Umfang der Erstattung richtet sich nach den Rechtsvorschriften, die für die verpflichtete Stelle gelten.
 
-##### § 122 Überzahlung von Geldleistungen nach dem Tod der oder des Berechtigten
+###### § 122 Überzahlung von Geldleistungen nach dem Tod der oder des Berechtigten
 
 Hat der Träger der Sozialen Entschädigung Geldleistungen für die Zeit nach dem Tod der oder des Berechtigten zu Unrecht erbracht, gilt § 118 Absatz 3 bis 4a des Sechsten Buches Sozialgesetzbuch entsprechend.
 
-##### § 122a Zahlung
+###### § 122a Zahlung
 
 Die Leistungen nach § 3 Satz 1 Nummer 5 bis 7 sowie 11 und 12 werden in Monatsbeträgen zuerkannt, auf volle Eurobeträge aufgerundet und monatlich im Voraus gezahlt. Die Leistung nach § 48 wird tageweise zuerkannt.
 
 ## Kapitel 19 Bundesstelle für Soziale Entschädigung
 
-##### § 123 Bundesstelle für Soziale Entschädigung
+###### § 123 Bundesstelle für Soziale Entschädigung
 
 Unter der Bezeichnung „Bundesstelle für Soziale Entschädigung“ führt das Bundesamt für Soziale Sicherung die Aufgaben nach § 124 aus. Dabei unterliegt es der Fachaufsicht des Bundesministeriums für Arbeit und Soziales.
 
-##### § 124 Aufgaben der Bundesstelle für Soziale Entschädigung
+###### § 124 Aufgaben der Bundesstelle für Soziale Entschädigung
 
 (1) Die Bundesstelle für Soziale Entschädigung nimmt Aufgaben des Bundes auf dem Gebiet der Sozialen Entschädigung nach Maßgabe der folgenden Absätze wahr.
 
@@ -1630,27 +1634,17 @@ Unter der Bezeichnung „Bundesstelle für Soziale Entschädigung“ führt das 
 
 (4) Die Bundesstelle für Soziale Entschädigung unterstützt als Kompetenzzentrum für Soziale Entschädigung das Bundesministerium für Arbeit und Soziales bei Aufgaben der Qualitätssicherung und bei der bundeseinheitlichen Durchführung der Sozialen Entschädigung insbesondere durch
 
-1. die Begleitung der Umsetzung und Fortschreibung der Rechtsverordnung nach § 40,
+1. die Organisation von Veranstaltungen des Bundesministeriums für Arbeit und Soziales für Mitarbeiterinnen und Mitarbeiter der Behörden und der Personen, die Leistungen der Schnellen Hilfen erbringen,
 
-2. die Organisation von Veranstaltungen des Bundesministeriums für Arbeit und Soziales für Mitarbeiterinnen und Mitarbeiter der Behörden und der Personen, die Leistungen der Schnellen Hilfen erbringen,
+2. die Organisation von Erfahrungsaustauschen des Bundesministeriums für Arbeit und Soziales für Personen, die an der Durchführung dieses Buches beteiligt sind sowie
 
-3. die Organisation von Erfahrungsaustauschen des Bundesministeriums für Arbeit und Soziales für Personen, die an der Durchführung dieses Buches beteiligt sind,
+3. das Erstellen und Führen der amtlichen Statistik nach § 126.
 
-4. die Entwicklung von Arbeitshilfen und Formularen,
+(5) Die Bundesstelle für Soziale Entschädigung erledigt weitere Aufgaben, die mit den Aufgaben des Bundes im Bereich der Sozialen Entschädigung zusammenhängen und mit deren Durchführung sie vom Bundesministerium für Arbeit und Soziales beauftragt wird.
 
-5. das Führen eines Verzeichnisses von im Sozialen Entschädigungsrecht erfahrenen medizinischen Gutachtern,
+(6) Die Wahrnehmung der Aufgaben nach Absatz 4 Nummer 1 und 2 und nach Absatz 5 kann die Bundesstelle für Soziale Entschädigung ganz oder teilweise auf Dritte übertragen oder sich bei der Wahrnehmung der Aufgaben nach Absatz 4 durch Dritte unterstützen lassen.
 
-6. das Erstellen und Führen der amtlichen Statistik nach § 126,
-
-7. die Erstellung des Berichts nach § 132 sowie
-
-8. die Abwicklung von Forschungsprojekten im Bereich der Sozialen Entschädigung.
-
-(5) Die Bundesstelle für Soziale Entschädigung erledigt weitere Aufgaben des Bundes, die mit den in den Absätzen 2 bis 4 genannten Aufgaben zusammenhängen und mit deren Durchführung sie vom Bundesministerium für Arbeit und Soziales beauftragt wird.
-
-(6) Die Wahrnehmung der Aufgaben nach Absatz 4 Nummer 2 bis 5 kann die Bundesstelle für Soziale Entschädigung ganz oder teilweise auf Dritte übertragen oder sich bei der Wahrnehmung der Aufgaben nach § 60 Absatz 6 und nach Absatz 4 Nummer 2 bis 8 durch Dritte unterstützen lassen.
-
-##### § 125 Fachbeirat Soziale Entschädigung
+###### § 125 Fachbeirat Soziale Entschädigung
 
 (1) Der Fachbeirat berät das Bundesministerium für Arbeit und Soziales und die Bundesstelle für Soziale Entschädigung in grundsätzlichen Fragen der Aufgabenwahrnehmung im Bereich der Sozialen Entschädigung.
 
@@ -1674,7 +1668,7 @@ Die Vertreterinnen oder Vertreter der Länder werden auf gemeinsamen Vorschlag d
 
 ## Kapitel 20 Statistik und Bericht
 
-##### § 126 Amtliche Statistik
+###### § 126 Amtliche Statistik
 
 (1) Die Bundesstelle für Soziale Entschädigung erstellt eine amtliche Statistik
 
@@ -1686,7 +1680,7 @@ Die Vertreterinnen oder Vertreter der Länder werden auf gemeinsamen Vorschlag d
 
 (3) Die Bundesstelle für Soziale Entschädigung legt die amtliche Statistik kalenderhalbjährlich dem Bundesministerium für Arbeit und Soziales vor und veröffentlicht sie in geeigneter Form.
 
-##### § 127 Erhebungsmerkmale
+###### § 127 Erhebungsmerkmale
 
 (1) Zur Beurteilung der Auswirkungen dieses Buches und zu dessen Fortentwicklung werden folgende Merkmale erhoben:
 
@@ -1754,11 +1748,11 @@ b) Überführung nach § 152 Absatz 4.
 
 5. die Dauer des Verwaltungsverfahrens einschließlich eines etwaigen Widerspruchsverfahrens.
 
-##### § 128 Erhebungsmerkmale zu den Ausgaben und Einnahmen der Sozialen Entschädigung
+###### § 128 Erhebungsmerkmale zu den Ausgaben und Einnahmen der Sozialen Entschädigung
 
 Zur Beurteilung der Auswirkungen dieses Buches und zu dessen Fortentwicklung wird jeweils die Gesamtsumme der Ausgaben und die Gesamtsumme der Einnahmen der Sozialen Entschädigung erhoben, aufgegliedert nach den in § 127 Absatz 1 Nummer 4 genannten Arten des schädigenden Ereignisses.
 
-##### § 129 Hilfsmerkmale
+###### § 129 Hilfsmerkmale
 
 Hilfsmerkmale sind:
 
@@ -1766,11 +1760,11 @@ Hilfsmerkmale sind:
 
 2. Name, Telefonnummer und E-Mail-Adresse der für eventuelle Rückfragen zur Verfügung stehenden Person.
 
-##### § 130 Stichtag für die Erhebungen
+###### § 130 Stichtag für die Erhebungen
 
 Stichtag für die Erhebungen ist der letzte Kalendertag des jeweiligen Monats.
 
-##### § 131 Auskunftspflicht, Übermittlung statistischer Daten
+###### § 131 Auskunftspflicht, Übermittlung statistischer Daten
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Auskunftspflichtig sind die für die Durchführung der Sozialen Entschädigung sachlich zuständigen Stellen. Die Angaben zu den Hilfsmerkmalen nach § 129 Nummer 2 sind freiwillig.
 
@@ -1780,7 +1774,7 @@ Stichtag für die Erhebungen ist der letzte Kalendertag des jeweiligen Monats.
 
 (4) Datensätze nach Absatz 2 dürfen auch dann in tabellarischer Form an die Bundesstelle für Soziale Entschädigung übermittelt werden, wenn Tabellenfelder nur einen einzigen Fall ausweisen. Tabellen, deren Tabellenfelder nur einen einzigen Fall ausweisen, dürfen nur dann übermittelt werden, wenn sie nicht differenzierter als auf Regierungsbezirksebene, bei Stadtstaaten auf Bezirksebene, aufbereitet sind.
 
-##### § 132 Bericht
+###### § 132 Bericht
 
 (1) Die Bundesregierung legt dem Deutschen Bundestag einen Bericht über die Auswirkungen dieses Buches sowie über die gegebenenfalls notwendige Weiterentwicklung dieser Vorschriften vor. Der Bericht darf keine personenbezogenen Daten enthalten.
 
@@ -1788,33 +1782,33 @@ Stichtag für die Erhebungen ist der letzte Kalendertag des jeweiligen Monats.
 
 ## Kapitel 21 Kostentragung
 
-##### § 133 Aufteilung der Kosten zwischen Bund und Ländern
+###### § 133 Aufteilung der Kosten zwischen Bund und Ländern
 
 Der Bund trägt die Ausgaben für Geldleistungen wegen schädigender Ereignisse im Geltungsbereich dieses Buches nach Kapitel 2 Abschnitt 2 Unterabschnitt 1 zu 40 Prozent, die Länder zu 60 Prozent. Die Ausgaben für Sachleistungen tragen die Länder in voller Höhe. Geldbeträge, die zur Abgeltung oder an Stelle einer Sachleistung gezahlt werden, gehören nicht zu den Geldleistungen. Soweit die Kostenträgerschaft bei den Ländern liegt, ist Kostenträger das nach § 113 zuständige Land.
 
-##### § 134 Kostentragung durch den Bund
+###### § 134 Kostentragung durch den Bund
 
 (1) Der Bund trägt die Ausgaben für Leistungen nach Kapitel 2 Abschnitt 2 Unterabschnitt 1 in voller Höhe, wenn der oder die Geschädigte zur Tatzeit den Wohnsitz oder gewöhnlichen Aufenthalt nicht im Geltungsbereich dieses Buches hatte. Das Gleiche gilt, wenn die Schädigung auf einem deutschen Schiff, einem deutschen Luftfahrzeug oder an einem Ort im Ausland eingetreten ist.
 
 (2) Der Bund trägt die Ausgaben für Leistungen nach Kapitel 2 Abschnitt 2 Unterabschnitt 2 und Unterabschnitt 3 in voller Höhe.
 
-##### § 135 Kostentragung durch die Länder
+###### § 135 Kostentragung durch die Länder
 
 (1) Die Länder tragen die Ausgaben für Leistungen nach Kapitel 2 Abschnitt 2 Unterabschnitt 4 in voller Höhe.
 
 (2) Verpflichtet zur Zahlung der Entschädigung nach § 24 ist das nach § 113 Absatz 5 zuständige Land.
 
-##### § 136 Kostentragung beim Zusammentreffen von Ansprüchen
+###### § 136 Kostentragung beim Zusammentreffen von Ansprüchen
 
 In den Fällen des § 8 Absatz 2 sind die Kosten, die durch das Hinzutreten einer weiteren Schädigung verursacht werden, von dem Land zu tragen, das für die Entscheidung über Ansprüche aus der weiteren Schädigung zuständig ist. Das gilt entsprechend für den Bund, soweit dieser nach allgemeinen Regeln die Kosten zu tragen hat.
 
 ## Kapitel 22 Übergangsvorschriften
 
-##### § 137 Zeitlicher Geltungsbereich
+###### § 137 Zeitlicher Geltungsbereich
 
 Dieses Buch gilt für Anträge auf Leistungen der Sozialen Entschädigung, die ab dem 1. Januar 2024 gestellt werden, soweit die Vorschriften dieses Kapitels nichts Abweichendes bestimmen.
 
-##### § 138 Besonderer zeitlicher Geltungsbereich für Opfer von Gewalttaten
+###### § 138 Besonderer zeitlicher Geltungsbereich für Opfer von Gewalttaten
 
 (1) Personen, die in der Zeit vom 16. Mai 1976 bis 31. Dezember 2023 geschädigt worden sind, erhalten Leistungen nach diesem Buch, wenn die Voraussetzungen nach dem Opferentschädigungsgesetz in der zum Tatzeitpunkt geltenden Fassung erfüllt waren. Wurde die Schädigung durch mehrere Taten herbeigeführt, findet diese Vorschrift Anwendung, wenn die letzte Tat in dem in Satz 1 genannten Zeitraum stattgefunden hat.
 
@@ -1840,15 +1834,15 @@ Bedürftig sind Personen, wenn sie nicht oder nicht ausreichend in der Lage sind
 
 (7) Für Taten im Zeitraum vom 1. Januar 2021 bis zum 31. Dezember 2023 sollen für Geschädigte, Angehörige, Hinterbliebene und Nahestehende im Sinne des § 2 die Leistungen nach den §§ 31 bis 36 erbracht werden, wenn die Voraussetzungen nach dem Opferentschädigungsgesetz in der zum Tatzeitpunkt geltenden Fassung erfüllt sind.
 
-##### § 139 Besonderer zeitlicher Geltungsbereich für Kriegsopfer beider Weltkriege
+###### § 139 Besonderer zeitlicher Geltungsbereich für Kriegsopfer beider Weltkriege
 
 Personen, die vor dem 1. Januar 2024 geschädigt worden sind, erhalten Leistungen nach diesem Buch, wenn die Voraussetzungen nach dem Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung erfüllt waren. Die monatliche Entschädigungszahlung wird erbracht, ohne dass in diesem Zeitraum geprüft wird, ob die Anspruchsvoraussetzungen weiterhin vorliegen.
 
-##### § 140 Besonderer zeitlicher Geltungsbereich für Zivildienstgeschädigte
+###### § 140 Besonderer zeitlicher Geltungsbereich für Zivildienstgeschädigte
 
 Personen, die vor dem 1. Januar 2024 geschädigt worden sind, erhalten Leistungen nach diesem Buch, wenn die Voraussetzungen nach dem Zivildienstgesetz in der bis zum 31. Dezember 2023 geltenden Fassung erfüllt waren.
 
-##### § 141 Besonderer zeitlicher Geltungsbereich für Geschädigte durch Schutzimpfungen oder einer anderen Maßnahme der spezifischen Prophylaxe
+###### § 141 Besonderer zeitlicher Geltungsbereich für Geschädigte durch Schutzimpfungen oder einer anderen Maßnahme der spezifischen Prophylaxe
 
 Personen, die vor dem Inkrafttreten dieses Buches geschädigt worden sind, erhalten Leistungen nach diesem Buch, wenn die Voraussetzungen nach § 60 des Infektionsschutzgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung erfüllt waren. Hinterbliebene einer bis zum 31. Dezember 2023 geschädigten Person erhalten Leistungen nach diesem Buch, wenn für die geschädigte Person die Voraussetzungen nach Satz 1 erfüllt waren.
 
@@ -1856,7 +1850,7 @@ Personen, die vor dem Inkrafttreten dieses Buches geschädigt worden sind, erhal
 
 ## Abschnitt 1 Grundsätze und Leistungen
 
-##### § 142 Grundsätze
+###### § 142 Grundsätze
 
 (1) Personen, deren Ansprüche nach dem Bundesversorgungsgesetz oder nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise für anwendbar erklärt, in der bis zum 31. Dezember 2023 geltenden Fassung bis zum 31. Dezember 2023 bestandskräftig festgestellt sind, erhalten diese Leistungen nach dem Bundesversorgungsgesetz oder nach dem Gesetz, das das Bundesversorgungsgesetz für anwendbar erklärt, in der am 31. Dezember 2023 geltenden Fassung weiter, soweit dieses Kapitel nichts Abweichendes bestimmt. Kurzfristige Unterbrechungen im Leistungsbezug unmittelbar vor dem 31. Dezember 2023 lassen die Ansprüche auf Leistungen nach Satz 1 jeweils unberührt.
 
@@ -1864,7 +1858,7 @@ Personen, die vor dem Inkrafttreten dieses Buches geschädigt worden sind, erhal
 
 (3) (weggefallen)
 
-##### § 143 Heil- und Krankenbehandlung
+###### § 143 Heil- und Krankenbehandlung
 
 (1) Geschädigte, deren Anspruch auf Heilbehandlung nach dem Bundesversorgungsgesetz oder nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise für entsprechend anwendbar erklärt, bestandskräftig festgestellt worden ist, erhalten ab 1. Januar 2024 Leistungen der Krankenbehandlung nach Kapitel 5. Die §§ 45, 54 bis 59 und 61 gelten entsprechend.
 
@@ -1876,13 +1870,13 @@ Personen, die vor dem Inkrafttreten dieses Buches geschädigt worden sind, erhal
 
 (5) (weggefallen)
 
-##### § 143a Wahrnehmung von Pflichten bei der Versorgung mit Hilfsmitteln
+###### § 143a Wahrnehmung von Pflichten bei der Versorgung mit Hilfsmitteln
 
 (1) Die zuständige Verwaltungsbehörde nimmt für Hilfsmittel, die bis zum 31. Dezember 2023 nach dem Bundesversorgungsgesetz oder nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise für entsprechend anwendbar erklärt, erbracht wurden, die sich aus dem Medizinprodukterecht ergebenden Pflichten wahr. Gleiches gilt für Hilfsmittel, die nach § 142 Absatz 2 oder § 143 Absatz 2 und 3 erbracht werden. Die zuständige Verwaltungsbehörde kann im Einzelfall die zuständige Unfallkasse des Landes mit der Wahrnehmung der Pflichten beauftragen.
 
 (2) Im Fall einer Beauftragung nach Absatz 1 Satz 3 gilt § 61 Absatz 1 entsprechend. § 61 Absatz 2 gilt entsprechend mit der Maßgabe, dass anstelle des Erstattungsbetrages die Anschaffungskosten des Hilfsmittels zugrunde gelegt werden und die Verwaltungskosten einmalig nach Auftragserteilung zu erstatten sind.
 
-##### § 144 Geldleistungen
+###### § 144 Geldleistungen
 
 (1) Berechtigte nach § 142 Absatz 1, die im Dezember 2023 Geldleistungen erhalten haben, erhalten einen monatlichen Betrag, der sich aus der Summe dieser Geldleistungen ergibt. Geldleistungen im Sinne des Satzes 1 sind folgende Leistungen nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung:
 
@@ -1934,7 +1928,7 @@ des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung
 
 (4) Für Berechtigte nach § 142 Absatz 2 gilt Absatz 1 entsprechend, wenn für Dezember 2023 ein Anspruch auf die in Absatz 1 genannten Geldleistungen festgestellt wird.
 
-##### § 145 Befristete oder auf Zeit erbrachte Leistungen
+###### § 145 Befristete oder auf Zeit erbrachte Leistungen
 
 (1) Berechtigte nach § 142 Absatz 1 oder Absatz 2, die
 
@@ -1978,13 +1972,13 @@ d) 2 Prozent des Bemessungsbetrages ein Betrag in Höhe des zweifachen der Regel
 
 (4) Die Absätze 1 bis 3 gelten nicht, wenn die Leistungen nach Kapitel 1 bis 4 und 6 bis 22 erbracht werden können und diese für die Berechtigten mindestens gleichwertig sind.
 
-##### § 146 Pflegeleistungen für Geschädigte
+###### § 146 Pflegeleistungen für Geschädigte
 
 (1) Personen, die Leistungen nach § 35 Absatz 2 und 6 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung erhalten haben oder nach § 142 Absatz 2 erhalten würden, erhalten ab dem 1. Januar 2024 Leistungen nach Kapitel 7.
 
 (2) Personen, die bis zum 31. Dezember 2023 Leistungen der Pflegezulage nach § 35 Absatz 1 Bundesversorgungsgesetz erhalten haben, können nach Feststellung des monatlichen Betrags nach § 144 Leistungen im Sinne des Absatzes 1 beantragen. Der monatliche Betrag nach § 144 ist dann um den Betrag zu mindern, der der Pflegezulage nach § 35 Absatz 1 des Bundesversorgungsgesetzes im Dezember 2023 entsprach.
 
-##### § 147 Pflegeausgleich bei langjähriger schädigungsbedingter Pflege
+###### § 147 Pflegeausgleich bei langjähriger schädigungsbedingter Pflege
 
 Witwen und Witwer erhalten einen monatlichen Pflegeausgleich, wenn
 
@@ -1996,9 +1990,9 @@ Witwen und Witwer erhalten einen monatlichen Pflegeausgleich, wenn
 
 4. sie nicht einen monatlichen Betrag nach § 144 Absatz 1 erhalten, in dem eine Geldleistung nach § 144 Absatz 1 Satz 2 Nummer 12 enthalten ist.
 
-Der monatliche Pflegeausgleich beträgt für jedes Jahr der über zehn Jahre hinausgehenden Pflegezeit 22 Euro. Kalendermonate, in denen die Pflege nicht unentgeltlich geleistet wurde, werden dabei nicht mitgezählt. Die anzurechnende Gesamtpflegezeit wird auf volle Jahre aufgerundet.
+Der monatliche Pflegeausgleich beträgt für jedes Jahr der über zehn Jahre hinausgehenden Pflegezeit 23 Euro. Kalendermonate, in denen die Pflege nicht unentgeltlich geleistet wurde, werden dabei nicht mitgezählt. Die anzurechnende Gesamtpflegezeit wird auf volle Jahre aufgerundet.
 
-##### § 148 Monatliche Entschädigungszahlung für Witwen und Witwer bei nicht schädigungsbedingtem Tod
+###### § 148 Monatliche Entschädigungszahlung für Witwen und Witwer bei nicht schädigungsbedingtem Tod
 
 (1) Witwen und Witwer eines oder einer nicht schädigungsbedingt verstorbenen Geschädigten erhalten eine monatliche Entschädigungszahlung, wenn
 
@@ -2032,29 +2026,29 @@ hatte.
 
 (4) Der Anspruch auf die in Absatz 2 Nummer 1 und 2 und Absatz 3 Nummer 1 und 2 genannten Leistungen muss im Zeitpunkt des Todes des Geschädigten bestanden haben.
 
-(5) Die monatliche Entschädigungszahlung beträgt 543 Euro. Sie beträgt 813 Euro für Witwen und Witwer von Geschädigten mit einem Grad der Schädigungsfolgen von 100.
+(5) Die monatliche Entschädigungszahlung beträgt 566 Euro. Sie beträgt 847 Euro für Witwen und Witwer von Geschädigten mit einem Grad der Schädigungsfolgen von 100.
 
 (6) Berechtigte nach Absatz 1 erhalten auf Antrag eine Abfindung anstelle der monatlichen Entschädigungszahlung. Der Antrag ist innerhalb eines Jahres nach Bewilligung der Entschädigungszahlung zu stellen.
 
-(7) Die Abfindung beträgt 65 089 Euro bei einer monatlichen Entschädigungszahlung nach Absatz 5 Satz 1, 97 633 Euro bei einer monatlichen Entschädigungszahlung nach Absatz 5 Satz 2.
+(7) Die Abfindung beträgt 67 849 Euro bei einer monatlichen Entschädigungszahlung nach Absatz 5 Satz 1, 101 773 Euro bei einer monatlichen Entschädigungszahlung nach Absatz 5 Satz 2.
 
 (8) Auf die Abfindung sind bereits geleistete monatliche Entschädigungszahlungen anzurechnen. Mit der Zahlung der Abfindung sind alle Ansprüche auf die monatlichen Entschädigungszahlungen bei nicht schädigungsbedingtem Tod abgegolten.
 
 ## Abschnitt 2 Neufeststellungen und Anpassung
 
-##### § 149 Neufeststellungen
+###### § 149 Neufeststellungen
 
 (1) Neufeststellungen zur Anspruchsberechtigung und zum Grad der Schädigungsfolgen erfolgen auf Antrag und richten sich nach den Kapiteln 1 bis 22. Neufeststellungen können auch von Amts wegen erfolgen.
 
 (2) Könnten nach Kapitel 1 bis 22 keine oder geringere Leistungen als vor Stellung des Neufeststellungsantrags beansprucht werden, werden mindestens die nach diesem Kapitel vor Stellung des Neufeststellungsantrags bezogenen Leistungen weiter erbracht. Dies gilt nicht, wenn sich die nicht mehr bestehende Anspruchsberechtigung oder der geringere Leistungsumfang aus einer festgestellten Verringerung des Grades der Schädigungsfolgen ergeben.
 
-##### § 150 Anpassung, Verordnungsermächtigung
+###### § 150 Anpassung, Verordnungsermächtigung
 
 Der nach den §§ 144 und 145 festgestellte Geldbetrag sowie die Beträge aus den §§ 147 und 148 werden jeweils entsprechend dem Prozentsatz angepasst, um den sich der aktuelle Rentenwert in der gesetzlichen Rentenversicherung verändert. Die sich nach Satz 1 ergebenden Beträge sind bis 0,49 Euro auf volle Euro abzurunden und ab 0,50 Euro auf volle Euro aufzurunden. Die Anpassung erfolgt durch Rechtsverordnung des Bundesministeriums für Arbeit und Soziales mit Zustimmung des Bundesrates jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden.
 
 ## Abschnitt 3 Vertrauensschutz für die Absicherung gegen Krankheit
 
-##### § 151 Absicherung gegen Krankheit
+###### § 151 Absicherung gegen Krankheit
 
 (1) Personen, die bis zum 1. Januar 2024 nach § 10 des Bundesversorgungsgesetzes oder in entsprechender Anwendung des § 10 des Bundesversorgungsgesetzes Leistungen der Heil- oder Krankenbehandlung für Nichtschädigungsfolgen erhalten haben, haben hinsichtlich der Behandlung von Nichtschädigungsfolgen Anspruch auf Leistungen bei Krankheit nach dem Dritten Kapitel des Fünften Buches. § 44 Absatz 2 gilt entsprechend. Ansprüche nach § 143 bleiben von Satz 1 unberührt. Die Leistungen nach Satz 1 erbringt für die zuständige Verwaltungsbehörde die Krankenkasse, die von der Person entsprechend § 173 des Fünften Buches gewählt wurde. § 175 Absatz 4 Satz 1 bis 5 des Fünften Buches gilt entsprechend. § 45 Satz 1 gilt entsprechend. Die Berechtigten erhalten von der gewählten Krankenkasse eine elektronische Gesundheitskarte nach § 291 des Fünften Buches.
 
@@ -2064,7 +2058,7 @@ Der nach den §§ 144 und 145 festgestellte Geldbetrag sowie die Beträge aus de
 
 ## Abschnitt 4 Wahlrecht
 
-##### § 152 Wahlrecht
+###### § 152 Wahlrecht
 
 (1) Anstelle der Leistungen nach diesem Kapitel können Berechtigte nach § 142 die Erbringung von Leistungen nach den Kapiteln 1 bis 4 und 6 bis 22 mit Ausnahme der §§ 84 und 86 wählen. In diesem Fall
 
@@ -2090,19 +2084,19 @@ Der nach den §§ 144 und 145 festgestellte Geldbetrag sowie die Beträge aus de
 
 (4) Berechtigte nach § 142, die ausschließlich eine Grundrente nach den §§ 31, 40, 45 Absatz 1 oder Absatz 3 Satz 1 Buchstabe a bis c des Bundesversorgungsgesetzes im Dezember 2023 erhalten haben, erhalten ab dem 1. Januar 2024 Leistungen nach den Kapiteln 1 bis 4 und 6 bis 22 mit Ausnahme der §§ 84 und 86. § 152 Absatz 1 Satz 2 gilt entsprechend. Satz 1 gilt nicht für Berechtigte, denen Leistungen nach § 143 Absatz 2 oder Absatz 3 zustehen oder die einen Anspruch als Vollwaise nach § 46 des Bundesversorgungsgesetzes haben.
 
-##### § 153 Schriftform
+###### § 153 Schriftform
 
 Die Geltendmachung des Wahlrechts bedarf der Schriftform und ist gegenüber dem Träger der Sozialen Entschädigung zu erklären.
 
 ## Abschnitt 5 Anrechnung
 
-##### § 154 Anrechnungsvorschrift
+###### § 154 Anrechnungsvorschrift
 
 Geldleistungen nach diesem Kapitel bleiben bei anderen Sozialleistungen und bei Leistungen nach dem Asylbewerberleistungsgesetz als Einkommen unberücksichtigt, soweit sie den Betrag einer Grundrente nach § 31 Absatz 1 Satz 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung nach einem Grad der Schädigungsfolgen von 100 zuzüglich der seitdem vollzogenen Anpassungen nach § 150 nicht überschreiten.
 
 ## Abschnitt 6 Kostentragung und Zuständigkeit
 
-##### § 155 Kostentragung
+###### § 155 Kostentragung
 
 (1) Der Bund trägt die Kosten für Leistungen an Personen, deren nach § 142 festgestellter Anspruch am 31. Dezember 2023
 
@@ -2120,7 +2114,7 @@ Geldleistungen nach diesem Kapitel bleiben bei anderen Sozialleistungen und bei 
 
 (2) Zu den Geldleistungen gehören nicht solche Geldbeträge, die zur Abgeltung oder an Stelle einer Sachleistung gezahlt werden.
 
-##### § 156 Pauschaliertes Abrechnungsverfahren
+###### § 156 Pauschaliertes Abrechnungsverfahren
 
 (1) Zur Vereinfachung der Abrechnung erstattet der Bund den Ländern in einem pauschalierten Verfahren
 
@@ -2130,13 +2124,13 @@ Geldleistungen nach diesem Kapitel bleiben bei anderen Sozialleistungen und bei 
 
 (2) Der Bund überprüft in einem Abstand von fünf Jahren, erstmals im Jahr 2024, die Voraussetzungen für die in Absatz 1 genannten Quoten.
 
-##### § 157 Zuständigkeit
+###### § 157 Zuständigkeit
 
 Für die Durchführung dieses Kapitels sind die nach Landesrecht bestimmten Träger zuständig.
 
 ## Abschnitt 7 Umsetzung
 
-##### § 158 Umsetzungsbegleitung
+###### § 158 Umsetzungsbegleitung
 
 Zur Begleitung der Umsetzung der Vorschriften zu Besitzständen treffen sich Bund und Länder einmal jährlich, erstmalig zwei Jahre nach Inkrafttreten dieses Buches, zum Erfahrungsaustausch, insbesondere zu
 
@@ -2147,4 +2141,3 @@ Zur Begleitung der Umsetzung der Vorschriften zu Besitzständen treffen sich Bun
 3. dem Übergang vom Bundesversorgungsgesetz und dem Opferentschädigungsgesetz auf dieses Buch.
 
 Die Erkenntnisse sollen bei der Weiterentwicklung des Sozialen Entschädigungsrechts berücksichtigt werden.
-
