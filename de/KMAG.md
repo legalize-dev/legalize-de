@@ -4,19 +4,22 @@ identifier: "KMAG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2024-12-27"
-last_updated: "2026-04-04"
+last_updated: "2026-07-02"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/kmag/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR1B60B0024"
 slug: "kmag"
 bgbl_reference: "BGBl. I 2024, Nr. 438, 2"
-stand: "Zuletzt geändert durch Art. 49 G v. 4.2.2026 I Nr. 33"
-hinweis: "Änderung durch Art. 21 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Zuletzt geändert durch Art. 21 G v. 25.3.2026 I Nr. 81"
 ---
 # Gesetz zur Aufsicht über Märkte für Kryptowerte
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 Kapitel 1Allgemeine MaßnahmenAbschnitt 1Ziel, Geltungsbereich und Begriffsbestimmungen§ 1Ziel und Geltungsbereich§ 2BegriffsbestimmungenAbschnitt 2Aufgaben und allgemeine Befugnisse der Bundesanstalt§ 3Aufgaben der Bundesanstalt§ 4Allgemeine Befugnisse der BundesanstaltAbschnitt 3Sofortige Vollziehbarkeit§ 5Sofortige VollziehbarkeitAbschnitt 4Zusammenarbeit der Bundesanstalt mit anderen Stellen§ 6Zusammenarbeit mit der Deutschen Bundesbank§ 7Zusammenarbeit mit sonstigen Stellen§ 8VerschwiegenheitspflichtKapitel 2Durchsetzung der ZulassungsvorbehalteAbschnitt 1Einschreiten bei Tätigkeit ohne Zulassung§ 9Einschreiten gegen unerlaubte Geschäfte§ 10Verfolgung unerlaubter GeschäfteAbschnitt 2Erteilung und Entzug der Zulassung§ 11Ergänzende Bestimmungen zum Zulassungsverfahren; Verordnungsermächtigungen§ 12Ergänzende Bestimmungen zum Entzug der Zulassung§ 13Befugnisse nach Entzug oder Erlöschen der Zulassung§ 14Bekanntmachungen und RegistervorschriftenKapitel 3Maßnahmen im Hinblick auf das öffentliche Angebot und die Zulassung zum Handel§ 15Aussetzung und Untersagung eines öffentlichen Angebots oder der Zulassung zum Handel§ 16Befugnisse hinsichtlich Kryptowerte-Whitepapers und modifizierter Kryptowerte-Whitepapers§ 17Befugnisse hinsichtlich Marketingmitteilungen§ 18Bekanntmachung marktrelevanter Informationen§ 19Haftung bei fehlendem Kryptowerte-WhitepaperKapitel 4Beaufsichtigung von InstitutenAbschnitt 1Allgemeine Maßnahmen§ 20Auskünfte und Prüfungen§ 21Anzeige- und Meldewesen; Verordnungsermächtigung§ 22Maßnahmen hinsichtlich Organversammlungen von Instituten§ 23Abberufung von Mitgliedern des Leitungsorgans; Übertragung von Organbefugnissen auf Sonderbeauftragte§ 24Weitere Maßnahmen gegen Mitglieder des Leitungsorgans§ 25Ergänzende Bestimmungen zur Übernahme von Instituten§ 26Digitale operationale ResilienzAbschnitt 2Sonderbestimmungen für Emittenten vermögenswertreferenzierter Token und E-Geld-Token§ 27Mindeststückelung; Betragsbegrenzung§ 28Ergänzende Bestimmungen zum Reservevermögen und zur Sicherung entgegengenommener GeldbeträgeAbschnitt 3Sonderbestimmungen für Anbieter von Kryptowerte-Dienstleistungen§ 29Aussetzung und Untersagung der Erbringung von Kryptowerte-Dienstleistungen; Einschreiten bei Erbringung von Kryptowerte-Dienstleistungen entgegen Artikel 60 der Verordnung (EU) 2023/1114§ 30Bekanntmachung wesentlicher Informationen zu Anbietern von Kryptowerte-DienstleistungenAbschnitt 4Handel auf Handelsplattformen für Kryptowerte und Verhinderung von Marktmissbrauch auf Handelsplattformen für Kryptowerte§ 31Verfolgung von Marktmissbrauch§ 32Verschwiegenheitspflicht bei Maßnahmen wegen eines möglichen Verstoßes gegen Artikel 89 oder 91 der Verordnung (EU) 2023/1114§ 33Anzeige straftatbegründender Tatsachen§ 34Aussetzung des Handels und Ausschluss von Kryptowerten vom Handel; Maßnahmen in Bezug auf mit dem Kryptowert verbundene Derivate§ 35Bekanntmachung marktrelevanter Informationen zum Handel zugelassener Kryptowerte§ 36Übermittlung von Insiderinformationen; VerordnungsermächtigungKapitel 5Rechnungslegung, Vorlage von Rechnungslegungsunterlagen, Bestellung
 des Abschlussprüfers und Abschlussprüfung§ 37Pflicht zur Rechnungslegung§ 38Pflicht zur Vorlage von Jahresabschluss, Lagebericht und Abschlussprüfungsberichten§ 39Pflicht zur Bestellung des Abschlussprüfers und zur Anzeige§ 40Besondere Pflichten des Abschlussprüfers; VerordnungsermächtigungKapitel 6Maßnahmen in besonderen Fällen§ 41Maßnahmen zur Verbesserung der Eigenmittelausstattung§ 42Maßnahmen bei organisatorischen Mängeln§ 43Einstweilige Maßnahmen bei Gefahr§ 44Insolvenz§ 45Zuordnung verwahrter Kryptowerte, Kosten der AussonderungKapitel 7Straf- und Bußgeldvorschriften§ 46Strafvorschriften§ 47Bußgeldvorschriften§ 48Ordnungsgelder§ 49Mitteilungen in StrafsachenKapitel 8Übergangs- und Schlussvorschriften§ 50Übergangsvorschrift zur Erbringung von Kryptowerte-Dienstleistungen nach Artikel 143 der Verordnung (EU) 2023/1114; Verordnungsermächtigung§ 51Übergangsvorschrift zur Rechnungslegung
@@ -25,7 +28,7 @@ des Abschlussprüfers und Abschlussprüfung§ 37Pflicht zur Rechnungslegung§ 38
 
 ## Abschnitt 1 Ziel, Geltungsbereich und Begriffsbestimmungen
 
-##### § 1 Ziel und Geltungsbereich
+###### § 1 Ziel und Geltungsbereich
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40).
 
@@ -33,7 +36,7 @@ des Abschlussprüfers und Abschlussprüfung§ 37Pflicht zur Rechnungslegung§ 38
 
 (3) Die Befugnisse nach diesem Gesetz lassen die Befugnisse der Bundesanstalt nach anderen Rechtsvorschriften unberührt.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 (1) Kryptowerte sind solche im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114.
 
@@ -73,7 +76,7 @@ des Abschlussprüfers und Abschlussprüfung§ 37Pflicht zur Rechnungslegung§ 38
 
 ## Abschnitt 2 Aufgaben und allgemeine Befugnisse der Bundesanstalt
 
-##### § 3 Aufgaben der Bundesanstalt
+###### § 3 Aufgaben der Bundesanstalt
 
 (1) Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 93 Absatz 1 der Verordnung (EU) 2023/1114. Sie übt die Aufsicht aus
 
@@ -87,7 +90,7 @@ Die Deutsche Bundesbank ist zuständige Stelle im Rahmen der ihr nach § 6 zugew
 
 (3) Die Bundesanstalt überwacht die Einhaltung der in der Verordnung (EU) 2023/1113, in der Verordnung (EU) Nr. 2021/1230 des Europäischen Parlaments und des Rates vom 14. Juli 2021 über grenzüberschreitende Zahlungen in der Union (ABl. L 274 vom 30.7.2021, S. 20), in der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die Verordnung (EU) Nr. 248/2014 (ABl. L 84 vom 20.3.2014, S. 1) geändert worden ist, und in der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1) enthaltenen Pflichten durch die Institute. Sie kann gegenüber einem Institut und den Mitgliedern seines Leitungsorgans Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen die Pflichten nach den Verordnungen nach Satz 1 zu verhindern oder zu unterbinden. Satz 2 gilt nicht für CRR-Kreditinstitute, E-Geld-Institute und Anbieter von Kryptowerte-Dienstleistungen nach Artikel 59 Absatz 1 Buchstabe b der Verordnung (EU) 2023/1114.
 
-##### § 4 Allgemeine Befugnisse der Bundesanstalt
+###### § 4 Allgemeine Befugnisse der Bundesanstalt
 
 (1) Die Bundesanstalt kann im Rahmen der ihr gesetzlich zugewiesenen Aufgaben Anordnungen gegenüber Instituten und anderen betroffenen Personen treffen, die geeignet und erforderlich sind, um Verstöße gegen die Vorschriften der Verordnung (EU) 2023/1114 sowie dieses Gesetzes oder sonstige aufsichtsrechtliche Vorgaben oder die in § 3 Absatz 1 Satz 4 genannten Missstände zu verhindern oder zu beseitigen. Die Befugnis nach Satz 1 schließt die Verhinderung und Beseitigung von Missständen bei Marketingmitteilungen ein. Bei Verstößen gegen die Verordnung (EU) 2023/1114, dieses Gesetz oder eine vollziehbare Anordnung der Bundesanstalt kann die Bundesanstalt verlangen, dass die den Verstoß begründende Handlung oder Verhaltensweise dauerhaft eingestellt und von einer Wiederholung abgesehen wird.
 
@@ -131,7 +134,7 @@ Sie kann auch Dritte oder Behörden anweisen, Maßnahmen nach Satz 1 durchzufüh
 
 ## Abschnitt 3 Sofortige Vollziehbarkeit
 
-##### § 5 Sofortige Vollziehbarkeit
+###### § 5 Sofortige Vollziehbarkeit
 
 (1) Widerspruch und Anfechtungsklage gegen Maßnahmen, einschließlich der Androhung und Festsetzung von Zwangsmitteln, auf der Grundlage des Artikels 4 Absatz 3 Unterabsatz 4, des Artikels 12 Absatz 3, des Artikels 17 Absatz 5 Unterabsatz 3, des Artikels 22 Absatz 2, des Artikels 23 Absatz 4 Satz 2, des Artikels 24 Absatz 1 Buchstabe b bis e und g, Absatz 2, 3 und 5, des Artikels 25 Absatz 4 Unterabsatz 1 und 2, des Artikels 35 Absatz 3, 4 und 5 Satz 2, des Artikels 36 Absatz 10 Satz 3, des Artikels 46 Absatz 2 Satz 2, Absatz 3 und 4, des Artikels 47 Absatz 1 und 3 Satz 2, des Artikels 58 Absatz 2, des Artikels 64 Absatz 1 Buchstabe d bis g und Absatz 2, des Artikels 68 Absatz 3, des Artikels 102 Absatz 2 und des Artikels 105 der Verordnung (EU) 2023/1114 haben keine aufschiebende Wirkung.
 
@@ -139,7 +142,7 @@ Sie kann auch Dritte oder Behörden anweisen, Maßnahmen nach Satz 1 durchzufüh
 
 ## Abschnitt 4 Zusammenarbeit der Bundesanstalt mit anderen Stellen
 
-##### § 6 Zusammenarbeit mit der Deutschen Bundesbank
+###### § 6 Zusammenarbeit mit der Deutschen Bundesbank
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank arbeiten bei der Durchführung der Verordnung (EU) 2023/1114 und der Verordnung (EU) 2022/2554 nach Maßgabe dieses Gesetzes zusammen. Unbeschadet weiterer gesetzlicher Maßgaben umfasst die Zusammenarbeit die laufende Überwachung der Institute durch die Deutsche Bundesbank. Die laufende Überwachung beinhaltet insbesondere
 
@@ -157,13 +160,13 @@ Die laufende Überwachung durch die Deutsche Bundesbank erfolgt in der Regel dur
 
 (5) Die Bundesanstalt und die Deutsche Bundesbank können gemeinsame Dateisysteme einrichten. Jede der beiden Stellen darf nur die von ihr eingegebenen Daten verändern oder löschen oder ihre Verarbeitung einschränken und ist nur hinsichtlich der von ihr eingegebenen Daten Verantwortlicher. Hat eine der beiden Stellen Anhaltspunkte dafür, dass von der anderen Stelle eingegebene Daten unrichtig sind, teilt sie dies der anderen Stelle unverzüglich mit. Bei der Errichtung eines gemeinsamen Dateisystems ist festzulegen, welche Stelle die technischen und organisatorischen Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung, ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) in der jeweils geltenden Fassung zu treffen hat. Die nach Satz 4 bestimmte Stelle hat sicherzustellen, dass die Beschäftigten Zugang zu personenbezogenen Daten nur in dem Umfang erhalten, der zur Erfüllung ihrer Aufgaben erforderlich ist.
 
-##### § 7 Zusammenarbeit mit sonstigen Stellen
+###### § 7 Zusammenarbeit mit sonstigen Stellen
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank arbeiten im Rahmen ihrer Tätigkeit nach der Verordnung (EU) 2023/1114 und diesem Gesetz mit den Börsenaufsichtsbehörden, den Handelsüberwachungsstellen, den Bundeskartellbehörden, den Landeskartellbehörden, der Zentralstelle für Finanztransaktionsuntersuchungen, der Zentralstelle für Sanktionsdurchsetzung und dem Bundesamt für Sicherheit in der Informationstechnik zusammen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist. Die in Satz 1 genannten Institutionen haben einander Beobachtungen und Feststellungen einschließlich der personenbezogenen Daten mitzuteilen, die für die Erfüllung ihrer Aufgaben erforderlich sind.
 
 (2) Soweit nicht Artikel 95, 96 oder Artikel 98 der Verordnung (EU) 2023/1114 eine Regelung zur internationalen Zusammenarbeit trifft, gelten in Bezug auf die Aufsicht nach Titel VI der Verordnung (EU) 2023/1114 der § 18 des Wertpapierhandelsgesetzes und im Übrigen die §§ 7a bis 8 des Kreditwesengesetzes jeweils entsprechend.
 
-##### § 8 Verschwiegenheitspflicht
+###### § 8 Verschwiegenheitspflicht
 
 (1) Die bei der Bundesanstalt Beschäftigten und die nach § 4 Absatz 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen, die nach § 23 Absatz 6 bestellten Sonderbeauftragten, die nach § 25 Absatz 9 bestellten Treuhänder, die nach § 9 Absatz 1 Satz 2 Nummer 2, § 13 Absatz 2 Satz 2 oder § 28 Absatz 3 bestellten Abwickler sowie die im Dienst der Deutschen Bundesbank stehenden Personen, soweit sie zur Durchführung der Verordnung (EU) 2023/1114, der Verordnung (EU) 2022/2554 oder dieses Gesetzes tätig werden, dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse des Instituts, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse sowie personenbezogene Daten, nicht unbefugt offenbaren oder verwenden, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Dies gilt auch für die in Satz 1 genannten Personen, sofern ihnen Tatsachen im Rahmen der Anbahnung einer Beauftragung oder Bestellung anvertraut werden. Die von den beaufsichtigten Instituten und Unternehmen zu beachtenden allgemeinen datenschutzrechtlichen Vorschriften bleiben unberührt. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwenden liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
 
@@ -233,7 +236,7 @@ Andere Informationen als aggregierte und anonymisierte Informationen dürfen mit
 
 ## Abschnitt 1 Einschreiten bei Tätigkeit ohne Zulassung
 
-##### § 9 Einschreiten gegen unerlaubte Geschäfte
+###### § 9 Einschreiten gegen unerlaubte Geschäfte
 
 (1) Die Bundesanstalt kann die sofortige Einstellung des Geschäftsbetriebs und die unverzügliche Abwicklung dieser Geschäfte gegenüber dem Unternehmen, seinen Gesellschaftern und den Mitgliedern seiner Organe anordnen, wenn
 
@@ -257,7 +260,7 @@ Sie kann ihre Maßnahmen nach den Sätzen 1 und 2 bekannt machen; personenbezoge
 
 (4) Der Abwickler erhält von der Bundesanstalt eine angemessene Vergütung und Ersatz seiner Auslagen entsprechend den Regeln über die Vergütung des Insolvenzverwalters. Die gezahlten Beträge sind der Bundesanstalt von dem betroffenen Unternehmen gesondert zu erstatten und auf Verlangen der Bundesanstalt vorzuschießen. Die Bundesanstalt kann das betroffene Unternehmen anweisen, den von der Bundesanstalt festgesetzten Betrag im Namen der Bundesanstalt unmittelbar an den Abwickler zu leisten, wenn dadurch keine Beeinflussung der Unabhängigkeit des Abwicklers zu besorgen ist.
 
-##### § 10 Verfolgung unerlaubter Geschäfte
+###### § 10 Verfolgung unerlaubter Geschäfte
 
 (1) Steht es fest oder rechtfertigen Tatsachen die Annahme, dass ein Unternehmen unerlaubte Geschäfte nach § 9 Absatz 1 Satz 1 erbringt oder dass es in die Anbahnung, den Abschluss oder die Abwicklung solcher Geschäfte einbezogen ist oder war, haben sowohl das Unternehmen als auch die Mitglieder der Organe, die Gesellschafter und die Beschäftigten eines solchen Unternehmens der Bundesanstalt sowie der Deutschen Bundesbank auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen und Unterlagen vorzulegen. Ein Mitglied eines Organs, ein Gesellschafter oder ein Beschäftigter hat auf Verlangen auch nach seinem Ausscheiden aus dem Organ oder dem Unternehmen Auskunft zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt kann den in Satz 1 genannten Unternehmen und Personen Weisungen zur Sicherung von Kundengeldern, Daten, Kryptowerten und Vermögenswerten erteilen.
 
@@ -293,7 +296,7 @@ Die Bundesanstalt kann auch Dritte oder Behörden anweisen, Maßnahmen nach den 
 
 ## Abschnitt 2 Erteilung und Entzug der Zulassung
 
-##### § 11 Ergänzende Bestimmungen zum Zulassungsverfahren; Verordnungsermächtigungen
+###### § 11 Ergänzende Bestimmungen zum Zulassungsverfahren; Verordnungsermächtigungen
 
 (1) Die Bundesanstalt kann zusätzlich zu den Fällen des Artikels 21 Absatz 2 und des Artikels 63 Absatz 8 und 10 der Verordnung (EU) 2023/1114 die Zulassung verweigern, wenn
 
@@ -307,7 +310,7 @@ Die Bundesanstalt kann auch Dritte oder Behörden anweisen, Maßnahmen nach den 
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über die Übermittlung der Informationen nach den Artikeln 17 und 60 der Verordnung (EU) 2023/1114 zu erlassen, soweit dies nach Erlass der technischen Regulierungsstandards nach Artikel 17 Absatz 8 und Artikel 60 Absatz 13 der Verordnung (EU) 2023/1114 aufgrund nationaler Besonderheiten oder der Effizienz des Verwaltungsverfahrens erforderlich ist. Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
 
-##### § 12 Ergänzende Bestimmungen zum Entzug der Zulassung
+###### § 12 Ergänzende Bestimmungen zum Entzug der Zulassung
 
 (1) Die Bundesanstalt kann zusätzlich zu den Fällen des Artikels 24 Absatz 1 und 2 und des Artikels 64 Absatz 1 und 2 der Verordnung (EU) 2023/1114 und zu den Vorschriften des Verwaltungsverfahrensgesetzes eine nach der Verordnung (EU) 2023/1114 erteilte Zulassung entziehen, wenn das Institut gegen die in Artikel 111 Absatz 1 Satz 1 Buchstabe b bis e der Verordnung (EU) 2023/1114 genannten Vorschriften oder gegen diesbezügliche Anordnungen der Bundesanstalt verstoßen hat.
 
@@ -331,7 +334,7 @@ Die Bundesanstalt kann auch Dritte oder Behörden anweisen, Maßnahmen nach den 
 
 (5) Auf den Entzug der Zulassung nach den §§ 48 und 49 des Verwaltungsverfahrensgesetzes finden § 48 Absatz 4 Satz 1 und § 49 Absatz 2 Satz 2 des Verwaltungsverfahrensgesetzes über die Jahresfrist keine Anwendung.
 
-##### § 13 Befugnisse nach Entzug oder Erlöschen der Zulassung
+###### § 13 Befugnisse nach Entzug oder Erlöschen der Zulassung
 
 (1) Entzieht die Bundesanstalt die Zulassung oder erlischt die Zulassung nach § 12 Absatz 4, so kann die Bundesanstalt bei juristischen Personen und Personenhandelsgesellschaften bestimmen, dass das Institut abzuwickeln ist. Die Entscheidung wirkt wie ein Auflösungsbeschluss. Sie ist dem Registergericht mitzuteilen und von ihm in das Handelsregister einzutragen.
 
@@ -345,7 +348,7 @@ Die Bundesanstalt kann auch Dritte oder Behörden anweisen, Maßnahmen nach den 
 
 (6) Die Absätze 1 und 2 gelten nicht für juristische Personen des öffentlichen Rechts.
 
-##### § 14 Bekanntmachungen und Registervorschriften
+###### § 14 Bekanntmachungen und Registervorschriften
 
 (1) Die Bundesanstalt hat die Erteilung, den Entzug und das Erlöschen einer Zulassung zum öffentlichen Angebot vermögenswertreferenzierter Token oder die Beantragung der Zulassung zum Handel sowie die Erteilung und den Entzug einer Zulassung zur Erbringung von Kryptowerte-Dienstleistungen im Bundesanzeiger bekannt zu machen.
 
@@ -353,7 +356,7 @@ Die Bundesanstalt kann auch Dritte oder Behörden anweisen, Maßnahmen nach den 
 
 ## Kapitel 3 Maßnahmen im Hinblick auf das öffentliche Angebot und die Zulassung zum Handel
 
-##### § 15 Aussetzung und Untersagung eines öffentlichen Angebots oder der Zulassung zum Handel
+###### § 15 Aussetzung und Untersagung eines öffentlichen Angebots oder der Zulassung zum Handel
 
 (1) Die Bundesanstalt kann anordnen, dass ein öffentliches Angebot oder die Zulassung zum Handel für bis zu 30 Tage auszusetzen ist, wenn ein begründeter Verdacht besteht, dass gegen die Verordnung (EU) 2023/1114 oder dieses Gesetz verstoßen worden ist.
 
@@ -365,7 +368,7 @@ Die Bundesanstalt kann auch Dritte oder Behörden anweisen, Maßnahmen nach den 
 
 (5) Maßnahmen nach den Absätzen 1 bis 3 können gegenüber dem Emittenten, dem Anbieter, dem Antragsteller und dem Betreiber der Handelsplattform für Kryptowerte ergehen.
 
-##### § 16 Befugnisse hinsichtlich Kryptowerte-Whitepapers und modifizierter Kryptowerte-Whitepapers
+###### § 16 Befugnisse hinsichtlich Kryptowerte-Whitepapers und modifizierter Kryptowerte-Whitepapers
 
 (1) Die Bundesanstalt kann von Anbietern und von Antragstellern verlangen, ihr Kryptowerte-Whitepaper oder ihr modifiziertes Kryptowerte-Whitepaper zu ändern, soweit dieses nicht die in Artikel 6, Artikel 19 oder Artikel 51 der Verordnung (EU) 2023/1114 vorgeschriebenen Informationen enthält oder nicht der vorgeschriebenen Form entspricht.
 
@@ -373,7 +376,7 @@ Die Bundesanstalt kann auch Dritte oder Behörden anweisen, Maßnahmen nach den 
 
 (3) In den Fällen des Artikels 5 Absatz 3 und des Artikels 143 Absatz 2 der Verordnung (EU) 2023/1114 kann die Bundesanstalt Maßnahmen nach den Absätzen 1 und 2 auch gegenüber dem Betreiber der Handelsplattform für Kryptowerte erlassen.
 
-##### § 17 Befugnisse hinsichtlich Marketingmitteilungen
+###### § 17 Befugnisse hinsichtlich Marketingmitteilungen
 
 (1) Entspricht eine Marketingmitteilung nicht den Vorgaben des Artikels 7, des Artikels 29 oder des Artikels 53 der Verordnung (EU) 2023/1114, kann die Bundesanstalt eine Änderung der Marketingmitteilung verlangen.
 
@@ -381,11 +384,11 @@ Die Bundesanstalt kann auch Dritte oder Behörden anweisen, Maßnahmen nach den 
 
 (3) Die Bundesanstalt kann die Übermittlung von Marketingmitteilungen auch ohne den konkreten Verdacht eines Verstoßes gegen die Verordnung (EU) 2023/1114 verlangen.
 
-##### § 18 Bekanntmachung marktrelevanter Informationen
+###### § 18 Bekanntmachung marktrelevanter Informationen
 
 Die Bundesanstalt kann zur Gewährleistung des Schutzes der Interessen der Inhaber von Kryptowerten, insbesondere der Kleinanleger, oder des reibungslosen Funktionierens des Marktes alle wesentlichen Informationen, die die Bewertung der öffentlich angebotenen oder zum Handel zugelassenen Kryptowerte beeinflussen könnten, bekannt machen.
 
-##### § 19 Haftung bei fehlendem Kryptowerte-Whitepaper
+###### § 19 Haftung bei fehlendem Kryptowerte-Whitepaper
 
 (1) Ist ein Kryptowerte-Whitepaper entgegen Artikel 9, 28 oder 51 Absatz 13 der Verordnung (EU) 2023/1114 nicht veröffentlicht worden, kann der Erwerber von Kryptowerten von dem Emittenten, dem Anbieter, dem Antragsteller, dem Betreiber einer Handelsplattform und den Mitgliedern des Leitungsorgans des Emittenten, des Anbieters oder des Antragstellers als Gesamtschuldnern die Übernahme der Kryptowerte gegen Erstattung des Erwerbspreises, soweit dieser den ersten Erwerbspreis nicht überschreitet, und der mit dem Erwerb verbundenen üblichen Kosten verlangen, sofern das Erwerbsgeschäft vor Veröffentlichung eines Kryptowerte-Whitepapers abgeschlossen wurde.
 
@@ -399,7 +402,7 @@ Die Bundesanstalt kann zur Gewährleistung des Schutzes der Interessen der Inhab
 
 ## Abschnitt 1 Allgemeine Maßnahmen
 
-##### § 20 Auskünfte und Prüfungen
+###### § 20 Auskünfte und Prüfungen
 
 (1) Ein Institut, die Mitglieder seiner Organe und seine Beschäftigten haben der Bundesanstalt, den Personen und Einrichtungen, derer sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, sowie der Deutschen Bundesbank auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen, Unterlagen und Daten jeglicher Form vorzulegen und erforderlichenfalls Kopien anzufertigen und auszuhändigen; dies gilt auch für Auslagerungsunternehmen, für die Mitglieder von deren Organen und für deren Beschäftigte, soweit Aktivitäten und Prozesse betroffen sind, die ein Institut ausgelagert hat. Mitglieder eines Organs und Beschäftigte der Institute oder Auslagerungsunternehmen haben auf Verlangen auch nach ihrem Ausscheiden aus dem Organ, dem Institut oder dem Unternehmen Auskunft zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt sowie die Deutsche Bundesbank können bei Auskunfts- und Vorlageersuchen eine elektronische Einreichung verlangen und nähere Bestimmungen über Art und Weise der Übermittlung treffen.
 
@@ -417,7 +420,7 @@ Die Durchsuchungen sind, außer bei Gefahr im Verzug, durch den Richter anzuordn
 
 (5) Die Betroffenen haben Maßnahmen nach den Absätzen 1 bis 4 zu dulden. Wer zur Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Die betroffene Person ist auf das Recht, die Auskunft zu verweigern, hinzuweisen.
 
-##### § 21 Anzeige- und Meldewesen; Verordnungsermächtigung
+###### § 21 Anzeige- und Meldewesen; Verordnungsermächtigung
 
 (1) Ein Institut hat der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen:
 
@@ -481,7 +484,7 @@ Als unmittelbare Beteiligung gilt das Halten von mindestens 25 Prozent der Antei
 
 soweit dies zur Erfüllung der Aufgaben nach § 3 Absatz 1 Satz 2 und 4 erforderlich ist. Das Bundesministerium der Finanzen kann diese Ermächtigung nach Satz 1 durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass Rechtsverordnungen im Einvernehmen mit der Deutschen Bundesbank ergehen.
 
-##### § 22 Maßnahmen hinsichtlich Organversammlungen von Instituten
+###### § 22 Maßnahmen hinsichtlich Organversammlungen von Instituten
 
 (1) Die Bundesanstalt kann zu den Hauptversammlungen, Generalversammlungen oder Gesellschafterversammlungen sowie zu den Sitzungen des Leitungsorgans bei Instituten Vertreter entsenden. Diese können in der Versammlung oder Sitzung das Wort ergreifen. Im Falle der virtuellen Hauptversammlung nach § 118a des Aktiengesetzes sind die Vertreter im Wege der Videokommunikation zu der Versammlung zuzuschalten. Diese können über die Videokommunikation das Wort ergreifen. Nach § 130a Absatz 1 und 2 des Aktiengesetzes eingereichte Stellungnahmen, nach § 131 Absatz 1a und 1b des Aktiengesetzes eingereichte Fragen sowie die zu diesen Fragen vor der Versammlung gegebenen Antworten sind den Vertretern zugänglich zu machen. Die Vertreter dürfen anstelle der Zuschaltung im Wege der Videokommunikation am Ort der Hauptversammlung teilnehmen, sofern sie dies für erforderlich halten. Die Betroffenen haben Maßnahmen nach den Sätzen 1 bis 5 zu dulden.
 
@@ -489,7 +492,7 @@ soweit dies zur Erfüllung der Aufgaben nach § 3 Absatz 1 Satz 2 und 4 erforder
 
 (3) Die Absätze 1 und 2 gelten nicht für CRR-Kreditinstitute, E-Geld-Institute und Anbieter von Kryptowerte-Dienstleistungen nach Artikel 59 Absatz 1 Buchstabe b der Verordnung (EU) 2023/1114.
 
-##### § 23 Abberufung von Mitgliedern des Leitungsorgans; Übertragung von Organbefugnissen auf Sonderbeauftragte
+###### § 23 Abberufung von Mitgliedern des Leitungsorgans; Übertragung von Organbefugnissen auf Sonderbeauftragte
 
 (1) Die Bundesanstalt kann ein Mitglied des Leitungsorgans eines Instituts verwarnen, wenn dieses Mitglied gegen die Bestimmungen der Verordnung (EU) 2023/1114, der Verordnung (EU) 2022/2554, dieses Gesetzes, des Geldwäschegesetzes, der Verordnung (EU) 2023/1113 oder der zur Durchführung dieser Gesetze erlassenen Verordnungen oder gegen Anordnungen der Bundesanstalt verstoßen hat. Gegenstand der Verwarnung ist die Feststellung des entscheidungserheblichen Sachverhalts und des hierdurch begründeten Verstoßes.
 
@@ -511,7 +514,7 @@ soweit dies zur Erfüllung der Aufgaben nach § 3 Absatz 1 Satz 2 und 4 erforder
 
 (6) Die Bundesanstalt kann unter den Voraussetzungen der Absätze 1 bis 4 Befugnisse, die Organen des Instituts zustehen, ganz oder teilweise auf einen Sonderbeauftragten übertragen. § 45c des Kreditwesengesetzes gilt entsprechend.
 
-##### § 24 Weitere Maßnahmen gegen Mitglieder des Leitungsorgans
+###### § 24 Weitere Maßnahmen gegen Mitglieder des Leitungsorgans
 
 (1) Im Falle eines Verstoßes gegen die Artikel 16, 48, 59, 60, oder die Artikel 65 bis 83 oder im Falle des Vorliegens der Voraussetzungen einer Maßnahme nach Artikel 21 Absatz 2 Buchstabe d oder Artikel 64 Absatz 1 Buchstabe d bis g der Verordnung (EU) 2023/1114 kann die Bundesanstalt einem für den Verstoß verantwortlichen Mitglied des Leitungsorgans eines Instituts
 
@@ -525,7 +528,7 @@ soweit dies zur Erfüllung der Aufgaben nach § 3 Absatz 1 Satz 2 und 4 erforder
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für jede andere Person, die für den Verstoß verantwortlich ist.
 
-##### § 25 Ergänzende Bestimmungen zur Übernahme von Instituten
+###### § 25 Ergänzende Bestimmungen zur Übernahme von Instituten
 
 (1) Die Verpflichtung nach § 20 Absatz 1 gegenüber der Bundesanstalt und der Deutschen Bundesbank gilt auch für
 
@@ -535,9 +538,9 @@ soweit dies zur Erfüllung der Aufgaben nach § 3 Absatz 1 Satz 2 und 4 erforder
 
 3. Personen und Unternehmen, bei denen Tatsachen die Annahme rechtfertigen, dass es sich um Personen oder Unternehmen nach Nummer 2 handelt und
 
-4. Personen und Unternehmen, die mit einer Person oder einem Unternehmen nach den Nummern 1 bis 3 nach § 15 des Aktiengesetzes verbunden sind. Die Auskunfts- und Vorlegungspflichten nach Satz 1 bestehen auch für die bei nach Satz 1 auskunfts- und vorlegungspflichtigen Personen oder Unternehmen, Beschäftigten sowie für die Mitglieder eines Organs, jeweils auch nach ihrem Ausscheiden aus dem Organ oder Unternehmen.
+4. Personen und Unternehmen, die mit einer Person oder einem Unternehmen nach den Nummern 1 bis 3 nach § 15 des Aktiengesetzes verbunden sind.
 
-Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die einzureichenden Unterlagen nach Artikel 41 oder Artikel 83 der Verordnung (EU) 2023/1114 in Verbindung mit den technischen Regulierungsstandards nach Artikel 42 Absatz 4 und Artikel 84 Absatz 4 der Verordnung (EU) 2023/1114 auf seine Kosten durch einen von der Bundesanstalt zu bestimmenden Wirtschaftsprüfer prüfen zu lassen. § 20 Absatz 5 gilt entsprechend.
+Die Auskunfts- und Vorlegungspflichten nach Satz 1 bestehen auch für die bei nach Satz 1 auskunfts- und vorlegungspflichtigen Personen oder Unternehmen, Beschäftigten sowie für die Mitglieder eines Organs, jeweils auch nach ihrem Ausscheiden aus dem Organ oder Unternehmen.Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die einzureichenden Unterlagen nach Artikel 41 oder Artikel 83 der Verordnung (EU) 2023/1114 in Verbindung mit den technischen Regulierungsstandards nach Artikel 42 Absatz 4 und Artikel 84 Absatz 4 der Verordnung (EU) 2023/1114 auf seine Kosten durch einen von der Bundesanstalt zu bestimmenden Wirtschaftsprüfer prüfen zu lassen. § 20 Absatz 5 gilt entsprechend.
 
 (2) Die Bundesanstalt und die Deutsche Bundesbank können Maßnahmen nach § 20 Absatz 2 gegenüber den in Absatz 1 genannten Personen und Unternehmen ergreifen, wenn Anhaltspunkte dafür vorliegen, dass sie aufgrund der Kriterien nach Artikel 42 Absatz 1 oder Artikel 84 Absatz 1 der Verordnung (EU) 2023/1114 nicht geeignet sind. § 20 Absatz 5 gilt entsprechend.
 
@@ -569,7 +572,7 @@ Im Falle einer Untersagung nach Satz 1 bestellt das Gericht am Sitz des Institut
 
 (10) Die Bundesanstalt kann in den Fällen des Absatzes 9 auch gegenüber einem die qualifizierte Beteiligung begründenden Unternehmen anordnen, Weisungen des Inhabers einer qualifizierten Beteiligung, der an dem begründenden Unternehmen beteiligt ist, nicht zu befolgen.
 
-##### § 26 Digitale operationale Resilienz
+###### § 26 Digitale operationale Resilienz
 
 (1) Die Bundesanstalt kann unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse bei Verstößen gegen die Verordnung (EU) 2022/2554 im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes sicherzustellen. Insbesondere kann sie gegenüber einem Institut anordnen,
 
@@ -587,7 +590,7 @@ Im Falle einer Untersagung nach Satz 1 bestellt das Gericht am Sitz des Institut
 
 ## Abschnitt 2 Sonderbestimmungen für Emittenten vermögenswertreferenzierter Token und E-Geld-Token
 
-##### § 27 Mindeststückelung; Betragsbegrenzung
+###### § 27 Mindeststückelung; Betragsbegrenzung
 
 (1) Die Bundesanstalt kann Änderungen an dem nach Artikel 23 Absatz 4 der Verordnung (EU) 2023/1114 eingereichten Plan von einem Emittenten vermögenswertreferenzierter Token verlangen, sofern dieser Plan nicht die Voraussetzung des Artikels 23 Absatz 1 der Verordnung (EU) 2023/1114 erfüllt, um einen zügigen Rückgang der Verwendung des betreffenden Kryptowertes als Tauschmittel sicherzustellen. Insbesondere kann die Bundesanstalt eine Mindeststückelung einführen oder den auszugebenden Betrag begrenzen.
 
@@ -595,7 +598,7 @@ Im Falle einer Untersagung nach Satz 1 bestellt das Gericht am Sitz des Institut
 
 (3) Die Absätze 1 und 2 gelten entsprechend für signifikante E-Geld-Token und E-Geld-Token, die auf keine amtliche Währung eines Mitgliedstaates lauten.
 
-##### § 28 Ergänzende Bestimmungen zum Reservevermögen und zur Sicherung entgegengenommener Geldbeträge
+###### § 28 Ergänzende Bestimmungen zum Reservevermögen und zur Sicherung entgegengenommener Geldbeträge
 
 (1) Institute im Sinne des § 2 Absatz 4 Nummer 1 halten das Reservevermögen nach Artikel 36 der Verordnung (EU) 2023/1114 getrennt von ihrem sonstigen Vermögen und von anderen Reservevermögen.
 
@@ -617,7 +620,7 @@ Im Falle einer Untersagung nach Satz 1 bestellt das Gericht am Sitz des Institut
 
 ## Abschnitt 3 Sonderbestimmungen für Anbieter von Kryptowerte-Dienstleistungen
 
-##### § 29 Aussetzung und Untersagung der Erbringung von Kryptowerte-Dienstleistungen; Einschreiten bei Erbringung von Kryptowerte-Dienstleistungen entgegen Artikel 60 der Verordnung (EU) 2023/1114
+###### § 29 Aussetzung und Untersagung der Erbringung von Kryptowerte-Dienstleistungen; Einschreiten bei Erbringung von Kryptowerte-Dienstleistungen entgegen Artikel 60 der Verordnung (EU) 2023/1114
 
 (1) Die Bundesanstalt kann gegenüber Anbietern von Kryptowerte-Dienstleistungen anordnen, dass diese Anbieter ihre Tätigkeit auszusetzen haben, wenn
 
@@ -633,13 +636,13 @@ Im Falle des Satzes 1 Nummer 1 darf die Aussetzung 30 Tage nicht überschreiten.
 
 (3) Erbringen ein CRR-Kreditinstitut, ein Zentralverwahrer, ein Wertpapierinstitut, ein Finanzdienstleistungsinstitut, ein E-Geld-Institut, eine OGAW-Verwaltungsgesellschaft oder ein Verwalter alternativer Investmentfonds nach Artikel 59 Absatz 1 Buchstabe b der Verordnung (EU) 2023/1114 Kryptowerte-Dienstleistungen, ohne der Bundesanstalt 40 Tage vor der erstmaligen Erbringung dieser Kryptowerte-Dienstleistungen die nach Artikel 60 Absatz 7 der Verordnung (EU) 2023/1114 erforderlichen Informationen übermittelt zu haben, kann die Bundesanstalt die Einstellung der Erbringung dieser Kryptowerte-Dienstleistungen anordnen.
 
-##### § 30 Bekanntmachung wesentlicher Informationen zu Anbietern von Kryptowerte-Dienstleistungen
+###### § 30 Bekanntmachung wesentlicher Informationen zu Anbietern von Kryptowerte-Dienstleistungen
 
 Die Bundesanstalt kann zur Gewährleistung des Schutzes der Interessen der Kunden von Anbietern von Kryptowerte-Dienstleistungen, insbesondere der Kleinanleger, oder des reibungslosen Funktionierens des Marktes alle wesentlichen Informationen, die die Erbringung der Kryptowerte-Dienstleistungen beeinflussen können, bekannt machen oder vom Anbieter der Kryptowerte-Dienstleistung die Bekanntmachung dieser Informationen verlangen. Die Kosten, die der Bundesanstalt durch die in Satz 1 vorgenommene Bekanntmachung entstehen, sind ihr von dem Anbieter der Kryptowerte-Dienstleistung gesondert zu erstatten und auf Verlangen der Bundesanstalt vorzuschießen.
 
 ## Abschnitt 4 Handel auf Handelsplattformen für Kryptowerte und Verhinderung von Marktmissbrauch auf Handelsplattformen für Kryptowerte
 
-##### § 31 Verfolgung von Marktmissbrauch
+###### § 31 Verfolgung von Marktmissbrauch
 
 (1) Die Bundesanstalt kann zur Verfolgung von Verstößen gegen Titel VI der Verordnung (EU) 2023/1114 von jeder Person, auch von solchen, die nacheinander an der Übermittlung von Aufträgen oder der Ausführung der betreffenden Tätigkeiten beteiligt sind, sowie von deren Auftraggebern
 
@@ -661,15 +664,15 @@ Gesetzliche Auskunfts- und Aussageverweigerungsrechte sowie gesetzliche Verschwi
 
 (7) Bei Verstößen gegen Titel VI der Verordnung (EU) 2023/1114 kann die Bundesanstalt von der verantwortlichen natürlichen oder juristischen Person verlangen, dass die den Verstoß begründende Handlung oder Verhaltensweise dauerhaft eingestellt und von einer Wiederholung abgesehen wird.
 
-##### § 32 Verschwiegenheitspflicht bei Maßnahmen wegen eines möglichen Verstoßes gegen Artikel 89 oder 91 der Verordnung (EU) 2023/1114
+###### § 32 Verschwiegenheitspflicht bei Maßnahmen wegen eines möglichen Verstoßes gegen Artikel 89 oder 91 der Verordnung (EU) 2023/1114
 
 Die Adressaten von Maßnahmen nach § 31, die von der Bundesanstalt wegen eines möglichen Verstoßes gegen ein Verbot nach Artikel 89 oder 91 der Verordnung (EU) 2023/1114 ergriffen werden, dürfen andere Personen als Mitarbeiter staatlicher Stellen und Personen, die aufgrund ihres Berufs einer gesetzlichen Verschwiegenheitspflicht unterliegen, von diesen Maßnahmen oder von einem daraufhin eingeleiteten Ermittlungsverfahren nicht in Kenntnis setzen.
 
-##### § 33 Anzeige straftatbegründender Tatsachen
+###### § 33 Anzeige straftatbegründender Tatsachen
 
 Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat nach § 46 Absatz 1 Nummer 4 bis 6 oder Absatz 2 begründen, der zuständigen Staatsanwaltschaft unverzüglich anzuzeigen. Sie kann die personenbezogenen Daten der betroffenen Personen, gegen die sich der Verdacht richtet oder die als Zeugen in Betracht kommen, der Staatsanwaltschaft übermitteln, soweit dies für Zwecke der Strafverfolgung erforderlich ist. Die Staatsanwaltschaft entscheidet über die Vornahme der erforderlichen Ermittlungsmaßnahmen, insbesondere über Durchsuchungen, nach den Vorschriften der Strafprozessordnung. Die Befugnisse der Bundesanstalt bleiben hiervon unberührt, soweit dies für die Vornahme von Verwaltungsmaßnahmen oder zur Erfüllung von Ersuchen ausländischer Stellen nach Artikel 95 Absatz 3 bis 5 der Verordnung (EU) 2023/1114 erforderlich ist und soweit eine Gefährdung des Untersuchungszwecks von Ermittlungen der Strafverfolgungsbehörden oder der für Strafsachen zuständigen Gerichte nicht zu besorgen ist.
 
-##### § 34 Aussetzung des Handels und Ausschluss von Kryptowerten vom Handel; Maßnahmen in Bezug auf mit dem Kryptowert verbundene Derivate
+###### § 34 Aussetzung des Handels und Ausschluss von Kryptowerten vom Handel; Maßnahmen in Bezug auf mit dem Kryptowert verbundene Derivate
 
 (1) Der Betreiber einer Handelsplattform für Kryptowerte kann den Handel mit einem Kryptowert aussetzen oder den Kryptowert vom Handel ausschließen, wenn dies zur Sicherung eines ordnungsgemäßen Handels oder zum Schutz des Publikums geboten erscheint, insbesondere, wenn
 
@@ -695,13 +698,13 @@ Eine Maßnahme nach Satz 1 unterbleibt, wenn sie die Interessen der betroffenen 
 
 Unter den Voraussetzungen des Satzes 1 kann die Bundesanstalt den Handel mit einem Kryptowert an einer Handelsplattform für Kryptowerte auch untersagen. Die Bundesanstalt kann eine Anordnung nach den Sätzen 1 und 2 durch Allgemeinverfügung treffen.
 
-##### § 35 Bekanntmachung marktrelevanter Informationen zum Handel zugelassener Kryptowerte
+###### § 35 Bekanntmachung marktrelevanter Informationen zum Handel zugelassener Kryptowerte
 
 (1) Die Bundesanstalt kann alle erforderlichen Maßnahmen ergreifen, um sicherzustellen, dass die Öffentlichkeit im Falle eines Verstoßes gegen Titel VI der Verordnung (EU) 2023/1114 ordnungsgemäß informiert wird, unter anderem durch Richtigstellung falscher oder irreführender offengelegter Information. Sie kann insbesondere einen Anbieter, einen Antragsteller, einen Emittenten oder eine andere Person, die falsche oder irreführende Informationen veröffentlicht oder verbreitet hat, anweisen, eine Berichtigung zu veröffentlichen.
 
 (2) Die Bundesanstalt kann eine nach Artikel 88 Absatz 1 der Verordnung (EU) 2023/1114 gebotene Bekanntgabe auf Kosten des nach Artikel 88 Absatz 1 der Verordnung (EU) 2023/1114 Verpflichteten vornehmen, wenn die Bekanntgabepflicht nicht, nicht richtig, nicht vollständig oder nicht in der vorgesehenen Weise erfüllt wird. Sie kann dies auch von einem Pflichtigen nach Satz 1 verlangen. Die Kosten, die der Bundesanstalt durch eine nach Satz 1 vorgenommene Bekanntmachung entstehen, sind ihr vom Verpflichteten gesondert zu erstatten und auf Verlangen vorzuschießen.
 
-##### § 36 Übermittlung von Insiderinformationen; Verordnungsermächtigung
+###### § 36 Übermittlung von Insiderinformationen; Verordnungsermächtigung
 
 (1) Ein Emittent, Anbieter oder Antragsteller, der nach Artikel 88 Absatz 1 der Verordnung (EU) 2023/1114 verpflichtet ist, Insiderinformationen zu veröffentlichen und für den oder die die Bundesrepublik Deutschland Herkunftsmitgliedstaat nach Artikel 3 Absatz 1 Nummer 33 der Verordnung (EU) 2023/1114 ist, hat diese Insiderinformationen unverzüglich nach ihrer Veröffentlichung der Bundesanstalt zu übermitteln.
 
@@ -715,7 +718,7 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnu
 
 ## Kapitel 5 Rechnungslegung, Vorlage von Rechnungslegungsunterlagen, Bestellung des Abschlussprüfers und Abschlussprüfung
 
-##### § 37 Pflicht zur Rechnungslegung
+###### § 37 Pflicht zur Rechnungslegung
 
 (1) Institute im Sinne des § 2 Absatz 4 Nummer 1 und 3, die nicht den Vorschriften des Ersten Unterabschnitts des Vierten Abschnitts des Dritten Buchs des Handelsgesetzbuches unterworfen sind, haben einen Jahresabschluss und einen Lagebericht nach den für Kapitalgesellschaften geltenden Vorschriften des Ersten Unterabschnitts des Zweiten Abschnitts des Dritten Buchs des Handelsgesetzbuches sowie nach den Vorschriften einer Rechtsverordnung nach Absatz 6 aufzustellen. § 264 Absatz 1 Satz 4 und 5 und Absatz 3, die §§ 264b, 265 Absatz 7, § 266 Absatz 1 Satz 3 und 4, § 274a Nummer 4, § 275 Absatz 5, die §§ 276 und 288 Absatz 2 des Handelsgesetzbuches sind nicht anzuwenden. Die §§ 340b, 340e Absatz 1, 3 und 4 sowie § 340g des Handelsgesetzbuches sind mit der Maßgabe entsprechend anzuwenden, dass Institute nach Absatz 1 Satz 1, die klein nach § 267 Absatz 1 des Handelsgesetzbuches und nicht kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuches sind, die Angaben nach § 340b Absatz 4 Satz 4 und § 340e Absatz 4 Satz 2 des Handelsgesetzbuches nicht zu machen brauchen.
 
@@ -737,13 +740,13 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnu
 
 Das Bundesministerium der Finanzen kann diese Ermächtigung im Einvernehmen mit dem Bundesministerium der Justiz durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
 
-##### § 38 Pflicht zur Vorlage von Jahresabschluss, Lagebericht und Abschlussprüfungsberichten
+###### § 38 Pflicht zur Vorlage von Jahresabschluss, Lagebericht und Abschlussprüfungsberichten
 
 (1) Ein Institut nach § 37 Absatz 1 Satz 1 hat den aufgestellten sowie später den festgestellten Jahresabschluss und den Lagebericht der Bundesanstalt und der Deutschen Bundesbank jeweils unverzüglich einzureichen. Der Jahresabschluss muss mit dem Bestätigungsvermerk oder einem Vermerk über die Versagung der Bestätigung versehen sein. Der Abschlussprüfer hat den Bericht über die Prüfung des Jahresabschlusses (Abschlussprüfungsbericht) unverzüglich nach Beendigung der Abschlussprüfung der Bundesanstalt und der Deutschen Bundesbank einzureichen.
 
 (2) Ein Institut nach § 37 Absatz 1 Satz 1, das einen Konzernabschluss oder einen Konzernlagebericht aufstellt, hat diese Unterlagen unverzüglich der Bundesanstalt und der Deutschen Bundesbank einzureichen. Wird ein Prüfungsbericht von einem Konzernabschlussprüfer erstellt, hat dieser den Prüfungsbericht unverzüglich nach Beendigung der Prüfung der Bundesanstalt und der Deutschen Bundesbank einzureichen. Die Bestimmungen dieses Absatzes gelten entsprechend für einen Einzelabschluss nach § 325 Absatz 2a des Handelsgesetzbuches.
 
-##### § 39 Pflicht zur Bestellung des Abschlussprüfers und zur Anzeige
+###### § 39 Pflicht zur Bestellung des Abschlussprüfers und zur Anzeige
 
 (1) Ein Institut nach § 37 Absatz 1 Satz 1 hat einen Abschlussprüfer oder Konzernabschlussprüfer unverzüglich nach dessen Bestellung der Bundesanstalt und der Deutschen Bundesbank anzuzeigen. Die Bundesanstalt kann innerhalb von zwei Monaten nach Zugang der Anzeige die Bestellung eines anderen Abschlussprüfers verlangen, wenn dies zur Erreichung des Prüfungszwecks geboten ist. Die Bestellung eines anderen Abschlussprüfers ist in der Regel zur Erreichung des Prüfungszwecks geboten, wenn ein Institut nach § 37 Absatz 1 Satz 1, das kein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 des Handelsgesetzbuches ist, der Bundesanstalt für mindestens elf aufeinanderfolgende Geschäftsjahre denselben Abschlussprüfer angezeigt hat.
 
@@ -761,7 +764,7 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung im Einvernehmen mit 
 
 Die Bestellung durch das Gericht ist endgültig. § 318 Absatz 5 des Handelsgesetzbuches gilt entsprechend. Das Gericht kann auf Antrag der Bundesanstalt einen nach Satz 1 bestellten Abschlussprüfer abberufen.
 
-##### § 40 Besondere Pflichten des Abschlussprüfers; Verordnungsermächtigung
+###### § 40 Besondere Pflichten des Abschlussprüfers; Verordnungsermächtigung
 
 (1) Als Teil der Prüfung des Jahresabschlusses hat der Abschlussprüfer auch die wirtschaftlichen Verhältnisse des Instituts zu prüfen. Bei der Prüfung des Jahresabschlusses hat er insbesondere festzustellen, ob das Institut die Anzeigepflichten nach der Verordnung (EU) 2023/1114 auch in Verbindung mit den entsprechenden technischen Regulierungsstandards erfüllt hat. Der Abschlussprüfer hat auch zu prüfen, ob das Institut seinen Verpflichtungen
 
@@ -795,7 +798,7 @@ Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank hat der Prüfer ih
 
 ## Kapitel 6 Maßnahmen in besonderen Fällen
 
-##### § 41 Maßnahmen zur Verbesserung der Eigenmittelausstattung
+###### § 41 Maßnahmen zur Verbesserung der Eigenmittelausstattung
 
 (1) Wenn die Vermögens-, Finanz- oder Ertragsentwicklung eines Instituts oder andere Umstände die Annahme rechtfertigen, dass das Institut den Vorgaben des Artikels 35 oder des Artikels 67 der Verordnung (EU) 2023/1114 nicht erfüllt oder zukünftig voraussichtlich nicht erfüllen wird, kann die Bundesanstalt gegenüber dem Institut Maßnahmen zur dauerhaften Erfüllung der Vorgaben anordnen.
 
@@ -807,7 +810,7 @@ Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank hat der Prüfer ih
 
 3. anordnen, dass das Institut eine oder mehrere Handlungsoptionen aus dem Sanierungsplan nach Artikel 46 oder Artikel 55 der Verordnung (EU) 2023/1114 umsetzt.
 
-##### § 42 Maßnahmen bei organisatorischen Mängeln
+###### § 42 Maßnahmen bei organisatorischen Mängeln
 
 (1) Verfügt ein Institut nicht über eine ordnungsgemäße Unternehmensführung nach Artikel 34 oder nach Artikel 68 der Verordnung (EU) 2023/1114, kann die Bundesanstalt insbesondere anordnen, dass das Institut
 
@@ -819,7 +822,7 @@ Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank hat der Prüfer ih
 
 (2) Absatz 1 Nummer 1 ist entsprechend auf Auslagerungsunternehmen anzuwenden, soweit ein Institut wesentliche Aktivitäten und Prozesse ausgelagert hat.
 
-##### § 43 Einstweilige Maßnahmen bei Gefahr
+###### § 43 Einstweilige Maßnahmen bei Gefahr
 
 (1) Besteht Gefahr für die Erfüllung der Verpflichtungen eines Instituts, insbesondere für die Sicherheit der dem Institut anvertrauten Vermögenswerte, oder besteht der begründete Verdacht, dass eine wirksame Aufsicht über das Institut nicht möglich ist, kann die Bundesanstalt zur Abwendung dieser Gefahr einstweilige Maßnahmen treffen. Sie kann insbesondere
 
@@ -841,7 +844,7 @@ Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank hat der Prüfer ih
 
 (4) Die Absätze 1 bis 3 mit Ausnahme von Absatz 2 Nummer 1 gelten nicht für CRR-Kreditinstitute, E-Geld-Institute und Anbieter von Kryptowerte-Dienstleistungen nach Artikel 59 Absatz 1 Buchstabe b der Verordnung (EU) 2023/1114.
 
-##### § 44 Insolvenz
+###### § 44 Insolvenz
 
 (1) Wird ein Institut zahlungsunfähig oder tritt Überschuldung ein, so haben die Mitglieder des Vertretungsorgans dies der Bundesanstalt unter Beifügung aussagekräftiger Unterlagen unverzüglich anzuzeigen; die Mitglieder des Vertretungsorgans haben eine solche Anzeige auch dann vorzunehmen, wenn das Institut voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten zum Zeitpunkt der Fälligkeit zu erfüllen (drohende Zahlungsunfähigkeit). Soweit diese Personen nach anderen Rechtsvorschriften verpflichtet sind, bei Zahlungsunfähigkeit oder Überschuldung die Eröffnung des Insolvenzverfahrens zu beantragen, tritt an die Stelle der Antragspflicht die Anzeigepflicht nach Satz 1. Das Insolvenzverfahren über das Vermögen eines Instituts findet im Falle der Zahlungsunfähigkeit oder der Überschuldung oder unter den Voraussetzungen des Satzes 5 auch im Falle der drohenden Zahlungsunfähigkeit statt. Den Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen des Instituts kann nur die Bundesanstalt stellen. Im Falle der drohenden Zahlungsunfähigkeit darf die Bundesanstalt den Antrag jedoch nur mit Zustimmung des Instituts stellen.
 
@@ -861,7 +864,7 @@ Es soll die Bundesanstalt vor Anordnung von Sicherungsmaßnahmen im Rahmen des I
 
 (5) Die Absätze 1 bis 4 gelten nicht für CRR-Kreditinstitute, E-Geld-Institute und Anbieter von Kryptowerte-Dienstleistungen nach Artikel 59 Absatz 1 Buchstabe b der Verordnung (EU) 2023/1114.
 
-##### § 45 Zuordnung verwahrter Kryptowerte, Kosten der Aussonderung
+###### § 45 Zuordnung verwahrter Kryptowerte, Kosten der Aussonderung
 
 (1) Der im Rahmen der Kryptoverwahrung für einen Kunden verwahrte Kryptowert gilt als dem Kunden gehörig. Das gilt nicht, wenn der Kunde die Einwilligung zu Verfügungen über den verwahrten Wert für Rechnung des Instituts oder Dritter erteilt hat.
 
@@ -871,7 +874,7 @@ Es soll die Bundesanstalt vor Anordnung von Sicherungsmaßnahmen im Rahmen des I
 
 ## Kapitel 7 Straf- und Bußgeldvorschriften
 
-##### § 46 Strafvorschriften
+###### § 46 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer gegen die Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40) verstößt, indem er
 
@@ -915,7 +918,7 @@ Es soll die Bundesanstalt vor Anordnung von Sicherungsmaßnahmen im Rahmen des I
 
 Soweit die Strafvorschriften Mitglieder des Aufsichtsrats einer Kapitalgesellschaft betreffen, gelten sie bei einer anderen juristischen Person für die Mitglieder eines gesetzlichen Überwachungsorgans.
 
-##### § 47 Bußgeldvorschriften
+###### § 47 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine in § 46 Absatz 1 Nummer 4 bis 6 bezeichnete Handlung fahrlässig begeht.
 
@@ -1343,7 +1346,7 @@ Soweit die Bußgeldvorschriften Mitglieder des Aufsichtsrats einer Kapitalgesell
 
 (13) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-##### § 48 Ordnungsgelder
+###### § 48 Ordnungsgelder
 
 (1) Die Ordnungsgeldvorschriften der §§ 335 bis 335b des Handelsgesetzbuches sind auf die Verletzung der Pflichten zur Offenlegung des Jahresabschlusses, des Lageberichts, des Konzernabschlusses, des Konzernlageberichts und anderer Unterlagen der Rechnungslegung nach § 37 Absatz 4 Satz 1 dieses Gesetzes entsprechend anzuwenden. Das Ordnungsgeldverfahren kann durchgeführt werden
 
@@ -1357,7 +1360,7 @@ Soweit die Bußgeldvorschriften Mitglieder des Aufsichtsrats einer Kapitalgesell
 
 (2) Die Bundesanstalt übermittelt der das Unternehmensregister führenden Stelle einmal pro Kalenderjahr Name und Anschrift der zur Offenlegung nach § 37 Absatz 4 Satz 1 verpflichteten Institute.
 
-##### § 49 Mitteilungen in Strafsachen
+###### § 49 Mitteilungen in Strafsachen
 
 (1) Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde hat in Strafverfahren gegen Mitglieder des Leitungsorgans von Instituten sowie gegen Inhaber qualifizierter Beteiligungen an einem Institut oder deren gesetzliche Vertreter oder persönlich haftende Gesellschafter wegen Straftaten zum Nachteil von Kunden oder Inhabern von Kryptowerten bei oder im Zusammenhang mit dem Geschäftsbetrieb eines Instituts, ferner in Strafverfahren, die Straftaten nach § 46 zum Gegenstand haben, im Falle der Erhebung der öffentlichen Klage der Bundesanstalt
 
@@ -1377,7 +1380,7 @@ zu übermitteln; ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, i
 
 ## Kapitel 8 Übergangs- und Schlussvorschriften
 
-##### § 50 Übergangsvorschrift zur Erbringung von Kryptowerte-Dienstleistungen nach Artikel 143 der Verordnung (EU) 2023/1114; Verordnungsermächtigung
+###### § 50 Übergangsvorschrift zur Erbringung von Kryptowerte-Dienstleistungen nach Artikel 143 der Verordnung (EU) 2023/1114; Verordnungsermächtigung
 
 (1) Unternehmen mit einer Erlaubnis
 
@@ -1411,7 +1414,6 @@ die am 29. Dezember 2024 im Einklang mit geltendem Recht Tätigkeiten in Bezug a
 
 (6) Das Bundesministerium der Finanzen kann im Benehmen mit der Deutschen Bundesbank durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zur Stellung von Anträgen nach der Verordnung (EU) 2023/1114 für das Angebot von Kryptowerte-Dienstleistungen durch die Bundesanstalt vor dem 30. Dezember 2024 festlegen. Das Bundesministerium der Finanzen kann diese Ermächtigung an die Bundesanstalt mit der Maßgabe übertragen, dass diese Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
 
-##### § 51 Übergangsvorschrift zur Rechnungslegung
+###### § 51 Übergangsvorschrift zur Rechnungslegung
 
 § 37 ist erstmals anzuwenden auf Rechnungslegungsunterlagen für ein nach dem 30. Juni 2024 beginnendes Geschäftsjahr. § 40 Absatz 1 Satz 3 Nummer 5 ist erstmals anzuwenden auf Rechnungslegungsunterlagen für ein nach dem 31. Dezember 2024 beginnendes Geschäftsjahr.
-
