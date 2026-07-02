@@ -4,19 +4,22 @@ identifier: "BAFINBEFUGV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2002-12-13"
-last_updated: "2026-04-04"
+last_updated: "2026-07-02"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bafinbefugv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR000300003"
 slug: "bafinbefugv"
 bgbl_reference: "BGBl I 2003, 3"
-stand: "Zuletzt geändert durch Art. 1 V v. 25.2.2026 I Nr. 52"
-hinweis: "Änderung durch Art. 27 Abs. 3 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Zuletzt geändert durch Art. 27 Abs. 3 G v. 25.3.2026 I Nr. 81"
 ---
 # Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund folgender Bestimmungen des Wertpapierhandelsgesetzes in der Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I S. 2708):
 
@@ -80,7 +83,7 @@ auf Grund des § 6 Abs. 7 Satz 2 in Verbindung mit Satz 1 des Hypothekenbankgese
 
 verordnet das Bundesministerium der Finanzen:
 
-##### § 1
+###### § 1
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
@@ -108,7 +111,7 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
 zu erlassen.
 
-##### § 1a
+###### § 1a
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf der Grundlage des Versicherungsaufsichtsgesetzes zu erlassen
 
@@ -122,11 +125,11 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 
 5. im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nach Maßgabe des § 160 Satz 1 Nummer 1 bis 5 und 7 in Verbindung mit Satz 3, des § 235 Absatz 1 Nummer 9 und 11 in Verbindung mit Absatz 2 Satz 3, des § 240 Satz 1 Nummer 4 und 10 bis 12 in Verbindung mit Satz 4.
 
-##### § 1b
+###### § 1b
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen nach Maßgabe des § 22 Absatz 1 des Finanzkonglomerate-Aufsichtsgesetzes im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes und des Versicherungsbeirats nach § 92 des Versicherungsaufsichtsgesetzes zu erlassen.
 
-##### § 1c
+###### § 1c
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf der Grundlage des Sanierungs- und Abwicklungsgesetzes zu erlassen
 
@@ -138,7 +141,7 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 
 4. nach Maßgabe des § 152i Absatz 1.
 
-##### § 1d
+###### § 1d
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf der Grundlage des Wertpapierinstitutsgesetzes zu erlassen
 
@@ -152,15 +155,15 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 
 5. nach Maßgabe des § 16 Absatz 5 Satz 3.
 
-##### § 1e
+###### § 1e
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen nach Maßgabe des § 4a Absatz 2 Satz 1 des Zahlungsdiensteaufsichtsgesetzes und des § 28 Absatz 4 Satz 1 und 2 des Zahlungsdiensteaufsichtsgesetzes zu erlassen im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute.
 
-##### § 1f
+###### § 1f
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird nach § 19 Absatz 5 des Zahlungskontengesetzes ermächtigt, eine Rechtsverordnung nach Maßgabe des § 19 Absatz 1 und 3 des Zahlungskontengesetzes im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium der Justiz und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz zu erlassen.
 
-##### § 1g
+###### § 1g
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf Grundlage des Kryptomärkteaufsichtsgesetzes zu erlassen:
 
@@ -172,7 +175,7 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 
 4. im Einvernehmen mit dem Bundesministerium der Justiz und der Deutschen Bundesbank nach Maßgabe des § 40 Absatz 4 Satz 1, 2 und 3.
 
-##### § 1h
+###### § 1h
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf Grundlage des Geldwäschegesetzes zu erlassen
 
@@ -180,7 +183,6 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 
 2. nach Maßgabe des § 52 Absatz 7 Satz 3.
 
-##### § 2
+###### § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
