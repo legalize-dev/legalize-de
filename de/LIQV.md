@@ -4,27 +4,30 @@ identifier: "LIQV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2006-12-14"
-last_updated: "2026-04-04"
+last_updated: "2026-07-02"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/liqv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR311700006"
 slug: "liqv"
 bgbl_reference: "BGBl I 2006, 3117"
-stand: "Zuletzt geändert durch Art. 7 Abs. 41 G v. 12.5.2021 I 990"
-hinweis: "Änderung durch Art. 26 Abs. 4 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Zuletzt geändert durch Art. 26 Abs. 4 G v. 25.3.2026 I Nr. 81"
 ---
 # Verordnung über die Liquidität der Institute
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 11 Abs. 1 Satz 2 des Kreditwesengesetzes, der durch Artikel 1 Nr. 16 des Gesetzes vom 17. November 2006 (BGBl. I S. 2606) neu gefasst worden ist, verordnet das Bundesministerium der Finanzen im Benehmen mit der Deutschen Bundesbank nach Anhörung der Spitzenverbände der Institute:
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 Diese Verordnung ist anzuwenden auf diejenigen Kreditinstitute, auf die die Vorschriften des Teils 6 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3; L 13 vom 17.1.2020, S. 58; L 335 vom 13.10.2020, S. 20; L 405 vom 2.12.2020, S. 79), die zuletzt durch die Verordnung (EU) 2020/873 (ABl. L 204 vom 26.6.2020, S. 4) geändert worden ist, nicht anzuwenden sind.
 
-##### § 2 Ausreichende Liquidität
+###### § 2 Ausreichende Liquidität
 
 (1) Die Liquidität eines Instituts gilt als ausreichend, wenn die zu ermittelnde Liquiditätskennzahl den Wert eins nicht unterschreitet. Die Liquiditätskennzahl gibt das Verhältnis zwischen den im Laufzeitband 1 verfügbaren Zahlungsmitteln und den während dieses Zeitraumes abrufbaren Zahlungsverpflichtungen an. Zahlungsmittel und Zahlungsverpflichtungen sind jeweils einem der folgenden Laufzeitbänder zuzuordnen: fällig
 
@@ -38,7 +41,7 @@ Diese Verordnung ist anzuwenden auf diejenigen Kreditinstitute, auf die die Vors
 
 (2) Das Institut hat Beobachtungskennzahlen zu berechnen, die das Verhältnis zwischen den jeweiligen Zahlungsmitteln und den Zahlungsverpflichtungen in den Laufzeitbändern nach Absatz 1 Satz 3 Nr. 2 bis 4 angeben. Die Ermittlung der Beobachtungskennzahlen erfolgt entsprechend der Berechnung der Liquiditätskennzahl nach Absatz 1 Satz 2. Überschreiten die in einem Laufzeitband vorhandenen Zahlungsmittel die abrufbaren Zahlungsverpflichtungen, ist der Unterschiedsbetrag als zusätzliches Zahlungsmittel bei der Ermittlung der Beobachtungskennzahl in dem nächsthöheren Laufzeitband zu berücksichtigen.
 
-##### § 3 Zahlungsmittel
+###### § 3 Zahlungsmittel
 
 (1) Als Zahlungsmittel sind im Laufzeitband 1 vorbehaltlich Absatz 3 zu erfassen
 
@@ -94,7 +97,7 @@ soweit die jeweiligen Restlaufzeiten zum Meldestichtag die Dauer eines Jahres ni
 
 6. andere als die in Absatz 1 Nr. 8 aufgeführten Investmentanteile, soweit sie nicht von Absatz 1 Nr. 5 als Zahlungsmittel erfasst sind.
 
-##### § 4 Zahlungsverpflichtungen
+###### § 4 Zahlungsverpflichtungen
 
 (1) Als Zahlungsverpflichtungen sind im Laufzeitband 1 zu erfassen
 
@@ -152,7 +155,7 @@ wenn die jeweiligen Restlaufzeiten zum Meldestichtag ein Jahr nicht übersteigen
 
 4. 48 Prozent im Laufzeitband 4.
 
-##### § 5 Wertpapierpensions- und Wertpapierleihgeschäfte
+###### § 5 Wertpapierpensions- und Wertpapierleihgeschäfte
 
 (1) Im Rahmen echter Pensionsgeschäfte verpensionierte Wertpapiere sind dem Bestand des Pensionsnehmers zuzurechnen, der eine daraus resultierende Sachverbindlichkeit zur Rückgabe der Papiere zu berücksichtigen hat. Der Pensionsnehmer hat in Höhe des vereinbarten Rückzahlungsbetrags eine Geldforderung gegenüber dem Pensionsgeber anzurechnen. Der Pensionsgeber hat anstelle der Wertpapiere eine Sachforderung auf Rückgabe der Papiere zu erfassen. Er hat eine Geldverbindlichkeit in Höhe des vereinbarten Rückzahlungsbetrags gegenüber dem Pensionsnehmer zu berücksichtigen.
 
@@ -164,7 +167,7 @@ wenn die jeweiligen Restlaufzeiten zum Meldestichtag ein Jahr nicht übersteigen
 
 (3) Im Rahmen von Leihgeschäften übertragene Wertpapiere sind vom Bestand des Verleihers abzusetzen und dem Entleiher zuzurechnen. Der Entleiher hat eine Sachverbindlichkeit zur Rückgabe der Papiere zu berücksichtigen, der eine Sachforderung beim Verleiher in entsprechender Höhe gegenübersteht.
 
-##### § 6 Bemessungsgrundlage
+###### § 6 Bemessungsgrundlage
 
 (1) Bemessungsgrundlage sind bei
 
@@ -194,7 +197,7 @@ abzusetzen. Entscheidet sich ein Institut für das alternative Verfahren, hat es
 
 (4) Institute dürfen abweichend von Absatz 3 intern verwendete Fremdwährungsumrechnungskurse aus eigenen Risikomodellen, die für aufsichtliche Zwecke zugelassen sind, weiterhin berücksichtigen, wenn sie diese bereits vor dem 1. Januar 2014 konsistent berücksichtigt haben.
 
-##### § 7 Restlaufzeiten
+###### § 7 Restlaufzeiten
 
 Als Restlaufzeit gilt
 
@@ -212,13 +215,13 @@ Als Restlaufzeit gilt
 
 Vorzeitige Kündigungsmöglichkeiten sind bei Verbindlichkeiten zu berücksichtigen. Sie sind bei Forderungen und Wertpapieren im Bestand unberücksichtigt zu lassen. Bei Forderungen und Verbindlichkeiten, die regelmäßig in Teilbeträgen getilgt werden, sind die Rückzahlungsbeträge in Höhe der jeweiligen Teilbeträge in die betreffenden Laufzeitbänder einzustellen. Tagesgelder und Gelder mit täglicher Kündigung gelten nicht als täglich fällig. Sie werden wie Festgelder mit eintägiger Laufzeit behandelt.
 
-##### § 8 (weggefallen)
+###### § 8 (weggefallen)
 
-##### § 9 (weggefallen)
+###### § 9 (weggefallen)
 
 -
 
-##### § 10 Verwendung von institutseigenen Liquiditätsrisikomess- und -steuerungsverfahren
+###### § 10 Verwendung von institutseigenen Liquiditätsrisikomess- und -steuerungsverfahren
 
 (1) Zur Beurteilung der ausreichenden Liquidität darf das Institut nach dauerhafter Wahl mit Zustimmung der Bundesanstalt anstelle der §§ 2 bis 7 ein eigenes Liquiditätsrisikomess- und -steuerungsverfahren verwenden, wenn die Voraussetzungen nach Absatz 3 erfüllt werden und die Bundesanstalt dessen Eignung für die Zwecke dieser Verordnung auf Antrag des Instituts schriftlich bestätigt hat. Die Bundesanstalt kann ihre Zustimmung an Nebenbestimmungen, insbesondere Auflagen, knüpfen und eine bereits erteilte Zustimmung widerrufen, wenn das Institut die Voraussetzungen nach Absatz 3 nicht mehr erfüllt.
 
@@ -236,7 +239,7 @@ Vorzeitige Kündigungsmöglichkeiten sind bei Verbindlichkeiten zu berücksichti
 
 (4) Ein Institut mit Sitz im Inland, das nachgeordnetes Unternehmen einer Institutsgruppe oder einer Finanzholding-Gruppe ist und die Voraussetzungen nach § 2a Absatz 5 des Kreditwesengesetzes erfüllt, oder das übergeordnetes Unternehmen ist und die Voraussetzungen nach § 2a Absatz 5 des Kreditwesengesetzes erfüllt, darf nach dauerhafter Wahl mit Zustimmung der Bundesanstalt von der Anwendung der §§ 2 bis 7 absehen, wenn die Institutsgruppe oder die Finanzholding-Gruppe, der das Institut angehört, ein eigenes Liquiditätsrisikomess- und -steuerungsverfahren verwendet und die Bundesanstalt dessen Eignung schriftlich bestätigt hat. Die Absätze 1 bis 3 gelten entsprechend.
 
-##### § 11 Meldungen der Kennzahlen
+###### § 11 Meldungen der Kennzahlen
 
 (1) Die Institute haben der Deutschen Bundesbank zu den Anforderungen nach § 2 nach dem Stand zum Meldestichtag Ende des Monats Meldungen mit den Vordrucken nach Anlage 2 und 3 jeweils bis zum 15. Geschäftstag des auf den Meldestichtag folgenden Monats einzureichen. Auf Antrag des Instituts kann die Bundesanstalt eine Fristverlängerung bewilligen. Für Bürgschaftsbanken und Kreditgarantiegemeinschaften gilt Satz 1 mit der Maßgabe, dass die Meldungen nur zweimal jährlich nach dem Stand zum Meldestichtag Ende Mai und Ende November jeweils bis zum 15. Geschäftstag des auf den Meldestichtag folgenden Monats einzureichen sind.
 
@@ -244,23 +247,22 @@ Vorzeitige Kündigungsmöglichkeiten sind bei Verbindlichkeiten zu berücksichti
 
 (3) Die Meldungen nach den Absätzen 1 und 2 sind im papierlosen Verfahren einzureichen. Die Deutsche Bundesbank veröffentlicht im Internet die für eine elektronische Dateneinreichung nach Absatz 1 zu verwendenden Satzformate und den Einreichungsweg. Sie leitet die Meldungen an die Bundesanstalt weiter. Institute haben die Meldungen nach Anlage 2 und 3 für das laufende Kalenderjahr und die zwei vorangegangenen Kalenderjahre aufzubewahren.
 
-##### § 12 (weggefallen)
+###### § 12 (weggefallen)
 
 -
 
-##### § 13 Inkrafttreten
+###### § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 
-##### Anlage 1 (weggefallen)
+###### Anlage 1 (weggefallen)
 
 -
 
-##### Anlage 2 (zu § 11 Abs. 1 Satz 1)Meldevordruck LV 1
+###### Anlage 2 (zu § 11 Abs. 1 Satz 1)Meldevordruck LV 1
 
 (Fundstelle: BGBl. I 2017, 4035 — 4040)
 
-##### Anlage 3 (zu § 11 Abs. 1 Satz 1)Meldevordruck LV 2
+###### Anlage 3 (zu § 11 Abs. 1 Satz 1)Meldevordruck LV 2
 
 (Fundstelle: BGBl. I 2017, 4041)
-
