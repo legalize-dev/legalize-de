@@ -4,35 +4,38 @@ identifier: "WPI-ANZV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2023-12-07"
-last_updated: "2026-04-04"
+last_updated: "2026-07-02"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/wpi-anzv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR15D0A0023"
 slug: "wpi-anzv"
 bgbl_reference: "BGBl I 2023, Nr. 349"
-stand: "Geändert durch Art. 46 G v. 4.2.2026 I Nr. 33"
-hinweis: "Änderung durch Art. 19 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Zuletzt geändert durch Art. 19 G v. 25.3.2026 I Nr. 81"
 ---
 # Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Wertpapierinstitutsgesetz
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 14 Absatz 2 und 3 Satz 1, 3 und 4 in Verbindung mit § 40 Absatz 4, § 66 Absatz 1 Satz 3 und § 68 Absatz 2 des Wertpapierinstitutsgesetzes vom 12. Mai 2021 (BGBl. I S. 990) in Verbindung mit § 1d Nummer 2 und 3 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S. 3), der durch Artikel 1 der Verordnung vom 26. Juni 2021 (BGBl. I S. 2027) eingefügt worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht für den Fall des § 14 Absatz 2 Satz 1 und 2 des Wertpapierinstitutsgesetzes im Benehmen, im Übrigen im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Wertpapierinstitute:
 
-##### Inhaltsübersicht
+###### Inhaltsübersicht
 
 Abschnitt 1Einreichungsverfahren, Rechtsträgerkennung, Kreditanzeige§ 1Einreichungsverfahren§ 2Rechtsträgerkennung§ 3Anzeigen nach § 64 Absatz 1 Nummer 12 und Absatz 2 des WertpapierinstitutsgesetzesAbschnitt 2Anzeige von Personen§ 4Anzeigen nach § 64 Absatz 1 Nummer 1, 2 oder 3, § 65 Absatz 1 Nummer 1 oder § 67 Absatz 2 Satz 1 Nummer 1, 2, 4 oder 5 des Wertpapierinstitutsgesetzes§ 5Lebenslauf als Anlage zu den Anzeigen nach § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1 oder § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes§ 6Erklärungen nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes§ 7Bestätigung durch das anzeigende Wertpapierinstitut§ 8Führungszeugnis der nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes anzuzeigenden Personen§ 9Auszug aus dem Gewerbezentralregister der nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes anzuzeigenden Personen§ 9aAnzeigen nach § 66 Absatz 3 und 4 des Wertpapierinstitutsgesetzes§ 10Ersatzperson im Verhinderungsfall§ 11Anzeigen nach § 67 Absatz 1 des WertpapierinstitutsgesetzesAbschnitt 3Tätigkeit im Drittstaat und Auslagerungen§ 12Anzeigen nach § 64 Absatz 1 Nummer 6 des Wertpapierinstitutsgesetzes§ 13Anzeigen nach § 64 Absatz 1 Nummer 13 des Wertpapierinstitutsgesetzes (wesentliche Auslagerungen)Abschnitt 4Beteiligungsanzeigen, Vereinigungsanzeige§ 14Anzeigen nach § 64 Absatz 1 Nummer 11, § 65 Absatz 2 Nummer 1 oder nach § 67 Absatz 3 des Wertpapierinstitutsgesetzes§ 15Anzeigen nach § 64 Absatz 1 Nummer 9 oder Absatz 4 Nummer 2 des Wertpapierinstitutsgesetzes§ 16Anzeigen nach § 64 Absatz 1 Nummer 14 des Wertpapierinstitutsgesetzes§ 17Mitteilung über Unterlagen nach § 76 Absatz 1 Satz 1 des Wertpapierinstitutsgesetzes durch Kleine und Mittlere WertpapierinstituteAbschnitt 5Erlaubnisverfahren§ 18Anzeigen und Vorlage von Unterlagen nach Artikel 2 der Durchführungsverordnung (EU) 2017/1945 in Verbindung mit der Delegierten Verordnung (EU) 2017/1943 bei Anträgen auf Erlaubnis nach § 15 des WertpapierinstitutsgesetzesAbschnitt 6Finanzinformationen und Meldungen nach der Verordnung (EU) 2019/2033§ 19Einreichung von Finanzinformationen nach § 66 Absatz 2 des Wertpapierinstitutsgesetzes bei der Deutschen Bundesbank§ 20Einreichung von Millionenkreditanzeigen nach § 66 Absatz 1 des Wertpapierinstitutsgesetzes§ 21Meldungen nach Artikel 54 oder Artikel 55 der Verordnung (EU) 2019/2033§ 22InkrafttretenAnlage 1Formular WpI-PVAnlage 2Formular WpI-NTAnlage 3Formular WpI-BGAnlage 4Formular WpI-ZMAnlage 5Formular WpI-ZDAnlage 6Formular WpI-ABAnlage 7Formular WpI-KBAnlage 8Formular WpI-PBAnlage 9Formular WpI-GVWIAnlage 10Formular WpI-STWI
 
 ## Abschnitt 1 Einreichungsverfahren, Rechtsträgerkennung, Kreditanzeige
 
-##### § 1 Einreichungsverfahren
+###### § 1 Einreichungsverfahren
 
 (1) Die Anzeigen und die Unterlagen, die nach dem Wertpapierinstitutsgesetz, der Delegierten Verordnung (EU) 2017/1943 der Kommission vom 14. Juli 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards in Bezug auf Informationen und Anforderungen für die Zulassung von Wertpapierfirmen (ABl. L 276 vom 26.10.2017, S. 4, L 292 vom 10.11.2017, S. 119) oder der Durchführungsverordnung (EU) 2017/1945 der Kommission vom 19. Juni 2017 zur Festlegung technischer Durchführungsstandards für Mitteilungen von und an Wertpapierfirmen, die eine Zulassung beantragen oder besitzen, gemäß der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates (ABl. L 276 vom 26.10.2017, S. 22) zu erstatten oder vorzulegen sind und durch diese Verordnung näher bestimmt werden, sind vorbehaltlich abweichender Bestimmungen in dieser Verordnung jeweils in einfacher Ausfertigung der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) und der für das Wertpapierinstitut zuständigen Hauptverwaltung der Deutschen Bundesbank einzureichen. Anzeigen und Vorlagen von Unterlagen von Investmentholdinggesellschaften und gemischten Finanzholdinggesellschaften nach den §§ 67 und 68 des Wertpapierinstitutsgesetzes sind der Hauptverwaltung, in deren Bereich das Mutterunternehmen im Sinne des § 2 Absatz 30 des Wertpapierinstitutsgesetzes seinen Sitz hat, einzureichen.
 
 (2) Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank ist für Anzeigen und Unterlagen ein elektronischer Einreichungsweg zu nutzen. Nähere Bestimmungen zum jeweiligen elektronischen Einreichungsweg treffen die Bundesanstalt und die Deutsche Bundesbank auf ihrer jeweiligen Internetseite.
 
-##### § 2 Rechtsträgerkennung
+###### § 2 Rechtsträgerkennung
 
 (1) Zur Identifizierung im Meldewesen benötigen die folgenden Unternehmen eine Rechtsträgerkennung:
 
@@ -52,7 +55,7 @@ Abschnitt 1Einreichungsverfahren, Rechtsträgerkennung, Kreditanzeige§ 1Einreic
 
 (6) Das Mutterunternehmen im Sinne des § 2 Absatz 30 des Wertpapierinstitutsgesetzes hat sicherzustellen, dass alle Mitglieder seiner Gruppe, für die es nach der Verordnung (EU) 2019/2033 oder nach dem Wertpapierinstitutsgesetz Informationen an die Bundesanstalt oder an die Deutsche Bundesbank zu melden hat, die Pflichten nach den Absätzen 1 und 3 bis 5 erfüllen.
 
-##### § 3 Anzeigen nach § 64 Absatz 1 Nummer 12 und Absatz 2 des Wertpapierinstitutsgesetzes
+###### § 3 Anzeigen nach § 64 Absatz 1 Nummer 12 und Absatz 2 des Wertpapierinstitutsgesetzes
 
 (1) Anzeigen nach § 64 Absatz 1 Nummer 12 und Absatz 2 des Wertpapierinstitutsgesetzes müssen Angaben über die Höhe und die Art der Berechnung des nach § 64 Absatz 1 Nummer 12 des Wertpapierinstitutsgesetzes maßgeblichen Prozentsatzes enthalten.
 
@@ -62,7 +65,7 @@ Abschnitt 1Einreichungsverfahren, Rechtsträgerkennung, Kreditanzeige§ 1Einreic
 
 ## Abschnitt 2 Anzeige von Personen
 
-##### § 4 Anzeigen nach § 64 Absatz 1 Nummer 1, 2 oder 3, § 65 Absatz 1 Nummer 1 oder § 67 Absatz 2 Satz 1 Nummer 1, 2, 4 oder 5 des Wertpapierinstitutsgesetzes
+###### § 4 Anzeigen nach § 64 Absatz 1 Nummer 1, 2 oder 3, § 65 Absatz 1 Nummer 1 oder § 67 Absatz 2 Satz 1 Nummer 1, 2, 4 oder 5 des Wertpapierinstitutsgesetzes
 
 (1) Das Formular „Anzeige über Personelle Veränderungen nach dem Wertpapierinstitutsgesetz“ nach Anlage 1 ist zu verwenden
 
@@ -82,13 +85,13 @@ Abschnitt 1Einreichungsverfahren, Rechtsträgerkennung, Kreditanzeige§ 1Einreic
 
 (3) Wenn eine Anzeige nach § 64 Absatz 1 Nummer 1 oder Nummer 3, § 65 Absatz 1 Nummer 1 oder § 67 Absatz 2 Satz 1 Nummer 1 des Wertpapierinstitutsgesetzes über den Vollzug der jeweiligen Bestellung oder Ermächtigung länger als 12 Monate nach der Anzeige einer solchen Absicht abgegeben wird, sind die nach den §§ 5, 6, 8 und 9 beizufügenden Unterlagen und Erklärungen in aktualisierter Form erneut einzureichen. Die Bundesanstalt kann im Einzelfall darauf verzichten.
 
-##### § 5 Lebenslauf als Anlage zu den Anzeigen nach § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1 oder § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes
+###### § 5 Lebenslauf als Anlage zu den Anzeigen nach § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1 oder § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes
 
 (1) Den Anzeigen nach § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1 oder nach § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes ist ein aussagekräftiger Lebenslauf der genannten Personen beizufügen. Der Lebenslauf muss die Angaben nach Artikel 4 Buchstabe a Ziffer i und Ziffer iii der Delegierten Verordnung (EU) 2017/1943 enthalten.
 
 (2) Die im Lebenslauf nach Absatz 1 enthaltenen Zeitangaben müssen monatsgenau erfolgen. Alle Angaben müssen lückenlos, vollständig und wahr sein. Der Lebenslauf muss mit einem Datum versehen und eigenhändig unterschrieben sein. Soweit vorhanden, sind dem Lebenslauf Arbeitszeugnisse über unselbständige Tätigkeiten beizufügen, die in den letzten drei Jahren vor Abgabe der Anzeige ausgeübt wurden.
 
-##### § 6 Erklärungen nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes
+###### § 6 Erklärungen nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes
 
 (1) Den Informationen nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943 und Artikel 5 der Durchführungsverordnung (EU) 2017/1945 sowie der Anzeige der Absicht der Bestellung nach § 67 Absatz 2 Satz 1 Nummer 1 des Wertpapierinstitutsgesetzes oder der Anzeige der Bestellung nach § 67 Absatz 2 Satz 1 Nummer 4 des Wertpapierinstitutsgesetzes ist eine Erklärung der dort genannten Personen zu den gemäß Artikel 4 Buchstabe a Ziffern iv bis ix, xi und xiii der Delegierten Verordnung (EU) 2017/1943 zu machenden Angaben unter Verwendung des Formulars „Angaben zur Zuverlässigkeit und Mindestzeit gemäß Artikel 4 der Delegierten Verordnung (EU) 2017/1943“ nach Anlage 4 beizufügen. Erfolgt die Anzeige mit Bezug zu einem Großen Wertpapierinstitut im Sinne von § 2 Absatz 18 des Wertpapierinstitutsgesetzes, so sind Angaben zur Beurteilung der Einhaltung der Mandatsgrenzen der Geschäftsleiter und der Mitglieder des Verwaltungs- oder Aufsichtsorgans nach § 4 Satz 1 des Wertpapierinstitutsgesetzes in Verbindung mit § 25c Absatz 2 und § 25d Absatz 3 oder Absatz 3a des Kreditwesengesetzes unter Verwendung des Formulars nach Satz 1 zu machen.
 
@@ -102,11 +105,11 @@ Abschnitt 1Einreichungsverfahren, Rechtsträgerkennung, Kreditanzeige§ 1Einreic
 
 (6) In den Erklärungen nach den Absätzen 1 und 4 können Strafverfahren unberücksichtigt bleiben, die mangels hinreichenden Tatverdachts oder wegen eines Verfahrenshindernisses eingestellt oder mit einem Freispruch beendet worden sind oder bei denen eine ergangene Eintragung im Bundeszentralregister getilgt worden ist oder die gemäß § 53 des Bundeszentralregistergesetzes nicht offenbart werden müssen. Eintragungen, die gemäß § 153 der Gewerbeordnung aus dem Gewerbezentralregister zu tilgen sind, können unerwähnt bleiben. Die nach den §§ 153 und 153a der Strafprozessordnung eingestellten Strafverfahren sind anzugeben. Die gemäß den Absätzen 1 und 4 anzugebenden Sachverhalte sind gegebenenfalls zu erläutern. Kopien der Urteile, Beschlüsse, Sanktionen oder sonstiger Dokumente über den Abschluss der Verfahren sind beizufügen.
 
-##### § 7 Bestätigung durch das anzeigende Wertpapierinstitut
+###### § 7 Bestätigung durch das anzeigende Wertpapierinstitut
 
 Mit Einreichung der nach den §§ 5 und 6 der Anzeige beizufügenden Unterlagen bestätigt das anzeigende Wertpapierinstitut, dass die Unterlagen nach seinem Kenntnisstand zum Zeitpunkt der Einreichung richtig sind.
 
-##### § 8 Führungszeugnis der nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes anzuzeigenden Personen
+###### § 8 Führungszeugnis der nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes anzuzeigenden Personen
 
 (1) Die in den Anzeigen nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes genannten Personen haben bei der Bundesanstalt ein Führungszeugnis zur Vorlage bei einer Behörde gemäß § 30 Absatz 5 oder § 30b des Bundeszentralregistergesetzes einzureichen.
 
@@ -118,11 +121,11 @@ Mit Einreichung der nach den §§ 5 und 6 der Anzeige beizufügenden Unterlagen 
 
 (5) Sofern die Dokumente nicht in deutscher Sprache ausgestellt sind, bedarf es grundsätzlich zusätzlich zum Original einer Übersetzung in die deutsche Sprache. Die Übersetzung muss beglaubigt oder von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer angefertigt sein. Die Bundesanstalt kann auf die Übersetzung von Unterlagen in englischer Sprache verzichten.
 
-##### § 9 Auszug aus dem Gewerbezentralregister der nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes anzuzeigenden Personen
+###### § 9 Auszug aus dem Gewerbezentralregister der nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes anzuzeigenden Personen
 
 Die in den Anzeigen nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes genannten Personen haben beim Bundesamt für Justiz einen Auszug aus dem Gewerbezentralregister nach § 150 Absatz 5 der Gewerbeordnung zur Vorlage bei der Bundesanstalt zu beantragen. Satz 1 gilt nicht, wenn die Person weder in den letzten zehn Jahren in der Bundesrepublik Deutschland einen Wohnsitz hatte noch in den letzten zehn Jahren in der Bundesrepublik Deutschland eine berufliche Tätigkeit ausgeübt hat. Sofern der Bundesanstalt bereits ein Auszug aus dem Gewerbezentralregister nach § 150 Absatz 5 der Gewerbeordnung vorliegt, dessen Beantragung nicht mehr als zwölf Monate zurückliegt, ist keine erneute Beantragung beim Bundesamt für Justiz erforderlich.
 
-##### § 9a Anzeigen nach § 66 Absatz 3 und 4 des Wertpapierinstitutsgesetzes
+###### § 9a Anzeigen nach § 66 Absatz 3 und 4 des Wertpapierinstitutsgesetzes
 
 (1) Anzeigen nach § 66 Absatz 3 Nummer 1 des Wertpapierinstitutsgesetzes sind von Mittleren Wertpapierinstituten, deren bilanzielle und außerbilanzielle Vermögenswerte, gemessen am Durchschnitt der letzten vier vorangegangenen Geschäftsjahre, mehr als 300 Millionen Euro betragen oder die von der Bundesanstalt oder der Deutschen Bundesbank dazu aufgefordert wurden, jährlich bis zum 15. Juni nach dem Stand zu dem bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahr mit den Formularen „R 01.01“, „R 02.01“, „R 02.02“ und „R 05.01“ nach den Anlagen 11 bis 14 einzureichen. Satz 1 gilt für Wertpapierinstitutsgruppen im Sinne von § 2 Absatz 25 des Wertpapierinstitutsgesetzes mit der Maßgabe entsprechend, dass das EU-Mutterwertpapierinstitut, die EU-Mutterinvestmentholdinggesellschaft oder die gemischte EU-Mutterfinanzholdinggesellschaft die Angaben für alle Unternehmen der Gruppe, die der aufsichtlichen Konsolidierung nach Artikel 7 der Verordnung (EU) 2019/2033 unterliegen, auf zusammengefasster Basis einzureichen hat, sofern der Gruppe mindestens ein Wertpapierinstitut angehört, das nach § 66 Absatz 3 Nummer 1 des Wertpapierinstitutsgesetzes zur Abgabe der Anzeige verpflichtet ist.
 
@@ -134,11 +137,11 @@ Die in den Anzeigen nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2
 
 (5) Die Anzeigen nach den Absätzen 1 bis 4 sind im elektronischen Verfahren bei der Deutschen Bundesbank einzureichen. Die Deutsche Bundesbank veröffentlicht im Internet die für die Einreichung zu verwendenden Datenformate und den Einreichungsweg. Sie leitet die Anzeigen an die Aufsichtsbehörden weiter. Den Angaben nach den Absätzen 1 bis 4 sind die Begriffsbestimmungen und Regelungen des Wertpapierinstitutsgesetzes und der Wertpapierinstituts-Vergütungsverordnung zugrunde zu legen. Die Angaben nach den Absätzen 1, 2 und 4 müssen sich jeweils auf die fixe und die variable Vergütung beziehen, die den Geschäftsleitern, Mitgliedern des Verwaltungs- oder Aufsichtsorgans oder den Mitarbeitern für deren Leistung während des bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres vor der Einreichung der Anzeige gewährt worden ist oder die nach § 8 Absatz 4 Satz 4 der Wertpapierinstituts-Vergütungsverordnung ermittelt worden ist. Die Angaben nach Absatz 3 müssen sich auf die Gesamtjahresvergütung beziehen, die den Geschäftsleitern und Mitarbeitern für deren Leistung während des bis zum 31. Dezember des Vorjahres abgeschlossenen Geschäftsjahres vor der Einreichung der Anzeige gewährt worden ist. Bei den Angaben gemäß den Absätzen 3 und 4 sind reguläre Beiträge des Arbeitgebers zur Sozialversicherung und zur Arbeitsförderung, garantierte variable Vergütungen und Abfindungen außen vor zu lassen. Bei Fremdwährungen ist der Umrechnungskurs der Europäischen Kommission für Finanzplanung und Haushalt im Dezember des Jahres zugrunde zu legen, für das die Anzeige erfolgt.
 
-##### § 10 Ersatzperson im Verhinderungsfall
+###### § 10 Ersatzperson im Verhinderungsfall
 
 Die Bestimmungen nach den §§ 4 bis 9 gelten auch für die Ermächtigung einer Ersatzperson nach Artikel 8 Absatz 1 Buchstabe c und d der Delegierten Verordnung (EU) 2017/1943, die im Fall der Verhinderung eines Geschäftsleiters dessen Funktion ersetzen soll, sowie für deren Wegfall. Bei Wegfall dieser Ersatzperson hat das Wertpapierinstitut eine neue Ersatzperson, die diese Funktion ausübt, anzuzeigen.
 
-##### § 11 Anzeigen nach § 67 Absatz 1 des Wertpapierinstitutsgesetzes
+###### § 11 Anzeigen nach § 67 Absatz 1 des Wertpapierinstitutsgesetzes
 
 (1) Das Formular „Nebentätigkeiten von Geschäftsleitern eines Wertpapierinstituts oder von Personen, die die Geschäfte einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft tatsächlich führen“ nach Anlage 2 ist zu verwenden für Anzeigen nach § 67 Absatz 1 Nummer 1 des Wertpapierinstitutsgesetzes von Geschäftsleitern eines Wertpapierinstituts und Personen, die die Geschäfte einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft tatsächlich führen.
 
@@ -146,7 +149,7 @@ Die Bestimmungen nach den §§ 4 bis 9 gelten auch für die Ermächtigung einer 
 
 ## Abschnitt 3 Tätigkeit im Drittstaat und Auslagerungen
 
-##### § 12 Anzeigen nach § 64 Absatz 1 Nummer 6 des Wertpapierinstitutsgesetzes
+###### § 12 Anzeigen nach § 64 Absatz 1 Nummer 6 des Wertpapierinstitutsgesetzes
 
 (1) Die Anzeige nach § 64 Absatz 1 Nummer 6 des Wertpapierinstitutsgesetzes muss enthalten:
 
@@ -160,7 +163,7 @@ Für die Anzeige ist das Formular „Zweigstelle und grenzüberschreitender Dien
 
 (2) Die Anzeige nach § 64 Absatz 1 Nummer 6 des Wertpapierinstitutsgesetzes ist für jeden Drittstaat einzeln einzureichen.
 
-##### § 13 Anzeigen nach § 64 Absatz 1 Nummer 13 des Wertpapierinstitutsgesetzes (wesentliche Auslagerungen)
+###### § 13 Anzeigen nach § 64 Absatz 1 Nummer 13 des Wertpapierinstitutsgesetzes (wesentliche Auslagerungen)
 
 (1) Anzeigen nach § 64 Absatz 1 Nummer 13 Variante 1 und 2 des Wertpapierinstitutsgesetzes über die Absicht und den Vollzug einer wesentlichen Auslagerung müssen folgende Informationen enthalten:
 
@@ -272,7 +275,7 @@ Zeigt das Wertpapierinstitut die wesentliche Änderung einer wesentlichen Auslag
 
 ## Abschnitt 4 Beteiligungsanzeigen, Vereinigungsanzeige
 
-##### § 14 Anzeigen nach § 64 Absatz 1 Nummer 11, § 65 Absatz 2 Nummer 1 oder nach § 67 Absatz 3 des Wertpapierinstitutsgesetzes
+###### § 14 Anzeigen nach § 64 Absatz 1 Nummer 11, § 65 Absatz 2 Nummer 1 oder nach § 67 Absatz 3 des Wertpapierinstitutsgesetzes
 
 (1) Einzelanzeigen von Wertpapierinstituten über aktivische Beteiligungsverhältnisse nach § 64 Absatz 1 Nummer 11 des Wertpapierinstitutsgesetzes sind mit dem Formular „Aktivische Beteiligungsanzeige“ nach Anlage 6 einzureichen. Bei Änderungen des Beteiligungsverhältnisses sind Einzelanzeigen einzureichen, wenn
 
@@ -294,7 +297,7 @@ Zeigt das Wertpapierinstitut die wesentliche Änderung einer wesentlichen Auslag
 
 (5) Auf Verlangen der Bundesanstalt oder der zuständigen Hauptverwaltung der Deutschen Bundesbank sind weitere Angaben, insbesondere zu Übernahmepreis und Veräußerungserlös, einzureichen.
 
-##### § 15 Anzeigen nach § 64 Absatz 1 Nummer 9 oder Absatz 4 Nummer 2 des Wertpapierinstitutsgesetzes
+###### § 15 Anzeigen nach § 64 Absatz 1 Nummer 9 oder Absatz 4 Nummer 2 des Wertpapierinstitutsgesetzes
 
 (1) Einzelanzeigen über passivische Beteiligungsverhältnisse nach § 64 Absatz 1 Nummer 9 des Wertpapierinstitutsgesetzes sind mit dem Formular „Passivische Beteiligungsanzeige“ nach Anlage 8 einzureichen. Bei Änderungen des Beteiligungsverhältnisses sind Einzelanzeigen einzureichen, wenn
 
@@ -310,17 +313,17 @@ Zeigt das Wertpapierinstitut die wesentliche Änderung einer wesentlichen Auslag
 
 (3) § 14 Absatz 3 und 4 gelten entsprechend mit der Maßgabe, dass auch die Unternehmensbeziehung des Wertpapierinstituts zum Schwesterunternehmen eine komplexe Beteiligungsstruktur im Sinne des § 14 Absatz 4 Satz 3 darstellt.
 
-##### § 16 Anzeigen nach § 64 Absatz 1 Nummer 14 des Wertpapierinstitutsgesetzes
+###### § 16 Anzeigen nach § 64 Absatz 1 Nummer 14 des Wertpapierinstitutsgesetzes
 
 Die Absicht eines Wertpapierinstituts, sich zu vereinigen, ist von dem beteiligten Wertpapierinstitut nach § 64 Absatz 1 Nummer 14 des Wertpapierinstitutsgesetzes anzuzeigen, sobald aufgrund der geführten Verhandlungen anzunehmen ist, dass die Vereinigung zustande kommen wird. Das Scheitern der Vereinigungsverhandlungen ist unverzüglich mitzuteilen. Gleiches gilt bei erfolgreichen Vereinigungshandlungen für den rechtlichen Vollzug der Vereinigung.
 
-##### § 17 Mitteilung über Unterlagen nach § 76 Absatz 1 Satz 1 des Wertpapierinstitutsgesetzes durch Kleine und Mittlere Wertpapierinstitute
+###### § 17 Mitteilung über Unterlagen nach § 76 Absatz 1 Satz 1 des Wertpapierinstitutsgesetzes durch Kleine und Mittlere Wertpapierinstitute
 
 Wird der geprüfte Jahresabschluss ohne Änderungen festgestellt, so genügt die Mitteilung hierüber mit dem Datum des Tages der Feststellung. Die Einreichung des festgestellten Jahresabschlusses ist in diesem Fall nicht erforderlich.
 
 ## Abschnitt 5 Erlaubnisverfahren
 
-##### § 18 Anzeigen und Vorlage von Unterlagen nach Artikel 2 der Durchführungsverordnung (EU) 2017/1945 in Verbindung mit der Delegierten Verordnung (EU) 2017/1943 bei Anträgen auf Erlaubnis nach § 15 des Wertpapierinstitutsgesetzes
+###### § 18 Anzeigen und Vorlage von Unterlagen nach Artikel 2 der Durchführungsverordnung (EU) 2017/1945 in Verbindung mit der Delegierten Verordnung (EU) 2017/1943 bei Anträgen auf Erlaubnis nach § 15 des Wertpapierinstitutsgesetzes
 
 (1) Anträge und Unterlagen nach Artikel 2 der Durchführungsverordnung (EU) 2017/1945 für das Erlaubnisverfahren nach § 15 des Wertpapierinstitutsgesetzes sind der Bundesanstalt in dreifacher Ausfertigung einzureichen. § 1 Absatz 2 gilt entsprechend.
 
@@ -348,7 +351,7 @@ Wird der geprüfte Jahresabschluss ohne Änderungen festgestellt, so genügt die
 
 ## Abschnitt 6 Finanzinformationen und Meldungen nach der Verordnung (EU) 2019/2033
 
-##### § 19 Einreichung von Finanzinformationen nach § 66 Absatz 2 des Wertpapierinstitutsgesetzes bei der Deutschen Bundesbank
+###### § 19 Einreichung von Finanzinformationen nach § 66 Absatz 2 des Wertpapierinstitutsgesetzes bei der Deutschen Bundesbank
 
 (1) Für die Einreichung von Finanzinformationen nach § 66 Absatz 2 des Wertpapierinstitutsgesetzes haben die Kleinen und Mittleren Wertpapierinstitute die folgenden Formulare aus den Anlagen dieser Verordnung zu verwenden:
 
@@ -362,19 +365,19 @@ Wird der geprüfte Jahresabschluss ohne Änderungen festgestellt, so genügt die
 
 (4) Die Finanzinformationen sind der Deutschen Bundesbank elektronisch zu übermitteln. Die Bundesbank veröffentlicht auf ihrer Internetseite die zu verwendenden Datenformate und den Übertragungsweg.
 
-##### § 20 Einreichung von Millionenkreditanzeigen nach § 66 Absatz 1 des Wertpapierinstitutsgesetzes
+###### § 20 Einreichung von Millionenkreditanzeigen nach § 66 Absatz 1 des Wertpapierinstitutsgesetzes
 
 Hinsichtlich der Einreichung von Millionenkreditanzeigen nach § 66 Absatz 1 des Wertpapierinstitutsgesetzes finden die Bestimmungen des Teils 2 der Großkredit- und Millionenkreditverordnung in der jeweils geltenden Fassung auf Kleine und Mittlere Wertpapierinstitute entsprechende Anwendung.
 
-##### § 21 Meldungen nach Artikel 54 oder Artikel 55 der Verordnung (EU) 2019/2033
+###### § 21 Meldungen nach Artikel 54 oder Artikel 55 der Verordnung (EU) 2019/2033
 
 Meldungen nach Artikel 54 Absatz 1 und 2 und Artikel 55 Absatz 1 oder Absatz 2 der Verordnung (EU) 2019/2033 sind bei der Deutschen Bundesbank einzureichen. Die Deutsche Bundesbank leitet die Meldungen an die Bundesanstalt mit ihrer Stellungnahme weiter. Die Bundesanstalt kann auf die Weiterleitung bestimmter Meldungen verzichten.
 
-##### § 22 Inkrafttreten
+###### § 22 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-##### Anlage 1 (zu den §§ 4 und 10)Formular WpI-PVAnzeige über Personelle Veränderungen nach dem Wertpapierinstitutsgesetz
+###### Anlage 1 (zu den §§ 4 und 10)Formular WpI-PVAnzeige über Personelle Veränderungen nach dem Wertpapierinstitutsgesetz
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 13 - 15)
 
@@ -481,7 +484,7 @@ E-Mail
 
 Ort/Datumeigenhändige Unterschrift
 
-##### Anlage 2 (zu § 11 Absatz 1 und § 18 Absatz 5)Formular WpI-NTNebentätigkeiten von Geschäftsleitern eines Wertpapierinstituts oder von Personen, die die Geschäfte einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft tatsächlich führen
+###### Anlage 2 (zu § 11 Absatz 1 und § 18 Absatz 5)Formular WpI-NTNebentätigkeiten von Geschäftsleitern eines Wertpapierinstituts oder von Personen, die die Geschäfte einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft tatsächlich führen
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 16 - 17)
 
@@ -559,7 +562,7 @@ E-Mail
 
 Ort/Datumeigenhändige Unterschrift
 
-##### Anlage 3 (zu § 11 Absatz 2)Formular WpI-BGBeteiligungen von Geschäftsleitern eines Wertpapierinstituts oder von Personen, die die Geschäfte einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft tatsächlich führen
+###### Anlage 3 (zu § 11 Absatz 2)Formular WpI-BGBeteiligungen von Geschäftsleitern eines Wertpapierinstituts oder von Personen, die die Geschäfte einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft tatsächlich führen
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 18 - 19)
 
@@ -641,7 +644,7 @@ E-Mail
 
 Ort/Datumeigenhändige Unterschrift
 
-##### Anlage 4 (zu § 6 und § 18 Absatz 5)Formular WpI-ZMAngaben zur Zuverlässigkeit und Mindestzeit gemäß Artikel 4 der Delegierten Verordnung (EU) 2017/1943
+###### Anlage 4 (zu § 6 und § 18 Absatz 5)Formular WpI-ZMAngaben zur Zuverlässigkeit und Mindestzeit gemäß Artikel 4 der Delegierten Verordnung (EU) 2017/1943
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 20 - 22)
 
@@ -758,7 +761,7 @@ Informationen zum Datenschutz und zu der Verarbeitung Ihrer personenbezogenen Da
 https://www.bafin.de/DE/DieBaFin/Datenschutz/Informationen_zur_Datenverarbeitung/Informationen_zur_
 Datenverarbeitung_node.html
 
-##### Anlage 5 (zu § 12)Formular WpI-ZDZweigstelle und grenzüberschreitender Dienstleistungsverkehr ohne Errichtung einer Zweigstelle im Drittstaat
+###### Anlage 5 (zu § 12)Formular WpI-ZDZweigstelle und grenzüberschreitender Dienstleistungsverkehr ohne Errichtung einer Zweigstelle im Drittstaat
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 23 - 24)
 
@@ -862,7 +865,7 @@ E-Mail
 
 Ort/Datumeigenhändige Unterschrift
 
-##### Anlage 6 (zu § 14)Formular WpI-ABAktivische Beteiligungsanzeige
+###### Anlage 6 (zu § 14)Formular WpI-ABAktivische Beteiligungsanzeige
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 25 - 27)
 
@@ -951,7 +954,7 @@ E-Mail
 
 Ort/Datumeigenhändige Unterschrift
 
-##### Anlage 7 (zu § 14 Absatz 4)Formular WpI-KBDarstellung komplexer Beteiligungsstrukturen
+###### Anlage 7 (zu § 14 Absatz 4)Formular WpI-KBDarstellung komplexer Beteiligungsstrukturen
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 28 - 29)
 
@@ -981,7 +984,7 @@ Die geplante durchgerechnete Kapitalquote am Zielunternehmen beträgt ____ Proze
  Einfluss in
  ProzentTsd. Euro
 
-##### Anlage 8 (zu § 15)Formular WpI-PBPassivische Beteiligungsanzeige
+###### Anlage 8 (zu § 15)Formular WpI-PBPassivische Beteiligungsanzeige
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 30 - 32)
 
@@ -1071,7 +1074,7 @@ E-Mail
 
 Ort/Datumeigenhändige Unterschrift
 
-##### Anlage 9 (zu § 19)Formular WpI-GVWIFinanzinformationen gemäß § 66 Absatz 2 WpIG – Gewinn- und Verlustrechnung –
+###### Anlage 9 (zu § 19)Formular WpI-GVWIFinanzinformationen gemäß § 66 Absatz 2 WpIG – Gewinn- und Verlustrechnung –
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 33 - 35)
 
@@ -1153,7 +1156,7 @@ Größere Veränderungen einzelner Positionen bitte gesondert erläutern.
 
 130Sonstige betriebliche Aufwendungen130____________
 
-##### Anlage 10 (zu § 19)Formular WpI-STWIFinanzinformationen gemäß § 66 Absatz 2 WpIG – Vermögensstatus –
+###### Anlage 10 (zu § 19)Formular WpI-STWIFinanzinformationen gemäß § 66 Absatz 2 WpIG – Vermögensstatus –
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 36 - 38)
 
@@ -1269,95 +1272,94 @@ darunter: 182Periodenverlust182____________342Verbindlichkeiten aus Bürgschafte
 
 Größere Veränderungen einzelner Positionen bitte gesondert erläutern.
 
-##### Anlage 11
+###### Anlage 11
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 109)
 
-##### Anlage 12
+###### Anlage 12
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 110)
 
-##### Anlage 13
+###### Anlage 13
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 111)
 
-##### Anlage 14
+###### Anlage 14
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 112)
 
-##### Anlage 15
+###### Anlage 15
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 113)
 
-##### Anlage 16
+###### Anlage 16
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 114)
 
-##### Anlage 17
+###### Anlage 17
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 115)
 
-##### Anlage 18
+###### Anlage 18
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 116)
 
-##### Anlage 19
+###### Anlage 19
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 117)
 
-##### Anlage 20
+###### Anlage 20
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 118)
 
-##### Anlage 21
+###### Anlage 21
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 119)
 
-##### Anlage 22
+###### Anlage 22
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 120)
 
-##### Anlage 23
+###### Anlage 23
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 121)
 
-##### Anlage 24
+###### Anlage 24
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 122)
 
-##### Anlage 25
+###### Anlage 25
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 123)
 
-##### Anlage 26
+###### Anlage 26
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 124)
 
-##### Anlage 27
+###### Anlage 27
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 125)
 
-##### Anlage 28
+###### Anlage 28
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 126)
 
-##### Anlage 29
+###### Anlage 29
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 127)
 
-##### Anlage 30
+###### Anlage 30
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 128)
 
-##### Anlage 31
+###### Anlage 31
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 129)
 
-##### Anlage 32
+###### Anlage 32
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 130)
 
-##### Anlage 33
+###### Anlage 33
 
 (Fundstelle: BGBl. 2026 I Nr. 81, S. 131)
-
