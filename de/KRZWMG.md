@@ -4,24 +4,28 @@ identifier: "KRZWMG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2023-12-22"
-last_updated: "2026-04-04"
+last_updated: "2026-07-02"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/krzwmg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR19B0B0023"
 slug: "krzwmg"
 bgbl_reference: "BGBl I 2023, Nr. 411, 2"
-hinweis: "Änderung durch Art. 20 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Geändert durch Art. 20 G v. 25.3.2026 I Nr. 81"
 ---
 # Gesetz über den Zweitmarkt für notleidende Kredite und über Kreditdienstleistungsinstitute
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 Abschnitt 1Allgemeine Vorschriften§ 1Anwendungsbereich; Verhältnis zum Rechtsdienstleistungsgesetz§ 2Begriffsbestimmungen§ 3Aufgaben und allgemeine Befugnisse der Bundesanstalt; Zusammenarbeit mit der Deutschen Bundesbank und der zuständigen Behörde nach dem Rechtsdienstleistungsgesetz§ 4Zusammenarbeit mit zuständigen Behörden anderer Vertragsstaaten§ 5VerschwiegenheitspflichtAbschnitt 2Kreditkauf§ 6Informations- und Mitteilungspflichten des verkaufenden Kreditinstituts; Verordnungsermächtigung§ 7Pflichten des Kreditkäufers§ 8Mitteilungspflichten des Kreditkäufers; Verordnungsermächtigung§ 9Vertreter von Kreditkäufern aus einem Drittstaat; VerordnungsermächtigungAbschnitt 3Erbringung von KreditdienstleistungenUnterabschnitt 1Erlaubnis; Organisationspflichten; Geschäftsleiter; Mitglieder des Verwaltungs- oder Aufsichtsorgans; Inhaber bedeutender Beteiligungen§ 10Erlaubnis; Verordnungsermächtigung§ 11Erlaubnisfreie Erbringung von Kreditdienstleistungen§ 12Versagung der Erlaubnis§ 13Erlöschen und Aufhebung der Erlaubnis§ 14Organisationspflichten§ 15Geschäftsleiter; Mitglieder des Verwaltungs- oder Aufsichtsorgans§ 16Inhaber bedeutender Beteiligungen; VerordnungsermächtigungUnterabschnitt 2Entgegennahme und Halten von Mitteln§ 17Entgegennahme und Halten von MittelnUnterabschnitt 3Kreditdienstleistungsvereinbarung§ 18Kreditdienstleistungsvereinbarung§ 19AufbewahrungspflichtenUnterabschnitt 4Auslagerung§ 20Auslagerung von Kreditdienstleistungen§ 21Unterrichtungspflichten; Verordnungsermächtigung§ 22AufbewahrungspflichtenUnterabschnitt 5Europäischer Pass§ 23Grenzüberschreitende Erbringung von Kreditdienstleistungen von Unternehmen mit Sitz in einem anderen Vertragsstaat§ 24Grenzüberschreitende Erbringung von Kreditdienstleistungen durch inländische Kreditdienstleistungsinstitute; Verordnungsermächtigung§ 25Beaufsichtigung grenzüberschreitend tätiger KreditdienstleistungsinstituteAbschnitt 4Register§ 26Register der zugelassenen Institute; VerordnungsermächtigungAbschnitt 5Risikobewertung§ 27Risikobewertung; InformationsaustauschAbschnitt 6Verhaltensvorschriften; Informationspflichten§ 28Beziehung zu Kreditnehmern§ 29Beschwerden bei einem Kreditdienstleister§ 30Pflichten zur Information des KreditnehmersAbschnitt 7Beaufsichtigung§ 31Auskunftspflichten§ 32Vorlage von Jahresabschluss, Lagebericht und Prüfungsberichten§ 33Bestellung des Abschlussprüfers in besonderen Fällen§ 34Prüfungspflichten; Verordnungsermächtigung§ 35Anzeigepflichten der Kreditdienstleistungsinstitute; Verordnungsermächtigung§ 36Maßnahmen bei Gefahren und Insolvenzantrag§ 37Befugnisse der Bundesanstalt§ 38Untersagung unerlaubter Kreditdienstleistungen§ 39Verfolgung unerlaubter Kreditdienstleistungen§ 40Beschwerden über Kreditdienstleistungsinstitute, Kreditkäufer und Auslagerungsunternehmen§ 41Bekanntmachung von Maßnahmen; öffentliche Warnungen§ 42Sofortige Vollziehbarkeit; elektronische BekanntgabeAbschnitt 8Straf- und Bußgeldvorschriften§ 43Strafvorschriften§ 44Bußgeldvorschriften§ 45Mitteilungen in StrafsachenAbschnitt 9Übergangsbestimmungen§ 46Übergangsbestimmungen
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
-##### § 1 Anwendungsbereich; Verhältnis zum Rechtsdienstleistungsgesetz
+###### § 1 Anwendungsbereich; Verhältnis zum Rechtsdienstleistungsgesetz
 
 (1) Dieses Gesetz regelt die Pflichten von Kreditinstituten als Verkäufer notleidender Kredite, die Pflichten von Käufern notleidender Kredite, die Anforderungen an die Erbringung von Kreditdienstleistungen für die Käufer notleidender Kredite und die Aufsicht über Kreditdienstleistungsinstitute. Es regelt zudem die Anwendung des Rechtsdienstleistungsgesetzes auf Kreditdienstleistungen.
 
@@ -37,7 +41,7 @@ Abschnitt 1Allgemeine Vorschriften§ 1Anwendungsbereich; Verhältnis zum Rechtsd
 
 (3) Teil 3 des Rechtsdienstleistungsgesetzes findet vorbehaltlich § 15 Absatz 4, § 28 Absatz 2, § 30 Absatz 2 und § 46 Absatz 1 Satz 2 auf Kreditdienstleister, soweit sie Kreditdienstleistungen erbringen, die diesem Gesetz unterfallen, keine Anwendung.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 (1) Für dieses Gesetz gelten die Begriffsbestimmungen der Absätze 2 bis 24.
 
@@ -121,7 +125,7 @@ b) des Artikels 4 Nummer 5 der Richtlinie 2014/17/EU,
 
 (24) Vertreter ist der nach § 9 Absatz 1 Satz 1 bestellte Vertreter.
 
-##### § 3 Aufgaben und allgemeine Befugnisse der Bundesanstalt; Zusammenarbeit mit der Deutschen Bundesbank und der zuständigen Behörde nach dem Rechtsdienstleistungsgesetz
+###### § 3 Aufgaben und allgemeine Befugnisse der Bundesanstalt; Zusammenarbeit mit der Deutschen Bundesbank und der zuständigen Behörde nach dem Rechtsdienstleistungsgesetz
 
 (1) Die Bundesanstalt übt die Aufsicht über die Kreditinstitute, die Kreditdienstleister, die Kreditkäufer und deren Vertreter sowie die Auslagerungsunternehmen nach den Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen sowie aller weiteren Vorschriften zur Umsetzung der Richtlinie (EU) 2021/2167 aus. Sie ist zuständige Behörde im Sinne des Artikels 21 Absatz 3 der Richtlinie (EU) 2021/2167.
 
@@ -133,7 +137,7 @@ b) des Artikels 4 Nummer 5 der Richtlinie 2014/17/EU,
 
 (5) Die Bundesanstalt und das Bundesamt für Justiz wirken zusammen auf eine widerspruchsfreie Aufsichtspraxis über Kreditdienstleistungen und Inkassodienstleistungen nach dem Rechtsdienstleistungsgesetz hin, soweit für diese Tätigkeiten vergleichbare gesetzliche Anforderungen gelten.
 
-##### § 4 Zusammenarbeit mit zuständigen Behörden anderer Vertragsstaaten
+###### § 4 Zusammenarbeit mit zuständigen Behörden anderer Vertragsstaaten
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank arbeiten bei der Wahrnehmung ihrer Aufgaben nach diesem Gesetz mit den zuständigen Behörden anderer Vertragsstaaten zusammen, wenn es für die Wahrnehmung ihrer Aufgaben, insbesondere die Erfüllung ihrer Pflichten oder die Ausübung ihrer Befugnisse im Rahmen der nationalen Bestimmungen zur Umsetzung der Richtlinie (EU) 2021/2167, erforderlich ist. Die Bundesanstalt und die Deutsche Bundesbank koordinieren ihre Maßnahmen mit den zuständigen Behörden anderer Vertragsstaaten, insbesondere im Hinblick auf die grenzüberschreitende Tätigkeit von Kreditdienstleistungsinstituten.
 
@@ -141,13 +145,13 @@ b) des Artikels 4 Nummer 5 der Richtlinie 2014/17/EU,
 
 (3) § 8 Absatz 5 des Kreditwesengesetzes gilt entsprechend.
 
-##### § 5 Verschwiegenheitspflicht
+###### § 5 Verschwiegenheitspflicht
 
 Die Bundesanstalt und die Deutsche Bundesbank dürfen vertrauliche Angaben, die sie in Wahrnehmung ihrer Aufgaben nach diesem Gesetz erhalten, lediglich im Rahmen dieser Aufgaben verarbeiten. Die bei der Bundesanstalt und der Deutschen Bundesbank beschäftigten Personen, die nach diesem Gesetz bestellten Aufsichtspersonen und die nach § 4 Absatz 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen Daten, deren Geheimhaltung im Interesse eines Kreditdienstleisters, eines Kreditkäufers oder dessen Vertreters, eines Auslagerungsunternehmens, einer zuständigen Behörde oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten. Im Übrigen gilt § 9 des Kreditwesengesetzes entsprechend.
 
 ## Abschnitt 2 Kreditkauf
 
-##### § 6 Informations- und Mitteilungspflichten des verkaufenden Kreditinstituts; Verordnungsermächtigung
+###### § 6 Informations- und Mitteilungspflichten des verkaufenden Kreditinstituts; Verordnungsermächtigung
 
 (1) Ein Kreditinstitut hat einem potenziellen Kreditkäufer vor Abschluss einer Vereinbarung über den Erwerb eines notleidenden Kreditvertrags oder der Ansprüche des Kreditgebers hieraus die Informationen über den notleidenden Kreditvertrag oder die Ansprüche eines Kreditgebers hieraus sowie über die etwaigen Sicherheiten zur Verfügung zu stellen, die der potenzielle Kreditkäufer benötigt, um vor Abschluss der Vereinbarung den Wert des Vertrags oder der Ansprüche hieraus sowie die Wahrscheinlichkeit, dass der Wert realisiert werden kann, selbst beurteilen zu können. Der potenzielle Kreditkäufer hat den Schutz der vom Kreditinstitut zur Verfügung gestellten Informationen und die vertrauliche Behandlung der Geschäftsdaten sicherzustellen.
 
@@ -183,7 +187,7 @@ sowie, falls vorhanden, an die zuständigen Behörden des Aufnahmemitgliedstaats
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art, Umfang und Form der Daten nach Absatz 3 Satz 1 zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Kreditinstitute anzuhören.
 
-##### § 7 Pflichten des Kreditkäufers
+###### § 7 Pflichten des Kreditkäufers
 
 (1) Ein Kreditkäufer, der nicht Kreditdienstleister ist, hat bei Abschluss einer Vereinbarung über den Erwerb eines notleidenden Kreditvertrags oder der Ansprüche des Kreditgebers hieraus einen Kreditdienstleister zu beauftragen, um Kreditdienstleistungen im Zusammenhang mit dem notleidenden Kreditvertrag oder den Ansprüchen hieraus durchzuführen, sofern der Kreditvertrag mit einer der folgenden Personen geschlossen worden ist:
 
@@ -203,7 +207,7 @@ sowie, falls vorhanden, an die zuständigen Behörden des Aufnahmemitgliedstaats
 
 Wird kein Kreditdienstleister beauftragt oder erfüllt dieser die in Satz 1 genannten Verpflichtungen nicht, nicht ordnungsgemäß oder nicht rechtzeitig, so unterliegt der Kreditkäufer oder sein Vertreter weiterhin diesen Verpflichtungen.
 
-##### § 8 Mitteilungspflichten des Kreditkäufers; Verordnungsermächtigung
+###### § 8 Mitteilungspflichten des Kreditkäufers; Verordnungsermächtigung
 
 (1) Beauftragt der Kreditkäufer oder sein Vertreter einen Kreditdienstleister, um Kreditdienstleistungen im Zusammenhang mit einem an den Kreditkäufer übertragenen notleidenden Kreditvertrag oder der Ansprüche des Kreditgebers hieraus zu erbringen, so hat der Kreditkäufer oder sein Vertreter der Bundesanstalt und der Deutschen Bundesbank spätestens an dem Tag, an dem die Erbringung der Kreditdienstleistungen beginnt, den Namen und die Anschrift des Kreditdienstleisters mitzuteilen. Im Fall der späteren Beauftragung eines anderen als des nach Satz 1 mitgeteilten Kreditdienstleisters hat der Kreditkäufer oder sein Vertreter dessen Namen und Anschrift der Bundesanstalt und der Deutschen Bundesbank spätestens am Tag dieser Änderung mitzuteilen.
 
@@ -231,7 +235,7 @@ Ist ein Aufnahmemitgliedstaat vorhanden, so leitet die Bundesanstalt die nach Sa
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art, Umfang und Form der nach Absatz 3 zu übermittelnden Daten zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Kreditdienstleister anzuhören.
 
-##### § 9 Vertreter von Kreditkäufern aus einem Drittstaat; Verordnungsermächtigung
+###### § 9 Vertreter von Kreditkäufern aus einem Drittstaat; Verordnungsermächtigung
 
 (1) Ein Kreditkäufer, der nicht in einem Vertragsstaat wohnhaft ist oder seinen satzungsmäßigen Sitz oder, sofern er nach seinem nationalen Recht über keinen satzungsmäßigen Sitz verfügt, seine Hauptverwaltung nicht in einem Vertragsstaat hat, hat bei Abschluss einer Vereinbarung über den Erwerb eines notleidenden Kreditvertrags oder der Ansprüche des Kreditgebers hieraus einen Vertreter zu bestellen und gegenüber der Bundesanstalt und der Deutschen Bundesbank zu benennen. Der Vertreter muss in einem Vertragsstaat wohnhaft sein oder seinen satzungsmäßigen Sitz oder, sofern er nach seinem nationalen Recht über keinen satzungsmäßigen Sitz verfügt, seine Hauptverwaltung in einem Vertragsstaat haben.
 
@@ -243,7 +247,7 @@ Ist ein Aufnahmemitgliedstaat vorhanden, so leitet die Bundesanstalt die nach Sa
 
 ## Unterabschnitt 1 Erlaubnis; Organisationspflichten; Geschäftsleiter; Mitglieder des Verwaltungs- oder Aufsichtsorgans; Inhaber bedeutender Beteiligungen
 
-##### § 10 Erlaubnis; Verordnungsermächtigung
+###### § 10 Erlaubnis; Verordnungsermächtigung
 
 (1) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, Kreditdienstleistungen erbringen will, bedarf dafür der schriftlichen oder elektronischen Erlaubnis der Bundesanstalt. Dies gilt nicht in den Fällen der §§ 11 und 23.
 
@@ -291,7 +295,7 @@ Die Bundesanstalt prüft einen Antrag auf Erteilung einer Erlaubnis binnen 45 Ta
 
 (9) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art, Umfang und Form der mit dem Antrag einzureichenden Unterlagen nach Absatz 3 Satz 1 oder der nach Absatz 3 Satz 3 angeforderten Informationen zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Kreditdienstleistungsinstitute anzuhören.
 
-##### § 11 Erlaubnisfreie Erbringung von Kreditdienstleistungen
+###### § 11 Erlaubnisfreie Erbringung von Kreditdienstleistungen
 
 Keiner Erlaubnis nach § 10 Absatz 1 Satz 1 bedarf die Erbringung von Kreditdienstleistungen durch
 
@@ -303,7 +307,7 @@ Keiner Erlaubnis nach § 10 Absatz 1 Satz 1 bedarf die Erbringung von Kreditdien
 
 4. Unternehmen, die Kreditdienstleistungen ausschließlich für einen Kreditkäufer mit Sitz in einem Vertragsstaat und im Zusammenhang mit einem notleidenden Kreditvertrag erbringen, der nicht mit einer in § 7 Absatz 1 Nummer 1 genannten Person oder einem in § 7 Absatz 1 Nummer 2 genannten Unternehmen geschlossen wurde.
 
-##### § 12 Versagung der Erlaubnis
+###### § 12 Versagung der Erlaubnis
 
 Die Erlaubnis nach § 10 Absatz 1 Satz 1 ist zu versagen, wenn
 
@@ -325,7 +329,7 @@ Die Erlaubnis nach § 10 Absatz 1 Satz 1 ist zu versagen, wenn
 
 und dies nicht in angemessener Frist behoben wird.
 
-##### § 13 Erlöschen und Aufhebung der Erlaubnis
+###### § 13 Erlöschen und Aufhebung der Erlaubnis
 
 (1) Die Erlaubnis nach § 10 Absatz 1 Satz 1 erlischt, wenn das Kreditdienstleistungsinstitut von der Erlaubnis nicht innerhalb eines Jahres seit der Erteilung Gebrauch macht oder ausdrücklich auf sie verzichtet.
 
@@ -351,7 +355,7 @@ c) gegen Verbraucherschutzvorschriften, einschließlich der geltenden Vorschrift
 
 (4) § 38 des Kreditwesengesetzes gilt entsprechend. § 48 Absatz 4 Satz 1 und § 49 Absatz 2 Satz 2 des Verwaltungsverfahrensgesetzes sind nicht anzuwenden.
 
-##### § 14 Organisationspflichten
+###### § 14 Organisationspflichten
 
 (1) Ein Kreditdienstleistungsinstitut muss über eine ordnungsgemäße Geschäftsorganisation verfügen, die die Einhaltung der vom Kreditdienstleistungsinstitut zu beachtenden gesetzlichen Bestimmungen und der betriebswirtschaftlichen Notwendigkeiten gewährleistet. Die Geschäftsleiter sind für die ordnungsgemäße Geschäftsorganisation des Kreditdienstleistungsinstituts verantwortlich; sie haben die erforderlichen Maßnahmen für die Ausarbeitung der entsprechenden institutsinternen Vorgaben zu ergreifen, sofern nicht das Verwaltungs- oder Aufsichtsorgan entscheidet. Eine ordnungsgemäße Geschäftsorganisation umfasst insbesondere die in den Absätzen 2 bis 4 geregelten Organisationspflichten.
 
@@ -365,7 +369,7 @@ c) gegen Verbraucherschutzvorschriften, einschließlich der geltenden Vorschrift
 
 (6) Die Bundesanstalt kann gegenüber einem Kreditdienstleistungsinstitut oder seinen Geschäftsleitern im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Anforderungen an eine ordnungsgemäße Geschäftsorganisation nach Absatz 1 zu erfüllen. Satz 1 gilt entsprechend für Auslagerungsunternehmen, soweit ausgelagerte Aktivitäten und Prozesse betroffen sind.
 
-##### § 15 Geschäftsleiter; Mitglieder des Verwaltungs- oder Aufsichtsorgans
+###### § 15 Geschäftsleiter; Mitglieder des Verwaltungs- oder Aufsichtsorgans
 
 (1) Ein Kreditdienstleistungsinstitut hat mindestens einen Geschäftsleiter zu bestellen. Geschäftsleiter haben für die Leitung eines Kreditdienstleistungsinstituts fachlich geeignet und zuverlässig zu sein. Ein fachlich nicht geeigneter oder unzuverlässiger Geschäftsleiter darf nicht bestellt werden. Stellt sich heraus, dass ein Geschäftsleiter nicht fachlich geeignet oder unzuverlässig ist, hat das Kreditdienstleistungsinstitut ihn unverzüglich abzuberufen, nachdem es davon Kenntnis erlangt hat. Ein Geschäftsleiter gilt in der Regel als unzuverlässig, wenn
 
@@ -393,7 +397,7 @@ Zudem gilt § 1b des Kreditwesengesetzes entsprechend. Der Bundesanstalt ist zum
 
 (4) Mindestens ein Geschäftsleiter muss die theoretische und praktische Sachkunde nach § 12 Absatz 1 Nummer 2 in Verbindung mit § 11 Absatz 1 und § 12 Absatz 3 des Rechtsdienstleistungsgesetzes aufweisen. Abweichend davon kann das Kreditdienstleistungsinstitut anstelle eines Geschäftsleiters eine natürliche Person, die diese Sachkunde aufweist, entsprechend § 12 Absatz 4 Satz 1 und 2 des Rechtsdienstleistungsgesetzes benennen.
 
-##### § 16 Inhaber bedeutender Beteiligungen; Verordnungsermächtigung
+###### § 16 Inhaber bedeutender Beteiligungen; Verordnungsermächtigung
 
 (1) Inhaber einer bedeutenden Beteiligung an einem Kreditdienstleistungsinstitut müssen zuverlässig sein und den Ansprüchen genügen, die im Interesse einer soliden und umsichtigen Führung des Kreditdienstleistungsinstituts zu stellen sind. § 15 Absatz 1 Satz 5 Nummer 1 und 3 und Satz 6 gilt entsprechend für die Zuverlässigkeit eines Inhabers bedeutender Beteiligungen am Kreditdienstleistungsinstitut. Zudem ist § 2c des Kreditwesengesetzes mit der Maßgabe entsprechend anzuwenden, dass das Kreditdienstleistungsinstitut statt den in § 2c Absatz 1b Satz 1 Nummer 2 des Kreditwesengesetzes genannten Aufsichtsanforderungen den Anforderungen dieses Gesetzes genügen muss.
 
@@ -401,7 +405,7 @@ Zudem gilt § 1b des Kreditwesengesetzes entsprechend. Der Bundesanstalt ist zum
 
 ## Unterabschnitt 2 Entgegennahme und Halten von Mitteln
 
-##### § 17 Entgegennahme und Halten von Mitteln
+###### § 17 Entgegennahme und Halten von Mitteln
 
 (1) Kreditdienstleistungsinstitute dürfen finanzielle Mittel von Kreditnehmern entgegennehmen und halten, um diese Mittel an Kreditkäufer zu übertragen.
 
@@ -417,7 +421,7 @@ Zudem gilt § 1b des Kreditwesengesetzes entsprechend. Der Bundesanstalt ist zum
 
 ## Unterabschnitt 3 Kreditdienstleistungsvereinbarung
 
-##### § 18 Kreditdienstleistungsvereinbarung
+###### § 18 Kreditdienstleistungsvereinbarung
 
 (1) Für den Fall, dass ein Kreditkäufer selbst keine Kreditdienstleistungen erbringt, hat der beauftragte Kreditdienstleister die Kreditdienstleistungen auf der Grundlage einer schriftlich geschlossenen Kreditdienstleistungsvereinbarung mit dem Kreditkäufer zu erbringen.
 
@@ -435,7 +439,7 @@ Zudem gilt § 1b des Kreditwesengesetzes entsprechend. Der Bundesanstalt ist zum
 
 6. eine Verpflichtung des Kreditdienstleisters, den Kreditkäufer gegebenenfalls über die Absicht der Auslagerung einer seiner Kreditdienstleistungen zu unterrichten.
 
-##### § 19 Aufbewahrungspflichten
+###### § 19 Aufbewahrungspflichten
 
 (1) Kreditdienstleister haben die folgenden Aufzeichnungen nach der Beendigung der Kreditdienstleistungsvereinbarung wie folgt aufzubewahren:
 
@@ -457,7 +461,7 @@ b) relevante Anweisungen, die sie vom Kreditkäufer zu den von ihnen im Namen de
 
 ## Unterabschnitt 4 Auslagerung
 
-##### § 20 Auslagerung von Kreditdienstleistungen
+###### § 20 Auslagerung von Kreditdienstleistungen
 
 (1) Kreditdienstleistungsinstitute können einzelne Kreditdienstleistungen an ein Auslagerungsunternehmen auslagern. Vor der Auslagerung von Kreditdienstleistungen haben das Kreditdienstleistungsinstitut und das Auslagerungsunternehmen eine schriftliche Auslagerungsvereinbarung zu schließen, mit der das Auslagerungsunternehmen dazu verpflichtet wird, die für das Kreditdienstleistungsinstitut geltenden rechtlichen Bestimmungen und die einschlägigen Rechtsvorschriften der Europäischen Union und der Vertragsstaaten über Kreditverträge und die Ansprüche eines Kreditgebers hieraus einzuhalten. Das Kreditdienstleistungsinstitut muss sicherstellen, dass
 
@@ -473,13 +477,13 @@ b) relevante Anweisungen, die sie vom Kreditkäufer zu den von ihnen im Namen de
 
 (3) Für Kreditinstitute, die Kreditdienstleistungen erbringen, gilt für Auslagerungen § 25b des Kreditwesengesetzes.
 
-##### § 21 Unterrichtungspflichten; Verordnungsermächtigung
+###### § 21 Unterrichtungspflichten; Verordnungsermächtigung
 
 (1) Kreditdienstleistungsinstitute haben die Bundesanstalt, die Deutsche Bundesbank und, falls ein Aufnahmemitgliedstaat vorhanden ist, die dort zuständigen Behörden zu unterrichten, bevor sie Kreditdienstleistungen nach § 20 Absatz 1 auslagern.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art, Umfang und Form der Unterrichtung nach Absatz 1 zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Kreditdienstleistungsinstitute anzuhören.
 
-##### § 22 Aufbewahrungspflichten
+###### § 22 Aufbewahrungspflichten
 
 (1) Kreditdienstleistungsinstitute haben die Auslagerungsvereinbarung sowie Aufzeichnungen zu dieser und den relevanten Anweisungen an das Auslagerungsunternehmen nach Beendigung der Auslagerungsvereinbarung vorbehaltlich längerer Aufbewahrungsfristen nach anderen gesetzlichen Vorschriften fünf Jahre lang aufzubewahren.
 
@@ -487,7 +491,7 @@ b) relevante Anweisungen, die sie vom Kreditkäufer zu den von ihnen im Namen de
 
 ## Unterabschnitt 5 Europäischer Pass
 
-##### § 23 Grenzüberschreitende Erbringung von Kreditdienstleistungen von Unternehmen mit Sitz in einem anderen Vertragsstaat
+###### § 23 Grenzüberschreitende Erbringung von Kreditdienstleistungen von Unternehmen mit Sitz in einem anderen Vertragsstaat
 
 (1) Kreditdienstleistungsinstitute, die nach den dortigen nationalen Bestimmungen zur Umsetzung der Richtlinie (EU) 2021/2167 in einem anderen Vertragsstaat von der dort zuständigen Behörde zugelassen sind und beaufsichtigt werden, dürfen ohne Erlaubnis die Kreditdienstleistungen im Inland erbringen, die von der Zulassung im Herkunftsmitgliedstaat erfasst sind (Europäischer Pass),
 
@@ -501,7 +505,7 @@ b) relevante Anweisungen, die sie vom Kreditkäufer zu den von ihnen im Namen de
 
 (4) Die Bundesanstalt erfasst die nach Absatz 1 im Inland tätigen Kreditdienstleistungsinstitute unter Angabe des Herkunftsmitgliedstaats in dem Register nach § 26.
 
-##### § 24 Grenzüberschreitende Erbringung von Kreditdienstleistungen durch inländische Kreditdienstleistungsinstitute; Verordnungsermächtigung
+###### § 24 Grenzüberschreitende Erbringung von Kreditdienstleistungen durch inländische Kreditdienstleistungsinstitute; Verordnungsermächtigung
 
 (1) Beabsichtigt ein Kreditdienstleistungsinstitut, das über eine Erlaubnis nach § 10 Absatz 1 Satz 1 verfügt, Kreditdienstleistungen in einem anderen Vertragsstaat zu erbringen, teilt es der Bundesanstalt und der Deutschen Bundesbank spätestens zwei Monate vor der beabsichtigten Erbringung von Kreditdienstleistungen die folgenden Daten mit:
 
@@ -533,7 +537,7 @@ b) relevante Anweisungen, die sie vom Kreditkäufer zu den von ihnen im Namen de
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über Art, Umfang und Form der nach dieser Vorschrift vorgesehenen Mitteilungen zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Kreditdienstleistungsinstitute anzuhören.
 
-##### § 25 Beaufsichtigung grenzüberschreitend tätiger Kreditdienstleistungsinstitute
+###### § 25 Beaufsichtigung grenzüberschreitend tätiger Kreditdienstleistungsinstitute
 
 (1) Die Bundesanstalt beaufsichtigt Kreditdienstleistungsinstitute, die über eine Erlaubnis nach § 10 Absatz 1 Satz 1 verfügen, im Hinblick auf die Erfüllung der Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen, wenn diese Kreditdienstleistungen in einem Aufnahmemitgliedstaat erbringen.
 
@@ -559,7 +563,7 @@ Diese Befugnis der Bundesanstalt gilt ungeachtet aller von den zuständigen Beh�
 
 ## Abschnitt 4 Register
 
-##### § 26 Register der zugelassenen Institute; Verordnungsermächtigung
+###### § 26 Register der zugelassenen Institute; Verordnungsermächtigung
 
 (1) Die Bundesanstalt führt über die Kreditdienstleistungsinstitute, die über eine Erlaubnis nach § 10 Absatz 1 Satz 1 verfügen oder nach § 23 im Inland tätig sind, ein öffentliches Register. Das Register ist auf der Internetseite der Bundesanstalt öffentlich einsehbar und wird regelmäßig aktualisiert.
 
@@ -569,7 +573,7 @@ Diese Befugnis der Bundesanstalt gilt ungeachtet aller von den zuständigen Beh�
 
 ## Abschnitt 5 Risikobewertung
 
-##### § 27 Risikobewertung; Informationsaustausch
+###### § 27 Risikobewertung; Informationsaustausch
 
 (1) Die Bundesanstalt bewertet unter Anwendung eines risikobasierten Ansatzes mindestens einmal jährlich, inwieweit die Kreditdienstleistungsinstitute, die über eine Erlaubnis nach § 10 Absatz 1 Satz 1 verfügen, die Voraussetzungen des § 14 Absatz 2 bis 4 erfüllen. Bei der Bewertung ist der Größe, der Art, dem Umfang und der Komplexität der Tätigkeiten des betreffenden Kreditdienstleistungsinstituts Rechnung zu tragen. Die Bundesanstalt arbeitet hierbei mit der Deutschen Bundesbank nach Maßgabe des § 7 des Kreditwesengesetzes zusammen.
 
@@ -583,7 +587,7 @@ Diese Befugnis der Bundesanstalt gilt ungeachtet aller von den zuständigen Beh�
 
 ## Abschnitt 6 Verhaltensvorschriften; Informationspflichten
 
-##### § 28 Beziehung zu Kreditnehmern
+###### § 28 Beziehung zu Kreditnehmern
 
 (1) Kreditkäufer und Kreditdienstleister haben in ihren Beziehungen zu Kreditnehmern
 
@@ -597,13 +601,13 @@ Kreditkäufer und Kreditdienstleister dürfen Kreditnehmer nicht unangemessen be
 
 (2) Die §§ 13e und 13f des Rechtsdienstleistungsgesetzes gelten für Kreditkäufer und Kreditdienstleister entsprechend.
 
-##### § 29 Beschwerden bei einem Kreditdienstleister
+###### § 29 Beschwerden bei einem Kreditdienstleister
 
 (1) Kreditdienstleister haben vor der erstmaligen Erbringung von Kreditdienstleistungen wirkungsvolle und transparente Verfahren für die Bearbeitung der Beschwerden von Kreditnehmern zu schaffen und danach stets anzuwenden.
 
 (2) Kreditdienstleister dürfen für die Bearbeitung der Beschwerden von Kreditnehmern von diesen kein Entgelt verlangen. Sie haben die Beschwerden und die zu deren Beilegung getroffenen Maßnahmen spätestens zwei Wochen nach Eingang der Beschwerde oder der jeweiligen Maßnahme zu dokumentieren.
 
-##### § 30 Pflichten zur Information des Kreditnehmers
+###### § 30 Pflichten zur Information des Kreditnehmers
 
 (1) Nach der Übertragung eines notleidenden Kreditvertrags oder von Ansprüchen hieraus auf einen Kreditkäufer hat der Kreditkäufer oder der Kreditdienstleister vor der ersten Durchsetzungsmaßnahme und immer dann, wenn der Kreditnehmer es verlangt, dem Kreditnehmer in Textform in klarer und verständlicher Weise mindestens Folgendes mitzuteilen:
 
@@ -633,7 +637,7 @@ Kreditkäufer und Kreditdienstleister dürfen Kreditnehmer nicht unangemessen be
 
 ## Abschnitt 7 Beaufsichtigung
 
-##### § 31 Auskunftspflichten
+###### § 31 Auskunftspflichten
 
 (1) Kreditkäufer oder deren Vertreter, Kreditdienstleister, Auslagerungsunternehmen sowie Kreditnehmer haben der Bundesanstalt und der Deutschen Bundesbank auf Verlangen sämtliche angeforderten Informationen zu übermitteln, Unterlagen vorzulegen und erforderlichenfalls Kopien anzufertigen, die diese benötigen, um zu prüfen, ob die in diesem Gesetz festgelegten Anforderungen eingehalten werden, um etwaige Verstöße gegen diese Anforderungen zu untersuchen und um über erforderliche Maßnahmen zu deren Einhaltung zu entscheiden.
 
@@ -643,7 +647,7 @@ Kreditkäufer und Kreditdienstleister dürfen Kreditnehmer nicht unangemessen be
 
 (4) Wer zur Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-##### § 32 Vorlage von Jahresabschluss, Lagebericht und Prüfungsberichten
+###### § 32 Vorlage von Jahresabschluss, Lagebericht und Prüfungsberichten
 
 (1) Kreditdienstleistungsinstitute haben
 
@@ -657,7 +661,7 @@ Sofern das Kreditdienstleistungsinstitut zu einer Prüfung des Jahresabschlusses
 
 (3) Die Bestimmungen des Absatzes 2 gelten entsprechend für einen Einzelabschluss nach § 325 Absatz 2a des Handelsgesetzbuchs.
 
-##### § 33 Bestellung des Abschlussprüfers in besonderen Fällen
+###### § 33 Bestellung des Abschlussprüfers in besonderen Fällen
 
 (1) Ist ein Kreditdienstleistungsinstitut verpflichtet, einen Abschlussprüfer zu bestellen, hat es der Bundesanstalt und der Deutschen Bundesbank den bestellten Abschlussprüfer unverzüglich nach der Bestellung anzuzeigen.
 
@@ -667,7 +671,7 @@ Sofern das Kreditdienstleistungsinstitut zu einer Prüfung des Jahresabschlusses
 
 (4) § 28 Absatz 2 und 3 des Kreditwesengesetzes ist entsprechend anzuwenden.
 
-##### § 34 Prüfungspflichten; Verordnungsermächtigung
+###### § 34 Prüfungspflichten; Verordnungsermächtigung
 
 (1) Ist ein Kreditdienstleistungsinstitut verpflichtet, seinen Jahresabschluss prüfen zu lassen, hat der Abschlussprüfer als Teil der Prüfung des Jahresabschlusses sowie eines Zwischenabschlusses auch die wirtschaftlichen Verhältnisse des Kreditdienstleistungsinstituts zu prüfen. Bei der Prüfung des Jahresabschlusses hat er insbesondere festzustellen, ob das Kreditdienstleistungsinstitut die Anzeigepflichten nach § 10 Absatz 6 und § 35 Absatz 1, auch in Verbindung mit einer Rechtsverordnung aufgrund des § 35 Absatz 4, sowie nach § 36 Absatz 3 Satz 1 erfüllt hat.
 
@@ -677,7 +681,7 @@ Sofern das Kreditdienstleistungsinstitut zu einer Prüfung des Jahresabschlusses
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und im Benehmen mit der Deutschen Bundesbank durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über den Gegenstand der Prüfung nach den Absätzen 1 und 2, über den Zeitpunkt ihrer Durchführung und über den Inhalt der Prüfungsberichte sowie über das Format für deren Einreichung zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um Missstände, welche die Sicherheit der einem Kreditdienstleistungsinstitut anvertrauten Vermögenswerte gefährden oder die ordnungsgemäße Durchführung der Kreditdienstleistungen beeinträchtigen können, zu erkennen sowie einheitliche Unterlagen zur Beurteilung der von den Kreditdienstleistungsinstituten durchgeführten Geschäfte zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Justiz und der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Kreditdienstleistungsinstitute anzuhören.
 
-##### § 35 Anzeigepflichten der Kreditdienstleistungsinstitute; Verordnungsermächtigung
+###### § 35 Anzeigepflichten der Kreditdienstleistungsinstitute; Verordnungsermächtigung
 
 (1) Kreditdienstleistungsinstitute haben der Bundesanstalt und der Deutschen Bundesbank unverzüglich Folgendes anzuzeigen:
 
@@ -715,7 +719,7 @@ Sofern das Kreditdienstleistungsinstitut zu einer Prüfung des Jahresabschlusses
 
 (4) Das Bundesministerium der Finanzen kann im Benehmen mit der Deutschen Bundesbank durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über Art, Umfang, Zeitpunkt und Form der nach Absatz 1 vorgesehenen Anzeigen und Vorlagen von Unterlagen, über die zulässigen Datenträger, Übertragungswege und Datenformate und über zu verwendende und anzuzeigende Zusatzinformationen zu den Hauptinformationen, etwa besondere Rechtsträgerkennungen sowie Angaben zu deren Aktualität oder Validität, erlassen und die bestehenden Anzeigepflichten durch die Verpflichtung zur Erstattung von Sammelanzeigen und die Einreichung von Sammelaufstellungen ergänzen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um einheitliche Unterlagen zur Beurteilung der von den Kreditdienstleistungsinstituten durchgeführten Kreditdienstleistungen zu erhalten. Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung der Bundesanstalt im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Kreditdienstleistungsinstitute anzuhören.
 
-##### § 36 Maßnahmen bei Gefahren und Insolvenzantrag
+###### § 36 Maßnahmen bei Gefahren und Insolvenzantrag
 
 (1) Ist die Erfüllung der Verpflichtungen eines Kreditdienstleistungsinstituts gegenüber seinen Gläubigern gefährdet, liegen die Voraussetzungen für die Aufhebung der Erlaubnis vor oder besteht der begründete Verdacht, dass eine wirksame Aufsicht über das Kreditdienstleistungsinstitut nicht möglich ist, kann die Bundesanstalt zur Abwendung der in diesen Fällen bestehenden Gefahren einstweilige Maßnahmen treffen. Sie kann insbesondere
 
@@ -743,7 +747,7 @@ Sofern das Kreditdienstleistungsinstitut zu einer Prüfung des Jahresabschlusses
 
 (6) Der Insolvenzverwalter informiert die Bundesanstalt laufend über Stand und Fortgang des Insolvenzverfahrens, insbesondere durch Überlassung der Berichte für das Insolvenzgericht, die Gläubigerversammlung oder einen Gläubigerausschuss. Die Bundesanstalt kann darüber hinaus weitere Auskünfte und Unterlagen zum Insolvenzverfahren verlangen.
 
-##### § 37 Befugnisse der Bundesanstalt
+###### § 37 Befugnisse der Bundesanstalt
 
 (1) Die Bundesanstalt kann im Einzelfall Maßnahmen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorschriften dieses Gesetzes sicherzustellen, insbesondere wenn
 
@@ -825,7 +829,7 @@ Sofern das Kreditdienstleistungsinstitut zu einer Prüfung des Jahresabschlusses
 
 Bei Kreditdienstleistungsinstituten, die aufgrund ihrer Rechtsform einer besonderen Rechtsaufsicht unterliegen, erfolgt eine Maßnahme nach Satz 1 erst nach Anhörung der zuständigen Behörde für die Rechtsaufsicht über das Kreditdienstleistungsinstitut. Soweit das Gericht auf Antrag des Aufsichtsrats ein Aufsichtsratsmitglied abzuberufen hat, kann dieser Antrag bei Vorliegen der Voraussetzungen nach Satz 1 auch von der Bundesanstalt gestellt werden, wenn der Aufsichtsrat dem Abberufungsverlangen der Aufsichtsbehörde nicht nachgekommen ist. Die Abberufung von Arbeitnehmervertretern im Aufsichtsrat erfolgt allein nach den Vorschriften der Mitbestimmungsgesetze.
 
-##### § 38 Untersagung unerlaubter Kreditdienstleistungen
+###### § 38 Untersagung unerlaubter Kreditdienstleistungen
 
 (1) Werden ohne die nach § 10 Absatz 1 Satz 1 erforderliche Erlaubnis Kreditdienstleistungen erbracht, kann die Bundesanstalt die sofortige Einstellung des Geschäftsbetriebs und die unverzügliche Abwicklung der Geschäfte gegenüber dem Unternehmen sowie gegenüber seinen Gesellschaftern und den Mitgliedern seiner Organe anordnen. Sie kann
 
@@ -841,7 +845,7 @@ Die Bundesanstalt kann ihre Maßnahmen nach den Sätzen 1 und 2 nach Maßgabe de
 
 (4) Der Abwickler erhält von der Bundesanstalt eine angemessene Vergütung und Ersatz seiner Aufwendungen. Die gezahlten Beträge sind der Bundesanstalt von dem betroffenen Unternehmen gesondert zu erstatten und auf Verlangen der Bundesanstalt vorzuschießen. Die Bundesanstalt kann das betroffene Unternehmen anweisen, den von der Bundesanstalt festgesetzten Betrag im Namen der Bundesanstalt unmittelbar an den Abwickler zu leisten, wenn dadurch keine Beeinflussung der Unabhängigkeit des Abwicklers zu besorgen ist.
 
-##### § 39 Verfolgung unerlaubter Kreditdienstleistungen
+###### § 39 Verfolgung unerlaubter Kreditdienstleistungen
 
 (1) Steht es fest oder rechtfertigen Tatsachen die Annahme, dass ein Unternehmen unerlaubt Kreditdienstleistungen erbringt oder erbracht hat oder dass es in die Anbahnung, den Abschluss oder die Abwicklung unerlaubter Kreditdienstleistungen einbezogen ist oder war, so haben sowohl das Unternehmen als auch die Mitglieder der Organe, die Gesellschafter und die Beschäftigten eines solchen Unternehmens der Bundesanstalt sowie der Deutschen Bundesbank auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen und Unterlagen vorzulegen. Ein Mitglied eines Organs, ein Gesellschafter oder ein Beschäftigter hat auf Verlangen auch nach seinem Ausscheiden aus dem Organ oder dem Unternehmen Auskunft zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt kann den in Satz 1 genannten Unternehmen und Personen Weisungen zur Sicherung von Kundengeldern, Vermögenswerten und Daten erteilen.
 
@@ -859,17 +863,17 @@ Die Bundesanstalt kann ihre Maßnahmen nach den Sätzen 1 und 2 nach Maßgabe de
 
 2. die zuständige Behörde des anderen Staats ein entsprechendes Ersuchen an die Bundesanstalt stellt.
 
-##### § 40 Beschwerden über Kreditdienstleistungsinstitute, Kreditkäufer und Auslagerungsunternehmen
+###### § 40 Beschwerden über Kreditdienstleistungsinstitute, Kreditkäufer und Auslagerungsunternehmen
 
 Kreditnehmer können wegen behaupteter Verstöße gegen Bestimmungen dieses Gesetzes Beschwerden gegen Kreditkäufer, deren Vertreter, Kreditdienstleister oder Auslagerungsunternehmen bei der Bundesanstalt einlegen. § 4b des Finanzdienstleistungsaufsichtsgesetzes gilt entsprechend. Die Möglichkeit zur Einreichung der Beschwerde und das hierfür vorgesehene Verfahren sind von der Bundesanstalt in geeigneter Weise öffentlich zu machen.
 
-##### § 41 Bekanntmachung von Maßnahmen; öffentliche Warnungen
+###### § 41 Bekanntmachung von Maßnahmen; öffentliche Warnungen
 
 (1) Für die Bekanntmachung von Maßnahmen und Bußgeldentscheidungen nach diesem Gesetz gilt § 60b des Kreditwesengesetzes entsprechend.
 
 (2) Soweit und solange Tatsachen die Annahme rechtfertigen oder feststeht, dass ein Unternehmen unerlaubt Kreditdienstleistungen erbringt, kann die Bundesanstalt die Öffentlichkeit unter Nennung des Namens oder der Firma des Unternehmens über den Verdacht oder diese Feststellung informieren. Satz 1 ist entsprechend anzuwenden, wenn ein Unternehmen die unerlaubten Kreditdienstleistungen zwar nicht erbringt, aber in der Öffentlichkeit einen entsprechenden Anschein erweckt. Vor der Entscheidung über die Veröffentlichung der Information ist das Unternehmen anzuhören. Stellen sich die von der Bundesanstalt veröffentlichten Informationen als falsch oder die zugrundeliegenden Umstände als unrichtig wiedergegeben heraus, so informiert die Bundesanstalt die Öffentlichkeit hierüber in der gleichen Art und Weise, in der sie die betreffende Information zuvor bekannt gegeben hat.
 
-##### § 42 Sofortige Vollziehbarkeit; elektronische Bekanntgabe
+###### § 42 Sofortige Vollziehbarkeit; elektronische Bekanntgabe
 
 (1) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt nach § 3 Absatz 4, § 13 Absatz 2 Nummer 2 bis 5, § 14 Absatz 6, § 16 Absatz 1 in Verbindung mit § 2c Absatz 1b Satz 1 bis 3, Absatz 2 Satz 1 und Absatz 2a des Kreditwesengesetzes, nach den §§ 31, 33 Absatz 2 Satz 1 und Absatz 3, nach § 34 Absatz 3 in Verbindung mit § 30 des Kreditwesengesetzes sowie nach den §§ 36 bis 39 haben keine aufschiebende Wirkung. Widerspruch und Anfechtungsklage gegen die Androhung und die Festsetzung von Zwangsmitteln, die zur Durchsetzung der in Satz 1 genannten Maßnahmen im Wege des Verwaltungszwangs erlassen werden, haben keine aufschiebende Wirkung.
 
@@ -877,7 +881,7 @@ Kreditnehmer können wegen behaupteter Verstöße gegen Bestimmungen dieses Gese
 
 ## Abschnitt 8 Straf- und Bußgeldvorschriften
 
-##### § 43 Strafvorschriften
+###### § 43 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -889,7 +893,7 @@ Kreditnehmer können wegen behaupteter Verstöße gegen Bestimmungen dieses Gese
 
 (3) Handelt der Täter fahrlässig, so ist die Strafe in den Fällen des Absatzes 1 Freiheitsstrafe bis zu drei Jahren oder Geldstrafe und in den Fällen des Absatzes 2 Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-##### § 44 Bußgeldvorschriften
+###### § 44 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -957,7 +961,7 @@ b) § 2c Absatz 1 Satz 5, 6 oder Satz 7 oder Absatz 3 Satz 1 oder Satz 4 des Kre
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-##### § 45 Mitteilungen in Strafsachen
+###### § 45 Mitteilungen in Strafsachen
 
 (1) Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde hat in Strafverfahren gegen Inhaber, Geschäftsleiter oder gegen Mitglieder des Verwaltungs- oder Aufsichtsorgans von Kreditdienstleistungsinstituten sowie gegen Inhaber bedeutender Beteiligungen an Kreditdienstleistungsinstituten oder gegen deren gesetzliche Vertreter wegen Verletzung ihrer Berufspflichten oder anderer Straftaten bei oder im Zusammenhang mit der Ausübung eines Gewerbes oder dem Betrieb einer sonstigen wirtschaftlichen Unternehmung, ferner in Strafverfahren, die Straftaten nach § 43 zum Gegenstand haben, im Fall der Erhebung der öffentlichen Klage der Bundesanstalt Folgendes zu übermitteln:
 
@@ -973,7 +977,7 @@ Ist gegen die Entscheidung ein Rechtsbehelf eingelegt worden, ist die Entscheidu
 
 ## Abschnitt 9 Übergangsbestimmungen
 
-##### § 46 Übergangsbestimmungen
+###### § 46 Übergangsbestimmungen
 
 (1) Unternehmen in der Rechtsform einer juristischen Person oder Personenhandelsgesellschaft, die Kreditdienstleistungen bereits vor dem Inkrafttreten dieses Gesetzes erbracht haben, dürfen diese Tätigkeit nach dem Inkrafttreten dieses Gesetzes auch ohne Erlaubnis nach § 10 Absatz 1 bis zu dem Zeitpunkt weiter erbringen, der von den folgenden zuerst eintritt:
 
@@ -994,4 +998,3 @@ Abweichend von § 1 Absatz 3 findet auf Unternehmen, solange sie weiter die Tät
 (5) Abweichend von § 6 Absatz 2 sind die Datenvorlagen aus den dort genannten technischen Durchführungsstandards nur für Transaktionen zu verwenden, die sich auf ab dem 1. Juli 2018 gewährte Kredite beziehen, die nach dem 28. Dezember 2021 notleidend geworden sind. Für Kredite, die zwischen dem 1. Juli 2018 und dem Tag des Inkrafttretens der in Satz 1 genannten technischen Durchführungsstandards gewährt wurden, haben die Kreditinstitute die Datenvorlage mit den Informationen auszufüllen, die ihnen bis zum Zeitpunkt des Ausfüllens vorliegen.
 
 (6) § 3 Absatz 5 ist erst ab dem 1. Januar 2025 anzuwenden.
-
