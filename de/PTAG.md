@@ -4,18 +4,23 @@ identifier: "PTAG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2020-01-13"
-last_updated: "2026-04-04"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/ptag/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR006610020"
 slug: "ptag"
 bgbl_reference: "BGBl I 2020, 66"
 stand: "Zuletzt geändert durch Art. 10 G v. 20.7.2022 I 1174"
+hinweis: "Änderung durch Art. 4 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Gesetz über den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 Abschnitt 1Erlaubnis
  zum Führen der Berufsbezeichnung§  1Erlaubnis zum Führen der Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder „pharmazeutisch-technischer Assistent“§  2Voraussetzungen für die Erteilung der Erlaubnis§  3Rücknahme der Erlaubnis§  4Widerruf der Erlaubnis§  5Ruhen der ErlaubnisAbschnitt 2Berufsbild und Befugnisse§  6Berufsbild§  7Befugnisse der pharmazeutisch-technischen Assistentinnen und pharmazeutisch-technischen AssistentenAbschnitt 3Ausbildung§  8Nichtanwendung des Berufsbildungsgesetzes§  9Ziel der Ausbildung und der staatlichen Prüfung§ 10Voraussetzungen für den Zugang zur Ausbildung§ 11Dauer und Struktur der Ausbildung§ 12Verkürzung der Ausbildungsdauer durch Anrechnung gleichwertiger Ausbildungen§ 13Anrechnung von Fehlzeiten§ 14Staatliche Prüfung§ 15Schulische Ausbildung§ 16Mindestanforderungen an die Schulen§ 17Praktische AusbildungAbschnitt 4Ausbildungsverhältnis
@@ -25,11 +30,11 @@ Abschnitt 1Erlaubnis
 
 ## Abschnitt 1 Erlaubnis zum Führen der Berufsbezeichnung
 
-##### § 1 Erlaubnis zum Führen der Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder „pharmazeutisch-technischer Assistent“
+###### § 1 Erlaubnis zum Führen der Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder „pharmazeutisch-technischer Assistent“
 
 Wer die Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder „pharmazeutisch-technischer Assistent“ führen will, bedarf der Erlaubnis.
 
-##### § 2 Voraussetzungen für die Erteilung der Erlaubnis
+###### § 2 Voraussetzungen für die Erteilung der Erlaubnis
 
 (1) Die Erlaubnis nach § 1 wird auf Antrag erteilt, wenn die antragstellende Person
 
@@ -49,7 +54,7 @@ Wer die Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder „ph
 
 2. die antragstellende Person mit einer außerhalb des Geltungsbereichs dieses Gesetzes erworbenen Berufsqualifikation den Beruf der pharmazeutisch-technischen Assistentin oder des pharmazeutisch-technischen Assistenten ausüben will.
 
-##### § 3 Rücknahme der Erlaubnis
+###### § 3 Rücknahme der Erlaubnis
 
 (1) Die Erlaubnis nach § 1 ist zurückzunehmen, wenn
 
@@ -61,7 +66,7 @@ Wer die Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder „ph
 
 (3) Im Übrigen bleiben die dem § 48 des Verwaltungsverfahrensgesetzes entsprechenden landesgesetzlichen Vorschriften unberührt.
 
-##### § 4 Widerruf der Erlaubnis
+###### § 4 Widerruf der Erlaubnis
 
 (1) Die Erlaubnis nach § 1 ist zu widerrufen, wenn bekannt wird, dass sich die Inhaberin oder der Inhaber einer Erlaubnis eines Verhaltens schuldig gemacht hat, aus dem sich die Unzuverlässigkeit zur Berufsausübung ergibt.
 
@@ -69,7 +74,7 @@ Wer die Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder „ph
 
 (3) Im Übrigen bleiben die dem § 49 des Verwaltungsverfahrensgesetzes entsprechenden landesgesetzlichen Vorschriften unberührt.
 
-##### § 5 Ruhen der Erlaubnis
+###### § 5 Ruhen der Erlaubnis
 
 (1) Das Ruhen der Erlaubnis nach § 1 kann angeordnet werden, wenn
 
@@ -83,7 +88,7 @@ Wer die Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder „ph
 
 ## Abschnitt 2 Berufsbild und Befugnisse
 
-##### § 6 Berufsbild
+###### § 6 Berufsbild
 
 Die Ausübung des Berufs der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten umfasst insbesondere
 
@@ -111,7 +116,7 @@ j) die Mitwirkung an der Pflege und Weiterentwicklung des Qualitätsmanagementsy
 
 2. Tätigkeiten in der pharmazeutischen Industrie, in Prüflaboratorien, im pharmazeutischen Großhandel, bei Behörden, bei Krankenkassen und bei Verbänden.
 
-##### § 7 Befugnisse der pharmazeutisch-technischen Assistentinnen und pharmazeutisch-technischen Assistenten
+###### § 7 Befugnisse der pharmazeutisch-technischen Assistentinnen und pharmazeutisch-technischen Assistenten
 
 (1) Die pharmazeutisch-technischen Assistentinnen und pharmazeutisch-technischen Assistenten sind befugt, in der Apotheke unter der Aufsicht einer Apothekerin oder eines Apothekers pharmazeutische Tätigkeiten auszuüben. Zur selbständigen Ausübung pharmazeutischer Tätigkeiten sind die pharmazeutisch-technischen Assistentinnen und pharmazeutisch-technischen Assistenten nur nach Maßgabe der Rechtsverordnung nach Absatz 2 befugt.
 
@@ -121,19 +126,19 @@ j) die Mitwirkung an der Pflege und Weiterentwicklung des Qualitätsmanagementsy
 
 2. die Voraussetzungen, unter denen eine pharmazeutisch-technische Assistentin oder ein pharmazeutisch-technischer Assistent pharmazeutische Tätigkeiten ganz oder teilweise selbständig ausüben kann, insbesondere die dafür erforderlichen persönlich-fachlichen Voraussetzungen der pharmazeutisch-technischen Assistentin oder des pharmazeutisch-technischen Assistenten.
 
-(3) Zur Vertretung in der Leitung einer Apotheke sind pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische Assistenten nicht befugt.
+(3) Zur Vertretung der Leitung einer Apotheke sind pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische Assistenten nicht befugt, sofern nicht in § 29 des Apothekengesetzes Abweichendes geregelt ist.
 
 ## Abschnitt 3 Ausbildung
 
-##### § 8 Nichtanwendung des Berufsbildungsgesetzes
+###### § 8 Nichtanwendung des Berufsbildungsgesetzes
 
 Auf die Ausbildung zur pharmazeutisch-technischen Assistentin oder zum pharmazeutisch-technischen Assistenten und auf das Ausbildungsverhältnis findet das Berufsbildungsgesetz keine Anwendung.
 
-##### § 9 Ziel der Ausbildung und der staatlichen Prüfung
+###### § 9 Ziel der Ausbildung und der staatlichen Prüfung
 
 Die Ausbildung zur pharmazeutisch-technischen Assistentin oder zum pharmazeutisch-technischen Assistenten und die staatliche Prüfung sind nach Maßgabe der Rechtsverordnung nach § 56 so zu gestalten, dass die Kenntnisse und Handlungskompetenzen, die für die in § 6 Nummer 1 genannten Tätigkeitsfelder mindestens erforderlich sind, vermittelt und nach einheitlichen Vorgaben zuverlässig festgestellt werden. Dabei sind die aktuellen fachlichen und regulatorischen Anforderungen zu berücksichtigen.
 
-##### § 10 Voraussetzungen für den Zugang zur Ausbildung
+###### § 10 Voraussetzungen für den Zugang zur Ausbildung
 
 Die Ausbildung zur pharmazeutisch-technischen Assistentin oder zum pharmazeutisch-technischen Assistenten darf nur absolvieren, wer
 
@@ -149,7 +154,7 @@ b) einen Hauptschulabschluss oder einen anderen als gleichwertig anerkannten Abs
 
 4. über die Kenntnisse der deutschen Sprache verfügt, die für die Ausbildung erforderlich sind.
 
-##### § 11 Dauer und Struktur der Ausbildung
+###### § 11 Dauer und Struktur der Ausbildung
 
 (1) Die Ausbildung dauert in Vollzeit zweieinhalb Jahre. Sie umfasst
 
@@ -167,11 +172,11 @@ b) einen Hauptschulabschluss oder einen anderen als gleichwertig anerkannten Abs
 
 (4) Über die Genehmigung nach Absatz 3 entscheidet die zuständige Behörde des Landes, in dem die Ausbildung durchgeführt wird oder entsprechend dem Antrag durchgeführt werden soll, in Abstimmung mit der Schule oder, sofern eine Verlängerung der praktischen Ausbildung erforderlich ist, mit dem Träger der praktischen Ausbildung; § 24 Absatz 2 bleibt unberührt. Beabsichtigt die zuständige Behörde, dem Antrag nicht stattzugeben, so ist die oder der Auszubildende vor der Entscheidung anzuhören.
 
-##### § 12 Verkürzung der Ausbildungsdauer durch Anrechnung gleichwertiger Ausbildungen
+###### § 12 Verkürzung der Ausbildungsdauer durch Anrechnung gleichwertiger Ausbildungen
 
 Die zuständige Behörde kann auf Antrag eine erfolgreich abgeschlossene Ausbildung oder erfolgreich abgeschlossene Teile einer Ausbildung oder erfolgreich abgeschlossene Teile eines Studiums der Pharmazie oder einer anderen naturwissenschaftlichen Fachrichtung im Umfang ihrer Gleichwertigkeit auf die Dauer der Ausbildung zur pharmazeutisch-technischen Assistentin oder zum pharmazeutisch-technischen Assistenten anrechnen, wenn die Erreichung des Ausbildungsziels dadurch nicht gefährdet wird.
 
-##### § 13 Anrechnung von Fehlzeiten
+###### § 13 Anrechnung von Fehlzeiten
 
 (1) Auf die Dauer der Ausbildung werden angerechnet:
 
@@ -189,7 +194,7 @@ b) bis zu 10 Prozent der Stunden der praktischen Ausbildung nach Maßgabe der Au
 
 (3) Freistellungsansprüche nach dem Betriebsverfassungsgesetz, dem Bundespersonalvertretungsgesetz oder den Landespersonalvertretungsgesetzen bleiben unberührt.
 
-##### § 14 Staatliche Prüfung
+###### § 14 Staatliche Prüfung
 
 (1) Die Ausbildung schließt mit der staatlichen Prüfung ab.
 
@@ -197,13 +202,13 @@ b) bis zu 10 Prozent der Stunden der praktischen Ausbildung nach Maßgabe der Au
 
 (3) Nicht bestandene Teile der staatlichen Prüfung kann die zu prüfende Person bis zu zweimal wiederholen.
 
-##### § 15 Schulische Ausbildung
+###### § 15 Schulische Ausbildung
 
 (1) Die schulische Ausbildung wird an einer staatlichen, staatlich genehmigten oder staatlich anerkannten Schule durchgeführt. Die schulische Ausbildung umfasst theoretischen und praktischen Unterricht.
 
 (2) Die staatliche Genehmigung oder Anerkennung der Schule erfolgt durch die zuständige Behörde.
 
-##### § 16 Mindestanforderungen an die Schulen
+###### § 16 Mindestanforderungen an die Schulen
 
 (1) Die Schulen müssen eine ordnungsgemäße schulische Ausbildung sicherstellen. Sie müssen folgende Anforderungen erfüllen:
 
@@ -219,7 +224,7 @@ b) bis zu 10 Prozent der Stunden der praktischen Ausbildung nach Maßgabe der Au
 
 (3) Die Länder können durch Landesrecht das Nähere zu den Anforderungen der Anerkennung bestimmen und darüber hinausgehende Anforderungen festlegen.
 
-##### § 17 Praktische Ausbildung
+###### § 17 Praktische Ausbildung
 
 (1) Die praktische Ausbildung nach § 11 Absatz 1 Satz 2 Nummer 4 dürfen nur Auszubildende absolvieren, die den ersten Abschnitt der staatlichen Prüfung bestanden haben.
 
@@ -245,7 +250,7 @@ Die Länder können befristet bis zum 31. Dezember 2030 von Satz 4 abweichende R
 
 ## Abschnitt 4 Ausbildungsverhältnis während der praktischen Ausbildung
 
-##### § 18 Ausbildungsvertrag
+###### § 18 Ausbildungsvertrag
 
 (1) Zwischen dem Träger der praktischen Ausbildung und der oder dem Auszubildenden ist für die Durchführung der praktischen Ausbildung ein Ausbildungsvertrag zu schließen. Der Abschluss und jede Änderung des Ausbildungsvertrages bedürfen der Schriftform. Die schriftliche Form kann nicht durch die elektronische Form ersetzt werden.
 
@@ -281,7 +286,7 @@ Die Länder können befristet bis zum 31. Dezember 2030 von Satz 4 abweichende R
 
 (6) Auf den Ausbildungsvertrag sind, soweit sich aus seinem Wesen und Zweck sowie aus diesem Gesetz nichts anderes ergibt, die für den Arbeitsvertrag geltenden Rechtsvorschriften und Rechtsgrundsätze anzuwenden.
 
-##### § 19 Pflichten der Träger der praktischen Ausbildung
+###### § 19 Pflichten der Träger der praktischen Ausbildung
 
 (1) Der Träger der praktischen Ausbildung hat, im Fall des § 17 Absatz 2 Satz 2 Nummer 2 im Einvernehmen mit der Apothekenleiterin oder dem Apothekenleiter, die praktische Ausbildung in einer durch ihren Zweck gebotenen Form planmäßig sowie zeitlich und sachlich gegliedert so durchzuführen oder durchführen zu lassen, dass das Ziel der praktischen Ausbildung in der vorgesehenen Zeit erreicht werden kann. Bei Beachtung der Richtlinien nach § 17 Absatz 5 ist insoweit von einer ordnungsgemäßen praktischen Ausbildung auszugehen.
 
@@ -293,7 +298,7 @@ Die Länder können befristet bis zum 31. Dezember 2030 von Satz 4 abweichende R
 
 (5) Der Träger der praktischen Ausbildung darf, im Fall des § 17 Absatz 2 Satz 2 Nummer 2 im Einvernehmen mit der Apothekenleiterin oder dem Apothekenleiter, der oder dem Auszubildenden nur Aufgaben übertragen, die dem Ausbildungsziel und ihrem oder seinem Ausbildungsstand entsprechen. Die übertragenen Aufgaben sollen den physischen und psychischen Kräften der oder des Auszubildenden angemessen sein.
 
-##### § 20 Pflichten der oder des Auszubildenden
+###### § 20 Pflichten der oder des Auszubildenden
 
 (1) Die oder der Auszubildende hat sich zu bemühen, das Ausbildungsziel zu erreichen.
 
@@ -307,7 +312,7 @@ Die Länder können befristet bis zum 31. Dezember 2030 von Satz 4 abweichende R
 
 4. den vorgeschriebenen Ausbildungsnachweis zu führen.
 
-##### § 21 Ausbildungsvergütung; Überstunden und ihre Vergütung
+###### § 21 Ausbildungsvergütung; Überstunden und ihre Vergütung
 
 (1) Der Träger der praktischen Ausbildung hat der oder dem Auszubildenden eine angemessene monatliche Ausbildungsvergütung zu gewähren. Die Vergütung ist während der gesamten praktischen Ausbildung zu zahlen.
 
@@ -315,7 +320,7 @@ Die Länder können befristet bis zum 31. Dezember 2030 von Satz 4 abweichende R
 
 (3) Der oder dem Auszubildenden ist die Vergütung bis zur Dauer von sechs Wochen auch dann zu zahlen, wenn sie oder er die Pflichten aus dem Ausbildungsverhältnis aus Gründen, die sie oder er nicht zu vertreten hat, nicht erfüllen kann.
 
-##### § 22 Sachbezüge
+###### § 22 Sachbezüge
 
 (1) Auf die Ausbildungsvergütung können Sachbezüge angerechnet werden. Maßgeblich für die Bestimmung der Werte der Sachbezüge sind die Werte, die in der Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt in der jeweils geltenden Fassung bestimmt sind.
 
@@ -323,13 +328,13 @@ Die Länder können befristet bis zum 31. Dezember 2030 von Satz 4 abweichende R
 
 (3) Kann die oder der Auszubildende aus berechtigtem Grund Sachbezüge nicht abnehmen, so ist der Wert für diese Sachbezüge nach den Sachbezugswerten auszuzahlen.
 
-##### § 23 Probezeit
+###### § 23 Probezeit
 
 (1) Die ersten vier Wochen des Ausbildungsverhältnisses sind die Probezeit.
 
 (2) Die Dauer der Probezeit kann von Absatz 1 abweichen, sofern sich aus tarifvertraglichen Regelungen eine andere Dauer ergibt.
 
-##### § 24 Ende des Ausbildungsverhältnisses
+###### § 24 Ende des Ausbildungsverhältnisses
 
 (1) Das Ausbildungsverhältnis endet unabhängig vom Zeitpunkt des zweiten Abschnitts der staatlichen Prüfung mit Ablauf der Zeit der praktischen Ausbildung.
 
@@ -341,7 +346,7 @@ Die Länder können befristet bis zum 31. Dezember 2030 von Satz 4 abweichende R
 
 Das Ausbildungsverhältnis verlängert sich bis zum Termin der nächstmöglichen staatlichen Prüfung.
 
-##### § 25 Kündigung des Ausbildungsverhältnisses
+###### § 25 Kündigung des Ausbildungsverhältnisses
 
 (1) Während der Probezeit kann das Ausbildungsverhältnis von jedem Vertragspartner jederzeit ohne Einhalten einer Kündigungsfrist gekündigt werden.
 
@@ -361,11 +366,11 @@ In diesen Fällen ist die Kündigung zu begründen.
 
 (5) Eine Kündigung aus einem sonstigen wichtigen Grund ist unwirksam, wenn die Tatsachen, die der Kündigung zugrunde liegen, der kündigungsberechtigten Person länger als 14 Tage bekannt sind. Ist ein vorgesehenes Güteverfahren vor einer außergerichtlichen Stelle eingeleitet, so wird bis zu dessen Beendigung der Lauf der Frist nach Satz 1 gehemmt.
 
-##### § 26 Beschäftigung im Anschluss an das Ausbildungsverhältnis
+###### § 26 Beschäftigung im Anschluss an das Ausbildungsverhältnis
 
 Wird die oder der Auszubildende im Anschluss an das Ausbildungsverhältnis beschäftigt, ohne dass hierüber ausdrücklich etwas vereinbart worden ist, so gilt ein Arbeitsverhältnis auf unbestimmte Zeit als begründet.
 
-##### § 27 Nichtigkeit von Vereinbarungen
+###### § 27 Nichtigkeit von Vereinbarungen
 
 (1) Eine Vereinbarung, die zu Ungunsten der oder des Auszubildenden von den §§ 18 bis 26 abweicht, ist nichtig.
 
@@ -383,7 +388,7 @@ Wird die oder der Auszubildende im Anschluss an das Ausbildungsverhältnis besch
 
 ## Abschnitt 5 Anerkennung im Ausland erworbener Berufsqualifikationen
 
-##### § 28 Anforderungen an die Anerkennung einer außerhalb des Geltungsbereichs dieses Gesetzes abgeschlossenen Ausbildung
+###### § 28 Anforderungen an die Anerkennung einer außerhalb des Geltungsbereichs dieses Gesetzes abgeschlossenen Ausbildung
 
 (1) Eine außerhalb des Geltungsbereichs dieses Gesetzes erworbene Berufsqualifikation wird anerkannt, wenn
 
@@ -397,11 +402,11 @@ Wird die oder der Auszubildende im Anschluss an das Ausbildungsverhältnis besch
 
 (4) Auf Antrag ist der antragstellenden Person ein gesonderter Bescheid über die Feststellung der Gleichwertigkeit ihrer Berufsqualifikation zu erteilen.
 
-##### § 29 Nichtanwendbarkeit des Berufsqualifikationsfeststellungsgesetzes
+###### § 29 Nichtanwendbarkeit des Berufsqualifikationsfeststellungsgesetzes
 
 Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des § 17 des Berufsqualifikationsfeststellungsgesetzes keine Anwendung.
 
-##### § 30 Begriffsbestimmungen zu den ausländischen Staaten
+###### § 30 Begriffsbestimmungen zu den ausländischen Staaten
 
 (1) Mitgliedstaat im Sinne dieses Gesetzes ist ein Mitgliedstaat der Europäischen Union. Andere Mitgliedstaaten sind alle Mitgliedstaaten außer der Bundesrepublik Deutschland.
 
@@ -415,7 +420,7 @@ Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des § 17 des Be
 
 (6) Aufnahmestaat ist der andere Mitgliedstaat, der andere Vertragsstaat oder der gleichgestellte Staat, in dem eine pharmazeutisch-technische Assistentin oder ein pharmazeutisch-technischer Assistent niedergelassen ist oder Dienstleistungen erbringt.
 
-##### § 31 Ausbildungsnachweise bei Berufsqualifikationen, die in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat abgeschlossen worden sind
+###### § 31 Ausbildungsnachweise bei Berufsqualifikationen, die in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat abgeschlossen worden sind
 
 (1) Bei einer Berufsqualifikation, die in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat abgeschlossen worden ist, soll die Überprüfung der Gleichwertigkeit der Berufsqualifikation nur aufgrund der folgenden Ausbildungsnachweise erfolgen:
 
@@ -445,7 +450,7 @@ c) in Bezug auf die Aufnahme oder Ausübung des Berufs der pharmazeutisch-techni
 
 2. Berufsqualifikationen, die zwar nicht den Erfordernissen der Rechts- oder Verwaltungsvorschriften des Herkunftsstaates für die Aufnahme oder Ausübung des Berufs der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten entsprechen, ihrer Inhaberin oder ihrem Inhaber jedoch Rechte verleihen, die nach dem Recht des Herkunftsstaates erworben worden sind.
 
-##### § 32 Ausbildungsnachweise bei Ausbildungen, die in einem Drittstaat abgeschlossen worden sind
+###### § 32 Ausbildungsnachweise bei Ausbildungen, die in einem Drittstaat abgeschlossen worden sind
 
 (1) Bei einer Berufsqualifikation, die in einem Drittstaat, der kein gleichgestellter Staat ist, abgeschlossen worden ist, sind die Ausbildungsnachweise vorzulegen, die
 
@@ -457,7 +462,7 @@ c) in Bezug auf die Aufnahme oder Ausübung des Berufs der pharmazeutisch-techni
 
 (3) Ist die Gleichwertigkeit der Berufsqualifikation bereits in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat anerkannt worden, so ist die entsprechende Bescheinigung vorzulegen.
 
-##### § 33 Gleichwertigkeit der Berufsqualifikation
+###### § 33 Gleichwertigkeit der Berufsqualifikation
 
 Eine Berufsqualifikation, die außerhalb des Geltungsbereichs dieses Gesetzes abgeschlossen worden ist, ist gleichwertig mit der in diesem Gesetz geregelten Ausbildung zur pharmazeutisch-technischen Assistentin oder zum pharmazeutisch-technischen Assistenten, wenn
 
@@ -465,7 +470,7 @@ Eine Berufsqualifikation, die außerhalb des Geltungsbereichs dieses Gesetzes ab
 
 2. wesentliche Unterschiede vollständig durch den Nachweis von Kenntnissen, Fähigkeiten und Kompetenzen aufgrund von Berufserfahrung oder von lebenslangem Lernen ausgeglichen werden.
 
-##### § 34 Wesentliche Unterschiede bei der Berufsqualifikation
+###### § 34 Wesentliche Unterschiede bei der Berufsqualifikation
 
 (1) Wesentliche Unterschiede liegen vor,
 
@@ -475,7 +480,7 @@ Eine Berufsqualifikation, die außerhalb des Geltungsbereichs dieses Gesetzes ab
 
 (2) Die inhaltlichen wesentlichen Abweichungen nach Absatz 1 müssen sich auf Themenbereiche oder berufspraktische Bestandteile beziehen, deren Kenntnisse, Fähigkeiten und Kompetenzen eine wesentliche Voraussetzung für die Ausübung des Berufs der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten im Geltungsbereich dieses Gesetzes sind.
 
-##### § 35 Ausgleich durch Berufserfahrung oder durch lebenslanges Lernen
+###### § 35 Ausgleich durch Berufserfahrung oder durch lebenslanges Lernen
 
 (1) Wesentliche Unterschiede können vollständig oder teilweise ausgeglichen werden durch Kenntnisse, Fähigkeiten und Kompetenzen, die die antragstellende Person erworben hat
 
@@ -487,13 +492,13 @@ Eine Berufsqualifikation, die außerhalb des Geltungsbereichs dieses Gesetzes ab
 
 (3) Für die Anerkennung ist nicht entscheidend, in welchem Staat die jeweiligen Kenntnisse, Fähigkeiten und Kompetenzen erworben worden sind.
 
-##### § 36 Anpassungsmaßnahmen
+###### § 36 Anpassungsmaßnahmen
 
 (1) Ist die Berufsqualifikation der antragstellenden Person nicht mit der in diesem Gesetz geregelten Berufsqualifikation gleichwertig, so ist für eine Anerkennung eine Anpassungsmaßnahme durchzuführen.
 
 (2) Dies gilt auch für den Fall, dass die Gleichwertigkeit der Berufsqualifikation nur mit einem unangemessenen zeitlichen oder sachlichen Aufwand festgestellt werden kann, da die antragstellende Person die erforderlichen Unterlagen oder Ausbildungsnachweise aus Gründen, die nicht in der antragstellenden Person liegen, nicht vorlegen kann.
 
-##### § 37 Anerkennung der Berufsqualifikation nach Eignungsprüfung oder Anpassungslehrgang
+###### § 37 Anerkennung der Berufsqualifikation nach Eignungsprüfung oder Anpassungslehrgang
 
 (1) Als Anpassungsmaßnahme ist eine Eignungsprüfung oder ein Anpassungslehrgang erforderlich, wenn die antragstellende Person
 
@@ -509,7 +514,7 @@ b) bereits in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder i
 
 (3) Verfügt eine antragstellende Person über einen Ausbildungsnachweis, der dem in Artikel 11 Buchstabe a der Richtlinie 2005/36/EG genannten Niveau entspricht, so muss sie eine Eignungsprüfung ablegen.
 
-##### § 38 Anerkennung der Berufsqualifikation nach Kenntnisprüfung oder Anpassungslehrgang
+###### § 38 Anerkennung der Berufsqualifikation nach Kenntnisprüfung oder Anpassungslehrgang
 
 (1) Als Anpassungsmaßnahme ist eine Kenntnisprüfung oder ein Anpassungslehrgang erforderlich, wenn die antragstellende Person eine Berufsqualifikation nachweist, die
 
@@ -523,19 +528,19 @@ b) bereits in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder i
 
 (4) Ist die Prüfung nach Absatz 3 bestanden worden, so wird die Berufsqualifikation anerkannt.
 
-##### § 39 Eignungsprüfung
+###### § 39 Eignungsprüfung
 
 (1) Die Eignungsprüfung erstreckt sich auf die wesentlichen Unterschiede, die zuvor bei der antragstellenden Person festgestellt worden sind.
 
 (2) Ist die Eignungsprüfung erfolgreich abgelegt worden, so wird die Berufsqualifikation anerkannt.
 
-##### § 40 Kenntnisprüfung
+###### § 40 Kenntnisprüfung
 
 (1) Die Kenntnisprüfung erstreckt sich auf den Inhalt der staatlichen Prüfung.
 
 (2) Ist die Kenntnisprüfung erfolgreich abgelegt worden, so wird die Berufsqualifikation anerkannt.
 
-##### § 41 Anpassungslehrgang
+###### § 41 Anpassungslehrgang
 
 (1) Den Inhalt und Umfang des Anpassungslehrgangs regelt die auf der Grundlage des § 56 erlassene Ausbildungs- und Prüfungsverordnung.
 
@@ -547,11 +552,11 @@ b) bereits in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder i
 
 ## Abschnitt 6 Dienstleistungserbringung
 
-##### § 42 Dienstleistungserbringung
+###### § 42 Dienstleistungserbringung
 
 Eine Staatsangehörige oder ein Staatsangehöriger eines anderen Mitgliedstaates, eines anderen Vertragsstaates oder eines gleichgestellten Staates darf als dienstleistungserbringende Person im Rahmen vorübergehender und gelegentlicher Dienstleistungen im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union (ABl. C 326 vom 26.10.2012, S. 47) den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten ausüben, wenn sie oder er zur Dienstleistung berechtigt ist.
 
-##### § 43 Meldung der Dienstleistungserbringung
+###### § 43 Meldung der Dienstleistungserbringung
 
 (1) Wer beabsichtigt, in Deutschland als dienstleistungserbringende Person tätig zu sein, ist verpflichtet, dies der in Deutschland zuständigen Behörde vorab schriftlich zu melden.
 
@@ -579,7 +584,7 @@ b) keine Vorstrafen der meldenden Person vorliegen.
 
 (4) (weggefallen)
 
-##### § 44 Berechtigung zur Dienstleistungserbringung
+###### § 44 Berechtigung zur Dienstleistungserbringung
 
 Zur Dienstleistungserbringung ist nur berechtigt, wer
 
@@ -597,7 +602,7 @@ b) die Ausübung des Berufs oder die Ausbildung zu dem Beruf, der dem Beruf, in 
 
 5. über Kenntnisse der deutschen Sprache verfügt, die zur Berufsausübung erforderlich sind.
 
-##### § 45 Zur Dienstleistungserbringung berechtigende Berufsqualifikation
+###### § 45 Zur Dienstleistungserbringung berechtigende Berufsqualifikation
 
 (1) Zur Dienstleistungserbringung berechtigen folgende Berufsqualifikationen:
 
@@ -617,7 +622,7 @@ c) entweder nach den §§ 33 bis 35 mit der in diesem Gesetz geregelten Ausbildu
 
 (4) Ist die Eignungsprüfung erfolgreich abgelegt worden, so berechtigt die Berufsqualifikation der meldenden Person zur Dienstleistungserbringung.
 
-##### § 46 Überprüfen der Berechtigung zur Dienstleistungserbringung
+###### § 46 Überprüfen der Berechtigung zur Dienstleistungserbringung
 
 (1) Die zuständige Behörde überprüft, ob die meldende Person berechtigt ist, in Deutschland die Tätigkeit der pharmazeutisch-technischen Assistentin oder des pharmazeutisch-technischen Assistenten als dienstleistungserbringende Person vorübergehend und gelegentlich auszuüben.
 
@@ -627,7 +632,7 @@ c) entweder nach den §§ 33 bis 35 mit der in diesem Gesetz geregelten Ausbildu
 
 (4) (weggefallen)
 
-##### § 47 Rechte und Pflichten der dienstleistungserbringenden Person
+###### § 47 Rechte und Pflichten der dienstleistungserbringenden Person
 
 (1) Ist eine Person berechtigt, den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten als dienstleistungserbringende Person vorübergehend und gelegentlich auszuüben, so hat sie beim Erbringen der Dienstleistung in Deutschland die gleichen Rechte und Pflichten wie Personen mit einer Erlaubnis zum Führen der Berufsbezeichnung nach § 1.
 
@@ -647,13 +652,13 @@ c) entweder nach den §§ 33 bis 35 mit der in diesem Gesetz geregelten Ausbildu
 
 Die Änderungsmeldung ist der zuständigen Behörde des Landes zu machen, in dem die Dienstleistung erbracht wird.
 
-##### § 48 Pflicht zur erneuten Meldung
+###### § 48 Pflicht zur erneuten Meldung
 
 (1) Beabsichtigt die dienstleistungserbringende Person nach Ablauf eines Jahres nach der letzten Meldung erneut, vorübergehend und gelegentlich Dienstleistungen im Geltungsbereich dieses Gesetzes zu erbringen, ist die Meldung zu erneuern.
 
 (2) Die erneute Meldung ist der zuständigen Behörde des Landes zu machen, in dem die Dienstleistung erbracht werden soll.
 
-##### § 49 Bescheinigung, die erforderlich ist zur Dienstleistungserbringung in einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder in einem gleichgestellten Staat
+###### § 49 Bescheinigung, die erforderlich ist zur Dienstleistungserbringung in einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder in einem gleichgestellten Staat
 
 (1) Üben deutsche Staatsangehörige oder Staatsangehörige eines anderen Mitgliedstaates, eines anderen Vertragsstaates oder eines gleichgestellten Staates den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten in Deutschland aufgrund einer Erlaubnis zum Führen der Berufsbezeichnung nach § 1 aus, so wird ihnen auf Antrag eine Bescheinigung von der zuständigen Behörde ausgestellt, damit sie die Möglichkeit haben, in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat ihren Beruf als dienstleistungserbringende Person im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union vorübergehend und gelegentlich auszuüben.
 
@@ -669,7 +674,7 @@ Die Änderungsmeldung ist der zuständigen Behörde des Landes zu machen, in dem
 
 ## Abschnitt 7 Zuständigkeiten und Zusammenarbeit der Behörden
 
-##### § 50 Zuständige Behörden
+###### § 50 Zuständige Behörden
 
 (1) Die Länder bestimmen die zur Durchführung dieses Gesetzes zuständigen Behörden.
 
@@ -679,7 +684,7 @@ Die Änderungsmeldung ist der zuständigen Behörde des Landes zu machen, in dem
 
 2. Aufgaben bei der Entgegennahme der Meldung zur Dienstleistungserbringung und Aufgaben bei der Überprüfung, ob eine Person in Deutschland berechtigt ist, den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten als dienstleistungserbringende Person im Rahmen vorübergehender und gelegentlicher Dienstleistungen im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union auszuüben.
 
-##### § 51 Unterrichtungs- und Überprüfungspflichten
+###### § 51 Unterrichtungs- und Überprüfungspflichten
 
 (1) Die zuständige Behörde des Landes, in dem eine Person den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten ausübt oder zuletzt ausgeübt hat, unterrichtet die zuständigen Behörden des Herkunftsstaates unverzüglich, wenn
 
@@ -715,7 +720,7 @@ Das Bundesministerium für Gesundheit unterrichtet die anderen Mitgliedstaaten u
 
 (4) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden und Stellen übermitteln dem Bundesministerium für Gesundheit statistische Aufstellungen über die getroffenen Entscheidungen, die die Europäische Kommission für den nach Artikel 60 Absatz 2 der Richtlinie 2005/36/EG erforderlichen Bericht benötigt. Das Bundesministerium für Gesundheit leitet die ihm übermittelten statistischen Aufstellungen an die Europäische Kommission weiter.
 
-##### § 52 Warnmitteilung
+###### § 52 Warnmitteilung
 
 (1) Die zuständige Behörde eines Landes unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und der gleichgestellten Staaten durch eine Warnmitteilung über
 
@@ -753,11 +758,11 @@ c) Geburtsort,
 
 (5) Gleichzeitig mit der Warnmitteilung unterrichtet die Behörde, die die Warnmitteilung getätigt hat, die betroffene Person schriftlich über die Warnmitteilung und deren Inhalt. Der Unterrichtung hat sie eine Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf gegen die Warnmitteilung eingelegt, so ergänzt die Behörde, die die Warnmitteilung getätigt hat, die Warnmitteilung um einen entsprechenden Hinweis.
 
-##### § 53 Löschung einer Warnmitteilung
+###### § 53 Löschung einer Warnmitteilung
 
 Ist die Entscheidung, die die Warnmitteilung ausgelöst hat, aufgehoben worden, so löscht die Behörde, die die Warnmitteilung getätigt hat, die entsprechende Warnmitteilung im Binnenmarkt-Informationssystem unverzüglich, spätestens jedoch drei Tage nach der Aufhebung der Entscheidung.
 
-##### § 54 Unterrichtung über gefälschte Berufsqualifikationsnachweise
+###### § 54 Unterrichtung über gefälschte Berufsqualifikationsnachweise
 
 (1) Wird gerichtlich festgestellt, dass eine Person bei ihrem Antrag auf Erteilung der Erlaubnis zum Führen der Berufsbezeichnung oder auf Anerkennung der Gleichwertigkeit einer außerhalb des Geltungsbereichs dieses Gesetzes abgeschlossenen Ausbildung gefälschte Ausbildungsnachweise vorgelegt hat, so unterrichtet die zuständige Behörde die zuständigen Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und der gleichgestellten Staaten über
 
@@ -777,7 +782,7 @@ c) Geburtsort und
 
 (4) Gleichzeitig mit der Unterrichtung über die Fälschung unterrichtet die Behörde, die die Unterrichtung über die Fälschung vorgenommen hat, die betroffene Person schriftlich über die Unterrichtung über die Fälschung und deren Inhalt. Der Unterrichtung hat sie eine Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf gegen die Unterrichtung über die Fälschung eingelegt, so ergänzt die Behörde, die die Unterrichtung über die Fälschung getätigt hat, die Unterrichtung über die Fälschung um einen entsprechenden Hinweis.
 
-##### § 55 Verwaltungszusammenarbeit bei Dienstleistungserbringung
+###### § 55 Verwaltungszusammenarbeit bei Dienstleistungserbringung
 
 (1) Übt eine dienstleistungserbringende Person im Geltungsbereich dieses Gesetzes den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten aus oder führt sie diese Berufsbezeichnung, ohne dass die Voraussetzungen dafür vorliegen, so unterrichtet die zuständige Behörde unverzüglich die zuständige Behörde des Niederlassungsstaates dieser dienstleistungserbringenden Person über den Verstoß.
 
@@ -797,7 +802,7 @@ c) Geburtsort und
 
 ## Abschnitt 8 Verordnungsermächtigung
 
-##### § 56 Ermächtigung zum Erlass der Ausbildungs- und Prüfungsverordnung
+###### § 56 Ermächtigung zum Erlass der Ausbildungs- und Prüfungsverordnung
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, in einer Ausbildungs- und Prüfungsverordnung das Nähere zu regeln über
 
@@ -831,7 +836,7 @@ b) zu den Ermittlungen durch die zuständige Behörde entsprechend Artikel 50 Ab
 
 ## Abschnitt 9 Bußgeldvorschriften
 
-##### § 57 Bußgeldvorschriften
+###### § 57 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -843,7 +848,7 @@ b) zu den Ermittlungen durch die zuständige Behörde entsprechend Artikel 50 Ab
 
 ## Abschnitt 10 Übergangsvorschriften
 
-##### § 58 Übergangsvorschriften für die Mindestanforderungen an Schulen
+###### § 58 Übergangsvorschriften für die Mindestanforderungen an Schulen
 
 (1) Die Voraussetzungen des § 16 Absatz 1 Satz 2 Nummer 1 und 2 gelten als erfüllt, wenn als Schulleitung oder als Lehrkräfte Personen eingesetzt werden, die am 1. Januar 2023
 
@@ -855,15 +860,15 @@ b) zu den Ermittlungen durch die zuständige Behörde entsprechend Artikel 50 Ab
 
 (2) Die Schule hat der zuständigen Behörde bis zum 1. Januar 2030 nachzuweisen, dass sie die in § 16 genannten Anforderungen erfüllt. Die Voraussetzungen des § 16 Absatz 1 Satz 2 Nummer 1 und 2 gelten als erfüllt, wenn als Schulleitung oder als Lehrkräfte Personen eingesetzt werden, die nach dem 1. Januar 2023 mindestens drei Jahre lang in der entsprechenden Position tätig gewesen sind.
 
-##### § 59 Weitergeltung der Erlaubnis zum Führen der Berufsbezeichnung
+###### § 59 Weitergeltung der Erlaubnis zum Führen der Berufsbezeichnung
 
 Eine Erlaubnis zum Führen der Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder „pharmazeutisch-technischer Assistent“, die vor dem 1. Januar 2023 nach den bis dahin geltenden Vorschriften erteilt wurde, gilt weiter. Die §§ 3 bis 5 bleiben unberührt.
 
-##### § 60 Weiterführung einer begonnenen Ausbildung
+###### § 60 Weiterführung einer begonnenen Ausbildung
 
 Wer vor dem 1. Januar 2023 eine Ausbildung zur pharmazeutisch-technischen Assistentin oder zum pharmazeutisch-technischen Assistenten begonnen hat, schließt diese Ausbildung nach den bis dahin geltenden Vorschriften ab. Bei erfolgreichem Abschluss erfüllt die Ausbildung die Voraussetzung nach § 2 Absatz 1 Nummer 1.
 
-##### § 61 Weitergeltung der Berechtigung zum Führen der Berufsbezeichnung und Weiterführung eines begonnenen Anerkennungsverfahrens
+###### § 61 Weitergeltung der Berechtigung zum Führen der Berufsbezeichnung und Weiterführung eines begonnenen Anerkennungsverfahrens
 
 Antragstellende Personen sind in Deutschland zum Führen der Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder „pharmazeutisch-technischer Assistent“ berechtigt, wenn in einem Anerkennungsverfahren zur Prüfung der Gleichwertigkeit ihrer Ausbildung, das vor dem 1. Januar 2023 begonnen wurde,
 
@@ -875,7 +880,6 @@ Antragstellende Personen sind in Deutschland zum Führen der Berufsbezeichnung �
 
 ## Abschnitt 11 Evaluierung
 
-##### § 62 Evaluierung
+###### § 62 Evaluierung
 
 Das Bundesministerium für Gesundheit evaluiert frühestens nach acht Jahren nach Inkrafttreten dieses Gesetzes die inhaltlichen Änderungen der Ausbildung und die Ausbildungsdauer.
-
