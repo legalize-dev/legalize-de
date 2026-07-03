@@ -4,9 +4,10 @@ identifier: "HEILMWERBG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1965-07-11"
-last_updated: "2026-04-04"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/heilmwerbg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR006049965"
 slug: "heilmwerbg"
@@ -14,10 +15,12 @@ bgbl_reference: "BGBl I 1965, 604"
 amtabk: "HWG"
 stand: "zuletzt geändert durch Art. 7 G v. 19.7.2023 I Nr. 197"
 neufassung: "Neugefasst durch Bek. v. 19.10.1994 I 3068;"
+hinweis: "Änderung durch Art. 5 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Gesetz über die Werbung auf dem Gebiete des Heilwesens
 
-## -
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
 
 ## -
 
@@ -59,3 +62,4 @@ neufassung: "Neugefasst durch Bek. v. 19.10.1994 I 3068;"
 
 ## -
 
+## -
