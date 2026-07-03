@@ -4,32 +4,37 @@ identifier: "IFSG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2000-07-20"
-last_updated: "2026-04-04"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/ifsg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR104510000"
 slug: "ifsg"
 bgbl_reference: "BGBl I 2000, 1045"
 stand: "Zuletzt geändert durch Art. 3 Abs. 1 G v. 4.3.2026 I Nr. 60"
+hinweis: "Änderung durch Art. 7 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
 
-**1. Abschnitt - Allgemeine Vorschriften** § 1Zweck des Gesetzes§ 1a(weggefallen)§ 2Begriffsbestimmungen§ 3Prävention durch Aufklärung **2. Abschnitt – Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen** § 4Aufgaben des Robert Koch-Instituts§ 5Epidemische Lage von nationaler Tragweite§ 5aAusübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung§ 5bSchutzmasken in der Nationalen Reserve Gesundheitsschutz§ 5cVerfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten **3. Abschnitt - Überwachung** § 6Meldepflichtige Krankheiten§ 7Meldepflichtige Nachweise von Krankheitserregern§ 8Zur Meldung verpflichtete Personen§ 9Namentliche Meldung§ 10Nichtnamentliche Meldung§ 11Übermittlung an die zuständige Landesbehörde und an das Robert Koch-Institut§ 12Übermittlungen und Mitteilungen auf Grund völker- und unionsrechtlicher Vorschriften§ 12a(weggefallen)§ 13Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung§ 14Elektronisches Melde- und Informationssystem; Verordnungsermächtigung§ 15Anpassung der Meldepflicht an die epidemische Lage§ 15aDurchführung der infektionshygienischen und hygienischen Überwachung **4. Abschnitt - Verhütung übertragbarer Krankheiten** § 16Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten§ 17Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung§ 18Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung§ 19Aufgaben des Gesundheitsamtes in besonderen Fällen§ 20Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe§ 20a(weggefallen)§ 20b(weggefallen)§ 20cDurchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch Apotheker§ 21Impfstoffe§ 22Impf-, Genesenen- und Testdokumentation§ 22aImpf-, Genesenen- und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung§ 23Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder§ 23aPersonenbezogene Daten über den Impf- und Serostatus von Beschäftigten **5. Abschnitt - Bekämpfung übertragbarer Krankheiten** § 24Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung§ 25Ermittlungen§ 26Teilnahme des behandelnden Arztes§ 27Gegenseitige Unterrichtung§ 28Schutzmaßnahmen§ 28aBesondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite§ 28bBesondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik§ 28cVerordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen§ 29Beobachtung§ 30Absonderung§ 31Berufliches Tätigkeitsverbot§ 32Erlass von Rechtsverordnungen **6. Abschnitt - Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen** § 33Gemeinschaftseinrichtungen§ 34Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes§ 35Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung§ 36Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung **7. Abschnitt - Wasser** § 37Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, Überwachung§ 38Verordnungsermächtigung§ 39Untersuchungen, Maßnahmen der zuständigen Behörde§ 40Aufgaben des Umweltbundesamtes§ 41Abwasser **8. Abschnitt - Gesundheitliche Anforderungen an das Personal beim Umgang mit Lebensmitteln** § 42Tätigkeits- und Beschäftigungsverbote§ 43Belehrung, Bescheinigung des Gesundheitsamtes **9. Abschnitt - Tätigkeiten mit Krankheitserregern** § 44Erlaubnispflicht für Tätigkeiten mit Krankheitserregern§ 45Ausnahmen§ 46Tätigkeit unter Aufsicht§ 47Versagungsgründe, Voraussetzungen für die Erlaubnis§ 48Rücknahme und Widerruf§ 49Anzeigepflichten§ 50Veränderungsanzeige§ 50aLaborcontainment und Ausrottung des Poliovirus; Verordnungsermächtigung§ 51Aufsicht§ 52Abgabe§ 53Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge§ 53aVerfahren über eine einheitliche Stelle, Entscheidungsfrist **10. Abschnitt - Vollzug des Gesetzes und zuständige Behörden** § 54Vollzug durch die Länder§ 54aVollzug durch die Bundeswehr§ 54bVollzug durch das Eisenbahn-Bundesamt **11. Abschnitt - Angleichung an Gemeinschaftsrecht** § 55Angleichung an Gemeinschaftsrecht **12. Abschnitt - Entschädigung in besonderen Fällen** § 56Entschädigung§ 57Verhältnis zur Sozialversicherung und zur Arbeitsförderung§ 58Aufwendungserstattung§ 59Arbeits- und sozialrechtliche Sondervorschriften§ 60(weggefallen)§ 61(weggefallen)§ 62(weggefallen)§ 63(weggefallen)§ 64(weggefallen)§ 65Entschädigung bei behördlichen Maßnahmen§ 66Zahlungsverpflichteter§ 67Pfändung **13. Abschnitt - Rechtsweg und Kosten** § 68Rechtsweg§ 69Kosten§§ 70 – 72(weggefallen) **14. Abschnitt - Straf- und Bußgeldvorschriften** § 73Bußgeldvorschriften§ 74Strafvorschriften§ 75Weitere Strafvorschriften§ 75aWeitere Strafvorschriften§ 76Einziehung **15. Abschnitt - Übergangsvorschriften** § 77Übergangsvorschriften
+###### Inhaltsübersicht
+
+**1. Abschnitt - Allgemeine Vorschriften** § 1Zweck des Gesetzes§ 1a(weggefallen)§ 2Begriffsbestimmungen§ 3Prävention durch Aufklärung **2. Abschnitt – Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen** § 4Aufgaben des Robert Koch-Instituts§ 5Epidemische Lage von nationaler Tragweite§ 5aAusübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung§ 5bSchutzmasken in der Nationalen Reserve Gesundheitsschutz§ 5cVerfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten **3. Abschnitt - Überwachung** § 6Meldepflichtige Krankheiten§ 7Meldepflichtige Nachweise von Krankheitserregern§ 8Zur Meldung verpflichtete Personen§ 9Namentliche Meldung§ 10Nichtnamentliche Meldung§ 11Übermittlung an die zuständige Landesbehörde und an das Robert Koch-Institut§ 12Übermittlungen und Mitteilungen auf Grund völker- und unionsrechtlicher Vorschriften§ 12a(weggefallen)§ 13Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung§ 14Elektronisches Melde- und Informationssystem; Verordnungsermächtigung§ 15Anpassung der Meldepflicht an die epidemische Lage§ 15aDurchführung der infektionshygienischen und hygienischen Überwachung **4. Abschnitt - Verhütung übertragbarer Krankheiten** § 16Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten§ 17Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung§ 18Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung§ 19Aufgaben des Gesundheitsamtes in besonderen Fällen§ 20Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe§ 20a(weggefallen)§ 20b(weggefallen)§ 20cDurchführung von Schutzimpfungen durch Apotheker§ 21Impfstoffe§ 22Impf-, Genesenen- und Testdokumentation§ 22aImpf-, Genesenen- und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung§ 23Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder§ 23aPersonenbezogene Daten über den Impf- und Serostatus von Beschäftigten **5. Abschnitt - Bekämpfung übertragbarer Krankheiten** § 24Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung§ 25Ermittlungen§ 26Teilnahme des behandelnden Arztes§ 27Gegenseitige Unterrichtung§ 28Schutzmaßnahmen§ 28aBesondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite§ 28bBesondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik§ 28cVerordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen§ 29Beobachtung§ 30Absonderung§ 31Berufliches Tätigkeitsverbot§ 32Erlass von Rechtsverordnungen **6. Abschnitt - Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen** § 33Gemeinschaftseinrichtungen§ 34Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes§ 35Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung§ 36Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung **7. Abschnitt - Wasser** § 37Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, Überwachung§ 38Verordnungsermächtigung§ 39Untersuchungen, Maßnahmen der zuständigen Behörde§ 40Aufgaben des Umweltbundesamtes§ 41Abwasser **8. Abschnitt - Gesundheitliche Anforderungen an das Personal beim Umgang mit Lebensmitteln** § 42Tätigkeits- und Beschäftigungsverbote§ 43Belehrung, Bescheinigung des Gesundheitsamtes **9. Abschnitt - Tätigkeiten mit Krankheitserregern** § 44Erlaubnispflicht für Tätigkeiten mit Krankheitserregern§ 45Ausnahmen§ 46Tätigkeit unter Aufsicht§ 47Versagungsgründe, Voraussetzungen für die Erlaubnis§ 48Rücknahme und Widerruf§ 49Anzeigepflichten§ 50Veränderungsanzeige§ 50aLaborcontainment und Ausrottung des Poliovirus; Verordnungsermächtigung§ 51Aufsicht§ 52Abgabe§ 53Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge§ 53aVerfahren über eine einheitliche Stelle, Entscheidungsfrist **10. Abschnitt - Vollzug des Gesetzes und zuständige Behörden** § 54Vollzug durch die Länder§ 54aVollzug durch die Bundeswehr§ 54bVollzug durch das Eisenbahn-Bundesamt **11. Abschnitt - Angleichung an Gemeinschaftsrecht** § 55Angleichung an Gemeinschaftsrecht **12. Abschnitt - Entschädigung in besonderen Fällen** § 56Entschädigung§ 57Verhältnis zur Sozialversicherung und zur Arbeitsförderung§ 58Aufwendungserstattung§ 59Arbeits- und sozialrechtliche Sondervorschriften§ 60(weggefallen)§ 61(weggefallen)§ 62(weggefallen)§ 63(weggefallen)§ 64(weggefallen)§ 65Entschädigung bei behördlichen Maßnahmen§ 66Zahlungsverpflichteter§ 67Pfändung **13. Abschnitt - Rechtsweg und Kosten** § 68Rechtsweg§ 69Kosten§§ 70 – 72(weggefallen) **14. Abschnitt - Straf- und Bußgeldvorschriften** § 73Bußgeldvorschriften§ 74Strafvorschriften§ 75Weitere Strafvorschriften§ 75aWeitere Strafvorschriften§ 76Einziehung **15. Abschnitt - Übergangsvorschriften** § 77Übergangsvorschriften
 
 ## 1. Abschnitt Allgemeine Vorschriften
 
-##### § 1 Zweck des Gesetzes
+###### § 1 Zweck des Gesetzes
 
 (1) Zweck des Gesetzes ist es, übertragbaren Krankheiten beim Menschen vorzubeugen, Infektionen frühzeitig zu erkennen und ihre Weiterverbreitung zu verhindern.
 
 (2) Die hierfür notwendige Mitwirkung und Zusammenarbeit von Behörden des Bundes, der Länder und der Kommunen, Ärzten, Tierärzten, Krankenhäusern, wissenschaftlichen Einrichtungen sowie sonstigen Beteiligten soll entsprechend dem jeweiligen Stand der medizinischen und epidemiologischen Wissenschaft und Technik gestaltet und unterstützt werden. Die Eigenverantwortung der Träger und Leiter von Gemeinschaftseinrichtungen, Lebensmittelbetrieben, Gesundheitseinrichtungen sowie des Einzelnen bei der Prävention übertragbarer Krankheiten soll verdeutlicht und gefördert werden.
 
-##### § 1a (weggefallen)
+###### § 1a (weggefallen)
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist
 
@@ -85,13 +90,13 @@ c) sofern das Unternehmen von einer einzelnen natürlichen Person betrieben wird
 
 17. Risikogebiet ein Gebiet außerhalb der Bundesrepublik Deutschland, für das vom Bundesministerium für Gesundheit im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium des Innern, für Bau und Heimat ein erhöhtes Risiko für eine Infektion mit einer bestimmten bedrohlichen übertragbaren Krankheit festgestellt wurde; die Einstufung als Risikogebiet erfolgt erst mit Ablauf des ersten Tages nach Veröffentlichung der Feststellung durch das Robert Koch-Institut im Internet unter der Adresse https://www.rki.de/risikogebiete.
 
-##### § 3 Prävention durch Aufklärung
+###### § 3 Prävention durch Aufklärung
 
 Die Information und Aufklärung der Allgemeinheit über die Gefahren übertragbarer Krankheiten und die Möglichkeiten zu deren Verhütung sind eine öffentliche Aufgabe. Insbesondere haben die nach Landesrecht zuständigen Stellen über Möglichkeiten des allgemeinen und individuellen Infektionsschutzes sowie über Beratungs-, Betreuungs- und Versorgungsangebote zu informieren.
 
 ## 2. Abschnitt Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen
 
-##### § 4 Aufgaben des Robert Koch-Institutes
+###### § 4 Aufgaben des Robert Koch-Institutes
 
 (1) Das Robert Koch-Institut ist die nationale Behörde zur Vorbeugung übertragbarer Krankheiten sowie zur frühzeitigen Erkennung und Verhinderung der Weiterverbreitung von Infektionen. Dies schließt die Entwicklung und Durchführung epidemiologischer und laborgestützter Analysen sowie Forschung zu Ursache, Diagnostik und Prävention übertragbarer Krankheiten ein. Es arbeitet mit den jeweils zuständigen Bundesbehörden, den zuständigen Landesbehörden, den nationalen Referenzzentren, weiteren wissenschaftlichen Einrichtungen und Fachgesellschaften zusammen. Auf dem Gebiet der Zoonosen und mikrobiell bedingten Lebensmittelvergiftungen sind das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit, das Bundesinstitut für Risikobewertung, sofern es sich um Aufgaben der Risikobewertung handelt, und das Friedrich-Loeffler-Institut zu beteiligen. Auf Ersuchen der zuständigen obersten Landesgesundheitsbehörde kann das Robert Koch-Institut den zuständigen Stellen bei Maßnahmen zur Überwachung, Verhütung und Bekämpfung von bedrohlichen übertragbaren Krankheiten, auf Ersuchen mehrerer zuständiger oberster Landesgesundheitsbehörden auch länderübergreifend, Amtshilfe leisten. Soweit es zur Erfüllung dieser Amtshilfe erforderlich ist, darf es personenbezogene Daten verarbeiten. Beim Robert Koch-Institut wird eine Kontaktstelle für den öffentlichen Gesundheitsdienst der Länder eingerichtet, die die Amtshilfe nach Satz 5 und die Zusammenarbeit mit den zuständigen Landesbehörden und die Zusammenarbeit bei der Umsetzung des elektronischen Melde- und Informationssystems nach § 14 innerhalb der vom gemeinsamen Planungsrat nach § 14 Absatz 1 Satz 8 getroffenen Leitlinien koordiniert.
 
@@ -129,7 +134,7 @@ i) der Deutschen Krankenhausgesellschaft,
 
 (3) Das Robert Koch-Institut arbeitet zu den in § 1 Absatz 1 genannten Zwecken mit ausländischen Stellen und supranationalen Organisationen sowie mit der Weltgesundheitsorganisation und anderen internationalen Organisationen zusammen. Im Rahmen dieser Zusammenarbeit stärkt es deren Fähigkeiten, insbesondere einer möglichen grenzüberschreitenden Ausbreitung von übertragbaren Krankheiten vorzubeugen, entsprechende Gefahren frühzeitig zu erkennen und Maßnahmen zur Verhinderung einer möglichen grenzüberschreitenden Weiterverbreitung einzuleiten. Die Zusammenarbeit kann insbesondere eine dauerhafte wissenschaftliche Zusammenarbeit mit Einrichtungen in Partnerstaaten, die Ausbildung von Personal der Partnerstaaten sowie Unterstützungsleistungen im Bereich der epidemiologischen Lage- und Risikobewertung und des Krisenmanagements umfassen, auch verbunden mit dem Einsatz von Personal des Robert Koch-Institutes im Ausland. Soweit es zur Abwendung von Gefahren von Dritten und zum Schutz von unmittelbar Betroffenen im Rahmen der frühzeitigen Erkennung und Verhinderung der Weiterverbreitung von bedrohlichen übertragbaren Krankheiten, der Unterstützung bei der Ausbruchsuntersuchung und -bekämpfung, der Kontaktpersonennachverfolgung oder der medizinischen Evakuierung von Erkrankten und Ansteckungsverdächtigen erforderlich ist, darf das Robert Koch-Institut im Rahmen seiner Aufgaben nach den Sätzen 1 bis 3 personenbezogene Daten verarbeiten.
 
-##### § 5 Epidemische Lage von nationaler Tragweite
+###### § 5 Epidemische Lage von nationaler Tragweite
 
 (1) Der Deutsche Bundestag kann eine epidemische Lage von nationaler Tragweite feststellen, wenn die Voraussetzungen nach Satz 6 vorliegen. Der Deutsche Bundestag hebt die Feststellung der epidemischen Lage von nationaler Tragweite wieder auf, wenn die Voraussetzungen nach Satz 6 nicht mehr vorliegen. Die Feststellung nach Satz 1 gilt als nach Satz 2 aufgehoben, sofern der Deutsche Bundestag nicht spätestens drei Monate nach der Feststellung nach Satz 1 das Fortbestehen der epidemischen Lage von nationaler Tragweite feststellt; dies gilt entsprechend, sofern der Deutsche Bundestag nicht spätestens drei Monate nach der Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite das Fortbestehen erneut feststellt. Die Feststellung des Fortbestehens nach Satz 3 gilt als Feststellung im Sinne des Satzes 1. Die Feststellung und die Aufhebung sind im Bundesgesetzblatt bekannt zu machen. Eine epidemische Lage von nationaler Tragweite liegt vor, wenn eine ernsthafte Gefahr für die öffentliche Gesundheit in der gesamten Bundesrepublik Deutschland besteht, weil
 
@@ -279,7 +284,7 @@ Bis zu ihrem jeweiligen Außerkrafttreten kann eine auf Grund des Absatzes 2 Sat
 
 (9) Das Bundesministerium für Gesundheit beauftragt eine externe Evaluation zu den Auswirkungen der Regelungen in dieser Vorschrift und in den Vorschriften der §§ 5a, 20a, 20b, 28 bis 32, 36 und 56 im Rahmen der Coronavirus-SARS-CoV-2-Pandemie und zu der Frage einer Reformbedürftigkeit. Die Evaluation soll interdisziplinär erfolgen und insbesondere auf Basis epidemiologischer und medizinischer Erkenntnisse die Wirksamkeit der auf Grundlage der in Satz 1 genannten Vorschriften getroffenen Maßnahmen untersuchen. Die Evaluation soll durch unabhängige Sachverständige erfolgen, die jeweils zur Hälfte von der Bundesregierung und vom Deutschen Bundestag benannt werden. Das Ergebnis der Evaluierung soll der Bundesregierung bis zum 30. Juni 2022 vorgelegt werden. Die Bundesregierung übersendet dem Deutschen Bundestag bis zum 30. September 2022 das Ergebnis der Evaluierung sowie eine Stellungnahme der Bundesregierung zu diesem Ergebnis.
 
-##### § 5a Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung
+###### § 5a Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung
 
 (1) Im Rahmen einer epidemischen Lage von nationaler Tragweite wird die Ausübung heilkundlicher Tätigkeiten folgenden Personen gestattet:
 
@@ -303,7 +308,7 @@ Die durchgeführte Maßnahme ist in angemessener Weise zu dokumentieren. Sie sol
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates weiteren Personen mit Erlaubnis zum Führen der Berufsbezeichnung eines reglementierten Gesundheitsfachberufs während einer epidemischen Lage von nationaler Tragweite die Ausübung heilkundlicher Tätigkeiten nach Absatz 1 Satz 2 zu gestatten.
 
-##### § 5b Schutzmasken in der Nationalen Reserve Gesundheitsschutz
+###### § 5b Schutzmasken in der Nationalen Reserve Gesundheitsschutz
 
 (1) In der Nationalen Reserve Gesundheitsschutz werden Schutzmasken unabhängig von ihrer Kennzeichnung für den Fall einer Pandemie zum Infektionsschutz vorgehalten.
 
@@ -313,7 +318,7 @@ Die durchgeführte Maßnahme ist in angemessener Weise zu dokumentieren. Sie sol
 
 (4) Die in der Nationalen Reserve Gesundheitsschutz vorgehaltenen Schutzmasken müssen einem in der Anlage genannten Maskentyp entsprechen.
 
-##### § 5c Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten
+###### § 5c Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten
 
 (1) Niemand darf bei einer ärztlichen Entscheidung über die Zuteilung aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandener überlebenswichtiger intensivmedizinischer Behandlungskapazitäten (Zuteilungsentscheidung) benachteiligt werden, insbesondere nicht wegen einer Behinderung, des Grades der Gebrechlichkeit, des Alters, der ethnischen Herkunft, der Religion oder Weltanschauung, des Geschlechts oder der sexuellen Orientierung. Überlebenswichtige intensivmedizinische Behandlungskapazitäten sind im Sinne des Satzes 1 in einem Krankenhaus nicht ausreichend vorhanden, wenn 1.der überlebenswichtige intensivmedizinische Behandlungsbedarf der Patientinnen und Patienten des Krankenhauses mit den dort vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten nicht gedeckt werden kann und2.eine anderweitige intensivmedizinische Behandlung der betroffenen Patientinnen und Patienten nicht möglich ist, insbesondere, weil eine Verlegung nicht in Betracht kommt a)aus gesundheitlichen Gründen oderb)da die regionalen und überregionalen intensivmedizinischen Behandlungskapazitäten nach den dem Krankenhaus vorliegenden Erkenntnissen ausgeschöpft sind.
 
@@ -331,7 +336,7 @@ Die durchgeführte Maßnahme ist in angemessener Weise zu dokumentieren. Sie sol
 
 ## 3. Abschnitt Überwachung
 
-##### § 6 Meldepflichtige Krankheiten
+###### § 6 Meldepflichtige Krankheiten
 
 (1) Namentlich ist zu melden:
 
@@ -375,7 +380,7 @@ r) Windpocken,
 
 s) zoonotische Influenza,
 
-t) Coronavirus-Krankheit-2019 (COVID-19),
+t) (weggefallen)
 
 u) durch Orthopockenviren verursachte Krankheiten,
 
@@ -409,9 +414,9 @@ Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 1, 3 bis 8, § 9 Absatz
 
 (2) Dem Gesundheitsamt ist über die Meldung nach Absatz 1 Satz 1 Nummer 1 Buchstabe i hinaus zu melden, wenn Personen an einer subakuten sklerosierenden Panenzephalitis infolge einer Maserninfektion erkranken oder versterben. Dem Gesundheitsamt ist über die Meldung nach Absatz 1 Satz 1 Nummer 1a Buchstabe a hinaus zu melden, wenn Personen, die an einer behandlungsbedürftigen Lungentuberkulose erkrankt sind, eine Behandlung verweigern oder abbrechen. Die Meldung nach den Sätzen 1 und 2 hat gemäß § 8 Absatz 1 Nummer 1, § 9 Absatz 1 und 3 Satz 1 oder 3 zu erfolgen.
 
-(3) Nichtnamentlich ist das Auftreten von zwei oder mehr nosokomialen Infektionen zu melden, bei denen ein epidemischer Zusammenhang wahrscheinlich ist oder vermutet wird. Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 1, 3 oder 5, § 10 Absatz 1 zu erfolgen.
+(3) Namentlich ist das Auftreten von zwei oder mehr nosokomialen Infektionen zu melden, bei denen ein epidemischer Zusammenhang wahrscheinlich ist oder vermutet wird. Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 1, 3 oder 5 und gemäß § 9 Absatz 1, 2, 3 Satz 1 oder 3 zu erfolgen.
 
-##### § 7 Meldepflichtige Nachweise von Krankheitserregern
+###### § 7 Meldepflichtige Nachweise von Krankheitserregern
 
 (1) Namentlich ist bei folgenden Krankheitserregern, soweit nicht anders bestimmt, der direkte oder indirekte Nachweis zu melden, soweit die Nachweise auf eine akute Infektion hinweisen:
 
@@ -429,7 +434,7 @@ Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 1, 3 bis 8, § 9 Absatz
 
 6. Campylobacter sp., darmpathogen
 
-6a. Candida auris; Meldepflicht nur für den direkten Nachweis aus Blut oder anderen normalerweise sterilen Substraten
+6a. Candidozyma auris; Meldepflicht nur für den direkten Nachweis bei Infektion oder Kolonisation
 
 6b. Chikungunya-Virus
 
@@ -550,9 +555,9 @@ b) Escherichia coli, sonstige darmpathogene Stämme
 
 a) Staphylococcus aureus, Methicillin-resistente Stämme; Meldepflicht nur für den Nachweis aus Blut oder Liquor
 
-b) Enterobacterales bei Nachweis einer Carbapenemase-Determinante oder mit verminderter Empfindlichkeit gegenüber Carbapenemen außer bei natürlicher Resistenz; Meldepflicht nur bei Infektion oder Kolonisation
+b) Enterobacterales bei Nachweis einer Carbapenemase-Determinante oder mit Resistenz gegenüber Meropenem; Meldepflicht nur bei Infektion oder Kolonisation
 
-c) Acinetobacter spp. bei Nachweis einer Carbapenemase-Determinante oder mit verminderter Empfindlichkeit gegenüber Carbapenemen außer bei natürlicher Resistenz; Meldepflicht nur bei Infektion oder Kolonisation.
+c) Acinetobacter spp. bei Nachweis einer Carbapenemase-Determinante oder mit Resistenz gegenüber Meropenem; Meldepflicht nur bei Infektion oder Kolonisation.
 
 Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 2, 3, 4 oder Absatz 4, § 9 Absatz 1, 2, 3 Satz 1 oder 3 zu erfolgen.
 
@@ -576,13 +581,13 @@ Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 2, 3 oder Absatz 4, § 
 
 (4) Bei Untersuchungen zum direkten Nachweis des Severe-Acute-Respiratory-Syndrome-Coronavirus-2 (SARS-CoV-2) mittels Nukleinsäureamplifikationstechnik ist das Untersuchungsergebnis nichtnamentlich zu melden. Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 2, 3 oder Absatz 4, § 10 Absatz 3 zu erfolgen.
 
-##### § 8 Zur Meldung verpflichtete Personen
+###### § 8 Zur Meldung verpflichtete Personen
 
 (1) Zur Meldung sind verpflichtet:
 
-1. im Falle des § 6 der feststellende Arzt sowie bei der Anwendung patientennaher Schnelltests bei Dritten die feststellende Person, wenn sie nach § 24 Satz 2 oder aufgrund einer Rechtsverordnung nach § 24 Satz 3 Nummer 1 zu solchen Schnelltests befugt ist; in Einrichtungen nach § 23 Absatz 5 Satz 1 ist für die Einhaltung der Meldepflicht neben dem feststellenden Arzt auch der leitende Arzt, in Krankenhäusern mit mehreren selbständigen Abteilungen der leitende Abteilungsarzt, in Einrichtungen ohne leitenden Arzt der behandelnde Arzt verantwortlich,
+1. im Fall des § 6 der feststellende Arzt sowie bei der berufs- oder gewerbsmäßigen Anwendung von In-vitro-Diagnostika, die für patientennahe Schnelltests bei Dritten verwendet werden, die feststellende Person, wenn ihr nach § 24 Absatz 1 Satz 2 oder aufgrund einer Rechtsverordnung nach § 24 Absatz 2 Satz 1 Nummer 1 die Anwendung der In-vitro-Diagnostika gestattet ist; in Einrichtungen nach § 23 Absatz 5 Satz 1 ist für die Einhaltung der Meldepflicht neben dem feststellenden Arzt auch der leitende Arzt, in Krankenhäusern mit mehreren selbständigen Abteilungen der leitende Abteilungsarzt, in Einrichtungen ohne leitenden Arzt der behandelnde Arzt verantwortlich,
 
-2. im Falle des § 7 die Leiter von Medizinaluntersuchungsämtern und sonstigen privaten oder öffentlichen Untersuchungsstellen einschließlich von Arztpraxen mit Infektionserregerdiagnostik und Krankenhauslaboratorien sowie Zahnärzte und Tierärzte, wenn sie aufgrund einer Rechtsverordnung nach § 24 Satz 3 Nummer 2 befugt sind, im Rahmen einer Labordiagnostik den direkten oder indirekten Nachweis eines Krankheitserregers zu führen,
+2. im Fall des § 7 die Leiter von Medizinaluntersuchungsämtern und sonstigen privaten oder öffentlichen Untersuchungsstellen einschließlich der Leiter von Arztpraxen mit Infektionserregerdiagnostik und Krankenhauslaboratorien sowie Zahnärzte und Tierärzte, wenn sie aufgrund einer Rechtsverordnung nach § 24 Absatz 2 Satz 1 Nummer 2 befugt sind, im Rahmen einer Labordiagnostik den direkten oder indirekten Nachweis eines Krankheitserregers zu führen,
 
 3. im Falle der §§ 6 und 7 auch die Leiter von Einrichtungen der pathologisch-anatomischen Diagnostik,
 
@@ -604,11 +609,11 @@ Die Meldung nach Satz 1 hat gemäß § 8 Absatz 1 Nummer 2, 3 oder Absatz 4, § 
 
 (5) (weggefallen)
 
-##### § 9 Namentliche Meldung
+###### § 9 Namentliche Meldung
 
 (1) Die namentliche Meldung durch eine der in § 8 Absatz 1 Nummer 1 und 4 bis 8 genannten Personen muss, soweit vorliegend, folgende Angaben enthalten:
 
-1. zur betroffenen Person:
+1. zur betroffenen Person und im Fall des § 6 Absatz 3 auch zu Personen, die von einer Kolonisation betroffen sind, die mit den nosokomialen Infektionen wahrscheinlich oder vermutlich in einem epidemischen Zusammenhang steht:
 
 a) Name und Vorname,
 
@@ -696,33 +701,9 @@ Der Einsender hat den Meldenden bei dessen Angaben nach Satz 1 zu unterstützen 
 
 (6) Die verarbeiteten Daten zu meldepflichtigen Krankheiten und Nachweisen von Krankheitserregern werden jeweils fallbezogen mit den Daten der zu diesem Fall geführten Ermittlungen und getroffenen Maßnahmen sowie mit den daraus gewonnenen Erkenntnissen auch an die zuständigen Stellen der Bundeswehr übermittelt, sofern die betroffene Person einer Personengruppe im Sinne des § 54a Absatz 1 Nummer 1 bis 5 angehört.
 
-##### § 10 Nichtnamentliche Meldung
+###### § 10 Nichtnamentliche Meldung
 
-(1) Die nichtnamentliche Meldung nach § 6 Absatz 3 Satz 1 muss unverzüglich erfolgen und dem Gesundheitsamt, in dessen Bezirk sich die Einrichtung befindet, spätestens 24 Stunden nach der Feststellung des Ausbruchs vorliegen. Die Meldung muss, soweit vorliegend, folgende Angaben enthalten:
-
-1. Name, Anschrift und weitere Kontaktdaten
-
-a) der betroffenen Einrichtung,
-
-b) des Meldenden,
-
-c) der mit der Erregerdiagnostik beauftragten Untersuchungsstelle und
-
-2. folgende einzelfallbezogene Angaben zu den aufgetretenen nosokomialen Infektionen sowie zu allen damit wahrscheinlich oder vermutlich in epidemischem Zusammenhang stehenden Kolonisationen:
-
-a) Geschlecht der betroffenen Person,
-
-b) Monat und Jahr der Geburt der betroffenen Person,
-
-c) Untersuchungsbefund, einschließlich Typisierungsergebnissen,
-
-d) Diagnose,
-
-e) Datum der Diagnose,
-
-f) wahrscheinlicher Infektionsweg, einschließlich Umfeld, in dem die Übertragung wahrscheinlich stattgefunden hat, mit Name, Anschrift und weiteren Kontaktdaten der Infektionsquelle und wahrscheinliches Infektionsrisiko.
-
-§ 9 Absatz 3 Satz 2 bis 4 gilt entsprechend.
+(1) (weggefallen)
 
 (2) Die nichtnamentliche Meldung nach § 7 Absatz 3 Satz 1 muss innerhalb von zwei Wochen, nachdem der Meldende Kenntnis erlangt hat, an das Robert Koch-Institut erfolgen. Das Robert Koch-Institut bestimmt die technischen Übermittlungsstandards. Die Meldung muss folgende Angaben enthalten:
 
@@ -772,7 +753,7 @@ Der Einsender hat den Meldenden bei den Angaben nach Satz 3 zu unterstützen und
 
 (4) Die fallbezogene Pseudonymisierung nach Absatz 2 Satz 3 Nummer 1 besteht aus dem dritten Buchstaben des ersten Vornamens in Verbindung mit der Anzahl der Buchstaben des ersten Vornamens sowie dem dritten Buchstaben des ersten Nachnamens in Verbindung mit der Anzahl der Buchstaben des ersten Nachnamens. Bei Doppelnamen wird jeweils nur der erste Teil des Namens berücksichtigt; Umlaute werden in zwei Buchstaben dargestellt. Namenszusätze bleiben unberücksichtigt. § 14 Absatz 3 bleibt unberührt. Angaben nach den Sätzen 1 bis 3 und die Angaben zum Monat der Geburt dürfen vom Robert Koch-Institut lediglich zu der Prüfung, ob verschiedene Meldungen sich auf denselben Fall beziehen, verarbeitet werden. Sie sind zu löschen, sobald nicht mehr zu erwarten ist, dass die damit bewirkte Einschränkung der Prüfung nach Satz 5 eine nicht unerhebliche Verfälschung der aus den Meldungen zu gewinnenden epidemiologischen Beurteilung bewirkt.
 
-##### § 11 Übermittlung an die zuständige Landesbehörde und an das Robert Koch-Institut
+###### § 11 Übermittlung an die zuständige Landesbehörde und an das Robert Koch-Institut
 
 (1) Die verarbeiteten Daten zu meldepflichtigen Krankheiten und Nachweisen von Krankheitserregern werden anhand der Falldefinitionen nach Absatz 2 bewertet und spätestens am folgenden Arbeitstag durch das nach Absatz 3 zuständige Gesundheitsamt vervollständigt, gegebenenfalls aus verschiedenen Meldungen zum selben Fall zusammengeführt und der zuständigen Landesbehörde sowie von dort spätestens am folgenden Arbeitstag dem Robert Koch-Institut mit folgenden Angaben übermittelt:
 
@@ -818,7 +799,7 @@ In den Fällen der Meldung nach § 6 Absatz 3 Satz 1 sind nur die Angaben nach S
 
 (4) Einen nach § 6 Absatz 1 Satz 1 Nummer 3 gemeldeten Verdacht einer über das übliche Ausmaß einer Impfreaktion hinausgehenden gesundheitlichen Schädigung übermittelt das Gesundheitsamt unverzüglich der zuständigen Landesbehörde. Das Gesundheitsamt übermittelt alle notwendigen Angaben, sofern es diese Angaben ermitteln kann, wie Bezeichnung des Produktes, Name oder Firma des pharmazeutischen Unternehmers, die Chargenbezeichnung, den Zeitpunkt der Impfung und den Beginn der Erkrankung. Über die betroffene Person sind ausschließlich das Geburtsdatum, das Geschlecht sowie der erste Buchstabe des ersten Vornamens und der erste Buchstabe des ersten Nachnamens anzugeben. Die zuständige Behörde übermittelt die Angaben unverzüglich dem Paul-Ehrlich-Institut. Die personenbezogenen Daten sind zu pseudonymisieren.
 
-##### § 12 Übermittlungen und Mitteilungen auf Grund völker- und unionsrechtlicher Vorschriften
+###### § 12 Übermittlungen und Mitteilungen auf Grund völker- und unionsrechtlicher Vorschriften
 
 (1) Im Hinblick auf eine übertragbare Krankheit, die nach Anlage 2 der Internationalen Gesundheitsvorschriften (2005) vom 23. Mai 2005 (BGBl. 2007 II S. 930, 932) eine gesundheitliche Notlage von internationaler Tragweite im Sinne von Artikel 1 Absatz 1 der Internationalen Gesundheitsvorschriften (2005) darstellen könnte, übermittelt die zuständige Behörde der zuständigen Landesbehörde unverzüglich folgende Angaben:
 
@@ -846,9 +827,9 @@ Die zuständige Landesbehörde übermittelt die in den Sätzen 1 und 2 genannten
 
 (3) Abweichungen von den Regelungen des Verwaltungsverfahrens in Absatz 1 Satz 1 bis 5 und Absatz 2 Satz 1 bis 3 durch Landesrecht sind ausgeschlossen.
 
-##### § 12a (weggefallen)
+###### § 12a (weggefallen)
 
-##### § 13 Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung
+###### § 13 Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung
 
 (1) Zur Überwachung übertragbarer Krankheiten können der Bund und die Länder weitere Formen der epidemiologischen Überwachung durchführen. Bei Erhebungen des Bundes ist den jeweils zuständigen Landesbehörden Gelegenheit zu geben, sich zu beteiligen. Das Bundesministerium für Gesundheit kann im Benehmen mit den jeweils zuständigen obersten Landesgesundheitsbehörden festlegen, welche Krankheiten und Krankheitserreger durch Erhebungen nach Satz 1 überwacht werden.
 
@@ -934,7 +915,7 @@ Die Übermittlung nach Satz 1 Nummer 1 und 3 hat über das elektronische Melde- 
 
 5. ein von den Sätzen 2 und 3 abweichendes Verfahren der Übermittlung.
 
-##### § 14 Elektronisches Melde- und Informationssystem; Verordnungsermächtigung
+###### § 14 Elektronisches Melde- und Informationssystem; Verordnungsermächtigung
 
 (1) Für die Erfüllung der Aufgaben nach Maßgabe der Zwecke dieses Gesetzes richtet das Robert Koch-Institut nach Weisung des Bundesministeriums für Gesundheit und nach Maßgabe der technischen Möglichkeiten ein elektronisches Melde- und Informationssystem ein. Das Robert Koch-Institut ist der Verantwortliche im Sinne des Datenschutzrechts. Das Robert Koch-Institut kann einen IT-Dienstleister mit der technischen Umsetzung beauftragen. Das elektronische Melde- und Informationssystem nutzt geeignete Dienste der Telematikinfrastruktur nach dem Fünften Buch Sozialgesetzbuch, sobald diese zur Verfügung stehen. Die Gesellschaft für Telematik nach § 306 Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch unterstützt das Robert Koch-Institut bei der Entwicklung und dem Betrieb des elektronischen Melde- und Informationssystems. Bei der Gesellschaft für Telematik unmittelbar für die Erfüllung der Aufgabe nach Satz 5 entstehende Kosten werden vom Robert Koch-Institut getragen. Das Robert Koch-Institut legt die Einzelheiten der Kostenerstattung im Einvernehmen mit der Gesellschaft für Telematik fest. Für die Zusammenarbeit von Bund und Ländern bei der Umsetzung des elektronischen Melde- und Informationssystems legt ein gemeinsamer Planungsrat Leitlinien fest. Sofern eine Nutzungspflicht für das elektronische Melde- und Informationssystem besteht, ist den Anwendern mindestens eine kostenlose Software-Lösung bereitzustellen.
 
@@ -982,11 +963,11 @@ Die Übermittlung nach Satz 1 Nummer 1 und 3 hat über das elektronische Melde- 
 
 4. welche notwendigen Test-, Authentifizierungs- und Zertifizierungsmaßnahmen sicherzustellen sind und
 
-5. welches Verfahren bei der Bildung der fallbezogenen Pseudonymisierung nach Absatz 3 Nummer 1 anzuwenden ist; hierzu kann festgelegt werden, dass bei nichtnamentlichen Meldungen andere als die in § 10 Absatz 1 und 2 genannten Angaben übermittelt werden, die sofort nach Herstellung der fallbezogenen Pseudonymisierung zu löschen sind.
+5. welches Verfahren bei der Bildung der fallbezogenen Pseudonymisierung nach Absatz 3 Nummer 1 anzuwenden ist; hierzu kann festgelegt werden, dass bei nichtnamentlichen Meldungen andere als die in § 10 Absatz 2 genannten Angaben übermittelt werden, die sofort nach Herstellung der fallbezogenen Pseudonymisierung zu löschen sind.
 
 (10) Abweichungen von den in dieser Vorschrift getroffenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
-##### § 14a Interoperabilität; Verordnungsermächtigung
+###### § 14a Interoperabilität; Verordnungsermächtigung
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Förderung der Interoperabilität zwischen informationstechnischen Systemen, von offenen Standards für informationstechnische Systeme und der Integration von Schnittstellen in informationstechnischen Systemen der Gesellschaft für Telematik die Aufgabe zuzuweisen, für nicht ausschließlich in die Zuständigkeit der Länder fallende informationstechnische Systeme, die im Anwendungsbereich dieses Gesetzes eingesetzt werden,
 
@@ -1004,7 +985,7 @@ Bei der Gesellschaft für Telematik unmittelbar für die Erfüllung der nach Sat
 
 (2) Zum Zwecke der Förderung der Interoperabilität zwischen informationstechnischen Systemen und von offenen Standards für informationstechnische Systeme und der Integration von Schnittstellen in informationstechnischen Systemen sowie zum Zwecke der Optimierung des nach § 14 Absatz 1 Satz 1 eingerichteten elektronischen Melde- und Informationssystems sammeln und konsolidieren die Länder auf Anforderung des Robert Koch-Instituts technische und funktionale Anforderungen an nach § 14 Absatz 1 Satz 9 bereitzustellende kostenlose Software-Lösungen und übermitteln diese einheitlich abgestimmt an das Robert Koch-Institut, soweit die Anforderungen nicht ausschließlich in die Zuständigkeit der Länder fallen.
 
-##### § 15 Anpassung der Meldepflicht an die epidemische Lage
+###### § 15 Anpassung der Meldepflicht an die epidemische Lage
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Meldepflicht für die in § 6 aufgeführten Krankheiten oder die in § 7 aufgeführten Krankheitserreger aufzuheben, einzuschränken oder zu erweitern oder die Meldepflicht auf andere übertragbare Krankheiten oder Krankheitserreger auszudehnen, soweit die epidemische Lage dies zulässt oder erfordert. Wird die Meldepflicht nach Satz 1 auf andere übertragbare Krankheiten oder Krankheitserreger ausgedehnt, gelten die für meldepflichtige Krankheiten nach § 6 Absatz 1 Satz 1 Nummer 1 und meldepflichtige Nachweise von Krankheitserregern nach § 7 Absatz 1 Satz 1 geltenden Vorschriften für diese entsprechend. Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Meldepflicht für feststellende Personen bei der Anwendung patientennaher Schnelltests bei Dritten aufzuheben.
 
@@ -1012,7 +993,7 @@ Bei der Gesellschaft für Telematik unmittelbar für die Erfüllung der nach Sat
 
 (3) Solange das Bundesministerium für Gesundheit von der Ermächtigung nach Absatz 1 Satz 1 keinen Gebrauch macht, sind die Landesregierungen zum Erlass einer Rechtsverordnung nach Absatz 1 Satz 1 ermächtigt, sofern die Meldepflicht nach diesem Gesetz hierdurch nicht eingeschränkt oder aufgehoben wird. Sie können die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen.
 
-##### § 15a Durchführung der infektionshygienischen und hygienischen Überwachung
+###### § 15a Durchführung der infektionshygienischen und hygienischen Überwachung
 
 (1) Bei der Durchführung der folgenden infektionshygienischen oder hygienischen Überwachung unterliegen Personen, die über Tatsachen Auskunft geben können, die für die jeweilige Überwachung von Bedeutung sind, den in Absatz 2 genannten Pflichten und haben die mit der jeweiligen Überwachung beauftragten Personen die in Absatz 3 genannten Befugnisse:
 
@@ -1044,7 +1025,7 @@ Der Inhaber der tatsächlichen Gewalt ist verpflichtet, den Beauftragten der zus
 
 ## 4. Abschnitt Verhütung übertragbarer Krankheiten
 
-##### § 16 Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten
+###### § 16 Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten
 
 (1) Werden Tatsachen festgestellt, die zum Auftreten einer übertragbaren Krankheit führen können, oder ist anzunehmen, dass solche Tatsachen vorliegen, so trifft die zuständige Behörde die notwendigen Maßnahmen zur Abwendung der dem Einzelnen oder der Allgemeinheit hierdurch drohenden Gefahren. Im Rahmen dieser Maßnahmen können von der zuständigen Behörde personenbezogene Daten erhoben werden; diese dürfen nur von der zuständigen Behörde für Zwecke dieses Gesetzes verarbeitet werden.
 
@@ -1062,7 +1043,7 @@ Der Inhaber der tatsächlichen Gewalt ist verpflichtet, den Beauftragten der zus
 
 (8) Widerspruch und Anfechtungsklage gegen Maßnahmen nach den Absätzen 1 bis 3 haben keine aufschiebende Wirkung.
 
-##### § 17 Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung
+###### § 17 Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung
 
 (1) Wenn Gegenstände mit meldepflichtigen Krankheitserregern behaftet sind oder wenn das anzunehmen ist und dadurch eine Verbreitung der Krankheit zu befürchten ist, hat die zuständige Behörde die notwendigen Maßnahmen zur Abwendung der hierdurch drohenden Gefahren zu treffen. Wenn andere Maßnahmen nicht ausreichen, kann die Vernichtung von Gegenständen angeordnet werden. Sie kann auch angeordnet werden, wenn andere Maßnahmen im Verhältnis zum Wert der Gegenstände zu kostspielig sind, es sei denn, dass derjenige, der ein Recht an diesem Gegenstand oder die tatsächliche Gewalt darüber hat, widerspricht und auch die höheren Kosten übernimmt. Müssen Gegenstände entseucht (desinfiziert), von Gesundheitsschädlingen befreit oder vernichtet werden, so kann ihre Benutzung und die Benutzung der Räume und Grundstücke, in denen oder auf denen sie sich befinden, untersagt werden, bis die Maßnahme durchgeführt ist.
 
@@ -1100,7 +1081,7 @@ e) die Verpflichtung, Abschluss und Ergebnis der Bekämpfung der zuständigen Be
 
 (7) Die Grundrechte der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz), der Freizügigkeit (Artikel 11 Abs. 1 Grundgesetz), der Versammlungsfreiheit (Artikel 8 Grundgesetz) und der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 Grundgesetz) werden im Rahmen der Absätze 1 bis 5 eingeschränkt.
 
-##### § 18 Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung
+###### § 18 Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung
 
 (1) Zum Schutz des Menschen vor übertragbaren Krankheiten dürfen bei behördlich angeordneten Maßnahmen zur
 
@@ -1150,13 +1131,13 @@ Die Prüfung der Auswirkungen von Mitteln nach Absatz 1 Satz 1 Nummer 1 und 2 au
 
 (8) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten des Anerkennungsverfahrens festzulegen.
 
-##### § 19 Aufgaben des Gesundheitsamtes in besonderen Fällen
+###### § 19 Aufgaben des Gesundheitsamtes in besonderen Fällen
 
 (1) Das Gesundheitsamt bietet bezüglich sexuell übertragbarer Krankheiten und Tuberkulose Beratung und Untersuchung an oder stellt diese in Zusammenarbeit mit anderen medizinischen Einrichtungen sicher. In Bezug auf andere übertragbare Krankheiten kann das Gesundheitsamt Beratung und Untersuchung anbieten oder diese in Zusammenarbeit mit anderen medizinischen Einrichtungen sicherstellen. Die Beratung und Untersuchung sollen für Personen, deren Lebensumstände eine erhöhte Ansteckungsgefahr für sich oder andere mit sich bringen, auch aufsuchend angeboten werden. Im Einzelfall können die Beratung und Untersuchung nach Satz 1 bezüglich sexuell übertragbarer Krankheiten und Tuberkulose die ambulante Behandlung durch eine Ärztin oder einen Arzt umfassen, soweit dies zur Verhinderung der Weiterverbreitung der übertragbaren Krankheit erforderlich ist. Die Angebote können bezüglich sexuell übertragbarer Krankheiten anonym in Anspruch genommen werden, soweit hierdurch die Geltendmachung von Kostenerstattungsansprüchen nicht gefährdet wird. Die zuständigen Behörden können mit den Maßnahmen nach den Sätzen 1 bis 4 Dritte beauftragen.
 
 (2) Soweit die von der Maßnahme betroffene Person gegen einen anderen Kostenträger einen Anspruch auf entsprechende Leistungen hat oder einen Anspruch auf Erstattung der Aufwendungen für entsprechende Leistungen hätte, ist dieser zur Tragung der Sachkosten verpflichtet. Wenn Dritte nach Absatz 1 Satz 6 beauftragt wurden, ist der andere Kostenträger auch zur Tragung dieser Kosten verpflichtet, soweit diese angemessen sind.
 
-##### § 20 Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe
+###### § 20 Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe
 
 (1) Die Bundeszentrale für gesundheitliche Aufklärung, die obersten Landesgesundheitsbehörden und die von ihnen beauftragten Stellen sowie die Gesundheitsämter informieren die Bevölkerung zielgruppenspezifisch über die Bedeutung von Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe übertragbarer Krankheiten. Bei der Information der Bevölkerung soll die vorhandene Evidenz zu bestehenden Impflücken berücksichtigt werden.
 
@@ -1248,23 +1229,29 @@ Bestehen Zweifel an der Echtheit oder inhaltlichen Richtigkeit des vorgelegten N
 
 (14) Durch die Absätze 6 bis 12 wird das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) eingeschränkt.
 
-##### § 20a (weggefallen)
+###### § 20a (weggefallen)
 
-##### § 20b (weggefallen)
+###### § 20b (weggefallen)
 
-##### § 20c Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch Apotheker
+###### § 20c Durchführung von Schutzimpfungen durch Apotheker
 
-(1) Abweichend von § 20 Absatz 4 Satz 1 sind Apotheker zur Durchführung von Grippeschutzimpfungen bei Personen, die das 18. Lebensjahr vollendet haben, und zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 bei Personen, die das zwölfte Lebensjahr vollendet haben, berechtigt, wenn
+(1) Abweichend von § 20 Absatz 4 Satz 1 sind Apotheker zur Durchführung von Schutzimpfungen mit Impfstoffen, die keine Lebendimpfstoffe sind, berechtigt, wenn sie
 
-1. sie hierfür ärztlich geschult wurden und ihnen die erfolgreiche Teilnahme an der Schulung bestätigt wurde und
+1. hierfür ärztlich geschult wurden und ihnen die erfolgreiche Teilnahme an der Schulung bestätigt wurde,
 
-2. sie die Schutzimpfungen für eine öffentliche Apotheke, zu deren Personal sie gehören, durchführen.
+2. die Schutzimpfungen für eine öffentliche Apotheke, zu deren Personal sie gehören, durchführen und
 
-Einer nach Satz 1 Nummer 1 erforderlichen ärztlichen Schulung bedarf es nicht, wenn ein Apotheker bereits zur Durchführung von Schutzimpfungen gegen das Coronavirus SARS-CoV-2 erfolgreich eine nach § 20b Absatz 1 Nummer 1 in der bis zum 31. Dezember 2022 geltenden Fassung erforderliche ärztliche Schulung absolviert hat. Einer nach Satz 1 Nummer 1 erforderlichen ärztlichen Schulung bedarf es nicht für die Impfung von Personen, die das 18. Lebensjahr vollendet haben, wenn ein Apotheker bereits im Rahmen von Modellvorhaben nach § 132j des Fünften Buches Sozialgesetzbuch oder nach diesem Absatz in der bis zum 31. Dezember 2022 geltenden Fassung zur Durchführung von Grippeschutzimpfungen erfolgreich eine ärztliche Schulung absolviert hat.
+3. die Schutzimpfungen bei einer Person durchführen, die das 18. Lebensjahr vollendet hat.
+
+Abweichend von Satz 1 Nummer 1 sind Apotheker, die eine in Satz 1 Nummer 1, Satz 2 oder 3 jeweils in der bis zum 1. Juli 2026 geltenden Fassung genannte ärztliche Schulung erfolgreich absolviert haben, berechtigt,
+
+1. Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2 ohne weitere Schulung durchzuführen und
+
+2. weitere Schutzimpfungen mit Impfstoffen durchzuführen, die keine Lebendimpfstoffe sind, wenn sie an einer Ergänzungsschulung erfolgreich teilgenommen haben, die Informationen vermittelt zur Durchführung der weiteren Schutzimpfungen mit Impfstoffen, die keine Lebendimpfstoffe sind.
 
 (2) Die ärztliche Schulung nach Absatz 1 Satz 1 Nummer 1 hat insbesondere die Vermittlung der folgenden Kenntnisse, Fähigkeiten und Fertigkeiten zu umfassen:
 
-1. Kenntnisse, Fähigkeiten und Fertigkeiten zur Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2, insbesondere zur
+1. Kenntnisse, Fähigkeiten und Fertigkeiten zur Durchführung der in Absatz 1 Satz 1 genannten Schutzimpfungen, insbesondere zur
 
 a) Aufklärung,
 
@@ -1274,17 +1261,31 @@ c) weiteren Impfberatung und
 
 d) Einholung der Einwilligung der zu impfenden Person,
 
-2. Kenntnis von Kontraindikationen sowie Fähigkeiten und Fertigkeiten zu deren Beachtung und
+2. Kenntnis von Kontraindikationen in Bezug auf die jeweilige Schutzimpfung sowie Fähigkeiten und Fertigkeiten zu deren Beachtung und
 
 3. Kenntnis von Notfallmaßnahmen bei eventuellen akuten Impfreaktionen sowie Fähigkeiten und Fertigkeiten zur Durchführung dieser Notfallmaßnahmen.
 
-(3) Die Bundesapothekerkammer entwickelt bis zum 1. Februar 2023 in Zusammenarbeit mit der Bundesärztekammer auf Basis von bereits bestehenden Mustercurricula nach diesem Absatz und nach § 20b Absatz 3 Nummer 1 jeweils in der bis zum 31. Dezember 2022 geltenden Fassung ein Mustercurriculum für die ärztliche Schulung der Apotheker nach Absatz 1 Satz 1 Nummer 1.
+(3) Die Bundesapothekerkammer entwickelt bis zum 2. September 2026 in Zusammenarbeit mit der Bundesärztekammer
 
-##### § 21 Impfstoffe
+1. ein Mustercurriculum für die in Absatz 1 Satz 1 Nummer 1 genannte ärztliche Schulung der Apotheker und
+
+2. ein Mustercurriculum für die in Absatz 1 Satz 2 Nummer 2 genannte Ergänzungsschulung.
+
+Die in Absatz 1 Satz 1 Nummer 1 und Satz 2 Nummer 2 genannten Schulungen können, soweit möglich, in digitaler Form abgehalten werden.
+
+(4) Apotheker, die nach Absatz 1 zur Durchführung von Schutzimpfungen berechtigt sind, dürfen die Verabreichung des Impfstoffs an Personen, die sich in der praktischen Ausbildung zum Apotheker befinden, an pharmazeutisch-technische Assistenten und an Pharmazieingenieure delegieren, sofern sie diese Personen dabei beaufsichtigen und diese Personen zur Verabreichung des Impfstoffs ärztlich geschult wurden und ihnen die erfolgreiche Teilnahme an der Schulung bestätigt wurde. Die Aufklärung, die Anamnese, die Einholung der Einwilligung der zu impfenden Person und die Impfdokumentation nach § 22 dürfen Apotheker nicht an die in Satz 1 genannten Personen delegieren. Die ärztliche Schulung nach Satz 1 hat insbesondere die Vermittlung der folgenden Inhalte zu umfassen:
+
+1. Kenntnisse, Fähigkeiten und Fertigkeiten zur Verabreichung der in Absatz 1 Satz 1 genannten Impfstoffe und
+
+2. Kenntnis von Notfallmaßnahmen bei eventuellen akuten Impfreaktionen sowie Fähigkeiten und Fertigkeiten zur Durchführung dieser Notfallmaßnahmen.
+
+Die Bundesapothekerkammer entwickelt bis zum 2. November 2026 in Zusammenarbeit mit der Bundesärztekammer ein Mustercurriculum für die ärztliche Schulung.
+
+###### § 21 Impfstoffe
 
 Bei einer auf Grund dieses Gesetzes angeordneten oder einer von der obersten Landesgesundheitsbehörde öffentlich empfohlenen Schutzimpfung oder einer Impfung nach § 17a Absatz 2 des Soldatengesetzes dürfen Impfstoffe verwendet werden, die Mikroorganismen enthalten, welche von den Geimpften ausgeschieden und von anderen Personen aufgenommen werden können. Das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 Grundgesetz) wird insoweit eingeschränkt.
 
-##### § 22 Impf-, Genesenen- und Testdokumentation
+###### § 22 Impf-, Genesenen- und Testdokumentation
 
 (1) Die zur Durchführung von Schutzimpfungen berechtigte Person hat jede Schutzimpfung unverzüglich in einem Impfausweis oder, falls der Impfausweis nicht vorgelegt wird, in einer Impfbescheinigung zu dokumentieren (Impfdokumentation).
 
@@ -1338,7 +1339,7 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung o
 
 (7) (weggefallen)
 
-##### § 22a Impf-, Genesenen und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung
+###### § 22a Impf-, Genesenen und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung
 
 (1) Ein Impfnachweis ist ein Nachweis hinsichtlich des Vorliegens eines vollständigen Impfschutzes gegen das Coronavirus SARS-CoV-2 in deutscher, englischer, französischer, italienischer oder spanischer Sprache in verkörperter oder digitaler Form. Ein vollständiger Impfschutz gegen das Coronavirus SARS-CoV-2 liegt vor, wenn
 
@@ -1452,7 +1453,7 @@ Absatz 5 Satz 4 gilt entsprechend.
 
 (10) Die Verpflichtung nach Absatz 7 besteht nur solange und soweit die Bundesrepublik Deutschland nach der Verordnung (EU) 2021/953 zur Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Tests verpflichtet ist.
 
-##### § 23 Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
+###### § 23 Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
 
 (1) Beim Robert Koch-Institut wird eine Kommission für Infektionsprävention in medizinischen Einrichtungen und in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe eingerichtet. Die Kommission gibt sich eine Geschäftsordnung, die der Zustimmung des Bundesministeriums für Gesundheit bedarf. Die Kommission erstellt Empfehlungen zur Prävention nosokomialer und weiterer Infektionen sowie zu betrieblich-organisatorischen und baulich-funktionellen Maßnahmen der Hygiene in Krankenhäusern, anderen medizinischen Einrichtungen und Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe. Sie erstellt zudem Empfehlungen zu Kriterien und Verfahren zur Einstufung von Einrichtungen als Einrichtungen für ambulantes Operieren. Die Empfehlungen der Kommission werden unter Berücksichtigung aktueller infektionsepidemiologischer Auswertungen stetig weiterentwickelt und vom Robert Koch-Institut veröffentlicht. Die Mitglieder der Kommission werden vom Bundesministerium für Gesundheit im Benehmen mit den obersten Landesgesundheitsbehörden unter Berücksichtigung des gesamten Aufgabenspektrums berufen. Vertreter des Bundesministeriums für Gesundheit, der obersten Landesgesundheitsbehörden und des Robert Koch-Institutes nehmen mit beratender Stimme an den Sitzungen teil.
 
@@ -1538,23 +1539,29 @@ Die Landesregierungen können durch Rechtsverordnung vorsehen, dass Leiter von Z
 
 Für Rettungsdienste können die Landesregierungen erforderliche Maßnahmen nach den Sätzen 1 und 2 regeln. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen.
 
-##### § 23a Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten
+###### § 23a Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten
 
 Soweit es zur Erfüllung von Verpflichtungen aus § 23 Absatz 3 in Bezug auf übertragbare Krankheiten erforderlich ist, darf der Arbeitgeber personenbezogene Daten eines Beschäftigten über dessen Impf- und Serostatus verarbeiten, um über die Begründung eines Beschäftigungsverhältnisses oder über die Art und Weise einer Beschäftigung zu entscheiden. Dies gilt nicht in Bezug auf übertragbare Krankheiten, die im Rahmen einer leitliniengerechten Behandlung nach dem Stand der medizinischen Wissenschaft nicht mehr übertragen werden können. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend. Die Bestimmungen des allgemeinen Datenschutzrechts bleiben unberührt.
 
 ## 5. Abschnitt Bekämpfung übertragbarer Krankheiten
 
-##### § 24 Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung
+###### § 24 Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung
 
-Die Feststellung oder die Heilbehandlung einer in § 6 Absatz 1 Satz 1 Nummer 1, 2 und 5 oder in § 34 Absatz 1 Satz 1 genannten Krankheit oder einer Infektion mit einem in § 7 genannten Krankheitserreger oder einer sonstigen sexuell übertragbaren Krankheit darf nur durch einen Arzt erfolgen. Abweichend von Satz 1 ist Personen unabhängig von ihrer beruflichen Qualifikation die Anwendung von In-vitro-Diagnostika, die für patientennahe Schnelltests bei Testung auf HIV, das Hepatitis-C-Virus, das Severe-Acute-Respiratory-Syndrome-Coronavirus-2 (SARS-CoV-2) und Treponema pallidum verwendet werden, gestattet. Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, dass
+(1) Die Feststellung oder die Heilbehandlung einer in § 6 Absatz 1 Satz 1 Nummer 1, 2 oder 5 oder einer in § 34 Absatz 1 Satz 1 genannten Krankheit oder einer Infektion mit einem in § 7 genannten Krankheitserreger oder einer sonstigen sexuell übertragbaren Krankheit darf nur durch einen Arzt erfolgen. Abweichend von Satz 1 ist
 
-1. Satz 1 auch nicht für die Anwendung von In-vitro-Diagnostika gilt, die für patientennahe Schnelltests bei Testung auf weitere Krankheiten oder Krankheitserreger verwendet werden, sowie
+1. Apothekern und dem in einer Apotheke tätigen pharmazeutischen Personal sowie Pflegefachpersonen die Anwendung von In-vitro-Diagnostika, die für patientennahe Schnelltests bei Testung auf Adenoviren, Influenzaviren, das Norovirus, Respiratorische Synzytial Viren und das Rotavirus verwendet werden, gestattet, wenn sie die Testung für eine Apotheke oder eine zugelassene Pflegeeinrichtung im Sinne von § 72 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch durchführen, zu deren Personal sie gehören, und
 
-2. abweichend von Satz 1 auch ein Zahnarzt oder ein Tierarzt im Rahmen einer Labordiagnostik den direkten oder indirekten Nachweis eines in § 7 genannten Krankheitserregers führen kann.
+2. Personen unabhängig von ihrer beruflichen Qualifikation die Anwendung von In-vitro-Diagnostika, die für patientennahe Schnelltests bei Testung auf HIV, das Hepatitis-C-Virus, das Severe-Acute-Respiratory-Syndrome-Coronavirus-2 (SARS-CoV-2) und Treponema pallidum verwendet werden, gestattet.
 
-In der Rechtsverordnung nach Satz 3 kann auch geregelt werden, dass Veterinärmedizinisch-technische Assistentinnen und Veterinärmedizinisch-technische Assistenten bei der Durchführung laboranalytischer Untersuchungen zum Nachweis eines in § 7 genannten Krankheitserregers die in § 9 Absatz 1 Nummer 1 des MTA-Gesetzes genannten Tätigkeiten ausüben dürfen und dass in diesem Fall der Vorbehalt der Ausübung dieser Tätigkeiten durch Medizinisch-technische Laboratoriumsassistentinnen und Medizinisch-technische Laboratoriumsassistenten nicht gilt. In dringenden Fällen kann zum Schutz der Bevölkerung die Rechtsverordnung nach Satz 3 ohne Zustimmung des Bundesrates erlassen werden. Eine nach Satz 5 erlassene Verordnung tritt ein Jahr nach ihrem Inkrafttreten außer Kraft; ihre Geltungsdauer kann mit Zustimmung des Bundesrates verlängert werden.
+(2) Das Bundesministerium für Gesundheit wird ermächtigt, soweit dies zur Verhinderung der Verbreitung von Krankheiten oder Krankheitserregern erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, dass abweichend von Absatz 1 Satz 1
 
-##### § 25 Ermittlungen
+1. Personen unabhängig von ihrer beruflichen Qualifikation die Anwendung von In-vitro-Diagnostika gestattet ist, die für patientennahe Schnelltests bei Testung auf die in Absatz 1 genannten Krankheiten und Krankheitserreger, auch soweit sie nicht in Absatz 1 Satz 2 Nummer 2 genannt sind, verwendet werden, und
+
+2. auch ein Zahnarzt oder ein Tierarzt im Rahmen einer Labordiagnostik den direkten oder indirekten Nachweis eines in § 7 genannten Krankheitserregers führen darf.
+
+In der Rechtsverordnung nach Satz 1 kann auch geregelt werden, dass Medizinische Technologen für Veterinärmedizin bei der Durchführung laboranalytischer Untersuchungen zum Nachweis eines in § 7 genannten Krankheitserregers die in § 5 Absatz 1 Satz 1 Nummer 1 des MT-Berufe-Gesetzes genannten Tätigkeiten ausüben dürfen und dass in diesem Fall der Vorbehalt der Ausübung dieser Tätigkeiten durch Medizinische Technologen für Laboratoriumsanalytik nicht gilt.
+
+###### § 25 Ermittlungen
 
 (1) Ergibt sich oder ist anzunehmen, dass jemand krank, krankheitsverdächtig, ansteckungsverdächtig oder Ausscheider ist oder dass ein Verstorbener krank, krankheitsverdächtig oder Ausscheider war, so stellt das Gesundheitsamt die erforderlichen Ermittlungen an, insbesondere über Art, Ursache, Ansteckungsquelle und Ausbreitung der Krankheit. Das Gesundheitsamt kann auch Ermittlungen anstellen, wenn sich ergibt oder anzunehmen ist, dass jemand durch eine Schutzimpfung oder andere Maßnahme der spezifischen Prophylaxe eine gesundheitliche Schädigung erlitten hat.
 
@@ -1572,11 +1579,11 @@ Darüber hinausgehende invasive Eingriffe sowie Eingriffe, die eine Betäubung e
 
 (5) Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) werden insoweit eingeschränkt.
 
-##### § 26 Teilnahme des behandelnden Arztes
+###### § 26 Teilnahme des behandelnden Arztes
 
 Der behandelnde Arzt ist berechtigt, mit Zustimmung des Patienten an den Untersuchungen nach § 25 sowie an der inneren Leichenschau teilzunehmen.
 
-##### § 27 Gegenseitige Unterrichtung
+###### § 27 Gegenseitige Unterrichtung
 
 (1) Das Gesundheitsamt unterrichtet insbesondere in den Fällen des § 25 Absatz 1 unverzüglich andere Gesundheitsämter oder die zuständigen Behörden und Stellen nach den §§ 54 bis 54b, deren Aufgaben nach diesem Gesetz berührt sind, und übermittelt ihnen die zur Erfüllung von deren Aufgaben erforderlichen Angaben, sofern ihm die Angaben vorliegen. Die zuständigen Behörden und Stellen nach den §§ 54 bis 54b unterrichten das Gesundheitsamt, wenn dessen Aufgaben nach diesem Gesetz berührt sind, und übermitteln diesem die zur Erfüllung von dessen Aufgaben erforderlichen Angaben, soweit ihnen die Angaben vorliegen.
 
@@ -1618,7 +1625,7 @@ Das Gesundheitsamt übermittelt der für Maßnahmen nach § 5 des Tiergesundheit
 
 (6) Steht auf Grund von Tatsachen fest oder besteht der Verdacht, dass jemand, der an einer meldepflichtigen Krankheit erkrankt oder mit einem meldepflichtigen Krankheitserreger infiziert ist, oder dass ein Verstorbener, der an einer meldepflichtigen Krankheit erkrankt oder mit einem meldepflichtigen Krankheitserreger infiziert war, nach dem vermuteten Zeitpunkt der Infektion Blut-, Organ-, Gewebe- oder Zellspender war, so hat das Gesundheitsamt, wenn es sich dabei um eine durch Blut, Blutprodukte, Organe, Gewebe oder Zellen übertragbare Krankheit oder Infektion handelt, die zuständigen Behörden von Bund und Ländern unverzüglich über den Befund oder Verdacht zu unterrichten. Es meldet dabei die ihm bekannt gewordenen Sachverhalte. Nach den Sätzen 1 und 2 hat es bei Spendern vermittlungspflichtiger Organe (§ 1a Nummer 2 des Transplantationsgesetzes) auch die nach § 11 des Transplantationsgesetzes errichtete oder bestimmte Koordinierungsstelle zu unterrichten, bei sonstigen Organ-, Gewebe- oder Zellspendern nach den Vorschriften des Transplantationsgesetzes die Einrichtung der medizinischen Versorgung, in der das Organ, das Gewebe oder die Zelle übertragen wurde oder übertragen werden soll, und die Gewebeeinrichtung, die das Gewebe oder die Zelle entnommen hat.
 
-##### § 28 Schutzmaßnahmen
+###### § 28 Schutzmaßnahmen
 
 (1) Werden Kranke, Krankheitsverdächtige, Ansteckungsverdächtige oder Ausscheider festgestellt oder ergibt sich, dass ein Verstorbener krank, krankheitsverdächtig oder Ausscheider war, so trifft die zuständige Behörde die notwendigen Schutzmaßnahmen, insbesondere die in den §§ 28a, 28b und 29 bis 31 genannten, soweit und solange es zur Verhinderung der Verbreitung übertragbarer Krankheiten erforderlich ist; sie kann insbesondere Personen verpflichten, den Ort, an dem sie sich befinden, nicht oder nur unter bestimmten Bedingungen zu verlassen oder von ihr bestimmte Orte oder öffentliche Orte nicht oder nur unter bestimmten Bedingungen zu betreten. Unter den Voraussetzungen von Satz 1 kann die zuständige Behörde Veranstaltungen oder sonstige Ansammlungen von Menschen beschränken oder verbieten und Badeanstalten oder in § 33 genannte Gemeinschaftseinrichtungen oder Teile davon schließen. Eine Heilbehandlung darf nicht angeordnet werden. Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes), der Versammlungsfreiheit (Artikel 8 des Grundgesetzes), der Freizügigkeit (Artikel 11 Absatz 1 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) werden insoweit eingeschränkt.
 
@@ -1626,7 +1633,7 @@ Das Gesundheitsamt übermittelt der für Maßnahmen nach § 5 des Tiergesundheit
 
 (3) Für Maßnahmen nach den Absätzen 1 und 2 gilt § 16 Abs. 5 bis 8, für ihre Überwachung außerdem § 16 Abs. 2 entsprechend.
 
-##### § 28a Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite
+###### § 28a Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite
 
 (1) Notwendige Schutzmaßnahmen im Sinne des § 28 Absatz 1 Satz 1 und 2 zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) können für die Dauer der Feststellung einer epidemischen Lage von nationaler Tragweite nach § 5 Absatz 1 Satz 1 durch den Deutschen Bundestag insbesondere sein
 
@@ -1686,7 +1693,7 @@ Schutzmaßnahmen nach Absatz 1 Nummer 16 dürfen nicht zur vollständigen Isolat
 
 (7) - (10) (weggefallen)
 
-##### § 28b Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik
+###### § 28b Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik
 
 (1) Unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite gilt zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) und zur Gewährleistung der Funktionsfähigkeit des Gesundheitssystems oder der sonstigen Kritischen Infrastrukturen in der Zeit vom 1. Oktober 2022 bis zum 7. April 2023:
 
@@ -1790,17 +1797,17 @@ Absatz 1 Satz 3 gilt entsprechend. Die Feststellung nach Satz 1 gilt als aufgeho
 
 2. abweichend von Absatz 2 Satz 4 die Zeit, die die letzte Einzelimpfung höchstens zurückliegen darf, zu regeln.
 
-##### § 28c Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen
+###### § 28c Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung für Personen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist oder die ein negatives Ergebnis eines Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können, Erleichterungen oder Ausnahmen von Geboten und Verboten nach dem fünften Abschnitt dieses Gesetzes oder von aufgrund der Vorschriften im fünften Abschnitt dieses Gesetzes erlassenen Geboten und Verboten zu regeln. In der Rechtsverordnung kann vorgesehen werden, dass Erleichterungen und Ausnahmen für Personen, bei denen von einer Immunisierung gegen das Coronavirus SARS-CoV-2 auszugehen ist, nur bestehen, wenn sie ein negatives Ergebnis eines Tests auf eine Infektion mit dem Coronavirus SARS-CoV-2 vorlegen können. Rechtsverordnungen der Bundesregierung nach den Sätzen 1 und 2 bedürfen der Zustimmung von Bundestag und Bundesrat. Wenn die Bundesregierung von ihrer Ermächtigung nach den Sätzen 1 und 2 Gebrauch macht, kann sie zugleich die Landesregierungen ermächtigen, ganz oder teilweise in Bezug auf von den Ländern nach dem fünften Abschnitt dieses Gesetzes erlassene Gebote und Verbote für die in Satz 1 genannten Personen Erleichterungen oder Ausnahmen zu regeln. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen.
 
-##### § 29 Beobachtung
+###### § 29 Beobachtung
 
 (1) Kranke, Krankheitsverdächtige, Ansteckungsverdächtige und Ausscheider können einer Beobachtung unterworfen werden.
 
 (2) Wer einer Beobachtung nach Absatz 1 unterworfen ist, hat die erforderlichen Untersuchungen durch die Beauftragten des Gesundheitsamtes zu dulden und den Anordnungen des Gesundheitsamtes Folge zu leisten. § 25 Absatz 3 gilt entsprechend. Eine Person nach Satz 1 ist ferner verpflichtet, den Beauftragten des Gesundheitsamtes zum Zwecke der Befragung oder der Untersuchung den Zutritt zu seiner Wohnung zu gestatten, auf Verlangen ihnen über alle seinen Gesundheitszustand betreffenden Umstände Auskunft zu geben und im Falle des Wechsels der Hauptwohnung oder des gewöhnlichen Aufenthaltes unverzüglich dem bisher zuständigen Gesundheitsamt Anzeige zu erstatten. Die Anzeigepflicht gilt auch bei Änderungen einer Tätigkeit im Lebensmittelbereich im Sinne von § 42 Abs. 1 Satz 1 oder in Einrichtungen im Sinne von § 23 Absatz 5 oder § 35 Absatz 1 Satz 1 sowie § 36 Absatz 1 sowie beim Wechsel einer Gemeinschaftseinrichtung im Sinne von § 33. § 16 Abs. 2 Satz 4 gilt entsprechend. Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 Grundgesetz), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz) und der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 Grundgesetz) werden insoweit eingeschränkt.
 
-##### § 30 Absonderung
+###### § 30 Absonderung
 
 (1) Die zuständige Behörde hat anzuordnen, dass Personen, die an Lungenpest oder an von Mensch zu Mensch übertragbarem hämorrhagischem Fieber erkrankt oder dessen verdächtig sind, unverzüglich in einem Krankenhaus oder einer für diese Krankheiten geeigneten Einrichtung abgesondert werden. Bei sonstigen Kranken sowie Krankheitsverdächtigen, Ansteckungsverdächtigen und Ausscheidern kann angeordnet werden, dass sie in einem geeigneten Krankenhaus oder in sonst geeigneter Weise abgesondert werden, bei Ausscheidern jedoch nur, wenn sie andere Schutzmaßnahmen nicht befolgen, befolgen können oder befolgen würden und dadurch ihre Umgebung gefährden.
 
@@ -1816,17 +1823,17 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung für Personen, bei 
 
 (7) Die zuständigen Gebietskörperschaften haben dafür zu sorgen, dass die nach Absatz 1 Satz 2 und Absatz 2 notwendigen Räume, Einrichtungen und Transportmittel sowie das erforderliche Personal zur Durchführung von Absonderungsmaßnahmen außerhalb der Wohnung zur Verfügung stehen. Die Räume und Einrichtungen zur Absonderung nach Absatz 2 sind nötigenfalls von den Ländern zu schaffen und zu unterhalten.
 
-##### § 31 Berufliches Tätigkeitsverbot
+###### § 31 Berufliches Tätigkeitsverbot
 
 Die zuständige Behörde kann Kranken, Krankheitsverdächtigen, Ansteckungsverdächtigen und Ausscheidern die Ausübung bestimmter beruflicher Tätigkeiten ganz oder teilweise untersagen. Satz 1 gilt auch für sonstige Personen, die Krankheitserreger so in oder an sich tragen, dass im Einzelfall die Gefahr einer Weiterverbreitung besteht.
 
-##### § 32 Erlass von Rechtsverordnungen
+###### § 32 Erlass von Rechtsverordnungen
 
 Die Landesregierungen werden ermächtigt, unter den Voraussetzungen, die für Maßnahmen nach den §§ 28 bis 28b und 29 bis 31 maßgebend sind, auch durch Rechtsverordnungen entsprechende Gebote und Verbote zur Bekämpfung übertragbarer Krankheiten zu erlassen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen. Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes), der Freizügigkeit (Artikel 11 Absatz 1 des Grundgesetzes), der Versammlungsfreiheit (Artikel 8 des Grundgesetzes), der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) und des Brief- und Postgeheimnisses (Artikel 10 des Grundgesetzes) können insoweit eingeschränkt werden.
 
 ## 6. Abschnitt Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen
 
-##### § 33 Gemeinschaftseinrichtungen
+###### § 33 Gemeinschaftseinrichtungen
 
 Gemeinschaftseinrichtungen im Sinne dieses Gesetzes sind Einrichtungen, in denen überwiegend minderjährige Personen betreut werden; dazu gehören insbesondere:
 
@@ -1840,7 +1847,7 @@ Gemeinschaftseinrichtungen im Sinne dieses Gesetzes sind Einrichtungen, in denen
 
 5. Ferienlager.
 
-##### § 34 Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes
+###### § 34 Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes
 
 (1) Personen, die an
 
@@ -1964,7 +1971,7 @@ aufgetreten ist.
 
 (11) Bei Erstaufnahme in die erste Klasse einer allgemein bildenden Schule hat das Gesundheitsamt oder der von ihm beauftragte Arzt den Impfstatus zu erheben und die hierbei gewonnenen aggregierten und anonymisierten Daten über die oberste Landesgesundheitsbehörde dem Robert Koch-Institut zu übermitteln.
 
-##### § 35 Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung
+###### § 35 Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung
 
 (1) Folgende Einrichtungen und Unternehmen haben sicherzustellen, dass die nach dem Stand der medizinischen Wissenschaft und der Pflegewissenschaft erforderlichen Maßnahmen getroffen werden, um Infektionen zu verhüten und die Weiterverbreitung von Krankheitserregern zu vermeiden:
 
@@ -2010,7 +2017,7 @@ Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf ander
 
 (6) Die in Absatz 1 Satz 1 Nummer 1 und 2 genannten voll- und teilstationären Einrichtungen, die zugelassene Pflegeeinrichtungen im Sinne von § 72 des Elften Buches Sozialgesetzbuch sind, sind verpflichtet, dem Robert Koch-Institut monatlich Angaben zum Anteil der Personen, die gegen das Coronavirus SARS-CoV-2 geimpft sind, jeweils bezogen auf die Personen, die in der Einrichtung beschäftigt sind oder behandelt, betreut oder gepflegt werden oder untergebracht sind, in anonymisierter Form zu übermitteln. Haben sich die nach Satz 1 zu übermittelnden Angaben in einem Monat gegenüber dem Vormonat nicht geändert, übermittelt die Einrichtung die vereinfachte Meldung, dass keine Änderungen im Vergleich zum Vormonat vorliegen. In diesen Fällen werden die Daten des Vormonats durch das Robert Koch-Institut fortgeschrieben. Soweit es zur Erfüllung der Pflichten nach den Sätzen 1 und 2 erforderlich ist, darf die Leitung der in Satz 1 genannten Einrichtungen zu diesem Zweck personenbezogene Daten einschließlich Daten zum Impfstatus in Bezug auf die Coronavirus-Krankheit-2019 (COVID-19) verarbeiten. Die Daten nach Satz 4 dürfen auch zur Beurteilung der Gefährdungslage in der Einrichtung im Hinblick auf die Coronavirus-Krankheit-2019 (COVID-19) verarbeitet werden, solange und soweit dies erforderlich ist. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend. Bestehen zum Zeitpunkt des Inkrafttretens dieser Regelung bereits landesrechtliche Meldeverfahren, die auf bisherigem Bundesrecht beruhen und die zu den durch das Robert Koch-Institut nach Satz 1 zu erhebenden Daten anschlussfähig sind, bleiben die landesrechtlichen Meldeverfahren von der Änderung unberührt, wenn die Länder nach Kreisen und kreisfreien Städten aufgeschlüsselte Daten direkt an das Robert Koch-Institut übermitteln; insoweit entfällt die Meldepflicht nach Satz 1. Das Robert Koch-Institut führt die ihm übermittelten Daten zusammen und übermittelt sie monatlich in anonymisierter Form dem Bundesministerium für Gesundheit sowie den Ländern bezogen auf Länder- und Kreisebene. Die nach den Sätzen 4 und 5 erhobenen Daten sind spätestens am Ende des sechsten Monats nach ihrer Erhebung zu löschen; die Bestimmungen des allgemeinen Datenschutzrechts bleiben unberührt. Die nach Satz 1 zu übermittelnden Angaben werden letztmalig für den Monat April 2023 erhoben.
 
-##### § 36 Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung
+###### § 36 Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung
 
 (1) Folgende Einrichtungen und Unternehmen müssen in Hygieneplänen innerbetriebliche Verfahrensweisen zur Infektionshygiene festlegen und unterliegen der infektionshygienischen Überwachung durch das Gesundheitsamt:
 
@@ -2120,7 +2127,7 @@ Personen, die keinen auf Grund der Rechtsverordnung nach Satz 1 Nummer 1 und 1a 
 
 ## 7. Abschnitt Wasser
 
-##### § 37 Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, Überwachung
+###### § 37 Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, Überwachung
 
 (1) Wasser für den menschlichen Gebrauch muss so beschaffen sein, dass durch seinen Genuss oder Gebrauch eine Schädigung der menschlichen Gesundheit, insbesondere durch Krankheitserreger, nicht zu besorgen ist.
 
@@ -2134,7 +2141,7 @@ muss so beschaffen sein, dass durch seinen Gebrauch eine Schädigung der menschl
 
 (3) Wasserversorgungsanlagen, Schwimm- oder Badebecken und Schwimm- oder Badeteiche einschließlich ihrer Wasseraufbereitungsanlagen unterliegen hinsichtlich der in den Absätzen 1 und 2 genannten Anforderungen der Überwachung durch das Gesundheitsamt und, soweit es sich um die Überwachung radioaktiver Stoffe im Wasser für den menschlichen Gebrauch handelt, durch die sonst zuständige Behörde.
 
-##### § 38 Verordnungsermächtigung
+###### § 38 Verordnungsermächtigung
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen,
 
@@ -2170,6 +2177,8 @@ b) welche Anforderungen an Werkstoffe und Materialien, die Kontakt mit dem Wasse
 
 7. welche Voraussetzungen, Inhalte und Verfahren für die Prüfungen und Feststellungen des Umweltbundesamtes nach Nummer 6 gelten,
 
+7a. nach welchem Verfahren Konformitätsbewertungsstellen nach der Delegierten Verordnung (EU) 2024/370 notifiziert werden,
+
 8. in welchen Fällen das Wasser für den menschlichen Gebrauch, das den Anforderungen nach Nummer 1 oder Nummer 6 nicht entspricht, nicht oder nur eingeschränkt abgegeben oder anderen nicht oder nur eingeschränkt zur Verfügung gestellt werden darf,
 
 9. in welchen Fällen und wie die zuständige Behörde oder die Betreiber von Wasserversorgungsanlagen die Bevölkerung zu informieren haben über
@@ -2204,7 +2213,7 @@ k) Verbraucherbeschwerden in Bezug auf Pflichten des Betreibers nach diesem Gese
 
 13. in welchen Fällen und wie die Betreiber von Wasserversorgungsanlagen und Installationsunternehmen dem Gesundheitsamt Feststellungen über eine gefährliche Beschaffenheit von Wasserversorgungsanlagen, insbesondere im Hinblick auf das Vorhandensein des Werkstoffs Blei, mitzuteilen haben.
 
-Die Rechtsverordnung bedarf des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz, soweit in der Rechtsverordnung Regelungen zu Wasserversorgungsanlagen mit Wassergewinnung oder zu radioaktiven Stoffen im Wasser für den menschlichen Gebrauch getroffen werden.
+Die Rechtsverordnung bedarf des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz, soweit in der Rechtsverordnung Regelungen zu Wasserversorgungsanlagen mit Wassergewinnung oder zu radioaktiven Stoffen im Wasser für den menschlichen Gebrauch getroffen werden. Das Bundesministerium für Gesundheit kann die Ermächtigung nach Satz 1 Nummer 7a durch Rechtsverordnung auf das Umweltbundesamt übertragen.
 
 (2) Das Bundesministerium für Gesundheit bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates,
 
@@ -2222,7 +2231,7 @@ Die Aufnahme von Mitteln und Verfahren zur Aufbereitung des in § 37 Absatz 2 Sa
 
 (3) (weggefallen)
 
-##### § 39 Untersuchungen, Maßnahmen der zuständigen Behörde
+###### § 39 Untersuchungen, Maßnahmen der zuständigen Behörde
 
 (1) Der Betreiber einer Wasserversorgungsanlage, eines Schwimm- oder Badebeckens oder eines Schwimm- oder Badeteiches hat die ihm auf Grund von Rechtsverordnungen nach § 38 Abs. 1 oder 2 obliegenden Wasseruntersuchungen auf eigene Kosten durchzuführen oder durchführen zu lassen.
 
@@ -2234,11 +2243,15 @@ Die Aufnahme von Mitteln und Verfahren zur Aufbereitung des in § 37 Absatz 2 Sa
 
 § 16 Abs. 6 bis 8 gilt entsprechend.
 
-##### § 40 Aufgaben des Umweltbundesamtes
+###### § 40 Aufgaben des Umweltbundesamtes
 
-Das Umweltbundesamt hat im Rahmen dieses Gesetzes die Aufgabe, Konzeptionen zur Vorbeugung, Erkennung und Verhinderung der Weiterverbreitung von durch Wasser übertragbaren Krankheiten zu entwickeln. Beim Umweltbundesamt können zur Erfüllung dieser Aufgaben beratende Fachkommissionen eingerichtet werden, die Empfehlungen zum Schutz der menschlichen Gesundheit hinsichtlich der Anforderungen an die Qualität des in § 37 Abs. 1 und 2 bezeichneten Wassers sowie der insoweit notwendigen Maßnahmen abgeben können. Die Mitglieder dieser Kommissionen werden vom Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit sowie im Benehmen mit den jeweils zuständigen obersten Landesbehörden berufen. Vertreter des Bundesministeriums für Gesundheit, des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit und des Umweltbundesamtes nehmen mit beratender Stimme an den Sitzungen teil. Weitere Vertreter von Bundes- und Landesbehörden können daran teilnehmen.
+(1) Das Umweltbundesamt hat im Rahmen dieses Gesetzes die Aufgabe, Konzeptionen zur Vorbeugung, Erkennung und Verhinderung der Weiterverbreitung von durch Wasser übertragbaren Krankheiten zu entwickeln.
 
-##### § 41 Abwasser
+(2) Beim Umweltbundesamt können zur Erfüllung dieser Aufgaben beratende Fachkommissionen eingerichtet werden, die Empfehlungen zum Schutz der menschlichen Gesundheit hinsichtlich der Anforderungen an die Qualität des in § 37 Abs. 1 und 2 bezeichneten Wassers sowie der insoweit notwendigen Maßnahmen abgeben können. Die Mitglieder dieser Kommissionen werden vom Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit sowie im Benehmen mit den jeweils zuständigen obersten Landesbehörden berufen. Vertreter des Bundesministeriums für Gesundheit, des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit und des Umweltbundesamtes nehmen mit beratender Stimme an den Sitzungen teil. Weitere Vertreter von Bundes- und Landesbehörden können daran teilnehmen.
+
+(3) Das Umweltbundesamt nimmt die Aufgaben der notifizierenden Behörde nach Artikel 3 der Delegierten Verordnung (EU) 2024/370 wahr.
+
+###### § 41 Abwasser
 
 (1) Die Abwasserbeseitigungspflichtigen haben darauf hinzuwirken, dass Abwasser so beseitigt wird, dass Gefahren für die menschliche Gesundheit durch Krankheitserreger nicht entstehen. Einrichtungen zur Beseitigung des in Satz 1 genannten Abwassers unterliegen der infektionshygienischen Überwachung durch die zuständige Behörde.
 
@@ -2247,7 +2260,7 @@ Das Umweltbundesamt hat im Rahmen dieses Gesetzes die Aufgabe, Konzeptionen zur 
 ## 8. Abschnitt Gesundheitliche Anforderungen
 an das Personal beim Umgang mit Lebensmitteln
 
-##### § 42 Tätigkeits- und Beschäftigungsverbote
+###### § 42 Tätigkeits- und Beschäftigungsverbote
 
 (1) Personen, die
 
@@ -2291,7 +2304,7 @@ Satz 1 gilt entsprechend für Personen, die mit Bedarfsgegenständen, die für d
 
 (5) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Kreis der in Absatz 1 Nr. 1 und 2 genannten Krankheiten, der in Absatz 1 Nr. 3 genannten Krankheitserreger und der in Absatz 2 genannten Lebensmittel einzuschränken, wenn epidemiologische Erkenntnisse dies zulassen, oder zu erweitern, wenn dies zum Schutz der menschlichen Gesundheit vor einer Gefährdung durch Krankheitserreger erforderlich ist. In dringenden Fällen kann zum Schutz der Bevölkerung die Rechtsverordnung ohne Zustimmung des Bundesrates erlassen werden. Eine auf der Grundlage des Satzes 2 erlassene Verordnung tritt ein Jahr nach ihrem Inkrafttreten außer Kraft; ihre Geltungsdauer kann mit Zustimmung des Bundesrates verlängert werden.
 
-##### § 43 Belehrung, Bescheinigung des Gesundheitsamtes
+###### § 43 Belehrung, Bescheinigung des Gesundheitsamtes
 
 (1) Personen dürfen gewerbsmäßig die in § 42 Abs. 1 bezeichneten Tätigkeiten erstmalig nur dann ausüben und mit diesen Tätigkeiten erstmalig nur dann beschäftigt werden, wenn durch eine nicht mehr als drei Monate alte Bescheinigung des Gesundheitsamtes oder eines vom Gesundheitsamt beauftragten Arztes nachgewiesen ist, dass sie
 
@@ -2316,11 +2329,11 @@ Liegen Anhaltspunkte vor, dass bei einer Person Hinderungsgründe nach § 42 Abs
 ## 9. Abschnitt Tätigkeiten mit
 Krankheitserregern
 
-##### § 44 Erlaubnispflicht für Tätigkeiten mit Krankheitserregern
+###### § 44 Erlaubnispflicht für Tätigkeiten mit Krankheitserregern
 
 Wer Krankheitserreger in den Geltungsbereich dieses Gesetzes verbringen, sie ausführen, aufbewahren, abgeben oder mit ihnen arbeiten will, bedarf einer Erlaubnis der zuständigen Behörde.
 
-##### § 45 Ausnahmen
+###### § 45 Ausnahmen
 
 (1) Einer Erlaubnis nach § 44 bedürfen nicht Personen, die zur selbständigen Ausübung des Berufs als Arzt, Zahnarzt oder Tierarzt berechtigt sind, für mikrobiologische Untersuchungen zur orientierenden medizinischen und veterinärmedizinischen Diagnostik mittels solcher kultureller Verfahren, die auf die primäre Anzucht und nachfolgender Subkultur zum Zwecke der Resistenzbestimmung beschränkt sind und bei denen die angewendeten Methoden nicht auf den spezifischen Nachweis meldepflichtiger Krankheitserreger gerichtet sind, soweit die Untersuchungen für die unmittelbare Behandlung der eigenen Patienten für die eigene Praxis durchgeführt werden.
 
@@ -2348,11 +2361,11 @@ c) von der jeweiligen Berufskammer vorgesehen sind.
 
 (4) Die zuständige Behörde hat Tätigkeiten im Sinne der Absätze 1, 2 und 3 zu untersagen, wenn eine Person, die die Arbeiten ausführt, sich bezüglich der erlaubnisfreien Tätigkeiten nach den Absätzen 1, 2 oder 3 als unzuverlässig erwiesen hat.
 
-##### § 46 Tätigkeit unter Aufsicht
+###### § 46 Tätigkeit unter Aufsicht
 
 Der Erlaubnis nach § 44 bedarf nicht, wer unter Aufsicht desjenigen, der eine Erlaubnis besitzt oder nach § 45 keiner Erlaubnis bedarf, tätig ist.
 
-##### § 47 Versagungsgründe, Voraussetzungen für die Erlaubnis
+###### § 47 Versagungsgründe, Voraussetzungen für die Erlaubnis
 
 (1) Die Erlaubnis ist zu versagen, wenn der Antragsteller
 
@@ -2372,11 +2385,11 @@ nachgewiesen. Die zuständige Behörde hat auch eine andere, mindestens zweijäh
 
 (4) Bei Antragstellern, die nicht die Approbation oder Bestallung als Arzt, Zahnarzt oder Tierarzt besitzen, darf sich die Erlaubnis nicht auf den direkten oder indirekten Nachweis eines Krankheitserregers für die Feststellung einer Infektion oder übertragbaren Krankheit erstrecken. Satz 1 gilt nicht für Antragsteller, die Arbeiten im Auftrag eines Arztes, Zahnarztes oder Tierarztes, die im Besitz der Erlaubnis sind, oder Untersuchungen in Krankenhäusern für die unmittelbare Behandlung der Patienten des Krankenhauses durchführen.
 
-##### § 48 Rücknahme und Widerruf
+###### § 48 Rücknahme und Widerruf
 
 Die Erlaubnis nach § 44 kann außer nach den Vorschriften des Verwaltungsverfahrensgesetzes zurückgenommen oder widerrufen werden, wenn ein Versagungsgrund nach § 47 Abs. 1 vorliegt.
 
-##### § 49 Anzeigepflichten
+###### § 49 Anzeigepflichten
 
 (1) Wer Tätigkeiten im Sinne von § 44 erstmalig aufnehmen will, hat dies der zuständigen Behörde mindestens 30 Tage vor Aufnahme anzuzeigen. Die Anzeige nach Satz 1 muss enthalten:
 
@@ -2396,11 +2409,11 @@ Soweit die Angaben in einem anderen durch Bundesrecht geregelten Verfahren berei
 
 2. die Voraussetzungen für eine gefahrlose Entsorgung nicht gegeben sind.
 
-##### § 50 Veränderungsanzeige
+###### § 50 Veränderungsanzeige
 
 Wer eine in § 44 genannte Tätigkeit ausübt, hat jede wesentliche Veränderung der Beschaffenheit der Räume und Einrichtungen, der Entsorgungsmaßnahmen sowie von Art und Umfang der Tätigkeit unverzüglich der zuständigen Behörde anzuzeigen. Anzuzeigen ist auch die Beendigung oder Wiederaufnahme der Tätigkeit. § 49 Abs. 1 Satz 3 gilt entsprechend. Die Anzeigepflicht gilt nicht für Personen, die auf der Grundlage des § 46 tätig sind.
 
-##### § 50a Laborcontainment und Ausrottung des Poliovirus; Verordnungsermächtigung
+###### § 50a Laborcontainment und Ausrottung des Poliovirus; Verordnungsermächtigung
 
 (1) Natürliche oder juristische Personen, die die tatsächliche Sachherrschaft über Polioviren oder Material, das möglicherweise Polioviren enthält, haben (Besitzer), haben dies der zuständigen Behörde unverzüglich anzuzeigen. Die Anzeige muss Angaben zu der Einrichtung, zu der verantwortlichen Person, zu der Art und der Menge der Polioviren oder des Materials sowie zu dem damit verfolgten Zweck enthalten. Im Fall einer wesentlichen Veränderung der Tatsachen nach Satz 2 gelten die Sätze 1 und 2 entsprechend. Die zuständige Behörde übermittelt die Angaben nach den Sätzen 1 bis 3 unverzüglich der obersten Landesgesundheitsbehörde, die sie unverzüglich der Geschäftsstelle der Nationalen Kommission für die Polioeradikation beim Robert Koch-Institut übermittelt. Die Pflichten nach den §§ 49 und 50 bleiben von den Sätzen 1 bis 3 unberührt.
 
@@ -2416,15 +2429,15 @@ Wer eine in § 44 genannte Tätigkeit ausübt, hat jede wesentliche Veränderung
 
 (5) Wenn der Verdacht besteht, dass eine Person Polioviren oder Material, das möglicherweise Polioviren enthält, besitzt, ohne dass dies nach Absatz 1 angezeigt wurde, kann die zuständige Behörde die erforderlichen Ermittlungen durchführen. Für die Ermittlungen gilt § 16 Absatz 2 bis 4 entsprechend. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
 
-##### § 51 Aufsicht
+###### § 51 Aufsicht
 
 Wer eine in § 44 genannte Tätigkeit ausübt oder Polioviren oder Material, das möglicherweise Polioviren enthält, besitzt, untersteht der Aufsicht der zuständigen Behörde. Er und der sonstige Berechtigte ist insoweit verpflichtet, den von der zuständigen Behörde beauftragten Personen Grundstücke, Räume, Anlagen und Einrichtungen zugänglich zu machen, auf Verlangen Bücher und sonstige Unterlagen vorzulegen, die Einsicht in diese zu gewähren und die notwendigen Prüfungen zu dulden. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 Grundgesetz) wird insoweit eingeschränkt.
 
-##### § 52 Abgabe
+###### § 52 Abgabe
 
 Krankheitserreger sowie Material, das Krankheitserreger enthält, dürfen nur an denjenigen abgegeben werden, der eine Erlaubnis besitzt, unter Aufsicht eines Erlaubnisinhabers tätig ist oder einer Erlaubnis nach § 45 Absatz 2 Nummer 1 oder Nummer 3 nicht bedarf. Satz 1 gilt nicht für staatliche human- oder veterinärmedizinische Untersuchungseinrichtungen.
 
-##### § 53 Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge
+###### § 53 Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften
 
@@ -2436,7 +2449,7 @@ zu erlassen, soweit dies zum Schutz der Bevölkerung vor übertragbaren Krankhei
 
 (2) In der Rechtsverordnung nach Absatz 1 kann zum Zwecke der Überwachung der Tätigkeiten auch vorgeschrieben werden, dass bei bestimmten Tätigkeiten Verzeichnisse zu führen und Berichte über die durchgeführten Tätigkeiten der zuständigen Behörde vorzulegen sowie bestimmte Wahrnehmungen dem Gesundheitsamt zu melden sind, soweit dies zur Verhütung oder Bekämpfung übertragbarer Krankheiten erforderlich ist.
 
-##### § 53a Verfahren über eine einheitliche Stelle, Entscheidungsfrist
+###### § 53a Verfahren über eine einheitliche Stelle, Entscheidungsfrist
 
 (1) Verwaltungsverfahren nach diesem Abschnitt können über eine einheitliche Stelle abgewickelt werden.
 
@@ -2444,11 +2457,11 @@ zu erlassen, soweit dies zum Schutz der Bevölkerung vor übertragbaren Krankhei
 
 ## 10. Abschnitt Vollzug des Gesetzes und zuständige Behörden
 
-##### § 54 Vollzug durch die Länder
+###### § 54 Vollzug durch die Länder
 
 Die Landesregierungen bestimmen durch Rechtsverordnung die zuständigen Behörden im Sinne dieses Gesetzes, soweit eine landesrechtliche Regelung nicht besteht und dieses Gesetz durch die Länder vollzogen wird. Sie können ferner darin bestimmen, dass nach diesem Gesetz der obersten Landesgesundheitsbehörde zugewiesene Aufgaben ganz oder im Einzelnen von einer dieser nachgeordneten Landesbehörde wahrgenommen werden und dass auf die Wahrnehmung von Zustimmungsvorbehalten der obersten Landesbehörden nach diesem Gesetz verzichtet wird.
 
-##### § 54a Vollzug durch die Bundeswehr
+###### § 54a Vollzug durch die Bundeswehr
 
 (1) Den zuständigen Stellen der Bundeswehr obliegt der Vollzug dieses Gesetzes, soweit er betrifft:
 
@@ -2474,19 +2487,19 @@ Die Landesregierungen bestimmen durch Rechtsverordnung die zuständigen Behörde
 
 (5) Absatz 1 Nummer 4 und 5 lässt völkerrechtliche Verträge über die Stationierung ausländischer Streitkräfte in der Bundesrepublik Deutschland unberührt.
 
-##### § 54b Vollzug durch das Eisenbahn-Bundesamt
+###### § 54b Vollzug durch das Eisenbahn-Bundesamt
 
 Im Bereich der Eisenbahnen des Bundes und der Magnetschwebebahnen obliegt der Vollzug dieses Gesetzes für Schienenfahrzeuge sowie für Anlagen zur ausschließlichen Befüllung von Schienenfahrzeugen dem Eisenbahn-Bundesamt, soweit die Aufgaben des Gesundheitsamtes und der zuständigen Behörde nach den §§ 15a, 37 bis 39 und 41 betroffen sind.
 
 ## 11. Abschnitt Angleichung an Gemeinschaftsrecht
 
-##### § 55 Angleichung an Gemeinschaftsrecht
+###### § 55 Angleichung an Gemeinschaftsrecht
 
 Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der Angleichung der Rechtsvorschriften der Mitgliedstaaten der Europäischen Union erlassen werden, soweit dies zur Durchführung von Verordnungen oder zur Umsetzung von Richtlinien oder Entscheidungen des Rates der Europäischen Union oder der Kommission der Europäischen Gemeinschaften, die Sachbereiche dieses Gesetzes betreffen, erforderlich ist.
 
 ## 12. Abschnitt Entschädigung in besonderen Fällen
 
-##### § 56 Entschädigung
+###### § 56 Entschädigung
 
 (1) Wer auf Grund dieses Gesetzes als Ausscheider, Ansteckungsverdächtiger, Krankheitsverdächtiger oder als sonstiger Träger von Krankheitserregern im Sinne von § 31 Satz 2 Verboten in der Ausübung seiner bisherigen Erwerbstätigkeit unterliegt oder unterworfen wird und dadurch einen Verdienstausfall erleidet, erhält eine Entschädigung in Geld. Das Gleiche gilt für eine Person, die nach § 30, auch in Verbindung mit § 32, abgesondert wird oder sich auf Grund einer nach § 36 Absatz 8 Satz 1 Nummer 1 erlassenen Rechtsverordnung absondert. Eine Entschädigung in Geld kann auch einer Person gewährt werden, wenn diese sich bereits vor der Anordnung einer Absonderung nach § 30 oder eines beruflichen Tätigkeitsverbots nach § 31 vorsorglich abgesondert oder vorsorglich bestimmte berufliche Tätigkeiten ganz oder teilweise nicht ausgeübt hat und dadurch einen Verdienstausfall erleidet, wenn eine Anordnung einer Absonderung nach § 30 oder eines beruflichen Tätigkeitsverbots nach § 31 bereits zum Zeitpunkt der vorsorglichen Absonderung oder der vorsorglichen Nichtausübung beruflicher Tätigkeiten hätte erlassen werden können. Eine Entschädigung nach den Sätzen 1 und 2 erhält nicht, wer durch Inanspruchnahme einer Schutzimpfung oder anderen Maßnahme der spezifischen Prophylaxe, die gesetzlich vorgeschrieben ist oder im Bereich des gewöhnlichen Aufenthaltsorts des Betroffenen öffentlich empfohlen wurde, oder durch Nichtantritt einer vermeidbaren Reise in ein bereits zum Zeitpunkt der Abreise eingestuftes Risikogebiet ein Verbot in der Ausübung seiner bisherigen Tätigkeit oder eine Absonderung hätte vermeiden können. Eine Reise ist im Sinne des Satzes 4 vermeidbar, wenn zum Zeitpunkt der Abreise keine zwingenden und unaufschiebbaren Gründe für die Reise vorlagen.
 
@@ -2532,7 +2545,7 @@ Liegen die Voraussetzungen für eine Anrechnung sowohl nach Nummer 3 als auch na
 
 (12) Die zuständige Behörde hat auf Antrag dem Arbeitgeber einen Vorschuss in der voraussichtlichen Höhe des Erstattungsbetrages, den in Heimarbeit Beschäftigten und Selbständigen in der voraussichtlichen Höhe der Entschädigung zu gewähren.
 
-##### § 57 Verhältnis zur Sozialversicherung und zur Arbeitsförderung
+###### § 57 Verhältnis zur Sozialversicherung und zur Arbeitsförderung
 
 (1) Für Personen, denen eine Entschädigung nach § 56 Abs. 1 zu gewähren ist, besteht eine Versicherungspflicht in der gesetzlichen Rentenversicherung fort. Bemessungsgrundlage für Beiträge sind
 
@@ -2552,25 +2565,25 @@ Das entschädigungspflichtige Land trägt die Beiträge zur gesetzlichen Rentenv
 
 (6) Wird eine Entschädigung nach § 56 Absatz 1a gewährt, gelten die Absätze 1, 2 und 5 entsprechend mit der Maßgabe, dass sich die Bemessungsgrundlage für die Beiträge nach Absatz 1 Satz 2 Nummer 2 bestimmt.
 
-##### § 58 Aufwendungserstattung
+###### § 58 Aufwendungserstattung
 
 Entschädigungsberechtigte im Sinne des § 56 Absatz 1 und 1a, die der Pflichtversicherung in der gesetzlichen Kranken-, Renten- sowie der sozialen Pflegeversicherung nicht unterliegen, haben gegenüber dem nach § 66 Absatz 1 Satz 1 zur Zahlung verpflichteten Land einen Anspruch auf Erstattung ihrer Aufwendungen für soziale Sicherung in angemessenem Umfang. In den Fällen, in denen sie Netto-Arbeitsentgelt und Arbeitseinkommen aus einer Tätigkeit beziehen, die als Ersatz der verbotenen Tätigkeit ausgeübt wird, mindert sich der Anspruch nach Satz 1 in dem Verhältnis dieses Einkommens zur ungekürzten Entschädigung.
 
-##### § 59 Arbeits- und sozialrechtliche Sondervorschriften
+###### § 59 Arbeits- und sozialrechtliche Sondervorschriften
 
 (1) Wird ein Beschäftigter während seines Urlaubs nach § 30, auch in Verbindung mit § 32, abgesondert oder hat er sich auf Grund einer nach § 36 Absatz 8 Satz 1 Nummer 1 erlassenen Rechtsverordnung abzusondern, so werden die Tage der Absonderung nicht auf den Jahresurlaub angerechnet.
 
 (2) Kranke und Ausscheider, die länger als sechs Monate Anspruch auf eine Entschädigung nach § 56 Absatz 1 Satz 1 oder Satz 2 haben oder mit hoher Wahrscheinlichkeit haben werden, gelten als Menschen mit Behinderungen im Sinne des Dritten Buches Sozialgesetzbuch.
 
-##### (XXXX) §§ 60 bis 64 (weggefallen)
+###### (XXXX) §§ 60 bis 64 (weggefallen)
 
-##### § 65 Entschädigung bei behördlichen Maßnahmen
+###### § 65 Entschädigung bei behördlichen Maßnahmen
 
 (1) Soweit auf Grund einer Maßnahme nach den §§ 16 und 17 Gegenstände vernichtet, beschädigt oder in sonstiger Weise in ihrem Wert gemindert werden oder ein anderer nicht nur unwesentlicher Vermögensnachteil verursacht wird, ist eine Entschädigung in Geld zu leisten; eine Entschädigung erhält jedoch nicht derjenige, dessen Gegenstände mit Krankheitserregern oder mit Gesundheitsschädlingen als vermutlichen Überträgern solcher Krankheitserreger behaftet oder dessen verdächtig sind. § 254 des Bürgerlichen Gesetzbuchs ist entsprechend anzuwenden.
 
 (2) Die Höhe der Entschädigung nach Absatz 1 bemisst sich im Falle der Vernichtung eines Gegenstandes nach dessen gemeinem Wert, im Falle der Beschädigung oder sonstigen Wertminderung nach der Minderung des gemeinen Wertes. Kann die Wertminderung behoben werden, so bemisst sich die Entschädigung nach den hierfür erforderlichen Aufwendungen. Die Entschädigung darf den gemeinen Wert nicht übersteigen, den der Gegenstand ohne die Beschädigung oder Wertminderung gehabt hätte. Bei Bestimmung des gemeinen Wertes sind der Zustand und alle sonstigen den Wert des Gegenstandes bestimmenden Umstände in dem Zeitpunkt maßgeblich, in dem die Maßnahme getroffen wurde. Die Entschädigung für andere nicht nur unwesentliche Vermögensnachteile darf den Betroffenen nicht besser stellen, als er ohne die Maßnahme gestellt sein würde. Auf Grund der Maßnahme notwendige Aufwendungen sind zu erstatten.
 
-##### § 66 Zahlungsverpflichteter
+###### § 66 Zahlungsverpflichteter
 
 Ansprüche nach den §§ 56 bis 58 richten sich gegen das Land,
 
@@ -2582,13 +2595,13 @@ Ansprüche nach den §§ 56 bis 58 richten sich gegen das Land,
 
 Ansprüche nach § 65 richten sich gegen das Land, in dem der Schaden verursacht worden ist.
 
-##### § 67 Pfändung
+###### § 67 Pfändung
 
 Die nach § 56 Abs. 2 Satz 2 und 3 zu zahlenden Entschädigungen können nach den für das Arbeitseinkommen geltenden Vorschriften der Zivilprozessordnung gepfändet werden.
 
 ## 13. Abschnitt Rechtsweg und Kosten
 
-##### § 68 Rechtsweg
+###### § 68 Rechtsweg
 
 Für Streitigkeiten über Ansprüche nach den §§ 56 bis 58 und 65 gegen das nach § 66 Absatz 1 zur Zahlung verpflichtete Land ist der Verwaltungsrechtsweg gegeben. Der Verwaltungsrechtsweg ist auch gegeben, soweit andere Ansprüche wegen Entschädigung für Maßnahmen aufgrund dieses Gesetzes geltend gemacht werden. Artikel 14 Absatz 3 Satz 4 und Artikel 34 Satz 3 des Grundgesetzes bleiben unberührt.
 
@@ -2598,7 +2611,7 @@ Für Streitigkeiten über Ansprüche nach den §§ 56 bis 58 und 65 gegen das na
 
 (3) (weggefallen)
 
-##### § 69 Kosten
+###### § 69 Kosten
 
 (1) Folgende Kosten sind aus öffentlichen Mitteln zu bestreiten, soweit nicht ein anderer Kostenträger zur Kostentragung verpflichtet ist:
 
@@ -2628,11 +2641,11 @@ In einer Rechtsverordnung nach § 13 Absatz 2 Satz 7 kann im Einvernehmen mit de
 
 ## 14. Abschnitt Sondervorschriften
 
-##### (XXXX) §§ 70 bis 72 (weggefallen)
+###### (XXXX) §§ 70 bis 72 (weggefallen)
 
 ## 14. Abschnitt Straf- und Bußgeldvorschriften
 
-##### § 73 Bußgeldvorschriften
+###### § 73 Bußgeldvorschriften
 
 (1) (weggefallen)
 
@@ -2730,13 +2743,13 @@ In einer Rechtsverordnung nach § 13 Absatz 2 Satz 7 kann im Einvernehmen mit de
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1a Nummer 7a bis 7d, 8, 9b, 11a, 17a und 21 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
 
-##### § 74 Strafvorschriften
+###### § 74 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer eine in § 73 Absatz 1 oder Absatz 1a Nummer 1 bis 7, 11, 11a, 12 bis 20, 22, 22a, 23 oder 24 bezeichnete vorsätzliche Handlung begeht und dadurch eine in § 6 Absatz 1 Satz 1 Nummer 1 genannte Krankheit, einen in § 7 genannten Krankheitserreger oder eine in einer Rechtsverordnung nach § 15 Absatz 1 oder Absatz 3 genannte Krankheit oder einen dort genannten Krankheitserreger verbreitet.
 
 (2) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer eine in § 73 Absatz 1a Nummer 8 bezeichnete Handlung begeht, indem er wissentlich eine Schutzimpfung gegen das Coronavirus SARS-CoV-2 zur Täuschung im Rechtsverkehr nicht richtig dokumentiert.
 
-##### § 75 Weitere Strafvorschriften
+###### § 75 Weitere Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -2754,9 +2767,9 @@ In einer Rechtsverordnung nach § 13 Absatz 2 Satz 7 kann im Einvernehmen mit de
 
 (4) Handelt der Täter in den Fällen der Absätze 1 oder 2 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-(5) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen § 24 Satz 1, auch in Verbindung mit Satz 2, dieser auch in Verbindung mit einer Rechtsverordnung nach § 15 Abs. 1, eine Person behandelt.
+(5) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen § 24 Absatz 1 Satz 1, auch in Verbindung § 15 Absatz 1 Satz 2, eine Person behandelt.
 
-##### § 75a Weitere Strafvorschriften
+###### § 75a Weitere Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer wissentlich zur Täuschung im Rechtsverkehr
 
@@ -2776,13 +2789,13 @@ In einer Rechtsverordnung nach § 13 Absatz 2 Satz 7 kann im Einvernehmen mit de
 
 zur Täuschung im Rechtsverkehr gebraucht.
 
-##### § 76 Einziehung
+###### § 76 Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 75 Abs. 1 oder 3 bezieht, können eingezogen werden.
 
 ## 15. Abschnitt Übergangsvorschriften
 
-##### § 77 Übergangsvorschriften
+###### § 77 Übergangsvorschriften
 
 (1) Die nach den Vorschriften des Bundes-Seuchengesetzes bestehende Erlaubnis für das Arbeiten und den Verkehr mit Krankheitserregern gilt im Geltungsbereich dieses Gesetzes als Erlaubnis im Sinne des § 44; bei juristischen Personen gilt dies bis fünf Jahre nach Inkrafttreten dieses Gesetzes mit der Maßgabe, dass die Erlaubnis nach § 48 zurückgenommen oder widerrufen werden kann, wenn ein Versagungsgrund nach § 47 Abs. 1 Nr. 2 bei den nach Gesetz oder Satzung zur Vertretung berufenen Personen vorliegt; die Maßgabe gilt auch, wenn der Erlaubnisinhaber nicht selbst die Leitung der Tätigkeiten übernommen hat und bei der von ihm mit der Leitung beauftragten Person ein Versagungsgrund nach § 47 Abs. 1 vorliegt. Die Beschränkung des § 47 Abs. 4 Satz 1 gilt nicht für die in § 22 Abs. 4 Satz 2 des Bundes-Seuchengesetzes genannten Personen, wenn bei Inkrafttreten dieses Gesetzes sie selbst oder diejenigen Personen, von denen sie mit der Leitung der Tätigkeiten beauftragt worden sind, Inhaber einer insoweit unbeschränkten Erlaubnis sind. Bei Personen, die die in § 20 Abs. 1 Satz 1 des Bundes-Seuchengesetzes bezeichneten Arbeiten vor dem Inkrafttreten des Gesetzes berechtigt durchgeführt haben, bleibt die Befreiung von der Erlaubnis für diese Arbeiten fünf Jahre nach Inkrafttreten des Gesetzes bestehen; § 45 Abs. 4 findet entsprechend Anwendung.
 
@@ -2796,7 +2809,7 @@ Gegenstände, auf die sich eine Straftat nach § 75 Abs. 1 oder 3 bezieht, könn
 
 (6) Bis zum Inkrafttreten einer Rechtsverordnung nach § 4 des Tiergesundheitsgesetzes gilt § 27 Absatz 3 Satz 1 Nummer 2 in der bis zum Ablauf des 9. März 2026 geltenden Fassung.
 
-##### Anlage (zu § 5b Absatz 4) Maskentypen nach § 5b Absatz 4
+###### Anlage (zu § 5b Absatz 4) Maskentypen nach § 5b Absatz 4
 
 (Fundstelle: BGBl. I 2021, 1175 – 1176)
 
@@ -2831,4 +2844,3 @@ MNSCE-KennzeichnungDIN EN 14863
 Corona Pandemie Infektionsschutzmasken
 
 CPIBMG/BfArM/TüV-PrüfgrundsätzeVom Bund im Rahmen seiner hoheitlichen Aufgaben nach § 1 Absatz 1 und 2 der Verordnung vom 8. April 2020 (BAnz AT 09.04.2020 V3) beschaffte Schutzmasken.Deutschland
-
