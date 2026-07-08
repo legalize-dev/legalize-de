@@ -4,27 +4,31 @@ identifier: "ENSIG-1975"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1974-12-20"
-last_updated: "2026-04-04"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/ensig_1975/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR036810974"
 slug: "ensig_1975"
 bgbl_reference: "BGBl I 1974, 3681"
 amtabk: "EnSiG"
-stand: "Zuletzt geändert durch Art. 21 G v. 18.12.2025 I Nr. 347"
+stand: "Zuletzt geändert durch Art. 7 G v. 11.3.2026 I Nr. 66"
 ---
 # Gesetz zur Sicherung der Energieversorgung
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-##### Inhaltsübersicht
+###### Inhaltsübersicht
 
 ## Kapitel 1 Maßnahmen zur Sicherung der Energieversorgung im Krisenfall
 
-##### § 1 Sicherung der Energieversorgung; Verordnungsermächtigung
+###### § 1 Sicherung der Energieversorgung; Verordnungsermächtigung
 
 (1) Um die Deckung des lebenswichtigen Bedarfs an Energie für den Fall zu sichern, daß die Energieversorgung unmittelbar gefährdet oder gestört und die Gefährdung oder Störung der Energieversorgung durch marktgerechte Maßnahmen nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln zu beheben ist, können durch Rechtsverordnung Vorschriften erlassen werden über
 
@@ -70,7 +74,7 @@ Als lebenswichtig gilt auch der Bedarf zur Erfüllung öffentlicher Aufgaben sow
 
 (4) Die Rechtsverordnungen sind auf das Maß zu beschränken, das zur Behebung der Gefährdung oder Störung der Energieversorgung unbedingt erforderlich ist. Sie sind insbesondere so zu gestalten, daß in die Freiheit des einzelnen und der wirtschaftlichen Betätigung so wenig wie möglich eingegriffen und die Leistungsfähigkeit der Gesamtwirtschaft möglichst wenig beeinträchtigt wird.
 
-##### § 2 Internationale Verpflichtungen
+###### § 2 Internationale Verpflichtungen
 
 (1) Soweit es zur Erfüllung der Verpflichtungen aus dem Übereinkommen vom 18. November 1974 über ein Internationales Energieprogramm erforderlich ist, können für Erdöl und Erdölerzeugnisse durch Rechtsverordnung Vorschriften über die Beschränkung der Einfuhren, die Verpflichtung zu Ausfuhren und die Abgabe sowie Vorschriften des im § 1 Abs. 3 genannten Inhalts erlassen werden. Rechtsverordnungen nach Satz 1 können erst erlassen werden, wenn das Bundesgesetz in Kraft getreten ist, durch welches die gesetzgebenden Körperschaften nach Artikel 59 Abs. 2 Satz 1 des Grundgesetzes dem genannten Übereinkommen ihre Zustimmung erteilt haben, und wenn die Erfüllung der Verpflichtungen durch marktgerechte Maßnahmen nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln zu erreichen ist. § 1 Abs. 4 Satz 2 gilt entsprechend.
 
@@ -78,13 +82,13 @@ Als lebenswichtig gilt auch der Bedarf zur Erfüllung öffentlicher Aufgaben sow
 
 (3) Rechtsverordnungen nach § 1 können auch erlassen werden, wenn die Energieversorgung durch die Beschränkung der Einfuhren oder die Verpflichtung zu Ausfuhren von Erdöl und Erdölerzeugnissen gefährdet oder gestört wird.
 
-##### § 2a Europäische Verpflichtungen; Verordnungsermächtigung
+###### § 2a Europäische Verpflichtungen; Verordnungsermächtigung
 
 (1) Zur Erfüllung der Verpflichtung zu Solidaritätsmaßnahmen nach Artikel 13 der Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates vom 25. Oktober 2017 über Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur Aufhebung der Verordnung (EU) Nr. 994/2010 (ABl. L 280 vom 28.10.2017, S. 1), die durch die Delegierte Verordnung (EU) 2022/517 (ABl. L 104 vom 1.4.2022, S. 53) geändert worden ist, können durch Rechtsverordnung Vorschriften mit den in § 1 Absatz 1 Satz 1 Nummer 1 bis 5 sowie § 1 Absatz 3 genannten Inhalten erlassen werden.
 
 (2) Ersucht die Bundesrepublik Deutschland bei direkten Nachbarstaaten oder bei Mitgliedstaaten der Europäischen Union, mit denen die Bundesrepublik Deutschland im Sinne von Artikel 13 Absatz 2 der Verordnung (EU) 2017/1938 über ein Drittland verbunden ist, um die Anwendung von marktbasierten oder nicht marktbasierten Solidaritätsmaßnahmen im Sinne von Artikel 13 Absatz 4 der Verordnung (EU) 2017/1938, beschafft der Marktgebietsverantwortliche im Sinne von § 3 Nummer 72 des Energiewirtschaftsgesetzes im Auftrag der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen und im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und auf Rechnung des Bundes Gasmengen, die für die Versorgung der durch Solidarität geschützten Kunden in Deutschland notwendig sind, bei den zuständigen Stellen der direkten Nachbarstaaten oder der Mitgliedstaaten der Europäischen Union im Sinne von Artikel 13 Absatz 2 der Verordnung (EU) 2017/1938 oder unterstützt der Marktgebietsverantwortliche diese Beschaffung und stellt den Transport dieser Gasmengen sicher. Das Bundesministerium der Finanzen ist zu beteiligen.
 
-##### § 2b Digitale Plattform für Erdgas; Verordnungsermächtigung
+###### § 2b Digitale Plattform für Erdgas; Verordnungsermächtigung
 
 (1) Der Marktgebietsverantwortliche errichtet und betreibt zur Vorbereitung und Umsetzung von Maßnahmen, der aufgrund von § 1 Absatz 1 Satz 1 Nummer 4 und § 2a Absatz 1 erlassenen Regelungen eine digitale Plattform für Erdgas und kann in diesem Zusammenhang erforderliche Handlungen vornehmen. Er wirkt vor Errichtung und bei Betrieb der Plattform an der Erhebung und Auswertung von Auskünften nach § 10 Absatz 1 mit.
 
@@ -96,7 +100,7 @@ Als lebenswichtig gilt auch der Bedarf zur Erfüllung öffentlicher Aufgaben sow
 
 3. die Pflicht zur Übermittlung der für die Umsetzung von Maßnahmen nach diesen Rechtsverordnungen erforderlichen Daten, wie zum Beispiel Daten über Unternehmen, Gasmengen, Preise, Identifikationsparameter sowie über sonstige Marktverhältnisse.
 
-##### § 3 Erlaß von Rechtsverordnungen
+###### § 3 Erlaß von Rechtsverordnungen
 
 (1) Rechtsverordnungen nach den §§ 1, 2, 2a Absatz 1 und § 2b Absatz 2 erläßt die Bundesregierung. Sie kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesministerium für Wirtschaft und Energie sowie in Bezug auf die leitungsgebundene Versorgung mit Elektrizität und Erdgas auf die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen übertragen, wenn die Energieversorgung im Sinne des § 1 Abs. 1 gefährdet oder gestört ist. Rechtsverordnungen des Bundesministeriums für Wirtschaft und Energie, die der Zollverwaltung Aufgaben übertragen, werden im Einvernehmen mit dem Bundesministerium der Finanzen erlassen.
 
@@ -128,7 +132,7 @@ bei Erdöl, Erdölerzeugnissen, elektrischer Energie und Erdgas.
 
 § 1 Absatz 4 Satz 2 und § 3 Absatz 3 Satz 4 gelten entsprechend.
 
-##### § 4 Ausführung des Gesetzes
+###### § 4 Ausführung des Gesetzes
 
 (1) Rechtsverordnungen nach § 1 Abs. 1 Nr. 2 über Meldepflichten und nach § 2 Abs. 1 über die Beschränkung der Einfuhren, die Verpflichtung zu Ausfuhren und die Abgabe werden vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) ausgeführt. Rechtsverordnungen nach § 1 Abs. 1 Nr. 2 über Meldepflichten im Rahmen der leitungsgebundenen Versorgung mit Elektrizität und Erdgas werden abweichend von Satz 1 von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen ausgeführt.
 
@@ -148,31 +152,31 @@ Dies gilt auch für Rechtsverordnungen nach § 2a Absatz 1 und nach § 2b Absatz
 
 (5) Im übrigen werden das Gesetz und die auf Grund des Gesetzes erlassenen Rechtsverordnungen, soweit nichts anderes bestimmt ist, von den nach Landesrecht zuständigen Stellen, in Bayern, Bremen und Nordrhein-Westfalen von der Landesregierung oder den von ihr bestimmten Stellen ausgeführt.
 
-##### § 5 Keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage
+###### § 5 Keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage
 
 Widerspruch und Anfechtungsklage gegen Verfügungen, die nach § 10 oder auf Grund von Rechtsverordnungen nach den §§ 1, 2, 2a Absatz 1 und § 2b Absatz 2 ergehen, haben keine aufschiebende Wirkung. Soweit dieses Gesetz nichts anderes bestimmt, sind für gerichtliche Rechtsbehelfe gegen Maßnahmen der Bundesnetzagentur nach diesem Gesetz oder nach Rechtsverordnungen aufgrund dieses Gesetzes die Bestimmungen der Abschnitte 2 bis 4 des Teils 8 des Energiewirtschaftsgesetzes mit Ausnahme der §§ 91 und 93 entsprechend anzuwenden.
 
-##### § 6 Verwaltungsvorschriften
+###### § 6 Verwaltungsvorschriften
 
 (1) Das Bundesministerium für Wirtschaft und Energie erläßt mit Zustimmung des Bundesrates zur Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen allgemeine Verwaltungsvorschriften.
 
 (2) Der Zustimmung des Bundesrates bedarf es nicht, soweit die allgemeinen Verwaltungsvorschriften an das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) oder an die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen gerichtet sind.
 
-##### § 7 Einzelweisungen
+###### § 7 Einzelweisungen
 
 Das Bundesministerium für Wirtschaft und Energie kann, soweit die Ausführung der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen den Ländern obliegt, Einzelweisungen erteilen, wenn dies zur Sicherung einer regional ausgeglichenen Versorgung erforderlich ist und die Auswirkungen der zu treffenden Maßnahmen sich auf mehr als ein Land erstrecken.
 
-##### § 8 Mitwirkung von Vereinigungen
+###### § 8 Mitwirkung von Vereinigungen
 
 (1) In Rechtsverordnungen auf Grund dieses Gesetzes kann bestimmt werden, daß Verbände und Zusammenschlüsse sowie Körperschaften und Anstalten des öffentlichen Rechts bei der Ausführung der Rechtsverordnungen beratend mitwirken, soweit ihre Interessen unmittelbar betroffen sind.
 
 (2) Die zuständige Behörde kann sich bei der Durchführung einzelner Aufgaben, die sie auf Grund dieses Gesetzes oder der nach diesem Gesetz erlassenen Rechtsverordnungen zu erfüllen hat, der in Absatz 1 genannten Stellen mit deren Zustimmung bedienen. Diese Stellen unterstehen insoweit den Weisungen der zuständigen Behörden, die Verbände und Zusammenschlüsse insoweit auch deren Aufsicht.
 
-##### § 9 Vorbereitung des Vollzugs
+###### § 9 Vorbereitung des Vollzugs
 
 Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände haben die personellen, materiellen und organisatorischen Voraussetzungen zur Durchführung der Maßnahmen zu schaffen, die für die in den §§ 1, 2, 2a und 2b Absatz 2 bezeichneten Zwecke erforderlich sind.
 
-##### § 10 Auskünfte, Datenerhebung und -übermittlung
+###### § 10 Auskünfte, Datenerhebung und -übermittlung
 
 (1) Zur Ausführung der Rechtsverordnungen auf Grund dieses Gesetzes und zur Vorbereitung der Ausführung solcher Rechtsverordnungen haben natürliche und juristische Personen und sonstige Personenvereinigungen den zuständigen Behörden auf Verlangen die erforderlichen Auskünfte zu erteilen. Sie haben ferner dem Bundesministerium für Wirtschaft und Energie sowie der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen Auskünfte zu erteilen, soweit dies zur Wahrnehmung der ihnen nach diesem Gesetz obliegenden Aufgaben, insbesondere zur Vorbereitung der auf Grund dieses Gesetzes zu erlassenden Rechtsverordnungen erforderlich ist. Die zuständigen Behörden übermitteln die nach den Sätzen 1 und 2 erlangten Daten einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnisse an andere Behörden, den Marktgebietsverantwortlichen und die Betreiber von Elektrizitätsversorgungsnetzen, soweit dies für die Vorbereitung und Wahrnehmung der Aufgaben nach diesem Gesetz sowie aufgrund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich ist. Soweit Daten im Sinne des Satzes 3 für Maßnahmen nach § 1 der Gassicherungsverordnung vom 26. April 1982 (BGBl. I S. 517), die zuletzt durch Artikel 1 der Verordnung vom 31. März 2023 (BGBl. 2023 I Nr. 94) geändert worden ist, und für Solidaritätsmaßnahmen nach § 2a von der Bundesnetzagentur erlangt werden, übermittelt diese die Daten auf deren Ersuchen und soweit dies für die Erfüllung von deren Aufgaben erforderlich ist, an die Bundesanstalt für Finanzdienstleistungsaufsicht.
 
@@ -182,7 +186,7 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 (4) Auf die nach den Absätzen 1 und 2 erlangten Kenntnisse und Unterlagen sind §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung nicht anzuwenden. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn tätigen Personen handelt.
 
-##### § 11 Entschädigung; Verordnungsermächtigung
+###### § 11 Entschädigung; Verordnungsermächtigung
 
 (1) Wenn dies zur Sicherung der Deckung des lebenswichtigen Bedarfs an Energie oder zur Erfüllung der Verpflichtungen zu Solidaritätsmaßnahmen nach § 2a erforderlich ist, kann durch eine Rechtsverordnung nach den §§ 1, 2 und 2a Absatz 1, jeweils in Verbindung mit § 3 oder durch eine Maßnahme aufgrund einer Rechtsverordnung nach den §§ 1, 2 und 2a Absatz 1, jeweils in Verbindung mit § 4 oder § 7 durch Enteignung das Eigentum an Erdöl und Erdölerzeugnissen, an sonstigen festen, flüssigen und gasförmigen Energieträgern, an elektrischer Energie und sonstigen Energien (Güter) oder an Produktionsmitteln der gewerblichen Wirtschaft, soweit diese Produktionsmittel der Versorgung mit elektrischer Energie und Erdgas dienen, auch zugunsten eines Dritten, entzogen werden. Satz 1 ist auch anzuwenden, soweit die Güter für nichtenergetische Zwecke bestimmt sind. Im Fall einer Enteignung nach Satz 1 ist eine Entschädigung in Geld zu leisten.
 
@@ -198,7 +202,7 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 (7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Verjährung der Ansprüche nach Absatz 1, über das Verfahren der Festsetzung einer Entschädigung sowie über die Zuständigkeit und das Verfahren der Gerichte nach den Grundsätzen der §§ 34, 49 bis 63 und 65 des Bundesleistungsgesetzes zu erlassen. Dabei treten an die Stelle der Anforderungsbehörden die in Absatz 6 bezeichneten Stellen.
 
-##### § 11a Entschädigung für enteignete Gasspeichermengen
+###### § 11a Entschädigung für enteignete Gasspeichermengen
 
 (1) Für eine Enteignung aufgrund einer nach Kapitel 1 dieses Gesetzes erlassenen Rechtsverordnung oder einer Maßnahme aufgrund einer nach Kapitel 1 dieses Gesetzes erlassenen Rechtsverordnung, durch die in Gasspeichern eingelagertes Gas entzogen wird, ist eine Entschädigung in Geld zu leisten.
 
@@ -212,7 +216,7 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 (6) Der Entschädigungsberechtigte hat der zuständigen Behörde die für die Berechnung der Entschädigung nach Absatz 4 erforderlichen Nachweise vorzulegen. Der Betreiber einer Gasspeicheranlage ist hierbei zur Mitwirkung verpflichtet. Die zuständige Behörde kann Vorgaben zu Inhalt und Format der erforderlichen Nachweise machen. Ab Vorliegen der vollständigen Nachweise hat die zuständige Behörde innerhalb von 21 Tagen die Entschädigung festzusetzen. Im Übrigen sind § 11 Absatz 4 sowie die Vorschriften der Verordnung über das Verfahren zur Festsetzung von Entschädigung und Härteausgleich nach dem Energiesicherungsgesetz vom 16. September 1974 (BGBl. I S. 2330), die durch Artikel 24 des Gesetzes vom 18. Februar 1986 (BGBl. I S. 265) geändert worden ist, in der jeweils geltenden Fassung, mit Ausnahme der §§ 3, 4 Absatz 1 und § 5 der Verordnung über das Verfahren zur Festsetzung von Entschädigung und Härteausgleich nach dem Energiesicherungsgesetz entsprechend anzuwenden.
 
-##### § 12 Härteausgleich
+###### § 12 Härteausgleich
 
 (1) Wird durch eine Rechtsverordnung oder Maßnahme im Sinne des § 11 Abs. 1 Satz 1 dem Betroffenen ein Vermögensnachteil zugefügt, der nicht nach § 11 abzugelten ist, so ist eine Entschädigung in Geld zu gewähren, soweit seine wirtschaftliche Existenz durch unabwendbare Schäden gefährdet oder vernichtet ist oder die Entschädigung zur Abwendung oder zum Ausgleich ähnlicher unbilliger Härten geboten ist.
 
@@ -222,9 +226,9 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 (4) § 11 Absatz 3, 6 und 7 ist entsprechend anzuwenden.
 
-##### § 13 (weggefallen)
+###### § 13 (weggefallen)
 
-##### § 14 Bekanntgabe und Zustellung
+###### § 14 Bekanntgabe und Zustellung
 
 (1) Mit der Feststellung nach § 3 Absatz 3 Satz 2 oder der Mitteilung gemäß § 3 Absatz 6 Satz 1 gelten für den Vollzug dieses Gesetzes und der nach diesem Gesetz erlassenen Rechtsverordnungen für den Erlass und die Bekanntgabe eines Verwaltungsaktes die Vorschriften des Verwaltungsverfahrensgesetzes mit der Maßgabe, dass
 
@@ -240,7 +244,7 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 2. im Fall der elektronischen Zustellung nach § 5 Absatz 5 des Verwaltungszustellungsgesetzes der Verwaltungsakt mit dem auf die Absendung folgenden Tag als zugestellt gilt.
 
-##### § 15 Zuwiderhandlungen
+###### § 15 Zuwiderhandlungen
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -268,7 +272,7 @@ b) nach § 1 Absatz 1 Satz 1 Nummer 2, auch in Verbindung mit § 2a Absatz 1, od
 
 (5) Das Zwangsgeld soll das wirtschaftliche Interesse, das der Pflichtige an der Vornahme oder am Unterbleiben der von der nach § 4 zuständigen Behörde angeordneten Handlung hat, erreichen. Reicht das Höchstmaß nach Absatz 4 Satz 3 hierzu nicht aus, so kann es überschritten werden. Das wirtschaftliche Interesse des Pflichtigen ist nach pflichtgemäßem Ermessen zu ermitteln.
 
-##### § 16 Zuständige Verwaltungsbehörde bei Zuwiderhandlungen
+###### § 16 Zuständige Verwaltungsbehörde bei Zuwiderhandlungen
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist
 
@@ -288,7 +292,7 @@ b) soweit Landesbehörden zur Durchführung zuständig sind, die in § 4 Abs. 5 
 
 ## Abschnitt 1 Treuhandverwaltung und Enteignung
 
-##### § 17 Treuhandverwaltung von Unternehmen der Kritischen Infrastruktur
+###### § 17 Treuhandverwaltung von Unternehmen der Kritischen Infrastruktur
 
 (1) Ein Unternehmen, das selbst oder durch verbundene Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2 Nummer 3 des KRITIS-Dachgesetzes im Sektor Energie betreibt, kann unter Treuhandverwaltung gestellt werden, wenn die konkrete Gefahr besteht, dass ohne eine Treuhandverwaltung das Unternehmen seine dem Funktionieren des Gemeinwesens im Sektor Energie dienenden Aufgaben nicht erfüllen wird, und eine Beeinträchtigung der Versorgungssicherheit droht.
 
@@ -314,7 +318,7 @@ b) soweit Landesbehörden zur Durchführung zuständig sind, die in § 4 Abs. 5 
 
 (9) Die Absätze 1 bis 8 gelten nicht für Unternehmen, die in der Rechtsform einer inländischen juristischen Person des öffentlichen Rechts geführt werden oder an denen ausschließlich inländische juristische Personen des öffentlichen Rechts unmittelbar oder mittelbar beteiligt sind. Inländischen juristischen Personen des öffentlichen Rechts stehen juristische Personen des öffentlichen Rechts aus einem Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums gleich.
 
-##### § 17a Kapitalmaßnahmen
+###### § 17a Kapitalmaßnahmen
 
 (1) Bei einem als Kapitalgesellschaft verfassten Unternehmen, das durch Anordnung nach § 17 Absatz 3 Satz 1 unter Treuhandverwaltung gestellt ist, können Kapitalerhöhungen, die Auflösung von Kapital- und Gewinnrücklagen oder Kapitalherabsetzungen (Kapitalmaßnahmen) angeordnet werden, wenn die konkrete Gefahr besteht, dass ohne eine Kapitalmaßnahme der Betrieb des Unternehmens gemäß seiner Bedeutung für das Funktionieren des Gemeinwesens im Sektor Energie nicht fortgeführt werden kann.
 
@@ -342,7 +346,7 @@ Eine Kapitalherabsetzung nach Satz 1 Nummer 3 ist nur zulässig, nachdem der Tei
 
 (9) Der Bundesgerichtshof entscheidet in erster und letzter Instanz über Streitigkeiten wegen der nach den Absätzen 5 und 6 zu gewährenden Entschädigung.
 
-##### § 17b Übertragung von Vermögensgegenständen
+###### § 17b Übertragung von Vermögensgegenständen
 
 (1) Bei einem Unternehmen, das durch Anordnung nach § 17 Absatz 3 Satz 1 unter Treuhandverwaltung gestellt ist, kann die in § 17 Absatz 4 Nummer 2 benannte Stelle des Bundes eine Übertragung von Vermögensgegenständen über § 17 Absatz 5 Satz 2 hinaus anweisen, wenn
 
@@ -366,7 +370,7 @@ Die Übertragung des Eigentums an den Vermögensgegenständen nach Satz 1 bedarf
 
 (8) Der Bundesgerichtshof entscheidet in erster und letzter Instanz über Streitigkeiten wegen der nach den Absätzen 4 und 5 zu gewährenden Entschädigung.
 
-##### § 18 Enteignung zur Sicherung der Energieversorgung im Bereich der Kritischen Infrastruktur
+###### § 18 Enteignung zur Sicherung der Energieversorgung im Bereich der Kritischen Infrastruktur
 
 (1) Zur Sicherung der Energieversorgung können Enteignungen nach Maßgabe dieses Gesetzes vorgenommen werden.
 
@@ -384,7 +388,7 @@ Als Anteile im Sinne von Satz 1 Nummer 1 gelten auch Anteile an Personengesellsc
 
 (4) Die Enteignung ist nur zulässig, wenn sie zur Sicherung des Funktionierens des Gemeinwesens im Sektor Energie und zur Aufrechterhaltung der Versorgungssicherheit erforderlich ist und eine zeitlich begrenzte Treuhandverwaltung nach § 17 nicht hinreichend geeignet ist, diesen Zweck zu erfüllen.
 
-##### § 19 Enteignungsakt; Verordnungsermächtigung
+###### § 19 Enteignungsakt; Verordnungsermächtigung
 
 (1) Die Enteignung erfolgt durch Rechtsverordnung des Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen ohne Zustimmung des Bundesrates. Die Rechtsverordnung muss die folgenden Angaben enthalten:
 
@@ -402,7 +406,7 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 
 (2) Zum Übergangszeitpunkt geht der Enteignungsgegenstand einschließlich aller damit zusammenhängenden Rechte auf den Enteignungsbegünstigten über. Sind über enteignete Anteile an Unternehmen nach § 18 Absatz 2 Satz 1 Nummer 1 und 3 oder sonstige Rechte im Sinne des § 18 Absatz 2 Satz 1 Nummer 2 Urkunden ausgegeben, so verbriefen sie ab dem Übergangszeitpunkt bis zur Aushändigung an den Enteignungsbegünstigten nur den Anspruch auf die Enteignungsentschädigung nach § 21. Der Übergangszeitpunkt ist von Amts wegen unverzüglich in das Handelsregister einzutragen.
 
-##### § 20 Verfahren
+###### § 20 Verfahren
 
 (1) Zuständig für die Durchführung des Enteignungsverfahrens ist das Bundesministerium für Wirtschaft und Energie als Enteignungsbehörde. Das Bundesministerium der Finanzen ist zu beteiligen.
 
@@ -410,7 +414,7 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 
 (3) Unternehmen, deren Anteile enteignet wurden, sind wieder zu privatisieren. Die Privatisierung erfolgt, wenn und soweit die Aufrechterhaltung der Versorgungssicherheit eine Privatisierung erlaubt und die Voraussetzungen nach § 7 Absatz 1 Satz 1 der Bundeshaushaltsordnung gegeben sind. Ein Rechtsanspruch auf Privatisierung besteht für natürliche und juristische Personen nicht. Das Bundesministerium für Wirtschaft und Energie legt dem Deutschen Bundestag alle zwei Jahre einen Bericht zum Stand der Privatisierung nach Satz 1 vor.
 
-##### § 21 Entschädigung
+###### § 21 Entschädigung
 
 (1) Für die Enteignung ist eine Entschädigung zu leisten. Eine Entschädigung kann verlangen, wer sich auf das Grundrecht aus Artikel 14 Absatz 1 Satz 1 des Grundgesetzes berufen kann, in seinem Recht durch die Enteignung beeinträchtigt wird und dadurch einen Vermögensnachteil erleidet. Verpflichtungen des Bundes aus völkerrechtlichen Verträgen nach Artikel 59 Absatz 1 Satz 2 des Grundgesetzes bleiben unberührt.
 
@@ -422,7 +426,7 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 
 (5) Entschädigungsbeträge sind mit einem Prozentpunkt über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich von dem Übergangszeitpunkt an zu verzinsen.
 
-##### § 22 Rechtsschutz
+###### § 22 Rechtsschutz
 
 (1) Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug auf Antrag über die Gültigkeit von Rechtsverordnungen nach § 19.
 
@@ -438,7 +442,7 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 
 (7) Der Bundesgerichtshof entscheidet in erster und letzter Instanz über Streitigkeiten wegen der Höhe der nach § 21 zu gewährenden Entschädigung.
 
-##### § 23 Verordnungsermächtigung
+###### § 23 Verordnungsermächtigung
 
 Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
@@ -450,7 +454,7 @@ Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bu
 
 Die Rechtsverordnungen nach Satz 1 bedürfen der Zustimmung des Deutschen Bundestages. Hat sich der Deutsche Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
-##### § 23a Enteignung von beweglichen Sachen und Zugang zu Unterlagen
+###### § 23a Enteignung von beweglichen Sachen und Zugang zu Unterlagen
 
 (1) Zur Sicherung der Energieversorgung im Sinne des § 18 Absatz 1 können durch Verwaltungsakt Anordnungen getroffen werden über
 
@@ -488,7 +492,7 @@ In der Anordnung muss bestimmt werden, dass der Begünstigte die Rechte zur Nutz
 
 ## Abschnitt 2 Preisanpassungsrechte
 
-##### § 24 Preisanpassungsrechte bei verminderten Gasimporten
+###### § 24 Preisanpassungsrechte bei verminderten Gasimporten
 
 (1) Nach der Ausrufung der Alarmstufe oder der Notfallstufe durch das Bundesministerium für Wirtschaft und Energie nach Artikel 8 Absatz 2 Buchstabe b und Artikel 11 Absatz 1 der Verordnung (EU) 2017/1938 in Verbindung mit dem Notfallplan Gas des Bundesministeriums für Wirtschaft und Energie vom September 2019, der auf der Internetseite des Bundesministeriums für Wirtschaft und Energie veröffentlicht ist, kann die Bundesnetzagentur die Feststellung treffen, dass eine erhebliche Reduzierung der Gesamtgasimportmengen nach Deutschland vorliegt. Die Feststellung kann zu einem späteren Zeitpunkt als dem der Ausrufung der Alarm- oder Notfallstufe erfolgen und unter der Voraussetzung, dass die Optionen in den §§ 29 und 26 geprüft wurden und das Ergebnis dokumentiert ist. Mit der Feststellung durch die Bundesnetzagentur nach Satz 1 erhalten alle von der Reduzierung der Gesamtgasimportmengen nach Deutschland unmittelbar durch Lieferausfälle oder mittelbar durch Preissteigerung ihres Lieferanten infolge der Lieferausfälle betroffenen Energieversorgungsunternehmen im Sinne des § 3 Nummer 39 des Energiewirtschaftsgesetzes entlang der Lieferkette das Recht, ihre Gaspreise gegenüber ihren Kunden auf ein angemessenes Niveau anzupassen. Eine Preisanpassung ist insbesondere dann nicht mehr angemessen, wenn sie die Mehrkosten einer Ersatzbeschaffung überschreitet, die dem jeweils betroffenen Energieversorgungsunternehmen aufgrund der Reduzierung der Gasimportmengen für das an den Kunden zu liefernde Gas entstehen.
 
@@ -506,7 +510,7 @@ In der Anordnung muss bestimmt werden, dass der Begünstigte die Rechte zur Nutz
 
 (8) Mit Inkrafttreten der Rechtsverordnung nach § 26 dürfen die Preisanpassungsrechte nach Absatz 1 Satz 3 nicht mehr angewendet werden. Absatz 4 Satz 2 bis 6 ist nach Inkrafttreten der Rechtsverordnung nach § 26 mit der Maßgabe anzuwenden, dass vier Wochen nach Aufhebung der Feststellung nach Absatz 1 Satz 1 die Energieversorgungsunternehmen verpflichtet sind, den Preis auf ein angemessenes Niveau abzusenken. Wird weiterhin ein höherer Preis vorgesehen als der Preis, der vor der Preisanpassung nach Absatz 1 vereinbart war, muss das Energieversorgungsunternehmen dem Kunden die Angemessenheit dieses höheren Preises nachvollziehbar darlegen.
 
-##### § 25 Preisanpassungsmonitoring
+###### § 25 Preisanpassungsmonitoring
 
 (1) Die Bundesnetzagentur und das Bundesministerium für Wirtschaft und Energie führen ein Monitoring über Preisanpassungen in dem Zeitraum, in dem Preisanpassungsrechte nach § 24 bestehen, durch. Für dieses Monitoring haben Energieversorgungsunternehmen der Bundesnetzagentur jegliche Preisanpassungen, die nach Feststellung der Bundesnetzagentur gemäß § 24 Absatz 1 Satz 1 oder aufgrund von deren Aufhebung erfolgen, elektronisch anzuzeigen. Die Anzeige über Inhalt und Umfang der Preisanpassung ist der Bundesnetzagentur innerhalb einer Woche nach erfolgter Anpassung zu übermitteln. Die Bundesnetzagentur übermittelt dem Bundesministerium für Wirtschaft und Energie auf Verlangen die erlangten Daten.
 
@@ -514,7 +518,7 @@ In der Anordnung muss bestimmt werden, dass der Begünstigte die Rechte zur Nutz
 
 (3) Die Bundesnetzagentur kann die erlangten Daten in aggregierter Form im Monitoringbericht nach § 35 des Energiewirtschaftsgesetzes veröffentlichen.
 
-##### § 26 Saldierte Preisanpassung; Verordnungsermächtigung
+###### § 26 Saldierte Preisanpassung; Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, ohne Zustimmung des Bundesrates eine Rechtsverordnung zu erlassen, in der abweichend von § 24 Absatz 1 Satz 3 geregelt werden kann, dass an die Stelle der Preisanpassungsrechte nach § 24 Absatz 1 Satz 3 ein durch eine saldierte Preisanpassung finanzierter finanzieller Ausgleich tritt. Mit Inkrafttreten der Rechtsverordnung nach Satz 1 dürfen die Preisanpassungsrechte nach § 24 Absatz 1 Satz 3 nicht mehr ausgeübt werden.
 
@@ -548,13 +552,13 @@ In der Anordnung muss bestimmt werden, dass der Begünstigte die Rechte zur Nutz
 
 (7) Das transparente und diskriminierungsfreie Verfahren regelt unter angemessener Beachtung der Interessen der Verbraucher insbesondere die der saldierten Preisanpassung unterfallenden Mengen, die Berechnung der Höhe der saldierten Preisanpassung, die Abschlagszahlungen, die Ausgleichsperiode, die Endabrechnung, die Rückerstattung und die Führung eines saldierten Preisanpassungskontos.
 
-##### § 27 (weggefallen)
+###### § 27 (weggefallen)
 
-##### § 28 (weggefallen)
+###### § 28 (weggefallen)
 
 ## Abschnitt 3 Stabilisierungsmaßnahmen
 
-##### § 29 Erleichterungen zur Durchführung von Stabilisierungsmaßnahmen
+###### § 29 Erleichterungen zur Durchführung von Stabilisierungsmaßnahmen
 
 (1) Beantragt ein Unternehmen, das selbst oder durch verbundene Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2 Nummer 3 des KRITIS-Dachgesetzes im Sektor Energie betreibt, beim Bund Stabilisierungsmaßnahmen, gelten für die Durchführung der Stabilisierungsmaßnahmen die nachfolgenden Regelungen. Stabilisierungsmaßnahmen im Sinne dieses Gesetzes sind alle Maßnahmen, die der Sicherung oder Wiederherstellung einer positiven Fortbestehensprognose nach § 19 Absatz 2 der Insolvenzordnung oder der Durchfinanzierung der Abwicklung des Unternehmens dienen. Ein Rechtsanspruch auf Stabilisierungsmaßnahmen besteht nicht. Das Bundesministerium für Wirtschaft und Energie ist die zuständige Behörde für die Verhandlungen über Stabilisierungsmaßnahmen mit den in Satz 1 genannten Unternehmen. Anträge sind bei dem Bundesministerium für Wirtschaft und Energie zu stellen, das im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundeskanzleramt über die Anträge entscheidet.
 
@@ -638,7 +642,7 @@ Die Regelungen nach Satz 1 gelten auch im Fall einer Kapitalerhöhung nach § 17
 
 ## Abschnitt 4 Präventive Maßnahmen zur Vermeidung eines Krisenfalls in der Energieversorgung
 
-##### § 30 Präventive Maßnahmen zur Vermeidung eines Krisenfalls; Verordnungsermächtigung
+###### § 30 Präventive Maßnahmen zur Vermeidung eines Krisenfalls; Verordnungsermächtigung
 
 (1) Zur Vermeidung einer unmittelbaren Gefährdung oder Störung der Energieversorgung im Sinne des § 1 Absatz 1 Satz 1, insbesondere im Fall einer drohenden Knappheit von Kohle, Erdgas oder Erdöl, können durch Rechtsverordnung nach Maßgabe von § 1 Absatz 4 Vorschriften erlassen werden über
 
@@ -690,7 +694,7 @@ bb) der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809
 
 (6) Auf Rechtsverordnungen nach Absatz 1 Nummer 1 und 3 sind § 4 Absatz 5, § 5 Satz 1 sowie die §§ 11 und 12 Absatz 1, 3 und 4 entsprechend anzuwenden.
 
-##### § 30a Inbetriebnahme von überwachungsbedürftigen Anlagen zur Bewältigung einer Gasmangellage
+###### § 30a Inbetriebnahme von überwachungsbedürftigen Anlagen zur Bewältigung einer Gasmangellage
 
 (1) Eine überwachungsbedürftige Anlage im Sinne des § 2 Absatz 13 der Betriebssicherheitsverordnung, die wegen einer ernsten oder erheblichen Gasmangellage errichtet oder so geändert wird, dass ihre Sicherheit beeinflusst wird, darf in Abweichung von § 18 Absatz 1 Satz 1 der Betriebssicherheitsverordnung ohne die erforderliche Erlaubnis verwendet werden. Die Prüfung gemäß § 15 Absatz 1 Satz 1 der Betriebssicherheitsverordnung muss durchgeführt werden und ergeben, dass die Anlage sicher betrieben werden kann. Dieses Ergebnis der Prüfung muss in einer Prüfbescheinigung gemäß § 17 Absatz 1 der Betriebssicherheitsverordnung dokumentiert werden.
 
@@ -702,15 +706,14 @@ bb) der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809
 
 ## Kapitel 3 Schlussbestimmungen
 
-##### § 31 Besteuerung
+###### § 31 Besteuerung
 
 § 14 Absatz 3 Satz 1 und Absatz 4 des Stabilisierungsfondsgesetzes finden auf Maßnahmen des Bundes nach Kapitel 1 und 2 dieses Gesetzes mit der Maßgabe entsprechend Anwendung, dass an die Stelle des Fonds der Bund tritt.Satz 1 findet auf alle noch offenen Fälle Anwendung.
 
-##### § 31a Übergangsbestimmung
+###### § 31a Übergangsbestimmung
 
 § 17 Absatz 1, § 18 Absatz 2 Satz 1 Nummer 1 und § 29 Absatz 1 Satz 1 sind erst anzuwenden, wenn eine auf der Grundlage von § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-Dachgesetzes erlassene Rechtsverordnung gilt. Bis zur Geltung dieser Rechtsverordnung sind § 17 Absatz 1, § 18 Absatz 2 Satz 1 Nummer 1 und § 29 Absatz 1 Satz 1 in der bis einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
 
-##### § 32 Inkrafttreten
+###### § 32 Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1975 in Kraft.
-
