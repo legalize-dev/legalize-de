@@ -4,9 +4,10 @@ identifier: "HGB"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1897-05-10"
-last_updated: "2026-04-04"
+last_updated: "2026-07-09"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/hgb/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR002190897"
 slug: "hgb"
@@ -15,21 +16,24 @@ stand: "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33"
 ---
 # Handelsgesetzbuch
 
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
 ## Erstes Buch Handelsstand
 
 ## Erster Abschnitt Kaufleute
 
-##### § 1
+###### § 1
 
 (1) Kaufmann im Sinne dieses Gesetzbuchs ist, wer ein Handelsgewerbe betreibt.
 
 (2) Handelsgewerbe ist jeder Gewerbebetrieb, es sei denn, daß das Unternehmen nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht erfordert.
 
-##### § 2
+###### § 2
 
 Ein gewerbliches Unternehmen, dessen Gewerbebetrieb nicht schon nach § 1 Abs. 2 Handelsgewerbe ist, gilt als Handelsgewerbe im Sinne dieses Gesetzbuchs, wenn die Firma des Unternehmens in das Handelsregister eingetragen ist. Der Unternehmer ist berechtigt, aber nicht verpflichtet, die Eintragung nach den für die Eintragung kaufmännischer Firmen geltenden Vorschriften herbeizuführen. Ist die Eintragung erfolgt, so findet eine Löschung der Firma auch auf Antrag des Unternehmers statt, sofern nicht die Voraussetzung des § 1 Abs. 2 eingetreten ist.
 
-##### § 3
+###### § 3
 
 (1) Auf den Betrieb der Land- und Forstwirtschaft finden die Vorschriften des § 1 keine Anwendung.
 
@@ -37,37 +41,37 @@ Ein gewerbliches Unternehmen, dessen Gewerbebetrieb nicht schon nach § 1 Abs. 2
 
 (3) Ist mit dem Betrieb der Land- oder Forstwirtschaft ein Unternehmen verbunden, das nur ein Nebengewerbe des land- oder forstwirtschaftlichen Unternehmens darstellt, so finden auf das im Nebengewerbe betriebene Unternehmen die Vorschriften der Absätze 1 und 2 entsprechende Anwendung.
 
-##### § 4 (weggefallen)
+###### § 4 (weggefallen)
 
-##### § 5
+###### § 5
 
 Ist eine Firma im Handelsregister eingetragen, so kann gegenüber demjenigen, welcher sich auf die Eintragung beruft, nicht geltend gemacht werden, daß das unter der Firma betriebene Gewerbe kein Handelsgewerbe sei.
 
-##### § 6
+###### § 6
 
 (1) Die in betreff der Kaufleute gegebenen Vorschriften finden auch auf die Handelsgesellschaften Anwendung.
 
 (2) Die Rechte und Pflichten eines Vereins, dem das Gesetz ohne Rücksicht auf den Gegenstand des Unternehmens die Eigenschaft eines Kaufmanns beilegt, bleiben unberührt, auch wenn die Voraussetzungen des § 1 Abs. 2 nicht vorliegen.
 
-##### § 7
+###### § 7
 
 Durch die Vorschriften des öffentlichen Rechtes, nach welchen die Befugnis zum Gewerbebetrieb ausgeschlossen oder von gewissen Voraussetzungen abhängig gemacht ist, wird die Anwendung der die Kaufleute betreffenden Vorschriften dieses Gesetzbuchs nicht berührt.
 
 ## Zweiter Abschnitt Handelsregister; Unternehmensregister
 
-##### § 8 Handelsregister
+###### § 8 Handelsregister
 
 (1) Das Handelsregister wird von den Gerichten elektronisch geführt.
 
 (2) Andere Datensammlungen dürfen nicht unter Verwendung oder Beifügung der Bezeichnung "Handelsregister" in den Verkehr gebracht werden.
 
-##### § 8a Eintragungen in das Handelsregister; Verordnungsermächtigung
+###### § 8a Eintragungen in das Handelsregister; Verordnungsermächtigung
 
 (1) Eine Eintragung in das Handelsregister wird wirksam, sobald sie in den für die Handelsregistereintragungen bestimmten Datenspeicher aufgenommen ist und auf Dauer inhaltlich unverändert in lesbarer Form wiedergegeben werden kann.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung nähere Bestimmungen über die elektronische Führung des Handelsregisters, die elektronische Anmeldung, die elektronische Einreichung von Dokumenten sowie deren Aufbewahrung zu treffen, soweit nicht durch das Bundesministerium der Justiz nach § 387 Abs. 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende Vorschriften erlassen werden. Dabei können sie auch Einzelheiten der Datenübermittlung regeln sowie die Form zu übermittelnder elektronischer Dokumente festlegen, um die Eignung für die Bearbeitung durch das Gericht sicherzustellen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-##### § 8b Unternehmensregister
+###### § 8b Unternehmensregister
 
 (1) Das Unternehmensregister wird vorbehaltlich einer Regelung nach § 9a Abs. 1 vom Bundesministerium der Justiz elektronisch geführt.
 
@@ -115,7 +119,7 @@ Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nummer 1 bis 3
 
 (5) Die Führung des Unternehmensregisters schließt auch den Informationsaustausch nach § 9c ein.
 
-##### § 9 Einsichtnahme in das Handelsregister und das Unternehmensregister
+###### § 9 Einsichtnahme in das Handelsregister und das Unternehmensregister
 
 (1) Die Einsichtnahme in das Handelsregister sowie in die zum Handelsregister eingereichten Dokumente ist jedem zu Informationszwecken durch einzelne Abrufe gestattet. Die Landesjustizverwaltungen bestimmen das elektronische Informations- und Kommunikationssystem, über das die Daten aus den Handelsregistern abrufbar sind, und sind für die Abwicklung des elektronischen Abrufverfahrens zuständig. Die Landesregierung kann die Zuständigkeit durch Rechtsverordnung abweichend regeln; sie kann diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen. Die Länder können ein länderübergreifendes, zentrales elektronisches Informations- und Kommunikationssystem bestimmen. Sie können auch eine Übertragung der Abwicklungsaufgaben auf die zuständige Stelle eines anderen Landes sowie mit dem Betreiber des Unternehmensregisters eine Übertragung der Abwicklungsaufgaben auf das Unternehmensregister vereinbaren.
 
@@ -129,7 +133,7 @@ Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nummer 1 bis 3
 
 (6) Für die Einsichtnahme in das Unternehmensregister gilt Absatz 1 Satz 1 entsprechend. Anträge nach den Absätzen 2 bis 5 können auch über das Unternehmensregister an das Gericht vermittelt werden. Die Einsichtnahme in die beim Unternehmensregister zur dauerhaften Hinterlegung eingestellten Daten erfolgt nur auf Antrag durch Übermittlung einer Kopie.
 
-##### § 9a Übertragung der Führung des Unternehmensregisters; Verordnungsermächtigung
+###### § 9a Übertragung der Führung des Unternehmensregisters; Verordnungsermächtigung
 
 (1) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates einer juristischen Person des Privatrechts die Aufgaben nach § 8b Abs. 1 zu übertragen. Der Beliehene erlangt die Stellung einer Justizbehörde des Bundes. Zur Erstellung von Beglaubigungen führt der Beliehene ein Dienstsiegel; nähere Einzelheiten hierzu können in der Rechtsverordnung nach Satz 1 geregelt werden. Die Dauer der Beleihung ist zu befristen; sie soll fünf Jahre nicht unterschreiten; Kündigungsrechte aus wichtigem Grund sind vorzusehen. Eine juristische Person des Privatrechts darf nur beliehen werden, wenn sie grundlegende Erfahrungen mit der Veröffentlichung von kapitalmarktrechtlichen Informationen und gerichtlichen Mitteilungen, insbesondere Handelsregisterdaten, hat und ihr eine ausreichende technische und finanzielle Ausstattung zur Verfügung steht, die die Gewähr für den langfristigen und sicheren Betrieb des Unternehmensregisters bietet.
 
@@ -137,7 +141,7 @@ Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nummer 1 bis 3
 
 (3) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die technischen Einzelheiten zu Aufbau und Führung des Unternehmensregisters, die technischen Einzelheiten zur Anmeldung und Identifikation von Nutzern des Unternehmensregisters, Einzelheiten der Datenübermittlung einschließlich Vorgaben über Datenformate, die nicht unter Absatz 2 fallen, Einzelheiten der Prüfung der übermittelten Daten, Löschungsfristen für die im Unternehmensregister gespeicherten Daten, Überwachungsrechte der Bundesanstalt für Finanzdienstleistungsaufsicht gegenüber dem Unternehmensregister hinsichtlich der Übermittlung, Einstellung, Verwaltung, Verarbeitung und des Abrufs kapitalmarktrechtlicher Daten einschließlich der Zusammenarbeit mit amtlich bestellten Speicherungssystemen anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum im Rahmen des Aufbaus eines europaweiten Netzwerks zwischen den Speicherungssystemen, die Zulässigkeit sowie Art und Umfang von Auskunftsdienstleistungen mit den im Unternehmensregister gespeicherten Daten, die über die mit der Führung des Unternehmensregisters verbundenen Aufgaben nach diesem Gesetz hinausgehen, zu regeln. Soweit Regelungen getroffen werden, die kapitalmarktrechtliche Daten berühren, ist die Rechtsverordnung nach Satz 1 im Einvernehmen mit dem Bundesministerium der Finanzen zu erlassen. Die Rechtsverordnung nach Satz 1 hat dem schutzwürdigen Interesse der Unternehmen am Ausschluss einer zweckändernden Verwendung der im Register gespeicherten Daten angemessen Rechnung zu tragen.
 
-##### § 9b Europäisches System der Registervernetzung
+###### § 9b Europäisches System der Registervernetzung
 
 (1) Folgende Informationen und Unterlagen, soweit sie Kapitalgesellschaften betreffen oder Zweigniederlassungen von Kapitalgesellschaften, die dem Recht eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum unterliegen, sind auch über das Europäische Justizportal zugänglich:
 
@@ -183,7 +187,7 @@ Die Übermittlung der Informationen und Unterlagen erfolgt nach Maßgabe der Bes
 
 (4) Die das Unternehmensregister führende Stelle übermittelt nach den Vorgaben der Durchführungsverordnung (EU) 2021/1042 eine Änderung der Unterlagen der Rechnungslegung, die eine Kapitalgesellschaft mit Sitz im Inland offengelegt hat (§ 325 Absatz 1b Satz 1), unverzüglich an die zentrale Europäische Plattform, wenn die Kapitalgesellschaft eine Zweigniederlassung errichtet hat, die dem Recht eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum unterliegt. Empfängt die das Unternehmensregister führende Stelle über das Europäische System der Registervernetzung Daten zu einer Änderung der Unterlagen der Rechnungslegung einer Kapitalgesellschaft, die dem Recht eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum unterliegt und die eine inländische Zweigniederlassung errichtet hat, so bestätigt die registerführende Stelle den Eingang der Daten über das Europäische System der Registervernetzung.
 
-##### § 9c Informationsaustausch über disqualifizierte Personen über das Europäische System der Registervernetzung
+###### § 9c Informationsaustausch über disqualifizierte Personen über das Europäische System der Registervernetzung
 
 (1) Die das Unternehmensregister führende Stelle ist die zuständige Stelle für die Beantwortung eines über die zentrale Europäische Plattform gemäß § 9b Absatz 1 Satz 2 eingehenden Ersuchens eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum nach Artikel 13i der Richtlinie (EU) 2017/1132 um Informationen, die relevant sind für die Disqualifikation einer Person
 
@@ -223,7 +227,19 @@ Weitergehende Informationen über eine Disqualifikation der betroffenen Person w
 
 5. die Voraussetzungen, Formalien, Fristen und Inhalte der Durchführung der Ersuchen.
 
-##### § 10 Bekanntmachung der Eintragungen; Registerbekanntmachungen
+###### § 9d Sammelstelle für das zentrale europäische Zugangsportal; Verordnungsermächtigung
+
+(1) Die das Unternehmensregister führende Stelle ist Sammelstelle im Sinne des Artikels 2 Nummer 2 der Verordnung (EU) 2023/2859 des Europäischen Parlaments und des Rates vom 13. Dezember 2023 zur Einrichtung eines zentralen europäischen Zugangsportals für den zentralisierten Zugriff auf öffentlich verfügbare, für Finanzdienstleistungen, Kapitalmärkte und Nachhaltigkeit relevante Informationen (ABl. L,2023/2859, 20.12.2023; L, 2024/90097, 12.2.2024), die durch die Richtlinie (EU) 2024/1760 (L, 2024/1760, 5.7.2024) geändert worden ist, für Informationen nach
+
+1. § 325 Absatz 1, soweit sie nach § 325 Absatz 1 Satz 3 an das zentrale europäische Zugangsportal zu übermitteln sind,
+
+2. § 5 Absatz 1, § 40 Absatz 1, § 41 Absatz 1, § 46 Absatz 2, § 50 Absatz 1, § 51 Absatz 2, § 114 Absatz 1, § 115 Absatz 1 und § 116 Absatz 1 des Wertpapierhandelsgesetzes und
+
+3. Artikel 17 Absatz 1 sowie Artikel 19 Absatz 1 der Verordnung (EU) Nr. 596/2014, sofern die Information durch einen Inlandsemittenten (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) veröffentlicht wird.
+
+(2) In Bezug auf Informationen, die an die das Unternehmensregister führende Stelle als Sammelstelle zu übermitteln sind, kann das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu Art, Zeitpunkt und Form der Übermittlung festlegen. Dies umfasst insbesondere die zu verwendenden Dateiformate, anzugebende Metadaten sowie Vorgaben zur Identifizierung und Authentifizierung.
+
+###### § 10 Bekanntmachung der Eintragungen; Registerbekanntmachungen
 
 (1) Die Eintragungen in das Handelsregister sowie Registerbekanntmachungen nach Absatz 3 werden durch ihre erstmalige Abrufbarkeit über das nach § 9 Absatz 1 bestimmte elektronische Informations- und Kommunikationssystem bekannt gemacht. § 9 Absatz 1 Satz 4 und 5 gilt entsprechend.
 
@@ -237,7 +253,7 @@ Weitergehende Informationen über eine Disqualifikation der betroffenen Person w
 
 2. erstmalig erst zu einem späteren Zeitpunkt möglich war.
 
-##### § 10a Anwendung der Verordnung (EU) 2016/679
+###### § 10a Anwendung der Verordnung (EU) 2016/679
 
 (1) Das Auskunftsrecht nach Artikel 15 Absatz 1 und das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) wird dadurch erfüllt, dass die betroffene Person Einsicht in das Handelsregister und in die zum Handelsregister eingereichten Dokumente nehmen kann. Eine Information der betroffenen Person über konkrete Empfänger, gegenüber denen die im Register, in Registerbekanntmachungen oder in zum Register einzureichenden Dokumenten enthaltenen personenbezogenen Daten offengelegt werden, erfolgt nicht.
 
@@ -245,19 +261,19 @@ Weitergehende Informationen über eine Disqualifikation der betroffenen Person w
 
 (3) Das Widerspruchsrecht gemäß Artikel 21 der Verordnung (EU) 2016/679 findet in Bezug auf die im Handelsregister, in Registerbekanntmachungen oder in zum Handelsregister einzureichenden Dokumenten enthaltenen personenbezogenen Daten keine Anwendung.
 
-##### § 11 Offenlegung in der Amtssprache eines Mitgliedstaats der Europäischen Union
+###### § 11 Offenlegung in der Amtssprache eines Mitgliedstaats der Europäischen Union
 
 (1) Die zum Handelsregister einzureichenden Dokumente sowie der Inhalt einer Eintragung können zusätzlich in jeder Amtssprache eines Mitgliedstaats der Europäischen Union übermittelt werden. Auf die Übersetzungen ist in geeigneter Weise hinzuweisen. § 9 ist entsprechend anwendbar.
 
 (2) Im Fall der Abweichung der Originalfassung von einer eingereichten Übersetzung kann letztere einem Dritten nicht entgegengehalten werden; dieser kann sich jedoch auf die eingereichte Übersetzung berufen, es sei denn, der Eingetragene weist nach, dass dem Dritten die Originalfassung bekannt war.
 
-##### § 12 Anmeldungen zur Eintragung und Einreichungen
+###### § 12 Anmeldungen zur Eintragung und Einreichungen
 
 (1) Anmeldungen zur Eintragung in das Handelsregister sind elektronisch in öffentlich beglaubigter Form einzureichen. Die öffentliche Beglaubigung mittels Videokommunikation gemäß § 40a des Beurkundungsgesetzes ist zulässig. Die gleiche Form ist für eine Vollmacht zur Anmeldung erforderlich. Anstelle der Vollmacht kann die Bescheinigung eines Notars nach § 21 Absatz 3 der Bundesnotarordnung eingereicht werden. Rechtsnachfolger eines Beteiligten haben die Rechtsnachfolge soweit tunlich durch öffentliche Urkunden nachzuweisen.
 
 (2) Dokumente sind elektronisch in einem maschinenlesbaren und durchsuchbaren Datenformat einzureichen. Ist eine Urschrift oder eine einfache Abschrift einzureichen oder ist für das Dokument die Schriftform bestimmt, genügt die Übermittlung einer elektronischen Aufzeichnung; ist ein notariell beurkundetes Dokument oder eine öffentlich beglaubigte Abschrift einzureichen, so ist ein mit einem einfachen elektronischen Zeugnis (§ 39a des Beurkundungsgesetzes) versehenes Dokument zu übermitteln.
 
-##### § 13 Zweigniederlassungen von Unternehmen mit Sitz im Inland
+###### § 13 Zweigniederlassungen von Unternehmen mit Sitz im Inland
 
 (1) Die Errichtung einer Zweigniederlassung ist von einem Einzelkaufmann oder einer juristischen Person beim Gericht der Hauptniederlassung, von einer Handelsgesellschaft beim Gericht des Sitzes der Gesellschaft, unter Angabe des Ortes und der inländischen Geschäftsanschrift der Zweigniederlassung und des Zusatzes, falls der Firma der Zweigniederlassung ein solcher beigefügt wird, zur Eintragung anzumelden. In gleicher Weise sind spätere Änderungen der die Zweigniederlassung betreffenden einzutragenden Tatsachen anzumelden.
 
@@ -265,7 +281,7 @@ Weitergehende Informationen über eine Disqualifikation der betroffenen Person w
 
 (3) Die Absätze 1 und 2 gelten entsprechend für die Aufhebung der Zweigniederlassung.
 
-##### § 13a Europäische Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Inland
+###### § 13a Europäische Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Inland
 
 (1) In Bezug auf Zweigniederlassungen, die dem Recht eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum unterliegen und die von einer Kapitalgesellschaft mit Sitz im Inland errichtet wurden, gelten die folgenden Vorschriften.
 
@@ -281,9 +297,9 @@ Weitergehende Informationen über eine Disqualifikation der betroffenen Person w
 
 4. Eintragungsnummer und einheitliche europäische Kennung der Zweigniederlassung.
 
-##### (XXXX) §§ 13b u. 13c (weggefallen)
+###### (XXXX) §§ 13b u. 13c (weggefallen)
 
-##### § 13d Sitz oder Hauptniederlassung im Ausland
+###### § 13d Sitz oder Hauptniederlassung im Ausland
 
 (1) Befindet sich die Hauptniederlassung eines Einzelkaufmanns oder einer juristischen Person oder der Sitz einer Handelsgesellschaft im Ausland, so haben alle eine inländische Zweigniederlassung betreffenden Anmeldungen, Einreichungen und Eintragungen bei dem Gericht zu erfolgen, in dessen Bezirk die Zweigniederlassung besteht.
 
@@ -291,7 +307,7 @@ Weitergehende Informationen über eine Disqualifikation der betroffenen Person w
 
 (3) Im übrigen gelten für die Anmeldungen, Einreichungen, Eintragungen, Bekanntmachungen und Änderungen einzutragender Tatsachen, die die Zweigniederlassung eines Einzelkaufmanns, einer Handelsgesellschaft oder einer juristischen Person mit Ausnahme von Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung betreffen, die Vorschriften für Hauptniederlassungen oder Niederlassungen am Sitz der Gesellschaft sinngemäß, soweit nicht das ausländische Recht Abweichungen nötig macht.
 
-##### § 13e Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland
+###### § 13e Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland
 
 (1) Für Zweigniederlassungen von Aktiengesellschaften und Gesellschaften mit beschränkter Haftung mit Sitz im Ausland gelten ergänzend zu § 13d die folgenden Vorschriften.
 
@@ -317,7 +333,7 @@ Weitergehende Informationen über eine Disqualifikation der betroffenen Person w
 
 (7) Das zuständige Registergericht bestätigt den Eingang der Daten über das Europäische System der Registervernetzung. Sofern zum Zeitpunkt des Dateneingangs bei dem Registergericht keine Anmeldung in Bezug auf die mitgeteilten Tatsachen vorliegt, fordert es die Gesellschaft zur unverzüglichen Anmeldung der geänderten Tatsachen auf.
 
-##### § 13f Zweigniederlassungen von Aktiengesellschaften mit Sitz im Ausland
+###### § 13f Zweigniederlassungen von Aktiengesellschaften mit Sitz im Ausland
 
 (1) Für Zweigniederlassungen von Aktiengesellschaften mit Sitz im Ausland gelten ergänzend die folgenden Vorschriften.
 
@@ -333,7 +349,7 @@ Weitergehende Informationen über eine Disqualifikation der betroffenen Person w
 
 (7) Die Vorschriften über Zweigniederlassungen von Aktiengesellschaften mit Sitz im Ausland gelten sinngemäß für Zweigniederlassungen von Kommanditgesellschaften auf Aktien mit Sitz im Ausland, soweit sich aus den Vorschriften der §§ 278 bis 290 des Aktiengesetzes oder aus dem Fehlen eines Vorstands nichts anderes ergibt.
 
-##### § 13g Zweigniederlassungen von Gesellschaften mit beschränkter Haftung mit Sitz im Ausland
+###### § 13g Zweigniederlassungen von Gesellschaften mit beschränkter Haftung mit Sitz im Ausland
 
 (1) Für Zweigniederlassungen von Gesellschaften mit beschränkter Haftung mit Sitz im Ausland gelten ergänzend die folgenden Vorschriften.
 
@@ -347,7 +363,7 @@ Weitergehende Informationen über eine Disqualifikation der betroffenen Person w
 
 (6) Für die Aufhebung einer Zweigniederlassung gelten die Vorschriften über ihre Errichtung sinngemäß.
 
-##### § 13h Verlegung des Sitzes einer Hauptniederlassung im Inland
+###### § 13h Verlegung des Sitzes einer Hauptniederlassung im Inland
 
 (1) Wird die Hauptniederlassung eines Einzelkaufmanns oder einer juristischen Person oder der Sitz einer Handelsgesellschaft im Inland verlegt, so ist die Verlegung beim Gericht der bisherigen Hauptniederlassung oder des bisherigen Sitzes anzumelden.
 
@@ -355,11 +371,11 @@ Weitergehende Informationen über eine Disqualifikation der betroffenen Person w
 
 (3) Wird die Hauptniederlassung oder der Sitz an einen anderen Ort innerhalb des Bezirks des Gerichts der bisherigen Hauptniederlassung oder des bisherigen Sitzes verlegt, so hat das Gericht zu prüfen, ob die Hauptniederlassung oder der Sitz ordnungsgemäß verlegt und § 30 beachtet ist. Ist dies der Fall, so hat es die Verlegung einzutragen.
 
-##### § 14
+###### § 14
 
 Wer seiner Pflicht zur Anmeldung oder zur Einreichung von Dokumenten zum Handelsregister nicht nachkommt, ist hierzu von dem Registergericht durch Festsetzung von Zwangsgeld anzuhalten. Das einzelne Zwangsgeld darf den Betrag von fünftausend Euro nicht übersteigen.
 
-##### § 15
+###### § 15
 
 (1) Solange eine in das Handelsregister einzutragende Tatsache nicht eingetragen und bekanntgemacht ist, kann sie von demjenigen, in dessen Angelegenheiten sie einzutragen war, einem Dritten nicht entgegengesetzt werden, es sei denn, daß sie diesem bekannt war.
 
@@ -371,11 +387,11 @@ Wer seiner Pflicht zur Anmeldung oder zur Einreichung von Dokumenten zum Handels
 
 (5) Die Absätze 1 bis 3 sind nicht anzuwenden im Hinblick auf die im Registerblatt einer Kapitalgesellschaft eingetragenen Informationen über eine Zweigniederlassung der Gesellschaft im Ausland.
 
-##### § 15a Öffentliche Zustellung
+###### § 15a Öffentliche Zustellung
 
 Ist bei einer juristischen Person, die zur Anmeldung einer inländischen Geschäftsanschrift zum Handelsregister verpflichtet ist, der Zugang einer Willenserklärung nicht unter der eingetragenen Anschrift oder einer im Handelsregister eingetragenen Anschrift einer für Zustellungen empfangsberechtigten Person oder einer ohne Ermittlungen bekannten anderen inländischen Anschrift möglich, kann die Zustellung nach den für die öffentliche Zustellung geltenden Vorschriften der Zivilprozessordnung erfolgen. Zuständig ist das Amtsgericht, in dessen Bezirk sich die eingetragene inländische Geschäftsanschrift der Gesellschaft befindet. § 132 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
-##### § 16
+###### § 16
 
 (1) Ist durch eine rechtskräftige oder vollstreckbare Entscheidung des Prozeßgerichts die Verpflichtung zur Mitwirkung bei einer Anmeldung zum Handelsregister oder ein Rechtsverhältnis, bezüglich dessen eine Eintragung zu erfolgen hat, gegen einen von mehreren bei der Vornahme der Anmeldung Beteiligten festgestellt, so genügt zur Eintragung die Anmeldung der übrigen Beteiligten. Wird die Entscheidung, auf Grund deren die Eintragung erfolgt ist, aufgehoben, so ist dies auf Antrag eines der Beteiligten in das Handelsregister einzutragen.
 
@@ -383,19 +399,19 @@ Ist bei einer juristischen Person, die zur Anmeldung einer inländischen Geschä
 
 ## Dritter Abschnitt Handelsfirma
 
-##### § 17
+###### § 17
 
 (1) Die Firma eines Kaufmanns ist der Name, unter dem er seine Geschäfte betreibt und die Unterschrift abgibt.
 
 (2) Ein Kaufmann kann unter seiner Firma klagen und verklagt werden.
 
-##### § 18
+###### § 18
 
 (1) Die Firma muß zur Kennzeichnung des Kaufmanns geeignet sein und Unterscheidungskraft besitzen.
 
 (2) Die Firma darf keine Angaben enthalten, die geeignet sind, über geschäftliche Verhältnisse, die für die angesprochenen Verkehrskreise wesentlich sind, irrezuführen. Im Verfahren vor dem Registergericht wird die Eignung zur Irreführung nur berücksichtigt, wenn sie ersichtlich ist.
 
-##### § 19
+###### § 19
 
 (1) Die Firma muß, auch wenn sie nach den §§ 21, 22, 24 oder nach anderen gesetzlichen Vorschriften fortgeführt wird, enthalten:
 
@@ -407,29 +423,29 @@ Ist bei einer juristischen Person, die zur Anmeldung einer inländischen Geschä
 
 (2) Wenn in einer offenen Handelsgesellschaft oder Kommanditgesellschaft keine natürliche Person persönlich haftet, muß die Firma, auch wenn sie nach den §§ 21, 22, 24 oder nach anderen gesetzlichen Vorschriften fortgeführt wird, eine Bezeichnung enthalten, welche die Haftungsbeschränkung kennzeichnet.
 
-##### § 20 (weggefallen)
+###### § 20 (weggefallen)
 
-##### § 21
+###### § 21
 
 Wird ohne eine Änderung der Person der in der Firma enthaltene Name des Geschäftsinhabers oder eines Gesellschafters geändert, so kann die bisherige Firma fortgeführt werden.
 
-##### § 22
+###### § 22
 
 (1) Wer ein bestehendes Handelsgeschäft unter Lebenden oder von Todes wegen erwirbt, darf für das Geschäft die bisherige Firma, auch wenn sie den Namen des bisherigen Geschäftsinhabers enthält, mit oder ohne Beifügung eines das Nachfolgeverhältnis andeutenden Zusatzes fortführen, wenn der bisherige Geschäftsinhaber oder dessen Erben in die Fortführung der Firma ausdrücklich willigen.
 
 (2) Wird ein Handelsgeschäft auf Grund eines Nießbrauchs, eines Pachtvertrags oder eines ähnlichen Verhältnisses übernommen, so finden diese Vorschriften entsprechende Anwendung.
 
-##### § 23
+###### § 23
 
 Die Firma kann nicht ohne das Handelsgeschäft, für welches sie geführt wird, veräußert werden.
 
-##### § 24
+###### § 24
 
 (1) Wird jemand in ein bestehendes Handelsgeschäft als Gesellschafter aufgenommen oder tritt ein neuer Gesellschafter in eine Handelsgesellschaft ein oder scheidet aus einer solchen ein Gesellschafter aus, so kann ungeachtet dieser Veränderung die bisherige Firma fortgeführt werden, auch wenn sie den Namen des bisherigen Geschäftsinhabers oder Namen von Gesellschaftern enthält.
 
 (2) Bei dem Ausscheiden eines Gesellschafters, dessen Name in der Firma enthalten ist, bedarf es zur Fortführung der Firma der ausdrücklichen Einwilligung des Gesellschafters oder seiner Erben.
 
-##### § 25
+###### § 25
 
 (1) Wer ein unter Lebenden erworbenes Handelsgeschäft unter der bisherigen Firma mit oder ohne Beifügung eines das Nachfolgeverhältnis andeutenden Zusatzes fortführt, haftet für alle im Betriebe des Geschäfts begründeten Verbindlichkeiten des früheren Inhabers. Die in dem Betriebe begründeten Forderungen gelten den Schuldnern gegenüber als auf den Erwerber übergegangen, falls der bisherige Inhaber oder seine Erben in die Fortführung der Firma gewilligt haben.
 
@@ -437,19 +453,19 @@ Die Firma kann nicht ohne das Handelsgeschäft, für welches sie geführt wird, 
 
 (3) Wird die Firma nicht fortgeführt, so haftet der Erwerber eines Handelsgeschäfts für die früheren Geschäftsverbindlichkeiten nur, wenn ein besonderer Verpflichtungsgrund vorliegt, insbesondere wenn die Übernahme der Verbindlichkeiten in handelsüblicher Weise von dem Erwerber bekanntgemacht worden ist.
 
-##### § 26
+###### § 26
 
 (1) Ist der Erwerber des Handelsgeschäfts auf Grund der Fortführung der Firma oder auf Grund der in § 25 Abs. 3 bezeichneten Kundmachung für die früheren Geschäftsverbindlichkeiten haftbar, so haftet der frühere Geschäftsinhaber für diese Verbindlichkeiten nur, wenn sie vor Ablauf von fünf Jahren fällig und daraus Ansprüche gegen ihn in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art festgestellt sind oder eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines Verwaltungsakts. Die Frist beginnt im Falle des § 25 Abs. 1 mit dem Ende des Tages, an dem der neue Inhaber der Firma in das Handelsregister des Gerichts der Hauptniederlassung eingetragen wird, im Falle des § 25 Abs. 3 mit dem Ende des Tages, an dem die Übernahme kundgemacht wird. Die für die Verjährung geltenden §§ 204, 206, 210, 211 und 212 Abs. 2 und 3 des Bürgerlichen Gesetzbuches sind entsprechend anzuwenden.
 
 (2) Einer Feststellung in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art bedarf es nicht, soweit der frühere Geschäftsinhaber den Anspruch schriftlich anerkannt hat.
 
-##### § 27
+###### § 27
 
 (1) Wird ein zu einem Nachlasse gehörendes Handelsgeschäft von dem Erben fortgeführt, so finden auf die Haftung des Erben für die früheren Geschäftsverbindlichkeiten die Vorschriften des § 25 entsprechende Anwendung.
 
 (2) Die unbeschränkte Haftung nach § 25 Abs. 1 tritt nicht ein, wenn die Fortführung des Geschäfts vor dem Ablaufe von drei Monaten nach dem Zeitpunkt, in welchem der Erbe von dem Anfalle der Erbschaft Kenntnis erlangt hat, eingestellt wird. Auf den Lauf der Frist finden die für die Verjährung geltenden Vorschriften des § 210 des Bürgerlichen Gesetzbuchs entsprechende Anwendung. Ist bei dem Ablaufe der drei Monate das Recht zur Ausschlagung der Erbschaft noch nicht verloren, so endigt die Frist nicht vor dem Ablaufe der Ausschlagungsfrist.
 
-##### § 28
+###### § 28
 
 (1) Tritt jemand als persönlich haftender Gesellschafter oder als Kommanditist in das Geschäft eines Einzelkaufmanns ein, so haftet die Gesellschaft, auch wenn sie die frühere Firma nicht fortführt, für alle im Betriebe des Geschäfts entstandenen Verbindlichkeiten des früheren Geschäftsinhabers. Die in dem Betriebe begründeten Forderungen gelten den Schuldnern gegenüber als auf die Gesellschaft übergegangen.
 
@@ -457,11 +473,11 @@ Die Firma kann nicht ohne das Handelsgeschäft, für welches sie geführt wird, 
 
 (3) Wird der frühere Geschäftsinhaber Kommanditist und haftet die Gesellschaft für die im Betrieb seines Geschäfts entstandenen Verbindlichkeiten, so ist für die Begrenzung seiner Haftung § 26 entsprechend mit der Maßgabe anzuwenden, daß die in § 26 Abs. 1 bestimmte Frist mit dem Ende des Tages beginnt, an dem die Gesellschaft in das Handelsregister eingetragen wird. Dies gilt auch, wenn er in der Gesellschaft oder einem ihr als Gesellschafter angehörenden Unternehmen geschäftsführend tätig wird. Seine Haftung als Kommanditist bleibt unberührt.
 
-##### § 29
+###### § 29
 
 Jeder Kaufmann ist verpflichtet, seine Firma, den Ort und die inländische Geschäftsanschrift seiner Handelsniederlassung bei dem Gericht, in dessen Bezirke sich die Niederlassung befindet, zur Eintragung in das Handelsregister anzumelden.
 
-##### § 30
+###### § 30
 
 (1) Jede neue Firma muß sich von allen an demselben Ort oder in derselben Gemeinde bereits bestehenden und in das Handels-,Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragenen Firmen deutlich unterscheiden.
 
@@ -471,13 +487,13 @@ Jeder Kaufmann ist verpflichtet, seine Firma, den Ort und die inländische Gesch
 
 (4) Durch die Landesregierungen kann bestimmt werden, daß benachbarte Orte oder Gemeinden als ein Ort oder als eine Gemeinde im Sinne dieser Vorschriften anzusehen sind.
 
-##### § 31
+###### § 31
 
 (1) Eine Änderung der Firma oder ihrer Inhaber, die Verlegung der Niederlassung an einen anderen Ort sowie die Änderung der inländischen Geschäftsanschrift ist nach den Vorschriften des § 29 zur Eintragung in das Handelsregister anzumelden.
 
 (2) Das gleiche gilt, wenn die Firma erlischt. Kann die Anmeldung des Erlöschens einer eingetragenen Firma durch die hierzu Verpflichteten nicht auf dem in § 14 bezeichneten Wege herbeigeführt werden, so hat das Gericht das Erlöschen von Amts wegen einzutragen.
 
-##### § 32
+###### § 32
 
 (1) Wird über das Vermögen eines Kaufmanns das Insolvenzverfahren eröffnet, so ist dies von Amts wegen in das Handelsregister einzutragen. Das gleiche gilt für
 
@@ -493,7 +509,7 @@ Jeder Kaufmann ist verpflichtet, seine Firma, den Ort und die inländische Gesch
 
 (2) Die Vorschriften des § 15 sind nicht anzuwenden.
 
-##### § 33
+###### § 33
 
 (1) Eine juristische Person, deren Eintragung in das Handelsregister mit Rücksicht auf den Gegenstand oder auf die Art und den Umfang ihres Gewerbebetriebes zu erfolgen hat, ist von sämtlichen Mitgliedern des Vorstandes zur Eintragung anzumelden.
 
@@ -503,7 +519,7 @@ Jeder Kaufmann ist verpflichtet, seine Firma, den Ort und die inländische Gesch
 
 (4) Für juristische Personen im Sinne von Absatz 1 gilt die Bestimmung des § 37a entsprechend.
 
-##### § 34
+###### § 34
 
 (1) Jede Änderung der nach § 33 Abs. 2 Satz 2 und 3 einzutragenden Tatsachen oder der Satzung, die Auflösung der juristischen Person, falls sie nicht die Folge der Eröffnung des Insolvenzverfahrens ist, sowie die Personen der Liquidatoren, ihre Vertretungsmacht, jeder Wechsel der Liquidatoren und jede Änderung ihrer Vertretungsmacht sind zur Eintragung in das Handelsregister anzumelden.
 
@@ -515,19 +531,19 @@ Jeder Kaufmann ist verpflichtet, seine Firma, den Ort und die inländische Gesch
 
 (5) Im Falle des Insolvenzverfahrens finden die Vorschriften des § 32 Anwendung.
 
-##### § 35 (weggefallen)
+###### § 35 (weggefallen)
 
 -
 
-##### § 36 (weggefallen)
+###### § 36 (weggefallen)
 
-##### § 37
+###### § 37
 
 (1) Wer eine nach den Vorschriften dieses Abschnitts ihm nicht zustehende Firma gebraucht, ist von dem Registergerichte zur Unterlassung des Gebrauchs der Firma durch Festsetzung von Ordnungsgeld anzuhalten.
 
 (2) Wer in seinen Rechten dadurch verletzt wird, daß ein anderer eine Firma unbefugt gebraucht, kann von diesem die Unterlassung des Gebrauchs der Firma verlangen. Ein nach sonstigen Vorschriften begründeter Anspruch auf Schadensersatz bleibt unberührt.
 
-##### § 37a
+###### § 37a
 
 (1) Auf allen Geschäftsbriefen des Kaufmanns gleichviel welcher Form, die an einen bestimmten Empfänger gerichtet werden, müssen seine Firma, die Bezeichnung nach § 19 Abs. 1 Nr. 1, der Ort seiner Handelsniederlassung, das Registergericht und die Nummer, unter der die Firma in das Handelsregister eingetragen ist, angegeben werden.
 
@@ -539,24 +555,24 @@ Jeder Kaufmann ist verpflichtet, seine Firma, den Ort und die inländische Gesch
 
 ## Vierter Abschnitt Handelsbücher
 
-##### (XXXX) §§ 38 bis 47b (weggefallen)
+###### (XXXX) §§ 38 bis 47b (weggefallen)
 
 ## Fünfter Abschnitt Prokura und
 Handlungsvollmacht
 
-##### § 48
+###### § 48
 
 (1) Die Prokura kann nur von dem Inhaber des Handelsgeschäfts oder seinem gesetzlichen Vertreter und nur mittels ausdrücklicher Erklärung erteilt werden.
 
 (2) Die Erteilung kann an mehrere Personen gemeinschaftlich erfolgen (Gesamtprokura).
 
-##### § 49
+###### § 49
 
 (1) Die Prokura ermächtigt zu allen Arten von gerichtlichen und außergerichtlichen Geschäften und Rechtshandlungen, die der Betrieb eines Handelsgewerbes mit sich bringt.
 
 (2) Zur Veräußerung und Belastung von Grundstücken ist der Prokurist nur ermächtigt, wenn ihm diese Befugnis besonders erteilt ist.
 
-##### § 50
+###### § 50
 
 (1) Eine Beschränkung des Umfanges der Prokura ist Dritten gegenüber unwirksam.
 
@@ -564,11 +580,11 @@ Handlungsvollmacht
 
 (3) Eine Beschränkung der Prokura auf den Betrieb einer von mehreren Niederlassungen des Geschäftsinhabers ist Dritten gegenüber nur wirksam, wenn die Niederlassungen unter verschiedenen Firmen betrieben werden. Eine Verschiedenheit der Firmen im Sinne dieser Vorschrift wird auch dadurch begründet, daß für eine Zweigniederlassung der Firma ein Zusatz beigefügt wird, der sie als Firma der Zweigniederlassung bezeichnet.
 
-##### § 51
+###### § 51
 
 Der Prokurist hat in der Weise zu zeichnen, daß er der Firma seinen Namen mit einem die Prokura andeutenden Zusatze beifügt.
 
-##### § 52
+###### § 52
 
 (1) Die Prokura ist ohne Rücksicht auf das der Erteilung zugrunde liegende Rechtsverhältnis jederzeit widerruflich, unbeschadet des Anspruchs auf die vertragsmäßige Vergütung.
 
@@ -576,13 +592,13 @@ Der Prokurist hat in der Weise zu zeichnen, daß er der Firma seinen Namen mit e
 
 (3) Die Prokura erlischt nicht durch den Tod des Inhabers des Handelsgeschäfts.
 
-##### § 53
+###### § 53
 
 (1) Die Erteilung der Prokura ist von dem Inhaber des Handelsgeschäfts zur Eintragung in das Handelsregister anzumelden. Ist die Prokura als Gesamtprokura erteilt, so muß auch dies zur Eintragung angemeldet werden.
 
 (2) Das Erlöschen der Prokura ist in gleicher Weise wie die Erteilung zur Eintragung anzumelden.
 
-##### § 54
+###### § 54
 
 (1) Ist jemand ohne Erteilung der Prokura zum Betrieb eines Handelsgewerbes oder zur Vornahme einer bestimmten zu einem Handelsgewerbe gehörigen Art von Geschäften oder zur Vornahme einzelner zu einem Handelsgewerbe gehöriger Geschäfte ermächtigt, so erstreckt sich die Vollmacht (Handlungsvollmacht) auf alle Geschäfte und Rechtshandlungen, die der Betrieb eines derartigen Handelsgewerbes oder die Vornahme derartiger Geschäfte gewöhnlich mit sich bringt.
 
@@ -590,7 +606,7 @@ Der Prokurist hat in der Weise zu zeichnen, daß er der Firma seinen Namen mit e
 
 (3) Sonstige Beschränkungen der Handlungsvollmacht braucht ein Dritter nur dann gegen sich gelten zu lassen, wenn er sie kannte oder kennen mußte.
 
-##### § 55
+###### § 55
 
 (1) Die Vorschriften des § 54 finden auch Anwendung auf Handlungsbevollmächtigte, die Handelsvertreter sind oder die als Handlungsgehilfen damit betraut sind, außerhalb des Betriebes des Prinzipals Geschäfte in dessen Namen abzuschließen.
 
@@ -600,38 +616,38 @@ Der Prokurist hat in der Weise zu zeichnen, daß er der Firma seinen Namen mit e
 
 (4) Sie gelten als ermächtigt, die Anzeige von Mängeln einer Ware, die Erklärung, daß eine Ware zur Verfügung gestellt werde, sowie ähnliche Erklärungen, durch die ein Dritter seine Rechte aus mangelhafter Leistung geltend macht oder sie vorbehält, entgegenzunehmen; sie können die dem Unternehmer (Prinzipal) zustehenden Rechte auf Sicherung des Beweises geltend machen.
 
-##### § 56
+###### § 56
 
 Wer in einem Laden oder in einem offenen Warenlager angestellt ist, gilt als ermächtigt zu Verkäufen und Empfangnahmen, die in einem derartigen Laden oder Warenlager gewöhnlich geschehen.
 
-##### § 57
+###### § 57
 
 Der Handlungsbevollmächtigte hat sich bei der Zeichnung jedes eine Prokura andeutenden Zusatzes zu enthalten; er hat mit einem das Vollmachtsverhältnis ausdrückenden Zusatze zu zeichnen.
 
-##### § 58
+###### § 58
 
 Der Handlungsbevollmächtigte kann ohne Zustimmung des Inhabers des Handelsgeschäfts seine Handlungsvollmacht auf einen anderen nicht übertragen.
 
 ## Sechster Abschnitt Handlungsgehilfen und
 Handlungslehrlinge
 
-##### § 59
+###### § 59
 
 Wer in einem Handelsgewerbe zur Leistung kaufmännischer Dienste gegen Entgelt angestellt ist (Handlungsgehilfe), hat, soweit nicht besondere Vereinbarungen über die Art und den Umfang seiner Dienstleistungen oder über die ihm zukommende Vergütung getroffen sind, die dem Ortsgebrauch entsprechenden Dienste zu leisten sowie die dem Ortsgebrauch entsprechende Vergütung zu beanspruchen. In Ermangelung eines Ortsgebrauchs gelten die den Umständen nach angemessenen Leistungen als vereinbart.
 
-##### § 60
+###### § 60
 
 (1) Der Handlungsgehilfe darf ohne Einwilligung des Prinzipals weder ein Handelsgewerbe betreiben noch in dem Handelszweige des Prinzipals für eigene oder fremde Rechnung Geschäfte machen.
 
 (2) Die Einwilligung zum Betrieb eines Handelsgewerbes gilt als erteilt, wenn dem Prinzipal bei der Anstellung des Gehilfen bekannt ist, daß er das Gewerbe betreibt, und der Prinzipal die Aufgabe des Betriebs nicht ausdrücklich vereinbart.
 
-##### § 61
+###### § 61
 
 (1) Verletzt der Handlungsgehilfe die ihm nach § 60 obliegende Verpflichtung, so kann der Prinzipal Schadensersatz fordern; er kann statt dessen verlangen, daß der Handlungsgehilfe die für eigene Rechnung gemachten Geschäfte als für Rechnung des Prinzipals eingegangen gelten lasse und die aus Geschäften für fremde Rechnung bezogene Vergütung herausgebe oder seinen Anspruch auf die Vergütung abtrete.
 
 (2) Die Ansprüche verjähren in drei Monaten von dem Zeitpunkt an, in welchem der Prinzipal Kenntnis von dem Abschluss des Geschäfts erlangt oder ohne grobe Fahrlässigkeit erlangen müsste; sie verjähren ohne Rücksicht auf diese Kenntnis oder grob fahrlässige Unkenntnis in fünf Jahren von dem Abschluss des Geschäfts an.
 
-##### § 62
+###### § 62
 
 (1) Der Prinzipal ist verpflichtet, die Geschäftsräume und die für den Geschäftsbetrieb bestimmten Vorrichtungen und Gerätschaften so einzurichten und zu unterhalten, auch den Geschäftsbetrieb und die Arbeitszeit so zu regeln, daß der Handlungsgehilfe gegen eine Gefährdung seiner Gesundheit, soweit die Natur des Betriebs es gestattet, geschützt und die Aufrechterhaltung der guten Sitten und des Anstandes gesichert ist.
 
@@ -641,27 +657,27 @@ Wer in einem Handelsgewerbe zur Leistung kaufmännischer Dienste gegen Entgelt a
 
 (4) Die dem Prinzipal hiernach obliegenden Verpflichtungen können nicht im voraus durch Vertrag aufgehoben oder beschränkt werden.
 
-##### § 63 (weggefallen)
+###### § 63 (weggefallen)
 
-##### § 64
+###### § 64
 
 Die Zahlung des dem Handlungsgehilfen zukommenden Gehalts hat am Schlusse jedes Monats zu erfolgen. Eine Vereinbarung, nach der die Zahlung des Gehalts später erfolgen soll, ist nichtig.
 
-##### § 65
+###### § 65
 
 Ist bedungen, daß der Handlungsgehilfe für Geschäfte, die von ihm geschlossen oder vermittelt werden, Provision erhalten solle, so sind die für die Handelsvertreter geltenden Vorschriften des § 87 Abs. 1 und 3 sowie der §§ 87a bis 87c anzuwenden.
 
-##### (XXXX) §§ 66 bis 72 (weggefallen)
+###### (XXXX) §§ 66 bis 72 (weggefallen)
 
-##### § 73 (weggefallen)
+###### § 73 (weggefallen)
 
-##### § 74
+###### § 74
 
 (1) Eine Vereinbarung zwischen dem Prinzipal und dem Handlungsgehilfen, die den Gehilfen für die Zeit nach Beendigung des Dienstverhältnisses in seiner gewerblichen Tätigkeit beschränkt (Wettbewerbverbot), bedarf der Schriftform und der Aushändigung einer vom Prinzipal unterzeichneten, die vereinbarten Bestimmungen enthaltenden Urkunde an den Gehilfen.
 
 (2) Das Wettbewerbverbot ist nur verbindlich, wenn sich der Prinzipal verpflichtet, für die Dauer des Verbots eine Entschädigung zu zahlen, die für jedes Jahr des Verbots mindestens die Hälfte der von dem Handlungsgehilfen zuletzt bezogenen vertragsmäßigen Leistungen erreicht.
 
-##### § 74a
+###### § 74a
 
 (1) Das Wettbewerbverbot ist insoweit unverbindlich, als es nicht zum Schutze eines berechtigten geschäftlichen Interesses des Prinzipals dient. Es ist ferner unverbindlich, soweit es unter Berücksichtigung der gewährten Entschädigung nach Ort, Zeit oder Gegenstand eine unbillige Erschwerung des Fortkommens des Gehilfen enthält. Das Verbot kann nicht auf einen Zeitraum von mehr als zwei Jahren von der Beendigung des Dienstverhältnisses an erstreckt werden.
 
@@ -669,7 +685,7 @@ Ist bedungen, daß der Handlungsgehilfe für Geschäfte, die von ihm geschlossen
 
 (3) Unberührt bleiben die Vorschriften des § 138 des Bürgerlichen Gesetzbuchs über die Nichtigkeit von Rechtsgeschäften, die gegen die guten Sitten verstoßen.
 
-##### § 74b
+###### § 74b
 
 (1) Die nach § 74 Abs. 2 dem Handlungsgehilfen zu gewährende Entschädigung ist am Schlusse jedes Monats zu zahlen.
 
@@ -677,13 +693,13 @@ Ist bedungen, daß der Handlungsgehilfe für Geschäfte, die von ihm geschlossen
 
 (3) Soweit Bezüge zum Ersatze besonderer Auslagen dienen sollen, die infolge der Dienstleistung entstehen, bleiben sie außer Ansatz.
 
-##### § 74c
+###### § 74c
 
 (1) Der Handlungsgehilfe muß sich auf die fällige Entschädigung anrechnen lassen, was er während des Zeitraums, für den die Entschädigung gezahlt wird, durch anderweite Verwertung seiner Arbeitskraft erwirbt oder zu erwerben böswillig unterläßt, soweit die Entschädigung unter Hinzurechnung dieses Betrags den Betrag der zuletzt von ihm bezogenen vertragsmäßigen Leistungen um mehr als ein Zehntel übersteigen würde. Ist der Gehilfe durch das Wettbewerbverbot gezwungen worden, seinen Wohnsitz zu verlegen, so tritt an die Stelle des Betrags von einem Zehntel der Betrag von einem Viertel. Für die Dauer der Verbüßung einer Freiheitsstrafe kann der Gehilfe eine Entschädigung nicht verlangen.
 
 (2) Der Gehilfe ist verpflichtet, dem Prinzipal auf Erfordern über die Höhe seines Erwerbes Auskunft zu erteilen.
 
-##### § 75
+###### § 75
 
 (1) Löst der Gehilfe das Dienstverhältnis gemäß § 626 des Bürgerlichen Gesetzbuchs wegen vertragswidrigen Verhaltens des Prinzipals auf, so wird das Wettbewerbverbot unwirksam, wenn der Gehilfe vor Ablauf eines Monats nach der Kündigung schriftlich erklärt, daß er sich an die Vereinbarung nicht gebunden erachte.
 
@@ -691,51 +707,51 @@ Ist bedungen, daß der Handlungsgehilfe für Geschäfte, die von ihm geschlossen
 
 (3) Löst der Prinzipal das Dienstverhältnis gemäß § 626 des Bürgerlichen Gesetzbuchs wegen vertragswidrigen Verhaltens des Gehilfen auf, so gilt Absatz 1 entsprechend.
 
-##### § 75a
+###### § 75a
 
 Der Prinzipal kann vor der Beendigung des Dienstverhältnisses durch schriftliche Erklärung auf das Wettbewerbverbot mit der Wirkung verzichten, daß er mit dem Ablauf eines Jahres seit der Erklärung von der Verpflichtung zur Zahlung der Entschädigung frei wird.
 
-##### § 75b (weggefallen)
+###### § 75b (weggefallen)
 
-##### § 75c
+###### § 75c
 
 (1) Hat der Handlungsgehilfe für den Fall, daß er die in der Vereinbarung übernommene Verpflichtung nicht erfüllt, eine Strafe versprochen, so kann der Prinzipal Ansprüche nur nach Maßgabe der Vorschriften des § 340 des Bürgerlichen Gesetzbuchs geltend machen. Die Vorschriften des Bürgerlichen Gesetzbuchs über die Herabsetzung einer unverhältnismäßig hohen Vertragsstrafe bleiben unberührt.
 
 (2) Ist die Verbindlichkeit der Vereinbarung nicht davon abhängig, daß sich der Prinzipal zur Zahlung einer Entschädigung an den Gehilfen verpflichtet, so kann der Prinzipal, wenn sich der Gehilfe einer Vertragsstrafe der in Absatz 1 bezeichneten Art unterworfen hat, nur die verwirkte Strafe verlangen; der Anspruch auf Erfüllung oder auf Ersatz eines weiteren Schadens ist ausgeschlossen.
 
-##### § 75d
+###### § 75d
 
 Auf eine Vereinbarung, durch die von den Vorschriften der §§ 74 bis 75c zum Nachteil des Handlungsgehilfen abgewichen wird, kann sich der Prinzipal nicht berufen. Das gilt auch von Vereinbarungen, die bezwecken, die gesetzlichen Vorschriften über das Mindestmaß der Entschädigung durch Verrechnungen oder auf sonstige Weise zu umgehen.
 
-##### § 75e (weggefallen)
+###### § 75e (weggefallen)
 
-##### § 75f
+###### § 75f
 
 Im Falle einer Vereinbarung, durch die sich ein Prinzipal einem anderen Prinzipal gegenüber verpflichtet, einen Handlungsgehilfen, der bei diesem im Dienst ist oder gewesen ist, nicht oder nur unter bestimmten Voraussetzungen anzustellen, steht beiden Teilen der Rücktritt frei. Aus der Vereinbarung findet weder Klage noch Einrede statt.
 
-##### § 75g
+###### § 75g
 
 § 55 Abs. 4 gilt auch für einen Handlungsgehilfen, der damit betraut ist, außerhalb des Betriebes des Prinzipals für diesen Geschäfte zu vermitteln. Eine Beschränkung dieser Rechte braucht ein Dritter gegen sich nur gelten zu lassen, wenn er sie kannte oder kennen mußte.
 
-##### § 75h
+###### § 75h
 
 (1) Hat ein Handlungsgehilfe, der nur mit der Vermittlung von Geschäften außerhalb des Betriebes des Prinzipals betraut ist, ein Geschäft im Namen des Prinzipals abgeschlossen, und war dem Dritten der Mangel der Vertretungsmacht nicht bekannt, so gilt das Geschäft als von dem Prinzipal genehmigt, wenn dieser dem Dritten gegenüber nicht unverzüglich das Geschäft ablehnt, nachdem er von dem Handlungsgehilfen oder dem Dritten über Abschluß und wesentlichen Inhalt benachrichtigt worden ist.
 
 (2) Das gleiche gilt, wenn ein Handlungsgehilfe, der mit dem Abschluß von Geschäften betraut ist, ein Geschäft im Namen des Prinzipals abgeschlossen hat, zu dessen Abschluß er nicht bevollmächtigt ist.
 
-##### (XXXX) §§ 76 bis 82 (weggefallen)
+###### (XXXX) §§ 76 bis 82 (weggefallen)
 
-##### § 82a
+###### § 82a
 
 Auf Wettbewerbsverbote gegenüber Personen, die, ohne als Lehrlinge angenommen zu sein, zum Zwecke ihrer Ausbildung unentgeltlich mit kaufmännischen Diensten beschäftigt werden (Volontäre), finden die für Handlungsgehilfen geltenden Vorschriften insoweit Anwendung, als sie nicht auf das dem Gehilfen zustehende Entgelt Bezug nehmen.
 
-##### § 83
+###### § 83
 
 Hinsichtlich der Personen, welche in dem Betrieb eines Handelsgewerbes andere als kaufmännische Dienste leisten, bewendet es bei den für das Arbeitsverhältnis dieser Personen geltenden Vorschriften.
 
 ## Siebenter Abschnitt Handelsvertreter
 
-##### § 84
+###### § 84
 
 (1) Handelsvertreter ist, wer als selbständiger Gewerbetreibender ständig damit betraut ist, für einen anderen Unternehmer (Unternehmer) Geschäfte zu vermitteln oder in dessen Namen abzuschließen. Selbständig ist, wer im wesentlichen frei seine Tätigkeit gestalten und seine Arbeitszeit bestimmen kann.
 
@@ -745,11 +761,11 @@ Hinsichtlich der Personen, welche in dem Betrieb eines Handelsgewerbes andere al
 
 (4) Die Vorschriften dieses Abschnittes finden auch Anwendung, wenn das Unternehmen des Handelsvertreters nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht erfordert.
 
-##### § 85
+###### § 85
 
 Jeder Teil kann verlangen, daß der Inhalt des Vertrages sowie spätere Vereinbarungen zu dem Vertrag in eine vom anderen Teil unterzeichnete Urkunde aufgenommen werden. Dieser Anspruch kann nicht ausgeschlossen werden.
 
-##### § 86
+###### § 86
 
 (1) Der Handelsvertreter hat sich um die Vermittlung oder den Abschluß von Geschäften zu bemühen; er hat hierbei das Interesse des Unternehmers wahrzunehmen.
 
@@ -759,7 +775,7 @@ Jeder Teil kann verlangen, daß der Inhalt des Vertrages sowie spätere Vereinba
 
 (4) Von den Absätzen 1 und 2 abweichende Vereinbarungen sind unwirksam.
 
-##### § 86a
+###### § 86a
 
 (1) Der Unternehmer hat dem Handelsvertreter die zur Ausübung seiner Tätigkeit erforderlichen Unterlagen, wie Muster, Zeichnungen, Preislisten, Werbedrucksachen, Geschäftsbedingungen, zur Verfügung zu stellen.
 
@@ -767,7 +783,7 @@ Jeder Teil kann verlangen, daß der Inhalt des Vertrages sowie spätere Vereinba
 
 (3) Von den Absätzen 1 und 2 abweichende Vereinbarungen sind unwirksam.
 
-##### § 86b
+###### § 86b
 
 (1) Verpflichtet sich ein Handelsvertreter, für die Erfüllung der Verbindlichkeit aus einem Geschäft einzustehen, so kann er eine besondere Vergütung (Delkredereprovision) beanspruchen; der Anspruch kann im voraus nicht ausgeschlossen werden. Die Verpflichtung kann nur für ein bestimmtes Geschäft oder für solche Geschäfte mit bestimmten Dritten übernommen werden, die der Handelsvertreter vermittelt oder abschließt. Die Übernahme bedarf der Schriftform.
 
@@ -775,7 +791,7 @@ Jeder Teil kann verlangen, daß der Inhalt des Vertrages sowie spätere Vereinba
 
 (3) Absatz 1 gilt nicht, wenn der Unternehmer oder der Dritte seine Niederlassung oder beim Fehlen einer solchen seinen Wohnsitz im Ausland hat. Er gilt ferner nicht für Geschäfte, zu deren Abschluß und Ausführung der Handelsvertreter unbeschränkt bevollmächtigt ist.
 
-##### § 87
+###### § 87
 
 (1) Der Handelsvertreter hat Anspruch auf Provision für alle während des Vertragsverhältnisses abgeschlossenen Geschäfte, die auf seine Tätigkeit zurückzuführen sind oder mit Dritten abgeschlossen werden, die er als Kunden für Geschäfte der gleichen Art geworben hat. Ein Anspruch auf Provision besteht für ihn nicht, wenn und soweit die Provision nach Absatz 3 dem ausgeschiedenen Handelsvertreter zusteht.
 
@@ -791,7 +807,7 @@ Der Anspruch auf Provision nach Satz 1 steht dem nachfolgenden Handelsvertreter 
 
 (4) Neben dem Anspruch auf Provision für abgeschlossene Geschäfte hat der Handelsvertreter Anspruch auf Inkassoprovision für die von ihm auftragsgemäß eingezogenen Beträge.
 
-##### § 87a
+###### § 87a
 
 (1) Der Handelsvertreter hat Anspruch auf Provision, sobald und soweit der Unternehmer das Geschäft ausgeführt hat. Eine abweichende Vereinbarung kann getroffen werden, jedoch hat der Handelsvertreter mit der Ausführung des Geschäfts durch den Unternehmer Anspruch auf einen angemessenen Vorschuß, der spätestens am letzten Tag des folgenden Monats fällig ist. Unabhängig von einer Vereinbarung hat jedoch der Handelsvertreter Anspruch auf Provision, sobald und soweit der Dritte das Geschäft ausgeführt hat.
 
@@ -803,7 +819,7 @@ Der Anspruch auf Provision nach Satz 1 steht dem nachfolgenden Handelsvertreter 
 
 (5) Von Absatz 2 erster Halbsatz, Absätzen 3 und 4 abweichende, für den Handelsvertreter nachteilige Vereinbarungen sind unwirksam.
 
-##### § 87b
+###### § 87b
 
 (1) Ist die Höhe der Provision nicht bestimmt, so ist der übliche Satz als vereinbart anzusehen.
 
@@ -811,7 +827,7 @@ Der Anspruch auf Provision nach Satz 1 steht dem nachfolgenden Handelsvertreter 
 
 (3) Bei Gebrauchsüberlassungs- und Nutzungsverträgen von bestimmter Dauer ist die Provision vom Entgelt für die Vertragsdauer zu berechnen. Bei unbestimmter Dauer ist die Provision vom Entgelt bis zu dem Zeitpunkt zu berechnen, zu dem erstmals von dem Dritten gekündigt werden kann; der Handelsvertreter hat Anspruch auf weitere entsprechend berechnete Provisionen, wenn der Vertrag fortbesteht.
 
-##### § 87c
+###### § 87c
 
 (1) Der Unternehmer hat über die Provision, auf die der Handelsvertreter Anspruch hat, monatlich abzurechnen; der Abrechnungszeitraum kann auf höchstens drei Monate erstreckt werden. Die Abrechnung hat unverzüglich, spätestens bis zum Ende des nächsten Monats, zu erfolgen.
 
@@ -823,19 +839,19 @@ Der Anspruch auf Provision nach Satz 1 steht dem nachfolgenden Handelsvertreter 
 
 (5) Diese Rechte des Handelsvertreters können nicht ausgeschlossen oder beschränkt werden.
 
-##### § 87d
+###### § 87d
 
 Der Handelsvertreter kann den Ersatz seiner im regelmäßigen Geschäftsbetrieb entstandenen Aufwendungen nur verlangen, wenn dies handelsüblich ist.
 
-##### § 88 (weggefallen)
+###### § 88 (weggefallen)
 
-##### § 88a
+###### § 88a
 
 (1) Der Handelsvertreter kann nicht im voraus auf gesetzliche Zurückbehaltungsrechte verzichten.
 
 (2) Nach Beendigung des Vertragsverhältnisses hat der Handelsvertreter ein nach allgemeinen Vorschriften bestehendes Zurückbehaltungsrecht an ihm zur Verfügung gestellten Unterlagen (§ 86a Abs. 1) nur wegen seiner fälligen Ansprüche auf Provision und Ersatz von Aufwendungen.
 
-##### § 89
+###### § 89
 
 (1) Ist das Vertragsverhältnis auf unbestimmte Zeit eingegangen, so kann es im ersten Jahr der Vertragsdauer mit einer Frist von einem Monat, im zweiten Jahr mit einer Frist von zwei Monaten und im dritten bis fünften Jahr mit einer Frist von drei Monaten gekündigt werden. Nach einer Vertragsdauer von fünf Jahren kann das Vertragsverhältnis mit einer Frist von sechs Monaten gekündigt werden. Die Kündigung ist nur für den Schluß eines Kalendermonats zulässig, sofern keine abweichende Vereinbarung getroffen ist.
 
@@ -843,13 +859,13 @@ Der Handelsvertreter kann den Ersatz seiner im regelmäßigen Geschäftsbetrieb 
 
 (3) Ein für eine bestimmte Zeit eingegangenes Vertragsverhältnis, das nach Ablauf der vereinbarten Laufzeit von beiden Teilen fortgesetzt wird, gilt als auf unbestimmte Zeit verlängert. Für die Bestimmung der Kündigungsfristen nach Absatz 1 Satz 1 und 2 ist die Gesamtdauer des Vertragsverhältnisses maßgeblich.
 
-##### § 89a
+###### § 89a
 
 (1) Das Vertragsverhältnis kann von jedem Teil aus wichtigem Grunde ohne Einhaltung einer Kündigungsfrist gekündigt werden. Dieses Recht kann nicht ausgeschlossen oder beschränkt werden.
 
 (2) Wird die Kündigung durch ein Verhalten veranlaßt, das der andere Teil zu vertreten hat, so ist dieser zum Ersatz des durch die Aufhebung des Vertragsverhältnisses entstehenden Schadens verpflichtet.
 
-##### § 89b
+###### § 89b
 
 (1) Der Handelvertreter kann von dem Unternehmer nach Beendigung des Vertragsverhältnisses einen angemessenen Ausgleich verlangen, wenn und soweit
 
@@ -873,11 +889,11 @@ Der Werbung eines neuen Kunden steht es gleich, wenn der Handelsvertreter die Ge
 
 (5) Die Absätze 1, 3 und 4 gelten für Versicherungsvertreter mit der Maßgabe, daß an die Stelle der Geschäftsverbindung mit neuen Kunden, die der Handelsvertreter geworben hat, die Vermittlung neuer Versicherungsverträge durch den Versicherungsvertreter tritt und der Vermittlung eines Versicherungsvertrages es gleichsteht, wenn der Versicherungsvertreter einen bestehenden Versicherungsvertrag so wesentlich erweitert hat, daß dies wirtschaftlich der Vermittlung eines neuen Versicherungsvertrages entspricht. Der Ausgleich des Versicherungsvertreters beträgt abweichend von Absatz 2 höchstens drei Jahresprovisionen oder Jahresvergütungen. Die Vorschriften der Sätze 1 und 2 gelten sinngemäß für Bausparkassenvertreter.
 
-##### § 90
+###### § 90
 
 Der Handelsvertreter darf Geschäfts- und Betriebsgeheimnisse, die ihm anvertraut oder als solche durch seine Tätigkeit für den Unternehmer bekanntgeworden sind, auch nach Beendigung des Vertragsverhältnisses nicht verwerten oder anderen mitteilen, soweit dies nach den gesamten Umständen der Berufsauffassung eines ordentlichen Kaufmannes widersprechen würde.
 
-##### § 90a
+###### § 90a
 
 (1) Eine Vereinbarung, die den Handelsvertreter nach Beendigung des Vertragsverhältnisses in seiner gewerblichen Tätigkeit beschränkt (Wettbewerbsabrede), bedarf der Schriftform und der Aushändigung einer vom Unternehmer unterzeichneten, die vereinbarten Bestimmungen enthaltenden Urkunde an den Handelsvertreter. Die Abrede kann nur für längstens zwei Jahre von der Beendigung des Vertragsverhältnisses an getroffen werden; sie darf sich nur auf den dem Handelsvertreter zugewiesenen Bezirk oder Kundenkreis und nur auf die Gegenstände erstrecken, hinsichtlich deren sich der Handelsvertreter um die Vermittlung oder den Abschluß von Geschäften für den Unternehmer zu bemühen hat. Der Unternehmer ist verpflichtet, dem Handelsvertreter für die Dauer der Wettbewerbsbeschränkung eine angemessene Entschädigung zu zahlen.
 
@@ -887,19 +903,19 @@ Der Handelsvertreter darf Geschäfts- und Betriebsgeheimnisse, die ihm anvertrau
 
 (4) Abweichende für den Handelsvertreter nachteilige Vereinbarungen können nicht getroffen werden.
 
-##### § 91
+###### § 91
 
 (1) § 55 gilt auch für einen Handelsvertreter, der zum Abschluß von Geschäften von einem Unternehmer bevollmächtigt ist, der nicht Kaufmann ist.
 
 (2) Ein Handelsvertreter gilt, auch wenn ihm keine Vollmacht zum Abschluß von Geschäften erteilt ist, als ermächtigt, die Anzeige von Mängeln einer Ware, die Erklärung, daß eine Ware zur Verfügung gestellt werde, sowie ähnliche Erklärungen, durch die ein Dritter seine Rechte aus mangelhafter Leistung geltend macht oder sich vorbehält, entgegenzunehmen; er kann die dem Unternehmer zustehenden Rechte auf Sicherung des Beweises geltend machen. Eine Beschränkung dieser Rechte braucht ein Dritter gegen sich nur gelten zu lassen, wenn er sie kannte oder kennen mußte.
 
-##### § 91a
+###### § 91a
 
 (1) Hat ein Handelsvertreter, der nur mit der Vermittlung von Geschäften betraut ist, ein Geschäft im Namen des Unternehmers abgeschlossen, und war dem Dritten der Mangel an Vertretungsmacht nicht bekannt, so gilt das Geschäft als von dem Unternehmer genehmigt, wenn dieser nicht unverzüglich, nachdem er von dem Handelsvertreter oder dem Dritten über Abschluß und wesentlichen Inhalt benachrichtigt worden ist, dem Dritten gegenüber das Geschäft ablehnt.
 
 (2) Das gleiche gilt, wenn ein Handelsvertreter, der mit dem Abschluß von Geschäften betraut ist, ein Geschäft im Namen des Unternehmers abgeschlossen hat, zu dessen Abschluß er nicht bevollmächtigt ist.
 
-##### § 92
+###### § 92
 
 (1) Versicherungsvertreter ist, wer als Handelsvertreter damit betraut ist, Versicherungsverträge zu vermitteln oder abzuschließen.
 
@@ -911,13 +927,13 @@ Der Handelsvertreter darf Geschäfts- und Betriebsgeheimnisse, die ihm anvertrau
 
 (5) Die Vorschriften der Absätze 1 bis 4 gelten sinngemäß für Bausparkassenvertreter.
 
-##### § 92a
+###### § 92a
 
 (1) Für das Vertragsverhältnis eines Handelsvertreters, der vertraglich nicht für weitere Unternehmer tätig werden darf oder dem dies nach Art und Umfang der von ihm verlangten Tätigkeit nicht möglich ist, kann das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz nach Anhörung von Verbänden der Handelsvertreter und der Unternehmer durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die untere Grenze der vertraglichen Leistungen des Unternehmers festsetzen, um die notwendigen sozialen und wirtschaftlichen Bedürfnisse dieser Handelsvertreter oder einer bestimmten Gruppe von ihnen sicherzustellen. Die festgesetzten Leistungen können vertraglich nicht ausgeschlossen oder beschränkt werden.
 
 (2) Absatz 1 gilt auch für das Vertragsverhältnis eines Versicherungsvertreters, der auf Grund eines Vertrages oder mehrerer Verträge damit betraut ist, Geschäfte für mehrere Versicherer zu vermitteln oder abzuschließen, die zu einem Versicherungskonzern oder zu einer zwischen ihnen bestehenden Organisationsgemeinschaft gehören, sofern die Beendigung des Vertragsverhältnisses mit einem dieser Versicherer im Zweifel auch die Beendigung des Vertragsverhältnisses mit den anderen Versicherern zur Folge haben würde. In diesem Falle kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, außerdem bestimmt werden, ob die festgesetzten Leistungen von allen Versicherern als Gesamtschuldnern oder anteilig oder nur von einem der Versicherer geschuldet werden und wie der Ausgleich unter ihnen zu erfolgen hat.
 
-##### § 92b
+###### § 92b
 
 (1) Auf einen Handelsvertreter im Nebenberuf sind §§ 89 und 89b nicht anzuwenden. Ist das Vertragsverhältnis auf unbestimmte Zeit eingegangen, so kann es mit einer Frist von einem Monat für den Schluß eines Kalendermonats gekündigt werden; wird eine andere Kündigungsfrist vereinbart, so muß sie für beide Teile gleich sein. Der Anspruch auf einen angemessenen Vorschuß nach § 87a Abs. 1 Satz 2 kann ausgeschlossen werden.
 
@@ -927,7 +943,7 @@ Der Handelsvertreter darf Geschäfts- und Betriebsgeheimnisse, die ihm anvertrau
 
 (4) Die Vorschriften der Absätze 1 bis 3 gelten sinngemäß für Versicherungsvertreter und für Bausparkassenvertreter.
 
-##### § 92c
+###### § 92c
 
 (1) Hat der Handelsvertreter seine Tätigkeit für den Unternehmer nach dem Vertrag nicht innerhalb des Gebietes der Europäischen Gemeinschaft oder der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum auszuüben, so kann hinsichtlich aller Vorschriften dieses Abschnittes etwas anderes vereinbart werden.
 
@@ -935,7 +951,7 @@ Der Handelsvertreter darf Geschäfts- und Betriebsgeheimnisse, die ihm anvertrau
 
 ## Achter Abschnitt Handelsmakler
 
-##### § 93
+###### § 93
 
 (1) Wer gewerbsmäßig für andere Personen, ohne von ihnen auf Grund eines Vertragsverhältnisses ständig damit betraut zu sein, die Vermittlung von Verträgen über Anschaffung oder Veräußerung von Waren oder Wertpapieren, über Versicherungen, Güterbeförderungen, Schiffsmiete oder sonstige Gegenstände des Handelsverkehrs übernimmt, hat die Rechte und Pflichten eines Handelsmaklers.
 
@@ -943,7 +959,7 @@ Der Handelsvertreter darf Geschäfts- und Betriebsgeheimnisse, die ihm anvertrau
 
 (3) Die Vorschriften dieses Abschnittes finden auch Anwendung, wenn das Unternehmen des Handelsmaklers nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht erfordert.
 
-##### § 94
+###### § 94
 
 (1) Der Handelsmakler hat, sofern nicht die Parteien ihm dies erlassen oder der Ortsgebrauch mit Rücksicht auf die Gattung der Ware davon entbindet, unverzüglich nach dem Abschlusse des Geschäfts jeder Partei eine von ihm unterzeichnete Schlußnote zuzustellen, welche die Parteien, den Gegenstand und die Bedingungen des Geschäfts, insbesondere bei Verkäufen von Waren oder Wertpapieren deren Gattung und Menge sowie den Preis und die Zeit der Lieferung, enthält.
 
@@ -951,7 +967,7 @@ Der Handelsvertreter darf Geschäfts- und Betriebsgeheimnisse, die ihm anvertrau
 
 (3) Verweigert eine Partei die Annahme oder Unterschrift der Schlußnote, so hat der Handelsmakler davon der anderen Partei unverzüglich Anzeige zu machen.
 
-##### § 95
+###### § 95
 
 (1) Nimmt eine Partei eine Schlußnote an, in der sich der Handelsmakler die Bezeichnung der anderen Partei vorbehalten hat, so ist sie an das Geschäft mit der Partei, welche ihr nachträglich bezeichnet wird, gebunden, es sei denn, daß gegen diese begründete Einwendungen zu erheben sind.
 
@@ -959,37 +975,37 @@ Der Handelsvertreter darf Geschäfts- und Betriebsgeheimnisse, die ihm anvertrau
 
 (3) Unterbleibt die Bezeichnung oder sind gegen die bezeichnete Person oder Firma begründete Einwendungen zu erheben, so ist die Partei befugt, den Handelsmakler auf die Erfüllung des Geschäfts in Anspruch zu nehmen. Der Anspruch ist ausgeschlossen, wenn sich die Partei auf die Aufforderung des Handelsmaklers nicht unverzüglich darüber erklärt, ob sie Erfüllung verlange.
 
-##### § 96
+###### § 96
 
 Der Handelsmakler hat, sofern nicht die Parteien ihm dies erlassen oder der Ortsgebrauch mit Rücksicht auf die Gattung der Ware davon entbindet, von jeder durch seine Vermittlung nach Probe verkauften Ware die Probe, falls sie ihm übergeben ist, so lange aufzubewahren, bis die Ware ohne Einwendung gegen ihre Beschaffenheit angenommen oder das Geschäft in anderer Weise erledigt wird. Er hat die Probe durch ein Zeichen kenntlich zu machen.
 
-##### § 97
+###### § 97
 
 Der Handelsmakler gilt nicht als ermächtigt, eine Zahlung oder eine andere im Vertrage bedungene Leistung in Empfang zu nehmen.
 
-##### § 98
+###### § 98
 
 Der Handelsmakler haftet jeder der beiden Parteien für den durch sein Verschulden entstehenden Schaden.
 
-##### § 99
+###### § 99
 
 Ist unter den Parteien nichts darüber vereinbart, wer den Maklerlohn bezahlen soll, so ist er in Ermangelung eines abweichenden Ortsgebrauchs von jeder Partei zur Hälfte zu entrichten.
 
-##### § 100
+###### § 100
 
 (1) Der Handelsmakler ist verpflichtet, ein Tagebuch zu führen und in dieses alle abgeschlossenen Geschäfte täglich einzutragen. Die Eintragungen sind nach der Zeitfolge zu bewirken; sie haben die in § 94 Abs. 1 bezeichneten Angaben zu enthalten. Das Eingetragene ist von dem Handelsmakler täglich zu unterzeichnen oder gemäß § 126a Abs. 1 des Bürgerlichen Gesetzbuchs elektronisch zu signieren.
 
 (2) Die Vorschriften der §§ 239 und 257 über die Einrichtung und Aufbewahrung der Handelsbücher finden auf das Tagebuch des Handelsmaklers Anwendung.
 
-##### § 101
+###### § 101
 
 Der Handelsmakler ist verpflichtet, den Parteien jederzeit auf Verlangen Auszüge aus dem Tagebuche zu geben, die von ihm unterzeichnet sind und alles enthalten, was von ihm in Ansehung des vermittelten Geschäfts eingetragen ist.
 
-##### § 102
+###### § 102
 
 Im Laufe eines Rechtsstreits kann das Gericht auch ohne Antrag einer Partei die Vorlegung des Tagebuchs anordnen, um es mit der Schlußnote, den Auszügen oder anderen Beweismitteln zu vergleichen.
 
-##### § 103
+###### § 103
 
 (1) Ordnungswidrig handelt, wer als Handelsmakler
 
@@ -999,13 +1015,13 @@ Im Laufe eines Rechtsstreits kann das Gericht auch ohne Antrag einer Partei die 
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-##### § 104
+###### § 104
 
 Auf Personen, welche die Vermittlung von Warengeschäften im Kleinverkehre besorgen, finden die Vorschriften über Schlußnoten und Tagebücher keine Anwendung. Auf Personen, welche die Vermittlung von Versicherungs- oder Bausparverträgen übernehmen, sind die Vorschriften über Tagebücher nicht anzuwenden.
 
 ## Neunter Abschnitt Bußgeldvorschriften
 
-##### § 104a Bußgeldvorschrift
+###### § 104a Bußgeldvorschrift
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 8b Abs. 3 Satz 1 Nr. 2 dort genannte Daten nicht, nicht richtig oder nicht vollständig übermittelt. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweihunderttausend Euro geahndet werden.
 
@@ -1018,7 +1034,7 @@ Gesellschaft
 
 ## Erster Titel Errichtung der Gesellschaft
 
-##### § 105 Begriff der offenen Handelsgesellschaft; Anwendbarkeit des Bürgerlichen Gesetzbuchs
+###### § 105 Begriff der offenen Handelsgesellschaft; Anwendbarkeit des Bürgerlichen Gesetzbuchs
 
 (1) Eine Gesellschaft, deren Zweck auf den Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, ist eine offene Handelsgesellschaft, wenn bei keinem der Gesellschafter die Haftung gegenüber den Gesellschaftsgläubigern beschränkt ist.
 
@@ -1026,7 +1042,7 @@ Gesellschaft
 
 (3) Auf die offene Handelsgesellschaft finden, soweit in diesem Abschnitt nichts anderes vorgeschrieben ist, die Vorschriften des Bürgerlichen Gesetzbuchs über die Gesellschaft entsprechende Anwendung.
 
-##### § 106 Anmeldung zum Handelsregister; Statuswechsel
+###### § 106 Anmeldung zum Handelsregister; Statuswechsel
 
 (1) Die Gesellschaft ist bei dem Gericht, in dessen Bezirk sie ihren Sitz hat, zur Eintragung in das Handelsregister anzumelden.
 
@@ -1068,7 +1084,7 @@ b) wenn der Gesellschafter eine juristische Person oder rechtsfähige Personenge
 
 (7) Anmeldungen sind vorbehaltlich der Sätze 2 und 3 von sämtlichen Gesellschaftern zu bewirken. Scheidet ein Gesellschafter durch Tod aus, kann die Anmeldung ohne Mitwirkung der Erben erfolgen, sofern einer solchen Mitwirkung besondere Hindernisse entgegenstehen. Ändert sich nur die Geschäftsanschrift der Gesellschaft, ist die Anmeldung von der Gesellschaft zu bewirken.
 
-##### § 107 Kleingewerbliche, vermögensverwaltende oder freiberufliche Gesellschaft; Statuswechsel
+###### § 107 Kleingewerbliche, vermögensverwaltende oder freiberufliche Gesellschaft; Statuswechsel
 
 (1) Eine Gesellschaft, deren Gewerbebetrieb nicht schon nach § 1 Absatz 2 Handelsgewerbe ist oder die nur eigenes Vermögen verwaltet, ist offene Handelsgesellschaft, wenn die Firma des Unternehmens in das Handelsregister eingetragen ist. Dies gilt auch für eine Gesellschaft, deren Zweck die gemeinsame Ausübung Freier Berufe durch ihre Gesellschafter ist, soweit das anwendbare Berufsrecht die Eintragung zulässt.
 
@@ -1078,11 +1094,11 @@ b) wenn der Gesellschafter eine juristische Person oder rechtsfähige Personenge
 
 ## Zweiter Titel Rechtsverhältnis der Gesellschafter untereinander und der Gesellschafter zur Gesellschaft
 
-##### § 108 Gestaltungsfreiheit
+###### § 108 Gestaltungsfreiheit
 
 Von den Vorschriften dieses Titels kann durch den Gesellschaftsvertrag abgewichen werden, soweit im Gesetz nichts anderes bestimmt ist.
 
-##### § 109 Beschlussfassung
+###### § 109 Beschlussfassung
 
 (1) Die Beschlüsse der Gesellschafter werden in Versammlungen gefasst.
 
@@ -1092,7 +1108,7 @@ Von den Vorschriften dieses Titels kann durch den Gesellschaftsvertrag abgewiche
 
 (4) Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, ist die Gesellschafterversammlung beschlussfähig, wenn die anwesenden Gesellschafter oder ihre Vertreter ohne Rücksicht auf ihre Stimmberechtigung die für die Beschlussfassung erforderlichen Stimmen haben.
 
-##### § 110 Anfechtbarkeit und Nichtigkeit von Gesellschafterbeschlüssen
+###### § 110 Anfechtbarkeit und Nichtigkeit von Gesellschafterbeschlüssen
 
 (1) Ein Beschluss der Gesellschafter kann wegen Verletzung von Rechtsvorschriften durch Klage auf Nichtigerklärung angefochten werden (Anfechtungsklage).
 
@@ -1104,13 +1120,13 @@ Von den Vorschriften dieses Titels kann durch den Gesellschaftsvertrag abgewiche
 
 Die Nichtigkeit eines Beschlusses der Gesellschafter kann auch auf andere Weise als durch Klage auf Feststellung der Nichtigkeit (Nichtigkeitsklage) geltend gemacht werden.
 
-##### § 111 Anfechtungsbefugnis; Rechtsschutzbedürfnis
+###### § 111 Anfechtungsbefugnis; Rechtsschutzbedürfnis
 
 (1) Anfechtungsbefugt ist jeder Gesellschafter, der oder dessen Rechtsvorgänger im Zeitpunkt der Beschlussfassung der Gesellschaft angehört hat.
 
 (2) Ein Verlust der Mitgliedschaft nach dem Zeitpunkt der Beschlussfassung lässt das Rechtsschutzbedürfnis des Rechtsvorgängers unberührt, wenn er ein berechtigtes Interesse an der Führung des Rechtsstreits hat.
 
-##### § 112 Klagefrist
+###### § 112 Klagefrist
 
 (1) Die Anfechtungsklage ist innerhalb von drei Monaten zu erheben. Eine Vereinbarung im Gesellschaftsvertrag, welche eine kürzere Frist als einen Monat vorsieht, ist unwirksam.
 
@@ -1118,7 +1134,7 @@ Die Nichtigkeit eines Beschlusses der Gesellschafter kann auch auf andere Weise 
 
 (3) Für die Dauer von Vergleichsverhandlungen über den Gegenstand des Beschlusses oder die ihm zugrundeliegenden Umstände zwischen dem anfechtungsbefugten Gesellschafter und der Gesellschaft wird die Klagefrist gehemmt. Die für die Verjährung geltenden §§ 203 und 209 des Bürgerlichen Gesetzbuchs sind mit der Maßgabe entsprechend anzuwenden, dass die Klagefrist frühestens einen Monat nach dem Scheitern der Vergleichsverhandlungen endet.
 
-##### § 113 Anfechtungsklage
+###### § 113 Anfechtungsklage
 
 (1) Zuständig für die Anfechtungsklage ist ausschließlich das Landgericht, in dessen Bezirk die Gesellschaft ihren Sitz hat.
 
@@ -1132,15 +1148,15 @@ Die Nichtigkeit eines Beschlusses der Gesellschafter kann auch auf andere Weise 
 
 (6) Soweit der Gesellschafterbeschluss durch rechtskräftiges Urteil für nichtig erklärt worden ist, wirkt das Urteil für und gegen alle Gesellschafter, auch wenn sie nicht Partei sind.
 
-##### § 114 Nichtigkeitsklage
+###### § 114 Nichtigkeitsklage
 
 Erhebt ein Gesellschafter Nichtigkeitsklage gegen die Gesellschaft, sind die §§ 111 und 113 entsprechend anzuwenden. Mehrere Nichtigkeits- und Anfechtungsprozesse sind zur gemeinsamen Verhandlung und Entscheidung zu verbinden.
 
-##### § 115 Verbindung von Anfechtungs- und Feststellungsklage
+###### § 115 Verbindung von Anfechtungs- und Feststellungsklage
 
 Wendet sich ein Gesellschafter gegen einen Beschluss, mit dem ein Beschlussvorschlag abgelehnt wurde, kann er seinen Antrag auf Nichtigerklärung des ablehnenden Beschlusses mit dem Antrag verbinden, dass ein Beschluss festgestellt wird, der bei Annahme des Beschlussvorschlags rechtmäßig gefasst worden wäre. Auf die Feststellungsklage finden die für die Anfechtungsklage geltenden Vorschriften entsprechende Anwendung.
 
-##### § 116 Geschäftsführungsbefugnis
+###### § 116 Geschäftsführungsbefugnis
 
 (1) Zur Führung der Geschäfte der Gesellschaft sind alle Gesellschafter berechtigt und verpflichtet.
 
@@ -1154,13 +1170,13 @@ Wendet sich ein Gesellschafter gegen einen Beschluss, mit dem ein Beschlussvorsc
 
 (6) Der Gesellschafter kann seinerseits die Geschäftsführung ganz oder teilweise kündigen, wenn ein wichtiger Grund vorliegt. § 671 Absatz 2 und 3 des Bürgerlichen Gesetzbuchs ist entsprechend anzuwenden.
 
-##### § 117 Wettbewerbsverbot
+###### § 117 Wettbewerbsverbot
 
 (1) Ein Gesellschafter darf ohne Einwilligung der anderen Gesellschafter weder in dem Handelszweig der Gesellschaft Geschäfte machen noch an einer anderen gleichartigen Gesellschaft als persönlich haftender Gesellschafter teilnehmen.
 
 (2) Die Einwilligung zur Teilnahme an einer anderen Gesellschaft gilt als erteilt, wenn den anderen Gesellschaftern bei Eingehung der Gesellschaft bekannt ist, dass der Gesellschafter an einer anderen Gesellschaft als persönlich haftender Gesellschafter teilnimmt, und gleichwohl die Aufgabe dieser Beteiligung nicht ausdrücklich vereinbart wird.
 
-##### § 118 Verletzung des Wettbewerbsverbots
+###### § 118 Verletzung des Wettbewerbsverbots
 
 (1) Verletzt ein Gesellschafter die ihm nach § 117 obliegende Verpflichtung, kann die Gesellschaft Schadensersatz fordern. Sie kann stattdessen von dem Gesellschafter verlangen, dass er die für eigene Rechnung gemachten Geschäfte als für Rechnung der Gesellschaft eingegangen gelten lasse und die aus Geschäften für fremde Rechnung bezogene Vergütung herausgebe oder seinen Anspruch auf die Vergütung abtrete.
 
@@ -1170,35 +1186,35 @@ Wendet sich ein Gesellschafter gegen einen Beschluss, mit dem ein Beschlussvorsc
 
 (4) Das Recht der anderen Gesellschafter, den betreffenden Gesellschafter auszuschließen oder die Auflösung der Gesellschaft zu verlangen, wird durch diese Vorschriften nicht berührt.
 
-##### § 119 Verzinsungspflicht
+###### § 119 Verzinsungspflicht
 
 (1) Schuldet die Gesellschaft nach Maßgabe von § 716 Absatz 4 Satz 2 des Bürgerlichen Gesetzbuchs dem Gesellschafter die Verzinsung von Aufwendungen und Verlusten, richtet sich deren Höhe nach § 352 Absatz 2.
 
 (2) Ein Gesellschafter, der der Gesellschaft liquide Geldmittel dadurch vorenthält, dass er seinen vereinbarten Beitrag nicht zur rechten Zeit einzahlt oder eingenommenes Geld der Gesellschaft nicht zur rechten Zeit an die Gesellschaftskasse abliefert oder unbefugt Geld aus der Gesellschaftskasse für sich entnimmt, hat der Gesellschaft Zinsen von dem Tag an zu entrichten, an welchem die Zahlung oder die Ablieferung hätte geschehen sollen oder die Herausnahme des Geldes erfolgt ist. Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
 
-##### § 120 Ermittlung von Gewinn- und Verlustanteilen
+###### § 120 Ermittlung von Gewinn- und Verlustanteilen
 
 (1) Die geschäftsführungsbefugten Gesellschafter sind gegenüber der Gesellschaft zur Aufstellung des Jahresabschlusses (§ 242 Absatz 3) verpflichtet. Sie haben dabei für jeden Gesellschafter nach Maßgabe von § 709 Absatz 3 des Bürgerlichen Gesetzbuchs den Anteil am Gewinn oder Verlust zu ermitteln.
 
 (2) Der einem Gesellschafter zukommende Gewinn wird dem Kapitalanteil des Gesellschafters zugeschrieben; der auf einen Gesellschafter entfallende Verlust wird davon abgeschrieben.
 
-##### § 121 Feststellung des Jahresabschlusses
+###### § 121 Feststellung des Jahresabschlusses
 
 Über die Feststellung des Jahresabschlusses entscheiden die Gesellschafter durch Beschluss.
 
-##### § 122 Gewinnauszahlung
+###### § 122 Gewinnauszahlung
 
 Jeder Gesellschafter hat aufgrund des festgestellten Jahresabschlusses Anspruch auf Auszahlung seines ermittelten Gewinnanteils. Der Anspruch kann nicht geltend gemacht werden, soweit die Auszahlung zum offenbaren Schaden der Gesellschaft gereicht oder der Gesellschafter seinen vereinbarten Beitrag trotz Fälligkeit nicht geleistet hat.
 
 ## Dritter Titel Rechtsverhältnis der Gesellschaft zu Dritten
 
-##### § 123 Entstehung der Gesellschaft im Verhältnis zu Dritten
+###### § 123 Entstehung der Gesellschaft im Verhältnis zu Dritten
 
 (1) Im Verhältnis zu Dritten entsteht die Gesellschaft, sobald sie im Handelsregister eingetragen ist. Dessen ungeachtet entsteht die Gesellschaft schon dann, wenn sie mit Zustimmung sämtlicher Gesellschafter am Rechtsverkehr teilnimmt, soweit sich aus § 107 Absatz 1 nichts anderes ergibt.
 
 (2) Eine Vereinbarung, dass die Gesellschaft erst zu einem späteren Zeitpunkt entstehen soll, ist Dritten gegenüber unwirksam.
 
-##### § 124 Vertretung der Gesellschaft
+###### § 124 Vertretung der Gesellschaft
 
 (1) Zur Vertretung der Gesellschaft ist jeder Gesellschafter befugt, wenn er nicht durch den Gesellschaftsvertrag von der Vertretung ausgeschlossen ist.
 
@@ -1212,27 +1228,27 @@ Jeder Gesellschafter hat aufgrund des festgestellten Jahresabschlusses Anspruch 
 
 (6) Ist der Gesellschaft gegenüber eine Willenserklärung abzugeben, genügt die Abgabe gegenüber einem vertretungsbefugten Gesellschafter.
 
-##### § 125 Angaben auf Geschäftsbriefen
+###### § 125 Angaben auf Geschäftsbriefen
 
 (1) Auf allen Geschäftsbriefen der Gesellschaft, gleichviel welcher Form, die an einen bestimmten Empfänger gerichtet werden, müssen die Firma und der Sitz der Gesellschaft, das Registergericht und die Nummer, unter der die Gesellschaft in das Handelsregister eingetragen ist, angegeben werden. Bei einer Gesellschaft, bei der kein Gesellschafter eine natürliche Person ist, sind auf den Geschäftsbriefen der Gesellschaft ferner die Firmen oder Namen der Gesellschafter anzugeben sowie für die Gesellschafter die nach § 35a des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung oder § 80 des Aktiengesetzes für Geschäftsbriefe vorgeschriebenen Angaben zu machen. Die Angaben nach Satz 2 sind nicht erforderlich, wenn zu den Gesellschaftern der Gesellschaft eine rechtsfähige Personengesellschaft gehört, bei der mindestens ein persönlich haftender Gesellschafter eine natürliche Person ist.
 
 (2) Für Vordrucke und Bestellscheine ist § 37a Absatz 2 und 3 entsprechend anzuwenden. Für Zwangsgelder gegen die zur Vertretung der Gesellschaft befugten Gesellschafter oder deren organschaftliche Vertreter und die Liquidatoren ist § 37a Absatz 4 entsprechend anzuwenden.
 
-##### § 126 Persönliche Haftung der Gesellschafter
+###### § 126 Persönliche Haftung der Gesellschafter
 
 Die Gesellschafter haften für die Verbindlichkeiten der Gesellschaft den Gläubigern als Gesamtschuldner persönlich. Eine entgegenstehende Vereinbarung ist Dritten gegenüber unwirksam.
 
-##### § 127 Haftung des eintretenden Gesellschafters
+###### § 127 Haftung des eintretenden Gesellschafters
 
 Wer in eine bestehende Gesellschaft eintritt, haftet gleich den anderen Gesellschaftern nach Maßgabe der §§ 126 und 128 für die vor seinem Eintritt begründeten Verbindlichkeiten der Gesellschaft. Eine entgegenstehende Vereinbarung ist Dritten gegenüber unwirksam.
 
-##### § 128 Einwendungen und Einreden des Gesellschafters
+###### § 128 Einwendungen und Einreden des Gesellschafters
 
 (1) Wird ein Gesellschafter wegen einer Verbindlichkeit der Gesellschaft in Anspruch genommen, kann er Einwendungen und Einreden, die nicht in seiner Person begründet sind, insoweit geltend machen, als sie von der Gesellschaft erhoben werden können.
 
 (2) Der Gesellschafter kann die Befriedigung des Gläubigers verweigern, solange der Gesellschaft in Ansehung der Verbindlichkeit das Recht zur Anfechtung oder Aufrechnung oder ein anderes Gestaltungsrecht, dessen Ausübung die Gesellschaft ihrerseits zur Leistungsverweigerung berechtigen würde, zusteht.
 
-##### § 129 Zwangsvollstreckung gegen die Gesellschaft oder gegen ihre Gesellschafter
+###### § 129 Zwangsvollstreckung gegen die Gesellschaft oder gegen ihre Gesellschafter
 
 (1) Zur Zwangsvollstreckung in das Vermögen der Gesellschaft ist ein gegen die Gesellschaft gerichteter Vollstreckungstitel erforderlich.
 
@@ -1240,7 +1256,7 @@ Wer in eine bestehende Gesellschaft eintritt, haftet gleich den anderen Gesellsc
 
 ## Vierter Titel Ausscheiden eines Gesellschafters
 
-##### § 130 Gründe für das Ausscheiden; Zeitpunkt des Ausscheidens
+###### § 130 Gründe für das Ausscheiden; Zeitpunkt des Ausscheidens
 
 (1) Folgende Gründe führen zum Ausscheiden eines Gesellschafters aus der Gesellschaft, sofern der Gesellschaftsvertrag für diese Fälle nicht die Auflösung der Gesellschaft vorsieht:
 
@@ -1258,7 +1274,7 @@ Wer in eine bestehende Gesellschaft eintritt, haftet gleich den anderen Gesellsc
 
 (3) Der Gesellschafter scheidet mit Eintritt des ihn betreffenden Ausscheidensgrundes aus, im Fall der Kündigung der Mitgliedschaft aber nicht vor Ablauf der Kündigungsfrist und im Fall der gerichtlichen Entscheidung über die Ausschließungsklage nicht vor Rechtskraft des stattgebenden Urteils.
 
-##### § 131 Fortsetzung mit dem Erben; Ausscheiden des Erben
+###### § 131 Fortsetzung mit dem Erben; Ausscheiden des Erben
 
 (1) Geht der Anteil eines verstorbenen Gesellschafters auf dessen Erben über, so kann jeder Erbe gegenüber den anderen Gesellschaftern antragen, dass ihm die Stellung eines Kommanditisten eingeräumt und der auf ihn entfallende Anteil des Erblassers als seine Kommanditeinlage anerkannt wird.
 
@@ -1270,7 +1286,7 @@ Wer in eine bestehende Gesellschaft eintritt, haftet gleich den anderen Gesellsc
 
 (5) Der Gesellschaftsvertrag kann die Anwendung der Vorschriften der Absätze 1 bis 4 nicht ausschließen. Jedoch kann für den Fall, dass der Erbe sein Verbleiben in der Gesellschaft von der Einräumung der Stellung eines Kommanditisten abhängig macht, sein Gewinnanteil anders als der des Erblassers bestimmt werden.
 
-##### § 132 Kündigung der Mitgliedschaft durch den Gesellschafter
+###### § 132 Kündigung der Mitgliedschaft durch den Gesellschafter
 
 (1) Ist das Gesellschaftsverhältnis auf unbestimmte Zeit eingegangen, kann ein Gesellschafter seine Mitgliedschaft unter Einhaltung einer Frist von sechs Monaten zum Ablauf des Geschäftsjahres gegenüber der Gesellschaft kündigen.
 
@@ -1284,15 +1300,15 @@ Wer in eine bestehende Gesellschaft eintritt, haftet gleich den anderen Gesellsc
 
 (6) Eine Vereinbarung im Gesellschaftsvertrag, welche das Kündigungsrecht nach den Absätzen 2 und 4 ausschließt oder diesen Vorschriften zuwider beschränkt, ist unwirksam.
 
-##### § 133 Kündigung der Mitgliedschaft durch einen Privatgläubiger des Gesellschafters
+###### § 133 Kündigung der Mitgliedschaft durch einen Privatgläubiger des Gesellschafters
 
 Hat ein Privatgläubiger eines Gesellschafters, nachdem innerhalb der letzten sechs Monate eine Zwangsvollstreckung in das bewegliche Vermögen des Gesellschafters ohne Erfolg versucht wurde, aufgrund eines nicht bloß vorläufig vollstreckbaren Schuldtitels die Pfändung des Anteils des Gesellschafters an der Gesellschaft erwirkt, kann er dessen Mitgliedschaft gegenüber der Gesellschaft unter Einhaltung einer Frist von sechs Monaten zum Ablauf des Geschäftsjahrs kündigen.
 
-##### § 134 Gerichtliche Entscheidung über Ausschließungsklage
+###### § 134 Gerichtliche Entscheidung über Ausschließungsklage
 
 Tritt in der Person eines Gesellschafters ein wichtiger Grund ein, kann auf Antrag der anderen Gesellschafter seine Ausschließung aus der Gesellschaft durch gerichtliche Entscheidung ausgesprochen werden, sofern im Gesellschaftsvertrag nichts anderes vereinbart ist. Ein wichtiger Grund liegt insbesondere vor, wenn der Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder grob fahrlässig verletzt hat oder wenn ihm die Erfüllung einer solchen Verpflichtung unmöglich wird. Der Klage steht nicht entgegen, dass nach der Ausschließung nur ein Gesellschafter verbleibt.
 
-##### § 135 Ansprüche des ausgeschiedenen Gesellschafters
+###### § 135 Ansprüche des ausgeschiedenen Gesellschafters
 
 (1) Sofern im Gesellschaftsvertrag nichts anderes vereinbart ist, ist die Gesellschaft verpflichtet, den ausgeschiedenen Gesellschafter von der Haftung für die Verbindlichkeiten der Gesellschaft zu befreien und ihm eine dem Wert seines Anteils angemessene Abfindung zu zahlen. Sind Verbindlichkeiten der Gesellschaft noch nicht fällig, kann die Gesellschaft dem Ausgeschiedenen Sicherheit leisten, statt ihn von der Haftung nach § 126 zu befreien.
 
@@ -1300,11 +1316,11 @@ Tritt in der Person eines Gesellschafters ein wichtiger Grund ein, kann auf Antr
 
 (3) Der Wert des Gesellschaftsanteils ist, soweit erforderlich, im Wege der Schätzung zu ermitteln.
 
-##### § 136 Haftung des ausgeschiedenen Gesellschafters für Fehlbetrag
+###### § 136 Haftung des ausgeschiedenen Gesellschafters für Fehlbetrag
 
 Reicht der Wert des Gesellschaftsvermögens zur Deckung der Verbindlichkeiten der Gesellschaft nicht aus, hat der ausgeschiedene Gesellschafter der Gesellschaft für den Fehlbetrag nach dem Verhältnis seines Anteils am Gewinn und Verlust aufzukommen.
 
-##### § 137 Nachhaftung des ausgeschiedenen Gesellschafters
+###### § 137 Nachhaftung des ausgeschiedenen Gesellschafters
 
 (1) Scheidet ein Gesellschafter aus der Gesellschaft aus, so haftet er für deren bis dahin begründete Verbindlichkeiten, wenn sie vor Ablauf von fünf Jahren nach seinem Ausscheiden fällig sind und
 
@@ -1320,7 +1336,7 @@ Ist die Verbindlichkeit auf Schadensersatz gerichtet, haftet der ausgeschiedene 
 
 ## Fünfter Titel Auflösung der Gesellschaft
 
-##### § 138 Auflösungsgründe
+###### § 138 Auflösungsgründe
 
 (1) Die Gesellschaft wird aufgelöst durch:
 
@@ -1342,23 +1358,23 @@ Dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere r
 
 (3) Im Gesellschaftsvertrag können weitere Auflösungsgründe vereinbart werden.
 
-##### § 139 Auflösung durch gerichtliche Entscheidung
+###### § 139 Auflösung durch gerichtliche Entscheidung
 
 (1) Auf Antrag eines Gesellschafters kann aus wichtigem Grund die Auflösung der Gesellschaft durch gerichtliche Entscheidung ausgesprochen werden, wenn ihm die Fortsetzung der Gesellschaft nicht zuzumuten ist. Ein wichtiger Grund liegt insbesondere vor, wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder grob fahrlässig verletzt hat oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird.
 
 (2) Eine Vereinbarung im Gesellschaftsvertrag, welche das Recht des Gesellschafters, die Auflösung der Gesellschaft aus wichtigem Grund zu verlangen, ausschließt oder Absatz 1 zuwider beschränkt, ist unwirksam.
 
-##### § 140 Auflösungsbeschluss
+###### § 140 Auflösungsbeschluss
 
 Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss ein Beschluss, der die Auflösung der Gesellschaft zum Gegenstand hat, mit einer Mehrheit von mindestens drei Viertel der abgegebenen Stimmen gefasst werden.
 
-##### § 141 Anmeldung der Auflösung
+###### § 141 Anmeldung der Auflösung
 
 (1) Die Auflösung der Gesellschaft ist von sämtlichen Gesellschaftern zur Eintragung in das Handelsregister anzumelden. Dies gilt nicht in den Fällen der Eröffnung oder Ablehnung der Eröffnung des Insolvenzverfahrens über das Vermögen der Gesellschaft (§ 138 Absatz 1 Nummer 2 und § 138 Absatz 2 Satz 1 Nummer 1); dann hat das Gericht die Auflösung und ihren Grund von Amts wegen einzutragen. Im Fall der Löschung der Gesellschaft (§ 138 Absatz 2 Satz 1 Nummer 2) entfällt die Eintragung der Auflösung.
 
 (2) Ist aufgrund einer Vereinbarung im Gesellschaftsvertrag die Gesellschaft durch den Tod eines Gesellschafters aufgelöst, kann die Anmeldung der Auflösung der Gesellschaft ohne Mitwirkung der Erben erfolgen, sofern einer solchen Mitwirkung besondere Hindernisse entgegenstehen.
 
-##### § 142 Fortsetzung der Gesellschaft
+###### § 142 Fortsetzung der Gesellschaft
 
 (1) Die Gesellschafter können nach Auflösung der Gesellschaft deren Fortsetzung beschließen, sobald der Auflösungsgrund beseitigt ist.
 
@@ -1368,7 +1384,7 @@ Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss 
 
 ## Sechster Titel Liquidation der Gesellschaft
 
-##### § 143 Notwendigkeit der Liquidation; anwendbare Vorschriften
+###### § 143 Notwendigkeit der Liquidation; anwendbare Vorschriften
 
 (1) Nach Auflösung der Gesellschaft findet die Liquidation statt, sofern nicht über das Vermögen der Gesellschaft das Insolvenzverfahren eröffnet ist. Ist die Gesellschaft durch Löschung wegen Vermögenslosigkeit aufgelöst, findet eine Liquidation nur statt, wenn sich nach der Löschung herausstellt, dass noch Vermögen vorhanden ist, das der Verteilung unterliegt.
 
@@ -1376,7 +1392,7 @@ Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss 
 
 (3) Die Liquidation erfolgt nach den folgenden Vorschriften dieses Titels, sofern sich nicht aus dem Gesellschaftsvertrag etwas anderes ergibt.
 
-##### § 144 Liquidatoren
+###### § 144 Liquidatoren
 
 (1) Zur Liquidation sind alle Gesellschafter berufen.
 
@@ -1388,7 +1404,7 @@ Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss 
 
 (5) Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, gilt dies im Zweifel nicht für die Berufung und Abberufung eines Liquidators.
 
-##### § 145 Gerichtliche Berufung und Abberufung von Liquidatoren
+###### § 145 Gerichtliche Berufung und Abberufung von Liquidatoren
 
 (1) Auf Antrag eines Beteiligten kann aus wichtigem Grund ein Liquidator durch das Gericht, in dessen Bezirk die Gesellschaft ihren Sitz hat, berufen und abberufen werden. Eine Vereinbarung im Gesellschaftsvertrag, welche dieses Recht ausschließt, ist unwirksam.
 
@@ -1404,19 +1420,19 @@ Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss 
 
 (3) Gehört der Liquidator nicht zu den Gesellschaftern, hat er Anspruch auf Ersatz der erforderlichen Aufwendungen und auf Vergütung für seine Tätigkeit. Einigen sich der Liquidator und die Gesellschaft hierüber nicht, setzt das Gericht die Aufwendungen und die Vergütung fest. Gegen die Entscheidung ist die Beschwerde zulässig; die Rechtsbeschwerde ist ausgeschlossen. Aus der rechtskräftigen Entscheidung findet die Zwangsvollstreckung nach der Zivilprozessordnung statt.
 
-##### § 146 Geschäftsführungs- und Vertretungsbefugnis der Liquidatoren
+###### § 146 Geschäftsführungs- und Vertretungsbefugnis der Liquidatoren
 
 (1) Mit der Auflösung erlischt die einem Gesellschafter im Gesellschaftsvertrag übertragene Befugnis zur Geschäftsführung und Vertretung. Diese Befugnis steht von der Auflösung an allen Liquidatoren gemeinsam zu.
 
 (2) Die bisherige Befugnis eines Gesellschafters zur Geschäftsführung gilt gleichwohl zu seinen Gunsten als fortbestehend, bis er von der Auflösung der Gesellschaft Kenntnis erlangt hat oder die Auflösung kennen muss.
 
-##### § 147 Anmeldung der Liquidatoren
+###### § 147 Anmeldung der Liquidatoren
 
 (1) Die Liquidatoren und ihre Vertretungsbefugnis sind von sämtlichen Gesellschaftern zur Eintragung in das Handelsregister anzumelden. Das Gleiche gilt für jede Änderung in der Person des Liquidators oder in seiner Vertretungsbefugnis. Wenn im Fall des Todes eines Gesellschafters anzunehmen ist, dass die Anmeldung den Tatsachen entspricht, kann die Eintragung erfolgen, auch ohne dass die Erben bei der Anmeldung mitwirken, sofern einer solchen Mitwirkung besondere Hindernisse entgegenstehen.
 
 (2) Die Eintragung gerichtlich berufener Liquidatoren sowie die Eintragung der gerichtlichen Abberufung von Liquidatoren geschieht von Amts wegen.
 
-##### § 148 Rechtsstellung der Liquidatoren
+###### § 148 Rechtsstellung der Liquidatoren
 
 (1) Die Liquidatoren haben, auch wenn sie vom Gericht berufen sind, den Weisungen Folge zu leisten, welche die Beteiligten in Bezug auf die Geschäftsführung beschließen. Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, bedarf der Beschluss der Zustimmung der Beteiligten nach § 145 Absatz 2 Nummer 2 und 4.
 
@@ -1434,15 +1450,15 @@ Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss 
 
 (8) Das nach Berichtigung der Verbindlichkeiten und Rückerstattung der Beiträge verbleibende Vermögen der Gesellschaft ist unter den Gesellschaftern nach dem Verhältnis ihrer Kapitalanteile, wie sie sich aufgrund der Schlussbilanz im Sinne von Absatz 4 ergeben, schließlich zu verteilen.
 
-##### § 149 Haftung des Gesellschafters für Fehlbetrag
+###### § 149 Haftung des Gesellschafters für Fehlbetrag
 
 Reicht das Gesellschaftsvermögen zur Berichtigung der Verbindlichkeiten und zur Rückerstattung der Beiträge nicht aus, haben die Gesellschafter der Gesellschaft für den Fehlbetrag nach dem Verhältnis ihrer Kapitalanteile aufzukommen. Kann von einem Gesellschafter der auf ihn entfallende Betrag nicht erlangt werden, haben die anderen Gesellschafter den Ausfall nach dem gleichen Verhältnis zu tragen.
 
-##### § 150 Anmeldung des Erlöschens der Firma
+###### § 150 Anmeldung des Erlöschens der Firma
 
 Nach der Beendigung der Liquidation ist das Erlöschen der Firma von sämtlichen Liquidatoren zur Eintragung in das Handelsregister anzumelden.
 
-##### § 151 Verjährung von Ansprüchen aus der Gesellschafterhaftung
+###### § 151 Verjährung von Ansprüchen aus der Gesellschafterhaftung
 
 (1) Ist die Gesellschaft durch Liquidation oder auf andere Weise erloschen, verjähren Ansprüche gegen einen Gesellschafter aus Verbindlichkeiten der Gesellschaft in fünf Jahren, sofern nicht der Anspruch gegen die Gesellschaft einer kürzeren Verjährung unterliegt.
 
@@ -1450,71 +1466,71 @@ Nach der Beendigung der Liquidation ist das Erlöschen der Firma von sämtlichen
 
 (3) Beginnt die Verjährung des Anspruchs gegen die Gesellschaft neu oder wird die Verjährung des Anspruchs gegenüber der Gesellschaft nach den §§ 203, 204, 205 oder 206 des Bürgerlichen Gesetzbuchs gehemmt, wirkt dies auch gegenüber den Gesellschaftern, die der Gesellschaft zur Zeit des Erlöschens angehört haben.
 
-##### § 152 Aufbewahrung der Geschäftsunterlagen; Einsicht in die Geschäftsunterlagen
+###### § 152 Aufbewahrung der Geschäftsunterlagen; Einsicht in die Geschäftsunterlagen
 
 (1) Die Geschäftsunterlagen der aufgelösten Gesellschaft werden einem der Gesellschafter oder einem Dritten in Verwahrung gegeben. In Ermangelung einer Verständigung wird der Gesellschafter oder der Dritte durch das Gericht bestimmt, in dessen Bezirk die Gesellschaft ihren Sitz hat.
 
 (2) Die Gesellschafter und deren Erben behalten das Recht auf Einsicht und Benutzung der Geschäftsunterlagen.
 
-##### (XXXX) §§ 153 bis 160
+###### (XXXX) §§ 153 bis 160
 
 ## Zweiter Abschnitt Kommanditgesellschaft
 
-##### § 161
+###### § 161
 
 (1) Eine Gesellschaft, deren Zweck auf den Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, ist eine Kommanditgesellschaft, wenn bei einem oder bei einigen von den Gesellschaftern die Haftung gegenüber den Gesellschaftsgläubigern auf einen bestimmten Betrag (Haftsumme) beschränkt ist (Kommanditisten), während bei dem anderen Teile der Gesellschafter eine Beschränkung der Haftung nicht stattfindet (persönlich haftende Gesellschafter).
 
 (2) Soweit nicht in diesem Abschnitt ein anderes vorgeschrieben ist, finden auf die Kommanditgesellschaft die für die offene Handelsgesellschaft geltenden Vorschriften entsprechende Anwendung.
 
-##### § 162
+###### § 162
 
 (1) Die Anmeldung der Gesellschaft hat außer den in § 106 Abs. 2 vorgesehenen Angaben die Bezeichnung der Kommanditisten und den Betrag der Haftsumme eines jeden von ihnen zu enthalten.
 
 (2) Diese Vorschriften finden im Falle des Eintritts eines Kommanditisten in eine bestehende Handelsgesellschaft und im Falle des Ausscheidens eines Kommanditisten aus einer Kommanditgesellschaft entsprechende Anwendung.
 
-##### § 163
+###### § 163
 
 Für das Verhältnis der Gesellschafter untereinander gelten in Ermangelung abweichender Bestimmungen des Gesellschaftsvertrags die besonderen Vorschriften der §§ 164 bis 169.
 
-##### § 164 Geschäftsführungsbefugnis
+###### § 164 Geschäftsführungsbefugnis
 
 Die Kommanditisten sind von der Geschäftsführungsbefugnis ausgeschlossen; § 116 Absatz 2 Satz 1 bleibt unberührt.
 
-##### § 165
+###### § 165
 
 Die §§ 117 und 118 finden auf die Kommanditisten keine Anwendung.
 
-##### § 166 Informationsrecht der Kommanditisten
+###### § 166 Informationsrecht der Kommanditisten
 
 (1) Der Kommanditist kann von der Gesellschaft eine Abschrift des Jahresabschlusses (§ 242 Absatz 3) verlangen und zu dessen Überprüfung Einsicht in die zugehörigen Geschäftsunterlagen nehmen. Daneben kann er von der Gesellschaft Auskunft über die Gesellschaftsangelegenheiten verlangen, soweit dies zur Wahrnehmung seiner Mitgliedschaftsrechte erforderlich ist, insbesondere, wenn Grund zu der Annahme unredlicher Geschäftsführung besteht.
 
 (2) Eine Vereinbarung im Gesellschaftsvertrag, welche diese Rechte ausschließt oder dieser Vorschrift zuwider beschränkt, ist unwirksam.
 
-##### § 167 Verlustbeteiligung
+###### § 167 Verlustbeteiligung
 
 Soweit der Kommanditist die vereinbarte Einlage geleistet hat, sind die §§ 136 und 149 auf ihn nicht anzuwenden.
 
-##### § 168 (weggefallen)
+###### § 168 (weggefallen)
 
-##### § 169
+###### § 169
 
 (1) Der Kommanditist kann die Auszahlung des Gewinns nicht fordern, soweit sein Kapitalanteil durch den ihm zugewiesenen Verlust unter den auf die vereinbarte Einlage geleisteten Betrag herabgemindert ist oder durch die Auszahlung des Gewinns unter diesen Betrag herabgemindert werden würde.
 
 (2) Der Kommanditist ist nicht verpflichtet, den bezogenen Gewinn wegen späterer Verluste zurückzuzahlen.
 
-##### § 170 Vertretung der Kommanditgesellschaft
+###### § 170 Vertretung der Kommanditgesellschaft
 
 (1) Der Kommanditist ist als solcher nicht befugt, die Gesellschaft zu vertreten.
 
 (2) Sofern der einzig persönlich haftende Gesellschafter der Gesellschaft eine Kapitalgesellschaft ist, an der die Gesellschaft sämtliche Anteile hält, werden vorbehaltlich einer abweichenden Vereinbarung die Rechte in der Gesellschafterversammlung der Kapitalgesellschaft von den Kommanditisten wahrgenommen.
 
-##### § 171
+###### § 171
 
 (1) Der Kommanditist haftet den Gläubigern der Gesellschaft bis zur Höhe seiner Haftsumme unmittelbar; die Haftung ist ausgeschlossen, soweit die vereinbarte Einlage geleistet ist.
 
 (2) Ist über das Vermögen der Gesellschaft das Insolvenzverfahren eröffnet, so wird während der Dauer des Verfahrens das den Gesellschaftsgläubigern nach Absatz 1 zustehende Recht durch den Insolvenzverwalter oder den Sachwalter ausgeübt.
 
-##### § 172
+###### § 172
 
 (1) Im Verhältnisse zu den Gläubigern der Gesellschaft wird nach der Eintragung in das Handelsregister die Haftsumme eines Kommanditisten durch den in der Eintragung angegebenen Betrag bestimmt.
 
@@ -1526,43 +1542,43 @@ Soweit der Kommanditist die vereinbarte Einlage geleistet hat, sind die §§ 136
 
 (5) Gegenüber den Gläubigern einer Gesellschaft, bei der kein persönlich haftender Gesellschafter eine natürliche Person ist, gilt die Einlage eines Kommanditisten als nicht geleistet, soweit sie in Anteilen an den persönlich haftenden Gesellschaftern bewirkt ist. Dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine offene Handelsgesellschaft oder Kommanditgesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist.
 
-##### § 172a (weggefallen)
+###### § 172a (weggefallen)
 
 -
 
-##### § 173
+###### § 173
 
 (1) Wer in eine bestehende Handelsgesellschaft als Kommanditist eintritt, haftet nach Maßgabe der §§ 171 und 172 für die vor seinem Eintritte begründeten Verbindlichkeiten der Gesellschaft, ohne Unterschied, ob die Firma eine Änderung erleidet oder nicht.
 
 (2) Eine entgegenstehende Vereinbarung ist Dritten gegenüber unwirksam.
 
-##### § 174
+###### § 174
 
 Eine Herabsetzung der Haftsumme eines Kommanditisten ist, solange sie nicht in das Handelsregister des Gerichts, in dessen Bezirke die Gesellschaft ihren Sitz hat, eingetragen ist, den Gläubigern gegenüber unwirksam; Gläubiger, deren Forderungen zur Zeit der Eintragung begründet waren, brauchen die Herabsetzung nicht gegen sich gelten zu lassen.
 
-##### § 175 Anmeldung der Änderung der Haftsumme
+###### § 175 Anmeldung der Änderung der Haftsumme
 
 Die Erhöhung sowie die Herabsetzung einer Haftsumme ist durch sämtliche Gesellschafter zur Eintragung in das Handelsregister anzumelden.
 
-##### § 176
+###### § 176
 
 (1) Hat die Gesellschaft, deren Zweck auf den Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, am Rechtsverkehr teilgenommen, bevor sie in das Handelsregister eingetragen ist, haftet jeder Kommanditist, der der Teilnahme am Rechtsverkehr zugestimmt hat, für die bis zur Eintragung begründeten Verbindlichkeiten der Gesellschaft gleich einem persönlich haftenden Gesellschafter, es sei denn, dass seine Beteiligung als Kommanditist dem Gläubiger bekannt war.
 
 (2) Tritt ein weiterer Gesellschafter als Kommanditist in eine bestehende Handelsgesellschaft ein, ist Absatz 1 für die in der Zeit zwischen seinem Eintritt und dessen Eintragung in das Handelsregister begründeten Verbindlichkeiten entsprechend anzuwenden.
 
-##### § 177
+###### § 177
 
 Beim Tod eines Kommanditisten wird die Gesellschaft mangels abweichender vertraglicher Bestimmung mit den Erben fortgesetzt.
 
-##### § 177a
+###### § 177a
 
 § 125 gilt auch für die Gesellschaft, bei der ein Kommanditist eine natürliche Person ist. Der in § 125 Absatz 1 Satz 2 für die Gesellschafter vorgeschriebenen Angaben bedarf es nur für die persönlich haftenden Gesellschafter der Gesellschaft.
 
-##### § 178 Liquidation der Kommanditgesellschaft
+###### § 178 Liquidation der Kommanditgesellschaft
 
 § 144 Absatz 1 findet auf die Kommanditisten keine Anwendung.
 
-##### § 179 Insolvenz der Kommanditgesellschaft
+###### § 179 Insolvenz der Kommanditgesellschaft
 
 § 130 Absatz 1 Nummer 3 findet keine Anwendung, wenn der Gesellschafter, über dessen Vermögen das Insolvenzverfahren eröffnet worden ist, der einzige persönlich haftende Gesellschafter der Kommanditgesellschaft ist und
 
@@ -1572,23 +1588,23 @@ Beim Tod eines Kommanditisten wird die Gesellschaft mangels abweichender vertrag
 
 Wird im Falle des Satzes 1 Nummer 2 der Antrag auf Eröffnung des Insolvenzverfahrens mangels Masse abgewiesen, treten die Wirkungen des § 130 Absatz 1 Nummer 3 mit dem Eintritt der Rechtskraft der Abweisungsentscheidung ein.
 
-##### (XXXX) §§ 180 bis 229 (weggefallen)
+###### (XXXX) §§ 180 bis 229 (weggefallen)
 
 ## Dritter Abschnitt Stille Gesellschaft
 
-##### § 230
+###### § 230
 
 (1) Wer sich als stiller Gesellschafter an dem Handelsgewerbe, das ein anderer betreibt, mit einer Vermögenseinlage beteiligt, hat die Einlage so zu leisten, daß sie in das Vermögen des Inhabers des Handelsgeschäfts übergeht.
 
 (2) Der Inhaber wird aus den in dem Betriebe geschlossenen Geschäften allein berechtigt und verpflichtet.
 
-##### § 231
+###### § 231
 
 (1) Ist der Anteil des stillen Gesellschafters am Gewinn und Verluste nicht bestimmt, so gilt ein den Umständen nach angemessener Anteil als bedungen.
 
 (2) Im Gesellschaftsvertrage kann bestimmt werden, daß der stille Gesellschafter nicht am Verluste beteiligt sein soll; seine Beteiligung am Gewinne kann nicht ausgeschlossen werden.
 
-##### § 232
+###### § 232
 
 (1) Am Schlusse jedes Geschäftsjahrs wird der Gewinn und Verlust berechnet und der auf den stillen Gesellschafter fallende Gewinn ihm ausbezahlt.
 
@@ -1596,17 +1612,17 @@ Wird im Falle des Satzes 1 Nummer 2 der Antrag auf Eröffnung des Insolvenzverfa
 
 (3) Der Gewinn, welcher von dem stillen Gesellschafter nicht erhoben wird, vermehrt dessen Einlage nicht, sofern nicht ein anderes vereinbart ist.
 
-##### § 233 Informationsrecht des stillen Gesellschafters
+###### § 233 Informationsrecht des stillen Gesellschafters
 
 Auf das Informationsrecht des stillen Gesellschafters ist § 166 entsprechend anzuwenden.
 
-##### § 234
+###### § 234
 
 (1) Auf die Kündigung der Gesellschaft durch einen der Gesellschafter oder durch einen Gläubiger des stillen Gesellschafters finden die Vorschriften der §§ 132 und 133 entsprechende Anwendung.
 
 (2) Durch den Tod des stillen Gesellschafters wird die Gesellschaft nicht aufgelöst.
 
-##### § 235
+###### § 235
 
 (1) Nach der Auflösung der Gesellschaft hat sich der Inhaber des Handelsgeschäfts mit dem stillen Gesellschafter auseinanderzusetzen und dessen Guthaben in Geld zu berichtigen.
 
@@ -1614,13 +1630,13 @@ Auf das Informationsrecht des stillen Gesellschafters ist § 166 entsprechend an
 
 (3) Er kann am Schlusse jedes Geschäftsjahrs Rechenschaft über die inzwischen beendigten Geschäfte, Auszahlung des ihm gebührenden Betrags und Auskunft über den Stand der noch schwebenden Geschäfte verlangen.
 
-##### § 236
+###### § 236
 
 (1) Wird über das Vermögen des Inhabers des Handelsgeschäfts das Insolvenzverfahren eröffnet, so kann der stille Gesellschafter wegen der Einlage, soweit sie den Betrag des auf ihn fallenden Anteils am Verlust übersteigt, seine Forderung als Insolvenzgläubiger geltend machen.
 
 (2) Ist die Einlage rückständig, so hat sie der stille Gesellschafter bis zu dem Betrage, welcher zur Deckung seines Anteils am Verlust erforderlich ist, zur Insolvenzmasse einzuzahlen.
 
-##### § 237 (weggefallen)
+###### § 237 (weggefallen)
 
 ## Drittes Buch Handelsbücher
 
@@ -1629,13 +1645,13 @@ Kaufleute
 
 ## Erster Unterabschnitt Buchführung. Inventar
 
-##### § 238 Buchführungspflicht
+###### § 238 Buchführungspflicht
 
 (1) Jeder Kaufmann ist verpflichtet, Bücher zu führen und in diesen seine Handelsgeschäfte und die Lage seines Vermögens nach den Grundsätzen ordnungsmäßiger Buchführung ersichtlich zu machen. Die Buchführung muß so beschaffen sein, daß sie einem sachverständigen Dritten innerhalb angemessener Zeit einen Überblick über die Geschäftsvorfälle und über die Lage des Unternehmens vermitteln kann. Die Geschäftsvorfälle müssen sich in ihrer Entstehung und Abwicklung verfolgen lassen.
 
 (2) Der Kaufmann ist verpflichtet, eine mit der Urschrift übereinstimmende Wiedergabe der abgesandten Handelsbriefe (Kopie, Abdruck, Abschrift oder sonstige Wiedergabe des Wortlauts auf einem Schrift-, Bild- oder anderen Datenträger) zurückzubehalten.
 
-##### § 239 Führung der Handelsbücher
+###### § 239 Führung der Handelsbücher
 
 (1) Bei der Führung der Handelsbücher und bei den sonst erforderlichen Aufzeichnungen hat sich der Kaufmann einer lebenden Sprache zu bedienen. Werden Abkürzungen, Ziffern, Buchstaben oder Symbole verwendet, muß im Einzelfall deren Bedeutung eindeutig festliegen.
 
@@ -1645,7 +1661,7 @@ Kaufleute
 
 (4) Die Handelsbücher und die sonst erforderlichen Aufzeichnungen können auch in der geordneten Ablage von Belegen bestehen oder auf Datenträgern geführt werden, soweit diese Formen der Buchführung einschließlich des dabei angewandten Verfahrens den Grundsätzen ordnungsmäßiger Buchführung entsprechen. Bei der Führung der Handelsbücher und der sonst erforderlichen Aufzeichnungen auf Datenträgern muß insbesondere sichergestellt sein, daß die Daten während der Dauer der Aufbewahrungsfrist verfügbar sind und jederzeit innerhalb angemessener Frist lesbar gemacht werden können. Absätze 1 bis 3 gelten sinngemäß.
 
-##### § 240 Inventar
+###### § 240 Inventar
 
 (1) Jeder Kaufmann hat zu Beginn seines Handelsgewerbes seine Grundstücke, seine Forderungen und Schulden, den Betrag seines baren Geldes sowie seine sonstigen Vermögensgegenstände genau zu verzeichnen und dabei den Wert der einzelnen Vermögensgegenstände und Schulden anzugeben.
 
@@ -1655,7 +1671,7 @@ Kaufleute
 
 (4) Gleichartige Vermögensgegenstände des Vorratsvermögens sowie andere gleichartige oder annähernd gleichwertige bewegliche Vermögensgegenstände und Schulden können jeweils zu einer Gruppe zusammengefaßt und mit dem gewogenen Durchschnittswert angesetzt werden.
 
-##### § 241 Inventurvereinfachungsverfahren
+###### § 241 Inventurvereinfachungsverfahren
 
 (1) Bei der Aufstellung des Inventars darf der Bestand der Vermögensgegenstände nach Art, Menge und Wert auch mit Hilfe anerkannter mathematisch-statistischer Methoden auf Grund von Stichproben ermittelt werden. Das Verfahren muß den Grundsätzen ordnungsmäßiger Buchführung entsprechen. Der Aussagewert des auf diese Weise aufgestellten Inventars muß dem Aussagewert eines auf Grund einer körperlichen Bestandsaufnahme aufgestellten Inventars gleichkommen.
 
@@ -1667,7 +1683,7 @@ Kaufleute
 
 2. auf Grund des besonderen Inventars durch Anwendung eines den Grundsätzen ordnungsmäßiger Buchführung entsprechenden Fortschreibungs- oder Rückrechnungsverfahrens gesichert ist, daß der am Schluß des Geschäftsjahrs vorhandene Bestand der Vermögensgegenstände für diesen Zeitpunkt ordnungsgemäß bewertet werden kann.
 
-##### § 241a Befreiung von der Pflicht zur Buchführung und Erstellung eines Inventars
+###### § 241a Befreiung von der Pflicht zur Buchführung und Erstellung eines Inventars
 
 Einzelkaufleute, die an den Abschlussstichtagen von zwei aufeinander folgenden Geschäftsjahren nicht mehr als jeweils 800 000 Euro Umsatzerlöse und jeweils 80 000 Euro Jahresüberschuss aufweisen, brauchen die §§ 238 bis 241 nicht anzuwenden. Im Fall der Neugründung treten die Rechtsfolgen schon ein, wenn die Werte des Satzes 1 am ersten Abschlussstichtag nach der Neugründung nicht überschritten werden.
 
@@ -1676,7 +1692,7 @@ Jahresabschluß
 
 ## Erster Titel Allgemeine Vorschriften
 
-##### § 242 Pflicht zur Aufstellung
+###### § 242 Pflicht zur Aufstellung
 
 (1) Der Kaufmann hat zu Beginn seines Handelsgewerbes und für den Schluß eines jeden Geschäftsjahrs einen das Verhältnis seines Vermögens und seiner Schulden darstellenden Abschluß (Eröffnungsbilanz, Bilanz) aufzustellen. Auf die Eröffnungsbilanz sind die für den Jahresabschluß geltenden Vorschriften entsprechend anzuwenden, soweit sie sich auf die Bilanz beziehen.
 
@@ -1686,7 +1702,7 @@ Jahresabschluß
 
 (4) Die Absätze 1 bis 3 sind auf Einzelkaufleute im Sinn des § 241a nicht anzuwenden. Im Fall der Neugründung treten die Rechtsfolgen nach Satz 1 schon ein, wenn die Werte des § 241a Satz 1 am ersten Abschlussstichtag nach der Neugründung nicht überschritten werden.
 
-##### § 243 Aufstellungsgrundsatz
+###### § 243 Aufstellungsgrundsatz
 
 (1) Der Jahresabschluß ist nach den Grundsätzen ordnungsmäßiger Buchführung aufzustellen.
 
@@ -1694,17 +1710,17 @@ Jahresabschluß
 
 (3) Der Jahresabschluß ist innerhalb der einem ordnungsmäßigen Geschäftsgang entsprechenden Zeit aufzustellen.
 
-##### § 244 Sprache. Währungseinheit
+###### § 244 Sprache. Währungseinheit
 
 Der Jahresabschluß ist in deutscher Sprache und in Euro aufzustellen.
 
-##### § 245 Unterzeichnung
+###### § 245 Unterzeichnung
 
 Der Jahresabschluß ist vom Kaufmann unter Angabe des Datums zu unterzeichnen. Sind mehrere persönlich haftende Gesellschafter vorhanden, so haben sie alle zu unterzeichnen.
 
 ## Zweiter Titel Ansatzvorschriften
 
-##### § 246 Vollständigkeit. Verrechnungsverbot
+###### § 246 Vollständigkeit. Verrechnungsverbot
 
 (1) Der Jahresabschluss hat sämtliche Vermögensgegenstände, Schulden, Rechnungsabgrenzungsposten sowie Aufwendungen und Erträge zu enthalten, soweit gesetzlich nichts anderes bestimmt ist. Vermögensgegenstände sind in der Bilanz des Eigentümers aufzunehmen; ist ein Vermögensgegenstand nicht dem Eigentümer, sondern einem anderen wirtschaftlich zuzurechnen, hat dieser ihn in seiner Bilanz auszuweisen. Schulden sind in die Bilanz des Schuldners aufzunehmen. Der Unterschiedsbetrag, um den die für die Übernahme eines Unternehmens bewirkte Gegenleistung den Wert der einzelnen Vermögensgegenstände des Unternehmens abzüglich der Schulden im Zeitpunkt der Übernahme übersteigt (entgeltlich erworbener Geschäfts- oder Firmenwert), gilt als zeitlich begrenzt nutzbarer Vermögensgegenstand.
 
@@ -1712,7 +1728,7 @@ Der Jahresabschluß ist vom Kaufmann unter Angabe des Datums zu unterzeichnen. S
 
 (3) Die auf den vorhergehenden Jahresabschluss angewandten Ansatzmethoden sind beizubehalten. § 252 Abs. 2 ist entsprechend anzuwenden.
 
-##### § 247 Inhalt der Bilanz
+###### § 247 Inhalt der Bilanz
 
 (1) In der Bilanz sind das Anlage- und das Umlaufvermögen, das Eigenkapital, die Schulden sowie die Rechnungsabgrenzungsposten gesondert auszuweisen und hinreichend aufzugliedern.
 
@@ -1720,7 +1736,7 @@ Der Jahresabschluß ist vom Kaufmann unter Angabe des Datums zu unterzeichnen. S
 
 (3) (weggefallen)
 
-##### § 248 Bilanzierungsverbote und -wahlrechte
+###### § 248 Bilanzierungsverbote und -wahlrechte
 
 (1) In die Bilanz dürfen nicht als Aktivposten aufgenommen werden:
 
@@ -1732,7 +1748,7 @@ Der Jahresabschluß ist vom Kaufmann unter Angabe des Datums zu unterzeichnen. S
 
 (2) Selbst geschaffene immaterielle Vermögensgegenstände des Anlagevermögens können als Aktivposten in die Bilanz aufgenommen werden. Nicht aufgenommen werden dürfen selbst geschaffene Marken, Drucktitel, Verlagsrechte, Kundenlisten oder vergleichbare immaterielle Vermögensgegenstände des Anlagevermögens.
 
-##### § 249 Rückstellungen
+###### § 249 Rückstellungen
 
 (1) Rückstellungen sind für ungewisse Verbindlichkeiten und für drohende Verluste aus schwebenden Geschäften zu bilden. Ferner sind Rückstellungen zu bilden für
 
@@ -1742,7 +1758,7 @@ Der Jahresabschluß ist vom Kaufmann unter Angabe des Datums zu unterzeichnen. S
 
 (2) Für andere als die in Absatz 1 bezeichneten Zwecke dürfen Rückstellungen nicht gebildet werden. Rückstellungen dürfen nur aufgelöst werden, soweit der Grund hierfür entfallen ist.
 
-##### § 250 Rechnungsabgrenzungsposten
+###### § 250 Rechnungsabgrenzungsposten
 
 (1) Als Rechnungsabgrenzungsposten sind auf der Aktivseite Ausgaben vor dem Abschlußstichtag auszuweisen, soweit sie Aufwand für eine bestimmte Zeit nach diesem Tag darstellen.
 
@@ -1750,13 +1766,13 @@ Der Jahresabschluß ist vom Kaufmann unter Angabe des Datums zu unterzeichnen. S
 
 (3) Ist der Erfüllungsbetrag einer Verbindlichkeit höher als der Ausgabebetrag, so darf der Unterschiedsbetrag in den Rechnungsabgrenzungsposten auf der Aktivseite aufgenommen werden. Der Unterschiedsbetrag ist durch planmäßige jährliche Abschreibungen zu tilgen, die auf die gesamte Laufzeit der Verbindlichkeit verteilt werden können.
 
-##### § 251 Haftungsverhältnisse
+###### § 251 Haftungsverhältnisse
 
 Unter der Bilanz sind, sofern sie nicht auf der Passivseite auszuweisen sind, Verbindlichkeiten aus der Begebung und Übertragung von Wechseln, aus Bürgschaften, Wechsel- und Scheckbürgschaften und aus Gewährleistungsverträgen sowie Haftungsverhältnisse aus der Bestellung von Sicherheiten für fremde Verbindlichkeiten zu vermerken; sie dürfen in einem Betrag angegeben werden. Haftungsverhältnisse sind auch anzugeben, wenn ihnen gleichwertige Rückgriffsforderungen gegenüberstehen.
 
 ## Dritter Titel Bewertungsvorschriften
 
-##### § 252 Allgemeine Bewertungsgrundsätze
+###### § 252 Allgemeine Bewertungsgrundsätze
 
 (1) Bei der Bewertung der im Jahresabschluß ausgewiesenen Vermögensgegenstände und Schulden gilt insbesondere folgendes:
 
@@ -1774,7 +1790,7 @@ Unter der Bilanz sind, sofern sie nicht auf der Passivseite auszuweisen sind, Ve
 
 (2) Von den Grundsätzen des Absatzes 1 darf nur in begründeten Ausnahmefällen abgewichen werden.
 
-##### § 253 Zugangs- und Folgebewertung
+###### § 253 Zugangs- und Folgebewertung
 
 (1) Vermögensgegenstände sind höchstens mit den Anschaffungs- oder Herstellungskosten, vermindert um die Abschreibungen nach den Absätzen 3 bis 5, anzusetzen. Verbindlichkeiten sind zu ihrem Erfüllungsbetrag und Rückstellungen in Höhe des nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrages anzusetzen. Soweit sich die Höhe von Altersversorgungsverpflichtungen ausschließlich nach dem beizulegenden Zeitwert von Wertpapieren im Sinn des § 266 Abs. 2 A. III. 5 bestimmt, sind Rückstellungen hierfür zum beizulegenden Zeitwert dieser Wertpapiere anzusetzen, soweit er einen garantierten Mindestbetrag übersteigt. Nach § 246 Abs. 2 Satz 2 zu verrechnende Vermögensgegenstände sind mit ihrem beizulegenden Zeitwert zu bewerten. Kleinstkapitalgesellschaften (§ 267a) dürfen eine Bewertung zum beizulegenden Zeitwert nur vornehmen, wenn sie von keiner der in § 264 Absatz 1 Satz 5, § 266 Absatz 1 Satz 4, § 275 Absatz 5 und § 326 Absatz 2 vorgesehenen Erleichterungen Gebrauch machen. Macht eine Kleinstkapitalgesellschaft von mindestens einer der in Satz 5 genannten Erleichterungen Gebrauch, erfolgt die Bewertung der Vermögensgegenstände nach Satz 1, auch soweit eine Verrechnung nach § 246 Absatz 2 Satz 2 vorgesehen ist.
 
@@ -1788,11 +1804,11 @@ Unter der Bilanz sind, sofern sie nicht auf der Passivseite auszuweisen sind, Ve
 
 (6) Im Falle von Rückstellungen für Altersversorgungsverpflichtungen ist der Unterschiedsbetrag zwischen dem Ansatz der Rückstellungen nach Maßgabe des entsprechenden durchschnittlichen Marktzinssatzes aus den vergangenen zehn Geschäftsjahren und dem Ansatz der Rückstellungen nach Maßgabe des entsprechenden durchschnittlichen Marktzinssatzes aus den vergangenen sieben Geschäftsjahren in jedem Geschäftsjahr zu ermitteln. Gewinne dürfen nur ausgeschüttet werden, wenn die nach der Ausschüttung verbleibenden frei verfügbaren Rücklagen zuzüglich eines Gewinnvortrags und abzüglich eines Verlustvortrags mindestens dem Unterschiedsbetrag nach Satz 1 entsprechen. Der Unterschiedsbetrag nach Satz 1 ist in jedem Geschäftsjahr im Anhang oder unter der Bilanz darzustellen.
 
-##### § 254 Bildung von Bewertungseinheiten
+###### § 254 Bildung von Bewertungseinheiten
 
 Werden Vermögensgegenstände, Schulden, schwebende Geschäfte oder mit hoher Wahrscheinlichkeit erwartete Transaktionen zum Ausgleich gegenläufiger Wertänderungen oder Zahlungsströme aus dem Eintritt vergleichbarer Risiken mit Finanzinstrumenten zusammengefasst (Bewertungseinheit), sind § 249 Abs. 1, § 252 Abs. 1 Nr. 3 und 4, § 253 Abs. 1 Satz 1 und § 256a in dem Umfang und für den Zeitraum nicht anzuwenden, in dem die gegenläufigen Wertänderungen oder Zahlungsströme sich ausgleichen. Als Finanzinstrumente im Sinn des Satzes 1 gelten auch Termingeschäfte über den Erwerb oder die Veräußerung von Waren.
 
-##### § 255 Bewertungsmaßstäbe
+###### § 255 Bewertungsmaßstäbe
 
 (1) Anschaffungskosten sind die Aufwendungen, die geleistet werden, um einen Vermögensgegenstand zu erwerben und ihn in einen betriebsbereiten Zustand zu versetzen, soweit sie dem Vermögensgegenstand einzeln zugeordnet werden können. Zu den Anschaffungskosten gehören auch die Nebenkosten sowie die nachträglichen Anschaffungskosten. Anschaffungspreisminderungen, die dem Vermögensgegenstand einzeln zugeordnet werden können, sind abzusetzen.
 
@@ -1804,18 +1820,18 @@ Werden Vermögensgegenstände, Schulden, schwebende Geschäfte oder mit hoher Wa
 
 (4) Der beizulegende Zeitwert entspricht dem Marktpreis. Soweit kein aktiver Markt besteht, anhand dessen sich der Marktpreis ermitteln lässt, ist der beizulegende Zeitwert mit Hilfe allgemein anerkannter Bewertungsmethoden zu bestimmen. Lässt sich der beizulegende Zeitwert weder nach Satz 1 noch nach Satz 2 ermitteln, sind die Anschaffungs- oder Herstellungskosten gemäß § 253 Abs. 4 fortzuführen. Der zuletzt nach Satz 1 oder 2 ermittelte beizulegende Zeitwert gilt als Anschaffungs- oder Herstellungskosten im Sinn des Satzes 3.
 
-##### § 256 Bewertungsvereinfachungsverfahren
+###### § 256 Bewertungsvereinfachungsverfahren
 
 Soweit es den Grundsätzen ordnungsmäßiger Buchführung entspricht, kann für den Wertansatz gleichartiger Vermögensgegenstände des Vorratsvermögens unterstellt werden, daß die zuerst oder daß die zuletzt angeschafften oder hergestellten Vermögensgegenstände zuerst verbraucht oder veräußert worden sind. § 240 Abs. 3 und 4 ist auch auf den Jahresabschluß anwendbar.
 
-##### § 256a Währungsumrechnung
+###### § 256a Währungsumrechnung
 
 Auf fremde Währung lautende Vermögensgegenstände und Verbindlichkeiten sind zum Devisenkassamittelkurs am Abschlussstichtag umzurechnen. Bei einer Restlaufzeit von einem Jahr oder weniger sind § 253 Abs. 1 Satz 1 und § 252 Abs. 1 Nr. 4 Halbsatz 2 nicht anzuwenden.
 
 ## Dritter Unterabschnitt Aufbewahrung und
 Vorlage
 
-##### § 257 Aufbewahrung von UnterlagenAufbewahrungsfristen
+###### § 257 Aufbewahrung von UnterlagenAufbewahrungsfristen
 
 (1) Jeder Kaufmann ist verpflichtet, die folgenden Unterlagen geordnet aufzubewahren:
 
@@ -1849,29 +1865,29 @@ die in Absatz 1 Nummer 4 aufgeführten Unterlagen zehn Jahre aufzubewahren.
 
 (5) Die Aufbewahrungsfrist beginnt mit dem Schluß des Kalenderjahrs, in dem die letzte Eintragung in das Handelsbuch gemacht, das Inventar aufgestellt, die Eröffnungsbilanz oder der Jahresabschluß festgestellt, der Einzelabschluss nach § 325 Abs. 2a oder der Konzernabschluß aufgestellt, der Handelsbrief empfangen oder abgesandt worden oder der Buchungsbeleg entstanden ist.
 
-##### § 258 Vorlegung im Rechtsstreit
+###### § 258 Vorlegung im Rechtsstreit
 
 (1) Im Laufe eines Rechtsstreits kann das Gericht auf Antrag oder von Amts wegen die Vorlegung der Handelsbücher einer Partei anordnen.
 
 (2) Die Vorschriften der Zivilprozeßordnung über die Verpflichtung des Prozeßgegners zur Vorlegung von Urkunden bleiben unberührt.
 
-##### § 259 Auszug bei Vorlegung im Rechtsstreit
+###### § 259 Auszug bei Vorlegung im Rechtsstreit
 
 Werden in einem Rechtsstreit Handelsbücher vorgelegt, so ist von ihrem Inhalt, soweit er den Streitpunkt betrifft, unter Zuziehung der Parteien Einsicht zu nehmen und geeignetenfalls ein Auszug zu fertigen. Der übrige Inhalt der Bücher ist dem Gericht insoweit offenzulegen, als es zur Prüfung ihrer ordnungsmäßigen Führung notwendig ist.
 
-##### § 260 Vorlegung bei Auseinandersetzungen
+###### § 260 Vorlegung bei Auseinandersetzungen
 
 Bei Vermögensauseinandersetzungen, insbesondere in Erbschafts-, Gütergemeinschafts- und Gesellschaftsteilungssachen, kann das Gericht die Vorlegung der Handelsbücher zur Kenntnisnahme von ihrem ganzen Inhalt anordnen.
 
-##### § 261 Vorlegung von Unterlagen auf Bild- oder Datenträgern
+###### § 261 Vorlegung von Unterlagen auf Bild- oder Datenträgern
 
 Wer aufzubewahrende Unterlagen nur in der Form einer Wiedergabe auf einem Bildträger oder auf anderen Datenträgern vorlegen kann, ist verpflichtet, auf seine Kosten diejenigen Hilfsmittel zur Verfügung zu stellen, die erforderlich sind, um die Unterlagen lesbar zu machen; soweit erforderlich, hat er die Unterlagen auf seine Kosten auszudrucken oder ohne Hilfsmittel lesbare Reproduktionen beizubringen.
 
 ## Vierter Unterabschnitt Landesrecht
 
-##### § 262 (weggefallen)
+###### § 262 (weggefallen)
 
-##### § 263 Vorbehalt landesrechtlicher Vorschriften
+###### § 263 Vorbehalt landesrechtlicher Vorschriften
 
 Unberührt bleiben bei Unternehmen ohne eigene Rechtspersönlichkeit einer Gemeinde, eines Gemeindeverbands oder eines Zweckverbands landesrechtliche Vorschriften, die von den Vorschriften dieses Abschnitts abweichen.
 
@@ -1885,7 +1901,7 @@ der Kapitalgesellschaft und Lagebericht
 
 ## Erster Titel Allgemeine Vorschriften
 
-##### § 264 Pflicht zur Aufstellung; Befreiung
+###### § 264 Pflicht zur Aufstellung; Befreiung
 
 (1) Die gesetzlichen Vertreter einer Kapitalgesellschaft haben den Jahresabschluß (§ 242) um einen Anhang zu erweitern, der mit der Bilanz und der Gewinn- und Verlustrechnung eine Einheit bildet, sowie einen Lagebericht aufzustellen. Die gesetzlichen Vertreter einer kapitalmarktorientierten Kapitalgesellschaft, die nicht zur Aufstellung eines Konzernabschlusses verpflichtet ist, haben den Jahresabschluss um eine Kapitalflussrechnung und einen Eigenkapitalspiegel zu erweitern, die mit der Bilanz, Gewinn- und Verlustrechnung und dem Anhang eine Einheit bilden; sie können den Jahresabschluss um eine Segmentberichterstattung erweitern. Der Jahresabschluß und der Lagebericht sind von den gesetzlichen Vertretern in den ersten drei Monaten des Geschäftsjahrs für das vergangene Geschäftsjahr aufzustellen. Kleine Kapitalgesellschaften (§ 267 Abs. 1) brauchen den Lagebericht nicht aufzustellen; sie dürfen den Jahresabschluß auch später aufstellen, wenn dies einem ordnungsgemäßen Geschäftsgang entspricht, jedoch innerhalb der ersten sechs Monate des Geschäftsjahres. Kleinstkapitalgesellschaften (§ 267a) brauchen den Jahresabschluss nicht um einen Anhang zu erweitern, wenn sie
 
@@ -1931,7 +1947,7 @@ Hat bereits das Mutterunternehmen einzelne oder alle der in Satz 1 Nummer 5 beze
 
 (4) Absatz 3 ist nicht anzuwenden, wenn eine Kapitalgesellschaft das Tochterunternehmen eines Mutterunternehmens ist, das einen Konzernabschluss nach den Vorschriften des Publizitätsgesetzes aufgestellt hat, und wenn in diesem Konzernabschluss von dem Wahlrecht des § 13 Absatz 3 Satz 1 des Publizitätsgesetzes Gebrauch gemacht worden ist; § 314 Absatz 3 bleibt unberührt.
 
-##### § 264a Anwendung auf bestimmte offene Handelsgesellschaften und Kommanditgesellschaften
+###### § 264a Anwendung auf bestimmte offene Handelsgesellschaften und Kommanditgesellschaften
 
 (1) Die Vorschriften des Ersten bis Fünften Unterabschnitts des Zweiten Abschnitts sind auch anzuwenden auf offene Handelsgesellschaften und Kommanditgesellschaften, bei denen nicht wenigstens ein persönlich haftender Gesellschafter
 
@@ -1943,7 +1959,7 @@ ist oder sich die Verbindung von Gesellschaften in dieser Art fortsetzt.
 
 (2) In den Vorschriften dieses Abschnitts gelten als gesetzliche Vertreter einer offenen Handelsgesellschaft und Kommanditgesellschaft nach Absatz 1 die Mitglieder des vertretungsberechtigten Organs der vertretungsberechtigten Gesellschaften.
 
-##### § 264b Befreiung der offenen Handelsgesellschaften und Kommanditgesellschaften im Sinne des § 264a von der Anwendung der Vorschriften dieses Abschnitts
+###### § 264b Befreiung der offenen Handelsgesellschaften und Kommanditgesellschaften im Sinne des § 264a von der Anwendung der Vorschriften dieses Abschnitts
 
 Eine Personenhandelsgesellschaft im Sinne des § 264a Absatz 1, die nicht im Sinne des § 264d kapitalmarktorientiert ist, ist von der Verpflichtung befreit, einen Jahresabschluss und einen Lagebericht nach den Vorschriften dieses Abschnitts aufzustellen, prüfen zu lassen und offenzulegen, wenn alle folgenden Voraussetzungen erfüllt sind:
 
@@ -1959,7 +1975,7 @@ b) eines Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Un
 
 4. für die Personenhandelsgesellschaft sind der Konzernabschluss, der Konzernlagebericht und der Bestätigungsvermerk nach § 325 Absatz 1 bis 1b offengelegt worden; § 264 Absatz 3 Satz 2 und 3 ist entsprechend anzuwenden.
 
-##### § 264c Besondere Bestimmungen für offene Handelsgesellschaften und Kommanditgesellschaften im Sinne des § 264a
+###### § 264c Besondere Bestimmungen für offene Handelsgesellschaften und Kommanditgesellschaften im Sinne des § 264a
 
 (1) Ausleihungen, Forderungen und Verbindlichkeiten gegenüber Gesellschaftern sind in der Regel als solche jeweils gesondert auszuweisen oder im Anhang anzugeben. Werden sie unter anderen Posten ausgewiesen, so muss diese Eigenschaft vermerkt werden.
 
@@ -1981,11 +1997,11 @@ Anstelle des Postens "Gezeichnetes Kapital" sind die Kapitalanteile der persönl
 
 (5) Macht die Gesellschaft von einem Wahlrecht nach § 266 Absatz 1 Satz 3 oder Satz 4 Gebrauch, richtet sich die Gliederung der verkürzten Bilanz nach der Ausübung dieses Wahlrechts. Die Ermittlung der Bilanzposten nach den vorstehenden Absätzen bleibt unberührt.
 
-##### § 264d Kapitalmarktorientierte Kapitalgesellschaft
+###### § 264d Kapitalmarktorientierte Kapitalgesellschaft
 
 Eine Kapitalgesellschaft ist kapitalmarktorientiert, wenn sie einen organisierten Markt im Sinn des § 2 Absatz 11 des Wertpapierhandelsgesetzes durch von ihr ausgegebene Wertpapiere im Sinn des § 2 Absatz 1 des Wertpapierhandelsgesetzes in Anspruch nimmt oder die Zulassung solcher Wertpapiere zum Handel an einem organisierten Markt beantragt hat.
 
-##### § 265 Allgemeine Grundsätze für die Gliederung
+###### § 265 Allgemeine Grundsätze für die Gliederung
 
 (1) Die Form der Darstellung, insbesondere die Gliederung der aufeinanderfolgenden Bilanzen und Gewinn- und Verlustrechnungen, ist beizubehalten, soweit nicht in Ausnahmefällen wegen besonderer Umstände Abweichungen erforderlich sind. Die Abweichungen sind im Anhang anzugeben und zu begründen.
 
@@ -2009,7 +2025,7 @@ Eine Kapitalgesellschaft ist kapitalmarktorientiert, wenn sie einen organisierte
 
 ## Zweiter Titel Bilanz
 
-##### § 266 Gliederung der Bilanz
+###### § 266 Gliederung der Bilanz
 
 (1) Die Bilanz ist in Kontoform aufzustellen. Dabei haben mittelgroße und große Kapitalgesellschaften (§ 267 Absatz 2 und 3) auf der Aktivseite die in Absatz 2 und auf der Passivseite die in Absatz 3 bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge auszuweisen. Kleine Kapitalgesellschaften (§ 267 Abs. 1) brauchen nur eine verkürzte Bilanz aufzustellen, in die nur die in den Absätzen 2 und 3 mit Buchstaben und römischen Zahlen bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge aufgenommen werden. Kleinstkapitalgesellschaften (§ 267a) brauchen nur eine verkürzte Bilanz aufzustellen, in die nur die in den Absätzen 2 und 3 mit Buchstaben bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge aufgenommen werden.
 
@@ -2139,7 +2155,7 @@ D. Rechnungsabgrenzungsposten.
 
 E. Passive latente Steuern.
 
-##### § 267 Umschreibung der Größenklassen
+###### § 267 Umschreibung der Größenklassen
 
 (1) Kleine Kapitalgesellschaften sind solche, die mindestens zwei der drei nachstehenden Merkmale nicht überschreiten:
 
@@ -2167,7 +2183,7 @@ E. Passive latente Steuern.
 
 (6) Informations- und Auskunftsrechte der Arbeitnehmervertretungen nach anderen Gesetzen bleiben unberührt.
 
-##### § 267a Kleinstkapitalgesellschaften
+###### § 267a Kleinstkapitalgesellschaften
 
 (1) Kleinstkapitalgesellschaften sind kleine Kapitalgesellschaften, die mindestens zwei der drei nachstehenden Merkmale nicht überschreiten:
 
@@ -2189,7 +2205,7 @@ E. Passive latente Steuern.
 
 3. Unternehmen, deren einziger Zweck darin besteht, Beteiligungen an anderen Unternehmen zu erwerben sowie die Verwaltung und Verwertung dieser Beteiligungen wahrzunehmen, ohne dass sie unmittelbar oder mittelbar in die Verwaltung dieser Unternehmen eingreifen, wobei die Ausübung der ihnen als Aktionär oder Gesellschafter zustehenden Rechte außer Betracht bleibt.
 
-##### § 268 Vorschriften zu einzelnen Posten der BilanzBilanzvermerke
+###### § 268 Vorschriften zu einzelnen Posten der BilanzBilanzvermerke
 
 (1) Die Bilanz darf auch unter Berücksichtigung der vollständigen oder teilweisen Verwendung des Jahresergebnisses aufgestellt werden. Wird die Bilanz unter Berücksichtigung der teilweisen Verwendung des Jahresergebnisses aufgestellt, so tritt an die Stelle der Posten "Jahresüberschuß/Jahresfehlbetrag" und "Gewinnvortrag/Verlustvortrag" der Posten "Bilanzgewinn/Bilanzverlust"; ein vorhandener Gewinn- oder Verlustvortrag ist in den Posten "Bilanzgewinn/Bilanzverlust" einzubeziehen und in der Bilanz gesondert anzugeben. Die Angabe kann auch im Anhang gemacht werden.
 
@@ -2213,21 +2229,21 @@ E. Passive latente Steuern.
 
 (8) Werden selbst geschaffene immaterielle Vermögensgegenstände des Anlagevermögens in der Bilanz ausgewiesen, so dürfen Gewinne nur ausgeschüttet werden, wenn die nach der Ausschüttung verbleibenden frei verfügbaren Rücklagen zuzüglich eines Gewinnvortrags und abzüglich eines Verlustvortrags mindestens den insgesamt angesetzten Beträgen abzüglich der hierfür gebildeten passiven latenten Steuern entsprechen. Werden aktive latente Steuern in der Bilanz ausgewiesen, ist Satz 1 auf den Betrag anzuwenden, um den die aktiven latenten Steuern die passiven latenten Steuern übersteigen. Bei Vermögensgegenständen im Sinn des § 246 Abs. 2 Satz 2 ist Satz 1 auf den Betrag abzüglich der hierfür gebildeten passiven latenten Steuern anzuwenden, der die Anschaffungskosten übersteigt.
 
-##### § 269 (weggefallen)
+###### § 269 (weggefallen)
 
-##### § 270 Bildung bestimmter Posten
+###### § 270 Bildung bestimmter Posten
 
 (1) Einstellungen in die Kapitalrücklage und deren Auflösung sind bereits bei der Aufstellung der Bilanz vorzunehmen.
 
 (2) Wird die Bilanz unter Berücksichtigung der vollständigen oder teilweisen Verwendung des Jahresergebnisses aufgestellt, so sind Entnahmen aus Gewinnrücklagen sowie Einstellungen in Gewinnrücklagen, die nach Gesetz, Gesellschaftsvertrag oder Satzung vorzunehmen sind oder auf Grund solcher Vorschriften beschlossen worden sind, bereits bei der Aufstellung der Bilanz zu berücksichtigen.
 
-##### § 271 Beteiligungen. Verbundene Unternehmen
+###### § 271 Beteiligungen. Verbundene Unternehmen
 
 (1) Beteiligungen sind Anteile an anderen Unternehmen, die bestimmt sind, dem eigenen Geschäftsbetrieb durch Herstellung einer dauernden Verbindung zu jenen Unternehmen zu dienen. Dabei ist es unerheblich, ob die Anteile in Wertpapieren verbrieft sind oder nicht. Eine Beteiligung wird vermutet, wenn die Anteile an einem Unternehmen insgesamt den fünften Teil des Nennkapitals dieses Unternehmens oder, falls ein Nennkapital nicht vorhanden ist, den fünften Teil der Summe aller Kapitalanteile an diesem Unternehmen überschreiten. Auf die Berechnung ist § 16 Abs. 2 und 4 des Aktiengesetzes entsprechend anzuwenden. Die Mitgliedschaft in einer eingetragenen Genossenschaft gilt nicht als Beteiligung im Sinne dieses Buches.
 
 (2) Verbundene Unternehmen im Sinne dieses Buches sind unabhängig von ihrer Rechtsform und ihrem Sitz solche, die im Verhältnis zueinander Mutterunternehmen und Tochterunternehmen gemäß § 290 Absatz 1 Satz 1 und Absatz 2 bis 4 sind; alle mit demselben Mutterunternehmen verbundenen Tochterunternehmen sind auch untereinander verbundene Unternehmen.
 
-##### § 272 Eigenkapital
+###### § 272 Eigenkapital
 
 (1) Gezeichnetes Kapital ist mit dem Nennbetrag anzusetzen. Die nicht eingeforderten ausstehenden Einlagen auf das gezeichnete Kapital sind von dem Posten „Gezeichnetes Kapital“ offen abzusetzen; der verbleibende Betrag ist als Posten „Eingefordertes Kapital“ in der Hauptspalte der Passivseite auszuweisen; der eingeforderte, aber noch nicht eingezahlte Betrag ist unter den Forderungen gesondert auszuweisen und entsprechend zu bezeichnen.
 
@@ -2251,9 +2267,9 @@ E. Passive latente Steuern.
 
 (5) Übersteigt der auf eine Beteiligung entfallende Teil des Jahresüberschusses in der Gewinn- und Verlustrechnung die Beträge, die als Dividende oder Gewinnanteil eingegangen sind oder auf deren Zahlung die Kapitalgesellschaft einen Anspruch hat, ist der Unterschiedsbetrag in eine Rücklage einzustellen, die nicht ausgeschüttet werden darf. Die Rücklage ist aufzulösen, soweit die Kapitalgesellschaft die Beträge vereinnahmt oder einen Anspruch auf ihre Zahlung erwirbt.
 
-##### § 273 (weggefallen)
+###### § 273 (weggefallen)
 
-##### § 274 Latente Steuern
+###### § 274 Latente Steuern
 
 (1) Bestehen zwischen den handelsrechtlichen Wertansätzen von Vermögensgegenständen, Schulden und Rechnungsabgrenzungsposten und ihren steuerlichen Wertansätzen Differenzen, die sich in späteren Geschäftsjahren voraussichtlich abbauen, so ist eine sich daraus insgesamt ergebende Steuerbelastung als passive latente Steuern (§ 266 Abs. 3 E.) in der Bilanz anzusetzen. Eine sich daraus insgesamt ergebende Steuerentlastung kann als aktive latente Steuern (§ 266 Abs. 2 D.) in der Bilanz angesetzt werden. Die sich ergebende Steuerbe- und die sich ergebende Steuerentlastung können auch unverrechnet angesetzt werden. Steuerliche Verlustvorträge sind bei der Berechnung aktiver latenter Steuern in Höhe der innerhalb der nächsten fünf Jahre zu erwartenden Verlustverrechnung zu berücksichtigen.
 
@@ -2265,7 +2281,7 @@ E. Passive latente Steuern.
 
 2. eines ausländischen Mindeststeuergesetzes, das der Umsetzung der Richtlinie (EU) 2022/2523 des Rates vom 15. Dezember 2022 zur Gewährleistung einer globalen Mindestbesteuerung für multinationale Unternehmensgruppen und große inländische Gruppen in der Union (ABl. L 328 vom 22.12.2022, S. 1; L 13 vom 16.1.2023, S. 9) oder der dieser Richtlinie zugrundeliegenden Mustervorschriften der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung für eine globale Mindestbesteuerung dient.
 
-##### § 274a Größenabhängige Erleichterungen
+###### § 274a Größenabhängige Erleichterungen
 
 Kleine Kapitalgesellschaften sind von der Anwendung der folgenden Vorschriften befreit:
 
@@ -2279,7 +2295,7 @@ Kleine Kapitalgesellschaften sind von der Anwendung der folgenden Vorschriften b
 
 ## Dritter Titel Gewinn- und Verlustrechnung
 
-##### § 275 Gliederung
+###### § 275 Gliederung
 
 (1) Die Gewinn- und Verlustrechnung ist in Staffelform nach dem Gesamtkostenverfahren oder dem Umsatzkostenverfahren aufzustellen. Dabei sind die in Absatz 2 oder 3 bezeichneten Posten in der angegebenen Reihenfolge gesondert auszuweisen.
 
@@ -2385,11 +2401,11 @@ b) auf Vermögensgegenstände des Umlaufvermögens, soweit diese die in der Kapi
 
 8. Jahresüberschuss/Jahresfehlbetrag.
 
-##### § 276 Größenabhängige Erleichterungen
+###### § 276 Größenabhängige Erleichterungen
 
 Kleine und mittelgroße Kapitalgesellschaften (§ 267 Abs. 1, 2) dürfen die Posten § 275 Abs. 2 Nr. 1 bis 5 oder Abs. 3 Nr. 1 bis 3 und 6 zu einem Posten unter der Bezeichnung "Rohergebnis" zusammenfassen. Die Erleichterungen nach Satz 1 gelten nicht für Kleinstkapitalgesellschaften (§ 267a), die von der Regelung des § 275 Absatz 5 Gebrauch machen.
 
-##### § 277 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung
+###### § 277 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung
 
 (1) Als Umsatzerlöse sind die Erlöse aus dem Verkauf und der Vermietung oder Verpachtung von Produkten sowie aus der Erbringung von Dienstleistungen der Kapitalgesellschaft nach Abzug von Erlösschmälerungen und der Umsatzsteuer sowie sonstiger direkt mit dem Umsatz verbundener Steuern auszuweisen.
 
@@ -2401,15 +2417,15 @@ Kleine und mittelgroße Kapitalgesellschaften (§ 267 Abs. 1, 2) dürfen die Pos
 
 (5) Erträge aus der Abzinsung sind in der Gewinn- und Verlustrechnung gesondert unter dem Posten „Sonstige Zinsen und ähnliche Erträge“ und Aufwendungen gesondert unter dem Posten „Zinsen und ähnliche Aufwendungen“ auszuweisen. Erträge aus der Währungsumrechnung sind in der Gewinn- und Verlustrechnung gesondert unter dem Posten „Sonstige betriebliche Erträge“ und Aufwendungen aus der Währungsumrechnung gesondert unter dem Posten „Sonstige betriebliche Aufwendungen“ auszuweisen.
 
-##### § 278 (weggefallen)
+###### § 278 (weggefallen)
 
 ## Vierter Titel (weggefallen)
 
-##### (XXXX) §§ 279 bis 283 (weggefallen)
+###### (XXXX) §§ 279 bis 283 (weggefallen)
 
 ## Fünfter Titel Anhang
 
-##### § 284 Erläuterung der Bilanz und der Gewinn- und Verlustrechnung
+###### § 284 Erläuterung der Bilanz und der Gewinn- und Verlustrechnung
 
 (1) In den Anhang sind diejenigen Angaben aufzunehmen, die zu den einzelnen Posten der Bilanz oder der Gewinn- und Verlustrechnung vorgeschrieben sind; sie sind in der Reihenfolge der einzelnen Posten der Bilanz und der Gewinn- und Verlustrechnung darzustellen. Im Anhang sind auch die Angaben zu machen, die in Ausübung eines Wahlrechts nicht in die Bilanz oder in die Gewinn- und Verlustrechnung aufgenommen wurden.
 
@@ -2433,7 +2449,7 @@ Kleine und mittelgroße Kapitalgesellschaften (§ 267 Abs. 1, 2) dürfen die Pos
 
 Sind in die Herstellungskosten Zinsen für Fremdkapital einbezogen worden, ist für jeden Posten des Anlagevermögens anzugeben, welcher Betrag an Zinsen im Geschäftsjahr aktiviert worden ist.
 
-##### § 285 Sonstige Pflichtangaben
+###### § 285 Sonstige Pflichtangaben
 
 Ferner sind im Anhang anzugeben:
 
@@ -2561,7 +2577,7 @@ c) eine Erläuterung der mit hoher Wahrscheinlichkeit erwarteten Transaktionen, 
 
 34. der Vorschlag für die Verwendung des Ergebnisses oder der Beschluss über seine Verwendung.
 
-##### § 286 Unterlassen von Angaben
+###### § 286 Unterlassen von Angaben
 
 (1) Die Berichterstattung hat insoweit zu unterbleiben, als es für das Wohl der Bundesrepublik Deutschland oder eines ihrer Länder erforderlich ist.
 
@@ -2579,9 +2595,9 @@ Die Angabe des Eigenkapitals und des Jahresergebnisses kann unterbleiben, wenn d
 
 (5) (weggefallen)
 
-##### § 287 (weggefallen)
+###### § 287 (weggefallen)
 
-##### § 288 Größenabhängige Erleichterungen
+###### § 288 Größenabhängige Erleichterungen
 
 (1) Kleine Kapitalgesellschaften (§ 267 Absatz 1) brauchen nicht
 
@@ -2595,7 +2611,7 @@ Die Angabe des Eigenkapitals und des Jahresergebnisses kann unterbleiben, wenn d
 
 ## Sechster Titel Lagebericht
 
-##### § 289 Inhalt des Lageberichts
+###### § 289 Inhalt des Lageberichts
 
 (1) Im Lagebericht sind der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage der Kapitalgesellschaft so darzustellen, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird. Er hat eine ausgewogene und umfassende, dem Umfang und der Komplexität der Geschäftstätigkeit entsprechende Analyse des Geschäftsverlaufs und der Lage der Gesellschaft zu enthalten. In die Analyse sind die für die Geschäftstätigkeit bedeutsamsten finanziellen Leistungsindikatoren einzubeziehen und unter Bezugnahme auf die im Jahresabschluss ausgewiesenen Beträge und Angaben zu erläutern. Ferner ist im Lagebericht die voraussichtliche Entwicklung mit ihren wesentlichen Chancen und Risiken zu beurteilen und zu erläutern; zugrunde liegende Annahmen sind anzugeben. Die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft, die als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im Sinne des § 327a ist, haben in einer dem Lagebericht beizufügenden schriftlichen Erklärung zu versichern, dass im Lagebericht nach bestem Wissen der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage der Kapitalgesellschaft so dargestellt sind, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird und dass die wesentlichen Chancen und Risiken im Sinne des Satzes 4 beschrieben sind.
 
@@ -2619,7 +2635,7 @@ Sind im Anhang Angaben nach § 160 Absatz 1 Nummer 2 des Aktiengesetzes zu mache
 
 (4) Kapitalgesellschaften im Sinn des § 264d haben im Lagebericht die wesentlichen Merkmale des internen Kontroll- und des Risikomanagementsystems im Hinblick auf den Rechnungslegungsprozess zu beschreiben.
 
-##### § 289a Ergänzende Vorgaben für bestimmte Aktiengesellschaften und Kommanditgesellschaften auf Aktien
+###### § 289a Ergänzende Vorgaben für bestimmte Aktiengesellschaften und Kommanditgesellschaften auf Aktien
 
 Aktiengesellschaften und Kommanditgesellschaften auf Aktien, die einen organisierten Markt im Sinne des § 2 Absatz 7 des Wertpapiererwerbs- und Übernahmegesetzes durch von ihnen ausgegebene stimmberechtigte Aktien in Anspruch nehmen, haben im Lagebericht außerdem anzugeben:
 
@@ -2643,7 +2659,7 @@ Aktiengesellschaften und Kommanditgesellschaften auf Aktien, die einen organisie
 
 Die Angaben nach Satz 1 Nummer 1, 3 und 9 können unterbleiben, soweit sie im Anhang zu machen sind. Sind Angaben nach Satz 1 im Anhang zu machen, ist im Lagebericht darauf zu verweisen. Die Angaben nach Satz 1 Nummer 8 können unterbleiben, soweit sie geeignet sind, der Gesellschaft einen erheblichen Nachteil zuzufügen; die Angabepflicht nach anderen gesetzlichen Vorschriften bleibt unberührt.
 
-##### § 289b Pflicht zur nichtfinanziellen Erklärung; Befreiungen
+###### § 289b Pflicht zur nichtfinanziellen Erklärung; Befreiungen
 
 (1) Eine Kapitalgesellschaft hat ihren Lagebericht um eine nichtfinanzielle Erklärung zu erweitern, wenn sie die folgenden Merkmale erfüllt:
 
@@ -2677,7 +2693,7 @@ Absatz 1 Satz 3 und die §§ 289d und 289e sind auf den gesonderten nichtfinanzi
 
 (4) Ist die nichtfinanzielle Erklärung oder der gesonderte nichtfinanzielle Bericht inhaltlich überprüft worden, ist auch die Beurteilung des Prüfungsergebnisses in gleicher Weise wie die nichtfinanzielle Erklärung oder der gesonderte nichtfinanzielle Bericht öffentlich zugänglich zu machen.
 
-##### § 289c Inhalt der nichtfinanziellen Erklärung
+###### § 289c Inhalt der nichtfinanziellen Erklärung
 
 (1) In der nichtfinanziellen Erklärung im Sinne des § 289b ist das Geschäftsmodell der Kapitalgesellschaft kurz zu beschreiben.
 
@@ -2709,11 +2725,11 @@ Absatz 1 Satz 3 und die §§ 289d und 289e sind auf den gesonderten nichtfinanzi
 
 (4) Wenn die Kapitalgesellschaft in Bezug auf einen oder mehrere der in Absatz 2 genannten Aspekte kein Konzept verfolgt, hat sie dies anstelle der auf den jeweiligen Aspekt bezogenen Angaben nach Absatz 3 Nummer 1 und 2 in der nichtfinanziellen Erklärung klar und begründet zu erläutern.
 
-##### § 289d Nutzung von Rahmenwerken
+###### § 289d Nutzung von Rahmenwerken
 
 Die Kapitalgesellschaft kann für die Erstellung der nichtfinanziellen Erklärung nationale, europäische oder internationale Rahmenwerke nutzen. In der Erklärung ist anzugeben, ob die Kapitalgesellschaft für die Erstellung der nichtfinanziellen Erklärung ein Rahmenwerk genutzt hat und, wenn dies der Fall ist, welches Rahmenwerk genutzt wurde, sowie andernfalls, warum kein Rahmenwerk genutzt wurde.
 
-##### § 289e Weglassen nachteiliger Angaben
+###### § 289e Weglassen nachteiliger Angaben
 
 (1) Die Kapitalgesellschaft muss in die nichtfinanzielle Erklärung ausnahmsweise keine Angaben zu künftigen Entwicklungen oder Belangen, über die Verhandlungen geführt werden, aufnehmen, wenn
 
@@ -2723,7 +2739,7 @@ Die Kapitalgesellschaft kann für die Erstellung der nichtfinanziellen Erklärun
 
 (2) Macht eine Kapitalgesellschaft von Absatz 1 Gebrauch und entfallen die Gründe für die Nichtaufnahme der Angaben nach der Veröffentlichung der nichtfinanziellen Erklärung, sind die Angaben in die darauf folgende nichtfinanzielle Erklärung aufzunehmen.
 
-##### § 289f Erklärung zur Unternehmensführung
+###### § 289f Erklärung zur Unternehmensführung
 
 (1) Börsennotierte Aktiengesellschaften sowie Aktiengesellschaften, die ausschließlich andere Wertpapiere als Aktien zum Handel an einem organisierten Markt im Sinn des § 2 Absatz 11 des Wertpapierhandelsgesetzes ausgegeben haben und deren ausgegebene Aktien auf eigene Veranlassung über ein multilaterales Handelssystem im Sinn des § 2 Absatz 8 Satz 1 Nummer 8 des Wertpapierhandelsgesetzes gehandelt werden, haben eine Erklärung zur Unternehmensführung in ihren Lagebericht aufzunehmen, die dort einen gesonderten Abschnitt bildet. Sie kann auch auf der Internetseite der Gesellschaft öffentlich zugänglich gemacht werden. In diesem Fall ist in den Lagebericht eine Bezugnahme aufzunehmen, welche die Angabe der Internetseite enthält.
 
@@ -2756,7 +2772,7 @@ und Konzernlagebericht
 
 ## Erster Titel Anwendungsbereich
 
-##### § 290 Pflicht zur Aufstellung
+###### § 290 Pflicht zur Aufstellung
 
 (1) Die gesetzlichen Vertreter einer Kapitalgesellschaft (Mutterunternehmen) mit Sitz im Inland haben in den ersten fünf Monaten des Konzerngeschäftsjahrs für das vergangene Konzerngeschäftsjahr einen Konzernabschluss und einen Konzernlagebericht aufzustellen, wenn diese auf ein anderes Unternehmen (Tochterunternehmen) unmittel- oder mittelbar einen beherrschenden Einfluss ausüben kann. Ist das Mutterunternehmen eine Kapitalgesellschaft im Sinn des § 325 Abs. 4 Satz 1, sind der Konzernabschluss sowie der Konzernlagebericht in den ersten vier Monaten des Konzerngeschäftsjahrs für das vergangene Konzerngeschäftsjahr aufzustellen.
 
@@ -2780,7 +2796,7 @@ und Konzernlagebericht
 
 (5) Ein Mutterunternehmen ist von der Pflicht, einen Konzernabschluss und einen Konzernlagebericht aufzustellen, befreit, wenn es nur Tochterunternehmen hat, die gemäß § 296 nicht in den Konzernabschluss einbezogen werden brauchen.
 
-##### § 291 Befreiende Wirkung von EU/EWR-Konzernabschlüssen
+###### § 291 Befreiende Wirkung von EU/EWR-Konzernabschlüssen
 
 (1) Ein Mutterunternehmen, das zugleich Tochterunternehmen eines Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, braucht einen Konzernabschluß und einen Konzernlagebericht nicht aufzustellen, wenn ein den Anforderungen des Absatzes 2 entsprechender Konzernabschluß und Konzernlagebericht seines Mutterunternehmens einschließlich des Bestätigungsvermerks oder des Vermerks über dessen Versagung nach den für den entfallenden Konzernabschluß und Konzernlagebericht maßgeblichen Vorschriften in deutscher oder englischer Sprache offengelegt wird. Ein befreiender Konzernabschluß und ein befreiender Konzernlagebericht können von jedem Unternehmen unabhängig von seiner Rechtsform und Größe aufgestellt werden, wenn das Unternehmen als Kapitalgesellschaft mit Sitz in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zur Aufstellung eines Konzernabschlusses unter Einbeziehung des zu befreienden Mutterunternehmens und seiner Tochterunternehmen verpflichtet wäre.
 
@@ -2808,7 +2824,7 @@ Satz 1 gilt für Kreditinstitute und Versicherungsunternehmen entsprechend; unbe
 
 2. Gesellschafter, denen bei Aktiengesellschaften und Kommanditgesellschaften auf Aktien mindestens 10 vom Hundert und bei Gesellschaften mit beschränkter Haftung mindestens 20 vom Hundert der Anteile an dem zu befreienden Mutterunternehmen gehören, spätestens sechs Monate vor dem Ablauf des Konzerngeschäftsjahrs die Aufstellung eines Konzernabschlusses und eines Konzernlageberichts beantragt haben.
 
-##### § 292 Befreiende Wirkung von Konzernabschlüssen aus Drittstaaten
+###### § 292 Befreiende Wirkung von Konzernabschlüssen aus Drittstaaten
 
 (1) Ein Mutterunternehmen, das zugleich Tochterunternehmen eines Mutterunternehmens mit Sitz in einem Staat ist, der nicht Mitglied der Europäischen Union und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, braucht einen Konzernabschluss und einen Konzernlagebericht nicht aufzustellen, wenn dieses andere Mutterunternehmen einen dem § 291 Absatz 2 Nummer 1 entsprechenden Konzernabschluss (befreiender Konzernabschluss) und Konzernlagebericht (befreiender Konzernlagebericht) aufstellt sowie außerdem alle folgenden Voraussetzungen erfüllt sind:
 
@@ -2838,9 +2854,9 @@ d) derart, dass er internationalen Rechnungslegungsstandards entspricht, die gem
 
 Im Falle des Satzes 2 ist mit dem Bestätigungsvermerk nach Absatz 1 Nummer 4 auch eine Bescheinigung der Wirtschaftsprüferkammer gemäß § 134 Absatz 2a der Wirtschaftsprüferordnung über die Eintragung des Abschlussprüfers oder eine Bestätigung der Wirtschaftsprüferkammer gemäß § 134 Absatz 4 Satz 8 der Wirtschaftsprüferordnung über die Befreiung von der Eintragungsverpflichtung offenzulegen.
 
-##### § 292a (weggefallen)
+###### § 292a (weggefallen)
 
-##### § 293 Größenabhängige Befreiungen
+###### § 293 Größenabhängige Befreiungen
 
 (1) Ein Mutterunternehmen ist von der Pflicht, einen Konzernabschluß und einen Konzernlagebericht aufzustellen, befreit, wenn
 
@@ -2872,7 +2888,7 @@ Auf die Ermittlung der durchschnittlichen Zahl der Arbeitnehmer ist § 267 Abs. 
 
 ## Zweiter Titel Konsolidierungskreis
 
-##### § 294 Einzubeziehende Unternehmen Vorlage- und Auskunftspflichten
+###### § 294 Einzubeziehende Unternehmen Vorlage- und Auskunftspflichten
 
 (1) In den Konzernabschluß sind das Mutterunternehmen und alle Tochterunternehmen ohne Rücksicht auf den Sitz und die Rechtsform der Tochterunternehmen einzubeziehen, sofern die Einbeziehung nicht nach § 296 unterbleibt.
 
@@ -2880,9 +2896,9 @@ Auf die Ermittlung der durchschnittlichen Zahl der Arbeitnehmer ist § 267 Abs. 
 
 (3) Die Tochterunternehmen haben dem Mutterunternehmen ihre Jahresabschlüsse, Einzelabschlüsse nach § 325 Abs. 2a, Lageberichte, gesonderten nichtfinanziellen Berichte, Konzernabschlüsse, Konzernlageberichte, gesonderten nichtfinanziellen Konzernberichte und, wenn eine Abschlussprüfung stattgefunden hat, die Prüfungsberichte sowie, wenn ein Zwischenabschluß aufzustellen ist, einen auf den Stichtag des Konzernabschlusses aufgestellten Abschluß unverzüglich einzureichen. Das Mutterunternehmen kann von jedem Tochterunternehmen alle Aufklärungen und Nachweise verlangen, welche die Aufstellung des Konzernabschlusses, des Konzernlageberichts und des gesonderten nichtfinanziellen Konzernberichts erfordert.
 
-##### § 295 (weggefallen)
+###### § 295 (weggefallen)
 
-##### § 296 Verzicht auf die Einbeziehung
+###### § 296 Verzicht auf die Einbeziehung
 
 (1) Ein Tochterunternehmen braucht in den Konzernabschluß nicht einbezogen zu werden, wenn
 
@@ -2899,7 +2915,7 @@ Auf die Ermittlung der durchschnittlichen Zahl der Arbeitnehmer ist § 267 Abs. 
 ## Dritter Titel Inhalt und Form des
 Konzernabschlusses
 
-##### § 297 Inhalt
+###### § 297 Inhalt
 
 (1) Der Konzernabschluss besteht aus der Konzernbilanz, der Konzern-Gewinn- und Verlustrechnung, dem Konzernanhang, der Kapitalflussrechnung und dem Eigenkapitalspiegel. Er kann um eine Segmentberichterstattung erweitert werden.
 
@@ -2909,13 +2925,13 @@ Konzernabschlusses
 
 (3) Im Konzernabschluß ist die Vermögens-, Finanz- und Ertragslage der einbezogenen Unternehmen so darzustellen, als ob diese Unternehmen insgesamt ein einziges Unternehmen wären. Die auf den vorhergehenden Konzernabschluß angewandten Konsolidierungsmethoden sind beizubehalten. Abweichungen von Satz 2 sind in Ausnahmefällen zulässig. Sie sind im Konzernanhang anzugeben und zu begründen. Ihr Einfluß auf die Vermögens-, Finanz- und Ertragslage des Konzerns ist anzugeben.
 
-##### § 298 Anzuwendende VorschriftenErleichterungen
+###### § 298 Anzuwendende VorschriftenErleichterungen
 
 (1) Auf den Konzernabschluß sind, soweit seine Eigenart keine Abweichung bedingt oder in den folgenden Vorschriften nichts anderes bestimmt ist, die §§ 244 bis 256a, 264c, 265, 266, 268 Absatz 1 bis 7, die §§ 270, 271, 272 Absatz 1 bis 4, die §§ 274, 275 und 277 über den Jahresabschluß und die für die Rechtsform und den Geschäftszweig der in den Konzernabschluß einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften, soweit sie für große Kapitalgesellschaften gelten, entsprechend anzuwenden.
 
 (2) Der Konzernanhang und der Anhang des Jahresabschlusses des Mutterunternehmens dürfen zusammengefaßt werden. In diesem Falle müssen der Konzernabschluß und der Jahresabschluß des Mutterunternehmens gemeinsam offengelegt werden. Aus dem zusammengefassten Anhang muss hervorgehen, welche Angaben sich auf den Konzern und welche Angaben sich nur auf das Mutterunternehmen beziehen.
 
-##### § 299 Stichtag für die Aufstellung
+###### § 299 Stichtag für die Aufstellung
 
 (1) Der Konzernabschluss ist auf den Stichtag des Jahresabschlusses des Mutterunternehmens aufzustellen.
 
@@ -2925,13 +2941,13 @@ Konzernabschlusses
 
 ## Vierter Titel Vollkonsolidierung
 
-##### § 300 KonsolidierungsgrundsätzeVollständigkeitsgebot
+###### § 300 KonsolidierungsgrundsätzeVollständigkeitsgebot
 
 (1) In dem Konzernabschluß ist der Jahresabschluß des Mutterunternehmens mit den Jahresabschlüssen der Tochterunternehmen zusammenzufassen. An die Stelle der dem Mutterunternehmen gehörenden Anteile an den einbezogenen Tochterunternehmen treten die Vermögensgegenstände, Schulden, Rechnungsabgrenzungsposten und Sonderposten der Tochterunternehmen, soweit sie nach dem Recht des Mutterunternehmens bilanzierungsfähig sind und die Eigenart des Konzernabschlusses keine Abweichungen bedingt oder in den folgenden Vorschriften nichts anderes bestimmt ist.
 
 (2) Die Vermögensgegenstände, Schulden und Rechnungsabgrenzungsposten sowie die Erträge und Aufwendungen der in den Konzernabschluß einbezogenen Unternehmen sind unabhängig von ihrer Berücksichtigung in den Jahresabschlüssen dieser Unternehmen vollständig aufzunehmen, soweit nach dem Recht des Mutterunternehmens nicht ein Bilanzierungsverbot oder ein Bilanzierungswahlrecht besteht. Nach dem Recht des Mutterunternehmens zulässige Bilanzierungswahlrechte dürfen im Konzernabschluß unabhängig von ihrer Ausübung in den Jahresabschlüssen der in den Konzernabschluß einbezogenen Unternehmen ausgeübt werden. Ansätze, die auf der Anwendung von für Kreditinstitute oder Versicherungsunternehmen wegen der Besonderheiten des Geschäftszweigs geltenden Vorschriften beruhen, dürfen beibehalten werden; auf die Anwendung dieser Ausnahme ist im Konzernanhang hinzuweisen.
 
-##### § 301 Kapitalkonsolidierung
+###### § 301 Kapitalkonsolidierung
 
 (1) Der Wertansatz der dem Mutterunternehmen gehörenden Anteile an einem in den Konzernabschluß einbezogenen Tochterunternehmen wird mit dem auf diese Anteile entfallenden Betrag des Eigenkapitals des Tochterunternehmens verrechnet. Das Eigenkapital ist mit dem Betrag anzusetzen, der dem Zeitwert der in den Konzernabschluss aufzunehmenden Vermögensgegenstände, Schulden, Rechnungsabgrenzungsposten und Sonderposten entspricht, der diesen an dem für die Verrechnung nach Absatz 2 maßgeblichen Zeitpunkt beizulegen ist. Rückstellungen sind nach § 253 Abs. 1 Satz 2 und 3, Abs. 2 und latente Steuern nach § 274 Abs. 2 zu bewerten.
 
@@ -2941,21 +2957,21 @@ Konzernabschlusses
 
 (4) Anteile an dem Mutterunternehmen, die einem in den Konzernabschluss einbezogenen Tochterunternehmen gehören, sind in der Konzernbilanz als eigene Anteile des Mutterunternehmens mit ihrem Nennwert oder, falls ein solcher nicht vorhanden ist, mit ihrem rechnerischen Wert, in der Vorspalte offen von dem Posten „Gezeichnetes Kapital“ abzusetzen.
 
-##### § 302 (weggefallen)
+###### § 302 (weggefallen)
 
-##### § 303 Schuldenkonsolidierung
+###### § 303 Schuldenkonsolidierung
 
 (1) Ausleihungen und andere Forderungen, Rückstellungen und Verbindlichkeiten zwischen den in den Konzernabschluß einbezogenen Unternehmen sowie entsprechende Rechnungsabgrenzungsposten sind wegzulassen.
 
 (2) Absatz 1 braucht nicht angewendet zu werden, wenn die wegzulassenden Beträge für die Vermittlung eines den tatsächlichen Verhältnissen entsprechenden Bildes der Vermögens-, Finanz- und Ertragslage des Konzerns nur von untergeordneter Bedeutung sind.
 
-##### § 304 Behandlung der Zwischenergebnisse
+###### § 304 Behandlung der Zwischenergebnisse
 
 (1) In den Konzernabschluß zu übernehmende Vermögensgegenstände, die ganz oder teilweise auf Lieferungen oder Leistungen zwischen in den Konzernabschluß einbezogenen Unternehmen beruhen, sind in der Konzernbilanz mit einem Betrag anzusetzen, zu dem sie in der auf den Stichtag des Konzernabschlusses aufgestellten Jahresbilanz dieses Unternehmens angesetzt werden könnten, wenn die in den Konzernabschluß einbezogenen Unternehmen auch rechtlich ein einziges Unternehmen bilden würden.
 
 (2) Absatz 1 braucht nicht angewendet zu werden, wenn die Behandlung der Zwischenergebnisse nach Absatz 1 für die Vermittlung eines den tatsächlichen Verhältnissen entsprechenden Bildes der Vermögens-, Finanz- und Ertragslage des Konzerns nur von untergeordneter Bedeutung ist.
 
-##### § 305 Aufwands- und Ertragskonsolidierung
+###### § 305 Aufwands- und Ertragskonsolidierung
 
 (1) In der Konzern-Gewinn- und Verlustrechnung sind
 
@@ -2965,11 +2981,11 @@ Konzernabschlusses
 
 (2) Aufwendungen und Erträge brauchen nach Absatz 1 nicht weggelassen zu werden, wenn die wegzulassenden Beträge für die Vermittlung eines den tatsächlichen Verhältnissen entsprechenden Bildes der Vermögens-, Finanz- und Ertragslage des Konzerns nur von untergeordneter Bedeutung sind.
 
-##### § 306 Latente Steuern
+###### § 306 Latente Steuern
 
 Führen Maßnahmen, die nach den Vorschriften dieses Titels durchgeführt worden sind, zu Differenzen zwischen den handelsrechtlichen Wertansätzen der Vermögensgegenstände, Schulden oder Rechnungsabgrenzungsposten und deren steuerlichen Wertansätzen und bauen sich diese Differenzen in späteren Geschäftsjahren voraussichtlich wieder ab, so ist eine sich insgesamt ergebende Steuerbelastung als passive latente Steuern und eine sich insgesamt ergebende Steuerentlastung als aktive latente Steuern in der Konzernbilanz anzusetzen. Die sich ergebende Steuerbe- und die sich ergebende Steuerentlastung können auch unverrechnet angesetzt werden. Differenzen aus dem erstmaligen Ansatz eines nach § 301 Abs. 3 verbleibenden Unterschiedsbetrages bleiben unberücksichtigt. Das Gleiche gilt für Differenzen, die sich zwischen dem steuerlichen Wertansatz einer Beteiligung an einem Tochterunternehmen, assoziierten Unternehmen oder einem Gemeinschaftsunternehmen im Sinn des § 310 Abs. 1 und dem handelsrechtlichen Wertansatz des im Konzernabschluss angesetzten Nettovermögens ergeben. § 274 Absatz 2 und 3 ist entsprechend anzuwenden. Die Posten dürfen mit den Posten nach § 274 zusammengefasst werden.
 
-##### § 307 Anteile anderer Gesellschafter
+###### § 307 Anteile anderer Gesellschafter
 
 (1) In der Konzernbilanz ist für nicht dem Mutterunternehmen gehörende Anteile an in den Konzernabschluß einbezogenen Tochterunternehmen ein Ausgleichsposten für die Anteile der anderen Gesellschafter in Höhe ihres Anteils am Eigenkapital unter dem Posten „nicht beherrschende Anteile“ innerhalb des Eigenkapitals gesondert auszuweisen.
 
@@ -2977,7 +2993,7 @@ Führen Maßnahmen, die nach den Vorschriften dieses Titels durchgeführt worden
 
 ## Fünfter Titel Bewertungsvorschriften
 
-##### § 308 Einheitliche Bewertung
+###### § 308 Einheitliche Bewertung
 
 (1) Die in den Konzernabschluß nach § 300 Abs. 2 übernommenen Vermögensgegenstände und Schulden der in den Konzernabschluß einbezogenen Unternehmen sind nach den auf den Jahresabschluß des Mutterunternehmens anwendbaren Bewertungsmethoden einheitlich zu bewerten. Nach dem Recht des Mutterunternehmens zulässige Bewertungswahlrechte können im Konzernabschluß unabhängig von ihrer Ausübung in den Jahresabschlüssen der in den Konzernabschluß einbezogenen Unternehmen ausgeübt werden. Abweichungen von den auf den Jahresabschluß des Mutterunternehmens angewandten Bewertungsmethoden sind im Konzernanhang anzugeben und zu begründen.
 
@@ -2985,11 +3001,11 @@ Führen Maßnahmen, die nach den Vorschriften dieses Titels durchgeführt worden
 
 (3) (weggefallen)
 
-##### § 308a Umrechnung von auf fremde Währung lautenden Abschlüssen
+###### § 308a Umrechnung von auf fremde Währung lautenden Abschlüssen
 
 Die Aktiv- und Passivposten einer auf fremde Währung lautenden Bilanz sind, mit Ausnahme des Eigenkapitals, das zum historischen Kurs in Euro umzurechnen ist, zum Devisenkassamittelkurs am Abschlussstichtag in Euro umzurechnen. Die Posten der Gewinn- und Verlustrechnung sind zum Durchschnittskurs in Euro umzurechnen. Eine sich ergebende Umrechnungsdifferenz ist innerhalb des Konzerneigenkapitals nach den Rücklagen unter dem Posten „Eigenkapitaldifferenz aus Währungsumrechnung“ auszuweisen. Bei teilweisem oder vollständigem Ausscheiden des Tochterunternehmens ist der Posten in entsprechender Höhe erfolgswirksam aufzulösen.
 
-##### § 309 Behandlung des Unterschiedsbetrags
+###### § 309 Behandlung des Unterschiedsbetrags
 
 (1) Die Abschreibung eines nach § 301 Abs. 3 auszuweisenden Geschäfts- oder Firmenwertes bestimmt sich nach den Vorschriften des Ersten Abschnitts.
 
@@ -2997,7 +3013,7 @@ Die Aktiv- und Passivposten einer auf fremde Währung lautenden Bilanz sind, mit
 
 ## Sechster Titel Anteilmäßige Konsolidierung
 
-##### § 310 Anteilmäßige Konsolidierung
+###### § 310 Anteilmäßige Konsolidierung
 
 (1) Führt ein in einen Konzernabschluß einbezogenes Mutter- oder Tochterunternehmen ein anderes Unternehmen gemeinsam mit einem oder mehreren nicht in den Konzernabschluß einbezogenen Unternehmen, so darf das andere Unternehmen in den Konzernabschluß entsprechend den Anteilen am Kapital einbezogen werden, die dem Mutterunternehmen gehören.
 
@@ -3005,13 +3021,13 @@ Die Aktiv- und Passivposten einer auf fremde Währung lautenden Bilanz sind, mit
 
 ## Siebenter Titel Assoziierte Unternehmen
 
-##### § 311 Definition. Befreiung
+###### § 311 Definition. Befreiung
 
 (1) Wird von einem in den Konzernabschluß einbezogenen Unternehmen ein maßgeblicher Einfluß auf die Geschäfts- und Finanzpolitik eines nicht einbezogenen Unternehmens, an dem das Unternehmen nach § 271 Abs. 1 beteiligt ist, ausgeübt (assoziiertes Unternehmen), so ist diese Beteiligung in der Konzernbilanz unter einem besonderen Posten mit entsprechender Bezeichnung auszuweisen. Ein maßgeblicher Einfluß wird vermutet, wenn ein Unternehmen bei einem anderen Unternehmen mindestens den fünften Teil der Stimmrechte der Gesellschafter innehat.
 
 (2) Auf eine Beteiligung an einem assoziierten Unternehmen brauchen Absatz 1 und § 312 nicht angewendet zu werden, wenn die Beteiligung für die Vermittlung eines den tatsächlichen Verhältnissen entsprechenden Bildes der Vermögens-, Finanz- und Ertragslage des Konzerns von untergeordneter Bedeutung ist.
 
-##### § 312 Wertansatz der Beteiligung und Behandlung des Unterschiedsbetrags
+###### § 312 Wertansatz der Beteiligung und Behandlung des Unterschiedsbetrags
 
 (1) Eine Beteiligung an einem assoziierten Unternehmen ist in der Konzernbilanz mit dem Buchwert anzusetzen. Der Unterschiedsbetrag zwischen dem Buchwert und dem anteiligen Eigenkapital des assoziierten Unternehmens sowie ein darin enthaltener Geschäfts- oder Firmenwert oder passiver Unterschiedsbetrag sind im Konzernanhang anzugeben.
 
@@ -3027,7 +3043,7 @@ Die Aktiv- und Passivposten einer auf fremde Währung lautenden Bilanz sind, mit
 
 ## Achter Titel Konzernanhang
 
-##### § 313 Erläuterung der Konzernbilanz und der Konzern-Gewinn- und Verlustrechnung. Angaben zum Beteiligungsbesitz.
+###### § 313 Erläuterung der Konzernbilanz und der Konzern-Gewinn- und Verlustrechnung. Angaben zum Beteiligungsbesitz.
 
 (1) In den Konzernanhang sind diejenigen Angaben aufzunehmen, die zu einzelnen Posten der Konzernbilanz oder der Konzern-Gewinn- und Verlustrechnung vorgeschrieben sind; diese Angaben sind in der Reihenfolge der einzelnen Posten der Konzernbilanz und der Konzern-Gewinn- und Verlustrechnung darzustellen. Im Konzernanhang sind auch die Angaben zu machen, die in Ausübung eines Wahlrechts nicht in die Konzernbilanz oder in die Konzern-Gewinn- und Verlustrechnung aufgenommen wurden. Im Konzernanhang müssen
 
@@ -3057,7 +3073,7 @@ Die Aktiv- und Passivposten einer auf fremde Währung lautenden Bilanz sind, mit
 
 (4) § 284 Absatz 2 Nummer 4 und Absatz 3 ist entsprechend anzuwenden.
 
-##### § 314 Sonstige Pflichtangaben
+###### § 314 Sonstige Pflichtangaben
 
 (1) Im Konzernanhang sind ferner anzugeben:
 
@@ -3163,7 +3179,7 @@ c) eine Erläuterung der mit hoher Wahrscheinlichkeit erwarteten Transaktionen, 
 
 ## Neunter Titel Konzernlagebericht
 
-##### § 315 Inhalt des Konzernlageberichts
+###### § 315 Inhalt des Konzernlageberichts
 
 (1) Im Konzernlagebericht sind der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage des Konzerns so darzustellen, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird. Er hat eine ausgewogene und umfassende, dem Umfang und der Komplexität der Geschäftstätigkeit entsprechende Analyse des Geschäftsverlaufs und der Lage des Konzerns zu enthalten. In die Analyse sind die für die Geschäftstätigkeit bedeutsamsten finanziellen Leistungsindikatoren einzubeziehen und unter Bezugnahme auf die im Konzernabschluss ausgewiesenen Beträge und Angaben zu erläutern. Ferner ist im Konzernlagebericht die voraussichtliche Entwicklung mit ihren wesentlichen Chancen und Risiken zu beurteilen und zu erläutern; zugrunde liegende Annahmen sind anzugeben. Die Mitglieder des vertretungsberechtigten Organs eines Mutterunternehmens, das als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im Sinne des § 327a ist, haben in einer dem Konzernlagebericht beizufügenden schriftlichen Erklärung zu versichern, dass im Konzernlagebericht nach bestem Wissen der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage des Konzerns so dargestellt sind, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird und dass die wesentlichen Chancen und Risiken im Sinne des Satzes 4 beschrieben sind.
 
@@ -3187,7 +3203,7 @@ Ist das Mutterunternehmen eine Aktiengesellschaft, hat es im Konzernlagebericht 
 
 (5) § 298 Absatz 2 über die Zusammenfassung von Konzernanhang und Anhang ist entsprechend anzuwenden.
 
-##### § 315a Ergänzende Vorschriften für bestimmte Aktiengesellschaften und Kommanditgesellschaften auf Aktien
+###### § 315a Ergänzende Vorschriften für bestimmte Aktiengesellschaften und Kommanditgesellschaften auf Aktien
 
 Mutterunternehmen (§ 290), die einen organisierten Markt im Sinne des § 2 Absatz 7 des Wertpapiererwerbs- und Übernahmegesetzes durch von ihnen ausgegebene stimmberechtigte Aktien in Anspruch nehmen, haben im Konzernlagebericht außerdem anzugeben:
 
@@ -3211,7 +3227,7 @@ Mutterunternehmen (§ 290), die einen organisierten Markt im Sinne des § 2 Absa
 
 Die Angaben nach Satz 1 Nummer 1, 3 und 9 können unterbleiben, soweit sie im Konzernanhang zu machen sind. Sind Angaben nach Satz 1 im Konzernanhang zu machen, ist im Konzernlagebericht darauf zu verweisen. Die Angaben nach Satz 1 Nummer 8 können unterbleiben, soweit sie geeignet sind, dem Mutterunternehmen einen erheblichen Nachteil zuzufügen; die Angabepflicht nach anderen gesetzlichen Vorschriften bleibt unberührt.
 
-##### § 315b Pflicht zur nichtfinanziellen Konzernerklärung; Befreiungen
+###### § 315b Pflicht zur nichtfinanziellen Konzernerklärung; Befreiungen
 
 (1) Eine Kapitalgesellschaft, die Mutterunternehmen (§ 290) ist, hat ihren Konzernlagebericht um eine nichtfinanzielle Konzernerklärung zu erweitern, wenn die folgenden Merkmale erfüllt sind:
 
@@ -3247,7 +3263,7 @@ Absatz 1 Satz 3, die §§ 289d und 289e sowie § 298 Absatz 2 sind auf den geson
 
 (4) Ist die nichtfinanzielle Konzernerklärung oder der gesonderte nichtfinanzielle Konzernbericht inhaltlich überprüft worden, ist auch die Beurteilung des Prüfungsergebnisses in gleicher Weise wie die nichtfinanzielle Konzernerklärung oder der gesonderte nichtfinanzielle Konzernbericht öffentlich zugänglich zu machen.
 
-##### § 315c Inhalt der nichtfinanziellen Konzernerklärung
+###### § 315c Inhalt der nichtfinanziellen Konzernerklärung
 
 (1) Auf den Inhalt der nichtfinanziellen Konzernerklärung ist § 289c entsprechend anzuwenden.
 
@@ -3255,14 +3271,14 @@ Absatz 1 Satz 3, die §§ 289d und 289e sowie § 298 Absatz 2 sind auf den geson
 
 (3) Die §§ 289d und 289e sind entsprechend anzuwenden.
 
-##### § 315d Konzernerklärung zur Unternehmensführung
+###### § 315d Konzernerklärung zur Unternehmensführung
 
 Ein Mutterunternehmen, das eine Gesellschaft im Sinne des § 289f Absatz 1 oder Absatz 3 ist, hat für den Konzern eine Erklärung zur Unternehmensführung zu erstellen und als gesonderten Abschnitt in den Konzernlagebericht aufzunehmen. § 289f ist entsprechend anzuwenden.
 
 ## Zehnter Titel Konzernabschluss nach
 internationalen Rechnungslegungsstandards
 
-##### § 315e
+###### § 315e
 
 (1) Ist ein Mutterunternehmen, das nach den Vorschriften des Ersten Titels einen Konzernabschluss aufzustellen hat, nach Artikel 4 der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates vom 19. Juli 2002 betreffend die Anwendung internationaler Rechnungslegungsstandards (ABl. L 243 vom 11.9.2002, S. 1), die zuletzt durch die Verordnung (EG) Nr. 297/2008 (ABl. L 97 vom 9.4.2008, S. 62) geändert worden ist, verpflichtet, die nach den Artikeln 2, 3 und 6 der genannten Verordnung übernommenen internationalen Rechnungslegungsstandards anzuwenden, so sind von den Vorschriften des Zweiten bis Achten Titels nur § 294 Abs. 3, § 297 Absatz 1a, 2 Satz 4, § 298 Abs. 1, dieser jedoch nur in Verbindung mit den §§ 244 und 245, ferner § 313 Abs. 2 und 3, § 314 Abs. 1 Nr. 4, 6, 8 und 9, Absatz 3 sowie die Bestimmungen des Neunten Titels und die Vorschriften außerhalb dieses Unterabschnitts, die den Konzernabschluss oder den Konzernlagebericht betreffen, entsprechend anzuwenden.
 
@@ -3272,7 +3288,7 @@ internationalen Rechnungslegungsstandards
 
 ## Dritter Unterabschnitt Prüfung
 
-##### § 316 Pflicht zur Prüfung
+###### § 316 Pflicht zur Prüfung
 
 (1) Der Jahresabschluß und der Lagebericht von Kapitalgesellschaften, die nicht kleine im Sinne des § 267 Abs. 1 sind, sind durch einen Abschlußprüfer zu prüfen. Hat keine Prüfung stattgefunden, so kann der Jahresabschluß nicht festgestellt werden.
 
@@ -3280,7 +3296,7 @@ internationalen Rechnungslegungsstandards
 
 (3) Werden der Jahresabschluß, der Konzernabschluß, der Lagebericht oder der Konzernlagebericht nach Vorlage des Prüfungsberichts geändert, so hat der Abschlußprüfer diese Unterlagen erneut zu prüfen, soweit es die Änderung erfordert. Über das Ergebnis der Prüfung ist zu berichten; der Bestätigungsvermerk ist entsprechend zu ergänzen. Die Sätze 1 und 2 gelten entsprechend für diejenige Wiedergabe des Jahresabschlusses, des Lageberichts, des Konzernabschlusses und des Konzernlageberichts, welche eine Kapitalgesellschaft, die als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im Sinne des § 327a ist, für Zwecke der Offenlegung erstellt hat.
 
-##### § 316a Abschlussprüfung bei Unternehmen von öffentlichem Interesse
+###### § 316a Abschlussprüfung bei Unternehmen von öffentlichem Interesse
 
 Auf die Abschlussprüfung bei Kapitalgesellschaften, die Unternehmen von öffentlichem Interesse sind, sind die Vorschriften dieses Unterabschnitts nur insoweit anzuwenden, als nicht die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) anzuwenden ist. Unternehmen von öffentlichem Interesse sind Unternehmen, die
 
@@ -3290,7 +3306,7 @@ Auf die Abschlussprüfung bei Kapitalgesellschaften, die Unternehmen von öffent
 
 3. Versicherungsunternehmen sind im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG.
 
-##### § 317 Gegenstand und Umfang der Prüfung
+###### § 317 Gegenstand und Umfang der Prüfung
 
 (1) In die Prüfung des Jahresabschlusses ist die Buchführung einzubeziehen. Die Prüfung des Jahresabschlusses und des Konzernabschlusses hat sich darauf zu erstrecken, ob die gesetzlichen Vorschriften und sie ergänzende Bestimmungen des Gesellschaftsvertrags oder der Satzung beachtet worden sind. Die Prüfung ist so anzulegen, daß Unrichtigkeiten und Verstöße gegen die in Satz 2 aufgeführten Bestimmungen, die sich auf die Darstellung des sich nach § 264 Abs. 2 ergebenden Bildes der Vermögens-, Finanz- und Ertragslage der Kapitalgesellschaft wesentlich auswirken, bei gewissenhafter Berufsausübung erkannt werden.
 
@@ -3314,7 +3330,7 @@ Auf die Abschlussprüfung bei Kapitalgesellschaften, die Unternehmen von öffent
 
 (6) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zusätzlich zu den bei der Durchführung der Abschlussprüfung nach Absatz 5 anzuwendenden internationalen Prüfungsstandards weitere Abschlussprüfungsanforderungen vorzuschreiben, wenn dies durch den Umfang der Abschlussprüfung bedingt ist und den in den Absätzen 1 bis 4 genannten Prüfungszielen dient.
 
-##### § 318 Bestellung und Abberufung des Abschlußprüfers
+###### § 318 Bestellung und Abberufung des Abschlußprüfers
 
 (1) Der Abschlußprüfer des Jahresabschlusses wird von den Gesellschaftern gewählt; den Abschlußprüfer des Konzernabschlusses wählen die Gesellschafter des Mutterunternehmens. Bei Gesellschaften mit beschränkter Haftung und bei offenen Handelsgesellschaften und Kommanditgesellschaften im Sinne des § 264a Abs. 1 kann der Gesellschaftsvertrag etwas anderes bestimmen. Der Abschlußprüfer soll jeweils vor Ablauf des *Geschäftsjahrs* gewählt werden, auf das sich seine Prüfungstätigkeit erstreckt. Die gesetzlichen Vertreter, bei Zuständigkeit des Aufsichtsrats dieser, haben unverzüglich nach der Wahl den Prüfungsauftrag zu erteilen. Der Prüfungsauftrag kann nur widerrufen werden, wenn nach Absatz 3 ein anderer Prüfer bestellt worden ist.
 
@@ -3340,7 +3356,7 @@ Der Antrag ist binnen zwei Wochen nach dem Tag der Wahl des Abschlussprüfers zu
 
 (8) Die Wirtschaftsprüferkammer ist unverzüglich und schriftlich begründet durch den Abschlussprüfer und die gesetzlichen Vertreter der geprüften Gesellschaft von der Kündigung oder dem Widerruf des Prüfungsauftrages zu unterrichten.
 
-##### § 319 Auswahl der Abschlussprüfer und Ausschlussgründe
+###### § 319 Auswahl der Abschlussprüfer und Ausschlussgründe
 
 (1) Abschlussprüfer können Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften sein. Abschlussprüfer von Jahresabschlüssen und Lageberichten mittelgroßer Gesellschaften mit beschränkter Haftung (§ 267 Abs. 2) oder von mittelgroßen Personenhandelsgesellschaften im Sinne des § 264a Abs. 1 können auch vereidigte Buchprüfer und Buchprüfungsgesellschaften sein. Die Abschlussprüfer nach den Sätzen 1 und 2 müssen über einen Auszug aus dem Berufsregister verfügen, aus dem sich ergibt, dass die Eintragung nach § 38 Nummer 1 Buchstabe h oder Nummer 2 Buchstabe f der Wirtschaftsprüferordnung vorgenommen worden ist; Abschlussprüfer, die erstmalig eine gesetzlich vorgeschriebene Abschlussprüfung nach § 316 des Handelsgesetzbuchs durchführen, müssen spätestens sechs Wochen nach Annahme eines Prüfungsauftrages über den Auszug aus dem Berufsregister verfügen. Die Abschlussprüfer sind während einer laufenden Abschlussprüfung verpflichtet, eine Löschung der Eintragung unverzüglich gegenüber der Gesellschaft anzuzeigen.
 
@@ -3372,15 +3388,15 @@ Dies gilt auch, wenn der Ehegatte oder der Lebenspartner einen Ausschlussgrund n
 
 (5) Absatz 1 Satz 3 sowie die Absätze 2 bis 4 sind auf den Abschlussprüfer des Konzernabschlusses entsprechend anzuwenden.
 
-##### § 319a (weggefallen)
+###### § 319a (weggefallen)
 
-##### § 319b Netzwerk
+###### § 319b Netzwerk
 
 (1) Ein Abschlussprüfer ist von der Abschlussprüfung ausgeschlossen, wenn ein Mitglied seines Netzwerks einen Ausschlussgrund nach § 319 Abs. 2, 3 Satz 1 Nr. 1, 2 oder Nr. 4, Abs. 3 Satz 2 oder Abs. 4 erfüllt, es sei denn, dass das Netzwerkmitglied auf das Ergebnis der Abschlussprüfung keinen Einfluss nehmen kann. Er ist ausgeschlossen, wenn ein Mitglied seines Netzwerks einen Ausschlussgrund nach § 319 Abs. 3 Satz 1 Nr. 3 erfüllt. Ein Netzwerk liegt vor, wenn Personen bei ihrer Berufsausübung zur Verfolgung gemeinsamer wirtschaftlicher Interessen für eine gewisse Dauer zusammenwirken.
 
 (2) Absatz 1 ist auf den Abschlussprüfer des Konzernabschlusses entsprechend anzuwenden.
 
-##### § 320 Vorlagepflicht. Auskunftsrecht
+###### § 320 Vorlagepflicht. Auskunftsrecht
 
 (1) Die gesetzlichen Vertreter der Kapitalgesellschaft haben dem Abschlußprüfer den Jahresabschluß, den Lagebericht und den gesonderten nichtfinanziellen Bericht unverzüglich nach der Aufstellung vorzulegen. Sie haben ihm zu gestatten, die Bücher und Schriften der Kapitalgesellschaft sowie die Vermögensgegenstände und Schulden, namentlich die Kasse und die Bestände an Wertpapieren und Waren, zu prüfen. Die gesetzlichen Vertreter einer Kapitalgesellschaft, die als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im Sinne des § 327a ist, haben dem Abschlussprüfer auch die für Zwecke der Offenlegung nach den Vorgaben des § 328 Absatz 1 erstellte Wiedergabe des Jahresabschlusses und die nach diesen Vorgaben erstellte Wiedergabe des Lageberichts vorzulegen.
 
@@ -3392,7 +3408,7 @@ Dies gilt auch, wenn der Ehegatte oder der Lebenspartner einen Ausschlussgrund n
 
 (5) Ist die Kapitalgesellschaft als Tochterunternehmen in den Konzernabschluss eines Mutterunternehmens einbezogen, das seinen Sitz nicht in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat, kann der Prüfer nach Absatz 2 zur Verfügung gestellte Unterlagen an den Abschlussprüfer des Konzernabschlusses weitergeben, soweit diese für die Prüfung des Konzernabschlusses des Mutterunternehmens erforderlich sind. Die Übermittlung personenbezogener Daten muss im Einklang mit den Vorgaben der Verordnung (EU) 2016/679 und den allgemeinen datenschutzrechtlichen Vorschriften stehen.
 
-##### § 321 Prüfungsbericht
+###### § 321 Prüfungsbericht
 
 (1) Der Abschlußprüfer hat über Art und Umfang sowie über das Ergebnis der Prüfung zu berichten; auf den Bericht sind die Sätze 2 und 3 sowie die Absätze 2 bis 4a anzuwenden. Der Bericht ist schriftlich und mit der gebotenen Klarheit abzufassen; in ihm ist vorweg zu der Beurteilung der Lage der Kapitalgesellschaft oder Konzerns durch die gesetzlichen Vertreter Stellung zu nehmen, wobei insbesondere auf die Beurteilung des Fortbestandes und der künftigen Entwicklung der Kapitalgesellschaft unter Berücksichtigung des Lageberichts und bei der Prüfung des Konzernabschlusses von Mutterunternehmen auch des Konzerns unter Berücksichtigung des Konzernlageberichts einzugehen ist, soweit die geprüften Unterlagen und der Lagebericht oder der Konzernlagebericht eine solche Beurteilung erlauben. Außerdem hat der Abschlussprüfer über bei Durchführung der Prüfung festgestellte Unrichtigkeiten oder Verstöße gegen gesetzliche Vorschriften sowie Tatsachen zu berichten, die den Bestand der geprüften Kapitalgesellschaft oder des Konzerns gefährden oder seine Entwicklung wesentlich beeinträchtigen können oder die schwerwiegende Verstöße der gesetzlichen Vertreter oder von Arbeitnehmern gegen Gesetz, Gesellschaftsvertrag oder die Satzung erkennen lassen.
 
@@ -3406,7 +3422,7 @@ Dies gilt auch, wenn der Ehegatte oder der Lebenspartner einen Ausschlussgrund n
 
 (5) Der Abschlußprüfer hat den Bericht unter Angabe des Datums zu unterzeichnen und den gesetzlichen Vertretern vorzulegen; § 322 Absatz 7 Satz 3 und 4 gilt entsprechend. Hat der Aufsichtsrat den Auftrag erteilt, so ist der Bericht ihm und gleichzeitig einem eingerichteten Prüfungsausschuss vorzulegen. Im Fall des Satzes 2 ist der Bericht unverzüglich nach Vorlage dem Geschäftsführungsorgan mit Gelegenheit zur Stellungnahme zuzuleiten.
 
-##### § 321a Offenlegung des Prüfungsberichts in besonderen Fällen
+###### § 321a Offenlegung des Prüfungsberichts in besonderen Fällen
 
 (1) Wird über das Vermögen der Gesellschaft ein Insolvenzverfahren eröffnet oder wird der Antrag auf Eröffnung des Insolvenzverfahren mangels Masse abgewiesen, so hat ein Gläubiger oder Gesellschafter die Wahl, selbst oder durch einen von ihm zu bestimmenden Wirtschaftsprüfer oder im Fall des § 319 Abs. 1 Satz 2 durch einen vereidigten Buchprüfer Einsicht in die Prüfungsberichte des Abschlussprüfers über die aufgrund gesetzlicher Vorschriften durchzuführende Prüfung des Jahresabschlusses der letzten drei Geschäftsjahre zu nehmen, soweit sich diese auf die nach § 321 geforderte Berichterstattung beziehen. Der Anspruch richtet sich gegen denjenigen, der die Prüfungsberichte in seinem Besitz hat.
 
@@ -3416,7 +3432,7 @@ Dies gilt auch, wenn der Ehegatte oder der Lebenspartner einen Ausschlussgrund n
 
 (4) Die Absätze 1 bis 3 gelten entsprechend, wenn der Schuldner zur Aufstellung eines Konzernabschlusses und Konzernlageberichts verpflichtet ist.
 
-##### § 322 Bestätigungsvermerk
+###### § 322 Bestätigungsvermerk
 
 (1) Der Abschlussprüfer hat das Ergebnis der Prüfung schriftlich in einem Bestätigungsvermerk zum Jahresabschluss oder zum Konzernabschluss zusammenzufassen. Der Bestätigungsvermerk hat Gegenstand, Art und Umfang der Prüfung zu beschreiben und dabei die angewandten Rechnungslegungs- und Prüfungsgrundsätze anzugeben; er hat ferner eine Beurteilung des Prüfungsergebnisses zu enthalten. In einem einleitenden Abschnitt haben zumindest die Beschreibung des Gegenstands der Prüfung und die Angabe zu den angewandten Rechnungslegungsgrundsätzen zu erfolgen. Über das Ergebnis der Prüfungen nach § 317 Absatz 3a und 3b ist jeweils in einem besonderen Abschnitt zu berichten.
 
@@ -3452,7 +3468,7 @@ Die Beurteilung des Prüfungsergebnisses soll allgemein verständlich und proble
 
 (7) Der Abschlussprüfer hat den Bestätigungsvermerk oder den Vermerk über seine Versagung unter Angabe des Ortes der Niederlassung des Abschlussprüfers und des Tages der Unterzeichnung zu unterzeichnen; im Fall des Absatzes 6a hat die Unterzeichnung durch alle bestellten Personen zu erfolgen. Der Bestätigungsvermerk oder der Vermerk über seine Versagung ist auch in den Prüfungsbericht aufzunehmen. Ist der Abschlussprüfer eine Wirtschaftsprüfungsgesellschaft, so hat die Unterzeichnung zumindest durch den Wirtschaftsprüfer zu erfolgen, welcher die Abschlussprüfung für die Prüfungsgesellschaft durchgeführt hat. Satz 3 ist auf Buchprüfungsgesellschaften entsprechend anzuwenden.
 
-##### § 323 Verantwortlichkeit des Abschlußprüfers
+###### § 323 Verantwortlichkeit des Abschlußprüfers
 
 (1) Der Abschlußprüfer, seine Gehilfen und die bei der Prüfung mitwirkenden gesetzlichen Vertreter einer Prüfungsgesellschaft sind zur gewissenhaften und unparteiischen Prüfung und zur Verschwiegenheit verpflichtet; gesetzliche Mitteilungspflichten bleiben unberührt. Sie dürfen nicht unbefugt Geschäfts- und Betriebsgeheimnisse verwerten, die sie bei ihrer Tätigkeit erfahren haben. Wer vorsätzlich oder fahrlässig seine Pflichten verletzt, ist der Kapitalgesellschaft und, wenn ein verbundenes Unternehmen geschädigt worden ist, auch diesem zum Ersatz des daraus entstehenden Schadens verpflichtet. Mehrere Personen haften als Gesamtschuldner.
 
@@ -3472,7 +3488,7 @@ Dies gilt nicht für Personen, die vorsätzlich gehandelt haben, und für den Ab
 
 (5) Die Mitteilung nach Artikel 7 Unterabsatz 2 der Verordnung (EU) Nr. 537/2014 ist an die Bundesanstalt für Finanzdienstleistungsaufsicht zu richten, bei dem Verdacht einer Straftat oder Ordnungswidrigkeit auch an die für die Verfolgung jeweils zuständige Behörde.
 
-##### § 324 Prüfungsausschuss
+###### § 324 Prüfungsausschuss
 
 (1) Kapitalgesellschaften, die Unternehmen von öffentlichem Interesse (§ 316a Satz 2) sind und keinen Aufsichts- oder Verwaltungsrat haben, der die Voraussetzungen des § 100 Absatz 5 des Aktiengesetzes erfüllen muss, sind verpflichtet, einen Prüfungsausschuss nach Absatz 2 einzurichten, der sich insbesondere mit den in § 107 Absatz 3 Satz 2 und 3 des Aktiengesetzes beschriebenen Aufgaben befasst. Dies gilt nicht für Kapitalgesellschaften im Sinne des Satzes 1,
 
@@ -3488,7 +3504,7 @@ Im Fall des Satzes 2 Nummer 1 ist im Anhang darzulegen, weshalb ein Prüfungsaus
 
 (3) Die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle kann zur Erfüllung ihrer Aufgaben gemäß Artikel 27 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 537/2014 von einer Kapitalgesellschaft, die ein Unternehmen von öffentlichem Interesse (§ 316a Satz 2) ist, eine Darstellung und Erläuterung des Ergebnisses sowie der Durchführung der Tätigkeit seines Prüfungsausschusses verlangen. Die Abschlussprüferaufsichtsstelle soll zunächst auf Informationen aus öffentlich zugänglichen Quellen zurückgreifen.
 
-##### § 324a Anwendung auf den Einzelabschluss nach § 325 Abs. 2a
+###### § 324a Anwendung auf den Einzelabschluss nach § 325 Abs. 2a
 
 (1) Die Bestimmungen dieses Unterabschnitts, die sich auf den Jahresabschluss beziehen, sind auf einen Einzelabschluss nach § 325 Abs. 2a entsprechend anzuwenden. An Stelle des § 316 Abs. 1 Satz 2 gilt § 316 Abs. 2 Satz 2 entsprechend.
 
@@ -3496,7 +3512,7 @@ Im Fall des Satzes 2 Nummer 1 ist im Anhang darzulegen, weshalb ein Prüfungsaus
 
 ## Vierter Unterabschnitt Offenlegung. Prüfung durch die das Unternehmensregister führende Stelle
 
-##### § 325 Offenlegung
+###### § 325 Offenlegung
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft haben für die Gesellschaft folgende Unterlagen, sofern sie aufzustellen oder zu erstellen sind, in deutscher Sprache offenzulegen:
 
@@ -3504,7 +3520,7 @@ Im Fall des Satzes 2 Nummer 1 ist im Anhang darzulegen, weshalb ein Prüfungsaus
 
 2. den Bericht des Aufsichtsrats und die nach § 161 des Aktiengesetzes vorgeschriebene Erklärung.
 
-Die Unterlagen sind der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister zu übermitteln.
+Die Unterlagen sind der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister zu übermitteln. Bei einer Kapitalgesellschaft, die als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im Sinne des § 327a ist, sind die Unterlagen der das Unternehmensregister führenden Stelle mit der Übermittlung nach Satz 2 auch zur Weiterleitung an das zentrale europäische Zugangsportal zu übermitteln.
 
 (1a) Die Unterlagen nach Absatz 1 Satz 1 sind spätestens ein Jahr nach dem Abschlussstichtag des Geschäftsjahrs zu übermitteln, auf das sie sich beziehen. Liegen die Unterlagen nach Absatz 1 Satz 1 Nummer 2 nicht innerhalb der Frist vor, sind sie unverzüglich nach ihrem Vorliegen nach Absatz 1 offenzulegen.
 
@@ -3522,17 +3538,17 @@ Die Unterlagen sind der das Unternehmensregister führenden Stelle elektronisch 
 
 3. der Jahresabschluss mit dem Bestätigungsvermerk oder dem Vermerk über dessen Versagung in deutscher Sprache nach Maßgabe des Absatzes 1a Satz 1 und des Absatzes 4 der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister durch dauerhafte Hinterlegung übermittelt wird.
 
-(3) Die Absätze 1 bis 1b Satz 1 und Absatz 4 Satz 1 gelten entsprechend für die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft, die einen Konzernabschluss und einen Konzernlagebericht aufzustellen haben.
+(3) Die Absätze 1 bis 1b Satz 1 und Absatz 4 gelten entsprechend für die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft, die einen Konzernabschluss und einen Konzernlagebericht aufzustellen haben.
 
 (3a) Wird der Konzernabschluss zusammen mit dem Jahresabschluss des Mutterunternehmens oder mit einem von diesem aufgestellten Einzelabschluss nach Absatz 2a offengelegt, können die Vermerke des Abschlussprüfers nach § 322 zu beiden Abschlüssen zusammengefasst werden; in diesem Fall können auch die jeweiligen Prüfungsberichte zusammengefasst werden.
 
-(4) Bei einer Kapitalgesellschaft im Sinn des § 264d beträgt die Frist nach Absatz 1a Satz 1 längstens vier Monate. Für die Wahrung der Fristen nach Satz 1 und Absatz 1a Satz 1 ist der Zeitpunkt der Übermittlung der Unterlagen maßgebend.
+(4) Bei einer Kapitalgesellschaft im Sinn des § 264d beträgt die Frist nach Absatz 1a Satz 1 längstens vier Monate. Für die Wahrung der Fristen nach Satz 1 und Absatz 1a Satz 1 ist der Zeitpunkt der Übermittlung der Unterlagen maßgebend. Eine Kapitalgesellschaft im Sinne des § 264d hat die Unterlagen nach Absatz 1 Satz 1 gleichzeitig mit ihrer öffentlichen Zugänglichmachung im Internet im Sinne des § 114 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes nach Absatz 1 Satz 2 zu übermitteln.
 
 (5) Auf Gesetz, Gesellschaftsvertrag oder Satzung beruhende Pflichten der Gesellschaft, den Jahresabschluss, den Einzelabschluss nach Absatz 2a, den Lagebericht, den Konzernabschluss oder den Konzernlagebericht in anderer Weise bekannt zu machen, einzureichen oder Personen zugänglich zu machen, bleiben unberührt.
 
 (6) Die §§ 11 und 12 Absatz 2 gelten entsprechend für die Unterlagen, die an die das Unternehmensregister führende Stelle zur Einstellung in das Unternehmensregister zu übermitteln sind; § 325a Absatz 1 Satz 5 und § 340l Absatz 2 Satz 6 bleiben unberührt.
 
-##### § 325a Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland
+###### § 325a Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland
 
 (1) Bei inländischen Zweigniederlassungen von Kapitalgesellschaften mit Sitz in einem anderen Staat haben die in § 13e Absatz 2 Satz 5 Nummer 3 genannten angemeldeten Personen oder, wenn solche nicht vorhanden sind, die Mitglieder des vertretungsberechtigten Organs der Gesellschaft für diese die Unterlagen der Rechnungslegung der Hauptniederlassung, die nach dem für die Hauptniederlassung maßgeblichen Recht aufgestellt, geprüft und offengelegt worden sind, nach den §§ 325, 327a und 328 offenzulegen; § 329 ist anzuwenden. Bestehen mehrere inländische Zweigniederlassungen derselben Gesellschaft, brauchen die Unterlagen der Rechnungslegung der Hauptniederlassung nur von den nach Satz 1 verpflichteten Personen einer dieser Zweigniederlassungen offengelegt zu werden. In diesem Fall beschränkt sich die Offenlegungspflicht der übrigen Zweigniederlassungen auf die Angabe des Namens der Zweigniederlassung, des Registers sowie der Registernummer der Zweigniederlassung, für die die Offenlegung gemäß Satz 2 bewirkt worden ist. Die Unterlagen sind in deutscher Sprache zu übermitteln. Soweit dies nicht die Amtssprache am Sitz der Hauptniederlassung ist, können die Unterlagen der Hauptniederlassung auch
 
@@ -3550,13 +3566,13 @@ Die Unterlagen sind der das Unternehmensregister führenden Stelle elektronisch 
 
 (4) Die das Unternehmensregister führende Stelle fordert die Kapitalgesellschaft zur unverzüglichen Offenlegung der Änderung der Unterlagen der Rechnungslegung gemäß Absatz 1 auf, wenn zum Zeitpunkt eines Dateneingangs nach § 9b Absatz 4 Satz 2 die Änderung noch nicht offengelegt worden ist.
 
-##### § 326 Größenabhängige Erleichterungen für kleine Kapitalgesellschaften und Kleinstkapitalgesellschaften bei der Offenlegung
+###### § 326 Größenabhängige Erleichterungen für kleine Kapitalgesellschaften und Kleinstkapitalgesellschaften bei der Offenlegung
 
 (1) Auf kleine Kapitalgesellschaften (§ 267 Abs. 1) ist § 325 Abs. 1 mit der Maßgabe anzuwenden, daß die Mitglieder des vertretungsberechtigten Organs nur die Bilanz und den Anhang zu übermitteln haben. Der Anhang braucht die die Gewinn- und Verlustrechnung betreffenden Angaben nicht zu enthalten.
 
 (2) Auf Kleinstkapitalgesellschaften (§ 267a) ist § 325 Absatz 1 mit der Maßgabe anzuwenden, dass die Mitglieder des vertretungsberechtigten Organs nur die Bilanz zu übermitteln haben und dabei die Einstellung in das Unternehmensregister durch dauerhafte Hinterlegung verlangen können. Kleinstkapitalgesellschaften dürfen von dem in Satz 1 geregelten Recht nur Gebrauch machen, wenn sie gegenüber der das Unternehmensregister führenden Stelle mitteilen, dass sie zwei der drei in § 267a Absatz 1 genannten Merkmale für die nach § 267 Absatz 4 maßgeblichen Abschlussstichtage nicht überschreiten.
 
-##### § 327 Größenabhängige Erleichterungen für mittelgroße Kapitalgesellschaften bei der Offenlegung
+###### § 327 Größenabhängige Erleichterungen für mittelgroße Kapitalgesellschaften bei der Offenlegung
 
 Auf mittelgroße Kapitalgesellschaften (§ 267 Abs. 2) ist § 325 Abs. 1 mit der Maßgabe anzuwenden, daß die Mitglieder des vertretungsberechtigten Organs
 
@@ -3564,11 +3580,11 @@ Auf mittelgroße Kapitalgesellschaften (§ 267 Abs. 2) ist § 325 Abs. 1 mit der
 
 2. den Anhang ohne die Angaben nach § 285 Nr. 2 und 8 Buchstabe a, Nr. 12 der das Unternehmensregister führenden Stelle übermitteln dürfen.
 
-##### § 327a Erleichterung für bestimmte kapitalmarktorientierte Kapitalgesellschaften
+###### § 327a Erleichterung für bestimmte kapitalmarktorientierte Kapitalgesellschaften
 
-§ 325 Abs. 4 Satz 1 ist auf eine Kapitalgesellschaft nicht anzuwenden, wenn sie ausschließlich zum Handel an einem organisierten Markt zugelassene Schuldtitel im Sinn des § 2 Absatz 1 Nummer 3 des Wertpapierhandelsgesetzes mit einer Mindeststückelung von 100 000 Euro oder dem am Ausgabetag entsprechenden Gegenwert einer anderen Währung begibt.
+§ 325 Absatz 4 Satz 1 und 3 sind auf eine Kapitalgesellschaft nicht anzuwenden, wenn sie ausschließlich zum Handel an einem organisierten Markt zugelassene Schuldtitel im Sinne des § 2 Absatz 1 Nummer 3 des Wertpapierhandelsgesetzes mit einer Mindeststückelung von 100 000 Euro oder dem am Ausgabetag entsprechenden Gegenwert einer anderen Währung begibt.
 
-##### § 328 Form, Format und Inhalt der Unterlagen bei der Offenlegung, Veröffentlichung und Vervielfältigung
+###### § 328 Form, Format und Inhalt der Unterlagen bei der Offenlegung, Veröffentlichung und Vervielfältigung
 
 (1) Bei der Offenlegung des Jahresabschlusses, des Einzelabschlusses nach § 325 Absatz 2a, des Konzernabschlusses, des Lage- oder Konzernlageberichts oder der Erklärungen nach § 264 Absatz 2 Satz 3, § 289 Absatz 1 Satz 5, § 297 Absatz 2 Satz 4 oder § 315 Absatz 1 Satz 5 sind diese Abschlüsse, Lageberichte und Erklärungen so wiederzugeben, dass sie den für ihre Aufstellung maßgeblichen Vorschriften entsprechen, soweit nicht Erleichterungen nach den §§ 326 und 327 in Anspruch genommen werden oder eine Rechtsverordnung des Bundesministeriums der Justiz nach Absatz 4 hiervon Abweichungen ermöglicht. Sie haben in diesem Rahmen vollständig und richtig zu sein. Die Sätze 1 und 2 gelten auch für die teilweise Offenlegung sowie für die Veröffentlichung oder Vervielfältigung in anderer Form auf Grund des Gesellschaftsvertrages oder der Satzung. Eine Kapitalgesellschaft, die als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im Sinne des § 327a ist, hat offenzulegen:
 
@@ -3586,9 +3602,9 @@ Auf mittelgroße Kapitalgesellschaften (§ 267 Abs. 2) ist § 325 Abs. 1 mit der
 
 (5) Für die Hinterlegung der Bilanz einer Kleinstkapitalgesellschaft (§ 326 Absatz 2) gelten Absatz 1 Satz 1 bis 3 und Absatz 1a Satz 1 entsprechend.
 
-##### § 329 Prüfungs- und Unterrichtungspflicht der das Unternehmensregister führenden Stelle
+###### § 329 Prüfungs- und Unterrichtungspflicht der das Unternehmensregister führenden Stelle
 
-(1) Die das Unternehmensregister führende Stelle prüft, ob die zu übermittelnden Unterlagen fristgemäß und vollzählig übermittelt worden sind. Soweit dies für die Erfüllung der Aufgaben nach Satz 1 erforderlich ist, darf die das Unternehmensregister führende Stelle die von den Landesjustizverwaltungen nach § 8b Absatz 3 Satz 2 übermittelten Daten verwenden.
+(1) Die das Unternehmensregister führende Stelle prüft, ob die zu übermittelnden Unterlagen fristgemäß und vollzählig übermittelt worden sind. Bei einer Kapitalgesellschaft, die als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im Sinne des § 327a ist, erfolgt die Prüfung nach der Weiterleitung an das zentrale europäische Zugangsportal. Soweit dies für die Erfüllung der Aufgaben nach Satz 1 erforderlich ist, darf die das Unternehmensregister führende Stelle die von den Landesjustizverwaltungen nach § 8b Absatz 3 Satz 2 übermittelten Daten verwenden.
 
 (2) Gibt die Prüfung Anlass zu der Annahme, dass von der Größe der Kapitalgesellschaft abhängige Erleichterungen oder die Erleichterung nach § 327a nicht hätten in Anspruch genommen werden dürfen, kann die das Unternehmensregister führende Stelle von der Kapitalgesellschaft innerhalb einer angemessenen Frist die Mitteilung der Umsatzerlöse (§ 277 Abs. 1) und der durchschnittlichen Zahl der Arbeitnehmer (§ 267 Abs. 5) oder Angaben zur Eigenschaft als Kapitalgesellschaft im Sinn des § 327a verlangen. Unterlässt die Kapitalgesellschaft die fristgemäße Mitteilung, gelten die Erleichterungen als zu Unrecht in Anspruch genommen.
 
@@ -3598,7 +3614,7 @@ Auf mittelgroße Kapitalgesellschaften (§ 267 Abs. 2) ist § 325 Abs. 1 mit der
 
 ## Fünfter Unterabschnitt Verordnungsermächtigung für Formblätter und andere Vorschriften
 
-##### § 330
+###### § 330
 
 (1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für Kapitalgesellschaften Formblätter vorzuschreiben oder andere Vorschriften für die Gliederung des Jahresabschlusses oder des Konzernabschlusses oder den Inhalt des Anhangs, des Konzernanhangs, des Lageberichts oder des Konzernlageberichts zu erlassen, wenn der Geschäftszweig eine von den §§ 266, 275 abweichende Gliederung des Jahresabschlusses oder des Konzernabschlusses oder von den Vorschriften des Ersten Abschnitts und des Ersten und Zweiten Unterabschnitts des Zweiten Abschnitts abweichende Regelungen erfordert. Die sich aus den abweichenden Vorschriften ergebenden Anforderungen an die in Satz 1 bezeichneten Unterlagen sollen den Anforderungen gleichwertig sein, die sich für große Kapitalgesellschaften (§ 267 Abs. 3) aus den Vorschriften des Ersten Abschnitts und des Ersten und Zweiten Unterabschnitts des Zweiten Abschnitts sowie den für den Geschäftszweig geltenden Vorschriften ergeben. Über das geltende Recht hinausgehende Anforderungen dürfen nur gestellt werden, soweit sie auf Rechtsakten des Rates der Europäischen Union beruhen. Die Rechtsverordnung nach Satz 1 kann auch Abweichungen von der Kontoform nach § 266 Abs. 1 Satz 1 gestatten. Satz 4 gilt auch in den Fällen, in denen ein Geschäftszweig eine von den §§ 266 und 275 abweichende Gliederung nicht erfordert.
 
@@ -3624,7 +3640,7 @@ Satz 1 ist auch auf Zweigstellen von Unternehmen mit Sitz in einem Staat anzuwen
 
 ## Erster Titel Straf- und Bußgeldvorschriften
 
-##### § 331 Unrichtige Darstellung
+###### § 331 Unrichtige Darstellung
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -3642,13 +3658,13 @@ Satz 1 ist auch auf Zweigstellen von Unternehmen mit Sitz in einem Staat anzuwen
 
 (2) Handelt der Täter in den Fällen des Absatzes 1 Nummer 1a oder 3 leichtfertig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-##### § 331a Unrichtige Versicherung
+###### § 331a Unrichtige Versicherung
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 264 Absatz 2 Satz 3, auch in Verbindung mit § 325 Absatz 2a Satz 3, entgegen § 289 Absatz 1 Satz 5, auch in Verbindung mit § 325 Absatz 2a Satz 4, oder entgegen § 297 Absatz 2 Satz 4 oder § 315 Absatz 1 Satz 5, jeweils auch in Verbindung mit § 315e Absatz 1, eine unrichtige Versicherung abgibt.
 
 (2) Handelt der Täter leichtfertig, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
-##### § 332 Verletzung der Berichtspflicht
+###### § 332 Verletzung der Berichtspflicht
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer als Abschlußprüfer oder Gehilfe eines Abschlußprüfers über das Ergebnis der Prüfung eines Jahresabschlusses, eines Einzelabschlusses nach § 325 Abs. 2a, eines Lageberichts, eines Konzernabschlusses, eines Konzernlageberichts einer Kapitalgesellschaft oder eines Zwischenabschlusses nach § 340a Abs. 3 oder eines Konzernzwischenabschlusses gemäß § 340i Abs. 4 unrichtig berichtet, im Prüfungsbericht (§ 321) erhebliche Umstände verschweigt oder einen inhaltlich unrichtigen Bestätigungsvermerk (§ 322) erteilt.
 
@@ -3656,7 +3672,7 @@ Satz 1 ist auch auf Zweigstellen von Unternehmen mit Sitz in einem Staat anzuwen
 
 (3) Handelt der Täter in den Fällen des Absatzes 2 Satz 2 leichtfertig, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
-##### § 333 Verletzung der Geheimhaltungspflicht
+###### § 333 Verletzung der Geheimhaltungspflicht
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer ein Geheimnis der Kapitalgesellschaft, eines Tochterunternehmens (§ 290 Abs. 1, 2), eines gemeinsam geführten Unternehmens (§ 310) oder eines assoziierten Unternehmens (§ 311), namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm in seiner Eigenschaft als Abschlußprüfer oder Gehilfe eines Abschlußprüfers bei Prüfung des Jahresabschlusses, eines Einzelabschlusses nach § 325 Abs. 2a oder des Konzernabschlusses bekannt geworden ist, unbefugt offenbart.
 
@@ -3664,7 +3680,7 @@ Satz 1 ist auch auf Zweigstellen von Unternehmen mit Sitz in einem Staat anzuwen
 
 (3) Die Tat wird nur auf Antrag der Kapitalgesellschaft verfolgt.
 
-##### § 333a Verletzung der Pflichten bei Abschlussprüfungen
+###### § 333a Verletzung der Pflichten bei Abschlussprüfungen
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied eines nach § 324 Absatz 1 Satz 1 eingerichteten Prüfungsausschusses
 
@@ -3672,7 +3688,7 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als
 
 2. eine in § 334 Absatz 2a bezeichnete Handlung beharrlich wiederholt.
 
-##### § 334 Bußgeldvorschriften
+###### § 334 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Kapitalgesellschaft
 
@@ -3786,7 +3802,7 @@ b) in den Fällen des Absatzes 2a,
 
 ## Zweiter Titel Ordnungsgelder
 
-##### § 335 Festsetzung von Ordnungsgeld; Verordnungsermächtigungen
+###### § 335 Festsetzung von Ordnungsgeld; Verordnungsermächtigungen
 
 (1) Gegen die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft, die
 
@@ -3820,7 +3836,7 @@ Handelt es sich bei der Kapitalgesellschaft um ein Mutterunternehmen oder um ein
 
 (1c) Soweit dem Bundesamt Ermessen bei der Höhe eines Ordnungsgeldes zusteht, hat es auch frühere Verstöße der betroffenen Person zu berücksichtigen.
 
-(1d) Das Bundesamt unterrichtet die Bundesanstalt für Finanzdienstleistungsaufsicht unverzüglich über jedes Ordnungsgeld, das gemäß Absatz 1 gegen eine Kapitalgesellschaft im Sinne des § 264d oder gegen ein Mitglied ihrer Vertretungsorgane festgesetzt wird. Wird gegen eine solche Ordnungsgeldfestsetzung Beschwerde eingelegt, unterrichtet das Bundesamt die Bundesanstalt für Finanzdienstleistungsaufsicht über diesen Umstand sowie über den Ausgang des Beschwerdeverfahrens.
+(1d) Das Bundesamt unterrichtet die Bundesanstalt für Finanzdienstleistungsaufsicht unverzüglich über jedes Ordnungsgeld, das gemäß Absatz 1 gegen eine Kapitalgesellschaft im Sinne des § 264d oder gegen ein Mitglied ihrer Vertretungsorgane festgesetzt wird. Wird gegen eine solche Ordnungsgeldfestsetzung Beschwerde eingelegt, unterrichtet das Bundesamt die Bundesanstalt für Finanzdienstleistungsaufsicht über diesen Umstand sowie über den Ausgang des Beschwerdeverfahrens. Für die Unterrichtung der Bundesanstalt nach Satz 1 gilt § 24b Absatz 2 des Wertpapierhandelsgesetzes entsprechend.
 
 (2) Auf das Verfahren sind die §§ 15 bis 19 Absatz 1 und 3, § 40 Abs. 1, § 388 Abs. 1, § 389 Abs. 3, § 390 Abs. 2 bis 6 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie im Übrigen § 11 Nr. 1 und 2, § 12 Abs. 1 Nr. 1 bis 3, Abs. 2 und 3, §§ 14, 15, 20 Abs. 1 und 3, § 21 Abs. 1, §§ 23 und 26 des Verwaltungsverfahrensgesetzes nach Maßgabe der nachfolgenden Absätze entsprechend anzuwenden. Das Ordnungsgeldverfahren ist ein Justizverwaltungsverfahren. Zur Vertretung der Beteiligten sind auch befugt
 
@@ -3896,7 +3912,7 @@ c) bestimmen, dass eine Identifikation des Formularverwenders abweichend von Abs
 
 Das Bundesministerium der Justiz kann die Ermächtigungen des Satzes 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt für Justiz übertragen.
 
-##### § 335a Beschwerde gegen die Festsetzung von Ordnungsgeld; Rechtsbeschwerde; Verordnungsermächtigung
+###### § 335a Beschwerde gegen die Festsetzung von Ordnungsgeld; Rechtsbeschwerde; Verordnungsermächtigung
 
 (1) Gegen die Entscheidung, durch die das Ordnungsgeld festgesetzt oder der Einspruch oder der Antrag auf Wiedereinsetzung in den vorigen Stand verworfen wird, sowie gegen die Entscheidung nach § 335 Absatz 3 Satz 5 findet die Beschwerde nach den Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit statt, soweit sich aus Satz 2 oder den nachstehenden Absätzen nichts anderes ergibt. Die Beschwerde hat aufschiebende Wirkung, wenn sie die Festsetzung eines Ordnungsgeldes zum Gegenstand hat.
 
@@ -3912,11 +3928,11 @@ Das Bundesministerium der Justiz kann die Ermächtigungen des Satzes 1 durch Rec
 
 ## Dritter Titel Gemeinsame Vorschriften für Straf-, Bußgeld- und Ordnungsgeldverfahren
 
-##### § 335b Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf bestimmte offene Handelsgesellschaften und Kommanditgesellschaften
+###### § 335b Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf bestimmte offene Handelsgesellschaften und Kommanditgesellschaften
 
 Die Strafvorschriften der §§ 331 bis 333a, die Bußgeldvorschrift des § 334 sowie die Ordnungsgeldvorschrift des § 335 gelten auch für offene Handelsgesellschaften und Kommanditgesellschaften im Sinn des § 264a Abs. 1. Das Verfahren nach § 335 ist in diesem Fall gegen die persönlich haftenden Gesellschafter oder gegen die Mitglieder der vertretungsberechtigten Organe der persönlich haftenden Gesellschafter zu richten. Es kann auch gegen die offene Handelsgesellschaft oder gegen die Kommanditgesellschaft gerichtet werden. § 335a ist entsprechend anzuwenden.
 
-##### § 335c Mitteilungen an die Abschlussprüferaufsichtsstelle
+###### § 335c Mitteilungen an die Abschlussprüferaufsichtsstelle
 
 (1) Das Bundesamt für Justiz übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 334 Absatz 2a.
 
@@ -3925,7 +3941,7 @@ Die Strafvorschriften der §§ 331 bis 333a, die Bußgeldvorschrift des § 334 s
 ## Dritter Abschnitt Ergänzende Vorschriften
 für eingetragene Genossenschaften
 
-##### § 336 Pflicht zur Aufstellung von Jahresabschluß und Lagebericht
+###### § 336 Pflicht zur Aufstellung von Jahresabschluß und Lagebericht
 
 (1) Der Vorstand einer Genossenschaft hat den Jahresabschluß (§ 242) um einen Anhang zu erweitern, der mit der Bilanz und der Gewinn- und Verlustrechnung eine Einheit bildet, sowie einen Lagebericht aufzustellen. Der Jahresabschluß und der Lagebericht sind in den ersten fünf Monaten des Geschäftsjahrs für das vergangene Geschäftsjahr aufzustellen. Ist die Genossenschaft kapitalmarktorientiert im Sinne des § 264d und begibt sie nicht ausschließlich die von § 327a erfassten Schuldtitel, beträgt die Frist nach Satz 2 vier Monate.
 
@@ -3941,7 +3957,7 @@ Sonstige Vorschriften, die durch den Geschäftszweig bedingt sind, bleiben unber
 
 (3) § 330 Abs. 1 über den Erlaß von Rechtsverordnungen ist entsprechend anzuwenden.
 
-##### § 337 Vorschriften zur Bilanz
+###### § 337 Vorschriften zur Bilanz
 
 (1) An Stelle des gezeichneten Kapitals ist der Betrag der Geschäftsguthaben der Mitglieder auszuweisen. Dabei ist der Betrag der Geschäftsguthaben der mit Ablauf des Geschäftsjahrs ausgeschiedenen Mitglieder gesondert anzugeben. Werden rückständige fällige Einzahlungen auf Geschäftsanteile in der Bilanz als Geschäftsguthaben ausgewiesen, so ist der entsprechende Betrag auf der Aktivseite unter der Bezeichnung "Rückständige fällige Einzahlungen auf Geschäftsanteile" einzustellen. Werden rückständige fällige Einzahlungen nicht als Geschäftsguthaben ausgewiesen, so ist der Betrag bei dem Posten "Geschäftsguthaben" zu vermerken. In beiden Fällen ist der Betrag mit dem Nennwert anzusetzen. Ein in der Satzung bestimmtes Mindestkapital ist gesondert anzugeben.
 
@@ -3964,7 +3980,7 @@ Davon:
 Geschäftsguthaben der Mitglieder
 gesetzliche Rücklage.
 
-##### § 338 Vorschriften zum Anhang
+###### § 338 Vorschriften zum Anhang
 
 (1) Im Anhang sind auch Angaben zu machen über die Zahl der im Laufe des Geschäftsjahrs eingetretenen oder ausgeschiedenen sowie die Zahl der am Schluß des Geschäftsjahrs der Genossenschaft angehörenden Mitglieder. Ferner sind der Gesamtbetrag, um welchen in diesem Jahr die Geschäftsguthaben sowie die Haftsummen der Mitglieder sich vermehrt oder vermindert haben, und der Betrag der Haftsummen anzugeben, für welche am Jahresschluß alle Mitglieder zusammen aufzukommen haben.
 
@@ -3982,7 +3998,7 @@ gesetzliche Rücklage.
 
 2. die in den Absätzen 1, 2 Nummer 1 und Absatz 3 genannten Angaben.
 
-##### § 339 Offenlegung
+###### § 339 Offenlegung
 
 (1) Der Vorstand hat unverzüglich nach der Generalversammlung über den Jahresabschluß, jedoch spätestens vor Ablauf des zwölften Monats des dem Abschlussstichtag nachfolgenden Geschäftsjahrs, den festgestellten Jahresabschluß, den Lagebericht, die Erklärungen nach § 264 Absatz 2 Satz 3 und § 289 Absatz 1 Satz 5 und den Bericht des Aufsichtsrats in deutscher Sprache der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister zu übermitteln. Ist die Erteilung eines Bestätigungsvermerks nach § 58 Abs. 2 des Genossenschaftsgesetzes oder nach Artikel 10 Absatz 1 der Verordnung (EU) Nr. 537/2014 vorgeschrieben, so ist dieser mit dem Jahresabschluß zu übermitteln; hat der Prüfungsverband die Bestätigung des Jahresabschlusses versagt, so muß dies auf dem übermittelten Jahresabschluß vermerkt und der Vermerk vom Prüfungsverband unterschrieben sein. Ist die Prüfung des Jahresabschlusses im Zeitpunkt der Übermittlung der Unterlagen nach Satz 1 nicht abgeschlossen, so ist der Bestätigungsvermerk oder der Vermerk über seine Versagung unverzüglich nach Abschluß der Prüfung zu übermitteln. Wird der Jahresabschluß oder der Lagebericht nach der Übermittlung geändert, so ist auch die geänderte Fassung zu übermitteln.
 
@@ -3996,7 +4012,7 @@ gesetzliche Rücklage.
 
 ## Erster Titel Anwendungsbereich
 
-##### § 340
+###### § 340
 
 (1) Dieser Unterabschnitt ist auf Kreditinstitute im Sinne des § 1 Abs. 1 des Gesetzes über das Kreditwesen anzuwenden, soweit sie nach dessen § 2 Abs. 1, 4 oder 5 von der Anwendung nicht ausgenommen sind, sowie auf Zweigniederlassungen von Unternehmen mit Sitz in einem Staat, der nicht Mitglied der Europäischen Gemeinschaft und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, sofern die Zweigniederlassung nach § 53 Abs. 1 des Gesetzes über das Kreditwesen als Kreditinstitut gilt. § 340l Abs. 2 und 3 ist außerdem auf Zweigniederlassungen im Sinne des § 53b Abs. 1 Satz 1 und Abs. 7 des Gesetzes über das Kreditwesen, auch in Verbindung mit einer Rechtsverordnung nach § 53c Nr. 1 dieses Gesetzes, anzuwenden, sofern diese Zweigniederlassungen Bankgeschäfte im Sinne des § 1 Abs. 1 Satz 2 Nr. 1 bis 5 und 7 bis 12 dieses Gesetzes betreiben. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform oder für Zweigniederlassungen bestehen, bleiben unberührt.
 
@@ -4013,7 +4029,7 @@ gesetzliche Rücklage.
 ## Zweiter Titel Jahresabschluß, Lagebericht,
 Zwischenabschluß
 
-##### § 340a Anzuwendende Vorschriften
+###### § 340a Anzuwendende Vorschriften
 
 (1) Kreditinstitute, auch wenn sie nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden, haben auf ihren Jahresabschluß die für große Kapitalgesellschaften geltenden Vorschriften des Ersten Unterabschnitts des Zweiten Abschnitts anzuwenden, soweit in den Vorschriften dieses Unterabschnitts nichts anderes bestimmt ist. Kreditinstitute haben außerdem einen Lagebericht nach den für große Kapitalgesellschaften geltenden Bestimmungen aufzustellen.
 
@@ -4031,7 +4047,7 @@ Zwischenabschluß
 
 2. alle Beteiligungen an großen Kapitalgesellschaften, die fünf vom Hundert der Stimmrechte überschreiten.
 
-##### § 340b Pensionsgeschäfte
+###### § 340b Pensionsgeschäfte
 
 (1) Pensionsgeschäfte sind Verträge, durch die ein Kreditinstitut oder der Kunde eines Kreditinstituts (Pensionsgeber) ihm gehörende Vermögensgegenstände einem anderen Kreditinstitut oder einem seiner Kunden (Pensionsnehmer) gegen Zahlung eines Betrags überträgt und in denen gleichzeitig vereinbart wird, daß die Vermögensgegenstände später gegen Entrichtung des empfangenen oder eines im voraus vereinbarten anderen Betrags an den Pensionsgeber zurückübertragen werden müssen oder können.
 
@@ -4045,7 +4061,7 @@ Zwischenabschluß
 
 (6) Devisentermingeschäfte, Finanztermingeschäfte und ähnliche Geschäfte sowie die Ausgabe eigener Schuldverschreibungen auf abgekürzte Zeit gelten nicht als Pensionsgeschäfte im Sinne dieser Vorschrift.
 
-##### § 340c Vorschriften zur Gewinn- und Verlustrechnung und zum Anhang
+###### § 340c Vorschriften zur Gewinn- und Verlustrechnung und zum Anhang
 
 (1) Als Ertrag oder Aufwand des Handelsbestands ist der Unterschiedsbetrag aller Erträge und Aufwendungen aus Geschäften mit Finanzinstrumenten des Handelsbestands und dem Handel mit Edelmetallen sowie der zugehörigen Erträge aus Zuschreibungen und Aufwendungen aus Abschreibungen auszuweisen. In die Verrechnung sind außerdem die Aufwendungen für die Bildung von Rückstellungen für drohende Verluste aus den in Satz 1 bezeichneten Geschäften und die Erträge aus der Auflösung dieser Rückstellungen einzubeziehen.
 
@@ -4053,13 +4069,13 @@ Zwischenabschluß
 
 (3) Kreditinstitute, die dem haftenden Eigenkapital nicht realisierte Reserven nach § 10 Abs. 2b Satz 1 Nr. 6 oder 7 des Gesetzes über das Kreditwesen in der bis zum 31. Dezember 2013 geltenden Fassung zurechnen, haben den Betrag, mit dem diese Reserven dem haftenden Eigenkapital zugerechnet werden, im Anhang zur Bilanz und zur Gewinn- und Verlustrechnung anzugeben.
 
-##### § 340d Fristengliederung
+###### § 340d Fristengliederung
 
 Die Forderungen und Verbindlichkeiten sind im Anhang nach der Fristigkeit zu gliedern. Für die Gliederung nach der Fristigkeit ist die Restlaufzeit am Bilanzstichtag maßgebend.
 
 ## Dritter Titel Bewertungsvorschriften
 
-##### § 340e Bewertung von Vermögensgegenständen
+###### § 340e Bewertung von Vermögensgegenständen
 
 (1) Kreditinstitute haben Beteiligungen einschließlich der Anteile an verbundenen Unternehmen, Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten, Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken, technische Anlagen und Maschinen, andere Anlagen, Betriebs- und Geschäftsausstattung sowie Anlagen im Bau nach den für das Anlagevermögen geltenden Vorschriften zu bewerten, es sei denn, daß sie nicht dazu bestimmt sind, dauernd dem Geschäftsbetrieb zu dienen; in diesem Falle sind sie nach Satz 2 zu bewerten. Andere Vermögensgegenstände, insbesondere Forderungen und Wertpapiere, sind nach den für das Umlaufvermögen geltenden Vorschriften zu bewerten, es sei denn, daß sie dazu bestimmt werden, dauernd dem Geschäftsbetrieb zu dienen; in diesem Falle sind sie nach Satz 1 zu bewerten. § 253 Absatz 3 Satz 6 ist nur auf Beteiligungen und Anteile an verbundenen Unternehmen im Sinn des Satzes 1 sowie Wertpapiere und Forderungen im Sinn des Satzes 2, die dauernd dem Geschäftsbetrieb zu dienen bestimmt sind, anzuwenden.
 
@@ -4079,7 +4095,7 @@ Die Forderungen und Verbindlichkeiten sind im Anhang nach der Fristigkeit zu gli
 
 Auflösungen, die nach Satz 2 erfolgen, sind im Anhang anzugeben und zu erläutern.
 
-##### § 340f Vorsorge für allgemeine Bankrisiken
+###### § 340f Vorsorge für allgemeine Bankrisiken
 
 (1) Kreditinstitute dürfen Forderungen an Kreditinstitute und Kunden, Schuldverschreibungen und andere festverzinsliche Wertpapiere sowie Aktien und andere nicht festverzinsliche Wertpapiere, die weder wie Anlagevermögen behandelt werden noch Teil des Handelsbestands sind, mit einem niedrigeren als dem nach § 253 Abs. 1 Satz 1, Abs. 4 vorgeschriebenen oder zugelassenen Wert ansetzen, soweit dies nach vernünftiger kaufmännischer Beurteilung zur Sicherung gegen die besonderen Risiken des Geschäftszweigs der Kreditinstitute notwendig ist. Der Betrag der auf diese Weise gebildeten Vorsorgereserven darf vier vom Hundert des Gesamtbetrags der in Satz 1 bezeichneten Vermögensgegenstände, der sich bei deren Bewertung nach § 253 Abs. 1 Satz 1, Abs. 4 ergibt, nicht übersteigen. Ein niedrigerer Wertansatz darf beibehalten werden.
 
@@ -4089,7 +4105,7 @@ Auflösungen, die nach Satz 2 erfolgen, sind im Anhang anzugeben und zu erläute
 
 (4) Angaben über die Bildung und Auflösung von Vorsorgereserven nach Absatz 1 sowie über vorgenommene Verrechnungen nach Absatz 3 brauchen im Jahresabschluß, Lagebericht, Konzernabschluß und Konzernlagebericht nicht gemacht zu werden.
 
-##### § 340g Sonderposten für allgemeine Bankrisiken
+###### § 340g Sonderposten für allgemeine Bankrisiken
 
 (1) Kreditinstitute dürfen auf der Passivseite ihrer Bilanz zur Sicherung gegen allgemeine Bankrisiken einen Sonderposten "Fonds für allgemeine Bankrisiken" bilden, soweit dies nach vernünftiger kaufmännischer Beurteilung wegen der besonderen Risiken des Geschäftszweigs der Kreditinstitute notwendig ist.
 
@@ -4097,14 +4113,14 @@ Auflösungen, die nach Satz 2 erfolgen, sind im Anhang anzugeben und zu erläute
 
 ## Vierter Titel Währungsumrechnung
 
-##### § 340h Währungsumrechnung
+###### § 340h Währungsumrechnung
 
 § 256a gilt mit der Maßgabe, dass Erträge, die sich aus der Währungsumrechnung ergeben, in der Gewinn- und Verlustrechnung zu berücksichtigen sind, soweit die Vermögensgegenstände, Schulden oder Termingeschäfte durch Vermögensgegenstände, Schulden oder andere Termingeschäfte in derselben Währung besonders gedeckt sind.
 
 ## Fünfter Titel Konzernabschluß, Konzernlagebericht,
 Konzernzwischenabschluß
 
-##### § 340i Pflicht zur Aufstellung
+###### § 340i Pflicht zur Aufstellung
 
 (1) Kreditinstitute, auch wenn sie nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden, haben unabhängig von ihrer Größe einen Konzernabschluß und einen Konzernlagebericht nach den Vorschriften des Zweiten Unterabschnitts des Zweiten Abschnitts über den Konzernabschluß und Konzernlagebericht aufzustellen, soweit in den Vorschriften dieses Unterabschnitts nichts anderes bestimmt ist. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform bestehen, bleiben unberührt.
 
@@ -4124,13 +4140,13 @@ Konzernzwischenabschluß
 
 (6) Ein Kreditinstitut, das nach Absatz 1 in Verbindung mit § 315d eine Konzernerklärung zur Unternehmensführung zu erstellen hat, hat darin Angaben nach § 315d in Verbindung mit § 289f Absatz 2 Nummer 6 aufzunehmen, wenn die in den Konzernabschluss einzubeziehenden Unternehmen die in § 293 Absatz 1 Satz 1 Nummer 1 oder 2 geregelten Voraussetzungen für eine Befreiung nicht erfüllen.
 
-##### § 340j Einzubeziehende Unternehmen
+###### § 340j Einzubeziehende Unternehmen
 
 Bezieht ein Kreditinstitut ein Tochterunternehmen, das Kreditinstitut ist, nach § 296 Abs. 1 Nr. 3 in seinen Konzernabschluß nicht ein und ist der vorübergehende Besitz von Aktien oder Anteilen dieses Unternehmens auf eine finanzielle Stützungsaktion zur Sanierung oder Rettung des genannten Unternehmens zurückzuführen, so hat es den Jahresabschluß dieses Unternehmens seinem Konzernabschluß beizufügen und im Konzernanhang zusätzliche Angaben über die Art und die Bedingungen der finanziellen Stützungsaktion zu machen.
 
 ## Sechster Titel Prüfung
 
-##### § 340k
+###### § 340k
 
 (1) Kreditinstitute haben unabhängig von ihrer Größe ihren Jahresabschluß und Lagebericht sowie ihren Konzernabschluß und Konzernlagebericht unbeschadet der Vorschriften der §§ 28 und 29 des Gesetzes über das Kreditwesen nach den Vorschriften des Dritten Unterabschnitts des Zweiten Abschnitts über die Prüfung prüfen zu lassen; § 319 Absatz 1 Satz 2 ist nicht anzuwenden. Die Prüfung ist spätestens vor Ablauf des fünften Monats des dem Abschlußstichtag nachfolgenden Geschäftsjahrs vorzunehmen. Der Jahresabschluß ist nach der Prüfung unverzüglich festzustellen. Die Vorschriften des Dritten Unterabschnitts des Zweiten Abschnitts sind auf Kreditinstitute, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 sind, nur insoweit anzuwenden, als nicht die Verordnung (EU) Nr. 537/2014 anzuwenden ist.
 
@@ -4146,7 +4162,7 @@ Bezieht ein Kreditinstitut ein Tochterunternehmen, das Kreditinstitut ist, nach 
 
 ## Siebenter Titel Offenlegung
 
-##### § 340l
+###### § 340l
 
 (1) Kreditinstitute haben den Jahresabschluß und den Lagebericht sowie den Konzernabschluß und den Konzernlagebericht und die anderen in § 325 bezeichneten Unterlagen, sofern sie zu erstellen sind, in deutscher Sprache nach § 325 Absatz 1 Satz 2 und Absatz 1a bis 5 sowie den §§ 327a und 328 offenzulegen; § 329 Absatz 1, 2 und 4 ist entsprechend anzuwenden. Kreditinstitute, die nicht Zweigniederlassungen sind, haben die in Satz 1 bezeichneten Unterlagen außerdem in jedem anderen Mitgliedstaat der Europäischen Gemeinschaft und in jedem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum offenzulegen, in dem sie eine Zweigniederlassung errichtet haben. Die Offenlegung nach Satz 2 richtet sich nach dem Recht des jeweiligen Mitgliedstaats oder Vertragsstaats.
 
@@ -4182,7 +4198,7 @@ Zweigniederlassungen im Geltungsbereich dieses Gesetzes von Unternehmen mit Sitz
 
 ## Achter Titel Straf- und Bußgeldvorschriften, Ordnungsgelder
 
-##### § 340m Strafvorschriften
+###### § 340m Strafvorschriften
 
 (1) Die Strafvorschriften der §§ 331 bis 333 sind auch auf nicht in der Rechtsform einer Kapitalgesellschaft betriebene Kreditinstitute, auf Finanzdienstleistungsinstitute im Sinne des § 340 Absatz 4, auf Wertpapierinstitute im Sinne des § 340 Absatz 4a Satz 1 sowie auf Institute im Sinne des § 340 Absatz 5 anzuwenden. § 331 ist darüber hinaus auch anzuwenden auf die Verletzung von Pflichten durch
 
@@ -4204,7 +4220,7 @@ Zweigniederlassungen im Geltungsbereich dieses Gesetzes von Unternehmen mit Sitz
 
 (3) § 335c Absatz 2 gilt in den Fällen des Absatzes 1 Satz 1 in Verbindung mit § 332 oder § 333 und des Absatzes 2 entsprechend.
 
-##### § 340n Bußgeldvorschriften
+###### § 340n Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Geschäftsleiter im Sinne des § 1 Absatz 2 oder des § 53 Absatz 2 Nummer 1 des Kreditwesengesetzes eines Kreditinstituts oder Finanzdienstleistungsinstituts im Sinne des § 340 Absatz 4 Satz 1 oder als Geschäftsleiter im Sinne des § 2 Absatz 36 des Wertpapierinstitutsgesetzes eines Wertpapierinstituts im Sinne des § 340 Absatz 4a Satz 1 oder als Geschäftsleiter im Sinne des § 1 Absatz 8 Satz 1 und 2 des Zahlungsdiensteaufsichtsgesetzes eines Instituts im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes oder als Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Finanzdienstleistungsinstituts im Sinne des § 340 Absatz 4 Satz 1 oder Wertpapierinstituts im Sinne des § 340 Absatz 4a Satz 1 oder als Mitglied des Aufsichtsrats eines der vorgenannten Unternehmen
 
@@ -4296,7 +4312,7 @@ Handelt es sich bei dem Kreditinstitut um ein Mutterunternehmen oder um ein Toch
 
 (5) Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach Absatz 2a.
 
-##### § 340o Festsetzung von Ordnungsgeld
+###### § 340o Festsetzung von Ordnungsgeld
 
 (1) Personen, die
 
@@ -4317,7 +4333,7 @@ für Versicherungsunternehmen und Pensionsfonds
 
 ## Erster Titel Anwendungsbereich
 
-##### § 341
+###### § 341
 
 (1) Dieser Unterabschnitt ist, soweit nichts anderes bestimmt ist, auf Unternehmen, die den Betrieb von Versicherungsgeschäften zum Gegenstand haben und nicht Träger der Sozialversicherung sind (Versicherungsunternehmen), anzuwenden. Dies gilt nicht für solche Versicherungsunternehmen, die auf Grund von Gesetz, Tarifvertrag oder Satzung ausschließlich für ihre Mitglieder oder die durch Gesetz oder Satzung begünstigten Personen Leistungen erbringen oder als nicht rechtsfähige Einrichtungen ihre Aufwendungen im Umlageverfahren decken, es sei denn, sie sind Aktiengesellschaften, Versicherungsvereine auf Gegenseitigkeit oder rechtsfähige kommunale Schadenversicherungsunternehmen.
 
@@ -4329,7 +4345,7 @@ für Versicherungsunternehmen und Pensionsfonds
 
 ## Zweiter Titel Jahresabschluß, Lagebericht
 
-##### § 341a Anzuwendende Vorschriften
+###### § 341a Anzuwendende Vorschriften
 
 (1) Versicherungsunternehmen haben einen Jahresabschluß und einen Lagebericht nach den für große Kapitalgesellschaften geltenden Vorschriften des Ersten Unterabschnitts des Zweiten Abschnitts in den ersten vier Monaten des Geschäftsjahres für das vergangene Geschäftsjahr aufzustellen und dem Abschlußprüfer zur Durchführung der Prüfung vorzulegen; die Frist des § 264 Abs. 1 Satz 3 gilt nicht. Ist das Versicherungsunternehmen eine Kapitalgesellschaft im Sinn des § 325 Abs. 4 Satz 1 und nicht zugleich im Sinn des § 327a, beträgt die Frist nach Satz 1 vier Monate.
 
@@ -4347,7 +4363,7 @@ für Versicherungsunternehmen und Pensionsfonds
 
 ## Dritter Titel Bewertungsvorschriften
 
-##### § 341b Bewertung von Vermögensgegenständen
+###### § 341b Bewertung von Vermögensgegenständen
 
 (1) Versicherungsunternehmen haben immaterielle Vermögensgegenstände, soweit sie entgeltlich erworben wurden, Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken, technische Anlagen und Maschinen, andere Anlagen, Betriebs- und Geschäftsausstattung, Anlagen im Bau und Vorräte nach den für das Anlagevermögen geltenden Vorschriften zu bewerten. Satz 1 ist vorbehaltlich Absatz 2 und § 341c auch auf Kapitalanlagen anzuwenden, soweit es sich hierbei um Beteiligungen, Anteile an verbundenen Unternehmen, Ausleihungen an verbundene Unternehmen oder an Unternehmen, mit denen ein Beteiligungsverhältnis besteht, Namensschuldverschreibungen, Hypothekendarlehen und andere Forderungen und Rechte, sonstige Ausleihungen und Depotforderungen aus dem in Rückdeckung übernommenen Versicherungsgeschäft handelt. § 253 Absatz 3 Satz 6 ist nur auf die in Satz 2 bezeichneten Vermögensgegenstände anzuwenden.
 
@@ -4357,7 +4373,7 @@ für Versicherungsunternehmen und Pensionsfonds
 
 (4) Verträge, die von Pensionsfonds bei Lebensversicherungsunternehmen zur Deckung von Verpflichtungen gegenüber Versorgungsberechtigten eingegangen werden, sind mit dem Zeitwert unter Berücksichtigung des Grundsatzes der Vorsicht zu bewerten; die Absätze 1 bis 3 sind insoweit nicht anzuwenden.
 
-##### § 341c Namensschuldverschreibungen, Hypothekendarlehen und andere Forderungen
+###### § 341c Namensschuldverschreibungen, Hypothekendarlehen und andere Forderungen
 
 (1) Abweichend von § 253 Abs. 1 Satz 1 dürfen Namensschuldverschreibungen mit ihrem Nennbetrag angesetzt werden.
 
@@ -4365,14 +4381,14 @@ für Versicherungsunternehmen und Pensionsfonds
 
 (3) Bei Hypothekendarlehen und anderen Forderungen dürfen die Anschaffungskosten zuzüglich oder abzüglich der kumulierten Amortisation einer Differenz zwischen den Anschaffungskosten und dem Rückzahlungsbetrag unter Anwendung der Effektivzinsmethode angesetzt werden.
 
-##### § 341d Anlagestock der fondsgebundenen Lebensversicherung
+###### § 341d Anlagestock der fondsgebundenen Lebensversicherung
 
 Kapitalanlagen für Rechnung und Risiko von Inhabern von Lebensversicherungsverträgen, bei denen das Anlagerisiko vom Versicherungsnehmer getragen wird, sind mit dem Zeitwert unter Berücksichtigung des Grundsatzes der Vorsicht zu bewerten; die §§ 341b, 341c sind nicht anzuwenden.
 
 ## Vierter Titel Versicherungstechnische
 Rückstellungen
 
-##### § 341e Allgemeine Bilanzierungsgrundsätze
+###### § 341e Allgemeine Bilanzierungsgrundsätze
 
 (1) Versicherungsunternehmen haben versicherungstechnische Rückstellungen auch insoweit zu bilden, wie dies nach vernünftiger kaufmännischer Beurteilung notwendig ist, um die dauernde Erfüllbarkeit der Verpflichtungen aus den Versicherungsverträgen sicherzustellen. Dabei sind mit Ausnahme der Vorschriften der §§ 74 bis 87 des Versicherungsaufsichtsgesetzes die im Interesse der Versicherten erlassenen aufsichtsrechtlichen Vorschriften über die bei der Berechnung der Rückstellungen zu verwendenden Rechnungsgrundlagen einschließlich des dafür anzusetzenden Rechnungszinsfußes und über die Zuweisung bestimmter Kapitalerträge zu den Rückstellungen zu berücksichtigen. Die Rückstellungen sind nach den Wertverhältnissen am Abschlussstichtag zu bewerten und nicht nach § 253 Abs. 2 abzuzinsen.
 
@@ -4386,7 +4402,7 @@ Rückstellungen
 
 (3) Soweit eine Bewertung nach § 252 Abs. 1 Nr. 3 oder § 240 Abs. 4 nicht möglich ist oder der damit verbundene Aufwand unverhältnismäßig wäre, können die Rückstellungen auf Grund von Näherungsverfahren geschätzt werden, wenn anzunehmen ist, daß diese zu annähernd gleichen Ergebnissen wie Einzelberechnungen führen.
 
-##### § 341f Deckungsrückstellung
+###### § 341f Deckungsrückstellung
 
 (1) Deckungsrückstellungen sind für die Verpflichtungen aus dem Lebensversicherungs- und dem nach Art der Lebensversicherung betriebenen Versicherungsgeschäft in Höhe ihres versicherungsmathematisch errechneten Wertes einschließlich bereits zugeteilter Überschußanteile mit Ausnahme der verzinslich angesammelten Überschußanteile und nach Abzug des versicherungsmathematisch ermittelten Barwerts der künftigen Beiträge zu bilden (prospektive Methode). Ist eine Ermittlung des Wertes der künftigen Verpflichtungen und der künftigen Beiträge nicht möglich, hat die Berechnung auf Grund der aufgezinsten Einnahmen und Ausgaben der vorangegangenen Geschäftsjahre zu erfolgen (retrospektive Methode).
 
@@ -4394,7 +4410,7 @@ Rückstellungen
 
 (3) In der Krankenversicherung, die nach Art der Lebensversicherung betrieben wird, ist als Deckungsrückstellung eine Alterungsrückstellung zu bilden; hierunter fallen auch der Rückstellung bereits zugeführte Beträge aus der Rückstellung für Beitragsrückerstattung sowie Zuschreibungen, die dem Aufbau einer Anwartschaft auf Beitragsermäßigung im Alter dienen. Bei der Berechnung sind die für die Berechnung der Prämien geltenden aufsichtsrechtlichen Bestimmungen zu berücksichtigen.
 
-##### § 341g Rückstellung für noch nicht abgewickelte Versicherungsfälle
+###### § 341g Rückstellung für noch nicht abgewickelte Versicherungsfälle
 
 (1) Rückstellungen für noch nicht abgewickelte Versicherungsfälle sind für die Verpflichtungen aus den bis zum Ende des Geschäftsjahres eingetretenen, aber noch nicht abgewickelten Versicherungsfällen zu bilden. Hierbei sind die gesamten Schadenregulierungsaufwendungen zu berücksichtigen.
 
@@ -4406,7 +4422,7 @@ Rückstellungen
 
 (5) Sind die Versicherungsleistungen auf Grund rechtskräftigen Urteils, Vergleichs oder Anerkenntnisses in Form einer Rente zu erbringen, so müssen die Rückstellungsbeträge nach anerkannten versicherungsmathematischen Methoden berechnet werden.
 
-##### § 341h Schwankungsrückstellung und ähnliche Rückstellungen
+###### § 341h Schwankungsrückstellung und ähnliche Rückstellungen
 
 (1) Schwankungsrückstellungen sind zum Ausgleich der Schwankungen im Schadenverlauf künftiger Jahre zu bilden, wenn insbesondere
 
@@ -4420,7 +4436,7 @@ Rückstellungen
 
 ## Fünfter Titel Konzernabschluß, Konzernlagebericht
 
-##### § 341i Aufstellung, Fristen
+###### § 341i Aufstellung, Fristen
 
 (1) Versicherungsunternehmen, auch wenn sie nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden, haben unabhängig von ihrer Größe einen Konzernabschluß und einen Konzernlagebericht aufzustellen. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform bestehen, bleiben unberührt.
 
@@ -4430,7 +4446,7 @@ Rückstellungen
 
 (4) Der Konzernabschluß und der Konzernlagebericht sind abweichend von § 175 Abs. 1 Satz 1 des Aktiengesetzes spätestens der nächsten nach Ablauf der Aufstellungsfrist für den Konzernabschluß und Konzernlagebericht einzuberufenden Hauptversammlung, die einen Jahresabschluß des Mutterunternehmens entgegennimmt oder festzustellen hat, vorzulegen.
 
-##### § 341j Anzuwendende Vorschriften
+###### § 341j Anzuwendende Vorschriften
 
 (1) Auf den Konzernabschluß und den Konzernlagebericht sind die Vorschriften des Zweiten Unterabschnitts des Zweiten Abschnitts über den Konzernabschluß und den Konzernlagebericht und, soweit die Eigenart des Konzernabschlusses keine Abweichungen bedingt, die §§ 341a bis 341h über den Jahresabschluß sowie die für die Rechtsform und den Geschäftszweig der in den Konzernabschluß einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften entsprechend anzuwenden, soweit sie für große Kapitalgesellschaften gelten. Die §§ 293, 298 Absatz 1 sowie § 314 Absatz 1 Nummer 3 und 23 sind nicht anzuwenden. § 314 Abs. 1 Nr. 2a gilt mit der Maßgabe, daß die Angaben für solche finanzielle Verpflichtungen nicht zu machen sind, die im Rahmen des Versicherungsgeschäfts entstehen. In den Fällen des § 315e Abs. 1 finden abweichend von Satz 1 nur die §§ 290 bis 292, 315e Anwendung; die Sätze 2 und 3 dieses Absatzes und Absatz 2, § 341i Abs. 3 Satz 2 sowie die Bestimmungen der Versicherungsunternehmens-Rechnungslegungsverordnung vom 8. November 1994 (BGBl. I S. 3378) und der Pensionsfonds-Rechnungslegungsverordnung vom 25. Februar 2003 (BGBl. I S. 246) in ihren jeweils geltenden Fassungen sind nicht anzuwenden.
 
@@ -4450,7 +4466,7 @@ Rückstellungen
 
 ## Sechster Titel Prüfung
 
-##### § 341k
+###### § 341k
 
 (1) Versicherungsunternehmen haben unabhängig von ihrer Größe ihren Jahresabschluß und Lagebericht sowie ihren Konzernabschluß und Konzernlagebericht nach den Vorschriften des Dritten Unterabschnitts des Zweiten Abschnitts prüfen zu lassen. § 319 Absatz 1 Satz 2 ist nicht anzuwenden. Hat keine Prüfung stattgefunden, so kann der Jahresabschluß nicht festgestellt werden. Die Vorschriften des Dritten Unterabschnitts des Zweiten Abschnitts sind auf Versicherungsunternehmen, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 3 sind, nur insoweit anzuwenden, als nicht die Verordnung (EU) Nr. 537/2014 anzuwenden ist.
 
@@ -4460,7 +4476,7 @@ Rückstellungen
 
 ## Siebenter Titel Offenlegung
 
-##### § 341l
+###### § 341l
 
 (1) Versicherungsunternehmen haben den Jahresabschluß und den Lagebericht sowie den Konzernabschluß und den Konzernlagebericht und die anderen in § 325 bezeichneten Unterlagen, sofern sie zu erstellen sind, in deutscher Sprache nach § 325 Absatz 1 Satz 2 und Absatz 1a bis 5 sowie den §§ 327a und 328 offenzulegen; § 329 Absatz 1, 2 und 4 ist entsprechend anzuwenden. Von einem in § 341a Absatz 5 Satz 1 genannten Versicherungsunternehmen ist Satz 1 mit der Maßgabe anzuwenden, dass die Frist zur Offenlegung 15 Monate beträgt, es sei denn, das Versicherungsunternehmen ist kapitalmarktorientiert im Sinne des § 264d und begibt nicht ausschließlich die von § 327a erfassten Schuldtitel; in diesem Fall beträgt die Frist zur Offenlegung gemäß Satz 1 in Verbindung mit § 325 Absatz 4 Satz 1 vier Monate.
 
@@ -4476,7 +4492,7 @@ Rückstellungen
 
 ## Achter Titel Straf- und Bußgeldvorschriften, Ordnungsgelder
 
-##### § 341m Strafvorschriften
+###### § 341m Strafvorschriften
 
 (1) Die Strafvorschriften der §§ 331 bis 333 sind auch auf nicht in der Rechtsform einer Kapitalgesellschaft betriebene Versicherungsunternehmen und Pensionsfonds anzuwenden. § 331 ist darüber hinaus auch anzuwenden auf die Verletzung von Pflichten durch den Hauptbevollmächtigten (§ 68 Absatz 2 des Versicherungsaufsichtsgesetzes).
 
@@ -4488,7 +4504,7 @@ Rückstellungen
 
 (3) § 335c Absatz 2 gilt in den Fällen des Absatzes 1 Satz 1 in Verbindung mit § 332 oder § 333 und des Absatzes 2 entsprechend.
 
-##### § 341n Bußgeldvorschriften
+###### § 341n Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Versicherungsunternehmens oder eines Pensionsfonds oder als Hauptbevollmächtigter (§ 68 Absatz 2 des Versicherungsaufsichtsgesetzes)
 
@@ -4576,7 +4592,7 @@ Handelt es sich bei dem Versicherungsunternehmen um ein Mutterunternehmen oder u
 
 (5) Die nach Absatz 4 Satz 1 oder 2 zuständige Verwaltungsbehörde übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach Absatz 2a.
 
-##### § 341o Festsetzung von Ordnungsgeld
+###### § 341o Festsetzung von Ordnungsgeld
 
 (1) Personen, die
 
@@ -4592,7 +4608,7 @@ nicht befolgen, sind hierzu vom Bundesamt für Justiz durch Festsetzung von Ordn
 
 2. in Fällen, die nicht in Nummer 1 genannt sind, der Betrag der Umsatzerlöse, der sich bei Anwendung der Rechnungslegungsgrundsätze ergibt, die nach dem jeweiligen nationalen Recht für die Aufstellung des Jahresabschlusses des Versicherungsunternehmens gelten.
 
-##### § 341p Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf Pensionsfonds
+###### § 341p Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf Pensionsfonds
 
 Die Strafvorschriften des § 341m Absatz 1, die Bußgeldvorschrift des § 341n Absatz 1 und 2 sowie die Ordnungsgeldvorschrift des § 341o gelten auch für Pensionsfonds im Sinn des § 341 Abs. 4 Satz 1.
 
@@ -4600,11 +4616,11 @@ Die Strafvorschriften des § 341m Absatz 1, die Bußgeldvorschrift des § 341n A
 
 ## Erster Titel Anwendungsbereich; Begriffsbestimmungen
 
-##### § 341q Anwendungsbereich
+###### § 341q Anwendungsbereich
 
 Dieser Unterabschnitt gilt für Kapitalgesellschaften mit Sitz im Inland, die in der mineralgewinnenden Industrie tätig sind oder Holzeinschlag in Primärwäldern betreiben, wenn auf sie nach den Vorschriften des Dritten Buchs die für große Kapitalgesellschaften geltenden Vorschriften des Zweiten Abschnitts anzuwenden sind. Satz 1 gilt entsprechend für Personenhandelsgesellschaften im Sinne des § 264a Absatz 1.
 
-##### § 341r Begriffsbestimmungen
+###### § 341r Begriffsbestimmungen
 
 Im Sinne dieses Unterabschnitts sind
 
@@ -4644,7 +4660,7 @@ b) einer Gesamtheit von operativ und geografisch verbundenen Verträgen, Lizenze
 
 ## Zweiter Titel Zahlungsbericht, Konzernzahlungsbericht und Offenlegung
 
-##### § 341s Pflicht zur Erstellung des Zahlungsberichts; Befreiungen
+###### § 341s Pflicht zur Erstellung des Zahlungsberichts; Befreiungen
 
 (1) Kapitalgesellschaften im Sinne des § 341q haben jährlich einen Zahlungsbericht zu erstellen.
 
@@ -4652,7 +4668,7 @@ b) einer Gesamtheit von operativ und geografisch verbundenen Verträgen, Lizenze
 
 (3) Hat die Kapitalgesellschaft einen Bericht im Einklang mit den Rechtsvorschriften eines Drittstaats, dessen Berichtspflichten die Europäische Kommission im Verfahren nach Artikel 47 der Richtlinie 2013/34/EU als gleichwertig bewertet hat, erstellt und diesen Bericht nach § 341w offengelegt, braucht sie den Zahlungsbericht nicht zu erstellen. Auf die Offenlegung dieses Berichts ist § 325a Absatz 1 Satz 5 entsprechend anzuwenden.
 
-##### § 341t Inhalt des Zahlungsberichts
+###### § 341t Inhalt des Zahlungsberichts
 
 (1) In dem Zahlungsbericht hat die Kapitalgesellschaft anzugeben, welche Zahlungen sie im Berichtszeitraum an staatliche Stellen im Zusammenhang mit ihrer Geschäftstätigkeit in der mineralgewinnenden Industrie oder mit dem Betrieb des Holzeinschlags in Primärwäldern geleistet hat. Andere Zahlungen dürfen in den Zahlungsbericht nicht einbezogen werden. Hat eine zur Erstellung eines Zahlungsberichts verpflichtete Kapitalgesellschaft in einem Berichtszeitraum an keine staatliche Stelle berichtspflichtige Zahlungen geleistet, hat sie im Zahlungsbericht für den betreffenden Berichtszeitraum nur anzugeben, dass eine Geschäftstätigkeit in der mineralgewinnenden Industrie ausgeübt oder Holzeinschlag in Primärwäldern betrieben wurde, ohne dass Zahlungen geleistet wurden.
 
@@ -4670,7 +4686,7 @@ b) einer Gesamtheit von operativ und geografisch verbundenen Verträgen, Lizenze
 
 (6) Bei der Angabe von Zahlungen wird auf den Inhalt der betreffenden Zahlung oder Tätigkeit und nicht auf deren Form Bezug genommen. Zahlungen und Tätigkeiten dürfen nicht künstlich mit dem Ziel aufgeteilt oder zusammengefasst werden, die Anwendung dieses Unterabschnitts zu umgehen.
 
-##### § 341u Gliederung des Zahlungsberichts
+###### § 341u Gliederung des Zahlungsberichts
 
 (1) Der Zahlungsbericht ist nach Staaten zu gliedern. Für jeden Staat hat die Kapitalgesellschaft diejenigen staatlichen Stellen zu bezeichnen, an die sie innerhalb des Berichtszeitraums Zahlungen geleistet hat. Die Bezeichnung der staatlichen Stelle muss eine eindeutige Zuordnung ermöglichen. Dazu genügt es in der Regel, die amtliche Bezeichnung der staatlichen Stelle zu verwenden und zusätzlich anzugeben, an welchem Ort und in welcher Region des Staates die Stelle ansässig ist. Die Kapitalgesellschaft braucht die Zahlungen nicht danach aufzugliedern, auf welche Rohstoffe sie sich beziehen.
 
@@ -4690,7 +4706,7 @@ b) einer Gesamtheit von operativ und geografisch verbundenen Verträgen, Lizenze
 
 (4) Angaben nach Absatz 3 sind nicht erforderlich für Zahlungen zur Erfüllung von Verpflichtungen, die der Kapitalgesellschaft ohne Zuordnung zu einem bestimmten Projekt auferlegt werden.
 
-##### § 341v Konzernzahlungsbericht; Befreiung
+###### § 341v Konzernzahlungsbericht; Befreiung
 
 (1) Kapitalgesellschaften im Sinne des § 341q, die Mutterunternehmen (§ 290) sind, haben jährlich einen Konzernzahlungsbericht zu erstellen. Mutterunternehmen sind auch dann in der mineralgewinnenden Industrie tätig oder betreiben Holzeinschlag in Primärwäldern, wenn diese Voraussetzungen nur auf eines ihrer Tochterunternehmen zutreffen.
 
@@ -4706,7 +4722,7 @@ b) einer Gesamtheit von operativ und geografisch verbundenen Verträgen, Lizenze
 
 (5) Auf den Konzernzahlungsbericht sind die §§ 341s bis 341u entsprechend anzuwenden. Im Konzernzahlungsbericht sind konsolidierte Angaben über alle Zahlungen an staatliche Stellen zu machen, die von den einbezogenen Unternehmen im Zusammenhang mit ihrer Tätigkeit in der mineralgewinnenden Industrie oder mit dem Holzeinschlag in Primärwäldern geleistet worden sind. Das Mutterunternehmen braucht die Zahlungen nicht danach aufzugliedern, auf welche Rohstoffe sie sich beziehen.
 
-##### § 341w Offenlegung
+###### § 341w Offenlegung
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft im Sinne des § 341q haben für diese den Zahlungsbericht spätestens ein Jahr nach dem Abschlussstichtag in deutscher Sprache der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister zu übermitteln. Im Falle einer Kapitalgesellschaft im Sinne des § 264d beträgt die Frist abweichend von Satz 1 sechs Monate nach dem Abschlussstichtag.
 
@@ -4716,7 +4732,7 @@ b) einer Gesamtheit von operativ und geografisch verbundenen Verträgen, Lizenze
 
 ## Dritter Titel Bußgeldvorschriften, Ordnungsgelder
 
-##### § 341x Bußgeldvorschriften
+###### § 341x Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Kapitalgesellschaft
 
@@ -4730,7 +4746,7 @@ b) einer Gesamtheit von operativ und geografisch verbundenen Verträgen, Lizenze
 
 (4) Die Bestimmungen der Absätze 1 bis 3 gelten auch für die Mitglieder der gesetzlichen Vertretungsorgane von Personenhandelsgesellschaften im Sinne des § 341q Satz 2.
 
-##### § 341y Ordnungsgeldvorschriften
+###### § 341y Ordnungsgeldvorschriften
 
 (1) Gegen die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft im Sinne des § 341q oder eines Mutterunternehmens im Sinne des § 341v, die § 341w hinsichtlich der Pflicht zur Offenlegung des Zahlungsberichts oder Konzernzahlungsberichts nicht befolgen, hat das Bundesamt für Justiz in entsprechender Anwendung der §§ 335 bis 335b ein Ordnungsgeldverfahren durchzuführen. Das Verfahren kann auch gegen die Kapitalgesellschaft gerichtet werden.
 
@@ -4742,7 +4758,7 @@ b) einer Gesamtheit von operativ und geografisch verbundenen Verträgen, Lizenze
 
 ## Erster Titel Anwendungsbereich; Begriffsbestimmungen
 
-##### § 342 Anwendungsbereich
+###### § 342 Anwendungsbereich
 
 (1) Dieser Unterabschnitt ist anzuwenden auf Kapitalgesellschaften mit Sitz im Inland und auf Personenhandelsgesellschaften im Sinne des § 264a Absatz 1 mit Sitz im Inland, wenn diese Kapitalgesellschaften und Personenhandelsgesellschaften
 
@@ -4766,7 +4782,7 @@ a) deren Umsatzerlöse im Sinne des § 342b Absatz 4 in mindestens zwei aufeinan
 
 b) die ausschließlich dem Zweck dient, die Berichtspflichten nach diesem Unterabschnitt zu umgehen.
 
-##### § 342a Begriffsbestimmungen
+###### § 342a Begriffsbestimmungen
 
 Im Sinne dieses Unterabschnitts sind
 
@@ -4784,7 +4800,7 @@ Im Sinne dieses Unterabschnitts sind
 
 ## Zweiter Titel Pflicht zur Ertragsteuerinformationsberichterstattung
 
-##### § 342b Unverbundene Unternehmen mit Sitz im Inland
+###### § 342b Unverbundene Unternehmen mit Sitz im Inland
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer Gesellschaft im Sinne des § 342 Absatz 1 Nummer 1 haben für diese für das vergangene Geschäftsjahr einen Ertragsteuerinformationsbericht gemäß
 
@@ -4806,7 +4822,7 @@ zu erstellen, wenn die in den Jahresabschlüssen der Gesellschaft ausgewiesenen 
 
 3. in Fällen, die nicht von den Nummern 1 und 2 erfasst werden: der Betrag der Umsatzerlöse nach § 277 Absatz 1.
 
-##### § 342c Oberste Mutterunternehmen mit Sitz im Inland
+###### § 342c Oberste Mutterunternehmen mit Sitz im Inland
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer Gesellschaft im Sinne des § 342 Absatz 1 Nummer 2 haben für diese für das vergangene Geschäftsjahr einen Ertragsteuerinformationsbericht gemäß
 
@@ -4826,7 +4842,7 @@ zu erstellen, wenn die in den Konzernabschlüssen der Gesellschaft ausgewiesenen
 
 2. in Fällen, die nicht von Nummer 1 erfasst werden: der sich bei entsprechender Anwendung des § 342b Absatz 4 ergebende Betrag.
 
-##### § 342d Tochterunternehmen mit Sitz im Inland von obersten Mutterunternehmen mit Sitz in einem Drittstaat
+###### § 342d Tochterunternehmen mit Sitz im Inland von obersten Mutterunternehmen mit Sitz in einem Drittstaat
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer Gesellschaft im Sinne des § 342 Absatz 1 Nummer 3 haben das oberste Mutterunternehmen der Gesellschaft aufzufordern, ihr für das vergangene Geschäftsjahr einen Ertragsteuerinformationsbericht zur Verfügung zu stellen, der gemäß § 342g Nummer 2, den §§ 342h, 342i und 342j Absatz 3 sowie den §§ 342k und 342l erstellt worden ist, wenn die in den Konzernabschlüssen des obersten Mutterunternehmens ausgewiesenen Konzernumsatzerlöse in mindestens zwei aufeinander folgenden Geschäftsjahren jeweils einen Betrag übersteigen, der zum Wechselkurs vom 21. Dezember 2021 bei Rundung auf das nächste Tausend einem Betrag von 750 Millionen Euro entspricht.
 
@@ -4852,7 +4868,7 @@ b) § 342k Absatz 1 und § 342l
 
 (5) Konzernumsatzerlöse nach den Absätzen 1 und 4 sind der Betrag der Konzernumsatzerlöse, der sich bei Anwendung der Rechnungslegungsgrundsätze ergibt, die nach dem jeweiligen nationalen Recht für die Aufstellung des Konzernabschlusses des obersten Mutterunternehmens gelten.
 
-##### § 342e Inländische Zweigniederlassungen unverbundener Unternehmen mit Sitz in einem Drittstaat
+###### § 342e Inländische Zweigniederlassungen unverbundener Unternehmen mit Sitz in einem Drittstaat
 
 (1) Bei Zweigniederlassungen im Sinne des § 342 Absatz 2 Nummer 2 einer Kapitalgesellschaft im Sinne des § 342 Absatz 2 Nummer 1 erste Alternative haben die in § 13e Absatz 2 Satz 5 Nummer 3 genannten angemeldeten Personen oder, wenn solche nicht vorhanden sind, die Mitglieder des vertretungsberechtigten Organs der Kapitalgesellschaft die Hauptniederlassung aufzufordern, ihnen für das vergangene Geschäftsjahr einen Ertragsteuerinformationsbericht zur Verfügung zu stellen, der gemäß § 342g Nummer 1, § 342h Absatz 1 Nummer 1 bis 3 und Absatz 2 bis 5, den §§ 342i und 342j Absatz 2 sowie den §§ 342k und 342l erstellt worden ist, wenn die in den Jahresabschlüssen der Kapitalgesellschaft ausgewiesenen Umsatzerlöse in mindestens zwei aufeinander folgenden Geschäftsjahren jeweils einen Betrag übersteigen, der zum Wechselkurs vom 21. Dezember 2021 bei Rundung auf das nächste Tausend einem Betrag von 750 Millionen Euro entspricht.
 
@@ -4878,7 +4894,7 @@ b) § 342k Absatz 1 und § 342l
 
 (5) Umsatzerlöse nach den Absätzen 1 und 4 sind der Betrag der Umsatzerlöse, der sich bei Anwendung der Rechnungslegungsgrundsätze ergibt, die nach dem jeweiligen nationalen Recht für die Aufstellung des Jahresabschlusses der Kapitalgesellschaft gelten.
 
-##### § 342f Inländische Zweigniederlassungen verbundener Unternehmen mit Sitz in einem Drittstaat
+###### § 342f Inländische Zweigniederlassungen verbundener Unternehmen mit Sitz in einem Drittstaat
 
 (1) Bei Zweigniederlassungen im Sinne des § 342 Absatz 2 Nummer 2 einer Kapitalgesellschaft im Sinne des § 342 Absatz 2 Nummer 1 zweite Alternative haben die in § 13e Absatz 2 Satz 5 Nummer 3 genannten angemeldeten Personen oder, wenn solche nicht vorhanden sind, die Mitglieder des vertretungsberechtigten Organs der Kapitalgesellschaft das oberste Mutterunternehmen aufzufordern, ihnen für das vergangene Geschäftsjahr einen Ertragsteuerinformationsbericht zur Verfügung zu stellen, der gemäß § 342g Nummer 2, den §§ 342h, 342i, 342j Absatz 3 sowie den §§ 342k und 342l erstellt worden ist, wenn
 
@@ -4910,7 +4926,7 @@ b) § 342k Absatz 1 und § 342l
 
 ## Dritter Titel Einzubeziehende Unternehmen; Inhalt und Form des Ertragsteuerinformationsberichts
 
-##### § 342g Einzubeziehende Unternehmen
+###### § 342g Einzubeziehende Unternehmen
 
 In den Ertragsteuerinformationsbericht sind einzubeziehen:
 
@@ -4918,7 +4934,7 @@ In den Ertragsteuerinformationsbericht sind einzubeziehen:
 
 2. in den Fällen der §§ 342c, 342d und 342f das oberste Mutterunternehmen und alle Tochterunternehmen, die in den für den Berichtszeitraum aufgestellten Konzernabschluss des obersten Mutterunternehmens einbezogen sind.
 
-##### § 342h Pflichtangaben
+###### § 342h Pflichtangaben
 
 (1) Im Ertragsteuerinformationsbericht sind anzugeben:
 
@@ -4972,7 +4988,7 @@ b) bei allen anderen Unternehmen diejenigen Erträge, welche sich bei Anwendung 
 
 (5) Im Ertragsteuerinformationsbericht ist anzugeben, ob die nach Absatz 2 erforderlichen Angaben gemäß den Vorgaben des Absatzes 3 oder 4 gemacht wurden.
 
-##### § 342i Länderbezogener Ausweis der Angaben
+###### § 342i Länderbezogener Ausweis der Angaben
 
 (1) Die Angaben nach § 342h Absatz 2 sind wie folgt getrennt auszuweisen:
 
@@ -4986,7 +5002,7 @@ Für andere Steuerhoheitsgebiete sind die Angaben nach § 342h Absatz 2 zusammen
 
 (2) Die Angaben sind demjenigen Steuerhoheitsgebiet zuzuordnen, in dem die Niederlassung oder feste Geschäftseinrichtung belegen ist oder die dauerhafte Geschäftstätigkeit besteht, auf die sich die Angaben jeweils beziehen, vorausgesetzt, die Niederlassung, feste Geschäftseinrichtung oder dauerhafte Geschäftstätigkeit kann im betreffenden Steuerhoheitsgebiet der Ertragsteuer unterliegen. Angaben zu einbehaltenen Gewinnen sind stets dem Steuerhoheitsgebiet zuzuordnen, in dem die Hauptniederlassung belegen ist. Unterliegen mehrere verbundene Unternehmen in einem Steuerhoheitsgebiet der Ertragsteuer, so sind die nach den Sätzen 1 und 2 diesem Steuerhoheitsgebiet jeweils zuzuordnenden Angaben für das Steuerhoheitsgebiet zusammenzufassen. Angaben zu einer Niederlassung, festen Geschäftseinrichtung oder dauerhaften Geschäftstätigkeit dürfen nicht mehr als einem Steuerhoheitsgebiet zugeordnet werden.
 
-##### § 342j Währung
+###### § 342j Währung
 
 (1) Der Ertragsteuerinformationsbericht ist in den Fällen der §§ 342b, 342c und 342d Absatz 2 Nummer 2 in Euro zu erstellen.
 
@@ -4994,13 +5010,13 @@ Für andere Steuerhoheitsgebiete sind die Angaben nach § 342h Absatz 2 zusammen
 
 (3) In den Fällen des § 342d, die nicht von Absatz 1 erfasst sind, und in den Fällen des § 342f ist der Bericht in derjenigen Währung zu erstellen, in der der Konzernabschluss des obersten Mutterunternehmens für den Berichtszeitraum aufgestellt wird.
 
-##### § 342k Weglassen nachteiliger Angaben
+###### § 342k Weglassen nachteiliger Angaben
 
 (1) Angaben nach § 342h Absatz 1 und 2 müssen nicht in den Ertragsteuerinformationsbericht aufgenommen werden, wenn ihre Offenlegung den Unternehmen, auf die sie sich beziehen, einen erheblichen Nachteil zufügen würde. Satz 1 gilt nicht für Angaben, die sich auf die in § 342i Absatz 1 Satz 1 Nummer 2 oder 3 genannten Steuerhoheitsgebiete beziehen.
 
 (2) Wenn Absatz 1 Satz 1 angewendet wird, so ist dies im Ertragsteuerinformationsbericht anzugeben und gebührend zu begründen. Die nicht aufgenommenen Angaben sind spätestens in den Ertragsteuerinformationsbericht aufzunehmen, der für das vierte Geschäftsjahr nach dem Berichtszeitraum erstellt wird.
 
-##### § 342l Formblatt; maschinenlesbares elektronisches Format
+###### § 342l Formblatt; maschinenlesbares elektronisches Format
 
 (1) Der Ertragsteuerinformationsbericht ist unter Verwendung des von der Europäischen Kommission auf der Grundlage des Artikels 48c Absatz 4 Satz 2 der Richtlinie 2013/34/EU festzulegenden Formblatts zu erstellen.
 
@@ -5008,7 +5024,7 @@ Für andere Steuerhoheitsgebiete sind die Angaben nach § 342h Absatz 2 zusammen
 
 ## Vierter Titel Offenlegung und Veröffentlichung
 
-##### § 342m Offenlegung im Unternehmensregister
+###### § 342m Offenlegung im Unternehmensregister
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer Gesellschaft im Sinne des § 342 Absatz 1 Nummer 1 oder 2, die der Pflicht nach § 342b Absatz 1 oder § 342c Absatz 1 unterliegen, haben für die Gesellschaft den Ertragsteuerinformationsbericht spätestens ein Jahr nach dem Ende des Berichtszeitraums in deutscher Sprache der das Unternehmensregister führenden Stelle zur Einstellung in das Unternehmensregister zu übermitteln.
 
@@ -5026,7 +5042,7 @@ Für andere Steuerhoheitsgebiete sind die Angaben nach § 342h Absatz 2 zusammen
 
 (4) Die §§ 11 und 328 Absatz 1 Satz 1 bis 3, Absatz 2 Satz 1 und 4 sowie § 329 Absatz 1 und 4 sind entsprechend anzuwenden. Bei inländischen Zweigniederlassungen von Kapitalgesellschaften im Sinne des § 342 Absatz 2 Nummer 1 kann die das Unternehmensregister führende Stelle von den in § 13e Absatz 2 Satz 5 Nummer 3 genannten angemeldeten Personen oder, wenn solche nicht vorhanden sind, von den Mitgliedern des vertretungsberechtigten Organs der Kapitalgesellschaft verlangen, ihr innerhalb einer angemessenen Frist die Umsatzerlöse der Zweigniederlassung für die letzten beiden Geschäftsjahre mitzuteilen. Bei Zweigniederlassungen im Sinne des § 342 Absatz 2 Nummer 2 von Kapitalgesellschaften im Sinne des § 342 Absatz 2 Nummer 1 zweite Alternative und bei Vorliegen der Voraussetzungen des § 342f Absatz 1 Nummer 1 kann die das Unternehmensregister führende Stelle von den in § 13e Absatz 2 Satz 5 Nummer 3 genannten angemeldeten Personen oder, wenn solche nicht vorhanden sind, von den Mitgliedern des vertretungsberechtigten Organs der Kapitalgesellschaft verlangen, ihr innerhalb einer angemessenen Frist Namen und Sitz eines Tochterunternehmens mitzuteilen, das für den Konzern den Pflichten nach § 342d Absatz 1 und 2 oder vergleichbaren Pflichten nach Maßgabe des Rechts eines anderen Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im Einklang mit Artikel 48b Absatz 4 der Richtlinie 2013/34/EU unterliegt. Wird die fristgemäße Mitteilung nach Satz 2 unterlassen, so wird vermutet, dass die Voraussetzungen des § 342 Absatz 2 Nummer 2 Buchstabe a erfüllt sind. Wird die fristgemäße Mitteilung nach Satz 3 unterlassen, so wird vermutet, dass es kein dort genanntes Tochterunternehmen gibt.
 
-##### § 342n Veröffentlichung auf der Internetseite der Gesellschaft
+###### § 342n Veröffentlichung auf der Internetseite der Gesellschaft
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer Gesellschaft im Sinne des § 342 Absatz 1 Nummer 1 oder 2, die der Pflicht nach § 342b Absatz 1 oder § 342c Absatz 1 unterliegen, haben für die Gesellschaft den Ertragsteuerinformationsbericht spätestens ein Jahr nach dem Ende des Berichtszeitraums für mindestens fünf Jahre kostenlos und in deutscher Sprache auf der Internetseite der Gesellschaft zu veröffentlichen. Die Pflicht nach Satz 1 entfällt, wenn die Mitglieder des vertretungsberechtigten Organs der Gesellschaft
 
@@ -5056,7 +5072,7 @@ Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
 ## Fünfter Titel Bußgeldvorschriften; Ordnungsgelder
 
-##### § 342o Bußgeldvorschriften
+###### § 342o Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -5068,7 +5084,7 @@ Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
-##### § 342p Ordnungsgelder
+###### § 342p Ordnungsgelder
 
 Das Bundesamt für Justiz hat ein Ordnungsgeldverfahren durchzuführen gegen
 
@@ -5080,7 +5096,7 @@ Im Falle des Satzes 1 Nummer 2 treten die in § 13e Absatz 2 Satz 5 Nummer 3 gen
 
 ## Fünfter Abschnitt Privates Rechnungslegungsgremium; Rechnungslegungsbeirat
 
-##### § 342q Privates Rechnungslegungsgremium
+###### § 342q Privates Rechnungslegungsgremium
 
 (1) Das Bundesministerium der Justiz kann eine privatrechtlich organisierte Einrichtung durch Vertrag anerkennen und ihr folgende Aufgaben übertragen:
 
@@ -5096,7 +5112,7 @@ Es darf jedoch nur eine solche Einrichtung anerkannt werden, die aufgrund ihrer 
 
 (2) Die Beachtung der die Konzernrechnungslegung betreffenden Grundsätze ordnungsmäßiger Buchführung wird vermutet, soweit vom Bundesministerium der Justiz bekanntgemachte Empfehlungen einer nach Absatz 1 Satz 1 anerkannten Einrichtung beachtet worden sind.
 
-##### § 342r Rechnungslegungsbeirat
+###### § 342r Rechnungslegungsbeirat
 
 (1) Beim Bundesministerium der Justiz wird vorbehaltlich Absatz 9 ein Rechnungslegungsbeirat mit den Aufgaben nach § 342q Absatz 1 Satz 1 gebildet.
 
@@ -5128,69 +5144,69 @@ Es darf jedoch nur eine solche Einrichtung anerkannt werden, die aufgrund ihrer 
 
 ## Erster Abschnitt Allgemeine Vorschriften
 
-##### § 343
+###### § 343
 
 (1) Handelsgeschäfte sind alle Geschäfte eines Kaufmanns, die zum Betriebe seines Handelsgewerbes gehören.
 
 (2) (weggefallen)
 
-##### § 344
+###### § 344
 
 (1) Die von einem Kaufmanne vorgenommenen Rechtsgeschäfte gelten im Zweifel als zum Betriebe seines Handelsgewerbes gehörig.
 
 (2) Die von einem Kaufmanne gezeichneten Schuldscheine gelten als im Betriebe seines Handelsgewerbes gezeichnet, sofern nicht aus der Urkunde sich das Gegenteil ergibt.
 
-##### § 345
+###### § 345
 
 Auf ein Rechtsgeschäft, das für einen der beiden Teile ein Handelsgeschäft ist, kommen die Vorschriften über Handelsgeschäfte für beide Teile gleichmäßig zur Anwendung, soweit nicht aus diesen Vorschriften sich ein anderes ergibt.
 
-##### § 346
+###### § 346
 
 Unter Kaufleuten ist in Ansehung der Bedeutung und Wirkung von Handlungen und Unterlassungen auf die im Handelsverkehre geltenden Gewohnheiten und Gebräuche Rücksicht zu nehmen.
 
-##### § 347
+###### § 347
 
 (1) Wer aus einem Geschäfte, das auf seiner Seite ein Handelsgeschäft ist, einem anderen zur Sorgfalt verpflichtet ist, hat für die Sorgfalt eines ordentlichen Kaufmanns einzustehen.
 
 (2) Unberührt bleiben die Vorschriften des Bürgerlichen Gesetzbuchs, nach welchen der Schuldner in bestimmten Fällen nur grobe Fahrlässigkeit zu vertreten oder nur für diejenige Sorgfalt einzustehen hat, welche er in eigenen Angelegenheiten anzuwenden pflegt.
 
-##### § 348
+###### § 348
 
 Eine Vertragsstrafe, die von einem Kaufmann im Betriebe seines Handelsgewerbes versprochen ist, kann nicht auf Grund der Vorschriften des § 343 des Bürgerlichen Gesetzbuchs herabgesetzt werden.
 
-##### § 349
+###### § 349
 
 Dem Bürgen steht, wenn die Bürgschaft für ihn ein Handelsgeschäft ist, die Einrede der Vorausklage nicht zu. Das gleiche gilt unter der bezeichneten Voraussetzung für denjenigen, welcher aus einem Kreditauftrag als Bürge haftet.
 
-##### § 350
+###### § 350
 
 Auf eine Bürgschaft, ein Schuldversprechen oder ein Schuldanerkenntnis finden, sofern die Bürgschaft auf der Seite des Bürgen, das Versprechen oder das Anerkenntnis auf der Seite des Schuldners ein Handelsgeschäft ist, die Formvorschriften des § 766 Satz 1 und 2, des § 780 und des § 781 Satz 1 und 2 des Bürgerlichen Gesetzbuchs keine Anwendung.
 
-##### § 351 (weggefallen)
+###### § 351 (weggefallen)
 
-##### § 352
+###### § 352
 
 (1) Die Höhe der gesetzlichen Zinsen, mit Ausnahme der Verzugszinsen, ist bei beiderseitigen Handelsgeschäften fünf vom Hundert für das Jahr. Das gleiche gilt, wenn für eine Schuld aus einem solchen Handelsgeschäfte Zinsen ohne Bestimmung des Zinsfußes versprochen sind.
 
 (2) Ist in diesem Gesetzbuche die Verpflichtung zur Zahlung von Zinsen ohne Bestimmung der Höhe ausgesprochen, so sind darunter Zinsen zu fünf vom Hundert für das Jahr zu verstehen.
 
-##### § 353
+###### § 353
 
 Kaufleute untereinander sind berechtigt, für ihre Forderungen aus beiderseitigen Handelsgeschäften vom Tage der Fälligkeit an Zinsen zu fordern. Zinsen von Zinsen können auf Grund dieser Vorschrift nicht gefordert werden.
 
-##### § 354
+###### § 354
 
 (1) Wer in Ausübung seines Handelsgewerbes einem anderen Geschäfte besorgt oder Dienste leistet, kann dafür auch ohne Verabredung Provision und, wenn es sich um Aufbewahrung handelt, Lagergeld nach den an dem Orte üblichen Sätzen fordern.
 
 (2) Für Darlehen, Vorschüsse, Auslagen und andere Verwendungen kann er vom Tage der Leistung an Zinsen berechnen.
 
-##### § 354a
+###### § 354a
 
 (1) Ist die Abtretung einer Geldforderung durch Vereinbarung mit dem Schuldner gemäß § 399 des Bürgerlichen Gesetzbuchs ausgeschlossen und ist das Rechtsgeschäft, das diese Forderung begründet hat, für beide Teile ein Handelsgeschäft, oder ist der Schuldner eine juristische Person des öffentlichen Rechts oder ein öffentlich-rechtliches Sondervermögen, so ist die Abtretung gleichwohl wirksam. Der Schuldner kann jedoch mit befreiender Wirkung an den bisherigen Gläubiger leisten. Abweichende Vereinbarungen sind unwirksam.
 
 (2) Absatz 1 ist nicht auf eine Forderung aus einem Darlehensvertrag anzuwenden, deren Gläubiger ein Kreditinstitut im Sinne des Kreditwesengesetzes ist.
 
-##### § 355
+###### § 355
 
 (1) Steht jemand mit einem Kaufmanne derart in Geschäftsverbindung, daß die aus der Verbindung entspringenden beiderseitigen Ansprüche und Leistungen nebst Zinsen in Rechnung gestellt und in regelmäßigen Zeitabschnitten durch Verrechnung und Feststellung des für den einen oder anderen Teil sich ergebenden Überschusses ausgeglichen werden (laufende Rechnung, Kontokorrent), so kann derjenige, welchem bei dem Rechnungsabschluß ein Überschuß gebührt, von dem Tage des Abschlusses an Zinsen von dem Überschusse verlangen, auch soweit in der Rechnung Zinsen enthalten sind.
 
@@ -5198,47 +5214,47 @@ Kaufleute untereinander sind berechtigt, für ihre Forderungen aus beiderseitige
 
 (3) Die laufende Rechnung kann im Zweifel auch während der Dauer einer Rechnungsperiode jederzeit mit der Wirkung gekündigt werden, daß derjenige, welchem nach der Rechnung ein Überschuß gebührt, dessen Zahlung beanspruchen kann.
 
-##### § 356
+###### § 356
 
 (1) Wird eine Forderung, die durch Pfand, Bürgschaft oder in anderer Weise gesichert ist, in die laufende Rechnung aufgenommen, so wird der Gläubiger durch die Anerkennung des Rechnungsabschlusses nicht gehindert, aus der Sicherheit insoweit Befriedigung zu suchen, als sein Guthaben aus der laufenden Rechnung und die Forderung sich decken.
 
 (2) Haftet ein Dritter für eine in die laufende Rechnung aufgenommene Forderung als Gesamtschuldner, so findet auf die Geltendmachung der Forderung gegen ihn die Vorschrift des Absatzes 1 entsprechende Anwendung.
 
-##### § 357
+###### § 357
 
 Hat der Gläubiger eines Beteiligten die Pfändung und Überweisung des Anspruchs auf dasjenige erwirkt, was seinem Schuldner als Überschuß aus der laufenden Rechnung zukommt, so können dem Gläubiger gegenüber Schuldposten, die nach der Pfändung durch neue Geschäfte entstehen, nicht in Rechnung gestellt werden. Geschäfte, die auf Grund eines schon vor der Pfändung bestehenden Rechtes oder einer schon vor diesem Zeitpunkte bestehenden Verpflichtung des Drittschuldners vorgenommen werden, gelten nicht als neue Geschäfte im Sinne dieser Vorschrift.
 
-##### § 358
+###### § 358
 
 Bei Handelsgeschäften kann die Leistung nur während der gewöhnlichen Geschäftszeit bewirkt und gefordert werden.
 
-##### § 359
+###### § 359
 
 (1) Ist als Zeit der Leistung das Frühjahr oder der Herbst oder ein in ähnlicher Weise bestimmter Zeitpunkt vereinbart, so entscheidet im Zweifel der Handelsgebrauch des Ortes der Leistung.
 
 (2) Ist eine Frist von acht Tagen vereinbart, so sind hierunter im Zweifel volle acht Tage zu verstehen.
 
-##### § 360
+###### § 360
 
 Wird eine nur der Gattung nach bestimmte Ware geschuldet, so ist Handelsgut mittlerer Art und Güte zu leisten.
 
-##### § 361
+###### § 361
 
 Maß, Gewicht, Währung, Zeitrechnung und Entfernungen, die an dem Orte gelten, wo der Vertrag erfüllt werden soll, sind im Zweifel als die vertragsmäßigen zu betrachten.
 
-##### § 362
+###### § 362
 
 (1) Geht einem Kaufmanne, dessen Gewerbebetrieb die Besorgung von Geschäften für andere mit sich bringt, ein Antrag über die Besorgung solcher Geschäfte von jemand zu, mit dem er in Geschäftsverbindung steht, so ist er verpflichtet, unverzüglich zu antworten; sein Schweigen gilt als Annahme des Antrags. Das gleiche gilt, wenn einem Kaufmann ein Antrag über die Besorgung von Geschäften von jemand zugeht, dem gegenüber er sich zur Besorgung solcher Geschäfte erboten hat.
 
 (2) Auch wenn der Kaufmann den Antrag ablehnt, hat er die mitgesendeten Waren auf Kosten des Antragstellers, soweit er für diese Kosten gedeckt ist und soweit es ohne Nachteil für ihn geschehen kann, einstweilen vor Schaden zu bewahren.
 
-##### § 363
+###### § 363
 
 (1) Anweisungen, die auf einen Kaufmann über die Leistung von Geld, Wertpapieren oder anderen vertretbaren Sachen ausgestellt sind, ohne daß darin die Leistung von einer Gegenleistung abhängig gemacht ist, können durch Indossament übertragen werden, wenn sie an Order lauten. Dasselbe gilt von Verpflichtungsscheinen, die von einem Kaufmann über Gegenstände der bezeichneten Art an Order ausgestellt sind, ohne daß darin die Leistung von einer Gegenleistung abhängig gemacht ist.
 
 (2) Ferner können Konnossemente der Verfrachter, Ladescheine der Frachtführer, Lagerscheine sowie Transportversicherungspolicen durch Indossament übertragen werden, wenn sie an Order lauten.
 
-##### § 364
+###### § 364
 
 (1) Durch das Indossament gehen alle Rechte aus dem indossierten Papier auf den Indossatar über.
 
@@ -5246,17 +5262,17 @@ Maß, Gewicht, Währung, Zeitrechnung und Entfernungen, die an dem Orte gelten, 
 
 (3) Der Schuldner ist nur gegen Aushändigung der quittierten Urkunde zur Leistung verpflichtet.
 
-##### § 365
+###### § 365
 
 (1) In betreff der Form des Indossaments, in betreff der Legitimation des Besitzers und der Prüfung der Legitimation sowie in betreff der Verpflichtung des Besitzers zur Herausgabe, finden die Vorschriften der Artikel 13, 14 Absatz 2, Artikel 16 und 40 Absatz 3 Satz 2 des Wechselgesetzes entsprechende Anwendung.
 
 (2) Ist die Urkunde vernichtet oder abhanden gekommen, so unterliegt sie der Kraftloserklärung im Wege des Aufgebotsverfahrens. Ist das Aufgebotsverfahren eingeleitet, so kann der Berechtigte, wenn er bis zur Kraftloserklärung Sicherheit bestellt, Leistung nach Maßgabe der Urkunde von dem Schuldner verlangen.
 
-##### § 365a
+###### § 365a
 
 Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie die Transportversicherungspolice, sofern sichergestellt ist, dass die Authentizität und Integrität der Aufzeichnung gewahrt bleiben (elektronische Transportversicherungspolice). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und für Heimat durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung einer elektronischen Transportversicherungspolice sowie die Einzelheiten des Verfahrens einer nachträglichen Eintragung in eine elektronische Transportversicherungspolice zu regeln.
 
-##### § 366
+###### § 366
 
 (1) Veräußert oder verpfändet ein Kaufmann im Betriebe seines Handelsgewerbes eine ihm nicht gehörige bewegliche Sache, so finden die Vorschriften des Bürgerlichen Gesetzbuchs zugunsten derjenigen, welche Rechte von einem Nichtberechtigten herleiten, auch dann Anwendung, wenn der gute Glaube des Erwerbers die Befugnis des Veräußerers oder Verpfänders, über die Sache für den Eigentümer zu verfügen, betrifft.
 
@@ -5264,7 +5280,7 @@ Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt ist eine el
 
 (3) Das gesetzliche Pfandrecht des Kommissionärs, des Frachtführers oder Verfrachters, des Spediteurs und des Lagerhalters steht hinsichtlich des Schutzes des guten Glaubens einem gemäß Absatz 1 durch Vertrag erworbenen Pfandrecht gleich. Satz 1 gilt jedoch nicht für das gesetzliche Pfandrecht an Gut, das nicht Gegenstand des Vertrages ist, aus dem die durch das Pfandrecht zu sichernde Forderung herrührt.
 
-##### § 367
+###### § 367
 
 (1) Wird ein Inhaberpapier, das dem Eigentümer gestohlen worden, verlorengegangen oder sonst abhanden gekommen ist, an einen Kaufmann, der Bankier- oder Geldwechslergeschäfte betreibt, veräußert oder verpfändet, so gilt dessen guter Glaube als ausgeschlossen, wenn zur Zeit der Veräußerung oder Verpfändung der Verlust des Papiers im Bundesanzeiger bekanntgemacht und seit dem Ablauf des Jahres, in dem die Veröffentlichung erfolgt ist, nicht mehr als ein Jahr verstrichen war. Für Veröffentlichungen vor dem 1. Januar 2007 tritt an die Stelle des Bundesanzeigers der Bundesanzeiger in Papierform. Inhaberpapieren stehen an Order lautende Anleiheschuldverschreibungen sowie Namensaktien und Zwischenscheine gleich, falls sie mit einem Blankoindossament versehen sind.
 
@@ -5272,13 +5288,13 @@ Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt ist eine el
 
 (3) Auf Zins-, Renten- und Gewinnanteilscheine, die nicht später als in dem nächsten auf die Veräußerung oder Verpfändung folgenden Einlösungstermin fällig werden, auf unverzinsliche Inhaberpapiere, die auf Sicht zahlbar sind, und auf Banknoten sind diese Vorschriften nicht anzuwenden.
 
-##### § 368
+###### § 368
 
 (1) Bei dem Verkauf eines Pfandes tritt, wenn die Verpfändung auf der Seite des Pfandgläubigers und des Verpfänders ein Handelsgeschäft ist, an die Stelle der in § 1234 des Bürgerlichen Gesetzbuchs bestimmten Frist von einem Monat eine solche von einer Woche.
 
 (2) Diese Vorschrift ist auf das gesetzliche Pfandrecht des Kommissionärs, des Frachtführers oder Verfrachters, des Spediteurs und des Lagerhalters entsprechend anzuwenden, auf das Pfandrecht des Frachtführers, Verfrachters und Spediteurs auch dann, wenn nur auf ihrer Seite der Vertrag ein Handelsgeschäft ist.
 
-##### § 369
+###### § 369
 
 (1) Ein Kaufmann hat wegen der fälligen Forderungen, welche ihm gegen einen anderen Kaufmann aus den zwischen ihnen geschlossenen beiderseitigen Handelsgeschäften zustehen, ein Zurückbehaltungsrecht an den beweglichen Sachen und Wertpapieren des Schuldners, welche mit dessen Willen auf Grund von Handelsgeschäften in seinen Besitz gelangt sind, sofern er sie noch im Besitze hat, insbesondere mittels Konnossements, Ladescheins oder Lagerscheins darüber verfügen kann. Das Zurückbehaltungsrecht ist auch dann begründet, wenn das Eigentum an dem Gegenstande von dem Schuldner auf den Gläubiger übergegangen oder von einem Dritten für den Schuldner auf den Gläubiger übertragen, aber auf den Schuldner zurückzuübertragen ist.
 
@@ -5288,9 +5304,9 @@ Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt ist eine el
 
 (4) Der Schuldner kann die Ausübung des Zurückbehaltungsrechts durch Sicherheitsleistung abwenden. Die Sicherheitsleistung durch Bürgen ist ausgeschlossen.
 
-##### § 370 (weggefallen)
+###### § 370 (weggefallen)
 
-##### § 371
+###### § 371
 
 (1) Der Gläubiger ist kraft des Zurückbehaltungsrechts befugt, sich aus dem zurückbehaltenen Gegenstande für seine Forderung zu befriedigen. Steht einem Dritten ein Recht an dem Gegenstande zu, gegen welches das Zurückbehaltungsrecht nach § 369 Abs. 2 geltend gemacht werden kann, so hat der Gläubiger in Ansehung der Befriedigung aus dem Gegenstande den Vorrang.
 
@@ -5300,7 +5316,7 @@ Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt ist eine el
 
 (4) Die Klage auf Gestattung der Befriedigung kann bei dem Gericht, in dessen Bezirke der Gläubiger seinen allgemeinen Gerichtsstand oder den Gerichtsstand der Niederlassung hat, erhoben werden.
 
-##### § 372
+###### § 372
 
 (1) In Ansehung der Befriedigung aus dem zurückbehaltenen Gegenstande gilt zugunsten des Gläubigers der Schuldner, sofern er bei dem Besitzerwerbe des Gläubigers der Eigentümer des Gegenstandes war, auch weiter als Eigentümer, sofern nicht der Gläubiger weiß, daß der Schuldner nicht mehr Eigentümer ist.
 
@@ -5308,7 +5324,7 @@ Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt ist eine el
 
 ## Zweiter Abschnitt Handelskauf
 
-##### § 373
+###### § 373
 
 (1) Ist der Käufer mit der Annahme der Ware im Verzuge, so kann der Verkäufer die Ware auf Gefahr und Kosten des Käufers in einem öffentlichen Lagerhaus oder sonst in sicherer Weise hinterlegen.
 
@@ -5320,17 +5336,17 @@ Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt ist eine el
 
 (5) Im Falle der öffentlichen Versteigerung hat der Verkäufer dem Käufer die in § 383 Absatz 3 Nummer 1 bis 3 des Bürgerlichen Gesetzbuchs bezeichneten Informationen vorher mitzuteilen; von dem vollzogenen Verkaufe hat er bei jeder Art des Verkaufs dem Käufer unverzüglich Nachricht zu geben. Im Falle der Unterlassung ist er zum Schadensersatze verpflichtet. Die Benachrichtigungen dürfen unterbleiben, wenn sie untunlich sind.
 
-##### § 374
+###### § 374
 
 Durch die Vorschriften des § 373 werden die Befugnisse nicht berührt, welche dem Verkäufer nach dem Bürgerlichen Gesetzbuche zustehen, wenn der Käufer im Verzuge der Annahme ist.
 
-##### § 375
+###### § 375
 
 (1) Ist bei dem Kaufe einer beweglichen Sache dem Käufer die nähere Bestimmung über Form, Maß oder ähnliche Verhältnisse vorbehalten, so ist der Käufer verpflichtet, die vorbehaltene Bestimmung zu treffen.
 
 (2) Ist der Käufer mit der Erfüllung dieser Verpflichtung in Verzug, so kann der Verkäufer die Bestimmung statt des Käufers vornehmen oder gemäß den §§ 280, 281 des Bürgerlichen Gesetzbuchs Schadensersatz statt der Leistung verlangen oder gemäß § 323 des Bürgerlichen Gesetzbuchs vom Vertrag zurücktreten. Im ersteren Falle hat der Verkäufer die von ihm getroffene Bestimmung dem Käufer mitzuteilen und ihm zugleich eine angemessene Frist zur Vornahme einer anderweitigen Bestimmung zu setzen. Wird eine solche innerhalb der Frist von dem Käufer nicht vorgenommen, so ist die von dem Verkäufer getroffene Bestimmung maßgebend.
 
-##### § 376
+###### § 376
 
 (1) Ist bedungen, daß die Leistung des einen Teiles genau zu einer festbestimmten Zeit oder innerhalb einer festbestimmten Frist bewirkt werden soll, so kann der andere Teil, wenn die Leistung nicht zu der bestimmten Zeit oder nicht innerhalb der bestimmten Frist erfolgt, von dem Vertrage zurücktreten oder, falls der Schuldner im Verzug ist, statt der Erfüllung Schadensersatz wegen Nichterfüllung verlangen. Erfüllung kann er nur beanspruchen, wenn er sofort nach dem Ablaufe der Zeit oder der Frist dem Gegner anzeigt, daß er auf Erfüllung bestehe.
 
@@ -5340,7 +5356,7 @@ Durch die Vorschriften des § 373 werden die Befugnisse nicht berührt, welche d
 
 (4) Auf den Verkauf mittels öffentlicher Versteigerung findet die Vorschrift des § 373 Abs. 4 Anwendung. Von dem Verkauf oder Kaufe hat der Gläubiger den Schuldner unverzüglich zu benachrichtigen; im Falle der Unterlassung ist er zum Schadensersatze verpflichtet.
 
-##### § 377
+###### § 377
 
 (1) Ist der Kauf für beide Teile ein Handelsgeschäft, so hat der Käufer die Ware unverzüglich nach der Ablieferung durch den Verkäufer, soweit dies nach ordnungsmäßigem Geschäftsgange tunlich ist, zu untersuchen und, wenn sich ein Mangel zeigt, dem Verkäufer unverzüglich Anzeige zu machen.
 
@@ -5352,37 +5368,37 @@ Durch die Vorschriften des § 373 werden die Befugnisse nicht berührt, welche d
 
 (5) Hat der Verkäufer den Mangel arglistig verschwiegen, so kann er sich auf diese Vorschriften nicht berufen.
 
-##### § 378 (weggefallen)
+###### § 378 (weggefallen)
 
-##### § 379
+###### § 379
 
 (1) Ist der Kauf für beide Teile ein Handelsgeschäft, so ist der Käufer, wenn er die ihm von einem anderen Orte übersendete Ware beanstandet, verpflichtet, für ihre einstweilige Aufbewahrung zu sorgen.
 
 (2) Er kann die Ware, wenn sie dem Verderb ausgesetzt und Gefahr im Verzug ist, unter Beobachtung der Vorschriften des § 373 verkaufen lassen.
 
-##### § 380
+###### § 380
 
 (1) Ist der Kaufpreis nach dem Gewichte der Ware zu berechnen, so kommt das Gewicht der Verpackung (Taragewicht) in Abzug, wenn nicht aus dem Vertrag oder dem Handelsgebrauche des Ortes, an welchem der Verkäufer zu erfüllen hat, sich ein anderes ergibt.
 
 (2) Ob und in welcher Höhe das Taragewicht nach einem bestimmten Ansatz oder Verhältnisse statt nach genauer Ausmittelung abzuziehen ist, sowie, ob und wieviel als Gutgewicht zugunsten des Käufers zu berechnen ist oder als Vergütung für schadhafte oder unbrauchbare Teile (Refaktie) gefordert werden kann, bestimmt sich nach dem Vertrag oder dem Handelsgebrauche des Ortes, an welchem der Verkäufer zu erfüllen hat.
 
-##### § 381
+###### § 381
 
 (1) Die in diesem Abschnitte für den Kauf von Waren getroffenen Vorschriften gelten auch für den Kauf von Wertpapieren.
 
 (2) Sie finden auch auf einen Vertrag Anwendung, der die Lieferung herzustellender oder zu erzeugender beweglicher Sachen zum Gegenstand hat.
 
-##### § 382 (weggefallen)
+###### § 382 (weggefallen)
 
 ## Dritter Abschnitt Kommissionsgeschäft
 
-##### § 383
+###### § 383
 
 (1) Kommissionär ist, wer es gewerbsmäßig übernimmt, Waren oder Wertpapiere für Rechnung eines anderen (des Kommittenten) in eigenem Namen zu kaufen oder zu verkaufen.
 
 (2) Die Vorschriften dieses Abschnittes finden auch Anwendung, wenn das Unternehmen des Kommissionärs nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht erfordert und die Firma des Unternehmens nicht nach § 2 in das Handelsregister eingetragen ist. In diesem Fall finden in Ansehung des Kommissionsgeschäfts auch die Vorschriften des Ersten Abschnittes des Vierten Buches mit Ausnahme der §§ 348 bis 350 Anwendung.
 
-##### § 384
+###### § 384
 
 (1) Der Kommissionär ist verpflichtet, das übernommene Geschäft mit der Sorgfalt eines ordentlichen Kaufmanns auszuführen; er hat hierbei das Interesse des Kommittenten wahrzunehmen und dessen Weisungen zu befolgen.
 
@@ -5390,51 +5406,51 @@ Durch die Vorschriften des § 373 werden die Befugnisse nicht berührt, welche d
 
 (3) Der Kommissionär haftet dem Kommittenten für die Erfüllung des Geschäfts, wenn er ihm nicht zugleich mit der Anzeige von der Ausführung der Kommission den Dritten namhaft macht, mit dem er das Geschäft abgeschlossen hat.
 
-##### § 385
+###### § 385
 
 (1) Handelt der Kommissionär nicht gemäß den Weisungen des Kommittenten, so ist er diesem zum Ersatze des Schadens verpflichtet; der Kommittent braucht das Geschäft nicht für seine Rechnung gelten zu lassen.
 
 (2) Die Vorschriften des § 665 des Bürgerlichen Gesetzbuchs bleiben unberührt.
 
-##### § 386
+###### § 386
 
 (1) Hat der Kommissionär unter dem ihm gesetzten Preise verkauft oder hat er den ihm für den Einkauf gesetzten Preis überschritten, so muß der Kommittent, falls er das Geschäft als nicht für seine Rechnung abgeschlossen zurückweisen will, dies unverzüglich auf die Anzeige von der Ausführung des Geschäfts erklären; anderenfalls gilt die Abweichung von der Preisbestimmung als genehmigt.
 
 (2) Erbietet sich der Kommissionär zugleich mit der Anzeige von der Ausführung des Geschäfts zur Deckung des Preisunterschieds, so ist der Kommittent zur Zurückweisung nicht berechtigt. Der Anspruch des Kommittenten auf den Ersatz eines den Preisunterschied übersteigenden Schadens bleibt unberührt.
 
-##### § 387
+###### § 387
 
 (1) Schließt der Kommissionär zu vorteilhafteren Bedingungen ab, als sie ihm von dem Kommittenten gesetzt worden sind, so kommt dies dem Kommittenten zustatten.
 
 (2) Dies gilt insbesondere, wenn der Preis, für welchen der Kommissionär verkauft, den von dem Kommittenten bestimmten niedrigsten Preis übersteigt oder wenn der Preis, für welchen er einkauft, den von dem Kommittenten bestimmten höchsten Preis nicht erreicht.
 
-##### § 388
+###### § 388
 
 (1) Befindet sich das Gut, welches dem Kommissionär zugesendet ist, bei der Ablieferung in einem beschädigten oder mangelhaften Zustande, der äußerlich erkennbar ist, so hat der Kommissionär die Rechte gegen den Frachtführer oder Schiffer zu wahren, für den Beweis des Zustandes zu sorgen und dem Kommittenten unverzüglich Nachricht zu geben; im Falle der Unterlassung ist er zum Schadensersatze verpflichtet.
 
 (2) Ist das Gut dem Verderb ausgesetzt oder treten später Veränderungen an dem Gute ein, die dessen Entwertung befürchten lassen, und ist keine Zeit vorhanden, die Verfügung des Kommittenten einzuholen, oder ist der Kommittent in der Erteilung der Verfügung säumig, so kann der Kommissionär den Verkauf des Gutes nach Maßgabe der Vorschriften des § 373 bewirken.
 
-##### § 389
+###### § 389
 
 Unterläßt der Kommittent über das Gut zu verfügen, obwohl er dazu nach Lage der Sache verpflichtet ist, so hat der Kommissionär die nach § 373 dem Verkäufer zustehenden Rechte.
 
-##### § 390
+###### § 390
 
 (1) Der Kommissionär ist für den Verlust und die Beschädigung des in seiner Verwahrung befindlichen Gutes verantwortlich, es sei denn, daß der Verlust oder die Beschädigung auf Umständen beruht, die durch die Sorgfalt eines ordentlichen Kaufmanns nicht abgewendet werden konnten.
 
 (2) Der Kommissionär ist wegen der Unterlassung der Versicherung des Gutes nur verantwortlich, wenn er von dem Kommittenten angewiesen war, die Versicherung zu bewirken.
 
-##### § 391
+###### § 391
 
 Ist eine Einkaufskommission erteilt, die für beide Teile ein Handelsgeschäft ist, so finden in bezug auf die Verpflichtung des Kommittenten, das Gut zu untersuchen und dem Kommissionär von den entdeckten Mängeln Anzeige zu machen, sowie in bezug auf die Sorge für die Aufbewahrung des beanstandeten Gutes und auf den Verkauf bei drohendem Verderbe die für den Käufer geltenden Vorschriften der §§ 377 bis 379 entsprechende Anwendung. Der Anspruch des Kommittenten auf Abtretung der Rechte, die dem Kommissionär gegen den Dritten zustehen, von welchem er das Gut für Rechnung des Kommittenten gekauft hat, wird durch eine verspätete Anzeige des Mangels nicht berührt.
 
-##### § 392
+###### § 392
 
 (1) Forderungen aus einem Geschäfte, das der Kommissionär abgeschlossen hat, kann der Kommittent dem Schuldner gegenüber erst nach der Abtretung geltend machen.
 
 (2) Jedoch gelten solche Forderungen, auch wenn sie nicht abgetreten sind, im Verhältnisse zwischen dem Kommittenten und dem Kommissionär oder dessen Gläubigern als Forderungen des Kommittenten.
 
-##### § 393
+###### § 393
 
 (1) Wird von dem Kommissionär ohne Zustimmung des Kommittenten einem Dritten ein Vorschuß geleistet oder Kredit gewährt, so handelt der Kommissionär auf eigene Gefahr.
 
@@ -5442,35 +5458,35 @@ Ist eine Einkaufskommission erteilt, die für beide Teile ein Handelsgeschäft i
 
 (3) Verkauft der Kommissionär unbefugt auf Kredit, so ist er verpflichtet, dem Kommittenten sofort als Schuldner des Kaufpreises die Zahlung zu leisten. Wäre beim Verkaufe gegen bar der Preis geringer gewesen, so hat der Kommissionär nur den geringeren Preis und, wenn dieser niedriger ist als der ihm gesetzte Preis, auch den Unterschied nach § 386 zu vergüten.
 
-##### § 394
+###### § 394
 
 (1) Der Kommissionär hat für die Erfüllung der Verbindlichkeit des Dritten, mit dem er das Geschäft für Rechnung des Kommittenten abschließt, einzustehen, wenn dies von ihm übernommen oder am Orte seiner Niederlassung Handelsgebrauch ist.
 
 (2) Der Kommissionär, der für den Dritten einzustehen hat, ist dem Kommittenten für die Erfüllung im Zeitpunkte des Verfalls unmittelbar insoweit verhaftet, als die Erfüllung aus dem Vertragsverhältnisse gefordert werden kann. Er kann eine besondere Vergütung (Delkredereprovision) beanspruchen.
 
-##### § 395
+###### § 395
 
 Ein Kommissionär, der den Ankauf eines Wechsels übernimmt, ist verpflichtet, den Wechsel, wenn er ihn indossiert, in üblicher Weise und ohne Vorbehalt zu indossieren.
 
-##### § 396
+###### § 396
 
 (1) Der Kommissionär kann die Provision fordern, wenn das Geschäft zur Ausführung gekommen ist. Ist das Geschäft nicht zur Ausführung gekommen, so hat er gleichwohl den Anspruch auf die Auslieferungsprovision, sofern eine solche ortsgebräuchlich ist; auch kann er die Provision verlangen, wenn die Ausführung des von ihm abgeschlossenen Geschäfts nur aus einem in der Person des Kommittenten liegenden Grunde unterblieben ist.
 
 (2) Zu dem von dem Kommittenten für Aufwendungen des Kommissionärs nach den §§ 670 und 675 des Bürgerlichen Gesetzbuchs zu leistenden Ersatze gehört auch die Vergütung für die Benutzung der Lagerräume und der Beförderungsmittel des Kommissionärs.
 
-##### § 397 Pfandrecht des Kommissionärs
+###### § 397 Pfandrecht des Kommissionärs
 
 Der Kommissionär hat wegen der auf das Gut verwendeten Kosten, der Provision, der auf das Gut gegebenen Vorschüsse und Darlehen sowie der mit Rücksicht auf das Gut gezeichneten Wechsel oder in anderer Weise eingegangenen Verbindlichkeiten ein Pfandrecht an dem Kommissionsgut des Kommittenten oder eines Dritten, der dem Kauf oder Verkauf des Gutes zugestimmt hat. An dem Gut des Kommittenten hat der Kommissionär auch ein Pfandrecht wegen aller Forderungen aus laufender Rechnung in Kommissionsgeschäften. Das Pfandrecht nach den Sätzen 1 und 2 besteht jedoch nur an Kommissionsgut, das der Kommissionär im Besitz hat oder über das er mittels Konnossements, Ladescheins oder Lagerscheins verfügen kann.
 
-##### § 398
+###### § 398
 
 Der Kommissionär kann sich, auch wenn er Eigentümer des Kommissionsguts ist, für die in § 397 bezeichneten Ansprüche nach Maßgabe der für das Pfandrecht geltenden Vorschriften aus dem Gute befriedigen.
 
-##### § 399
+###### § 399
 
 Aus den Forderungen, welche durch das für Rechnung des Kommittenten geschlossene Geschäft begründet sind, kann sich der Kommissionär für die in § 397 bezeichneten Ansprüche vor dem Kommittenten und dessen Gläubigern befriedigen.
 
-##### § 400
+###### § 400
 
 (1) Die Kommission zum Einkauf oder zum Verkaufe von Waren, die einen Börsen- oder Marktpreis haben, sowie von Wertpapieren, bei denen ein Börsen- oder Marktpreis amtlich festgestellt wird, kann, wenn der Kommittent nicht ein anderes bestimmt hat, von dem Kommissionär dadurch ausgeführt werden, daß er das Gut, welches er einkaufen soll, selbst als Verkäufer liefert oder das Gut, welches er verkaufen soll, selbst als Käufer übernimmt.
 
@@ -5482,25 +5498,25 @@ Aus den Forderungen, welche durch das für Rechnung des Kommittenten geschlossen
 
 (5) Bei Wertpapieren und Waren, für welche der Börsen- oder Marktpreis amtlich festgestellt wird, kann der Kommissionär im Falle der Ausführung der Kommission durch Selbsteintritt dem Kommittenten keinen ungünstigeren Preis als den amtlich festgestellten in Rechnung stellen.
 
-##### § 401
+###### § 401
 
 (1) Auch im Falle der Ausführung der Kommission durch Selbsteintritt hat der Kommissionär, wenn er bei Anwendung pflichtmäßiger Sorgfalt die Kommission zu einem günstigeren als dem nach § 400 sich ergebenden Preise ausführen konnte, dem Kommittenten den günstigeren Preis zu berechnen.
 
 (2) Hat der Kommissionär vor der Absendung der Ausführungsanzeige aus Anlaß der erteilten Kommission an der Börse oder am Markte ein Geschäft mit einem Dritten abgeschlossen, so darf er dem Kommittenten keinen ungünstigeren als den hierbei vereinbarten Preis berechnen.
 
-##### § 402
+###### § 402
 
 Die Vorschriften des § 400 Abs. 2 bis 5 und des § 401 können nicht durch Vertrag zum Nachteile des Kommittenten abgeändert werden.
 
-##### § 403
+###### § 403
 
 Der Kommissionär, der das Gut selbst als Verkäufer liefert oder als Käufer übernimmt, ist zu der gewöhnlichen Provision berechtigt und kann die bei Kommissionsgeschäften sonst regelmäßig vorkommenden Kosten berechnen.
 
-##### § 404
+###### § 404
 
 Die Vorschriften der §§ 397 und 398 finden auch im Falle der Ausführung der Kommission durch Selbsteintritt Anwendung.
 
-##### § 405
+###### § 405
 
 (1) Zeigt der Kommissionär die Ausführung der Kommission an, ohne ausdrücklich zu bemerken, daß er selbst eintreten wolle, so gilt dies als Erklärung, daß die Ausführung durch Abschluß des Geschäfts mit einem Dritten für Rechnung des Kommittenten erfolgt sei.
 
@@ -5508,7 +5524,7 @@ Die Vorschriften der §§ 397 und 398 finden auch im Falle der Ausführung der K
 
 (3) Widerruft der Kommittent die Kommission und geht der Widerruf dem Kommissionär zu, bevor die Ausführungsanzeige zur Absendung abgegeben ist, so steht dem Kommissionär das Recht des Selbsteintritts nicht mehr zu.
 
-##### § 406
+###### § 406
 
 (1) Die Vorschriften dieses Abschnitts kommen auch zur Anwendung, wenn ein Kommissionär im Betriebe seines Handelsgewerbes ein Geschäft anderer als der in § 383 bezeichneten Art für Rechnung eines anderen in eigenem Namen zu schließen übernimmt. Das gleiche gilt, wenn ein Kaufmann, der nicht Kommissionär ist, im Betriebe seines Handelsgewerbes ein Geschäft in der bezeichneten Weise zu schließen übernimmt.
 
@@ -5518,7 +5534,7 @@ Die Vorschriften der §§ 397 und 398 finden auch im Falle der Ausführung der K
 
 ## Erster Unterabschnitt Allgemeine Vorschriften
 
-##### § 407 Frachtvertrag
+###### § 407 Frachtvertrag
 
 (1) Durch den Frachtvertrag wird der Frachtführer verpflichtet, das Gut zum Bestimmungsort zu befördern und dort an den Empfänger abzuliefern.
 
@@ -5532,7 +5548,7 @@ Die Vorschriften der §§ 397 und 398 finden auch im Falle der Ausführung der K
 
 Erfordert das Unternehmen nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht und ist die Firma des Unternehmens auch nicht nach § 2 in das Handelsregister eingetragen, so sind in Ansehung des Frachtgeschäfts auch insoweit die Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
 
-##### § 408 Frachtbrief. Verordnungsermächtigung
+###### § 408 Frachtbrief. Verordnungsermächtigung
 
 (1) Der Frachtführer kann die Ausstellung eines Frachtbriefs mit folgenden Angaben verlangen:
 
@@ -5566,7 +5582,7 @@ In den Frachtbrief können weitere Angaben eingetragen werden, die die Parteien 
 
 (3) Dem Frachtbrief gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Frachtbrief, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Frachtbrief). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und für Heimat durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, des Mitführens und der Vorlage eines elektronischen Frachtbriefs sowie des Verfahrens einer nachträglichen Eintragung in einen elektronischen Frachtbrief zu regeln.
 
-##### § 409 Beweiskraft des Frachtbriefs
+###### § 409 Beweiskraft des Frachtbriefs
 
 (1) Der von beiden Parteien unterzeichnete Frachtbrief dient bis zum Beweis des Gegenteils als Nachweis für Abschluß und Inhalt des Frachtvertrages sowie für die Übernahme des Gutes durch den Frachtführer.
 
@@ -5574,7 +5590,7 @@ In den Frachtbrief können weitere Angaben eingetragen werden, die die Parteien 
 
 (3) Ist das Rohgewicht oder die anders angegebene Menge des Gutes oder der Inhalt der Frachtstücke vom Frachtführer überprüft und das Ergebnis der Überprüfung in den von beiden Parteien unterzeichneten Frachtbrief eingetragen worden, so begründet dieser auch die Vermutung, daß Gewicht, Menge oder Inhalt mit den Angaben im Frachtbrief übereinstimmt. Der Frachtführer ist verpflichtet, Gewicht, Menge oder Inhalt zu überprüfen, wenn der Absender dies verlangt und dem Frachtführer angemessene Mittel zur Überprüfung zur Verfügung stehen; der Frachtführer hat Anspruch auf Ersatz seiner Aufwendungen für die Überprüfung.
 
-##### § 410 Gefährliches Gut
+###### § 410 Gefährliches Gut
 
 (1) Soll gefährliches Gut befördert werden, so hat der Absender dem Frachtführer rechtzeitig in Textform die genaue Art der Gefahr und, soweit erforderlich, zu ergreifende Vorsichtsmaßnahmen mitzuteilen.
 
@@ -5584,11 +5600,11 @@ In den Frachtbrief können weitere Angaben eingetragen werden, die die Parteien 
 
 2. vom Absender wegen dieser Maßnahmen Ersatz der erforderlichen Aufwendungen verlangen.
 
-##### § 411 Verpackung. Kennzeichnung
+###### § 411 Verpackung. Kennzeichnung
 
 Der Absender hat das Gut, soweit dessen Natur unter Berücksichtigung der vereinbarten Beförderung eine Verpackung erfordert, so zu verpacken, daß es vor Verlust und Beschädigung geschützt ist und daß auch dem Frachtführer keine Schäden entstehen. Soll das Gut in einem Container, auf einer Palette oder in oder auf einem sonstigen Lademittel, das zur Zusammenfassung von Frachtstücken verwendet wird, zur Beförderung übergeben werden, hat der Absender das Gut auch in oder auf dem Lademittel beförderungssicher zu stauen und zu sichern. Der Absender hat das Gut ferner, soweit dessen vertragsgemäße Behandlung dies erfordert, zu kennzeichnen.
 
-##### § 412 Verladen und Entladen. Verordnungsermächtigung
+###### § 412 Verladen und Entladen. Verordnungsermächtigung
 
 (1) Soweit sich aus den Umständen oder der Verkehrssitte nicht etwas anderes ergibt, hat der Absender das Gut beförderungssicher zu laden, zu stauen und zu befestigen (verladen) sowie zu entladen. Der Frachtführer hat für die betriebssichere Verladung zu sorgen.
 
@@ -5598,13 +5614,13 @@ Der Absender hat das Gut, soweit dessen Natur unter Berücksichtigung der verein
 
 (4) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für die Binnenschiffahrt unter Berücksichtigung der Art der zur Beförderung bestimmten Fahrzeuge, der Art und Menge der umzuschlagenden Güter, der beim Güterumschlag zur Verfügung stehenden technischen Mittel und der Erfordernisse eines beschleunigten Verkehrsablaufs die Voraussetzungen für den Beginn der Lade- und Entladezeit, deren Dauer sowie die Höhe des Standgeldes zu bestimmen.
 
-##### § 413 Begleitpapiere
+###### § 413 Begleitpapiere
 
 (1) Der Absender hat dem Frachtführer alle Urkunden zur Verfügung zu stellen und Auskünfte zu erteilen, die für eine amtliche Behandlung, insbesondere eine Zollabfertigung, vor der Ablieferung des Gutes erforderlich sind.
 
 (2) Der Frachtführer ist für den Schaden verantwortlich, der durch Verlust oder Beschädigung der ihm übergebenen Urkunden oder durch deren unrichtige Verwendung verursacht worden ist, es sei denn, daß der Verlust, die Beschädigung oder die unrichtige Verwendung auf Umständen beruht, die der Frachtführer nicht vermeiden und deren Folgen er nicht abwenden konnte. Seine Haftung ist jedoch auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
-##### § 414 Verschuldensunabhängige Haftung des Absenders in besonderen Fällen
+###### § 414 Verschuldensunabhängige Haftung des Absenders in besonderen Fällen
 
 (1) Der Absender hat, auch wenn ihn kein Verschulden trifft, dem Frachtführer Schäden und Aufwendungen zu ersetzen, die verursacht werden durch
 
@@ -5620,7 +5636,7 @@ Der Absender hat das Gut, soweit dessen Natur unter Berücksichtigung der verein
 
 (3) Ist der Absender ein Verbraucher, so hat er dem Frachtführer Schäden und Aufwendungen nach den Absätzen 1 und 2 nur zu ersetzen, soweit ihn ein Verschulden trifft.
 
-##### § 415 Kündigung durch den Absender
+###### § 415 Kündigung durch den Absender
 
 (1) Der Absender kann den Frachtvertrag jederzeit kündigen.
 
@@ -5634,11 +5650,11 @@ verlangen. Beruht die Kündigung auf Gründen, die dem Risikobereich des Frachtf
 
 (3) Wurde vor der Kündigung bereits Gut verladen, so kann der Frachtführer auf Kosten des Absenders Maßnahmen entsprechend § 419 Abs. 3 Satz 2 bis 4 ergreifen oder vom Absender verlangen, daß dieser das Gut unverzüglich entlädt. Der Frachtführer braucht das Entladen des Gutes nur zu dulden, soweit dies ohne Nachteile für seinen Betrieb und ohne Schäden für die Absender oder Empfänger anderer Sendungen möglich ist. Beruht die Kündigung auf Gründen, die dem Risikobereich des Frachtführers zuzurechnen sind, so ist abweichend von den Sätzen 1 und 2 der Frachtführer verpflichtet, das Gut, das bereits verladen wurde, unverzüglich auf eigene Kosten zu entladen.
 
-##### § 416 Anspruch auf Teilbeförderung
+###### § 416 Anspruch auf Teilbeförderung
 
 Wird das Gut nur teilweise verladen, so kann der Absender jederzeit verlangen, dass der Frachtführer mit der Beförderung des bereits verladenen Teils des Gutes beginnt. In diesem Fall gebührt dem Frachtführer die volle Fracht, das etwaige Standgeld sowie Ersatz der Aufwendungen, die ihm durch das Fehlen eines Teils des Gutes entstehen; von der vollen Fracht kommt jedoch die Fracht für dasjenige Gut in Abzug, welches der Frachtführer mit demselben Beförderungsmittel anstelle des nicht verladenen Gutes befördert. Der Frachtführer ist außerdem berechtigt, soweit ihm durch das Fehlen eines Teils des Gutes die Sicherheit für die volle Fracht entgeht, die Bestellung einer anderweitigen Sicherheit zu fordern. Beruht die Unvollständigkeit der Verladung auf Gründen, die dem Risikobereich des Frachtführers zuzurechnen sind, so steht diesem der Anspruch nach den Sätzen 2 und 3 nur insoweit zu, als tatsächlich Gut befördert wird.
 
-##### § 417 Rechte des Frachtführers bei Nichteinhaltung der Ladezeit
+###### § 417 Rechte des Frachtführers bei Nichteinhaltung der Ladezeit
 
 (1) Verlädt der Absender das Gut nicht innerhalb der Ladezeit oder stellt er, wenn ihm das Verladen nicht obliegt, das Gut nicht innerhalb der Ladezeit zur Verfügung, so kann ihm der Frachtführer eine angemessene Frist setzen, innerhalb derer das Gut verladen oder zur Verfügung gestellt werden soll.
 
@@ -5650,7 +5666,7 @@ Wird das Gut nur teilweise verladen, so kann der Absender jederzeit verlangen, d
 
 (5) Dem Frachtführer stehen die Rechte nicht zu, wenn die Nichteinhaltung der Ladezeit auf Gründen beruht, die seinem Risikobereich zuzurechnen sind.
 
-##### § 418 Nachträgliche Weisungen
+###### § 418 Nachträgliche Weisungen
 
 (1) Der Absender ist berechtigt, über das Gut zu verfügen. Er kann insbesondere verlangen, daß der Frachtführer das Gut nicht weiterbefördert oder es an einem anderen Bestimmungsort, an einer anderen Ablieferungsstelle oder an einen anderen Empfänger abliefert. Der Frachtführer ist nur insoweit zur Befolgung solcher Weisungen verpflichtet, als deren Ausführung weder Nachteile für den Betrieb seines Unternehmens noch Schäden für die Absender oder Empfänger anderer Sendungen mit sich zu bringen droht. Er kann vom Absender Ersatz seiner durch die Ausführung der Weisung entstehenden Aufwendungen sowie eine angemessene Vergütung verlangen; der Frachtführer kann die Befolgung der Weisung von einem Vorschuß abhängig machen.
 
@@ -5664,7 +5680,7 @@ Wird das Gut nur teilweise verladen, so kann der Absender jederzeit verlangen, d
 
 (6) Ist die Ausübung des Verfügungsrechts von der Vorlage des Frachtbriefs abhängig gemacht worden und führt der Frachtführer eine Weisung aus, ohne sich die Absenderausfertigung des Frachtbriefs vorlegen zu lassen, so haftet er dem Berechtigten für den daraus entstehenden Schaden. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
-##### § 419 Beförderungs- und Ablieferungshindernisse
+###### § 419 Beförderungs- und Ablieferungshindernisse
 
 (1) Wird nach Übernahme des Gutes erkennbar, dass die Beförderung oder Ablieferung nicht vertragsgemäß durchgeführt werden kann, so hat der Frachtführer Weisungen des nach § 418 oder § 446 Verfügungsberechtigten einzuholen. Ist der Empfänger verfügungsberechtigt und ist er nicht zu ermitteln oder verweigert er die Annahme des Gutes, so ist, wenn ein Ladeschein nicht ausgestellt ist, Verfügungsberechtigter nach Satz 1 der Absender; ist die Ausübung des Verfügungsrechts von der Vorlage eines Frachtbriefs abhängig gemacht worden, so bedarf es in diesem Fall der Vorlage des Frachtbriefs nicht. Der Frachtführer ist, wenn ihm Weisungen erteilt worden sind und das Hindernis nicht seinem Risikobereich zuzurechnen ist, berechtigt, Ansprüche nach § 418 Abs. 1 Satz 4 geltend zu machen.
 
@@ -5674,7 +5690,7 @@ Wird das Gut nur teilweise verladen, so kann der Absender jederzeit verlangen, d
 
 (4) Der Frachtführer hat wegen der nach Absatz 3 ergriffenen Maßnahmen Anspruch auf Ersatz der erforderlichen Aufwendungen und auf angemessene Vergütung, es sei denn, daß das Hindernis seinem Risikobereich zuzurechnen ist.
 
-##### § 420 Zahlung. Frachtberechnung
+###### § 420 Zahlung. Frachtberechnung
 
 (1) Die Fracht ist bei Ablieferung des Gutes zu zahlen. Der Frachtführer hat über die Fracht hinaus einen Anspruch auf Ersatz von Aufwendungen, soweit diese für das Gut gemacht wurden und er sie den Umständen nach für erforderlich halten durfte.
 
@@ -5686,7 +5702,7 @@ Wird das Gut nur teilweise verladen, so kann der Absender jederzeit verlangen, d
 
 (5) Ist die Fracht nach Zahl, Gewicht oder anders angegebener Menge des Gutes vereinbart, so wird für die Berechnung der Fracht vermutet, daß Angaben hierzu im Frachtbrief oder Ladeschein zutreffen; dies gilt auch dann, wenn zu diesen Angaben ein Vorbehalt eingetragen ist, der damit begründet ist, daß keine angemessenen Mittel zur Verfügung standen, die Richtigkeit der Angaben zu überprüfen.
 
-##### § 421 Rechte des Empfängers. Zahlungspflicht
+###### § 421 Rechte des Empfängers. Zahlungspflicht
 
 (1) Nach Ankunft des Gutes an der Ablieferungsstelle ist der Empfänger berechtigt, vom Frachtführer zu verlangen, ihm das Gut gegen Erfüllung der Verpflichtungen aus dem Frachtvertrag abzuliefern. Ist das Gut beschädigt oder verspätet abgeliefert worden oder verlorengegangen, so kann der Empfänger die Ansprüche aus dem Frachtvertrag im eigenen Namen gegen den Frachtführer geltend machen; der Absender bleibt zur Geltendmachung dieser Ansprüche befugt. Dabei macht es keinen Unterschied, ob Empfänger oder Absender im eigenen oder fremden Interesse handeln.
 
@@ -5696,7 +5712,7 @@ Wird das Gut nur teilweise verladen, so kann der Absender jederzeit verlangen, d
 
 (4) Der Absender bleibt zur Zahlung der nach dem Vertrag geschuldeten Beträge verpflichtet.
 
-##### § 422 Nachnahme
+###### § 422 Nachnahme
 
 (1) Haben die Parteien vereinbart, daß das Gut nur gegen Einziehung einer Nachnahme an den Empfänger abgeliefert werden darf, so ist anzunehmen, daß der Betrag in bar oder in Form eines gleichwertigen Zahlungsmittels einzuziehen ist.
 
@@ -5704,11 +5720,11 @@ Wird das Gut nur teilweise verladen, so kann der Absender jederzeit verlangen, d
 
 (3) Wird das Gut dem Empfänger ohne Einziehung der Nachnahme abgeliefert, so haftet der Frachtführer, auch wenn ihn kein Verschulden trifft, dem Absender für den daraus entstehenden Schaden, jedoch nur bis zur Höhe des Betrages der Nachnahme.
 
-##### § 423 Lieferfrist
+###### § 423 Lieferfrist
 
 Der Frachtführer ist verpflichtet, das Gut innerhalb der vereinbarten Frist oder mangels Vereinbarung innerhalb der Frist abzuliefern, die einem sorgfältigen Frachtführer unter Berücksichtigung der Umstände vernünftigerweise zuzubilligen ist (Lieferfrist).
 
-##### § 424 Verlustvermutung
+###### § 424 Verlustvermutung
 
 (1) Der Anspruchsberechtigte kann das Gut als verloren betrachten, wenn es weder innerhalb der Lieferfrist noch innerhalb eines weiteren Zeitraums abgeliefert wird, der der Lieferfrist entspricht, mindestens aber zwanzig Tage, bei einer grenzüberschreitenden Beförderung dreißig Tage beträgt.
 
@@ -5718,17 +5734,17 @@ Der Frachtführer ist verpflichtet, das Gut innerhalb der vereinbarten Frist ode
 
 (4) Wird das Gut nach Zahlung einer Entschädigung wiederaufgefunden und hat der Anspruchsberechtigte eine Benachrichtigung nicht verlangt oder macht er nach Benachrichtigung seinen Anspruch auf Ablieferung nicht geltend, so kann der Frachtführer über das Gut frei verfügen.
 
-##### § 425 Haftung für Güter- und Verspätungsschäden. Schadensteilung
+###### § 425 Haftung für Güter- und Verspätungsschäden. Schadensteilung
 
 (1) Der Frachtführer haftet für den Schaden, der durch Verlust oder Beschädigung des Gutes in der Zeit von der Übernahme zur Beförderung bis zur Ablieferung oder durch Überschreitung der Lieferfrist entsteht.
 
 (2) Hat bei der Entstehung des Schadens ein Verhalten des Absenders oder des Empfängers oder ein besonderer Mangel des Gutes mitgewirkt, so hängen die Verpflichtung zum Ersatz sowie der Umfang des zu leistenden Ersatzes davon ab, inwieweit diese Umstände zu dem Schaden beigetragen haben.
 
-##### § 426 Haftungsausschluß
+###### § 426 Haftungsausschluß
 
 Der Frachtführer ist von der Haftung befreit, soweit der Verlust, die Beschädigung oder die Überschreitung der Lieferfrist auf Umständen beruht, die der Frachtführer auch bei größter Sorgfalt nicht vermeiden und deren Folgen er nicht abwenden konnte.
 
-##### § 427 Besondere Haftungsausschlußgründe
+###### § 427 Besondere Haftungsausschlußgründe
 
 (1) Der Frachtführer ist von seiner Haftung befreit, soweit der Verlust, die Beschädigung oder die Überschreitung der Lieferfrist auf eine der folgenden Gefahren zurückzuführen ist:
 
@@ -5752,11 +5768,11 @@ Der Frachtführer ist von der Haftung befreit, soweit der Verlust, die Beschädi
 
 (5) Der Frachtführer kann sich auf Absatz 1 Nr. 6 nur berufen, wenn er alle ihm nach den Umständen obliegenden Maßnahmen getroffen und besondere Weisungen beachtet hat.
 
-##### § 428 Haftung für andere
+###### § 428 Haftung für andere
 
 Der Frachtführer hat Handlungen und Unterlassungen seiner Leute in gleichem Umfange zu vertreten wie eigene Handlungen und Unterlassungen, wenn die Leute in Ausübung ihrer Verrichtungen handeln. Gleiches gilt für Handlungen und Unterlassungen anderer Personen, deren er sich bei Ausführung der Beförderung bedient.
 
-##### § 429 Wertersatz
+###### § 429 Wertersatz
 
 (1) Hat der Frachtführer für gänzlichen oder teilweisen Verlust des Gutes Schadenersatz zu leisten, so ist der Wert am Ort und zur Zeit der Übernahme zur Beförderung zu ersetzen.
 
@@ -5764,11 +5780,11 @@ Der Frachtführer hat Handlungen und Unterlassungen seiner Leute in gleichem Umf
 
 (3) Der Wert des Gutes bestimmt sich nach dem Marktpreis, sonst nach dem gemeinen Wert von Gütern gleicher Art und Beschaffenheit. Ist das Gut unmittelbar vor Übernahme zur Beförderung verkauft worden, so wird vermutet, daß der in der Rechnung des Verkäufers ausgewiesene Kaufpreis abzüglich darin enthaltener Beförderungskosten der Marktpreis ist.
 
-##### § 430 Schadensfeststellungskosten
+###### § 430 Schadensfeststellungskosten
 
 Bei Verlust oder Beschädigung des Gutes hat der Frachtführer über den nach § 429 zu leistenden Ersatz hinaus die Kosten der Feststellung des Schadens zu tragen.
 
-##### § 431 Haftungshöchstbetrag
+###### § 431 Haftungshöchstbetrag
 
 (1) Die nach den §§ 429 und 430 zu leistende Entschädigung wegen Verlust oder Beschädigung ist auf einen Betrag von 8,33 Rechnungseinheiten für jedes Kilogramm des Rohgewichts des Gutes begrenzt.
 
@@ -5782,15 +5798,15 @@ Bei Verlust oder Beschädigung des Gutes hat der Frachtführer über den nach §
 
 (4) Die in den Absätzen 1 und 2 genannte Rechnungseinheit ist das Sonderziehungsrecht des Internationalen Währungsfonds. Der Betrag wird in Euro entsprechend dem Wert des Euro gegenüber dem Sonderziehungsrecht am Tag der Übernahme des Gutes zur Beförderung oder an dem von den Parteien vereinbarten Tag umgerechnet. Der Wert des Euro gegenüber dem Sonderziehungsrecht wird nach der Berechnungsmethode ermittelt, die der Internationale Währungsfonds an dem betreffenden Tag für seine Operationen und Transaktionen anwendet.
 
-##### § 432 Ersatz sonstiger Kosten
+###### § 432 Ersatz sonstiger Kosten
 
 Haftet der Frachtführer wegen Verlust oder Beschädigung, so hat er über den nach den §§ 429 bis 431 zu leistenden Ersatz hinaus die Fracht, öffentliche Abgaben und sonstige Kosten aus Anlaß der Beförderung des Gutes zu erstatten, im Fall der Beschädigung jedoch nur in dem nach § 429 Abs. 2 zu ermittelnden Wertverhältnis. Weiteren Schaden hat er nicht zu ersetzen.
 
-##### § 433 Haftungshöchstbetrag bei sonstigen Vermögensschäden
+###### § 433 Haftungshöchstbetrag bei sonstigen Vermögensschäden
 
 Haftet der Frachtführer wegen der Verletzung einer mit der Ausführung der Beförderung des Gutes zusammenhängenden vertraglichen Pflicht für Schäden, die nicht durch Verlust oder Beschädigung des Gutes oder durch Überschreitung der Lieferfrist entstehen, und handelt es sich um andere Schäden als Sach- oder Personenschäden, so ist auch in diesem Falle die Haftung begrenzt, und zwar auf das Dreifache des Betrages, der bei Verlust des Gutes zu zahlen wäre.
 
-##### § 434 Außervertragliche Ansprüche
+###### § 434 Außervertragliche Ansprüche
 
 (1) Die in diesem Unterabschnitt und im Frachtvertrag vorgesehenen Haftungsbefreiungen und Haftungsbegrenzungen gelten auch für einen außervertraglichen Anspruch des Absenders oder des Empfängers gegen den Frachtführer wegen Verlust oder Beschädigung des Gutes oder wegen Überschreitung der Lieferfrist.
 
@@ -5804,15 +5820,15 @@ Haftet der Frachtführer wegen der Verletzung einer mit der Ausführung der Bef�
 
 Satz 2 Nummer 1 gilt jedoch nicht für eine nach § 449 zulässige Vereinbarung über die Begrenzung der vom Frachtführer zu leistenden Entschädigung wegen Verlust oder Beschädigung des Gutes auf einen niedrigeren als den gesetzlich vorgesehenen Betrag, wenn dieser den Betrag von 2 Rechnungseinheiten nicht unterschreitet.
 
-##### § 435 Wegfall der Haftungsbefreiungen und -begrenzungen
+###### § 435 Wegfall der Haftungsbefreiungen und -begrenzungen
 
 Die in diesem Unterabschnitt und im Frachtvertrag vorgesehenen Haftungsbefreiungen und Haftungsbegrenzungen gelten nicht, wenn der Schaden auf eine Handlung oder Unterlassung zurückzuführen ist, die der Frachtführer oder eine in § 428 genannte Person vorsätzlich oder leichtfertig und in dem Bewußtsein, daß ein Schaden mit Wahrscheinlichkeit eintreten werde, begangen hat.
 
-##### § 436 Haftung der Leute
+###### § 436 Haftung der Leute
 
 Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigung des Gutes oder wegen Überschreitung der Lieferfrist gegen einen der Leute des Frachtführers erhoben, so kann sich auch jener auf die in diesem Unterabschnitt und im Frachtvertrag vorgesehenen Haftungsbefreiungen und -begrenzungen berufen. Dies gilt nicht, wenn er vorsätzlich oder leichtfertig und in dem Bewußtsein, daß ein Schaden mit Wahrscheinlichkeit eintreten werde, gehandelt hat.
 
-##### § 437 Ausführender Frachtführer
+###### § 437 Ausführender Frachtführer
 
 (1) Wird die Beförderung ganz oder teilweise durch einen Dritten ausgeführt (ausführender Frachtführer), so haftet dieser für den Schaden, der durch Verlust oder Beschädigung des Gutes oder durch Überschreitung der Lieferfrist während der durch ihn ausgeführten Beförderung entsteht, so, als wäre er der Frachtführer. Vertragliche Vereinbarungen mit dem Absender oder Empfänger, durch die der Frachtführer seine Haftung erweitert, wirken gegen den ausführenden Frachtführer nur, soweit er ihnen in Textform zugestimmt hat.
 
@@ -5822,7 +5838,7 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 (4) Werden die Leute des ausführenden Frachtführers in Anspruch genommen, so gilt für diese § 436 entsprechend.
 
-##### § 438 Schadensanzeige
+###### § 438 Schadensanzeige
 
 (1) Ist ein Verlust oder eine Beschädigung des Gutes äußerlich erkennbar und zeigt der Empfänger oder der Absender dem Frachtführer Verlust oder Beschädigung nicht spätestens bei Ablieferung des Gutes an, so wird vermutet, daß das Gut vollständig und unbeschädigt abgeliefert worden ist. Die Anzeige muß den Verlust oder die Beschädigung hinreichend deutlich kennzeichnen.
 
@@ -5834,7 +5850,7 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 (5) Werden Verlust, Beschädigung oder Überschreitung der Lieferfrist bei Ablieferung angezeigt, so genügt die Anzeige gegenüber demjenigen, der das Gut abliefert.
 
-##### § 439 Verjährung
+###### § 439 Verjährung
 
 (1) Ansprüche aus einer Beförderung, die den Vorschriften dieses Unterabschnitts unterliegt, verjähren in einem Jahr. Bei Vorsatz oder bei einem dem Vorsatz nach § 435 gleichstehenden Verschulden beträgt die Verjährungsfrist drei Jahre.
 
@@ -5844,7 +5860,7 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 (4) Die Verjährung von Schadensersatzansprüchen wegen Verlust oder Beschädigung des Gutes oder wegen Überschreitung der Lieferfrist kann nur durch Vereinbarung, die im einzelnen ausgehandelt ist, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen ist, erleichtert oder erschwert werden.
 
-##### § 440 Pfandrecht des Frachtführers
+###### § 440 Pfandrecht des Frachtführers
 
 (1) Der Frachtführer hat für alle Forderungen aus dem Frachtvertrag ein Pfandrecht an dem ihm zur Beförderung übergebenen Gut des Absenders oder eines Dritten, der der Beförderung des Gutes zugestimmt hat. An dem Gut des Absenders hat der Frachtführer auch ein Pfandrecht für alle unbestrittenen Forderungen aus anderen mit dem Absender abgeschlossenen Fracht-, Seefracht-, Speditions- und Lagerverträgen. Das Pfandrecht nach den Sätzen 1 und 2 erstreckt sich auf die Begleitpapiere.
 
@@ -5854,7 +5870,7 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 (4) Die in § 1234 Abs. 1 des Bürgerlichen Gesetzbuchs bezeichnete Androhung des Pfandverkaufs sowie die in den §§ 1237 und 1241 des Bürgerlichen Gesetzbuchs vorgesehenen Benachrichtigungen sind an den nach § 418 oder § 446 verfügungsberechtigten Empfänger zu richten. Ist dieser nicht zu ermitteln oder verweigert er die Annahme des Gutes, so haben die Androhung und die Benachrichtigung gegenüber dem Absender zu erfolgen.
 
-##### § 441 Nachfolgender Frachtführer
+###### § 441 Nachfolgender Frachtführer
 
 (1) Hat im Falle der Beförderung durch mehrere Frachtführer der letzte bei der Ablieferung die Forderungen der vorhergehenden Frachtführer einzuziehen, so hat er die Rechte der vorhergehenden Frachtführer, insbesondere auch das Pfandrecht, auszuüben. Das Pfandrecht jedes vorhergehenden Frachtführers bleibt so lange bestehen wie das Pfandrecht des letzten Frachtführers.
 
@@ -5862,13 +5878,13 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 (3) Die Absätze 1 und 2 gelten auch für die Forderungen und Rechte eines Spediteurs, der an der Beförderung mitgewirkt hat.
 
-##### § 442 Rang mehrerer Pfandrechte
+###### § 442 Rang mehrerer Pfandrechte
 
 (1) Bestehen an demselben Gut mehrere nach den §§ 397, 440, 464, 475b und 495 begründete Pfandrechte, so geht unter denjenigen Pfandrechten, die durch die Versendung oder durch die Beförderung des Gutes entstanden sind, das später entstandene dem früher entstandenen vor.
 
 (2) Diese Pfandrechte haben Vorrang vor dem nicht aus der Versendung entstandenen Pfandrecht des Kommissionärs und des Lagerhalters sowie vor dem Pfandrecht des Spediteurs, des Frachtführers und des Verfrachters für Vorschüsse.
 
-##### § 443 Ladeschein. Verordnungsermächtigung
+###### § 443 Ladeschein. Verordnungsermächtigung
 
 (1) Über die Verpflichtung zur Ablieferung des Gutes kann von dem Frachtführer ein Ladeschein ausgestellt werden, der die in § 408 Abs. 1 genannten Angaben enthalten soll. Der Ladeschein ist vom Frachtführer zu unterzeichnen; eine Nachbildung der eigenhändigen Unterschrift durch Druck oder durch Stempel genügt.
 
@@ -5876,7 +5892,7 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 (3) Dem Ladeschein gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Ladeschein, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Ladeschein). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und für Heimat durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Ladescheins sowie die Einzelheiten des Verfahrens einer nachträglichen Eintragung in einen elektronischen Ladeschein zu regeln.
 
-##### § 444 Wirkung des Ladescheins. Legitimation
+###### § 444 Wirkung des Ladescheins. Legitimation
 
 (1) Der Ladeschein begründet die Vermutung, dass der Frachtführer das Gut so übernommen hat, wie es im Ladeschein beschrieben ist; § 409 Absatz 2 und 3 Satz 1 gilt entsprechend.
 
@@ -5890,7 +5906,7 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 3. auf den Namen des Besitzers lautet.
 
-##### § 445 Ablieferung gegen Rückgabe des Ladescheins
+###### § 445 Ablieferung gegen Rückgabe des Ladescheins
 
 (1) Nach Ankunft des Gutes an der Ablieferungsstelle ist der legitimierte Besitzer des Ladescheins berechtigt, vom Frachtführer die Ablieferung des Gutes zu verlangen. Macht er von diesem Recht Gebrauch, ist er entsprechend § 421 Absatz 2 und 3 zur Zahlung der Fracht und einer sonstigen Vergütung verpflichtet.
 
@@ -5898,23 +5914,23 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 (3) Liefert der Frachtführer das Gut einem anderen als dem legitimierten Besitzer des Ladescheins oder, im Falle des Absatzes 2 Satz 2, einem anderen als dem aus dem Ladeschein Berechtigten ab, haftet er für den Schaden, der dem aus dem Ladeschein Berechtigten daraus entsteht. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
-##### § 446 Befolgung von Weisungen
+###### § 446 Befolgung von Weisungen
 
 (1) Das Verfügungsrecht nach den §§ 418 und 419 steht, wenn ein Ladeschein ausgestellt worden ist, ausschließlich dem legitimierten Besitzer des Ladescheins zu. Der Frachtführer darf Weisungen nur gegen Vorlage des Ladescheins ausführen. Weisungen des legitimierten Besitzers des Ladescheins darf er jedoch nicht ausführen, wenn ihm bekannt oder infolge grober Fahrlässigkeit unbekannt ist, dass der legitimierte Besitzer des Ladescheins nicht der aus dem Ladeschein Berechtigte ist.
 
 (2) Befolgt der Frachtführer Weisungen, ohne sich den Ladeschein vorlegen zu lassen, haftet er dem aus dem Ladeschein Berechtigten für den Schaden, der diesem daraus entsteht. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
-##### § 447 Einwendungen
+###### § 447 Einwendungen
 
 (1) Dem aus dem Ladeschein Berechtigten kann der Frachtführer nur solche Einwendungen entgegensetzen, die die Gültigkeit der Erklärungen im Ladeschein betreffen oder sich aus dem Inhalt des Ladescheins ergeben oder dem Frachtführer unmittelbar gegenüber dem aus dem Ladeschein Berechtigten zustehen. Eine Vereinbarung, auf die im Ladeschein lediglich verwiesen wird, ist nicht Inhalt des Ladescheins.
 
 (2) Wird ein ausführender Frachtführer nach § 437 von dem aus dem Ladeschein Berechtigten in Anspruch genommen, kann auch der ausführende Frachtführer die Einwendungen nach Absatz 1 geltend machen.
 
-##### § 448 Traditionswirkung des Ladescheins
+###### § 448 Traditionswirkung des Ladescheins
 
 Die Begebung des Ladescheins an den darin benannten Empfänger hat, sofern der Frachtführer das Gut im Besitz hat, für den Erwerb von Rechten an dem Gut dieselben Wirkungen wie die Übergabe des Gutes. Gleiches gilt für die Übertragung des Ladescheins an Dritte.
 
-##### § 449 Abweichende Vereinbarungen über die Haftung
+###### § 449 Abweichende Vereinbarungen über die Haftung
 
 (1) Soweit der Frachtvertrag nicht die Beförderung von Briefen oder briefähnlichen Sendungen zum Gegenstand hat, kann von den Haftungsvorschriften in § 413 Absatz 2, den §§ 414, 418 Absatz 6, § 422 Absatz 3, den §§ 425 bis 438, 445 Absatz 3 und § 446 Absatz 2 nur durch Vereinbarung abgewichen werden, die im Einzelnen ausgehandelt wird, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen wird. Der Frachtführer kann sich jedoch auf eine Bestimmung im Ladeschein, die von den in Satz 1 genannten Vorschriften zu Lasten des aus dem Ladeschein Berechtigten abweicht, nicht gegenüber einem im Ladeschein benannten Empfänger, an den der Ladeschein begeben wurde, sowie gegenüber einem Dritten, dem der Ladeschein übertragen wurde, berufen.
 
@@ -5930,7 +5946,7 @@ Ferner kann abweichend von Absatz 1 durch vorformulierte Vertragsbedingungen die
 
 (4) Unterliegt der Frachtvertrag ausländischem Recht, so sind die Absätze 1 bis 3 gleichwohl anzuwenden, wenn nach dem Vertrag sowohl der Ort der Übernahme als auch der Ort der Ablieferung des Gutes im Inland liegen.
 
-##### § 450 Anwendung von Seefrachtrecht
+###### § 450 Anwendung von Seefrachtrecht
 
 Hat der Frachtvertrag die Beförderung des Gutes ohne Umladung sowohl auf Binnen- als auch auf Seegewässern zum Gegenstand, so ist auf den Vertrag Seefrachtrecht anzuwenden, wenn
 
@@ -5940,17 +5956,17 @@ Hat der Frachtvertrag die Beförderung des Gutes ohne Umladung sowohl auf Binnen
 
 ## Zweiter Unterabschnitt Beförderung von Umzugsgut
 
-##### § 451 Umzugsvertrag
+###### § 451 Umzugsvertrag
 
 Hat der Frachtvertrag die Beförderung von Umzugsgut zum Gegenstand, so sind auf den Vertrag die Vorschriften des Ersten Unterabschnitts anzuwenden, soweit die folgenden besonderen Vorschriften oder anzuwendende internationale Übereinkommen nichts anderes bestimmen.
 
-##### § 451a Pflichten des Frachtführers
+###### § 451a Pflichten des Frachtführers
 
 (1) Die Pflichten des Frachtführers umfassen auch das Ab- und Aufbauen der Möbel sowie das Ver- und Entladen des Umzugsgutes.
 
 (2) Ist der Absender ein Verbraucher, so zählt zu den Pflichten des Frachtführers ferner die Ausführung sonstiger auf den Umzug bezogener Leistungen wie die Verpackung und Kennzeichnung des Umzugsgutes.
 
-##### § 451b Frachtbrief. Gefährliches Gut. Begleitpapiere. Mitteilungs- und Auskunftspflichten
+###### § 451b Frachtbrief. Gefährliches Gut. Begleitpapiere. Mitteilungs- und Auskunftspflichten
 
 (1) Abweichend von § 408 ist der Absender nicht verpflichtet, einen Frachtbrief auszustellen.
 
@@ -5958,9 +5974,9 @@ Hat der Frachtvertrag die Beförderung von Umzugsgut zum Gegenstand, so sind auf
 
 (3) Der Frachtführer hat den Absender, wenn dieser ein Verbraucher ist, über die zu beachtenden Zoll- und sonstigen Verwaltungsvorschriften zu unterrichten. Er ist jedoch nicht verpflichtet zu prüfen, ob vom Absender zur Verfügung gestellte Urkunden und erteilte Auskünfte richtig und vollständig sind.
 
-##### § 451c (weggefallen)
+###### § 451c (weggefallen)
 
-##### § 451d Besondere Haftungsausschlußgründe
+###### § 451d Besondere Haftungsausschlußgründe
 
 (1) Abweichend von § 427 ist der Frachtführer von seiner Haftung befreit, soweit der Verlust oder die Beschädigung auf eine der folgenden Gefahren zurückzuführen ist:
 
@@ -5982,11 +5998,11 @@ Hat der Frachtvertrag die Beförderung von Umzugsgut zum Gegenstand, so sind auf
 
 (3) Der Frachtführer kann sich auf Absatz 1 nur berufen, wenn er alle ihm nach den Umständen obliegenden Maßnahmen getroffen und besondere Weisungen beachtet hat.
 
-##### § 451e Haftungshöchstbetrag
+###### § 451e Haftungshöchstbetrag
 
 Abweichend von § 431 Abs. 1 und 2 ist die Haftung des Frachtführers wegen Verlust oder Beschädigung auf einen Betrag von 620 Euro je Kubikmeter Laderaum, der zur Erfüllung des Vertrages benötigt wird, beschränkt.
 
-##### § 451f Schadensanzeige
+###### § 451f Schadensanzeige
 
 Abweichend von § 438 Abs. 1 und 2 erlöschen Ansprüche wegen Verlust oder Beschädigung des Gutes,
 
@@ -5994,7 +6010,7 @@ Abweichend von § 438 Abs. 1 und 2 erlöschen Ansprüche wegen Verlust oder Besc
 
 2. wenn der Verlust oder die Beschädigung äußerlich nicht erkennbar war und dem Frachtführer nicht innerhalb von vierzehn Tagen nach Ablieferung angezeigt worden ist.
 
-##### § 451g Wegfall der Haftungsbefreiungen und -begrenzungen
+###### § 451g Wegfall der Haftungsbefreiungen und -begrenzungen
 
 Ist der Absender ein Verbraucher, so kann sich der Frachtführer oder eine in § 428 genannte Person
 
@@ -6004,7 +6020,7 @@ Ist der Absender ein Verbraucher, so kann sich der Frachtführer oder eine in §
 
 Die Unterrichtung nach Satz 1 Nr. 1 muß in drucktechnisch deutlicher Gestaltung besonders hervorgehoben sein.
 
-##### § 451h Abweichende Vereinbarungen
+###### § 451h Abweichende Vereinbarungen
 
 (1) Ist der Absender ein Verbraucher, so kann von den die Haftung des Frachtführers und des Absenders regelnden Vorschriften dieses Unterabschnitts sowie den danach auf den Umzugsvertrag anzuwendenden Vorschriften des Ersten Unterabschnitts nicht zum Nachteil des Absenders abgewichen werden.
 
@@ -6015,25 +6031,25 @@ Die Unterrichtung nach Satz 1 Nr. 1 muß in drucktechnisch deutlicher Gestaltung
 ## Dritter Unterabschnitt Beförderung mit
 verschiedenartigen Beförderungsmitteln
 
-##### § 452 Frachtvertrag über eine Beförderung mit verschiedenartigen Beförderungsmitteln
+###### § 452 Frachtvertrag über eine Beförderung mit verschiedenartigen Beförderungsmitteln
 
 Wird die Beförderung des Gutes auf Grund eines einheitlichen Frachtvertrags mit verschiedenartigen Beförderungsmitteln durchgeführt und wären, wenn über jeden Teil der Beförderung mit jeweils einem Beförderungsmittel (Teilstrecke) zwischen den Vertragsparteien ein gesonderter Vertrag abgeschlossen worden wäre, mindestens zwei dieser Verträge verschiedenen Rechtsvorschriften unterworfen, so sind auf den Vertrag die Vorschriften des Ersten Unterabschnitts anzuwenden, soweit die folgenden besonderen Vorschriften oder anzuwendende internationale Übereinkommen nichts anderes bestimmen. Dies gilt auch dann, wenn ein Teil der Beförderung über See durchgeführt wird.
 
-##### § 452a Bekannter Schadensort
+###### § 452a Bekannter Schadensort
 
 Steht fest, daß der Verlust, die Beschädigung oder das Ereignis, das zu einer Überschreitung der Lieferfrist geführt hat, auf einer bestimmten Teilstrecke eingetreten ist, so bestimmt sich die Haftung des Frachtführers abweichend von den Vorschriften des Ersten Unterabschnitts nach den Rechtsvorschriften, die auf einen Vertrag über eine Beförderung auf dieser Teilstrecke anzuwenden wären. Der Beweis dafür, daß der Verlust, die Beschädigung oder das zu einer Überschreitung der Lieferfrist führende Ereignis auf einer bestimmten Teilstrecke eingetreten ist, obliegt demjenigen, der dies behauptet.
 
-##### § 452b Schadensanzeige. Verjährung
+###### § 452b Schadensanzeige. Verjährung
 
 (1) § 438 ist unabhängig davon anzuwenden, ob der Schadensort unbekannt ist, bekannt ist oder später bekannt wird. Die für die Schadensanzeige vorgeschriebene Form und Frist ist auch gewahrt, wenn die Vorschriften eingehalten werden, die auf einen Vertrag über eine Beförderung auf der letzten Teilstrecke anzuwenden wären.
 
 (2) Für den Beginn der Verjährung des Anspruchs wegen Verlust, Beschädigung oder Überschreitung der Lieferfrist ist, wenn auf den Ablieferungszeitpunkt abzustellen ist, der Zeitpunkt der Ablieferung an den Empfänger maßgebend. Der Anspruch verjährt auch bei bekanntem Schadensort frühestens nach Maßgabe des § 439.
 
-##### § 452c Umzugsvertrag über eine Beförderung mit verschiedenartigen Beförderungsmitteln
+###### § 452c Umzugsvertrag über eine Beförderung mit verschiedenartigen Beförderungsmitteln
 
 Hat der Frachtvertrag die Beförderung von Umzugsgut mit verschiedenartigen Beförderungsmitteln zum Gegenstand, so sind auf den Vertrag die Vorschriften des Zweiten Unterabschnitts anzuwenden. § 452a ist nur anzuwenden, soweit für die Teilstrecke, auf der der Schaden eingetreten ist, Bestimmungen eines für die Bundesrepublik Deutschland verbindlichen internationalen Übereinkommens gelten.
 
-##### § 452d Abweichende Vereinbarungen
+###### § 452d Abweichende Vereinbarungen
 
 (1) Von der Regelung des § 452b Abs. 2 Satz 1 kann nur durch Vereinbarung abgewichen werden, die im einzelnen ausgehandelt ist, auch wenn diese für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen ist. Von den übrigen Regelungen dieses Unterabschnitts kann nur insoweit durch vertragliche Vereinbarung abgewichen werden, als die darin in Bezug genommenen Vorschriften abweichende Vereinbarungen zulassen.
 
@@ -6049,7 +6065,7 @@ nach den Vorschriften des Ersten Unterabschnitts bestimmt.
 
 ## Fünfter Abschnitt Speditionsgeschäft
 
-##### § 453 Speditionsvertrag
+###### § 453 Speditionsvertrag
 
 (1) Durch den Speditionsvertrag wird der Spediteur verpflichtet, die Versendung des Gutes zu besorgen.
 
@@ -6057,7 +6073,7 @@ nach den Vorschriften des Ersten Unterabschnitts bestimmt.
 
 (3) Die Vorschriften dieses Abschnitts gelten nur, wenn die Besorgung der Versendung zum Betrieb eines gewerblichen Unternehmens gehört. Erfordert das Unternehmen nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht und ist die Firma des Unternehmens auch nicht nach § 2 in das Handelsregister eingetragen, so sind in Ansehung des Speditionsgeschäfts auch insoweit die Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
 
-##### § 454 Besorgung der Versendung
+###### § 454 Besorgung der Versendung
 
 (1) Die Pflicht, die Versendung zu besorgen, umfaßt die Organisation der Beförderung, insbesondere
 
@@ -6073,7 +6089,7 @@ nach den Vorschriften des Ersten Unterabschnitts bestimmt.
 
 (4) Der Spediteur hat bei Erfüllung seiner Pflichten das Interesse des Versenders wahrzunehmen und dessen Weisungen zu befolgen.
 
-##### § 455 Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten
+###### § 455 Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten
 
 (1) Der Versender ist verpflichtet, das Gut, soweit erforderlich, zu verpacken und zu kennzeichnen und Urkunden zur Verfügung zu stellen sowie alle Auskünfte zu erteilen, deren der Spediteur zur Erfüllung seiner Pflichten bedarf. Soll gefährliches Gut versendet werden, so hat der Versender dem Spediteur rechtzeitig in Textform die genaue Art der Gefahr und, soweit erforderlich, zu ergreifende Vorsichtsmaßnahmen mitzuteilen.
 
@@ -6089,29 +6105,29 @@ nach den Vorschriften des Ersten Unterabschnitts bestimmt.
 
 (3) Ist der Versender ein Verbraucher, so hat er dem Spediteur Schäden und Aufwendungen nach Absatz 2 nur zu ersetzen, soweit ihn ein Verschulden trifft.
 
-##### § 456 Fälligkeit der Vergütung
+###### § 456 Fälligkeit der Vergütung
 
 Die Vergütung ist zu zahlen, wenn das Gut dem Frachtführer oder Verfrachter übergeben worden ist.
 
-##### § 457 Forderungen des Versenders
+###### § 457 Forderungen des Versenders
 
 Der Versender kann Forderungen aus einem Vertrag, den der Spediteur für Rechnung des Versenders im eigenen Namen abgeschlossen hat, erst nach der Abtretung geltend machen. Solche Forderungen sowie das in Erfüllung solcher Forderungen Erlangte gelten jedoch im Verhältnis zu den Gläubigern des Spediteurs als auf den Versender übertragen.
 
-##### § 458 Selbsteintritt
+###### § 458 Selbsteintritt
 
 Der Spediteur ist befugt, die Beförderung des Gutes durch Selbsteintritt auszuführen. Macht er von dieser Befugnis Gebrauch, so hat er hinsichtlich der Beförderung die Rechte und Pflichten eines Frachtführers oder Verfrachters. In diesem Fall kann er neben der Vergütung für seine Tätigkeit als Spediteur die gewöhnliche Fracht verlangen.
 
-##### § 459 Spedition zu festen Kosten
+###### § 459 Spedition zu festen Kosten
 
 Soweit als Vergütung ein bestimmter Betrag vereinbart ist, der Kosten für die Beförderung einschließt, hat der Spediteur hinsichtlich der Beförderung die Rechte und Pflichten eines Frachtführers oder Verfrachters. In diesem Fall hat er Anspruch auf Ersatz seiner Aufwendungen nur, soweit dies üblich ist.
 
-##### § 460 Sammelladung
+###### § 460 Sammelladung
 
 (1) Der Spediteur ist befugt, die Versendung des Gutes zusammen mit Gut eines anderen Versenders auf Grund eines für seine Rechnung über eine Sammelladung geschlossenen Frachtvertrages zu bewirken.
 
 (2) Macht der Spediteur von dieser Befugnis Gebrauch, so hat er hinsichtlich der Beförderung in Sammelladung die Rechte und Pflichten eines Frachtführers oder Verfrachters. In diesem Fall kann der Spediteur eine den Umständen nach angemessene Vergütung verlangen, höchstens aber die für die Beförderung des einzelnen Gutes gewöhnliche Fracht.
 
-##### § 461 Haftung des Spediteurs
+###### § 461 Haftung des Spediteurs
 
 (1) Der Spediteur haftet für den Schaden, der durch Verlust oder Beschädigung des in seiner Obhut befindlichen Gutes entsteht. Die §§ 426, 427, 429, 430, 431 Abs. 1, 2 und 4, die §§ 432, 434 bis 436 sind entsprechend anzuwenden.
 
@@ -6119,25 +6135,25 @@ Soweit als Vergütung ein bestimmter Betrag vereinbart ist, der Kosten für die 
 
 (3) Hat bei der Entstehung des Schadens ein Verhalten des Versenders oder ein besonderer Mangel des Gutes mitgewirkt, so hängen die Verpflichtung zum Ersatz sowie der Umfang des zu leistenden Ersatzes davon ab, inwieweit diese Umstände zu dem Schaden beigetragen haben.
 
-##### § 462 Haftung für andere
+###### § 462 Haftung für andere
 
 Der Spediteur hat Handlungen und Unterlassungen seiner Leute in gleichem Umfang zu vertreten wie eigene Handlungen und Unterlassungen, wenn die Leute in Ausübung ihrer Verrichtungen handeln. Gleiches gilt für Handlungen und Unterlassungen anderer Personen, deren er sich bei Erfüllung seiner Pflicht, die Versendung zu besorgen, bedient.
 
-##### § 463 Verjährung
+###### § 463 Verjährung
 
 Auf die Verjährung der Ansprüche aus einer Leistung, die den Vorschriften dieses Abschnitts unterliegt, ist § 439 entsprechend anzuwenden.
 
-##### § 464 Pfandrecht des Spediteurs
+###### § 464 Pfandrecht des Spediteurs
 
 Der Spediteur hat für alle Forderungen aus dem Speditionsvertrag ein Pfandrecht an dem ihm zur Versendung übergebenen Gut des Versenders oder eines Dritten, der der Versendung des Gutes zugestimmt hat. An dem Gut des Versenders hat der Spediteur auch ein Pfandrecht für alle unbestrittenen Forderungen aus anderen mit dem Versender abgeschlossenen Speditions-, Fracht-, Seefracht- und Lagerverträgen. § 440 Absatz 1 Satz 3 und Absatz 2 bis 4 ist entsprechend anzuwenden.
 
-##### § 465 Nachfolgender Spediteur
+###### § 465 Nachfolgender Spediteur
 
 (1) Wirkt an einer Beförderung neben dem Frachtführer auch ein Spediteur mit und hat dieser die Ablieferung zu bewirken, so ist auf den Spediteur § 441 Absatz 1 entsprechend anzuwenden.
 
 (2) Wird ein vorhergehender Frachtführer oder Spediteur von einem nachfolgenden Spediteur befriedigt, so gehen Forderung und Pfandrecht des ersteren auf den letzteren über.
 
-##### § 466 Abweichende Vereinbarungen über die Haftung
+###### § 466 Abweichende Vereinbarungen über die Haftung
 
 (1) Soweit der Speditionsvertrag nicht die Versendung von Briefen oder briefähnlichen Sendungen zum Gegenstand hat, kann von den Haftungsvorschriften in § 455 Absatz 2 und 3, § 461 Absatz 1 sowie in den §§ 462 und 463 nur durch Vereinbarung abgewichen werden, die im Einzelnen ausgehandelt wird, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen wird.
 
@@ -6157,7 +6173,7 @@ Ferner kann durch vorformulierte Vertragsbedingungen die vom Versender nach § 4
 
 ## Sechster Abschnitt Lagergeschäft
 
-##### § 467 Lagervertrag
+###### § 467 Lagervertrag
 
 (1) Durch den Lagervertrag wird der Lagerhalter verpflichtet, das Gut zu lagern und aufzubewahren.
 
@@ -6165,7 +6181,7 @@ Ferner kann durch vorformulierte Vertragsbedingungen die vom Versender nach § 4
 
 (3) Die Vorschriften dieses Abschnitts gelten nur, wenn die Lagerung und Aufbewahrung zum Betrieb eines gewerblichen Unternehmens gehören. Erfordert das Unternehmen nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht und ist die Firma des Unternehmens auch nicht nach § 2 in das Handelsregister eingetragen, so sind in Ansehung des Lagergeschäfts auch insoweit die Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
 
-##### § 468 Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten
+###### § 468 Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten
 
 (1) Der Einlagerer ist verpflichtet, dem Lagerhalter, wenn gefährliches Gut eingelagert werden soll, rechtzeitig in Textform die genaue Art der Gefahr und, soweit erforderlich, zu ergreifende Vorsichtsmaßnahmen mitzuteilen. Er hat ferner das Gut, soweit erforderlich, zu verpacken und zu kennzeichnen und Urkunden zur Verfügung zu stellen sowie alle Auskünfte zu erteilen, die der Lagerhalter zur Erfüllung seiner Pflichten benötigt.
 
@@ -6189,7 +6205,7 @@ Der Lagerhalter hat in diesem Falle den Einlagerer über dessen Pflicht nach Sat
 
 (4) Ist der Einlagerer ein Verbraucher, so hat er dem Lagerhalter Schäden und Aufwendungen nach Absatz 3 nur zu ersetzen, soweit ihn ein Verschulden trifft.
 
-##### § 469 Sammellagerung
+###### § 469 Sammellagerung
 
 (1) Der Lagerhalter ist nur berechtigt, vertretbare Sachen mit anderen Sachen gleicher Art und Güte zu vermischen, wenn die beteiligten Einlagerer ausdrücklich einverstanden sind.
 
@@ -6197,23 +6213,23 @@ Der Lagerhalter hat in diesem Falle den Einlagerer über dessen Pflicht nach Sat
 
 (3) Der Lagerhalter kann jedem Einlagerer den ihm gebührenden Anteil ausliefern, ohne daß er hierzu der Genehmigung der übrigen Beteiligten bedarf.
 
-##### § 470 Empfang des Gutes
+###### § 470 Empfang des Gutes
 
 Befindet sich Gut, das dem Lagerhalter zugesandt ist, beim Empfang in einem beschädigten oder mangelhaften Zustand, der äußerlich erkennbar ist, so hat der Lagerhalter Schadenersatzansprüche des Einlagerers zu sichern und dem Einlagerer unverzüglich Nachricht zu geben.
 
-##### § 471 Erhaltung des Gutes
+###### § 471 Erhaltung des Gutes
 
 (1) Der Lagerhalter hat dem Einlagerer die Besichtigung des Gutes, die Entnahme von Proben und die zur Erhaltung des Gutes notwendigen Handlungen während der Geschäftsstunden zu gestatten. Er ist jedoch berechtigt und im Falle der Sammellagerung auch verpflichtet, die zur Erhaltung des Gutes erforderlichen Arbeiten selbst vorzunehmen.
 
 (2) Sind nach dem Empfang Veränderungen an dem Gut entstanden oder zu befürchten, die den Verlust oder die Beschädigung des Gutes oder Schäden des Lagerhalters erwarten lassen, so hat der Lagerhalter dies dem Einlagerer oder, wenn ein Lagerschein ausgestellt ist, dem letzten ihm bekannt gewordenen legitimierten Besitzer des Scheins unverzüglich anzuzeigen und dessen Weisungen einzuholen. Kann der Lagerhalter innerhalb angemessener Zeit Weisungen nicht erlangen, so hat er die angemessen erscheinenden Maßnahmen zu ergreifen. Er kann insbesondere das Gut gemäß § 373 verkaufen lassen; macht er von dieser Befugnis Gebrauch, so hat der Lagerhalter, wenn ein Lagerschein ausgestellt ist, die in § 373 Abs. 3 vorgesehene Androhung des Verkaufs sowie die in Absatz 5 derselben Vorschriften vorgesehenen Benachrichtigungen an den letzten ihm bekannt gewordenen legitimierten Besitzer des Lagerscheins zu richten.
 
-##### § 472 Versicherung. Einlagerung bei einem Dritten
+###### § 472 Versicherung. Einlagerung bei einem Dritten
 
 (1) Der Lagerhalter ist verpflichtet, das Gut auf Verlangen des Einlagerers zu versichern. Ist der Einlagerer ein Verbraucher, so hat ihn der Lagerhalter auf die Möglichkeit hinzuweisen, das Gut zu versichern.
 
 (2) Der Lagerhalter ist nur berechtigt, das Gut bei einem Dritten einzulagern, wenn der Einlagerer ihm dies ausdrücklich gestattet hat.
 
-##### § 473 Dauer der Lagerung
+###### § 473 Dauer der Lagerung
 
 (1) Der Einlagerer kann das Gut jederzeit herausverlangen. Ist der Lagervertrag auf unbestimmte Zeit geschlossen, so kann er den Vertrag jedoch nur unter Einhaltung einer Kündigungsfrist von einem Monat kündigen, es sei denn, es liegt ein wichtiger Grund vor, der zur Kündigung des Vertrags ohne Einhaltung der Kündigungsfrist berechtigt.
 
@@ -6221,19 +6237,19 @@ Befindet sich Gut, das dem Lagerhalter zugesandt ist, beim Empfang in einem besc
 
 (3) Ist ein Lagerschein ausgestellt, so sind die Kündigung und das Rücknahmeverlangen an den letzten dem Lagerhalter bekannt gewordenen legitimierten Besitzer des Lagerscheins zu richten.
 
-##### § 474 Aufwendungsersatz
+###### § 474 Aufwendungsersatz
 
 Der Lagerhalter hat Anspruch auf Ersatz seiner für das Gut gemachten Aufwendungen, soweit er sie den Umständen nach für erforderlich halten durfte.
 
-##### § 475 Haftung für Verlust oder Beschädigung
+###### § 475 Haftung für Verlust oder Beschädigung
 
 Der Lagerhalter haftet für den Schaden, der durch Verlust oder Beschädigung des Gutes in der Zeit von der Übernahme zur Lagerung bis zur Auslieferung entsteht, es sei denn, daß der Schaden durch die Sorgfalt eines ordentlichen Kaufmanns nicht abgewendet werden konnte. Dies gilt auch dann, wenn der Lagerhalter gemäß § 472 Abs. 2 das Gut bei einem Dritten einlagert.
 
-##### § 475a Verjährung
+###### § 475a Verjährung
 
 Auf die Verjährung von Ansprüchen aus einer Lagerung, die den Vorschriften dieses Abschnitts unterliegt, findet § 439 entsprechende Anwendung. Im Falle des gänzlichen Verlusts beginnt die Verjährung mit Ablauf des Tages, an dem der Lagerhalter dem Einlagerer oder, wenn ein Lagerschein ausgestellt ist, dem letzten ihm bekannt gewordenen legitimierten Besitzer des Lagerscheins den Verlust anzeigt.
 
-##### § 475b Pfandrecht des Lagerhalters
+###### § 475b Pfandrecht des Lagerhalters
 
 (1) Der Lagerhalter hat für alle Forderungen aus dem Lagervertrag ein Pfandrecht an dem ihm zur Lagerung übergebenen Gut des Einlagerers oder eines Dritten, der der Lagerung zugestimmt hat. An dem Gut des Einlagerers hat der Lagerhalter auch ein Pfandrecht für alle unbestrittenen Forderungen aus anderen mit dem Einlagerer abgeschlossenen Lager-, Fracht-, Seefracht- und Speditionsverträgen. Das Pfandrecht erstreckt sich auch auf die Forderung aus einer Versicherung sowie auf die Begleitpapiere.
 
@@ -6241,7 +6257,7 @@ Auf die Verjährung von Ansprüchen aus einer Lagerung, die den Vorschriften die
 
 (3) Das Pfandrecht besteht, solange der Lagerhalter das Gut in seinem Besitz hat, insbesondere solange er mittels Konnossements, Ladescheins oder Lagerscheins darüber verfügen kann.
 
-##### § 475c Lagerschein. Verordnungsermächtigung
+###### § 475c Lagerschein. Verordnungsermächtigung
 
 (1) Über die Verpflichtung zur Auslieferung des Gutes kann von dem Lagerhalter, nachdem er das Gut erhalten hat, ein Lagerschein ausgestellt werden, der die folgenden Angaben enthalten soll:
 
@@ -6267,7 +6283,7 @@ Auf die Verjährung von Ansprüchen aus einer Lagerung, die den Vorschriften die
 
 (4) Dem Lagerschein gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Lagerschein, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Lagerschein). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und für Heimat durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Lagerscheins sowie die Einzelheiten des Verfahrens über nachträgliche Eintragungen in einen elektronischen Lagerschein zu regeln.
 
-##### § 475d Wirkung des Lagerscheins. Legitimation
+###### § 475d Wirkung des Lagerscheins. Legitimation
 
 (1) Der Lagerschein begründet die Vermutung, dass das Gut und seine Verpackung in Bezug auf den äußerlich erkennbaren Zustand sowie auf Anzahl, Zeichen und Nummern der Packstücke wie im Lagerschein beschrieben übernommen worden sind. Ist das Rohgewicht oder die anders angegebene Menge des Gutes oder der Inhalt vom Lagerhalter überprüft und das Ergebnis der Überprüfung in den Lagerschein eingetragen worden, so begründet dieser auch die Vermutung, dass Gewicht, Menge oder Inhalt mit den Angaben im Lagerschein übereinstimmt.
 
@@ -6281,7 +6297,7 @@ Auf die Verjährung von Ansprüchen aus einer Lagerung, die den Vorschriften die
 
 3. auf den Namen des Besitzers lautet.
 
-##### § 475e Auslieferung gegen Rückgabe des Lagerscheins
+###### § 475e Auslieferung gegen Rückgabe des Lagerscheins
 
 (1) Der legitimierte Besitzer des Lagerscheins ist berechtigt, vom Lagerhalter die Auslieferung des Gutes zu verlangen.
 
@@ -6291,15 +6307,15 @@ Auf die Verjährung von Ansprüchen aus einer Lagerung, die den Vorschriften die
 
 (4) Der Lagerhalter haftet dem aus dem Lagerschein Berechtigten für den Schaden, der daraus entsteht, daß er das Gut ausgeliefert hat, ohne sich den Lagerschein zurückgeben zu lassen oder ohne einen Abschreibungsvermerk einzutragen.
 
-##### § 475f Einwendungen
+###### § 475f Einwendungen
 
 Dem aus dem Lagerschein Berechtigten kann der Lagerhalter nur solche Einwendungen entgegensetzen, die die Gültigkeit der Erklärungen im Lagerschein betreffen oder sich aus dem Inhalt des Lagerscheins ergeben oder dem Lagerhalter unmittelbar gegenüber dem aus dem Lagerschein Berechtigten zustehen. Eine Vereinbarung, auf die im Lagerschein lediglich verwiesen wird, ist nicht Inhalt des Lagerscheins.
 
-##### § 475g Traditionswirkung des Lagerscheins
+###### § 475g Traditionswirkung des Lagerscheins
 
 Die Begebung des Lagerscheins an denjenigen, der darin als der zum Empfang des Gutes Berechtigte benannt ist, hat, sofern der Lagerhalter das Gut im Besitz hat, für den Erwerb von Rechten an dem Gut dieselben Wirkungen wie die Übergabe des Gutes. Gleiches gilt für die Übertragung des Lagerscheins an Dritte.
 
-##### § 475h Abweichende Vereinbarungen
+###### § 475h Abweichende Vereinbarungen
 
 Ist der Einlagerer ein Verbraucher, so kann nicht zu dessen Nachteil von den §§ 475a und 475e Absatz 4 abgewichen werden.
 
@@ -6307,11 +6323,11 @@ Ist der Einlagerer ein Verbraucher, so kann nicht zu dessen Nachteil von den §�
 
 ## Erster Abschnitt Personen der Schifffahrt
 
-##### § 476 Reeder
+###### § 476 Reeder
 
 Reeder ist der Eigentümer eines von ihm zum Erwerb durch Seefahrt betriebenen Schiffes.
 
-##### § 477 Ausrüster
+###### § 477 Ausrüster
 
 (1) Ausrüster ist, wer ein ihm nicht gehörendes Schiff zum Erwerb durch Seefahrt betreibt.
 
@@ -6319,17 +6335,17 @@ Reeder ist der Eigentümer eines von ihm zum Erwerb durch Seefahrt betriebenen S
 
 (3) Wird der Eigentümer eines Schiffes von einem Dritten als Reeder in Anspruch genommen, so kann er sich dem Dritten gegenüber nur dann darauf berufen, dass nicht er, sondern ein Ausrüster das Schiff zum Erwerb durch Seefahrt betreibt, wenn er dem Dritten unverzüglich nach Geltendmachung des Anspruchs den Namen und die Anschrift des Ausrüsters mitteilt.
 
-##### § 478 Schiffsbesatzung
+###### § 478 Schiffsbesatzung
 
 Die Schiffsbesatzung besteht aus dem Kapitän, den Schiffsoffizieren, der Schiffsmannschaft sowie allen sonstigen im Rahmen des Schiffsbetriebs tätigen Personen, die vom Reeder oder Ausrüster des Schiffes angestellt sind oder dem Reeder oder Ausrüster von einem Dritten zur Arbeitsleistung im Rahmen des Schiffsbetriebs überlassen werden und die den Anordnungen des Kapitäns unterstellt sind.
 
-##### § 479 Rechte des Kapitäns. Tagebuch
+###### § 479 Rechte des Kapitäns. Tagebuch
 
 (1) Der Kapitän ist befugt, für den Reeder alle Geschäfte und Rechtshandlungen vorzunehmen, die der Betrieb des Schiffes gewöhnlich mit sich bringt. Diese Befugnis erstreckt sich auch auf den Abschluss von Frachtverträgen und die Ausstellung von Konnossementen. Eine Beschränkung dieser Befugnis braucht ein Dritter nur dann gegen sich gelten zu lassen, wenn er sie kannte oder kennen musste.
 
 (2) Ist auf dem Schiff ein Tagebuch zu führen, so hat der Kapitän alle Unfälle einzutragen, die sich während der Reise ereignen und die das Schiff, Personen oder die Ladung betreffen oder sonst einen Vermögensnachteil zur Folge haben können. Die Unfälle sind unter Angabe der Mittel zu beschreiben, die zur Abwendung oder Verringerung der Nachteile angewendet wurden. Die durch den Unfall Betroffenen können eine Abschrift der Eintragungen zum Unfall sowie eine Beglaubigung dieser Abschrift verlangen.
 
-##### § 480 Verantwortlichkeit des Reeders für Schiffsbesatzung und Lotsen
+###### § 480 Verantwortlichkeit des Reeders für Schiffsbesatzung und Lotsen
 
 Hat sich ein Mitglied der Schiffsbesatzung oder ein an Bord tätiger Lotse in Ausübung seiner Tätigkeit einem Dritten gegenüber schadensersatzpflichtig gemacht, so haftet auch der Reeder für den Schaden. Der Reeder haftet jedoch einem Ladungsbeteiligten für einen Schaden wegen Verlust oder Beschädigung von Gut, das mit dem Schiff befördert wird, nur so, als wäre er der Verfrachter; § 509 ist entsprechend anzuwenden.
 
@@ -6341,7 +6357,7 @@ Hat sich ein Mitglied der Schiffsbesatzung oder ein an Bord tätiger Lotse in Au
 
 ## Erster Untertitel Allgemeine Vorschriften
 
-##### § 481 Hauptpflichten. Anwendungsbereich
+###### § 481 Hauptpflichten. Anwendungsbereich
 
 (1) Durch den Stückgutfrachtvertrag wird der Verfrachter verpflichtet, das Gut mit einem Schiff über See zum Bestimmungsort zu befördern und dort dem Empfänger abzuliefern.
 
@@ -6349,13 +6365,13 @@ Hat sich ein Mitglied der Schiffsbesatzung oder ein an Bord tätiger Lotse in Au
 
 (3) Die Vorschriften dieses Titels gelten, wenn die Beförderung zum Betrieb eines gewerblichen Unternehmens gehört. Erfordert das Unternehmen nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht und ist die Firma des Unternehmens auch nicht nach § 2 in das Handelsregister eingetragen, so sind in Ansehung des Stückgutfrachtvertrags auch insoweit die Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
 
-##### § 482 Allgemeine Angaben zum Gut
+###### § 482 Allgemeine Angaben zum Gut
 
 (1) Der Befrachter hat dem Verfrachter vor Übergabe des Gutes die für die Durchführung der Beförderung erforderlichen Angaben zum Gut zu machen. Insbesondere hat der Befrachter in Textform Angaben über Maß, Zahl oder Gewicht sowie über Merkzeichen und die Art des Gutes zu machen.
 
 (2) Übergibt ein vom Befrachter benannter Dritter dem Verfrachter das Gut zur Beförderung, so kann der Verfrachter auch von diesem die in Absatz 1 Satz 2 genannten Angaben verlangen.
 
-##### § 483 Gefährliches Gut
+###### § 483 Gefährliches Gut
 
 (1) Soll gefährliches Gut befördert werden, so haben der Befrachter und der in § 482 Absatz 2 genannte Dritte dem Verfrachter rechtzeitig in Textform die genaue Art der Gefahr und, soweit erforderlich, zu ergreifende Vorsichtsmaßnahmen mitzuteilen.
 
@@ -6363,15 +6379,15 @@ Hat sich ein Mitglied der Schiffsbesatzung oder ein an Bord tätiger Lotse in Au
 
 (3) Der Verfrachter kann vom Befrachter und dem in § 482 Absatz 2 genannten Dritten, sofern dieser bei der Abladung unrichtige oder unvollständige Angaben gemacht hat, wegen der nach Absatz 2 Satz 1 ergriffenen Maßnahmen Ersatz der erforderlichen Aufwendungen verlangen.
 
-##### § 484 Verpackung. Kennzeichnung
+###### § 484 Verpackung. Kennzeichnung
 
 Der Befrachter hat das Gut, soweit dessen Natur unter Berücksichtigung der vereinbarten Beförderung eine Verpackung erfordert, so zu verpacken, dass es vor Verlust und Beschädigung geschützt ist und dass auch dem Verfrachter keine Schäden entstehen. Soll das Gut in einem Container, auf einer Palette oder in oder auf einem sonstigen Lademittel zur Beförderung übergeben werden, das zur Zusammenfassung von Frachtstücken verwendet wird, hat der Befrachter das Gut auch in oder auf dem Lademittel beförderungssicher zu stauen und zu sichern. Der Befrachter hat das Gut ferner, soweit dessen vertragsgemäße Behandlung dies erfordert, zu kennzeichnen.
 
-##### § 485 See- und Ladungstüchtigkeit
+###### § 485 See- und Ladungstüchtigkeit
 
 Der Verfrachter hat dafür zu sorgen, dass das Schiff in seetüchtigem Stand, gehörig eingerichtet, ausgerüstet, bemannt und mit genügenden Vorräten versehen ist (Seetüchtigkeit) sowie dass sich die Laderäume einschließlich der Kühl- und Gefrierräume sowie alle anderen Teile des Schiffs, in oder auf denen Güter verladen werden, in dem für die Aufnahme, Beförderung und Erhaltung der Güter erforderlichen Zustand befinden (Ladungstüchtigkeit).
 
-##### § 486 Abladen. Verladen. Umladen. Löschen
+###### § 486 Abladen. Verladen. Umladen. Löschen
 
 (1) Der Befrachter hat die Übergabe des Gutes an den Verfrachter zur Beförderung (Abladung) innerhalb der vertraglich vereinbarten Zeit zu bewirken. Der Verfrachter hat demjenigen, der das Gut ablädt, auf dessen Verlangen ein Empfangsbekenntnis in Textform zu erteilen. Das Empfangsbekenntnis kann auch in einem Konnossement oder Seefrachtbrief erteilt werden.
 
@@ -6381,13 +6397,13 @@ Der Verfrachter hat dafür zu sorgen, dass das Schiff in seetüchtigem Stand, ge
 
 (4) Der Verfrachter darf das Gut ohne Zustimmung des Befrachters nicht auf Deck verladen. Wird ein Konnossement ausgestellt, ist die Zustimmung des Abladers (§ 513 Absatz 2) erforderlich. Das Gut darf jedoch ohne Zustimmung auf Deck verladen werden, wenn es sich in oder auf einem Lademittel befindet, das für die Beförderung auf Deck tauglich ist, und wenn das Deck für die Beförderung eines solchen Lademittels ausgerüstet ist.
 
-##### § 487 Begleitpapiere
+###### § 487 Begleitpapiere
 
 (1) Der Befrachter hat dem Verfrachter alle Urkunden zur Verfügung zu stellen und Auskünfte zu erteilen, die für eine amtliche Behandlung, insbesondere eine Zollabfertigung, vor der Ablieferung erforderlich sind.
 
 (2) Der Verfrachter ist für den Schaden verantwortlich, der durch Verlust oder Beschädigung der ihm übergebenen Urkunden oder durch deren unrichtige Verwendung verursacht worden ist, es sei denn, der Schaden hätte durch die Sorgfalt eines ordentlichen Verfrachters nicht abgewendet werden können. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre. Eine Vereinbarung, durch die die Haftung erweitert oder weiter verringert wird, ist nur wirksam, wenn sie im Einzelnen ausgehandelt wird, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen wird. Eine Bestimmung im Konnossement, durch die die Haftung weiter verringert wird, ist jedoch Dritten gegenüber unwirksam.
 
-##### § 488 Haftung des Befrachters und Dritter
+###### § 488 Haftung des Befrachters und Dritter
 
 (1) Der Befrachter hat dem Verfrachter Schäden und Aufwendungen zu ersetzen, die verursacht werden durch
 
@@ -6415,7 +6431,7 @@ Jeder von ihnen haftet jedoch dem Verfrachter nur für die Schäden und Aufwendu
 
 (5) Eine Vereinbarung, durch die die Haftung nach Absatz 1, 2 oder 3 ausgeschlossen wird, ist nur wirksam, wenn sie im Einzelnen ausgehandelt wird, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen wird. Abweichend von Satz 1 kann jedoch die vom Befrachter oder Ablader zu leistende Entschädigung der Höhe nach auch durch vorformulierte Vertragsbedingungen beschränkt werden.
 
-##### § 489 Kündigung durch den Befrachter
+###### § 489 Kündigung durch den Befrachter
 
 (1) Der Befrachter kann den Stückgutfrachtvertrag jederzeit kündigen.
 
@@ -6429,7 +6445,7 @@ Beruht die Kündigung auf Gründen, die dem Risikobereich des Verfrachters zuzur
 
 (3) Wurde vor der Kündigung bereits Gut verladen, so kann der Verfrachter auf Kosten des Befrachters Maßnahmen entsprechend § 492 Absatz 3 Satz 2 bis 4 ergreifen. Beruht die Kündigung auf Gründen, die dem Risikobereich des Verfrachters zuzurechnen sind, so sind abweichend von Satz 1 die Kosten vom Verfrachter zu tragen.
 
-##### § 490 Rechte des Verfrachters bei säumiger Abladung
+###### § 490 Rechte des Verfrachters bei säumiger Abladung
 
 (1) Bewirkt der Befrachter die Abladung des Gutes nicht oder nicht vollständig innerhalb der vertraglich vereinbarten Zeit, so kann der Verfrachter dem Befrachter eine angemessene Frist setzen, innerhalb derer das Gut abgeladen werden soll.
 
@@ -6441,7 +6457,7 @@ Beruht die Kündigung auf Gründen, die dem Risikobereich des Verfrachters zuzur
 
 (5) Dem Verfrachter stehen die Rechte nicht zu, soweit das Gut aus Gründen, die dem Risikobereich des Verfrachters zuzurechnen sind, nicht innerhalb der vertraglich vereinbarten Zeit abgeladen wird.
 
-##### § 491 Nachträgliche Weisungen
+###### § 491 Nachträgliche Weisungen
 
 (1) Soweit § 520 Absatz 1 nichts Abweichendes bestimmt, ist der Befrachter berechtigt, über das Gut zu verfügen. Er kann insbesondere verlangen, dass der Verfrachter das Gut nicht weiterbefördert, es zu einem anderen Bestimmungsort befördert oder es an einem anderen Löschplatz oder einem anderen Empfänger abliefert. Der Verfrachter ist nur insoweit zur Befolgung solcher Weisungen verpflichtet, als deren Ausführung weder Nachteile für den Betrieb seines Unternehmens noch Schäden für die Befrachter oder Empfänger anderer Sendungen mit sich zu bringen droht. Er kann vom Befrachter Ersatz seiner durch die Ausführung der Weisung entstehenden Aufwendungen sowie eine angemessene Vergütung verlangen; der Verfrachter kann die Befolgung der Weisung von einem Vorschuss abhängig machen.
 
@@ -6453,7 +6469,7 @@ Beruht die Kündigung auf Gründen, die dem Risikobereich des Verfrachters zuzur
 
 (5) Ist die Ausübung des Verfügungsrechts von der Vorlage eines Seefrachtbriefs abhängig gemacht worden und führt der Verfrachter eine Weisung aus, ohne sich die Ausfertigung des Seefrachtbriefs vorlegen zu lassen, so haftet er dem Berechtigten für den daraus entstehenden Schaden. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre. Eine Vereinbarung, durch die die Haftung erweitert oder weiter verringert wird, ist nur wirksam, wenn sie im Einzelnen ausgehandelt wird, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen wird.
 
-##### § 492 Beförderungs- und Ablieferungshindernisse
+###### § 492 Beförderungs- und Ablieferungshindernisse
 
 (1) Wird nach Übernahme des Gutes erkennbar, dass die Beförderung oder Ablieferung nicht vertragsgemäß durchgeführt werden kann, so hat der Verfrachter Weisungen des nach § 491 oder § 520 Verfügungsberechtigten einzuholen. Ist der Empfänger verfügungsberechtigt und ist er nicht zu ermitteln oder verweigert er die Annahme des Gutes, so ist, wenn ein Konnossement nicht ausgestellt ist, Verfügungsberechtigter nach Satz 1 der Befrachter; ist die Ausübung des Verfügungsrechts von der Vorlage eines Seefrachtbriefs abhängig gemacht worden, so bedarf es der Vorlage des Seefrachtbriefs nicht. Der Verfrachter ist, wenn ihm Weisungen erteilt worden sind und das Hindernis nicht seinem Risikobereich zuzurechnen ist, berechtigt, Ansprüche nach § 491 Absatz 1 Satz 4 geltend zu machen.
 
@@ -6463,7 +6479,7 @@ Beruht die Kündigung auf Gründen, die dem Risikobereich des Verfrachters zuzur
 
 (4) Der Verfrachter hat wegen der nach Absatz 3 ergriffenen Maßnahmen Anspruch auf Ersatz der erforderlichen Aufwendungen und auf angemessene Vergütung, es sei denn, dass das Hindernis seinem Risikobereich zuzurechnen ist.
 
-##### § 493 Zahlung. Frachtberechnung
+###### § 493 Zahlung. Frachtberechnung
 
 (1) Die Fracht ist bei Ablieferung des Gutes zu zahlen. Der Verfrachter hat über die Fracht hinaus einen Anspruch auf Ersatz von Aufwendungen, soweit diese für das Gut gemacht wurden und er sie den Umständen nach für erforderlich halten durfte.
 
@@ -6475,7 +6491,7 @@ Beruht die Kündigung auf Gründen, die dem Risikobereich des Verfrachters zuzur
 
 (5) Ist die Fracht nach Zahl, Gewicht oder anders angegebener Menge des Gutes vereinbart, so wird für die Berechnung der Fracht vermutet, dass Angaben hierzu im Seefrachtbrief oder Konnossement zutreffen; dies gilt auch dann, wenn zu diesen Angaben ein Vorbehalt eingetragen ist, der damit begründet ist, dass keine angemessenen Mittel zur Verfügung standen, die Richtigkeit der Angaben zu überprüfen.
 
-##### § 494 Rechte des Empfängers. Zahlungspflicht
+###### § 494 Rechte des Empfängers. Zahlungspflicht
 
 (1) Nach Ankunft des Gutes am Löschplatz ist der Empfänger berechtigt, vom Verfrachter zu verlangen, ihm das Gut gegen Erfüllung der Verpflichtungen aus dem Stückgutfrachtvertrag abzuliefern. Ist das Gut beschädigt oder verspätet abgeliefert worden oder verloren gegangen, so kann der Empfänger die Ansprüche aus dem Stückgutfrachtvertrag im eigenen Namen gegen den Verfrachter geltend machen; der Befrachter bleibt zur Geltendmachung dieser Ansprüche befugt. Dabei macht es keinen Unterschied, ob der Empfänger oder der Befrachter im eigenen oder fremden Interesse handelt.
 
@@ -6485,7 +6501,7 @@ Beruht die Kündigung auf Gründen, die dem Risikobereich des Verfrachters zuzur
 
 (4) Der Befrachter bleibt zur Zahlung der nach dem Vertrag geschuldeten Beträge verpflichtet.
 
-##### § 495 Pfandrecht des Verfrachters
+###### § 495 Pfandrecht des Verfrachters
 
 (1) Der Verfrachter hat für alle Forderungen aus dem Stückgutfrachtvertrag ein Pfandrecht an dem ihm zur Beförderung übergebenen Gut des Befrachters, des Abladers oder eines Dritten, der der Beförderung des Gutes zugestimmt hat. An dem Gut des Befrachters hat der Verfrachter auch ein Pfandrecht für alle unbestrittenen Forderungen aus anderen mit dem Befrachter abgeschlossenen Seefracht-, Fracht-, Speditions- und Lagerverträgen. Das Pfandrecht erstreckt sich auf die Begleitpapiere.
 
@@ -6495,7 +6511,7 @@ Beruht die Kündigung auf Gründen, die dem Risikobereich des Verfrachters zuzur
 
 (4) Die in § 1234 Absatz 1 des Bürgerlichen Gesetzbuchs bezeichnete Androhung des Pfandverkaufs sowie die in den §§ 1237 und 1241 des Bürgerlichen Gesetzbuchs vorgesehenen Benachrichtigungen sind an den nach § 491 oder § 520 verfügungsberechtigten Empfänger zu richten. Ist dieser nicht zu ermitteln oder verweigert er die Annahme des Gutes, so sind die Androhung und die Benachrichtigungen an den Befrachter zu richten.
 
-##### § 496 Nachfolgender Verfrachter
+###### § 496 Nachfolgender Verfrachter
 
 (1) Hat im Falle der Beförderung durch mehrere Verfrachter der letzte bei der Ablieferung die Forderungen vorhergehender Verfrachter einzuziehen, so hat er die Rechte der vorhergehenden Verfrachter, insbesondere auch das Pfandrecht, auszuüben. Das Pfandrecht jedes vorhergehenden Verfrachters bleibt so lange bestehen wie das Pfandrecht des letzten Verfrachters.
 
@@ -6503,13 +6519,13 @@ Beruht die Kündigung auf Gründen, die dem Risikobereich des Verfrachters zuzur
 
 (3) Die Absätze 1 und 2 gelten auch für die Forderungen und Rechte eines Spediteurs, der an der Beförderung mitgewirkt hat.
 
-##### § 497 Rang mehrerer Pfandrechte
+###### § 497 Rang mehrerer Pfandrechte
 
 Bestehen an demselben Gut mehrere nach den §§ 397, 440, 464, 475b und 495 begründete Pfandrechte, so bestimmt sich der Rang dieser Pfandrechte untereinander nach § 442.
 
 ## Zweiter Untertitel Haftung wegen Verlust oder Beschädigung des Gutes
 
-##### § 498 Haftungsgrund
+###### § 498 Haftungsgrund
 
 (1) Der Verfrachter haftet für den Schaden, der durch Verlust oder Beschädigung des Gutes in der Zeit von der Übernahme zur Beförderung bis zur Ablieferung entsteht.
 
@@ -6517,7 +6533,7 @@ Bestehen an demselben Gut mehrere nach den §§ 397, 440, 464, 475b und 495 begr
 
 (3) Hat bei der Entstehung des Schadens ein Verschulden des Beschädigten mitgewirkt, so hängt die Verpflichtung zum Ersatz sowie der Umfang des zu leistenden Ersatzes von den Umständen, insbesondere davon ab, inwieweit der Schaden vorwiegend von dem einen oder dem anderen Teil verursacht worden ist.
 
-##### § 499 Besondere Schadensursachen
+###### § 499 Besondere Schadensursachen
 
 (1) Der Verfrachter haftet nicht, soweit der Verlust oder die Beschädigung auf einem der folgenden Umstände beruht:
 
@@ -6547,15 +6563,15 @@ Satz 1 gilt nicht, wenn der Schaden durch die Sorgfalt eines ordentlichen Verfra
 
 (4) Der Verfrachter kann sich auf Absatz 1 Satz 1 Nummer 7 nur berufen, wenn er alle ihm nach den Umständen obliegenden Maßnahmen getroffen und besondere Weisungen beachtet hat.
 
-##### § 500 Unerlaubte Verladung auf Deck
+###### § 500 Unerlaubte Verladung auf Deck
 
 Hat der Verfrachter ohne die nach § 486 Absatz 4 erforderliche Zustimmung des Befrachters oder des Abladers Gut auf Deck verladen, haftet er, auch wenn ihn kein Verschulden trifft, für den Schaden, der dadurch entsteht, dass das Gut auf Grund der Verladung auf Deck verloren gegangen ist oder beschädigt wurde. Im Falle von Satz 1 wird vermutet, dass der Verlust oder die Beschädigung des Gutes darauf zurückzuführen ist, dass das Gut auf Deck verladen wurde.
 
-##### § 501 Haftung für andere
+###### § 501 Haftung für andere
 
 Der Verfrachter hat ein Verschulden seiner Leute und der Schiffsbesatzung in gleichem Umfang zu vertreten wie eigenes Verschulden. Gleiches gilt für das Verschulden anderer Personen, deren er sich bei Ausführung der Beförderung bedient.
 
-##### § 502 Wertersatz
+###### § 502 Wertersatz
 
 (1) Hat der Verfrachter nach den Bestimmungen dieses Untertitels für gänzlichen oder teilweisen Verlust des Gutes Schadensersatz zu leisten, so ist der Wert zu ersetzen, den das verlorene Gut bei fristgemäßer Ablieferung am vertraglich vereinbarten Bestimmungsort gehabt hätte.
 
@@ -6565,11 +6581,11 @@ Der Verfrachter hat ein Verschulden seiner Leute und der Schiffsbesatzung in gle
 
 (4) Von dem nach den vorstehenden Absätzen zu ersetzenden Wert ist der Betrag abzuziehen, der infolge des Verlusts oder der Beschädigung an Zöllen und sonstigen Kosten sowie im Falle des Verlusts an Fracht erspart ist.
 
-##### § 503 Schadensfeststellungskosten
+###### § 503 Schadensfeststellungskosten
 
 Bei Verlust oder Beschädigung des Gutes hat der Verfrachter über den nach § 502 zu leistenden Ersatz hinaus die Kosten der Feststellung des Schadens zu tragen.
 
-##### § 504 Haftungshöchstbetrag bei Güterschäden
+###### § 504 Haftungshöchstbetrag bei Güterschäden
 
 (1) Die nach den §§ 502 und 503 zu leistende Entschädigung wegen Verlust oder Beschädigung ist auf einen Betrag von 666,67 Rechnungseinheiten für das Stück oder die Einheit oder einen Betrag von 2 Rechnungseinheiten für das Kilogramm des Rohgewichts des Gutes begrenzt, je nachdem, welcher Betrag höher ist. Wird ein Container, eine Palette oder ein sonstiges Lademittel verwendet, das zur Zusammenfassung von Frachtstücken verwendet wird, so gilt jedes Stück und jede Einheit, welche in einem Beförderungsdokument als in einem solchen Lademittel enthalten angegeben sind, als Stück oder Einheit im Sinne des Satzes 1. Soweit das Beförderungsdokument solche Angaben nicht enthält, gilt das Lademittel als Stück oder Einheit.
 
@@ -6579,11 +6595,11 @@ Bei Verlust oder Beschädigung des Gutes hat der Verfrachter über den nach § 5
 
 2. der entwertete Teil der Ladung zu Grunde zu legen, wenn nur ein Teil der Ladung entwertet ist.
 
-##### § 505 Rechnungseinheit
+###### § 505 Rechnungseinheit
 
 Die in diesem Untertitel genannte Rechnungseinheit ist das Sonderziehungsrecht des Internationalen Währungsfonds. Der Betrag wird in Euro entsprechend dem Wert des Euro gegenüber dem Sonderziehungsrecht am Tag der Ablieferung des Gutes oder an dem von den Parteien vereinbarten Tag umgerechnet. Der Wert des Euro gegenüber dem Sonderziehungsrecht wird nach der Berechnungsmethode ermittelt, die der Internationale Währungsfonds an dem betreffenden Tag für seine Operationen und Transaktionen anwendet.
 
-##### § 506 Außervertragliche Ansprüche
+###### § 506 Außervertragliche Ansprüche
 
 (1) Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefreiungen und Haftungsbegrenzungen gelten auch für einen außervertraglichen Anspruch des Befrachters oder des Empfängers gegen den Verfrachter wegen Verlust oder Beschädigung des Gutes.
 
@@ -6597,7 +6613,7 @@ Die in diesem Untertitel genannte Rechnungseinheit ist das Sonderziehungsrecht d
 
 Satz 2 Nummer 1 gilt jedoch nicht für eine nach § 512 Absatz 2 Nummer 1 zulässige Vereinbarung über die Haftung des Verfrachters für einen Schaden, der durch ein Verhalten bei der Führung oder der sonstigen Bedienung des Schiffes oder durch Feuer oder Explosion an Bord des Schiffes entstanden ist.
 
-##### § 507 Wegfall der Haftungsbefreiungen und -begrenzungen
+###### § 507 Wegfall der Haftungsbefreiungen und -begrenzungen
 
 Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefreiungen und Haftungsbegrenzungen gelten nicht, wenn
 
@@ -6605,7 +6621,7 @@ Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefr
 
 2. der Verfrachter mit dem Befrachter oder dem Ablader vereinbart hat, dass das Gut unter Deck befördert wird, und der Schaden darauf zurückzuführen ist, dass das Gut auf Deck verladen wurde.
 
-##### § 508 Haftung der Leute und der Schiffsbesatzung
+###### § 508 Haftung der Leute und der Schiffsbesatzung
 
 (1) Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigung des Gutes gegen einen der Leute des Verfrachters geltend gemacht, so kann sich auch jener auf die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefreiungen und Haftungsbegrenzungen berufen. Gleiches gilt, wenn die Ansprüche gegen ein Mitglied der Schiffsbesatzung geltend gemacht werden.
 
@@ -6613,7 +6629,7 @@ Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefr
 
 (3) Sind für den Verlust oder die Beschädigung des Gutes sowohl der Verfrachter als auch eine der in Absatz 1 genannten Personen verantwortlich, so haften sie als Gesamtschuldner.
 
-##### § 509 Ausführender Verfrachter
+###### § 509 Ausführender Verfrachter
 
 (1) Wird die Beförderung ganz oder teilweise durch einen Dritten ausgeführt, der nicht der Verfrachter ist, so haftet der Dritte (ausführender Verfrachter) für den Schaden, der durch Verlust oder Beschädigung des Gutes während der durch ihn ausgeführten Beförderung entsteht, so, als wäre er der Verfrachter.
 
@@ -6625,7 +6641,7 @@ Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefr
 
 (5) Wird einer der Leute des ausführenden Verfrachters oder ein Mitglied der Schiffsbesatzung in Anspruch genommen, so ist § 508 entsprechend anzuwenden.
 
-##### § 510 Schadensanzeige
+###### § 510 Schadensanzeige
 
 (1) Ist ein Verlust oder eine Beschädigung des Gutes äußerlich erkennbar und zeigt der Empfänger oder der Befrachter dem Verfrachter Verlust oder Beschädigung nicht spätestens bei Ablieferung des Gutes an, so wird vermutet, dass das Gut vollständig und unbeschädigt abgeliefert worden ist. Die Anzeige muss den Verlust oder die Beschädigung hinreichend deutlich kennzeichnen.
 
@@ -6635,7 +6651,7 @@ Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefr
 
 (4) Wird Verlust oder Beschädigung bei Ablieferung angezeigt, so genügt die Anzeige gegenüber demjenigen, der das Gut abliefert.
 
-##### § 511 Verlustvermutung
+###### § 511 Verlustvermutung
 
 (1) Der Anspruchsberechtigte kann das Gut als verloren betrachten, wenn es nicht innerhalb eines Zeitraums abgeliefert wird, der dem Zweifachen der vereinbarten Lieferfrist entspricht, mindestens aber 30 Tage, bei einer grenzüberschreitenden Beförderung 60 Tage beträgt. Satz 1 gilt nicht, wenn der Verfrachter das Gut wegen eines Zurückbehaltungsrechts oder eines Pfandrechts nicht abzuliefern braucht oder wenn an dem Gut ein Pfandrecht für eine Forderung auf einen Beitrag zur Großen Haverei besteht und das Gut daher nicht ausgeliefert werden darf.
 
@@ -6645,7 +6661,7 @@ Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefr
 
 (4) Wird das Gut nach Zahlung einer Entschädigung wieder aufgefunden und hat der Anspruchsberechtigte eine Benachrichtigung nicht verlangt oder macht er nach Benachrichtigung seinen Anspruch auf Ablieferung nicht geltend, so kann der Verfrachter über das Gut frei verfügen.
 
-##### § 512 Abweichende Vereinbarungen
+###### § 512 Abweichende Vereinbarungen
 
 (1) Von den Vorschriften dieses Untertitels kann nur durch Vereinbarung abgewichen werden, die im Einzelnen ausgehandelt wird, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen wird.
 
@@ -6657,13 +6673,13 @@ Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefr
 
 ## Dritter Untertitel Beförderungsdokumente
 
-##### § 513 Anspruch auf Ausstellung eines Konnossements
+###### § 513 Anspruch auf Ausstellung eines Konnossements
 
 (1) Der Verfrachter hat, sofern im Stückgutfrachtvertrag nicht etwas Abweichendes vereinbart ist, dem Ablader auf dessen Verlangen ein Orderkonnossement auszustellen, das nach Wahl des Abladers an dessen Order, an die Order des Empfängers oder lediglich an Order zu stellen ist; im letzteren Fall ist unter der Order die Order des Abladers zu verstehen. Der Kapitän und jeder andere zur Zeichnung von Konnossementen für den Reeder Befugte sind berechtigt, das Konnossement für den Verfrachter auszustellen.
 
 (2) Ablader ist, wer das Gut dem Verfrachter zur Beförderung übergibt und vom Befrachter als Ablader zur Eintragung in das Konnossement benannt ist. Übergibt ein anderer als der Ablader das Gut oder ist ein Ablader nicht benannt, gilt der Befrachter als Ablader.
 
-##### § 514 Bord- und Übernahmekonnossement
+###### § 514 Bord- und Übernahmekonnossement
 
 (1) Das Konnossement ist auszustellen, sobald der Verfrachter das Gut übernommen hat. Durch das Konnossement bestätigt der Verfrachter den Empfang des Gutes und verpflichtet sich, es zum Bestimmungsort zu befördern und dem aus dem Konnossement Berechtigten gegen Rückgabe des Konnossements abzuliefern.
 
@@ -6671,7 +6687,7 @@ Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefr
 
 (3) Das Konnossement ist in der vom Ablader geforderten Anzahl von Originalausfertigungen auszustellen.
 
-##### § 515 Inhalt des Konnossements
+###### § 515 Inhalt des Konnossements
 
 (1) Das Konnossement soll folgende Angaben enthalten:
 
@@ -6697,7 +6713,7 @@ Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefr
 
 (2) Die Angaben nach Absatz 1 Nummer 7 und 8 sind auf Verlangen des Abladers so aufzunehmen, wie er sie dem Verfrachter vor der Übernahme des Gutes in Textform mitgeteilt hat.
 
-##### § 516 Form des Konnossements. Verordnungsermächtigung
+###### § 516 Form des Konnossements. Verordnungsermächtigung
 
 (1) Das Konnossement ist vom Verfrachter zu unterzeichnen; eine Nachbildung der eigenhändigen Unterschrift durch Druck oder Stempel genügt.
 
@@ -6705,7 +6721,7 @@ Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefr
 
 (3) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und für Heimat durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Konnossements sowie die Einzelheiten des Verfahrens einer nachträglichen Eintragung in ein elektronisches Konnossement zu regeln.
 
-##### § 517 Beweiskraft des Konnossements
+###### § 517 Beweiskraft des Konnossements
 
 (1) Das Konnossement begründet die Vermutung, dass der Verfrachter das Gut so übernommen hat, wie es nach § 515 Absatz 1 Nummer 7 und 8 beschrieben ist. Bezieht sich die Beschreibung auf den Inhalt eines geschlossenen Lademittels, so begründet das Konnossement jedoch nur dann die Vermutung nach Satz 1, wenn der Inhalt vom Verfrachter überprüft und das Ergebnis der Überprüfung im Konnossement eingetragen worden ist. Enthält das Konnossement keine Angabe über die äußerlich erkennbare Verfassung oder Beschaffenheit des Gutes, so begründet das Konnossement die Vermutung, dass der Verfrachter das Gut in äußerlich erkennbar guter Verfassung und Beschaffenheit übernommen hat.
 
@@ -6719,11 +6735,11 @@ Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefr
 
 4. weshalb der Verfrachter keine ausreichende Gelegenheit hatte, die Angabe nachzuprüfen.
 
-##### § 518 Stellung des Reeders bei mangelhafter Verfrachterangabe
+###### § 518 Stellung des Reeders bei mangelhafter Verfrachterangabe
 
 Ist in einem Konnossement, das vom Kapitän oder von einem anderen zur Zeichnung von Konnossementen für den Reeder Befugten ausgestellt wurde, der Verfrachter nicht angegeben oder ist in diesem Konnossement als Verfrachter eine Person angegeben, die nicht der Verfrachter ist, so ist aus dem Konnossement anstelle des Verfrachters der Reeder berechtigt und verpflichtet.
 
-##### § 519 Berechtigung aus dem Konnossement. Legitimation
+###### § 519 Berechtigung aus dem Konnossement. Legitimation
 
 Die im Konnossement verbrieften seefrachtvertraglichen Ansprüche können nur von dem aus dem Konnossement Berechtigten geltend gemacht werden. Zugunsten des legitimierten Besitzers des Konnossements wird vermutet, dass er der aus dem Konnossement Berechtigte ist. Legitimierter Besitzer des Konnossements ist, wer ein Konnossement besitzt, das
 
@@ -6733,13 +6749,13 @@ Die im Konnossement verbrieften seefrachtvertraglichen Ansprüche können nur vo
 
 3. auf den Namen des Besitzers lautet.
 
-##### § 520 Befolgung von Weisungen
+###### § 520 Befolgung von Weisungen
 
 (1) Ist ein Konnossement ausgestellt, so steht das Verfügungsrecht nach den §§ 491 und 492 ausschließlich dem legitimierten Besitzer des Konnossements zu. Der Verfrachter darf Weisungen nur gegen Vorlage sämtlicher Ausfertigungen des Konnossements ausführen. Weisungen eines legitimierten Besitzers des Konnossements darf der Verfrachter jedoch nicht ausführen, wenn ihm bekannt oder infolge grober Fahrlässigkeit unbekannt ist, dass der legitimierte Besitzer des Konnossements nicht der aus dem Konnossement Berechtigte ist.
 
 (2) Befolgt der Verfrachter Weisungen, ohne sich sämtliche Ausfertigungen des Konnossements vorlegen zu lassen, haftet er dem aus dem Konnossement Berechtigten für den Schaden, der diesem daraus entsteht. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
-##### § 521 Ablieferung gegen Rückgabe des Konnossements
+###### § 521 Ablieferung gegen Rückgabe des Konnossements
 
 (1) Nach Ankunft des Gutes am Löschplatz ist der legitimierte Besitzer des Konnossements berechtigt, vom Verfrachter die Ablieferung des Gutes zu verlangen. Macht der legitimierte Besitzer des Konnossements von diesem Recht Gebrauch, ist er entsprechend § 494 Absatz 2 und 3 zur Zahlung der Fracht und einer sonstigen Vergütung verpflichtet.
 
@@ -6749,7 +6765,7 @@ Die im Konnossement verbrieften seefrachtvertraglichen Ansprüche können nur vo
 
 (4) Liefert der Verfrachter das Gut einem anderen als dem legitimierten Besitzer des Konnossements oder, im Falle des Absatzes 2 Satz 2, einem anderen als dem aus dem Konnossement Berechtigten ab, haftet er für den Schaden, der dem aus dem Konnossement Berechtigten daraus entsteht. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
-##### § 522 Einwendungen
+###### § 522 Einwendungen
 
 (1) Dem aus dem Konnossement Berechtigten kann der Verfrachter nur solche Einwendungen entgegensetzen, die die Gültigkeit der Erklärungen im Konnossement betreffen oder sich aus dem Inhalt des Konnossements ergeben oder dem Verfrachter unmittelbar gegenüber dem aus dem Konnossement Berechtigten zustehen. Eine Vereinbarung, auf die im Konnossement lediglich verwiesen wird, ist nicht Inhalt des Konnossements.
 
@@ -6757,7 +6773,7 @@ Die im Konnossement verbrieften seefrachtvertraglichen Ansprüche können nur vo
 
 (3) Wird ein ausführender Verfrachter nach § 509 von dem aus dem Konnossement Berechtigten in Anspruch genommen, kann auch der ausführende Verfrachter die Einwendungen nach Absatz 1 geltend machen. Abweichend von Absatz 2 kann der ausführende Verfrachter darüber hinaus die Vermutungen nach § 517 widerlegen, wenn das Konnossement weder von ihm noch von einem für ihn zur Zeichnung von Konnossementen Befugten ausgestellt wurde.
 
-##### § 523 Haftung für unrichtige Konnossementsangaben
+###### § 523 Haftung für unrichtige Konnossementsangaben
 
 (1) Der Verfrachter haftet für den Schaden, der dem aus dem Konnossement Berechtigten dadurch entsteht, dass die in das Konnossement nach den §§ 515 und 517 Absatz 2 aufzunehmenden Angaben und Vorbehalte fehlen oder die in das Konnossement aufgenommenen Angaben oder Vorbehalte unrichtig sind. Dies gilt insbesondere dann, wenn das Gut bei Übernahme durch den Verfrachter nicht in äußerlich erkennbar guter Verfassung war und das Konnossement hierüber weder eine Angabe nach § 515 Absatz 1 Nummer 7 noch einen Vorbehalt nach § 517 Absatz 2 enthält. Die Haftung nach den Sätzen 1 und 2 entfällt, wenn der Verfrachter weder gewusst hat noch bei Anwendung der Sorgfalt eines ordentlichen Verfrachters hätte wissen müssen, dass die Angaben fehlen oder unrichtig oder unvollständig sind.
 
@@ -6767,15 +6783,15 @@ Die im Konnossement verbrieften seefrachtvertraglichen Ansprüche können nur vo
 
 (4) Die Haftung nach den Absätzen 1 bis 3 ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
-##### § 524 Traditionswirkung des Konnossements
+###### § 524 Traditionswirkung des Konnossements
 
 Die Begebung des Konnossements an den darin benannten Empfänger hat, sofern der Verfrachter das Gut im Besitz hat, für den Erwerb von Rechten an dem Gut dieselben Wirkungen wie die Übergabe des Gutes. Gleiches gilt für die Übertragung des Konnossements an Dritte.
 
-##### § 525 Abweichende Bestimmung im Konnossement
+###### § 525 Abweichende Bestimmung im Konnossement
 
 Eine Bestimmung im Konnossement, die von den Haftungsvorschriften in den §§ 498 bis 511 oder in § 520 Absatz 2, § 521 Absatz 4 oder § 523 abweicht, ist nur wirksam, wenn die Voraussetzungen des § 512 erfüllt sind. Der Verfrachter kann sich jedoch auf eine Bestimmung im Konnossement, die von den in Satz 1 genannten Haftungsvorschriften zu Lasten des aus dem Konnossement Berechtigten abweicht, nicht gegenüber einem im Konnossement benannten Empfänger, an den das Konnossement begeben wurde, sowie gegenüber einem Dritten, dem das Konnossement übertragen wurde, berufen. Satz 2 gilt nicht für eine Bestimmung nach § 512 Absatz 2 Nummer 1.
 
-##### § 526 Seefrachtbrief. Verordnungsermächtigung
+###### § 526 Seefrachtbrief. Verordnungsermächtigung
 
 (1) Der Verfrachter kann, sofern er nicht ein Konnossement ausgestellt hat, einen Seefrachtbrief ausstellen. Auf den Inhalt des Seefrachtbriefs ist § 515 entsprechend anzuwenden mit der Maßgabe, dass an die Stelle des Abladers der Befrachter tritt.
 
@@ -6787,25 +6803,25 @@ Eine Bestimmung im Konnossement, die von den Haftungsvorschriften in den §§ 49
 
 ## Zweiter Titel Reisefrachtvertrag
 
-##### § 527 Reisefrachtvertrag
+###### § 527 Reisefrachtvertrag
 
 (1) Durch den Reisefrachtvertrag wird der Verfrachter verpflichtet, das Gut mit einem bestimmten Schiff im Ganzen, mit einem verhältnismäßigen Teil eines bestimmten Schiffes oder in einem bestimmt bezeichneten Raum eines solchen Schiffes auf einer oder mehreren bestimmten Reisen über See zum Bestimmungsort zu befördern und dort dem Empfänger abzuliefern. Jede Partei kann die schriftliche Beurkundung des Reisefrachtvertrags verlangen.
 
 (2) Auf den Reisefrachtvertrag sind die §§ 481 bis 511 und 513 bis 525 entsprechend anzuwenden, soweit die §§ 528 bis 535 nichts anderes bestimmen.
 
-##### § 528 Ladehafen. Ladeplatz
+###### § 528 Ladehafen. Ladeplatz
 
 (1) Der Verfrachter hat das Schiff zur Einnahme des Gutes an den im Reisefrachtvertrag benannten oder an den vom Befrachter nach Abschluss des Reisefrachtvertrags zu benennenden Ladeplatz hinzulegen.
 
 (2) Ist ein Ladehafen oder ein Ladeplatz im Reisefrachtvertrag nicht benannt und hat der Befrachter den Ladehafen oder Ladeplatz nach Abschluss des Reisefrachtvertrags zu benennen, so muss er mit der gebotenen Sorgfalt einen sicheren Ladehafen oder Ladeplatz auswählen.
 
-##### § 529 Anzeige der Ladebereitschaft
+###### § 529 Anzeige der Ladebereitschaft
 
 (1) Der Verfrachter hat, sobald das Schiff am Ladeplatz zur Einnahme des Gutes bereit ist, dem Befrachter die Ladebereitschaft anzuzeigen. Hat der Befrachter den Ladeplatz noch zu benennen, kann der Verfrachter die Ladebereitschaft bereits anzeigen, wenn das Schiff den Ladehafen erreicht hat.
 
 (2) Die Ladebereitschaft muss während der am Ladeplatz üblichen Geschäftsstunden angezeigt werden. Wird die Ladebereitschaft außerhalb der ortsüblichen Geschäftsstunden angezeigt, so gilt die Anzeige mit Beginn der auf sie folgenden ortsüblichen Geschäftsstunde als zugegangen.
 
-##### § 530 Ladezeit. Überliegezeit
+###### § 530 Ladezeit. Überliegezeit
 
 (1) Mit dem auf die Anzeige folgenden Tag beginnt die Ladezeit.
 
@@ -6815,31 +6831,31 @@ Eine Bestimmung im Konnossement, die von den Haftungsvorschriften in den §§ 49
 
 (4) Die Ladezeit und die Überliegezeit bemessen sich mangels abweichender Vereinbarung nach einer den Umständen des Falles angemessenen Frist. Bei der Berechnung der Lade- und Überliegezeit werden die Tage in ununterbrochen fortlaufender Reihenfolge unter Einschluss der Sonntage und der Feiertage gezählt. Nicht in Ansatz kommt die Zeit, in der das Verladen des Gutes aus Gründen, die dem Risikobereich des Verfrachters zuzurechnen sind, unmöglich ist.
 
-##### § 531 Verladen
+###### § 531 Verladen
 
 (1) Soweit sich aus den Umständen oder der Verkehrssitte nicht etwas anderes ergibt, hat der Befrachter das Gut zu verladen. Die Verantwortung des Verfrachters für die Seetüchtigkeit des beladenen Schiffes bleibt unberührt.
 
 (2) Der Verfrachter ist nicht befugt, das Gut umzuladen.
 
-##### § 532 Kündigung durch den Befrachter
+###### § 532 Kündigung durch den Befrachter
 
 (1) Der Befrachter kann den Reisefrachtvertrag jederzeit kündigen.
 
 (2) Kündigt der Befrachter, so kann der Verfrachter, wenn er einen Anspruch nach § 489 Absatz 2 Satz 1 Nummer 1 geltend macht, auch ein etwaiges Liegegeld verlangen.
 
-##### § 533 Teilbeförderung
+###### § 533 Teilbeförderung
 
 (1) Der Befrachter kann jederzeit verlangen, dass der Verfrachter nur einen Teil des Gutes befördert. Macht der Befrachter von diesem Recht Gebrauch, gebühren dem Verfrachter die volle Fracht, das etwaige Liegegeld sowie Ersatz der Aufwendungen, die ihm durch das Fehlen eines Teils des Gutes entstehen. Ist der Verfrachter nach dem Reisefrachtvertrag berechtigt, mit demselben Schiff anstelle der nicht verladenen Frachtstücke anderes Gut zu befördern, und macht er von diesem Recht Gebrauch, so ist von der vollen Fracht die Fracht für die Beförderung dieses anderen Gutes abzuziehen. Soweit dem Verfrachter durch das Fehlen eines Teils des Gutes die Sicherheit für die volle Fracht entgeht, kann er außerdem eine anderweitige Sicherheit verlangen. Unterbleibt die Beförderung der vollständigen Ladung aus Gründen, die dem Risikobereich des Verfrachters zuzurechnen sind, steht dem Verfrachter der Anspruch nach den Sätzen 2 bis 4 nur insoweit zu, als tatsächlich Gut befördert wird.
 
 (2) Verlädt der Befrachter das Gut nicht oder nicht vollständig innerhalb der Ladezeit und einer vereinbarten Überliegezeit oder wird das Gut, wenn dem Befrachter die Verladung nicht obliegt, nicht oder nicht vollständig innerhalb dieser Zeit abgeladen, so kann der Verfrachter dem Befrachter eine angemessene Frist setzen, innerhalb derer das Gut verladen oder abgeladen werden soll. Wird das Gut bis zum Ablauf der Frist nur teilweise verladen oder abgeladen, kann der Verfrachter die bereits verladenen oder abgeladenen Frachtstücke befördern und die Ansprüche nach Absatz 1 Satz 2 bis 4 geltend machen. § 490 Absatz 4 ist entsprechend anzuwenden.
 
-##### § 534 Kündigung durch den Verfrachter
+###### § 534 Kündigung durch den Verfrachter
 
 (1) Verlädt der Befrachter kein Gut innerhalb der Ladezeit und einer vereinbarten Überliegezeit oder wird, wenn dem Befrachter die Verladung nicht obliegt, kein Gut innerhalb dieser Zeit abgeladen, so kann der Verfrachter den Vertrag nach Maßgabe des § 490 kündigen und die Ansprüche nach § 489 Absatz 2 in Verbindung mit § 532 Absatz 2 geltend machen.
 
 (2) Der Verfrachter kann den Vertrag bereits vor Ablauf der Ladezeit und einer vereinbarten Überliegezeit nach Maßgabe des § 490 kündigen, wenn offensichtlich ist, dass das Gut nicht verladen oder abgeladen wird.
 
-##### § 535 Löschen
+###### § 535 Löschen
 
 (1) Die §§ 528 bis 531 über Ladehafen und Ladeplatz, Anzeige der Ladebereitschaft, Ladezeit und Verladen sind entsprechend auf Löschhafen und Löschplatz, Anzeige der Löschbereitschaft, Löschzeit und Löschen anzuwenden. Abweichend von § 530 Absatz 3 Satz 2 schuldet der Empfänger jedoch auch dann Liegegeld wegen Überschreitung der Löschzeit, wenn ihm der geschuldete Betrag bei Ablieferung des Gutes nicht mitgeteilt worden ist.
 
@@ -6847,7 +6863,7 @@ Eine Bestimmung im Konnossement, die von den Haftungsvorschriften in den §§ 49
 
 ## Zweiter Unterabschnitt Personenbeförderungsverträge
 
-##### § 536 Anwendungsbereich
+###### § 536 Anwendungsbereich
 
 (1) Für Schäden, die bei der Beförderung von Fahrgästen und ihrem Gepäck über See durch den Tod oder die Körperverletzung eines Fahrgasts oder durch den Verlust, die Beschädigung oder verspätete Aushändigung von Gepäck entstehen, haften der Beförderer und der ausführende Beförderer nach den Vorschriften dieses Unterabschnitts. Das Recht, eine Beschränkung der Haftung nach den §§ 611 bis 617 oder den §§ 4 bis 5n des Binnenschifffahrtsgesetzes geltend zu machen, bleibt unberührt.
 
@@ -6859,7 +6875,7 @@ Eine Bestimmung im Konnossement, die von den Haftungsvorschriften in den §§ 49
 
 Die Haftungsvorschriften dieses Unterabschnitts gelten ferner nicht, wenn der Schaden auf einem von einer Kernanlage ausgehenden nuklearen Ereignis beruht und der Inhaber der Kernanlage nach den Vorschriften des Übereinkommens vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung der Bekanntmachung vom 5. Februar 1976 (BGBl. 1976 II S. 310, 311) und des Protokolls vom 16. November 1982 (BGBl. 1985 II S. 690) oder des Atomgesetzes haftet.
 
-##### § 537 Begriffsbestimmungen
+###### § 537 Begriffsbestimmungen
 
 Im Sinne dieses Unterabschnitts ist
 
@@ -6885,7 +6901,7 @@ b) für den Schiffsantrieb, die Ruderanlage, die sichere Schiffsführung, das Fe
 
 c) für das Aussetzen von Rettungsmitteln.
 
-##### § 538 Haftung des Beförderers für Personenschäden
+###### § 538 Haftung des Beförderers für Personenschäden
 
 (1) Der Beförderer haftet für den Schaden, der durch den Tod oder die Körperverletzung eines Fahrgasts entsteht, wenn das den Schaden verursachende Ereignis während der Beförderung eingetreten ist und auf einem Verschulden des Beförderers beruht. Ist das den Schaden verursachende Ereignis ein Schifffahrtsereignis, wird das Verschulden vermutet.
 
@@ -6903,7 +6919,7 @@ c) für das Aussetzen von Rettungsmitteln.
 
 Nicht erfasst ist der Zeitraum, in dem sich der Fahrgast in einer Hafenstation, auf einem Kai oder in oder auf einer anderen Hafenanlage befindet.
 
-##### § 539 Haftung des Beförderers für Gepäck- und Verspätungsschäden
+###### § 539 Haftung des Beförderers für Gepäck- und Verspätungsschäden
 
 (1) Der Beförderer haftet für den Schaden, der durch Verlust oder Beschädigung von Kabinengepäck oder von anderem Gepäck entsteht, wenn das den Schaden verursachende Ereignis während der Beförderung eingetreten ist und auf einem Verschulden des Beförderers beruht. Bei Verlust oder Beschädigung von Kabinengepäck auf Grund eines Schifffahrtsereignisses und bei Verlust oder Beschädigung anderen Gepäcks wird das Verschulden vermutet.
 
@@ -6923,11 +6939,11 @@ c) den Zeitraum, in dem sich der Fahrgast in einer Hafenstation, auf einem Kai o
 
 2. hinsichtlich anderen Gepäcks als des in Nummer 1 genannten Kabinengepäcks den Zeitraum von der Übernahme durch den Beförderer an Land oder an Bord bis zur Wiederaushändigung.
 
-##### § 540 Haftung für andere
+###### § 540 Haftung für andere
 
 Der Beförderer hat ein Verschulden seiner Leute und der Schiffsbesatzung in gleichem Umfang zu vertreten wie eigenes Verschulden, wenn die Leute und die Schiffsbesatzung in Ausübung ihrer Verrichtungen handeln. Gleiches gilt für ein Verschulden anderer Personen, deren er sich bei der Ausführung der Beförderung bedient.
 
-##### § 541 Haftungshöchstbetrag bei Personenschäden
+###### § 541 Haftungshöchstbetrag bei Personenschäden
 
 (1) Die Haftung des Beförderers wegen Tod oder Körperverletzung eines Fahrgasts ist in jedem Fall auf einen Betrag von 400 000 Rechnungseinheiten je Fahrgast und Schadensereignis beschränkt. Dies gilt auch für den Kapitalwert einer als Entschädigung zu leistenden Rente.
 
@@ -6945,7 +6961,7 @@ Der Beförderer hat ein Verschulden seiner Leute und der Schiffsbesatzung in gle
 
 (3) Bei Tod oder Körperverletzung mehrerer Fahrgäste tritt bei Anwendung des Absatzes 2 an die Stelle des darin genannten Betrages von 250 000 Rechnungseinheiten je Fahrgast und Schadensereignis der Betrag von 340 Millionen Rechnungseinheiten je Schiff und Schadensereignis, wenn dieser Betrag niedriger ist und unter den Geschädigten im Verhältnis der Höhe ihrer Ansprüche und in Form einer einmaligen Zahlung oder in Form von Teilzahlungen aufgeteilt werden kann.
 
-##### § 542 Haftungshöchstbetrag bei Gepäck- und Verspätungsschäden
+###### § 542 Haftungshöchstbetrag bei Gepäck- und Verspätungsschäden
 
 (1) Die Haftung des Beförderers wegen Verlust, Beschädigung oder verspäteter Aushändigung von Kabinengepäck ist, soweit Absatz 2 nichts Abweichendes bestimmt, auf einen Betrag von 2 250 Rechnungseinheiten je Fahrgast und Beförderung beschränkt.
 
@@ -6957,19 +6973,19 @@ Der Beförderer hat ein Verschulden seiner Leute und der Schiffsbesatzung in gle
 
 (5) Abweichend von den Absätzen 1 bis 4 hat der Beförderer bei Verlust oder Beschädigung von Mobilitätshilfen oder anderer Spezialausrüstung, die von einem Fahrgast mit eingeschränkter Mobilität verwendet wird, den Wiederbeschaffungswert der betreffenden Ausrüstungen oder gegebenenfalls die Reparaturkosten zu ersetzen.
 
-##### § 543 Zinsen und Verfahrenskosten
+###### § 543 Zinsen und Verfahrenskosten
 
 Zinsen und Verfahrenskosten sind über die in den §§ 538, 541 und 542 genannten Haftungshöchstbeträge hinaus zu erstatten.
 
-##### § 544 Rechnungseinheit
+###### § 544 Rechnungseinheit
 
 Die in den §§ 538, 541 und 542 genannte Rechnungseinheit ist das Sonderziehungsrecht des Internationalen Währungsfonds. Der Betrag wird in Euro entsprechend dem Wert des Euro gegenüber dem Sonderziehungsrecht am Tag des Urteils oder an dem von den Parteien vereinbarten Tag umgerechnet. Der Wert des Euro gegenüber dem Sonderziehungsrecht wird nach der Berechnungsmethode ermittelt, die der Internationale Währungsfonds an dem betreffenden Tag für seine Operationen und Transaktionen anwendet.
 
-##### § 545 Wegfall der Haftungsbeschränkung
+###### § 545 Wegfall der Haftungsbeschränkung
 
 Die in den §§ 541 und 542 sowie im Personenbeförderungsvertrag vorgesehenen Haftungshöchstbeträge gelten nicht, wenn der Schaden auf eine Handlung oder Unterlassung zurückzuführen ist, die vom Beförderer selbst entweder in der Absicht, einen solchen Schaden herbeizuführen, oder leichtfertig und in dem Bewusstsein begangen wurde, dass ein solcher Schaden mit Wahrscheinlichkeit eintreten werde.
 
-##### § 546 Ausführender Beförderer
+###### § 546 Ausführender Beförderer
 
 (1) Wird die Beförderung ganz oder teilweise durch einen Dritten ausgeführt, der nicht der Beförderer ist, so haftet der Dritte (ausführender Beförderer) für den Schaden, der durch den Tod oder die Körperverletzung eines Fahrgasts oder durch Verlust, Beschädigung oder verspätete Aushändigung von Gepäck eines Fahrgasts während der vom ausführenden Beförderer durchgeführten Beförderung entsteht, so, als wäre er der Beförderer. Vertragliche Vereinbarungen, durch die der Beförderer seine Haftung erweitert, wirken gegen den ausführenden Beförderer nur, soweit er ihnen in Textform zugestimmt hat.
 
@@ -6977,7 +6993,7 @@ Die in den §§ 541 und 542 sowie im Personenbeförderungsvertrag vorgesehenen H
 
 (3) Der Beförderer und der ausführende Beförderer haften als Gesamtschuldner.
 
-##### § 547 Haftung der Leute und der Schiffsbesatzung
+###### § 547 Haftung der Leute und der Schiffsbesatzung
 
 (1) Wird einer der Leute des Beförderers oder des ausführenden Beförderers wegen Tod oder Körperverletzung eines Fahrgasts oder wegen Verlust, Beschädigung oder verspäteter Aushändigung von Gepäck eines Fahrgasts in Anspruch genommen, so kann auch er sich auf die für den Beförderer oder den ausführenden Beförderer geltenden Einreden und Haftungsbeschränkungen berufen, wenn er in Ausübung seiner Verrichtungen gehandelt hat. Gleiches gilt, wenn ein Mitglied der Schiffsbesatzung in Anspruch genommen wird.
 
@@ -6985,11 +7001,11 @@ Die in den §§ 541 und 542 sowie im Personenbeförderungsvertrag vorgesehenen H
 
 (3) Sind für den Schaden sowohl der Beförderer oder der ausführende Beförderer als auch eine der in Absatz 1 genannten Personen verantwortlich, haften sie als Gesamtschuldner.
 
-##### § 548 Konkurrierende Ansprüche
+###### § 548 Konkurrierende Ansprüche
 
 Ansprüche wegen Tod oder Körperverletzung eines Fahrgasts oder wegen Verlust, Beschädigung oder verspäteter Aushändigung von Gepäck können gegen den Beförderer oder den ausführenden Beförderer nur auf der Grundlage der Vorschriften dieses Unterabschnitts geltend gemacht werden.
 
-##### § 549 Schadensanzeige
+###### § 549 Schadensanzeige
 
 (1) Zeigt der Fahrgast dem Beförderer eine Beschädigung oder einen Verlust seines Gepäcks nicht rechtzeitig an, so wird vermutet, dass er das Gepäck unbeschädigt erhalten hat. Einer Anzeige bedarf es jedoch nicht, wenn der Zustand des Gepäcks im Zeitpunkt seines Empfangs von den Parteien gemeinsam festgestellt oder geprüft worden ist.
 
@@ -7003,7 +7019,7 @@ Ansprüche wegen Tod oder Körperverletzung eines Fahrgasts oder wegen Verlust, 
 
 (3) Die Schadensanzeige bedarf der Textform. Zur Wahrung der Frist genügt die rechtzeitige Absendung.
 
-##### § 550 Erlöschen von Schadensersatzansprüchen
+###### § 550 Erlöschen von Schadensersatzansprüchen
 
 Ein Schadensersatzanspruch wegen Tod oder Körperverletzung eines Fahrgasts oder wegen Verlust, Beschädigung oder verspäteter Aushändigung von Gepäck erlischt, wenn er nicht innerhalb einer der folgenden Fristen gerichtlich geltend gemacht wird:
 
@@ -7011,11 +7027,11 @@ Ein Schadensersatzanspruch wegen Tod oder Körperverletzung eines Fahrgasts oder
 
 2. fünf Jahre, gerechnet von dem Tag, an dem die Ausschiffung des Fahrgasts erfolgt ist oder hätte erfolgen sollen, je nachdem, welches der spätere Zeitpunkt ist.
 
-##### § 551 Abweichende Vereinbarungen
+###### § 551 Abweichende Vereinbarungen
 
 Soweit in § 542 Absatz 4 nichts Abweichendes bestimmt ist, ist jede Vereinbarung unwirksam, die vor Eintritt des Ereignisses getroffen wird, das den Tod oder die Körperverletzung des Fahrgasts oder den Verlust, die Beschädigung oder die verspätete Aushändigung seines Gepäcks verursacht hat, und durch die die Haftung wegen Tod oder Körperverletzung des Fahrgasts oder wegen Verlust, Beschädigung oder verspäteter Aushändigung seines Gepäcks ausgeschlossen oder eingeschränkt wird.
 
-##### § 552 Pfandrecht des Beförderers
+###### § 552 Pfandrecht des Beförderers
 
 (1) Der Beförderer hat für seine Forderung auf das Beförderungsentgelt ein Pfandrecht an dem Gepäck des Fahrgasts.
 
@@ -7025,7 +7041,7 @@ Soweit in § 542 Absatz 4 nichts Abweichendes bestimmt ist, ist jede Vereinbarun
 
 ## Erster Unterabschnitt Schiffsmiete
 
-##### § 553 Schiffsmietvertrag
+###### § 553 Schiffsmietvertrag
 
 (1) Durch den Schiffsmietvertrag (Bareboat Charter) wird der Vermieter verpflichtet, dem Mieter ein bestimmtes Seeschiff ohne Besatzung zu überlassen und ihm den Gebrauch dieses Schiffes während der Mietzeit zu gewähren.
 
@@ -7033,23 +7049,23 @@ Soweit in § 542 Absatz 4 nichts Abweichendes bestimmt ist, ist jede Vereinbarun
 
 (3) Die Vorschriften dieses Unterabschnitts gelten, wenn der Mieter den Vertrag abschließt, um das Schiff zum Erwerb durch Seefahrt zu betreiben. Betreibt der Mieter kein Handelsgewerbe im Sinne von § 1 Absatz 2 und ist seine Firma auch nicht nach § 2 in das Handelsregister eingetragen, so sind in Ansehung des Schiffsmietvertrags auch insoweit die Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
 
-##### § 554 Übergabe und Rückgabe des Schiffes. Instandhaltung
+###### § 554 Übergabe und Rückgabe des Schiffes. Instandhaltung
 
 (1) Der Vermieter hat dem Mieter das Schiff zur vereinbarten Zeit am vereinbarten Ort in einem zum vertragsgemäßen Gebrauch geeigneten Zustand zu übergeben.
 
 (2) Der Mieter hat das Schiff während der Mietzeit in einem zum vertragsgemäßen Gebrauch geeigneten Zustand zu erhalten. Nach Beendigung des Mietverhältnisses ist er verpflichtet, das Schiff in demselben Zustand unter Berücksichtigung der Abnutzung infolge vertragsgemäßen Gebrauchs zurückzugeben.
 
-##### § 555 Sicherung der Rechte des Vermieters
+###### § 555 Sicherung der Rechte des Vermieters
 
 Der Mieter hat die Rechte des Vermieters gegenüber Dritten für den Vermieter zu sichern.
 
-##### § 556 Kündigung
+###### § 556 Kündigung
 
 Ein auf unbestimmte Zeit eingegangenes Mietverhältnis kann spätestens am ersten Werktag einer Woche zum Ablauf des folgenden Sonnabends gekündigt werden. Ist die Miete nach Monaten oder längeren Zeitabschnitten bemessen, ist die ordentliche Kündigung zum Ablauf eines Kalendervierteljahrs zulässig.
 
 ## Zweiter Unterabschnitt Zeitcharter
 
-##### § 557 Zeitchartervertrag
+###### § 557 Zeitchartervertrag
 
 (1) Durch den Zeitchartervertrag wird der Zeitvercharterer verpflichtet, dem Zeitcharterer zu dessen Verwendung ein bestimmtes Seeschiff mit Besatzung auf Zeit zu überlassen und mit diesem Schiff Güter oder Personen zu befördern oder andere vereinbarte Leistungen zu erbringen.
 
@@ -7057,21 +7073,21 @@ Ein auf unbestimmte Zeit eingegangenes Mietverhältnis kann spätestens am erste
 
 (3) Die Vorschriften dieses Unterabschnitts gelten, wenn der Zeitcharterer den Vertrag abschließt, um das Schiff zum Erwerb durch Seefahrt zu betreiben. Betreibt der Zeitcharterer kein Handelsgewerbe im Sinne von § 1 Absatz 2 und ist seine Firma auch nicht nach § 2 in das Handelsregister eingetragen, so sind in Ansehung des Zeitchartervertrags auch insoweit die Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
 
-##### § 558 Beurkundung
+###### § 558 Beurkundung
 
 Jede Partei des Zeitchartervertrags kann die schriftliche Beurkundung dieses Vertrags verlangen.
 
-##### § 559 Bereitstellung des Schiffes
+###### § 559 Bereitstellung des Schiffes
 
 (1) Das Schiff ist dem Zeitcharterer zur vereinbarten Zeit am vereinbarten Ort in einem zum vertragsgemäßen Gebrauch geeigneten Zustand bereitzustellen.
 
 (2) Ist vereinbart, dass das Schiff zu einem bestimmten Termin oder innerhalb einer bestimmten Frist bereitgestellt werden soll, so kann der Zeitcharterer ohne Fristsetzung vom Vertrag zurücktreten, wenn die Vereinbarung nicht erfüllt wird oder offensichtlich ist, dass sie nicht erfüllt werden wird.
 
-##### § 560 Erhaltung des vertragsgemäßen Zustands des Schiffes
+###### § 560 Erhaltung des vertragsgemäßen Zustands des Schiffes
 
 Der Zeitvercharterer hat das Schiff während der Dauer des Zeitchartervertrags in einem zum vertragsgemäßen Gebrauch geeigneten Zustand zu erhalten. Er hat insbesondere dafür zu sorgen, dass das Schiff seetüchtig und, wenn das Schiff zur Beförderung von Gütern verwendet wird, ladungstüchtig ist.
 
-##### § 561 Verwendung des Schiffes
+###### § 561 Verwendung des Schiffes
 
 (1) Der Zeitcharterer bestimmt über die Verwendung des Schiffes. Er ist verpflichtet, mit der gebotenen Sorgfalt einen sicheren Hafen oder Liegeplatz auszuwählen, wenn er den Zeitvercharterer anweist, einen bestimmten Hafen oder Liegeplatz anzulaufen.
 
@@ -7079,29 +7095,29 @@ Der Zeitvercharterer hat das Schiff während der Dauer des Zeitchartervertrags i
 
 (3) Der Zeitcharterer ist berechtigt, das Schiff an einen Dritten zu verchartern.
 
-##### § 562 Unterrichtungspflichten
+###### § 562 Unterrichtungspflichten
 
 Zeitvercharterer und Zeitcharterer sind verpflichtet, sich gegenseitig über alle das Schiff und die Reisen betreffenden Umstände von Bedeutung zu unterrichten.
 
-##### § 563 Verladen und Löschen
+###### § 563 Verladen und Löschen
 
 (1) Der Zeitcharterer hat, wenn das Schiff zur Beförderung von Gütern verwendet wird, diese zu verladen und zu löschen.
 
 (2) Der Zeitvercharterer hat dafür zu sorgen, dass die Verladung die Seetüchtigkeit des Schiffes nicht beeinträchtigt.
 
-##### § 564 Kosten für den Betrieb des Schiffes
+###### § 564 Kosten für den Betrieb des Schiffes
 
 (1) Der Zeitvercharterer hat die fixen Kosten des Schiffsbetriebs zu tragen, insbesondere die Kosten der Besatzung, Ausrüstung, Unterhaltung und Versicherung des Schiffes.
 
 (2) Der Zeitcharterer hat die variablen Kosten des Schiffsbetriebs zu tragen, insbesondere Hafengebühren, Lotsengelder, Schlepperhilfen und Prämien für eine weiter gehende Versicherung des Schiffes. Der Zeitcharterer hat ferner den für den Betrieb des Schiffes erforderlichen Treibstoff in handelsüblicher Qualität zu beschaffen.
 
-##### § 565 Zeitfracht
+###### § 565 Zeitfracht
 
 (1) Die Zeitfracht ist mangels anderer Vereinbarung halbmonatlich im Voraus zu zahlen.
 
 (2) Die Pflicht zur Zahlung der Zeitfracht entfällt für die Zeit, in der das Schiff infolge von Mängeln oder sonstigen Umständen, die dem Risikobereich des Zeitvercharterers zuzurechnen sind, dem Zeitcharterer nicht zur vertragsgemäßen Verwendung zur Verfügung steht. Ist die vertragsgemäße Verwendung des Schiffes gemindert, ist eine angemessen herabgesetzte Zeitfracht zu zahlen.
 
-##### § 566 Pfandrecht des Zeitvercharterers
+###### § 566 Pfandrecht des Zeitvercharterers
 
 (1) Der Zeitvercharterer hat für seine Forderungen aus dem Zeitchartervertrag ein Pfandrecht an den an Bord des Schiffes befindlichen Sachen einschließlich des Treibstoffs, soweit diese Sachen im Eigentum des Zeitcharterers stehen. Die für den gutgläubigen Erwerb des Eigentums geltenden §§ 932, 934 und 935 des Bürgerlichen Gesetzbuchs sind nicht anzuwenden.
 
@@ -7109,15 +7125,15 @@ Zeitvercharterer und Zeitcharterer sind verpflichtet, sich gegenseitig über all
 
 (3) Abweichend von den Absätzen 1 und 2 hat der Zeitvercharterer kein Pfandrecht für künftige Entschädigungsforderungen sowie für nicht fällige Ansprüche auf Zeitfracht.
 
-##### § 567 Pflichtverletzung
+###### § 567 Pflichtverletzung
 
 Verletzt eine Partei des Zeitchartervertrags eine Pflicht aus diesem Vertrag, so bestimmen sich die Rechtsfolgen nach den allgemeinen für Schuldverhältnisse geltenden Vorschriften des Bürgerlichen Gesetzbuchs, soweit nicht in diesem Unterabschnitt etwas anderes bestimmt ist.
 
-##### § 568 Zurückbehaltungsrecht
+###### § 568 Zurückbehaltungsrecht
 
 Der Zeitvercharterer kann die von ihm geschuldeten Leistungen, einschließlich der Einnahme von Gut und der Ausstellung von Konnossementen, verweigern, solange der Zeitcharterer einen fälligen Anspruch auf Zeitfracht nicht erfüllt.
 
-##### § 569 Rückgabe des Schiffes
+###### § 569 Rückgabe des Schiffes
 
 (1) Nach Beendigung des Vertragsverhältnisses hat der Zeitcharterer das Schiff am vereinbarten Ort zurückzugeben.
 
@@ -7127,27 +7143,27 @@ Der Zeitvercharterer kann die von ihm geschuldeten Leistungen, einschließlich d
 
 ## Erster Unterabschnitt Schiffszusammenstoß
 
-##### § 570 Schadensersatzpflicht
+###### § 570 Schadensersatzpflicht
 
 Im Falle eines Zusammenstoßes von Seeschiffen haftet der Reeder des Schiffes, das den Zusammenstoß verursacht hat, für den Schaden, der durch den Zusammenstoß an dem anderen Schiff und den an Bord der Schiffe befindlichen Personen und Sachen verursacht wurde. Die Ersatzpflicht tritt jedoch nur ein, wenn den Reeder jenes Schiffes oder eine in § 480 genannte Person ein Verschulden trifft.
 
-##### § 571 Mitverschulden
+###### § 571 Mitverschulden
 
 (1) Sind die Reeder mehrerer am Zusammenstoß beteiligter Schiffe zum Schadensersatz verpflichtet, so bestimmt sich der Umfang des von einem Reeder zu leistenden Ersatzes nach dem Verhältnis der Schwere seines Verschuldens zu dem der anderen Reeder. Kann ein solches Verhältnis nicht festgesetzt werden, so haften die Reeder zu gleichen Teilen.
 
 (2) Abweichend von Absatz 1 haften die Reeder mehrerer am Zusammenstoß beteiligter Schiffe für den Schaden, der durch den Tod oder die Körperverletzung einer an Bord befindlichen Person entsteht, als Gesamtschuldner. Im Verhältnis zueinander sind die Reeder nach Maßgabe des Absatzes 1 verpflichtet.
 
-##### § 572 Fernschädigung
+###### § 572 Fernschädigung
 
 Fügt ein Schiff durch Ausführung oder Unterlassung eines Manövers oder durch Nichtbeachtung einer Schifffahrtsregel einem anderen Schiff oder den an Bord der Schiffe befindlichen Personen oder Sachen einen Schaden zu, ohne dass ein Zusammenstoß stattfindet, so sind die §§ 570 und 571 entsprechend anzuwenden.
 
-##### § 573 Beteiligung eines Binnenschiffs
+###### § 573 Beteiligung eines Binnenschiffs
 
 Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden, wenn an dem Unfall ein Binnenschiff beteiligt ist.
 
 ## Zweiter Unterabschnitt Bergung
 
-##### § 574 Pflichten des Bergers und sonstiger Personen
+###### § 574 Pflichten des Bergers und sonstiger Personen
 
 (1) Berger ist, wer folgenden Schiffen oder Vermögensgegenständen Hilfe leistet:
 
@@ -7167,13 +7183,13 @@ Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden, wenn an de
 
 (4) Der Eigentümer und der Schiffer oder Kapitän eines in Gefahr befindlichen Schiffes sowie der Eigentümer eines sonstigen in Gefahr befindlichen Vermögensgegenstands sind gegenüber dem Berger verpflichtet, mit diesem während der Bergungsmaßnahmen in jeder Hinsicht zusammenzuarbeiten. Wurde das Schiff oder ein sonstiger Vermögensgegenstand in Sicherheit gebracht, so sind die in Satz 1 genannten Personen auf vernünftiges Ersuchen des Bergers auch verpflichtet, das Schiff oder den sonstigen Vermögensgegenstand zurückzunehmen.
 
-##### § 575 Verhütung oder Begrenzung von Umweltschäden
+###### § 575 Verhütung oder Begrenzung von Umweltschäden
 
 (1) Der Berger ist gegenüber dem Eigentümer des in Gefahr befindlichen Schiffes sowie gegenüber dem Eigentümer eines sonstigen in Gefahr befindlichen Vermögensgegenstands verpflichtet, während der Bergungsmaßnahmen die gebotene Sorgfalt anzuwenden, um Umweltschäden zu verhüten oder zu begrenzen. Die gleiche Pflicht trifft den Eigentümer und den Schiffer oder Kapitän des in Gefahr befindlichen Schiffes sowie den Eigentümer eines sonstigen in Gefahr befindlichen Vermögensgegenstands gegenüber dem Berger. Eine abweichende Vereinbarung ist nichtig.
 
 (2) Ein Umweltschaden ist eine erhebliche physische Schädigung der menschlichen Gesundheit oder der Tier- und Pflanzenwelt des Meeres oder der Meeresressourcen in Küsten- und Binnengewässern oder angrenzenden Gebieten, die durch Verschmutzung, Verseuchung, Feuer, Explosion oder ähnliche schwerwiegende Ereignisse verursacht wird.
 
-##### § 576 Bergelohnanspruch
+###### § 576 Bergelohnanspruch
 
 (1) Sind die Bergungsmaßnahmen erfolgreich, hat der Berger einen Anspruch auf Zahlung eines Bergelohns. Der Anspruch besteht auch dann, wenn sowohl das geborgene Schiff als auch das Schiff, von dem aus die Bergungsmaßnahmen durchgeführt wurden, demselben Eigentümer gehören.
 
@@ -7181,7 +7197,7 @@ Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden, wenn an de
 
 (3) Zur Zahlung des Bergelohns und der Bergungskosten sind der Schiffseigentümer sowie die Eigentümer der sonstigen geborgenen Vermögensgegenstände im Verhältnis des Wertes des Schiffes und der Vermögensgegenstände zueinander anteilig verpflichtet.
 
-##### § 577 Höhe des Bergelohns
+###### § 577 Höhe des Bergelohns
 
 (1) Bergelohn ist, wenn die Parteien seine Höhe nicht vereinbart haben, so festzusetzen, dass er einen Anreiz für Bergungsmaßnahmen schafft. Bei der Festsetzung sind zugleich die folgenden Kriterien ohne Rücksicht auf die nachstehend aufgeführte Reihenfolge zu berücksichtigen:
 
@@ -7207,7 +7223,7 @@ Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden, wenn an de
 
 (2) Der Bergelohn ohne Zinsen, Bergungskosten und erstattungsfähige Verfahrenskosten darf den Wert des geborgenen Schiffes und der sonstigen geborgenen Vermögensgegenstände nicht übersteigen.
 
-##### § 578 Sondervergütung
+###### § 578 Sondervergütung
 
 (1) Hat der Berger Bergungsmaßnahmen für ein Schiff durchgeführt, das als solches oder durch seine Ladung eine Gefahr für die Umwelt darstellte, so kann er von dem Eigentümer des Schiffes die Zahlung einer Sondervergütung verlangen, soweit diese den Bergelohn übersteigt, der dem Berger zusteht. Der Anspruch auf Sondervergütung besteht auch dann, wenn das geborgene Schiff und das Schiff, von dem aus die Bergungsmaßnahmen durchgeführt wurden, demselben Eigentümer gehören.
 
@@ -7215,19 +7231,19 @@ Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden, wenn an de
 
 (3) Hat der Berger durch seine Bergungsmaßnahmen einen Umweltschaden (§ 575 Absatz 2) verhütet oder begrenzt, so kann die nach Absatz 2 festzusetzende Sondervergütung um bis zu 30 Prozent erhöht werden. Abweichend von Satz 1 kann die Sondervergütung unter Berücksichtigung der in § 577 Absatz 1 Satz 2 genannten Kriterien um bis zu 100 Prozent erhöht werden, wenn dies billig und gerecht erscheint.
 
-##### § 579 Ausschluss des Vergütungsanspruchs
+###### § 579 Ausschluss des Vergütungsanspruchs
 
 (1) Der Berger kann für durchgeführte Bergungsmaßnahmen keine Vergütung nach den Vorschriften dieses Unterabschnitts verlangen, soweit die Maßnahmen nicht über das hinausgehen, was bei vernünftiger Betrachtung als ordnungsgemäße Erfüllung eines vor Eintritt der Gefahr eingegangenen Vertrags angesehen werden kann.
 
 (2) Der Berger kann ferner dann keine Vergütung nach den Vorschriften dieses Unterabschnitts verlangen, wenn er entgegen dem ausdrücklichen und vernünftigen Verbot des Eigentümers, Schiffers oder Kapitäns des Schiffes oder des Eigentümers eines sonstigen in Gefahr befindlichen Vermögensgegenstands, der sich nicht an Bord des Schiffes befindet oder befunden hat, Bergungsmaßnahmen durchführt.
 
-##### § 580 Fehlverhalten des Bergers
+###### § 580 Fehlverhalten des Bergers
 
 (1) Der Bergelohn kann herabgesetzt oder gänzlich versagt werden, wenn Bergungsmaßnahmen durch Verschulden des Bergers notwendig oder schwieriger geworden sind oder wenn sich der Berger des Betrugs oder eines anderen unredlichen Verhaltens schuldig gemacht hat.
 
 (2) Die Sondervergütung kann ganz oder teilweise versagt werden, wenn einer der in Absatz 1 genannten Gründe vorliegt oder wenn der Berger nachlässig gehandelt und es dadurch versäumt hat, Umweltschäden (§ 575 Absatz 2) zu verhüten oder zu begrenzen.
 
-##### § 581 Ausgleichsanspruch
+###### § 581 Ausgleichsanspruch
 
 (1) Wird ein Schiff oder dessen Ladung ganz oder teilweise von einem anderen Schiff geborgen, so wird der Bergelohn oder die Sondervergütung zwischen dem Schiffseigner oder Reeder, dem Schiffer oder Kapitän und der übrigen Besatzung des anderen Schiffes in der Weise verteilt, dass zunächst dem Schiffseigner oder Reeder die Schäden am Schiff und die Unkosten ersetzt werden und dass von dem Rest der Schiffseigner oder Reeder zwei Drittel, der Schiffer oder Kapitän und die übrige Besatzung je ein Sechstel erhalten.
 
@@ -7237,19 +7253,19 @@ Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden, wenn an de
 
 (4) Die Absätze 1 bis 3 sind nicht anzuwenden, wenn die Bergungsmaßnahmen von einem Bergungs- oder Schleppschiff aus durchgeführt werden.
 
-##### § 582 Mehrheit von Bergern
+###### § 582 Mehrheit von Bergern
 
 (1) Wirken mehrere Berger an der Bergung mit, so kann jeder Berger nur einen Anteil am Bergelohn verlangen. Auf die Bestimmung des Verhältnisses der Anteile der Berger am Bergelohn zueinander ist § 577 Absatz 1 entsprechend anzuwenden; § 581 bleibt unberührt.
 
 (2) Abweichend von Absatz 1 kann jedoch ein Berger Bergelohn in voller Höhe verlangen, wenn er das Eingreifen der anderen Berger auf Ersuchen des Eigentümers des in Gefahr befindlichen Schiffes oder eines sonstigen in Gefahr befindlichen Vermögensgegenstands hingenommen hat und sich das Ersuchen als nicht vernünftig erweist.
 
-##### § 583 Rettung von Menschen
+###### § 583 Rettung von Menschen
 
 (1) Menschen, denen das Leben gerettet worden ist, haben weder einen Bergelohn noch eine Sondervergütung zu entrichten.
 
 (2) Abweichend von Absatz 1 kann derjenige, der bei Bergungsmaßnahmen Handlungen zur Rettung von Menschenleben unternimmt, von dem Berger, dem für die Bergung des Schiffes oder eines sonstigen Vermögensgegenstands oder für die Verhütung oder Begrenzung von Umweltschäden (§ 575 Absatz 2) nach den Vorschriften dieses Unterabschnitts eine Vergütung zusteht, einen angemessenen Anteil an der Vergütung verlangen. Steht dem Berger aus den in § 580 genannten Gründen keine oder nur eine verminderte Vergütung zu, kann der Anspruch auf einen angemessenen Anteil an der Vergütung in Höhe des Betrags, um den sich der Anteil mindert, unmittelbar gegen die Eigentümer des geborgenen Schiffes und der sonstigen geborgenen Vermögensgegenstände geltend gemacht werden; § 576 Absatz 3 ist entsprechend anzuwenden.
 
-##### § 584 Abschluss und Inhaltskontrolle eines Bergungsvertrags
+###### § 584 Abschluss und Inhaltskontrolle eines Bergungsvertrags
 
 (1) Sowohl der Eigentümer als auch der Schiffer oder Kapitän des in Gefahr befindlichen Schiffes sind berechtigt, im Namen der Eigentümer der an Bord des Schiffes befindlichen Vermögensgegenstände Verträge über Bergungsmaßnahmen abzuschließen. Der Schiffer oder Kapitän dieses Schiffes ist darüber hinaus berechtigt, auch im Namen des Schiffseigentümers Verträge über Bergungsmaßnahmen abzuschließen.
 
@@ -7259,7 +7275,7 @@ Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden, wenn an de
 
 2. die vertraglich vereinbarte Vergütung im Verhältnis zu den tatsächlich erbrachten Leistungen übermäßig hoch oder übermäßig gering ist.
 
-##### § 585 Pfandrecht. Zurückbehaltungsrecht
+###### § 585 Pfandrecht. Zurückbehaltungsrecht
 
 (1) Der Gläubiger einer Forderung auf Bergelohn, auf Sondervergütung oder auf Bergungskosten hat nach § 596 Absatz 1 Nummer 4 für seine Forderung die Rechte eines Schiffsgläubigers an dem geborgenen Schiff.
 
@@ -7273,7 +7289,7 @@ Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden, wenn an de
 
 3. soweit es sich um geborgene Ladung handelt, die von einem Staat für humanitäre Zwecke gespendet wurde, vorausgesetzt, der Staat hat sich bereit erklärt, die im Hinblick auf diese Ladung erbrachten Bergungsleistungen zu bezahlen.
 
-##### § 586 Rangfolge der Pfandrechte
+###### § 586 Rangfolge der Pfandrechte
 
 (1) Pfandrechte an den geborgenen Sachen nach § 585 Absatz 2 haben den Vorrang vor allen anderen an den Sachen begründeten Pfandrechten, auch wenn diese früher entstanden sind.
 
@@ -7283,7 +7299,7 @@ Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden, wenn an de
 
 (4) Die Befriedigung des Gläubigers aus den geborgenen Sachen wegen des Pfandrechts nach § 585 Absatz 2 erfolgt nach den für die Zwangsvollstreckung geltenden Vorschriften. Die Klage ist bei Sachen, die noch nicht ausgeliefert sind, gegen den Schiffer oder Kapitän zu richten; das gegen den Schiffer oder Kapitän ergangene Urteil ist auch gegenüber dem Eigentümer wirksam.
 
-##### § 587 Sicherheitsleistung
+###### § 587 Sicherheitsleistung
 
 (1) Der Berger kann für seine Forderung auf Bergelohn oder Sondervergütung einschließlich Zinsen und Kosten von dem Schuldner die Leistung einer ausreichenden Sicherheit verlangen. Satz 1 gilt jedoch nicht, wenn die Bergungsmaßnahmen für ein Schiff durchgeführt wurden, das einem Staat gehört oder von ihm betrieben wird, nichtgewerblichen Zwecken dient und im Zeitpunkt der Bergungsmaßnahmen nach den allgemein anerkannten Grundsätzen des Völkerrechts Staatenimmunität genießt.
 
@@ -7295,19 +7311,19 @@ Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden, wenn an de
 
 ## Dritter Unterabschnitt Große Haverei
 
-##### § 588 Errettung aus gemeinsamer Gefahr
+###### § 588 Errettung aus gemeinsamer Gefahr
 
 (1) Werden das Schiff, der Treibstoff, die Ladung oder mehrere dieser Sachen zur Errettung aus einer gemeinsamen Gefahr auf Anordnung des Kapitäns vorsätzlich beschädigt oder aufgeopfert oder werden zu diesem Zweck auf Anordnung des Kapitäns Aufwendungen gemacht (Große Haverei), so werden die hierdurch entstandenen Schäden und Aufwendungen von den Beteiligten gemeinschaftlich getragen.
 
 (2) Beteiligter ist derjenige, der im Zeitpunkt des Havereifalls Eigentümer des Schiffes oder Eigentümer des Treibstoffs ist oder der die Gefahr trägt, dass ein zur Ladung gehörendes Frachtstück oder eine Frachtforderung untergeht.
 
-##### § 589 Verschulden eines Beteiligten oder eines Dritten
+###### § 589 Verschulden eines Beteiligten oder eines Dritten
 
 (1) Die Anwendung der Vorschriften über die Große Haverei wird nicht dadurch ausgeschlossen, dass die Gefahr durch Verschulden eines Beteiligten oder eines Dritten herbeigeführt ist. Der Beteiligte, dem ein solches Verschulden zur Last fällt, kann jedoch wegen eines ihm entstandenen Schadens keine Vergütung verlangen.
 
 (2) Ist die Gefahr durch ein Verschulden eines Beteiligten herbeigeführt worden, so ist dieser den Beitragspflichtigen zum Ersatz des Schadens verpflichtet, den sie dadurch erleiden, dass sie die Schäden und Aufwendungen, die zur Errettung aus der Gefahr entstanden sind, gemeinschaftlich tragen müssen.
 
-##### § 590 Bemessung der Vergütung
+###### § 590 Bemessung der Vergütung
 
 (1) Die Vergütung für die Aufopferung des Schiffes, dessen Zubehörs, des Treibstoffs und der zur Ladung gehörenden Frachtstücke bemisst sich nach dem Verkehrswert, den die Sachen am Ort und zur Zeit der Beendigung der Reise gehabt hätten.
 
@@ -7317,23 +7333,23 @@ Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden, wenn an de
 
 (4) War die aufgeopferte oder beschädigte Sache unmittelbar vor Beginn der Reise Gegenstand eines Kaufvertrags, so wird vermutet, dass der in der Rechnung des Verkäufers ausgewiesene Kaufpreis der Verkehrswert dieser Sache ist.
 
-##### § 591 Beitrag
+###### § 591 Beitrag
 
 (1) Die Beteiligten, mit Ausnahme der Schiffsbesatzung und der Fahrgäste, haben zur Zahlung der Vergütung einen Beitrag zu leisten.
 
 (2) Die Beiträge zur Großen Haverei bemessen sich nach dem Wert der Gegenstände, die sich in gemeinsamer Gefahr befanden. Maßgebend für den Wert des Schiffes, des Treibstoffs und der zur Ladung gehörenden Frachtstücke ist der Verkehrswert am Ende der Reise zuzüglich einer etwaigen Vergütung für eine Beschädigung oder Aufopferung der betreffenden Sache in Großer Haverei. Maßgebend für den Wert einer Frachtforderung ist der Bruttobetrag der am Ende der Reise geschuldeten Fracht zuzüglich einer etwaigen Vergütung für einen Untergang der Frachtforderung wegen Havereimaßnahmen.
 
-##### § 592 Verteilung
+###### § 592 Verteilung
 
 (1) Die Höhe der Vergütung, die ein Beteiligter wegen der Aufopferung oder Beschädigung eines ihm nach § 588 Absatz 2 zuzurechnenden Gegenstands beanspruchen kann, sowie die Höhe des Beitrags, den ein Beteiligter zu zahlen hat, bestimmen sich nach dem Verhältnis der gesamten, allen Beteiligten zustehenden Vergütung zu der Summe der von allen Beteiligten zu leistenden Beiträge. Liegt ein nach § 590 ermittelter anteiliger Wertverlust über dem nach Satz 1 errechneten Anteil, so hat der von dem Wertverlust betroffene Beteiligte in Höhe der Differenz Anspruch auf eine Vergütung. Liegt ein nach § 590 ermittelter anteiliger Wertverlust unter dem nach Satz 1 errechneten Anteil, muss der von dem Wertverlust betroffene Beteiligte in Höhe der Differenz einen Beitrag zahlen.
 
 (2) Jeder Beitragspflichtige haftet jedoch nur bis zur Höhe des Wertes des geretteten Gegenstands, der ihm nach § 588 Absatz 2 zuzurechnen ist.
 
-##### § 593 Schiffsgläubigerrecht
+###### § 593 Schiffsgläubigerrecht
 
 Die Vergütungsberechtigten haben nach § 596 Absatz 1 Nummer 4 für ihre Beitragsforderungen gegen den Eigentümer des Schiffes sowie den Gläubiger der Fracht die Rechte eines Schiffsgläubigers an dem Schiff.
 
-##### § 594 Pfandrecht der Vergütungsberechtigten. Nichtauslieferung
+###### § 594 Pfandrecht der Vergütungsberechtigten. Nichtauslieferung
 
 (1) Die Vergütungsberechtigten haben für ihre Beitragsforderungen ein Pfandrecht an dem Treibstoff und der Ladung der Beitragspflichtigen.
 
@@ -7345,7 +7361,7 @@ Die Vergütungsberechtigten haben nach § 596 Absatz 1 Nummer 4 für ihre Beitra
 
 (5) Der Kapitän darf die Sachen, an denen Pfandrechte nach Absatz 1 bestehen, vor der Berichtigung oder Sicherstellung der Beiträge nicht ausliefern. Liefert der Kapitän die Sachen entgegen Satz 1 aus, so haftet er für den Schaden, der den Vergütungsberechtigten durch sein Verschulden entsteht. Dies gilt auch dann, wenn der Kapitän auf Anweisung des Reeders gehandelt hat.
 
-##### § 595 Aufmachung der Dispache
+###### § 595 Aufmachung der Dispache
 
 (1) Jeder Beteiligte ist berechtigt, die Aufmachung der Dispache am Bestimmungsort oder, wenn dieser nicht erreicht wird, in dem Hafen, in dem die Reise endet, zu veranlassen. Wurde Treibstoff oder Ladung vorsätzlich beschädigt oder aufgeopfert, ist der Reeder verpflichtet, die Aufmachung der Dispache an dem in Satz 1 genannten Ort unverzüglich zu veranlassen; unterlässt er dies, so ist er den Beteiligten für den daraus entstehenden Schaden verantwortlich.
 
@@ -7355,7 +7371,7 @@ Die Vergütungsberechtigten haben nach § 596 Absatz 1 Nummer 4 für ihre Beitra
 
 ## Fünfter Abschnitt Schiffsgläubiger
 
-##### § 596 Gesicherte Forderungen
+###### § 596 Gesicherte Forderungen
 
 (1) Die Gläubiger folgender Forderungen haben die Rechte eines Schiffsgläubigers:
 
@@ -7371,13 +7387,13 @@ Die Vergütungsberechtigten haben nach § 596 Absatz 1 Nummer 4 für ihre Beitra
 
 (2) Absatz 1 Nummer 3 ist nicht auf Ansprüche anzuwenden, die auf die radioaktiven Eigenschaften oder eine Verbindung der radioaktiven Eigenschaften mit giftigen, explosiven oder sonstigen gefährlichen Eigenschaften von Kernbrennstoffen oder radioaktiven Erzeugnissen oder Abfällen zurückzuführen sind.
 
-##### § 597 Pfandrecht der Schiffsgläubiger
+###### § 597 Pfandrecht der Schiffsgläubiger
 
 (1) Die Schiffsgläubiger haben für ihre Forderungen ein gesetzliches Pfandrecht an dem Schiff. Das Pfandrecht kann gegen jeden Besitzer des Schiffes verfolgt werden.
 
 (2) Das Schiff haftet auch für die gesetzlichen Zinsen der Forderungen sowie für die Kosten der die Befriedigung aus dem Schiff bezweckenden Rechtsverfolgung.
 
-##### § 598 Gegenstand des Pfandrechts der Schiffsgläubiger
+###### § 598 Gegenstand des Pfandrechts der Schiffsgläubiger
 
 (1) Das Pfandrecht der Schiffsgläubiger erstreckt sich auf das Zubehör des Schiffes mit Ausnahme der Zubehörstücke, die nicht in das Eigentum des Schiffseigentümers gelangt sind.
 
@@ -7385,11 +7401,11 @@ Die Vergütungsberechtigten haben nach § 596 Absatz 1 Nummer 4 für ihre Beitra
 
 (3) Das Pfandrecht erstreckt sich nicht auf eine Forderung aus einer Versicherung, die der Reeder für das Schiff genommen hat.
 
-##### § 599 Erlöschen der Forderung
+###### § 599 Erlöschen der Forderung
 
 Erlischt die durch das Pfandrecht eines Schiffsgläubigers gesicherte Forderung, so erlischt auch das Pfandrecht.
 
-##### § 600 Zeitablauf
+###### § 600 Zeitablauf
 
 (1) Das Pfandrecht eines Schiffsgläubigers erlischt ein Jahr nach Entstehung der Forderung.
 
@@ -7397,7 +7413,7 @@ Erlischt die durch das Pfandrecht eines Schiffsgläubigers gesicherte Forderung,
 
 (3) Ein Zeitraum, währenddessen ein Gläubiger rechtlich daran gehindert ist, sich aus dem Schiff zu befriedigen, wird in die Frist nicht eingerechnet. Eine Hemmung, eine Ablaufhemmung oder ein Neubeginn der Frist aus anderen Gründen ist ausgeschlossen.
 
-##### § 601 Befriedigung des Schiffsgläubigers
+###### § 601 Befriedigung des Schiffsgläubigers
 
 (1) Die Befriedigung des Schiffsgläubigers aus dem Schiff erfolgt nach den Vorschriften über die Zwangsvollstreckung.
 
@@ -7405,11 +7421,11 @@ Erlischt die durch das Pfandrecht eines Schiffsgläubigers gesicherte Forderung,
 
 (3) Zugunsten des Schiffsgläubigers gilt als Eigentümer, wer im Schiffsregister als Eigentümer eingetragen ist. Das Recht des nicht eingetragenen Eigentümers, die ihm gegen das Pfandrecht zustehenden Einwendungen geltend zu machen, bleibt unberührt.
 
-##### § 602 Vorrang der Pfandrechte der Schiffsgläubiger
+###### § 602 Vorrang der Pfandrechte der Schiffsgläubiger
 
 Die Pfandrechte der Schiffsgläubiger haben Vorrang vor allen anderen Pfandrechten am Schiff. Sie haben Vorrang auch insoweit, als zoll- und steuerpflichtige Sachen nach gesetzlichen Vorschriften als Sicherheit für öffentliche Abgaben dienen.
 
-##### § 603 Allgemeine Rangordnung der Pfandrechte der Schiffsgläubiger
+###### § 603 Allgemeine Rangordnung der Pfandrechte der Schiffsgläubiger
 
 (1) Die Rangordnung der Pfandrechte der Schiffsgläubiger bestimmt sich nach der Reihenfolge der Nummern, unter denen die Forderungen in § 596 aufgeführt sind.
 
@@ -7417,7 +7433,7 @@ Die Pfandrechte der Schiffsgläubiger haben Vorrang vor allen anderen Pfandrecht
 
 (3) Beitragsforderungen zur Großen Haverei gelten als im Zeitpunkt des Havereifalls, Forderungen auf Bergelohn, auf Sondervergütung und auf Bergungskosten als im Zeitpunkt der Beendigung der Bergungsmaßnahmen und Forderungen wegen der Beseitigung des Wracks als im Zeitpunkt der Beendigung der Wrackbeseitigung entstanden.
 
-##### § 604 Rangordnung der Pfandrechte unter derselben Nummer
+###### § 604 Rangordnung der Pfandrechte unter derselben Nummer
 
 (1) Von den Pfandrechten für die in § 596 Absatz 1 Nummer 1 bis 3 und 5 aufgeführten Forderungen haben die Pfandrechte für die unter derselben Nummer genannten Forderungen ohne Rücksicht auf den Zeitpunkt ihrer Entstehung den gleichen Rang.
 
@@ -7427,7 +7443,7 @@ Die Pfandrechte der Schiffsgläubiger haben Vorrang vor allen anderen Pfandrecht
 
 ## Sechster Abschnitt Verjährung
 
-##### § 605 Einjährige Verjährungsfrist
+###### § 605 Einjährige Verjährungsfrist
 
 Folgende Ansprüche verjähren in einem Jahr:
 
@@ -7439,7 +7455,7 @@ Folgende Ansprüche verjähren in einem Jahr:
 
 4. Ansprüche, die den Reedern untereinander nach § 571 Absatz 2 zustehen.
 
-##### § 606 Zweijährige Verjährungsfrist
+###### § 606 Zweijährige Verjährungsfrist
 
 Folgende Ansprüche verjähren in zwei Jahren:
 
@@ -7451,7 +7467,7 @@ Folgende Ansprüche verjähren in zwei Jahren:
 
 4. Ansprüche wegen der Beseitigung eines Wracks.
 
-##### § 607 Beginn der Verjährungsfristen
+###### § 607 Beginn der Verjährungsfristen
 
 (1) Die Verjährungsfrist für die in § 605 Nummer 1 genannten Ansprüche beginnt mit dem Tag, an dem das Gut abgeliefert wurde, oder, wenn das Gut nicht abgeliefert wurde, mit dem Tag, an dem das Gut hätte abgeliefert werden müssen. Handelt es sich um Ansprüche aus einem Reisefrachtvertrag, ist auf das Gut abzustellen, das am Ende der letzten Reise abgeliefert wurde oder hätte abgeliefert werden müssen.
 
@@ -7473,23 +7489,23 @@ Folgende Ansprüche verjähren in zwei Jahren:
 
 (7) Die Verjährungsfrist für die in § 606 Nummer 3 und 4 genannten Ansprüche beginnt mit Beendigung der Bergungs- oder Wrackbeseitigungsmaßnahmen. Auf die Verjährung von Rückgriffsansprüchen des Schuldners dieser Ansprüche ist Absatz 2 entsprechend anzuwenden.
 
-##### § 608 Hemmung der Verjährung
+###### § 608 Hemmung der Verjährung
 
 Die Verjährung der in den §§ 605 und 606 genannten Ansprüche wird auch durch eine Erklärung des Gläubigers, mit der dieser Ersatzansprüche erhebt, bis zu dem Zeitpunkt gehemmt, in dem der Schuldner die Erfüllung des Anspruchs ablehnt. Die Erhebung der Ansprüche sowie die Ablehnung bedürfen der Textform. Eine weitere Erklärung, die denselben Ersatzanspruch zum Gegenstand hat, hemmt die Verjährung nicht erneut.
 
-##### § 609 Vereinbarungen über die Verjährung
+###### § 609 Vereinbarungen über die Verjährung
 
 (1) Die Verjährung von Schadensersatzansprüchen aus einem Stückgutfrachtvertrag oder aus einem Konnossement wegen Verlust oder Beschädigung von Gut kann nur durch Vereinbarung, die im Einzelnen ausgehandelt ist, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen ist, erleichtert oder erschwert werden. Eine Bestimmung im Konnossement, die die Verjährung der Schadensersatzansprüche erleichtert, ist jedoch Dritten gegenüber unwirksam.
 
 (2) Die Verjährung der in § 606 Nummer 1 genannten Ansprüche wegen Personen-, Gepäck- oder Verspätungsschäden kann nur durch Erklärung des Beförderers oder durch Vereinbarung der Parteien nach der Entstehung des Anspruchsgrunds verlängert werden. Erklärung und Vereinbarung bedürfen der Textform. Eine Erleichterung der Verjährung, insbesondere eine Verkürzung der Verjährungsfrist, ist unzulässig.
 
-##### § 610 Konkurrierende Ansprüche
+###### § 610 Konkurrierende Ansprüche
 
 Treffen vertragliche Schadensersatzansprüche, die den Vorschriften dieses Abschnitts unterworfen sind, mit konkurrierenden außervertraglichen Schadensersatzansprüchen zusammen, so gelten auch für die außervertraglichen Ansprüche die Vorschriften dieses Abschnitts.
 
 ## Siebter Abschnitt Allgemeine Haftungsbeschränkung
 
-##### § 611 Übereinkommen über die Haftungsbeschränkung
+###### § 611 Übereinkommen über die Haftungsbeschränkung
 
 (1) Die Haftung für Seeforderungen kann nach den Bestimmungen des Übereinkommens vom 19. November 1976 über die Beschränkung der Haftung für Seeforderungen (BGBl. 1986 II S. 786), geändert durch das Protokoll vom 2. Mai 1996 (BGBl. 2000 II S. 790), in seiner jeweiligen für die Bundesrepublik Deutschland geltenden Fassung (Haftungsbeschränkungsübereinkommen) beschränkt werden. Dies gilt auch für die Haftung für Bunkerölverschmutzungsschäden nach dem Internationalen Übereinkommen von 2001 über die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden (BGBl. 2006 II S. 578) (Bunkeröl-Übereinkommen).
 
@@ -7505,7 +7521,7 @@ Treffen vertragliche Schadensersatzansprüche, die den Vorschriften dieses Absch
 
 (5) Ergänzend zu den Bestimmungen des Haftungsbeschränkungsübereinkommens und des Haftungsübereinkommens von 1992 gelten die §§ 612 bis 617.
 
-##### § 612 Haftungsbeschränkung für Ansprüche aus Wrackbeseitigung
+###### § 612 Haftungsbeschränkung für Ansprüche aus Wrackbeseitigung
 
 (1) Das Haftungsbeschränkungsübereinkommen (§ 611 Absatz 1 Satz 1) ist auf folgende Ansprüche mit der Maßgabe anzuwenden, dass für sie unabhängig davon, auf welcher Rechtsgrundlage sie beruhen, ein gesonderter Haftungshöchstbetrag gilt:
 
@@ -7517,15 +7533,15 @@ Die in Satz 1 angeführten Ansprüche unterliegen jedoch nicht der Haftungsbesch
 
 (2) Der Haftungshöchstbetrag nach Absatz 1 errechnet sich nach Artikel 6 Absatz 1 Buchstabe b des Haftungsbeschränkungsübereinkommens. Der Haftungshöchstbetrag gilt für die Gesamtheit der in Absatz 1 bezeichneten Ansprüche, die aus demselben Ereignis gegen Personen entstanden sind, die dem gleichen Personenkreis im Sinne des Artikels 9 Absatz 1 Buchstabe a, b oder c des Haftungsbeschränkungsübereinkommens angehören. Er steht ausschließlich zur Befriedigung der in Absatz 1 bezeichneten Ansprüche zur Verfügung; Artikel 6 Absatz 2 und 3 des Haftungsbeschränkungsübereinkommens ist nicht anzuwenden.
 
-##### § 613 Haftungsbeschränkung für kleine Schiffe
+###### § 613 Haftungsbeschränkung für kleine Schiffe
 
 Für ein Schiff mit einem Raumgehalt bis zu 250 Tonnen wird der nach Artikel 6 Absatz 1 Buchstabe b des Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1) zu errechnende Haftungshöchstbetrag auf die Hälfte des für ein Schiff mit einem Raumgehalt von 2 000 Tonnen geltenden Haftungshöchstbetrags festgesetzt.
 
-##### § 614 Haftungsbeschränkung für Schäden an Häfen und Wasserstraßen
+###### § 614 Haftungsbeschränkung für Schäden an Häfen und Wasserstraßen
 
 Unbeschadet des Rechts nach Artikel 6 Absatz 2 des Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1) in Bezug auf Ansprüche wegen Tod oder Körperverletzung haben Ansprüche wegen Beschädigung von Hafenanlagen, Hafenbecken, Wasserstraßen und Navigationshilfen Vorrang vor sonstigen Ansprüchen nach Artikel 6 Absatz 1 Buchstabe b des Haftungsbeschränkungsübereinkommens.
 
-##### § 615 Beschränkung der Haftung des Lotsen
+###### § 615 Beschränkung der Haftung des Lotsen
 
 (1) Die in Artikel 6 Absatz 1 Buchstabe a und b des Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1) bestimmten Haftungshöchstbeträge gelten für Ansprüche gegen einen an Bord tätigen Lotsen mit der Maßgabe, dass der Lotse, falls der Raumgehalt des gelotsten Schiffes 2 000 Tonnen übersteigt, seine Haftung auf die Beträge beschränken kann, die sich unter Zugrundelegung eines Raumgehalts von 2 000 Tonnen errechnen.
 
@@ -7535,7 +7551,7 @@ Unbeschadet des Rechts nach Artikel 6 Absatz 2 des Haftungsbeschränkungsüberei
 
 (4) Ein Lotse, der nicht an Bord des gelotsten Schiffes tätig ist, kann seine Haftung für die in Artikel 2 des Haftungsbeschränkungsübereinkommens angeführten Ansprüche in entsprechender Anwendung des § 611 Absatz 1, 3 und 4 sowie der §§ 612 bis 614 und 617 mit der Maßgabe beschränken, dass für diese Ansprüche ein gesonderter Haftungshöchstbetrag gilt, der sich nach Absatz 1 oder 2 errechnet und der ausschließlich zur Befriedigung der Ansprüche gegen den Lotsen zur Verfügung steht.
 
-##### § 616 Wegfall der Haftungsbeschränkung
+###### § 616 Wegfall der Haftungsbeschränkung
 
 (1) Ist der Schuldner eine juristische Person oder eine Personenhandelsgesellschaft, so kann er seine Haftung nicht beschränken, wenn
 
@@ -7547,7 +7563,7 @@ Gleiches gilt, wenn der Schuldner ein Mitreeder ist und der Schaden auf eine Han
 
 (2) Ist der Schuldner eine Personenhandelsgesellschaft, so kann jeder Gesellschafter seine persönliche Haftung für Ansprüche beschränken, für welche auch die Gesellschaft ihre Haftung beschränken kann.
 
-##### § 617 Verfahren der Haftungsbeschränkung
+###### § 617 Verfahren der Haftungsbeschränkung
 
 (1) Die Errichtung und Verteilung eines Fonds im Sinne des Artikels 11 des Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1) oder im Sinne des Artikels V Absatz 3 des Haftungsübereinkommens von 1992 (§ 611 Absatz 2) bestimmt sich nach den Vorschriften der Schifffahrtsrechtlichen Verteilungsordnung.
 
@@ -7555,11 +7571,10 @@ Gleiches gilt, wenn der Schuldner ein Mitreeder ist und der Schaden auf eine Han
 
 ## Achter Abschnitt Verfahrensvorschriften
 
-##### § 618 Einstweilige Verfügung eines Bergers
+###### § 618 Einstweilige Verfügung eines Bergers
 
 Auf Antrag eines Bergers (§ 574 Absatz 1) kann das für die Hauptsache zuständige Gericht unter Berücksichtigung der Umstände des Falles nach billigem Ermessen durch einstweilige Verfügung regeln, dass der Schuldner des Anspruchs auf Bergelohn oder Sondervergütung dem Berger einen als billig und gerecht zu erachtenden Betrag als Abschlagszahlung zu leisten hat und zu welchen Bedingungen die Leistung zu erbringen ist. Die einstweilige Verfügung kann erlassen werden, auch wenn die in den §§ 935 und 940 der Zivilprozessordnung bezeichneten Voraussetzungen nicht zutreffen.
 
-##### § 619 Zustellungen an den Kapitän oder Schiffer
+###### § 619 Zustellungen an den Kapitän oder Schiffer
 
 Eine Klage eines Schiffsgläubigers auf Duldung der Zwangsvollstreckung in ein Schiff sowie ein Urteil oder ein Beschluss in einem Verfahren über einen Arrest in ein Schiff können dem Kapitän dieses Schiffes oder, soweit ein Binnenschiff betroffen ist, dem Schiffer zugestellt werden.
-
