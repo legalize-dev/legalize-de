@@ -4,23 +4,28 @@ identifier: "BMELDDAV-2022"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2021-07-27"
-last_updated: "2026-04-04"
+last_updated: "2026-07-09"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bmelddav_2022/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR320900021"
 slug: "bmelddav_2022"
 bgbl_reference: "BGBl I 2021, 3209"
 amtabk: "BMeldDAV"
 stand: "Zuletzt geändert durch Art. 3 V v. 22.1.2025 I Nr. 23"
+hinweis: "Änderung durch Art. 13 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 56 Absatz 1 Nummer 3 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084), der zuletzt durch Artikel 5 Nummer 21 Buchstabe b des Gesetzes vom 15. Januar 2021 (BGBl. I S. 530) geändert worden ist, verordnet das Bundesministerium des Innern, für Bau und Heimat:
 
-##### § 1 Anwendungsbereich und Verfahrensgrundsätze
+###### § 1 Anwendungsbereich und Verfahrensgrundsätze
 
 (1) Diese Verordnung bestimmt die Voraussetzungen für automatisierte Abrufe von Meldedaten durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder sowie die Form und den Inhalt der Daten bei länderübergreifenden Abrufen nach den §§ 34a, 38 und 39 des Bundesmeldegesetzes.
 
@@ -32,7 +37,7 @@ Auf Grund des § 56 Absatz 1 Nummer 3 des Bundesmeldegesetzes vom 3. Mai 2013 (B
 
 (5) In der Personensuche wird durch die abrufende Stelle nach den technischen Vorgaben in Nummer 2 der Anlage der Wohnort bestimmt, in dessen Datenbestand gesucht werden soll. In der freien Suche wird durch die abrufende Stelle nach den technischen Vorgaben in Nummer 3 der Anlage die Stelle bestimmt, in deren Datenbestand gesucht werden soll.
 
-##### § 2 Technische Grundlagen des Abrufverfahrens
+###### § 2 Technische Grundlagen des Abrufverfahrens
 
 (1) Datenabrufe nach den §§ 34a, 38 und 39 des Bundesmeldegesetzes erfolgen elektronisch unter Zugrundelegung des Datenaustauschformats OSCI-XMeld und Nutzung des Übermittlungsprotokolls OSCI-Transport in der im Bundesanzeiger jeweils bekannt gemachten geltenden Fassung. § 3 des Gesetzes über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes – vom 10. August 2009 (BGBl. I S. 2702, 2706), das zuletzt durch Artikel 72 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung bleibt unberührt.
 
@@ -42,7 +47,7 @@ Auf Grund des § 56 Absatz 1 Nummer 3 des Bundesmeldegesetzes vom 3. Mai 2013 (B
 
 (4) Bei der Datenübermittlung innerhalb von Rechenzentren und besonders gesicherten verwaltungseigenen Netzen kann auf die Verwendung des Übermittlungsprotokolls OSCI-Transport verzichtet werden, wenn durch technische und organisatorische Maßnahmen gewährleistet ist, dass die Sicherheitseigenschaften denen von OSCI-Transport gleichwertig sind.
 
-##### § 3 Standards der Datenübermittlung
+###### § 3 Standards der Datenübermittlung
 
 (1) OSCI-XMeld ist der am 23. Juli 2003 auf der Grundlage des Datensatzes für das Meldewesen – Einheitlicher Bundes-/Länderteil – (DSMeld) herausgegebene Standard einer technischen Beschreibung des Datensatzes für Datenübermittlung im Bereich des Meldewesens.
 
@@ -52,11 +57,11 @@ Auf Grund des § 56 Absatz 1 Nummer 3 des Bundesmeldegesetzes vom 3. Mai 2013 (B
 
 (4) Das Datenaustauschformat OSCI-XMeld, das Übermittlungsprotokoll OSCI-Transport und der DSMeld sind beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, archivmäßig gesichert niedergelegt und der Öffentlichkeit zugänglich. Sie können beim Informationstechnikzentrum Bund (ITZBund), Bernkasteler Straße 8, 53175 Bonn, bezogen werden.
 
-(5) Änderungen des Datenaustauschformats OSCI-XMeld, des Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben.
+(5) Änderungen des Datenaustauschformats OSCI-XMeld, des Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom Bundesministerium des Innern im Bundesanzeiger bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben.
 
 (6) Die in dieser Verordnung hinter den zu übermittelnden Meldedaten angegebenen Zahlen bezeichnen die zugehörigen Blattnummern des DSMeld – Datenblatt.
 
-##### § 4 Auswahldaten für die Personensuche
+###### § 4 Auswahldaten für die Personensuche
 
 (1) Für automatisierte Abrufe von Meldedaten in der Personensuche nach § 34a Absatz 2 Satz 1 des Bundesmeldegesetzes sind von der abrufenden Stelle die folgenden Auswahldaten nach § 38 Absatz 1 des Bundesmeldegesetzes zu verwenden:
 
@@ -78,7 +83,7 @@ Als zusätzliches Auswahldatum darf unter den Voraussetzungen des § 38 Absatz 1
 
 (7) Die Verwendung von Platzhaltern ist unzulässig.
 
-##### § 5 Abrufdaten für die Personensuche
+###### § 5 Abrufdaten für die Personensuche
 
 (1) Bei einem Abruf von Meldedaten in der Personensuche nach § 34a Absatz 2 des Bundesmeldegesetzes stellen die durch die Länder zur Sicherstellung des automatisierten Abrufs von Meldedaten bestimmten Stellen oder die Meldebehörden folgende angeforderte Daten der aufgrund der nach § 4 mitgeteilten Auswahldaten eindeutig festgestellten Person für den Abruf bereit:
 
@@ -106,7 +111,7 @@ Die konkret abzurufenden Daten aus Satz 1 Nummer 1 bis 15 werden durch die abruf
 
 Der in § 31 Absatz 7 des Geldwäschegesetzes genannten Zentralstelle für Finanztransaktionsuntersuchungen dürfen über die in Absatz 1 Satz 1 und 3 genannten Daten und Hinweise hinaus die Daten nach Satz 1 Nummer 1, 2 und 4 übermittelt werden. Die konkret abzurufenden Daten aus Satz 1 Nummer 1 bis 4 werden durch die abrufende Stelle bestimmt.
 
-##### § 6 Trefferliste für die Personensuche
+###### § 6 Trefferliste für die Personensuche
 
 (1) Werden bei einem Datenabruf in der Personensuche nach § 34a Absatz 2 des Bundesmeldegesetzes Datensätze unterschiedlicher Personen gefunden, wird von den durch die Länder zur Sicherstellung des automatisierten Abrufs von Meldedaten bestimmten Stellen oder den Meldebehörden eine Trefferliste übermittelt. In der Trefferliste sind die folgenden Daten der gefundenen Personen zu übermitteln: 1.Familienname0101a bis 0105a,2.frühere Namen0201a, 0203a,3.Vornamen0301, 0303,4.Geburtsdatum0601,5.derzeitige Anschrift der Hauptwohnung oder alleinigen Wohnung1201 bis 1209, 1213a,6.Identifikationsmerkmal nach § 39 Absatz 2 des Bundesmeldegesetzes nach den technischen Vorgaben in Nummer 5 der Anlage. Zusätzlich zu den Daten nach Satz 2 sind in der Trefferliste die folgenden Hinweise zu übermitteln:
 
@@ -120,7 +125,7 @@ Der in § 31 Absatz 7 des Geldwäschegesetzes genannten Zentralstelle für Finan
 
 (2) Die Daten von Personen, für die eine Auskunftssperre nach § 51 des Bundesmeldegesetzes im Melderegister eingetragen ist, werden in der Trefferliste nicht übermittelt.
 
-##### § 7 Auswahldaten für die freie Suche
+###### § 7 Auswahldaten für die freie Suche
 
 (1) Für automatisierte Abrufe von Meldedaten in der freien Suche nach § 34a Absatz 3 des Bundesmeldegesetzes sind von der abrufenden Stelle als Auswahldaten nach § 38 Absatz 2 des Bundesmeldegesetzes folgende Daten zu verwenden:
 
@@ -141,7 +146,7 @@ Daten für waffen- und sprengstoffrechtliche Verfahren nach § 3 Absatz 2 Nummer
 
 (7) Die Verwendung von Platzhaltern ist nach den technischen Vorgaben in Nummer 7 der Anlage für beliebige Zeichen in den Angaben nach Absatz 1 Nummer 1, 2, 3, 5 sowie der Angabe der Straße (DSMeld Datenblatt 1205) aus Absatz 1 Nummer 9 zulässig.
 
-##### § 8 Abrufdaten für die freie Suche
+###### § 8 Abrufdaten für die freie Suche
 
 (1) Bei einem Abruf von Meldedaten in der freien Suche nach § 34a Absatz 3 des Bundesmeldegesetzes stellen die durch die Länder zur Sicherstellung des automatisierten Abrufs von Meldedaten bestimmten Stellen oder die Meldebehörden folgende angeforderte Daten der aufgrund der nach § 7 mitgeteilten Auswahldaten festgestellten Personen in einer Ergebnisliste bereit:
 
@@ -167,15 +172,15 @@ Der in § 31 Absatz 7 des Geldwäschegesetzes genannten Zentralstelle für Finan
 
 (3) Die Daten von Personen, für die eine Auskunftssperre nach § 51 des Bundesmeldegesetzes im Melderegister eingetragen ist, werden in einer Ergebnisliste nicht übermittelt.
 
-##### § 9 Verwendung des Identifikationsmerkmals
+###### § 9 Verwendung des Identifikationsmerkmals
 
 Das Identifikationsmerkmal nach § 39 Absatz 2 des Bundesmeldegesetzes darf 48 Stunden nach seiner Übermittlung in einer Trefferliste nach § 6 oder einer Ergebnisliste nach § 8 für die Personensuche nach § 4 genutzt werden.
 
-##### § 10 Auskunftsfähiger Datenbestand
+###### § 10 Auskunftsfähiger Datenbestand
 
 Die durch die Länder zur Sicherstellung des automatisierten Abrufs von Meldedaten bestimmten Stellen und die Meldebehörden halten die in den §§ 5 und 8 aufgeführten Daten aller Personen, die aktuell gemeldet sind und aller Personen, die nach § 13 Absatz 2 des Bundesmeldegesetzes noch aufzubewahren sind, zum automatisierten Abruf bereit.
 
-##### § 11 Angaben der abrufenden Stelle
+###### § 11 Angaben der abrufenden Stelle
 
 Die abrufende Stelle übermittelt bei einem automatisierten Abruf von Meldedaten zur Sicherstellung der Aufgaben der Meldebehörden nach § 34 Absatz 5 und § 34a Absatz 5 Satz 2 des Bundesmeldegesetzes die folgenden Angaben:
 
@@ -193,15 +198,15 @@ Die abrufende Stelle übermittelt bei einem automatisierten Abruf von Meldedaten
 
 Die Behörden oder sonstigen öffentlichen Stellen, die keine Behörden nach § 34 Absatz 4 Satz 1 des Bundesmeldegesetzes sind, übermitteln die Daten nach Satz 1 auch zum Zwecke der Protokollierung. Die abrufende und die Auskunft gebende Stelle haben die technischen Vorgaben in Nummer 8 der Anlage sicherzustellen.
 
-##### § 12 Inkrafttreten, Außerkrafttreten
+###### § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2022 in Kraft. Zugleich tritt die Bundesmeldedatenabrufverordnung vom 1. Dezember 2014 (BGBl. I S. 1955), die zuletzt durch Artikel 85 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, außer Kraft.
 
-##### Schlussformel
+###### Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-##### Anlage
+###### Anlage
 
 (Fundstelle: BGBl. I 2021, 3215 - 3228;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -512,4 +517,3 @@ b) Anlass des Abrufs,
 c) Anwenderkennung und
 
 d) Behördenname
-
