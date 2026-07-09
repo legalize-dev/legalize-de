@@ -4,21 +4,25 @@ identifier: "INVEKOSV-2015"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2015-02-24"
-last_updated: "2026-04-04"
+last_updated: "2026-07-09"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/invekosv_2015/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR016610015"
 slug: "invekosv_2015"
 bgbl_reference: "BGBl I 2015, 166"
 amtabk: "InVeKoSV"
-stand: "Zuletzt geändert durch Art. 2 Abs. 6 G v. 4.12.2023 I Nr. 344"
+stand: "Zuletzt geändert durch Art. 15 Abs. 10 G v. 3.7.2026 I Nr. 199"
 ---
 # Verordnung über die Durchführung von Stützungsregelungen und des Integrierten Verwaltungs- und Kontrollsystems
 
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
 ## Abschnitt 1 Anwendungsbereich, Zuständigkeiten, Begriffsbestimmungen und Kommunikation
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 (1) Die Vorschriften dieser Verordnung gelten für die Durchführung
 
@@ -58,7 +62,7 @@ d) der Mitteilung von Angaben im Tabaksektor,
 
 (2) Auf die in Absatz 1 Nummer 3 Buchstabe c bezeichnete Stützungsregelung ist nur § 17 Absatz 2 anzuwenden.
 
-##### § 2 Zuständigkeit
+###### § 2 Zuständigkeit
 
 (1) Soweit in dieser Verordnung oder den in § 1 Absatz 1 Nummer 4 bis 6 genannten Vorschriften nichts anderes bestimmt ist, sind für die Durchführung dieser Verordnung und der in § 1 Absatz 1 genannten Vorschriften die nach Landesrecht zuständigen Stellen des Landes (Landesstellen) örtlich zuständig, in dem der Betriebsinhaber seinen Betriebssitz hat.
 
@@ -82,7 +86,7 @@ c) Bekanntmachung der in Artikel 9 Absatz 5 der Delegierten Verordnung (EU) Nr. 
 
 3. die in § 1 Absatz 1 Nummer 3 Buchstabe d genannte Mitteilung von Angaben im Tabaksektor.
 
-##### § 3 Referenzflächensysteme
+###### § 3 Referenzflächensysteme
 
 (1) Die Landesregierungen bestimmen durch Rechtsverordnung nach § 6 Absatz 1 Nummer 2 in Verbindung mit Absatz 5 Satz 1 des Marktorganisationsgesetzes, auf welche der nachfolgend genannten Referenzparzellen sich das nach dem in § 1 Absatz 1 Nummer 1 genannten Rechtsakt zu errichtende System zur Identifizierung landwirtschaftlicher Parzellen stützt:
 
@@ -100,7 +104,7 @@ Ackerland, Dauergrünland und Dauerkulturflächen sind geografisch getrennt zu e
 
 (3) Unbeschadet des Artikels 5 Absatz 1 Unterabsatz 1 der Delegierten Verordnung (EU) Nr. 640/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates in Bezug auf das integrierte Verwaltungs- und Kontrollsystem und die Bedingungen für die Ablehnung oder Rücknahme von Zahlungen sowie für Verwaltungssanktionen im Rahmen von Direktzahlungen, Entwicklungsmaßnahmen für den ländlichen Raum und der Cross-Compliance (ABl. L 181 vom 20.6.2014, S. 48) in der jeweils geltenden Fassung gehören zu den Referenzflächen auch die Landschaftselemente nach § 19. Zur Durchführung des Flächendatenabgleichs ist der in der Anlage bezeichnete Flächenidentifikator zu verwenden.
 
-##### § 4 Begriff der landwirtschaftlichen Parzelle
+###### § 4 Begriff der landwirtschaftlichen Parzelle
 
 (1) Landwirtschaftliche Parzelle ist ein Schlag.
 
@@ -120,21 +124,19 @@ eine landwirtschaftliche Parzelle.
 
 mit unterschiedlichen Nutzungscodes, die zu einer Kulturgruppe gehören und deren Nutzungen innerhalb der Kulturgruppe nicht getrennt angegeben werden müssen, als eine landwirtschaftliche Parzelle gelten.
 
-##### § 5 Muster, Vordrucke und Formulare
+###### § 5 Muster, Vordrucke und Formulare
 
 Soweit die Landesstellen oder die Bundesanstalt für Anträge, Verträge, Erklärungen oder Meldungen Muster bekannt geben oder Vordrucke oder Formulare auch elektronisch bereithalten, sind diese zu verwenden.
 
-##### § 6 Elektronische Kommunikation
+###### § 6 Elektronische Kommunikation
 
 (1) Eine nach dieser Verordnung angeordnete Schriftform kann durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein elektronisches Dokument, bei dem ein von der Landesstelle oder der Bundesanstalt zugelassenes Authentifizierungsverfahren verwendet wird. Die zuständigen Behörden können
 
 1. die Verwendung einer qualifizierten elektronischen Signatur oder ihres qualifizierten elektronischen Siegels,
 
-2. die unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird,
+2. die unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird, oder
 
-3. die Versendung eines elektronischen Dokuments an die Behörde mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes oder
-
-4. sonstige Authentifizierungsverfahren, die den Anforderungen an die elektronische Übermittlung von Daten im Sinne des Artikels 11 Absatz 1 der Durchführungsverordnung (EU) Nr. 809/2014 genügen,
+3. sonstige Authentifizierungsverfahren, die den Anforderungen an die elektronische Übermittlung von Daten im Sinne des Artikels 11 Absatz 1 der Durchführungsverordnung (EU) Nr. 809/2014 genügen,
 
 zulassen. § 3a Absatz 2 Satz 3 des Verwaltungsverfahrensgesetzes ist bei der Verwendung qualifizierter elektronischer Signaturen entsprechend anzuwenden. § 3a Absatz 3 Nummer 1 des Verwaltungsverfahrensgesetzes ist im Falle des Satzes 3 Nummer 2 entsprechend anzuwenden.
 
@@ -146,7 +148,7 @@ zulassen. § 3a Absatz 2 Satz 3 des Verwaltungsverfahrensgesetzes ist bei der Ve
 
 ## Unterabschnitt 1 Sammelantrag
 
-##### § 7 Form und Frist
+###### § 7 Form und Frist
 
 (1) Die in § 1 Absatz 1 Nummer 2 genannten Direktzahlungen werden auf Antrag gewährt. Der Antrag ist als Sammelantrag nach Artikel 11 der Delegierten Verordnung (EU) Nr. 640/2014 zu stellen und der Landesstelle nach Maßgabe des Artikels 12 der Delegierten Verordnung (EU) Nr. 640/2014 bis zum 15. Mai des Jahres, für das die Zahlungen beantragt werden, zu übermitteln.
 
@@ -160,7 +162,7 @@ zulassen. § 3a Absatz 2 Satz 3 des Verwaltungsverfahrensgesetzes ist bei der Ve
 
 (6) Änderungen des Sammelantrags nach Artikel 15 Absatz 1 der Durchführungsverordnung (EU) Nr. 809/2014 sind der zuständigen Behörde schriftlich bis zum 31. Mai des Jahres, für das die Zahlungen beantragt werden, mitzuteilen.
 
-##### § 8 Betriebsbezogene Angaben
+###### § 8 Betriebsbezogene Angaben
 
 (1) Der Betriebsinhaber hat in Bezug auf seinen Betrieb im Antrag anzugeben:
 
@@ -184,9 +186,9 @@ zulassen. § 3a Absatz 2 Satz 3 des Verwaltungsverfahrensgesetzes ist bei der Ve
 
 (2) Zusätzlich kann der Betriebsinhaber in seinem Antrag freiwillig Telefonnummer, Faxnummer oder E-Mail-Adresse angeben.
 
-##### § 9 (weggefallen)
+###### § 9 (weggefallen)
 
-##### § 10 Flächenbezogene Angaben
+###### § 10 Flächenbezogene Angaben
 
 (1) In Bezug auf die im Sammelantrag anzugebenden Flächen hat der Betriebsinhaber
 
@@ -246,7 +248,7 @@ a) außerhalb der Vegetationsperiode oder
 
 b) innerhalb der Vegetationsperiode nicht länger als 14 aufeinanderfolgende Tage oder insgesamt an nicht mehr als 21 Tagen im Kalenderjahr
 
-##### § 10a Zusätzliche Angaben für bestimmte Flächen im Antragsjahr 2018
+###### § 10a Zusätzliche Angaben für bestimmte Flächen im Antragsjahr 2018
 
 (1) Der Betriebsinhaber kann den Nachweis, dass eine Fläche, für die im Jahr 2017 die Voraussetzungen für die Bewertung als Dauergrünland im Rahmen der für das Jahr 2017 geltenden Vorschriften über die Direktzahlungen vorlagen, aufgrund des § 2a der Direktzahlungen-Durchführungsverordnung für das Jahr 2018 nicht mehr als Dauergrünland zu bewerten ist, schriftlich im Zusammenhang mit dem Sammelantrag für das Jahr 2018 führen, jedoch spätestens bis zum 11. Juni 2018.
 
@@ -260,7 +262,7 @@ Von der Beifügung eines Nachweises gemäß Satz 1 Nummer 2 kann abgesehen werde
 
 (3) Für eine bereits vor dem Jahr 2018 und im Jahr 2018 weiterhin zum Anbau von Gras oder anderen Grünfutterpflanzen genutzte Fläche, für die im Jahr 2017 nicht die Voraussetzungen für die Bewertung als Dauergrünland im Rahmen der für das Jahr 2017 geltenden Vorschriften über die Direktzahlungen vorlagen, kann ein vor Stellung des Sammelantrags für das Jahr 2018 erfolgtes Umpflügen schriftlich im Zusammenhang mit dem Sammelantrag für das Jahr 2018 nachgewiesen werden. Absatz 1 und Absatz 2 Satz 1 gelten entsprechend. Nachweise, die sich aus den Angaben zu den Nutzungscodes für die betroffene Fläche aus den Sammelanträgen für die Jahre bis einschließlich 2018 ergeben, werden von der Landesstelle von Amts wegen berücksichtigt.
 
-##### § 11 Besondere Angaben für die Zwecke der Überprüfung der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden
+###### § 11 Besondere Angaben für die Zwecke der Überprüfung der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden
 
 (1) In Bezug auf die Flächennutzung im Umweltinteresse im Sinne des Artikels 46 der Verordnung (EU) Nr. 1307/2013 hat der Betriebsinhaber, der im Umweltinteresse genutzte Flächen auszuweisen hat, im Sammelantrag anzugeben, welche Flächen er als im Umweltinteresse genutzte Flächen ausweist. Dabei sind Lage und Art der Flächen sowie
 
@@ -288,7 +290,7 @@ anzugeben.
 
 (5) Werden im Falle des Absatzes 2 die Anforderungen nicht gesamtbetrieblich erfüllt, sondern dienen nur einzelne Einheiten des Betriebes der ökologischen Produktion, hat der Betriebsinhaber diese Einheiten zu nennen und die betreffenden Flächen in seinem Antrag als der ökologischen Produktion dienend auszuweisen.
 
-##### § 11a Änderung bei Flächennutzungen im Umweltinteresse
+###### § 11a Änderung bei Flächennutzungen im Umweltinteresse
 
 (1) Der Betriebsinhaber kann eine Änderung im Sinne des Artikels 15 Absatz 2 Unterabsatz 3 Satz 1 der Durchführungsverordnung (EU) Nr. 809/2014 seines Sammelantrages bezüglich der von ihm darin aufgeführten Flächen im Sinne des Artikels 46 Absatz 2 Buchstabe a, d, f, g, i, j, k, l oder m der Verordnung (EU) Nr. 1307/2013 auch nach dem in Artikel 13 Absatz 3 der Delegierten Verordnung (EU) Nr. 640/2014 genannten Datum beantragen. Satz 1 gilt auch für Flächen im Sinne des Artikels 46 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 1307/2013, soweit es sich nicht um Flächen im Sinne des § 8 Absatz 1 und 2 der Agrarzahlungen-Verpflichtungenverordnung handelt.
 
@@ -322,11 +324,11 @@ Abweichend von Satz 1 Nummer 4 ist die Änderung auch dann zu genehmigen, wenn d
 
 (6) Die Anerkennung einer größeren gewichteten Fläche als die sich aus dem ursprünglichen Sammelantrag ergebende gewichtete Fläche für eine Nutzung im Umweltinteresse im Sinne des Artikels 46 Absatz 1 der Verordnung (EU) Nr. 1307/2013 ist ausgeschlossen.
 
-##### § 12 Angaben bei Anbau von Nutzhanf
+###### § 12 Angaben bei Anbau von Nutzhanf
 
 Werden im Sammelantrag Direktzahlungen für Flächen, auf denen Hanf angebaut werden soll, beantragt, hat der Betriebsinhaber das amtliche Etikett des Saatguts bei der Landesstelle gemäß Artikel 17 Absatz 7 der Verordnung (EU) Nr. 809/2014 einzureichen. Bei einer Aussaat nach dem 30. Juni des Antragsjahres ist das amtliche Etikett des Saatguts bis spätestens 1. September des Antragsjahres einzureichen. Bezieht sich das vorzulegende amtliche Etikett auf Saatgut, das von mehreren Betriebsinhabern verwendet wurde, so ist das Etikett nach Wahl der betroffenen Betriebsinhaber von einem von ihnen vorzulegen sowie von jedem der Betriebsinhaber zugleich eine Erklärung über die Aufteilung des Saatguts vorzulegen.
 
-##### § 13 Angaben beim Anbau von Hopfen
+###### § 13 Angaben beim Anbau von Hopfen
 
 Soweit der Betriebsinhaber Hopfenerzeuger ist, hat er im Sammelantrag zusätzlich anzugeben,
 
@@ -334,7 +336,7 @@ Soweit der Betriebsinhaber Hopfenerzeuger ist, hat er im Sammelantrag zusätzlic
 
 2. getrennt nach Fläche, welche Hopfensorten er anbaut.
 
-##### § 13a Angaben bei Niederwald mit Kurzumtrieb
+###### § 13a Angaben bei Niederwald mit Kurzumtrieb
 
 Soweit der Betriebsinhaber Flächen mit Niederwald mit Kurzumtrieb im Sinne des § 3 der Direktzahlungen-Durchführungsverordnung im Sammelantrag angibt, hat er zusätzlich anzugeben:
 
@@ -342,11 +344,11 @@ Soweit der Betriebsinhaber Flächen mit Niederwald mit Kurzumtrieb im Sinne des 
 
 2. das Jahr der letzten Ernte des Niederwalds mit Kurzumtrieb.
 
-##### § 14 Erklärung bei Beantragung der Umverteilungsprämie
+###### § 14 Erklärung bei Beantragung der Umverteilungsprämie
 
 Soweit der Betriebsinhaber die Umverteilungsprämie beantragt, hat er im Sammelantrag für den Fall, dass er seinen Betrieb nach dem 18. Oktober 2011 aufgespalten hat oder sein Betrieb aus einer solchen Aufspaltung hervorgegangen ist, zusätzlich zu erklären, dass diese Aufspaltung nicht einzig zu dem Zweck erfolgt ist, in den Genuss der Umverteilungsprämie zu kommen.
 
-##### § 15 Angaben bei Beantragung der Zahlung für Junglandwirte
+###### § 15 Angaben bei Beantragung der Zahlung für Junglandwirte
 
 (1) Ein Betriebsinhaber, der eine natürliche Person ist, hat bei erstmaliger Beantragung der Zahlung für Junglandwirte im Sammelantrag den Zeitpunkt anzugeben, zu dem er sich erstmals als Betriebsleiter im Sinne des Artikels 50 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 1307/2013 niedergelassen hat.
 
@@ -362,7 +364,7 @@ c) und die Betriebsnummer anzugeben,
 
 2. unter Beifügen geeigneter Nachweise, insbesondere einer Kopie des Gesellschaftsvertrags, der Satzung oder einer diesen vergleichbaren Urkunde, die dem Betriebsinhaber zugrunde liegt, sonstiger Beschlüsse oder Auszüge aus amtlichen Registern, die rechtlichen und tatsächlichen Verhältnisse darzulegen, aus denen sich ergibt, dass die Voraussetzungen für die Gewährung der Zahlung für Junglandwirte vorliegen.
 
-##### § 16 Angaben hinsichtlich der Einhaltung grundlegender Anforderungen
+###### § 16 Angaben hinsichtlich der Einhaltung grundlegender Anforderungen
 
 (1) Der zur Einhaltung grundlegender Anforderungen verpflichtete Betriebsinhaber hat im Sammelantrag Folgendes anzugeben:
 
@@ -388,19 +390,19 @@ b) organische Düngemittel oder Bodenverbesserungsmittel, die Materialien tieris
 
 ## Unterabschnitt 2 Sonstige gemeinsame Vorschriften
 
-##### § 17 Betriebsnummer
+###### § 17 Betriebsnummer
 
 (1) Die Landesstelle teilt jedem Betriebsinhaber zu Zwecken der Identifizierung eine Nummer für alle in § 1 Absatz 1 Nummer 1 bis Nummer 3 Buchstabe a und b genannten Regelungen zu (Betriebsnummer). Satz 1 ist entsprechend auf jede natürliche Person im Sinne des § 15 Absatz 2 Nummer 1 anzuwenden.
 
 (2) Die Landesstelle teilt auf Antrag jedem Mitglied einer Erzeugerorganisation im Sektor Obst und Gemüse zum Zwecke der Identifizierung eine Betriebsnummer für die in § 1 Absatz 1 Nummer 3 Buchstabe c genannte Stützungsregelung zu, sofern das Mitglied Erzeuger ist und nicht bereits über eine Betriebsnummer verfügt.
 
-##### § 18 Mindestgröße einer landwirtschaftlichen Parzelle
+###### § 18 Mindestgröße einer landwirtschaftlichen Parzelle
 
 (1) Die Mindestgröße einer landwirtschaftlichen Parzelle im Sinne des Artikels 72 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 1306/2013, für die ein Antrag gestellt werden kann, beträgt 0,3 Hektar.
 
 (2) Abweichend von Absatz 1 können die Landesregierungen durch Rechtsverordnung nach § 6 Absatz 1 Nummer 2 in Verbindung mit Absatz 5 Satz 1 des Marktorganisationsgesetzes eine kleinere Mindestgröße festlegen, soweit dies erforderlich ist, um besonderen regionalen Gegebenheiten Rechnung zu tragen.
 
-##### § 19 Landschaftselemente
+###### § 19 Landschaftselemente
 
 (1) Es gelten
 
@@ -422,13 +424,13 @@ b) organische Düngemittel oder Bodenverbesserungsmittel, die Materialien tieris
 
 (5) Grenzen beihilfefähige Landschaftselemente im Sinne des Absatzes 1, 2 oder 4, über die ein Betriebsinhaber verfügt, oder Teile davon sowohl an eine Dauergrünlandfläche oder Dauerkulturfläche als auch an eine Ackerfläche desselben Betriebsinhabers an, so hat dieser bei der erstmaligen Angabe im Sammelantrag diese Landschaftselemente oder Teile der Landschaftselemente dauerhaft der Dauergrünlandfläche, der Dauerkulturfläche oder der Ackerfläche zuzuordnen. Eine Änderung der Zuordnung nach Satz 1 ist durch diesen Betriebsinhaber in den Folgejahren nicht möglich, wenn die tatsächlichen Gegebenheiten der erstmaligen Zuordnung unverändert bestehen. Die Sätze 1 und 2 gelten entsprechend für Landschaftselemente, die zwischen Dauerkulturflächen und Dauergrünland liegen.
 
-##### § 20 Gewährung von Zahlungen bei Übertragung des Betriebes
+###### § 20 Gewährung von Zahlungen bei Übertragung des Betriebes
 
 Wird ein Betrieb nach dem Einreichen eines Antrags auf Gewährung von Zahlungen und vor Erfüllung aller Voraussetzungen für die Gewährung vollständig von einem Betriebsinhaber an einen anderen Betriebsinhaber übertragen, werden die Zahlungen abweichend von Artikel 8 Absatz 2 der Durchführungsverordnung (EU) Nr. 809/2014 dem Übertragenden gewährt, soweit alle Voraussetzungen für die Gewährung der Zahlungen erfüllt sind.
 
 ## Abschnitt 3 Verfahren bei Zahlungsansprüchen
 
-##### § 21 Antrag auf Zuweisung der Zahlungsansprüche
+###### § 21 Antrag auf Zuweisung der Zahlungsansprüche
 
 (1) Die Zuweisung von Zahlungsansprüchen für die Basisprämie ist
 
@@ -454,11 +456,11 @@ nach Maßgabe der nachfolgenden Vorschriften schriftlich bei der Landesstelle zu
 
 (9) (weggefallen)
 
-##### § 22 Höhere Gewalt und außergewöhnliche Umstände
+###### § 22 Höhere Gewalt und außergewöhnliche Umstände
 
 Sofern der Betriebsinhaber auf Grund höherer Gewalt oder außergewöhnlicher Umstände nicht in der Lage ist, den Antrag auf Zuweisung von Zahlungsansprüchen fristgerecht zu stellen oder die Mitteilung nach § 21 Absatz 7 oder Absatz 9 fristgerecht zu machen, hat er dies der Landesstelle unter Beifügen geeigneter Nachweise innerhalb von 15 Arbeitstagen nach dem Zeitpunkt, ab dem er hierzu in der Lage ist, unter Nachholung des Antrags oder der Mitteilung schriftlich mitzuteilen.
 
-##### § 23 Übertragung von Zahlungsansprüchen
+###### § 23 Übertragung von Zahlungsansprüchen
 
 (1) Die Übertragung von Zahlungsansprüchen haben der Übertragende sowie der Übernehmer der Landesstelle innerhalb eines Monats nach der Übertragung nach Maßgabe des Absatzes 4 zu melden. Wird die Übertragung eines Zahlungsanspruchs erst nach dem in § 7 Absatz 1 in Verbindung mit den Artikeln 12 und 13 der Delegierten Verordnung (EU) Nr. 640/2014 vorgesehenen Schlusstermin für die Einreichung des Sammelantrags eines Kalenderjahres gemeldet, so berücksichtigt die Landesstelle diesen Zahlungsanspruch bei der Entscheidung über den Antrag in Bezug auf die Stützungsregelungen im Sinne des § 1 Absatz 1 Nummer 2 für dieses Jahr nicht.
 
@@ -486,7 +488,7 @@ Sofern der Betriebsinhaber auf Grund höherer Gewalt oder außergewöhnlicher Um
 
 ## Abschnitt 4 Verfahren bei der Kleinerzeugerregelung
 
-##### § 24 Teilnahme an der Kleinerzeugerregelung
+###### § 24 Teilnahme an der Kleinerzeugerregelung
 
 (1) Der Betriebsinhaber hat die Teilnahme an der Kleinerzeugerregelung nach Titel V der Verordnung (EU) Nr. 1307/2013 bis zum 15. Mai 2015 gemeinsam mit dem Sammelantrag schriftlich bei der Landesstelle zu beantragen.
 
@@ -498,7 +500,7 @@ Sofern der Betriebsinhaber auf Grund höherer Gewalt oder außergewöhnlicher Um
 
 ## Abschnitt 5 Verfahren bei der Genehmigung der Umwandlung von Dauergrünland im Rahmen der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden
 
-##### § 25 Antrag auf Genehmigung der Umwandlung von Dauergrünland
+###### § 25 Antrag auf Genehmigung der Umwandlung von Dauergrünland
 
 (1) Der Betriebsinhaber hat eine Genehmigung für die Umwandlung von Dauergrünland nach § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes schriftlich bei der Landesstelle zu beantragen.
 
@@ -528,7 +530,7 @@ für die Zwecke des § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes al
 
 (4) Soweit die Landesstellen für die Zustimmung nach § 20 Absatz 1 oder die Bereitschaftserklärung nach § 20 Absatz 2 oder die Erklärung nach § 20 Absatz 4 Satz 3 der Direktzahlungen-Durchführungsverordnung Muster bekannt geben oder Vordrucke oder Formulare bereithalten, sind diese zu verwenden.
 
-##### § 25a Antrag auf Aufhebung der Bestimmung von Dauergrünland als umweltsensibel
+###### § 25a Antrag auf Aufhebung der Bestimmung von Dauergrünland als umweltsensibel
 
 (1) Der Antrag auf Aufhebung der Bestimmung von Dauergrünland als umweltsensibel nach § 15 Absatz 2a des Direktzahlungen-Durchführungsgesetzes ist schriftlich bei der Landesstelle zu stellen.
 
@@ -544,7 +546,7 @@ für die Zwecke des § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes al
 
 (5) Soll die Fläche für die Durchführung eines nach § 34 Absatz 6 Satz 1 des Bundesnaturschutzgesetzes anzeigepflichtigen Projekts genutzt werden, ist in dem Antrag zu bestätigen, dass das Projekt nach § 34 Absatz 6 Satz 1 des Bundesnaturschutzgesetzes angezeigt worden ist. Außerdem ist entweder zu bestätigen, dass das Projekt innerhalb der einzuhaltenden Frist weder durch die zuständige Behörde untersagt worden ist, noch dass diese eine Beschränkung verfügt hat, die die beabsichtigte Nutzung ausschließt, oder dass diese mitgeteilt hat, keine solche Entscheidung zu treffen.
 
-##### § 25b Mitteilungspflichten nach § 15 Absatz 2b Satz 2 und § 16 Absatz 6 Satz 2 des Direktzahlungen-Durchführungsgesetzes
+###### § 25b Mitteilungspflichten nach § 15 Absatz 2b Satz 2 und § 16 Absatz 6 Satz 2 des Direktzahlungen-Durchführungsgesetzes
 
 (1) Die Mitteilung nach § 15 Absatz 2b Satz 2 und die Mitteilung nach § 16 Absatz 6 Satz 2 des Direktzahlungen-Durchführungsgesetzes sind durch einen Betriebsinhaber, der für das Jahr 2017 einen Sammelantrag stellt und der die betreffende Umwandlung durchgeführt hat, schriftlich im Zusammenhang mit dem Sammelantrag für das Jahr 2017 zu machen.
 
@@ -564,19 +566,19 @@ für die Zwecke des § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes al
 
 ## Abschnitt 6 Zahlungen an anerkannte Erzeugerorganisationen im Hopfensektor
 
-##### § 26 Antrag
+###### § 26 Antrag
 
 (1) Zahlungen im Sinne des § 1 Absatz 1 Nummer 3 Buchstabe a werden anerkannten Erzeugerorganisationen im Hopfensektor auf Antrag gewährt.
 
 (2) Der Antrag ist schriftlich bis zu dem 30. September eines Jahres für das jeweilige Erntejahr zu stellen.
 
-##### § 27 Meldung über Hopfenflächen
+###### § 27 Meldung über Hopfenflächen
 
 Die Bundesanstalt übermittelt den anerkannten Erzeugerorganisationen im Hopfensektor vor dem in § 26 Absatz 2 genannten Termin die nach § 10 Absatz 1 Satz 2 Nummer 1 und § 13 erhobenen Angaben ihrer jeweiligen mit Namen und Betriebsnummer nach § 8 Absatz 1 Nummer 1 und 5 identifizierten Mitglieder zu den Hopfenflächen. Die anerkannten Erzeugerorganisationen im Hopfensektor verwenden diese Daten ausschließlich zur Identifizierung der landwirtschaftlichen Parzellen im Rahmen der Antragstellung nach den Artikeln 2 und 6 der Verordnung (EU) Nr. 738/2010 der Kommission vom 16. August 2010 mit Durchführungsbestimmungen zu Zahlungen an deutsche Erzeugerorganisationen im Hopfensektor (ABl. L 216 vom 17.8.2010, S. 11) in der jeweils geltenden Fassung hinsichtlich der Gewährung von Zahlungen nach Artikel 58 der Verordnung (EU) Nr. 1308/2013.
 
 ## Abschnitt 7 Hanf
 
-##### § 28 Erntetermin, Kontrollen
+###### § 28 Erntetermin, Kontrollen
 
 (1) Hanf darf, ausgenommen auf den nach Satz 2 festgelegten Parzellenteilen, ab Beginn der Blüte auch vor Ablauf von zehn Tagen nach Ende der Blüte geerntet werden, sobald der Betriebsinhaber eine darauf gerichtete Mitteilung von der Bundesanstalt erhalten hat. Diese Mitteilung erfolgt, wenn die Bundesanstalt den Beginn der Blüte festgestellt und die Parzellenteile festgelegt hat, die im Hinblick auf die Kontrolle nach dem in Anhang III der Delegierten Verordnung (EU) Nr. 639/2014 genannten Verfahren bis zehn Tage nach Ende der Blüte nicht abgeerntet werden dürfen.
 
@@ -586,13 +588,13 @@ Die Bundesanstalt übermittelt den anerkannten Erzeugerorganisationen im Hopfens
 
 (4) Hanf, der nach dem 30. Juni des Antragsjahres ausgesät wird und vor Abschluss der Vegetationsperiode nicht mehr zur Blüte kommt, darf nach Abschluss der Vegetationsperiode geerntet werden.
 
-##### § 29 Nicht beihilfefähige Hanfsorten, Bekanntmachung
+###### § 29 Nicht beihilfefähige Hanfsorten, Bekanntmachung
 
 Die Bundesanstalt macht die Hanfsorten, für die nach Artikel 9 Absatz 5 Satz 3 der Delegierten Verordnung (EU) Nr. 639/2014 keine Direktzahlungen mehr geleistet werden, bis zum 1. Januar des Antragsjahrs, ab dem für diese Sorten keine Direktzahlungen mehr geleistet werden, im Bundesanzeiger bekannt.
 
 ## Abschnitt 8 Duldungs-, Mitwirkungs-, Nachweis- und Meldepflichten
 
-##### § 30 Nachweis- und Meldepflichten des Betriebsinhabers
+###### § 30 Nachweis- und Meldepflichten des Betriebsinhabers
 
 (1) Der Betriebsinhaber hat von ihm in Kopie vorgelegte Unterlagen im Original vorzuhalten.
 
@@ -626,7 +628,7 @@ b) innerhalb der Vegetationsperiode nicht länger als 14 aufeinanderfolgende Tag
 
 (6) Jede mechanische Bodenbearbeitung, die auf umweltsensiblem Dauergrünland durchgeführt werden soll, ist der Landesstelle mindestens drei Tage vor Beginn der Durchführung anzuzeigen. In der Anzeige ist die Art der vorgesehenen Maßnahme zu beschreiben. Satz 1 gilt nicht für das Walzen, Schleppen und Striegeln des Bodens sowie für die Aussaat oder Düngung mit Schlitzverfahren oder jede vergleichbare Maßnahme der Bodenbearbeitung.
 
-##### § 30a Anzeige des Umpflügens von bestimmten Flächen mit Gras oder anderen Grünfutterpflanzen
+###### § 30a Anzeige des Umpflügens von bestimmten Flächen mit Gras oder anderen Grünfutterpflanzen
 
 (1) Der Betriebsinhaber ist verpflichtet, das Umpflügen einer Fläche, die mit Gras oder anderen Grünfutterpflanzen bewachsen ist, aber weder Dauergrünland ist noch als solches gilt, mit dem Ziel, die Fläche wieder mit Gras oder anderen Grünfutterpflanzen anzulegen, unter Angabe der Lage und Größe der Fläche und des Datums des Umpflügens spätestens einen Monat nach dem Umpflügen bei der zuständigen Landesstelle schriftlich anzuzeigen.
 
@@ -634,7 +636,7 @@ b) innerhalb der Vegetationsperiode nicht länger als 14 aufeinanderfolgende Tag
 
 (3) Die Absätze 1 und 2 finden keine Anwendung, soweit ein ab dem 30. März 2018 erfolgtes Umpflügen gemäß § 10a Absatz 3 nachgewiesen wird.
 
-##### § 31 Duldungs- und Mitwirkungspflichten
+###### § 31 Duldungs- und Mitwirkungspflichten
 
 (1) Zum Zwecke der Überwachung haben
 
@@ -648,7 +650,7 @@ den Landesstellen und der Bundesanstalt im Rahmen ihrer Zuständigkeiten nach di
 
 (3) Wird ein Betrieb ganz oder teilweise während eines Wirtschaftsjahres an einen anderen übertragen, so gelten die Vorschriften der Absätze 1 und 2 auch für den Rechtsnachfolger.
 
-##### § 32 Mitteilungspflichten der Länder und der Bundesstellen
+###### § 32 Mitteilungspflichten der Länder und der Bundesstellen
 
 (1) Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft die zur Erfüllung der der Bundesrepublik Deutschland gegenüber den Organen der Europäischen Union nach den in § 1 Absatz 1 Nummer 1 bis 3 genannten Rechtsakten obliegenden Mitteilungspflichten erforderlichen Angaben mit.
 
@@ -676,11 +678,11 @@ mit. Im Falle der Aussaat von Hanf nach dem 30. Juni des Antragsjahres ist die M
 
 ## Abschnitt 9 Ordnungswidrigkeiten
 
-##### § 33 Ordnungswidrigkeiten
+###### § 33 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 des Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig entgegen § 16 Absatz 1 Nummer 2 eine Angabe nicht oder nicht vollständig macht.
 
-##### § 34 Zuständige Verwaltungsbehörde
+###### § 34 Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des Marktorganisationsgesetzes und des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist bei Stützungsregelungen nach
 
@@ -692,7 +694,7 @@ soweit im Rahmen dieser Verordnung die in § 1 Absatz 1 Nummer 1 bis 6 genannten
 
 ## Abschnitt 10 Schlussbestimmungen
 
-##### § 35 Übergangsvorschrift
+###### § 35 Übergangsvorschrift
 
 (1) Auf Anträge für Kalenderjahre vor dem Kalenderjahr 2015 ist die InVeKoS-Verordnung vom 3. Dezember 2004 (BGBl. I S. 3194), die durch Artikel 5 Satz 2 der Verordnung vom 24. Februar 2015 (BGBl. I S. 166) aufgehoben worden ist, weiter anzuwenden.
 
@@ -710,7 +712,7 @@ Bewirtschaftet der Antragsteller Flächen in mehr als einem Land, kann die für 
 
 (7) In Sammelanträgen für das Jahr 2018 ist die Angabe nach § 11 Absatz 1 Satz 2 Nummer 5 nicht erforderlich.
 
-##### Anlage (zu § 3 Absatz 3 Satz 2)
+###### Anlage (zu § 3 Absatz 3 Satz 2)
 
 (Fundstelle: BGBl. I 2015, 178)
 
@@ -719,4 +721,3 @@ Flächenidentifikator (16 Stellen)
 LändercodeCode BundeslandLandwirtschaft/InVeKoSländerspezifisch vorgegeben (10 Stellen)
 
 DEBB, BW, BY, HB, HE, MV, NI, NW, RP, SH, SL, SN, ST, THLI
-
