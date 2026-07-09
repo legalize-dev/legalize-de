@@ -4,9 +4,10 @@ identifier: "WPPG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2005-06-22"
-last_updated: "2026-04-04"
+last_updated: "2026-07-09"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/wppg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR169810005"
 slug: "wppg"
@@ -15,11 +16,14 @@ stand: "Zuletzt geändert durch Art. 18 G v. 4.2.2026 I Nr. 33"
 ---
 # Gesetz über die Erstellung, Billigung und Veröffentlichung des Prospekts, der beim öffentlichen Angebot von Wertpapieren oder bei der Zulassung von Wertpapieren zum Handel an einem organisierten Markt zu veröffentlichen ist
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ## Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 (1) Dieses Gesetz enthält ergänzende Regelungen zu den Vorschriften der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12) in Bezug auf
 
@@ -45,7 +49,7 @@ Es gilt nicht für ein öffentliches Angebot der in Artikel 1 Absatz 4 Buchstabe
 
 2. die Ahndung von Verstößen hinsichtlich der Vorschriften der Verordnung (EU) 2023/2631.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes ist oder sind
 
@@ -97,17 +101,19 @@ Es gilt nicht für ein öffentliches Angebot der in Artikel 1 Absatz 4 Buchstabe
 
 ## Abschnitt 2 Ausnahmen von der Prospektpflicht und Regelungen zum Wertpapier-Informationsblatt
 
-##### § 3 Ausnahmen von der Verpflichtung zur Veröffentlichung eines Prospekts
+###### § 3 (weggefallen)
 
-Die Verpflichtung zur Veröffentlichung eines Prospekts gemäß Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129 gilt nicht für ein Angebot von Wertpapieren,
+###### § 4 Wertpapier-Informationsblatt; Verordnungsermächtigung
 
-1. die von Kreditinstituten oder von Emittenten, deren Aktien bereits zum Handel an einem geregelten Markt zugelassen sind, ausgegeben werden, wenn der Gesamtgegenwert für alle im Europäischen Wirtschaftsraum angebotenen Wertpapiere nicht mehr als 8 Millionen Euro, berechnet über einen Zeitraum von zwölf Monaten, beträgt, oder
+(1) Ein Anbieter, der die Ausnahme nach Artikel 3 Absatz 2 der Verordnung (EU) 2017/1129 in Anspruch nimmt, darf die Wertpapiere im Inland erst dann öffentlich anbieten, wenn er zuvor ein Wertpapier-Informationsblatt nach den Absätzen 3 bis 5 und 6 Satz 2 sowie Absatz 7 Satz 4 erstellt, bei der Bundesanstalt hinterlegt und veröffentlicht hat. Die Verpflichtung nach Satz 1 gilt nicht
 
-2. deren Gesamtgegenwert im Europäischen Wirtschaftsraum nicht mehr als 8 Millionen Euro, berechnet über einen Zeitraum von zwölf Monaten, beträgt.
+1. für ein öffentliches Angebot im Inland von Wertpapieren mit einem Gesamtgegenwert im Europäischen Wirtschaftsraum von weniger als 100 000 Euro, berechnet über einen Zeitraum von zwölf Monaten und in entsprechender Anwendung von Artikel 3 Absatz 2c der Verordnung (EU) 2017/1129,
 
-##### § 4 Wertpapier-Informationsblatt; Verordnungsermächtigung
+2. für Emittenten, deren Aktien bereits zum Handel an einem geregelten Markt zugelassen sind,
 
-(1) Ein Anbieter, der die Ausnahme nach § 3 Nummer 2 in Anspruch nimmt, darf die Wertpapiere im Inland erst dann öffentlich anbieten, wenn er zuvor ein Wertpapier-Informationsblatt nach den Absätzen 3 bis 5 und 6 Satz 2 sowie Absatz 7 Satz 4 erstellt, bei der Bundesanstalt hinterlegt und veröffentlicht hat. Dies gilt nicht für ein öffentliches Angebot im Inland von Wertpapieren mit einem Gesamtgegenwert im Europäischen Wirtschaftsraum von weniger als 100 000 Euro. Die Untergrenze von 100 000 Euro gemäß Satz 2 ist über einen Zeitraum von zwölf Monaten zu berechnen. Die Verpflichtung nach Satz 1 gilt nicht, wenn für die Wertpapiere ein Basisinformationsblatt nach der Verordnung (EU) Nr. 1286/2014 veröffentlicht werden muss.
+3. für Kreditinstitute oder
+
+4. wenn für die Wertpapiere ein Basisinformationsblatt nach der Verordnung (EU) Nr. 1286/2014 veröffentlicht werden muss.
 
 (2) Das Wertpapier-Informationsblatt darf erst veröffentlicht werden, wenn die Bundesanstalt die Veröffentlichung gestattet. Die Gestattung ist zu erteilen, wenn
 
@@ -167,7 +173,7 @@ einschätzen und bestmöglich mit den Merkmalen anderer Wertpapiere vergleichen 
 
 (9) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nähere Bestimmungen zu Inhalt und Aufbau der Wertpapier-Informationsblätter erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-##### § 5 Übermittlung des Wertpapier-Informationsblatts an die Bundesanstalt; Frist und Form der Veröffentlichung; Veröffentlichung durch die Bundesanstalt
+###### § 5 Übermittlung des Wertpapier-Informationsblatts an die Bundesanstalt; Frist und Form der Veröffentlichung; Veröffentlichung durch die Bundesanstalt
 
 (1) Das Wertpapier-Informationsblatt ist der Bundesanstalt elektronisch und in elektronisch durchsuchbarem Format über ihr Melde- und Veröffentlichungssystem zu übermitteln.
 
@@ -177,9 +183,9 @@ einschätzen und bestmöglich mit den Merkmalen anderer Wertpapiere vergleichen 
 
 (4) Die Bundesanstalt veröffentlicht auf ihrer Webseite die nach § 4 gestatteten Wertpapier-Informationsblätter. Diese bleiben zehn Jahre lang auf der Webseite öffentlich zugänglich. Die Bundesanstalt veröffentlicht auf ihrer Webseite auch die nach § 4 Absatz 8 Satz 1 übermittelten aktualisierten Fassungen der Wertpapier-Informationsblätter; Satz 2 gilt entsprechend.
 
-##### § 6 (weggefallen)
+###### § 6 (weggefallen)
 
-##### § 7 Werbung für Angebote, für die ein Wertpapier-Informationsblatt zu veröffentlichen ist
+###### § 7 Werbung für Angebote, für die ein Wertpapier-Informationsblatt zu veröffentlichen ist
 
 (1) Der Anbieter hat bei Angeboten gemäß § 4 Absatz 1 Satz 1 dafür zu sorgen, dass in der Werbung für diese Angebote darauf hingewiesen wird, dass ein Wertpapier-Informationsblatt veröffentlicht wurde oder zur Veröffentlichung ansteht und wo das Wertpapier-Informationsblatt zu erhalten ist.
 
@@ -195,11 +201,11 @@ einschätzen und bestmöglich mit den Merkmalen anderer Wertpapiere vergleichen 
 
 ## Abschnitt 3 Prospekthaftung und Haftung bei Wertpapier-Informationsblättern
 
-##### § 8 Prospektverantwortliche
+###### § 8 Prospektverantwortliche
 
 Die Verantwortung für den Inhalt des Prospekts haben zumindest der Anbieter, der Emittent, der Zulassungsantragsteller oder der Garantiegeber ausdrücklich zu übernehmen. Bei einem Prospekt für das öffentliche Angebot von Wertpapieren nach Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129 hat in jedem Fall der Anbieter die Verantwortung für den Inhalt des Prospekts zu übernehmen. Sollen auf Grund des Prospekts Wertpapiere zum Handel an einem geregelten Markt zugelassen werden, so hat neben dem Emittenten auch das Kreditinstitut, das Finanzdienstleistungsinstitut, das Wertpapierinstitut oder das nach § 53 Absatz 1 Satz 1 oder § 53b Absatz 1 Satz 1 des Kreditwesengesetzes tätige Unternehmen, sofern dieses mit dem Emittenten zusammen die Zulassung der Wertpapiere beantragt, die Verantwortung für den Prospekt zu übernehmen. Wenn eine Garantie für die Wertpapiere gestellt wird, hat auch der Garantiegeber die Verantwortung für den Inhalt des Prospekts zu übernehmen.
 
-##### § 9 Haftung bei fehlerhaftem Börsenzulassungsprospekt
+###### § 9 Haftung bei fehlerhaftem Börsenzulassungsprospekt
 
 (1) Der Erwerber von Wertpapieren, die auf Grund eines Prospekts zum Börsenhandel zugelassen sind, in dem für die Beurteilung der Wertpapiere wesentliche Angaben unrichtig oder unvollständig sind, kann
 
@@ -215,7 +221,7 @@ als Gesamtschuldnern die Übernahme der Wertpapiere gegen Erstattung des Erwerbs
 
 (4) Einem Prospekt stehen Dokumente gleich, welche gemäß Artikel 1 Absatz 5 Unterabsatz 1 Buchstabe ba Ziffer iii, e, f, g, h oder j Ziffer v und vi der Verordnung (EU) 2017/1129 zur Verfügung gestellt wurden.
 
-##### § 10 Haftung bei sonstigem fehlerhaften Prospekt
+###### § 10 Haftung bei sonstigem fehlerhaften Prospekt
 
 Sind in einem nach Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129 veröffentlichten Prospekt, der nicht Grundlage für die Zulassung von Wertpapieren zum Handel an einer inländischen Börse ist, für die Beurteilung der Wertpapiere wesentliche Angaben unrichtig oder unvollständig, ist § 9 entsprechend anzuwenden mit der Maßgabe, dass
 
@@ -223,7 +229,7 @@ Sind in einem nach Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129 veröffentli
 
 2. § 9 Absatz 3 auf diejenigen Emittenten mit Sitz im Ausland anzuwenden ist, deren Wertpapiere auch im Ausland öffentlich angeboten werden.
 
-##### § 11 Haftung bei fehlerhaftem Wertpapier-Informationsblatt
+###### § 11 Haftung bei fehlerhaftem Wertpapier-Informationsblatt
 
 (1) Sind in einem veröffentlichten Wertpapier-Informationsblatt nach § 4 Absatz 1 Satz 1 für die Beurteilung der Wertpapiere wesentliche Angaben unrichtig oder irreführend oder ist der Warnhinweis nach § 4 Absatz 4 nicht enthalten, kann der Erwerber dieser Wertpapiere von denjenigen, von denen der Erlass des Wertpapier-Informationsblatts ausgeht, und vom Anbieter als Gesamtschuldnern die Übernahme der Wertpapiere gegen Erstattung des Erwerbspreises, soweit dieser den ersten Ausgabepreis der Wertpapiere nicht überschreitet, und der mit dem Erwerb verbundenen üblichen Kosten verlangen, sofern das Erwerbsgeschäft nach Veröffentlichung des Wertpapier-Informationsblatts und während der Dauer des öffentlichen Angebots, spätestens jedoch innerhalb von sechs Monaten nach dem ersten öffentlichen Angebot der Wertpapiere im Inland abgeschlossen wurde.
 
@@ -231,7 +237,7 @@ Sind in einem nach Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129 veröffentli
 
 (3) Werden Wertpapiere eines Emittenten mit Sitz im Ausland auch im Ausland öffentlich angeboten, besteht ein Anspruch nach Absatz 1 oder Absatz 2 nur, sofern die Wertpapiere auf Grund eines im Inland abgeschlossenen Geschäfts oder einer ganz oder teilweise im Inland erbrachten Wertpapierdienstleistung erworben wurden.
 
-##### § 12 Haftungsausschluss bei fehlerhaftem Prospekt
+###### § 12 Haftungsausschluss bei fehlerhaftem Prospekt
 
 (1) Nach den §§ 9 oder 10 kann nicht in Anspruch genommen werden, wer nachweist, dass er die Unrichtigkeit oder Unvollständigkeit der Angaben des Prospekts nicht gekannt hat und dass die Unkenntnis nicht auf grober Fahrlässigkeit beruht.
 
@@ -253,7 +259,7 @@ b) die Zusammenfassung enthält, wenn sie zusammen mit den anderen Teilen des Pr
 
 c) im Fall der Zusammenfassung eines EU-Folgeprospekts und eines EU-Wachstumsemissionsprospekts richtet sich die Vollständigkeit der relevanten Informationen nach Artikel 7 Absatz 1 Unterabsatz 1 in Verbindung mit Absatz 12a Unterabsatz 3 Buchstabe c der Verordnung (EU) 2017/1129.
 
-##### § 13 Haftungsausschluss bei fehlerhaftem Wertpapier-Informationsblatt
+###### § 13 Haftungsausschluss bei fehlerhaftem Wertpapier-Informationsblatt
 
 (1) Nach § 11 kann nicht in Anspruch genommen werden, wer nachweist, dass er die Unrichtigkeit der Angaben des Wertpapier-Informationsblatts oder die Irreführung durch diese Angaben nicht gekannt hat und dass die Unkenntnis nicht auf grober Fahrlässigkeit beruht.
 
@@ -267,7 +273,7 @@ c) im Fall der Zusammenfassung eines EU-Folgeprospekts und eines EU-Wachstumsemi
 
 4. vor dem Abschluss des Erwerbsgeschäfts im Rahmen des Jahresabschlusses oder Zwischenberichts des Emittenten, im Rahmen einer Veröffentlichung nach Artikel 17 der Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1; L 287 vom 21.10.2016, S. 320; L 306 vom 15.11.2016, S. 43; L 348 vom 21.12.2016, S. 83), die zuletzt durch die Verordnung (EU) 2016/1033 (ABl. L 175 vom 30.6.2016, S. 1) geändert worden ist, in der jeweils geltenden Fassung oder einer vergleichbaren Bekanntmachung eine deutlich gestaltete Berichtigung der unrichtigen oder irreführenden Angaben im Inland veröffentlicht wurde.
 
-##### § 14 Haftung bei fehlendem Prospekt
+###### § 14 Haftung bei fehlendem Prospekt
 
 (1) Ist ein Prospekt entgegen Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129 nicht veröffentlicht worden, kann der Erwerber von Wertpapieren von dem Emittenten und dem Anbieter als Gesamtschuldnern die Übernahme der Wertpapiere gegen Erstattung des Erwerbspreises, soweit dieser den ersten Erwerbspreis nicht überschreitet, und der mit dem Erwerb verbundenen üblichen Kosten verlangen, sofern das Erwerbsgeschäft vor Veröffentlichung eines Prospekts und innerhalb von sechs Monaten nach dem ersten öffentlichen Angebot im Inland abgeschlossen wurde. Auf den Erwerb von Wertpapieren desselben Emittenten, die von den in Satz 1 genannten Wertpapieren nicht nach Ausstattungsmerkmalen oder in sonstiger Weise unterschieden werden können, ist Satz 1 entsprechend anzuwenden.
 
@@ -277,7 +283,7 @@ c) im Fall der Zusammenfassung eines EU-Folgeprospekts und eines EU-Wachstumsemi
 
 (4) Der Anspruch nach den Absätzen 1 bis 3 besteht nicht, sofern der Erwerber die Pflicht, einen Prospekt zu veröffentlichen, beim Erwerb kannte.
 
-##### § 15 Haftung bei fehlendem Wertpapier-Informationsblatt
+###### § 15 Haftung bei fehlendem Wertpapier-Informationsblatt
 
 (1) Ist ein Wertpapier-Informationsblatt entgegen § 4 Absatz 1 Satz 1 nicht veröffentlicht worden, kann der Erwerber von Wertpapieren von dem Emittenten und dem Anbieter als Gesamtschuldnern die Übernahme der Wertpapiere gegen Erstattung des Erwerbspreises, soweit dieser den ersten Erwerbspreis nicht überschreitet, und der mit dem Erwerb verbundenen üblichen Kosten verlangen, sofern das Erwerbsgeschäft vor Veröffentlichung eines Wertpapier-Informationsblatts und während der Dauer des öffentlichen Angebots, spätestens jedoch innerhalb von sechs Monaten nach dem ersten öffentlichen Angebot der Wertpapiere im Inland abgeschlossen wurde.
 
@@ -287,7 +293,7 @@ c) im Fall der Zusammenfassung eines EU-Folgeprospekts und eines EU-Wachstumsemi
 
 (4) Der Anspruch nach den Absätzen 1 bis 3 besteht nicht, sofern der Erwerber die Pflicht, ein Wertpapier-Informationsblatt zu veröffentlichen, beim Erwerb kannte.
 
-##### § 16 Unwirksame Haftungsbeschränkung; sonstige Ansprüche
+###### § 16 Unwirksame Haftungsbeschränkung; sonstige Ansprüche
 
 (1) Eine Vereinbarung, durch die Ansprüche nach den §§ 9, 10, 11, 14 oder 15 im Voraus ermäßigt oder erlassen werden, ist unwirksam.
 
@@ -295,11 +301,11 @@ c) im Fall der Zusammenfassung eines EU-Folgeprospekts und eines EU-Wachstumsemi
 
 ## Abschnitt 4 Zuständige Behörde und Verfahren
 
-##### § 17 Zuständige Behörde
+###### § 17 Zuständige Behörde
 
 Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 31 Absatz 1 Satz 1 der Verordnung (EU) 2017/1129 in der jeweils geltenden Fassung.
 
-##### § 18 Befugnisse der Bundesanstalt im Hinblick auf die Vorgaben der Verordnung (EU) 2017/1129 und dieses Gesetzes
+###### § 18 Befugnisse der Bundesanstalt im Hinblick auf die Vorgaben der Verordnung (EU) 2017/1129 und dieses Gesetzes
 
 (1) Ist bei der Bundesanstalt ein Prospekt zur Billigung eingereicht worden, kann sie vom Emittenten, Anbieter oder Zulassungsantragsteller die Aufnahme zusätzlicher Angaben in den Prospekt verlangen, wenn dies zum Schutz des Publikums geboten erscheint.
 
@@ -383,7 +389,7 @@ so kann die Bundesanstalt die Werbung untersagen oder für jeweils höchstens ze
 
 (11) Bedienstete der Bundesanstalt dürfen Geschäftsräume durchsuchen, soweit dies zur Verfolgung von Verstößen gegen die Verordnung (EU) 2017/1129, insbesondere in Fällen eines öffentlichen Angebots ohne Veröffentlichung eines Prospekts nach Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129, geboten ist und der begründete Verdacht besteht, dass in Zusammenhang mit dem Gegenstand der entsprechenden Überprüfung oder Ermittlung Dokumente und andere Daten vorhanden sind, die als Nachweis für den Verstoß dienen können. Das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt. Im Rahmen der Durchsuchung dürfen Bedienstete der Bundesanstalt Gegenstände sicherstellen, die als Beweismittel für die Ermittlung des Sachverhalts von Bedeutung sein können. Befinden sich die Gegenstände im Gewahrsam einer Person und werden sie nicht freiwillig herausgegeben, können Bedienstete der Bundesanstalt sie beschlagnahmen. Durchsuchungen und Beschlagnahmen sind, außer bei Gefahr im Verzug, durch den Richter anzuordnen. Zuständig ist das Amtsgericht Frankfurt am Main. Gegen die richterliche Entscheidung ist die Beschwerde zulässig. Die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend. Bei Beschlagnahmen ohne gerichtliche Anordnung gilt § 98 Absatz 2 der Strafprozessordnung entsprechend. Zuständiges Gericht für die nachträglich eingeholte gerichtliche Entscheidung ist das Amtsgericht Frankfurt am Main. Über die Durchsuchung ist eine Niederschrift zu fertigen. Sie muss insbesondere die verantwortliche Dienststelle, Grund, Zeit und Ort der Durchsuchung und ihr Ergebnis enthalten.
 
-##### § 18a Befugnisse der Bundesanstalt im Hinblick auf die Vorgaben der Verordnung (EU) 2023/2631
+###### § 18a Befugnisse der Bundesanstalt im Hinblick auf die Vorgaben der Verordnung (EU) 2023/2631
 
 (1) Hat ein Emittent einer europäischen grünen Anleihe eine Veröffentlichung nach Artikel 15 Absatz 1 der Verordnung (EU) 2023/2631 unterlassen, so kann die Bundesanstalt gegenüber diesem Anleiheemittenten anordnen, die unterlassene Veröffentlichung unverzüglich nachzuholen.
 
@@ -423,7 +429,7 @@ so kann die Bundesanstalt die Werbung untersagen oder für jeweils höchstens ze
 
 (19) Die Absätze 1 bis 18 gelten nicht gegenüber Emittenten europäischer grüner Anleihen, die unter Artikel 1 Absatz 2 Buchstabe b und d der Verordnung (EU) 2017/1129 fallen.
 
-##### § 19 Verschwiegenheitspflicht
+###### § 19 Verschwiegenheitspflicht
 
 (1) Die bei der Bundesanstalt Beschäftigten und die nach § 4 Abs. 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse eines nach diesem Gesetz Verpflichteten, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse sowie personenbezogene Daten, nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
 
@@ -441,7 +447,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 2. von denen bei der Bundesanstalt beschäftigte Personen dadurch Kenntnis erlangen, dass sie an der Aufsicht über direkt von der Europäischen Zentralbank beaufsichtigte Institute mitwirken, insbesondere in gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1), und die nach den Regeln der Europäischen Zentralbank geheim sind.
 
-##### § 20 Sofortige Vollziehung
+###### § 20 Sofortige Vollziehung
 
 Keine aufschiebende Wirkung haben
 
@@ -451,7 +457,7 @@ Keine aufschiebende Wirkung haben
 
 ## Abschnitt 5 Sonstige Vorschriften
 
-##### § 21 Anerkannte Sprache
+###### § 21 Anerkannte Sprache
 
 (1) Anerkannte Sprache im Sinne des Artikels 1 Absatz 4 Unterabsatz 2 und Absatz 5 Unterabsatz 3 der Verordnung (EU) 2017/1129 ist die englische Sprache.
 
@@ -459,7 +465,7 @@ Keine aufschiebende Wirkung haben
 
 (3) Anerkannte Sprache im Sinne des Artikels 15 Absatz 2 Buchstabe a der Verordnung (EU) 2023/2631 ist die deutsche Sprache.
 
-##### § 22 Elektronische Einreichung, Aufbewahrung
+###### § 22 Elektronische Einreichung, Aufbewahrung
 
 (1) Der Prospekt einschließlich der Übersetzung der Zusammenfassung sowie Nachträge sind der Bundesanstalt ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt zu übermitteln. Dies gilt entsprechend für die Hinterlegung der endgültigen Bedingungen des Angebots, von einheitlichen Registrierungsformularen einschließlich deren Änderungen sowie Dokumenten nach Artikel 1 Absatz 4 Buchstabe da Ziffer iii und Buchstabe db Ziffer iii und Absatz 5 Unterabsatz 1 Buchstabe ba Ziffer iii der Verordnung (EU) 2017/1129.
 
@@ -467,9 +473,11 @@ Keine aufschiebende Wirkung haben
 
 (3) Die Unterrichtung der Bundesanstalt durch den Emittenten nach Artikel 15 Absatz 4 der Verordnung (EU) 2023/2631 erfolgt ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt unter Mitteilung der den jeweiligen Emittenten und die entsprechende Emission betreffenden Angaben.
 
-##### § 23 (weggefallen)
+###### § 23 Meldungen zum zentralen europäischen Zugangsportal
 
-##### § 24 Bußgeldvorschriften
+Die Informationen nach Artikel 21a Absatz 1 Unterabsatz 1 der Verordnung (EU) 2017/1129 sind der Bundesanstalt unter Beachtung der Vorgaben nach Artikel 21a Absatz 1 und 2 der Verordnung (EU) 2017/1129 ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt zu melden. Die Meldepflichtigen sind verpflichtet, sich hierfür einen Zugang zum Melde- und Veröffentlichungssystem der Bundesanstalt einzurichten.
+
+###### § 24 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -635,7 +643,7 @@ zuwiderhandelt.
 
 (9) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-##### § 24a Bußgeldvorschriften zur Verordnung (EU) 2023/2631
+###### § 24a Bußgeldvorschriften zur Verordnung (EU) 2023/2631
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 18a Absatz 1 bis 7, 8 Satz 1, Absatz 9 Satz 1, Absatz 10 bis 12 Satz 1, Absatz 13 Satz 2, Absatz 14 oder Absatz 15 Satz 2 zuwiderhandelt.
 
@@ -705,7 +713,7 @@ mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. In den Fällen 
 
 (8) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-##### § 25 Maßnahmen bei Verstößen
+###### § 25 Maßnahmen bei Verstößen
 
 (1) Im Falle eines Verstoßes gegen die in § 24 Absatz 1, 3 oder 4 genannten Vorschriften kann die Bundesanstalt zur Verhinderung weiterer Verstöße
 
@@ -725,23 +733,22 @@ mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. In den Fällen 
 
 (3) Die Bekanntmachung nach Absatz 1 Nummer 1 und Absatz 2 Nummer 1 darf nur diejenigen personenbezogenen Daten enthalten, die zur Identifizierung des Anbieters oder Emittenten erforderlich sind. Die Bekanntgabe nach Absatz 1 Nummer 1 und nach Absatz 2 Nummer 1 ist nach fünf Jahren zu löschen.
 
-##### § 26 Datenschutz
+###### § 26 Datenschutz
 
 Die Bundesanstalt darf personenbezogene Daten nur zur Erfüllung ihrer aufsichtlichen Aufgaben und für Zwecke der Zusammenarbeit nach Maßgabe der Artikel 33 und 34 der Verordnung (EU) 2017/1129 sowie der Artikel 46, 55 Absatz 4 Satz 2, Artikel 56 Absatz 5 Satz 1, Absatz 6 Satz 1 und Absatz 7 der Verordnung (EU) 2023/2631 verarbeiten.
 
-##### § 27 Übergangsbestimmungen zur Aufhebung des Verkaufsprospektgesetzes
+###### § 27 Übergangsbestimmungen zur Aufhebung des Verkaufsprospektgesetzes
 
 Für Ansprüche wegen fehlerhafter Prospekte, die nicht Grundlage für die Zulassung von Wertpapieren zum Handel an einer inländischen Börse sind und die vor dem 1. Juni 2012 im Inland veröffentlicht worden sind, sind das Verkaufsprospektgesetz und die §§ 44 bis 47 des Börsengesetzes jeweils in der bis zum 31. Mai 2012 geltenden Fassung weiterhin anzuwenden. Wurden Prospekte entgegen § 3 Absatz 1 Satz 1 in der bis zum 20. Juli 2019 geltenden Fassung nicht veröffentlicht, ist für daraus resultierende Ansprüche, die bis zum Ablauf des 31. Mai 2012 entstanden sind, das Verkaufsprospektgesetz in der bis zum 31. Mai 2012 geltenden Fassung weiterhin anzuwenden.
 
-##### § 28 Übergangsbestimmungen zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen
+###### § 28 Übergangsbestimmungen zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen
 
 (1) Prospekte, die vor dem 21. Juli 2019 gebilligt wurden, unterliegen bis zum Ablauf ihrer Gültigkeit weiterhin dem Wertpapierprospektgesetz in der bis zum 20. Juli 2019 geltenden Fassung.
 
 (2) Wertpapier-Informationsblätter, deren Veröffentlichung vor dem 21. Juli 2019 gestattet wurde, unterliegen weiterhin dem Wertpapierprospektgesetz in der bis zum 20. Juli 2019 geltenden Fassung. Anträge auf Gestattung der Veröffentlichung von Wertpapier-Informationsblättern, die vor dem 21. Juli 2019 gestellt wurden und bis zum 20. Juli 2019 einschließlich nicht beschieden sind, gelten als Anträge auf Gestattung der Veröffentlichung nach § 4 in der nach dem 21. Juli 2019 geltenden Fassung.
 
-##### (XXXX) §§ 28a bis 30 (weggefallen)
+###### (XXXX) §§ 28a bis 30 (weggefallen)
 
-##### § 31 (jetzt § 20)
+###### § 31 (jetzt § 20)
 
-##### § 32 (weggefallen)
-
+###### § 32 (weggefallen)
