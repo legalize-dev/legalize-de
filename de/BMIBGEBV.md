@@ -4,22 +4,27 @@ identifier: "BMIBGEBV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2019-09-02"
-last_updated: "2026-04-04"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bmibgebv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR135900019"
 slug: "bmibgebv"
 bgbl_reference: "BGBl I 2019, 1359"
 stand: "Zuletzt geändert durch Art. 1 V v. 10.9.2021 I 4229"
+hinweis: "Änderung durch Art. 15 Abs. 4 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Besondere Gebührenverordnung des Bundesministeriums des Innern, für Bau und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium des Innern, für Bau und Heimat:
 
-##### § 1 Erhebung von Gebühren und Auslagen
+###### § 1 Erhebung von Gebühren und Auslagen
 
 Im Zuständigkeitsbereich des Bundesministeriums des Innern, für Bau und Heimat werden Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) erhoben, die auf Grund der folgenden Vorschriften erbracht werden:
 
@@ -37,7 +42,7 @@ Im Zuständigkeitsbereich des Bundesministeriums des Innern, für Bau und Heimat
 
 7. BSI-Gesetz,
 
-8. De-Mail-Gesetz,
+8. (weggefallen)
 
 9. Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen,
 
@@ -45,7 +50,7 @@ Im Zuständigkeitsbereich des Bundesministeriums des Innern, für Bau und Heimat
 
 11. Allgemeine Waffengesetz-Verordnung.
 
-##### § 2 Höhe der Gebühren und Auslagen
+###### § 2 Höhe der Gebühren und Auslagen
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren- und Auslagenverzeichnis. Das Gebühren- und Auslagenverzeichnis regelt ferner die Tatbestände für eine Gebühren- und Auslagenbefreiung.
 
@@ -53,7 +58,7 @@ Im Zuständigkeitsbereich des Bundesministeriums des Innern, für Bau und Heimat
 
 (3) Auslagen, die nicht im Gebühren- und Auslagenverzeichnis aufgeführt sind, sind mit der Gebühr abgegolten.
 
-##### § 3 Zeitgebühr
+###### § 3 Zeitgebühr
 
 Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt ist, gelten
 
@@ -61,19 +66,19 @@ Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt ist, gelten
 
 2. für den Zeitaufwand von Polizeivollzugsbeamtinnen und -beamten des Bundes die allgemeinen pauschalen Stundensätze für Polizeivollzugsbeamtinnen und -beamte des Bundes nach Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung.
 
-##### § 4 Übergangsvorschrift
+###### § 4 Übergangsvorschrift
 
 Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung, die vor dem 1. Oktober 2019 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, ist das bis einschließlich zum 30. September 2019 geltende Recht weiter anzuwenden.
 
-##### § 5 Inkrafttreten
+###### § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
-##### Anlage (zu § 2 Absatz 1)Gebühren- und Auslagenverzeichnis
+###### Anlage (zu § 2 Absatz 1)Gebühren- und Auslagenverzeichnis
 
 (Fundstelle: BGBl. I 2021, 4229 - 4242)
 
-InhaltsübersichtAbschnitt  1Bundespolizeigesetz (BPolG)Abschnitt  2Verwaltungs-Vollstreckungsgesetz (VwVG)Abschnitt  3BDBOS-Gesetz (BDBOSG)Abschnitt  4BDBOS-Zertifizierungsverordnung (BDBOSZertV)Abschnitt  5Laufbahnbefähigungsanerkennungsverordnung (LBAV)Abschnitt  6Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung – DS-GVO)Abschnitt  7BSI-Gesetz (BSIG)Abschnitt  8De-Mail-Gesetz (De-Mail-G)Abschnitt  9Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen (UnbBeschErtV)Abschnitt 10Waffengesetz (WaffG)Abschnitt 11Allgemeine Waffengesetz-Verordnung (AWaffV)
+InhaltsübersichtAbschnitt  1Bundespolizeigesetz (BPolG)Abschnitt  2Verwaltungs-Vollstreckungsgesetz (VwVG)Abschnitt  3BDBOS-Gesetz (BDBOSG)Abschnitt  4BDBOS-Zertifizierungsverordnung (BDBOSZertV)Abschnitt  5Laufbahnbefähigungsanerkennungsverordnung (LBAV)Abschnitt  6Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung – DS-GVO)Abschnitt  7BSI-Gesetz (BSIG)Abschnitt  8(weggefallen)Abschnitt  9Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen (UnbBeschErtV)Abschnitt 10Waffengesetz (WaffG)Abschnitt 11Allgemeine Waffengesetz-Verordnung (AWaffV)
 
 **Abschnitt 1**
 
@@ -553,31 +558,7 @@ NummerGebühren- oder AuslagentatbestandGebühren/Auslagen in Euro
 
 **Abschnitt 8**
 
-**De-Mail-Gesetz (De-Mail-G)**
-
-NummerGebühren- oder AuslagentatbestandGebühren/Auslagen in Euro
-
-1Akkreditierung und Erteilung des Gütezeichens nach § 17 Absatz 1 De-Mail-G durch das BSInach Zeitaufwand
-
-2Erneuerung der Akkreditierung nach § 17 Absatz 3 De-Mail-G durch das BSInach Zeitaufwand
-
-3Zertifikat nach § 18 Absatz 3 Nummer 4 De-Mail-G durch den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (BfDI)
-
-3.1Erteilung des Zertifikats durch den BfDInach Zeitaufwand
-
-3.2Beim Gebührentatbestand nach Nummer 3.1 sind neben der Gebühr folgende Kosten als Auslagen zu erheben:
-
-3.2.1Kosten für Sachverständige
-
-3.2.2Kosten für Leistungen anderer Behörden und Dritter
-
-3.2.3Kosten für Dienstreisen
-
-4Prüfung der Gleichwertigkeit ausländischer Diensteanbieter nach § 19 Absatz 2 De-Mail-G durch das BSInach Zeitaufwand
-
-5Untersagung oder teilweise Untersagung des Betriebes nach § 20 Absatz 3 De-Mail-G durch das BSInach Zeitaufwand
-
-6Bei den Gebührentatbeständen der Nummern 1, 2, 4 und 5 sind neben den Gebühren die Kosten für Dienstreisen und für Dritte als Auslagen zu erheben.
+**(weggefallen)**
 
 **Abschnitt 9**
 
@@ -770,4 +751,3 @@ NummerGebühren- oder AuslagentatbestandGebühren/Auslagen in Euro
 4Genehmigung von Abweichungen von den Anforderungen an die Aufbewahrung von Waffen oder Munition nach § 13 Absatz 5 bis 8 oder § 14 AWaffV, jeweils in Verbindung mit § 48 Absatz 2 WaffGnach Zeitaufwand
 
 5Verlängerung eines Europäischen Feuerwaffenpasses nach § 33 Absatz 1 Satz 2 AWaffV in Verbindung mit § 48 Absatz 2 WaffGnach Zeitaufwand
-
