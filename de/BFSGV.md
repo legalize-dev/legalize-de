@@ -4,30 +4,34 @@ identifier: "BFSGV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2022-06-15"
-last_updated: "2026-04-04"
+last_updated: "2026-07-15"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bfsgv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR092800022"
 slug: "bfsgv"
 bgbl_reference: "BGBl I 2022, 928"
-stand: "Geändert durch Art. 23 G v. 2.12.2025 I Nr. 301"
+stand: "Geändert durch Art. 1 V v. 10.7.2026 I Nr. 205"
 ---
 # Verordnung über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen nach dem Barrierefreiheitsstärkungsgesetz
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 3 Absatz 2 des Barrierefreiheitsstärkungsgesetzes vom 16. Juli 2021 (BGBl. I S. 2970) in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176) verordnet das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Gesundheit, dem Bundesministerium für Wirtschaft und Klimaschutz und dem Bundesministerium für Digitales und Verkehr:
 
-##### Inhaltsübersicht
+###### Inhaltsübersicht
 
 §  1Anwendungsbereich§  2Begriffsbestimmungen§  3Stand der Technik§  4Anforderungen an die Bereitstellung von Informationen für Produkte§  5Anforderungen an Produktverpackungen und Anleitungen§  6Anforderungen an Gestaltung von Benutzerschnittstelle und Funktionalität von Produkten§  7Zusätzliche branchenspezifische Anforderungen an Selbstbedienungsterminals§  8Zusätzliche branchenspezifische Anforderungen an E-Book-Lesegeräte§  9Zusätzliche branchenspezifische Anforderungen an Verbraucherendgeräte mit interaktivem Leistungsumfang, die zur Bereitstellung von Telekommunikationsdiensten eingesetzt werden§ 10Zusätzliche branchenspezifische Anforderungen an Verbraucherendgeräte mit interaktivem Leistungsumfang, die für den Zugang zu audiovisuellen Mediendiensten verwendet werden§ 11Unterstützungsdienste§ 12Allgemeine Anforderungen an Dienstleistungen§ 13Zusätzliche Anforderungen an bestimmte Dienstleistungen§ 14Zusätzliche Anforderungen an Telekommunikationsdienste§ 15Zusätzliche Anforderungen an Personenbeförderungsdienste§ 16Zusätzliche Anforderungen an Stadt-, Vorort- und Regionalverkehrsdienste§ 17Zusätzliche Anforderungen an Bankdienstleistungen für Verbraucher§ 18Zusätzliche Anforderungen an E-Books§ 19Zusätzliche Anforderungen an Dienstleistungen im elektronischen Geschäftsverkehr§ 20Anwendung von funktionalen Leistungskriterien§ 21Funktionale Leistungskriterien§ 22Inkrafttreten
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 Diese Verordnung ist auf Produkte im Sinne des § 1 Absatz 2 des Barrierefreiheitsstärkungsgesetzes und Dienstleistungen im Sinne des § 1 Absatz 3 des Barrierefreiheitsstärkungsgesetzes anzuwenden.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 Für diese Verordnung gelten neben den Begriffsbestimmungen des § 2 des Barrierefreiheitsstärkungsgesetzes die folgenden Begriffsbestimmungen:
 
@@ -39,7 +43,7 @@ Für diese Verordnung gelten neben den Begriffsbestimmungen des § 2 des Barrier
 
 4. Intelligente Ticketsysteme: Systeme im Sinne des § 2 Nummer 40 des Barrierefreiheitsstärkungsgesetzes sowie Systeme, in denen Reservierungen und Buchungen mithilfe eines Geräts mit interaktivem Leistungsumfang unter anderem online vorgenommen und dem Verbraucher elektronisch übermittelt werden, damit sie in Papierform ausgedruckt oder mithilfe eines Geräts mit interaktivem Leistungsumfang während der Fahrt angezeigt werden können.
 
-##### § 3 Stand der Technik
+###### § 3 Stand der Technik
 
 (1) Bei der Erfüllung der Anforderungen nach dieser Rechtsverordnung ist der Stand der Technik zu beachten. Von dem Stand der Technik kann abgewichen werden, wenn auf andere Weise die Anforderungen dieser Rechtsverordnung in gleichem Maße erfüllt werden.
 
@@ -51,7 +55,7 @@ Für diese Verordnung gelten neben den Begriffsbestimmungen des § 2 des Barrier
 
 3. aktuelle Informationen zu den zu beachtenden Standards.
 
-##### § 4 Anforderungen an die Bereitstellung von Informationen für Produkte
+###### § 4 Anforderungen an die Bereitstellung von Informationen für Produkte
 
 (1) Informationen zur Nutzung des Produkts auf dem Produkt selbst, wie die Kennzeichnungen, die Gebrauchsanleitung und die Warnhinweise müssen
 
@@ -87,7 +91,7 @@ Für diese Verordnung gelten neben den Begriffsbestimmungen des § 2 des Barrier
 
 (3) Die Informationen nach den Absätzen 1 und 2 sind, soweit es möglich ist, in oder auf dem Produkt selbst anzugeben.
 
-##### § 5 Anforderungen an Produktverpackungen und Anleitungen
+###### § 5 Anforderungen an Produktverpackungen und Anleitungen
 
 Die Verpackungen und Anleitungen der Produkte, mit Ausnahme von Selbstbedienungsterminals im Sinne des § 1 Absatz 2 Nummer 2 des Barrierefreiheitsstärkungsgesetzes müssen folgende Anforderungen erfüllen:
 
@@ -109,7 +113,7 @@ f) der Inhalt der Anleitungen wird in Textformaten zur Verfügung gestellt, die 
 
 g) es wird eine alternative Darstellung des Inhalts angeboten, wenn Elemente nicht-textlichen Inhalts enthalten sind.
 
-##### § 6 Anforderungen an Gestaltung von Benutzerschnittstelle und Funktionalität von Produkten
+###### § 6 Anforderungen an Gestaltung von Benutzerschnittstelle und Funktionalität von Produkten
 
 (1) Das Produkt, einschließlich seiner Benutzerschnittstelle, muss Bestandteile, Funktionen und Merkmale enthalten, die es Menschen mit Behinderungen ermöglichen, auf das Produkt zuzugreifen, es wahrzunehmen, zu bedienen, zu verstehen und zu steuern.
 
@@ -153,7 +157,7 @@ b) taktil erkennbare Teile verwenden,
 
 13. Software und Hardware für Schnittstellen zu den assistiven Technologien aufweisen.
 
-##### § 7 Zusätzliche branchenspezifische Anforderungen an Selbstbedienungsterminals
+###### § 7 Zusätzliche branchenspezifische Anforderungen an Selbstbedienungsterminals
 
 (1) Selbstbedienungsterminals müssen
 
@@ -169,13 +173,13 @@ b) taktil erkennbare Teile verwenden,
 
 6. bei der Verwendung von Audiosignalen oder akustischen Signalen solche Audiosignale oder akustische Signale verwenden, die mit auf Unionsebene verfügbaren Hilfsmitteln und Technologien, etwa mit Hörhilfetechnologie wie Hörgeräten, Telefonspulen, Cochlea-Implantaten und technischen Hörhilfen, kompatibel sind.
 
-(2) Selbstbedienungsterminals müssen Informationen über die Aktivierung der Barrierefreiheitsfunktionen über mehr als einen sensorischen Kanal bereitstellen, um dem Verbraucher die Nutzung der Barrierefreiheitsfunktionen zu ermöglichen.
+(2) Selbstbedienungsterminals dürfen keine Aktivierung von Barrierefreiheitsfunktionen erfordern, damit Selbstbedienungsterminals von Personen, die auf entsprechende Funktionen angewiesen sind, eingeschaltet werden können.
 
-##### § 8 Zusätzliche branchenspezifische Anforderungen an E-Book-Lesegeräte
+###### § 8 Zusätzliche branchenspezifische Anforderungen an E-Book-Lesegeräte
 
 E-Book-Lesegeräte müssen mit Sprachausgabe ausgestattet sein.
 
-##### § 9 Zusätzliche branchenspezifische Anforderungen an Verbraucherendgeräte mit interaktivem Leistungsumfang, die zur Bereitstellung von Telekommunikationsdiensten eingesetzt werden
+###### § 9 Zusätzliche branchenspezifische Anforderungen an Verbraucherendgeräte mit interaktivem Leistungsumfang, die zur Bereitstellung von Telekommunikationsdiensten eingesetzt werden
 
 Verbraucherendgeräte mit interaktivem Leistungsumfang, die zur Bereitstellung von Telekommunikationsdiensten eingesetzt werden, müssen
 
@@ -189,15 +193,15 @@ Verbraucherendgeräte mit interaktivem Leistungsumfang, die zur Bereitstellung v
 
 5. so gestaltet sein, dass keine Interferenzen mit Hilfsmitteln auftreten.
 
-##### § 10 Zusätzliche branchenspezifische Anforderungen an Verbraucherendgeräte mit interaktivem Leistungsumfang, die für den Zugang zu audiovisuellen Mediendiensten verwendet werden
+###### § 10 Zusätzliche branchenspezifische Anforderungen an Verbraucherendgeräte mit interaktivem Leistungsumfang, die für den Zugang zu audiovisuellen Mediendiensten verwendet werden
 
 Verbraucherendgeräte mit interaktivem Leistungsumfang, die für den Zugang zu audiovisuellen Mediendiensten verwendet werden, müssen Menschen mit Behinderungen diejenigen Barrierefreiheitskomponenten bereitstellen, die der Anbieter audiovisueller Mediendienste für den Benutzerzugang, die Auswahl von Optionen, die Steuerung, die Personalisierung und die Übertragung an Hilfsmittel zur Verfügung stellt.
 
-##### § 11 Unterstützungsdienste
+###### § 11 Unterstützungsdienste
 
 Wenn Unterstützungsdienste wie Help-Desk, Call-Center, technische Unterstützung, Relaisdienste und Schulungsdienste verfügbar sind, müssen sie Informationen über die Barrierefreiheit und die Kompatibilität des Produkts mit assistiven Technologien mittels barrierefreien Kommunikationsmitteln bereitstellen.
 
-##### § 12 Allgemeine Anforderungen an Dienstleistungen
+###### § 12 Allgemeine Anforderungen an Dienstleistungen
 
 Damit Dienstleistungen die Anforderungen des § 3 Absatz 1 Satz 2 Barrierefreiheitsstärkungsgesetz erfüllen, müssen
 
@@ -225,15 +229,17 @@ h) die für die Erbringung der Dienstleistung erforderlichen digitalen Informati
 
 4. im Fall der Verfügbarkeit von Unterstützungsdiensten wie Help-Desk, Call-Center, technische Unterstützung, Relaisdienste und Schulungsdienste diese die Informationen über die Barrierefreiheit und die Kompatibilität der Dienstleistung mit assistiven Technologien mit barrierefreien Kommunikationsmitteln bereitstellen.
 
-##### § 13 Zusätzliche Anforderungen an bestimmte Dienstleistungen
+###### § 13 Zusätzliche Anforderungen an bestimmte Dienstleistungen
 
 Damit Menschen mit Behinderungen die Dienstleistungen der §§ 14 bis 19 in größtmöglichem Umfang nutzen können, müssen diese Dienstleistungen Funktionen, Vorgehensweisen, Strategien und Verfahren sowie Änderungen bei der Ausführung vorsehen, die auf die Bedürfnisse von Menschen mit Behinderungen ausgerichtet sind und die Interoperabilität mit assistiven Technologien gewährleisten.
 
-##### § 14 Zusätzliche Anforderungen an Telekommunikationsdienste
+###### § 14 Zusätzliche Anforderungen Telekommunikationsdienstleister
 
-Bei Telekommunikationsdiensten, die Sprachkommunikation ermöglichen, muss zusätzlich zur Sprachkommunikation Text in Echtzeit bereitgestellt werden. Soweit die Telekommunikationsdienste Video zur Verfügung stellen, muss ein Gesamtgesprächsdienst bereitgestellt werden.
+(1) Bei Telekommunikationsdiensten, die Sprachkommunikation ermöglichen, muss zusätzlich zur Sprachkommunikation Text in Echtzeit bereitgestellt werden. Soweit die Telekommunikationsdienste Video zur Verfügung stellen, muss ein Gesamtgesprächsdienst bereitgestellt werden.
 
-##### § 15 Zusätzliche Anforderungen an Personenbeförderungsdienste
+(2) Bei den in Artikel 109 Absatz 2 der Richtlinie (EU) 2018/1972 in der Fassung vom 11. Dezember 2018 genannten Notrufen muss gewährleistet sein, dass die Notrufkommunikation über Sprache und Text, einschließlich Text in Echtzeit, synchronisiert ist. Soweit die Telekommunikationsdienste Video zur Verfügung stellen, muss zusätzlich gewährleistet sein, dass die Notrufkommunikation auch als Gesamtgesprächsdienst synchronisiert ist. Die Notrufe müssen unverzüglich an die örtlich zuständige Notrufabfragestelle übermittelt werden.
+
+###### § 15 Zusätzliche Anforderungen an Personenbeförderungsdienste
 
 Bei Personenbeförderungsdiensten im Luft-, Bus-, Schienen- und Schiffsverkehr, ausgenommen Stadt-, Vorort- sowie Regionalverkehrsdienste, muss die Bereitstellung gewährleistet werden von:
 
@@ -245,17 +251,17 @@ Bei Personenbeförderungsdiensten im Luft-, Bus-, Schienen- und Schiffsverkehr, 
 
 4. zusätzlichen Serviceinformationen, wie am Bahnhof im Dienst befindliches Servicepersonal, defekte Aufzüge oder vorübergehend nicht verfügbare Dienstleistungen.
 
-##### § 16 Zusätzliche Anforderungen an Stadt-, Vorort- und Regionalverkehrsdienste
+###### § 16 Zusätzliche Anforderungen an Stadt-, Vorort- und Regionalverkehrsdienste
 
 Selbstbedienungsterminals im Sinne des § 1 Absatz 2 Nummer 2 Buchstabe b Doppelbuchstabe d des Barrierefreiheitsstärkungsgesetzes, die zur Erbringung der Dienstleistung im Stadt-, Vorort- und Regionalverkehrsdienst verwendet werden, müssen die Anforderungen der §§ 4, 6, 7 und 11 erfüllen.
 
-##### § 17 Zusätzliche Anforderungen an Bankdienstleistungen für Verbraucher
+###### § 17 Zusätzliche Anforderungen an Bankdienstleistungen für Verbraucher
 
 (1) Soweit Identifizierungsmethoden, Authentifizierungsmethoden, elektronische Signaturen, Sicherheitsfunktionen und Zahlungsdienste bereitgestellt werden, müssen diese wahrnehmbar, bedienbar, verständlich und robust sein. Eine Authentifizierungsmethode im Sinne dieser Vorschrift ist jede Methode zur Authentifizierung im Sinne des § 1 Absatz 23 des Zahlungsdiensteaufsichtsgesetzes vom 17. Juli 2017 (BGBl. I S. 2446; 2019 I S. 1113), das zuletzt durch Artikel 5 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2083) geändert worden ist.
 
 (2) Es muss gewährleistet werden, dass die Informationen zur Funktionsweise der Bankdienstleistung für Verbraucher verständlich sind, ohne dass ihr Schwierigkeitsgrad das Sprachniveau B2 des Gemeinsamen europäischen Referenzrahmens für Sprachen des Europarats überschreitet.
 
-##### § 18 Zusätzliche Anforderungen an E-Books
+###### § 18 Zusätzliche Anforderungen an E-Books
 
 E-Books müssen
 
@@ -279,7 +285,7 @@ E-Books müssen
 
 10. nach Maßgabe der §§ 95a bis 96 des Urheberrechtsgesetzes gewährleisten, dass Barrierefreiheitsfunktionen nicht durch technische Maßnahmen zum Schutz von Werken und sonstigen Schutzgegenständen blockiert werden.
 
-##### § 19 Zusätzliche Anforderungen an Dienstleistungen im elektronischen Geschäftsverkehr
+###### § 19 Zusätzliche Anforderungen an Dienstleistungen im elektronischen Geschäftsverkehr
 
 Bei Dienstleistungen im elektronischen Geschäftsverkehr müssen
 
@@ -289,7 +295,7 @@ Bei Dienstleistungen im elektronischen Geschäftsverkehr müssen
 
 3. Identifizierungsmethoden, Authentifizierungsmethoden, elektronische Signaturen und Zahlungsdienste, wenn diese bereitgestellt werden, wahrnehmbar, bedienbar, verständlich und robust gestaltet werden.
 
-##### § 20 Anwendung von funktionalen Leistungskriterien
+###### § 20 Anwendung von funktionalen Leistungskriterien
 
 (1) Funktionen, die die Gestaltung und Herstellung von Produkten sowie die Erbringung von Dienstleistungen betreffen und für die keine Anforderungen in den §§ 4 bis 19 aufgestellt werden, gelten als barrierefrei, wenn sie die Anforderungen an die funktionalen Leistungskriterien und -fähigkeiten der Nutzer im Sinne des § 21 erfüllen.
 
@@ -299,7 +305,7 @@ Bei Dienstleistungen im elektronischen Geschäftsverkehr müssen
 
 2. die Anwendung der funktionalen Leistungskriterien dazu führt, dass die Gestaltung und Herstellung eines Produktes oder die Erbringung einer Dienstleistung in einer entsprechenden oder besseren Barrierefreiheit resultiert.
 
-##### § 21 Funktionale Leistungskriterien
+###### § 21 Funktionale Leistungskriterien
 
 (1) Wenn das Produkt oder die Dienstleistung visuelle Bedienungsformen bietet, muss
 
@@ -327,11 +333,10 @@ Bei Dienstleistungen im elektronischen Geschäftsverkehr müssen
 
 (8) Wenn das Produkt oder die Dienstleistung Funktionen umfasst, die der Barrierefreiheit dienen, muss mindestens eine Bedienungsform vorhanden sein, mit der die Privatsphäre der Nutzer bei Verwendung dieser Barrierefreiheitsfunktionen gewahrt ist.
 
-##### § 22 Inkrafttreten
+###### § 22 Inkrafttreten
 
 Diese Verordnung tritt am 28. Juni 2025 in Kraft.
 
-##### Schlussformel
+###### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
