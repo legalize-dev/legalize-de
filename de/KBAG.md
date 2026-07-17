@@ -4,32 +4,36 @@ identifier: "KBAG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1951-08-04"
-last_updated: "2026-04-04"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/kbag/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR004880951"
 slug: "kbag"
 bgbl_reference: "BGBl I 1951, 488"
-stand: "Zuletzt geändert durch Art. 6 G v. 21.11.2023 I Nr. 315"
+stand: "Zuletzt geändert durch Art. 4 G v. 12.5.2026 I Nr. 142"
 ---
 # Gesetz über die Errichtung eines Kraftfahrt-Bundesamtes
 
-##### § 1
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1
 
 (1) Als Bundesoberbehörde für den Straßenverkehr wird das Kraftfahrt-Bundesamt errichtet.
 
 (2) Dem Kraftfahrt-Bundesamt sind Landesbehörden und Prüfstellen nicht unterstellt.
 
-(3) Das Kraftfahrt-Bundesamt untersteht dem Bundesministerium für Digitales und Verkehr. Es bestimmt den Dienstsitz des Kraftfahrt-Bundesamts.
+(3) Das Kraftfahrt-Bundesamt untersteht dem Bundesministerium für Verkehr. Es bestimmt den Dienstsitz des Kraftfahrt-Bundesamts.
 
-##### § 2
+###### § 2
 
 (1) Das Kraftfahrt-Bundesamt übernimmt
 
 1. für Fahrzeuge, die für den Straßenverkehr bestimmt sind,
 
-a) die Typgenehmigung und die Typprüfung von Fahrzeugen und Fahrzeugteilen sowie die EU-Fahrzeug-Einzelgenehmigung,
+a) die Typgenehmigung und die Typprüfung von Fahrzeugen und Fahrzeugteilen, die EU-Fahrzeug-Einzelgenehmigung sowie die Erteilung von Betriebserlaubnissen für Kraftfahrzeuge mit autonomer Fahrfunktion,
 
 b) die Anerkennung von Technischen Diensten, die im Rahmen des Genehmigungsverfahrens Fahrzeuge oder Fahrzeugteile prüfen,
 
@@ -103,15 +107,12 @@ b) auf der Grundlage der Richtlinie 97/68/EG des Europäischen Parlaments und de
 
 (2) Die Aufgaben, die dem Kraftfahrt-Bundesamt durch andere Vorschriften zugewiesen werden, bleiben unberührt.
 
-##### § 3
+###### § 3
 
 -
 
-##### § 4
+###### § 4 (weggefallen)
 
-Das Kraftfahrt-Bundesamt ist ferner zuständig, wenn ihm durch eine Gesetzgebung im Land Berlin Zuständigkeiten in Übereinstimmung mit diesem Gesetz übertragen werden.
-
-##### § 5
+###### § 5
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
-
