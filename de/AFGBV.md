@@ -4,18 +4,22 @@ identifier: "AFGBV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2022-06-24"
-last_updated: "2026-04-04"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/afgbv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR098610022"
 slug: "afgbv"
 bgbl_reference: "BGBl I 2022, 986"
-stand: "Geändert durch Art. 10 V v. 20.7.2023 I Nr. 199"
+stand: "Geändert durch Art. 8 G v. 12.5.2026 I Nr. 142"
 ---
 # Verordnung zur Genehmigung und zum Betrieb von Kraftfahrzeugen mit autonomer Fahrfunktion in festgelegten Betriebsbereichen
 
-##### § 1 Anwendungsbereich; Regelungsgegenstand und Begriffsbestimmungen
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Anwendungsbereich; Regelungsgegenstand und Begriffsbestimmungen
 
 (1) Diese Verordnung ist anzuwenden
 
@@ -43,7 +47,7 @@ stand: "Geändert durch Art. 10 V v. 20.7.2023 I Nr. 199"
 
 (5) § 1k des Straßenverkehrsgesetzes bleibt unberührt.
 
-##### § 2 Betriebserlaubnis; Genehmigung der nachträglichen Aktivierung automatisierter oder autonomer Fahrfunktionen
+###### § 2 Betriebserlaubnis; Genehmigung der nachträglichen Aktivierung automatisierter oder autonomer Fahrfunktionen
 
 (1) Für den Betrieb eines Kraftfahrzeugs mit autonomer Fahrfunktion in festgelegten Betriebsbereichen im öffentlichen Straßenraum ist eine Betriebserlaubnis des Kraftfahrt-Bundesamts nach § 4 Absatz 1 erforderlich.
 
@@ -51,7 +55,7 @@ stand: "Geändert durch Art. 10 V v. 20.7.2023 I Nr. 199"
 
 (3) Genehmigungen nach § 1h Absatz 2 des Straßenverkehrsgesetzes für die nachträgliche Aktivierung von automatisierten oder autonomen Fahrfunktionen werden unter den Voraussetzungen des § 4 Absatz 5 und 6 erteilt.
 
-##### § 3 Antrag auf Erteilung der Betriebserlaubnis durch den Hersteller
+###### § 3 Antrag auf Erteilung der Betriebserlaubnis durch den Hersteller
 
 (1) Der Hersteller hat die Betriebserlaubnis für Kraftfahrzeuge mit autonomer Fahrfunktion beim Kraftfahrt-Bundesamt zu beantragen.
 
@@ -103,7 +107,7 @@ f) von Nachweisen nach Anlage 1 Nummer 12, dass Umweltbedingungen, die im festge
 
 3. ein dem Ergebnis der Risikoabwägung nach Nummer 2 und den Vorgaben des § 1e Absatz 2 Nummer 2 des Straßenverkehrsgesetzes entsprechendes geeignetes Fahrmanöver, insbesondere Brems- oder Ausweichmanöver, durchführen.
 
-##### § 4 Erteilung der Betriebserlaubnis; Erteilung der Genehmigung der nachträglichen Aktivierung automatisierter oder autonomer Fahrfunktionen
+###### § 4 Erteilung der Betriebserlaubnis; Erteilung der Genehmigung der nachträglichen Aktivierung automatisierter oder autonomer Fahrfunktionen
 
 (1) Die Betriebserlaubnis für Kraftfahrzeuge mit autonomer Fahrfunktion wird vom Kraftfahrt-Bundesamt erteilt, wenn
 
@@ -125,7 +129,7 @@ f) von Nachweisen nach Anlage 1 Nummer 12, dass Umweltbedingungen, die im festge
 
 (6) Die nationale Genehmigung für die nachträgliche Aktivierung von automatisierten oder autonomen Fahrfunktionen wird vom Kraftfahrt-Bundesamt erteilt, wenn die vom Kraftfahrt-Bundesamt festgelegten technischen Anforderungen vorliegen.
 
-##### § 5 Marktüberwachung
+###### § 5 Marktüberwachung
 
 (1) Das Kraftfahrt-Bundesamt führt die Aufgaben der Marktüberwachung durch hinsichtlich der nach dieser Verordnung zu genehmigenden und genehmigten Kraftfahrzeuge mit autonomer Fahrfunktion und Fahrzeugteile.
 
@@ -145,7 +149,7 @@ f) von Nachweisen nach Anlage 1 Nummer 12, dass Umweltbedingungen, die im festge
 
 2. dem Kraftfahrt-Bundesamt auf Verlangen die für die Marktüberwachung erforderlichen Unterlagen und Informationen sowie andere technische Spezifikationen unentgeltlich bereitzustellen, wobei die Hersteller auf Verlangen auch einen Zugang zu Software und Algorithmen ermöglichen müssen.
 
-##### § 6 Widerruf und Ruhen der Betriebserlaubnis; Widerruf und Ruhen der Genehmigung der nachträglichen Aktivierung automatisierter oder autonomer Fahrfunktionen
+###### § 6 Widerruf und Ruhen der Betriebserlaubnis; Widerruf und Ruhen der Genehmigung der nachträglichen Aktivierung automatisierter oder autonomer Fahrfunktionen
 
 (1) Das Kraftfahrt-Bundesamt hat eine nach § 4 Absatz 1 erteilte Betriebserlaubnis zu widerrufen, wenn
 
@@ -177,7 +181,7 @@ Das Kraftfahrt-Bundesamt hat die nach § 4 Absatz 6 erteilte Genehmigung zu wide
 
 2. aufgrund einer Anordnung nach Absatz 2 Satz 2 ruht.
 
-##### § 7 Festlegung eines Betriebsbereichs durch Genehmigung
+###### § 7 Festlegung eines Betriebsbereichs durch Genehmigung
 
 (1) Kraftfahrzeuge mit autonomer Fahrfunktion dürfen im öffentlichen Straßenraum nur in einem nach Absatz 2 festgelegten und genehmigten Betriebsbereich im Sinne des § 1d Absatz 2 des Straßenverkehrsgesetzes betrieben werden.
 
@@ -187,7 +191,7 @@ Das Kraftfahrt-Bundesamt hat die nach § 4 Absatz 6 erteilte Genehmigung zu wide
 
 (4) Die Genehmigung wird vorbehaltlich der Rechte anderer erteilt. Die Genehmigung gewährt keinen Anspruch darauf, dass der Betriebsbereich verfügbar ist oder sich die Voraussetzungen, die der Genehmigung des Betriebsbereichs zu Grunde lagen, nicht verändern.
 
-##### § 8 Antrag auf Genehmigung durch den Halter
+###### § 8 Antrag auf Genehmigung durch den Halter
 
 (1) Der Antrag auf Genehmigung eines festgelegten Betriebsbereichs muss enthalten:
 
@@ -211,7 +215,7 @@ b) eine Auskunft aus dem Fahrerlaubnisregister, und
 
 (3) Die zuständige Behörde kann darüber hinaus weitere Angaben vom Halter verlangen, sofern dies für das Verfahren zur Genehmigung eines festgelegten Betriebsbereichs erforderlich ist.
 
-##### § 9 Genehmigungserteilung; Kontrollen
+###### § 9 Genehmigungserteilung; Kontrollen
 
 (1) Die Genehmigung nach § 7 Absatz 2 Satz 2 wird erteilt, wenn
 
@@ -245,7 +249,7 @@ Bei der Feststellung der Geeignetheit des Betriebsbereichs nach Satz 1 bleiben u
 
 (8) Die zuständige Behörde setzt das Kraftfahrt-Bundesamt über jede Erteilung einer Genehmigung eines festgelegten Betriebsbereichs in Bezug auf das jeweilige Kraftfahrzeug mit autonomer Fahrfunktion in Kenntnis.
 
-##### § 10 Widerruf und Ruhen der Genehmigung eines festgelegten Betriebsbereichs
+###### § 10 Widerruf und Ruhen der Genehmigung eines festgelegten Betriebsbereichs
 
 (1) Die zuständige Behörde hat die nach § 9 erteilte Genehmigung zu widerrufen, wenn die zuständige Behörde Kenntnis erlangt, dass
 
@@ -273,7 +277,7 @@ Bei der Feststellung der Geeignetheit des Betriebsbereichs nach Satz 1 bleiben u
 
 2. aufgrund einer Anordnung nach Absatz 4 ruht.
 
-##### § 11 Maßgaben zur Anwendung der Fahrzeug-Zulassungsverordnung
+###### § 11 Maßgaben zur Anwendung der Fahrzeug-Zulassungsverordnung
 
 (1) Für die Zulassung von Kraftfahrzeugen mit autonomer Fahrfunktion zum Verkehr in festgelegten Betriebsbereichen ist die Fahrzeug-Zulassungsverordnung nach Maßgabe der folgenden Absätze anzuwenden.
 
@@ -297,7 +301,7 @@ Mit dem Antrag nach § 6 der Fahrzeug-Zulassungsverordnung ist die Betriebserlau
 
 (7) Besteht für ein zugelassenes Kraftfahrzeug mit autonomer Fahrfunktion keine Genehmigung eines festgelegten Betriebsbereichs nach § 9, so hat der Halter unverzüglich das Fahrzeug nach Maßgabe des § 16 Absatz 1 der Fahrzeug-Zulassungsverordnung, auch in Verbindung mit § 24 der Fahrzeug-Zulassungsverordnung, außer Betrieb setzen zu lassen.
 
-##### § 12 Anforderungen an den Hersteller
+###### § 12 Anforderungen an den Hersteller
 
 (1) Der Hersteller eines Kraftfahrzeugs mit autonomer Fahrfunktion hat
 
@@ -325,7 +329,7 @@ c) die Sicherheit der autonomen Fahrfunktion entsprechend dieses Sicherheitskonz
 
 (3) Der Hersteller eines Kraftfahrzeugs mit autonomer Fahrfunktion darf ein Kraftfahrzeug ohne gültige Betriebserlaubnis nach § 2 Absatz 1 nicht in Verkehr bringen oder veräußern.
 
-##### § 13 Anforderungen an den Halter
+###### § 13 Anforderungen an den Halter
 
 (1) Der Halter hat zur Erfüllung der Pflichten nach § 1f Absatz 1 des Straßenverkehrsgesetzes während des Betriebs des Kraftfahrzeugs mit autonomer Fahrfunktion zu gewährleisten, dass
 
@@ -379,7 +383,7 @@ Setzt der Halter verantwortliche Personen für die Durchführung von Fahrten im 
 
 (9) Der Halter darf ohne eine Genehmigung nach § 4 Absatz 6 die nachträgliche Aktivierung von automatisierten oder autonomen Fahrfunktionen nicht vornehmen.
 
-##### § 14 Anforderungen an die Technische Aufsicht
+###### § 14 Anforderungen an die Technische Aufsicht
 
 (1) Die als Technische Aufsicht eingesetzte natürliche Person muss für die Wahrnehmung ihrer Aufgaben nach § 1f Absatz 2 des Straßenverkehrsgesetzes geeignet sein. Sie ist geeignet, wenn sie
 
@@ -403,15 +407,15 @@ Zur Beurteilung der Zuverlässigkeit im Sinne des Satzes 2 Nummer 4 sind im Rahm
 
 (3) Befindet sich das Kraftfahrzeug mit autonomer Fahrfunktion im risikominimalen Zustand im Sinne des § 1d Absatz 4 des Straßenverkehrsgesetzes, hat die als Technische Aufsicht eingesetzte natürliche Person eine Untersuchung der Auslösung und der Notwendigkeit des risikominimalen Zustands durchzuführen, bevor sie dessen Beendigung veranlassen darf. Das Ergebnis der Untersuchung ist zu dokumentieren. Wurde der risikominimale Zustand durch einen Defekt am Kraftfahrzeug ausgelöst, muss nach Erreichen des risikominimalen Zustands die Fahraufgabe durch die als Technische Aufsicht eingesetzte natürliche Person unter Einhaltung der Anforderungen der Anlage 1 Nummer 4 manuell übernommen werden, bis der auslösende Defekt nachhaltig beseitigt worden ist. Sofern der risikominimale Zustand zu einer Gefährdung der Sicherheit und Leichtigkeit des Verkehrs führt, ist ungeachtet der Sätze 1 und 3 das Kraftfahrzeug mit autonomer Fahrfunktion unverzüglich aus dem Straßenraum zu entfernen. In diesen Fällen erfolgt die Untersuchung der Technischen Aufsicht gemäß Satz 1 im Nachgang des Abtransports auf Grundlage der gespeicherten Fahrdaten.
 
-##### § 15 Datenspeicherung
+###### § 15 Datenspeicherung
 
 (1) Für den Betrieb eines Kraftfahrzeugs mit autonomer Fahrfunktion regelt Anlage 2 zu dieser Verordnung Näheres zu den genauen Zeitpunkten der Datenspeicherung, zu den Parametern der Datenkategorien und zu den Datenformaten.
 
 (2) Die gespeicherten Daten dürfen nur durch das Kraftfahrt-Bundesamt und die zuständige Behörde und nur zum Zweck der Nachprüfung der Erfüllung der Voraussetzungen der Genehmigung und der mit der Genehmigung verbundenen Überwachungspflichten erhoben, gespeichert und verwendet werden.
 
-##### § 16 Erprobungsgenehmigung
+###### § 16 Erprobungsgenehmigung
 
-(1) Kraftfahrzeuge, die zur Erprobung von Fahrzeugsystemen oder -teilen und deren Entwicklungsstufen für die Entwicklung automatisierter oder autonomer Fahrfunktionen dienen, dürfen im öffentlichen Straßenraum nur betrieben werden, wenn für das entsprechende Kraftfahrzeug eine Erprobungsgenehmigung des Kraftfahrt-Bundesamts nach § 1i des Straßenverkehrsgesetzes vorliegt. Die Erprobungsgenehmigung nach Satz 1 umfasst auch die Genehmigung zur Erprobung aller Teile, Systeme oder Einheiten des Kraftfahrzeugs. § 19 Absatz 6 der Straßenverkehrs-Zulassungs-Ordnung ist nicht anzuwenden.
+(1) Kraftfahrzeuge, die zur Erprobung oder Entwicklung automatisierter oder autonomer Fahrfunktionen dienen, dürfen im öffentlichen Straßenraum nur betrieben werden, wenn für das entsprechende Kraftfahrzeug eine Erprobungsgenehmigung des Kraftfahrt-Bundesamts nach § 1i des Straßenverkehrsgesetzes vorliegt. Die Erprobungsgenehmigung nach Satz 1 umfasst auch die Genehmigung zur Erprobung aller Teile, Systeme oder Einheiten des Kraftfahrzeugs. § 19 Absatz 6 der Straßenverkehrs-Zulassungs-Ordnung ist nicht anzuwenden.
 
 (2) Die Erprobungsgenehmigung ist zu befristen und darf einen Geltungszeitraum von vier Jahren im Regelfall nicht überschreiten. Sie ist jeweils für weitere zwei Jahre zu verlängern, wenn die Voraussetzungen der Genehmigungserteilung weiter fortbestehen und der bisherige Verlauf der Erprobung einer Verlängerung nicht entgegensteht. Sollten Dritte gegen die Erprobungsgenehmigung oder deren Verlängerung Rechtsbehelfe einlegen, verlängert sich die Geltungsdauer der Erprobungsgenehmigung um die Anzahl der Tage, an denen der Rechtsbehelf aufschiebende Wirkung entfaltet.
 
@@ -457,11 +461,13 @@ ff) die Geschwindigkeit,
 
 (4) Das Kraftfahrt-Bundesamt ist berechtigt, die zur Beurteilung der Sicherheit im Straßenverkehr und des technischen Fortschritts sowie zur evidenzbasierten Entwicklung der Regulierung von Entwicklungsstufen automatisierter oder autonomer Fahrfunktionen erforderlichen Daten ausschließlich als nicht personenbezogene Daten zu erheben, zu speichern und zu verwenden. Die Daten sind spätestens nach Abschluss der Evaluierung nach § 1l Satz 1 des Straßenverkehrsgesetzes zu löschen.
 
-(5) Das Kraftfahrt-Bundesamt kann zum Zweck der Erprobung von Fahrzeugsystemen oder -teilen und deren Entwicklungsstufen für die Entwicklung automatisierter oder autonomer Fahrfunktionen Ausnahmen genehmigen von
+(5) Das Kraftfahrt-Bundesamt kann zum Zweck der Erprobung oder Entwicklung automatisierter oder autonomer Fahrfunktionen Ausnahmen genehmigen von
 
 1. den Vorschriften der §§ 1a und 1e des Straßenverkehrsgesetzes,
 
-2. dieser Verordnung mit Ausnahme von den §§ 15 und 16 und der Straßenverkehrs-Zulassungs-Ordnung.
+2. dieser Verordnung mit Ausnahme von den §§ 15 und 16 und
+
+3. der Straßenverkehrs-Zulassungs-Ordnung.
 
 (6) Die Erprobungsgenehmigung ist bei Fahrten mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
 
@@ -469,7 +475,7 @@ ff) die Geschwindigkeit,
 
 (8) Die Verfahren nach Abschnitt 3 Unterabschnitt 3 der Fahrzeug-Zulassungsverordnung sowie § 11 sind nicht anzuwenden.
 
-##### § 17 Ordnungswidrigkeiten
+###### § 17 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -483,11 +489,11 @@ Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt
 
 5. entgegen § 13 Absatz 9 eine Aktivierung vornimmt.
 
-##### § 18 Übergangsvorschriften
+###### § 18 Übergangsvorschriften
 
 Können im Rahmen des Zulassungsverfahrens nach § 11 in Verbindung mit § 6 Absatz 8 der Fahrzeug-Zulassungsverordnung und der Erteilung der Erprobungsgenehmigung nach § 16 die für die Zulassung vorzulegenden Fahrzeugdaten und der Hinweis auf die Erprobungsgenehmigung nach § 16 Absatz 7 von der zuständigen Zulassungsbehörde nicht in den Fahrzeugregistern gespeichert werden oder die Angaben nach § 11 Absatz 3 und § 16 Absatz 7 nicht in die Zulassungsbescheinigung Teil I eingetragen werden, sind die jeweiligen Speicherungen und Eintragungen innerhalb von sechs Kalendermonaten nach dem 1. Juli 2022 nachzuholen.
 
-##### Anlage 1 Anforderungen an Kraftfahrzeuge mit autonomer Fahrfunktion
+###### Anlage 1 Anforderungen an Kraftfahrzeuge mit autonomer Fahrfunktion
 
 (Fundstelle: BGBl. I 2022, 996 - 1006)
 
@@ -667,7 +673,7 @@ Anforderungen
 
 **16.** **Sicherheit der Funkverbindungen** Die Verbindungen sind so auszuführen, dass der Schutz gegen einen unerlaubten Zugriff auf die Verbindungen die Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 umsetzt. Der Aufbau der Verbindung und die Datenübertragung sind nach dem Stand der Technik mit der Nutzung offener und etablierter Standards zu sichern und zu verschlüsseln (beispielsweise mit TLS 1.3 wie in der Technische Richtlinie TR-02102-2 Kryptographische Verfahren: Empfehlungen und Schlüssellängen, herausgegeben vom Bundesamt für Sicherheit in der Informationstechnik im Januar 2020 und auf der Internetseite des Bundesamt für Sicherheit in der Informationstechnik veröffentlicht).
 
-##### Anlage 2 Datenspeicherung
+###### Anlage 2 Datenspeicherung
 
 (Fundstelle: BGBl. I 2022, 1007)
 
@@ -684,7 +690,7 @@ Während des Betriebs sind bei den in § 1g Absatz 2 des Straßenverkehrsgesetze
  Blinken an/aus
  Tagfahrlicht an/aus12.Spannungsversorgung des autonomen KraftfahrzeugsNummerischer Wert in Volt13.Von extern an das Fahrzeug gesendete Befehle und InformationenGesendetes Format der Befehle sowie Metadaten zu Informationen: Dateigröße, Dateiformat, Quelle, Ziel, Übertragungszeit
 
-##### Anlage 3 Dokumentationspflichten des Herstellers
+###### Anlage 3 Dokumentationspflichten des Herstellers
 
 (Fundstelle: BGBl. I 2022, 1008)
 
@@ -725,4 +731,3 @@ Während des Betriebs sind bei den in § 1g Absatz 2 des Straßenverkehrsgesetze
 **3.** **Sicherheitskonzept** Die Dokumentation des Sicherheitskonzepts nach Anlage 1 Nummer 7.2 soll die Prüfung der funktionalen Sicherheit ermöglichen.
 
 **4.** **Sicherheit im Bereich der Informationstechnologie** Die Dokumentation muss die Prüfung der Sicherheit im Bereich der Informationstechnologie ermöglichen und eine detaillierte Beschreibung in Bezug auf die Gewährleistung des Datenschutzes und der Datensicherheit enthalten, insbesondere hinsichtlich der Beachtung der Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679.
-
