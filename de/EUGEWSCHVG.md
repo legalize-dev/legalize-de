@@ -4,28 +4,33 @@ identifier: "EUGEWSCHVG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2014-12-05"
-last_updated: "2026-04-04"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/eugewschvg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR196410014"
 slug: "eugewschvg"
 bgbl_reference: "BGBl I 2014, 1964"
-hinweis: "Geändert durch Art. 5 G v. 10.8.2021 I 3424"
+stand: "Geändert durch Art. 5 G v. 10.8.2021 I 3424"
+hinweis: "Änderung durch Art. 6 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Gesetz zum Europäischen Gewaltschutzverfahren
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ## Abschnitt 1 Allgemeine Verfahrensvorschrift
 
-##### § 1 Anwendung der Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
+###### § 1 Anwendung der Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
 
 Verfahren nach den Abschnitten 2 und 3 dieses Gesetzes sind Familiensachen. Auf diese Verfahren sind die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden, soweit nachfolgend oder in der Verordnung (EU) Nr. 606/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über die gegenseitige Anerkennung von Schutzmaßnahmen in Zivilsachen (ABl. L 181 vom 29.6.2013, S. 4) nichts Abweichendes bestimmt ist.
 
 ## Abschnitt 2 Anerkennung und Vollstreckung nach der Richtlinie 2011/99/EU
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 Im Sinne dieses Abschnitts ist
 
@@ -41,7 +46,11 @@ Im Sinne dieses Abschnitts ist
 
 6. gefährdende Person eine natürliche Person, vor der die geschützte Person durch eine Europäische Schutzanordnung geschützt wird.
 
-##### § 3 Entgegennahme und Übermittlung eines Antrags auf Erlass einer Europäischen Schutzanordnung
+###### § 2a Gestattung der Anhörung mittels Videokonferenz oder Fernkommunikation
+
+Für Ersuchen der Anordnungsbehörde eines anderen Mitgliedstaats um Gestattung der Anhörung einer Person mittels Videokonferenz oder Fernkommunikation nach Artikel 6 Absatz 1 Buchstabe e der Verordnung (EU) 2023/2844 ist das Familiengericht ausschließlich zuständig, in dessen Bezirk sich die anzuhörende Person aufhält.
+
+###### § 3 Entgegennahme und Übermittlung eines Antrags auf Erlass einer Europäischen Schutzanordnung
 
 (1) Für die Entgegennahme eines Antrags auf Erlass einer Europäischen Schutzanordnung ist das Familiengericht ausschließlich zuständig, in dessen Bezirk sich die geschützte Person aufhält.
 
@@ -49,7 +58,7 @@ Im Sinne dieses Abschnitts ist
 
 (3) Das Gericht übermittelt den Antrag auf Erlass einer Europäischen Schutzanordnung unverzüglich an die Anordnungsbehörde.
 
-##### § 4 Verfahren der Anerkennung einer Europäischen Schutzanordnung
+###### § 4 Verfahren der Anerkennung einer Europäischen Schutzanordnung
 
 (1) Für die Anerkennung einer Europäischen Schutzanordnung ist das Familiengericht ausschließlich zuständig, in dessen Bezirk sich die geschützte Person aufhält.
 
@@ -57,15 +66,17 @@ Im Sinne dieses Abschnitts ist
 
 (3) Enthält die Europäische Schutzanordnung nicht mindestens die Angaben gemäß § 6 Nummer 1 in deutscher Sprache, unterrichtet das Gericht die Anordnungsbehörde hierüber unverzüglich in schriftlicher Form und setzt ihr eine angemessene Frist zur Vervollständigung.
 
-##### § 5 Zuständigkeitskonzentration
+###### § 5 Zuständigkeitskonzentration; Verordnungsermächtigungen
 
 (1) In Verfahren über eine in den §§ 3 und 4 bezeichnete Sache ist das Familiengericht zuständig, in dessen Bezirk ein Oberlandesgericht seinen Sitz hat, für den Bezirk dieses Oberlandesgerichts.
 
 (2) Im Bezirk des Kammergerichts entscheidet das Familiengericht Pankow.
 
-(3) Die Landesregierungen werden ermächtigt, diese Zuständigkeit durch Rechtsverordnungen einem anderen Familiengericht des Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere Oberlandesgerichte errichtet sind, einem Familiengericht für die Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Sie können die Ermächtigungen auf die Landesjustizverwaltungen übertragen.
+(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung diese Zuständigkeit einem anderen Familiengericht des Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere Oberlandesgerichte errichtet sind, einem Familiengericht für die Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Diese Ermächtigung kann von der jeweiligen Landesregierung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen werden.
 
-##### § 6 Versagung der Anerkennung einer Europäischen Schutzanordnung
+(4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Zuständigkeit nach § 2a einem in den Absätzen 1 oder 2 oder einem durch Rechtsverordnung nach Absatz 3 bezeichneten Familiengericht zuzuweisen. Diese Ermächtigung kann von der jeweiligen Landesregierung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen werden.
+
+###### § 6 Versagung der Anerkennung einer Europäischen Schutzanordnung
 
 Die Anerkennung kann nur versagt werden, wenn
 
@@ -105,7 +116,7 @@ c) das Verbot, sich der geschützten Person auf eine geringere als die festgeleg
 
 4. der gefährdenden Person vor dem Erlass der Europäischen Schutzanordnung kein rechtliches Gehör gewährt worden ist oder sie kein Recht zur Anfechtung der Schutzmaßnahme gehabt hat, sofern ihr diese Rechte nicht bereits in dem zum Erlass der Schutzmaßnahme führenden Verfahren gewährt worden sind.
 
-##### § 7 Entscheidung über die Anerkennung einer Europäischen Schutzanordnung
+###### § 7 Entscheidung über die Anerkennung einer Europäischen Schutzanordnung
 
 (1) Das Gericht entscheidet unverzüglich über die Anerkennung der Europäischen Schutzanordnung. Die Entscheidung ergeht durch Beschluss ohne Anhörung der gefährdenden Person.
 
@@ -115,17 +126,17 @@ c) das Verbot, sich der geschützten Person auf eine geringere als die festgeleg
 
 2. die geschützte Person über die Möglichkeit, den Erlass einer Anordnung nach dem Gewaltschutzgesetz zu beantragen.
 
-##### § 8 Beschwerde gegen die Ablehnung der Anerkennung einer Europäischen Schutzanordnung
+###### § 8 Beschwerde gegen die Ablehnung der Anerkennung einer Europäischen Schutzanordnung
 
 Gegen die Entscheidung, mit der die Anerkennung abgelehnt wird, findet die Beschwerde statt. Die Entscheidung, mit der die Europäische Schutzanordnung anerkannt wird, ist nicht anfechtbar.
 
-##### § 9 Maßnahmen nach Anerkennung einer Europäischen Schutzanordnung
+###### § 9 Maßnahmen nach Anerkennung einer Europäischen Schutzanordnung
 
 (1) Erkennt das Gericht die Europäische Schutzanordnung an, so erlässt es zugleich eine geeignete Maßnahme nach § 1 des Gewaltschutzgesetzes, die in höchstmöglichem Maße der angeordneten Schutzmaßnahme entspricht. § 3 des Gewaltschutzgesetzes gilt entsprechend.
 
 (2) Das Gericht unterrichtet die geschützte Person, die gefährdende Person und die Anordnungsbehörde über die nach Absatz 1 erlassene Maßnahme und über die möglichen Rechtsfolgen eines Verstoßes. Die Anschrift oder andere Kontaktangaben der geschützten Person werden der gefährdenden Person nicht offengelegt, es sei denn, diese Angaben sind für die Vollstreckung der gemäß Absatz 1 erlassenen Maßnahme notwendig. § 216a des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit bleibt unberührt.
 
-##### § 10 Verstoß gegen eine nach § 9 Absatz 1 erlassene Maßnahme
+###### § 10 Verstoß gegen eine nach § 9 Absatz 1 erlassene Maßnahme
 
 (1) Erlangt das Gericht Kenntnis von einem Verstoß gegen eine nach § 9 Absatz 1 erlassene Maßnahme, unterrichtet es hierüber folgende Behörden unter Verwendung des nach Absatz 3 eingeführten Formblatts:
 
@@ -139,7 +150,7 @@ Das ausgefüllte Formblatt ist in die Amtssprache oder eine der Amtssprachen des
 
 (3) Für die Unterrichtung nach Absatz 1 wird das in der Anlage bestimmte Formblatt eingeführt.
 
-##### § 11 Aufhebung einer nach § 9 Absatz 1 erlassenen Maßnahme
+###### § 11 Aufhebung einer nach § 9 Absatz 1 erlassenen Maßnahme
 
 (1) Unterrichtet die Anordnungsbehörde das Gericht von der Aufhebung der Europäischen Schutzanordnung, hebt das Gericht auch die aufgrund der Europäischen Schutzanordnung nach § 9 Absatz 1 erlassene Maßnahme unverzüglich auf.
 
@@ -153,7 +164,7 @@ Das ausgefüllte Formblatt ist in die Amtssprache oder eine der Amtssprachen des
 
 (3) Wird eine Maßnahme, die nach § 9 Absatz 1 erlassen wurde, gemäß Absatz 2 aufgehoben, setzt das Gericht die Anordnungsbehörde, die geschützte Person und die gefährdende Person hiervon unverzüglich in Kenntnis.
 
-##### § 12 Änderung einer nach § 9 Absatz 1 erlassenen Maßnahme
+###### § 12 Änderung einer nach § 9 Absatz 1 erlassenen Maßnahme
 
 (1) Unterrichtet die Anordnungsbehörde das Gericht von der Änderung der Europäischen Schutzanordnung, so ändert das Gericht auch die auf deren Grundlage nach § 9 Absatz 1 erlassene Maßnahme unter Beachtung von § 9 Absatz 1 ab.
 
@@ -165,7 +176,7 @@ Das ausgefüllte Formblatt ist in die Amtssprache oder eine der Amtssprachen des
 
 ## Unterabschnitt 1 Begriffsbestimmungen
 
-##### § 13 Begriffsbestimmungen
+###### § 13 Begriffsbestimmungen
 
 Im Sinne dieses Abschnitts ist
 
@@ -177,29 +188,29 @@ Im Sinne dieses Abschnitts ist
 
 ## Unterabschnitt 2 Bescheinigungen zu inländischen Entscheidungen
 
-##### § 14 Zuständigkeit
+###### § 14 Zuständigkeit
 
 Für die Ausstellung der Bescheinigungen nach Artikel 5 Absatz 1 und Artikel 14 Absatz 1 der Verordnung (EU) Nr. 606/2013 sind die Gerichte zuständig, denen die Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
 
-##### § 15 Verfahren
+###### § 15 Verfahren
 
 Die Bescheinigung nach Artikel 5 Absatz 1 der Verordnung (EU) Nr. 606/2013 ist ohne Anhörung der gefährdenden Person auszustellen. Die Zustellung an die gefährdende Person richtet sich nach Artikel 8 der Verordnung (EU) Nr. 606/2013.
 
-##### § 16 Berichtigung und Aufhebung von Bescheinigungen
+###### § 16 Berichtigung und Aufhebung von Bescheinigungen
 
 Für die Berichtigung und die Aufhebung der gemäß Artikel 5 Absatz 1 der Verordnung (EU) Nr. 606/2013 ausgestellten Bescheinigung nach Artikel 9 der Verordnung (EU) Nr. 606/2013 gilt § 42 Absatz 2 und 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
 
 ## Unterabschnitt 3 Anerkennung und Vollstreckung ausländischer Titel im Inland
 
-##### § 17 Entbehrlichkeit der Vollstreckungsklausel
+###### § 17 Entbehrlichkeit der Vollstreckungsklausel
 
 Aus einem Titel, der in einem anderen Mitgliedstaat gemäß Artikel 4 der Verordnung (EU) Nr. 606/2013 vollstreckbar ist, findet die Zwangsvollstreckung im Inland statt, ohne dass es einer Vollstreckungsklausel bedarf.
 
-##### § 18 Übersetzung oder Transliteration
+###### § 18 Übersetzung oder Transliteration
 
 Hat die geschützte Person nach Artikel 4 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 606/2013 eine Übersetzung oder eine Transliteration vorzulegen, so ist diese in deutscher Sprache abzufassen.
 
-##### § 19 Örtliche Zuständigkeit
+###### § 19 Örtliche Zuständigkeit
 
 Für die Zwangsvollstreckung ist das Familiengericht ausschließlich örtlich zuständig, in dessen Zuständigkeitsbezirk
 
@@ -209,7 +220,7 @@ Für die Zwangsvollstreckung ist das Familiengericht ausschließlich örtlich zu
 
 Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow.
 
-##### § 20 Anpassung eines ausländischen Titels
+###### § 20 Anpassung eines ausländischen Titels
 
 (1) Das Gericht passt den ausländischen Titel nach Artikel 11 der Verordnung (EU) Nr. 606/2013 an, soweit dies erforderlich ist, um ihm Wirkung zu verleihen.
 
@@ -219,7 +230,7 @@ Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow.
 
 (4) Gegen die Entscheidung findet die Beschwerde statt.
 
-##### § 21 Versagung der Anerkennung oder der Vollstreckung
+###### § 21 Versagung der Anerkennung oder der Vollstreckung
 
 (1) Für Anträge auf Versagung der Anerkennung oder der Vollstreckung (Artikel 13 Absatz 1 der Verordnung (EU) Nr. 606/2013) ist das in § 19 bestimmte Gericht zuständig.
 
@@ -229,21 +240,21 @@ Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow.
 
 (4) Gegen die Entscheidung findet die Beschwerde statt.
 
-##### § 22 Wegfall oder Beschränkung der Vollstreckbarkeit im Ursprungsmitgliedstaat
+###### § 22 Wegfall oder Beschränkung der Vollstreckbarkeit im Ursprungsmitgliedstaat
 
 Legt die gefährdende Person oder die geschützte Person eine Bescheinigung gemäß Artikel 14 Absatz 1 der Verordnung (EU) Nr. 606/2013 vor, so ist die Zwangsvollstreckung gemäß § 95 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit in Verbindung mit § 775 Nummer 1 und 2 sowie § 776 der Zivilprozessordnung einzustellen oder zu beschränken.
 
-##### § 23 Vollstreckungsabwehrantrag
+###### § 23 Vollstreckungsabwehrantrag
 
 Der Antrag nach § 95 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit in Verbindung mit § 767 der Zivilprozessordnung ist bei dem in § 19 bestimmten Gericht zu stellen.
 
 ## Abschnitt 4 Strafvorschriften
 
-##### § 24 Strafvorschriften
+###### § 24 Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer einer bestimmten vollstreckbaren Anordnung nach § 9 Absatz 1 dieses Gesetzes in Verbindung mit § 1 Absatz 1 Satz 1 oder Satz 3 des Gewaltschutzgesetzes, jeweils auch in Verbindung mit § 1 Absatz 2 Satz 1 des Gewaltschutzgesetzes, zuwiderhandelt. Die Strafbarkeit nach anderen Vorschriften bleibt unberührt.
 
-##### Anlage (zu § 10 Absatz 3)Formblatt zur Meldung eines Verstoßes gegen eine aufgrund der Europäischen Schutzanordnung erlassene Maßnahme
+###### Anlage (zu § 10 Absatz 3)Formblatt zur Meldung eines Verstoßes gegen eine aufgrund der Europäischen Schutzanordnung erlassene Maßnahme
 
 (Fundstelle: BGBl. I 2014, 1969 - 1971)
 
@@ -252,4 +263,3 @@ Die in diesem Formblatt enthaltenen Daten sind vertraulich zu behandeln.
 1Nähere Angaben zu der gefährdenden Person1.1Familienname:1.2Vorname(n):1.3Ggf. Geburtsname oder früherer Name:1.4Ggf. Aliasname(n):1.5Geschlecht:1.6Staatsangehörigkeit:1.7Kennnummer oder Sozialversicherungsnummer (sofern vorhanden):1.8Geburtsdatum:1.9Geburtsort:1.10Anschrift:1.11Sprache oder Sprachen, die die gefährdende Person versteht (sofern bekannt):2Nähere Angaben zu der geschützten Person2.1Familienname:2.2Vorname(n):2.3Ggf. Geburtsname oder früherer Name:2.4Geschlecht:2.5Staatsangehörigkeit:2.6Geburtsdatum:2.7Geburtsort:2.8Anschrift:2.9Sprache oder Sprachen, die die geschützte Person versteht (sofern bekannt):3Nähere Angaben zu der Europäischen Schutzanordnung3.1Die Anordnung wurde erlassen am:3.2Aktenzeichen (sofern vorhanden):3.3Behörde, die die Anordnung erlassen hat3.3.1Offizielle Bezeichnung:3.3.2Anschrift:4Behörde, die für die Vollstreckung einer Schutzmaßnahme zuständig ist, die eventuell im ausführenden Staat erlassen worden ist4.1Offizielle Bezeichnung:4.2Zu kontaktierende Person4.2.1Name:4.2.2Funktion (Verwendungsbezeichnung/Dienstrang):4.2.3Vollständige Anschrift:4.2.4Telefonnummer (Ländervorwahl) (Regional-/Ortsnetzkennzahl) (Nummer):4.2.5Faxnummer (Ländervorwahl) (Regional-/Ortsnetzkennzahl) (Nummer):4.2.6E-Mail:4.2.7Sprachen, die für die Verständigung genutzt werden können:5Verstoß gegen das/die von den zuständigen Behörden des vollstreckenden Staates nach Anerkennung der Europäischen Schutzanordnung auferlegte(n) Verbot(e) oder Beschränkung(en) und/oder sonstige Erkenntnisse, die eine weitere Entscheidung nach sich ziehen könnten5.1Der Verstoß betrifft das/die folgende(n) Verbot(e) oder Beschränkung(en) (Mehrfachwahl möglich):–ein Verbot des Betretens bestimmter Räumlichkeiten, Orte oder festgelegter Gebiete, in beziehungsweise an denen sich die geschützte Person aufhält oder die sie aufsucht;–ein Verbot oder eine Regelung jeglicher Form der Kontaktaufnahme – auch telefonisch, auf elektronischem Weg oder per Post oder Fax oder mit anderen Mitteln – mit der geschützten Person;–ein Verbot, sich der geschützten Person auf eine geringere als die festgelegte Entfernung zu nähern, oder eine entsprechende Regelung;–andere von den zuständigen Behörden des vollstreckenden Staates nach Anerkennung der Europäischen Schutzanordnung getroffene Maßnahmen, die sich auf die Schutzmaßnahme beziehen, die der Europäischen Schutzanordnung zugrunde liegt.5.2Beschreibung des Verstoßes/der Verstöße (Ort, Datum und nähere Umstände):5.3Maßnahmen, die im vollstreckenden Staat infolge des Verstoßes ergriffen wurden:5.4Mögliche Rechtsfolgen des Verstoßes im Vollstreckungsstaat:5.5Sonstige Erkenntnisse, die eine weitere Entscheidung nach sich ziehen könnten, und Beschreibung dieser Erkenntnisse:6Nähere Angaben zu der im vollstreckenden Staat zu kontaktierenden Person, falls zusätzliche Informationen zu dem Verstoß eingeholt werden sollen6.1Familienname:6.2Vorname(n):6.3Anschrift:6.4Telefonnummer (Ländervorwahl) (Regional-/Ortsnetzkennzahl) (Nummer):6.5Faxnummer (Ländervorwahl) (Regional-/Ortsnetzkennzahl) (Nummer):6.6E-Mail:6.7Sprachen, die für die Verständigung genutzt werden können:7Unterzeichnender7.1Name:7.2Funktion (Verwendungsbezeichnung/Dienstrang):
 
 Datum:Unterschrift des Vertreters der das Formblatt ausstellenden Behörde zur Bestätigung der Richtigkeit des Inhalts des Formblatts:(Gegebenenfalls) Dienststempel:
-
