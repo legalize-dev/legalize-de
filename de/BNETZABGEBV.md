@@ -4,22 +4,27 @@ identifier: "BNETZABGEBV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2021-08-19"
-last_updated: "2026-04-04"
+last_updated: "2026-07-21"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bnetzabgebv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR371500021"
 slug: "bnetzabgebv"
 bgbl_reference: "BGBl I 2021, 3715"
 stand: "Zuletzt geändert durch Art. 2 V v. 17.2.2025 I Nr. 42"
+hinweis: "Änderung durch Art. 2 G v. 21.7.2026 I Nr. 210a textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium für Wirtschaft und Energie:
 
-##### § 1 Erhebung von Gebühren und Auslagen
+###### § 1 Erhebung von Gebühren und Auslagen
 
 (1) Die Bundesnetzagentur erhebt in ihrem Zuständigkeitsbereich nach Maßgabe dieser Verordnung Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die aufgrund der folgenden Rechtsvorschriften erbracht werden:
 
@@ -45,37 +50,37 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 11. KWK-Ausschreibungsverordnung vom 10. August 2017 (BGBl. I S. 3167), die zuletzt durch Artikel 6 des Gesetzes vom 14. Juli 2021 (BGBl. I S. 2860) geändert worden ist, in der jeweils geltenden Fassung,
 
-12. Verordnung zu den gemeinsamen Ausschreibungen vom 10. August 2017 (BGBl. I S. 3167, 3180) in der Fassung vom 20. Januar 2020 (BGBl. I S. 106),
+12. Innovationsausschreibungsverordnung vom 20. Januar 2020 (BGBl. I S. 106), die zuletzt durch Artikel 11c des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-13. Innovationsausschreibungsverordnung vom 20. Januar 2020 (BGBl. I S. 106), die zuletzt durch Artikel 11c des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
+13. Grenzüberschreitende-Erneuerbare-Energien-Verordnung vom 10. August 2017 (BGBl. I S. 3102), die zuletzt durch Artikel 12 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3138) geändert worden ist, in der jeweils geltenden Fassung,
 
-14. Grenzüberschreitende-Erneuerbare-Energien-Verordnung vom 10. August 2017 (BGBl. I S. 3102), die zuletzt durch Artikel 12 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3138) geändert worden ist, in der jeweils geltenden Fassung,
+14. Kohleverstromungsbeendigungsgesetz vom 8. August 2020 (BGBl. I S. 1818), das zuletzt durch Artikel 13 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-15. Kohleverstromungsbeendigungsgesetz vom 8. August 2020 (BGBl. I S. 1818), das zuletzt durch Artikel 13 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
+15. Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 11 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-16. Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 11 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
+16. Messstellenbetriebsgesetz vom 29. August 2016 (BGBl. I S. 2034), das zuletzt durch Artikel 10 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-17. Messstellenbetriebsgesetz vom 29. August 2016 (BGBl. I S. 2034), das zuletzt durch Artikel 10 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden Fassung,
+17. Datennutzungsgesetz vom 16. Juli 2021 (BGBl. I S. 2941, 2942, 4114) in der jeweils geltenden Fassung,
 
-18. Datennutzungsgesetz vom 16. Juli 2021 (BGBl. I S. 2941, 2942, 4114) in der jeweils geltenden Fassung,
+18. Strompreisbremsegesetz vom 20. Dezember 2022 (BGBl. I S. 2512), das zuletzt durch Artikel 12a des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 405) geändert worden ist, in der jeweils geltenden Fassung,
 
-19. Strompreisbremsegesetz vom 20. Dezember 2022 (BGBl. I S. 2512), das zuletzt durch Artikel 12a des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 405) geändert worden ist, in der jeweils geltenden Fassung.
+19. Strom-Versorgungssicherheits-und-Kapazitätengesetz vom 21. Juli 2026 (BGBl. 2026 I Nr. 210a) in der jeweils geltenden Fassung.
 
 (2) Die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die von der Bundesnetzagentur aufgrund anderer als der in Absatz 1 genannten Rechtsvorschriften erbracht werden, wird durch diese Verordnung nicht ausgeschlossen.
 
-##### § 2 Höhe der Gebühren und Auslagen
+###### § 2 Höhe der Gebühren und Auslagen
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren- und Auslagenverzeichnis der Anlage.
 
 (2) Die nach dem Gebühren- und Auslagenverzeichnis zu erhebenden Gebühren und Auslagen umfassen jeweils auch die Kosten für die Festsetzung der Gebühren und Auslagen.
 
-##### § 3 Auslagen
+###### § 3 Auslagen
 
 (1) Neben den in § 12 Absatz 1 Satz 1 des Bundesgebührengesetzes genannten Auslagen werden nur die Auslagen nach § 12 Absatz 2 Nummer 2 des Bundesgebührengesetzes gesondert erhoben, die im Gebühren- und Auslagenverzeichnis aufgeführt sind.
 
 (2) Wird eine individuell zurechenbare öffentliche Leistung nach § 9 Absatz 4 des Bundesgebührengesetzes gebührenfrei erbracht, werden keine Auslagen erhoben. Ergeht im Einzelfall eine Gebührenermäßigung nach § 9 Absatz 5 des Bundesgebührengesetzes, kann auf die Erhebung von Auslagen verzichtet oder können die Auslagen in dem Umfang ermäßigt werden, wie es dem Umfang der eingeräumten Gebührenermäßigung entspricht.
 
-##### § 4 Gebührenbefreiung und -ermäßigung
+###### § 4 Gebührenbefreiung und -ermäßigung
 
 (1) Behörden und Organisationen mit Sicherheitsaufgaben sowie vergleichbare Organisationen sind, soweit nicht bereits nach § 8 Absatz 1 und 2 des Bundesgebührengesetzes Gebührenfreiheit besteht, für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur von der Zahlung von Gebühren befreit, wenn diese die individuell zurechenbare öffentliche Leistung zur Erfüllung ihrer Aufgaben benötigen, die ihnen aufgrund eines Gesetzes oder durch öffentlich-rechtliche Vereinbarung übertragen worden sind. Zuständig für die Feststellung der Vergleichbarkeit nach Satz 1 ist das Bundesministerium des Innern, für Bau und Heimat. Satz 1 ist auch anzuwenden für die in § 4 der Funkrichtlinie Digitalfunk BOS – Anerkennungsrichtlinie – vom 7. Juli 2021 (GMBl 2021, S. 999) und in § 3 der Allgemeinen Verwaltungsvorschrift für die Bestimmungen zur Nutzung und den Betrieb allgemeiner sowie spezialisierter Funkanwendungen der Behörden und Organisationen mit Sicherheitsaufgaben (Funkrichtlinie Funkanwendungen BOS) vom 8. Juli 2024 (BAnz AT 17.07.2024 B2) in der jeweils geltenden Fassung genannten Berechtigten.
 
@@ -113,7 +118,7 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 (8) 75 Prozent der für die individuell zurechenbare öffentliche Leistung nach der Anlage Abschnitt 8 Nummer 9 vorgesehenen Gebühr werden erhoben, wenn der Antrag nach § 100 Absatz 15 des Erneuerbare-Energien-Gesetzes in der bis zum Ablauf des 31. Dezember 2022 geltenden Fassung auf Verlängerung der Frist abgelehnt worden ist.
 
-##### § 5 Zeitgebühr
+###### § 5 Zeitgebühr
 
 (1) Für den Zeitaufwand von Verwaltungsbeschäftigten der Bundesnetzagentur des mittleren, des gehobenen und des höheren Dienstes gelten die Stundensätze nach Anlage 1 Teil A Abschnitt 1 Nummer 1 der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung.
 
@@ -135,13 +140,13 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 8. Einsatz stationärer Messtechnik, einschließlich des Personaleinsatzes und der messtechnischen Einrichtungen: 110,20 Euro.
 
-##### § 6 Übergangsregelung
+###### § 6 Übergangsregelung
 
 (1) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, sind die bis einschließlich zum 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden.
 
 (2) Auf Gebührenbescheide, die vor dem 1. April 2025 unanfechtbar geworden sind, ist § 4 Absatz 2 nicht anzuwenden.
 
-##### § 7 Inkrafttreten; Außerkrafttreten
+###### § 7 Inkrafttreten; Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft. Gleichzeitig treten außer Kraft:
 
@@ -153,7 +158,7 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft. Gleichzeitig treten außer K
 
 4. die EEG- und Ausschreibungsgebührenverordnung vom 6. Februar 2015 (BGBl. I S. 108, 120), die zuletzt durch Artikel 11a des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) geändert worden ist.
 
-##### Anlage Gebühren- und Auslagenverzeichnis
+###### Anlage Gebühren- und Auslagenverzeichnis
 
 (Fundstelle: BGBl. 2025 I Nr. 42, S. 3 - 7)
 
@@ -183,8 +188,8 @@ in tatsächlich entstandener Höhe5Maßnahmen zur Ermittlung oder Beseitigung vo
 **Abschnitt 7: Post- und Telekommunikationssicherstellungsgesetz (PTSG)**NummerGebühren- oder AuslagentatbestandGebühren/Auslagen
  in Euro1Maßnahme zur Durchsetzung von Verpflichtungen nach § 10 PTSGnach Zeitaufwand
 
-Abschnitt 8: Erneuerbare-Energien-Gesetz, KWK-Ausschreibungsverordnung (KWKAusV), Verordnung zu den gemeinsamen Ausschreibungen (GemAV), Innovationsausschreibungsverordnung (InnAusV), Grenzüberschreitende-Erneuerbare-Energien-Verordnung (GEEV) NummerGebühren- oder AuslagentatbestandGebühren/Auslagen
- in Euro1Durchführung eines Zuschlagsverfahrens –für Solaranlagen des ersten Segments nach den §§ 32 und 37d des Erneuerbare-Energien-Gesetzes,–für Solaranlagen nach § 11 InnAusV oder–für Solaranlagen nach § 12 GEEV6242Durchführung eines Zuschlagsverfahrens für Solaranlagen des zweiten Segments nach § 32 des Erneuerbare-Energien-Gesetzes4513Ausstellung einer Zahlungsberechtigung –für Solaranlagen des ersten Segments nach den §§ 38 und 38a des Erneuerbare-Energien-Gesetzes oder–für Solaranlagen nach den §§ 23 und 24 GEEV4954Durchführung eines Zuschlagsverfahrens für Windenergieanlagen an Land –nach § 32 des Erneuerbare-Energien-Gesetzes,–nach § 11 InnAusV oder–nach § 12 GEEV5975Durchführung eines Zuschlagsverfahrens –für Biomasseanlagen nach den §§ 32 und 39d des Erneuerbare-Energien-Gesetzes,–für Biomasseanlagen nach § 11 InnAusV oder–für Biomethananlagen nach Teil 3 Abschnitt 3 Unterabschnitt 6 des Erneuerbare-Energien-Gesetzes5976Durchführung eines Zuschlagsverfahrens für KWK-Anlagen und innovative KWK-Systeme nach § 11 KWKAusV1 0197Bewilligung der Ausnahme von der bedarfsgesteuerten Nachtkennzeichnung nach § 9 Absatz 8 Satz 6 des Erneuerbare-Energien-Gesetzes1 8838Verlängerung der Realisierungsfrist von Zuschlägen –für Windenergieanlagen an Land nach § 36e Absatz 2 oder Absatz 3 des Erneuerbare-Energien-Gesetzes–für Biomasseanlagen nach § 39e Absatz 2 des Erneuerbare-Energien-Gesetzes561,669Verlängerung der Realisierungsfrist von Zuschlägen für Windenergieanlagen an Land nach § 100 Absatz 15 des Erneuerbare-Energien-Gesetzes in der bis zum Ablauf des 31. Dezember 2022 geltenden Fassung280,83
+Abschnitt 8: Erneuerbare-Energien-Gesetz, KWK-Ausschreibungsverordnung (KWKAusV), Strom-Versorgungssicherheits-und-Kapazitätengesetz (StromVKG) Innovationsausschreibungsverordnung (InnAusV), Grenzüberschreitende-Erneuerbare-Energien-Verordnung (GEEV) NummerGebühren- oder AuslagentatbestandGebühren/Auslagen
+ in Euro1Durchführung eines Zuschlagsverfahrens –für Solaranlagen des ersten Segments nach den §§ 32 und 37d des Erneuerbare-Energien-Gesetzes,–für Solaranlagen nach § 11 InnAusV oder–für Solaranlagen nach § 12 GEEV6242Durchführung eines Zuschlagsverfahrens für Solaranlagen des zweiten Segments nach § 32 des Erneuerbare-Energien-Gesetzes4513Ausstellung einer Zahlungsberechtigung –für Solaranlagen des ersten Segments nach den §§ 38 und 38a des Erneuerbare-Energien-Gesetzes oder–für Solaranlagen nach den §§ 23 und 24 GEEV4954Durchführung eines Zuschlagsverfahrens für Windenergieanlagen an Land –nach § 32 des Erneuerbare-Energien-Gesetzes,–nach § 11 InnAusV oder–nach § 12 GEEV5975Durchführung eines Zuschlagsverfahrens –für Biomasseanlagen nach den §§ 32 und 39d des Erneuerbare-Energien-Gesetzes,–für Biomasseanlagen nach § 11 InnAusV oder–für Biomethananlagen nach Teil 3 Abschnitt 3 Unterabschnitt 6 des Erneuerbare-Energien-Gesetzes5976Durchführung eines Zuschlagsverfahrens für KWK-Anlagen und innovative KWK-Systeme nach § 11 KWKAusV1 0197Durchführung eines Zuschlagsverfahrens für Ausschreibungen für Anlagen nach dem StromVKG9568Bewilligung der Ausnahme von der bedarfsgesteuerten Nachtkennzeichnung nach § 9 Absatz 8 Satz 6 des Erneuerbare-Energien-Gesetzes1 8839Verlängerung der Realisierungsfrist von Zuschlägen –für Windenergieanlagen an Land nach § 36e Absatz 2 oder Absatz 3 des Erneuerbare-Energien-Gesetzes–für Biomasseanlagen nach § 39e Absatz 2 des Erneuerbare-Energien-Gesetzes561,6610Verlängerung der Realisierungsfrist von Zuschlägen für Windenergieanlagen an Land nach § 100 Absatz 15 des Erneuerbare-Energien-Gesetzes in der bis zum Ablauf des 31. Dezember 2022 geltenden Fassung280,83
 
 **Abschnitt 9: Kohleverstromungsbeendigungsgesetz (KVBG)**NummerGebühren- oder AuslagentatbestandGebühren/Auslagen
  in Euro1Gebotsverfahren1.1Abschließende Entscheidungen gegenüber einzelnen Bietern im Gebotsverfahren nach den §§ 16, 17 oder 21 in Verbindung mit § 18 Absatz 8 oder § 20 Absatz 1 KVBG5 782,91
@@ -200,4 +205,3 @@ bis 50 000,002.2Gebühr bei Rücknahme des Härtefallantrages vor der Entscheid
 
 **Abschnitt 12: Strompreisbremsegesetz (StromPBG)**NummerGebühren- oder AuslagentatbestandGebühren/Auslagen
  in Euro1Setzung einer Zahlungsfrist nach § 41 Absatz 1 Satz 1 und 3 StromPBG280,442Festsetzung eines Überschusserlöses nach § 41 Absatz 1 Satz 2 und Absatz 3 StromPBG794,713Maßnahmen nach § 40 Absatz 2 Satz 1 StromPBG in Verbindung mit § 65 EnWGnach Zeitaufwand
-
