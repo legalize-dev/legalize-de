@@ -4,22 +4,26 @@ identifier: "PAUSWG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2009-06-18"
-last_updated: "2026-04-04"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/pauswg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR134610009"
 slug: "pauswg"
 bgbl_reference: "BGBl I 2009, 1346"
-stand: "Zuletzt geändert durch Art. 8 G v. 23.10.2024 I Nr. 323"
+stand: "Zuletzt geändert durch Art. 3 G v. 16.7.2026 I Nr. 213"
 ---
 # Gesetz über Personalausweise und den elektronischen Identitätsnachweis
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
-##### § 1 Ausweispflicht; Ausweisrecht
+###### § 1 Ausweispflicht; Ausweisrecht
 
 (1) Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind verpflichtet, einen gültigen Ausweis zu besitzen, sobald sie 16 Jahre alt sind und der allgemeinen Meldepflicht unterliegen oder, ohne ihr zu unterliegen, sich überwiegend in Deutschland aufhalten. Sie müssen ihn auf Verlangen einer zur Feststellung der Identität berechtigten Behörde vorlegen und es ihr ermöglichen, ihr Gesicht mit dem Lichtbild des Ausweises abzugleichen. Vom Ausweisinhaber darf nicht verlangt werden, den Personalausweis zu hinterlegen oder in sonstiger Weise den Gewahrsam aufzugeben. Dies gilt nicht für zur Identitätsfeststellung berechtigte Behörden sowie in den Fällen der Einziehung und Sicherstellung.
 
@@ -39,7 +43,7 @@ stand: "Zuletzt geändert durch Art. 8 G v. 23.10.2024 I Nr. 323"
 
 2. Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind, die der Meldepflicht deswegen nicht unterliegen, weil sie keine Wohnung in Deutschland haben.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 (1) Ausweise im Sinne dieses Gesetzes sind der Personalausweis, der vorläufige Personalausweis und der Ersatz-Personalausweis.
 
@@ -75,13 +79,13 @@ stand: "Zuletzt geändert durch Art. 8 G v. 23.10.2024 I Nr. 323"
 
 (13) Im Sinne dieses Gesetzes ist ein mobiles Endgerät ein solches Gerät, das dem Stand der Technik entspricht, um einen elektronischen Identitätsnachweis nach § 18 Absatz 2 Satz 1 Nummer 2 durchführen zu können.
 
-##### § 3 Vorläufiger Personalausweis
+###### § 3 Vorläufiger Personalausweis
 
 (1) Macht die antragstellende Person glaubhaft, dass sie sofort einen Ausweis benötigt, ist ihr ein vorläufiger Personalausweis auszustellen.
 
 (2) Hierfür sind ausschließlich die in § 7 Abs. 1 genannten Behörden zuständig.
 
-##### § 4 Eigentum am Ausweis; Ausweishersteller; Vergabestelle für Berechtigungszertifikate
+###### § 4 Eigentum am Ausweis; Ausweishersteller; Vergabestelle für Berechtigungszertifikate
 
 (1) Niemand darf mehr als einen auf seine Person ausgestellten gültigen Ausweis der Bundesrepublik Deutschland besitzen.
 
@@ -99,7 +103,7 @@ stand: "Zuletzt geändert durch Art. 8 G v. 23.10.2024 I Nr. 323"
 
 und macht deren Namen jeweils im Bundesanzeiger bekannt. Dies gilt nicht für Geräte zur Aufnahme und elektronischen Erfassung von Lichtbildern nach Satz 1 Nummer 2, die im Rahmen einer Antragstellung beim Auswärtigen Amt gefertigt werden.
 
-##### § 5 Ausweismuster; gespeicherte Daten
+###### § 5 Ausweismuster; gespeicherte Daten
 
 (1) Ausweise sind nach einheitlichen Mustern auszustellen.
 
@@ -195,7 +199,7 @@ Bei einer Identitätsüberprüfung nach § 16 darf auch die aufgedruckte Zugangs
 
 (10) Die im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises oder eines mobilen Endgeräts gespeicherten Daten ermöglichen auch die Funktion des elektronischen Identitätsnachweises nach § 18.
 
-##### § 6 Gültigkeitsdauer des Ausweises; vorzeitige Beantragung; räumliche Beschränkungen
+###### § 6 Gültigkeitsdauer des Ausweises; vorzeitige Beantragung; räumliche Beschränkungen
 
 (1) Personalausweise werden für eine Gültigkeitsdauer von zehn Jahren ausgestellt.
 
@@ -215,7 +219,7 @@ Bei einer Identitätsüberprüfung nach § 16 darf auch die aufgedruckte Zugangs
 
 (8) Anordnungen nach Absatz 7 dürfen im polizeilichen Grenzfahndungsbestand gespeichert werden.
 
-##### § 6a Versagung und Entziehung; Ersatz-Personalausweis
+###### § 6a Versagung und Entziehung; Ersatz-Personalausweis
 
 (1) Ein Personalausweis oder ein vorläufiger Personalausweis kann unter den Voraussetzungen des § 7 Absatz 1 Nummer 1 oder Nummer 10 des Passgesetzes versagt werden. Im Falle des § 7 Absatz 1 Nummer 1 des Passgesetzes gilt dies nur, wenn die Gefährdung darin besteht, dass bestimmte Tatsachen die Annahme begründen, dass der Ausweisbewerber
 
@@ -235,7 +239,7 @@ Bei einer Identitätsüberprüfung nach § 16 darf auch die aufgedruckte Zugangs
 
 (5) Für Maßnahmen nach den Absätzen 1 bis 3 sowie Mitteilungen nach Absatz 4 sind ausschließlich die in § 7 Absatz 1 genannten Behörden zuständig.
 
-##### § 7 Sachliche Zuständigkeit
+###### § 7 Sachliche Zuständigkeit
 
 (1) Für Ausweisangelegenheiten in Deutschland sind die von den Ländern bestimmten Behörden zuständig (Personalausweisbehörden).
 
@@ -251,7 +255,7 @@ Bei einer Identitätsüberprüfung nach § 16 darf auch die aufgedruckte Zugangs
 
 (5) Für Diensteanbieter in Deutschland sind die für die Einhaltung der Vorgaben des Datenschutzes zuständigen Stellen zuständig. Haben Diensteanbieter ihren Wohn-, Geschäfts- oder Dienstsitz nicht in Deutschland, so ist der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit zuständige Datenschutzaufsichtsbehörde im Sinne des § 21 Absatz 4 Satz 3.
 
-##### § 7a Beleihung
+###### § 7a Beleihung
 
 (1) Das Bundesministerium des Innern und für Heimat kann teilrechtsfähigen Vereinigungen sowie juristischen Personen des Privatrechts zur Wahrnehmung der Aufgabe des elektronisch beantragten Neusetzens der Geheimnummer nach § 20 Absatz 2 der Personalausweisverordnung Hoheitsbefugnisse übertragen (Beleihung). Der Beliehene tritt insoweit an die Stelle des Ausweisherstellers; er ist Träger der öffentlichen Verwaltung.
 
@@ -275,7 +279,7 @@ Die Beleihung ist im Bundesanzeiger bekannt zu machen. Das Vorliegen der Vorauss
 
 (6) Wird der Bund von einem Dritten wegen eines Schadens in Anspruch genommen, den der Beliehene in Ausübung des ihm anvertrauten Amtes dem Dritten durch eine Amtspflichtverletzung zugefügt hat, so kann der Bund bei Vorsatz oder grober Fahrlässigkeit beim Beliehenen Rückgriff nehmen.
 
-##### § 8 Örtliche Zuständigkeit; Tätigwerden bei örtlicher Unzuständigkeit
+###### § 8 Örtliche Zuständigkeit; Tätigwerden bei örtlicher Unzuständigkeit
 
 (1) In Deutschland ist die Personalausweisbehörde zuständig, in deren Bezirk die antragstellende Person oder der Ausweisinhaber für seine Wohnung, bei mehreren Wohnungen für seine Hauptwohnung, meldepflichtig ist. Hat die antragstellende Person keine Wohnung, so ist die Personalausweisbehörde zuständig, in deren Bezirk sie sich vorübergehend aufhält.
 
@@ -289,7 +293,7 @@ Die Beleihung ist im Bundesanzeiger bekannt zu machen. Das Vorliegen der Vorauss
 
 ## Abschnitt 2 Ausstellung und Sperrung des Ausweises; elektronischer Identitätsnachweis
 
-##### § 9 Ausstellung des Ausweises
+###### § 9 Ausstellung des Ausweises
 
 (1) Personalausweise und vorläufige Personalausweise werden auf Antrag für Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes ausgestellt. § 3a Abs. 1 des Verwaltungsverfahrensgesetzes ist nicht anzuwenden. Im Antragsverfahren nachzureichende Erklärungen können mittels Datenübertragung abgegeben werden. Die antragstellende Person und ihr gesetzlicher Vertreter können sich bei der Stellung des Antrags nicht durch einen Bevollmächtigten vertreten lassen. Dies gilt nicht für eine handlungs- oder einwilligungsunfähige antragstellende Person, wenn eine für diesen Fall erteilte, öffentlich beglaubigte oder beurkundete Vollmacht vorliegt. Die antragstellende Person und ihr gesetzlicher oder bevollmächtigter Vertreter sollen persönlich erscheinen.
 
@@ -309,7 +313,7 @@ Eine Veränderung des Lichtbilds ist nur nach Maßgabe dieses Gesetzes oder nach
 
 (6) Für Deutsche im Sinne des Artikels 116 Absatz 1 des Grundgesetzes werden nach Maßgabe des § 6a Ersatz-Personalausweise von Amts wegen ausgestellt. Absatz 1 Satz 2 bis 6, Absatz 2 Satz 3, Absatz 3 Satz 1 bis 3 sowie die Absätze 4 und 5 gelten entsprechend.
 
-##### § 10 Einschaltung, Sperrung und Entsperrung der Funktion des elektronischen Identitätsnachweises mit dem Personalausweis
+###### § 10 Einschaltung, Sperrung und Entsperrung der Funktion des elektronischen Identitätsnachweises mit dem Personalausweis
 
 (1) Der Personalausweis wird mit einer Funktion zum elektronischen Identitätsnachweis nach § 18 ausgegeben.
 
@@ -337,7 +341,7 @@ Eine Veränderung des Lichtbilds ist nur nach Maßgabe dieses Gesetzes oder nach
 
 (9) Der Zeitpunkt der Meldung des Abhandenkommens eines Ausweises ist von der Personalausweisbehörde oder Polizeibehörde zu dokumentieren und der ausstellenden Personalausweisbehörde mitzuteilen.
 
-##### § 10a Einrichtung des elektronischen Identitätsnachweises mit einem mobilen Endgerät
+###### § 10a Einrichtung des elektronischen Identitätsnachweises mit einem mobilen Endgerät
 
 (1) Auf elektronische Veranlassung durch den Ausweisinhaber übermittelt der Ausweishersteller die Daten nach § 5 Absatz 5a aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises in einem sicheren Verfahren auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät. Der Ausweisinhaber weist seine Identität gegenüber dem Ausweishersteller mit einem elektronischen Identitätsnachweis nach § 18 nach. Ferner hat der Ausweishersteller Maßnahmen gegen eine missbräuchliche Verwendung der Daten im Anschluss an die Übermittlung der Daten auf das elektronische Speicher- und Verarbeitungsmedium in dem mobilen Endgerät vorzusehen. Der Ausweisinhaber ist auf seine Pflichten nach § 27 Absatz 2 sowie darauf hinzuweisen, dass das mobile Endgerät hinsichtlich der in seinem elektronischen Speicher- und Verarbeitungsmedium nach Absatz 1 gespeicherten Daten mit besonderer Sorgfalt zu behandeln ist.
 
@@ -349,7 +353,7 @@ Eine Veränderung des Lichtbilds ist nur nach Maßgabe dieses Gesetzes oder nach
 
 (5) Auf elektronischen Antrag des Ausweisinhabers hat der Ausweishersteller diesem Auskunft zu erteilen darüber, jeweils zu welchem Datum und zu welcher Uhrzeit eine Übermittlung nach Absatz 1 Satz 1 der Daten des Personalausweises des Ausweisinhabers auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endgerät durchgeführt wurde, sowie über jeweils den letzten Tag der Gültigkeitsdauer, das Sperrkennwort und den Hersteller und die Modellbezeichnung des mobilen Endgeräts. Zur Identifizierung der antragstellenden Person hat der Ausweishersteller zur Person des Ausweisinhabers einen elektronischen Identitätsnachweis nach § 18 durchzuführen.
 
-##### § 11 Informationspflichten
+###### § 11 Informationspflichten
 
 (1) Auf Verlangen des Personalausweisinhabers hat die Personalausweisbehörde ihm Einsicht in die im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises gespeicherten auslesbaren Daten zu gewähren.
 
@@ -365,17 +369,17 @@ Eine Veränderung des Lichtbilds ist nur nach Maßgabe dieses Gesetzes oder nach
 
 (7) Schaltet eine Personalausweisbehörde den elektronischen Identitätsnachweis eines Personalausweises ein, so hat sie unverzüglich die ausstellende Personalausweisbehörde davon in Kenntnis zu setzen. Das Gleiche gilt für den Ausweishersteller im Falle der elektronischen Beantragung des nachträglichen Einschaltens der Funktion zum elektronischen Identitätsnachweis.
 
-##### § 12 Form und Verfahren der Datenerfassung, -prüfung und -übermittlung
+###### § 12 Form und Verfahren der Datenerfassung, -prüfung und -übermittlung
 
 (1) Die Datenübermittlung von den Personalausweisbehörden an den Ausweishersteller zum Zweck der Ausweisherstellung, insbesondere die Übermittlung sämtlicher Ausweisantragsdaten, erfolgt durch Datenübertragung. Die Datenübertragung kann auch über Vermittlungsstellen erfolgen. Die beteiligten Stellen haben dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Feststellbarkeit der übermittelnden Stelle gewährleisten; im Falle der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden, die dem jeweiligen Stand der Technik entsprechen.
 
 (2) Zur Aufnahme und elektronischen Erfassung des Lichtbilds nach § 9 Absatz 3 Satz 3 Nummer 2 und der Fingerabdrücke, deren Qualitätssicherung sowie zur Übermittlung der Ausweisantragsdaten von der Personalausweisbehörde an den Ausweishersteller dürfen ausschließlich solche technischen Systeme und Bestandteile eingesetzt werden, die den Anforderungen der Rechtsverordnung nach § 34 Satz 1 Nummer 3 entsprechen. Die Einhaltung der Anforderungen ist vom Bundesamt für Sicherheit in der Informationstechnik gemäß der Rechtsverordnung nach § 34 Satz 1 Nummer 4 festzustellen.
 
-##### § 13 (weggefallen)
+###### § 13 (weggefallen)
 
 ## Abschnitt 3 Umgang mit personenbezogenen Daten
 
-##### § 14 Erhebung und Verwendung personenbezogener Daten
+###### § 14 Erhebung und Verwendung personenbezogener Daten
 
 Die Erhebung und Verwendung personenbezogener Daten aus dem Ausweis oder mithilfe des Ausweises darf ausschließlich erfolgen durch
 
@@ -383,7 +387,7 @@ Die Erhebung und Verwendung personenbezogener Daten aus dem Ausweis oder mithilf
 
 2. öffentliche Stellen und nichtöffentliche Stellen nach Maßgabe der §§ 18 bis 20.
 
-##### § 15 Automatisierter Abruf und automatisierte Speicherung durch zur Identitätsfeststellung berechtigte Behörden
+###### § 15 Automatisierter Abruf und automatisierte Speicherung durch zur Identitätsfeststellung berechtigte Behörden
 
 (1) Zur Identitätsfeststellung berechtigte Behörden dürfen den Ausweis nicht zum automatisierten Abruf personenbezogener Daten verwenden. Abweichend von Satz 1 dürfen Polizeibehörden und -dienststellen des Bundes und der Länder, die Behörden der Zollverwaltung sowie die Steuerfahndungsstellen der Länder den Ausweis im Rahmen ihrer Aufgaben und Befugnisse zum automatisierten Abruf personenbezogener Daten verwenden, die zu folgenden Zwecken im polizeilichen Fahndungsbestand gespeichert sind:
 
@@ -397,7 +401,7 @@ Die Erhebung und Verwendung personenbezogener Daten aus dem Ausweis oder mithilf
 
 (2) In den Fällen des Absatzes 1 dürfen personenbezogene Daten, soweit gesetzlich nichts anderes bestimmt ist, beim automatisierten Lesen des Ausweises nicht in Dateien gespeichert werden; dies gilt auch für Abrufe aus dem polizeilichen Fahndungsbestand, die zu einer Feststellung geführt haben.
 
-##### § 16 Echtheitsprüfung und Identitätsprüfung; Verarbeitung von Personalausweisdaten
+###### § 16 Echtheitsprüfung und Identitätsprüfung; Verarbeitung von Personalausweisdaten
 
 (1) Soweit die Polizeivollzugsbehörden, die Zollverwaltung, die Steuerfahndungsstellen der Länder sowie die Personalausweis-, Pass- und Meldebehörden die Echtheit des Personalausweises oder die Identität des Inhabers nach anderen Rechtsvorschriften überprüfen dürfen, sind sie befugt, zum Zweck der Überprüfung der Echtheit des Personalausweises oder der Identität des Ausweisinhabers
 
@@ -411,13 +415,13 @@ Echtheits- oder Identitätskontrollen über öffentliche Kommunikationswege sind
 
 (2) Die in Absatz 1 Satz 1 genannten Behörden dürfen Daten, die sie im Rahmen einer Identitätsfeststellung aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises verarbeitet haben, mit Ausnahme der biometrischen Daten zur Verarbeitung in einem Datenverarbeitungssystem automatisiert speichern, sofern sie dazu durch ein Gesetz oder auf Grund eines Gesetzes berechtigt sind. Im Übrigen sind die nach Absatz 1 Satz 1 erhobenen Daten unverzüglich nach Beendigung der Prüfung der Echtheit des Personalausweises oder der Identität des Ausweisinhabers zu löschen.
 
-##### § 17 Verarbeitung der sichtbaren Daten des Personalausweises
+###### § 17 Verarbeitung der sichtbaren Daten des Personalausweises
 
 (1) Die in § 16 Absatz 1 Satz 1 genannten Behörden dürfen die auf dem Personalausweis sichtbar aufgedruckten Daten durch nicht automatisierte Verfahren erheben und verwenden, sofern sie dazu durch ein Gesetz oder auf Grund eines Gesetzes berechtigt sind.
 
 (2) Können die Daten aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises nach § 16 Absatz 1 Satz 1 nicht ausgelesen werden, dürfen die dort genannten Behörden die Daten der maschinenlesbaren Zone nach § 5 Absatz 2 Satz 2 automatisiert auslesen und unter den Voraussetzungen des § 16 Absatz 2 speichern. § 16 Absatz 1 Satz 2, Absatz 2 Satz 2 gilt entsprechend.
 
-##### § 18 Elektronischer Identitätsnachweis
+###### § 18 Elektronischer Identitätsnachweis
 
 (1) Der Personalausweisinhaber, der mindestens 16 Jahre alt ist, kann den elektronischen Identitätsnachweis dazu verwenden, seine Identität gegenüber öffentlichen und nichtöffentlichen Stellen elektronisch nachzuweisen. Dies gilt auch dann, wenn er für eine andere Person, ein Unternehmen oder eine Behörde handelt. Abweichend von Satz 1 ist der elektronische Identitätsnachweis ausgeschlossen, wenn die Voraussetzungen des § 3a Abs. 1 des Verwaltungsverfahrensgesetzes, des § 87a Abs. 1 Satz 1 der Abgabenordnung oder des § 36a Abs. 1 des Ersten Buches Sozialgesetzbuch nicht vorliegen.
 
@@ -479,13 +483,13 @@ Dabei sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sichers
 
 (6) Personalausweisbehörden dürfen im Rahmen der Änderung der Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium nach einer elektronischen Anmeldung gemäß § 23a des Bundesmeldegesetzes einen elektronischen Identitätsnachweis durchführen und hierzu ein hoheitliches Berechtigungszertifikat verwenden.
 
-##### § 18a Vor-Ort-Auslesen von Ausweisdaten unter Anwesenden
+###### § 18a Vor-Ort-Auslesen von Ausweisdaten unter Anwesenden
 
 (1) Der Ausweisinhaber kann seinen Personalausweis ferner dazu verwenden, die in § 18 Absatz 3 Satz 2 genannten Daten zum Zwecke der medienbruchfreien Übernahme von Formulardaten unter Anwesenden zu übermitteln.
 
 (2) Vor dem Vor-Ort-Auslesen der Daten ist der Vor-Ort-Diensteanbieter verpflichtet, anhand des Personalausweises per Lichtbildabgleich zu prüfen, ob die den Personalausweis vorlegende Person der Ausweisinhaber ist. Die Daten werden nur übermittelt, wenn der Vor-Ort-Anbieter mit Einverständnis des Ausweisinhabers die Zugangsnummer ausliest und diese zusammen mit einem gültigen Vor-Ort-Zertifikat an das Speicher- und Verarbeitungsmedium des Personalausweises übermittelt.
 
-##### § 19 Speicherung im Rahmen des elektronischen Identitätsnachweises
+###### § 19 Speicherung im Rahmen des elektronischen Identitätsnachweises
 
 (1) Die Speicherung eines Sperrmerkmals ist ausschließlich zulässig
 
@@ -503,13 +507,13 @@ Dabei sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sichers
 
 (6) Die Übernahme der nach § 18 Absatz 3 Satz 2 oder nach § 18a übermittelten Daten in ein elektronisches Formular und deren Speicherung sind zulässig, soweit und solange die Speicherung zur Wahrnehmung der Geschäftszwecke des Diensteanbieters erforderlich ist. Zulässig ist auch, das Formular mit einem dauerhaften elektronischen Vermerk des Inhalts zu versehen, dass sich der Ausweisinhaber beim Ausfüllen des Formulars nach § 18 oder nach § 18a identifiziert hat.
 
-##### § 19a Speicherung durch Identifizierungsdiensteanbieter
+###### § 19a Speicherung durch Identifizierungsdiensteanbieter
 
 (1) Ein Identifizierungsdiensteanbieter darf die personenbezogenen Daten des Ausweisinhabers ausschließlich zum Zwecke der bei ihm in Auftrag gegebenen Identifizierung sowie nach § 19 Absatz 6 zum Ausfüllen eines elektronischen Formulars verwenden, das ihm hierfür von seinem Auftraggeber zur Verfügung gestellt wurde. Das Anbringen eines elektronischen Vermerks nach § 19 Absatz 6 Satz 2 ist zulässig. Gesetzliche Aufzeichnungspflichten bleiben unberührt.
 
 (2) Der Identifizierungsdiensteanbieter hat die personenbezogenen Daten des Ausweisinhabers zu löschen, sobald die Identifizierung abgeschlossen und gegebenenfalls das elektronische Formular sowie die auf Grund gesetzlicher Aufzeichnungspflichten aufgezeichneten Daten an den Auftraggeber übermittelt wurden.
 
-##### § 20 Verwendung durch öffentliche und nichtöffentliche Stellen
+###### § 20 Verwendung durch öffentliche und nichtöffentliche Stellen
 
 (1) Der Inhaber kann den Ausweis bei öffentlichen und nichtöffentlichen Stellen als Identitätsnachweis und Legitimationspapier verwenden.
 
@@ -539,11 +543,13 @@ Anlässlich der Datenverarbeitung nach Satz 1 überprüft die verarbeitende öff
 
 (4) Beförderungsunternehmen dürfen personenbezogene Daten aus der maschinenlesbaren Zone des Personalausweises elektronisch nur auslesen und verarbeiten, soweit sie auf Grund internationaler Abkommen oder Einreisebestimmungen zur Mitwirkung an Kontrolltätigkeiten im internationalen Reiseverkehr und zur Übermittlung personenbezogener Daten verpflichtet sind. Biometrische Daten dürfen nicht ausgelesen werden. Die Daten sind unverzüglich zu löschen, wenn sie für die Erfüllung dieser Pflichten nicht mehr erforderlich sind.
 
+(4a) Abweichend von Absatz 4 dürfen Luftfahrtunternehmen sowie die in § 19e Absatz 8 des Luftverkehrsgesetzes genannten Stellen personenbezogene Daten sowohl aus der maschinenlesbaren Zone des Personalausweises als auch aus dem Chip des Personalausweises unter den Voraussetzungen des § 19e des Luftverkehrsgesetzes auslesen.
+
 (5) Zum Zwecke des Jugendschutzes und mit Einwilligung des Ausweisinhabers dürfen die in § 5 Absatz 4 Satz 2 Nummer 6 und 7 genannten Daten aus der maschinenlesbaren Zone des Personalausweises erhoben werden, um das Alter des Ausweisinhabers und die Gültigkeit des Ausweises zu überprüfen. Eine Speicherung der Daten ist unzulässig.
 
 ## Abschnitt 4 Hoheitliche Berechtigungszertifikate; Berechtigungen; elektronische Signaturen
 
-##### § 20a Hoheitliche Berechtigungszertifikate
+###### § 20a Hoheitliche Berechtigungszertifikate
 
 (1) Zur Identitätsfeststellung berechtigte Behörden erhalten hoheitliche Berechtigungszertifikate, die ausschließlich für die hoheitliche Tätigkeit der Identitätsfeststellung zu verwenden sind.
 
@@ -551,7 +557,7 @@ Anlässlich der Datenverarbeitung nach Satz 1 überprüft die verarbeitende öff
 
 (3) Das Bundesamt für Sicherheit in der Informationstechnik erhält hoheitliche Berechtigungszertifikate zur Qualitätssicherung anhand von Testausweisen.
 
-##### § 21 Berechtigungen für Diensteanbieter
+###### § 21 Berechtigungen für Diensteanbieter
 
 (1) Um Daten im Wege des elektronischen Identitätsnachweises anzufragen, benötigen Diensteanbieter eine Berechtigung. Die Berechtigung lässt datenschutzrechtliche Vorschriften unberührt. Das Vorliegen einer Berechtigung ist durch die Vergabe von Berechtigungszertifikaten technisch abzusichern.
 
@@ -577,11 +583,11 @@ Anlässlich der Datenverarbeitung nach Satz 1 überprüft die verarbeitende öff
 
 (8) Die Vergabestelle für Berechtigungszertifikate führt ein Register über die erteilten Berechtigungen.
 
-##### § 21a Vor-Ort-Berechtigung für Vor-Ort-Diensteanbieter
+###### § 21a Vor-Ort-Berechtigung für Vor-Ort-Diensteanbieter
 
 Um Ausweisdaten nach § 18a unter Anwesenden vor Ort auslesen zu dürfen, benötigen Vor-Ort-Diensteanbieter eine Vor-Ort-Berechtigung einschließlich eines Vor-Ort-Zertifikats. § 21 gilt hierfür entsprechend.
 
-##### § 21b Berechtigung für Identifizierungsdiensteanbieter
+###### § 21b Berechtigung für Identifizierungsdiensteanbieter
 
 (1) Wer als Identifizierungsdiensteanbieter die Funktion des elektronischen Identitätsnachweises nach § 18 Absatz 2 Satz 1 in Verbindung mit § 19 Absatz 6 nutzen möchte, um Identifizierungsdienstleistungen für Dritte zu erbringen, bedarf einer Berechtigung.
 
@@ -593,13 +599,13 @@ Um Ausweisdaten nach § 18a unter Anwesenden vor Ort auslesen zu dürfen, benöt
 
 Im Übrigen gilt § 21 entsprechend.
 
-##### § 22 Elektronische Signatur
+###### § 22 Elektronische Signatur
 
 Der Personalausweis kann als qualifizierte elektronische Signaturerstellungseinheit im Sinne des Artikels 3 Nummer 23 der Verordnung (EU) Nr. 910/2014 ausgestaltet werden. Die Zertifizierung nach Artikel 30 der Verordnung (EU) Nr. 910/2014 erfolgt durch das Bundesamt für Sicherheit in der Informationstechnik. Die Vorschriften des Vertrauensdienstegesetzes bleiben unberührt.
 
 ## Abschnitt 5 Personalausweisregister; Speicherungsvorschriften
 
-##### § 23 Personalausweisregister
+###### § 23 Personalausweisregister
 
 (1) Die Personalausweisbehörden führen Personalausweisregister.
 
@@ -661,7 +667,7 @@ Der Personalausweis kann als qualifizierte elektronische Signaturerstellungseinh
 
 (6) Wird eine andere als die ausstellende Personalausweisbehörde örtlich zuständig, darf sie die in Absatz 3 genannten und zur Wahrnehmung ihrer Aufgaben erforderlichen Daten mit Ausnahme der biometrischen Daten speichern. Absatz 4 gilt entsprechend.
 
-##### § 24 Verwendung im Personalausweisregister gespeicherter Daten
+###### § 24 Verwendung im Personalausweisregister gespeicherter Daten
 
 (1) Die Personalausweisbehörden dürfen personenbezogene Daten nur nach Maßgabe dieses Gesetzes, anderer Gesetze oder Rechtsverordnungen erheben oder verwenden.
 
@@ -681,7 +687,7 @@ Hinsichtlich der Daten, die auch im Melderegister gespeichert sind, müssen die 
 
 (4) Die Daten des Personalausweisregisters und des Melderegisters dürfen zur Berichtigung des jeweils anderen Registers verwendet werden.
 
-##### § 25 Datenübertragung und automatisierter Abruf von Lichtbildern
+###### § 25 Datenübertragung und automatisierter Abruf von Lichtbildern
 
 (1) In den Fällen des § 24 Abs. 2 dürfen personenbezogene Daten auch durch Datenübertragung übermittelt werden. § 12 Abs. 1 Satz 3 gilt entsprechend.
 
@@ -711,7 +717,7 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 (4) Die für einen zentralen Personalausweisregisterdatenbestand zuständige Stelle oder die Personalausweisbehörde trifft Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679, insbesondere durch den Einsatz von Verschlüsselungstechnik und von Authentifizierungsverfahren, um den Datenschutz und die Datensicherheit zu gewährleisten. Bei Zweifeln an der Identität der abrufenden Stelle unterbleibt der automatisierte Abruf.
 
-##### § 26 Sonstige Speicherung personenbezogener Daten
+###### § 26 Sonstige Speicherung personenbezogener Daten
 
 (1) Beantragung, Ausstellung und Aushändigung von Ausweisen dürfen nicht zum Anlass genommen werden, die dafür erforderlichen Angaben und biometrischen Merkmale außer bei den ausstellenden Personalausweisbehörden nach § 7 Abs. 1 und 2 nach den Vorgaben der §§ 23 bis 25 zu speichern. Entsprechendes gilt für die zur Ausstellung des Ausweises erforderlichen Antragsunterlagen sowie für personenbezogene Datenträger.
 
@@ -723,7 +729,7 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 ## Abschnitt 6 Pflichten des Ausweisinhabers; Ungültigkeit und Entziehung des Ausweises
 
-##### § 27 Pflichten des Ausweisinhabers
+###### § 27 Pflichten des Ausweisinhabers
 
 (1) Der Ausweisinhaber ist verpflichtet, der Personalausweisbehörde unverzüglich
 
@@ -741,7 +747,7 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 (3) Der Personalausweisinhaber soll durch technische und organisatorische Maßnahmen gewährleisten, dass der elektronische Identitätsnachweis gemäß § 18 nur in einer Umgebung eingesetzt wird, die nach dem jeweiligen Stand der Technik als sicher anzusehen ist. Dabei soll er insbesondere solche technischen Systeme und Bestandteile einsetzen, die vom Bundesamt für Sicherheit in der Informationstechnik als für diesen Einsatzzweck sicher bewertet werden.
 
-##### § 28 Ungültigkeit
+###### § 28 Ungültigkeit
 
 (1) Ein Ausweis ist ungültig, wenn
 
@@ -757,7 +763,7 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 (3) Störungen der Funktionsfähigkeit des elektronischen Speicher- und Verarbeitungsmediums berühren nicht die Gültigkeit des Personalausweises.
 
-##### § 29 Sicherstellung und Einziehung
+###### § 29 Sicherstellung und Einziehung
 
 (1) Ein nach § 28 Abs. 1 oder Abs. 2 ungültiger Ausweis kann eingezogen werden.
 
@@ -771,13 +777,13 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 (3) Eine Sicherstellung oder Einziehung ist schriftlich zu bestätigen.
 
-##### § 30 Sofortige Vollziehung
+###### § 30 Sofortige Vollziehung
 
 Widerspruch und Anfechtungsklage gegen die Anordnung, dass der Ausweis nicht zum Verlassen Deutschlands berechtigt (§ 6 Abs. 7), gegen die Entziehung des Ausweises und die Ausstellung eines Ersatz-Personalausweises (§ 6a), gegen die Aufhebung der Berechtigung (§ 21 Abs. 5), gegen die Einziehung (§ 29 Abs. 1) und gegen die Sicherstellung des Ausweises (§ 29 Abs. 2) haben keine aufschiebende Wirkung.
 
 ## Abschnitt 7 Gebühren und Auslagen; Bußgeldvorschriften
 
-##### § 31 Gebühren und Auslagen; Verordnungsermächtigung
+###### § 31 Gebühren und Auslagen; Verordnungsermächtigung
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen erheben die Personalausweisbehörden Gebühren und Auslagen nach den Absätzen 2 und 3.
 
@@ -787,7 +793,7 @@ Widerspruch und Anfechtungsklage gegen die Anordnung, dass der Ausweis nicht zum
 
 (4) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22 Absatz 4 des Bundesgebührengesetzes kann bestimmt werden, dass von den Auslandsvertretungen der Bundesrepublik Deutschland für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen zum Ausgleich von Kaufkraftunterschieden ein Zuschlag erhoben wird. Der Zuschlag kann bis zu 300 Prozent der Gebühren betragen.
 
-##### § 32 Bußgeldvorschriften
+###### § 32 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -819,7 +825,7 @@ Widerspruch und Anfechtungsklage gegen die Anordnung, dass der Ausweis nicht zum
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 5 sowie des Absatzes 2 Nummer 1, 2, 3 und 5 mit einer Geldbuße bis zu dreißigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
 
-##### § 33 Bußgeldbehörden
+###### § 33 Bußgeldbehörden
 
 Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten sind, soweit dieses Gesetz von Bundesbehörden ausgeführt wird,
 
@@ -831,7 +837,7 @@ Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungs
 
 ## Abschnitt 8 Verordnungsermächtigung; Übergangsvorschrift
 
-##### § 34 Verordnungsermächtigung
+###### § 34 Verordnungsermächtigung
 
 Das Bundesministerium des Innern und für Heimat wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
 
@@ -879,11 +885,10 @@ c) der Speicherung und Löschung der Sperrmerkmale und des Sperrkennworts
 
 Rechtsverordnungen nach Satz 1 ergehen im Benehmen mit dem Auswärtigen Amt, Rechtsverordnungen nach Satz 1 Nummer 3 Buchstabe b zusätzlich im Benehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz. In einer Rechtsverordnung nach Satz 1 Nummer 8a sind Regelungen zu Maßnahmen gegen eine missbräuchliche Verwendung bei der Einrichtung eines elektronischen Identitätsnachweises mit einem mobilen Endgerät vorzusehen.
 
-##### § 34a Regelungsbefugnisse der Länder
+###### § 34a Regelungsbefugnisse der Länder
 
 Durch Landesrecht können zentrale Personalausweisregisterdatenbestände zur Speicherung des Lichtbilds und der Unterschrift für die Durchführung eines automatisierten Abrufs des Lichtbilds nach § 25 Absatz 2 Satz 1 und 4 sowie eines automatisierten Abrufs des Lichtbilds und der Unterschrift nach § 25 Absatz 2 Satz 5 eingerichtet werden. In diesem Fall gelten § 23 Absatz 4, § 25 Absatz 2 Satz 5 bis 8 und § 26 Absatz 4 entsprechend. Macht ein Land von der Regelungsbefugnis Gebrauch, hat es technisch sicherzustellen, dass die Lichtbilder und Unterschriften vor unbefugtem Zugriff geschützt sind. Die Lichtbilder und Unterschriften dürfen nur so gespeichert werden, dass keine Verknüpfung mit anderen als für den automatisierten Abruf benötigten Daten ermöglicht wird.
 
-##### § 35 Übergangsvorschrift
+###### § 35 Übergangsvorschrift
 
 Abweichend von § 7 Abs. 2, § 8 Abs. 2, § 10 Abs. 1 Satz 4 und Abs. 2 Satz 2, § 23 Abs. 4 Satz 2 sowie § 31 Abs. 2 ist bis zum 31. Dezember 2012 für Deutsche mit Hauptwohnung im Ausland die Personalausweisbehörde nach § 7 Abs. 1 zuständig, in deren Bezirk er oder sie sich vorübergehend aufhält.
-
