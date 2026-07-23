@@ -4,24 +4,28 @@ identifier: "BBPLG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2013-07-23"
-last_updated: "2026-04-04"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bbplg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR254310013"
 slug: "bbplg"
 bgbl_reference: "BGBl I 2013, 2543; 2014, 148, 271"
-stand: "Zuletzt geändert durch Art. 1 G v. 16.7.2024 I Nr. 239"
+stand: "Zuletzt geändert durch Art. 4 G v. 20.7.2026 I Nr. 215"
 ---
 # Gesetz über den Bundesbedarfsplan
 
-##### § 1 Gegenstand des Bundesbedarfsplans
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Gegenstand des Bundesbedarfsplans
 
 (1) Für die in der Anlage zu diesem Gesetz aufgeführten Vorhaben, die der Anpassung, Entwicklung und dem Ausbau der Übertragungsnetze zur Einbindung von Elektrizität aus erneuerbaren Energiequellen, zur Interoperabilität der Elektrizitätsnetze innerhalb der Europäischen Union, zum Anschluss neuer Kraftwerke oder zur Vermeidung struktureller Engpässe im Übertragungsnetz dienen, werden die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf zur Gewährleistung eines sicheren und zuverlässigen Netzbetriebs als Bundesbedarfsplan gemäß § 12e des Energiewirtschaftsgesetzes festgestellt. Die Realisierung dieser Vorhaben ist aus Gründen eines überragenden öffentlichen Interesses und im Interesse der öffentlichen Gesundheit und Sicherheit erforderlich.
 
 (2) Zu den Vorhaben nach Absatz 1 gehören auch die für den Betrieb von Energieleitungen notwendigen Anlagen einschließlich der notwendigen Änderungen an den Netzverknüpfungspunkten. Die Vorhaben beginnen und enden jeweils an den Netzverknüpfungspunkten.
 
-##### § 2 Gekennzeichnete Vorhaben
+###### § 2 Gekennzeichnete Vorhaben
 
 (1) Die im Bundesbedarfsplan mit „A1“ gekennzeichneten Vorhaben sind länderübergreifend im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz. Die im Bundesbedarfsplan mit „A2“ gekennzeichneten Vorhaben sind grenzüberschreitend im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz.
 
@@ -53,7 +57,7 @@ Satz 2 ist für den länderübergreifenden landseitigen Teil von Vorhaben im Sin
 
 (8) Bei den im Bundesbedarfsplan mit „H“ gekennzeichneten Vorhaben stehen die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf für Leerrohre fest, die nach Maßgabe des § 18 Absatz 3 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz zugelassen werden.
 
-##### § 3 Erdkabel für Leitungen zur Höchstspannungs-Gleichstrom-Übertragung
+###### § 3 Erdkabel für Leitungen zur Höchstspannungs-Gleichstrom-Übertragung
 
 (1) Leitungen zur Höchstspannungs-Gleichstrom-Übertragung der im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhaben sind nach Maßgabe dieser Vorschrift als Erdkabel zu errichten und zu betreiben oder zu ändern.
 
@@ -81,7 +85,7 @@ Satz 1 ist weder für die nachträgliche Änderung oder Erweiterung der Leitung 
 
 (6) Für Leitungen zur Höchstspannungs-Drehstrom-Übertragung, die der Anbindung von Stromrichteranlagen im Rahmen des im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhabens dienen, ist § 4 entsprechend anzuwenden.
 
-##### § 4 Erdkabel für Leitungen zur Höchstspannungs-Drehstrom-Übertragung
+###### § 4 Erdkabel für Leitungen zur Höchstspannungs-Drehstrom-Übertragung
 
 (1) Um den Einsatz von Erdkabeln im Drehstrom-Übertragungsnetz als Pilotprojekte zu testen, können die im Bundesbedarfsplan mit „F“ gekennzeichneten Vorhaben zur Höchstspannungs-Drehstrom-Übertragung nach Maßgabe dieser Vorschrift als Erdkabel errichtet und betrieben oder geändert werden.
 
@@ -103,15 +107,11 @@ Der Einsatz von Erdkabeln ist auch dann zulässig, wenn die Voraussetzungen nach
 
 (4) Vor dem 31. Dezember 2015 beantragte Planfeststellungsverfahren werden nach den bis dahin geltenden Vorschriften zu Ende geführt. Sie werden nur dann als Planfeststellungsverfahren in der ab dem 31. Dezember 2015 geltenden Fassung dieses Gesetzes fortgeführt, wenn der Träger des Vorhabens dies beantragt.
 
-##### § 5 Berichtspflicht der Übertragungsnetzbetreiber
+###### § 5 Berichtspflicht der Übertragungsnetzbetreiber
 
-(1) Über die in den Vorhaben nach § 2 Absatz 2 bis 8 gewonnenen Erfahrungen legt der jeweils verantwortliche Betreiber des Übertragungsnetzes der Bundesnetzagentur jährlich einen Bericht vor, in dem die technische Durchführbarkeit, Wirtschaftlichkeit und Umweltauswirkungen dieser Vorhaben bewertet werden. Der erste Bericht ist im zweiten Jahr nach der Inbetriebnahme des jeweils ersten Teilabschnitts eines solchen Vorhabens vorzulegen.
+Auf Verlangen haben die Betreiber von Übertragungsnetzen dem Bundesministerium für Wirtschaft und Energie über den Sachstand bei den Vorhaben nach § 2 Absatz 2 bis 8 und die gewonnenen Erfahrungen mit dem Einsatz von Erdkabeln nach den §§ 3 und 4 zu berichten.
 
-(2) Der Bericht kann mit dem gemeinsamen Netzentwicklungsplan nach § 12b Absatz 1 Satz 1 des Energiewirtschaftsgesetzes verbunden werden.
-
-(3) Auf Verlangen haben die Betreiber von Übertragungsnetzen dem Bundesministerium für Wirtschaft und Klimaschutz über den Sachstand bei den Vorhaben nach § 2 Absatz 2 bis 8 und die gewonnenen Erfahrungen mit dem Einsatz von Erdkabeln nach den §§ 3 und 4 zu berichten.
-
-##### § 6 Rechtsschutz
+###### § 6 Rechtsschutz
 
 Für die in den Bundesbedarfsplan aufgenommenen Vorhaben ist § 50 Absatz 1 Nummer 6 der Verwaltungsgerichtsordnung anzuwenden. Dies ist auch anzuwenden für
 
@@ -119,7 +119,7 @@ Für die in den Bundesbedarfsplan aufgenommenen Vorhaben ist § 50 Absatz 1 Numm
 
 2. Genehmigungen nach dem Bundes-Immissionsschutzgesetz für Stromrichteranlagen, die dem Betrieb von Vorhaben aus dem Bundesbedarfsplan dienen.
 
-##### Anlage (zu § 1 Absatz 1) Bundesbedarfsplan
+###### Anlage (zu § 1 Absatz 1) Bundesbedarfsplan
 
 (Fundstelle: BGBl. I 2015, 2495 - 2497; 
  bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -136,4 +136,3 @@ Drehstrom Nennspannung 380 kV–65Höchstspannungsleitung Borken – Gießen Nor
 Drehstrom Nennspannung 380 kVA287Höchstspannungsleitungen Netzausbau und Verstärkung Berlin, Drehstrom, Nennspannung 380 kV mit den Bestandteilen–Höchstspannungsleitungen Punkt Biesdorf Süd – Wuhlheide–Thyrow – Großbeeren/Blankenfelde-Mahlow – Schönefeld mit Abzweig Bezirk Steglitz-Zehlendorf (Berlin) – Bezirke Mitte/Friedrichshain-Kreuzberg (Berlin)A1, F, G–Malchow – Bezirke Mitte/Reinickendorf (Berlin) – ReuterA1, F, G–Reuter – TeufelsbruchF88Höchstspannungsleitung Landesbergen – Grohnde – Vörden – Würgassen – Sandershausen Ost – Bergshausen – Borken; Drehstrom Nennspannung 380 kVA189Höchstspannungsleitung Westerkappeln – Gersteinwerk; Drehstrom Nennspannung 380 kV–90Höchstspannungsleitung Gersteinwerk – Lippe – Mengede; Drehstrom Nennspannung 380 kV–91Höchstspannungsleitung Emscherbruch – Hüllen – Eiberg – Bochum – Hattingen; Drehstrom Nennspannung 380 kV–92Höchstspannungsleitung Walsum – Beeck; Drehstrom Nennspannung 380 kV–93Höchstspannungsleitung Lauchstädt – Leuna/Merseburg/Weißenfels – Pulgar; Drehstrom Nennspannung 380 kVA194Höchstspannungsleitung Sechtem – Ließem – Weißenthurm; Drehstrom Nennspannung 380 kVA195Höchstspannungsleitung Dahlem – Bundesgrenze (BE); GleichstromB, E96Höchstspannungsleitung Aschaffenburg – Urberach; Drehstrom Nennspannung 380 kVA197Höchstspannungsleitung Uchtelfangen – Ensdorf – Bundesgrenze (FR); Drehstrom Nennspannung 380 kVA2, G98Höchstspannungsleitung Punkt Fraulautern – Saarwellingen/Saarlouis/Dillingen (Saar) – Diefflen; Drehstrom Nennspannung 380 kV–99Höchstspannungsleitung Waldshut-Tiengen – Bundesgrenze (CH); Drehstrom Nennspannung 380 kV
 
 **Kennzeichnung**A1=Länderübergreifende Leitung im Sinne von § 2 Absatz 1 Satz 1A2=Grenzüberschreitende Leitung im Sinne von § 2 Absatz 1 Satz 2B=Pilotprojekt für verlustarme Übertragung hoher Leistungen über große Entfernungen im Sinne von § 2 Absatz 2C=Offshore-Anbindungsleitung im Sinne von § 2 Absatz 3D=Pilotprojekt für Hochtemperaturleiterseile im Sinne von § 2 Absatz 4E=Erdkabel für Leitungen zur Höchstspannungs-Gleichstrom-Übertragung im Sinne von § 2 Absatz 5F=Pilotprojekt für Erdkabel zur Höchstspannungs-Drehstrom-Übertragung im Sinne von § 2 Absatz 6G=Kennzeichnung für den Verzicht auf die Bundesfachplanung im Sinne von § 2 Absatz 7H=Kennzeichnung für die Leerrohrmöglichkeit im Sinne von § 2 Absatz 8
-
