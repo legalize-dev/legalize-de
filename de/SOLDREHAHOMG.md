@@ -4,17 +4,22 @@ identifier: "SOLDREHAHOMG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2021-07-16"
-last_updated: "2026-04-04"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/soldrehahomg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR299310021"
 slug: "soldrehahomg"
 bgbl_reference: "BGBl I 2021, 2993"
+stand: "Geändert durch Art. 6 G v. 18.6.2026 I Nr. 183"
 ---
 # Gesetz zur Rehabilitierung der wegen einvernehmlicher homosexueller Handlungen, wegen ihrer homosexuellen Orientierung oder wegen ihrer geschlechtlichen Identität dienstrechtlich benachteiligten Soldatinnen und Soldaten
 
-##### § 1 Rehabilitierung
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Rehabilitierung
 
 (1) Vor dem 3. Juli 2000 ergangene wehrdienstgerichtliche Urteile werden insoweit aufgehoben, als sie einvernehmliche homosexuelle Handlungen zum Gegenstand haben. Dies gilt nicht für solche Handlungen, die auch am 23. Juli 2021 noch ein Dienstvergehen darstellen.
 
@@ -34,7 +39,7 @@ bgbl_reference: "BGBl I 2021, 2993"
 
 (4) Über die Regelungen dieses Gesetzes hinaus entfalten die Aufhebung nach Absatz 1 und die Feststellung nach Absatz 2 keine Rechtswirkungen.
 
-##### § 2 Verfahren; Rehabilitierungsbescheinigung
+###### § 2 Verfahren; Rehabilitierungsbescheinigung
 
 (1) Das Bundesministerium der Verteidigung stellt auf Antrag fest, ob ein Urteil nach § 1 Absatz 1 aufgehoben worden ist oder ob eine Benachteiligung nach § 1 Absatz 2 vorliegt. Über die Feststellungen nach Satz 1 wird eine Rehabilitierungsbescheinigung erteilt.
 
@@ -62,7 +67,7 @@ Satz 1 Nummer 2 gilt nicht für den Antrag nach Absatz 3.
 
 (5) Für das Verfahren werden keine Gebühren und Auslagen erhoben.
 
-##### § 3 Entschädigung; Entschädigungsverfahren
+###### § 3 Entschädigung; Entschädigungsverfahren
 
 (1) Die rehabilitierte Person erhält auf Antrag eine Entschädigung in Geld aus dem Bundeshaushalt.
 
@@ -72,7 +77,7 @@ Satz 1 Nummer 2 gilt nicht für den Antrag nach Absatz 3.
 
 2. einmalig 3 000 Euro für Benachteiligungen nach § 1 Absatz 2.
 
-(3) Der Antrag auf Entschädigung ist innerhalb einer Ausschlussfrist von fünf Jahren nach dem 23. Juli 2021 beim Bundesministerium der Verteidigung zu stellen. Das Bundesministerium der Verteidigung setzt die Entschädigung durch Verwaltungsakt fest.
+(3) Der Antrag auf Entschädigung ist innerhalb einer Ausschlussfrist von zehn Jahren nach dem 23. Juli 2021 beim Bundesministerium der Verteidigung zu stellen. Das Bundesministerium der Verteidigung setzt die Entschädigung durch Verwaltungsakt fest.
 
 (4) Ein Anspruch auf eine Entschädigung nach Absatz 1 besteht nicht, soweit von einer öffentlichen Stelle für denselben Sachverhalt bereits eine Entschädigung gezahlt wurde.
 
@@ -80,11 +85,10 @@ Satz 1 Nummer 2 gilt nicht für den Antrag nach Absatz 3.
 
 (6) Für das Entschädigungsverfahren werden keine Kosten erhoben.
 
-##### § 4 Rechtsweg
+###### § 4 Rechtsweg
 
 Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg gegeben.
 
-##### § 5 Außerkrafttreten
+###### § 5 Außerkrafttreten
 
 Dieses Gesetz tritt am 31. Dezember 2040 außer Kraft.
-
