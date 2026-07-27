@@ -4,18 +4,22 @@ identifier: "INTV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2004-12-13"
-last_updated: "2026-04-04"
+last_updated: "2026-07-27"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/intv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR337000004"
 slug: "intv"
 bgbl_reference: "BGBl I 2004, 3370"
-stand: "Zuletzt geändert durch Art. 1 V v. 3.12.2024 I Nr. 393"
+stand: "Zuletzt geändert durch Art. 1 V v. 22.7.2026 I Nr. 218"
 ---
 # Verordnung über die Durchführung von Integrationskursen für Ausländer und Spätaussiedler
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Es verordnen
 
@@ -25,15 +29,15 @@ Es verordnen
 
 ## Abschnitt 1 Allgemeine Bestimmungen
 
-##### § 1 Durchführung der Integrationskurse
+###### § 1 Durchführung der Integrationskurse
 
 Das Bundesamt für Migration und Flüchtlinge (Bundesamt) führt die Integrationskurse in Zusammenarbeit mit Ausländerbehörden, dem Bundesverwaltungsamt, Kommunen, Migrationsdiensten und Trägern der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch Sozialgesetzbuch durch und gewährleistet ein ausreichendes Kursangebot. Das Bundesamt lässt die Kurse in der Regel von privaten oder öffentlichen Trägern durchführen.
 
-##### § 2 Anwendungsbereich der Verordnung
+###### § 2 Anwendungsbereich der Verordnung
 
 Die Verordnung findet auch Anwendung auf Ausländer, deren Rechtsstellung sich nach dem Freizügigkeitsgesetz/EU bestimmt.
 
-##### § 3 Ziel des Integrationskurses
+###### § 3 Ziel des Integrationskurses
 
 (1) Der Kurs dient der erfolgreichen Vermittlung
 
@@ -46,7 +50,7 @@ Die Verordnung findet auch Anwendung auf Ausländer, deren Rechtsstellung sich n
 ## Abschnitt 2 Rahmenbedingungen für die Teilnahme,
 Datenverarbeitung und Kursgebühren
 
-##### § 4 Teilnahmeberechtigung
+###### § 4 Teilnahmeberechtigung
 
 (1) Teilnahmeberechtigte im Sinne dieser Verordnung sind
 
@@ -80,7 +84,7 @@ b) eine Erwerbstätigkeit ausübt, die regelmäßig eine Qualifikation nach Buch
 
 (5) (weggefallen)
 
-##### § 4a Fahrtkostenerstattung, Kinderbetreuung, kursbegleitende Maßnahmen
+###### § 4a Fahrtkostenerstattung, Kinderbetreuung, kursbegleitende Maßnahmen
 
 (1) Das Bundesamt gewährt Teilnahmeberechtigten zur Ermöglichung einer Kursteilnahme bei Bedarf auf Antrag einen pauschalen Zuschuss zu den notwendigen Fahrtkosten, wenn
 
@@ -94,7 +98,7 @@ Der Antrag auf Fahrtkostenzuschuss ist vor Beginn des Kursabschnitts zu stellen,
 
 (3) Das Bundesamt kann kursbegleitende Maßnahmen fördern, die eine Teilnahme am Integrationskurs unterstützen. Das Bundesamt kann ferner festlegen, dass eine kursbegleitende Maßnahme in einem Online-Format durchgeführt werden darf.
 
-##### § 5 Zulassung zum Integrationskurs
+###### § 5 Zulassung zum Integrationskurs
 
 (1) Die Zulassung zur Teilnahme am Integrationskurs nach § 44 Absatz 4 des Aufenthaltsgesetzes erfolgt durch das Bundesamt auf Antrag. Der Antrag nach Satz 1 kann über einen zugelassenen Kursträger gestellt werden. Ein Antrag auf Kostenbefreiung nach § 9 Abs. 2 kann mit dem Antrag auf Zulassung gestellt werden.
 
@@ -104,21 +108,21 @@ Der Antrag auf Fahrtkostenzuschuss ist vor Beginn des Kursabschnitts zu stellen,
 
 (4) Bei der Entscheidung über die Zulassung ist die Integrationsbedürftigkeit des Antragstellers zu beachten. Vorrangig zu berücksichtigen sind insbesondere:
 
-1. Ausländer, die einen gesetzlichen Anspruch auf Teilnahme an einem Integrationskurs hatten, aber bislang nicht teilgenommen haben,
+1. Ausländer, die eine Aufenthaltserlaubnis nach § 24 des Aufenthaltsgesetzes besitzen,
 
-2. deutsche Staatsangehörige sowie Unionsbürger und deren Familienangehörige, die nicht über ausreichende deutsche Sprachkenntnisse verfügen.
+2. deutsche Staatsangehörige und andere Unionsbürger, die nicht über ausreichende deutsche Sprachkenntnisse verfügen, um eine Erwerbstätigkeit oder Ausbildung aufzunehmen, sowie die Familienangehörigen dieser beiden Personengruppen.
 
 (5) (weggefallen)
 
-##### § 5a Zulassung durch den Träger der Grundsicherung für Arbeitsuchende
+###### § 5a Zulassung durch den Träger der Grundsicherung für Arbeitsuchende
 
-(1) Der Träger der Grundsicherung für Arbeitsuchende kann einen Ausländer zur Teilnahme an einem Integrationskurs nach § 44 Absatz 4 des Aufenthaltsgesetzes zulassen, wenn die Teilnahme im Rahmen eines Kooperationsplans nach § 15 Absatz 2 des Zweiten Buches Sozialgesetzbuch vorgesehen ist.
+(1) Der Träger der Grundsicherung für Arbeitsuchende kann eine Person zur Teilnahme an einem Integrationskurs nach § 44 Absatz 4 des Aufenthaltsgesetzes zulassen, wenn die Teilnahme im Rahmen eines Kooperationsplans nach § 15 Absatz 2 des Zweiten Buches Sozialgesetzbuch vorgesehen ist.
 
 (2) Der Träger der Grundsicherung für Arbeitsuchende bestätigt die Teilnahmeberechtigung schriftlich und vermerkt in dieser, dass die Teilnahme an einem Integrationskurs nach einem Kooperationsplan gemäß § 15 Absatz 2 des Zweiten Buches Sozialgesetzbuch vorgesehen ist, sowie den Zeitpunkt des Erlöschens der Teilnahmeberechtigung.
 
 (3) Im Übrigen gilt § 6 Absatz 3 und 4 entsprechend.
 
-##### § 6 Bestätigung der Teilnahmeberechtigung
+###### § 6 Bestätigung der Teilnahmeberechtigung
 
 (1) Die Ausländerbehörde bestätigt Teilnahmeberechtigten nach § 4 Abs. 1 Satz 1 Nr. 1 und 5 das Recht auf Teilnahme. Der Träger der Grundsicherung für Arbeitsuchende bestätigt Teilnahmeberechtigten nach § 4 Abs. 1 Satz 1 Nr. 4 das Recht auf Teilnahme. Der Träger der Leistungen nach dem Asylbewerberleistungsgesetz bestätigt Leistungsberechtigten nach § 4 Absatz 1 Satz 1 Nummer 6 das Recht auf Teilnahme. In der Bestätigung sind der Zeitpunkt des Erlöschens der Teilnahmeberechtigung sowie eine Verpflichtung nach § 44a des Aufenthaltsgesetzes zu vermerken.
 
@@ -128,7 +132,7 @@ Der Antrag auf Fahrtkostenzuschuss ist vor Beginn des Kursabschnitts zu stellen,
 
 (4) Mit der Bestätigung werden die Teilnahmeberechtigten in einem Merkblatt über die Ziele und Inhalte des Integrationskurses, über die Kursangebote der zugelassenen Träger, über die Modalitäten der Anmeldung und Teilnahme sowie über mögliche Folgen der Nichtteilnahme informiert.
 
-##### § 7 Anmeldung zum Integrationskurs
+###### § 7 Anmeldung zum Integrationskurs
 
 (1) Teilnahmeberechtigte können sich bei jedem zugelassenen Kursträger zu einem Integrationskurs anmelden. Die Anmeldung kann im Einzelfall auch beim Bundesamt erfolgen. Bei der Anmeldung haben Teilnahmeberechtigte ihre Bestätigung der Teilnahmeberechtigung vorzulegen. Mit der Anmeldung kann ein Antrag auf Kostenbefreiung nach § 9 Abs. 2 beim Bundesamt gestellt werden. Der Antrag auf Kostenbefreiung ist im Anmeldeformular zu vermerken. Das Anmeldeformular enthält darüber hinaus folgende Angaben zum Teilnahmeberechtigten: Namen, Vornamen, Geburtsdatum, Geburtsort, Anschrift, Staatsangehörigkeiten, Geschlecht, Angaben zur Schreibkundigkeit, zum Bildungsstand, zu den Kenntnissen der deutschen Sprache, zum Bedarf einer Kinderbeaufsichtigung sowie zur zeitlichen Verfügbarkeit für einen Kursbesuch. Das Bundesamt legt einen einheitlichen Vordruck für das Anmeldeformular fest.
 
@@ -140,7 +144,7 @@ Der Antrag auf Fahrtkostenzuschuss ist vor Beginn des Kursabschnitts zu stellen,
 
 (5) Kommt ein Kurs innerhalb von sechs Wochen nach der Anmeldung oder Zuweisung nach den Absätzen 1 bis 3 nicht zustande, soll das Bundesamt den Teilnahmeverpflichteten einem anderen Kursträger mit einem entsprechenden Kursangebot zuweisen. Einen Teilnahmeberechtigten kann das Bundesamt an einen anderen Kursträger mit einem entsprechenden Kursangebot verweisen, wenn ein Kurs innerhalb von sechs Wochen nach der Anmeldung oder Verweisung nach den Absätzen 1 und 3 nicht zustande kommt.
 
-##### § 8 Datenverarbeitung
+###### § 8 Datenverarbeitung
 
 (1) Die Ausländerbehörde, die Träger der Grundsicherung für Arbeitsuchende, die Träger der Leistungen nach dem Asylbewerberleistungsgesetz und das Bundesverwaltungsamt übermitteln dem Bundesamt zur Erfüllung seiner gesetzlichen Koordinierungs- und Durchführungsaufgaben die Daten nach den §§ 5a, 6 Absatz 1 oder Absatz 2 sowie Angaben zum Aufenthaltstitel und zum Herkunftsland. Auf Ersuchen der Ausländerbehörde, des Trägers der Grundsicherung für Arbeitsuchende oder des Trägers der Leistungen nach dem Asylbewerberleistungsgesetz übermittelt das Bundesamt die Daten nach § 5 Absatz 3, den §§ 5a sowie 6 Absatz 1 oder Absatz 2 zur Feststellung, ob eine andere zuständige Stelle eine Berechtigung ausgestellt oder zum Integrationskurs verpflichtet hat. Auf Ersuchen der Ausländerbehörde, des Trägers der Grundsicherung für Arbeitsuchende oder des Trägers der Leistungen nach dem Asylbewerberleistungsgesetz übermittelt das Bundesamt in den Fällen des § 7 Absatz 3 Daten zur Teilnahme am Termin zur Einstufung.
 
@@ -180,7 +184,7 @@ Bei der Abwägung nach Satz 2 Nummer 2 ist im Rahmen des öffentlichen Interesse
 
 (8) Die Speicherung, Veränderung und Nutzung personenbezogener Daten zu dem in Absatz 7 genannten Zweck hat räumlich und organisatorisch getrennt von der Verarbeitung und Nutzung personenbezogener Daten für die Erfüllung anderer Aufgaben des Bundesamtes zu erfolgen.
 
-##### § 9 Kostenbeitrag
+###### § 9 Kostenbeitrag
 
 (1) Für die Teilnahme am Integrationskurs haben Teilnahmeberechtigte einen Kostenbeitrag zu leisten, der 50 Prozent des zum Zeitpunkt der Anmeldung zum Integrationskurs nach § 7 Absatz 1 geltenden Kostenerstattungssatzes nach § 20 Absatz 6 beträgt. Zur Zahlung ist nach § 43 Abs. 3 Satz 4 des Aufenthaltsgesetzes auch derjenige verpflichtet, der dem Teilnahmeberechtigten zur Gewährung des Lebensunterhalts verpflichtet ist.
 
@@ -204,13 +208,13 @@ Das Bundesamt kann Teilnahmeberechtigte darüber hinaus auf Antrag von der Koste
 
 ## Abschnitt 3 Struktur, Dauer und Inhalt des Integrationskurses
 
-##### § 10 Grundstruktur des Integrationskurses
+###### § 10 Grundstruktur des Integrationskurses
 
 (1) Der Integrationskurs umfasst 700 Unterrichtsstunden. Er findet in Deutsch statt und ist in einen Sprachkurs sowie einen Orientierungskurs unterteilt.
 
 (2) Das Bundesamt legt die Lerninhalte und Lernziele für die einzelnen Kursabschnitte des Sprachkurses und für den Orientierungskurs fest unter Berücksichtigung der methodisch-didaktischen Erkenntnisse und Erfahrungen bei der Vermittlung von Deutsch als Zweitsprache.
 
-##### § 11 Grundstruktur des Sprachkurses
+###### § 11 Grundstruktur des Sprachkurses
 
 (1) Der Sprachkurs umfasst 600 Unterrichtsstunden. Er ist in einen Basis- und in einen Aufbausprachkurs unterteilt. Basis- und Aufbausprachkurs bestehen aus jeweils drei Kursabschnitten mit unterschiedlichen Leistungsstufen. Am Ende des Basis- und des Aufbausprachkurses ermittelt der Kursträger den erreichten Leistungsstand des Teilnehmers. Die Teilnahme am Aufbausprachkurs setzt in der Regel eine Teilnahme am Basissprachkurs voraus. Das gilt nicht, wenn das Sprachniveau eines Teilnahmeberechtigten durch die Teilnahme am Basissprachkurs nicht mehr wesentlich gefördert werden kann. Teilnehmer können mit Zustimmung des Kursträgers die Leistungsstufen bei Neubeginn eines Kursabschnitts wechseln, überspringen oder wiederholen.
 
@@ -218,11 +222,11 @@ Das Bundesamt kann Teilnahmeberechtigte darüber hinaus auf Antrag von der Koste
 
 (3) Während des Aufbausprachkurses kann der Teilnehmer auf Anregung des Kursträgers und in Abstimmung mit dem Bundesamt an einem Praktikum zum interaktiven Sprachgebrauch teilnehmen. Hierzu kann der Sprachunterricht unterbrochen werden. Für den Zeitraum der Unterbrechung wird kein Kostenbeitrag erhoben.
 
-##### § 12 Grundstruktur des Orientierungskurses
+###### § 12 Grundstruktur des Orientierungskurses
 
 Der Orientierungskurs umfasst 100 Unterrichtsstunden. Er findet im Anschluss an den Sprachkurs statt und wird grundsätzlich von dem Kursträger durchgeführt, der für den Integrationskurs zugelassen ist. In Ausnahmefällen kann der Kursträger mit Zustimmung des Bundesamtes einen anderen zugelassenen Kursträger beauftragen, den Orientierungskurs durchzuführen.
 
-##### § 13 Integrationskurse für spezielle Zielgruppen, Intensivkurs
+###### § 13 Integrationskurse für spezielle Zielgruppen, Intensivkurs
 
 (1) Bei Bedarf können Integrationskurse für spezielle Zielgruppen vorgesehen werden, wenn ein besonderer Unterricht oder ein erhöhter Betreuungsaufwand erforderlich ist. Integrationskurse für spezielle Zielgruppen umfassen bis zu 900 Unterrichtsstunden im Sprachkurs und 100 Unterrichtsstunden im Orientierungskurs. Sie können insbesondere eingerichtet werden für Teilnahmeberechtigte,
 
@@ -238,7 +242,7 @@ Teilnahmeberechtigte, die an einem Kurs nach Satz 3 Nummer 1 oder 3 teilgenommen
 
 (3) Das Bundesamt stellt in Abstimmung mit den Kommunen, dem Bundesverwaltungsamt, anderen nach Bundes- oder Landesrecht zuständigen Stellen, den Trägern migrationsspezifischer Beratungsangebote sowie mit den zugelassenen Kursträgern den örtlichen Bedarf für die Integrationskurse nach den Absätzen 1 und 2 fest.
 
-##### § 14 Organisation der Integrationskurse, Ordnungsmäßigkeit der Teilnahme
+###### § 14 Organisation der Integrationskurse, Ordnungsmäßigkeit der Teilnahme
 
 (1) Der Integrationskurs wird in der Regel als ganztägiger Unterricht angeboten. Das Angebot von Teilzeitkursen soll auf einen zügigen Abschluss des Kurses ausgerichtet sein.
 
@@ -252,7 +256,7 @@ Teilnahmeberechtigte, die an einem Kurs nach Satz 3 Nummer 1 oder 3 teilgenommen
 
 (6) Der Kursträger hat jedem Teilnehmer auf Verlangen eine Bescheinigung über die ordnungsgemäße Teilnahme auszustellen; der Kursträger hat die Bescheinigung auch vor Abschluss des Integrationskurses auszustellen, wenn der Teilnehmer dies verlangt. Verlangt ein Teilnehmer die Bescheinigung vor Abschluss des Integrationskurses, ist die Teilnahme ordnungsgemäß, wenn er so regelmäßig im Kurs anwesend ist, dass ein Kurserfolg möglich ist. Verlangt ein Teilnehmer die Bescheinigung nach Abschluss des Integrationskurses, ist die Teilnahme im Fall einer nicht erfolgreichen Teilnahme dennoch ordnungsgemäß, wenn er so regelmäßig im Kurs anwesend war, dass ein Kurserfolg möglich gewesen wäre und er am Abschlusstest nach § 17 Absatz 1 teilgenommen hat. Die Ausländerbehörde, der Träger der Grundsicherung für Arbeitsuchende und der Träger der Leistungen nach dem Asylbewerberleistungsgesetz können auch vor Abschluss des Integrationskurses den zur Teilnahme an einem Integrationskurs verpflichteten Ausländer auffordern, die bis dahin ordnungsgemäße Teilnahme nachzuweisen. Sofern der Ausländer dieser Aufforderung nicht nachkommt, hat auf Verlangen des Bundesamtes, der Ausländerbehörde, des Trägers der Grundsicherung für Arbeitsuchende oder des Trägers der Leistungen nach dem Asylbewerberleistungsgesetz der Kursträger bei der Feststellung der ordnungsgemäßen Teilnahme mitzuwirken. Der Träger der Grundsicherung für Arbeitsuchende kann auch vor Abschluss des Integrationskurses einen Ausländer, bei dem die Teilnahme an einem Integrationskurs im Rahmen eines Kooperationsplans nach § 15 Absatz 2 des Zweiten Buches Sozialgesetzbuch vorgesehen ist, auffordern, die bis dahin ordnungsgemäße Teilnahme nachzuweisen. Sofern der Ausländer dieser Aufforderung nicht nachkommt, hat auf Verlangen des Bundesamtes oder des Trägers der Grundsicherung für Arbeitsuchende der Kursträger bei der Feststellung der ordnungsgemäßen Teilnahme mitzuwirken.
 
-##### § 15 Lehrkräfte und Prüfer
+###### § 15 Lehrkräfte und Prüfer
 
 (1) Lehrkräfte, die im Integrationskurs unterrichten, müssen über eine Zulassung des Bundesamtes verfügen. Die Erteilung einer Zulassung bedarf eines Antrags beim Bundesamt. Das Bundesamt erteilt auf Antrag eine Zulassung zur Lehrtätigkeit in Integrationskursen, wenn folgende Voraussetzungen nachgewiesen werden:
 
@@ -272,17 +276,17 @@ Dem Antrag ist zur Berücksichtigung im Rahmen der Prüfung der persönlichen Ei
 
 (4) Prüfer, die Prüfungen gemäß § 17 Absatz 1 Nummer 1 abnehmen, müssen Kenntnisse zur Bewertung von Sprachkompetenzen und Unterrichtserfahrung mit der Zielgruppe nachweisen. Es wird vermutet, dass ein Prüfer über diese Qualifikationen verfügt, wenn er im Besitz einer gültigen Prüferlizenz „Deutsch-Test für Zuwanderer“ des vom Bundesamt nach § 17 Absatz 1 Satz 4 beauftragten Testinstituts ist. Voraussetzung für den Einsatz als Prüfer ist die Zulassung als Lehrkraft nach Absatz 1.
 
-##### § 15a Widerruf und Erlöschen der Zulassung als Lehrkraft
+###### § 15a Widerruf und Erlöschen der Zulassung als Lehrkraft
 
 (1) Die Zulassung als Lehrkraft ist mit Wirkung für die Zukunft zu widerrufen, wenn ihre Voraussetzungen nicht mehr vorliegen, insbesondere wenn die persönliche Eignung nicht besteht, sodass eine erfolgreiche Vermittlung der Ziele des Integrationskurses nach § 3 Absatz 1 nicht zu erwarten ist. Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt.
 
 (2) Mit Rücknahme oder Widerruf der Zulassung als Lehrkraft nach § 15 Absatz 1 erlischt die ergänzende Zulassung nach § 15 Absatz 2 ebenfalls.
 
-##### § 16 Zulassung der Lehr- und Lernmittel
+###### § 16 Zulassung der Lehr- und Lernmittel
 
 Lehr- und Lernmittel für den Integrationskurs können auf Antrag vom Bundesamt zugelassen werden.
 
-##### § 17 Abschlusstest, Zertifikat Integrationskurs
+###### § 17 Abschlusstest, Zertifikat Integrationskurs
 
 (1) Der Integrationskurs wird abgeschlossen durch
 
@@ -310,7 +314,7 @@ Diese Tests werden bei hierfür zugelassenen Stellen (§ 20a) abgelegt. Diese St
 
 ## Abschnitt 4 Kursträger, Prüfstellen, Bewertungskommission
 
-##### § 18 Kursträger
+###### § 18 Kursträger
 
 (1) Das Bundesamt kann auf Antrag zur Durchführung der Integrationskurse und des Einstufungstests nach § 11 Absatz 2 private oder öffentliche Kursträger zulassen, wenn sie
 
@@ -326,7 +330,7 @@ Diese Tests werden bei hierfür zugelassenen Stellen (§ 20a) abgelegt. Diese St
 
 (4) Kursträger, die nach Absatz 1 zugelassen sind, können im Wege des Vergabeverfahrens mit der Durchführung von Integrationskursen beauftragt werden, insbesondere wenn dies zur Sicherstellung eines bedarfsgerechten Angebots an Maßnahmen, bei denen der Integrationskurs mit Maßnahmen der aktiven Arbeitsmarktpolitik kombiniert wird, erforderlich ist oder wenn anderenfalls kein ausreichendes Kursangebot in einzelnen Regionen gewährleistet werden kann. Das Bundesamt kann das Vergabeverfahren durch eine andere Behörde durchführen lassen. Die Regelungen über die Leistungen zur Eingliederung in Arbeit nach dem Zweiten Buch Sozialgesetzbuch und der aktiven Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch bleiben unberührt.
 
-##### § 19 Anforderungen an den Zulassungsantrag
+###### § 19 Anforderungen an den Zulassungsantrag
 
 (1) Zur Beurteilung der Zuverlässigkeit und Gesetzestreue des Antragstellers oder der zur Führung seiner Geschäfte bestellten Personen muss der Antrag Folgendes enthalten:
 
@@ -374,7 +378,7 @@ Das Bundesamt kann darüber hinaus einen Nachweis über die Gewerbeanzeige nach 
 
 (5) Für den Antrag ist das vom Bundesamt festgelegte Antragsformular zu verwenden.
 
-##### § 20 Prüfung und Entscheidung des Bundesamtes
+###### § 20 Prüfung und Entscheidung des Bundesamtes
 
 (1) Das Bundesamt entscheidet über den Zulassungsantrag nach Prüfung der eingereichten Unterlagen und im Regelfall nach örtlicher Prüfung. Bei der Entscheidung über die Erteilung der Zulassung und ihre Dauer sind die nach § 19 gemachten Angaben und die Erfahrungen mit der bisherigen Kooperation des Trägers mit dem Bundesamt einschließlich bereits erfolgter Verkürzungen der Zulassungsdauer nach Absatz 2 Satz 4 zu berücksichtigen.
 
@@ -388,7 +392,7 @@ Das Bundesamt kann darüber hinaus einen Nachweis über die Gewerbeanzeige nach 
 
 (6) Das Bundesamt setzt nach Ermittlung der bundesweiten Preisentwicklung angemessene, den Grundsätzen der Sachgerechtigkeit und Wirtschaftlichkeit genügende Kostenerstattungssätze fest. Einzelheiten regelt das Bundesamt in einer Abrechnungsrichtlinie.
 
-##### § 20a Zulassung von Prüfungsstellen
+###### § 20a Zulassung von Prüfungsstellen
 
 (1) Für die Durchführung des „Deutsch-Tests für Zuwanderer“ nach § 17 Absatz 1 Nummer 1 sowie des Tests „Leben in Deutschland“ nach § 17 Absatz 1 Nummer 2 ist jeweils eine gesonderte Zulassung erforderlich. Das Bundesamt kann die nach den §§ 18 bis 20 zur Durchführung von Integrationskursen zugelassenen Kursträger als Prüfungsstellen zulassen, wenn sie zuverlässig und leistungsfähig sind und die Prüfungssicherheit gewährleisten. Antragstellern, die nicht als Integrationskursträger zugelassen sind, kann das Bundesamt eine Zulassung erteilen, wenn ein örtlicher Bedarf besteht.
 
@@ -408,7 +412,7 @@ Das Bundesamt kann darüber hinaus einen Nachweis über die Gewerbeanzeige nach 
 
 (5) Das Bundesamt kann private oder öffentliche Stellen mit einer regional zentralisierten Durchführung von Einstufungstests nach § 11 Absatz 2 und von Abschlusstests nach § 17 Absatz 1 beauftragen.
 
-##### § 20b Widerruf und Erlöschen der Zulassung
+###### § 20b Widerruf und Erlöschen der Zulassung
 
 (1) Die Zulassung soll mit Wirkung für die Zukunft widerrufen werden, wenn ihre Voraussetzungen nicht mehr vorliegen, insbesondere wenn
 
@@ -430,7 +434,7 @@ Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt.
 
 (3) Mit Ablauf, Rücknahme oder Widerruf der Zulassung als Kursträger erlischt die Zulassung als Prüfungsstelle ebenfalls.
 
-##### § 21 Bewertungskommission
+###### § 21 Bewertungskommission
 
 (1) Zur Bewertung von Lehrplänen, Lehr- und Lernmitteln und der Inhalte der Tests, zur Entwicklung von Verfahren der Qualitätskontrolle sowie zur Fortentwicklung des Integrationskurskonzepts wird eine Bewertungskommission beim Bundesamt eingerichtet.
 
@@ -438,7 +442,7 @@ Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt.
 
 ## Abschnitt 5 Übergangsregelung
 
-##### § 22 Übergangsregelungen
+###### § 22 Übergangsregelungen
 
 (1) § 5 Absatz 3 Satz 4 in der bis zum 31. Januar 2023 geltenden Fassung findet für Zulassungen Anwendung, die bis zum Ablauf des 31. Januar 2023 erteilt wurden.
 
@@ -448,7 +452,6 @@ Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt.
 
 (4) Für Jugendintegrationskurse und Eltern- beziehungsweise Frauenintegrationskurse gemäß § 13 Absatz 1 Satz 3 Nummer 1 und 2 der bis zum 7. Dezember 2024 geltenden Fassung findet § 13 Absatz 1 in der bis zum 7. Dezember 2024 geltenden Fassung Anwendung, sofern die Kurse vor dem 1. Mai 2025 beginnen.
 
-##### § 23 (weggefallen)
+###### § 23 (weggefallen)
 
 -
-
