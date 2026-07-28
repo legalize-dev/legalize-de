@@ -4,27 +4,32 @@ identifier: "KRITISDACHG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2026-03-11"
-last_updated: "2026-04-04"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/kritisdachg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR0420B0026"
 slug: "kritisdachg"
 bgbl_reference: "BGBl. I 2026, Nr. 66"
+hinweis: "Änderung durch Art. 8 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Dachgesetz zur Stärkung der physischen Resilienz kritischer Anlagen
 
-##### § 1 Nationale KRITIS-Resilienzstrategie
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Nationale KRITIS-Resilienzstrategie
 
 Die Bundesregierung soll eine Strategie zur Verbesserung der Resilienz kritischer Infrastrukturen verabschieden. Die Strategie beinhaltet Erwägungen zu Transparenzpflichten für kritische Infrastrukturen.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes
 
 1. ist „Betreiber kritischer Anlagen“ eine natürliche oder juristische Person oder eine rechtlich unselbständige Organisationseinheit einer Gebietskörperschaft, die unter Berücksichtigung der rechtlichen, wirtschaftlichen und tatsächlichen Umstände bestimmenden Einfluss auf eine oder mehrere kritische Anlagen ausübt; abweichend hiervon hat im Sektor Finanzwesen bestimmenden Einfluss auf eine kritische Anlage, wer die tatsächliche Sachherrschaft ausübt, wobei die rechtlichen und wirtschaftlichen Umstände insoweit unberücksichtigt bleiben;
 
-2. ist „Anlage“ eine Betriebsstätte, sonstige ortsfeste Installation, Maschine, Gerät und sonstige ortsveränderliche technische Installation;
+2. ist „Anlage“ eine Betriebsstätte, sonstige ortsfeste Installation, Maschine, Gerät, sonstige ortsveränderliche technische Installation oder Software und IT-Dienste; für Software und IT-Dienste, die nicht unmittelbar der Steuerung, Überwachung oder Unterstützung physischer Prozesse der Erbringung kritischer Dienstleistungen dienen, gelten ausschließlich die Vorgaben des BSI-Gesetzes;
 
 3. ist „kritische Anlage“ eine Anlage, die für die Erbringung einer kritischen Dienstleistung erheblich ist;
 
@@ -46,7 +51,7 @@ Im Sinne dieses Gesetzes
 
 12. sind „maritime Infrastrukturen“ Anlagen auf oder unter See im Küstenmeer und der ausschließlichen Wirtschaftszone der Bundesrepublik Deutschland.
 
-##### § 3 Zentrale Anlaufstelle; zuständige Behörde; behördliche Zusammenarbeit; Verordnungsermächtigung
+###### § 3 Zentrale Anlaufstelle; zuständige Behörde; behördliche Zusammenarbeit; Verordnungsermächtigung
 
 (1) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe ist zentrale Anlaufstelle im Sinne des Artikels 9 Absatz 2 der Richtlinie (EU) 2022/2557 in der Fassung vom 14. Dezember 2022.
 
@@ -66,29 +71,27 @@ d) des Betriebes von öffentlichen Telekommunikationsnetzen oder der Erbringung 
 
 3. das Bundesministerium für Wirtschaft und Energie für die kritische Dienstleistung der Mineralölversorgung,
 
-4. das Eisenbahn-Bundesamt für die kritische Dienstleistung des Eisenbahnverkehrs, soweit er in die Zuständigkeit der bundeseigenen Eisenbahnverkehrsunternehmen oder Eisenbahninfrastrukturunternehmen fällt,
+4. die Generaldirektion Wasserstraßen und Schifffahrt für die kritische Dienstleitung der See- und Binnenschifffahrt in Bezug auf den Betrieb der bundeseigenen Wasserstraßeninfrastruktur,
 
-5. die Generaldirektion Wasserstraßen und Schifffahrt für die kritische Dienstleitung der See- und Binnenschifffahrt in Bezug auf den Betrieb der bundeseigenen Wasserstraßeninfrastruktur,
+5. das Bundesamt für Seeschifffahrt und Hydrographie für die kritischen Dienstleistungen der Wasserstands- und Gezeitenvorhersage des Bundes,
 
-6. das Bundesamt für Seeschifffahrt und Hydrographie für die kritischen Dienstleistungen der Wasserstands- und Gezeitenvorhersage des Bundes,
+6. das Fernstraßen-Bundesamt für die kritische Dienstleistung des Straßenverkehrs in Bezug auf Verkehrssteuerungs- und Leitsysteme sowie intelligente Verkehrssysteme auf Bundesautobahnen und -straßen in Bundesverwaltung,
 
-7. das Fernstraßen-Bundesamt für die kritische Dienstleistung des Straßenverkehrs in Bezug auf Verkehrssteuerungs- und Leitsysteme sowie intelligente Verkehrssysteme auf Bundesautobahnen und -straßen in Bundesverwaltung,
+7. der Deutsche Wetterdienst für die kritische Dienstleistung der Wettervorhersage, soweit sie in seine Zuständigkeit fällt,
 
-8. der Deutsche Wetterdienst für die kritische Dienstleistung der Wettervorhersage, soweit sie in seine Zuständigkeit fällt,
-
-9. das Bundesamt für Sicherheit in der Informationstechnik für die kritischen Dienstleistungen, soweit sie nicht dem Betrieb von öffentlichen Telekommunikationsnetzen oder der Erbringung von öffentlich zugänglichen Telekommunikationsdiensten dienen,
+8. das Bundesamt für Sicherheit in der Informationstechnik für die kritischen Dienstleistungen, soweit sie nicht dem Betrieb von öffentlichen Telekommunikationsnetzen oder der Erbringung von öffentlich zugänglichen Telekommunikationsdiensten dienen,
 
 a) der Sprach- und Datenübertragung,
 
 b) der Datenspeicherung und -verarbeitung,
 
-10. die Bundesanstalt für Finanzdienstleistungsaufsicht für die kritischen Dienstleistungen, die durch Unternehmen erbracht werden, für welche sie die zuständige Behörde im Sinne des Artikels 46 der Verordnung (EU) 2022/2554 ist,
+9. die Bundesanstalt für Finanzdienstleistungsaufsicht für die kritischen Dienstleistungen, die durch Unternehmen erbracht werden, für welche sie die zuständige Behörde im Sinne des Artikels 46 der Verordnung (EU) 2022/2554 ist,
 
-11. die für den jeweiligen Leistungsträger nach dem Sozialgesetzbuch zuständige Aufsichtsbehörde für die kritische Dienstleistung der Erbringung von Leistungen der Sozialversicherung; sofern die kritische Dienstleistung der Leistungen des Rechts der Arbeitsförderung sowie der Grundsicherung für Arbeitsuchende, soweit sie der Aufsicht des Bundes unterliegt, betroffen ist, die Bundesagentur für Arbeit,
+10. die für den jeweiligen Leistungsträger nach dem Sozialgesetzbuch zuständige Aufsichtsbehörde für die kritische Dienstleistung der Erbringung von Leistungen der Sozialversicherung; sofern die kritische Dienstleistung der Leistungen des Rechts der Arbeitsförderung sowie der Grundsicherung für Arbeitsuchende, soweit sie der Aufsicht des Bundes unterliegt, betroffen ist, die Bundesagentur für Arbeit,
 
-12. das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe für die Aufgaben nach den §§ 8, 14 Absatz 2 sowie § 18,
+11. das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe für die Aufgaben nach den §§ 8, 14 Absatz 2 sowie § 18,
 
-13. in den in den Nummern 1 bis 12 nicht genannten Fällen die jeweils zuständigen Bundesbehörden nach Absatz 3 Satz 1 und die jeweils zuständigen Landesbehörden nach Absatz 6 Satz 1.
+12. in den in den Nummern 1 bis 11 nicht genannten Fällen die jeweils zuständigen Bundesbehörden nach Absatz 3 Satz 1 und die jeweils zuständigen Landesbehörden nach Absatz 6 Satz 1.
 
 Die in diesem Gesetz gesondert ausgewiesenen Zuständigkeiten bleiben unberührt.
 
@@ -98,7 +101,7 @@ Die in diesem Gesetz gesondert ausgewiesenen Zuständigkeiten bleiben unberührt
 
 (5) Jedes Land benennt dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe spätestens einen Monat nach dem 17. März 2026 je eine Landesbehörde als zentralen Ansprechpartner für sektorenübergreifende Angelegenheiten im Zusammenhang mit der Durchführung dieses Gesetzes.
 
-(6) Jedes Land bestimmt für die nicht in Absatz 2 Satz 1 Nummer 1 bis 12 genannten kritischen Dienstleistungen der Rechtsverordnung nach § 4 Absatz 3, welche Landesbehörden die Aufgaben nach diesem Gesetz wahrnehmen. Es teilt dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe die zuständigen Behörden spätestens drei Monate nach Inkrafttreten der Rechtsverordnung nach § 4 Absatz 3 mit. Soweit eine Festlegung einer Bundesbehörde nach Absatz 3 zu einer jeweils kritischen Dienstleistung erfolgt ist, hat diese Festlegung Vorrang vor einer Bestimmung einer Landesbehörde nach diesem Absatz.
+(6) Jedes Land bestimmt für die nicht in Absatz 2 Satz 1 Nummer 1 bis 11 genannten kritischen Dienstleistungen der Rechtsverordnung nach § 4 Absatz 3, welche Landesbehörden die Aufgaben nach diesem Gesetz wahrnehmen. Es teilt dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe die zuständigen Behörden spätestens drei Monate nach Inkrafttreten der Rechtsverordnung nach § 4 Absatz 3 mit. Soweit eine Festlegung einer Bundesbehörde nach Absatz 3 zu einer jeweils kritischen Dienstleistung erfolgt ist, hat diese Festlegung Vorrang vor einer Bestimmung einer Landesbehörde nach diesem Absatz.
 
 (7) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe und die zuständigen Behörden nach Absatz 2 Satz 1 und Absatz 6 Satz 1 übermitteln sich wechselseitig die Informationen, die für die Aufgabenerfüllung der jeweils anderen Seite erforderlich sind. Erforderlich sein können insbesondere
 
@@ -126,7 +129,7 @@ Für die Übermittlung von Informationen nach Satz 1 vereinbaren Sender und Empf
 
 3. ein Betreiber kritischer Anlagen in einem anderen Mitgliedstaat der Europäischen Union als kritische Einrichtung im Sinne des Artikels 2 Nummer 1 der Richtlinie (EU) 2022/2557 eingestuft wurde und wesentliche Dienste im Sinne des Artikels 2 Nummer 5 der Richtlinie (EU) 2022/2557 und des Artikels 2 der Delegierten Verordnung (EU) 2023/2450 für einen anderen oder in einem anderen Mitgliedstaat der Europäischen Union erbringt.
 
-##### § 4 Geltungsbereich; Sektoren; Verordnungsermächtigung
+###### § 4 Geltungsbereich; Sektoren; Verordnungsermächtigung
 
 (1) Dieses Gesetz gilt für Betreiber kritischer Anlagen in den folgenden Sektoren:
 
@@ -188,7 +191,7 @@ Für die Übermittlung von Informationen nach Satz 1 vereinbaren Sender und Empf
 
 (5) Zugang zu den Akten, die die Erstellung oder Änderung der Verordnung nach Absatz 3 betreffen, wird nicht gewährt. Die Akteneinsichtsrechte von Verfahrensbeteiligten bleiben unberührt.
 
-##### § 5 Erheblichkeit einer Anlage für die Erbringung kritischer Dienstleistungen; Feststellungsbefugnis; Verordnungsermächtigungen
+###### § 5 Erheblichkeit einer Anlage für die Erbringung kritischer Dienstleistungen; Feststellungsbefugnis; Verordnungsermächtigungen
 
 (1) Das Bundesministerium des Innern bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
@@ -218,7 +221,7 @@ Für die Übermittlung von Informationen nach Satz 1 vereinbaren Sender und Empf
 
 Der Regelwert für Schwellenwerte nach Absatz 1 Satz 1 Nummer 2 beträgt grundsätzlich 500 000 von einer Anlage zu versorgende Einwohner.
 
-(3) Ist eine Anlage für die Erbringung einer kritischen Dienstleistung erheblich, ohne die Voraussetzungen der Rechtsverordnung des Absatzes 1 Satz 1 zu erfüllen, so stellt das Bundesministerium des Innern dies im Einzelfall fest, falls für die betroffene Dienstleistung eine Behörde des Bundes die zuständige Behörde ist. Ist eine Anlage für die Erbringung einer kritischen Dienstleistung nicht erheblich, obwohl sie die Voraussetzungen der Rechtsverordnung des Absatzes 1 Satz 1 erfüllt, so stellt das Bundesministerium des Innern dies im Einzelfall fest, falls für die betroffene Dienstleistung eine Behörde des Bundes die zuständige Behörde ist. Für die Beurteilung der Erheblichkeit einer Anlage für die Erbringung einer kritischen Dienstleistung gilt Absatz 2 entsprechend.
+(3) Ist eine Anlage für die Erbringung einer kritischen Dienstleistung erheblich, ohne die Voraussetzungen der Rechtsverordnung des Absatzes 1 Satz 1 zu erfüllen, so stellt das Bundesministerium des Innern dies im Einzelfall fest. Ist eine Anlage für die Erbringung einer kritischen Dienstleistung nicht erheblich, obwohl sie die Voraussetzungen der Rechtsverordnung des Absatzes 1 Satz 1 erfüllt, so stellt das Bundesministerium des Innern dies im Einzelfall fest. Für die Beurteilung der Erheblichkeit einer Anlage für die Erbringung einer kritischen Dienstleistung gilt Absatz 2 entsprechend.
 
 (4) Falls für die betroffene Dienstleistung eine Behörde des Bundes die zuständige Behörde ist, erfolgt die Feststellung nach Absatz 3 Satz 1 und 2 im Einvernehmen mit dem Bundesministerium, zu dessen Geschäftsbereich die Behörde gehört. Liegt die Fach- oder Rechtsaufsicht für den Teil einer Behörde, der für die betroffene kritische Dienstleistung zuständig ist, nicht bei dem Bundesministerium, zu dessen Geschäftsbereich sie gehört, erfolgt die Feststellung nach Absatz 3 Satz 1 und 2 im Einvernehmen mit dem Bundesministerium, dessen Fach- oder Rechtsaufsicht der betreffende Teil dieser Behörde untersteht. Im Übrigen erfolgt sie im Benehmen mit dem Landesministerium, zu dessen Geschäftsbereich die für die betroffene Dienstleistung zuständige Behörde gehört. Die zuständigen Behörden machen Vorschläge für Feststellungen nach Absatz 3 Satz 1 und 2.
 
@@ -228,7 +231,7 @@ Der Regelwert für Schwellenwerte nach Absatz 1 Satz 1 Nummer 2 beträgt grunds�
 
 (7) Das Bundesministerium des Innern wird ermächtigt, in einer Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Kriterien und Verfahren festzulegen, mit denen die Länder feststellen können, ob eine Anlage für die Erbringung einer kritischen Dienstleistung erheblich ist, ohne die Voraussetzungen der Rechtsverordnung des Absatzes 1 Satz 1 zu erfüllen. Die Länder können dies für Anlagen feststellen, bei denen für die betroffene Dienstleistung eine Landesbehörde die zuständige Behörde ist. Bei der Festlegung der Kriterien werden die Kriterien nach Absatz 2 berücksichtigt. § 4 Absatz 4 und 5 gilt entsprechend.
 
-##### § 6 Sonstige Resilienzregelungen und Resilienzmaßnahmen
+###### § 6 Sonstige Resilienzregelungen und Resilienzmaßnahmen
 
 (1) Für die Aufrechterhaltung des Betriebs kritischer Anlagen können auch Einrichtungen von erheblicher Bedeutung sein, für die dieses Gesetz nicht gilt. Hierzu zählen notwendige Betreuungsangebote, die für die Erhaltung der personellen Arbeitsfähigkeit in kritischen Anlagen erforderlich sind.
 
@@ -236,7 +239,7 @@ Der Regelwert für Schwellenwerte nach Absatz 1 Satz 1 Nummer 2 beträgt grunds�
 
 (3) Die Sicherheitsbehörden des Bundes und der Länder erfüllen ihre Aufgaben im Rahmen der gesetzlichen Vorschriften.
 
-##### § 7 Einrichtungen der Bundesverwaltung; Geltung der Vorschriften für Betreiber kritischer Anlagen und allgemeine Feststellungen
+###### § 7 Einrichtungen der Bundesverwaltung; Geltung der Vorschriften für Betreiber kritischer Anlagen und allgemeine Feststellungen
 
 (1) Die Vorschriften für Betreiber kritischer Anlagen
 
@@ -254,23 +257,25 @@ Satz 1 gilt nicht für das Auswärtige Amt und das Bundesministerium der Verteid
 
 (3) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe berät die Einrichtungen der Bundesverwaltung bei der Umsetzung und Einhaltung ihrer in Absatz 1 genannten Verpflichtungen.
 
-##### § 8 Registrierung kritischer Anlagen; Geltungszeitpunkt
+###### § 8 Registrierung kritischer Anlagen; Geltungszeitpunkt
 
-(1) Ein Betreiber kritischer Anlagen ist verpflichtet, spätestens drei Monate, nachdem eine Anlage als kritische Anlage gilt, frühestens jedoch bis einschließlich zum 17. Juli 2026, dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe über eine gemeinsam vom Bundesamt für Sicherheit in der Informationstechnik und dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe eingerichtete Registrierungsmöglichkeit nach § 33 Absatz 1 des BSI-Gesetzes folgende Angaben zu übermitteln (Registrierung):
+(1) Ein Betreiber kritischer Anlagen ist verpflichtet, spätestens drei Monate, nachdem eine Anlage als kritische Anlage gilt, dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe über eine gemeinsam vom Bundesamt für Sicherheit in der Informationstechnik und dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe eingerichtete Registrierungsmöglichkeit folgende Angaben zu übermitteln:
 
 1. den Namen des Betreibers kritischer Anlagen, einschließlich der Rechtsform und, falls einschlägig, die Handelsregisternummer,
 
 2. die Anschrift und aktuelle Kontaktdaten des Betreibers kritischer Anlagen, einschließlich der E-Mail-Adresse und der Telefonnummer,
 
-3. den Sektor und, falls einschlägig, die Branche, zu dem oder zu der die kritische Anlage gehört, sowie die kritische Dienstleistung, für deren Erbringung die Anlage erheblich ist,
+3. den Namen oder eine referenzierbare Bezeichnung der kritischen Anlage,
 
-4. soweit einschlägig, die Kategorie der kritischen Anlage und deren Werte zum Versorgungsgrad gemäß der Rechtsverordnung nach § 5 Absatz 1 Satz 1, den Standort der kritischen Anlagen und deren Versorgungsgebiet sowie deren öffentlichen IP-Adressbereiche,
+4. den Sektor und, falls einschlägig, die Branche, zu dem oder zu der die kritische Anlage gehört, sowie die kritische Dienstleistung, für deren Erbringung die Anlage erheblich ist,
 
-5. falls einschlägig, eine Auflistung der Mitgliedstaaten der Europäischen Union, in denen oder für die der Betreiber kritischer Anlagen wesentliche Dienste im Sinne des Artikels 2 Nummer 5 der Richtlinie (EU) 2022/2557 in der Fassung vom 14. Dezember 2022 und des Artikels 2 der Delegierten Verordnung (EU) 2023/2450 in der Fassung vom 25. Juli 2023 erbringt, unter Angabe, welche wesentlichen Dienste er in welchen oder für welche Mitgliedstaaten erbringt,
+5. soweit einschlägig, die Kategorie der kritischen Anlage und deren Werte zum Versorgungsgrad gemäß der Rechtsverordnung nach § 5 Absatz 1 Satz 1, den Standort der kritischen Anlagen und deren Versorgungsgebiet sowie deren öffentlichen IP-Adressbereiche,
 
-6. eine Kontaktstelle, über die der Betreiber kritischer Anlagen erreichbar ist; in Bezug auf Maßnahmen nach dem BSI-Gesetz ist die jederzeitige Erreichbarkeit zu gewährleisten, sowie
+6. falls einschlägig, eine Auflistung der Mitgliedstaaten der Europäischen Union, in denen oder für die der Betreiber kritischer Anlagen wesentliche Dienste im Sinne des Artikels 2 Nummer 5 der Richtlinie (EU) 2022/2557 in der Fassung vom 14. Dezember 2022 und des Artikels 2 der Delegierten Verordnung (EU) 2023/2450 in der Fassung vom 25. Juli 2023 erbringt, unter Angabe, welche wesentlichen Dienste er in welchen oder für welche Mitgliedstaaten erbringt,
 
-7. die bei ihm zum Einsatz kommenden Typen von kritischen Komponenten gemäß § 2 Nummer 23 des BSI-Gesetzes.
+7. eine Kontaktstelle, über die der Betreiber kritischer Anlagen erreichbar ist; in Bezug auf Maßnahmen nach dem BSI-Gesetz ist die jederzeitige Erreichbarkeit zu gewährleisten, sowie
+
+8. die bei ihm zum Einsatz kommenden Typen von kritischen Komponenten gemäß § 2 Nummer 23 des BSI-Gesetzes.
 
 (2) Rechtfertigen Tatsachen die Annahme, dass ein Betreiber kritischer Anlagen seine Pflicht zur Registrierung nicht erfüllt, so kann das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe von dem Betreiber verlangen, Aufzeichnungen, Schriftstücke und sonstige Unterlagen vorzulegen sowie Auskünfte zu erteilen, soweit dies erforderlich ist, um festzustellen, ob die Anlage kritisch ist. Können bestimmte Unterlagen oder Auskünfte aus Gründen des Geheimschutzes, der überwiegenden Sicherheitsinteressen oder des überwiegenden Schutzes von Betriebs- und Geschäftsgeheimnissen nicht vorgelegt oder erteilt werden, stellt der Betreiber die erforderlichen Informationen auf andere Weise zu Verfügung.
 
@@ -278,15 +283,15 @@ Satz 1 gilt nicht für das Auswärtige Amt und das Bundesministerium der Verteid
 
 (4) Das Bundesamt für Sicherheit in der Informationstechnik und die zuständigen Behörden können dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe Vorschläge für die Registrierung weiterer Betreiber kritischer Anlagen unterbreiten und übermitteln dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe die erforderlichen Informationen zur Identifizierung der Betreiber kritischer Anlagen.
 
-(5) Dem Betreiber kritischer Anlagen wird die zuständige Behörde durch das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe spätestens zwei Wochen nach der Registrierung schriftlich oder elektronisch mitgeteilt, mit Ausnahme der erstmaligen Mitteilung, die nicht vor dem 17. August 2026 erfolgen muss. Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe informiert das Bundesamt für Sicherheit in der Informationstechnik sowie die jeweils zuständige Behörde unverzüglich über jede erfolgte Registrierung. Die Übermittlung der Information gemäß Absatz 1 Nummer 7 erfolgt ausschließlich an das Bundesamt für Sicherheit in der Informationstechnik.
+(5) Dem Betreiber kritischer Anlagen werden der Abschluss des Registrierungsprozesses und die zuständige Behörde durch das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe schriftlich oder elektronisch mitgeteilt. Die Mitteilung soll innerhalb von vier Wochen übermittelt werden. Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe übermittelt dem Bundesamt für Sicherheit in der Informationstechnik und der jeweils zuständigen Behörde unverzüglich nach Abschluss der Registrierung alle Registrierungsdaten. Die Übermittlung der in Absatz 1 Nummer 8 genannten Information erfolgt ausschließlich an das Bundesamt für Sicherheit in der Informationstechnik.
 
 (6) Bei Änderungen der nach Absatz 1 zu übermittelnden Angaben sind über die in Absatz 1 genannte Registrierungsmöglichkeit geänderte Werte zum Versorgungsgrad einmal jährlich zu übermitteln und alle anderen Angaben unverzüglich, spätestens jedoch zwei Wochen ab dem Zeitpunkt, zu dem der Betreiber kritischer Anlagen von der Änderung Kenntnis erhalten hat, zu übermitteln. Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe informiert das Bundesamt für Sicherheit in der Informationstechnik sowie die zuständige Behörde unverzüglich über alle übermittelten Änderungen.
 
 (7) Die Verpflichtungen nach § 12 gelten für den Betreiber einer kritischen Anlage erstmals neun Monate, die Verpflichtungen nach den §§ 13, 18 und 20 erstmals zehn Monate nach deren Registrierung.
 
-(8) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe legt die Einzelheiten zur Ausgestaltung des Registrierungsverfahrens im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fest. Die Festlegung nach Satz 1 erfolgt durch eine öffentliche Mitteilung auf der Internetseite des Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.
+(8) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe legt die Einzelheiten zur Ausgestaltung des Registrierungsverfahrens im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik innerhalb von vier Wochen nach Inkrafttreten der Rechtsverordnung nach § 4 Absatz 3 und § 5 Absatz 1 fest. Die Festlegung nach Satz 1 erfolgt durch eine öffentliche Mitteilung auf der Internetseite des Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.
 
-##### § 9 Kritische Einrichtungen von besonderer Bedeutung für Europa
+###### § 9 Kritische Einrichtungen von besonderer Bedeutung für Europa
 
 (1) Ein Betreiber kritischer Anlagen gilt als Betreiber einer kritischen Einrichtung von besonderer Bedeutung für Europa, wenn
 
@@ -296,7 +301,7 @@ Satz 1 gilt nicht für das Auswärtige Amt und das Bundesministerium der Verteid
 
 (2) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe leitet die Mitteilung nach § 8 Absatz 1 Nummer 5 unverzüglich an die zuständige Behörde weiter. Das Bundesministerium des Innern teilt diese Informationen der Europäischen Kommission unverzüglich mit.
 
-(3) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe leitet die Mitteilung der Europäischen Kommission, einen Betreiber kritischer Anlagen als kritische Einrichtung von besonderer Bedeutung für Europa zu betrachten, unverzüglich an jenen und an die zuständige Behörde weiter.
+(3) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe leitet die Mitteilung der Europäischen Kommission, einen Betreiber kritischer Anlagen als kritische Einrichtung von besonderer Bedeutung für Europa zu betrachten, unverzüglich an jenen und an die zuständige Behörde weiter. Ab dem Eingang der Mitteilung nach Satz 1 beim Betreiber kritischer Anlagen gelten die in den §§ 12 und 13 vorgesehenen Verpflichtungen für den Betreiber kritischer Anlagen aufgrund seiner Eigenschaft als kritische Einrichtung mit besonderer Bedeutung für Europa.
 
 (4) Auf Antrag der Europäischen Kommission oder eines Mitgliedstaats der Europäischen Union, für den oder in dem im Falle des Absatzes 1 Nummer 1 ein wesentlicher Dienst erbracht wird, übermittelt das Bundesministerium des Innern im Benehmen mit dem Bundesministerium oder Landesministerium, zu dessen Geschäftsbereich die für die betroffene Dienstleistung zuständige Behörde gehört, der Europäischen Kommission
 
@@ -308,7 +313,7 @@ Satz 1 gilt nicht für das Auswärtige Amt und das Bundesministerium der Verteid
 
 Liegt die Fach- oder Rechtsaufsicht für den Teil einer Behörde, der für die betroffene kritische Dienstleistung zuständig ist, nicht bei dem Bundesministerium, zu dessen Geschäftsbereich sie gehört, so übermittelt das Bundesministerium des Innern die Informationen nach den Nummern 1 bis 3 der Europäischen Kommission im Benehmen mit dem Bundesministerium, dessen Fach- oder Rechtsaufsicht der betreffende Teil dieser Behörde untersteht. Informationen, deren Offenlegung wesentlichen nationalen Interessen im Bereich der nationalen Sicherheit, der öffentlichen Sicherheit oder der Verteidigung entgegenlaufen würde, sind von der Übermittlung ausgeschlossen.
 
-##### § 10 Beratungsmission bei Einrichtungen von besonderer Bedeutung für Europa
+###### § 10 Beratungsmission bei Einrichtungen von besonderer Bedeutung für Europa
 
 (1) Das Bundesministerium des Innern kann einen Antrag bei der Europäischen Kommission auf Einrichtung einer Beratungsmission zur Bewertung der Maßnahmen stellen, die eine kritische Einrichtung von besonderer Bedeutung für Europa ergriffen hat, um ihre Verpflichtungen nach den §§ 12, 13 und 18 zu erfüllen. Einer Beratungsmission im Sinne des Satzes 1, die die Europäische Kommission vorschlägt oder ein anderer Mitgliedstaat der Europäischen Union beantragt, kann das Bundesministerium des Innern zustimmen. Falls für die betroffene Dienstleistung eine Behörde des Bundes die zuständige Behörde ist, erfolgen der Antrag nach Satz 1 und die Zustimmung nach Satz 2 im Einvernehmen mit dem Bundesministerium, zu dessen Geschäftsbereich die Behörde gehört. Liegt die Fach- oder Rechtsaufsicht für den Teil einer Behörde, der für die betroffene kritische Dienstleistung zuständig ist, nicht bei dem Bundesministerium, zu dessen Geschäftsbereich sie gehört, erfolgen der Antrag nach Satz 1 und die Zustimmung nach Satz 2 im Einvernehmen mit dem Bundesministerium, dessen Fach- oder Rechtsaufsicht der betreffende Teil dieser Behörde untersteht. Im Übrigen erfolgen sie im Benehmen mit dem Landesministerium, zu dessen Geschäftsbereich die für die betroffene Dienstleistung zuständige Behörde gehört.
 
@@ -322,7 +327,7 @@ Liegt die Fach- oder Rechtsaufsicht für den Teil einer Behörde, der für die b
 
 (6) Konkretisiert die Europäische Kommission durch einen oder mehrere Durchführungsrechtsakte gemäß Artikel 18 Absatz 6 der Richtlinie (EU) 2022/2557 das Verfahren der Beratungsmission, so gehen diese Regelungen entgegenstehenden Vorschriften dieses Paragraphen, mit Ausnahme des Absatzes 4, vor.
 
-##### § 11 Nationale Risikoanalysen und Risikobewertungen; Verordnungsermächtigung
+###### § 11 Nationale Risikoanalysen und Risikobewertungen; Verordnungsermächtigung
 
 (1) Als Grundlage für die Erstellung nationaler Risikoanalysen und Risikobewertungen führen die Bundesministerien und Landesministerien jeweils für die kritischen Dienstleistungen, für die eine Behörde ihres Geschäftsbereichs die zuständige Behörde ist und soweit sie die Fach- oder Rechtsaufsicht für die zuständige Behörde ausüben, Risikoanalysen und Risikobewertungen durch. Für kritische Dienstleistungen der Einrichtungen der Bundesverwaltung führt das Bundesministerium des Innern die Risikoanalyse und Risikobewertung auf der Grundlage fachspezifischer Bewertungen durch die übrigen Einrichtungen der Bundesverwaltung durch. Liegt die Fach- oder Rechtsaufsicht für die zuständige Behörde hinsichtlich der betroffenen kritischen Dienstleistung bei einem anderen Bundesministerium, führt dieses Bundesministerium die entsprechenden Risikoanalysen und Risikobewertungen durch. Die Sätze 1 und 2 gelten nicht für kritische Dienstleistungen, die vom Auswärtigen Amt und vom Bundesministerium der Verteidigung erbracht werden.
 
@@ -338,7 +343,7 @@ c) hybride Bedrohungen, sicherheitsgefährdende oder andere feindliche Bedrohung
 
 2. alle wesentlichen Risiken für wirtschaftliche Tätigkeiten im Binnenmarkt und die Bevölkerung, die sich aus dem Ausmaß der Abhängigkeit zwischen den Sektoren ergeben und die Handlungsfähigkeit der Wirtschaft bedrohen, einschließlich
 
-a) dem Ausmaß der Abhängigkeit von in anderen Mitgliedstaaten der Europäischen Union und Drittstaaten ansässigen kritischen Einrichtungen im Sinne des Artikels 2 Nummer 1 der Richtlinie (EU) 2022/2057 sowie,
+a) dem Ausmaß der Abhängigkeit von in anderen Mitgliedstaaten der Europäischen Union und Drittstaaten ansässigen kritischen Einrichtungen im Sinne des Artikels 2 Nummer 1 der *Richtlinie (EU) 2022/2557* sowie,
 
 b) soweit bekannt, den Auswirkungen, die eine in einem Sektor auftretende erhebliche Störung auf andere Sektoren haben kann,
 
@@ -370,7 +375,7 @@ d) der Richtlinie 2012/18/EU und
 
 (8) Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, methodische und inhaltliche Vorgaben für die Risikoanalysen und Risikobewertungen der nach Absatz 1 Satz 1 und 2 zuständigen Stellen zu bestimmen. § 4 Absatz 4 und 5 gilt entsprechend.
 
-##### § 12 Risikoanalyse und Risikobewertung des Betreibers kritischer Anlagen; Verordnungsermächtigung
+###### § 12 Risikoanalyse und Risikobewertung des Betreibers kritischer Anlagen; Verordnungsermächtigung
 
 (1) Der Betreiber kritischer Anlagen führt auf Grundlage der nationalen Risikoanalysen und Risikobewertungen und anderer vertrauenswürdiger Informationsquellen im Bedarfsfall, mindestens jedoch alle vier Jahre, eine Risikoanalyse und Risikobewertung durch, die Folgendes berücksichtigt:
 
@@ -386,7 +391,7 @@ b) dem Ausmaß der Abhängigkeiten anderer Sektoren von der kritischen Dienstlei
 
 (3) Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, inhaltliche und methodische Vorgaben einschließlich Vorlagen und Muster für die Risikoanalysen und Risikobewertungen der Betreiber kritischer Anlagen zu bestimmen. § 4 Absatz 4 und 5 gilt entsprechend. Das Bundesministerium des Innern kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe übertragen.
 
-##### § 13 Resilienzpflichten der Betreiber kritischer Anlagen; Resilienzplan
+###### § 13 Resilienzpflichten der Betreiber kritischer Anlagen; Resilienzplan
 
 (1) Der Betreiber kritischer Anlagen ist verpflichtet, nach Maßgabe der Absätze 2 und 3 Maßnahmen zur Gewährleistung seiner Resilienz zu treffen, um
 
@@ -432,9 +437,9 @@ b) die Ermittlung alternativer Lieferketten, um die Erbringung des wesentlichen 
 
 (4) Der Betreiber kritischer Anlagen muss die Maßnahmen nach Absatz 1 in einem Resilienzplan darstellen und diesen anwenden. Aus dem Resilienzplan müssen die den Maßnahmen zugrunde liegenden Erwägungen hervorgehen. Auf die Risikoanalyse und Risikobewertung des Betreibers ist Bezug zu nehmen. Der Resilienzplan ist bei Bedarf sowie nach Durchführung einer Risikoanalyse und Risikobewertung des Betreibers kritischer Anlagen zu aktualisieren.
 
-(5) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe stellt bis einschließlich 17. Januar 2026 Vorlagen und Muster für die Erstellung von Resilienzplänen auf seiner Internetseite bereit.
+(5) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe stellt spätestens acht Monate nach Inkrafttreten der Rechtsverordnung nach § 4 Absatz 3 und § 5 Absatz 1 Vorlagen und Muster für die Erstellung von Resilienzplänen auf seiner Internetseite bereit.
 
-##### § 14 Sektorenübergreifende und sektorspezifische Mindestanforderungen; branchenspezifische Resilienzstandards; Verordnungsermächtigungen
+###### § 14 Sektorenübergreifende und sektorspezifische Mindestanforderungen; branchenspezifische Resilienzstandards; Verordnungsermächtigungen
 
 (1) Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zur Konkretisierung der Verpflichtungen nach § 13 Absatz 1 sektorenübergreifende Mindestanforderungen zu bestimmen. Zudem gilt § 4 Absatz 4 entsprechend. Das Bundesministerium des Innern kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe übertragen.
 
@@ -456,11 +461,11 @@ Aus Gründen des öffentlichen Interesses werden für die Feststellung keine Geb
 
 (5) (zukünftig in Kraft)
 
-##### § 15 Vorrang von Durchführungsrechtsakten der Europäischen Kommission zu Resilienzpflichten
+###### § 15 Vorrang von Durchführungsrechtsakten der Europäischen Kommission zu Resilienzpflichten
 
 Konkretisiert die Europäische Kommission durch einen oder mehrere Durchführungsrechtsakte gemäß Artikel 13 Absatz 6 der Richtlinie (EU) 2022/2557 die technischen und methodischen Spezifikationen für die Verpflichtungen nach § 13 Absatz 1, so gehen die Regelungen entgegenstehenden Vorschriften des § 13 und entgegenstehenden Regelungen, die auf Grundlage von § 14 erlassen wurden, vor.
 
-##### § 16 Nachweise und behördliche Anordnungen zu Resilienzpflichten
+###### § 16 Nachweise und behördliche Anordnungen zu Resilienzpflichten
 
 (1) Um die Einhaltung der Verpflichtungen nach § 13 Absatz 1 zu überprüfen, kann die zuständige Behörde über das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe das Bundesamt für Sicherheit in der Informationstechnik um die Übersendung derjenigen Bestandteile der nach § 39 des BSI-Gesetzes vorgelegten Nachweise ersuchen, die für die Überprüfung der Einhaltung der Maßnahmen nach § 13 Absatz 1 erforderlich sind.
 
@@ -478,7 +483,7 @@ Konkretisiert die Europäische Kommission durch einen oder mehrere Durchführung
 
 (8) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe kann zur Ausgestaltung des Verfahrens der Erbringung des Nachweises und der Audits nach Absatz 3 Anforderungen an die Art und Weise der Durchführung, an die Geeignetheit der zu erbringenden Nachweise sowie fachliche und organisatorische Anforderungen an die Prüfer und die prüfende Stelle im Einvernehmen mit dem fachlich zuständigen Bundesministerium sowie dem Bundesamt für Sicherheit in der Informationstechnik festlegen. § 4 Absatz 4 gilt entsprechend. Die Festlegung nach Satz 1 wird durch eine öffentliche Mitteilung auf der Internetseite des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe veröffentlicht.
 
-##### § 17 Gleichwertigkeit von Nachweisen und sonstigen öffentlich-rechtlichen Verpflichtungen; Verordnungsermächtigung
+###### § 17 Gleichwertigkeit von Nachweisen und sonstigen öffentlich-rechtlichen Verpflichtungen; Verordnungsermächtigung
 
 (1) Risikoanalysen, Risikobewertungen sowie Dokumente und Maßnahmen und Zertifikate zur Stärkung der Resilienz, die der Betreiber kritischer Anlagen auf Grund sonstiger rechtlicher Verpflichtungen oder freiwillig erstellt, ergriffen oder erlangt hat, können zum Nachweis der Einhaltung der Verpflichtungen nach diesem Gesetz herangezogen werden.
 
@@ -488,9 +493,9 @@ Konkretisiert die Europäische Kommission durch einen oder mehrere Durchführung
 
 (4) Die Verpflichtungen nach diesem Gesetz gelten als eingehalten, soweit die in der Rechtsverordnung nach Absatz 3 Satz 1 als diesen gleichwertig festgestellten sonstigen Verpflichtungen eingehalten werden. Feststellungen anderer Behörden zur Einhaltung der sonstigen Verpflichtungen sind bindend.
 
-##### § 18 Meldewesen für Vorfälle; Verordnungsermächtigung
+###### § 18 Meldewesen für Vorfälle; Verordnungsermächtigung
 
-(1) Der Betreiber kritischer Anlagen ist verpflichtet, dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe Vorfälle unverzüglich, spätestens 24 Stunden nach Kenntnis der vom Bundesamt für Sicherheit in der Informationstechnik und dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe eingerichteten gemeinsamen Meldestelle nach § 32 Absatz 1 des BSI-Gesetzes zu melden. Bei einem andauernden Vorfall ist die Erstmeldung zu aktualisieren. Spätestens einen Monat nach Kenntnis des Vorfalls ist ein ausführlicher Bericht zu übermitteln. Meldepflichten auf Grund sonstiger gesetzlicher Vorgaben bleiben unberührt.
+(1) Der Betreiber kritischer Anlagen ist verpflichtet, dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe Vorfälle unverzüglich, spätestens 24 Stunden nach Kenntnis der vom Bundesamt für Sicherheit in der Informationstechnik und dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe eingerichteten gemeinsamen Meldestelle zu melden. Bei einem andauernden Vorfall ist die Erstmeldung zu aktualisieren. Spätestens einen Monat nach Kenntnis des Vorfalls ist ein ausführlicher Bericht zu übermitteln. Meldepflichten auf Grund sonstiger gesetzlicher Vorgaben bleiben unberührt.
 
 (2) Die Meldungen müssen die zu ihrem Zeitpunkt verfügbaren Informationen enthalten, die erforderlich sind, damit Art, Ursache und mögliche, auch grenzüberschreitende, Auswirkungen und Folgen des Vorfalls ermittelt und nachvollzogen werden können. Insbesondere sind folgende Angaben zu machen:
 
@@ -514,19 +519,21 @@ Konkretisiert die Europäische Kommission durch einen oder mehrere Durchführung
 
 (9) Liegt die Offenlegung des Vorfalls im öffentlichen Interesse, so kann das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe nach Anhörung des Betreibers der betroffenen kritischen Anlage und im Einvernehmen mit der zuständigen Behörde des Bundes oder im Benehmen mit der zuständigen Behörde des Landes die Öffentlichkeit über den Vorfall informieren oder den Betreiber verpflichten, dies zu tun.
 
-##### § 19 Unterstützung der Betreiber kritischer Anlagen; freiwillige Beratungsmission
+(10) Bei der Übermittlung von Meldungen über Vorfälle nach den Absätzen 4, 5 und 7 sowie bei der Erstellung von Lagebildern nach Absatz 8 sind die erforderliche Vertraulichkeit sowie die Betriebs- und Geschäftsgeheimnisse des Betreibers kritischer Anlagen zu beachten.
+
+###### § 19 Unterstützung der Betreiber kritischer Anlagen; freiwillige Beratungsmission
 
 (1) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe stellt Betreibern kritischer Anlagen Vorlagen, Muster und Leitlinien zur Umsetzung der Verpflichtungen nach diesem Gesetz zur Verfügung. Es kann zu diesem Zweck auch Beratungen, Schulungen und Übungen anbieten.
 
 (2) Das Bundesministerium des Innern kann bei der Europäischen Kommission mit Zustimmung des betroffenen Betreibers kritischer Anlagen einen Antrag auf Organisation einer Beratungsmission zur Bewertung der Maßnahmen stellen, die der Betreiber kritischer Anlagen ergriffen hat, um seine Verpflichtungen nach den §§ 12, 13 und 18 zu erfüllen. Falls für die betroffene Dienstleistung eine Behörde des Bundes die zuständige Behörde ist, erfolgt die Antragstellung im Einvernehmen mit dem Bundesministerium, zu dessen Geschäftsbereich die Behörde gehört. Liegt die Fach- oder Rechtsaufsicht für den Teil einer Behörde, der für die betroffene kritische Dienstleistung zuständig ist, nicht bei dem Bundesministerium, zu dessen Geschäftsbereich sie gehört, erfolgt die Antragstellung nach Satz 1 im Einvernehmen mit dem Bundesministerium, dessen Fach- oder Rechtsaufsicht der betreffende Teil dieser Behörde untersteht. Im Übrigen erfolgt sie im Benehmen mit dem Landesministerium, zu dessen Geschäftsbereich die für die betroffene Dienstleistung zuständige Behörde gehört.
 
-##### § 20 Umsetzungs- und Überwachungspflicht für Geschäftsleitungen
+###### § 20 Umsetzungs- und Überwachungspflicht für Geschäftsleitungen
 
 (1) Geschäftsleitungen von Betreibern kritischer Anlagen sind verpflichtet, die von den Betreibern kritischer Anlagen nach § 13 Absatz 1 zu ergreifenden Resilienzmaßnahmen umzusetzen und ihre Umsetzung durch geeignete Organisationsmaßnahmen sicherzustellen.
 
 (2) Geschäftsleitungen, die ihre Pflicht nach Absatz 1 verletzen, haften ihrer Einrichtung für einen schuldhaft verursachten Schaden nach den auf die Rechtsform der Einrichtung anwendbaren Regeln des Gesellschaftsrechts. Nach diesem Gesetz haften sie nur, wenn die für die Einrichtung maßgeblichen gesellschaftsrechtlichen Bestimmungen keine Haftungsregelung nach Satz 1 enthalten.
 
-##### § 21 Berichtspflichten
+###### § 21 Berichtspflichten
 
 (1) Das Bundesministerium des Innern übermittelt folgende Informationen an die Europäische Kommission:
 
@@ -560,7 +567,7 @@ c) die Schwellenwerte, die in der Rechtsverordnung nach § 5 Absatz 1 Satz 1 Num
 
 (7) Die Berichte nach den Absätzen 1, 2, 4 und 5 dürfen keine Informationen enthalten, die zu einer Identifizierung einzelner Meldungen oder einzelner Betreiber kritischer Anlagen führen können und dürfen keine Handels- oder Geschäftsgeheimnisse enthalten.
 
-##### § 22 Ausnahmebescheid
+###### § 22 Ausnahmebescheid
 
 (1) Das Bundesministerium des Innern kann auf Vorschlag des Bundeskanzleramtes, des Bundesministeriums der Justiz und für Verbraucherschutz, des Bundesministeriums der Verteidigung oder auf eigenes Betreiben Betreiber kritischer Anlagen von Verpflichtungen nach diesem Gesetz nach Maßgabe des Absatzes 2 teilweise befreien (einfacher Ausnahmebescheid) oder nach Maßgabe des Absatzes 3 insgesamt befreien (erweiterter Ausnahmebescheid), wenn die Resilienz des Betreibers anderweitig gewährleistet und staatlich beaufsichtigt ist.
 
@@ -578,7 +585,7 @@ können für diese Tätigkeiten von den Verpflichtungen nach den §§ 12, 13 und
 
 (5) Die Entscheidungen nach diesem Paragrafen erfolgen im Benehmen mit dem Bundesministerium oder Landesministerium, zu dessen Geschäftsbereich die für den betroffenen Betreiber kritischer Anlagen zuständige Behörde gehört. Liegt die Fach- oder Rechtsaufsicht für den Teil einer Behörde, der für die betroffene kritische Dienstleistung zuständig ist, nicht bei dem Bundesministerium, zu dessen Geschäftsbereich sie gehört, erfolgen die Entscheidungen nach diesem Paragrafen im Benehmen mit dem Bundesministerium, dessen Fach- oder Rechtsaufsicht der betreffende Teil dieser Behörde untersteht.
 
-##### § 23 Verarbeitung personenbezogener Daten
+###### § 23 Verarbeitung personenbezogener Daten
 
 (1) Die Verarbeitung personenbezogener Daten durch das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe, das Bundesamt für Sicherheit in der Informationstechnik, die Bundesnetzagentur, die Bundesanstalt für Finanzdienstleistungsaufsicht, die zuständigen Behörden und die nach Vorschriften dieses Gesetzes zuständigen Bundesministerien und Landesministerien ist zulässig, soweit dies zur Erfüllung der in ihrer Zuständigkeit liegenden Aufgaben erforderlich ist.
 
@@ -592,7 +599,7 @@ können für diese Tätigkeiten von den Verpflichtungen nach den §§ 12, 13 und
 
 (3) Die in Absatz 1 genannten Stellen sehen angemessene und spezifische Maßnahmen zur Wahrung der Interessen der betroffenen Person nach § 22 Absatz 2 Satz 2 des Bundesdatenschutzgesetzes vor.
 
-##### § 24 Bußgeldvorschriften
+###### § 24 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -616,11 +623,8 @@ b) § 16 Absatz 2 Satz 1 oder 2 oder Absatz 3 Satz 3, auch in Verbindung mit Abs
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 1 und 2 Buchstabe a das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe und in den übrigen Fällen die jeweils nach § 3 Absatz 2 Satz 1 zuständige Behörde.
 
-##### § 25 Evaluierung
+###### § 25 Evaluierung
 
 Das Bundesministerium des Innern wird dieses Gesetz regelmäßig alle fünf Jahre und erstmalig zwei Jahre nach Inkrafttreten im Benehmen mit den zuständigen Behörden der Länder auf wissenschaftlich fundierter Grundlage evaluieren, insbesondere im Hinblick auf die Identifizierung der Betreiber kritischer Anlagen und auf die gegebenenfalls abgestufte Ausgestaltung des Regelschwellenwertes gemäß § 5 Absatz 2 sowie die Höhe der Bußgelder gemäß § 24 und die Frage der Notwendigkeit eines Zertifizierungssystems für Nachweise gemäß § 16.
 
-##### § 26 Anwendungsbestimmung und Übergangsregelung
-
-§ 8 Absatz 1 Nummer 2, 6 und 7 ist erst anzuwenden, wenn eine auf der Grundlage von § 4 Absatz 3 und § 5 Absatz 1 erlassene Rechtsverordnung gilt. Bis zur Geltung dieser Rechtsverordnung ist § 8 Absatz 1 Nummer 2 und 6 in der bis einschließlich 16. März 2026 geltenden Fassung weiter anzuwenden.
-
+###### § 26 (weggefallen)
