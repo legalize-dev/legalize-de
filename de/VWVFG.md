@@ -4,19 +4,24 @@ identifier: "VWVFG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1976-05-25"
-last_updated: "2026-04-04"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/vwvfg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR012530976"
 slug: "vwvfg"
 bgbl_reference: "BGBl I 1976, 1253"
 stand: "zuletzt geändert durch Art. 2 G v. 15.7.2024 I Nr. 236"
 neufassung: "Neugefasst durch Bek. v. 23.1.2003 I 102;"
+hinweis: "Änderung durch Art. 11 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Verwaltungsverfahrensgesetz
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ***Teil I***
 **Anwendungsbereich, örtliche Zuständigkeit, 
@@ -107,7 +112,7 @@ Verfahrensgrundsätze
 
 § 27aBekanntmachung im Internet
 
-§ 27bZugänglichmachung auszulegender Dokumente
+§ 27bAuslegung von Dokumenten
 
 § 27cErörterung mit Verfahrensbeteiligten oder der Öffentlichkeit
 
@@ -250,11 +255,27 @@ Planfeststellungsverfahren
 
 § 72Anwendung der Vorschriften über das Planfeststellungsverfahren
 
+§ 72aEinreichung des Plans und Ausgestaltung des Verfahrens
+
 § 73Anhörungsverfahren
 
-§ 74Planfeststellungsbeschluss, Plangenehmigung
+§ 73aBehördenbeteiligung
+
+§ 73bErörterungstermin
+
+§ 73cPlanänderung im Verfahren
+
+§ 73dProjektmanager
+
+§ 74Planfeststellungsbeschluss
+
+§ 74aPlangenehmigung
+
+§ 74bEntfallen von Planfeststellung und Plangenehmigung
 
 § 75Rechtswirkungen der Planfeststellung
+
+§ 75aAußerkrafttreten des Plans
 
 § 76Planänderungen vor Fertigstellung des Vorhabens
 
@@ -327,13 +348,15 @@ Schlussvorschriften
 
 § 102aÜbergangsregelung für die Durchführung von Verwaltungsverfahren
 
+§ 102bÜbergangsvorschrift zu den §§ 72 bis 78
+
 § 103(Inkrafttreten)
 
 ## Teil I Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation, Amtshilfe, europäische Verwaltungszusammenarbeit
 
 ## Abschnitt 1 Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die öffentlich-rechtliche Verwaltungstätigkeit der Behörden
 
@@ -349,7 +372,7 @@ soweit nicht Rechtsvorschriften des Bundes inhaltsgleiche oder entgegenstehende 
 
 (4) Behörde im Sinne dieses Gesetzes ist jede Stelle, die Aufgaben der öffentlichen Verwaltung wahrnimmt.
 
-##### § 2 Ausnahmen vom Anwendungsbereich
+###### § 2 Ausnahmen vom Anwendungsbereich
 
 (1) Dieses Gesetz gilt nicht für die Tätigkeit der Kirchen, der Religionsgesellschaften und Weltanschauungsgemeinschaften sowie ihrer Verbände und Einrichtungen.
 
@@ -375,7 +398,7 @@ soweit nicht Rechtsvorschriften des Bundes inhaltsgleiche oder entgegenstehende 
 
 3. der Vertretungen des Bundes im Ausland gilt dieses Gesetz nicht.
 
-##### § 3 Örtliche Zuständigkeit
+###### § 3 Örtliche Zuständigkeit
 
 (1) Örtlich zuständig ist
 
@@ -397,7 +420,7 @@ b) eine juristische Person oder eine Vereinigung betreffen, die Behörde, in der
 
 (4) Bei Gefahr im Verzug ist für unaufschiebbare Maßnahmen jede Behörde örtlich zuständig, in deren Bezirk der Anlass für die Amtshandlung hervortritt. Die nach Absatz 1 Nr. 1 bis 3 örtlich zuständige Behörde ist unverzüglich zu unterrichten.
 
-##### § 3a Elektronische Kommunikation
+###### § 3a Elektronische Kommunikation
 
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der Empfänger hierfür einen Zugang eröffnet.
 
@@ -415,13 +438,9 @@ b) aus einem elektronischen Postfach einer Behörde oder einer juristischen Pers
 
 c) aus einem elektronischen Postfach einer natürlichen oder juristischen Person oder einer sonstigen Vereinigung, das nach Durchführung eines Identifizierungsverfahrens nach den Regelungen der auf Grund des § 130a Absatz 2 Satz 2 der Zivilprozessordnung erlassenen Rechtsverordnung eingerichtet wurde;
 
-d) mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes;
+d) (weggefallen)
 
-3. bei elektronischen Verwaltungsakten oder sonstigen elektronischen Dokumenten der Behörde,
-
-a) indem diese mit dem qualifizierten elektronischen Siegel der Behörde versehen werden;
-
-b) durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Bestätigung des akkreditierten Diensteanbieters die erlassende Behörde als Nutzer des De-Mail-Kontos erkennen lässt.
+3. bei elektronischen Verwaltungsakten oder sonstigen elektronischen Dokumenten der Behörde, indem diese mit dem qualifizierten elektronischen Siegel der Behörde versehen werden.
 
 (4) Ist ein der Behörde übermitteltes elektronisches Dokument für sie zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter Angabe der für sie geltenden technischen Rahmenbedingungen unverzüglich mit. Macht ein Empfänger geltend, er könne das von der Behörde übermittelte elektronische Dokument nicht bearbeiten, hat sie es ihm erneut in einem geeigneten elektronischen Format oder als Schriftstück zu übermitteln.
 
@@ -429,7 +448,7 @@ b) durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Geset
 
 ## Abschnitt 2 Amtshilfe
 
-##### § 4 Amtshilfepflicht
+###### § 4 Amtshilfepflicht
 
 (1) Jede Behörde leistet anderen Behörden auf Ersuchen ergänzende Hilfe (Amtshilfe).
 
@@ -439,7 +458,7 @@ b) durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Geset
 
 2. die Hilfeleistung in Handlungen besteht, die der ersuchten Behörde als eigene Aufgabe obliegen.
 
-##### § 5 Voraussetzungen und Grenzen der Amtshilfe
+###### § 5 Voraussetzungen und Grenzen der Amtshilfe
 
 (1) Eine Behörde kann um Amtshilfe insbesondere dann ersuchen, wenn sie
 
@@ -473,17 +492,17 @@ Die ersuchte Behörde ist insbesondere zur Vorlage von Urkunden oder Akten sowie
 
 (5) Hält die ersuchte Behörde sich zur Hilfe nicht für verpflichtet, so teilt sie der ersuchenden Behörde ihre Auffassung mit. Besteht diese auf der Amtshilfe, so entscheidet über die Verpflichtung zur Amtshilfe die gemeinsame fachlich zuständige Aufsichtsbehörde oder, sofern eine solche nicht besteht, die für die ersuchte Behörde fachlich zuständige Aufsichtsbehörde.
 
-##### § 6 Auswahl der Behörde
+###### § 6 Auswahl der Behörde
 
 Kommen für die Amtshilfe mehrere Behörden in Betracht, so soll nach Möglichkeit eine Behörde der untersten Verwaltungsstufe des Verwaltungszweigs ersucht werden, dem die ersuchende Behörde angehört.
 
-##### § 7 Durchführung der Amtshilfe
+###### § 7 Durchführung der Amtshilfe
 
 (1) Die Zulässigkeit der Maßnahme, die durch die Amtshilfe verwirklicht werden soll, richtet sich nach dem für die ersuchende Behörde, die Durchführung der Amtshilfe nach dem für die ersuchte Behörde geltenden Recht.
 
 (2) Die ersuchende Behörde trägt gegenüber der ersuchten Behörde die Verantwortung für die Rechtmäßigkeit der zu treffenden Maßnahme. Die ersuchte Behörde ist für die Durchführung der Amtshilfe verantwortlich.
 
-##### § 8 Kosten der Amtshilfe
+###### § 8 Kosten der Amtshilfe
 
 (1) Die ersuchende Behörde hat der ersuchten Behörde für die Amtshilfe keine Verwaltungsgebühr zu entrichten. Auslagen hat sie der ersuchten Behörde auf Anforderung zu erstatten, wenn sie im Einzelfall 35 Euro übersteigen. Leisten Behörden desselben Rechtsträgers einander Amtshilfe, so werden die Auslagen nicht erstattet.
 
@@ -491,7 +510,7 @@ Kommen für die Amtshilfe mehrere Behörden in Betracht, so soll nach Möglichke
 
 ## Abschnitt 3 Europäische Verwaltungszusammenarbeit
 
-##### § 8a Grundsätze der Hilfeleistung
+###### § 8a Grundsätze der Hilfeleistung
 
 (1) Jede Behörde leistet Behörden anderer Mitgliedstaaten der Europäischen Union auf Ersuchen Hilfe, soweit dies nach Maßgabe von Rechtsakten der Europäischen Gemeinschaft geboten ist.
 
@@ -499,7 +518,7 @@ Kommen für die Amtshilfe mehrere Behörden in Betracht, so soll nach Möglichke
 
 (3) Die §§ 5, 7 und 8 Absatz 2 sind entsprechend anzuwenden, soweit Rechtsakte der Europäischen Gemeinschaft nicht entgegenstehen.
 
-##### § 8b Form und Behandlung der Ersuchen
+###### § 8b Form und Behandlung der Ersuchen
 
 (1) Ersuchen sind in deutscher Sprache an Behörden anderer Mitgliedstaaten der Europäischen Union zu richten; soweit erforderlich, ist eine Übersetzung beizufügen. Die Ersuchen sind gemäß den gemeinschaftsrechtlichen Vorgaben und unter Angabe des maßgeblichen Rechtsakts zu begründen.
 
@@ -509,17 +528,17 @@ Kommen für die Amtshilfe mehrere Behörden in Betracht, so soll nach Möglichke
 
 (4) Einrichtungen und Hilfsmittel der Kommission zur Behandlung von Ersuchen sollen genutzt werden. Informationen sollen elektronisch übermittelt werden.
 
-##### § 8c Kosten der Hilfeleistung
+###### § 8c Kosten der Hilfeleistung
 
 Ersuchende Behörden anderer Mitgliedstaaten der Europäischen Union haben Verwaltungsgebühren oder Auslagen nur zu erstatten, soweit dies nach Maßgabe von Rechtsakten der Europäischen Gemeinschaft verlangt werden kann.
 
-##### § 8d Mitteilungen von Amts wegen
+###### § 8d Mitteilungen von Amts wegen
 
 (1) Die zuständige Behörde teilt den Behörden anderer Mitgliedstaaten der Europäischen Union und der Kommission Angaben über Sachverhalte und Personen mit, soweit dies nach Maßgabe von Rechtsakten der Europäischen Gemeinschaft geboten ist. Dabei sollen die hierzu eingerichteten Informationsnetze genutzt werden.
 
 (2) Übermittelt eine Behörde Angaben nach Absatz 1 an die Behörde eines anderen Mitgliedstaats der Europäischen Union, unterrichtet sie den Betroffenen über die Tatsache der Übermittlung, soweit Rechtsakte der Europäischen Gemeinschaft dies vorsehen; dabei ist auf die Art der Angaben sowie auf die Zweckbestimmung und die Rechtsgrundlage der Übermittlung hinzuweisen.
 
-##### § 8e Anwendbarkeit
+###### § 8e Anwendbarkeit
 
 Die Regelungen dieses Abschnitts sind mit Inkrafttreten des jeweiligen Rechtsaktes der Europäischen Gemeinschaft, wenn dieser unmittelbare Wirkung entfaltet, im Übrigen mit Ablauf der jeweiligen Umsetzungsfrist anzuwenden. Sie gelten auch im Verhältnis zu den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, soweit Rechtsakte der Europäischen Gemeinschaft auch auf diese Staaten anzuwenden sind.
 
@@ -528,15 +547,15 @@ Verwaltungsverfahren
 
 ## Abschnitt 1 Verfahrensgrundsätze
 
-##### § 9 Begriff des Verwaltungsverfahrens
+###### § 9 Begriff des Verwaltungsverfahrens
 
 Das Verwaltungsverfahren im Sinne dieses Gesetzes ist die nach außen wirkende Tätigkeit der Behörden, die auf die Prüfung der Voraussetzungen, die Vorbereitung und den Erlass eines Verwaltungsaktes oder auf den Abschluss eines öffentlich-rechtlichen Vertrags gerichtet ist; es schließt den Erlass des Verwaltungsaktes oder den Abschluss des öffentlich-rechtlichen Vertrags ein.
 
-##### § 10 Nichtförmlichkeit des Verwaltungsverfahrens
+###### § 10 Nichtförmlichkeit des Verwaltungsverfahrens
 
 Das Verwaltungsverfahren ist an bestimmte Formen nicht gebunden, soweit keine besonderen Rechtsvorschriften für die Form des Verfahrens bestehen. Es ist einfach, zweckmäßig und zügig durchzuführen.
 
-##### § 11 Beteiligungsfähigkeit
+###### § 11 Beteiligungsfähigkeit
 
 Fähig, am Verfahren beteiligt zu sein, sind
 
@@ -546,7 +565,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 3. Behörden.
 
-##### § 12 Handlungsfähigkeit
+###### § 12 Handlungsfähigkeit
 
 (1) Fähig zur Vornahme von Verfahrenshandlungen sind
 
@@ -562,7 +581,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 (3) Die §§ 53 und 55 der Zivilprozessordnung gelten entsprechend.
 
-##### § 13 Beteiligte
+###### § 13 Beteiligte
 
 (1) Beteiligte sind
 
@@ -578,7 +597,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 (3) Wer anzuhören ist, ohne dass die Voraussetzungen des Absatzes 1 vorliegen, wird dadurch nicht Beteiligter.
 
-##### § 14 Bevollmächtigte und Beistände
+###### § 14 Bevollmächtigte und Beistände
 
 (1) Ein Beteiligter kann sich durch einen Bevollmächtigten vertreten lassen. Die Vollmacht ermächtigt zu allen das Verwaltungsverfahren betreffenden Verfahrenshandlungen, sofern sich aus ihrem Inhalt nicht etwas anderes ergibt. Der Bevollmächtigte hat auf Verlangen seine Vollmacht schriftlich nachzuweisen. Ein Widerruf der Vollmacht wird der Behörde gegenüber erst wirksam, wenn er ihr zugeht.
 
@@ -594,11 +613,11 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 (7) Die Zurückweisung nach den Absätzen 5 und 6 ist auch dem Beteiligten, dessen Bevollmächtigter oder Beistand zurückgewiesen wird, mitzuteilen. Verfahrenshandlungen des zurückgewiesenen Bevollmächtigten oder Beistands, die dieser nach der Zurückweisung vornimmt, sind unwirksam.
 
-##### § 15 Bestellung eines Empfangsbevollmächtigten
+###### § 15 Bestellung eines Empfangsbevollmächtigten
 
 Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland hat der Behörde auf Verlangen innerhalb einer angemessenen Frist einen Empfangsbevollmächtigten im Inland zu benennen. Unterlässt er dies, gilt ein an ihn gerichtetes Schriftstück am siebenten Tage nach der Aufgabe zur Post und ein elektronisch übermitteltes Dokument am vierten Tage nach der Absendung als zugegangen. Dies gilt nicht, wenn feststeht, dass das Dokument den Empfänger nicht oder zu einem späteren Zeitpunkt erreicht hat. Auf die Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
 
-##### § 16 Bestellung eines Vertreters von Amts wegen
+###### § 16 Bestellung eines Vertreters von Amts wegen
 
 (1) Ist ein Vertreter nicht vorhanden, so hat das Betreuungsgericht, für einen minderjährigen Beteiligten das Familiengericht auf Ersuchen der Behörde einen geeigneten Vertreter zu bestellen
 
@@ -618,7 +637,7 @@ Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäft
 
 (4) Im Übrigen gelten für die Bestellung und für das Amt des Vertreters in den Fällen des Absatzes 1 Nr. 4 die Vorschriften über die Betreuung, in den übrigen Fällen die Vorschriften über die Pflegschaft entsprechend.
 
-##### § 17 Vertreter bei gleichförmigen Eingaben
+###### § 17 Vertreter bei gleichförmigen Eingaben
 
 (1) Bei Anträgen und Eingaben, die in einem Verwaltungsverfahren von mehr als 50 Personen auf Unterschriftslisten unterzeichnet oder in Form vervielfältigter gleichlautender Texte eingereicht worden sind (gleichförmige Eingaben), gilt für das Verfahren derjenige Unterzeichner als Vertreter der übrigen Unterzeichner, der darin mit seinem Namen, seinem Beruf und seiner Anschrift als Vertreter bezeichnet ist, soweit er nicht von ihnen als Bevollmächtigter bestellt worden ist. Vertreter kann nur eine natürliche Person sein.
 
@@ -628,13 +647,13 @@ Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäft
 
 (4) Endet die Vertretungsmacht des Vertreters, so kann die Behörde die nicht mehr Vertretenen auffordern, innerhalb einer angemessenen Frist einen gemeinsamen Vertreter zu bestellen. Sind mehr als 50 Personen aufzufordern, so kann die Behörde die Aufforderung ortsüblich bekannt machen. Wird der Aufforderung nicht fristgemäß entsprochen, so kann die Behörde von Amts wegen einen gemeinsamen Vertreter bestellen.
 
-##### § 18 Vertreter für Beteiligte bei gleichem Interesse
+###### § 18 Vertreter für Beteiligte bei gleichem Interesse
 
 (1) Sind an einem Verwaltungsverfahren mehr als 50 Personen im gleichen Interesse beteiligt, ohne vertreten zu sein, so kann die Behörde sie auffordern, innerhalb einer angemessenen Frist einen gemeinsamen Vertreter zu bestellen, wenn sonst die ordnungsmäßige Durchführung des Verwaltungsverfahrens beeinträchtigt wäre. Kommen sie der Aufforderung nicht fristgemäß nach, so kann die Behörde von Amts wegen einen gemeinsamen Vertreter bestellen. Vertreter kann nur eine natürliche Person sein.
 
 (2) Die Vertretungsmacht erlischt, sobald der Vertreter oder der Vertretene dies der Behörde schriftlich erklärt; der Vertreter kann eine solche Erklärung nur hinsichtlich aller Vertretenen abgeben. Gibt der Vertretene eine solche Erklärung ab, so soll er der Behörde zugleich mitteilen, ob er seine Eingabe aufrechterhält und ob er einen Bevollmächtigten bestellt hat.
 
-##### § 19 Gemeinsame Vorschriften für Vertreter bei gleichförmigen Eingaben und bei gleichem Interesse
+###### § 19 Gemeinsame Vorschriften für Vertreter bei gleichförmigen Eingaben und bei gleichem Interesse
 
 (1) Der Vertreter hat die Interessen der Vertretenen sorgfältig wahrzunehmen. Er kann alle das Verwaltungsverfahren betreffenden Verfahrenshandlungen vornehmen. An Weisungen ist er nicht gebunden.
 
@@ -642,7 +661,7 @@ Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäft
 
 (3) Der von der Behörde bestellte Vertreter hat gegen deren Rechtsträger Anspruch auf angemessene Vergütung und auf Erstattung seiner baren Auslagen. Die Behörde kann von den Vertretenen zu gleichen Anteilen Ersatz ihrer Aufwendungen verlangen. Sie bestimmt die Vergütung und stellt die Auslagen und Aufwendungen fest.
 
-##### § 20 Ausgeschlossene Personen
+###### § 20 Ausgeschlossene Personen
 
 (1) In einem Verwaltungsverfahren darf für eine Behörde nicht tätig werden,
 
@@ -698,13 +717,13 @@ Angehörige sind die in Satz 1 aufgeführten Personen auch dann, wenn
 
 3. im Falle der Nummer 8 die häusliche Gemeinschaft nicht mehr besteht, sofern die Personen weiterhin wie Eltern und Kind miteinander verbunden sind.
 
-##### § 21 Besorgnis der Befangenheit
+###### § 21 Besorgnis der Befangenheit
 
 (1) Liegt ein Grund vor, der geeignet ist, Misstrauen gegen eine unparteiische Amtsausübung zu rechtfertigen, oder wird von einem Beteiligten das Vorliegen eines solchen Grundes behauptet, so hat, wer in einem Verwaltungsverfahren für eine Behörde tätig werden soll, den Leiter der Behörde oder den von diesem Beauftragten zu unterrichten und sich auf dessen Anordnung der Mitwirkung zu enthalten. Betrifft die Besorgnis der Befangenheit den Leiter der Behörde, so trifft diese Anordnung die Aufsichtsbehörde, sofern sich der Behördenleiter nicht selbst einer Mitwirkung enthält.
 
 (2) Für Mitglieder eines Ausschusses (§ 88) gilt § 20 Abs. 4 entsprechend.
 
-##### § 22 Beginn des Verfahrens
+###### § 22 Beginn des Verfahrens
 
 Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Verwaltungsverfahren durchführt. Dies gilt nicht, wenn die Behörde auf Grund von Rechtsvorschriften
 
@@ -712,7 +731,7 @@ Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Ver
 
 2. nur auf Antrag tätig werden darf und ein Antrag nicht vorliegt.
 
-##### § 23 Amtssprache
+###### § 23 Amtssprache
 
 (1) Die Amtssprache ist deutsch.
 
@@ -722,7 +741,7 @@ Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Ver
 
 (4) Soll durch eine Anzeige, einen Antrag oder eine Willenserklärung, die in fremder Sprache eingehen, zugunsten eines Beteiligten eine Frist gegenüber der Behörde gewahrt, ein öffentlich-rechtlicher Anspruch geltend gemacht oder eine Leistung begehrt werden, so gelten die Anzeige, der Antrag oder die Willenserklärung als zum Zeitpunkt des Eingangs bei der Behörde abgegeben, wenn auf Verlangen der Behörde innerhalb einer von dieser zu setzenden angemessenen Frist eine Übersetzung vorgelegt wird. Andernfalls ist der Zeitpunkt des Eingangs der Übersetzung maßgebend, soweit sich nicht aus zwischenstaatlichen Vereinbarungen etwas anderes ergibt. Auf diese Rechtsfolge ist bei der Fristsetzung hinzuweisen.
 
-##### § 24 Untersuchungsgrundsatz
+###### § 24 Untersuchungsgrundsatz
 
 (1) Die Behörde ermittelt den Sachverhalt von Amts wegen. Sie bestimmt Art und Umfang der Ermittlungen; an das Vorbringen und an die Beweisanträge der Beteiligten ist sie nicht gebunden. Setzt die Behörde automatische Einrichtungen zum Erlass von Verwaltungsakten ein, muss sie für den Einzelfall bedeutsame tatsächliche Angaben des Beteiligten berücksichtigen, die im automatischen Verfahren nicht ermittelt würden.
 
@@ -730,7 +749,7 @@ Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Ver
 
 (3) Die Behörde darf die Entgegennahme von Erklärungen oder Anträgen, die in ihren Zuständigkeitsbereich fallen, nicht deshalb verweigern, weil sie die Erklärung oder den Antrag in der Sache für unzulässig oder unbegründet hält.
 
-##### § 25 Beratung, Auskunft, frühe Öffentlichkeitsbeteiligung
+###### § 25 Beratung, Auskunft, frühe Öffentlichkeitsbeteiligung
 
 (1) Die Behörde soll die Abgabe von Erklärungen, die Stellung von Anträgen oder die Berichtigung von Erklärungen oder Anträgen anregen, wenn diese offensichtlich nur versehentlich oder aus Unkenntnis unterblieben oder unrichtig abgegeben oder gestellt worden sind. Sie erteilt, soweit erforderlich, Auskunft über die den Beteiligten im Verwaltungsverfahren zustehenden Rechte und die ihnen obliegenden Pflichten.
 
@@ -738,7 +757,7 @@ Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Ver
 
 (3) Die Behörde wirkt darauf hin, dass der Träger bei der Planung von Vorhaben, die nicht nur unwesentliche Auswirkungen auf die Belange einer größeren Zahl von Dritten haben können, die betroffene Öffentlichkeit frühzeitig über die Ziele des Vorhabens, die Mittel, es zu verwirklichen, und die voraussichtlichen Auswirkungen des Vorhabens unterrichtet (frühe Öffentlichkeitsbeteiligung). Die frühe Öffentlichkeitsbeteiligung soll möglichst bereits vor Stellung eines Antrags stattfinden. Der betroffenen Öffentlichkeit soll Gelegenheit zur Äußerung und zur Erörterung gegeben werden. Das Ergebnis der vor Antragstellung durchgeführten frühen Öffentlichkeitsbeteiligung soll der betroffenen Öffentlichkeit und der Behörde spätestens mit der Antragstellung, im Übrigen unverzüglich mitgeteilt werden. Satz 1 gilt nicht, soweit die betroffene Öffentlichkeit bereits nach anderen Rechtsvorschriften vor der Antragstellung zu beteiligen ist. Beteiligungsrechte nach anderen Rechtsvorschriften bleiben unberührt.
 
-##### § 26 Beweismittel
+###### § 26 Beweismittel
 
 (1) Die Behörde bedient sich der Beweismittel, die sie nach pflichtgemäßem Ermessen zur Ermittlung des Sachverhalts für erforderlich hält. Sie kann insbesondere
 
@@ -754,7 +773,7 @@ Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Ver
 
 (3) Für Zeugen und Sachverständige besteht eine Pflicht zur Aussage oder zur Erstattung von Gutachten, wenn sie durch Rechtsvorschrift vorgesehen ist. Falls die Behörde Zeugen und Sachverständige herangezogen hat, erhalten sie auf Antrag in entsprechender Anwendung des Justizvergütungs- und -entschädigungsgesetzes eine Entschädigung oder Vergütung.
 
-##### § 27 Versicherung an Eides statt
+###### § 27 Versicherung an Eides statt
 
 (1) Die Behörde darf bei der Ermittlung des Sachverhalts eine Versicherung an Eides statt nur verlangen und abnehmen, wenn die Abnahme der Versicherung über den betreffenden Gegenstand und in dem betreffenden Verfahren durch Gesetz oder Rechtsverordnung vorgesehen und die Behörde durch Rechtsvorschrift für zuständig erklärt worden ist. Eine Versicherung an Eides statt soll nur gefordert werden, wenn andere Mittel zur Erforschung der Wahrheit nicht vorhanden sind, zu keinem Ergebnis geführt haben oder einen unverhältnismäßigen Aufwand erfordern. Von eidesunfähigen Personen im Sinne des § 393 der Zivilprozessordnung darf eine eidesstattliche Versicherung nicht verlangt werden.
 
@@ -766,39 +785,33 @@ Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Ver
 
 (5) Die Niederschrift hat ferner die Namen der anwesenden Personen sowie den Ort und den Tag der Niederschrift zu enthalten. Die Niederschrift ist demjenigen, der die eidesstattliche Versicherung abgibt, zur Genehmigung vorzulesen oder auf Verlangen zur Durchsicht vorzulegen. Die erteilte Genehmigung ist zu vermerken und von dem Versichernden zu unterschreiben. Die Niederschrift ist sodann von demjenigen, der die Versicherung an Eides statt aufgenommen hat, sowie von dem Schriftführer zu unterschreiben.
 
-##### § 27a Bekanntmachung im Internet
+###### § 27a Bekanntmachung im Internet
 
-(1) Ist durch Rechtsvorschrift eine öffentliche oder ortsübliche Bekanntmachung angeordnet, so ist diese dadurch zu bewirken, dass der Inhalt der Bekanntmachung auch auf einer Internetseite der Behörde oder ihres Verwaltungsträgers zugänglich gemacht wird. Soweit durch Rechtsvorschrift nichts anderes bestimmt ist, ist für die Einhaltung einer vorgeschriebenen Frist die Zugänglichmachung im Internet nach Satz 1 maßgeblich.
+(1) Ist durch Rechtsvorschrift eine öffentliche oder ortsübliche Bekanntmachung angeordnet, erfolgt sie dadurch, dass der Inhalt der Bekanntmachung auf einer Internetseite der Behörde oder ihres Verwaltungsträgers veröffentlicht wird. Soweit durch Rechtsvorschrift nichts anderes bestimmt ist, ist für die Einhaltung einer vorgeschriebenen Frist die Veröffentlichung im Internet nach Satz 1 maßgeblich.
 
-(2) Absatz 1 gilt nicht, wenn eine Zugänglichmachung im Internet, insbesondere aus technischen Gründen, nicht möglich ist.
+(2) Ist eine Veröffentlichung im Internet insbesondere aus technischen Gründen, nicht möglich, bestimmt die Behörde eine andere Art der Bekanntmachung. Abweichend von Absatz 1 Satz 2 ist für die Einhaltung einer vorgeschriebenen Frist die Bekanntmachung auf diese Weise maßgeblich.
 
-##### § 27b Zugänglichmachung auszulegender Dokumente
+###### § 27b Auslegung von Dokumenten
 
-(1) Ist durch Rechtsvorschrift die Auslegung von Dokumenten zur Einsicht angeordnet, so ist sie dadurch zu bewirken, dass die Dokumente zugänglich gemacht werden
-
-1. auf einer Internetseite der für die Auslegung zuständigen Behörde oder ihres Verwaltungsträgers und
-
-2. auf mindestens eine andere Weise.
-
-Ist eine Veröffentlichung der auszulegenden Unterlagen im Internet, insbesondere aus technischen Gründen, nicht möglich, so wird die angeordnete Auslegung zur Einsicht durch die andere Zugangsmöglichkeit nach Satz 1 Nummer 2 bewirkt.
+(1) Ist durch Rechtsvorschrift die Auslegung von Dokumenten zur Einsicht angeordnet, erfolgt sie dadurch, dass die Dokumente über eine Internetseite der für die Auslegung zuständigen Behörde oder ihres Verwaltungsträgers veröffentlicht werden. Ist eine Veröffentlichung im Internet, insbesondere aus technischen Gründen, nicht möglich, bestimmt die Behörde eine andere Art der Auslegung.
 
 (2) In der Bekanntmachung der Auslegung sind anzugeben
 
 1. der Zeitraum der Auslegung,
 
-2. die Internetseite, auf der die Zugänglichmachung erfolgt, sowie
+2. die Internetseite, über die die Veröffentlichung erfolgt, sowie
 
-3. Art und Ort der anderen Zugangsmöglichkeit.
+3. im Fall des Absatzes 1 Satz 2 statt der Angaben nach Nummer 2 die Art und der Ort der anderen Auslegung.
 
 (3) Die Behörde kann verlangen, dass die Dokumente, die für die Auslegung einzureichen sind, in einem verkehrsüblichen elektronischen Format eingereicht werden.
 
-(4) Sind in den auszulegenden Dokumenten Geheimnisse nach § 30 enthalten, so ist derjenige, der diese Dokumente einreichen muss, verpflichtet,
+(4) Sind in den Dokumenten Geheimnisse nach § 30 enthalten, so ist derjenige, der diese Dokumente einreichen muss, verpflichtet,
 
 1. diese Geheimnisse zu kennzeichnen und
 
 2. der Behörde zum Zwecke der Auslegung zusätzlich eine Darstellung vorzulegen, die den Inhalt der betreffenden Teile der Dokumente ohne Preisgabe der Geheimnisse beschreibt.
 
-##### § 27c Erörterung mit Verfahrensbeteiligten oder der Öffentlichkeit
+###### § 27c Erörterung mit Verfahrensbeteiligten oder der Öffentlichkeit
 
 (1) Ist durch Rechtsvorschrift eine Erörterung, insbesondere ein Erörterungstermin, eine mündliche Verhandlung oder eine Antragskonferenz angeordnet, kann sie ersetzt werden
 
@@ -810,7 +823,7 @@ Ist eine Veröffentlichung der auszulegenden Unterlagen im Internet, insbesonder
 
 (3) Sonstige Regelungen, die die Durchführung einer Erörterung nach Absatz 1 betreffen, bleiben unberührt.
 
-##### § 28 Anhörung Beteiligter
+###### § 28 Anhörung Beteiligter
 
 (1) Bevor ein Verwaltungsakt erlassen wird, der in Rechte eines Beteiligten eingreift, ist diesem Gelegenheit zu geben, sich zu den für die Entscheidung erheblichen Tatsachen zu äußern.
 
@@ -828,7 +841,7 @@ Ist eine Veröffentlichung der auszulegenden Unterlagen im Internet, insbesonder
 
 (3) Eine Anhörung unterbleibt, wenn ihr ein zwingendes öffentliches Interesse entgegensteht.
 
-##### § 29 Akteneinsicht durch Beteiligte
+###### § 29 Akteneinsicht durch Beteiligte
 
 (1) Die Behörde hat den Beteiligten Einsicht in die das Verfahren betreffenden Akten zu gestatten, soweit deren Kenntnis zur Geltendmachung oder Verteidigung ihrer rechtlichen Interessen erforderlich ist. Satz 1 gilt bis zum Abschluss des Verwaltungsverfahrens nicht für Entwürfe zu Entscheidungen sowie die Arbeiten zu ihrer unmittelbaren Vorbereitung. Soweit nach den §§ 17 und 18 eine Vertretung stattfindet, haben nur die Vertreter Anspruch auf Akteneinsicht.
 
@@ -836,13 +849,19 @@ Ist eine Veröffentlichung der auszulegenden Unterlagen im Internet, insbesonder
 
 (3) Die Akteneinsicht erfolgt bei der Behörde, die die Akten führt. Im Einzelfall kann die Einsicht auch bei einer anderen Behörde oder bei einer diplomatischen oder berufskonsularischen Vertretung der Bundesrepublik Deutschland im Ausland erfolgen; weitere Ausnahmen kann die Behörde, die die Akten führt, gestatten.
 
-##### § 30 Geheimhaltung
+###### § 30 Geheimhaltung
 
-Die Beteiligten haben Anspruch darauf, dass ihre Geheimnisse, insbesondere die zum persönlichen Lebensbereich gehörenden Geheimnisse sowie die Betriebs- und Geschäftsgeheimnisse, von der Behörde nicht unbefugt offenbart werden.
+Die Beteiligten haben Anspruch darauf, dass ihre Geheimnisse, insbesondere die zum persönlichen Lebensbereich gehörenden Geheimnisse sowie die Betriebs- und Geschäftsgeheimnisse und sonstige geheimhaltungsbedürftige Daten, die Teile einer Infrastruktur betreffen, die
+
+1. entweder durch Rechtsvorschrift als kritische Infrastruktur bestimmt worden sind oder
+
+2. besonders schutzbedürftig zur Wahrung der öffentlichen Sicherheit und für die Funktionsfähigkeit der Infrastruktur maßgeblich sind,
+
+von der Behörde nicht unbefugt offenbart werden.
 
 ## Abschnitt 2 Fristen, Termine, Wiedereinsetzung
 
-##### § 31 Fristen und Termine
+###### § 31 Fristen und Termine
 
 (1) Für die Berechnung von Fristen und für die Bestimmung von Terminen gelten die §§ 187 bis 193 des Bürgerlichen Gesetzbuchs entsprechend, soweit nicht durch die Absätze 2 bis 5 etwas anderes bestimmt ist.
 
@@ -858,7 +877,7 @@ Die Beteiligten haben Anspruch darauf, dass ihre Geheimnisse, insbesondere die z
 
 (7) Fristen, die von einer Behörde gesetzt sind, können verlängert werden. Sind solche Fristen bereits abgelaufen, so können sie rückwirkend verlängert werden, insbesondere wenn es unbillig wäre, die durch den Fristablauf eingetretenen Rechtsfolgen bestehen zu lassen. Die Behörde kann die Verlängerung der Frist nach § 36 mit einer Nebenbestimmung verbinden.
 
-##### § 32 Wiedereinsetzung in den vorigen Stand
+###### § 32 Wiedereinsetzung in den vorigen Stand
 
 (1) War jemand ohne Verschulden verhindert, eine gesetzliche Frist einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren. Das Verschulden eines Vertreters ist dem Vertretenen zuzurechnen.
 
@@ -872,7 +891,7 @@ Die Beteiligten haben Anspruch darauf, dass ihre Geheimnisse, insbesondere die z
 
 ## Abschnitt 3 Amtliche Beglaubigung
 
-##### § 33 Beglaubigung von Dokumenten
+###### § 33 Beglaubigung von Dokumenten
 
 (1) Jede Behörde ist befugt, Abschriften von Urkunden, die sie selbst ausgestellt hat, zu beglaubigen. Darüber hinaus sind die von der Bundesregierung durch Rechtsverordnung bestimmten Behörden im Sinne des § 1 Abs. 1 Nr. 1 und die nach Landesrecht zuständigen Behörden befugt, Abschriften zu beglaubigen, wenn die Urschrift von einer Behörde ausgestellt ist oder die Abschrift zur Vorlage bei einer Behörde benötigt wird, sofern nicht durch Rechtsvorschrift die Erteilung beglaubigter Abschriften aus amtlichen Registern und Archiven anderen Behörden ausschließlich vorbehalten ist; die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
@@ -920,7 +939,7 @@ Wird ein elektronisches Dokument, das ein anderes technisches Format erhalten ha
 
 (7) Jede Behörde soll von Urkunden, die sie selbst ausgestellt hat, auf Verlangen ein elektronisches Dokument nach Absatz 4 Nummer 4 Buchstabe a oder eine elektronische Abschrift fertigen und beglaubigen.
 
-##### § 34 Beglaubigung von Unterschriften
+###### § 34 Beglaubigung von Unterschriften
 
 (1) Die von der Bundesregierung durch Rechtsverordnung bestimmten Behörden im Sinne des § 1 Abs. 1 Nr. 1 und die nach Landesrecht zuständigen Behörden sind befugt, Unterschriften zu beglaubigen, wenn das unterzeichnete Schriftstück zur Vorlage bei einer Behörde oder bei einer sonstigen Stelle, der auf Grund einer Rechtsvorschrift das unterzeichnete Schriftstück vorzulegen ist, benötigt wird. Dies gilt nicht für
 
@@ -948,15 +967,15 @@ Wird ein elektronisches Dokument, das ein anderes technisches Format erhalten ha
 
 ## Abschnitt 1 Zustandekommen des Verwaltungsaktes
 
-##### § 35 Begriff des Verwaltungsaktes
+###### § 35 Begriff des Verwaltungsaktes
 
 Verwaltungsakt ist jede Verfügung, Entscheidung oder andere hoheitliche Maßnahme, die eine Behörde zur Regelung eines Einzelfalls auf dem Gebiet des öffentlichen Rechts trifft und die auf unmittelbare Rechtswirkung nach außen gerichtet ist. Allgemeinverfügung ist ein Verwaltungsakt, der sich an einen nach allgemeinen Merkmalen bestimmten oder bestimmbaren Personenkreis richtet oder die öffentlich-rechtliche Eigenschaft einer Sache oder ihre Benutzung durch die Allgemeinheit betrifft.
 
-##### § 35a Vollständig automatisierter Erlass eines Verwaltungsaktes
+###### § 35a Vollständig automatisierter Erlass eines Verwaltungsaktes
 
 Ein Verwaltungsakt kann vollständig durch automatische Einrichtungen erlassen werden, sofern dies durch Rechtsvorschrift zugelassen ist und weder ein Ermessen noch ein Beurteilungsspielraum besteht.
 
-##### § 36 Nebenbestimmungen zum Verwaltungsakt
+###### § 36 Nebenbestimmungen zum Verwaltungsakt
 
 (1) Ein Verwaltungsakt, auf den ein Anspruch besteht, darf mit einer Nebenbestimmung nur versehen werden, wenn sie durch Rechtsvorschrift zugelassen ist oder wenn sie sicherstellen soll, dass die gesetzlichen Voraussetzungen des Verwaltungsaktes erfüllt werden.
 
@@ -976,13 +995,13 @@ oder verbunden werden mit
 
 (3) Eine Nebenbestimmung darf dem Zweck des Verwaltungsaktes nicht zuwiderlaufen.
 
-##### § 37 Bestimmtheit und Form des Verwaltungsaktes; Rechtsbehelfsbelehrung
+###### § 37 Bestimmtheit und Form des Verwaltungsaktes; Rechtsbehelfsbelehrung
 
 (1) Ein Verwaltungsakt muss inhaltlich hinreichend bestimmt sein.
 
 (2) Ein Verwaltungsakt kann schriftlich, elektronisch, mündlich oder in anderer Weise erlassen werden. Ein mündlicher Verwaltungsakt ist schriftlich oder elektronisch zu bestätigen, wenn hieran ein berechtigtes Interesse besteht und der Betroffene dies unverzüglich verlangt. Ein elektronischer Verwaltungsakt ist unter denselben Voraussetzungen schriftlich zu bestätigen; § 3a Absatz 2 und 3 findet insoweit keine Anwendung.
 
-(3) Ein schriftlicher oder elektronischer Verwaltungsakt muss die erlassende Behörde erkennen lassen und die Unterschrift oder die Namenswiedergabe des Behördenleiters, seines Vertreters oder seines Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch Rechtsvorschrift die Schriftform angeordnet ist, die elektronische Form verwendet, muss auch das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die erlassende Behörde erkennen lassen. Im Fall des § 3a Absatz 3 Nummer 3 Buchstabe b muss die Bestätigung nach § 5 Absatz 5 des De-Mail-Gesetzes die erlassende Behörde als Nutzer des De-Mail-Kontos erkennen lassen.
+(3) Ein schriftlicher oder elektronischer Verwaltungsakt muss die erlassende Behörde erkennen lassen und die Unterschrift oder die Namenswiedergabe des Behördenleiters, seines Vertreters oder seines Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch Rechtsvorschrift die Schriftform angeordnet ist, die elektronische Form verwendet, muss auch das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die erlassende Behörde erkennen lassen.
 
 (4) Für einen Verwaltungsakt kann für die nach § 3a Absatz 2 erforderliche Signatur oder für das nach § 3a Absatz 3 Nummer 3 Buchstabe a erforderliche Siegel durch Rechtsvorschrift die dauerhafte Überprüfbarkeit vorgeschrieben werden.
 
@@ -990,7 +1009,7 @@ oder verbunden werden mit
 
 (6) Einem schriftlichen oder elektronischen Verwaltungsakt, der der Anfechtung unterliegt, ist eine Erklärung beizufügen, durch die der Beteiligte über den Rechtsbehelf, der gegen den Verwaltungsakt gegeben ist, über die Behörde oder das Gericht, bei denen der Rechtsbehelf einzulegen ist, den Sitz und über die einzuhaltende Frist belehrt wird (Rechtsbehelfsbelehrung). Die Rechtsbehelfsbelehrung ist auch der schriftlichen oder elektronischen Bestätigung eines Verwaltungsaktes und der Bescheinigung nach § 42a Absatz 3 beizufügen.
 
-##### § 38 Zusicherung
+###### § 38 Zusicherung
 
 (1) Eine von der zuständigen Behörde erteilte Zusage, einen bestimmten Verwaltungsakt später zu erlassen oder zu unterlassen (Zusicherung), bedarf zu ihrer Wirksamkeit der schriftlichen Form. Ist vor dem Erlass des zugesicherten Verwaltungsaktes die Anhörung Beteiligter oder die Mitwirkung einer anderen Behörde oder eines Ausschusses auf Grund einer Rechtsvorschrift erforderlich, so darf die Zusicherung erst nach Anhörung der Beteiligten oder nach Mitwirkung dieser Behörde oder des Ausschusses gegeben werden.
 
@@ -998,7 +1017,7 @@ oder verbunden werden mit
 
 (3) Ändert sich nach Abgabe der Zusicherung die Sach- oder Rechtslage derart, dass die Behörde bei Kenntnis der nachträglich eingetretenen Änderung die Zusicherung nicht gegeben hätte oder aus rechtlichen Gründen nicht hätte geben dürfen, ist die Behörde an die Zusicherung nicht mehr gebunden.
 
-##### § 39 Begründung des Verwaltungsaktes
+###### § 39 Begründung des Verwaltungsaktes
 
 (1) Ein schriftlicher oder elektronischer sowie ein schriftlich oder elektronisch bestätigter Verwaltungsakt ist mit einer Begründung zu versehen. In der Begründung sind die wesentlichen tatsächlichen und rechtlichen Gründe mitzuteilen, die die Behörde zu ihrer Entscheidung bewogen haben. Die Begründung von Ermessensentscheidungen soll auch die Gesichtspunkte erkennen lassen, von denen die Behörde bei der Ausübung ihres Ermessens ausgegangen ist.
 
@@ -1014,11 +1033,11 @@ oder verbunden werden mit
 
 5. wenn eine Allgemeinverfügung öffentlich bekannt gegeben wird.
 
-##### § 40 Ermessen
+###### § 40 Ermessen
 
 Ist die Behörde ermächtigt, nach ihrem Ermessen zu handeln, hat sie ihr Ermessen entsprechend dem Zweck der Ermächtigung auszuüben und die gesetzlichen Grenzen des Ermessens einzuhalten.
 
-##### § 41 Bekanntgabe des Verwaltungsaktes
+###### § 41 Bekanntgabe des Verwaltungsaktes
 
 (1) Ein Verwaltungsakt ist demjenigen Beteiligten bekannt zu geben, für den er bestimmt ist oder der von ihm betroffen wird. Ist ein Bevollmächtigter bestellt, so kann die Bekanntgabe ihm gegenüber vorgenommen werden.
 
@@ -1032,11 +1051,11 @@ Ist die Behörde ermächtigt, nach ihrem Ermessen zu handeln, hat sie ihr Ermess
 
 (5) Vorschriften über die Bekanntgabe eines Verwaltungsaktes mittels Zustellung bleiben unberührt.
 
-##### § 42 Offenbare Unrichtigkeiten im Verwaltungsakt
+###### § 42 Offenbare Unrichtigkeiten im Verwaltungsakt
 
 Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten in einem Verwaltungsakt jederzeit berichtigen. Bei berechtigtem Interesse des Beteiligten ist zu berichtigen. Die Behörde ist berechtigt, die Vorlage des Dokuments zu verlangen, das berichtigt werden soll.
 
-##### § 42a Genehmigungsfiktion
+###### § 42a Genehmigungsfiktion
 
 (1) Eine beantragte Genehmigung gilt nach Ablauf einer für die Entscheidung festgelegten Frist als erteilt (Genehmigungsfiktion), wenn dies durch Rechtsvorschrift angeordnet und der Antrag hinreichend bestimmt ist. Die Vorschriften über die Bestandskraft von Verwaltungsakten und über das Rechtsbehelfsverfahren gelten entsprechend.
 
@@ -1046,7 +1065,7 @@ Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigk
 
 ## Abschnitt 2 Bestandskraft des Verwaltungsaktes
 
-##### § 43 Wirksamkeit des Verwaltungsaktes
+###### § 43 Wirksamkeit des Verwaltungsaktes
 
 (1) Ein Verwaltungsakt wird gegenüber demjenigen, für den er bestimmt ist oder der von ihm betroffen wird, in dem Zeitpunkt wirksam, in dem er ihm bekannt gegeben wird. Der Verwaltungsakt wird mit dem Inhalt wirksam, mit dem er bekannt gegeben wird.
 
@@ -1054,7 +1073,7 @@ Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigk
 
 (3) Ein nichtiger Verwaltungsakt ist unwirksam.
 
-##### § 44 Nichtigkeit des Verwaltungsaktes
+###### § 44 Nichtigkeit des Verwaltungsaktes
 
 (1) Ein Verwaltungsakt ist nichtig, soweit er an einem besonders schwerwiegenden Fehler leidet und dies bei verständiger Würdigung aller in Betracht kommenden Umstände offensichtlich ist.
 
@@ -1086,7 +1105,7 @@ Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigk
 
 (5) Die Behörde kann die Nichtigkeit jederzeit von Amts wegen feststellen; auf Antrag ist sie festzustellen, wenn der Antragsteller hieran ein berechtigtes Interesse hat.
 
-##### § 45 Heilung von Verfahrens- und Formfehlern
+###### § 45 Heilung von Verfahrens- und Formfehlern
 
 (1) Eine Verletzung von Verfahrens- oder Formvorschriften, die nicht den Verwaltungsakt nach § 44 nichtig macht, ist unbeachtlich, wenn
 
@@ -1104,11 +1123,11 @@ Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigk
 
 (3) Fehlt einem Verwaltungsakt die erforderliche Begründung oder ist die erforderliche Anhörung eines Beteiligten vor Erlass des Verwaltungsaktes unterblieben und ist dadurch die rechtzeitige Anfechtung des Verwaltungsaktes versäumt worden, so gilt die Versäumung der Rechtsbehelfsfrist als nicht verschuldet. Das für die Wiedereinsetzungsfrist nach § 32 Abs. 2 maßgebende Ereignis tritt im Zeitpunkt der Nachholung der unterlassenen Verfahrenshandlung ein.
 
-##### § 46 Folgen von Verfahrens- und Formfehlern
+###### § 46 Folgen von Verfahrens- und Formfehlern
 
 Die Aufhebung eines Verwaltungsaktes, der nicht nach § 44 nichtig ist, kann nicht allein deshalb beansprucht werden, weil er unter Verletzung von Vorschriften über das Verfahren, die Form oder die örtliche Zuständigkeit zustande gekommen ist, wenn offensichtlich ist, dass die Verletzung die Entscheidung in der Sache nicht beeinflusst hat.
 
-##### § 47 Umdeutung eines fehlerhaften Verwaltungsaktes
+###### § 47 Umdeutung eines fehlerhaften Verwaltungsaktes
 
 (1) Ein fehlerhafter Verwaltungsakt kann in einen anderen Verwaltungsakt umgedeutet werden, wenn er auf das gleiche Ziel gerichtet ist, von der erlassenden Behörde in der geschehenen Verfahrensweise und Form rechtmäßig hätte erlassen werden können und wenn die Voraussetzungen für dessen Erlass erfüllt sind.
 
@@ -1118,7 +1137,7 @@ Die Aufhebung eines Verwaltungsaktes, der nicht nach § 44 nichtig ist, kann nic
 
 (4) § 28 ist entsprechend anzuwenden.
 
-##### § 48 Rücknahme eines rechtswidrigen Verwaltungsaktes
+###### § 48 Rücknahme eines rechtswidrigen Verwaltungsaktes
 
 (1) Ein rechtswidriger Verwaltungsakt kann, auch nachdem er unanfechtbar geworden ist, ganz oder teilweise mit Wirkung für die Zukunft oder für die Vergangenheit zurückgenommen werden. Ein Verwaltungsakt, der ein Recht oder einen rechtlich erheblichen Vorteil begründet oder bestätigt hat (begünstigender Verwaltungsakt), darf nur unter den Einschränkungen der Absätze 2 bis 4 zurückgenommen werden.
 
@@ -1138,7 +1157,7 @@ In den Fällen des Satzes 3 wird der Verwaltungsakt in der Regel mit Wirkung fü
 
 (5) Über die Rücknahme entscheidet nach Unanfechtbarkeit des Verwaltungsaktes die nach § 3 zuständige Behörde; dies gilt auch dann, wenn der zurückzunehmende Verwaltungsakt von einer anderen Behörde erlassen worden ist.
 
-##### § 49 Widerruf eines rechtmäßigen Verwaltungsaktes
+###### § 49 Widerruf eines rechtmäßigen Verwaltungsaktes
 
 (1) Ein rechtmäßiger nicht begünstigender Verwaltungsakt kann, auch nachdem er unanfechtbar geworden ist, ganz oder teilweise mit Wirkung für die Zukunft widerrufen werden, außer wenn ein Verwaltungsakt gleichen Inhalts erneut erlassen werden müsste oder aus anderen Gründen ein Widerruf unzulässig ist.
 
@@ -1170,7 +1189,7 @@ In den Fällen des Satzes 3 wird der Verwaltungsakt in der Regel mit Wirkung fü
 
 (6) Wird ein begünstigender Verwaltungsakt in den Fällen des Absatzes 2 Nr. 3 bis 5 widerrufen, so hat die Behörde den Betroffenen auf Antrag für den Vermögensnachteil zu entschädigen, den dieser dadurch erleidet, dass er auf den Bestand des Verwaltungsaktes vertraut hat, soweit sein Vertrauen schutzwürdig ist. § 48 Abs. 3 Satz 3 bis 5 gilt entsprechend. Für Streitigkeiten über die Entschädigung ist der ordentliche Rechtsweg gegeben.
 
-##### § 49a Erstattung, Verzinsung
+###### § 49a Erstattung, Verzinsung
 
 (1) Soweit ein Verwaltungsakt mit Wirkung für die Vergangenheit zurückgenommen oder widerrufen worden oder infolge Eintritts einer auflösenden Bedingung unwirksam geworden ist, sind bereits erbrachte Leistungen zu erstatten. Die zu erstattende Leistung ist durch schriftlichen Verwaltungsakt festzusetzen.
 
@@ -1180,11 +1199,11 @@ In den Fällen des Satzes 3 wird der Verwaltungsakt in der Regel mit Wirkung fü
 
 (4) Wird eine Leistung nicht alsbald nach der Auszahlung für den bestimmten Zweck verwendet, so können für die Zeit bis zur zweckentsprechenden Verwendung Zinsen nach Absatz 3 Satz 1 verlangt werden. Entsprechendes gilt, soweit eine Leistung in Anspruch genommen wird, obwohl andere Mittel anteilig oder vorrangig einzusetzen sind. § 49 Abs. 3 Satz 1 Nr. 1 bleibt unberührt.
 
-##### § 50 Rücknahme und Widerruf im Rechtsbehelfsverfahren
+###### § 50 Rücknahme und Widerruf im Rechtsbehelfsverfahren
 
 § 48 Abs. 1 Satz 2 und Abs. 2 bis 4 sowie § 49 Abs. 2 bis 4 und 6 gelten nicht, wenn ein begünstigender Verwaltungsakt, der von einem Dritten angefochten worden ist, während des Vorverfahrens oder während des verwaltungsgerichtlichen Verfahrens aufgehoben wird, soweit dadurch dem Widerspruch oder der Klage abgeholfen wird.
 
-##### § 51 Wiederaufgreifen des Verfahrens
+###### § 51 Wiederaufgreifen des Verfahrens
 
 (1) Die Behörde hat auf Antrag des Betroffenen über die Aufhebung oder Änderung eines unanfechtbaren Verwaltungsaktes zu entscheiden, wenn
 
@@ -1202,14 +1221,14 @@ In den Fällen des Satzes 3 wird der Verwaltungsakt in der Regel mit Wirkung fü
 
 (5) Die Vorschriften des § 48 Abs. 1 Satz 1 und des § 49 Abs. 1 bleiben unberührt.
 
-##### § 52 Rückgabe von Urkunden und Sachen
+###### § 52 Rückgabe von Urkunden und Sachen
 
 Ist ein Verwaltungsakt unanfechtbar widerrufen oder zurückgenommen oder ist seine Wirksamkeit aus einem anderen Grund nicht oder nicht mehr gegeben, so kann die Behörde die auf Grund dieses Verwaltungsaktes erteilten Urkunden oder Sachen, die zum Nachweis der Rechte aus dem Verwaltungsakt oder zu deren Ausübung bestimmt sind, zurückfordern. Der Inhaber und, sofern er nicht der Besitzer ist, auch der Besitzer dieser Urkunden oder Sachen sind zu ihrer Herausgabe verpflichtet. Der Inhaber oder der Besitzer kann jedoch verlangen, dass ihm die Urkunden oder Sachen wieder ausgehändigt werden, nachdem sie von der Behörde als ungültig gekennzeichnet sind; dies gilt nicht bei Sachen, bei denen eine solche Kennzeichnung nicht oder nicht mit der erforderlichen Offensichtlichkeit oder Dauerhaftigkeit möglich ist.
 
 ## Abschnitt 3 Verjährungsrechtliche Wirkungen
 des Verwaltungsaktes
 
-##### § 53 Hemmung der Verjährung durch Verwaltungsakt
+###### § 53 Hemmung der Verjährung durch Verwaltungsakt
 
 (1) Ein Verwaltungsakt, der zur Feststellung oder Durchsetzung des Anspruchs eines öffentlich-rechtlichen Rechtsträgers erlassen wird, hemmt die Verjährung dieses Anspruchs. Die Hemmung endet mit Eintritt der Unanfechtbarkeit des Verwaltungsaktes oder sechs Monate nach seiner anderweitigen Erledigung.
 
@@ -1217,31 +1236,31 @@ des Verwaltungsaktes
 
 ## Teil IV Öffentlich-rechtlicher Vertrag
 
-##### § 54 Zulässigkeit des öffentlich-rechtlichen Vertrags
+###### § 54 Zulässigkeit des öffentlich-rechtlichen Vertrags
 
 Ein Rechtsverhältnis auf dem Gebiet des öffentlichen Rechts kann durch Vertrag begründet, geändert oder aufgehoben werden (öffentlich-rechtlicher Vertrag), soweit Rechtsvorschriften nicht entgegenstehen. Insbesondere kann die Behörde, anstatt einen Verwaltungsakt zu erlassen, einen öffentlich-rechtlichen Vertrag mit demjenigen schließen, an den sie sonst den Verwaltungsakt richten würde.
 
-##### § 55 Vergleichsvertrag
+###### § 55 Vergleichsvertrag
 
 Ein öffentlich-rechtlicher Vertrag im Sinne des § 54 Satz 2, durch den eine bei verständiger Würdigung des Sachverhalts oder der Rechtslage bestehende Ungewissheit durch gegenseitiges Nachgeben beseitigt wird (Vergleich), kann geschlossen werden, wenn die Behörde den Abschluss des Vergleichs zur Beseitigung der Ungewissheit nach pflichtgemäßem Ermessen für zweckmäßig hält.
 
-##### § 56 Austauschvertrag
+###### § 56 Austauschvertrag
 
 (1) Ein öffentlich-rechtlicher Vertrag im Sinne des § 54 Satz 2, in dem sich der Vertragspartner der Behörde zu einer Gegenleistung verpflichtet, kann geschlossen werden, wenn die Gegenleistung für einen bestimmten Zweck im Vertrag vereinbart wird und der Behörde zur Erfüllung ihrer öffentlichen Aufgaben dient. Die Gegenleistung muss den gesamten Umständen nach angemessen sein und im sachlichen Zusammenhang mit der vertraglichen Leistung der Behörde stehen.
 
 (2) Besteht auf die Leistung der Behörde ein Anspruch, so kann nur eine solche Gegenleistung vereinbart werden, die bei Erlass eines Verwaltungsaktes Inhalt einer Nebenbestimmung nach § 36 sein könnte.
 
-##### § 57 Schriftform
+###### § 57 Schriftform
 
 Ein öffentlich-rechtlicher Vertrag ist schriftlich zu schließen, soweit nicht durch Rechtsvorschrift eine andere Form vorgeschrieben ist.
 
-##### § 58 Zustimmung von Dritten und Behörden
+###### § 58 Zustimmung von Dritten und Behörden
 
 (1) Ein öffentlich-rechtlicher Vertrag, der in Rechte eines Dritten eingreift, wird erst wirksam, wenn der Dritte schriftlich zustimmt.
 
 (2) Wird anstatt eines Verwaltungsaktes, bei dessen Erlass nach einer Rechtsvorschrift die Genehmigung, die Zustimmung oder das Einvernehmen einer anderen Behörde erforderlich ist, ein Vertrag geschlossen, so wird dieser erst wirksam, nachdem die andere Behörde in der vorgeschriebenen Form mitgewirkt hat.
 
-##### § 59 Nichtigkeit des öffentlich-rechtlichen Vertrags
+###### § 59 Nichtigkeit des öffentlich-rechtlichen Vertrags
 
 (1) Ein öffentlich-rechtlicher Vertrag ist nichtig, wenn sich die Nichtigkeit aus der entsprechenden Anwendung von Vorschriften des Bürgerlichen Gesetzbuchs ergibt.
 
@@ -1257,19 +1276,19 @@ Ein öffentlich-rechtlicher Vertrag ist schriftlich zu schließen, soweit nicht 
 
 (3) Betrifft die Nichtigkeit nur einen Teil des Vertrags, so ist er im Ganzen nichtig, wenn nicht anzunehmen ist, dass er auch ohne den nichtigen Teil geschlossen worden wäre.
 
-##### § 60 Anpassung und Kündigung in besonderen Fällen
+###### § 60 Anpassung und Kündigung in besonderen Fällen
 
 (1) Haben die Verhältnisse, die für die Festsetzung des Vertragsinhalts maßgebend gewesen sind, sich seit Abschluss des Vertrags so wesentlich geändert, dass einer Vertragspartei das Festhalten an der ursprünglichen vertraglichen Regelung nicht zuzumuten ist, so kann diese Vertragspartei eine Anpassung des Vertragsinhalts an die geänderten Verhältnisse verlangen oder, sofern eine Anpassung nicht möglich oder einer Vertragspartei nicht zuzumuten ist, den Vertrag kündigen. Die Behörde kann den Vertrag auch kündigen, um schwere Nachteile für das Gemeinwohl zu verhüten oder zu beseitigen.
 
 (2) Die Kündigung bedarf der Schriftform, soweit nicht durch Rechtsvorschrift eine andere Form vorgeschrieben ist. Sie soll begründet werden.
 
-##### § 61 Unterwerfung unter die sofortige Vollstreckung
+###### § 61 Unterwerfung unter die sofortige Vollstreckung
 
 (1) Jeder Vertragschließende kann sich der sofortigen Vollstreckung aus einem öffentlich-rechtlichen Vertrag im Sinne des § 54 Satz 2 unterwerfen. Die Behörde muss hierbei von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes, der die Befähigung zum Richteramt hat, vertreten werden.
 
 (2) Auf öffentlich-rechtliche Verträge im Sinne des Absatzes 1 Satz 1 ist das Verwaltungs-Vollstreckungsgesetz des Bundes entsprechend anzuwenden, wenn Vertragschließender eine Behörde im Sinne des § 1 Abs. 1 Nr. 1 ist. Will eine natürliche oder juristische Person des Privatrechts oder eine nichtrechtsfähige Vereinigung die Vollstreckung wegen einer Geldforderung betreiben, so ist § 170 Abs. 1 bis 3 der Verwaltungsgerichtsordnung entsprechend anzuwenden. Richtet sich die Vollstreckung wegen der Erzwingung einer Handlung, Duldung oder Unterlassung gegen eine Behörde im Sinne des § 1 Abs. 1 Nr. 2, so ist § 172 der Verwaltungsgerichtsordnung entsprechend anzuwenden.
 
-##### § 62 Ergänzende Anwendung von Vorschriften
+###### § 62 Ergänzende Anwendung von Vorschriften
 
 Soweit sich aus den §§ 54 bis 61 nichts Abweichendes ergibt, gelten die übrigen Vorschriften dieses Gesetzes. Ergänzend gelten die Vorschriften des Bürgerlichen Gesetzbuchs entsprechend.
 
@@ -1277,7 +1296,7 @@ Soweit sich aus den §§ 54 bis 61 nichts Abweichendes ergibt, gelten die übrig
 
 ## Abschnitt 1 Förmliches Verwaltungsverfahren
 
-##### § 63 Anwendung der Vorschriften über das förmliche Verwaltungsverfahren
+###### § 63 Anwendung der Vorschriften über das förmliche Verwaltungsverfahren
 
 (1) Das förmliche Verwaltungsverfahren nach diesem Gesetz findet statt, wenn es durch Rechtsvorschrift angeordnet ist.
 
@@ -1285,11 +1304,11 @@ Soweit sich aus den §§ 54 bis 61 nichts Abweichendes ergibt, gelten die übrig
 
 (3) Die Mitteilung nach § 17 Abs. 2 Satz 2 und die Aufforderung nach § 17 Abs. 4 Satz 2 sind im förmlichen Verwaltungsverfahren öffentlich bekannt zu machen. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass die Behörde die Mitteilung oder die Aufforderung in ihrem amtlichen Veröffentlichungsblatt und außerdem in örtlichen Tageszeitungen, die in dem Bereich verbreitet sind, in dem sich die Entscheidung voraussichtlich auswirken wird, bekannt macht.
 
-##### § 64 Form des Antrags
+###### § 64 Form des Antrags
 
 Setzt das förmliche Verwaltungsverfahren einen Antrag voraus, so ist er schriftlich oder zur Niederschrift bei der Behörde zu stellen.
 
-##### § 65 Mitwirkung von Zeugen und Sachverständigen
+###### § 65 Mitwirkung von Zeugen und Sachverständigen
 
 (1) Im förmlichen Verwaltungsverfahren sind Zeugen zur Aussage und Sachverständige zur Erstattung von Gutachten verpflichtet. Die Vorschriften der Zivilprozessordnung über die Pflicht, als Zeuge auszusagen oder als Sachverständiger ein Gutachten zu erstatten, über die Ablehnung von Sachverständigen sowie über die Vernehmung von Angehörigen des öffentlichen Dienstes als Zeugen oder Sachverständige gelten entsprechend.
 
@@ -1301,13 +1320,13 @@ Setzt das förmliche Verwaltungsverfahren einen Antrag voraus, so ist er schrift
 
 (5) Ein Ersuchen nach Absatz 2 oder 3 an das Gericht darf nur von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes gestellt werden, der die Befähigung zum Richteramt hat.
 
-##### § 66 Verpflichtung zur Anhörung von Beteiligten
+###### § 66 Verpflichtung zur Anhörung von Beteiligten
 
 (1) Im förmlichen Verwaltungsverfahren ist den Beteiligten Gelegenheit zu geben, sich vor der Entscheidung zu äußern.
 
 (2) Den Beteiligten ist Gelegenheit zu geben, der Vernehmung von Zeugen und Sachverständigen und der Einnahme des Augenscheins beizuwohnen und hierbei sachdienliche Fragen zu stellen; ein schriftlich oder elektronisch vorliegendes Gutachten soll ihnen zugänglich gemacht werden.
 
-##### § 67 Erfordernis der mündlichen Verhandlung
+###### § 67 Erfordernis der mündlichen Verhandlung
 
 (1) Die Behörde entscheidet nach mündlicher Verhandlung. Hierzu sind die Beteiligten mit angemessener Frist schriftlich zu laden. Bei der Ladung ist darauf hinzuweisen, dass bei Ausbleiben eines Beteiligten auch ohne ihn verhandelt und entschieden werden kann. Sind mehr als 50 Ladungen vorzunehmen, so können sie durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass der Verhandlungstermin mindestens zwei Wochen vorher im amtlichen Veröffentlichungsblatt der Behörde und außerdem in örtlichen Tageszeitungen, die in dem Bereich verbreitet sind, in dem sich die Entscheidung voraussichtlich auswirken wird, mit dem Hinweis nach Satz 3 bekannt gemacht wird. Maßgebend für die Frist nach Satz 5 ist die Bekanntgabe im amtlichen Veröffentlichungsblatt.
 
@@ -1325,7 +1344,7 @@ Setzt das förmliche Verwaltungsverfahren einen Antrag voraus, so ist er schrift
 
 (3) Die Behörde soll das Verfahren so fördern, dass es möglichst in einem Verhandlungstermin erledigt werden kann.
 
-##### § 68 Verlauf der mündlichen Verhandlung
+###### § 68 Verlauf der mündlichen Verhandlung
 
 (1) Die mündliche Verhandlung ist nicht öffentlich. An ihr können Vertreter der Aufsichtsbehörden und Personen, die bei der Behörde zur Ausbildung beschäftigt sind, teilnehmen. Anderen Personen kann der Verhandlungsleiter die Anwesenheit gestatten, wenn kein Beteiligter widerspricht.
 
@@ -1347,19 +1366,19 @@ Setzt das förmliche Verwaltungsverfahren einen Antrag voraus, so ist er schrift
 
 Die Niederschrift ist von dem Verhandlungsleiter und, soweit ein Schriftführer hinzugezogen worden ist, auch von diesem zu unterzeichnen. Der Aufnahme in die Verhandlungsniederschrift steht die Aufnahme in eine Schrift gleich, die ihr als Anlage beigefügt und als solche bezeichnet ist; auf die Anlage ist in der Verhandlungsniederschrift hinzuweisen.
 
-##### § 69 Entscheidung
+###### § 69 Entscheidung
 
 (1) Die Behörde entscheidet unter Würdigung des Gesamtergebnisses des Verfahrens.
 
-(2) Verwaltungsakte, die das förmliche Verfahren abschließen, sind schriftlich zu erlassen, schriftlich zu begründen und den Beteiligten zuzustellen; in den Fällen des § 39 Abs. 2 Nr. 1 und 3 bedarf es einer Begründung nicht. Ein elektronischer Verwaltungsakt nach Satz 1 ist mit einer dauerhaft überprüfbaren qualifizierten elektronischen Signatur zu versehen. Sind mehr als 50 Zustellungen vorzunehmen, so können sie durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass der verfügende Teil des Verwaltungsaktes und die Rechtsbehelfsbelehrung im amtlichen Veröffentlichungsblatt der Behörde und außerdem in örtlichen Tageszeitungen bekannt gemacht werden, die in dem Bereich verbreitet sind, in dem sich die Entscheidung voraussichtlich auswirken wird. Der Verwaltungsakt gilt mit dem Tage als zugestellt, an dem seit dem Tage der Bekanntmachung in dem amtlichen Veröffentlichungsblatt zwei Wochen verstrichen sind; hierauf ist in der Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung kann der Verwaltungsakt bis zum Ablauf der Rechtsbehelfsfrist von den Beteiligten schriftlich oder elektronisch angefordert werden; hierauf ist in der Bekanntmachung gleichfalls hinzuweisen.
+(2) Verwaltungsakte, die das förmliche Verfahren abschließen, sind schriftlich zu erlassen, schriftlich zu begründen und den Beteiligten zuzustellen; in den Fällen des § 39 Abs. 2 Nr. 1 und 3 bedarf es einer Begründung nicht. Ein elektronischer Verwaltungsakt nach Satz 1 ist mit einer dauerhaft überprüfbaren qualifizierten elektronischen Signatur oder mit dem qualifizierten elektronischen Siegel der Behörde zu versehen. Sind mehr als 50 Zustellungen vorzunehmen, so können sie durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass der verfügende Teil des Verwaltungsaktes und die Rechtsbehelfsbelehrung im amtlichen Veröffentlichungsblatt der Behörde und außerdem in örtlichen Tageszeitungen bekannt gemacht werden, die in dem Bereich verbreitet sind, in dem sich die Entscheidung voraussichtlich auswirken wird. Der Verwaltungsakt gilt mit dem Tage als zugestellt, an dem seit dem Tage der Bekanntmachung in dem amtlichen Veröffentlichungsblatt zwei Wochen verstrichen sind; hierauf ist in der Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung kann der Verwaltungsakt bis zum Ablauf der Rechtsbehelfsfrist von den Beteiligten schriftlich oder elektronisch angefordert werden; hierauf ist in der Bekanntmachung gleichfalls hinzuweisen.
 
 (3) Wird das förmliche Verwaltungsverfahren auf andere Weise abgeschlossen, so sind die Beteiligten hiervon zu benachrichtigen. Sind mehr als 50 Benachrichtigungen vorzunehmen, so können sie durch öffentliche Bekanntmachung ersetzt werden; Absatz 2 Satz 4 gilt entsprechend.
 
-##### § 70 Anfechtung der Entscheidung
+###### § 70 Anfechtung der Entscheidung
 
 Vor Erhebung einer verwaltungsgerichtlichen Klage, die einen im förmlichen Verwaltungsverfahren erlassenen Verwaltungsakt zum Gegenstand hat, bedarf es keiner Nachprüfung in einem Vorverfahren.
 
-##### § 71 Besondere Vorschriften für das förmliche Verfahren vor Ausschüssen
+###### § 71 Besondere Vorschriften für das förmliche Verfahren vor Ausschüssen
 
 (1) Findet das förmliche Verwaltungsverfahren vor einem Ausschuss (§ 88) statt, so hat jedes Mitglied das Recht, sachdienliche Fragen zu stellen. Wird eine Frage von einem Beteiligten beanstandet, so entscheidet der Ausschuss über ihre Zulässigkeit.
 
@@ -1369,13 +1388,13 @@ Vor Erhebung einer verwaltungsgerichtlichen Klage, die einen im förmlichen Verw
 
 ## Abschnitt 1a Verfahren über eine einheitliche Stelle
 
-##### § 71a Anwendbarkeit
+###### § 71a Anwendbarkeit
 
 (1) Ist durch Rechtsvorschrift angeordnet, dass ein Verwaltungsverfahren über eine einheitliche Stelle abgewickelt werden kann, so gelten die Vorschriften dieses Abschnitts und, soweit sich aus ihnen nichts Abweichendes ergibt, die übrigen Vorschriften dieses Gesetzes.
 
 (2) Der zuständigen Behörde obliegen die Pflichten aus § 71b Abs. 3, 4 und 6, § 71c Abs. 2 und § 71e auch dann, wenn sich der Antragsteller oder Anzeigepflichtige unmittelbar an die zuständige Behörde wendet.
 
-##### § 71b Verfahren
+###### § 71b Verfahren
 
 (1) Die einheitliche Stelle nimmt Anzeigen, Anträge, Willenserklärungen und Unterlagen entgegen und leitet sie unverzüglich an die zuständigen Behörden weiter.
 
@@ -1389,107 +1408,195 @@ Vor Erhebung einer verwaltungsgerichtlichen Klage, die einen im förmlichen Verw
 
 (6) Ein schriftlicher Verwaltungsakt, der durch die Post in das Ausland übermittelt wird, gilt einen Monat nach Aufgabe zur Post als bekannt gegeben. § 41 Abs. 2 Satz 3 gilt entsprechend. Von dem Antragsteller oder Anzeigepflichtigen kann nicht nach § 15 verlangt werden, einen Empfangsbevollmächtigten zu bestellen.
 
-##### § 71c Informationspflichten
+###### § 71c Informationspflichten
 
 (1) Die einheitliche Stelle erteilt auf Anfrage unverzüglich Auskunft über die maßgeblichen Vorschriften, die zuständigen Behörden, den Zugang zu den öffentlichen Registern und Datenbanken, die zustehenden Verfahrensrechte und die Einrichtungen, die den Antragsteller oder Anzeigepflichtigen bei der Aufnahme oder Ausübung seiner Tätigkeit unterstützen. Sie teilt unverzüglich mit, wenn eine Anfrage zu unbestimmt ist.
 
 (2) Die zuständigen Behörden erteilen auf Anfrage unverzüglich Auskunft über die maßgeblichen Vorschriften und deren gewöhnliche Auslegung. Nach § 25 erforderliche Anregungen und Auskünfte werden unverzüglich gegeben.
 
-##### § 71d Gegenseitige Unterstützung
+###### § 71d Gegenseitige Unterstützung
 
 Die einheitliche Stelle und die zuständigen Behörden wirken gemeinsam auf eine ordnungsgemäße und zügige Verfahrensabwicklung hin; alle einheitlichen Stellen und zuständigen Behörden sind hierbei zu unterstützen. Die zuständigen Behörden stellen der einheitlichen Stelle insbesondere die erforderlichen Informationen zum Verfahrensstand zur Verfügung.
 
-##### § 71e Elektronisches Verfahren
+###### § 71e Elektronisches Verfahren
 
 Das Verfahren nach diesem Abschnitt wird auf Verlangen in elektronischer Form abgewickelt. § 3a Abs. 2 Satz 2 und 3 und Abs. 3 bleibt unberührt.
 
 ## Abschnitt 2 Planfeststellungsverfahren
 
-##### § 72 Anwendung der Vorschriften über das Planfeststellungsverfahren
+###### § 72 Anwendung der Vorschriften über das Planfeststellungsverfahren
 
 (1) Ist ein Planfeststellungsverfahren durch Rechtsvorschrift angeordnet, so gelten hierfür die §§ 73 bis 78 und, soweit sich aus ihnen nichts Abweichendes ergibt, die übrigen Vorschriften dieses Gesetzes; die §§ 51 und 71a bis 71e sind nicht anzuwenden, § 29 ist mit der Maßgabe anzuwenden, dass Akteneinsicht nach pflichtgemäßem Ermessen zu gewähren ist.
 
-(2) Die Mitteilung nach § 17 Abs. 2 Satz 2 und die Aufforderung nach § 17 Abs. 4 Satz 2 sind im Planfeststellungsverfahren öffentlich bekannt zu machen. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass die Behörde die Mitteilung oder die Aufforderung in ihrem amtlichen Veröffentlichungsblatt und außerdem in örtlichen Tageszeitungen, die in dem Bereich verbreitet sind, in dem sich das Vorhaben voraussichtlich auswirken wird, bekannt macht.
+(2) Die Mitteilung nach § 17 Absatz 2 Satz 2 und die Aufforderung nach § 17 Absatz 4 Satz 2 sind im Planfeststellungsverfahren öffentlich bekannt zu machen.
 
-##### § 73 Anhörungsverfahren
+###### § 72a Einreichung des Plans und Ausgestaltung des Verfahrens
 
-(1) Der Träger des Vorhabens hat den Plan der Anhörungsbehörde zur Durchführung des Anhörungsverfahrens einzureichen. Der Plan besteht aus den Zeichnungen und Erläuterungen, die das Vorhaben, seinen Anlass und die von dem Vorhaben betroffenen Grundstücke und Anlagen erkennen lassen.
+(1) Der Träger des Vorhabens hat den vollständigen Plan bei der Planfeststellungsbehörde elektronisch einzureichen. Der Plan besteht aus den Zeichnungen und Erläuterungen, die das Vorhaben, seinen Anlass und die von dem Vorhaben betroffenen Grundstücke und Anlagen erkennen lassen. Die Anforderungen an den Geheim- und Sabotageschutz sind zu beachten. Die Planfeststellungsbehörde prüft innerhalb eines Monats nach Einreichung des Plans, ob die Planunterlagen vollständig sind. Sind die Planunterlagen unvollständig oder enthalten sie offensichtliche Unrichtigkeiten, wirkt die Planfeststellungsbehörde unverzüglich beim Träger des Vorhabens auf eine Ergänzung oder Berichtigung hin.
 
-(2) Innerhalb eines Monats nach Zugang des vollständigen Plans fordert die Anhörungsbehörde die Behörden, deren Aufgabenbereich durch das Vorhaben berührt wird, zur Stellungnahme auf und veranlasst, dass der Plan in den Gemeinden, in denen sich das Vorhaben voraussichtlich auswirken wird, nach § 27b ausgelegt wird.
+(2) Die Planfeststellungsbehörde soll festlegen, dass der Plan über eine von ihr oder ihrem Verwaltungsträger zur Verfügung gestelltes Verwaltungsportal einzureichen ist und dieses Grundlage für die durchzuführende Behördenbeteiligung, das durchzuführende Anhörungsverfahren und die weiteren durchzuführenden Verfahrensschritte zwischen den Beteiligten ist.
 
-(3) Die Gemeinden nach Absatz 2 haben den Plan innerhalb von drei Wochen nach Zugang für die Dauer eines Monats zur Einsicht auszulegen. Die Anhörungsbehörde bestimmt, in welcher der Gemeinden nach Absatz 2 eine andere Zugangsmöglichkeit nach § 27b Absatz 1 Satz 1 Nummer 2 zur Verfügung zu stellen ist und legt im Benehmen mit der jeweiligen Gemeinde die Zugangsmöglichkeit fest. Auf eine Auslegung kann verzichtet werden, wenn der Kreis der Betroffenen und die Vereinigungen nach Absatz 4 Satz 5 bekannt sind und ihnen innerhalb angemessener Frist Gelegenheit gegeben wird, den Plan einzusehen.
+(3) Die Planfeststellungsbehörde bestimmt die technischen Anforderungen an den elektronischen Austausch und an das Verwaltungsportal, sowie die Art und den Umfang der einzureichenden Dokumente.
 
-(3a) Die Behörden nach Absatz 2 haben ihre Stellungnahme innerhalb einer von der Anhörungsbehörde zu setzenden Frist abzugeben, die drei Monate nicht überschreiten darf. Stellungnahmen, die nach Ablauf der Frist nach Satz 1 eingehen, sind zu berücksichtigen, wenn der Planfeststellungsbehörde die vorgebrachten Belange bekannt sind oder hätten bekannt sein müssen oder für die Rechtmäßigkeit der Entscheidung von Bedeutung sind; im Übrigen können sie berücksichtigt werden.
+(4) Ist die in den Vorschriften dieses Abschnitts vorgesehene elektronische Durchführung des Planfeststellungsverfahrens aus technischen Gründen nicht möglich, bestimmt die Planfeststellungsbehörde das weitere Vorgehen.
 
-(4) Jeder, dessen Belange durch das Vorhaben berührt werden, kann bis zwei Wochen nach Ablauf der Auslegungsfrist schriftlich oder zur Niederschrift bei der Anhörungsbehörde oder bei einer Gemeinde nach Absatz 2 Einwendungen gegen den Plan erheben. Im Falle des Absatzes 3 Satz 3 bestimmt die Anhörungsbehörde die Einwendungsfrist. Mit Ablauf der Einwendungsfrist sind alle Einwendungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen. Hierauf ist in der Bekanntmachung der Auslegung oder bei der Bekanntgabe der Einwendungsfrist hinzuweisen. Vereinigungen, die auf Grund einer Anerkennung nach anderen Rechtsvorschriften befugt sind, Rechtsbehelfe nach der Verwaltungsgerichtsordnung gegen die Entscheidung nach § 74 einzulegen, können innerhalb der Frist nach Satz 1 Stellungnahmen zu dem Plan abgeben. Die Sätze 2 bis 4 gelten entsprechend.
+###### § 73 Anhörungsverfahren
 
-(5) Die Gemeinden nach Absatz 2, in denen der Plan auszulegen ist, haben die Auslegung vorher ortsüblich bekannt zu machen. In der Bekanntmachung ist darauf hinzuweisen,
+(1) Die Planfeststellungsbehörde legt den vollständigen Plan innerhalb von drei Wochen nach Zugang und für die Dauer von einem Monat zur Einsicht aus. Auf Verlangen eines Betroffenen, das während der Dauer der Auslegung an die Planfeststellungsbehörde zu richten ist, wird diesem eine andere, leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt. Auf eine Auslegung kann verzichtet werden, wenn der Kreis der Betroffenen und die Vereinigungen nach Absatz 2 Satz 1 Nummer 2 bekannt sind und ihnen innerhalb einer angemessenen Frist Gelegenheit gegeben wird, den Plan einzusehen; Satz 2 gilt entsprechend.
 
-1. wo und in welchem Zeitraum der Plan zur Einsicht ausgelegt ist;
+(2) Bei der Planfeststellungsbehörde können bis zu sechs Wochen ab der Auslegung des Plans Einwendungen gegen den Plan elektronisch erhoben oder Stellungnahmen elektronisch abgegeben werden durch
 
-2. dass etwaige Einwendungen oder Stellungnahmen von Vereinigungen nach Absatz 4 Satz 5 bei den in der Bekanntmachung zu bezeichnenden Stellen innerhalb der Einwendungsfrist vorzubringen sind;
+1. Betroffene einschließlich Träger öffentlicher Belange und
 
-3. dass bei Ausbleiben eines Beteiligten in dem Erörterungstermin auch ohne ihn verhandelt werden kann;
+2. Vereinigungen, die auf Grund einer Anerkennung nach anderen Rechtsvorschriften befugt sind, Rechtsbehelfe nach der Verwaltungsgerichtsordnung gegen die Entscheidung nach § 74 einzulegen.
 
-4. dass wenn mehr als 50 Benachrichtigungen oder Zustellungen vorzunehmen sind.
+Ist die elektronische Erhebung oder Abgabe im Einzelfall nicht zumutbar, stellt die Planfeststellungsbehörde auf Verlangen eine andere Möglichkeit zur Erhebung oder Abgabe zur Verfügung. Im Falle des Absatzes 1 Satz 3 bestimmt die Planfeststellungsbehörde eine angemessene Einwendungsfrist. Mit Ablauf der Einwendungsfrist sind alle Einwendungen oder Stellungnahmen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen. Hierauf ist bei der Information über die Dauer der Einwendungsfrist nach Satz 3 hinzuweisen.
 
-a) die Personen, die Einwendungen erhoben haben, oder die Vereinigungen, die Stellungnahmen abgegeben haben, von dem Erörterungstermin durch öffentliche Bekanntmachung benachrichtigt werden können,
+(3) Die Planfeststellungsbehörde macht die Auslegung des Plans vorher öffentlich bekannt. In der Bekanntmachung weist sie darauf hin, dass
 
-b) die Zustellung der Entscheidung über die Einwendungen durch öffentliche Bekanntmachung ersetzt werden kann,
+1. etwaige Einwendungen von Betroffenen bei der Planfeststellungsbehörde innerhalb der Einwendungsfrist elektronisch zu erheben sind,
 
-Nicht ortsansässige Betroffene, deren Person und Aufenthalt bekannt sind oder sich innerhalb angemessener Frist ermitteln lassen, sollen auf Veranlassung der Anhörungsbehörde von der Auslegung mit dem Hinweis nach Satz 2 benachrichtigt werden.
+2. Stellungnahmen von Vereinigungen nach Absatz 2 Satz 1 Nummer 2 bei der Planfeststellungsbehörde innerhalb der Einwendungsfrist elektronisch abzugeben sind,
 
-(6) Nach Ablauf der Einwendungsfrist hat die Anhörungsbehörde die rechtzeitig gegen den Plan erhobenen Einwendungen, die rechtzeitig abgegebenen Stellungnahmen von Vereinigungen nach Absatz 4 Satz 5 sowie die Stellungnahmen der Behörden zu dem Plan mit dem Träger des Vorhabens, den Behörden, den Betroffenen sowie denjenigen, die Einwendungen erhoben oder Stellungnahmen abgegeben haben, zu erörtern. Der Erörterungstermin ist mindestens eine Woche vorher ortsüblich bekannt zu machen. Die Behörden, der Träger des Vorhabens und diejenigen, die Einwendungen erhoben oder Stellungnahmen abgegeben haben, sind von dem Erörterungstermin zu benachrichtigen. Sind außer der Benachrichtigung der Behörden und des Trägers des Vorhabens mehr als 50 Benachrichtigungen vorzunehmen, so können diese Benachrichtigungen durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass abweichend von Satz 2 der Erörterungstermin im amtlichen Veröffentlichungsblatt der Anhörungsbehörde und außerdem in örtlichen Tageszeitungen bekannt gemacht wird, die in dem Bereich verbreitet sind, in dem sich das Vorhaben voraussichtlich auswirken wird; maßgebend für die Frist nach Satz 2 ist die Bekanntgabe im amtlichen Veröffentlichungsblatt. Im Übrigen gelten für die Erörterung die Vorschriften über die mündliche Verhandlung im förmlichen Verwaltungsverfahren (§ 67 Abs. 1 Satz 3, Abs. 2 Nr. 1 und 4 und Abs. 3, § 68) entsprechend. Die Anhörungsbehörde schließt die Erörterung innerhalb von drei Monaten nach Ablauf der Einwendungsfrist ab.
+3. im Falle der Unzumutbarkeit einer elektronischen Erhebung oder Abgabe im Einzelfall auf Verlangen eine andere Weise zur Verfügung gestellt wird,
 
-(7) Abweichend von den Vorschriften des Absatzes 6 Satz 2 bis 5 kann der Erörterungstermin bereits in der Bekanntmachung nach Absatz 5 Satz 2 bestimmt werden.
+4. mit Ablauf der Einwendungsfrist alle Einwendungen ausgeschlossen sind, die nicht auf besonderen privatrechtlichen Titeln beruhen,
 
-(8) Soll ein ausgelegter Plan geändert werden und werden dadurch der Aufgabenbereich einer Behörde oder einer Vereinigung nach Absatz 4 Satz 5 oder Belange Dritter erstmals oder stärker als bisher berührt, so ist diesen die Änderung mitzuteilen und ihnen Gelegenheit zu Stellungnahmen und Einwendungen innerhalb von zwei Wochen zu geben; Absatz 4 Satz 3 bis 6 gilt entsprechend. Wird sich die Änderung voraussichtlich auf das Gebiet einer anderen Gemeinde auswirken, so ist der geänderte Plan in dieser Gemeinde auszulegen; die Absätze 2 bis 6 gelten entsprechend.
+5. bei Ausbleiben eines Beteiligten in einem Erörterungstermin auch ohne ihn verhandelt werden kann,
 
-(9) Die Anhörungsbehörde gibt zum Ergebnis des Anhörungsverfahrens eine Stellungnahme ab und leitet diese der Planfeststellungsbehörde innerhalb eines Monats nach Abschluss der Erörterung mit dem Plan, den Stellungnahmen der Behörden und der Vereinigungen nach Absatz 4 Satz 5 sowie den nicht erledigten Einwendungen zu.
+6. die Personen, die Einwendungen erhoben haben, oder die Vereinigungen, die Stellungnahmen abgegeben haben, von dem Erörterungstermin durch Information auf der Internetseite der Planfeststellungsbehörde benachrichtigt werden können,
 
-##### § 74 Planfeststellungsbeschluss, Plangenehmigung
+7. die Zustellung der Entscheidung über die Einwendungen und Stellungnahmen auch durch die Veröffentlichung auf der Internetseite der Planfeststellungsbehörde oder ihres Verwaltungsträgers erfolgen kann, und
 
-(1) Die Planfeststellungsbehörde stellt den Plan fest (Planfeststellungsbeschluss). Die Vorschriften über die Entscheidung und die Anfechtung der Entscheidung im förmlichen Verwaltungsverfahren (§§ 69 und 70) sind anzuwenden.
+8. während der Dauer der Anhörung einem Betroffenen auf dessen Verlangen eine leicht zu erreichende Zugangsmöglichkeit von der Planfeststellungsbehörde zur Verfügung gestellt wird.
 
-(2) Im Planfeststellungsbeschluss entscheidet die Planfeststellungsbehörde über die Einwendungen, über die bei der Erörterung vor der Anhörungsbehörde keine Einigung erzielt worden ist. Sie hat dem Träger des Vorhabens Vorkehrungen oder die Errichtung und Unterhaltung von Anlagen aufzuerlegen, die zum Wohl der Allgemeinheit oder zur Vermeidung nachteiliger Wirkungen auf Rechte anderer erforderlich sind. Sind solche Vorkehrungen oder Anlagen untunlich oder mit dem Vorhaben unvereinbar, so hat der Betroffene Anspruch auf angemessene Entschädigung in Geld.
+(4) Die Durchführung informeller Beteiligungsformate ist möglich. Diese Beteiligungsformate sind von dem Planfeststellungsverfahren unabhängig und dürfen sein Ergebnis nicht vorwegnehmen.
+
+###### § 73a Behördenbeteiligung
+
+(1) Mit Auslegung des Plans fordert die Planfeststellungsbehörde die Behörden, deren Aufgabenbereich durch das Vorhaben berührt wird, elektronisch zur Stellungnahme auf.
+
+(2) Die Behörden haben ihre Stellungnahme innerhalb einer von der Planfeststellungsbehörde festzusetzenden Frist elektronisch abzugeben. Die Frist darf drei Monate nicht überschreiten. Stellungnahmen, die nach Ablauf der Frist nach Satz 1 eingehen, sind zu berücksichtigen, wenn der Planfeststellungsbehörde die vorgebrachten Belange bekannt sind oder hätten bekannt sein müssen oder sie für die Rechtmäßigkeit der Entscheidung von Bedeutung sind. Im Übrigen können sie berücksichtigt werden.
+
+(3) Eine in mehreren Aufgabenbereichen betroffene Behörde hat eine inhaltlich einheitliche Stellungnahme abzugeben.
+
+###### § 73b Erörterungstermin
+
+(1) Nach Ablauf der Einwendungsfrist kann die Planfeststellungsbehörde einen Erörterungstermin durchführen, sofern die erhobenen Einwendungen oder die abgegebenen Stellungnahmen hierzu Anlass geben. Die Planfeststellungsbehörde schließt die Erörterung innerhalb von drei Monaten nach Ablauf der Einwendungsfrist und Behördenbeteiligung ab.
+
+(2) Die Planfeststellungsbehörde macht einen Erörterungstermin mindestens eine Woche vorher öffentlich bekannt. Die Bekanntmachung über die Durchführung eines Erörterungstermins kann mit der Bekanntmachung nach § 73 Absatz 3 Satz 1 verbunden werden.
+
+(3) Gegenstand eines Erörterungstermins sind die rechtzeitig gegen den Plan erhobenen Einwendungen von Betroffenen nach § 73 Absatz 2 Satz 1 Nummer 1, die rechtzeitig abgegebenen Stellungnahmen von Vereinigungen nach § 73 Absatz 2 Satz 1 Nummer 2 sowie die Stellungnahmen der Behörden nach § 73a zu dem Plan. Vorbehaltlich einer abweichenden Bestimmung der Planfeststellungsbehörde sind zur Teilnahme am Erörterungstermin berechtigt:
+
+1. der Träger des Vorhabens,
+
+2. die Behörden nach § 73a,
+
+3. die Betroffenen sowie
+
+4. diejenigen, die Einwendungen erhoben oder Stellungnahmen abgegeben haben.
+
+(4) Die Planfeststellungsbehörde kann die Erörterung ganz oder teilweise durch digitale Formate nach § 27c ersetzen. § 27c Absatz 1 Nummer 2 ist mit der Maßgabe anzuwenden, dass der Erörterungstermin auch ohne Einwilligung der zur Teilnahme Berechtigten durch eine Video- oder Telefonkonferenz ersetzt werden kann. Die Planfeststellungsbehörde informiert im Falle des Satzes 2 auf ihrer Internetseite über Art, Umfang und Nutzung der digitalen Formate.
+
+(5) Im Übrigen gelten für eine Erörterung die Vorschriften über die mündliche Verhandlung im förmlichen Verwaltungsverfahren (§ 67 Absatz 2 Nummer 1 und 4 und Absatz 3 sowie § 68) entsprechend mit Ausnahme von § 68 Absatz 4 Satz 3.
+
+###### § 73c Planänderung im Verfahren
+
+(1) Soll ein ausgelegter Plan geändert werden und werden dadurch der Aufgabenbereich einer Behörde oder einer Vereinigung nach § 73 Absatz 2 Satz 1 Nummer 2 oder Belange Dritter erstmals oder stärker als bisher berührt, so ist diesen die Änderung mitzuteilen und ihnen Gelegenheit zu elektronischen Stellungnahmen und Einwendungen innerhalb von zwei Wochen zu geben. Diese Mitteilung hat elektronisch zu erfolgen, soweit entsprechende Adressen bekannt sind. § 73 Absatz 2 Satz 2, 4 und 5 gilt entsprechend.
+
+(2) Wird sich die Änderung voraussichtlich auf das Gebiet einer anderen Gemeinde auswirken, gelten die §§ 73 bis 73b mit der Maßgabe, dass von einer Erörterung oder deren Ersatz durch digitale Formate im Sinne des § 73b abgesehen werden soll.
+
+###### § 73d Projektmanager
+
+Die Planfeststellungsbehörde kann auf Vorschlag oder mit Zustimmung des Trägers des Vorhabens einen Dritten mit der Vorbereitung und Durchführung von Verfahrensschritten beauftragen, insbesondere
+
+1. der Erstellung von Verfahrensleitplänen unter Bestimmung von Verfahrensabschnitten und Zwischenterminen,
+
+2. dem Qualitätsmanagement der Anträge und Unterlagen der Vorhabenträger,
+
+3. der Fristenkontrolle,
+
+4. der Koordinierung von erforderlichen Sachverständigengutachten,
+
+5. dem Entwurf eines Anhörungsberichts,
+
+6. der ersten Auswertung der eingereichten Stellungnahmen,
+
+7. der organisatorischen Vorbereitung eines Erörterungstermins und
+
+8. der Leitung eines Erörterungstermins,
+
+9. dem Entwurf von Entscheidungen,
+
+10. der Koordinierung der Enteignungs- und Entschädigungsverfahren.
+
+Die Entscheidung über den Antrag auf Planfeststellung oder Plangenehmigung verbleibt bei der Planfeststellungsbehörde.
+
+###### § 74 Planfeststellungsbeschluss
+
+(1) Die Planfeststellungsbehörde stellt den Plan fest (Planfeststellungsbeschluss). Maßgeblich ist auf entsprechendes Verlangen des Trägers des Vorhabens die Sach- und Rechtslage zum Zeitpunkt des Schlusses der Erörterung nach § 73b Absatz 1 oder falls eine Erörterung nicht stattfindet, der Zeitpunkt sechs Monate nach Ablauf der Einwendungsfrist, soweit durch Rechtsvorschrift nicht etwas anderes bestimmt ist. Dies gilt nicht, wenn der Stichtag nach Satz 2 länger als zwölf Monate zurückliegt oder die Planung nach § 73c geändert wurde. Die Vorschriften über die Entscheidung und die Anfechtung der Entscheidung im förmlichen Verwaltungsverfahren (§ 69 Absatz 1 und § 70) sind anzuwenden. Der Planfeststellungsbeschluss soll in elektronischer Form ergehen; § 69 Absatz 2 Satz 2 gilt entsprechend.
+
+(2) Im Planfeststellungsbeschluss entscheidet die Planfeststellungsbehörde über die Einwendungen und Stellungnahmen, über die keine Einigung erzielt worden ist; nicht beachtliche Belange können zusammenfassend dargestellt werden. Sie hat dem Träger des Vorhabens Vorkehrungen oder die Errichtung und Unterhaltung von Anlagen aufzuerlegen, die zum Wohl der Allgemeinheit oder zur Vermeidung nachteiliger Wirkungen auf Rechte anderer erforderlich sind. Sind solche Vorkehrungen oder Anlagen untunlich oder mit dem Vorhaben unvereinbar, so hat der Betroffene Anspruch auf angemessene Entschädigung in Geld.
 
 (3) Soweit eine abschließende Entscheidung noch nicht möglich ist, ist diese im Planfeststellungsbeschluss vorzubehalten; dem Träger des Vorhabens ist dabei aufzugeben, noch fehlende oder von der Planfeststellungsbehörde bestimmte Unterlagen rechtzeitig vorzulegen.
 
-(4) Der Planfeststellungsbeschluss ist dem Träger des Vorhabens, denjenigen, über deren Einwendungen entschieden worden ist, und den Vereinigungen, über deren Stellungnahmen entschieden worden ist, zuzustellen. Eine Ausfertigung des Beschlusses ist mit einer Rechtsbehelfsbelehrung und einer Ausfertigung des festgestellten Plans in den Gemeinden zwei Wochen zur Einsicht auszulegen; die Auslegung ist ortsüblich bekannt zu machen. Die Planfeststellungsbehörde bestimmt, in welcher Gemeinde eine andere Zugangsmöglichkeit nach § 27b Absatz 1 Satz 1 Nummer 2 zur Verfügung zu stellen ist und legt im Benehmen mit der jeweiligen Gemeinde die Zugangsmöglichkeit fest. Mit dem Ende der Auslegungsfrist gilt der Beschluss gegenüber den übrigen Betroffenen als zugestellt; darauf ist in der Bekanntmachung hinzuweisen.
+(4) Die Planfeststellungsbehörde legt den Beschluss mit einer Rechtsbehelfsbelehrung und dem festgestellten Plan für zwei Wochen zur Einsicht aus. Auf Verlangen eines Betroffenen, das bis zum Ablauf der Rechtsbehelfsfrist an die Planfeststellungsbehörde zu richten ist, wird diesem eine andere, leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt. Mit dem Ende der Auslegungsfrist gilt der Beschluss dem Träger des Vorhabens, den Betroffenen, den Vereinigungen nach § 73 Absatz 2 Satz 1 Nummer 2 und denjenigen, die Einwendungen erhoben oder Stellungnahmen abgegeben haben, als zugestellt. Der Planfeststellungsbeschluss kann dem Träger des Vorhabens, denjenigen, über deren Einwendungen entschieden worden ist, und den Vereinigungen, über deren Stellungnahmen entschieden worden ist, auch zugestellt werden.
 
-(5) Sind außer an den Träger des Vorhabens mehr als 50 Zustellungen nach Absatz 4 vorzunehmen, so können diese Zustellungen durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass der verfügende Teil des Planfeststellungsbeschlusses, die Rechtsbehelfsbelehrung und ein Hinweis auf die Auslegung nach Absatz 4 Satz 2 im amtlichen Veröffentlichungsblatt der zuständigen Behörde und außerdem in örtlichen Tageszeitungen bekannt gemacht werden, die in dem Bereich verbreitet sind, in dem sich das Vorhaben voraussichtlich auswirken wird; auf Auflagen ist hinzuweisen. Mit dem Ende der Auslegungsfrist gilt der Beschluss den Betroffenen und denjenigen gegenüber, die Einwendungen erhoben haben, als zugestellt; hierauf ist in der Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung kann der Planfeststellungsbeschluss bis zum Ablauf der Rechtsbehelfsfrist von den Betroffenen und von denjenigen, die Einwendungen erhoben haben, schriftlich oder elektronisch angefordert werden; hierauf ist in der Bekanntmachung gleichfalls hinzuweisen.
+(5) Die Planfeststellungsbehörde macht die Auslegung des festgestellten Plans vorher öffentlich bekannt. In der Bekanntmachung weist sie darauf hin, dass
 
-(6) An Stelle eines Planfeststellungsbeschlusses kann eine Plangenehmigung erteilt werden, wenn
+1. auf Verlangen eines Betroffenen, das bis zum Ablauf der Rechtsbehelfsfrist an die Planfeststellungsbehörde zu richten ist, ihm eine andere, leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt wird und
 
-1. Rechte anderer nicht oder nur unwesentlich beeinträchtigt werden oder die Betroffenen sich mit der Inanspruchnahme ihres Eigentums oder eines anderen Rechts schriftlich einverstanden erklärt haben,
+2. mit dem Ende der Auslegungsfrist der Beschluss dem Träger des Vorhabens, den Betroffenen, den Vereinigungen nach § 73 Absatz 2 Satz 1 Nummer 2 und denjenigen, die Einwendungen erhoben und Stellungnahmen abgegeben haben, als zugestellt gilt.
+
+(6) Die Planfeststellungsbehörde soll die Unterlagen nach Absatz 4 Satz 1 nach dem Ende der Auslegungsfrist mindestens bis zum Ende der Rechtsbehelfsfrist zur Information im Internet veröffentlichen.
+
+###### § 74a Plangenehmigung
+
+(1) Anstelle eines Planfeststellungsbeschlusses kann eine Plangenehmigung erteilt werden, wenn
+
+1. Rechte anderer nicht oder nur unwesentlich beeinträchtigt werden oder die Betroffenen sich mit der Inanspruchnahme ihres Eigentums oder eines anderen Rechts einverstanden erklärt haben,
 
 2. mit den Trägern öffentlicher Belange, deren Aufgabenbereich berührt wird, das Benehmen hergestellt worden ist und
 
-3. nicht andere Rechtsvorschriften eine Öffentlichkeitsbeteiligung vorschreiben, die den Anforderungen des § 73 Absatz 3 Satz 1 und Absatz 4 bis 7 entsprechen muss.
+3. nicht andere Rechtsvorschriften eine Öffentlichkeitsbeteiligung vorschreiben, die den Anforderungen des § 73 Absatz 1 Satz 1 und 2, Absatz 2 und 3 sowie des § 73b entsprechen muss.
 
-Die Plangenehmigung hat die Rechtswirkungen der Planfeststellung; auf ihre Erteilung sind die Vorschriften über das Planfeststellungsverfahren nicht anzuwenden; davon ausgenommen sind Absatz 4 Satz 1 und Absatz 5, die entsprechend anzuwenden sind. Vor Erhebung einer verwaltungsgerichtlichen Klage bedarf es keiner Nachprüfung in einem Vorverfahren. § 75 Abs. 4 gilt entsprechend.
+(2) Auf die Erteilung einer Plangenehmigung sind die Vorschriften über das Planfeststellungsverfahren nicht anzuwenden. Die Plangenehmigung soll in elektronischer Form ergehen; § 69 Absatz 2 Satz 2 gilt entsprechend. Die Plangenehmigung ist dem Träger des Vorhabens, denjenigen, über deren Einwendungen entschieden worden ist, und den Vereinigungen, über deren Stellungnahmen entschieden worden ist, zuzustellen. Sind außer an den Träger des Vorhabens mehr als 50 Zustellungen vorzunehmen, so gilt § 74 Absatz 4 Satz 1 bis 3 und Absatz 5 entsprechend.
 
-(7) Planfeststellung und Plangenehmigung entfallen in Fällen von unwesentlicher Bedeutung. Diese liegen vor, wenn
+(3) Die Plangenehmigung hat die Rechtswirkungen der Planfeststellung. Vor Erhebung einer verwaltungsgerichtlichen Klage bedarf es keiner Nachprüfung in einem Vorverfahren. § 75a Absatz 1 und 2 gilt entsprechend.
+
+(4) Abweichend von Absatz 1 Nummer 3 kann für ein Vorhaben, für das nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung durchzuführen ist, an Stelle eines Planfeststellungsbeschlusses eine Plangenehmigung erteilt werden. Die §§ 73 bis 73b gelten entsprechend mit Ausnahme von § 73 Absatz 2 Satz 4 und 5. Im Übrigen findet das Gesetz über die Umweltverträglichkeitsprüfung Anwendung.
+
+###### § 74b Entfallen von Planfeststellung und Plangenehmigung
+
+Planfeststellung und Plangenehmigung entfallen in Fällen von unwesentlicher Bedeutung. Diese liegen vor, wenn
 
 1. andere öffentliche Belange nicht berührt sind oder die erforderlichen behördlichen Entscheidungen vorliegen und sie dem Plan nicht entgegenstehen,
 
 2. Rechte anderer nicht beeinflusst werden oder mit den vom Plan Betroffenen entsprechende Vereinbarungen getroffen worden sind und
 
-3. nicht andere Rechtsvorschriften eine Öffentlichkeitsbeteiligung vorschreiben, die den Anforderungen des § 73 Absatz 3 Satz 1 und Absatz 4 bis 7 entsprechen muss.
+3. nicht andere Rechtsvorschriften eine Öffentlichkeitsbeteiligung vorschreiben, die den Anforderungen des § 73 Absatz 1 Satz 1 und 2, Absatz 2 und 3 und des § 73b entsprechen muss.
 
-##### § 75 Rechtswirkungen der Planfeststellung
+###### § 75 Rechtswirkungen der Planfeststellung
 
-(1) Durch die Planfeststellung wird die Zulässigkeit des Vorhabens einschließlich der notwendigen Folgemaßnahmen an anderen Anlagen im Hinblick auf alle von ihm berührten öffentlichen Belange festgestellt; neben der Planfeststellung sind andere behördliche Entscheidungen, insbesondere öffentlich-rechtliche Genehmigungen, Verleihungen, Erlaubnisse, Bewilligungen, Zustimmungen und Planfeststellungen nicht erforderlich. Durch die Planfeststellung werden alle öffentlich-rechtlichen Beziehungen zwischen dem Träger des Vorhabens und den durch den Plan Betroffenen rechtsgestaltend geregelt.
+(1) Durch die Planfeststellung wird die Zulässigkeit des Vorhabens einschließlich der notwendigen Folgemaßnahmen an anderen Anlagen im Hinblick auf alle von ihm berührten öffentlichen Belange festgestellt. Neben der Planfeststellung sind andere behördliche Entscheidungen, insbesondere öffentlich-rechtliche Genehmigungen, Verleihungen, Erlaubnisse, Bewilligungen, Zustimmungen und Planfeststellungen, nicht erforderlich. Durch die Planfeststellung werden alle öffentlich-rechtlichen Beziehungen zwischen dem Träger des Vorhabens und den durch den Plan Betroffenen rechtsgestaltend geregelt.
 
-(1a) Mängel bei der Abwägung der von dem Vorhaben berührten öffentlichen und privaten Belange sind nur erheblich, wenn sie offensichtlich und auf das Abwägungsergebnis von Einfluss gewesen sind. Erhebliche Mängel bei der Abwägung oder eine Verletzung von Verfahrens- oder Formvorschriften führen nur dann zur Aufhebung des Planfeststellungsbeschlusses oder der Plangenehmigung, wenn sie nicht durch Planergänzung oder durch ein ergänzendes Verfahren behoben werden können; die §§ 45 und 46 bleiben unberührt.
+(2) Mängel bei der Abwägung der von dem Vorhaben berührten öffentlichen und privaten Belange sind nur erheblich, wenn sie offensichtlich und auf das Abwägungsergebnis von Einfluss gewesen sind. Erhebliche Mängel bei der Abwägung oder eine Verletzung von Verfahrens- oder Formvorschriften führen nur dann zur Aufhebung des Planfeststellungsbeschlusses oder der Plangenehmigung, wenn sie nicht durch Planergänzung oder durch ein ergänzendes Verfahren behoben werden können. Die §§ 45 und 46 bleiben unberührt.
 
-(2) Ist der Planfeststellungsbeschluss unanfechtbar geworden, so sind Ansprüche auf Unterlassung des Vorhabens, auf Beseitigung oder Änderung der Anlagen oder auf Unterlassung ihrer Benutzung ausgeschlossen. Treten nicht voraussehbare Wirkungen des Vorhabens oder der dem festgestellten Plan entsprechenden Anlagen auf das Recht eines anderen erst nach Unanfechtbarkeit des Plans auf, so kann der Betroffene Vorkehrungen oder die Errichtung und Unterhaltung von Anlagen verlangen, welche die nachteiligen Wirkungen ausschließen. Sie sind dem Träger des Vorhabens durch Beschluss der Planfeststellungsbehörde aufzuerlegen. Sind solche Vorkehrungen oder Anlagen untunlich oder mit dem Vorhaben unvereinbar, so richtet sich der Anspruch auf angemessene Entschädigung in Geld. Werden Vorkehrungen oder Anlagen im Sinne des Satzes 2 notwendig, weil nach Abschluss des Planfeststellungsverfahrens auf einem benachbarten Grundstück Veränderungen eingetreten sind, so hat die hierdurch entstehenden Kosten der Eigentümer des benachbarten Grundstücks zu tragen, es sei denn, dass die Veränderungen durch natürliche Ereignisse oder höhere Gewalt verursacht worden sind; Satz 4 ist nicht anzuwenden.
+(3) Wird eine Planergänzung oder ein ergänzendes Verfahren nach Absatz 2 erforderlich und unverzüglich betrieben, bleibt die Durchführung des Vorhabens zulässig, soweit es von der Planergänzung oder dem Ergebnis des ergänzenden Verfahrens offensichtlich nicht berührt ist.
 
-(3) Anträge, mit denen Ansprüche auf Herstellung von Einrichtungen oder auf angemessene Entschädigung nach Absatz 2 Satz 2 und 4 geltend gemacht werden, sind schriftlich an die Planfeststellungsbehörde zu richten. Sie sind nur innerhalb von drei Jahren nach dem Zeitpunkt zulässig, zu dem der Betroffene von den nachteiligen Wirkungen des dem unanfechtbar festgestellten Plan entsprechenden Vorhabens oder der Anlage Kenntnis erhalten hat; sie sind ausgeschlossen, wenn nach Herstellung des dem Plan entsprechenden Zustands 30 Jahre verstrichen sind.
+(4) Ist der Planfeststellungsbeschluss unanfechtbar geworden, so sind Ansprüche auf Unterlassung des Vorhabens, auf Beseitigung oder Änderung der Anlagen oder auf Unterlassung ihrer Benutzung ausgeschlossen. Treten nicht voraussehbare Wirkungen des Vorhabens oder der dem festgestellten Plan entsprechenden Anlagen auf das Recht eines anderen erst nach Unanfechtbarkeit des Plans auf, so kann der Betroffene Vorkehrungen oder die Errichtung und Unterhaltung von Anlagen verlangen, welche die nachteiligen Wirkungen ausschließen. Sie sind dem Träger des Vorhabens durch Beschluss der Planfeststellungsbehörde aufzuerlegen. Sind solche Vorkehrungen oder Anlagen untunlich oder mit dem Vorhaben unvereinbar, so richtet sich der Anspruch auf angemessene Entschädigung in Geld. Werden Vorkehrungen oder Anlagen im Sinne des Satzes 2 notwendig, weil nach Abschluss des Planfeststellungsverfahrens auf einem benachbarten Grundstück Veränderungen eingetreten sind, so hat die hierdurch entstehenden Kosten der Eigentümer des benachbarten Grundstücks zu tragen, es sei denn, dass die Veränderungen durch natürliche Ereignisse oder höhere Gewalt verursacht worden sind; Satz 4 ist nicht anzuwenden.
 
-(4) Wird mit der Durchführung des Plans nicht innerhalb von fünf Jahren nach Eintritt der Unanfechtbarkeit begonnen, so tritt er außer Kraft. Als Beginn der Durchführung des Plans gilt jede erstmals nach außen erkennbare Tätigkeit von mehr als nur geringfügiger Bedeutung zur plangemäßen Verwirklichung des Vorhabens; eine spätere Unterbrechung der Verwirklichung des Vorhabens berührt den Beginn der Durchführung nicht.
+(5) Anträge, mit denen Ansprüche auf Herstellung von Einrichtungen oder auf angemessene Entschädigung nach Absatz 4 Satz 2 und 4 geltend gemacht werden, sind an die Planfeststellungsbehörde zu richten; sie sind nur innerhalb von drei Jahren nach dem Zeitpunkt zulässig, zu dem der Betroffene von den nachteiligen Wirkungen des dem unanfechtbar festgestellten Plan entsprechenden Vorhabens oder der Anlage Kenntnis erhalten hat. Sie sind ausgeschlossen, wenn nach Herstellung des dem Plan entsprechenden Zustands 30 Jahre verstrichen sind.
 
-##### § 76 Planänderungen vor Fertigstellung des Vorhabens
+###### § 75a Außerkrafttreten des Plans
+
+(1) Wird mit der Durchführung des Plans nicht innerhalb von zehn Jahren nach Eintritt der Unanfechtbarkeit begonnen, so tritt er außer Kraft. Dies gilt nicht, wenn der Plan zuvor auf Antrag des Trägers des Vorhabens von der Planfeststellungsbehörde um insgesamt höchstens fünf Jahre verlängert wird.
+
+(2) Als Beginn der Durchführung des Plans gilt jede erstmals nach außen erkennbare Tätigkeit von mehr als nur geringfügiger Bedeutung zur plangemäßen Verwirklichung des Vorhabens. Eine spätere Unterbrechung der Verwirklichung des Vorhabens berührt den Beginn der Durchführung nicht.
+
+(3) Vor der Entscheidung nach Absatz 1 ist eine auf den Antrag begrenzte Anhörung nach dem für die Planfeststellung oder für die Plangenehmigung vorgeschriebenen Verfahren durchzuführen. Auf die Entscheidung über die Verlängerung sowie die Anfechtung der Entscheidung sind die Bestimmungen über den Planfeststellungsbeschluss entsprechend anzuwenden.
+
+###### § 76 Planänderungen vor Fertigstellung des Vorhabens
 
 (1) Soll vor Fertigstellung des Vorhabens der festgestellte Plan geändert werden, bedarf es eines neuen Planfeststellungsverfahrens.
 
@@ -1497,11 +1604,11 @@ Die Plangenehmigung hat die Rechtswirkungen der Planfeststellung; auf ihre Ertei
 
 (3) Führt die Planfeststellungsbehörde in den Fällen des Absatzes 2 oder in anderen Fällen einer Planänderung von unwesentlicher Bedeutung ein Planfeststellungsverfahren durch, so bedarf es keines Anhörungsverfahrens und keiner öffentlichen Bekanntgabe des Planfeststellungsbeschlusses.
 
-##### § 77 Aufhebung des Planfeststellungsbeschlusses
+###### § 77 Aufhebung des Planfeststellungsbeschlusses
 
 Wird ein Vorhaben, mit dessen Durchführung begonnen worden ist, endgültig aufgegeben, so hat die Planfeststellungsbehörde den Planfeststellungsbeschluss aufzuheben. In dem Aufhebungsbeschluss sind dem Träger des Vorhabens die Wiederherstellung des früheren Zustands oder geeignete andere Maßnahmen aufzuerlegen, soweit dies zum Wohl der Allgemeinheit oder zur Vermeidung nachteiliger Wirkungen auf Rechte anderer erforderlich ist. Werden solche Maßnahmen notwendig, weil nach Abschluss des Planfeststellungsverfahrens auf einem benachbarten Grundstück Veränderungen eingetreten sind, so kann der Träger des Vorhabens durch Beschluss der Planfeststellungsbehörde zu geeigneten Vorkehrungen verpflichtet werden; die hierdurch entstehenden Kosten hat jedoch der Eigentümer des benachbarten Grundstücks zu tragen, es sei denn, dass die Veränderungen durch natürliche Ereignisse oder höhere Gewalt verursacht worden sind.
 
-##### § 78 Zusammentreffen mehrerer Vorhaben
+###### § 78 Zusammentreffen mehrerer Vorhaben
 
 (1) Treffen mehrere selbständige Vorhaben, für deren Durchführung Planfeststellungsverfahren vorgeschrieben sind, derart zusammen, dass für diese Vorhaben oder für Teile von ihnen nur eine einheitliche Entscheidung möglich ist, und ist mindestens eines der Planfeststellungsverfahren bundesrechtlich geregelt, so findet für diese Vorhaben oder für deren Teile nur ein Planfeststellungsverfahren statt.
 
@@ -1509,11 +1616,11 @@ Wird ein Vorhaben, mit dessen Durchführung begonnen worden ist, endgültig aufg
 
 ## Teil VI Rechtsbehelfsverfahren
 
-##### § 79 Rechtsbehelfe gegen Verwaltungsakte
+###### § 79 Rechtsbehelfe gegen Verwaltungsakte
 
 Für förmliche Rechtsbehelfe gegen Verwaltungsakte gelten die Verwaltungsgerichtsordnung und die zu ihrer Ausführung ergangenen Rechtsvorschriften, soweit nicht durch Gesetz etwas anderes bestimmt ist; im Übrigen gelten die Vorschriften dieses Gesetzes.
 
-##### § 80 Erstattung von Kosten im Vorverfahren
+###### § 80 Erstattung von Kosten im Vorverfahren
 
 (1) Soweit der Widerspruch erfolgreich ist, hat der Rechtsträger, dessen Behörde den angefochtenen Verwaltungsakt erlassen hat, demjenigen, der Widerspruch erhoben hat, die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen zu erstatten. Dies gilt auch, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 unbeachtlich ist. Soweit der Widerspruch erfolglos geblieben ist, hat derjenige, der den Widerspruch eingelegt hat, die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen der Behörde, die den angefochtenen Verwaltungsakt erlassen hat, zu erstatten; dies gilt nicht, wenn der Widerspruch gegen einen Verwaltungsakt eingelegt wird, der im Rahmen
 
@@ -1533,21 +1640,21 @@ erlassen wurde. Aufwendungen, die durch das Verschulden eines Erstattungsberecht
 
 ## Abschnitt 1 Ehrenamtliche Tätigkeit
 
-##### § 81 Anwendung der Vorschriften über die ehrenamtliche Tätigkeit
+###### § 81 Anwendung der Vorschriften über die ehrenamtliche Tätigkeit
 
 Für die ehrenamtliche Tätigkeit im Verwaltungsverfahren gelten die §§ 82 bis 87, soweit Rechtsvorschriften nichts Abweichendes bestimmen.
 
-##### § 82 Pflicht zu ehrenamtlicher Tätigkeit
+###### § 82 Pflicht zu ehrenamtlicher Tätigkeit
 
 Eine Pflicht zur Übernahme ehrenamtlicher Tätigkeit besteht nur, wenn sie durch Rechtsvorschrift vorgesehen ist.
 
-##### § 83 Ausübung ehrenamtlicher Tätigkeit
+###### § 83 Ausübung ehrenamtlicher Tätigkeit
 
 (1) Der ehrenamtlich Tätige hat seine Tätigkeit gewissenhaft und unparteiisch auszuüben.
 
 (2) Bei Übernahme seiner Aufgaben ist er zur gewissenhaften und unparteiischen Tätigkeit und zur Verschwiegenheit besonders zu verpflichten. Die Verpflichtung ist aktenkundig zu machen.
 
-##### § 84 Verschwiegenheitspflicht
+###### § 84 Verschwiegenheitspflicht
 
 (1) Der ehrenamtlich Tätige hat, auch nach Beendigung seiner ehrenamtlichen Tätigkeit, über die ihm dabei bekannt gewordenen Angelegenheiten Verschwiegenheit zu wahren. Dies gilt nicht für Mitteilungen im dienstlichen Verkehr oder über Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
 
@@ -1559,11 +1666,11 @@ Eine Pflicht zur Übernahme ehrenamtlicher Tätigkeit besteht nur, wenn sie durc
 
 (5) Die Genehmigung nach den Absätzen 2 bis 4 erteilt die fachlich zuständige Aufsichtsbehörde der Stelle, die den ehrenamtlich Tätigen berufen hat.
 
-##### § 85 Entschädigung
+###### § 85 Entschädigung
 
 Der ehrenamtlich Tätige hat Anspruch auf Ersatz seiner notwendigen Auslagen und seines Verdienstausfalls.
 
-##### § 86 Abberufung
+###### § 86 Abberufung
 
 Personen, die zu ehrenamtlicher Tätigkeit herangezogen worden sind, können von der Stelle, die sie berufen hat, abberufen werden, wenn ein wichtiger Grund vorliegt. Ein wichtiger Grund liegt insbesondere vor, wenn der ehrenamtlich Tätige
 
@@ -1571,7 +1678,7 @@ Personen, die zu ehrenamtlicher Tätigkeit herangezogen worden sind, können von
 
 2. seine Tätigkeit nicht mehr ordnungsgemäß ausüben kann.
 
-##### § 87 Ordnungswidrigkeiten
+###### § 87 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1583,25 +1690,25 @@ Personen, die zu ehrenamtlicher Tätigkeit herangezogen worden sind, können von
 
 ## Abschnitt 2 Ausschüsse
 
-##### § 88 Anwendung der Vorschriften über Ausschüsse
+###### § 88 Anwendung der Vorschriften über Ausschüsse
 
 Für Ausschüsse, Beiräte und andere kollegiale Einrichtungen (Ausschüsse) gelten, wenn sie in einem Verwaltungsverfahren tätig werden, die §§ 89 bis 93, soweit Rechtsvorschriften nichts Abweichendes bestimmen.
 
-##### § 89 Ordnung in den Sitzungen
+###### § 89 Ordnung in den Sitzungen
 
 Der Vorsitzende eröffnet, leitet und schließt die Sitzungen; er ist für die Ordnung verantwortlich.
 
-##### § 90 Beschlussfähigkeit
+###### § 90 Beschlussfähigkeit
 
 (1) Ausschüsse sind beschlussfähig, wenn alle Mitglieder geladen und mehr als die Hälfte, mindestens aber drei der stimmberechtigten Mitglieder anwesend sind. Beschlüsse können auch im schriftlichen Verfahren gefasst werden, wenn kein Mitglied widerspricht.
 
 (2) Ist eine Angelegenheit wegen Beschlussunfähigkeit zurückgestellt worden und wird der Ausschuss zur Behandlung desselben Gegenstands erneut geladen, so ist er ohne Rücksicht auf die Zahl der Erschienenen beschlussfähig, wenn darauf in dieser Ladung hingewiesen worden ist.
 
-##### § 91 Beschlussfassung
+###### § 91 Beschlussfassung
 
 Beschlüsse werden mit Stimmenmehrheit gefasst. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden, wenn er stimmberechtigt ist; sonst gilt Stimmengleichheit als Ablehnung.
 
-##### § 92 Wahlen durch Ausschüsse
+###### § 92 Wahlen durch Ausschüsse
 
 (1) Gewählt wird, wenn kein Mitglied des Ausschusses widerspricht, durch Zuruf oder Zeichen, sonst durch Stimmzettel. Auf Verlangen eines Mitglieds ist geheim zu wählen.
 
@@ -1609,7 +1716,7 @@ Beschlüsse werden mit Stimmenmehrheit gefasst. Bei Stimmengleichheit entscheide
 
 (3) Sind mehrere gleichartige Wahlstellen zu besetzen, so ist nach dem Höchstzahlverfahren d'Hondt zu wählen, außer wenn einstimmig etwas anderes beschlossen worden ist. Über die Zuteilung der letzten Wahlstelle entscheidet bei gleicher Höchstzahl das vom Leiter der Wahl zu ziehende Los.
 
-##### § 93 Niederschrift
+###### § 93 Niederschrift
 
 Über die Sitzung ist eine Niederschrift zu fertigen. Die Niederschrift muss Angaben enthalten über
 
@@ -1627,15 +1734,15 @@ Die Niederschrift ist von dem Vorsitzenden und, soweit ein Schriftführer hinzug
 
 ## Teil VIII Schlussvorschriften
 
-##### § 94 Übertragung gemeindlicher Aufgaben
+###### § 94 Übertragung gemeindlicher Aufgaben
 
 Die Landesregierungen können durch Rechtsverordnung die nach den §§ 73 und 74 dieses Gesetzes den Gemeinden obliegenden Aufgaben auf eine andere kommunale Gebietskörperschaft oder eine Verwaltungsgemeinschaft übertragen. Rechtsvorschriften der Länder, die entsprechende Regelungen bereits enthalten, bleiben unberührt.
 
-##### § 95 Sonderregelung für Verteidigungsangelegenheiten
+###### § 95 Sonderregelung für Verteidigungsangelegenheiten
 
 Nach Feststellung des Verteidigungsfalles oder des Spannungsfalles kann in Verteidigungsangelegenheiten von der Anhörung Beteiligter (§ 28 Abs. 1), von der schriftlichen Bestätigung (§ 37 Abs. 2 Satz 2) und von der schriftlichen Begründung eines Verwaltungsaktes (§ 39 Abs. 1) abgesehen werden; in diesen Fällen gilt ein Verwaltungsakt abweichend von § 41 Abs. 4 Satz 3 mit dem auf die Bekanntmachung folgenden Tag als bekannt gegeben. Dasselbe gilt für die sonstigen gemäß Artikel 80a des Grundgesetzes anzuwendenden Rechtsvorschriften.
 
-##### § 96 Überleitung von Verfahren
+###### § 96 Überleitung von Verfahren
 
 (1) Bereits begonnene Verfahren sind nach den Vorschriften dieses Gesetzes zu Ende zu führen.
 
@@ -1645,19 +1752,19 @@ Nach Feststellung des Verteidigungsfalles oder des Spannungsfalles kann in Verte
 
 (4) Für die Erstattung von Kosten im Vorverfahren gelten die Vorschriften dieses Gesetzes, wenn das Vorverfahren vor Inkrafttreten dieses Gesetzes noch nicht abgeschlossen worden ist.
 
-##### § 97
+###### § 97
 
 (weggefallen)
 
-##### § 98
+###### § 98
 
 (weggefallen)
 
-##### § 99
+###### § 99
 
 (weggefallen)
 
-##### § 100 Landesgesetzliche Regelungen
+###### § 100 Landesgesetzliche Regelungen
 
 Die Länder können durch Gesetz
 
@@ -1665,19 +1772,22 @@ Die Länder können durch Gesetz
 
 2. bestimmen, dass für Planfeststellungen, die auf Grund landesrechtlicher Vorschriften durchgeführt werden, die Rechtswirkungen des § 75 Abs. 1 Satz 1 auch gegenüber nach Bundesrecht notwendigen Entscheidungen gelten.
 
-##### § 101 Stadtstaatenklausel
+###### § 101 Stadtstaatenklausel
 
 Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt, die örtliche Zuständigkeit abweichend von § 3 dem besonderen Verwaltungsaufbau ihrer Länder entsprechend zu regeln.
 
-##### § 102 Übergangsvorschrift zu § 53
+###### § 102 Übergangsvorschrift zu § 53
 
 Artikel 229 § 6 Abs. 1 bis 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche gilt entsprechend bei der Anwendung des § 53 in der seit dem 1. Januar 2002 geltenden Fassung.
 
-##### § 102a Übergangsregelung für die Durchführung von Verwaltungsverfahren
+###### § 102a Übergangsregelung für die Durchführung von Verwaltungsverfahren
 
 Auf alle vor dem 1. Januar 2024 begonnenen, aber nicht abgeschlossenen Verwaltungsverfahren sind dieses Gesetz in der bis zum 31. Dezember 2023 geltenden Fassung und das Planungssicherstellungsgesetz weiter anzuwenden. Dies gilt nicht für § 3a.
 
-##### § 103
+###### § 102b Übergangsvorschrift zu den §§ 72 bis 78
+
+Für vor dem 29. Juli 2026 und bis einschließlich 31. Dezember 2027 eingeleitete Planfeststellungs- oder Plangenehmigungsverfahren kann die Planfeststellungsbehörde für alle oder einzelne Verfahrensschritte das Verwaltungsverfahrensgesetz in der bis einschließlich 28. Juli 2026 geltenden Fassung anwenden. Satz 1 gilt entsprechend, wenn das Gesetz über die Umweltverträglichkeitsprüfung anzuwenden ist und dieses auf das Verwaltungsverfahrensgesetz verweist.
+
+###### § 103
 
 (Inkrafttreten)
-
