@@ -4,26 +4,31 @@ identifier: "FSTRBAG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2017-08-14"
-last_updated: "2026-04-04"
+last_updated: "2026-07-29"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/fstrbag/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR314300017"
 slug: "fstrbag"
 bgbl_reference: "BGBl I 2017, 3122, 3143"
 stand: "Zuletzt geändert durch Art. 3 G v. 31.5.2021 I 1221"
+hinweis: "Änderung durch Art. 14 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Gesetz zur Errichtung eines Fernstraßen-Bundesamtes
 
-##### § 1 Errichtung
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
 
-(1) Zum 1. Januar 2021 wird das Fernstraßen-Bundesamt als Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur seine Tätigkeit aufnehmen.
+###### § 1 Errichtung
 
-(2) Auf Vorschlag des Bundesministeriums für Verkehr und digitale Infrastruktur bestimmt die Bundesregierung den Sitz des Fernstraßen-Bundesamtes.
+(1) Zum 1. Januar 2021 wird das Fernstraßen-Bundesamt als Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr seine Tätigkeit aufnehmen.
+
+(2) Auf Vorschlag des Bundesministeriums für Verkehr bestimmt die Bundesregierung den Sitz des Fernstraßen-Bundesamtes.
 
 (3) Das Fernstraßen-Bundesamt wird von einem Präsidenten oder einer Präsidentin geleitet.
 
-##### § 2 Aufgaben des Fernstraßen-Bundesamtes
+###### § 2 Aufgaben des Fernstraßen-Bundesamtes
 
 (1) Dem Fernstraßen-Bundesamt obliegen folgende Aufgaben:
 
@@ -37,13 +42,13 @@ stand: "Zuletzt geändert durch Art. 3 G v. 31.5.2021 I 1221"
 
 5. die Wahrnehmung der Rechts- und Fachaufsicht über die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes, soweit diese auf Grund des § 6 des Infrastrukturgesellschaftserrichtungsgesetzes mit der Wahrnehmung von hoheitlichen Aufgaben beliehen ist.
 
-Im Übrigen ist das Fernstraßen-Bundesamt zuständig, sofern und soweit ihm durch ein Gesetz oder auf Grund eines Gesetzes Aufgaben zugewiesen werden. Das Fernstraßen-Bundesamt unterstützt das Bundesministerium für Verkehr und digitale Infrastruktur fachlich bei der Wahrnehmung der Bundesaufsicht über die Landesbehörden, soweit dem Bund die Verwaltung der Bundesstraßen nicht zusteht, bei der Erarbeitung von Rechts- und Verwaltungsvorschriften sowie bei der zwischenstaatlichen Zusammenarbeit.
+Im Übrigen ist das Fernstraßen-Bundesamt zuständig, sofern und soweit ihm durch ein Gesetz oder auf Grund eines Gesetzes Aufgaben zugewiesen werden. Das Fernstraßen-Bundesamt unterstützt das Bundesministerium für Verkehr fachlich bei der Wahrnehmung der Bundesaufsicht über die Landesbehörden, soweit dem Bund die Verwaltung der Bundesstraßen nicht zusteht, bei der Erarbeitung von Rechts- und Verwaltungsvorschriften sowie bei der zwischenstaatlichen Zusammenarbeit.
 
-(2) Das Fernstraßen-Bundesamt ist Anhörungs- und Planfeststellungsbehörde in Planfeststellungsverfahren oder Plangenehmigungsbehörde in Plangenehmigungsverfahren, die auf der Grundlage des § 17 des Bundesfernstraßengesetzes für den Bau oder die Änderung von Bundesautobahnen durchgeführt werden. Es trifft in den in Satz 1 genannten Fällen auch die Entscheidung nach § 74 Absatz 7 des Verwaltungsverfahrensgesetzes.
+(2) Das Fernstraßen-Bundesamt ist Anhörungs- und Planfeststellungsbehörde in Planfeststellungsverfahren oder Plangenehmigungsbehörde in Plangenehmigungsverfahren, die auf der Grundlage des § 17 des Bundesfernstraßengesetzes für den Bau oder die Änderung von Bundesautobahnen durchgeführt werden. Es trifft in den in Satz 1 genannten Fällen auch die Entscheidung nach § 74b des Verwaltungsverfahrensgesetzes.
 
 (3) Soweit nach Artikel 90 Absatz 4 oder Artikel 143e Absatz 2 des Grundgesetzes auf Antrag eines Landes Bundesstraßen, soweit sie im Gebiet dieses Landes liegen, vom Bund in Bundesverwaltung übernommen werden, ist das Fernstraßen-Bundesamt Anhörungs- und Planfeststellungsbehörde in Planfeststellungsverfahren oder Plangenehmigungsbehörde in Plangenehmigungsverfahren für den Bau oder die Änderung von Bundesfernstraßen.
 
-##### § 3 Übergangsregelung, Antragsrecht der Länder
+###### § 3 Übergangsregelung, Antragsrecht der Länder
 
 (1) Das Fernstraßen-Bundesamt tritt im Rahmen seiner Zuständigkeiten nach § 2 in vor dem 1. Januar 2021 eingeleitete Verwaltungsverfahren ein, soweit in den Absätzen 2 und 3 nichts Abweichendes bestimmt ist.
 
@@ -69,13 +74,13 @@ Für Verfahren nach den Sätzen 1 bis 3 bleiben die Länder zuständig und führ
 
 2. bei der Plangenehmigung mit dem Antrag auf Einreichung des Plans bei der Anhörungs- oder Planfeststellungsbehörde nach § 17b Absatz 1 Nummer 2 Satz 2 und § 17a des Bundesfernstraßengesetzes in Verbindung mit § 73 Absatz 1 des Verwaltungsverfahrensgesetzes.
 
-Bei Planergänzungen oder ergänzenden Verfahren kann an die Stelle des Antrags auch eine von Amts wegen getroffene Entscheidung der Planfeststellungsbehörde des Landes treten.
+Bei Planergänzungen oder ergänzenden Verfahren kann an die Stelle des Antrags auch eine von Amts wegen getroffene Entscheidung der Planfeststellungsbehörde des Landes treten. Das Bundesfernstraßengesetz und das Verwaltungsverfahrensgesetz sind im Rahmen dieses Absatzes in der bis zum 29. Juli 2026 geltenden Fassung anzuwenden.
 
-(3) Wenn ein Land dies beim Fernstraßen-Bundesamt beantragt, ist abweichend von § 2 Absatz 2 und 3 eine nach Landesrecht zuständige Behörde die Anhörungs- und Planfeststellungsbehörde in Planfeststellungsverfahren oder die Plangenehmigungsbehörde in Plangenehmigungsverfahren, die auf der Grundlage des § 17 des Bundesfernstraßengesetzes für den Bau oder die Änderung von Bundesautobahnen oder Bundesstraßen in Bundesverwaltung durchgeführt werden, sowie für die Entscheidung nach § 74 Absatz 7 des Verwaltungsverfahrensgesetzes zuständig. Sofern das Fernstraßen-Bundesamt und das Land nicht etwas anderes vereinbaren, wird die beantragte Übernahme wirksam mit Beginn des zweiten auf die Antragstellung folgenden Kalenderjahres; das jeweilige Land trägt ab diesem Zeitpunkt seine Kosten. Die Übernahme ist in einem vom Land zu bestimmenden Amtsblatt zu veröffentlichen. Die Antragstellung eines Landes erfolgt stets für alle Bundesautobahnen, die in dem jeweiligen Land liegen, und zugleich für alle Bundesstraßen in Bundesverwaltung, die in dem jeweiligen Land liegen, und ist nur ein einziges Mal möglich. Erfolgt die Antragstellung mit Wirkung zum 1. Januar 2021, tritt die Zuständigkeit des Fernstraßen-Bundesamtes nach § 2 Absatz 2 nicht ein. Umfasste der Antrag auf Übernahme zum 1. Januar 2021 nur die Bundesautobahnen, die in dem jeweiligen Land liegen, kann das Land den Antrag einmalig auf die Übernahme der Bundesstraßen in Bundesverwaltung, die in dem jeweiligen Land liegen, erweitern. Erfolgt eine Antragstellung mit Wirkung zu einem späteren Zeitpunkt, gilt Absatz 2 entsprechend, so dass die nach dem 1. Januar 2021 bis zum Zeitpunkt der wirksamen Übernahme eingeleiteten Verfahren vom Fernstraßen-Bundesamt fortgeführt werden und das jeweilige Land die Kosten ab dem Zeitpunkt der wirksamen Übernahme erstattet.
+(3) Wenn ein Land dies beim Fernstraßen-Bundesamt beantragt, ist abweichend von § 2 Absatz 2 und 3 eine nach Landesrecht zuständige Behörde die Anhörungs- und Planfeststellungsbehörde in Planfeststellungsverfahren oder die Plangenehmigungsbehörde in Plangenehmigungsverfahren, die auf der Grundlage des § 17 des Bundesfernstraßengesetzes für den Bau oder die Änderung von Bundesautobahnen oder Bundesstraßen in Bundesverwaltung durchgeführt werden, sowie für die Entscheidung nach § 74b des Verwaltungsverfahrensgesetzes zuständig. Sofern das Fernstraßen-Bundesamt und das Land nicht etwas anderes vereinbaren, wird die beantragte Übernahme wirksam mit Beginn des zweiten auf die Antragstellung folgenden Kalenderjahres; das jeweilige Land trägt ab diesem Zeitpunkt seine Kosten. Die Übernahme ist in einem vom Land zu bestimmenden Amtsblatt zu veröffentlichen. Die Antragstellung eines Landes erfolgt stets für alle Bundesautobahnen, die in dem jeweiligen Land liegen, und zugleich für alle Bundesstraßen in Bundesverwaltung, die in dem jeweiligen Land liegen, und ist nur ein einziges Mal möglich. Erfolgt die Antragstellung mit Wirkung zum 1. Januar 2021, tritt die Zuständigkeit des Fernstraßen-Bundesamtes nach § 2 Absatz 2 nicht ein. Umfasste der Antrag auf Übernahme zum 1. Januar 2021 nur die Bundesautobahnen, die in dem jeweiligen Land liegen, kann das Land den Antrag einmalig auf die Übernahme der Bundesstraßen in Bundesverwaltung, die in dem jeweiligen Land liegen, erweitern. Erfolgt eine Antragstellung mit Wirkung zu einem späteren Zeitpunkt, gilt Absatz 2 entsprechend, so dass die nach dem 1. Januar 2021 bis zum Zeitpunkt der wirksamen Übernahme eingeleiteten Verfahren vom Fernstraßen-Bundesamt fortgeführt werden und das jeweilige Land die Kosten ab dem Zeitpunkt der wirksamen Übernahme erstattet.
 
-(4) Bei Zuständigkeit einer nach Landesrecht zuständigen Behörde ist das Bundesministerium für Verkehr und digitale Infrastruktur berechtigt, die Zuständigkeit für die Befugnisse nach § 2 Absatz 2 und 3 dem Fernstraßen-Bundesamt zu übertragen, sofern es tatsächliche Anhaltspunkte gibt, dass ein Land seiner Aufgabe zur Schaffung von Baurecht nach den §§ 17 bis 17e des Bundesfernstraßengesetzes nicht ordnungsgemäß nachkommt. Die Übertragung der Befugnisse auf das Fernstraßen-Bundesamt wird mit Beginn des zweiten auf die Entscheidung des Bundesministeriums für Verkehr und digitale Infrastruktur folgenden Kalenderjahres wirksam und der Bund trägt ab diesem Zeitpunkt die Kosten. Absatz 2 gilt entsprechend, so dass die bis zum Zeitpunkt der wirksamen Übertragung auf das Fernstraßen-Bundesamt eingeleiteten Verfahren von dem jeweiligen Land fortgeführt werden und das Fernstraßen-Bundesamt dem jeweiligen Land die Kosten ab dem Zeitpunkt der wirksamen Übertragung erstattet. Das Bundesministerium für Verkehr und digitale Infrastruktur wird den Zeitpunkt der wirksamen Übertragung im Bundesanzeiger veröffentlichen.
+(4) Bei Zuständigkeit einer nach Landesrecht zuständigen Behörde ist das Bundesministerium für Verkehr berechtigt, die Zuständigkeit für die Befugnisse nach § 2 Absatz 2 und 3 dem Fernstraßen-Bundesamt zu übertragen, sofern es tatsächliche Anhaltspunkte gibt, dass ein Land seiner Aufgabe zur Schaffung von Baurecht nach den §§ 17 bis 17e des Bundesfernstraßengesetzes nicht ordnungsgemäß nachkommt. Die Übertragung der Befugnisse auf das Fernstraßen-Bundesamt wird mit Beginn des zweiten auf die Entscheidung des Bundesministeriums für Verkehr folgenden Kalenderjahres wirksam und der Bund trägt ab diesem Zeitpunkt die Kosten. Absatz 2 gilt entsprechend, so dass die bis zum Zeitpunkt der wirksamen Übertragung auf das Fernstraßen-Bundesamt eingeleiteten Verfahren von dem jeweiligen Land fortgeführt werden und das Fernstraßen-Bundesamt dem jeweiligen Land die Kosten ab dem Zeitpunkt der wirksamen Übertragung erstattet. Das Bundesministerium für Verkehr wird den Zeitpunkt der wirksamen Übertragung im Bundesanzeiger veröffentlichen.
 
-##### § 4 Straßenverkehrsrechtliche Aufgaben des Fernstraßen-Bundesamtes
+###### § 4 Straßenverkehrsrechtliche Aufgaben des Fernstraßen-Bundesamtes
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates dem Fernstraßen-Bundesamt Aufgaben zur Durchführung des Straßenverkehrsgesetzes und der auf Grund des Straßenverkehrsgesetzes erlassenen Rechtsverordnungen zu übertragen und dabei den Übergang laufender Verfahren auf das Fernstraßen-Bundesamt zu regeln. Übertragbar sind straßenverkehrsrechtliche Aufgaben auf Bundesautobahnen in der Baulast des Bundes und auf Bundesstraßen in Bundesverwaltung, die
 
@@ -110,4 +115,3 @@ Auf Bundesstraßen in Bundesverwaltung zählen zu den übertragbaren Aufgaben au
 Von Satz 2 ausgenommen sind Aufgaben der Polizei.
 
 (2) In der Rechtsverordnung nach Absatz 1 kann vorgesehen werden, dass Aufgaben des Fernstraßen-Bundesamtes der auf Grund des Infrastrukturgesellschaftserrichtungsgesetzes beliehenen Gesellschaft privaten Rechts weiter übertragen werden.
-
