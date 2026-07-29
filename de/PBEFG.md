@@ -4,22 +4,26 @@ identifier: "PBEFG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1961-03-21"
-last_updated: "2026-04-04"
+last_updated: "2026-07-29"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/pbefg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR002410961"
 slug: "pbefg"
 bgbl_reference: "BGBl I 1961, 241"
-stand: "zuletzt geändert durch Art. 7 Abs. 4 G v. 11.4.2024 I Nr. 119"
+stand: "zuletzt geändert durch Art. 3 Abs. 2 G v. 15.5.2026 I Nr. 148"
 neufassung: "Neugefasst durch Bek. v. 8.8.1990 I 1690;"
-hinweis: "Änderung durch Art. 2 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+hinweis: "Änderung durch Art. 15 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Personenbeförderungsgesetz
 
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
 ## I. Allgemeine Vorschriften
 
-##### § 1 Sachlicher Geltungsbereich
+###### § 1 Sachlicher Geltungsbereich
 
 (1) Den Vorschriften dieses Gesetzes unterliegt die entgeltliche oder geschäftsmäßige Beförderung von Personen mit Straßenbahnen, mit Oberleitungsomnibussen (Obussen) und mit Kraftfahrzeugen. Als Entgelt sind auch wirtschaftliche Vorteile anzusehen, die mittelbar für die Wirtschaftlichkeit einer auf diese Weise geförderten Erwerbstätigkeit erstrebt werden.
 
@@ -39,11 +43,11 @@ Satz 1 Nummer 1 gilt auch, wenn die Beförderungen geschäftsmäßig sind.
 
 (3) Den Vorschriften dieses Gesetzes unterliegt außerdem die Vermittlung von Beförderungen gemäß Absatz 1. Vermittlung im Sinne von Satz 1 ist die Tätigkeit von Betreibern von Mobilitätsplattformen, deren Hauptgeschäftszweck auf den Abschluss eines Vertrages über eine gemäß § 2 genehmigungspflichtige Beförderung ausgerichtet ist, und die nicht selbst Beförderer nach Absatz 1 Satz 1 sind.
 
-##### § 1a Klimaschutz und Nachhaltigkeit
+###### § 1a Klimaschutz und Nachhaltigkeit
 
 Bei Anwendung dieses Gesetzes sind die Ziele des Klimaschutzes und der Nachhaltigkeit zu berücksichtigen.
 
-##### § 2 Genehmigungspflicht
+###### § 2 Genehmigungspflicht
 
 (1) Wer im Sinne des § 1 Abs. 1
 
@@ -81,7 +85,7 @@ Personen befördert, muß im Besitz einer Genehmigung sein. Er ist Unternehmer i
 
 (7) Zur praktischen Erprobung neuer Verkehrsarten oder Verkehrsmittel kann die Genehmigungsbehörde auf Antrag im Einzelfall Abweichungen von Vorschriften dieses Gesetzes oder von auf Grund dieses Gesetzes erlassenen Vorschriften für die Dauer von höchstens fünf Jahren genehmigen, soweit öffentliche Verkehrsinteressen nicht entgegenstehen.
 
-##### § 3 Unternehmer
+###### § 3 Unternehmer
 
 (1) Die Genehmigung wird dem Unternehmer für einen bestimmten Verkehr (§ 9) und für seine Person (natürliche oder juristische Person) erteilt.
 
@@ -89,7 +93,7 @@ Personen befördert, muß im Besitz einer Genehmigung sein. Er ist Unternehmer i
 
 (3) Sollen Straßenbahnbetriebsanlagen von einem anderen als dem Unternehmer gebaut werden, kann die Genehmigung für ihren Bau und für die Linienführung (§ 9 Abs. 1 Nr. 1) dem anderen erteilt werden; die für den Unternehmer geltenden Vorschriften des Gesetzes und der auf Grund des Gesetzes erlassenen Rechtsverordnungen sind entsprechend anzuwenden.
 
-##### § 3a Bereitstellung von Mobilitätsdaten
+###### § 3a Bereitstellung von Mobilitätsdaten
 
 (1) Der Unternehmer und der Vermittler sind verpflichtet, die folgenden statischen und dynamischen Daten sowie die entsprechenden Metadaten, die im Zusammenhang mit der Beförderung von Personen im Linienverkehr nach den §§ 42, 42a und 44 sowie im Gelegenheitsverkehr nach den §§ 47, 49 und 50 entstehen, nach Maßgabe der nach § 57 Absatz 1 Nummer 12 zu erlassenden Rechtsverordnung über den Nationalen Zugangspunkt nach § 2 Nummer 11 des Intelligente Verkehrssysteme Gesetzes vom 11. Juni 2013 (BGBl. I S. 1553), das zuletzt durch Artikel 1 des Gesetzes vom 17. Juni 2017 (BGBl. I S. 2690) geändert worden ist, bereitzustellen:
 
@@ -117,7 +121,7 @@ b) Daten zur Verfügbarkeit von Fahrzeugen an Stationen und im Verkehr inklusive
 
 (5) Stehen für die nach Absatz 1 Nummer 1 bereitzustellenden Daten auf Länderebene Systeme zur Verfügung, die dem Zweck der landeseinheitlichen Zusammenführung von Daten dienen, so sind die Daten vorrangig an diese Systeme zu liefern. Die Landessysteme garantieren, dass die bereitgestellten Daten und Metadaten umgehend an den Nationalen Zugangspunkt weitergeleitet werden. Dynamische Daten sind in Echtzeit weiterzuleiten. Hierzu müssen die Landessysteme mit dem Nationalen Zugangspunkt über eine funktionsfähige Schnittstelle verbunden sein. Die technischen Vorgaben des Nationalen Zugangspunktes sind einzuhalten.
 
-##### § 3b Datenverarbeitung
+###### § 3b Datenverarbeitung
 
 (1) Der Nationale Zugangspunkt ist befugt, die Daten nach § 3a Absatz 1 zu erheben, zu speichern, zu verwenden und auf Anfrage nach Maßgabe der nach § 57 Absatz 1 Nummer 12 zu erlassenden Rechtsverordnung an die folgenden Empfänger zu übermitteln:
 
@@ -157,7 +161,7 @@ wenn die Daten zur Erreichung dieser Zwecke erforderlich sind. Die Bundesministe
 
 (6) Das Statistische Bundesamt und die Landesämter für Statistik sind befugt, Daten nach § 3a Absatz 1 Nummer 1 Buchstabe a, b und c zu erheben, zu speichern und zu verwenden, soweit dies zur Erstellung der Personenverkehrsstatistik nach § 1 Nummer 7 des Verkehrsstatistikgesetzes erforderlich ist.
 
-##### § 3c Datenlöschung
+###### § 3c Datenlöschung
 
 (1) Der Nationale Zugangspunkt und Behörden nach § 8 Absatz 3 sowie §§ 11 und 29 haben personenbezogene Daten unverzüglich zu löschen, wenn sie für die in § 3b Absatz 1 oder 3 genannten Zwecke nicht mehr erforderlich sind, spätestens jedoch
 
@@ -189,7 +193,7 @@ Der Nationale Zugangspunkt hat dynamische Daten nach § 3a Absatz 1 Nummer 2 Buc
 
 (4) Das Statistische Bundesamt und die Landesämter für Statistik haben personenbezogene Daten zu löschen, wenn diese nicht mehr für die in § 3b Absatz 6 genannten Zwecke erforderlich sind, spätestens jedoch ein Jahr nach Erstellung der jeweiligen Statistik.
 
-##### § 4 Straßenbahnen, Obusse, Kraftfahrzeuge
+###### § 4 Straßenbahnen, Obusse, Kraftfahrzeuge
 
 (1) Straßenbahnen sind Schienenbahnen, die
 
@@ -215,21 +219,21 @@ und ausschließlich oder überwiegend der Beförderung von Personen im Orts- ode
 
 (6) Krankenkraftwagen im Sinne dieses Gesetzes sind Fahrzeuge, die für Krankentransport oder Notfallrettung besonders eingerichtet und nach dem Fahrzeugschein als Krankenkraftwagen anerkannt sind.
 
-##### § 5 Dokumente
+###### § 5 Dokumente
 
 Genehmigungen, einstweilige Erlaubnisse und Bescheinigungen oder deren Widerruf nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder Allgemeinen Verwaltungsvorschrift sind schriftlich oder in elektronischer Form mit einer dauerhaft überprüfbaren Signatur nach § 37 Absatz 4 des Verwaltungsverfahrensgesetzes zu erteilen.
 
-##### § 6 Umgehungsverbot
+###### § 6 Umgehungsverbot
 
 Die Verpflichtungen des Unternehmers nach diesem Gesetz werden durch rechtsgeschäftliche oder firmenrechtliche Gestaltungen oder Scheintatbestände, die zur Umgehung der Bestimmungen des Gesetzes geeignet sind, nicht berührt.
 
-##### § 7 Beförderung von Personen auf Lastkraftwagen und auf Anhängern hinter Lastkraftwagen und Zugmaschinen
+###### § 7 Beförderung von Personen auf Lastkraftwagen und auf Anhängern hinter Lastkraftwagen und Zugmaschinen
 
 (1) Zu einer Personenbeförderung, die nach diesem Gesetz genehmigungspflichtig ist, dürfen Lastkraftwagen sowie Anhänger jeder Art hinter Lastkraftwagen oder hinter Zugmaschinen nicht verwendet werden.
 
 (2) Die Genehmigungsbehörde kann in Einzelfällen Ausnahmen zulassen.
 
-##### § 8 Förderung der Verkehrsbedienung und Ausgleich der Verkehrsinteressen im öffentlichen Personennahverkehr
+###### § 8 Förderung der Verkehrsbedienung und Ausgleich der Verkehrsinteressen im öffentlichen Personennahverkehr
 
 (1) Öffentlicher Personennahverkehr im Sinne dieses Gesetzes ist die allgemein zugängliche Beförderung von Personen mit Straßenbahnen, Obussen und Kraftfahrzeugen im Linienverkehr, die überwiegend dazu bestimmt sind, die Verkehrsnachfrage im Stadt-, Vorort- oder Regionalverkehr zu befriedigen. Das ist im Zweifel der Fall, wenn in der Mehrzahl der Beförderungsfälle eines Verkehrsmittels die gesamte Reiseweite 50 Kilometer oder die gesamte Reisezeit eine Stunde nicht übersteigt.
 
@@ -243,7 +247,7 @@ Die Verpflichtungen des Unternehmers nach diesem Gesetz werden durch rechtsgesch
 
 (4) Verkehrsleistungen im öffentlichen Personennahverkehr sind eigenwirtschaftlich zu erbringen. Eigenwirtschaftlich sind Verkehrsleistungen, deren Aufwand gedeckt wird durch Beförderungserlöse, Ausgleichsleistungen auf der Grundlage von allgemeinen Vorschriften nach Artikel 3 Absatz 2 und 3 der Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über öffentliche Personenverkehrsdienste auf Schiene und Straße und zur Aufhebung der Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des Rates (ABl. L 315 vom 3.12.2007, S. 1) und sonstige Unternehmenserträge im handelsrechtlichen Sinne, soweit diese keine Ausgleichsleistungen für die Erfüllung gemeinwirtschaftlicher Verpflichtungen nach Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1370/2007 darstellen und keine ausschließlichen Rechte gewährt werden. Ausgleichszahlungen für die Beförderung von Personen mit Zeitfahrausweisen des Ausbildungsverkehrs nach § 45a sind aus dem Anwendungsbereich der Verordnung (EG) Nr. 1370/2007 ausgenommen.
 
-##### § 8a Vergabe öffentlicher Dienstleistungsaufträge
+###### § 8a Vergabe öffentlicher Dienstleistungsaufträge
 
 (1) Soweit eine ausreichende Verkehrsbedienung für eine Gesamtleistung nach § 8a Absatz 2 Satz 4 oder für eine Teilleistung nicht entsprechend § 8 Absatz 4 Satz 1 möglich ist, ist die Verordnung (EG) Nr. 1370/2007 maßgebend. Die zuständige Behörde im Sinne der Verordnung (EG) Nr. 1370/2007 (zuständige Behörde) kann zur Sicherstellung einer ausreichenden Verkehrsbedienung allgemeine Vorschriften im Sinne des Artikels 3 Absatz 2 und 3 der Verordnung (EG) Nr. 1370/2007 erlassen oder öffentliche Dienstleistungsaufträge nach Maßgabe des Artikels 3 Absatz 1 der Verordnung (EG) Nr. 1370/2007 erteilen. Wer zuständige Behörde ist, richtet sich nach dem Landesrecht; sie soll grundsätzlich mit dem Aufgabenträger nach § 8 Absatz 3 identisch sein.
 
@@ -261,11 +265,11 @@ Die Verpflichtungen des Unternehmers nach diesem Gesetz werden durch rechtsgesch
 
 (8) Die zuständige Behörde im Sinne der Verordnung (EG) Nr. 1370/2007 kann in dem öffentlichen Dienstleistungsauftrag ein ausschließliches Recht im Sinne von Artikel 2 Buchstabe f der Verordnung (EG) Nr. 1370/2007 gewähren. Das ausschließliche Recht darf sich nur auf den Schutz der Verkehrsleistungen beziehen, die Gegenstand des öffentlichen Dienstleistungsauftrages sind. Die zuständige Behörde bestimmt hierbei den räumlichen und zeitlichen Geltungsbereich sowie die Art der Personenverkehrsdienstleistungen, die unter Ausschluss anderer Betreiber zu erbringen sind. Dabei dürfen solche Verkehre, die das Fahrgastpotenzial der geschützten Verkehre nur unerheblich beeinträchtigen, nicht ausgeschlossen werden.
 
-##### § 8b Wettbewerbliches Vergabeverfahren
+###### § 8b Wettbewerbliches Vergabeverfahren
 
 (1) Ein wettbewerbliches Vergabeverfahren nach Artikel 5 Absatz 3 der Verordnung (EG) Nr. 1370/2007 muss die Anforderungen nach den Absätzen 2 bis 7 erfüllen.
 
-(2) Die Bekanntmachung über das vorgesehene wettbewerbliche Vergabeverfahren muss allen in Betracht kommenden Bietern zugänglich sein. Sie kann auf der Internetseite www.bund.de veröffentlicht werden. Die Bekanntmachung muss alle für die Teilnahme an dem Vergabeverfahren erforderlichen Informationen enthalten, insbesondere Informationen über
+(2) Die Bekanntmachung über das vorgesehene wettbewerbliche Vergabeverfahren muss allen in Betracht kommenden Bietern zugänglich sein. Sie soll auf der Internetseite oeffentlichevergabe.de veröffentlicht werden. Die Bekanntmachung muss alle für die Teilnahme an dem Vergabeverfahren erforderlichen Informationen enthalten, insbesondere Informationen über
 
 1. den vorgesehenen Ablauf des wettbewerblichen Vergabeverfahrens,
 
@@ -275,9 +279,9 @@ Die Verpflichtungen des Unternehmers nach diesem Gesetz werden durch rechtsgesch
 
 4. Zuschlagskriterien einschließlich deren vorgesehener Gewichtung.
 
-(3) Die Dienstleistungen sind eindeutig und umfassend zu beschreiben, sodass alle in Betracht kommenden Bieter die Beschreibung im gleichen Sinne verstehen müssen und miteinander vergleichbare Angebote zu erwarten sind. Fristen sind unter Berücksichtigung der Komplexität der Dienstleistungen angemessen zu setzen.
+(3) Die Dienstleistungen sind so eindeutig wie möglich zu beschreiben, sodass alle in Betracht kommenden Bieter die Beschreibung im gleichen Sinne verstehen müssen und miteinander vergleichbare Angebote zu erwarten sind. Fristen sind unter Berücksichtigung der Komplexität der Dienstleistungen angemessen zu setzen.
 
-(4) Die Teilnehmer an dem wettbewerblichen Vergabeverfahren sind gleich zu behandeln. Der Zuschlag ist auf das unter Berücksichtigung aller Umstände wirtschaftlichste Angebot zu erteilen.
+(4) Die Teilnehmer an dem wettbewerblichen Vergabeverfahren sind gleich zu behandeln, es sei denn, eine Ungleichbehandlung ist unionsrechtlich oder auf Grund eines Bundesgesetzes geboten oder gestattet. Der Zuschlag ist auf das unter Berücksichtigung aller Umstände wirtschaftlichste Angebot zu erteilen.
 
 (5) Werden Unteraufträge zugelassen, kann vorgegeben werden, dass die Übertragung von Unteraufträgen nach wettbewerblichen Grundsätzen vorzunehmen ist.
 
@@ -287,7 +291,7 @@ Die Verpflichtungen des Unternehmers nach diesem Gesetz werden durch rechtsgesch
 
 ## II. Genehmigung
 
-##### § 9 Umfang der Genehmigung
+###### § 9 Umfang der Genehmigung
 
 (1) Die Genehmigung wird erteilt
 
@@ -309,11 +313,11 @@ Die Verpflichtungen des Unternehmers nach diesem Gesetz werden durch rechtsgesch
 
 (4) (weggefallen)
 
-##### § 10 Entscheidung in Zweifelsfällen
+###### § 10 Entscheidung in Zweifelsfällen
 
 Entstehen Zweifel darüber, ob eine Personenbeförderung den Vorschriften dieses Gesetzes unterliegt oder welcher Verkehrsart oder Verkehrsform ein Verkehr zugehört oder wer Unternehmer im Sinne des § 3 Abs. 1 und 2 ist, so entscheidet die für den Sitz des Unternehmers zuständige, von der Landesregierung bestimmte Behörde.
 
-##### § 11 Genehmigungsbehörden
+###### § 11 Genehmigungsbehörden
 
 (1) Die Genehmigung erteilt die von der Landesregierung bestimmte Behörde.
 
@@ -327,7 +331,7 @@ Entstehen Zweifel darüber, ob eine Personenbeförderung den Vorschriften dieses
 
 (4) Soll ein Straßenbahn-, Obus- oder Linienverkehr mit Kraftfahrzeugen in mehreren Ländern betrieben werden, so ist Absatz 3 Satz 1, 2 und 4 entsprechend anzuwenden. Bestehen zwischen den beteiligten Ländern Zweifel über die Zuständigkeit und kommt eine Einigung der obersten Landesverkehrsbehörden darüber nicht zustande, so entscheidet auf Antrag einer beteiligten obersten Landesverkehrsbehörde das Bundesministerium für Verkehr. Das gleiche gilt, wenn über die Entscheidung eines Genehmigungsantrags zwischen den Genehmigungsbehörden der beteiligten Länder ein Einvernehmen nicht hergestellt und auch ein Einvernehmen zwischen den obersten Landesverkehrsbehörden darüber nicht erzielt werden kann.
 
-##### § 12 Antragstellung
+###### § 12 Antragstellung
 
 (1) Der Antrag auf Erteilung der Genehmigung soll enthalten
 
@@ -395,7 +399,7 @@ Bei einem Personenfernverkehr (§ 42a Satz 1) genügt abweichend von Satz 1 Numm
 
 (8) Die Absätze 5 und 6 gelten nicht für den Personenfernverkehr (§ 42a Satz 1).
 
-##### § 13 Voraussetzung der Genehmigung
+###### § 13 Voraussetzung der Genehmigung
 
 (1) Die Genehmigung darf nur erteilt werden, wenn
 
@@ -471,7 +475,7 @@ Einem Antragsteller darf jeweils nur eine Genehmigung erteilt werden, sofern nic
 
 (7) Bei der Genehmigung in den Fällen des § 2 Abs. 2 Nr. 2 und 3 sind die Absätze 2, 4 und 5 Satz 1, 2, 4 und 5 nicht anzuwenden.
 
-##### § 14 Anhörungsverfahren
+###### § 14 Anhörungsverfahren
 
 (1) Vor der Entscheidung über den Antrag auf Erteilung der Genehmigung für die Beförderung von Personen mit Straßenbahnen, Obussen oder mit Kraftfahrzeugen im Linienverkehr hat die Genehmigungsbehörde
 
@@ -491,7 +495,7 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 (5) Bei Anträgen auf Erteilung einer Genehmigung für grenzüberschreitende Gelegenheitsverkehre oder für Transitverkehre sind die Absätze 1 bis 4 nicht anzuwenden. Bei Anträgen auf Erteilung einer Genehmigung für einen Personenfernverkehr (§ 42a Satz 1) sind nach Absatz 1 Satz 1 Nummer 1 nur die Unternehmer zu hören, deren Rechte nach § 42a Satz 3 berührt sein können; Absatz 1 Satz 1 Nummer 3 ist nicht anzuwenden.
 
-##### § 15 Erteilung und Versagung der Genehmigung
+###### § 15 Erteilung und Versagung der Genehmigung
 
 (1) Die Entscheidung über den Antrag erfolgt schriftlich oder in elektronischer Form mit einer dauerhaft überprüfbaren Signatur nach § 37 Absatz 4 des Verwaltungsverfahrensgesetzes; sie ist den Antragstellern und, soweit diese Einwendungen erhoben haben, auch den in § 14 Abs. 1 Nr. 1 und 2 genannten Personen und Stellen zuzustellen. Über den Antrag ist innerhalb von 3 Monaten nach Eingang bei der Genehmigungsbehörde zu entscheiden. Kann die Prüfung des Antrags in dieser Zeit nicht abgeschlossen werden, ist die Frist vor ihrem Ablauf in einem den Antragstellern mitzuteilenden Zwischenbescheid um den Zeitraum zu verlängern, der notwendig ist, um die Prüfung abschließen zu können. Die Verlängerung der in Satz 2 bezeichneten Frist darf höchstens 3 Monate betragen. Die Genehmigung gilt als erteilt, wenn sie nicht innerhalb der Frist versagt wird. Die Frist für eine Entscheidung über einen Antrag auf Erteilung einer Genehmigung für einen Verkehr mit Straßenbahnen, Obussen oder Kraftfahrzeugen im Linienverkehr beginnt frühestens mit dem ersten Kalendertag nach dem Ablauf der Antragsfrist in § 12 Absatz 5 oder 6.
 
@@ -503,7 +507,7 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 (5) Die Genehmigungsbehörde hat die zuständige Berufsgenossenschaft von der Erteilung der Genehmigung zu unterrichten.
 
-##### § 16 Geltungsdauer der Genehmigung
+###### § 16 Geltungsdauer der Genehmigung
 
 (1) Die Geltungsdauer der Genehmigung für Straßenbahn-und Obusverkehr beträgt höchstens 15 Jahre. Sie kann unter den Voraussetzungen des Artikels 4 Absatz 4 der Verordnung (EG) Nr. 1370/2007 für einen längeren Zeitraum festgelegt werden. Bei Wiedererteilung der Genehmigung ist die Geltungsdauer so zu bemessen, dass die Genehmigung mit Vereinbarungen und Entscheidungen über die Benutzung öffentlicher Straßen nach § 31 Absatz 2 und 5 in Einklang steht. Ist die beantragte Verkehrsleistung Gegenstand eines öffentlichen Dienstleistungsauftrages im Sinne von Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1370/2007, darf die Geltungsdauer der Genehmigung die Laufzeit des öffentlichen Dienstleistungsauftrages nicht überschreiten.
 
@@ -513,7 +517,7 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 (4) Die Geltungsdauer der Genehmigungen für Gelegenheitsverkehr mit Kraftomnibussen beträgt höchstens zehn Jahre und für sonstigen Gelegenheitsverkehr mit Kraftfahrzeugen höchstens fünf Jahre.
 
-##### § 17 Genehmigungsurkunde
+###### § 17 Genehmigungsurkunde
 
 (1) Die Genehmigungsurkunde muß enthalten:
 
@@ -541,7 +545,7 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 (5) Ist eine Genehmigung anders als durch Fristablauf ungültig geworden, ist die Genehmigungsurkunde unverzüglich einzuziehen. Ist dies nicht möglich, ist sie auf Kosten des Unternehmers für kraftlos zu erklären.
 
-##### § 18 Informationspflicht der Genehmigungsbehörde
+###### § 18 Informationspflicht der Genehmigungsbehörde
 
 (1) Die Genehmigungsbehörde hat ein Verzeichnis aller Genehmigungen, die im öffentlichen Personennahverkehr für den Verkehr mit Straßenbahnen, Obussen oder Kraftfahrzeugen im Linienverkehr bestehen, am Ende jedes Kalenderjahres auf der Internetseite der zuständigen Genehmigungsbehörde bekannt zu machen. Die Bekanntmachung muss folgende Angaben enthalten:
 
@@ -553,7 +557,7 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 (2) In die Bekanntmachung nach Absatz 1 können die nach Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1370/2007 und die nach § 8a Absatz 2 Satz 2 dieses Gesetzes vorgeschriebenen Informationen der zuständigen Behörde aufgenommen werden. In diesem Fall ist die dreimonatige Frist für den Antrag auf Genehmigung eines Verkehrs abweichend von § 12 Absatz 6 Satz 1 besonders festzulegen.
 
-##### § 19 Tod des Unternehmers
+###### § 19 Tod des Unternehmers
 
 (1) Nach dem Tode des Unternehmers kann der Erbe den Betrieb vorläufig weiterführen oder diese Befugnis auf einen Dritten übertragen; das gleiche gilt für den Testamentsvollstrecker, Nachlaßpfleger oder Nachlaßverwalter während einer Testamentsvollstreckung, Nachlaßpflegschaft oder Nachlaßverwaltung.
 
@@ -563,7 +567,7 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 (4) Im Falle der Erwerbs- oder Geschäftsunfähigkeit des Unternehmers oder der für die Führung der Geschäfte bestellten Person darf ein Dritter das Unternehmen bis zu einem Jahr weiterführen. In ausreichend begründeten Sonderfällen kann diese Frist um sechs Monate verlängert werden.
 
-##### § 20 Einstweilige Erlaubnis
+###### § 20 Einstweilige Erlaubnis
 
 (1) Wenn eine sofortige Einrichtung, Erweiterung oder wesentliche Änderung eines Straßenbahn-, Obusverkehrs oder Linienverkehrs mit Kraftfahrzeugen im öffentlichen Verkehrsinteresse liegt, kann die Genehmigungsbehörde, in deren Bezirk der Verkehr betrieben werden soll, dem Antragsteller eine widerrufliche einstweilige Erlaubnis erteilen; die Voraussetzungen des § 13 Abs. 1 oder Absatz 1a müssen vorliegen. Die Erteilung ist auch den in § 14 Abs. 1 Nr. 1 genannten Unternehmern bekanntzugeben.
 
@@ -583,9 +587,9 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 (4) § 17 Abs. 3, 4 und 5 gilt entsprechend.
 
-##### § 20a (weggefallen)
+###### § 20a (weggefallen)
 
-##### § 21 Betriebspflicht
+###### § 21 Betriebspflicht
 
 (1) Der Unternehmer ist verpflichtet, den ihm genehmigten Betrieb aufzunehmen und während der Geltungsdauer der Genehmigung den öffentlichen Verkehrsinteressen und dem Stand der Technik entsprechend aufrechtzuerhalten. Gegenstand der Betriebspflicht sind alle Bestandteile der Genehmigung und die nach § 12 Absatz 1a zugesicherten Bestandteile des Genehmigungsantrages.
 
@@ -597,7 +601,7 @@ Bei einem Antrag auf Erteilung einer Genehmigung für einen eigenwirtschaftliche
 
 (5) Im Personenfernverkehr (§ 42a Satz 1) kann der Unternehmer unbeschadet des Absatzes 4 der Genehmigungsbehörde anzeigen, dass er den Verkehr einstellen will. In diesem Fall endet die Betriebspflicht drei Monate nach Eingang der Anzeige bei der Genehmigungsbehörde.
 
-##### § 22 Beförderungspflicht
+###### § 22 Beförderungspflicht
 
 Der Unternehmer ist zur Beförderung verpflichtet, wenn
 
@@ -607,7 +611,7 @@ Der Unternehmer ist zur Beförderung verpflichtet, wenn
 
 3. die Beförderung nicht durch Umstände verhindert wird, die der Unternehmer nicht abwenden und denen er auch nicht abhelfen kann.
 
-##### § 23 Haftung für Sachschäden
+###### § 23 Haftung für Sachschäden
 
 (1) Der Unternehmer kann die Haftung für Sachschäden gegenüber jeder beförderten Person nur insoweit ausschließen, als der Schaden 1 000 Euro übersteigt und nicht auf Vorsatz oder grober Fahrlässigkeit beruht.
 
@@ -615,9 +619,9 @@ Der Unternehmer ist zur Beförderung verpflichtet, wenn
 
 (3) Im Linien- und Gelegenheitsverkehr mit Kraftomnibussen ist ein Haftungsausschluss für beschädigte oder abhandengekommene Mobilitätshilfen nicht zulässig.
 
-##### § 24 (weggefallen)
+###### § 24 (weggefallen)
 
-##### § 25 Widerruf der Genehmigung
+###### § 25 Widerruf der Genehmigung
 
 (1) Die Genehmigungsbehörde hat die Genehmigung zu widerrufen, wenn
 
@@ -637,7 +641,7 @@ Die erforderliche Zuverlässigkeit des Unternehmers ist insbesondere nicht mehr 
 
 (4) Die Absätze 1 bis 3a sind auf den Widerruf der Genehmigung für die Übertragung der Betriebsführung entsprechend anzuwenden.
 
-##### § 25a Untersagung von Personenkraftverkehrsgeschäften
+###### § 25a Untersagung von Personenkraftverkehrsgeschäften
 
 Rechtfertigen Tatsachen die Annahme, dass beim Verkehr mit Kraftomnibussen der Unternehmer oder der Verkehrsleiter die Voraussetzungen hinsichtlich der Zuverlässigkeit nach Artikel 6 der Verordnung (EG) Nr. 1071/2009 nicht erfüllt, kann dem Unternehmer oder dem Verkehrsleiter die Führung von Personenkraftverkehrsgeschäften untersagt werden. Das Untersagungsverfahren kann unabhängig von einem Verfahren auf Widerruf der Genehmigung durchgeführt werden. Auf Antrag ist dem Unternehmer oder dem Verkehrsleiter die Führung von Personenkraftverkehrsgeschäften von der Behörde, die die Führung von Personenkraftverkehrsgeschäften untersagt hat, wieder zu gestatten, wenn
 
@@ -647,7 +651,7 @@ Rechtfertigen Tatsachen die Annahme, dass beim Verkehr mit Kraftomnibussen der U
 
 Die Wiederaufnahme der Führung von Personenkraftverkehrsgeschäften kann nicht vor Ablauf eines Jahres nach Bestandskraft der Untersagungsverfügung gestattet werden.
 
-##### § 26 Erlöschen der Genehmigung
+###### § 26 Erlöschen der Genehmigung
 
 Die Genehmigung erlischt
 
@@ -659,7 +663,7 @@ b) von der Verpflichtung zur Aufrechterhaltung des gesamten ihm genehmigten Verk
 
 2. beim Taxenverkehr, wenn der Unternehmer seinen Betriebssitz in eine andere Gemeinde verlegt.
 
-##### § 27 Zwangsmaßnahmen
+###### § 27 Zwangsmaßnahmen
 
 Das Verwaltungszwangsverfahren richtet sich, soweit dieses Gesetz von Behörden der Länder ausgeführt wird, nach den landesrechtlichen Vorschriften.
 
@@ -667,109 +671,87 @@ Das Verwaltungszwangsverfahren richtet sich, soweit dieses Gesetz von Behörden 
 
 ## A. Straßenbahnen
 
-##### § 28 Planfeststellung und vorläufige Anordnung
+###### § 28 Planfeststellung und vorläufige Anordnung
 
 (1) Betriebsanlagen für Straßenbahnen dürfen nur gebaut oder geändert werden, wenn der Plan vorher festgestellt ist. Bei der Planfeststellung sind die von dem Vorhaben berührten öffentlichen und privaten Belange einschließlich der Umweltverträglichkeit im Rahmen der Abwägung zu berücksichtigen. Für das Planfeststellungsverfahren gelten die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes. Die Maßgaben gelten entsprechend, soweit das Planfeststellungsverfahren landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist. Wird eine bestehende Betriebsanlage einer Straßenbahn erneuert, liegt nur dann eine Änderung im Sinne von Satz 1 vor, wenn der Grundriss oder der Aufriss der Betriebsanlage oder beides wesentlich geändert wird.
 
-(1a) Für folgende Einzelmaßnahmen, die den Bau oder die Änderung von Betriebsanlagen für Straßenbahnen vorsehen, bedarf es keiner vorherigen Planfeststellung oder Plangenehmigung, sofern keine Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung besteht:
+(1a) Für folgende Einzelmaßnahmen, die den Bau oder die Änderung von Betriebsanlagen einer Straßenbahn vorsehen, bedarf es keiner vorherigen Planfeststellung oder Plangenehmigung, sofern keine Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung besteht:
 
-1. Ausstattung einer Bahnstrecke mit einer Oberleitung,
+1. die Ausstattung einer bestehenden Straßenbahnstrecke mit Anlagen für den elektrischen Straßenbahnbetrieb, ausgenommen Bahnstromfernleitungen, einschließlich dafür notwendiger räumlich begrenzter baulicher Anpassungen, insbesondere von Tunneln mit geringer Länge oder von Kreuzungsbauwerken,
 
 2. die im Rahmen der Digitalisierung einer Straßenbahnstrecke erforderlichen Baumaßnahmen,
 
-3. der barrierefreie Umbau, die Erhöhung oder Verlängerung von Bahnsteigen und
+3. der Neubau oder die Änderung einschließlich des barrierefreien Umbaus von Bahnsteigen sowie dafür notwendige bauliche Anpassungen an sonstigen Betriebsanlagen der Straßenbahn; dies gilt nicht für den ersatzlosen Teil- oder vollständigen Rückbau eines Bahnsteigs,
 
-4. die Errichtung von Schallschutzwänden zur Lärmsanierung.
+4. die Errichtung und Änderung von Lärmschutzwänden,
 
-Für die in Satz 1 genannten Einzelmaßnahmen ist keine weitere baurechtliche Zulassung erforderlich; landesrechtliche Regelungen bleiben unberührt. Werden durch das Vorhaben private oder öffentliche Belange einschließlich der Belange der Umwelt berührt, kann der Unternehmer die Feststellung des Planes nach Absatz 1 Satz 1 beantragen. Ungeachtet dessen hat sich der Unternehmer vor Durchführung einer Einzelmaßnahme im Sinne des Satzes 1 Nummer 1 und 2 durch das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr vor der Durchführung bestätigen zu lassen, dass keine militärischen Belange entgegenstehen. Kann für das Vorhaben die Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung bestehen, hat der Unternehmer bei der Planfeststellungsbehörde den Antrag nach § 5 Absatz 1 Satz 2 Nummer 1 des Gesetzes über die Umweltverträglichkeitsprüfung zu stellen. Satz 1 Nummer 1 und 2 ist nur anzuwenden, wenn die zuständige Behörde feststellt, dass Vorgaben über die Errichtung und über wesentliche Änderungen von Anlagen eingehalten sind, die in einer elektrische, magnetische oder elektromagnetische Felder betreffenden und aufgrund von § 23 Absatz 1 Satz 1 Nummer 1, 2 und 4 in Verbindung mit § 48b des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 26. September 2002 erlassenen Rechtsverordnung enthalten sind.
+5. die Herstellung von Überleitstellen für Gleiswechselbetriebe,
 
-(2) Abweichend von § 74 Absatz 6 Satz 1 Nummer 3 des Verwaltungsverfahrensgesetzes kann für ein Vorhaben, für das nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung durchzuführen ist, an Stelle eines Planfeststellungsbeschlusses eine Plangenehmigung erteilt werden. § 29 Absatz 1a Satz 1 gilt entsprechend. Im Übrigen findet das Gesetz über die Umweltverträglichkeitsprüfung mit Ausnahme des § 21 Absatz 3 Anwendung.
+6. der Bau und die Änderung von technischen Sicherungen von Bahnübergängen,
 
-(3) Bebauungspläne nach § 9 des Baugesetzbuches ersetzen die Planfeststellung nach Absatz 1 und die Plangenehmigung nach § 74 Absatz 6 des Verwaltungsverfahrensgesetzes, sofern darin Betriebsanlagen für Straßenbahnen ausgewiesen sind. Ist eine Ergänzung der Betriebsanlagen notwendig, ein Bebauungsplan unvollständig oder soll von Festsetzungen des Bebauungsplanes abgewichen werden, ist insoweit die Planfeststellung durchzuführen. Es gelten die §§ 40 und 43 Abs. 1, 2, 4 und 5 sowie § 44 Abs. 1 bis 4 des Baugesetzbuches. § 29 Abs. 3 ist nicht anzuwenden.
+7. der Bau, die Änderung einschließlich Rückbau von Durchlässen,
 
-(3a) Ist das Planfeststellungsverfahren eingeleitet, kann die Planfeststellungsbehörde nach Anhörung der betroffenen Gemeinde eine vorläufige Anordnung erlassen, in der vorbereitende Maßnahmen oder Teilmaßnahmen zum Bau oder zur Änderung festgesetzt werden,
+8. Hang- und Felssicherungsmaßnahmen entlang der Schienenwege,
 
-1. soweit es sich um reversible Maßnahmen handelt,
+9. die Errichtung von Anlagen der Leit- und Sicherungstechnik, insbesondere Signalen,
 
-2. wenn an dem vorzeitigen Beginn ein öffentliches Interesse besteht,
+10. die Errichtung von Kreuzungsgleisen, Überholgleisen und Rangiergleisen, inklusive dadurch notwendiger, räumlich begrenzter baulicher Anpassungen an sonstigen Straßenbahnbetriebsanlagen.
 
-3. wenn mit einer Entscheidung zugunsten des Unternehmers gerechnet werden kann und
+Soweit die Realisierung der in Satz 1 genannten Einzelmaßnahmen zwingend eine geringfügige Gleislageanpassung erfordert, gilt diese als von der Einzelmaßnahme mit umfasst. Die jeweiligen Einzelmaßnahmen und hierfür erforderliche Baustelleneinrichtungsflächen erfordern keine weitere baurechtliche Zulassung; im Übrigen bleiben landesrechtliche Regelungen unberührt. Soweit bauliche Anpassungen an Straßenbahnbetriebsanlagen, für die in Satz 1 genannten Einzelmaßnahmen erforderlich oder notwendig werden, obliegt die Beurteilung dessen dem Unternehmer. Werden durch das Vorhaben private oder öffentliche Belange einschließlich der Belange der Umwelt berührt, kann der Unternehmer die Feststellung des Planes nach Absatz 1 Satz 1 beantragen. Ungeachtet dessen hat sich der Unternehmer vor Durchführung einer Einzelmaßnahme im Sinne des Satzes 1 Nummer 1 und 2 durch das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr bestätigen zu lassen, dass keine militärischen Belange entgegenstehen. Kann für das Vorhaben die Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung bestehen, hat der Unternehmer bei der Planfeststellungsbehörde den Antrag nach § 5 Absatz 1 Satz 2 Nummer 1 des Gesetzes über die Umweltverträglichkeitsprüfung zu stellen. Satz 1 Nummer 1 und 2 ist nur anzuwenden, wenn die zuständige Behörde feststellt, dass Vorgaben über die Errichtung und über wesentliche Änderungen von Anlagen eingehalten sind, die in einer elektrische, magnetische oder elektromagnetische Felder betreffenden und auf Grund von § 23 Absatz 1 Satz 1 Nummer 1, 2 und 4 in Verbindung mit § 48b des Bundes-Immissionsschutzgesetzes in der jeweils geltenden Fassung erlassenen Rechtsverordnung enthalten sind.
 
-4. wenn die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes zu berücksichtigenden Interessen gewahrt werden.
+(2) (weggefallen)
 
-In der vorläufigen Anordnung sind die Auflagen zur Sicherung der nach Satz 1 Nummer 4 zu wahrenden Interessen und der Umfang der vorläufig zulässigen Maßnahmen festzulegen. Sie ist den anliegenden Gemeinden sowie den Beteiligten zuzustellen oder öffentlich bekannt zu machen. Sie ersetzt nicht die Planfeststellung. § 32 bleibt unberührt. Soweit die vorbereitenden Maßnahmen oder Teilmaßnahmen zum Bau oder zur Änderung durch die Planfeststellung für unzulässig erklärt sind, ordnet die Planfeststellungsbehörde gegenüber dem Unternehmer an, den früheren Zustand wiederherzustellen. Dies gilt auch, wenn der Antrag auf Planfeststellung zurückgenommen wurde. Der Betroffene ist durch den Unternehmer zu entschädigen, soweit die Wiederherstellung des früheren Zustandes nicht möglich oder mit unverhältnismäßig hohem Aufwand verbunden oder ein Schaden eingetreten ist, der durch die Wiederherstellung des früheren Zustandes nicht ausgeglichen wird. Rechtsbehelfe gegen die vorläufige Anordnung haben keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt.
+(3) Bebauungspläne nach § 9 des Baugesetzbuches ersetzen die Planfeststellung nach Absatz 1 und die Plangenehmigung nach § 74a des Verwaltungsverfahrensgesetztes, sofern darin Betriebsanlagen für Straßenbahnen ausgewiesen sind. Ist eine Ergänzung der Betriebsanlagen notwendig, ein Bebauungsplan unvollständig oder soll von Festsetzungen des Bebauungsplanes abgewichen werden, ist insoweit die Planfeststellung durchzuführen. Es gelten die §§ 40 und 43 Abs. 1, 2, 4 und 5 sowie § 44 Abs. 1 bis 4 des Baugesetzbuches. § 29 Abs. 3 ist nicht anzuwenden.
 
-(4) Eine Genehmigung nach § 9 Abs. 1 Nr. 1 darf nur erteilt werden vorbehaltlich einer nach den Absätzen 1 bis 3 erforderlichen Planfeststellung oder einer Plangenehmigung oder vorbehaltlich einer nach § 74 Absatz 7 Nummer 2 des Verwaltungsverfahrensgesetzes getroffenen Vereinbarung. Das Planfeststellungsverfahren kann gleichzeitig mit dem Genehmigungsverfahren durchgeführt werden.
+(3a) Ist das Planfeststellungsverfahren oder das Plangenehmigungsverfahren eingeleitet, kann die Planfeststellungsbehörde nach Anhörung der betroffenen Gemeinde eine vorläufige Anordnung erlassen, in der vorbereitende Maßnahmen oder Teilmaßnahmen zum Bau oder zur Änderung festgesetzt werden, wenn
+
+1. an dem vorzeitigen Beginn ein öffentliches Interesse besteht und
+
+2. die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes zu berücksichtigenden Interessen gewahrt werden.
+
+In der vorläufigen Anordnung sind die Auflagen zur Sicherung dieser Interessen und der Umfang der vorläufig zulässigen Maßnahmen festzulegen. Sie ist den betroffenen Gemeinden sowie den Beteiligten zuzustellen oder ihr Inhalt ist öffentlich bekannt zu machen. Im Fall der Bekanntmachung im Internet gilt die vorläufige Anordnung zwei Wochen nach der elektronischen Veröffentlichung als bekannt gegeben; hierauf ist bei der Veröffentlichung hinzuweisen. Die vorläufige Anordnung ersetzt nicht die Planfeststellung. § 32 bleibt unberührt. Soweit die vorbereitenden Maßnahmen oder Teilmaßnahmen zum Bau oder zur Änderung durch die Planfeststellung für unzulässig erklärt sind, ordnet die Planfeststellungsbehörde gegenüber dem Unternehmer an, einen mit dem früheren Zustand im Wesentlichen gleichartigen Zustand herzustellen. Dies gilt auch, wenn der Antrag auf Planfeststellung zurückgenommen wurde. Der Betroffene ist durch den Unternehmer zu entschädigen, soweit ein Schaden eingetreten ist, der durch die Herstellung des mit dem früheren Zustand im Wesentlichen gleichartigen Zustands nicht ausgeglichen wird. Rechtsbehelfe gegen die vorläufige Anordnung haben keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt. § 29 Absatz 5 Satz 3 bis 5 und Absatz 6 gelten entsprechend.
+
+(4) Eine Genehmigung nach § 9 Abs. 1 Nr. 1 darf nur erteilt werden vorbehaltlich einer nach den Absätzen 1 bis 3 erforderlichen Planfeststellung oder einer Plangenehmigung oder vorbehaltlich einer nach § 74b Satz 2 Nummer 2 des Verwaltungsverfahrensgesetzes getroffenen Vereinbarung. Das Planfeststellungsverfahren kann gleichzeitig mit dem Genehmigungsverfahren durchgeführt werden.
 
 (5) Unterhaltungsmaßnahmen bedürfen keiner vorherigen Planfeststellung oder Plangenehmigung. Unterhaltungsmaßnahmen sind Arbeiten zur Erhaltung oder Wiederherstellung der Funktionstätigkeit einer bestehenden Betriebsanlage einschließlich der Anpassung an geltendes Recht oder die anerkannten Regeln der Technik.
 
-##### § 28a Veränderungssperre, Vorkaufsrecht
+###### § 28a Veränderungssperre, Vorkaufsrecht
 
-(1) Sobald der Plan ausgelegt oder andere Gelegenheit gegeben ist, den Plan einzusehen, dürfen auf den vom Plan betroffenen Flächen bis zu ihrer Inanspruchnahme wesentlich wertsteigernde oder die geplanten Baumaßnahmen erheblich erschwerende Veränderungen nicht vorgenommen werden (Veränderungssperre). Veränderungen, die in rechtlich zulässiger Weise vorher begonnen worden sind, Unterhaltungsarbeiten und die Fortführung einer bisher ausgeübten Nutzung werden davon nicht berührt. Unzulässige Veränderungen bleiben bei der Anordnung von Vorkehrungen und Anlagen und im Entschädigungsverfahren unberücksichtigt.
+(1) Mit Beginn der Auslegung der Pläne im Internet oder von dem Zeitpunkt an, zu dem den Betroffenen Gelegenheit gegeben wird, den Plan einzusehen (§ 73 Absatz 1 des Verwaltungsverfahrensgesetzes), dürfen auf den vom Plan betroffenen Flächen bis zu ihrer Inanspruchnahme wesentlich wertsteigernde oder die geplanten Baumaßnahmen erheblich erschwerende Veränderungen nicht vorgenommen werden (Veränderungssperre). Veränderungen, die in rechtlich zulässiger Weise vorher begonnen worden sind, Unterhaltungsarbeiten und die Fortführung einer bisher ausgeübten Nutzung werden davon nicht berührt. Unzulässige Veränderungen bleiben bei der Anordnung von Vorkehrungen und Anlagen und im Entschädigungsverfahren unberücksichtigt.
 
 (2) Dauert die Veränderungssperre über vier Jahre, können die Eigentümer für die dadurch entstandenen Vermögensnachteile Entschädigung verlangen.
 
 (3) In den Fällen des Absatzes 1 Satz 1 steht dem Unternehmer an den betroffenen Flächen ein Vorkaufsrecht zu.
 
-##### § 28b Projektmanager
+###### § 29 Planfeststellungsbehörde
 
-Die Anhörungsbehörde kann einen Dritten mit der Vorbereitung und Durchführung von Verfahrensschritten, insbesondere
+(1) Planfeststellungsbehörde ist die Genehmigungsbehörde nach § 11. Diese stellt den Plan nach § 28 Absatz 1 fest, erteilt die Plangenehmigung nach § 74a des Verwaltungsverfahrensgesetzes oder trifft die Entscheidung nach § 74b des Verwaltungsverfahrensgesetzes.
 
-1. der Erstellung von Verfahrensleitplänen unter Bestimmung von Verfahrensabschnitten und Zwischenterminen,
-
-2. der Fristenkontrolle,
-
-3. der Koordinierung von erforderlichen Sachverständigengutachten,
-
-4. dem Entwurf eines Anhörungsberichts,
-
-5. der ersten Auswertung der eingereichten Stellungnahmen,
-
-6. der organisatorischen Vorbereitung eines Erörterungstermins und
-
-7. der Leitung eines Erörterungstermins
-
-auf Vorschlag oder mit Zustimmung des Unternehmers und auf dessen Kosten beauftragen. § 73 Absatz 9 des Verwaltungsverfahrensgesetzes bleibt unberührt. Die Entscheidung über den Planfeststellungsantrag verbleibt bei der zuständigen Behörde.
-
-##### § 28c Veröffentlichung im Internet
-
-Wird der Plan nicht nach § 27a Absatz 1 des Verwaltungsverfahrensgesetzes oder § 20 des Gesetzes über die Umweltverträglichkeitsprüfung zugänglich gemacht, ist dieser vom Unternehmer zur Bürgerinformation über das Internet zugänglich zu machen. § 23 des Gesetzes über die Umweltverträglichkeitsprüfung gilt entsprechend. Maßgeblich ist der Inhalt des im Rahmen des Genehmigungsverfahrens zur Einsicht ausgelegten Plans. Hierauf ist bei der Zugänglichmachung hinzuweisen.
-
-##### § 29 Planfeststellungsbehörde
-
-(1) Planfeststellungsbehörde ist die Genehmigungsbehörde nach § 11. Diese stellt den Plan nach § 28 Absatz 1 fest, erteilt die Plangenehmigung nach § 28 Absatz 2 und § 74 Absatz 6 des Verwaltungsverfahrensgesetzes oder trifft die Entscheidung nach § 74 Absatz 7 des Verwaltungsverfahrensgesetzes.
-
-(1a) Für das Anhörungsverfahren gilt § 73 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
-
-1. Die Anhörungsbehörde kann von einer Erörterung im Sinne des § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung absehen. Findet keine Erörterung statt, so hat die Anhörungsbehörde ihre Stellungnahme innerhalb von sechs Wochen nach Ablauf der Einwendungsfrist abzugeben und zusammen mit den sonstigen in § 73 Absatz 9 des Verwaltungsverfahrensgesetzes aufgeführten Unterlagen der Planfeststellungsbehörde zuzuleiten.
-
-2. Soll ein ausgelegter Plan geändert werden, so kann im Regelfall von der Erörterung im Sinne des § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
+(1a) (weggefallen)
 
 (2) Werden Einwendungen gegen den Plan mit der Begründung erhoben, daß öffentliche Interessen im Bereich von Bundesbehörden oder von Behörden, die im Auftrag des Bundes tätig werden, beeinträchtigt werden und kommt eine Einigung zwischen der Planfeststellungsbehörde und den genannten Behörden nicht zustande, entscheidet die Planfeststellungsbehörde im Benehmen mit dem Bundesministerium für Verkehr.
 
 (3) Kommt eine Einigung über Einwendungen nichtbundeseigener Eisenbahnen oder von Bergbahnunternehmen nicht zustande, hat die Planfeststellungsbehörde die Entscheidung der von der Landesregierung bestimmten Behörde einzuholen und der Planfeststellung zugrunde zu legen.
 
-(4) Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt § 75 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
+(4) Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75 Absatz 2 Satz 2 des Verwaltungsverfahrensgesetzes und für die Planänderung vor Fertigstellung des Vorhabens gilt § 76 des Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Fall des § 76 Absatz 1 des Verwaltungsverfahrensgesetzes von einer Erörterung oder deren Ersatz durch digitale Formate im Sinne des § 73b des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften dieses Gesetzes.
 
-1. Wird mit der Durchführung des Plans nicht innerhalb von fünf Jahren nach Eintritt der Unanfechtbarkeit begonnen, so tritt er außer Kraft, es sei denn, er wird vorher auf Antrag des Unternehmers von der Planfeststellungsbehörde um höchstens fünf Jahre verlängert.
+(5) Vor Erhebung einer verwaltungsgerichtlichen Klage gegen einen Planfeststellungsbeschluß oder gegen eine Plangenehmigung für den Bau oder die Änderung von Betriebsanlagen für Straßenbahnen bedarf es keiner Nachprüfung in einem Vorverfahren. Die Anfechtungsklage gegen einen Planfeststellungsbeschluß oder eine Plangenehmigung für den Bau oder die Änderung von Betriebsanlagen für Straßenbahnen hat keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung der Anfechtungsklage gegen einen Planfeststellungsbeschluß oder eine Plangenehmigung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach Zustellung des Planfeststellungsbeschlusses oder der Plangenehmigung gestellt und begründet werden. Treten später Tatsachen ein, die die Anordnung der aufschiebenden Wirkung rechtfertigen, so kann der durch den Planfeststellungsbeschluß oder die Plangenehmigung Beschwerte einen hierauf gestützten Antrag nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat stellen. Die Frist beginnt in dem Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
 
-2. Vor der Entscheidung nach Nummer 1 ist eine auf den Antrag begrenzte Anhörung nach dem für die Planfeststellung oder für die Plangenehmigung vorgeschriebenen Verfahren durchzuführen.
+(5a) Der gesetzliche Sofortvollzug kann mit der Begründung, dass sich der Baubeginn verzögert, nur dann von der Planfeststellungsbehörde oder dem Gericht ausgesetzt werden, wenn sich der Baubeginn um mindestens vier Jahre verzögert. Der gesetzliche Sofortvollzug kann nicht mit der Begründung, dass noch keine Haushaltsmittel für das Vorhaben bereitgestellt wurden oder dies nicht absehbar ist, von der Planfeststellungsbehörde oder dem Gericht ausgesetzt werden.
 
-3. Für die Zustellung und Auslegung sowie die Anfechtung der Entscheidung über die Verlängerung sind die Bestimmungen über den Planfeststellungsbeschluss entsprechend anzuwenden.
+(6) Der Kläger hat innerhalb einer Frist von zehn Wochen ab Klageerhebung die zur Begründung seiner Klage dienenden Tatsachen und Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn der Kläger die Verspätung genügend entschuldigt. Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 2 gilt nicht, wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne Mitwirkung des Klägers zu ermitteln. Die Frist kann durch den Vorsitzenden oder den Berichterstatter auf Antrag verlängert werden, wenn der Kläger in dem Verfahren, in dem die angefochtene Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. Die Sätze 1 bis 5 gelten entsprechend für Fälle, in denen das gerichtliche Verfahren zur Durchführung eines Planergänzungs- oder Planänderungsverfahrens ausgesetzt wurde und später fortgesetzt wird; die Frist läuft ab Fortsetzung des gerichtlichen Verfahrens. § 6 des Umwelt-Rechtsbehelfsgesetzes ist nicht anzuwenden.
 
-4. Wird eine Planergänzung oder ein ergänzendes Verfahren nach § 75 Absatz 1a Satz 2 des Verwaltungsverfahrensgesetzes erforderlich und unverzüglich betrieben, bleibt die Durchführung des Vorhabens insoweit zulässig, als es von der Planergänzung oder dem Ergebnis des ergänzenden Verfahrens offensichtlich nicht berührt ist.
+###### § 29a Anhörungsverfahren
 
-(5) Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75 Absatz 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die Planänderung vor Fertigstellung des Vorhabens gilt § 76 des Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Falle des § 76 Absatz 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im Sinne des § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften dieses Gesetzes.
+(1) Für das Anhörungsverfahren und das Beteiligungsverfahren gelten die §§ 27a, 27b, 27c und 72 bis 73c des Verwaltungsverfahrensgesetztes und die §§ 17 bis 19 sowie 21 des Gesetzes über die Umweltverträglichkeitsprüfung nach Maßgabe des Absatzes 2.
 
-(6) Vor Erhebung einer verwaltungsgerichtlichen Klage gegen einen Planfeststellungsbeschluß oder gegen eine Plangenehmigung für den Bau oder die Änderung von Betriebsanlagen für Straßenbahnen bedarf es keiner Nachprüfung in einem Vorverfahren. Die Anfechtungsklage gegen einen Planfeststellungsbeschluß oder eine Plangenehmigung für den Bau oder die Änderung von Betriebsanlagen für Straßenbahnen hat keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung der Anfechtungsklage gegen einen Planfeststellungsbeschluß oder eine Plangenehmigung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach Zustellung des Planfeststellungsbeschlusses oder der Plangenehmigung gestellt und begründet werden. Treten später Tatsachen ein, die die Anordnung der aufschiebenden Wirkung rechtfertigen, so kann der durch den Planfeststellungsbeschluß oder die Plangenehmigung Beschwerte einen hierauf gestützten Antrag nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat stellen. Die Frist beginnt in dem Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
+(2) Die Anhörungsbehörde kann auf eine Erörterung nach § 73b des Verwaltungsverfahrensgesetzes und § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung verzichten. Soll ein ausgelegter Plan geändert werden, so soll von der Erörterung im Sinne des § 73c Absatz 2 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
 
-(7) Der Kläger hat innerhalb einer Frist von zehn Wochen ab Klageerhebung die zur Begründung seiner Klage dienenden Tatsachen und Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn der Kläger die Verspätung genügend entschuldigt. Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 2 gilt nicht, wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne Mitwirkung des Klägers zu ermitteln. Die Frist nach Satz 1 kann durch den Vorsitzenden oder den Berichterstatter auf Antrag verlängert werden, wenn der Kläger in dem Verfahren, in dem die angefochtene Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. § 6 des Umwelt-Rechtsbehelfsgesetzes ist nicht anzuwenden.
-
-(8) (weggefallen)
-
-##### § 29a Vorzeitige Besitzeinweisung
+###### § 29b Vorzeitige Besitzeinweisung
 
 (1) Ist der sofortige Beginn von Bauarbeiten geboten und weigert sich der Eigentümer oder Besitzer, den Besitz eines für den Bau oder die Änderung einer Betriebsanlage für Straßenbahnen benötigten Grundstücks durch Vereinbarung unter Vorbehalt aller Entschädigungsansprüche zu überlassen, so hat die Enteignungsbehörde den Unternehmer auf Antrag nach Feststellung des Planes oder Erteilung der Plangenehmigung in den Besitz einzuweisen. Der Planfeststellungsbeschluß oder die Plangenehmigung müssen vollziehbar sein. Weiterer Voraussetzungen bedarf es nicht.
+
+(1a) Der Unternehmer kann verlangen, dass bereits nach Ablauf der Einwendungsfrist nach § 73 Absatz 2 des Verwaltungsverfahrensgesetzes das Verfahren zur vorzeitigen Besitzeinweisung in das Grundstück eines Dritten durchgeführt wird. In diesem Fall ist der nach dem Verfahrensstand zu erwartende Planfeststellungsbeschluss oder die zu erwartende Plangenehmigung dem Verfahren zur vorzeitigen Besitzeinweisung zugrunde zu legen. Der Besitzeinweisungsbeschluss ist mit der aufschiebenden Bedingung zu verbinden, dass sein Ergebnis durch den Planfeststellungsbeschluss oder die Plangenehmigung bestätigt wird. Wird das Ergebnis des Besitzeinweisungsbeschlusses durch den Planfeststellungsbeschluss oder die Plangenehmigung nicht bestätigt, ist ein neuer Besitzeinweisungsbeschluss auf der Grundlage des ergangenen Planfeststellungsbeschlusses oder der ergangenen Plangenehmigung herbeizuführen.
 
 (2) Die Enteignungsbehörde hat spätestens sechs Wochen nach Eingang des Antrags auf Besitzeinweisung mit den Beteiligten mündlich zu verhandeln. Hierzu sind der Unternehmer und die Betroffenen zu laden. Dabei ist den Betroffenen der Antrag auf Besitzeinweisung mitzuteilen. Die Ladungsfrist beträgt drei Wochen. Mit der Ladung sind die Betroffenen aufzufordern, etwaige Einwendungen gegen den Antrag vor der mündlichen Verhandlung bei der Enteignungsbehörde einzureichen. Sie sind außerdem darauf hinzuweisen, daß auch bei Nichterscheinen über den Antrag auf Besitzeinweisung und andere im Verfahren zu erledigende Anträge entschieden werden kann.
 
@@ -787,17 +769,17 @@ Wird der Plan nicht nach § 27a Absatz 1 des Verwaltungsverfahrensgesetzes oder 
 
 (9) Im Übrigen gelten die Enteignungsgesetze der Länder.
 
-##### § 30 Enteignung
+###### § 30 Enteignung
 
 (1) Die Enteignung ist zulässig, soweit sie zur Ausführung eines nach den §§ 28, 29 festgestellten oder genehmigten Bauvorhabens oder für Unterhaltungsmaßnahmen notwendig ist. Der festgestellte Plan oder die Plangenehmigung ist dem Enteignungsverfahren zugrunde zu legen und für die Enteignungsbehörde bindend. Die nach Landesrecht zuständige Behörde stellt die Zulässigkeit der Enteignung fest, soweit im Falle einer Unterhaltungsmaßnahme keine Feststellung in einem genehmigten oder festgestellten Plan getroffen ist.
 
 (2) Im Übrigen gelten die Enteignungsgesetze der Länder.
 
-##### § 30a Entschädigungsverfahren
+###### § 30a Entschädigungsverfahren
 
 Soweit der Unternehmer nach § 28 Absatz 3a oder auf Grund eines Planfeststellungsbeschlusses oder einer Plangenehmigung verpflichtet ist, eine Entschädigung in Geld zu leisten, und über die Höhe der Entschädigung keine Einigung zwischen dem Betroffenen und dem Unternehmer zustande kommt, entscheidet auf Antrag eines der Beteiligten die nach Landesrecht zuständige Behörde; für das Verfahren und den Rechtsweg gelten die Enteignungsgesetze der Länder entsprechend.
 
-##### § 31 Benutzung öffentlicher Straßen
+###### § 31 Benutzung öffentlicher Straßen
 
 (1) Der Unternehmer hat die Zustimmung des Trägers der Straßenbaulast beizubringen, wenn
 
@@ -815,29 +797,33 @@ Soweit der Unternehmer nach § 28 Absatz 3a oder auf Grund eines Planfeststellun
 
 (6) Auf Vereinbarungen des Unternehmers mit dem Träger der Straßenbaulast über die Benutzung öffentlicher Straßen ist im Planfeststellungsbeschluß oder in der Plangenehmigung hinzuweisen.
 
-##### § 32 Duldungspflichten Dritter
+###### § 32 Duldungspflichten Dritter
 
 (1) Eigentümer oder sonstige Nutzungsberechtigte haben
 
-1. Vermessungen, Boden- und Grundwasseruntersuchungen einschließlich der vorübergehenden Anbringung von Markierungszeichen und sonstigen Vorarbeiten, die zur Planung von Betriebsanlagen und Straßenbahnen notwendig sind, zu dulden, wenn die Genehmigungsbehörde diesen Arbeiten zustimmt,
+1. Kampfmittelräumungen, archäologische Untersuchungen und Bergungen sowie Vermessungen, Boden- und Grundwasseruntersuchungen einschließlich der vorübergehenden Anbringung von Markierungszeichen und sonstiger Vorarbeiten, die zur Planung und Baudurchführung von Betriebsanlagen und Straßenbahnen notwendig sind, zu dulden, wenn die Genehmigungsbehörde diesen Arbeiten zustimmt,
 
-2. das Anbringen oder Errichten von Haltevorrichtungen für elektrische Leitungen, von Signalen und Haltestellenzeichen durch den Unternehmer oder von ihm Beauftragte zu dulden. Arbeits-, Betriebs- oder Geschäftsräume dürfen vom Unternehmer oder von ihm Beauftragte nur während der jeweiligen Arbeits- oder Geschäftsstunden, Wohnungen nur mit Zustimmung des Wohnungsinhabers betreten werden. Die Absicht, Vorarbeiten durchzuführen, ist dem Eigentümer oder sonstigen Nutzungsberechtigten mindestens 2 Wochen vorher unmittelbar und in den Gemeinden, in deren Gebiet Vorarbeiten durchgeführt werden sollen, ortsüblich bekanntzugeben.
+2. das Anbringen oder Errichten von Haltevorrichtungen für elektronische Leitungen, von Signalen und Haltestellenzeichen durch den Unternehmer oder von ihm Beauftragte zu dulden.
 
-(2) Die Zustimmung der Genehmigungsbehörde zu den Vorarbeiten begründet keinen Anspruch auf Erteilung der Genehmigung nach § 9 Abs. 1 Nr. 1.
+Arbeits-, Betriebs- oder Geschäftsräume dürfen vom Unternehmer oder von dem von ihm Beauftragten nur während der jeweiligen Arbeits- oder Geschäftsstunden, Wohnungen nur mit Zustimmung des Wohnungsinhabers betreten werden.
 
-(3) Über eine Verpflichtung zur Duldung der in Absatz 1 Nr. 2 bezeichneten technischen Einrichtungen ist beim Bau neuer Betriebsanlagen für Straßenbahnen im Planfeststellungsverfahren zu entscheiden. Im übrigen entscheidet die Genehmigungsbehörde.
+(2) Die Absicht, Vorarbeiten im Sinne des Satzes 1 durchzuführen, ist dem Eigentümer oder sonstigen Nutzungsberechtigten mindestens zwei Wochen vorher unmittelbar oder öffentlich bekannt zu geben.
 
-(4) Für Schäden, die durch Vorarbeiten, das Anbringen, Errichten oder Entfernen technischer Einrichtungen verursacht worden sind, hat der Unternehmer Entschädigung zu leisten. § 31 Abs. 5 gilt entsprechend. Für die Geltendmachung von Entschädigungsansprüchen ist der ordentliche Rechtsweg gegeben.
+(3) Die Zustimmung der Genehmigungsbehörde zu den Vorarbeiten begründet keinen Anspruch auf Erteilung der Genehmigung nach § 9 Abs. 1 Nr. 1.
 
-##### (XXXX) §§ 33 bis 35 (weggefallen)
+(4) Über eine Verpflichtung zur Duldung der in Absatz 1 Nr. 2 bezeichneten technischen Einrichtungen ist beim Bau neuer Betriebsanlagen für Straßenbahnen im Planfeststellungsverfahren zu entscheiden. Im übrigen entscheidet die Genehmigungsbehörde.
 
-##### § 36 Bau- und Unterhaltungspflicht
+(5) Für Schäden, die durch Vorarbeiten, das Anbringen, Errichten oder Entfernen technischer Einrichtungen verursacht worden sind, hat der Unternehmer Entschädigung zu leisten. § 31 Abs. 5 gilt entsprechend. Für die Geltendmachung von Entschädigungsansprüchen ist der ordentliche Rechtsweg gegeben.
+
+###### (XXXX) §§ 33 bis 35 (weggefallen)
+
+###### § 36 Bau- und Unterhaltungspflicht
 
 (1) Der Unternehmer ist verpflichtet, die ihm genehmigten Betriebsanlagen für Straßenbahnen zu bauen und während der Geltungsdauer der Genehmigung den öffentlichen Verkehrsinteressen und dem Stand der Technik entsprechend zu unterhalten.
 
 (2) Die Genehmigungsbehörde kann dem Unternehmer eine Frist setzen, innerhalb derer die Betriebsanlagen zu bauen sind.
 
-##### § 36a Besondere Pflichten im Interesse der Unterhaltung
+###### § 36a Besondere Pflichten im Interesse der Unterhaltung
 
 (1) Soweit es zur Unterhaltung einer Betriebsanlage für Straßenbahnen erforderlich ist, haben Eigentümer und sonstige Nutzungsberechtigte zu dulden, dass Beauftragte des Unternehmers die Grundstücke betreten oder vorübergehend benutzen. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt. Die Arbeiten müssen dem Eigentümer und sonstigen Nutzungsberechtigten angekündigt werden.
 
@@ -845,13 +831,13 @@ Soweit der Unternehmer nach § 28 Absatz 3a oder auf Grund eines Planfeststellun
 
 (3) Der Inhaber einer Sondernutzungserlaubnis hat, ohne Anspruch auf Entschädigung, zu dulden, dass die Ausübung seines Rechts durch Arbeiten zur Unterhaltung vorübergehend behindert oder unterbrochen wird. Auf die Interessen des Inhabers einer Sondernutzungserlaubnis ist Rücksicht zu nehmen.
 
-##### § 37 Aufnahme des Betriebs
+###### § 37 Aufnahme des Betriebs
 
 Die Genehmigung zur Aufnahme des Betriebs der Straßenbahnen erteilt die Genehmigungsbehörde im Einvernehmen mit der für die technische Aufsicht zuständigen Behörde.
 
-##### § 38 (weggefallen)
+###### § 38 (weggefallen)
 
-##### § 39 Beförderungsentgelte und -bedingungen
+###### § 39 Beförderungsentgelte und -bedingungen
 
 (1) Beförderungsentgelte und deren Änderung bedürfen der Zustimmung der Genehmigungsbehörde. Mit der Zustimmung sind die Beförderungsentgelte allgemein verbindlich. Soweit die Beförderungsentgelte Gegenstand eines öffentlichen Dienstleistungsauftrages sind, hat die zuständige Behörde der Genehmigungsbehörde dies anzuzeigen; in diesem Fall gilt die Zustimmung als erteilt.
 
@@ -867,7 +853,7 @@ Die Genehmigung zur Aufnahme des Betriebs der Straßenbahnen erteilt die Genehmi
 
 (7) Die Beförderungsentgelte und die Besonderen Beförderungsbedingungen sind vom Unternehmer vor ihrer Einführung ortsüblich bekanntzumachen; die Bekanntmachung ist in den zum Aufenthalt der Fahrgäste bestimmten Räumen auszuhängen.
 
-##### § 40 Fahrpläne
+###### § 40 Fahrpläne
 
 (1) Der Fahrplan muß die Führung der Linie, ihren Ausgangs- und Endpunkt sowie die Haltestellen und Fahrzeiten enthalten.
 
@@ -881,7 +867,7 @@ Die Genehmigung zur Aufnahme des Betriebs der Straßenbahnen erteilt die Genehmi
 
 ## B. Verkehr mit Obussen
 
-##### § 41 Entsprechend anwendbare Vorschriften
+###### § 41 Entsprechend anwendbare Vorschriften
 
 (1) Die Vorschriften der §§ 28 bis 30a und der §§ 32 bis 37 sind auf die Errichtung von Bau- und Betriebsanlagen für den Obusverkehr entsprechend anzuwenden.
 
@@ -891,11 +877,11 @@ Die Genehmigung zur Aufnahme des Betriebs der Straßenbahnen erteilt die Genehmi
 
 ## C. Linienverkehr mit Kraftfahrzeugen
 
-##### § 42 Begriffsbestimmung Linienverkehr
+###### § 42 Begriffsbestimmung Linienverkehr
 
 Linienverkehr ist eine zwischen bestimmten Ausgangs- und Endpunkten eingerichtete regelmäßige Verkehrsverbindung, auf der Fahrgäste an bestimmten Haltestellen ein- und aussteigen können. Er setzt nicht voraus, daß ein Fahrplan mit bestimmten Abfahrts- und Ankunftszeiten besteht oder Zwischenhaltestellen eingerichtet sind.
 
-##### § 42a Personenfernverkehr
+###### § 42a Personenfernverkehr
 
 Personenfernverkehr ist der Linienverkehr mit Kraftfahrzeugen, der nicht zum öffentlichen Personennahverkehr im Sinne des § 8 Absatz 1 und nicht zu den Sonderformen des Linienverkehrs nach § 43 oder zum Linienbedarfsverkehr nach § 44 gehört. Die Beförderung von Personen zwischen zwei Haltestellen ist unzulässig, wenn
 
@@ -909,7 +895,7 @@ In der Genehmigung sind auf Antrag für einzelne Teilstrecken Ausnahmen zu gewä
 
 2. das Fahrgastpotenzial der vorhandenen Verkehrsangebote nur unerheblich beeinträchtigt wird.
 
-##### § 42b Technische Anforderungen
+###### § 42b Technische Anforderungen
 
 Im innerdeutschen Personenfernverkehr dürfen nur Kraftomnibusse eingesetzt werden, die
 
@@ -921,7 +907,7 @@ b) Anhang 8 der Regelung Nr. 107 der Wirtschaftskommission für Europa der Verei
 
 2. mit mindestens zwei Stellplätzen für Rollstuhlnutzer ausgerüstet sind.
 
-##### § 43 Sonderformen des Linienverkehrs
+###### § 43 Sonderformen des Linienverkehrs
 
 Als Linienverkehr gilt, unabhängig davon, wer den Ablauf der Fahrten bestimmt, auch der Verkehr, der unter Ausschluß anderer Fahrgäste der regelmäßigen Beförderung von
 
@@ -935,11 +921,11 @@ Als Linienverkehr gilt, unabhängig davon, wer den Ablauf der Fahrten bestimmt, 
 
 dient. Die Regelmäßigkeit wird nicht dadurch ausgeschlossen, daß der Ablauf der Fahrten wechselnden Bedürfnissen der Beteiligten angepaßt wird.
 
-##### § 44 Linienbedarfsverkehr
+###### § 44 Linienbedarfsverkehr
 
 Als Linienverkehr gemäß § 42, der öffentlicher Personennahverkehr gemäß § 8 Absatz 1 ist, gilt auch der Verkehr, der der Beförderung von Fahrgästen auf vorherige Bestellung ohne festen Linienweg zwischen bestimmten Einstiegs- und Ausstiegspunkten innerhalb eines festgelegten Gebietes und festgelegter Bedienzeiten dient (Linienbedarfsverkehr). Es kommen ausschließlich Beförderungsentgelte und -bedingungen im Rahmen der Vorgaben des Aufgabenträgers im Nahverkehrsplan, im öffentlichen Dienstleistungsauftrag oder der Vorabbekanntmachung zur Anwendung. Für Beförderungen im Linienbedarfsverkehr können Zuschläge nur nach Maßgabe von Satz 2 erhoben werden.
 
-##### § 45 Sonstige Vorschriften
+###### § 45 Sonstige Vorschriften
 
 (1) Auf den Linienverkehr mit Kraftfahrzeugen ist § 32, soweit diese Vorschrift sich auf das Anbringen oder Errichten von Haltestellenzeichen bezieht, entsprechend anzuwenden; über die Verpflichtung zur Duldung entscheidet die Genehmigungsbehörde ohne Planfeststellungsverfahren.
 
@@ -955,7 +941,7 @@ Als Linienverkehr gemäß § 42, der öffentlicher Personennahverkehr gemäß §
 
 ## D. Ausgleichszahlungen
 
-##### § 45a Ausgleichspflicht
+###### § 45a Ausgleichspflicht
 
 (1) Im Verkehr mit Straßenbahnen und Obussen sowie im Linienverkehr mit Kraftfahrzeugen nach den §§ 42 und 43 Nr. 2 ist dem Unternehmer für die Beförderung von Personen mit Zeitfahrausweisen des Ausbildungsverkehrs auf Antrag ein Ausgleich nach Maßgabe des Absatzes 2 zu gewähren, wenn und soweit
 
@@ -973,7 +959,7 @@ Als Linienverkehr gemäß § 42, der öffentlicher Personennahverkehr gemäß §
 
 ## E. Gelegenheitsverkehr mit Kraftfahrzeugen
 
-##### § 46 Formen des Gelegenheitsverkehrs
+###### § 46 Formen des Gelegenheitsverkehrs
 
 (1) Gelegenheitsverkehr ist die Beförderung von Personen mit Kraftfahrzeugen, die nicht Linienverkehr nach den §§ 42, 42a, 43 und 44 ist.
 
@@ -989,7 +975,7 @@ Als Linienverkehr gemäß § 42, der öffentlicher Personennahverkehr gemäß §
 
 (3) In Orten mit mehr als 50 000 Einwohnern oder in den von der höheren Verwaltungsbehörde bestimmten Orten unter 50 000 Einwohnern darf eine Genehmigung für den Taxenverkehr, den Mietwagenverkehr oder den gebündelten Bedarfsverkehr nicht für denselben Personenkraftwagen erteilt werden.
 
-##### § 47 Verkehr mit Taxen
+###### § 47 Verkehr mit Taxen
 
 (1) Verkehr mit Taxen ist die Beförderung von Personen mit Personenkraftwagen, die der Unternehmer an behördlich zugelassenen Stellen bereithält und mit denen er Fahrten zu einem vom Fahrgast bestimmten Ziel ausführt. Der Unternehmer kann Beförderungsaufträge auch während einer Fahrt oder am Betriebssitz entgegennehmen.
 
@@ -1011,7 +997,7 @@ Als Linienverkehr gemäß § 42, der öffentlicher Personennahverkehr gemäß §
 
 (5) Die Vermietung von Taxen an Selbstfahrer ist verboten.
 
-##### § 48 Ausflugsfahrten und Ferienziel-Reisen
+###### § 48 Ausflugsfahrten und Ferienziel-Reisen
 
 (1) Ausflugsfahrten sind Fahrten, die der Unternehmer mit Kraftomnibussen oder Personenkraftwagen nach einem bestimmten, von ihm aufgestellten Plan und zu einem für alle Teilnehmer gleichen und gemeinsam verfolgten Ausflugszweck anbietet und ausführt. Die Fahrt muß wieder an den Ausgangsort zurückführen. Die Fahrgäste müssen im Besitz eines für die gesamte Fahrt gültigen Fahrscheins sein, der die Beförderungsstrecke und das Beförderungsentgelt ausweist. Bei Ausflugsfahrten, die als Pauschalfahrten ausgeführt werden, genügt im Fahrschein die Angabe des Gesamtentgelts an Stelle des Beförderungsentgelts.
 
@@ -1021,7 +1007,7 @@ Als Linienverkehr gemäß § 42, der öffentlicher Personennahverkehr gemäß §
 
 (4) Die Vorschriften der §§ 21 und 22 sind nicht anzuwenden.
 
-##### § 49 Verkehr mit Mietomnibussen und mit Mietwagen
+###### § 49 Verkehr mit Mietomnibussen und mit Mietwagen
 
 (1) Verkehr mit Mietomnibussen ist die Beförderung von Personen mit Kraftomnibussen, die nur im ganzen zur Beförderung angemietet werden und mit denen der Unternehmer Fahrten ausführt, deren Zweck, Ziel und Ablauf der Mieter bestimmt. Die Teilnehmer müssen ein zusammengehöriger Personenkreis und über Ziel und Ablauf der Fahrt einig sein.
 
@@ -1037,7 +1023,7 @@ Als Linienverkehr gemäß § 42, der öffentlicher Personennahverkehr gemäß §
 
 2. die zulässige Anzahl von Abstellorten.
 
-##### § 50 Gebündelter Bedarfsverkehr
+###### § 50 Gebündelter Bedarfsverkehr
 
 (1) Gebündelter Bedarfsverkehr ist die Beförderung von Personen mit Personenkraftwagen, bei der mehrere Beförderungsaufträge entlang ähnlicher Wegstrecken gebündelt ausgeführt werden. Der Unternehmer darf die Aufträge ausschließlich auf vorherige Bestellung ausführen. Die Genehmigungsbehörde kann, soweit öffentliche Verkehrsinteressen dies erfordern, bestimmen, dass Fahrzeuge des gebündelten Bedarfsverkehrs nach Ausführung der Beförderungsaufträge unverzüglich zum Betriebssitz oder zu einem anderen geeigneten Abstellort zurückkehren müssen, es sei denn, die Fahrer haben vor oder während der Fahrt neue Beförderungsaufträge erhalten. Die Annahme, die Vermittlung und die Ausführung von Beförderungsaufträgen, das Bereithalten gebündelter Bedarfsverkehre sowie Werbung für gebündelte Bedarfsverkehre dürfen weder allein noch in ihrer Verbindung geeignet sein, zur Verwechslung mit dem Taxen- oder dem Mietwagenverkehr zu führen. Den Taxen und Mietwagen vorbehaltene Zeichen und Merkmale dürfen für den gebündelten Bedarfsverkehr nicht verwendet werden. Die §§ 21 und 22 sind nicht anzuwenden.
 
@@ -1059,7 +1045,7 @@ Als Linienverkehr gemäß § 42, der öffentlicher Personennahverkehr gemäß §
 
 Die Genehmigungsbehörde kann unter den Voraussetzungen des Satzes 1 darüber hinaus Vorgaben zu Sozialstandards, wie zum Beispiel Regelungen zu Arbeitszeiten, Entlohnung und Pausen, im gebündelten Bedarfsverkehr festlegen.
 
-##### § 51 Beförderungsentgelte und -bedingungen im Taxenverkehr
+###### § 51 Beförderungsentgelte und -bedingungen im Taxenverkehr
 
 (1) Die Landesregierung wird ermächtigt, durch Rechtsverordnung Beförderungsentgelte und -bedingungen für den Taxenverkehr festzusetzen. Die Rechtsverordnung kann insbesondere Regelungen vorsehen über
 
@@ -1093,7 +1079,7 @@ Die Landesregierung kann die Ermächtigung durch Rechtsverordnung übertragen. F
 
 (5) Für die Anwendung der Beförderungsentgelte und -bedingungen gilt § 39 Abs. 3 entsprechend.
 
-##### § 51a Beförderungsentgelte im Verkehr mit Mietwagen und im gebündelten Bedarfsverkehr
+###### § 51a Beförderungsentgelte im Verkehr mit Mietwagen und im gebündelten Bedarfsverkehr
 
 (1) Die Genehmigungsbehörde kann zum Schutz der öffentlichen Verkehrsinteressen für den Verkehr mit Mietwagen, der in ihrem Bezirk betrieben wird, tarifbezogene Regelungen, insbesondere Mindestbeförderungsentgelte festlegen.
 
@@ -1109,7 +1095,7 @@ Die Landesregierung kann die Ermächtigung durch Rechtsverordnung übertragen. F
 
 ## IV. Auslandsverkehr
 
-##### § 52 Grenzüberschreitender Verkehr
+###### § 52 Grenzüberschreitender Verkehr
 
 (1) Für die Beförderung von Personen im grenzüberschreitenden Verkehr mit Kraftfahrzeugen durch Unternehmer, die ihren Betriebssitz im Inland oder Ausland haben, gelten, soweit nichts anderes bestimmt ist, die Vorschriften dieses Gesetzes und die hierzu erlassenen Rechtsverordnungen. Auf Unternehmen, die ihren Betriebssitz im Ausland haben, sind nicht anzuwenden
 
@@ -1123,7 +1109,7 @@ Die Landesregierung kann die Ermächtigung durch Rechtsverordnung übertragen. F
 
 (4) Die Grenzpolizei und die Zollstellen an den Grenzen sind berechtigt, Kraftfahrzeuge zurückzuweisen, wenn nicht die erforderliche Genehmigung vorgelegt wird, deren Mitführung vorgeschrieben ist. Das Bundesministerium für Verkehr kann Unternehmen mit Betriebssitz außerhalb des Geltungsbereichs dieses Gesetzes bei wiederholten oder schweren Verstößen gegen Vorschriften dieses Gesetzes und der auf diesem Gesetz beruhenden Verordnungen sowie gegen Vorschriften der Verordnungen der Europäischen Gemeinschaften und internationalen Übereinkommen über den grenzüberschreitenden Verkehr dauernd oder vorübergehend vom Verkehr in oder durch die Bundesrepublik Deutschland ausschließen.
 
-##### § 53 Transit-(Durchgangs-)Verkehr
+###### § 53 Transit-(Durchgangs-)Verkehr
 
 (1) Für die Beförderung von Personen im Transit-(Durchgangs-)Verkehr mit Kraftfahrzeugen, der das Gebiet des Geltungsbereichs dieses Gesetzes unter Ausschluß innerdeutschen Zwischenverkehrs berührt, gelten, soweit nichts anderes bestimmt ist, die Vorschriften dieses Gesetzes und die hierzu erlassenen Rechtsverordnungen. Nicht anzuwenden sind
 
@@ -1139,7 +1125,7 @@ Die Landesregierung kann die Ermächtigung durch Rechtsverordnung übertragen. F
 
 ## V. Aufsicht, Prüfungsbefugnisse
 
-##### § 54 Aufsicht
+###### § 54 Aufsicht
 
 (1) Der Unternehmer unterliegt hinsichtlich der Erfüllung der Vorschriften dieses Gesetzes sowie der hierzu erlassenen Rechtsverordnungen und der Einhaltung der durch die Genehmigung auferlegten Verpflichtungen (Bedingungen, Auflagen) der Aufsicht der Genehmigungsbehörde. Die von der Landesregierung bestimmte Behörde kann die Genehmigungsbehörde ermächtigen, die Aufsicht über den Linien- und Gelegenheitsverkehr mit Kraftfahrzeugen auf nachgeordnete Behörden zu übertragen. Die technische Aufsicht über Straßenbahnen und Obusunternehmen wird von der von der Landesregierung bestimmten Behörde ausgeübt. Die technische Aufsicht kann von der Landesregierung anderen Stellen durch Rechtsverordnung übertragen werden. Ausgenommen hiervon sind die Aufgaben nach § 9 Abs. 1 der Straßenbahn-Bau- und -Betriebsordnung vom 11. Dezember 1987 (BGBl. I S. 2648) sowie nach § 8 Abs. 1 und § 9 Abs. 1 der Straßenbahn-Betriebsleiter-Prüfungsverordnung vom 29. Juli 1988 (BGBl. I S. 1554). Soweit die technische Aufsicht auf eine andere Stelle übertragen wird, darf diese nicht sich selbst nach § 5 Abs. 2 der Straßenbahn-Bau- und -Betriebsordnung beauftragen.
 
@@ -1147,7 +1133,7 @@ Die Landesregierung kann die Ermächtigung durch Rechtsverordnung übertragen. F
 
 (3) Die Aufsichtsbehörde kann Unternehmen, die einen Omnibusbahnhof betreiben, anhalten, die Benutzung durch den Linien- und Gelegenheitsverkehr mit Kraftfahrzeugen und den Betrieb so zu regeln, daß der Verkehr ordnungsgemäß abgewickelt und den Pflichten nach § 39 Abs. 7 und § 40 Abs. 4 genügt werden kann.
 
-##### § 54a Prüfungsbefugnisse der Genehmigungsbehörde
+###### § 54a Prüfungsbefugnisse der Genehmigungsbehörde
 
 (1) Die Genehmigungsbehörde kann zur Durchführung der Aufsicht und zur Vorbereitung ihrer Entscheidungen durch Beauftragte die erforderlichen Ermittlungen anstellen, insbesondere
 
@@ -1159,27 +1145,27 @@ Zu den in Satz 1 genannten Zwecken dürfen die dem Geschäftsbetrieb dienenden G
 
 (2) Die Regelungen des Absatzes 1 gelten entsprechend auch für die nach § 45a Abs. 2 zur Festlegung der Kostensätze befugte Behörde.
 
-##### § 54b Risikoeinstufung
+###### § 54b Risikoeinstufung
 
 Die Aufsichtsbehörden führen ein Risikoeinstufungssystem im Sinne des Artikels 12 Absatz 1 Satz 3 der Verordnung (EG) Nr. 1071/2009 ein. Dabei sind die Häufigkeit und die Intensität der Kontrollen abhängig von der Anzahl und dem Ausmaß der Rechtsverstöße, wie dies in den Durchführungsbestimmungen zu Artikel 6 Absatz 2a der Verordnung (EG) Nr. 1071/2009 konkretisiert wird.
 
-##### § 54c Verkehrsunternehmensdatei
+###### § 54c Verkehrsunternehmensdatei
 
 In der Verkehrsunternehmensdatei nach § 15 des Güterkraftverkehrsgesetzes werden alle im Inland niedergelassenen Unternehmen des gewerblichen Güterverkehrs und des gewerblichen Personenverkehrs mit Kraftomnibussen geführt.
 
 ## VI. Rechtsbehelfsverfahren und Gebühren
 
-##### § 55 Vorverfahren bei der Anfechtung von Verwaltungsakten
+###### § 55 Vorverfahren bei der Anfechtung von Verwaltungsakten
 
-Eines Vorverfahrens bedarf es auch, wenn ein Verwaltungsakt angefochten wird, den eine oberste Landesverkehrsbehörde oder das Bundesministerium für Verkehr erlassen hat. § 28 Absatz 3a Satz 9 und § 29 Absatz 6 Satz 1 bleiben unberührt.
+Eines Vorverfahrens bedarf es auch, wenn ein Verwaltungsakt angefochten wird, den eine oberste Landesverkehrsbehörde oder das Bundesministerium für Verkehr erlassen hat. § 28 Absatz 3a Satz 10 und § 29 Absatz 5 Satz 1 bleiben unberührt.
 
-##### § 56 Gebühren
+###### § 56 Gebühren
 
 Für die Amtshandlungen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsvorschriften sowie nach Verordnungen oder Rechtsvorschriften in Umsetzung von Richtlinien des Rates oder der Kommission der Europäischen Gemeinschaften werden von demjenigen, der die Amtshandlung veranlasst oder zu dessen Gunsten sie vorgenommen wird, Kosten (Gebühren und Auslagen) erhoben. Kostengläubiger ist der Rechtsträger, dessen Behörde die Amtshandlung vornimmt, bei Auslagen auch der Rechtsträger, bei dessen Behörde die Auslagen entstanden sind. Im Übrigen findet das Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung Anwendung.
 
 ## VII. Erlaß von Rechtsverordnungen und Allgemeinen Verwaltungsvorschriften
 
-##### § 57 Rechtsverordnungen
+###### § 57 Rechtsverordnungen
 
 (1) Das Bundesministerium für Verkehr erläßt mit Zustimmung des Bundesrates durch Rechtsverordnung die zur Durchführung dieses Gesetzes, internationaler Abkommen sowie der Verordnungen des Rates oder der Kommission der Europäischen Gemeinschaften erforderlichen Vorschriften
 
@@ -1237,17 +1223,17 @@ f) Regelungen zur Weiterverwendung der Daten durch Dritte zur Bereitstellung mul
 
 (6) Im Bereich der Gebühren der Landesbehörden übt das Bundesministerium für Verkehr die Ermächtigung nach Absatz 1 Nummer 10 auf der Grundlage eines Antrags oder einer Stellungnahme von mindestens fünf Ländern beim Bundesministerium für Verkehr aus. Der Antrag oder die Stellungnahme sind mit einer Schätzung des Personal- und Sachaufwands zu begründen. Das Bundesministerium für Verkehr kann die übrigen Länder ebenfalls zur Beibringung einer Schätzung des Personal- und Sachaufwands auffordern.
 
-##### § 58 Allgemeine Verwaltungsvorschriften
+###### § 58 Allgemeine Verwaltungsvorschriften
 
 Die zur Durchführung dieses Gesetzes erforderlichen Allgemeinen Verwaltungsvorschriften erläßt die Bundesregierung mit Zustimmung des Bundesrates.
 
-##### (XXXX) §§ 59 und 59a (weggefallen)
+###### (XXXX) §§ 59 und 59a (weggefallen)
 
 ## VIII. Bußgeldvorschriften
 
-##### (XXXX) §§ 60 und 60a (weggefallen)
+###### (XXXX) §§ 60 und 60a (weggefallen)
 
-##### § 61 Ordnungswidrigkeiten
+###### § 61 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1293,7 +1279,7 @@ b) Nummer 2, 3 oder 3b
 
 ## IX. Übergangs- und Schlußbestimmungen
 
-##### § 62 Übergangsbestimmungen
+###### § 62 Übergangsbestimmungen
 
 (1) Öffentliche Dienstleistungsaufträge im Sinne von Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1370/2007 dürfen bis zum 31. Dezember 2013 abweichend von Artikel 5 Absatz 2 bis 4 der Verordnung (EG) Nr. 1370/2007 vergeben werden. Genehmigungen, die vor dem 1. Januar 2013 erteilt wurden, bleiben bis zum Ablauf der in der Genehmigungsurkunde enthaltenen Geltungsdauer wirksam. Die Geltung und Wirksamkeit von sonstigen Rechtsverhältnissen, insbesondere öffentlichen Dienstleistungsaufträgen im Sinne der Verordnung (EG) Nr. 1370/2007, die vor dem 1. Januar 2013 zustande gekommen sind, werden durch die Änderung des Gesetzes nicht berührt.
 
@@ -1301,7 +1287,9 @@ b) Nummer 2, 3 oder 3b
 
 (3) § 42b gilt ab dem 1. Januar 2016 für Kraftomnibusse, die erstmals zum Verkehr zugelassen werden und nach Ablauf des 31. Dezember 2019 für alle Kraftomnibusse.
 
-##### § 63 Ausschluss abweichenden Landesrechts
+(4) Für vor dem 29. Juli 2026 und bis einschließlich 31. Dezember 2028 eingeleitete Planfeststellungs- oder Plangenehmigungsverfahren kann die Planfeststellungsbehörde auf alle oder einzelne Verfahrensschritte das Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist, nach Maßgabe dieses Gesetzes in der bis einschließlich 28. Juli 2026 geltenden Fassung anwenden. Satz 1 gilt entsprechend, soweit das Verfahren landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist. Die Sätze 1 und 2 gelten entsprechend, wenn das Gesetz über die Umweltverträglichkeitsprüfung anzuwenden ist und auf das Verwaltungsverfahrensgesetz verweist.
+
+###### § 63 Ausschluss abweichenden Landesrechts
 
 Von folgenden Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden:
 
@@ -1313,7 +1301,7 @@ Von folgenden Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht 
 
 4. § 11 Absatz 4, § 52 Absatz 2 Satz 2 und § 53 Absatz 2 Satz 2, jeweils in Verbindung mit § 11 Absatz 4, § 52 Absatz 3 Satz 3 und § 53 Absatz 3 Satz 1.
 
-##### § 64 Andere Gesetze
+###### § 64 Andere Gesetze
 
 (1) Durch dieses Gesetz werden die Vorschriften
 
@@ -1331,21 +1319,21 @@ nicht berührt, soweit sich nicht aus § 23 etwas anderes ergibt.
 
 (2) Die Vorschriften des Gesetzes über Maßnahmen zur Aufrechterhaltung des Betriebs von Bahnunternehmen des öffentlichen Verkehrs vom 7. März 1934 (RGBl. II S. 91) in der Fassung des § 9 Abs. 4 des Allgemeinen Eisenbahngesetzes vom 29. März 1951 (BGBl. I S. 225) sind auf Straßenbahnen und auf Obusunternehmen mit der Maßgabe entsprechend anzuwenden, daß zuständige Aufsichtsbehörde im Sinne des vorgenannten Gesetzes die von der Landesregierung bestimmte Genehmigungsbehörde ist, und daß, wenn eine Straßenbahn oder ein Obusunternehmen das Gebiet mehrerer Länder berührt, die von der Landesregierung bestimmte Genehmigungsbehörde ihre Entscheidung im Einvernehmen mit der von der Landesregierung des mitbeteiligten Landes bestimmten Genehmigungsbehörde trifft.
 
-##### § 64a Ersetzung bundesrechtlicher Vorschriften durch Landesrecht
+###### § 64a Ersetzung bundesrechtlicher Vorschriften durch Landesrecht
 
 Die Länder können mit Wirkung ab dem 1. Januar 2007 § 45a und § 57 Abs. 1 Nr. 9 sowie die Vorschriften, zu deren Erlass § 57 Abs. 1 Nr. 9 ermächtigt, durch Landesrecht ersetzen.
 
-##### § 64b Landesrecht im Bereich des Gelegenheitsverkehrs
+###### § 64b Landesrecht im Bereich des Gelegenheitsverkehrs
 
 Dieses Gesetz oder auf Grundlage dieses Gesetzes erlassene Rechtsverordnungen steht oder stehen Vorschriften der Länder nicht entgegen, die den Betrieb des Verkehrs mit Taxen oder mit Mietwagen oder den Betrieb gebündelten Bedarfsverkehrs in Bezug auf Fahrzeugemissionen regeln.
 
-##### § 64c Barrierefreiheit
+###### § 64c Barrierefreiheit
 
 (1) Beim Verkehr mit Taxen und beim gebündelten Bedarfsverkehr sollen die Aufgabenträger die Belange der in ihrer Mobilität oder sensorisch eingeschränkten Menschen mit dem Ziel berücksichtigen, eine möglichst weitgehende Barrierefreiheit zu erreichen. Hierfür ist ab einer Anzahl von 20 Fahrzeugen eine Mindestverfügbarkeit von barrierefreien Fahrzeugen je Unternehmer vorzusehen, für die ein bundesweiter Richtwert von 5 Prozent bezogen auf die Anzahl der von dem Unternehmer betriebenen Fahrzeuge gilt. Die Maßgaben des § 35a Absatz 4a der Straßenverkehrs-Zulassungs-Ordnung vom 26. April 2012 (BGBl. I S. 679), die zuletzt durch Artikel 1 der Verordnung vom 26. November 2019 (BGBl. I S. 2015) geändert worden ist, an barrierefreie Fahrzeuge finden Anwendung.
 
 (2) Die Genehmigungsbehörde kann Einzelheiten zur Herstellung einer weitgehenden Barrierefreiheit im Hinblick auf die Mindestanzahl vorzuhaltender barrierefreier Fahrzeuge beim Verkehr mit Taxen und beim gebündelten Bedarfsverkehr festlegen, soweit dies keine unzumutbare wirtschaftliche Härte gegenüber dem Unternehmer darstellt. Sie kann darüber hinaus Ausnahmen im Hinblick auf die Mindestanzahl vorzuhaltender barrierefreier Fahrzeuge bestimmen, die eine Einschränkung der Barrierefreiheit rechtfertigen, soweit dies nachweislich aus technischen oder wirtschaftlichen Gründen unumgänglich ist.
 
-##### § 65 Ausnahmen für Straßenbahnen
+###### § 65 Ausnahmen für Straßenbahnen
 
 Vorschriften, mit denen nachfolgende Richtlinien umgesetzt werden, gelten nicht für Straßenbahnen im Sinne von § 4 Absatz 1 und 2:
 
@@ -1357,7 +1345,7 @@ Vorschriften, mit denen nachfolgende Richtlinien umgesetzt werden, gelten nicht 
 
 4. Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Interoperabilität des Eisenbahnsystems in der Europäischen Union (ABl. L 138 vom 26.5.2016, S. 44), die zuletzt durch die Richtlinie (EU) 2020/700 (ABl. L 165 vom 27.5.2020, S. 27) geändert worden ist.
 
-##### § 66 Berichtspflichten
+###### § 66 Berichtspflichten
 
 (1) Das Bundesministerium für Verkehr legt mit Ablauf von fünf Jahren nach Inkrafttreten des Gesetzes zur Modernisierung des Personenbeförderungsrechts vom 16. April 2021 (BGBl. I S. 822) dem Deutschen Bundestag einen Bericht in nichtpersonenbezogener Form vor:
 
@@ -1376,4 +1364,3 @@ d) zu Vorschlägen hinsichtlich der Verbesserung der Nutzung von Daten;
 Das Bundesministerium für Verkehr kann insbesondere Vorschläge zur Verbesserung der Nutzung der Daten unterbreiten. Den Ländern, Kommunen, den Verbraucherschutzverbänden, Verbänden für Menschen mit Behinderungen, dem oder der Beauftragten der Bundesregierung für Menschen mit Behinderungen, dem oder der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit sowie den betroffenen Wirtschaftskreisen wird Gelegenheit zur Stellungnahme gegeben.
 
 (2) Die Bundesregierung legt mit Ablauf von fünf Jahren nach Inkrafttreten des Gesetzes zur Modernisierung des Personenbeförderungsrechts vom 16. April 2021 (BGBl. I S. 822) dem Deutschen Bundestag einen Bericht in nichtpersonenbezogener Form zu den mit der Einführung der neuen Verkehrsformen verfolgten Zielen und deren Auswirkungen auf Klimaschutz und Nachhaltigkeit vor. Absatz 1 Satz 2 gilt entsprechend.
-
