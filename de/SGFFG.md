@@ -4,18 +4,23 @@ identifier: "SGFFG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2013-08-07"
-last_updated: "2026-04-04"
+last_updated: "2026-07-29"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/sgffg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR311510013"
 slug: "sgffg"
 bgbl_reference: "BGBl I 2013, 3115"
 stand: "Geändert durch Art. 5 G v. 9.6.2021 I 1730"
+hinweis: "Änderung durch Art. 20 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Gesetz zur Förderung der Schienenwege der öffentlichen nicht bundeseigenen Eisenbahnen für den Schienengüterfernverkehr
 
-##### § 1 Anwendungsbereich
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Anwendungsbereich
 
 (1) Der Bund fördert Investitionen in die Schienenwege der öffentlichen nicht bundeseigenen Eisenbahnen (Ersatz, Aus- und Neubau), die dem Schienengüterfernverkehr dienen. Dies schließt nicht aus, dass diese Schienenwege auch von anderen Schienenverkehren genutzt werden.
 
@@ -53,15 +58,15 @@ Unter den Voraussetzungen des Satzes 1 Nummer 2 bis 4 werden auch Ersatzinvestit
 
 7. aus den auf diesen Schienenwegen auf Grund der Investitionen zu erwartenden Mehrverkehren des Schienengüterfernverkehrs ein volkswirtschaftlicher Nutzen im Verhältnis zu den Fördermitteln des Bundes von nicht kleiner als eins resultiert.
 
-Unter den Voraussetzungen des Satzes 1 Nummer 1 und 3 bis 7 werden auch Aus- und Neubauinvestitionen in Schienenwege in Serviceeinrichtungen nach Anlage 2 Nummer 2 Buchstabe c und d des Eisenbahnregulierungsgesetzes gefördert.
+Unter den Voraussetzungen des Satzes 1 Nummer 1 und 3 bis 7 werden auch Aus- und Neubauinvestitionen in Schienenwege in Serviceeinrichtungen nach Anlage 2 Nummer 2 Buchstabe c und d des Eisenbahnregulierungsgesetzes und in Schienenwege in See- und Binnenhäfen gefördert.
 
-(7) Auf die Förderung von Investitionen von Schienenwegen, die ausschließlich der wirtschaftlichen Tätigkeit eines Hafens zugutekommen und von jeder Art von Schienenwegen, die für den Zugang der Nutzer zu einem Hafen erforderlich sind, findet die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1), in der jeweils gültigen Fassung Anwendung. Die Förderung erfolgt bis zum Wegfall der Freistellungsvoraussetzung der Verordnung (EU) Nr. 651/2014 oder eines Rechtsaktes, der an die Stelle der Verordnung (EU) Nr. 651/2014 tritt.
+(7) Auf die Förderung von Investitionen in Schienenwege, die ausschließlich der wirtschaftlichen Tätigkeit eines Hafens zugutekommen, und in jede Art von Schienenwegen, die für den Zugang der Nutzer zu einem Hafen erforderlich sind, findet die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union, in der jeweils gültigen Fassung, Anwendung. Die Förderung erfolgt bis zum Wegfall der Freistellungsvoraussetzung der Verordnung (EU) Nr. 651/2014 oder eines Rechtsaktes, der an die Stelle der Verordnung (EU) Nr. 651/2014 tritt.
 
-##### § 2 Investitionen
+###### § 2 Investitionen
 
 (1) Der Bund finanziert auf schriftlichen Antrag im Rahmen der zur Verfügung stehenden Haushaltsmittel einen Anteil von 50 Prozent der nach § 1 Absatz 5 bis 7 förderfähigen Investitionen Schienenwege der öffentlichen nicht bundeseigenen Eisenbahnen, sofern die Gesamtfinanzierung sichergestellt ist. Es werden jedoch nicht mehr als 50 Prozent der zuwendungsfähigen Investitionen finanziert, die sich aus der mit dem Antrag vorzulegenden aufgegliederten Berechnung ergeben. 50 Prozent der Planungskosten sind zuwendungsfähig, wenn die gesamten Planungskosten 13 Prozent der Baukosten nicht übersteigen.
 
-(2) Bei der Förderung von Schienenwegen gemäß § 1 Absatz 7 findet Artikel 56b Absatz 9 der Verordnung (EU) Nr. 651/2014 (Seehäfen) beziehungsweise Artikel 56c Absatz 8 der Verordnung (EU) Nr. 651/2014 (Binnenhäfen) Anwendung. Eine Verknüpfung mit anderen Zuwendungen der öffentlichen Hand ist möglich. Die Gesamtförderung darf dabei insgesamt maximal 80 Prozent der Investitionen betragen. Die Zuwendungshöchstgrenze beträgt für Seehäfen 5 Millionen Euro und für Binnenhäfen 2 Millionen Euro.
+(2) Bei der Förderung von Schienenwegen gemäß § 1 Absatz 7 findet Artikel 56b Absatz 9 der Verordnung (EU) Nr. 651/2014 (Seehäfen) beziehungsweise Artikel 56c Absatz 8 der Verordnung (EU) Nr. 651/2014 (Binnenhäfen) Anwendung. Eine Verknüpfung mit anderen Zuwendungen der öffentlichen Hand ist möglich. Die Gesamtförderung darf dabei insgesamt maximal 80 Prozent der Investitionen betragen. Die Höhe dieser Zuwendungshöchstgrenze wird durch die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1), in der jeweils gültigen Fassung festgelegt.
 
 (3) Die Finanzierung erfolgt mit nicht rückzahlbaren Baukostenzuschüssen als Anteilfinanzierung im Wege der Projektförderung; die §§ 48 bis 49a des Verwaltungsverfahrensgesetzes bleiben unberührt. Das Eisenbahn-Bundesamt (Bewilligungsbehörde) kann verlangen, dass zur Sicherung eines aus § 49a Absatz 1 des Verwaltungsverfahrensgesetzes folgenden Erstattungsanspruchs eine selbstschuldnerische Bankbürgschaft oder eine vergleichbare Sicherheit gestellt wird.
 
@@ -75,7 +80,7 @@ Unter den Voraussetzungen des Satzes 1 Nummer 1 und 3 bis 7 werden auch Aus- und
 
 (8) Förderfähig sind Investitionen ab einem Volumen von 30 000 Euro für die gesamte Maßnahme (Bagatellgrenze).
 
-##### § 3 Finanzierung
+###### § 3 Finanzierung
 
 (1) Zur Finanzierung einer förderungsfähigen Investition erlässt die Bewilligungsbehörde schriftliche Zuwendungsbescheide nach Maßgabe dieses Gesetzes sowie nach § 44 Absatz 1 der Bundeshaushaltsordnung.
 
@@ -89,7 +94,7 @@ Unter den Voraussetzungen des Satzes 1 Nummer 1 und 3 bis 7 werden auch Aus- und
 
 (6) Eine Förderung auf Grundlage des § 1 Absatz 7 ist ausgeschlossen für Antragsteller, die als Unternehmen in Schwierigkeiten im Sinne des Artikels 1 Absatz 4 Buchstabe c in Verbindung mit Artikel 2 Absatz 18 der Verordnung (EU) Nr. 651/2014 anzusehen sind.
 
-##### § 4 Erstattung von Investitionsmitteln des Bundes
+###### § 4 Erstattung von Investitionsmitteln des Bundes
 
 (1) Soweit die öffentlichen nicht bundeseigenen Eisenbahnen vom Bund anteilig finanzierte Anlagen im Sinne des § 2 Absatz 1 und 6 stilllegen, zweckentfremden, nicht betriebsbereit vorhalten oder auf andere Eisenbahninfrastrukturbetreiber übertragen, sind die gewährten Bundesmittel vom Empfänger, anteilig im Verhältnis von tatsächlicher Nutzungszeit zu technisch möglicher und üblicher Nutzungszeit, an den Bund zu erstatten.
 
@@ -102,4 +107,3 @@ Unter den Voraussetzungen des Satzes 1 Nummer 1 und 3 bis 7 werden auch Aus- und
 (3) Soweit der übernehmende Infrastrukturbetreiber für die Übernahme der Infrastruktur ein Entgelt an die nicht bundeseigenen Eisenbahnen zu entrichten hat, steht dieses Entgelt bis zur Höhe der nach Absatz 1 bei Stilllegung, Zweckentfremdung oder Nichtbetriebsbereithalten der Infrastruktur zu erstattenden Bundesmittel dem Bund zu. Das Eisenbahn-Bundesamt ist ermächtigt, den entsprechenden Erstattungsbescheid sowohl an den Zuwendungsempfänger als auch an den übernehmenden Infrastrukturbetreiber zu richten.
 
 (4) Die Anwendung des Absatzes 2 ist ausgeschlossen, wenn die Verwendung der Fördermittel des Bundes durch die nicht bundeseigenen Eisenbahnen mit dem Ziel erfolgt ist, die Schienenwege an andere Eisenbahninfrastrukturbetreiber zu übertragen.
-
