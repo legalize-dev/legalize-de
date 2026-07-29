@@ -4,20 +4,24 @@ identifier: "AAÜG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1991-07-25"
-last_updated: "2026-04-04"
+last_updated: "2026-07-29"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/aa_g/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR016770991"
 slug: "aa_g"
 bgbl_reference: "BGBl I 1991, 1606, 1677"
-stand: "Zuletzt geändert durch Art. 4 G v. 6.10.2020 I 2072"
+stand: "Zuletzt geändert durch Art. 2 G v. 24.7.2026 I Nr. 227"
 ---
 # Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets
 
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
 ## Erster Abschnitt
 
-##### § 1 Geltungsbereich
+###### § 1 Geltungsbereich
 
 (1) Dieses Gesetz gilt für Ansprüche und Anwartschaften, die aufgrund der Zugehörigkeit zu Zusatz- und Sonderversorgungssystemen (Versorgungssysteme) im Beitrittsgebiet (§ 18 Abs. 3 Viertes Buch Sozialgesetzbuch) erworben worden sind. Soweit die Regelungen der Versorgungssysteme einen Verlust der Anwartschaften bei einem Ausscheiden aus dem Versorgungssystem vor dem Leistungsfall vorsahen, gilt dieser Verlust als nicht eingetreten.
 
@@ -25,7 +29,7 @@ stand: "Zuletzt geändert durch Art. 4 G v. 6.10.2020 I 2072"
 
 (3) Sonderversorgungssysteme sind die in Anlage 2 genannten Systeme.
 
-##### § 2 Grundsätze der Überführung
+###### § 2 Grundsätze der Überführung
 
 (1) Die in Anlage 2 Nr. 1 bis 3 genannten Versorgungssysteme werden zum 31. Dezember 1991 geschlossen.
 
@@ -35,11 +39,11 @@ stand: "Zuletzt geändert durch Art. 4 G v. 6.10.2020 I 2072"
 
 (3) Beruht ein Anspruch auf Zusatzrente auf Zeiten aus einem Versorgungssystem oder sind Zeiten aus einem Versorgungssystem rentensteigernd berücksichtigt worden, gelten die Ansprüche als in einem Versorgungssystem erworben.
 
-##### § 3 Versicherter Personenkreis
+###### § 3 Versicherter Personenkreis
 
 Für die Versicherungs- und Beitragspflicht der Personen, die am 31. Dezember 1991 einem Versorgungssystem angehört haben, gelten vom 1. Januar 1992 an die Vorschriften des Sechsten Buches Sozialgesetzbuch. Versicherungspflichtig sind von diesem Zeitpunkt an Personen auch in der Zeit, für die sie Invalidenrente bei Erreichen besonderer Altersgrenzen oder befristete erweiterte Versorgung beziehen; für sie gelten die Vorschriften des Sechsten Buches Sozialgesetzbuch bei Bezug von Vorruhestandsgeld nach den Vorschriften für das Beitrittsgebiet sinngemäß.
 
-##### § 4 Überführung in die Rentenversicherung
+###### § 4 Überführung in die Rentenversicherung
 
 (1) In die Rentenversicherung werden in Zusatzversorgungssystemen erworbene Ansprüche auf folgende Leistungen überführt:
 
@@ -75,7 +79,7 @@ höchstens jedoch der jeweilige Höchstbetrag nach § 10 Abs. 1 oder 2, um 6,84 
 
 (5) Für die Überführung der in Versorgungssystemen erworbenen Anwartschaften in die Rentenversicherung gelten die nachfolgenden Vorschriften über die Berücksichtigung von Zeiten der Zugehörigkeit zu einem Versorgungssystem.
 
-##### § 5 Pflichtbeitragszeiten
+###### § 5 Pflichtbeitragszeiten
 
 (1) Zeiten der Zugehörigkeit zu einem Versorgungssystem, in denen eine Beschäftigung oder Tätigkeit ausgeübt worden ist, gelten als Pflichtbeitragszeiten der Rentenversicherung. Auf diese Zeiten sind vom 1. Januar 1992 an die Vorschriften des Sechsten Buches Sozialgesetzbuch anzuwenden, soweit in diesem Gesetz nicht etwas anderes bestimmt ist. Zeiten der Zugehörigkeit zu dem Versorgungssystem nach Anlage 1 Nr. 17 sind Zeiten der Ausübung eines Tänzerberufes, für die nach dem Ausscheiden aus dem Tänzerberuf eine berufsbezogene Zuwendung an Ballettmitglieder in staatlichen Einrichtungen geleistet werden konnte.
 
@@ -89,7 +93,7 @@ höchstens jedoch der jeweilige Höchstbetrag nach § 10 Abs. 1 oder 2, um 6,84 
 
 ## Zweiter Abschnitt
 
-##### § 6 Art der Überführung in die Rentenversicherung
+###### § 6 Art der Überführung in die Rentenversicherung
 
 (1) Den Pflichtbeitragszeiten nach diesem Gesetz ist für jedes Kalenderjahr als Verdienst (§ 256a Abs. 2 Sechstes Buch Sozialgesetzbuch) das erzielte Arbeitsentgelt oder Arbeitseinkommen höchstens bis zur jeweiligen Beitragsbemessungsgrenze nach der Anlage 3 zugrunde zu legen. Abweichend von Satz 1 ist während der Zugehörigkeit zu einem Sonderversorgungssystem nach dem 30. Juni 1990 bis zum 31. Dezember 1990 der Betrag von 2 700 Deutsche Mark im Monat, vom 1. Januar 1991 bis zum 30. Juni 1991 der Betrag von 3 000 Deutsche Mark im Monat und vom 1. Juli 1991 bis zum 31. Dezember 1991 der Betrag vom 3 400 Deutsche Mark im Monat maßgebend. Satz 1 und 2 gilt auch, wenn die Berechnungsgrundlage für das Übergangsgeld nach den §§ 67 und 68 des Neunten Buches Sozialgesetzbuch oder durch andere Träger der Teilhabe am Arbeitsleben nach den für diese geltenden Vorschriften aus einem Einkommen vor dem 1. Juli 1990 ermittelt wird.
 
@@ -129,7 +133,7 @@ ist den Pflichtbeitragszeiten als Verdienst höchstens der jeweilige Betrag der 
 
 (9) Die Berechnungsgrundsätze des Sechsten Buches Sozialgesetzbuch sind anzuwenden.
 
-##### § 7 Begrenzung des berücksichtigungsfähigen Entgelts
+###### § 7 Begrenzung des berücksichtigungsfähigen Entgelts
 
 (1) Das während der Zugehörigkeit zu dem Versorgungssystem des ehemaligen Ministeriums für Staatssicherheit/Amtes für Nationale Sicherheit bis zum 17. März 1990 maßgebende Arbeitsentgelt oder Arbeitseinkommen wird höchstens bis zu dem jeweiligen Betrag der Anlage 6 zugrunde gelegt. Satz 1 gilt auch für das während einer verdeckten Tätigkeit als hauptberuflicher Mitarbeiter des Ministeriums für Staatssicherheit/Amtes für Nationale Sicherheit bezogene Arbeitsentgelt oder Arbeitseinkommen, wenn während der Zeit der verdeckten Tätigkeit eine Zugehörigkeit zu dem Sonderversorgungssystem nach Anlage 2 Nr. 4 nicht bestand.
 
@@ -137,7 +141,7 @@ ist den Pflichtbeitragszeiten als Verdienst höchstens der jeweilige Betrag der 
 
 (3) Als Zeiten der Zugehörigkeit zum Versorgungssystem des ehemaligen Ministeriums für Staatssicherheit/Amtes für Nationale Sicherheit oder als Zeiten einer Tätigkeit als hauptberuflicher Mitarbeiter des ehemaligen Ministeriums für Staatssicherheit/Amtes für Nationale Sicherheit gelten auch Zeiten der Tätigkeit im Staatssekretariat für Staatssicherheit des Ministeriums des Innern, nicht jedoch Zeiten der vorübergehenden Zuordnung der Deutschen Grenzpolizei, der Transportpolizei und der Volkspolizei-Bereitschaften zum Ministerium für Staatssicherheit oder zum Staatssekretariat für Staatssicherheit des Ministeriums des Innern.
 
-##### § 8 Verfahren zur Mitteilung der Überführungsdaten
+###### § 8 Verfahren zur Mitteilung der Überführungsdaten
 
 (1) Der vor der Überführung der Ansprüche und Anwartschaften zuständige Versorgungsträger hat dem für die Feststellung der Leistungen zuständigen Träger der Rentenversicherung unverzüglich die Daten mitzuteilen, die zur Durchführung der Versicherung und zur Feststellung der Leistungen aus der Rentenversicherung erforderlich sind. Dazu gehört auch das tatsächlich erzielte Arbeitsentgelt oder Arbeitseinkommen des Berechtigten oder der Person, von der sich die Berechtigung ableitet. Für Zeiten, die ohne Zugehörigkeit zu einem Sonderversorgungssystem im Ausweis für Arbeit- und Sozialversicherung einzutragen gewesen wären, ist dem für die Feststellung der Leistungen zuständigen Träger der Rentenversicherung getrennt für jedes Kalenderjahr für die Anwendung des § 252a Abs. 2 des Sechsten Buches Sozialgesetzbuch die Summe der Arbeitsausfalltage mitzuteilen; dabei zählen je sieben Kalendertage des Arbeitsausfalls als fünf Arbeitsausfalltage. Der Versorgungsträger ist berechtigt, die Daten nach Satz 1 auch von Dritten anzufordern. Diese haben dem Versorgungsträger
 
@@ -167,7 +171,7 @@ Die Versorgungsträger nach Absatz 4 Nr. 2 und 3 nehmen die Ermittlung der Daten
 
 (8) Liegen dem Versorgungsträger Anhaltspunkte dafür vor, daß der Berechtigte oder die Person, von der sich die Berechtigung ableitet, nicht nur Zeiten der Zugehörigkeit zum Versorgungssystem hat, teilt er dies und den entsprechenden Zeitraum dem Rentenversicherungsträger mit. Er übermittelt diesem auch die ihm zur Verfügung stehenden Unterlagen, die zur Feststellung nicht in einem Versorgungssystem zurückgelegter rentenrechtlicher Zeiten erforderlich sind.
 
-##### § 9 Auszahlung von Versorgungsleistungen
+###### § 9 Auszahlung von Versorgungsleistungen
 
 (1) In die Rentenversicherung werden nicht überführt:
 
@@ -195,7 +199,7 @@ Die Vorschriften des Ersten Buches Sozialgesetzbuch sind entsprechend anzuwenden
 
 ## Dritter Abschnitt
 
-##### § 10 Vorläufige Begrenzung von Zahlbeträgen
+###### § 10 Vorläufige Begrenzung von Zahlbeträgen
 
 (1) Die Summe der Zahlbeträge aus gleichartigen Renten der Rentenversicherung und Leistungen der Zusatzversorgungssysteme nach Anlage 1 Nr. 2, 3 oder 19 bis 27 sowie die Zahlbeträge der Leistungen der Sonderversorgungssysteme nach Anlage 2 Nr. 1 bis 3 oder die Summe der Zahlbeträge der Leistungen nach § 4 Abs. 2 Nr. 1 und 2 werden einschließlich des Ehegattenzuschlags vom Ersten des auf die Verkündung dieses Gesetzes folgenden Kalendermonats an auf folgende Höchstbeträge begrenzt:
 
@@ -215,7 +219,7 @@ Die Vorschriften des Ersten Buches Sozialgesetzbuch sind entsprechend anzuwenden
 
 (5) Die Begrenzung nach den Absätzen 1 und 2 hat der Versorgungsträger durch Bescheid vorzunehmen. Wurde die Leistung in den Fällen des Absatzes 2 im Dezember 1991 von einem Träger der Rentenversicherung gezahlt, hat er die Begrenzung vorzunehmen; der Versorgungsträger teilt ihm auf Anforderung die erforderlichen Daten mit. Die Anhörung eines Beteiligten vor Erlaß des Bescheides ist nicht erforderlich. § 8 Abs. 3 Satz 2 ist anzuwenden.
 
-##### § 11 Anpassung von Versorgungsleistungen aufgrund vorzeitiger Entlassung
+###### § 11 Anpassung von Versorgungsleistungen aufgrund vorzeitiger Entlassung
 
 (1) Die Zahlbeträge aus Versorgungsleistungen aufgrund vorzeitiger Entlassung bei Erreichen besonderer Altersgrenzen oder bestimmter Dienstzeiten aus Sonderversorgungssystemen werden vom Ersten des auf die Verkündung dieses Gesetzes folgenden Kalendermonats an auf folgende Höchstbeträge begrenzt:
 
@@ -251,11 +255,11 @@ leistet der Versorgungsträger im Anschluß an den Bezug der Versorgungsleistung
 
 (8) Besteht Anspruch auf eine modifizierte Übergangsrente aus dem Sonderversorgungssystem nach Anlage 2 Nr. 1, wird die Übergangsrente nur in der Grundform geleistet. Satz 1 ist vor anderen Regelungen für die Übergangsrente anzuwenden.
 
-##### § 12
+###### § 12
 
 (weggefallen)
 
-##### § 13 Einstellung von Leistungen
+###### § 13 Einstellung von Leistungen
 
 (1) Vom Ersten des auf die Verkündung dieses Gesetzes folgenden Kalendermonats an werden folgende Leistungen nicht mehr gewährt:
 
@@ -273,7 +277,7 @@ leistet der Versorgungsträger im Anschluß an den Bezug der Versorgungsleistung
 
 (3) Die Entscheidung nach Absatz 1 hat der Versorgungsträger durch Bescheid vorzunehmen. Die Anhörung eines Beteiligten vor Erlaß des Bescheides ist nicht erforderlich. § 8 Abs. 3 Satz 2 ist anzuwenden.
 
-##### § 14 Übergangsregelungen für Versorgungssysteme nach Anlage 1 Nr. 23 bis 27
+###### § 14 Übergangsregelungen für Versorgungssysteme nach Anlage 1 Nr. 23 bis 27
 
 (1) Bei der Überführung der in einem Versorgungssystem nach Anlage 1 Nr. 23 bis 27 erworbenen Ansprüche wird die Rente unter Berücksichtigung der Zeiten der Zugehörigkeit zu einem Versorgungssystem neu berechnet. Dies gilt auch für Renten nach dem Sechsten Buch Sozialgesetzbuch, die in der Zeit vom 1. Januar 1992 bis zum 30. Juni 1993 begonnen haben, wenn Anspruch auf eine Leistung aus dem Versorgungssystem nicht bestand.
 
@@ -285,19 +289,19 @@ leistet der Versorgungsträger im Anschluß an den Bezug der Versorgungsleistung
 
 (5) Für Berechtigte, deren Rente nach den Absätzen 1 bis 4 neu zu berechnen ist, ist bis zur Neuberechnung der Rente für die Feststellung des Erhöhungsbetrags, der sich aus Rentenanpassungen nach den Vorschriften des Sechsten Buches Sozialgesetzbuch ergibt, § 14 Abs. 3 in der bis zum 30. Juni 1993 geltenden Fassung weiter anzuwenden.
 
-##### § 14a Weitergeltung von Bescheiden
+###### § 14a Weitergeltung von Bescheiden
 
 Für Pflichtbeitragszeiten nach diesem Gesetz, für die ein Versorgungsträger oder ein Träger der gesetzlichen Rentenversicherung bis 23. Juni 2005 Feststellungen getroffen hat, aufgrund derer bei der Ermittlung einer Rente nach den Vorschriften des Sechsten Buches Sozialgesetzbuch ein Verdienst zugrunde zu legen ist, der den Betrag der Anlage 5 übersteigt, ist § 6 Abs. 2 dieses Gesetzes nicht anzuwenden.
 
-##### § 14b Überprüfung von bestandskräftigen Bescheiden
+###### § 14b Überprüfung von bestandskräftigen Bescheiden
 
 Bescheide zur Überführung von Ansprüchen oder Anwartschaften aus Versorgungssystemen nach Anlage 1 oder Anlage 2 Nr. 1 bis 3 und Bescheide über die Feststellung von Ansprüchen nach dem Sechsten Buch Sozialgesetzbuch, denen Zeiten der Zugehörigkeit zu einem Versorgungssystem nach Anlage 1 oder Anlage 2 Nr. 1 bis 3 zugrunde liegen, die am 23. Juni 2004 unanfechtbar waren und die auf § 6 Abs. 2, 3 dieses Gesetzes in der Fassung des AAÜG-Änderungsgesetzes vom 11. November 1996 (BGBl. I S. 1674) oder des 2. AAÜG-Änderungsgesetzes vom 27. Juli 2001 (BGBl. I S. 1939) beruhen, können insoweit nur mit Wirkung für die Zeit nach dem 30. Juni 2004 zurückgenommen werden.
 
-##### § 15 Erstattung von Aufwendungen
+###### § 15 Erstattung von Aufwendungen
 
 (1) Der Bund erstattet der Deutschen Rentenversicherung Bund die Aufwendungen einschließlich der Verwaltungskosten, die ihr aufgrund der Überführung nach diesem Gesetz entstehen. Auf die Erstattungsbeträge sind angemessene Vorschüsse zu zahlen.
 
-(2) Die dem Bund durch die Erstattung nach Absatz 1 entstehenden Aufwendungen werden ihm in Höhe der Aufwendungen für das Sonderversorgungssystem nach Anlage 2 Nr. 2 sowie in Höhe von zwei Dritteln der Aufwendungen für die Zusatzversorgungssysteme nach Anlage 1 Nr. 1 bis 22 von den Ländern im Beitrittsgebiet erstattet. Der von den Ländern im Beitrittsgebiet an den Bund zu erstattende Anteil an den Aufwendungen für die Zusatzversorgungssysteme nach Anlage 1 Nummer 1 bis 22 verringert sich von 60 vom Hundert auf 50 vom Hundert ab dem Jahr 2021.
+(2) Die dem Bund durch die Erstattung nach Absatz 1 entstehenden Aufwendungen werden ihm in Höhe der Aufwendungen für das Sonderversorgungssystem nach Anlage 2 Nummer 2 sowie in Höhe von 50 Prozent der Aufwendungen für die Zusatzversorgungssysteme nach Anlage 1 Nummer 1 bis 22 von den Ländern im Beitrittsgebiet erstattet. Abweichend von Satz 1 beträgt der von den Ländern im Beitrittsgebiet an den Bund zu erstattende Anteil an den Aufwendungen für die Zusatzversorgungssysteme nach Anlage 1 Nummer 1 bis 22 in den Jahren 2026 bis 2029 40 Prozent.
 
 (2a) (weggefallen)
 
@@ -305,7 +309,7 @@ Bescheide zur Überführung von Ansprüchen oder Anwartschaften aus Versorgungss
 
 (4) Das Bundesamt für Soziale Sicherung führt die Abrechnung durch und setzt die Vorschüsse fest. Es stellt darüber hinaus den auf das jeweilige Bundesland entfallenden Anteil an dem Erstattungsbetrag nach dem Verhältnis fest, in dem die Anzahl der Einwohner dieses Landes zu der Gesamtzahl der Einwohner im Beitrittsgebiet steht. Die erforderlichen Daten teilt das Statistische Bundesamt mit.
 
-##### § 16 Verordnungsermächtigung
+###### § 16 Verordnungsermächtigung
 
 (1) (weggefallen)
 
@@ -321,11 +325,11 @@ Bescheide zur Überführung von Ansprüchen oder Anwartschaften aus Versorgungss
 
 durch Rechtsverordnung mit Zustimmung des Bundesrates in Anlehnung an die Regelungen des Sozialgesetzbuchs und des Versorgungsrechts Grund, Umfang und Durchführung einer Kürzung oder eines Ruhens von Versorgungsleistungen im Sinne der §§ 9 und 11 bei Erwerbseinkommen und berücksichtigungsfähigen Erwerbsersatzeinkommen, die Mitwirkungspflichten des Leistungsberechtigten und die Rückforderung zuviel gezahlter Versorgungsleistungen zu regeln.
 
-##### § 17 Sozialgerichtsverfahren
+###### § 17 Sozialgerichtsverfahren
 
 Über Streitigkeiten auf Grund dieses Gesetzes entscheiden die Gerichte der Sozialgerichtsbarkeit.
 
-##### § 18 Bußgeldvorschriften
+###### § 18 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -339,7 +343,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates in Anlehnung an die Regelu
 
 (4) Die Geldbußen fließen in die Kasse der Deutschen Rentenversicherung Bund, wenn sie als Versorgungsträger den Bußgeldbescheid erlassen hat. § 66 des Zehnten Buches Sozialgesetzbuch gilt entsprechend. Diese Kasse trägt abweichend von § 105 Abs. 2 des Gesetzes über Ordnungswidrigkeiten die notwendigen Auslagen; sie ist auch ersatzpflichtig im Sinne des § 110 Abs. 4 des Gesetzes über Ordnungswidrigkeiten.
 
-##### Anlage 1 Zusatzversorgungssysteme
+###### Anlage 1 Zusatzversorgungssysteme
 
 1. Zusätzliche Altersversorgung der technischen Intelligenz, eingeführt mit Wirkung vom 17. August 1950.
 
@@ -395,7 +399,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates in Anlehnung an die Regelu
 
 27. Freiwillige zusätzliche Altersversorgung für hauptamtliche Mitarbeiter der SED/PDS, eingeführt mit Wirkung vom 1. August 1968.
 
-##### Anlage 2 Sonderversorgungssysteme
+###### Anlage 2 Sonderversorgungssysteme
 
 1. Sonderversorgung der Angehörigen der Nationalen Volksarmee, eingeführt mit Wirkung vom 1. Juli 1957.
 
@@ -405,12 +409,18 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates in Anlehnung an die Regelu
 
 4. Sonderversorgung der Angehörigen des ehemaligen Ministeriums für Staatssicherheit/Amtes für Nationale Sicherheit, eingeführt mit Wirkung vom 1. Januar 1953.
 
-##### Anlage 3 Jahreshöchstverdienst nach § 6 Abs. 1
+###### Anlage 3 Jahreshöchstverdienst nach § 6 Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1683;
-bzgl. d. einzelnen Änderungen vgl. Fußnote
+bzgl. d. einzelnen Änderungen vgl. Fußnote  
 
-Kalenderjahr
+	
+		
+		
+		
+		
+			
+				Kalenderjahr
 				allgemeine Rentenversicherung Betrag in DM
 				Knappschaftliche Rentenversicherung Betrag in DM
 			
@@ -626,16 +636,21 @@ Kalenderjahr
 				24.619,65
 				30.481,48
 
-##### Anlage 4
+###### Anlage 4
 
 (weggefallen)
 
-##### Anlage 5 Mindestgrenze nach § 6 Abs. 2
+###### Anlage 5 Mindestgrenze nach § 6 Abs. 2
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1683 - 1684;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+bzgl. der einzelnen Änderungen vgl. Fußnote  
 
-Kalenderjahr
+		
+			
+			
+			
+				
+					Kalenderjahr
 					Betrag in DM
 				
 			
@@ -804,11 +819,16 @@ Kalenderjahr
 					1.1.-30.6.1990
 					13.660,00
 
-##### Anlage 6 Jahreshöchstverdienst nach § 7
+###### Anlage 6 Jahreshöchstverdienst nach § 7
 
-Fundstelle des Originaltextes: BGBl. I 2001, 1940
+Fundstelle des Originaltextes: BGBl. I 2001, 1940  
 
-Kalenderjahr
+	
+		
+		
+		
+			
+				Kalenderjahr
 				Betrag in Deutsche Mark
 			
 		
@@ -976,4 +996,3 @@ Kalenderjahr
 			
 				1. Januar bis 17. März 1990
 				13.660,00
-
