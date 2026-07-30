@@ -4,47 +4,54 @@ identifier: "WASTRABG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2016-12-23"
-last_updated: "2026-04-04"
+last_updated: "2026-07-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/wastrabg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR322410016"
 slug: "wastrabg"
 bgbl_reference: "BGBl I 2016, 3224"
+hinweis: "Änderung durch Art. 7 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Bundeswasserstraßenausbaugesetz
 
-##### § 1
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1
 
 (1) Das Netz der Bundeswasserstraßen wird nach dem Bedarfsplan für die Bundeswasserstraßen ausgebaut, der diesem Gesetz als Anlage beigefügt ist.
 
 (2) Die Feststellung des Bedarfs ist für die Linienbestimmung nach § 13 Absatz 1 des Bundeswasserstraßengesetzes und für die Planfeststellung, einschließlich der vorläufigen Anordnung, nach § 14 des Bundeswasserstraßengesetzes verbindlich.
 
-##### § 2
+(3) Die Umsetzung von Vorhaben, die im Bedarfsplan laufend und fest disponiert sind oder für die der Bedarfsplan einen Vordringlichen Bedarf feststellt, liegt im überragenden öffentlichen Interesse und dient der öffentlichen Sicherheit.
+
+###### § 2
 
 (1) Der Ausbau erfolgt nach Stufen, die im Bedarfsplan vorgesehen sind, und nach Maßgabe der zur Verfügung stehenden Haushaltsmittel.
 
 (2) Eine Baumaßnahme, die nicht in den Bedarfsplan aufgenommen ist, kann durchgeführt werden, wenn für sie im Einzelfall der Bedarf besonders nachgewiesen wird.
 
-##### § 3
+###### § 3
 
 Der Bedarfsplan für die Bundeswasserstraßen und die entsprechenden Pläne für andere Verkehrsträger sind im Rahmen der Bundesverkehrswegeplanung aufeinander abzustimmen.
 
-##### § 4
+###### § 4
 
-Nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium für Verkehr und digitale Infrastruktur, ob der Bedarfsplan der zwischenzeitlich eingetretenen Wirtschafts- und Verkehrsentwicklung anzupassen ist. Die Anpassung erfolgt durch Gesetz.
+Nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium für Verkehr, ob der Bedarfsplan der zwischenzeitlich eingetretenen Wirtschafts- und Verkehrsentwicklung anzupassen ist. Die Anpassung erfolgt durch Gesetz.
 
-##### § 5
+###### § 5
 
-(1) Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das Bundesministerium für Verkehr und digitale Infrastruktur Fünfjahrespläne auf.
+(1) Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das Bundesministerium für Verkehr Fünfjahrespläne auf.
 
 (2) Das Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft vom 8. Juni 1967 (BGBl. I S. 582), das zuletzt durch Artikel 267 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, bleibt unberührt.
 
-##### § 6
+###### § 6
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur berichtet dem Deutschen Bundestag jährlich über den Fortgang des Ausbaus des Bundeswasserstraßennetzes nach dem Stand vom 31. Dezember des Vorjahres.
+Das Bundesministerium für Verkehr berichtet dem Deutschen Bundestag jährlich über den Fortgang des Ausbaus des Bundeswasserstraßennetzes nach dem Stand vom 31. Dezember des Vorjahres.
 
-##### Anlage (zu § 1 Absatz 1)Bedarfsplan für die Bundeswasserstraßen
+###### Anlage (zu § 1 Absatz 1)Bedarfsplan für die Bundeswasserstraßen
 
 (Fundstelle: BGBl. I 2016, 3225)
 
@@ -139,4 +146,3 @@ VDE = Verkehrsprojekt Deutsche Einheit
 VB = Vordringlicher Bedarf
 
 **VB-E** = **Vordringlicher Bedarf – Engpassbeseitigung**
-
