@@ -4,9 +4,10 @@ identifier: "FSTRAUSBAUG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1971-06-30"
-last_updated: "2026-04-04"
+last_updated: "2026-07-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/fstrausbaug/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR008730971"
 slug: "fstrausbaug"
@@ -14,52 +15,66 @@ bgbl_reference: "BGBl I 1971, 873"
 amtabk: "FStrAbG"
 stand: "zuletzt geändert durch Art. 2 G v. 22.12.2023 I Nr. 409"
 neufassung: "Neugefasst durch Bek. v. 20.1.2005 I 201;"
+hinweis: "Änderung durch Art. 5 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Gesetz über den Ausbau der Bundesfernstraßen
 
-##### § 1
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
 
-(1) Bau und Ausbau der Bundesfernstraßen sind Hoheitsaufgaben des Bundes. Das Netz der Bundesfernstraßen wird nach dem Bedarfsplan für die Bundesfernstraßen ausgebaut, der diesem Gesetz als Anlage 1 beigefügt ist.
+###### § 1
 
-(2) Die in den Bedarfsplan aufgenommenen Bau- und Ausbauvorhaben entsprechen den Zielsetzungen des § 1 Abs. 1 des Bundesfernstraßengesetzes. Die Feststellung des Bedarfs ist für die Linienbestimmung nach § 16 des Bundesfernstraßengesetzes und für die Planfeststellung nach § 17 des Bundesfernstraßengesetzes verbindlich.
+(1) Bau und Ausbau der Bundesfernstraßen sind Hoheitsaufgaben des Bundes. Das Netz der Bundesfernstraßen wird nach dem Bedarfsplan für die Bundesfernstraßen ausgebaut, der diesem Gesetz als Anlage beigefügt ist.
 
-(3) Der Bau oder die Änderung einer Bundesfernstraße, die in der Anlage 2 abschließend aufgeführt ist, liegt im überragenden öffentlichen Interesse.
+(2) Die in den Bedarfsplan aufgenommenen Bau- und Ausbauvorhaben entsprechen den Zielsetzungen des § 1 Absatz 1 des Bundesfernstraßengesetzes. Die Feststellung des Bedarfs ist für die Linienbestätigung nach § 16 des Bundesfernstraßengesetzes und für die Planfeststellung nach § 17 des Bundesfernstraßengesetzes verbindlich.
 
-##### § 2
+(3) Der Bau oder die Änderung einer Bundesfernstraße liegt im überragenden öffentlichen Interesse, dient der öffentlichen Sicherheit und ist von militärischer Relevanz, wenn
+
+1. die Bundesfernstraße in der Anlage in der Spalte Dringlichkeit mit dem Kriterium der Engpassbeseitigung gekennzeichnet ist,
+
+2. der Bau einer Bundesautobahn in der Anlage in der Spalte Bauziel als Neubau festgelegt ist, oder
+
+3. der Bau einer Bundesstraße in der Anlage in der Spalte Bauziel als vierstreifiger Neubau festgelegt, oder
+
+4. die Erweiterung einer Bundesstraße in der Anlage 1 des Fernstraßenausbaugesetzes in der Fassung der Bekanntmachung vom 20. Januar 2005 (BGBl. I S. 201), das zuletzt durch Artikel 2 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist, in der Spalte Bauziel als vierstreifige Erweiterung festgelegt ist und in der Spalte Dringlichkeit als laufend und fest disponiert oder mit Vordringlichen Bedarf gekennzeichnet ist.
+
+Die Verwirklichung eines Vorhabens nach Satz 1 ist als vorrangiger Belang in die jeweils durchzuführenden Schutzgüterabwägungen einzubringen. Für Vorhaben nach Satz 1 Nummer 2 oder 3, die in der Anlage in der Spalte Dringlichkeit mit dem Kriterium des Weiteren Bedarfs mit Planungsrecht” gekennzeichnet sind, gelten die Sätze 1 und 2 nur, wenn diese Vorhaben von militärischer Relevanz sind.
+
+###### § 2
 
 Der Ausbau erfolgt nach Stufen, die im Bedarfsplan bezeichnet sind, und nach Maßgabe der zur Verfügung stehenden Mittel.
 
-##### § 3
+###### § 3
 
 Einzelne Verbesserungsmaßnahmen bleiben unberührt; sie sind auf die Maßnahmen abzustimmen, die auf Grund des Bedarfsplanes ausgeführt werden sollen.
 
-##### § 4
+###### § 4
 
-Nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium für Digitales und Verkehr, ob der Bedarfsplan der Verkehrsentwicklung anzupassen ist; in die Prüfung sind die bei der Bedarfsplanung berührten Belange, insbesondere die der Raumordnung, des Umweltschutzes und des Städtebaus, einzubeziehen. Die Anpassung geschieht durch Gesetz.
+Nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium für Verkehr, ob der Bedarfsplan der Verkehrsentwicklung anzupassen ist; in die Prüfung sind die bei der Bedarfsplanung berührten Belange, insbesondere die der Raumordnung, des Umweltschutzes und des Städtebaus, einzubeziehen. Die Anpassung geschieht durch Gesetz.
 
-##### § 5
+###### § 5
 
-(1) Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das Bundesministerium für Digitales und Verkehr Fünfjahrespläne auf. Sie bilden den Rahmen für die Aufstellung der Straßenbaupläne nach Artikel 3 des Straßenbaufinanzierungsgesetzes.
+(1) Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das Bundesministerium für Verkehr Fünfjahrespläne auf. Sie bilden den Rahmen für die Aufstellung der Straßenbaupläne nach Artikel 3 des Straßenbaufinanzierungsgesetzes.
 
 (2) Das Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft bleibt unberührt.
 
-##### § 6
+###### § 6
 
 Die Straßenbaupläne können im Einzelfall auch Maßnahmen enthalten, die nicht dem Bedarfsplan entsprechen, soweit dies wegen eines unvorhergesehenen höheren oder geringeren Verkehrsbedarfs, insbesondere auf Grund einer Änderung der Verkehrsstruktur, erforderlich ist.
 
-##### § 7
+###### § 7
 
-Das Bundesministerium für Digitales und Verkehr berichtet dem Deutschen Bundestag jährlich über den Fortgang des Bundesfernstraßenbaus nach dem Stand vom 31. Dezember des Vorjahres.
+Das Bundesministerium für Verkehr berichtet dem Deutschen Bundestag jährlich über den Fortgang des Bundesfernstraßenbaus nach dem Stand vom 31. Dezember des Vorjahres.
 
-##### § 8
+###### § 8
 
 Auf laufende und fest disponierte Vorhaben sind die Rechtsvorschriften über Vorhaben des Vordringlichen Bedarfs anzuwenden.
 
-##### § 9
+###### § 9
 
 (Inkrafttreten)
 
-##### Anlage 1 (zu § 1 Absatz 1 Satz 2)Bedarfsplan für die Bundesfernstraßen
+###### Anlage (zu § 1 Absatz 1 Satz 2)Bedarfsplan für die Bundesfernstraßen
 
 (Fundstelle: BGBl. I 2016, 3354 — 3411,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3401,14 +3416,3 @@ THB 089OU HildburghausenN 3
 1359THB 281OU SaalfeldN 2Vordringlicher Bedarf
 
 1360THB 281LichteReichmannsdorfN 3Weiterer Bedarf
-
-##### Anlage 2 (zu § 1 Absatz 3)
-
-(Fundstelle: BGBl. 2023 I Nr. 409, S. 12 – 15)
-
-**Vorbemerkung:**
-
-Für die in der Anlage 2 genannten Vorhaben ist das Bauziel des Bedarfsplans für die Bundesfernstraßen (Anlage 1) in der am 28. Dezember 2023 geltenden Fassung maßgebend. Die Bedeutung der Abkürzungen, die in der Anlage 2 verwendet werden, entspricht der Bedeutung der Abkürzungen in der Vorbemerkung der Anlage 1.Lfd.
-Nr.LandStraßeBezeichnungBedarfsplan-Nr.1BWA 5AK Walldorf – AS Walldorf/Wiesloch42BWA 5AS Walldorf/Wiesloch – AK Heidelberg43BWA 6AK Mannheim – AS Schwetzingen/Hockenheim94BWA 6AK Weinsberg – ö AS Bretzfeld115BWA 6ö AS Bretzfeld – AS Öhringen116BWA 6AS Öhringen – AS Kupferzell (B 19)117BWA 6AS Kupferzell (B 19) – AS Ilshofen/Wolpertshausen118BWA 6AS Ilshofen/Wolpertshausen – AS Kirchberg119BWA 6AS Kirchberg – LGr. BW/BY1110BYA 3AS Nittendorf – AS Sinzing14911BYA 3AS Sinzing – AK Regensburg14912BYA 8AS Hofoldinger Forst – AS Holzkirchen16313BYA 8AS Holzkirchen – Leitzachbrücke16414BYA 8Leitzachbrücke – Dettendorf (Irschenberg)16415BYA 8Dettendorf (Irschenberg) – AD Inntal16416BYA 8AD Inntal – AS Rosenheim16517BYA 8ö AS Rosenheim – AS Achenmühle16518BYA 8AS Achenmühle – Bernauer Berg16519BYA 8Bernauer Berg – AS Felden16520BYA 8AS Felden – AS Grabenstätt16521BYA 8AS Grabenstätt – Reichhausen16522BYA 8Reichhausen – Vogling16523BYA 9AS München – Frankfurter Ring – AS München – Schwabing17224BYA 92AK Neufahrn – AD Flughafen-München17525BYA 94AS München-Steinhausen – AS Feldkirchen-West17626BYA 94AK München-Ost – AS Markt Schwaben17727BYA 99AD München-Südwest – Tunnel Aubing18328BYA 99Tunnel Aubing – AK München-West18329BYA 99AK München-West – AK München-Nord18430BYA 99AS Kirchheim – AS Haar18531BYA 99AS Haar – AS Ottobrunn18532BYA 8/A 99AS Ottobrunn (A 99) – (AK München-Süd) – AS Hofoldinger Forst163,
- 18533HBA 27AK Bremen – AS HB-Überseestadt49634HEA 3Wiesbadener Kreuz51035HEA 3AS Frankfurt-Flughafen – AD Mönchhof51236HEA 3AK Offenbach51537HEA 3AS Hanau – AK Offenbach51638HEA 5Westkreuz Frankfurt51839HEA 5AK Darmstadt52040HEA 5AD Reiskirchen – Ohmtal-Dreieck (A 5/A 49)52341HEA 5AK Bad Homburg – AS Friedberg52642HEA 5AK Bad Homburg52743HEA 5AK Nordwestkreuz Frankfurt – AK Bad Homburg52844HEA 5Nordwestkreuz Frankfurt52945HEA 45Gambacher Kreuz – n Talbrücke Langgöns54146HEA 45n Talbrücke Langgöns – n Gießener Südkreuz54147HEA 45n Gießener Südkreuz – s AS Wetzlar/Süd54148HEA 45s AS Wetzlar/Süd – n AK Wetzlar54149HEA 45n AK Wetzlar – AS Ehringshausen (n Talbrücke Lemptal)54150HEA 45Talbrücke Onsbach (o) – s AS Herborn/West54151HEA 45AS Herborn/West – s Talbrücke Lützelbach54152HEA 45s AS Dillenburg – AS Haiger/Burbach54153HEA 45AS Haiger/Burbach – AS Wilnsdorf54354HEA 60AD Mainspitz – AD Rüsselsheim54755HEA 67n AS Lorsch – AK Darmstadt55356HEA 67AD Rüsselsheim – AD Mönchhof55357NIA 2AS Hannover-Herrenhausen – AD Hannover-West68458NIA 2AD Hannover-West68559NIA 2AK Hannover-Buchholz (A 37)68760NIA 7AD Salzgitter – n Wöhlertalbrücke69061NIA 7n Wöhlertalbrücke – s AS Hildesheim69062NIA 27AK Bremen – AS HB-Überseestadt69763NIA 30ö AK Lotte/Osnabrück (LGr. NI/NW) – AK Osnabrück-Süd69864NWA 1AK Kamen – n AS Hamm-Bockum/Werne84665NWA 1AS Hamm-Bockum/Werne – AS Ascheberg84766NWA 1AD Erfttal – AS Hürth85167NWA 1AS Hürth – AS Gleuel85168NWA 1AS Gleuel – AK Köln-West85169NWA 1AK Wuppertal-Nord85270NWA 1AK Westhofen85371NWA 1AS Münster-Nord (o) – AS Greven (o)85872NWA 1AS Greven (m) – DEK Brücke85873NWA 1n DEK Brücke – AS Lengerich/Tecklenburg85874NWA 1AS Lengerich/Tecklenburg – AK Lotte/Osnabrück (A 30)85875NWA 1AK Leverkusen-West – AK Leverkusen (o)85976NWA 2AD Bottrop86077NWA 3AS Königsforst – AD Köln-Heumar (A 4)86178NWA 3AK Leverkusen (A 1) – AD Langenfeld (A 542)86279NWA 3AD Langenfeld – AK Hilden (o)86280NWA 3AK Hilden86381NWA 3AK Hilden – AK Ratingen-Ost86382NWA 3AK Ratingen-Ost – AK Breitscheid (A 52)86483NWA 3AK Breitscheid (A 52) – AS Duisburg-Wedau86584NWA 3AS Duisburg-Wedau – AK Kaiserberg (A 40)86585NWA 3AK Oberhausen-West (A 42) – AS Oberhausen-Holten86786NWA 3AS Oberhausen-Holten – AK Oberhausen (A 2/A 516)86787NWA 3AK Oberhausen86788NWA 3AK Oberhausen (A 2/A 516) – AS Dinslaken-Süd86889NWA 3AS Dinslaken-Süd – AS Dinslaken-Nord86890NWA 4AK Köln/Ost – AS Moitzfeld87291NWA 4AK Köln-Süd (A 555)87592NWA 30AK Lotte/Osnabrück (A 1) – AS Hasbergen/Gaste (LGr. NI/NW)87693NWA 40AS Duisburg-Kaiserberg – AS Mülheim-Dümpten88094NWA 40AS Mülheim-Dümpten – AS Mülheim-Heißen88195NWA 40AS Mülheim-Heißen – AS Essen-Frohnhausen88296NWA 40AD Bochum-West (A 448) – AS Bochum-Harpen88497NWA 42AK Essen-Nord (A 52) – AS Essen-Altenessen88998NWA 42AS Essen-Altenessen – AS Gelsenkirchen-Schalke88999NWA 42AS Gelsenkirchen-Schalke – AK Herne (A 43)889100NWA 42AS Bottrop-Süd – AK Essen-Nord (A 52)890101NWA 43AS Witten-Heven – AS Bochum-Querenburg891102NWA 43AS Bochum-Querenburg – AK Bochum (A 40)891103NWA 43AK Bochum891104NWA 43AS Bochum-Gerte (o) – AS Bochum-Riemke (m)891105NWA 43AS Recklinghausen/Herten – AS Marl-Sinsen891106NWA 45AS Lüdenscheid-Nord – AS Hagen-Süd907107NWA 45AS Hagen-Süd – AK Hagen (A 46)908108NWA 45AS Haiger/Burbach – AS Wilnsdorf910109NWA 45AS Dortmund-Hafen – AK Dortmund-Nordwest (A 2)915110NWA 45AK Hagen – AK Westhofen916111NWA 52AK Mönchengladbach (A 61) – AK Neersen (A 44)922112NWA 52AK Breitscheid (A 3) – AS Essen-Kettwig923113NWA 52AS Essen-Kettwig – AS Essen-Rüttenscheid (B 224)923114NWA 52AK Essen-Nord – s AK Essen/Gladbeck925115NWA 52s AK Essen/Gladbeck – AK Essen/Gladbeck926116NWA 52AK Essen/Gladbeck (A 2) – AS Gelsenkirchen-Buer927117NWA 57AS Köln-Chorweiler – AS Dormagen929118NWA 57AS Dormagen – AD Neuss-Süd (A 46)929119NWA 57AK Kaarst930120NWA 57AK Moers (A 40)931121NWA 57AK Moers – AK Kamp-Lintfort (A 42)932122NWA 57AS Krefeld-Oppum – AS Krefeld-Gartenstadt933123NWA 57AS Krefeld-Gartenstadt – AK Moers (A 40)933124NWA 59AD Bonn-Nordost (A 565) – AD Sankt Augustin-West (A 560)934125NWA 59s AK Duisburg (A 40) – AS Duisburg-Marxloh935, 936, 937, 938126NWA 59AD Sankt Augustin/West (A 560) – T+R-Anlage Liburer Heide940127NWA 59T+R-Anlage Liburer Heide – AS Flughafen940128NWA 59AS Flughafen – AD Köln-Porz (A 559)940129NWA 59AK Bonn-Ost (A 562) – AS Bonn/Vilich941130NWA 59AS Bonn/Vilich – AD Bonn-Nordost (A 565)941131NWA 559AD Köln-Porz (A 59) – AK Köln-Gremberg (A 4)950132RPA 60AS Ingelheim-West – AS Heidesheim1064133RPA 60AD Mainz – AS Mainz-Finthen1066134RPA 60AS Mainz-Finthen – AK Mainz-Süd1066135RPA 61LGr. NW/RP – AD Sinzig1067136RPA 61AD Sinzig – AS Mendig1068137RPA 61Rheinbrücke Speyer (LGr. BW/RP) – AK Mutterstadt1074138RPA 61AK Mutterstadt – AK Frankenthal1074
-
