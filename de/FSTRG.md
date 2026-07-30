@@ -4,20 +4,24 @@ identifier: "FSTRG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1953-08-06"
-last_updated: "2026-04-04"
+last_updated: "2026-07-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/fstrg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR009030953"
 slug: "fstrg"
 bgbl_reference: "BGBl I 1953, 903"
-stand: "zuletzt geändert durch Art. 1 G v. 22.12.2023 I Nr. 409"
+stand: "zuletzt geändert durch Art. 8 G v. 29.3.2026 I Nr. 84"
 neufassung: "Neugefasst durch Bek. v. 28.6.2007 I 1206;"
-hinweis: "Änderung durch Art. 8 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+hinweis: "Änderung durch Art. 4 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Bundesfernstraßengesetz
 
-##### § 1 Einteilung der Bundesstraßen des Fernverkehrs
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Einteilung der Bundesstraßen des Fernverkehrs
 
 (1) Bundesstraßen des Fernverkehrs (Bundesfernstraßen) sind öffentliche Straßen, die ein zusammenhängendes Verkehrsnetz bilden und einem weiträumigen Verkehr dienen oder zu dienen bestimmt sind. In der geschlossenen Ortslage (§ 5 Abs. 4) gehören zum zusammenhängenden Verkehrsnetz die zur Aufnahme des weiträumigen Verkehrs notwendigen Straßen.
 
@@ -45,7 +49,7 @@ hinweis: "Änderung durch Art. 8 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, 
 
 (5) Für die Bundesfernstraßen werden Straßenverzeichnisse geführt. Das Fernstraßen-Bundesamt bestimmt die Nummerung und Bezeichnung der Bundesfernstraßen.
 
-##### § 2 Widmung, Umstufung, Einziehung
+###### § 2 Widmung, Umstufung, Einziehung
 
 (1) Eine Straße erhält die Eigenschaft einer Bundesfernstraße durch Widmung.
 
@@ -57,17 +61,17 @@ hinweis: "Änderung durch Art. 8 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, 
 
 (4) Eine Bundesfernstraße, bei der sich die Verkehrsbedeutung geändert hat und bei der die Voraussetzungen des § 1 Abs. 1 weggefallen sind, ist entweder unverzüglich einzuziehen, wenn sie jede Verkehrsbedeutung verloren hat oder überwiegende Gründe des öffentlichen Wohls vorliegen (Einziehung), oder unverzüglich dem Träger der Straßenbaulast zu überlassen, der sich nach Landesrecht bestimmt (Abstufung).
 
-(5) Die Absicht der Einziehung ist drei Monate vorher in den Gemeinden, die die Straße berührt, öffentlich bekannt zu machen, um Gelegenheit zu Einwendungen zu geben. Von der Bekanntmachung kann abgesehen werden, wenn die zur Einziehung vorgesehenen Teilstrecken in den in einem Planfeststellungsverfahren im Internet veröffentlichten oder ausgelegten Plänen als solche kenntlich gemacht worden sind oder Teilstrecken im Zusammenhang mit Änderungen von unwesentlicher Bedeutung (§ 74 Abs. 7 des Verwaltungsverfahrensgesetzes) eingezogen werden sollen. Die Abstufung soll nur zum Ende eines Rechnungsjahres ausgesprochen und drei Monate vorher angekündigt werden.
+(5) Die Absicht der Einziehung ist drei Monate vorher nach Maßgabe des § 27a des Verwaltungsverfahrensgesetzes öffentlich bekannt zu machen, um Gelegenheit zu Einwendungen zu geben. Von einer Bekanntmachung kann abgesehen werden, wenn die zur Einziehung vorgesehenen Teilstrecken in den in einem Planfeststellungs- oder Plangenehmigungsverfahren ausgelegten Plänen als solche kenntlich gemacht worden sind oder Teilstrecken im Zusammenhang mit Änderungen von unwesentlicher Bedeutung (§ 74b des Verwaltungsverfahrensgesetzes) eingezogen werden sollen. Die Abstufung soll nur zum Ende eines Rechnungsjahres ausgesprochen und drei Monate vorher angekündigt werden.
 
-(6) Über Widmung, Umstufung und Einziehung einer Bundesfernstraße entscheidet das Fernstraßen-Bundesamt, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht. Im Übrigen entscheidet die oberste Landesstraßenbaubehörde. Abstufungen in eine Straße nach Landesrecht können nur nach vorheriger Zustimmung der betroffenen obersten Landesstraßenbaubehörde erfolgen. Die Entscheidung kann auch in einem Planfeststellungsbeschluss nach § 17 mit der Maßgabe erfolgen, dass die Widmung mit der Verkehrsübergabe, die Umstufung mit der Ingebrauchnahme für den neuen Verkehrszweck und die Einziehung mit der Sperrung wirksam wird. Die oberste Landesstraßenbaubehörde hat vor einer Widmung oder Aufstufung das Einverständnis des Fernstraßen-Bundesamtes einzuholen. Die Entscheidung ist in einem vom Land zu bestimmenden Amtsblatt bekannt zu geben. Die Bekanntmachung nach Satz 6 ist entbehrlich, wenn die zur Widmung, Umstufung oder Einziehung vorgesehenen Straßen in den im Planfeststellungsverfahren im Internet veröffentlichten oder ausgelegten Plänen als solche kenntlich und die Entscheidung mit dem Planfeststellungsbeschluss bekannt gemacht worden ist.
+(6) Über Widmung, Umstufung und Einziehung einer Bundesfernstraße entscheidet das Fernstraßen-Bundesamt, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht. Im Übrigen entscheidet die oberste Landesstraßenbaubehörde. Abstufungen in eine Straße nach Landesrecht können nur nach vorheriger Zustimmung der betroffenen obersten Landesstraßenbaubehörde erfolgen. Die Entscheidung kann auch in einem Planfeststellungsbeschluss nach § 17 mit der Maßgabe erfolgen, dass die Widmung mit der Verkehrsübergabe, die Umstufung mit der Ingebrauchnahme für den neuen Verkehrszweck und die Einziehung mit der Sperrung wirksam wird. Die oberste Landesstraßenbaubehörde hat vor einer Widmung oder Aufstufung das Einverständnis des Fernstraßen-Bundesamtes einzuholen. Die Entscheidung ist nach Maßgabe des § 27a des Verwaltungsverfahrensgesetzes öffentlich bekannt zu geben. Die Bekanntmachung nach Satz 6 ist entbehrlich, wenn die zur Widmung, Umstufung oder Einziehung vorgesehenen Straßen in den im Planfeststellungsverfahren im Internet veröffentlichten oder ausgelegten Plänen als solche kenntlich und die Entscheidung mit dem Planfeststellungsbeschluss bekannt gemacht worden ist.
 
 (6a) Wird eine Bundesfernstraße verbreitert, begradigt, unerheblich verlegt oder ergänzt, so gilt der neue Straßenteil durch die Verkehrsübergabe als gewidmet, sofern die Voraussetzungen des Absatzes 2 vorliegen. Wird im Zusammenhang mit einer Maßnahme nach Satz 1 der Teil einer Bundesfernstraße dem Verkehr auf Dauer entzogen, so gilt dieser Straßenteil durch die Sperrung als eingezogen. In diesen Fällen bedarf es keiner Ankündigung (Absatz 5) und keiner öffentlichen Bekanntmachung (Absatz 6).
 
 (7) Mit der Einziehung entfallen Gemeingebrauch (§ 7) und widerrufliche Sondernutzungen (§ 8). Bei Umstufung gilt § 6 Abs. 1.
 
-##### § 3 Straßenbaulast
+###### § 3 Straßenbaulast
 
-(1) Die Straßenbaulast umfasst alle mit dem Bau und der Unterhaltung der Bundesfernstraßen zusammenhängenden Aufgaben. Die Träger der Straßenbaulast haben nach ihrer Leistungsfähigkeit die Bundesfernstraßen in einem dem regelmäßigen Verkehrsbedürfnis genügenden Zustand zu bauen, zu unterhalten, zu erweitern oder sonst zu verbessern; dabei sind die sonstigen öffentlichen Belange einschließlich des Umweltschutzes sowie sowie die Belange der Menschen mit Behinderungen und der Menschen mit Mobilitätsbeeinträchtigungen mit dem Ziel, möglichst weitreichende Barrierefreiheit zu erreichen, zu berücksichtigen. Betriebswege auf Brücken im Zuge von Bundesautobahnen und Betriebswege auf Brücken im Zuge von Bundesstraßen, die als Kraftfahrstraßen ausgewiesen sind, sind bedarfsabhängig durch den Träger der Straßenbaulast so zu bauen und zu unterhalten, dass auf ihnen auch öffentlicher Radverkehr abgewickelt werden kann.
+(1) Die Straßenbaulast umfasst alle mit dem Bau und der Unterhaltung der Bundesfernstraßen zusammenhängenden Aufgaben. Die Träger der Straßenbaulast haben nach ihrer Leistungsfähigkeit die Bundesfernstraßen in einem dem regelmäßigen Verkehrsbedürfnis genügenden Zustand zu bauen, zu unterhalten, zu erweitern oder sonst zu verbessern. Dabei sind die sonstigen öffentlichen Belange einschließlich des Umweltschutzes sowie die Belange der Menschen mit Behinderungen und der Menschen mit Mobilitätsbeeinträchtigungen mit dem Ziel, möglichst weitreichende Barrierefreiheit zu erreichen, zu berücksichtigen. Der Bau oder Ausbau einer Rastanlage, der Ersatz vorhandener Brückenbauwerke sowie die Unterhaltung vorhandener Tunnelbauwerke liegt im überragenden öffentlichen Interesse und dient der öffentlichen Sicherheit. Betriebswege auf Brücken im Zuge von Bundesautobahnen und Betriebswege auf Brücken im Zuge von Bundesstraßen, die als Kraftfahrstraßen ausgewiesen sind, sind bedarfsabhängig durch den Träger der Straßenbaulast so zu bauen und zu unterhalten, dass auf ihnen auch öffentlicher Radverkehr abgewickelt werden kann.
 
 (1a) Bei dem Bau oder der Änderung von Bundesautobahnen sind die Möglichkeiten der Erzeugung erneuerbarer Energien auf nutzbaren Flächen oder auf nutzbaren Anlagen auszuschöpfen; ausgenommen ist der Straßengrund. Dabei sind die Grundsätze der Wirtschaftlichkeit ebenso wie die technische Umsetzbarkeit zu beachten.
 
@@ -77,7 +81,7 @@ hinweis: "Änderung durch Art. 8 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, 
 
 (3) Die Träger der Straßenbaulast sollen nach besten Kräften über die ihnen nach Absatz 1 obliegenden Aufgaben hinaus die Bundesfernstraßen bei Schnee- und Eisglätte räumen und streuen. Landesrechtliche Vorschriften über die Pflichten Dritter zum Schneeräumen und Streuen sowie zur polizeimäßigen Reinigung bleiben unberührt.
 
-##### § 3a Duldungspflichten im Interesse der Unterhaltung
+###### § 3a Duldungspflichten im Interesse der Unterhaltung
 
 (1) Soweit es zur Unterhaltung einer Bundesfernstraße erforderlich ist, haben Dritte, insbesondere die Anlieger und die Hinterlieger, zu dulden, dass die Straßenbaubehörde oder von ihr Beauftragte die Grundstücke betreten oder vorübergehend benutzen. Die Arbeiten zur Unterhaltung müssen dem Dritten angekündigt werden.
 
@@ -85,11 +89,11 @@ hinweis: "Änderung durch Art. 8 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, 
 
 (3) Der Inhaber einer Sondernutzungserlaubnis hat, ohne Anspruch auf Entschädigung, zu dulden, dass die Ausübung seines Rechts durch Arbeiten zur Unterhaltung vorübergehend behindert oder unterbrochen wird. Auf die Interessen des Inhabers einer Sondernutzungserlaubnis ist Rücksicht zu nehmen.
 
-##### § 4 Sicherheitsvorschriften
+###### § 4 Sicherheitsvorschriften
 
-Die Träger der Straßenbaulast haben dafür einzustehen, dass ihre Bauten allen Anforderungen der Sicherheit und Ordnung genügen. Behördlicher Genehmigungen, Erlaubnisse und Abnahmen durch andere als die Straßenbaubehörden bedarf es nicht. Straßenbaubehörde im Sinne dieses Gesetzes ist auch das Fernstraßen-Bundesamt, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht. Für Baudenkmäler gilt Satz 2 nur, soweit ein Planfeststellungsverfahren durchgeführt worden ist.
+Die Träger der Straßenbaulast haben dafür einzustehen, dass ihre Bauten allen Anforderungen der Sicherheit und Ordnung genügen. Behördlicher Genehmigungen, Erlaubnisse und Abnahmen durch andere als die Straßenbaubehörden bedarf es nicht. Straßenbaubehörde im Sinne dieses Gesetzes ist auch das Fernstraßen-Bundesamt, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht.
 
-##### § 5 Träger der Straßenbaulast
+###### § 5 Träger der Straßenbaulast
 
 (1) Der Bund ist Träger der Straßenbaulast für die Bundesfernstraßen, soweit nicht die Baulast anderen nach gesetzlichen Vorschriften oder öffentlich-rechtlichen Verpflichtungen obliegt. Bürgerlich-rechtliche Verpflichtungen Dritter bleiben unberührt.
 
@@ -101,23 +105,23 @@ Die Träger der Straßenbaulast haben dafür einzustehen, dass ihre Bauten allen
 
 (3a) Führt die Ortsdurchfahrt über Straßen und Plätze, die erheblich breiter angelegt sind als die Bundesstraße, so ist von der Straßenbaubehörde im Einvernehmen mit der Gemeinde die seitliche Begrenzung der Ortsdurchfahrten besonders festzulegen. Kommt ein Einvernehmen nicht zustande, so entscheidet die oberste Landesstraßenbaubehörde.
 
-(4) Eine Ortsdurchfahrt ist der Teil einer Bundesstraße, der innerhalb der geschlossenen Ortslage liegt und auch der Erschließung der anliegenden Grundstücke oder der mehrfachen Verknüpfung des Ortsstraßennetzes dient. Geschlossene Ortslage ist der Teil des Gemeindebezirkes, der in geschlossener oder offener Bauweise zusammenhängend bebaut ist. Einzelne unbebaute Grundstücke, zur Bebauung ungeeignetes oder ihr entzogenes Gelände oder einseitige Bebauung unterbrechen den Zusammenhang nicht. Die oberste Landesstraßenbaubehörde setzt im Benehmen mit der höheren Verwaltungsbehörde nach Anhörung der Gemeinde die Ortsdurchfahrt fest und kann dabei mit Zustimmung des Bundesministeriums für Digitales und Verkehr und der Kommunalaufsichtsbehörde von der Regel der Sätze 1 und 2 abweichen. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass abweichend von Satz 4 an Stelle der höheren Verwaltungsbehörde eine andere Behörde zuständig ist. Sie können diese Ermächtigung auf oberste Landesbehörden übertragen.
+(4) Eine Ortsdurchfahrt ist der Teil einer Bundesstraße, der innerhalb der geschlossenen Ortslage liegt und auch der Erschließung der anliegenden Grundstücke oder der mehrfachen Verknüpfung des Ortsstraßennetzes dient. Geschlossene Ortslage ist der Teil des Gemeindebezirkes, der in geschlossener oder offener Bauweise zusammenhängend bebaut ist. Einzelne unbebaute Grundstücke, zur Bebauung ungeeignetes oder ihr entzogenes Gelände oder einseitige Bebauung unterbrechen den Zusammenhang nicht. Die oberste Landesstraßenbaubehörde setzt im Benehmen mit der höheren Verwaltungsbehörde nach Anhörung der Gemeinde die Ortsdurchfahrt fest und kann dabei mit Zustimmung des Bundesministeriums für Verkehr und der Kommunalaufsichtsbehörde von der Regel der Sätze 1 und 2 abweichen. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass abweichend von Satz 4 an Stelle der höheren Verwaltungsbehörde eine andere Behörde zuständig ist. Sie können diese Ermächtigung auf oberste Landesbehörden übertragen.
 
-##### § 5a Zuwendungen für fremde Träger der Straßenbaulast
+###### § 5a Zuwendungen für fremde Träger der Straßenbaulast
 
 Zum Bau oder Ausbau von Ortsdurchfahrten im Zuge von Bundesstraßen und zum Bau oder Ausbau von Gemeinde- und Kreisstraßen, die Zubringer zu Bundesfernstraßen in der Baulast des Bundes sind, kann der Bund Zuwendungen gewähren. Im Saarland werden die Straßen, für die das Land auf Grund des § 46 des Saarländischen Straßengesetzes an Stelle von Landkreisen Träger der Baulast ist, den Kreisstraßen gleichgestellt.
 
-##### § 5b Finanzhilfen für Radschnellwege in Straßenbaulast der Länder, Gemeinden und Gemeindeverbände
+###### § 5b Finanzhilfen für Radschnellwege in Straßenbaulast der Länder, Gemeinden und Gemeindeverbände
 
-(1) Zum Bau von Radschnellwegen in der Straßenbaulast der Länder, Gemeinden und Gemeindeverbände kann der Bund den Ländern insbesondere zur Förderung des wirtschaftlichen Wachstums bis zum Ablauf des Jahres 2030 Finanzhilfen gewähren. Die Finanzhilfen verringern sich beginnend mit dem Haushaltsjahr 2022 um 3 vom Hundert. Das Bundesministerium für Digitales und Verkehr überprüft jährlich die Verwendung der Mittel nach Satz 1.
+(1) Zum Bau von Radschnellwegen in der Straßenbaulast der Länder, Gemeinden und Gemeindeverbände kann der Bund den Ländern insbesondere zur Förderung des wirtschaftlichen Wachstums bis zum Ablauf des Jahres 2030 Finanzhilfen gewähren. Die Finanzhilfen verringern sich beginnend mit dem Haushaltsjahr 2022 um 3 vom Hundert. Das Bundesministerium für Verkehr überprüft jährlich die Verwendung der Mittel nach Satz 1.
 
 (2) Die Länder zahlen die Finanzhilfen zurück, wenn geförderte Maßnahmen nicht die Voraussetzungen des Absatzes 1 sowie der Verwaltungsvereinbarung im Sinne von Absatz 4 erfüllen. Nach Satz 1 zurückzuzahlende Mittel sind zu verzinsen. Werden Mittel zu früh angewiesen, so sind für die Zeit der Auszahlung bis zur zweckentsprechenden Verwendung Zinsen zu zahlen.
 
-(3) Bestehen tatsächliche Anhaltspunkte, die eine Rückforderung von Bundesmitteln möglich erscheinen lassen, haben das Bundesministerium für Digitales und Verkehr sowie der Bundesrechnungshof ein Recht auf einzelfallbezogene Informationsbeschaffung einschließlich örtlicher Erhebungsbefugnisse.
+(3) Bestehen tatsächliche Anhaltspunkte, die eine Rückforderung von Bundesmitteln möglich erscheinen lassen, haben das Bundesministerium für Verkehr sowie der Bundesrechnungshof ein Recht auf einzelfallbezogene Informationsbeschaffung einschließlich örtlicher Erhebungsbefugnisse.
 
 (4) Die Einzelheiten insbesondere der Verteilung der Mittel auf die Länder, des Eigenanteils der Länder, der Förderbereiche, der Förderquote des Bundes, der Bewirtschaftung der Mittel, der Prüfung der Mittelverwendung sowie des Verfahrens zur Durchführung dieser Vorschrift werden durch Verwaltungsvereinbarung geregelt. Die Inanspruchnahme der Finanzhilfen ist an das Inkrafttreten der Verwaltungsvereinbarung gebunden.
 
-##### § 6 Eigentum und andere Rechte
+###### § 6 Eigentum und andere Rechte
 
 (1) Wechselt der Träger der Straßenbaulast, so gehen mit der Straßenbaulast das Eigentum des bisherigen Trägers der Straßenbaulast an der Straße und an den zu ihr gehörigen Anlagen (§ 1 Abs. 4) und alle Rechte und Pflichten, die mit der Straße in Zusammenhang stehen, ohne Entschädigung auf den neuen Träger der Straßenbaulast über. Verbindlichkeiten, die zur Durchführung früherer Bau- und Unterhaltungsmaßnahmen eingegangen sind, sind vom Übergang ausgeschlossen.
 
@@ -131,7 +135,9 @@ Zum Bau oder Ausbau von Ortsdurchfahrten im Zuge von Bundesstraßen und zum Bau 
 
 (4) Das Eigentum des Bundes an Bundesstraßen ist einzutragen für die „Bundesrepublik Deutschland (Bundesstraßenverwaltung)“. Das Eigentum des Bundes an Bundesautobahnen und Bundesstraßen in Bundesverwaltung ist einzutragen für die „Bundesrepublik Deutschland (Bundesautobahnverwaltung)“.
 
-##### § 7 Gemeingebrauch
+(5) Die Kosten der Vermessung und Abmarkung eines Grundstücks, dessen Eigentum nach Absatz 1 oder nach Absatz 1b Satz 1 oder Satz 2 übergeht, trägt der neue Träger der Straßenbaulast.
+
+###### § 7 Gemeingebrauch
 
 (1) Der Gebrauch der Bundesfernstraßen ist jedermann im Rahmen der Widmung und der verkehrsbehördlichen Vorschriften zum Verkehr gestattet (Gemeingebrauch). Hierbei hat der fließende Verkehr den Vorrang vor dem ruhenden Verkehr. Kein Gemeingebrauch liegt vor, wenn jemand die Straße nicht vorwiegend zum Verkehr, sondern zu anderen Zwecken benutzt. Die Erhebung von Gebühren für den Gemeingebrauch bedarf einer besonderen gesetzlichen Regelung.
 
@@ -141,11 +147,11 @@ Zum Bau oder Ausbau von Ortsdurchfahrten im Zuge von Bundesstraßen und zum Bau 
 
 (3) Wer eine Bundesfernstraße aus Anlass des Gemeingebrauchs über das übliche Maß hinaus verunreinigt, hat die Verunreinigung ohne Aufforderung unverzüglich zu beseitigen; andernfalls kann die Straßenbaubehörde oder auf Bundesautobahnen durch die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes die Verunreinigung auf seine Kosten beseitigen.
 
-##### § 7a Vergütung von Mehrkosten
+###### § 7a Vergütung von Mehrkosten
 
 Wenn eine Bundesfernstraße wegen der Art des Gebrauchs durch einen anderen aufwändiger hergestellt oder ausgebaut werden muss, als es dem regelmäßigen Verkehrsbedürfnis entspricht, hat der andere dem Träger der Straßenbaulast die Mehrkosten für den Bau und die Unterhaltung zu vergüten. Das gilt nicht für Haltestellenbuchten für den Linienverkehr. Der Träger der Straßenbaulast kann angemessene Vorschüsse oder Sicherheiten verlangen.
 
-##### § 8 Sondernutzungen; Verordnungsermächtigung
+###### § 8 Sondernutzungen; Verordnungsermächtigung
 
 (1) Die Benutzung der Bundesfernstraßen über den Gemeingebrauch hinaus ist Sondernutzung. Sie bedarf der Erlaubnis der Straßenbaubehörde, auf Bundesautobahnen der Erlaubnis der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes, in Ortsdurchfahrten der Erlaubnis der Gemeinde. Soweit die Gemeinde nicht Träger der Straßenbaulast ist, darf sie die Erlaubnis nur mit Zustimmung der Straßenbaubehörde erteilen. Die Gemeinde kann durch Satzung bestimmte Sondernutzungen in den Ortsdurchfahrten von der Erlaubnis befreien und die Ausübung regeln. Soweit die Gemeinde nicht Träger der Straßenbaulast ist, bedarf die Satzung der Zustimmung der obersten Landesstraßenbaubehörde. Eine Erlaubnis soll nicht erteilt werden, wenn behinderte Menschen durch die Sondernutzung in der Ausübung des Gemeingebrauchs erheblich beeinträchtigt würden.
 
@@ -153,7 +159,7 @@ Wenn eine Bundesfernstraße wegen der Art des Gebrauchs durch einen anderen aufw
 
 (2a) Der Erlaubnisnehmer hat Anlagen so zu errichten und zu unterhalten, dass sie den Anforderungen der Sicherheit und Ordnung sowie den anerkannten Regeln der Technik genügen. Arbeiten an der Straße bedürfen der Zustimmung der Straßenbaubehörde oder auf Bundesautobahnen der Zustimmung der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes. Der Erlaubnisnehmer hat auf Verlangen der für die Erlaubnis zuständigen Behörde oder auf Bundesautobahnen der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes die Anlagen auf seine Kosten zu ändern und alle Kosten zu ersetzen, die dem Träger der Straßenbaulast durch die Sondernutzung entstehen. Hierfür kann der Träger der Straßenbaulast angemessene Vorschüsse und Sicherheiten verlangen.
 
-(3) Für Sondernutzungen können Sondernutzungsgebühren erhoben werden. Sie stehen in Ortsdurchfahrten den Gemeinden, im Übrigen dem Träger der Straßenbaulast zu. Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für Sondernutzungen der Bundesfernstraßen eine Gebührenordnung zu erlassen, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht. Im Übrigen werden die Landesregierungen ermächtigt, durch Rechtsverordnung Gebührenordnungen für die Sondernutzungen zu erlassen. Die Ermächtigung des Satzes 3 kann durch Rechtsverordnung des Bundesministeriums für Digitales und Verkehr ohne Zustimmung des Bundesrates auf das Fernstraßen-Bundesamt übertragen werden. Die Ermächtigung des Satzes 4 kann durch Rechtsverordnung der zuständigen Landesregierung auf die oberste Landesstraßenbaubehörde übertragen werden. Die Gemeinden können die Gebühren durch Satzung regeln, soweit ihnen die Sondernutzungsgebühren zustehen. Bei Bemessung der Gebühren sind Art und Ausmaß der Einwirkung auf die Straße und den Gemeingebrauch sowie das wirtschaftliche Interesse des Gebührenschuldners zu berücksichtigen.
+(3) Für Sondernutzungen können Sondernutzungsgebühren erhoben werden. Sie stehen in Ortsdurchfahrten den Gemeinden, im Übrigen dem Träger der Straßenbaulast zu. Das Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für Sondernutzungen der Bundesfernstraßen eine Gebührenordnung zu erlassen, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht. Im Übrigen werden die Landesregierungen ermächtigt, durch Rechtsverordnung Gebührenordnungen für die Sondernutzungen zu erlassen. Die Ermächtigung des Satzes 3 kann durch Rechtsverordnung des Bundesministerium für Verkehr ohne Zustimmung des Bundesrates auf das Fernstraßen-Bundesamt übertragen werden. Die Ermächtigung des Satzes 4 kann durch Rechtsverordnung der zuständigen Landesregierung auf die oberste Landesstraßenbaubehörde übertragen werden. Die Gemeinden können die Gebühren durch Satzung regeln, soweit ihnen die Sondernutzungsgebühren zustehen. Bei Bemessung der Gebühren sind Art und Ausmaß der Einwirkung auf die Straße und den Gemeingebrauch sowie das wirtschaftliche Interesse des Gebührenschuldners zu berücksichtigen.
 
 (4) (weggefallen)
 
@@ -175,7 +181,7 @@ Wenn eine Bundesfernstraße wegen der Art des Gebrauchs durch einen anderen aufw
 
 (11) Das Carsharing-Gesetz bleibt unberührt.
 
-##### § 8a Straßenanlieger
+###### § 8a Straßenanlieger
 
 (1) Zufahrten und Zugänge zu Bundesstraßen außerhalb der zur Erschließung der anliegenden Grundstücke bestimmten Teile der Ortsdurchfahrten gelten als Sondernutzung im Sinne des § 8, wenn sie neu angelegt oder geändert werden. Eine Änderung liegt auch vor, wenn eine Zufahrt oder ein Zugang gegenüber dem bisherigen Zustand einem erheblich größeren oder einem andersartigen Verkehr als bisher dienen soll. Den Zufahrten oder Zugängen stehen die Anschlüsse nicht öffentlicher Wege gleich.
 
@@ -197,7 +203,7 @@ Wenn eine Bundesfernstraße wegen der Art des Gebrauchs durch einen anderen aufw
 
 (8) Hat der Entschädigungsberechtigte die Entstehung eines Vermögensnachteils mitverursacht, so gilt § 254 des Bürgerlichen Gesetzbuchs entsprechend.
 
-##### § 9 Bauliche Anlagen an Bundesfernstraßen
+###### § 9 Bauliche Anlagen an Bundesfernstraßen
 
 (1) Längs der Bundesfernstraßen dürfen nicht errichtet werden
 
@@ -243,13 +249,13 @@ Die Zustimmungsbedürftigkeit nach Satz 1 gilt entsprechend für bauliche Anlage
 
 (10) Im Fall des Absatzes 4 entsteht der Anspruch nach Absatz 9 erst, wenn der Plan rechtskräftig festgestellt oder genehmigt oder mit der Ausführung begonnen worden ist, spätestens jedoch nach Ablauf von vier Jahren, nachdem die Beschränkungen der Absätze 1 und 2 in Kraft getreten sind.
 
-##### § 9a Veränderungssperre, Vorkaufsrecht
+###### § 9a Veränderungssperre, Vorkaufsrecht
 
-(1) Vom Beginn der Veröffentlichung der Pläne im Internet oder ihrer Auslegung im Rahmen des Planfeststellungsverfahrens oder von dem Zeitpunkt an, zu dem den Betroffenen Gelegenheit gegeben wird, den Plan einzusehen oder er ihnen zugänglich gemacht wird, dürfen auf den vom Plan betroffenen Flächen bis zu ihrer Übernahme durch den Träger der Straßenbaulast wesentlich wertsteigernde oder den geplanten Straßenbau erheblich erschwerende Veränderungen nicht vorgenommen werden. Veränderungen, die in rechtlich zulässiger Weise vorher begonnen worden sind, Unterhaltungsarbeiten und die Fortführung einer bisher ausgeübten Nutzung werden hiervon nicht berührt.
+(1) Mit Beginn der Auslegung der Pläne im Internet im Rahmen des Planfeststellungs- oder Plangenehmigungsverfahrens oder von dem Zeitpunkt an, zu dem den Betroffenen Gelegenheit gegeben wird, den Plan einzusehen oder er ihnen zugänglich gemacht wird, dürfen auf den vom Plan betroffenen Flächen bis zu einer Übernahme durch den Träger der Straßenbaulast wesentlich wertsteigernde oder den geplanten Straßenbau erheblich erschwerende Veränderungen nicht vorgenommen werden. Veränderungen, die in rechtlich zulässiger Weise vorher begonnen worden sind, Unterhaltungsarbeiten und die Fortführung einer bisher ausgeübten Nutzung werden hiervon nicht berührt.
 
 (2) Dauert die Veränderungssperre länger als vier Jahre, so können die Eigentümer für die dadurch entstandenen Vermögensnachteile vom Träger der Straßenbaulast eine angemessene Entschädigung in Geld verlangen. Sie können ferner die Übernahme der vom Plan betroffenen Flächen verlangen, wenn es ihnen mit Rücksicht auf die Veränderungssperre wirtschaftlich nicht zuzumuten ist, die Grundstücke in der bisherigen oder einer anderen zulässigen Art zu benutzen. Kommt keine Einigung über die Übernahme zustande, so können die Eigentümer die Entziehung des Eigentums an den Flächen verlangen. Im Übrigen gilt § 19 (Enteignung).
 
-(3) Um die Planung der Bundesfernstraßen zu sichern, können die Landesregierungen und kann an Stelle der Landesregierungen zur Sicherung der Planung von Bundesfernstraßen in Bundesverwaltung das Bundesministerium für Digitales und Verkehr, sofern das Fernstraßen-Bundesamt nach § 2 Absatz 1 Satz 1 Nummer 4 und Absatz 2 des Fernstraßen-Bundesamt-Errichtungsgesetzes zuständige Planfeststellungsbehörde ist, durch Rechtsverordnung für die Dauer von höchstens zwei Jahren Planungsgebiete festlegen. Die Gemeinden und Kreise, deren Bereich durch die festzulegenden Planungsgebiete betroffen wird, sind vorher zu hören. Die Ermächtigung kann durch Rechtsverordnung weiter übertragen werden. Die Rechtsverordnung des Bundesministeriums für Digitales und Verkehr auf Grund von Satz 1 bedarf nicht der Zustimmung des Bundesrates. Das Bundesministerium für Digitales und Verkehr kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf das Fernstraßen-Bundesamt übertragen. Auf die Planungsgebiete ist Absatz 1 sinngemäß anzuwenden. Die Frist kann, wenn besondere Umstände es erfordern, durch Rechtsverordnung auf höchstens vier Jahre verlängert werden. Die Festlegung tritt mit Beginn der Veröffentlichung der Pläne im Internet oder ihrer Auslegung im Rahmen des Planfeststellungsverfahrens außer Kraft. Ihre Dauer ist auf die Vierjahresfrist nach Absatz 2 anzurechnen.
+(3) Um die Planung der Bundesfernstraßen zu sichern, können die Landesregierungen und kann an Stelle der Landesregierungen zur Sicherung der Planung von Bundesfernstraßen in Bundesverwaltung das Bundesministerium für Verkehr, sofern das Fernstraßen-Bundesamt nach § 2 Absatz 1 Satz 1 Nummer 4 und Absatz 2 des Fernstraßen-Bundesamt-Errichtungsgesetzes zuständige Planfeststellungsbehörde ist, durch Rechtsverordnung für die Dauer von höchstens zwei Jahren Planungsgebiete festlegen. Die Gemeinden und Kreise, deren Bereich durch die festzulegenden Planungsgebiete betroffen wird, sind vorher zu hören. Die Ermächtigung kann durch Rechtsverordnung weiter übertragen werden. Die Rechtsverordnung des Bundesministeriums für Verkehr auf Grund von Satz 1 bedarf nicht der Zustimmung des Bundesrates. Das Bundesministerium für Verkehr kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf das Fernstraßen-Bundesamt übertragen. Auf die Planungsgebiete ist Absatz 1 sinngemäß anzuwenden. Die Frist kann, wenn besondere Umstände es erfordern, durch Rechtsverordnung auf höchstens vier Jahre verlängert werden. Die Festlegung tritt mit Beginn der Veröffentlichung der Pläne im Internet oder ihrer Auslegung im Rahmen des Planfeststellungsverfahrens außer Kraft. Ihre Dauer ist auf die Vierjahresfrist nach Absatz 2 anzurechnen.
 
 (4) Auf die Festlegung eines Planungsgebietes ist in Gemeinden, deren Bereich betroffen wird, hinzuweisen. Planungsgebiete sind außerdem in Karten kenntlich zu machen, die in den Gemeinden während der Geltungsdauer der Festlegung zur Einsicht auszulegen sind.
 
@@ -257,13 +263,13 @@ Die Zustimmungsbedürftigkeit nach Satz 1 gilt entsprechend für bauliche Anlage
 
 (6) In den Fällen des Absatzes 1 Satz 1 steht dem Träger der Straßenbaulast an den betroffenen Flächen ein Vorkaufsrecht zu.
 
-##### § 10 Schutzwaldungen
+###### § 10 Schutzwaldungen
 
 (1) Waldungen und Gehölze längs der Bundesstraße können von der nach Landesrecht zuständigen Straßenbaubehörde im Einvernehmen mit der nach Landesrecht für Schutzwaldungen zuständigen Behörde in einer Breite von 40 Metern, gemessen vom äußeren Rand der befestigten Fahrbahn, zu Schutzwaldungen erklärt werden. Im Fall einer Bundesautobahn oder einer Bundesfernstraße, soweit dem Bund die Verwaltung der Bundesfernstraße zusteht, kann die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes Waldungen und Gehölze längs solcher Straßen im Benehmen mit der nach Landesrecht für Schutzwaldungen zuständigen Behörde in einer Breite von 40 Metern, gemessen vom äußeren Rand der befestigten Fahrbahn, zu Schutzwaldungen erklären.
 
 (2) Die Schutzwaldungen sind vom Eigentümer oder Nutznießer zu erhalten und ordnungsgemäß zu unterhalten. Die Aufsicht hierüber obliegt der nach Landesrecht für Schutzwaldungen zuständigen Behörde.
 
-##### § 11 Schutzmaßnahmen
+###### § 11 Schutzmaßnahmen
 
 (1) Zum Schutze der Bundesfernstraßen vor nachteiligen Einwirkungen der Natur (z. B. Schneeverwehungen, Steinschlag, Vermurungen) haben die Eigentümer von Grundstücken an den Bundesfernstraßen die Anlage vorübergehender Einrichtungen zu dulden.
 
@@ -275,7 +281,7 @@ Die Zustimmungsbedürftigkeit nach Satz 1 gilt entsprechend für bauliche Anlage
 
 (5) Der Träger der Straßenbaulast hat den Eigentümern oder Besitzern die hierdurch verursachten Aufwendungen und Schäden in Geld zu ersetzen.
 
-##### § 12 Kreuzungen und Einmündungen öffentlicher Straßen
+###### § 12 Kreuzungen und Einmündungen öffentlicher Straßen
 
 (1) Beim Bau einer neuen Kreuzung mehrerer öffentlicher Straßen hat der Träger der Straßenbaulast der neu hinzugekommenen Straße die Kosten der Kreuzung zu tragen. Zu ihnen gehören auch die Kosten der Änderungen, die durch die neue Kreuzung an den anderen öffentlichen Straßen unter Berücksichtigung der übersehbaren Verkehrsentwicklung notwendig sind. Die Änderung einer bestehenden Kreuzung ist als neue Kreuzung zu behandeln, wenn ein öffentlicher Weg, der nach der Beschaffenheit seiner Fahrbahn nicht geeignet und nicht dazu bestimmt war, einen allgemeinen Kraftfahrzeugverkehr aufzunehmen, zu einer diesem Verkehr dienenden Straße ausgebaut wird.
 
@@ -297,7 +303,7 @@ Bei Kreuzungen mit einer kommunalen Straße sind die Vorteile, die dem Träger d
 
 (6) Diese Vorschriften gelten auch für Einmündungen. Münden mehrere Straßen an einer Stelle in eine andere Straße ein, so gelten diese Einmündungen als Kreuzung aller beteiligten Straßen.
 
-##### § 12a Kreuzungen mit Gewässern
+###### § 12a Kreuzungen mit Gewässern
 
 (1) Werden Bundesfernstraßen neu angelegt oder ausgebaut und müssen dazu Kreuzungen mit Gewässern (Brücken oder Unterführungen) hergestellt oder bestehende Kreuzungen geändert werden, so hat der Träger der Straßenbaulast die dadurch entstehenden Kosten zu tragen. Die Kreuzungsanlagen sind so auszuführen, dass unter Berücksichtigung der übersehbaren Entwicklung der wasserwirtschaftlichen Verhältnisse der Wasserabfluss nicht nachteilig beeinflusst wird.
 
@@ -309,7 +315,7 @@ Bei Kreuzungen mit einer kommunalen Straße sind die Vorteile, die dem Träger d
 
 (5) § 41 des Bundeswasserstraßengesetzes bleibt unberührt.
 
-##### § 13 Unterhaltung der Straßenkreuzungen
+###### § 13 Unterhaltung der Straßenkreuzungen
 
 (1) Bei höhengleichen Kreuzungen hat der Träger der Straßenbaulast der Bundesfernstraße die Kreuzungsanlage zu unterhalten.
 
@@ -327,7 +333,7 @@ Bei Kreuzungen mit einer kommunalen Straße sind die Vorteile, die dem Träger d
 
 (8) § 12 Abs. 6 gilt entsprechend.
 
-##### § 13a Unterhaltung der Kreuzungen mit Gewässern
+###### § 13a Unterhaltung der Kreuzungen mit Gewässern
 
 (1) Der Träger der Straßenbaulast hat die Kreuzungsanlagen von Bundesfernstraßen und Gewässern auf seine Kosten zu unterhalten, soweit nichts anderes vereinbart oder durch Planfeststellung bestimmt wird. Die Unterhaltungspflicht des Trägers der Straßenbaulast erstreckt sich nicht auf Leitwerke, Leitpfähle, Dalben, Absetzpfähle oder ähnliche Einrichtungen zur Sicherung der Durchfahrt unter Brücken im Zuge von Bundesfernstraßen für die Schifffahrt sowie auf Schifffahrtszeichen. Soweit diese Einrichtungen auf Kosten des Trägers der Straßenbaulast herzustellen waren, hat dieser dem Unterhaltungspflichtigen die Unterhaltungskosten und die Kosten des Betriebs dieser Einrichtungen zu ersetzen oder abzulösen.
 
@@ -337,9 +343,9 @@ Bei Kreuzungen mit einer kommunalen Straße sind die Vorteile, die dem Träger d
 
 (4) Die §§ 42 und 43 des Bundeswasserstraßengesetzes bleiben unberührt.
 
-##### § 13b Ermächtigung zu Rechtsverordnungen
+###### § 13b Ermächtigung zu Rechtsverordnungen
 
-Das Bundesministerium für Digitales und Verkehr kann mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
+Das Bundesministerium für Verkehr kann mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 
 1. der Umfang der Kosten nach den §§ 12 und 12a näher bestimmt wird;
 
@@ -347,7 +353,7 @@ Das Bundesministerium für Digitales und Verkehr kann mit Zustimmung des Bundesr
 
 3. die Berechnung und die Zahlung von Ablösungsbeträgen nach § 13 Abs. 3 und nach § 13a Abs. 2 näher bestimmt sowie dazu ein Verfahren zur gütlichen Beilegung von Streitigkeiten festgelegt werden.
 
-##### § 14 Umleitungen
+###### § 14 Umleitungen
 
 (1) Bei Sperrung von Bundesfernstraßen wegen vorübergehender Behinderung sind die Träger der Straßenbaulast anderer öffentlicher Straßen verpflichtet, die Umleitung des Verkehrs auf ihren Straßen zu dulden.
 
@@ -369,33 +375,35 @@ Das Bundesministerium für Digitales und Verkehr kann mit Zustimmung des Bundesr
 
 Ein Anspruch besteht nicht, wenn die Lärmerhöhung insbesondere wegen der besonderen Art der Nutzung der baulichen Anlage zumutbar ist oder zugunsten des Betroffenen innerhalb eines angemessenen Zeitraums nach der Sperrung sonstige Lärmschutzmaßnahmen an der Umleitungsstrecke umgesetzt werden. Wird die zu schützende Nutzung nur am Tage oder nur in der Nacht ausgeübt, so ist nur der Immissionsgrenzwert für den jeweiligen Zeitraum anzuwenden. Sofern nicht abweichend geregelt, muss der Beurteilungspegel nach Satz 1 Nummer 2 durch den Träger der Straßenbaulast für die Bundesfernstraße in der Baulast des Bundes nach den Vorgaben der nach § 43 Absatz 1 Satz 1 Nummer 1 des Bundes-Immissionsschutzgesetzes erlassenen Verordnung berechnet werden. Die Berechnung kann auf repräsentative Immissionsorte entlang der betroffenen Umleitungsstrecke begrenzt werden. Notwendig sind erbrachte Aufwendungen, soweit durch sie die Vorgaben zum Umfang von Schallschutzmaßnahmen in der nach § 43 Absatz 1 Satz 1 Nummer 3 des Bundes-Immissionsschutzgesetzes erlassenen Verordnung eingehalten werden; nicht notwendige Aufwendungen sind bauliche Verbesserungen an Wänden und Dächern sowie an Decken unter nicht ausgebauten Dachräumen. Im Einzelfall kann das erforderliche Schalldämmmaß ohne Berechnung der einzelnen Umfassungsbauteile anhand eines repräsentativen Gebäudes an der Umleitungsstrecke festgelegt werden.
 
-##### § 15 Nebenbetriebe an den Bundesautobahnen
+###### § 15 Nebenbetriebe an den Bundesautobahnen
 
 (1) Betriebe an den Bundesautobahnen, die den Belangen der Verkehrsteilnehmer der Bundesautobahnen dienen (z. B. Tankstellen, bewachte Parkplätze, Werkstätten, Verlade- und Umschlagsanlagen, Raststätten) und eine unmittelbare Zufahrt zu den Bundesautobahnen haben, sind Nebenbetriebe.
 
 (2) Der Bau von Nebenbetrieben kann auf Dritte übertragen werden. Der Betrieb von Nebenbetrieben ist auf Dritte zu übertragen, soweit nicht öffentliche Interessen oder besondere betriebliche Gründe entgegenstehen. Die Übertragung von Bau und Betrieb kann unter Auflagen und Bedingungen sowie befristet erfolgen; der Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage (§ 36 des Verwaltungsverfahrensgesetzes) ist ausgeschlossen. Die Übertragung erfolgt unter Voraussetzungen, die für jeden Dritten gleichwertig sind. Dies gilt besonders für Betriebszeiten, das Vorhalten von betrieblichen Einrichtungen sowie Auflagen für die Betriebsführung. Hoheitliche Befugnisse gehen nicht über; die §§ 4, 17 und 18f bis 19a finden Anwendung.
 
-(3) Für das Recht, einen Nebenbetrieb an der Bundesautobahn zu betreiben, hat der Konzessionsinhaber eine umsatz- oder absatzabhängige Konzessionsabgabe an den Bund zu entrichten. Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Finanzen ohne Zustimmung des Bundesrates die Höhe der Konzessionsabgabe festzusetzen und die Voraussetzungen sowie das Verfahren zur Erhebung der Konzessionsabgabe zu regeln. Die Höhe der Konzessionsabgabe hat sich an dem Wert des wirtschaftlichen Vorteils auszurichten, der dem Konzessionsinhaber durch das Recht zuwächst, einen Nebenbetrieb an der Bundesautobahn zu betreiben; sie darf höchstens 1,53 Euro pro einhundert Liter abgegebenen Kraftstoffs und höchstens 3 vom Hundert von anderen Umsätzen betragen. Die Konzessionsabgabe ist an das Bundesamt für Logistik und Mobilität zu entrichten.
+(3) Für das Recht, einen Nebenbetrieb an der Bundesautobahn zu betreiben, hat der Konzessionsinhaber eine umsatz- oder absatzabhängige Konzessionsabgabe an den Bund zu entrichten. Das Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Finanzen ohne Zustimmung des Bundesrates die Höhe der Konzessionsabgabe festzusetzen und die Voraussetzungen sowie das Verfahren zur Erhebung der Konzessionsabgabe zu regeln. Die Höhe der Konzessionsabgabe hat sich an dem Wert des wirtschaftlichen Vorteils auszurichten, der dem Konzessionsinhaber durch das Recht zuwächst, einen Nebenbetrieb an der Bundesautobahn zu betreiben; sie darf höchstens 1,53 Euro pro einhundert Liter abgegebenen Kraftstoffs und höchstens 3 vom Hundert von anderen Umsätzen betragen. Die Konzessionsabgabe ist an das Bundesamt für Logistik und Mobilität zu entrichten.
 
 (4) Vorschriften über Sperrzeiten gelten nicht für Nebenbetriebe. Alkoholhaltige Getränke dürfen in der Zeit von 0.00 Uhr bis 7.00 Uhr weder ausgeschenkt noch verkauft werden.
 
-##### § 16 Planungen
+###### § 16 Planungen
 
-(1) Das Fernstraßen-Bundesamt bestimmt im Benehmen mit den Landesplanungsbehörden der beteiligten Länder die Planung und Linienführung der Bundesfernstraßen. Dies gilt nicht für den Neubau von Ortsumgehungen. Eine Ortsumgehung ist der Teil einer Bundesstraße, der der Beseitigung einer Ortsdurchfahrt dient.
+(1) Das Fernstraßen-Bundesamt bestätigt innerhalb einer Frist von drei Monaten den Vorschlag des Trägers des Vorhabens für die Planung und Linienführung einer Bundesfernstraße (Linienbestätigung). Dies gilt nicht für den Neubau von Ortsumgehungen. Eine Ortsumgehung ist der Teil einer Bundesstraße, der der Beseitigung einer Ortsdurchfahrt dient. Für die Linienbestätigung bedarf es keines förmlichen Verwaltungsverfahrens, insbesondere keiner Umweltverträglichkeitsprüfung.
 
-(2) Bei der Bestimmung der Linienführung sind die von dem Vorhaben berührten öffentlichen Belange einschließlich der Umweltverträglichkeit und des Ergebnisses der Raumverträglichkeitsprüfung im Rahmen der Abwägung zu berücksichtigen. Die Bestimmung der Linienführung ist innerhalb einer Frist von drei Monaten abzuschließen.
+(2) Der Träger des Vorhabens berücksichtigt bei seinem Vorschlag die von der Planung berührten öffentlichen Belange, einschließlich der Umweltauswirkungen und der Raumverträglichkeit.
 
 (3) Wenn Ortsplanungen oder Landesplanungen die Änderung bestehender oder die Schaffung neuer Bundesfernstraßen zur Folge haben können, ist die zuständige Straßenbaubehörde des Landes oder das Fernstraßen-Bundesamt, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht, zu beteiligen. Sie haben die Belange der Bundesfernstraßen in dem Verfahren zu vertreten. Bundesplanungen haben grundsätzlich Vorrang vor Orts- und Landesplanungen.
 
-##### § 16a Vorarbeiten
+###### § 16a Vorarbeiten
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zur Vorbereitung der Planung und der Baudurchführung notwendige Kampfmittelräumungen, archäologische Untersuchungen und Bergungen sowie Vermessungen, Boden- und Grundwasseruntersuchungen einschließlich der vorübergehenden Anbringung von Markierungszeichen und sonstigen Vorarbeiten durch die Straßenbaubehörde oder die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes im Rahmen ihrer jeweiligen Zuständigkeiten oder von den zuständigen Behörden Beauftragte zu dulden. Wohnungen dürfen nur mit Zustimmung des Wohnungsinhabers betreten werden. Satz 2 gilt nicht für Arbeits-, Betriebs- oder Geschäftsräume während der jeweiligen Arbeits-, Geschäfts- oder Aufenthaltszeiten.
 
-(2) Die Absicht, solche Arbeiten auszuführen, ist dem Eigentümer oder sonstigen Nutzungsberechtigten mindestens zwei Wochen vorher unmittelbar oder durch ortsübliche Bekanntmachung in den Gemeinden, in deren Bereich die Vorarbeiten durchzuführen sind, bekannt zu geben.
+(2) Die Absicht, Vorarbeiten im Sinne des Absatzes 1 Satz 1 auszuführen, ist dem Eigentümer oder sonstigen Nutzungsberechtigten mindestens zwei Wochen vorher durch die Straßenbaubehörde oder die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes im Rahmen ihrer jeweiligen Zuständigkeiten unmittelbar bekannt zu geben oder nach Maßgabe des § 27a des Verwaltungsverfahrensgesetzes öffentlich bekannt zu machen.
 
 (3) Entstehen durch eine Maßnahme nach Absatz 1 einem Eigentümer oder sonstigen Nutzungsberechtigten unmittelbare Vermögensnachteile, so hat der Träger der Straßenbaulast eine angemessene Entschädigung in Geld zu leisten. Kommt eine Einigung über die Geldentschädigung nicht zustande, so setzt die nach Landesrecht zuständige Behörde auf Antrag der Straßenbaubehörde, der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes oder des Berechtigten die Entschädigung fest. Vor der Entscheidung sind die Beteiligten zu hören.
 
-##### § 17 Erfordernis der Planfeststellung und vorläufige Anordnung
+(4) Rechtsbehelfe gegen eine Duldungsverfügung einschließlich damit verbundener Vollstreckungsmaßnahmen haben keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt. Der Antrag auf Anordnung der aufschiebenden Wirkung der Anfechtungsklage nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Zustellung oder Bekanntgabe der Duldungsanordnung gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der Verwaltungsgerichtsordnung gilt entsprechend.
+
+###### § 17 Erfordernis der Planfeststellung und vorläufige Anordnung
 
 (1) Bundesfernstraßen dürfen nur gebaut oder geändert werden, wenn der Plan vorher festgestellt ist. Eine Änderung liegt vor, wenn eine Bundesfernstraße
 
@@ -407,81 +415,55 @@ Eine Änderung im Sinne des Satzes 2 liegt insbesondere nicht vor, wenn die Änd
 
 1. im Zuge des Wiederaufbaus nach einer Naturkatastrophe erforderlich ist, um die Bundesfernstraße vor Naturereignissen zu schützen, und in einem räumlich begrenzten Korridor entlang des Trassenverlaufs erfolgt oder
 
-2. unselbständiger Teil einer Ausbaumaßnahme ist, eine durchgehende Länge von höchstens 1 500 Metern hat und deren vorgezogene Durchführung zur unterhaltungsbedingten Erneuerung eines Brückenbauwerks erforderlich ist.
+2. unselbständiger Teil einer Ausbaumaßnahme ist, deren vorgezogene Durchführung zur unterhaltungsbedingten Erneuerung eines Brückenbauwerks erforderlich ist.
 
 Als unselbständiger Teil einer Ausbaumaßnahme im Sinne des Satzes 3 Nummer 2 gilt eine Änderung der Bundesfernstraße, die im Vorgriff auf den Ausbau einer Strecke durchgeführt werden soll, und keine unmittelbare verkehrliche Kapazitätserweiterung bewirkt. Der Träger des Vorhabens kann die Feststellung des Plans nach Absatz 1 Satz 1 beantragen. Bei der Planfeststellung sind die von dem Vorhaben berührten öffentlichen und privaten Belange einschließlich der Umweltverträglichkeit im Rahmen der Abwägung zu berücksichtigen. Für das Planfeststellungsverfahren gelten die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes. Die Maßgaben gelten entsprechend, soweit das Verfahren landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist.
 
-(2) Ist das Planfeststellungsverfahren eingeleitet, kann die Planfeststellungsbehörde nach Anhörung der betroffenen Gemeinde eine vorläufige Anordnung erlassen, in der vorbereitende Maßnahmen oder Teilmaßnahmen zum Bau oder zur Änderung festgesetzt werden,
+(2) Ist das Planfeststellungs- oder das Plangenehmigungsverfahren eingeleitet, kann die Planfeststellungsbehörde nach Anhörung der betroffenen Gemeinde eine vorläufige Anordnung erlassen, in der vorbereitende Maßnahmen oder Teilmaßnahmen zum Bau oder zur Änderung festgesetzt werden, wenn
 
-1. soweit es sich um reversible Maßnahmen handelt,
+1. an dem vorzeitigen Beginn ein öffentliches Interesse besteht und
 
-2. wenn an dem vorzeitigen Beginn ein öffentliches Interesse besteht,
+2. die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes zu berücksichtigenden Interessen gewahrt werden.
 
-3. wenn mit einer Entscheidung zugunsten des Trägers des Vorhabens gerechnet werden kann und
+In der vorläufigen Anordnung sind die Auflagen zur Sicherung dieser Interessen und der Umfang der vorläufig zulässigen Maßnahmen festzulegen. Die vorläufige Anordnung ersetzt nicht die Planfeststellung oder Plangenehmigung. § 16a bleibt unberührt.
 
-4. wenn die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes zu berücksichtigenden Interessen gewahrt werden.
+(3) Die vorläufige Anordnung ist den betroffenen Gemeinden sowie den Beteiligten zuzustellen oder ihr Inhalt ist nach Maßgabe von § 27a des Verwaltungsverfahrensgesetzes öffentlich bekannt zu machen. Im Fall der Bekanntmachung im Internet gilt die vorläufige Anordnung zwei Wochen nach der elektronischen Veröffentlichung als bekannt gegeben; hierauf ist bei der Veröffentlichung hinzuweisen.
 
-In der vorläufigen Anordnung sind die Auflagen zur Sicherung dieser Interessen und der Umfang der vorläufig zulässigen Maßnahmen festzulegen. Sie ist den anliegenden Gemeinden sowie den Beteiligten zuzustellen oder ortsüblich bekannt zu machen. Sie ersetzt nicht die Planfeststellung. § 16a bleibt unberührt. Soweit die vorbereitenden Maßnahmen oder Teilmaßnahmen zum Bau oder zur Änderung durch die Planfeststellung für unzulässig erklärt sind, ordnet die Planfeststellungsbehörde gegenüber dem Träger des Vorhabens an, den früheren Zustand wiederherzustellen. Dies gilt auch, wenn der Antrag auf Planfeststellung zurückgenommen wurde. Der Betroffene ist durch den Träger der Straßenbaulast zu entschädigen, soweit die Wiederherstellung des früheren Zustands nicht möglich oder mit unverhältnismäßig hohem Aufwand verbunden oder ein Schaden eingetreten ist, der durch die Wiederherstellung des früheren Zustandes nicht ausgeglichen wird. Rechtsbehelfe gegen die vorläufige Anordnung haben keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt. § 17e gilt entsprechend.
+(4) Soweit die vorbereitenden Maßnahmen oder Teilmaßnahmen zum Bau oder zur Änderung durch die Planfeststellung oder Plangenehmigung für unzulässig erklärt sind, ordnet die Planfeststellungsbehörde gegenüber dem Träger des Vorhabens an, dass ein mit dem früheren Zustand im Wesentlichen gleichartiger Zustand herzustellen ist. Dies gilt auch, wenn der Antrag auf Planfeststellung zurückgenommen wurde. Der Betroffene ist durch den Träger der Straßenbaulast zu entschädigen, soweit die Herstellung des mit dem früheren Zustand im Wesentlichen gleichartigen Zustands nicht möglich oder mit unverhältnismäßig hohem Aufwand verbunden oder ein Schaden eingetreten ist, der durch die Herstellung des mit dem früheren Zustand im Wesentlichen gleichartigen Zustands nicht ausgeglichen wird.
 
-##### § 17a Anhörungsverfahren
+(5) Rechtsbehelfe gegen die vorläufige Anordnung haben keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt. § 17e gilt entsprechend.
 
-(1) Für das Anhörungsverfahren und das Beteiligungsverfahren gelten § 73 des Verwaltungsverfahrensgesetzes und die §§ 17 bis 19 sowie 21 des Gesetzes über die Umweltverträglichkeitsprüfung nach Maßgabe der folgenden Absätze.
+###### § 17a Anhörungsverfahren
 
-(2) Die Anhörungsbehörde soll
+(1) Für das Anhörungsverfahren und das Beteiligungsverfahren gelten die §§ 27a, 27b, 27c und 72 bis 73c des Verwaltungsverfahrensgesetzes und die §§ 17 bis 19 sowie 21 des Gesetzes über die Umweltverträglichkeitsprüfung nach Maßgabe des Absatzes 2.
 
-1. von dem Träger des Vorhabens verlangen, den Plan ausschließlich oder ergänzend in einem verkehrsüblichen und von der Anhörungsbehörde vorgegebenen elektronischen Format einzureichen;
+(2) Die Planfeststellungsbehörde kann auf eine Erörterung nach § 73b des Verwaltungsverfahrensgesetzes und § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung verzichten. Soll ein ausgelegter Plan geändert werden, so soll von der Erörterung im Sinne des § 73c Absatz 2 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
 
-2. den Behörden, deren Aufgabenbereich durch das Vorhaben berührt wird, den Plan auch ausschließlich elektronisch zugänglich machen;
+###### § 17b Planfeststellungsbeschluss, Plangenehmigung
 
-3. von den Behörden, deren Aufgabenbereich durch das Vorhaben berührt wird, verlangen, ihre Stellungnahmen nach § 73 Absatz 2 und 3a des Verwaltungsverfahrensgesetzes sowie nach § 17 Absatz 2 des Gesetzes über die Umweltverträglichkeitsprüfung elektronisch zu übermitteln.
+(1) Für den Planfeststellungsbeschluss und die Plangenehmigung gelten die §§ 74 und 74a des Verwaltungsverfahrensgesetzes und § 27 des Gesetzes über die Umweltverträglichkeitsprüfung nach Maßgabe der folgenden Absätze.
 
-(3) Die Anhörungsbehörde soll die Auslegung des Plans und der Unterlagen nach § 19 Absatz 2 des Gesetzes über die Umweltverträglichkeitsprüfung durch die Veröffentlichung der Unterlagen auf ihrer Internetseite bewirken. Auf Verlangen eines Beteiligten, das während der Dauer der Beteiligung an die Anhörungsbehörde zu richten ist, wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt. Abweichend von § 73 Absatz 5 Satz 1 des Verwaltungsverfahrensgesetzes erfolgt die Bekanntmachung durch die Anhörungsbehörde; Satz 1 gilt entsprechend. Die Bekanntmachung erfolgt zusätzlich in örtlichen Tageszeitungen, in deren Verbreitungsgebiet sich das Vorhaben voraussichtlich auswirken wird. Die Anhörungsbehörde hat in der Bekanntmachung darauf hinzuweisen, dass und wo der Plan elektronisch veröffentlicht wird und dass eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt werden kann.
+(2) Die §§ 48 bis 51 des Verwaltungsverfahrensgesetzes finden auf Entscheidungen der Planfeststellungsbehörde keine Anwendung.
 
-(4) Einwendungen und Stellungnahmen sind gegenüber der Anhörungsbehörde abzugeben. Sie sollen elektronisch übermittelt werden. Eine schriftliche Übermittlung ist ebenfalls möglich. Die Anhörungsbehörde hat in der Bekanntmachung darauf hinzuweisen.
+(3) (weggefallen)
 
-(5) Die Anhörungsbehörde kann auf eine Erörterung nach § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung verzichten. Soll ein im Internet veröffentlichter oder ausgelegter Plan geändert werden, so soll von der Erörterung im Sinne des § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden. Findet keine Erörterung statt, so hat die Anhörungsbehörde ihre Stellungnahme innerhalb von sechs Wochen nach Ablauf der Einwendungsfrist abzugeben und zusammen mit den sonstigen in § 73 Absatz 9 des Verwaltungsverfahrensgesetzes aufgeführten Unterlagen der Planfeststellungsbehörde zuzuleiten.
-
-(6) Die Anhörungsbehörde kann eine Erörterung nach § 73 Absatz 6 des Verwaltungsverfahrensgesetzes und § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung ganz oder teilweise in digitalen Formaten durchführen. In diesem Fall hat sie in der Bekanntmachung darauf hinzuweisen, dass und wie die Erörterung in einem digitalen Format durchgeführt wird.
-
-(7) Soweit Stellungnahmen, Einwendungen oder sonstige Erklärungen elektronisch übermittelt werden können oder der Plan oder sonstige Unterlagen in einem elektronischen Format veröffentlicht oder zugänglich gemacht werden, haben die Anhörungsbehörde und die Planfeststellungsbehörde die technische Ausgestaltung zu bestimmen.
-
-(8) Die Durchführung informeller Beteiligungsformate ist möglich. Diese Beteiligungsformate sind von dem Planfeststellungsverfahren unabhängig und dürfen sein Ergebnis nicht vorwegnehmen.
-
-##### § 17b Planfeststellungsbeschluss, Plangenehmigung
-
-(1) Für den Planfeststellungsbeschluss und die Plangenehmigung gelten § 74 des Verwaltungsverfahrensgesetzes und § 27 des Gesetzes über die Umweltverträglichkeitsprüfung nach Maßgabe der folgenden Absätze.
-
-(2) Abweichend von § 74 Absatz 6 Satz 1 Nummer 3 des Verwaltungsverfahrensgesetzes kann für ein Vorhaben, für das nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung durchzuführen ist, an Stelle eines Planfeststellungsbeschlusses eine Plangenehmigung erteilt werden. § 17a gilt entsprechend. Im Übrigen findet das Gesetz über die Umweltverträglichkeitsprüfung mit Ausnahme des § 21 Absatz 3 Anwendung.
-
-(3) Abweichend von § 74 Absatz 4, 5 und 6 Satz 2 dritter Halbsatz des Verwaltungsverfahrensgesetzes und § 27 Absatz 1 Satz 1 des Gesetzes über die Umweltverträglichkeitsprüfung können die Zustellung, Auslegung und Bekanntmachung der Auslegung des Planfeststellungsbeschlusses oder der Plangenehmigung dadurch erfolgen, dass die Entscheidung mit einer Rechtsbehelfsbelehrung und dem festgestellten Plan für zwei Wochen auf der Internetseite der Planfeststellungsbehörde veröffentlicht wird. Zusätzlich ist der verfügende Teil des Planfeststellungsbeschlusses, die Rechtsbehelfsbelehrung und ein Hinweis auf die Veröffentlichung auf der Internetseite der Planfeststellungsbehörde verbunden mit dem Hinweis auf leicht zu erreichende Zugangsmöglichkeiten in den örtlichen Tageszeitungen bekanntzumachen, in deren Verbreitungsgebiet sich das Vorhaben voraussichtlich auswirken wird; auf Auflagen ist hinzuweisen. Auf Verlangen eines Beteiligten, das bis zum Ablauf der Rechtsbehelfsfrist an die Planfeststellungsbehörde zu richten ist, ist ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung zu stellen. Im Fall des elektronischen Zugänglichmachens gilt mit dem Ende der Veröffentlichungsfrist die Entscheidung dem Träger des Vorhabens, den Betroffenen und denjenigen gegenüber, die Einwendungen erhoben haben, als zugestellt; hierauf ist in der Bekanntmachung hinzuweisen. Die Unterlagen nach Satz 1 sollen nach Ende der Veröffentlichungsfrist bis zum Ende der Rechtsbehelfsfrist zur Information im Internet veröffentlicht werden.
-
-(4) Die oberste Landesstraßenbaubehörde stellt den Plan fest, erteilt die Plangenehmigung und trifft die Entscheidung nach § 74 Absatz 7 des Verwaltungsverfahrensgesetzes, soweit sich aus den Absätzen 5 bis 7 sowie aus § 2 Absatz 1 Satz 1 Nummer 4, Absatz 2 und 3 und § 3 Absatz 4 des Fernstraßen-Bundesamt-Errichtungsgesetzes keine Zuständigkeit des Fernstraßen-Bundesamtes als Planfeststellungsbehörde und Plangenehmigungsbehörde ergibt. Bestehen zwischen der obersten Landesstraßenbaubehörde oder dem Fernstraßen-Bundesamt, die den Plan im Rahmen ihrer jeweiligen Zuständigkeiten feststellen, und einer Bundesbehörde Meinungsverschiedenheiten, so ist vor der Planfeststellung die Weisung des Bundesministeriums für Digitales und Verkehr einzuholen.
+(4) Die oberste Landesstraßenbaubehörde stellt den Plan fest, erteilt die Plangenehmigung und trifft die Entscheidung nach § 74b des Verwaltungsverfahrensgesetzes, soweit sich aus den Absätzen 5 bis 7 sowie aus § 2 Absatz 1 Satz 1 Nummer 4, Absatz 2 und 3 und § 3 Absatz 4 des Fernstraßen-Bundesamt-Errichtungsgesetzes keine Zuständigkeit des Fernstraßen-Bundesamtes als Planfeststellungsbehörde und Plangenehmigungsbehörde ergibt. Bei Entscheidungen nach Satz 1 tritt an die Stelle einer gesetzlich angeordneten Pflicht zur Herstellung des Einvernehmens eine Pflicht zur Benehmensherstellung. Bestehen zwischen der obersten Landesstraßenbaubehörde oder dem Fernstraßen-Bundesamt, die den Plan im Rahmen ihrer jeweiligen Zuständigkeiten feststellen, und einer Bundesbehörde Meinungsverschiedenheiten, so ist vor der Planfeststellung die Weisung des Bundesministeriums für Verkehr einzuholen.
 
 (5) Für ein Vorhaben, das teilweise von einer obersten Landesstraßenbaubehörde und teilweise vom Fernstraßen-Bundesamt durch Planfeststellungsbeschluss oder Plangenehmigung zugelassen werden muss, ist nur ein Verfahren durchzuführen, wenn für dieses Vorhaben oder für Teile davon nur eine einheitliche Entscheidung möglich ist. Zuständig ist die Behörde, in deren Zuständigkeitsbereich das Vorhaben den größeren Kreis öffentlich-rechtlicher Beziehungen berührt. Sie hat das Verfahren nach den für sie geltenden Rechtsvorschriften durchzuführen.
 
-(6) Bestehen Zweifel, welche Behörde nach Absatz 5 zuständig ist, führen das Bundesministerium für Digitales und Verkehr und die oberste Landesstraßenbaubehörde das Benehmen darüber herbei, welche Behörde für das Vorhaben zuständig ist.
+(6) Bestehen Zweifel, welche Behörde nach Absatz 5 zuständig ist, führen das Bundesministerium für Verkehr und die oberste Landesstraßenbaubehörde das Benehmen darüber herbei, welche Behörde für das Vorhaben zuständig ist.
 
 (7) Die Absätze 5 und 6 gelten entsprechend für die Entscheidung nach § 74 Absatz 7 des Verwaltungsverfahrensgesetzes.
 
 (8) Bebauungspläne nach § 9 des Baugesetzbuchs ersetzen die Planfeststellung nach § 17. Wird eine Ergänzung notwendig oder soll von Festsetzungen des Bebauungsplans abgewichen werden, so ist die Planfeststellung insoweit zusätzlich durchzuführen. In diesen Fällen gelten die §§ 40, 43 Absatz 1, 2, 4 und 5 sowie § 44 Absatz 1 bis 4 des Baugesetzbuchs.
 
-##### § 17c Rechtswirkungen der Planfeststellung und der Plangenehmigung
+###### § 17c (weggefallen)
 
-Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt § 75 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
+###### § 17d Planänderung vor Fertigstellung des Vorhabens
 
-1. Wird mit der Durchführung des Plans nicht innerhalb von zehn Jahren nach Eintritt der Unanfechtbarkeit begonnen, so tritt er außer Kraft, es sei denn, er wird vorher auf Antrag des Trägers des Vorhabens von der Planfeststellungsbehörde um höchstens fünf Jahre verlängert.
+Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75 Absatz 2 des Verwaltungsverfahrensgesetzes und für die Planänderung vor Fertigstellung des Vorhabens gilt § 76 des Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Fall des § 76 Absatz 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im Sinne des § 73b des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften dieses Gesetzes.
 
-2. Vor der Entscheidung nach Nummer 1 ist eine auf den Antrag begrenzte Anhörung nach dem für die Planfeststellung oder für die Plangenehmigung vorgeschriebenen Verfahren durchzuführen.
-
-3. Für die Zustellung und Veröffentlichung im Internet oder Auslegung sowie die Anfechtung der Entscheidung über die Verlängerung sind die Bestimmungen über den Planfeststellungsbeschluss entsprechend anzuwenden.
-
-4. Wird eine Planergänzung oder ein ergänzendes Verfahren nach § 75 Absatz 1a Satz 2 des Verwaltungsverfahrensgesetzes erforderlich und wird diese Planergänzung oder dieses ergänzende Verfahren unverzüglich betrieben, so bleibt die Durchführung des Vorhabens zulässig, soweit es von der Planergänzung oder dem Ergebnis des ergänzenden Verfahrens offensichtlich nicht berührt ist.
-
-##### § 17d Planänderung vor Fertigstellung des Vorhabens
-
-Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75 Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die Planänderung vor Fertigstellung des Vorhabens gilt § 76 des Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Fall des § 76 Abs. 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im Sinne des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften dieses Gesetzes.
-
-##### § 17e Rechtsbehelfe
+###### § 17e Rechtsbehelfe
 
 (1) § 50 Absatz 1 Nummer 6 der Verwaltungsgerichtsordnung gilt für Planfeststellungsverfahren, Plangenehmigungsverfahren und Verfahren zu Entfallensentscheidungen nach § 17b Absatz 1 in Verbindung mit Absatz 4 und § 74 Absatz 7 des Verwaltungsverfahrensgesetzes für Vorhaben im Sinne des § 17 Absatz 1, soweit diese Bundesfernstraßen betreffen, die wegen
 
@@ -497,67 +479,49 @@ Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75 Abs. 1a
 
 6. ihrer Bedeutung bei der Verbesserung der Infrastruktur in den Revieren nach § 2 des Investitionsgesetzes Kohleregionen vom 8. August 2020 (BGBl. I S. 1795)
 
-in der Anlage 1 aufgeführt sind. Satz 1 gilt auch für nach § 17 Absatz 1 von der Planfeststellungspflicht freigestellte Vorhaben, auch dann, wenn auf Antrag des Vorhabenträgers ein Planfeststellungsverfahren oder Plangenehmigungsverfahren durchgeführt wird.
+in der Anlage aufgeführt sind. Satz 1 gilt auch für nach § 17 Absatz 1 von der Planfeststellungspflicht freigestellte Vorhaben, auch dann, wenn auf Antrag des Vorhabenträgers ein Planfeststellungsverfahren oder Plangenehmigungsverfahren durchgeführt wird.
 
 (2) Der Antrag auf Anordnung der aufschiebenden Wirkung der Anfechtungsklage gegen einen Planfeststellungsbeschluss oder eine Plangenehmigung nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Zustellung des Planfeststellungsbeschlusses oder der Plangenehmigung gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der Verwaltungsgerichtsordnung gilt entsprechend. Treten später Tatsachen ein, die die Anordnung der aufschiebenden Wirkung rechtfertigen, so kann der durch den Planfeststellungsbeschluss oder die Plangenehmigung Beschwerte einen hierauf gestützten Antrag nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat stellen und begründen. Die Frist beginnt mit dem Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
 
-(3) Der Kläger hat innerhalb einer Frist von zehn Wochen ab Klageerhebung die zur Begründung seiner Klage dienenden Tatsachen und Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn der Kläger die Verspätung genügend entschuldigt. Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 2 gilt nicht, wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne Mitwirkung des Klägers zu ermitteln. Die Frist nach Satz 1 kann durch den Vorsitzenden oder den Berichterstatter auf Antrag verlängert werden, wenn der Kläger in dem Verfahren, in dem die angefochtene Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. § 6 des Umwelt-Rechtsbehelfsgesetzes ist nicht anzuwenden.
+(2a) Der gesetzliche Sofortvollzug kann mit der Begründung, dass sich der Baubeginn verzögert, nur dann von der Planfeststellungsbehörde oder dem Gericht ausgesetzt werden, wenn sich der Baubeginn um mindestens vier Jahre verzögert. Der gesetzliche Sofortvollzug kann nicht mit der Begründung, dass noch keine Haushaltsmittel für das Vorhaben bereitgestellt wurden oder dies nicht absehbar ist, von der Planfeststellungsbehörde oder dem Gericht ausgesetzt werden.
 
-##### § 17f Anlagen der Verkehrsüberwachung, der Unfallhilfe und des Zolls
+(3) Der Kläger hat innerhalb einer Frist von zehn Wochen ab Klageerhebung die zur Begründung seiner Klage dienenden Tatsachen und Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn der Kläger die Verspätung genügend entschuldigt. Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 2 gilt nicht, wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne Mitwirkung des Klägers zu ermitteln. Die Frist kann durch den Vorsitzenden oder den Berichterstatter auf Antrag verlängert werden, wenn der Kläger in dem Verfahren, in dem die angefochtene Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. Die Sätze 1 bis 5 gelten entsprechend für Fälle, in denen das gerichtliche Verfahren zur Durchführung eines Planergänzungs- oder Planänderungsverfahrens ausgesetzt wurde und später fortgesetzt wird; die Frist läuft ab Fortsetzung des gerichtlichen Verfahrens. § 6 des Umwelt-Rechtsbehelfsgesetzes ist nicht anzuwenden.
+
+###### § 17f Anlagen der Verkehrsüberwachung, der Unfallhilfe und des Zolls
 
 Die der Sicherheit und Ordnung dienenden Anlagen an Bundesfernstraßen, wie Polizeistationen, Einrichtungen der Unfallhilfe, Hubschrauberlandeplätze, können, wenn sie eine unmittelbare Zufahrt zu den Bundesfernstraßen haben, zur Festsetzung der Flächen in die Planfeststellung einbezogen werden. Das Gleiche gilt für Zollanlagen an Bundesfernstraßen.
 
-##### § 17g Veröffentlichung im Internet
+###### § 17g (weggefallen)
 
-Wird der Plan nicht nach § 17a Absatz 3 Satz 1, § 27a Absatz 1 des Verwaltungsverfahrensgesetzes oder § 20 des Gesetzes über die Umweltverträglichkeitsprüfung im Internet veröffentlicht, ist dieser vom Träger des Vorhabens auf seiner Internetseite zu veröffentlichen. § 23 des Gesetzes über die Umweltverträglichkeitsprüfung gilt entsprechend. Maßgeblich ist der Inhalt des im Rahmen des Genehmigungsverfahrens zur Einsicht ausgelegten Plans. Hierauf ist bei der Veröffentlichung hinzuweisen.
+###### § 17h (weggefallen)
 
-##### § 17h Projektmanager
+###### § 17i Planfeststellungsverfahren bei Vorhaben im transeuropäischen Verkehrsnetz
 
-Die Anhörungsbehörde kann einen Dritten mit der Vorbereitung und Durchführung von Verfahrensschritten, insbesondere
+(1) Ein Planfeststellungsverfahren oder ein Plangenehmigungsverfahren ist innerhalb von vier Jahren abzuschließen, wenn das Vorhaben
 
-1. der Erstellung von Verfahrensleitplänen unter Bestimmung von Verfahrensabschnitten und Zwischenterminen,
+1. im Abschnitt der Festen Fehmarnbeltquerung zwischen Puttgarden und Rødby gelegen ist oder
 
-2. der Fristenkontrolle,
+2. in einem Europäischen Verkehrskorridor nach Anhang III der Verordnung (EU) 2024/1679 gelegen ist und dessen geschätzte Gesamtkosten zum Zeitpunkt der Einleitung des Planfeststellungsverfahrens oder des Plangenehmigungsverfahrens 300 000 000 Euro überschreiten.
 
-3. der Koordinierung von erforderlichen Sachverständigengutachten,
+Die Frist beginnt mit dem Eingang des Plans nach § 72a Absatz 1 des Verwaltungsverfahrensgesetzes bei der Planfeststellungsbehörde. Die Planfeststellungsbehörde sowie alle am Verfahren beteiligten Behörden des Bundes und der Länder sind bestrebt, dem Verfahren nach Satz 1 Vorrang bei der Bearbeitung einzuräumen. Dabei ist das Beschleunigungsinteresse anderer Vorhaben, die im überragenden öffentlichen Interesse liegen, zu beachten.
 
-4. dem Entwurf eines Anhörungsberichts,
+(2) Die Planfeststellungsbehörde hat dem Vorhabenträger auf dessen Antrag Auskunft über die bei Vorlage des Plans nach § 72a Absatz 1 des Verwaltungsverfahrensgesetzes beizubringenden Informationen und Unterlagen zu erteilen. Weist das Vorhaben bei Eingang des Plans nach § 72a Absatz 1 des Verwaltungsverfahrensgesetzes nicht die erforderliche Reife auf, so ist der Antrag auf Einleitung des Verfahrens zur Planfeststellung oder Plangenehmigung spätestens vier Monate nach seinem Eingang bei der zuständigen Behörde abzulehnen.
 
-5. der ersten Auswertung der eingereichten Stellungnahmen,
-
-6. der organisatorischen Vorbereitung eines Erörterungstermins und
-
-7. der Leitung eines Erörterungstermins
-
-auf Vorschlag oder mit Zustimmung des Vorhabenträgers beauftragen. § 73 Absatz 9 des Verwaltungsverfahrensgesetzes bleibt unberührt. Die Entscheidung über den Planfeststellungsantrag verbleibt bei der zuständigen Behörde.
-
-##### § 17i Planfeststellungsverfahren bei Vorhaben im transeuropäischen Verkehrsnetz
-
-(1) Wird ein Planfeststellungsverfahren oder ein Plangenehmigungsverfahren für ein Vorhaben durchgeführt, das
-
-1. im Abschnitt der Festen Fehmarnbeltquerung zwischen Puttgarden und Rodby gelegen ist oder
-
-2. auf einem Kernnetzkorridor nach Anlage 2 gelegen ist und dessen geschätzte Gesamtkosten zum Zeitpunkt der Einleitung des Planfeststellungsverfahrens oder des Plangenehmigungsverfahrens 300 000 000 Euro überschreiten,
-
-ist dieses innerhalb von vier Jahren abzuschließen. Die Frist beginnt mit dem Eingang des Plans nach § 73 Absatz 1 des Verwaltungsverfahrensgesetzes bei der Anhörungsbehörde und Planfeststellungsbehörde. Diese sowie alle am Planfeststellungsverfahren oder am Plangenehmigungsverfahren beteiligten Behörden des Bundes und der Länder sind bestrebt, den Planfeststellungsverfahren oder Plangenehmigungsverfahren nach Satz 1 Vorrang bei der Bearbeitung einzuräumen. Dabei ist das Beschleunigungsinteresse an anderen Vorhaben, die im überragenden öffentlichen Interesse stehen oder der öffentlichen Sicherheit dienen, zu beachten.
-
-(2) Die Planfeststellungsbehörde hat dem Vorhabenträger auf dessen Antrag Auskunft über die bei Vorlage des Plans nach § 73 Absatz 1 des Verwaltungsverfahrensgesetzes beizubringenden Informationen und Unterlagen zu erteilen. Weist das Vorhaben bei Eingang des Plans nach § 73 Absatz 1 des Verwaltungsverfahrensgesetzes nicht die erforderliche Reife auf, so ist der Antrag auf Einleitung des Verfahrens zur Planfeststellung oder Plangenehmigung spätestens vier Monate nach seinem Eingang bei der zuständigen Behörde abzulehnen.
-
-(3) Auf Antrag der Planfeststellungsbehörde kann das Bundesministerium für Digitales und Verkehr die Frist nach Absatz 1 Satz 1 verlängern. Im Antrag sind die Gründe für die Fristüberschreitung darzulegen. Eine weitere Verlängerung kann unter denselben Bedingungen einmal gewährt werden.
+(3) Auf Antrag der Planfeststellungsbehörde kann das Bundesministerium für Verkehr die Frist nach Absatz 1 Satz 1 verlängern. Im Antrag sind die Gründe für die Fristüberschreitung darzulegen. Eine weitere Verlängerung kann unter denselben Bedingungen einmal gewährt werden.
 
 (4) Die Absätze 1 bis 3 sind nicht anzuwenden auf Vorhaben, deren Plan vor dem 10. August 2023 bei der Anhörungsbehörde und Planfeststellungsbehörde eingereicht wurde.
 
-##### § 17j Grenzüberschreitende Vorhaben im transeuropäischen Verkehrsnetz
+###### § 17j Grenzüberschreitende Vorhaben im transeuropäischen Verkehrsnetz
 
 (1) Bei grenzüberschreitenden Vorhaben nach § 17i Absatz 1 Satz 1 sollen die zuständigen Behörden zusammenarbeiten, erforderliche Informationen, Unterlagen und Dokumente austauschen und die nationalen Zeitpläne ihrer Genehmigungsverfahren abstimmen.
 
-(2) Das Bundesministerium für Digitales und Verkehr hat die nach Artikel 45 der Verordnung (EU) Nr. 1315/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über Leitlinien der Union für den Aufbau eines transeuropäischen Verkehrsnetzes und zur Aufhebung des Beschlusses Nr. 661/2010/EU (ABl. L 348 vom 20.12.2013, S. 1) benannten Europäischen Koordinatoren auf deren Ersuchen über den Sachstand des grenzüberscheitenden Vorhabens zu unterrichten.
+(2) Das Bundesministerium für Verkehr hat die nach Artikel 52 der Verordnung (EU) 2024/1679 benannten Europäischen Koordinatoren auf deren Ersuchen über den Sachstand des grenzüberscheitenden Vorhabens zu unterrichten.
 
-(3) Wird die Frist nach § 17i Absatz 1 Satz 1 nicht eingehalten, hat das Bundesministerium für Digitales und Verkehr bei grenzüberschreitenden Vorhaben nach Absatz 1 die Europäischen Koordinatoren auf deren Ersuchen über Maßnahmen zum zügigen Abschluss des Planfeststellungsverfahren oder Plangenehmigungsverfahrens zu unterrichten.
+(3) Wird die Frist nach § 17i Absatz 1 Satz 1 nicht eingehalten, hat das Bundesministerium für Verkehr bei grenzüberschreitenden Vorhaben nach Absatz 1 die Europäischen Koordinatoren auf deren Ersuchen über Maßnahmen zum zügigen Abschluss des Planfeststellungsverfahren oder Plangenehmigungsverfahrens zu unterrichten.
 
-##### § 17k Berichterstattung an die Europäische Kommission
+###### § 17k Berichterstattung an die Europäische Kommission
 
-Zur Vorbereitung der Berichterstattung an die Europäische Kommission haben die obersten Landesstraßenbaubehörden und das Fernstraßen-Bundesamt dem Bundesministerium für Digitales und Verkehr erstmals zum 30. April 2026 und sodann alle zwei Jahre für ihren Zuständigkeitsbereich folgende Angaben aus dem Berichtszeitraum mitzuteilen:
+Zur Vorbereitung der Berichterstattung an die Europäische Kommission haben die obersten Landesstraßenbaubehörden und das Fernstraßen-Bundesamt dem Bundesministerium für Verkehr erstmals zum 30. April 2026 und sodann alle zwei Jahre für ihren Zuständigkeitsbereich folgende Angaben aus dem Berichtszeitraum mitzuteilen:
 
 1. Die Anzahl der laufenden sowie abgeschlossenen Planfeststellungsverfahren oder Plangenehmigungsverfahren nach § 17i Absatz 1 und § 17j Absatz 1,
 
@@ -569,13 +533,13 @@ Zur Vorbereitung der Berichterstattung an die Europäische Kommission haben die 
 
 5. die Einrichtung gemeinsamer Behörden für grenzüberschreitende Vorhaben.
 
-##### (XXXX) §§ 18 bis 18e (weggefallen)
+###### (XXXX) §§ 18 bis 18e (weggefallen)
 
-##### § 18f Vorzeitige Besitzeinweisung
+###### § 18f Vorzeitige Besitzeinweisung
 
 (1) Ist der sofortige Beginn von Bauarbeiten geboten und weigert sich der Eigentümer oder Besitzer, den Besitz eines für die Straßenbaumaßnahme benötigten Grundstücks durch Vereinbarung unter Vorbehalt aller Entschädigungsansprüche zu überlassen, so hat die Enteignungsbehörde den Träger der Straßenbaulast auf Antrag nach Feststellung des Plans oder Erteilung der Plangenehmigung in den Besitz einzuweisen. Der Planfeststellungsbeschluss oder die Plangenehmigung müssen vollziehbar sein. Weiterer Voraussetzungen bedarf es nicht.
 
-(1a) Der Träger des Vorhabens kann verlangen, dass bereits nach Ablauf der Einwendungsfrist nach § 73 Absatz 4 des Verwaltungsverfahrensgesetzes das Verfahren zur vorzeitigen Besitzeinweisung in das Grundstück eines Dritten durchgeführt wird. In diesem Fall ist der nach dem Verfahrensstand zu erwartende Planfeststellungsbeschluss oder die zu erwartende Plangenehmigung dem Verfahren zur vorzeitigen Besitzeinweisung zugrunde zu legen. Der Besitzeinweisungsbeschluss ist mit der aufschiebenden Bedingung zu verbinden, dass sein Ergebnis durch den Planfeststellungsbeschluss oder die Plangenehmigung bestätigt wird. Wird das Ergebnis des Besitzeinweisungsbeschlusses durch den Planfeststellungsbeschluss oder die Plangenehmigung nicht bestätigt, ist ein neuer Besitzeinweisungsbeschluss auf der Grundlage des ergangenen Planfeststellungsbeschlusses oder der ergangenen Plangenehmigung herbeizuführen.
+(1a) Der Träger des Vorhabens kann verlangen, dass bereits nach Ablauf der Einwendungsfrist nach § 73 Absatz 2 des Verwaltungsverfahrensgesetzes das Verfahren zur vorzeitigen Besitzeinweisung in das Grundstück eines Dritten durchgeführt wird. In diesem Fall ist der nach dem Verfahrensstand zu erwartende Planfeststellungsbeschluss oder die zu erwartende Plangenehmigung dem Verfahren zur vorzeitigen Besitzeinweisung zugrunde zu legen. Der Besitzeinweisungsbeschluss ist mit der aufschiebenden Bedingung zu verbinden, dass sein Ergebnis durch den Planfeststellungsbeschluss oder die Plangenehmigung bestätigt wird. Wird das Ergebnis des Besitzeinweisungsbeschlusses durch den Planfeststellungsbeschluss oder die Plangenehmigung nicht bestätigt, ist ein neuer Besitzeinweisungsbeschluss auf der Grundlage des ergangenen Planfeststellungsbeschlusses oder der ergangenen Plangenehmigung herbeizuführen.
 
 (2) Die Enteignungsbehörde hat spätestens sechs Wochen nach Eingang des Antrages auf Besitzeinweisung mit den Beteiligten mündlich zu verhandeln. Hierzu sind die Straßenbaubehörde, sofern eine Bundesfernstraße, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht, betroffen ist, die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes und die Betroffenen zu laden. Dabei ist den Betroffenen der Antrag auf Besitzeinweisung mitzuteilen. Die Ladungsfrist beträgt drei Wochen. Mit der Ladung sind die Betroffenen aufzufordern, etwaige Einwendungen gegen den Antrag möglichst vor der mündlichen Verhandlung bei der Enteignungsbehörde einzureichen. Sie sind außerdem darauf hinzuweisen, dass auch bei Nichterscheinen über den Antrag auf Besitzeinweisung und andere im Verfahren zu erledigende Anträge entschieden werden kann.
 
@@ -593,7 +557,7 @@ Zur Vorbereitung der Berichterstattung an die Europäische Kommission haben die 
 
 (8) Im Übrigen gelten die Enteignungsgesetze der Länder.
 
-##### § 19 Enteignung
+###### § 19 Enteignung
 
 (1) Die Träger der Straßenbaulast der Bundesfernstraßen haben zur Erfüllung ihrer Aufgaben das Enteignungsrecht. Die Enteignung ist zulässig, soweit sie zur Unterhaltung oder Ausführung eines nach § 17 Absatz 1 festgestellten oder genehmigten Bauvorhabens notwendig ist. Einer weiteren Feststellung der Zulässigkeit der Enteignung bedarf es nicht.
 
@@ -609,33 +573,33 @@ Zur Vorbereitung der Berichterstattung an die Europäische Kommission haben die 
 
 (5) Im Übrigen gelten die für öffentliche Straßen geltenden Enteignungsgesetze der Länder.
 
-##### § 19a Entschädigungsverfahren
+###### § 19a Entschädigungsverfahren
 
 Soweit der Träger der Straßenbaulast nach §§ 8a, 9, 17 Absatz 2 oder auf Grund eines Planfeststellungsbeschlusses oder einer Plangenehmigung verpflichtet ist, eine Entschädigung in Geld zu leisten, und über die Höhe der Entschädigung keine Einigung zwischen dem Betroffenen und dem Träger der Straßenbaulast zustande kommt, entscheidet auf Antrag eines der Beteiligten die nach Landesrecht zuständige Behörde; für das Verfahren und den Rechtsweg gelten die Enteignungsgesetze der Länder entsprechend.
 
-##### § 20 Straßenaufsicht
+###### § 20 Straßenaufsicht
 
 (1) Die Erfüllung der Aufgaben, die den Trägern der Straßenbaulast für die Bundesfernstraßen obliegen, wird durch die Straßenaufsicht sichergestellt. Die Länder üben die Straßenaufsicht für die Bundesstraßen im Auftrag des Bundes aus, im Bereich der Bundesfernstraßen, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht, übt sie das Fernstraßen-Bundesamt aus.
 
 (2) Die Straßenaufsichtsbehörde kann die Durchführung der notwendigen Maßnahmen unter Setzung einer angemessenen Frist anordnen. Sie soll Maßnahmen, die mehrere Träger der Straßenbaulast durchzuführen haben, diesen rechtzeitig bekannt geben, damit sie möglichst zusammenhängend ausgeführt werden. Kommt ein Träger der Straßenbaulast der Anordnung nicht nach, kann die Straßenaufsichtsbehörde die notwendigen Maßnahmen an seiner Stelle und auf seine Kosten verfügen und vollziehen.
 
-##### § 21 Verwaltung der Bundesstraßen in den Ortsdurchfahrten
+###### § 21 Verwaltung der Bundesstraßen in den Ortsdurchfahrten
 
 Soweit die Gemeinden nach § 5 Abs. 2 und 3 Träger der Straßenbaulast sind, richtet sich die Zuständigkeit zur Verwaltung der Ortsdurchfahrten nach Landesrecht. Dieses regelt auch, wer insoweit zuständige Straßenbaubehörde im Sinne dieses Gesetzes ist.
 
-##### § 22 Zuständigkeit; Verordnungsermächtigung
+###### § 22 Zuständigkeit; Verordnungsermächtigung
 
-(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die dem Fernstraßen-Bundesamt und der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes nach dem Bundesfernstraßengesetz zugewiesenen Befugnisse und Aufgaben auf andere Bundesbehörden oder andere vom Bund gegründete Gesellschaften, die im ausschließlichen Eigentum des Bundes stehen müssen, zu übertragen.
+(1) Das Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die dem Fernstraßen-Bundesamt und der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes nach dem Bundesfernstraßengesetz zugewiesenen Befugnisse und Aufgaben auf andere Bundesbehörden oder andere vom Bund gegründete Gesellschaften, die im ausschließlichen Eigentum des Bundes stehen müssen, zu übertragen.
 
-(2) Im Fall des Artikels 90 Absatz 4 oder des Artikels 143e Absatz 2 des Grundgesetzes treten an die Stelle der im Gesetz genannten Straßenbaubehörden der Länder die vom Bundesministerium für Digitales und Verkehr bestimmten Bundesbehörden oder die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes. Dies gilt auch für die nach § 36 des Gesetzes über Ordnungswidrigkeiten zu bestimmende Behörde.
+(2) Im Fall des Artikels 90 Absatz 4 oder des Artikels 143e Absatz 2 des Grundgesetzes treten an die Stelle der im Gesetz genannten Straßenbaubehörden der Länder die vom Bundesministerium für Verkehr bestimmten Bundesbehörden oder die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes. Dies gilt auch für die nach § 36 des Gesetzes über Ordnungswidrigkeiten zu bestimmende Behörde.
 
 (3) Im Rahmen der Auftragsverwaltung richtet sich das Verfahren für die Beitreibung von Ersatzleistungen (§ 7), Sondernutzungsgebühren sowie Vorschüssen und Sicherheiten (§ 8) und das Verfahren in den Fällen, in denen die Behörde Maßnahmen nach § 8 Abs. 7a trifft oder in denen jemand zur Duldung oder Unterlassung verpflichtet ist (§§ 11 und 14), nach Landesrecht. Im Übrigen gilt Bundesrecht.
 
-(4) Soweit nach diesem Gesetz die Zuständigkeit von Landesbehörden begründet ist, bestimmen die Länder die zuständigen Behörden. Sie sind ermächtigt, die Zuständigkeit der obersten Straßenbaubehörden der Länder, soweit sie nach diesem Gesetz begründet ist, auf nachgeordnete Behörden zu übertragen. Das Bundesministerium für Digitales und Verkehr ist hiervon zu unterrichten.
+(4) Soweit nach diesem Gesetz die Zuständigkeit von Landesbehörden begründet ist, bestimmen die Länder die zuständigen Behörden. Sie sind ermächtigt, die Zuständigkeit der obersten Straßenbaubehörden der Länder, soweit sie nach diesem Gesetz begründet ist, auf nachgeordnete Behörden zu übertragen. Das Bundesministerium für Verkehr ist hiervon zu unterrichten.
 
 (5) Soweit Selbstverwaltungskörperschaften in der Auftragsverwaltung tätig werden (Artikel 90 Absatz 3 des Grundgesetzes), sind ihre Behörden nach Maßgabe des Landesrechts an Stelle der Behörden des Landes zuständig.
 
-##### § 23 Ordnungswidrigkeiten
+###### § 23 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -673,17 +637,17 @@ b) auf vollziehbares Verlangen der zuständigen Behörde Anlagen auf seine Koste
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Fernstraßen-Bundesamt für Ordnungswidrigkeiten nach Absatz 1 auf oder an Bundesfernstraßen, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht.
 
-##### § 23a Gebühren, Verordnungsermächtigung
+###### § 23a Gebühren, Verordnungsermächtigung
 
-(1) Für individuell zurechenbare öffentliche Leistungen des Bundes in den Fällen nach § 8 Absatz 1, 2, 2a, 6 und 7a, § 9 Absatz 2 bis 2c, 5 und 8 ist das Bundesgebührengesetz anzuwenden. Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnisse nach § 22 Absatz 4 des Bundesgebührengesetzes auf das Fernstraßen-Bundesamt zu übertragen, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht.
+(1) Für individuell zurechenbare öffentliche Leistungen des Bundes in den Fällen nach § 8 Absatz 1, 2, 2a, 6 und 7a, § 9 Absatz 2 bis 2c, 5 und 8 ist das Bundesgebührengesetz anzuwenden. Das Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnisse nach § 22 Absatz 4 des Bundesgebührengesetzes auf das Fernstraßen-Bundesamt zu übertragen, soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht.
 
 (2) Für individuell zurechenbare öffentliche Leistungen der Länder in den Fällen nach § 8 Absatz 1, 2, 2a, 6 und 7a, § 9 Absatz 2 bis 2c, 5 und 8 ist das Bundesgebührengesetz mit der Maßgabe anzuwenden, dass die Rechtsverordnungen nach § 22 des Bundesgebührengesetzes von den Landesregierungen erlassen werden. Die zuständige Landesregierung wird ermächtigt, durch Rechtsverordnung ihre Befugnisse nach Satz 3 auf eine oberste Landesbehörde zu übertragen.
 
-##### § 24 Übergangs- und Schlussbestimmungen
+###### § 24 Übergangs- und Schlussbestimmungen
 
 (1) Vor dem 17. Dezember 2006 beantragte Planfeststellungsverfahren oder Plangenehmigungsverfahren werden nach den Vorschriften dieses Gesetzes in der ab dem 17. Dezember 2006 geltenden Fassung weitergeführt. § 11 Abs. 2 des Verkehrswegeplanungsbeschleunigungsgesetzes bleibt unberührt.
 
-(2) § 17c gilt auch für Planfeststellungsbeschlüsse und Plangenehmigungen, die vor dem 17. Dezember 2006 erlassen worden sind, soweit der Plan noch nicht außer Kraft getreten ist.
+(2) § 75 Absatz 3 des Verwaltungsverfahrensgesetzes gilt auch für Planfeststellungsbeschlüsse und Plangenehmigungen, die vor dem 17. Dezember 2006 erlassen worden sind, soweit der Plan noch nicht außer Kraft getreten ist.
 
 (3) (weggefallen)
 
@@ -701,33 +665,31 @@ b) auf vollziehbares Verlangen der zuständigen Behörde Anlagen auf seine Koste
 
 (10) Wo in anderen Gesetzen für das Unternehmen "Reichsautobahnen" besondere Rechte und Pflichten begründet sind, tritt an seine Stelle der Bund.
 
-(11) Das Bundesministerium für Digitales und Verkehr ist ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Brücken im Zuge von Bundesfernstraßen, die in der Baulast der Länder oder öffentlich-rechtlicher Selbstverwaltungskörperschaften stehen, in die Baulast des Bundes zu übernehmen und die zur Überleitung notwendigen Maßnahmen zu treffen. In der Rechtsverordnung können auch die nach den üblichen Berechnungsarten zu ermittelnden Ablösungsbeträge festgesetzt werden.
+(11) Das Bundesministerium für Verkehr ist ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Brücken im Zuge von Bundesfernstraßen, die in der Baulast der Länder oder öffentlich-rechtlicher Selbstverwaltungskörperschaften stehen, in die Baulast des Bundes zu übernehmen und die zur Überleitung notwendigen Maßnahmen zu treffen. In der Rechtsverordnung können auch die nach den üblichen Berechnungsarten zu ermittelnden Ablösungsbeträge festgesetzt werden.
 
 (12) Für Sondernutzungen, die bei Inkrafttreten dieses Gesetzes durch bürgerlich-rechtliche Verträge vereinbart sind, gelten die Vorschriften über Sondernutzungen (§ 8) von dem Zeitpunkt an, zu dem die Verträge erstmals nach Inkrafttreten dieses Gesetzes kündbar sind.
 
-(13) Vor dem 13. März 2020 beantragte Planfeststellungsverfahren oder Plangenehmigungsverfahren werden nach den Vorschriften dieses Gesetzes in der vor dem 13. März 2020 geltenden Fassung weitergeführt.
+(13) Abweichend von § 23a Absatz 2 gelten für Bundesstraßen, die in Auftragsverwaltung verwaltet werden, für die Erhebung von Gebühren und Auslagen für die Entscheidungen nach § 8 Absatz 1, 2, 2a, 6 und 7a, § 9 Absatz 2 bis 2c, 5 und 8 die landesrechtlichen Regelungen längstens bis zum 31. Dezember 2026 fort.
 
-(14) Abweichend von § 23a Absatz 2 gelten für Bundesstraßen, die in Auftragsverwaltung verwaltet werden, für die Erhebung von Gebühren und Auslagen für die Entscheidungen nach § 8 Absatz 1, 2, 2a, 6 und 7a, § 9 Absatz 2 bis 2c, 5 und 8 die landesrechtlichen Regelungen längstens bis zum 31. Dezember 2026 fort.
+(14) § 3 Absatz 1a und 1b ist nicht auf den Bau oder die Änderung von Bundesautobahnen anzuwenden, wenn das Planfeststellungsverfahren oder das Plangenehmigungsverfahren vor dem 1. Januar 2024 eingeleitet worden ist.
 
-(15) § 3 Absatz 1 Satz 4 ist nicht für den Bau oder die Änderung von Bundesautobahnen anzuwenden, wenn das Planfeststellungsverfahren oder Plangenehmigungsverfahren vor dem 1. Januar 2024 eingeleitet worden ist.
+(15) Für vor dem 29. Juli 2026 und bis zum 31. Dezember 2028 eingeleitete Planfeststellungs- oder Plangenehmigungsverfahren kann die Planfeststellungsbehörde für alle oder einzelne Verfahrensschritte das Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist, nach Maßgabe dieses Gesetzes in der bis einschließlich 28. Juli 2026 geltenden Fassung anwenden. Satz 1 gilt entsprechend, soweit das Verfahren landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist. Die Sätze 1 und 2 gelten entsprechend, wenn das Gesetz über die Umweltverträglichkeitsprüfung anzuwenden ist und dieses auf das Verwaltungsverfahrensgesetz verweist.
 
-(16) Für das Planfeststellungsverfahren gilt das Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist, das nach Maßgabe dieses Gesetzes anzuwenden ist. Satz 1 gilt entsprechend, soweit das Verfahren landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist. Die Sätze 1 und 2 gelten entsprechend, wenn das Gesetz über die Umweltverträglichkeitsprüfung anzuwenden ist und dieses auf das Verwaltungsverfahrensgesetz verweist.
-
-##### § 25 (Aufhebung von Vorschriften)
+###### § 25 (Aufhebung von Vorschriften)
 
 -
 
-##### § 26 (weggefallen)
+###### § 26 (weggefallen)
 
 -
 
-##### § 27 (Inkrafttreten)
+###### § 27 (Inkrafttreten)
 
 -
 
-##### Anlage 1 (zu § 17e Absatz 1)
+###### Anlage (zu § 17e Absatz 1)
 
-(Fundstelle: BGBl. 2023 I Nr. 409, S. 7 – 9)
+(Fundstelle: BGBl. 2026 I Nr. 224, S. 15 - 17)
 
 **Vorbemerkung:**
 
@@ -743,57 +705,4 @@ Im Sinne dieser Anlage bedeuten
 
 5. OU: Ortsumgehung
 
-Zu den Bundesfernstraßen gehören auch die für den Betrieb von Bundesfernstraßen notwendigen Anlagen. Die Bundesfernstraßen beginnen und enden jeweils an den Knotenpunkten, an denen sie mit dem bestehenden Straßennetz verbunden sind. Lfd.
- Nr.Bezeichnung1A 1 Dreieck Hamburg-Südost – Hamburg-Harburg2A 1 Kreuz Kamen – Hamm-Bockum/Werne mit Ersatzneubau der Brücken über die Lippe und den Datteln-Hamm-Kanal3A 1 Kreuz Wuppertal-Nord (A 43)4A 1 Maschener Kreuz5A 1 Westhofener Kreuz (A 45)6A 1 Blankenheim – Kelberg7A 1 Köln-Niehl – Kreuz Leverkusen8A 2 Kreuz Bottrop (A 31)9A 3 Ersatzneubau Brückenbauwerk Lippe und Wesel-Datteln-Kanal mit Anschlussstelle Hünxe10A 3 Kreuz Kaiserberg (A 40) – Kreuz Oberhausen-West mit Ersatzneubau von Brücken11A 3 Kreuz Oberhausen (A 2/A 516) – Dinslaken Süd mit Ersatzneubauten von Brücken12A 3 Leverkusen-Zentrum – Kreuz Leverkusen (A 1)13A 3 Sinzing – Kreuz Regensburg mit Ersatzneubau der Donaubrücke Sinzing14A 3 Wiesbadener Kreuz (A 66)15A 4 Kreuz Köln-Süd (A 555) – Kreuz Köln-Gremberg (A 559) mit Ersatzneubau Rheinbrücke Rodenkirchen16A 4 Dreieck Nossen – Hermsdorf17A 5 Dreieck Karlsruhe18A 6 Saarbrücken-Fechingen – St. Ingbert-West mit Ersatzneubau Talbrücke Fechingen19A 6 Kreuz Frankenthal – Mannheim-Sandhofen mit Ersatzneubau Theodor-Heuss-Rheinbrücke20A 6 Kreuz Mannheim – Schwetzingen/Hockenheim mit Ersatzneubau der Brückenbauwerke21A 6 Kreuz Weinsberg (A 81) – Landesgrenze Baden-Württemberg/Bayern22A 7 Berkheim – Kreuz Memmingen mit Ersatzneubau der Brücke über die Iller bei Egelsee23A 7 Dreieck Hittistetten – Vöhringen mit Ersatzneubau der Talbrücke Witzighausen24A 7 Ersatzneubau Talbrücke Welkers im Abschnitt Fuldaer Dreieck – Bad Brückenau – Volkers25A 8 Mühlhausen – Hohenstadt26A 8 Kreuz München-Süd (A 99) – Bundesgrenze Deutschland/Österreich27A 10 Ersatzneubau der Brücke über das Mühlenfließ im Abschnitt Rüdersdorf – Erkner28A 10 Erkner – Freienbrink29A 14 Leipzig-Ost – Dreieck Parthenaue30A 20 Westerstede (A 28) – Weede31A 26 Drochtersen (A 20) – Dreieck Hamburg-Stillhorn (A 1)32A 27 Ersatzneubauten der Moorbrücke, der Geestebrücke und des Überführungsbauwerks Bremerhaven-Zentrum im Abschnitt Bremerhaven-Geestemünde – Bremerhaven-Überseehäfen33A 33 Bielefeld-Brackwede – Borgholzhausen einschließlich Zubringer Ummeln34A 33 Dreieck Osnabrück-Nord (A 1) – Osnabrück-Belm35A 39 Lüneburg – Wolfsburg36A 40 Kreuz Kaiserberg – Essen-Frohnhausen mit Ersatzneubauten der Brückenbauwerke37A 42 Bottrop-Süd – Kreuz Essen-Nord mit Ersatzneubauten von Brücken über den Schienenweg, die Emscher und den Rhein-Herne-Kanal38A 44 Ratingen (A 3) – Velbert39A 44 Dreieck Lossetal – Helsa-Ost40A 45 Hagen (A 46) – Westhofen (A 1)41A 45 Haiger/Burbach – Dillenburg mit Ersatzneubau der Talbrücke Sechshelden42A 45 Siegen-Süd – Siegen mit Ersatzneubau der Siegtalbrücke43A 45 Talbrücke Rahmede im Abschnitt Lüdenscheid – Lüdenscheid-Nord44A 46 Ersatzneubau der Rheinbrücke Düsseldorf-Flehe im Abschnitt Neuss-Uedesheim – Düsseldorf-Bilk45A 46 Westring – Kreuz Sonnborn (L 418)46A 48 Ersatzneubau der Rheinbrücke Bendorf im Abschnitt Kreuz Koblenz-Nord – Bendorf/Neuwied47A 49 Bischhausen – A 548A 52 Kreuz Breitscheid – Essen-Rüttenscheid mit Ersatzneubau Ruhrtalbrücke Mintard49A 52 Kreuz Mönchengladbach (A 61) – Kreuz Neersen (A 44)50A 57 Kreuz Köln-Nord (A 1) – Kreuz Moers (A 40)51A 59 Kreuz Duisburg (A 40) – Duisburg-Marxloh mit Ersatzneubau der Berliner Brücke, des Brückenzug Gartsträuch und des Brückenzugs Meiderich52A 60 Ersatzneubau Rheinbrücke Weisenau im Abschnitt Mainz-Innenstadt/Mainz-Laubenheim – Ginsheim-Gustavsburg53A 61 Kreuz Frankenthal (A 6) – Landesgrenze Rheinland-Pfalz – Baden-Württemberg einschließlich Ersatzneubau der Rheinbrücke Speyer54A 61 Ersatzneubau der Talbrücke Pfeddersheim im Abschnitt Worms/Mörstadt – Worms55A 64 (ehem. B 52) Ersatzneubau der Moselbrücke Ehrang im Abschnitt Trier-Ehrang – Trier56A 66 Kreuz Wiesbaden-Schierstein – Kreuz Wiesbaden57A 81 Ersatzneubau der Brücken im Abschnitt Neuenstadt (Kocher) – Kreuz Weinsberg58A 99 Dreieck München-Süd-West (A 96) – Kreuz München-Süd (A 8)59A 100 Dreieck Neukölln (A 113) – Storkower Straße60A 100 Dreieck Charlottenburg (A 111) bis einschließlich Dreieck Funkturm (A 115) einschließlich Ersatzneubau von Brücken u. a. Rudolf-Wissell-Brücke61A 111 Stolpe – Dreieck Charlottenburg (A 100)62A 255 Ersatzneubauten von Brücken im Abschnitt Hamburg-Veddel – Dreieck Norderelbe (A 1)63A 445 Werl-Nord – Hamm-Rhynern (A 2)64A 553 Kreuz Köln-Godorf (A 555) – Dreieck Köln-Lind (A 59)65A 565 Kreuz Bonn-Nord (A 565) – Dreieck Bonn-Nordost (A 59) mit Ersatzneubau der Rheinbrücke Bonn-Nord66A 565 Bonn-Poppelsdorf – Kreuz Bonn-Nord (A 555) mit Ersatzneubau des Tausendfüßlers67A 643 Dreieck Mainz (A 60) – Mainz-Mombach68A 671 Ersatzneubau der Mainbrücke Hochheim im Abschnitt Hochheim-Süd – Gustavsburg69B 6 OU Bruckdorf70B 6 OU Gröbers71B 6 OU Großkugel72B 7 Altenburg (B 93) – Landesgrenze Freistaat Thüringen/Freistaat Sachsen73B 7 Verlegung nördlich Frohburg (Landesgrenze Freistaat Thüringen/Freistaat Sachsen – nördlich Frohburg)74B 19 OU Meiningen75B 85 Altenkreith – Wetterfeld76B 87 OU Naumburg – Wethau77B 101 OU Elsterwerda78B 112 OU Frankfurt (Oder)79B 169 OU Klein Oßnig und OU Annahof/Klein Gaglow80B 169 OU Plessa81B 178 Nostitz – A 4 (Weißenberg)82B 87 OU Weißenfels83B 181 Neu- und Ausbau westlich Leipzig (A 9 bis Stadtgrenze Leipzig)84B 207 (E 47) Fehmarnsundquerung85B 221 OU Scherpenseel86B 221 OU Unterbruch87E 47 Feste Fehmarnbeltquerung
- (Puttgarden – Grenze der deutschen ausschließlichen Wirtschaftszone)88B 402/B 213/B 72 (E 233) Meppen (A 31) – Cloppenburg (A 1)
-
-##### Anlage 2 (zu § 17i Absatz 1 Satz 1 Nummer 2)
-
-(Fundstelle: BGBl. 2023 I Nr. 409, S. 10 – 11)
-
-**Vorbemerkung:**
-
-Im Sinne dieser Anlage bedeuten
-
-1. A: Bundesautobahn
-
-2. AD: Autobahndreieck
-
-3. AK: Autobahnkreuz
-
-4. AS: Anschlussstelle
-
-5. B: Bundesstraße
-
-Zu den Bundesfernstraßen gehören auch die für den Betrieb von Bundesfernstraßen notwendigen Anlagen. Die Bundesfernstraßen beginnen und enden jeweils an den Knotenpunkten, an denen sie mit dem bestehenden Straßennetz verbunden sind. Die Bezeichnung legt den jeweiligen Anfangs- und Endpunkt des Abschnitts fest. Lfd.
-Nr.AbschnittKernnetzkorridor(e)
- (gegebenenfalls sind nur
-Teilabschnitte betroffen)1A 1: AS Heiligenhafen-Ost (B 207) – AD Horster Dreieck (A 7)Skandinavien – Mittelmeer
- Nordsee – Ostsee2A 1: AD Stuhr (A 28) – AK Bremer Kreuz (A 27)Nordsee – Ostsee
- Orient/Östliches Mittelmeer3A 1: AK Lotte/Osnabrück (A 30) – AK Köln-West (A 4)Nordsee – Ostsee4A 2: AK Bad Oeynhausen (A 30) – AK Hannover Ost (A 7) – AK Magdeburg (A 14) – AD Werder (A 10)Nordsee – Ostsee
- Orient/Östliches Mittelmeer5A 3: (Rotterdam-) – Bundesgrenze Niederlande/Deutschland – AD Köln-Heumar (A 4/A 59) – AK Frankfurter Kreuz (A 5) – AK Biebelried (A 7) – AK Nürnberg (A 9) – AK Altdorf (A 6) – Bundesgrenze Deutschland/Österreich (-Wels)Rhein – Alpen
- Rhein – Donau
- Skandinavien – Mittelmeer6A 4: AK Aachen (A 44) – AD Köln-Heumar (A 3/A 59)Rhein – Alpen
- Nordsee – Ostsee7A 4: AD Nossen (A 14) – Bundesgrenze Deutschland/Polen
-(– Wrotzlaw)Nordsee – Ostsee
- Orient/Östliches Mittelmeer8A 5: Frankfurter Kreuz (A 3) – Bundesgrenze Deutschland/Schweiz (Basel)Rhein – Alpen
- Rhein – Donau9A 6: AK Altdorf (A 3) – Bundesgrenze Deutschland/Tschechien (– Praha)Rhein – Donau10A 7: (Kolding-) Bundesgrenze Dänemark/Deutschland – AD Horster Dreieck (A 1) – AD Walsrode (A 27) – AK Kreuz Biebelried (A 3)Skandinavien – Mittelmeer
- Nordsee – Ostsee
- Orient/Östliches Mittelmeer11A 8: AD Karlsruhe (A 5) – AD München-Eschenried (A 99) und AK München-Süd (A 99) – Bundesgrenze Deutschland/Österreich
-(– Salzburg).Rhein – Donau
- Skandinavien – Mittelmeer12A 9: AD Potsdam (A 10) – AK Nürnberg (A 3) – AK München-Nord (A 99)Skandinavien – Mittelmeer13A 10: vollständigNordsee – Ostsee
- Orient/Östliches Mittelmeer 
- Skandinavien – Mittelmeer14A 11: AD Barnim (A 10) – Bundesgrenze Deutschland/Polen (Szczecin/Świnoujście)Nordsee – Ostsee15A 12: AD Spreeau (A 10) – Bundesgrenze Deutschland/Polen
-(– Poznań)Nordsee – Ostsee16A 13: AK Schönefelder Kreuz (A 10) – AD Dresden Nord (A 4)Orient/Östliches Mittelmeer17A 14: AK Magdeburg (A 2) – AD Nossen (A 4)Nordsee – Ostsee
- Orient/Östliches Mittelmeer18A 17: AD Dresden-West (A 4) – Bundesgrenze Deutschland/Tschechien (– Praha)Orient/Östliches Mittelmeer19A 19: AS Rostock Überseehafen – AD Dreieck Wittstock/Dosse (A 24)Orient/Östliches Mittelmeer 
- Skandinavien – Mittelmeer20A 24: AS Hamburg Horn – AD Havelland (A 10)Orient/Östliches Mittelmeer
- Nordsee – Ostsee
- Skandinavien – Mittelmeer21A 27: AS Bremerhaven-Zentrum – AK Bremer Kreuz (A 1) – AD Walsrode (A 7)Nordsee – Ostsee
- Orient/Östliches Mittelmeer 
- Skandinavien – Mittelmeer22A 28: AK Oldenburg-Ost (A 29) – AD Stuhr (A 1)Nordsee – Ostsee
- Orient/Östliches Mittelmeer23A 29: AS Jade-Weser-Port – AK Oldenburg-Ost (A 28)Nordsee – Ostsee
- Orient/Östliches Mittelmeer24A 30: (Hengelo-) Bundesgrenze Deutschland/Niederlande (A 30) – Kreuz Lotte/Osnabrück (A 1) – AK Bad Oeynhausen (A 2)Nordsee – Ostsee25A 44: (Liège-) Bundesgrenze Deutschland/Belgien – AK Aachen (A 4)Nordsee – Ostsee
- Rhein – Alpen26A 93: AD Inntal (A 8) – Bundesgrenze Deutschland/Österreich
-(– Innsbruck)Skandinavien – Mittelmeer27A 99: AD München-Eschenried (A 8) – AK München-Süd (A 8)Rhein – Donau
- Skandinavien – Mittelmeer28B 207: AS Heiligenhafen-Ost (A 1) – PuttgardenSkandinavien – Mittelmeer
-
+Zu den Bundesfernstraßen gehören auch die für den Betrieb von Bundesfernstraßen notwendigen Anlagen. Die Bundesfernstraßen beginnen und enden jeweils an den Knotenpunkten, an denen sie mit dem bestehenden Straßennetz verbunden sind.Lfd. Nr.Bezeichnung1A 1 Dreieck Hamburg-Südost – Hamburg-Harburg2A 1 Kreuz Bremen – Dreieck Stuhr mit Ersatzneubau der Weserstrombrücke3A 1 Kreuz Kamen – Hamm-Bockum/Werne mit Ersatzneubau der Brücken über die Lippe und den Datteln-Hamm-Kanal4A 1 Kreuz Wuppertal-Nord (A 43)5A 1 Maschener Kreuz6A 1 Westhofener Kreuz (A 45)7A 1 Blankenheim – Adenau8A 1 Köln-Niehl – Kreuz Leverkusen9A 2 Kreuz Bottrop (A 31)10A 3 Ersatzneubau Brückenbauwerk Lippe und Wesel-Datteln-Kanal mit Anschlussstelle Hünxe11A 3 Kreuz Kaiserberg (A 40) – Kreuz Oberhausen-West mit Ersatzneubau von Brücken12A 3 Kreuz Oberhausen (A 2/A 516) – Dinslaken Süd mit Ersatzneubauten von Brücken13A 3 Leverkusen-Zentrum – Kreuz Leverkusen (A 1)14A 3 Nittendorf – Kreuz Regensburg mit Ersatzneubau der Donaubrücke Sinzing15A 3 Wiesbadener Kreuz (A 66)16A 3 Offenbacher Kreuz (A 661)17A 4 Kreuz Köln-Süd (A 555) – Kreuz Köln-Gremberg (A 559) mit Ersatzneubau Rheinbrücke Rodenkirchen18A 4 Dreieck Nossen – Hermsdorf19A 5 Nordwestkreuz Frankfurt (A 66)20A 5 Westkreuz Frankfurt (A 648)21A 5 Kreuz Bad Homburg (A 661)22A 5 Dreieck Karlsruhe23A 6 Saarbrücken-Fechingen – St. Ingbert-West mit Ersatzneubau Talbrücke Fechingen24A 6 Kreuz Frankenthal – Mannheim-Sandhofen mit Ersatzneubau Theodor-Heuss-Rheinbrücke25A 6 Kreuz Mannheim – Schwetzingen/Hockenheim mit Ersatzneubau der Brückenbauwerke26A 6 Kreuz Weinsberg (A 81) – Landesgrenze Baden-Württemberg/Bayern27A 7 Berkheim – Kreuz Memmingen mit Ersatzneubau der Brücke über die Iller bei Egelsee28A 7 Dreieck Hittistetten – Vöhringen mit Ersatzneubau der Talbrücke Witzighausen29A 8 Mühlhausen – Hohenstadt30A 8 Kreuz München-Süd (A 99) – Bundesgrenze Deutschland/Österreich31A 10 Ersatzneubau der Brücke über das Mühlenfließ im Abschnitt Rüdersdorf – Erkner32A 10 Erkner – Freienbrink33A 12 Dreieck Spreeau – Frankfurt/Oder34A 14 Leipzig-Ost – Dreieck Parthenaue35A 20 Westerstede (A 28) – Weede36A 26 Drochtersen (A 20) – Dreieck Hamburg-Stillhorn (A 1)37A 27 Ersatzneubauten der Moorbrücke, der Geestebrücke und des Überführungsbauwerks Bremerhaven-Zentrum im Abschnitt Bremerhaven-Geestemünde – Bremerhaven-Überseehäfen38A 27 Ersatzneubau Lesumbrücke39A 33 Bielefeld-Brackwede – Borgholzhausen einschließlich Zubringer Ummeln40A 33 Dreieck Osnabrück-Nord (A 1) – Osnabrück-Belm41A 39 Lüneburg – Wolfsburg42A 40 Kreuz Kaiserberg – Essen-Frohnhausen mit Ersatzneubauten der Brückenbauwerke43A 42 Bottrop-Süd – Kreuz Essen-Nord mit Ersatzneubauten von Brücken über den Schienenweg, die Emscher und den Rhein-Herne-Kanal44A 44 Dreieck Lossetal – Helsa-Ost45A 44 Kreuz Kassel West – Dreieck Kassel-Süd mit Ersatzneubau Berghäuser Brücke46A 45 Hagen (A 46) – Westhofen (A 1)47A 45 Haiger/Burbach – Dillenburg mit Ersatzneubau der Talbrücke Sechshelden48A 45 Siegen-Süd – Siegen mit Ersatzneubau der Siegtalbrücke49A 45 Talbrücke Rahmede im Abschnitt Lüdenscheid – Lüdenscheid-Nord50A 46 Ersatzneubau der Rheinbrücke Düsseldorf-Flehe im Abschnitt Neuss-Uedesheim – Düsseldorf-Bilk51A 46 Westring – Kreuz Sonnborn (L 418)52A 48 Ersatzneubau der Rheinbrücke Bendorf im Abschnitt Kreuz Koblenz-Nord – Bendorf/Neuwied53A 52 Kreuz Breitscheid – Essen-Rüttenscheid mit Ersatzneubau Ruhrtalbrücke Mintard54A 52 Kreuz Mönchengladbach (A 61) – Kreuz Neersen (A 44)55A 57 Kreuz Köln-Nord (A 1) – Kreuz Moers (A 40)56A 59 Kreuz Duisburg (A 40) – Duisburg-Marxloh mit Ersatzneubau der Berliner Brücke, des Brückenzug Gartsträuch und des Brückenzugs Meiderich57A 60 Ersatzneubau Rheinbrücke Weisenau im Abschnitt Mainz-Innenstadt/Mainz-Laubenheim – Ginsheim-Gustavsburg58A 61 Kreuz Frankenthal (A 6) – Landesgrenze Rheinland-Pfalz – Baden-Württemberg einschließlich Ersatzneubau der Rheinbrücke Speyer59A 61 Ersatzneubau der Talbrücke Pfeddersheim im Abschnitt Worms/Mörstadt – Worms60A 64 (ehem. B 52) Ersatzneubau der Moselbrücke Ehrang im Abschnitt Trier-Ehrang – Trier61A 66 Kreuz Wiesbaden-Schierstein – Kreuz Wiesbaden62A 81 Ersatzneubau der Brücken im Abschnitt Neuenstadt (Kocher) – Kreuz Weinsberg63A 99 Dreieck München-Süd-West (A 96) – Kreuz München-Süd (A 8)64A 100 Dreieck Neukölln (A 113) – Storkower Straße65A 100 Dreieck Charlottenburg (A 111) bis einschließlich Dreieck Funkturm (A 115) einschließlich Ersatzneubau von Brücken u. a. Rudolf-Wissell-Brücke66A 111 Stolpe – Dreieck Charlottenburg (A 100)67A 255 Ersatzneubauten von Brücken im Abschnitt Hamburg-Veddel – Dreieck Norderelbe (A 1)68A 445 Werl-Nord – Hamm-Rhynern (A 2)69A 553 Kreuz Köln-Godorf (A 555) – Dreieck Köln-Lind (A 59)70A 565 Kreuz Bonn-Nord (A 565) – Dreieck Bonn-Nordost (A 59) mit Ersatzneubau der Rheinbrücke Bonn-Nord71A 565 Bonn-Poppelsdorf – Kreuz Bonn-Nord (A 555) mit Ersatzneubau des Tausendfüßlers72A 643 Dreieck Mainz (A 60) – Mainz-Mombach73A 671 Ersatzneubau der Mainbrücke Hochheim im Abschnitt Hochheim-Süd – Gustavsburg74B 6 OU Bruckdorf75B 6 OU Gröbers76B 6 OU Großkugel77B 7 Altenburg (B 93) – Landesgrenze Freistaat Thüringen/Freistaat Sachsen78B 7 Verlegung nördlich Frohburg (Landesgrenze Freistaat Thüringen/Freistaat Sachsen – nördlich Frohburg)79B 19 OU Meiningen80B 85 Altenkreith – Wetterfeld81B 87 OU Naumburg – Wethau82B 101 OU Elsterwerda83B 112 OU Neuzelle84B 112 OU Eisenhüttenstadt85B 167 OU Finowfurt86B 167 OU Eberswalde87B 169 OU Klein Oßnig und OU Annahof/Klein Gaglow88B 169 OU Plessa89B 178 Nostitz – A 4 (Weißenberg)90B 87 OU Weißenfels91B 181 Neu- und Ausbau westlich Leipzig (A 9 bis Stadtgrenze Leipzig)92B 207 (E 47) Fehmarnsundquerung93B 221 OU Scherpenseel94B 221 OU Unterbruch95B 269 OU Saarlouis – Fraulautern96B 405 OU Ersatzneubau der Fraulauterner Brücke97E 47 Feste Fehmarnbeltquerung (Puttgarden – Grenze der deutschen ausschließlichen Wirtschaftszone)98B 402/B 213/B 72 (E 233) Meppen (A 31) – Cloppenburg (A 1)
