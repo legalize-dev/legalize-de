@@ -4,20 +4,23 @@ identifier: "PRODSG-2021"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2021-07-27"
-last_updated: "2026-04-04"
+last_updated: "2026-07-31"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/prodsg_2021/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR314700021"
 slug: "prodsg_2021"
 bgbl_reference: "BGBl I 2021, 3146, 3147"
 amtabk: "ProdSG"
-stand: "Geändert durch Art. 2 G v. 27.7.2021 I 3146"
-hinweis: "Änderung durch Art. 1 G v. 3.2.2026 I Nr. 29 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Zuletzt geändert durch Art. 1 G v. 3.2.2026 I Nr. 29"
 ---
 # Gesetz über die Bereitstellung von Produkten auf dem Markt
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 Abschnitt 1Allgemeine Vorschriften§  1Zweck und Anwendungsbereich§  2BegriffsbestimmungenAbschnitt 2Voraussetzungen für die 
 Bereitstellung von Produkten auf dem Markt 
@@ -29,7 +32,7 @@ und Ausschuss für Produktsicherheit§ 25Marktüberwachung§ 26Aufgaben der Bund
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
-##### § 1 Zweck und Anwendungsbereich
+###### § 1 Zweck und Anwendungsbereich
 
 (1) Dieses Gesetz dient der Umsetzung der im Folgenden genannten Richtlinien und ist anzuwenden, wenn im Rahmen einer Geschäftstätigkeit Produkte aus dem Anwendungsbereich dieser Richtlinien auf dem Markt bereitgestellt, ausgestellt oder erstmals verwendet werden:
 
@@ -71,7 +74,7 @@ und Ausschuss für Produktsicherheit§ 25Marktüberwachung§ 26Aufgaben der Bund
 
 (6) Dieses Gesetz ist im Übrigen anzuwenden, wenn im Rahmen einer Geschäftstätigkeit Produkte auf dem Markt bereitgestellt, ausgestellt oder erstmals verwendet werden, soweit nicht in anderen Rechtsvorschriften, die Vorgaben für die Sicherheit von Produkten regeln, entsprechende oder weitergehende Vorschriften vorgesehen werden.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes bedeutet
 
@@ -149,7 +152,7 @@ c) es ohne die Teile in den Verkehr gebracht wird, die üblicherweise gesondert 
 
 ## Abschnitt 2 Voraussetzungen für die Bereitstellung von Produkten auf dem Markt sowie für das Ausstellen von Produkten
 
-##### § 3 Allgemeine Anforderungen an die Bereitstellung von Produkten auf dem Markt
+###### § 3 Allgemeine Anforderungen an die Bereitstellung von Produkten auf dem Markt
 
 (1) Sofern ein Produkt einer oder mehreren Rechtsverordnungen nach § 8 Absatz 1 unterliegt, darf es nur auf dem Markt bereitgestellt werden, wenn es
 
@@ -175,7 +178,7 @@ Die Möglichkeit, einen höheren Sicherheitsgrad zu erreichen, oder die Verfügb
 
 (5) Ein Produkt, das die Anforderungen nach Absatz 1 oder 2 oder nach der Verordnung (EU) 2023/988 nicht erfüllt, darf nur dann ausgestellt werden, wenn der Aussteller deutlich darauf hinweist, dass es diese Anforderungen nicht erfüllt und erst erworben werden kann, wenn die entsprechende Übereinstimmung hergestellt ist. Bei einer Vorführung dieser Produkte sind die erforderlichen Vorkehrungen zum Schutz der Sicherheit und Gesundheit von Personen zu treffen.
 
-##### § 4 Harmonisierte Normen
+###### § 4 Harmonisierte Normen
 
 (1) Bei der Beurteilung, ob ein Produkt den Anforderungen nach § 3 Absatz 1 entspricht, können harmonisierte Normen zugrunde gelegt werden.
 
@@ -183,7 +186,7 @@ Die Möglichkeit, einen höheren Sicherheitsgrad zu erreichen, oder die Verfügb
 
 (3) Ist die Marktüberwachungsbehörde der Auffassung, dass eine harmonisierte Norm oder eine gemeinsame Spezifikation den von ihr abgedeckten Anforderungen nach § 3 Absatz 1 oder nach der Verordnung (EU) 2016/425, nach der Verordnung (EU) 2016/426, nach der Verordnung (EU) 2023/988 oder nach der Verordnung (EU) 2023/1230 nicht vollständig entspricht, so unterrichtet sie hiervon unter Angabe der Gründe die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin überprüft die Vollständigkeit und Schlüssigkeit der eingegangenen Meldungen und informiert den Ausschuss für Produktsicherheit. Sie leitet die Meldungen dem zuständigen Bundesministerium zur Weitergabe an die Europäische Kommission zu.
 
-##### § 5 Normen und andere technische Spezifikationen
+###### § 5 Normen und andere technische Spezifikationen
 
 (1) Bei der Beurteilung, ob ein Produkt den Anforderungen nach § 3 Absatz 2 entspricht, können Normen und andere technische Spezifikationen zugrunde gelegt werden.
 
@@ -191,7 +194,7 @@ Die Möglichkeit, einen höheren Sicherheitsgrad zu erreichen, oder die Verfügb
 
 (3) Ist die Marktüberwachungsbehörde der Auffassung, dass eine Norm oder eine andere technische Spezifikation den von ihr abgedeckten Anforderungen nach § 3 Absatz 2 oder nach der Verordnung (EU) 2023/988 nicht vollständig entspricht, so unterrichtet sie hiervon unter Angabe der Gründe die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin. Diese informiert den Ausschuss für Produktsicherheit, der die Ermittlung der Norm oder der technischen Spezifikation überprüft. Wenn die Norm oder die technische Spezifikation den Anforderungen nach § 3 Absatz 2 oder nach der Verordnung (EU) 2023/988 nicht vollständig entspricht, wird die Veröffentlichung der Norm oder der technischen Spezifikation eingeschränkt oder rückgängig gemacht.
 
-##### § 6 Sprache der Informationen, Sicherheitsinformationen, Anweisungen und Warnhinweise
+###### § 6 Sprache der Informationen, Sicherheitsinformationen, Anweisungen und Warnhinweise
 
 Bei Produkten nach Artikel 2 der Verordnung (EU) 2023/988 sind in deutscher Sprache abzufassen:
 
@@ -205,7 +208,7 @@ Bei Produkten nach Artikel 2 der Verordnung (EU) 2023/988 sind in deutscher Spra
 
 5. die Warnhinweise und Sicherheitsinformationen nach Artikel 22 Absatz 9 Buchstabe d der Verordnung (EU) 2023/988.
 
-##### § 7 CE-Kennzeichnung
+###### § 7 CE-Kennzeichnung
 
 (1) Für die CE-Kennzeichnung gelten die allgemeinen Grundsätze nach Artikel 30 der Verordnung (EG) Nr. 765/2008.
 
@@ -221,7 +224,7 @@ Bei Produkten nach Artikel 2 der Verordnung (EU) 2023/988 sind in deutscher Spra
 
 (5) Die CE-Kennzeichnung muss angebracht werden, bevor das Produkt in den Verkehr gebracht wird. Nach der CE-Kennzeichnung und gegebenenfalls nach der Kennnummer kann ein Piktogramm oder ein anderes Zeichen stehen, das auf ein besonderes Risiko oder eine besondere Verwendung hinweist.
 
-##### § 8 Ermächtigung zum Erlass von Rechtsverordnungen
+###### § 8 Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Das Bundesministerium des Innern, das Bundesministerium der Verteidigung, das Bundesministerium für Wirtschaft und Energie, das Bundesministerium für Arbeit und Soziales, das Bundesministerium für Verkehr, das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit, das Bundesministerium für Landwirtschaft, Ernährung und Heimat sowie das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen werden ermächtigt, jeweils für Produkte in ihrem Zuständigkeitsbereich im Einvernehmen mit den anderen zuvor genannten Bundesministerien Rechtsverordnungen zu erlassen. Rechtsverordnungen nach Satz 1 bedürfen der Anhörung des Ausschusses für Produktsicherheit und der Zustimmung des Bundesrates. Rechtsverordnungen nach Satz 1 dürfen erlassen werden zum Schutz der Sicherheit und Gesundheit von Personen, zum Schutz der Umwelt und sonstiger Rechtsgüter vor Risiken, die von Produkten ausgehen, insbesondere auch um Verpflichtungen aus zwischenstaatlichen Vereinbarungen zu erfüllen oder um die von der Europäischen Union erlassenen Rechtsvorschriften umzusetzen oder durchzuführen. Durch diese Rechtsverordnungen können geregelt werden:
 
@@ -253,7 +256,7 @@ Die Rechtsverordnungen können auch die mit Satz 3 Nummer 1 bis 3 verbundenen be
 
 ## Abschnitt 3 Bestimmungen über die Befugnis erteilende Behörde
 
-##### § 9 Aufgaben der Befugnis erteilenden Behörde
+###### § 9 Aufgaben der Befugnis erteilenden Behörde
 
 (1) Die Befugnis erteilende Behörde erteilt Konformitätsbewertungsstellen auf Antrag die Befugnis, bestimmte Konformitätsbewertungstätigkeiten durchzuführen. Sie ist zuständig für die Einrichtung und Durchführung der dazu erforderlichen Verfahren. Sie ist auch zuständig für die Einrichtung und Durchführung der Verfahren, die zur Überwachung der Konformitätsbewertungsstellen erforderlich sind, denen sie die Befugnis zur Durchführung bestimmter Konformitätsbewertungstätigkeiten erteilt hat.
 
@@ -263,7 +266,7 @@ Die Rechtsverordnungen können auch die mit Satz 3 Nummer 1 bis 3 verbundenen be
 
 (4) Die Befugnis erteilende Behörde übermittelt der zuständigen Marktüberwachungsbehörde auf Anforderung die Informationen, die für deren Aufgabenerfüllung erforderlich sind. Dazu gehören insbesondere die Befugniserteilungsbescheide und sonstige Informationen, die Einfluss auf die Durchführung der Konformitätsbewertungsverfahren haben.
 
-##### § 10 Anforderungen an die Befugnis erteilende Behörde
+###### § 10 Anforderungen an die Befugnis erteilende Behörde
 
 (1) Die Länder haben die Befugnis erteilende Behörde so einzurichten, dass es zu keinerlei Interessenkonflikt mit den Konformitätsbewertungsstellen kommt; insbesondere darf die Befugnis erteilende Behörde weder Tätigkeiten, die Konformitätsbewertungsstellen durchführen, noch Beratungsleistungen auf einer gewerblichen oder wettbewerblichen Basis anbieten oder erbringen.
 
@@ -271,7 +274,7 @@ Die Rechtsverordnungen können auch die mit Satz 3 Nummer 1 bis 3 verbundenen be
 
 (3) Der Befugnis erteilenden Behörde muss kompetentes Personal in ausreichender Zahl zur Verfügung stehen, so dass sie ihre Aufgaben ordnungsgemäß wahrnehmen kann.
 
-##### § 11 Befugnisse der Befugnis erteilenden Behörde
+###### § 11 Befugnisse der Befugnis erteilenden Behörde
 
 (1) Die Befugnis erteilende Behörde kann von den Konformitätsbewertungsstellen, denen sie die Befugnis zur Durchführung bestimmter Konformitätsbewertungstätigkeiten erteilt hat, die zur Erfüllung ihrer Überwachungsaufgaben erforderlichen Auskünfte einschließlich der Herausgabe personenbezogener Daten, soweit dies zur Überprüfung der Kompetenz der Stelle erforderlich ist, und sonstige Unterstützung verlangen sowie die dazu erforderlichen Anordnungen treffen. Die Befugnis erteilende Behörde ist insbesondere befugt zu verlangen, dass ihr diejenigen Unterlagen vorgelegt werden, die der Konformitätsbewertung zugrunde liegen. Die personenbezogenen Daten umfassen Vorname, Name, Adresse, berufliche Qualifikationen, Fort-und Weiterbildungen sowie berufliche Stationen. Die von der Befugnis erteilenden Behörde erhobenen personenbezogenen Daten sind unverzüglich zu löschen, sobald sie nicht mehr erforderlich sind, spätestens drei Jahre nach Auslaufen der Befugnis. Ausgenommen davon sind Vorname, Name und Adresse, die nach zehn Jahren zu löschen sind.
 
@@ -283,7 +286,7 @@ Die Rechtsverordnungen können auch die mit Satz 3 Nummer 1 bis 3 verbundenen be
 
 ## Abschnitt 4 Notifizierung von Konformitätsbewertungsstellen
 
-##### § 12 Anträge auf Notifizierung
+###### § 12 Anträge auf Notifizierung
 
 (1) Eine Konformitätsbewertungsstelle kann bei der Befugnis erteilenden Behörde die Befugnis beantragen, als notifizierte Stelle tätig werden zu dürfen.
 
@@ -295,7 +298,7 @@ Die Rechtsverordnungen können auch die mit Satz 3 Nummer 1 bis 3 verbundenen be
 
 (3) Kann die Konformitätsbewertungsstelle keine Akkreditierungsurkunde vorweisen, legt sie der Befugnis erteilenden Behörde als Nachweis alle Unterlagen vor, die erforderlich sind, um überprüfen, feststellen und regelmäßig überwachen zu können, ob sie die Anforderungen des § 13 erfüllt.
 
-##### § 13 Anforderungen an die Konformitätsbewertungsstelle für ihre Notifizierung
+###### § 13 Anforderungen an die Konformitätsbewertungsstelle für ihre Notifizierung
 
 (1) Die Konformitätsbewertungsstelle muss Rechtspersönlichkeit besitzen. Sie muss selbstständig Verträge abschließen, unbewegliches Vermögen erwerben und darüber verfügen können sowie vor Gericht klagen und verklagt werden können.
 
@@ -331,13 +334,13 @@ Die Konformitätsbewertungsstelle muss über die erforderlichen Mittel zur angem
 
 (9) Das Personal der Konformitätsbewertungsstelle darf die ihnen im Rahmen einer Konformitätsbewertung bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse der Konformitätsbewertungsstelle oder eines Dritten liegt, nicht unbefugt offenbaren oder verwerten, auch wenn ihre Tätigkeit beendet ist. Die von der Konformitätsbewertungsstelle zu beachtenden Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
 
-##### § 14 Konformitätsvermutung
+###### § 14 Konformitätsvermutung
 
 (1) Weist eine Konformitätsbewertungsstelle durch eine Akkreditierung nach, dass sie die Kriterien der einschlägigen harmonisierten Normen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden sind, oder von Teilen dieser Normen erfüllt, wird vermutet, dass sie die Anforderungen nach § 13 in dem Umfang erfüllt, in dem die anwendbaren harmonisierten Normen diese Anforderungen abdecken.
 
 (2) Ist die Befugnis erteilende Behörde der Auffassung, dass eine harmonisierte Norm den von ihr abgedeckten Anforderungen nach § 13 nicht vollständig entspricht, so unterrichtet sie hiervon unter Angabe der Gründe die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin überprüft die eingegangenen Meldungen auf Vollständigkeit und Schlüssigkeit und informiert den Ausschuss für Produktsicherheit. Sie leitet die Meldungen dem zuständigen Bundesministerium zur Weitergabe an die Europäische Kommission zu.
 
-##### § 15 Erteilung der Befugnis, Notifizierungsverfahren
+###### § 15 Erteilung der Befugnis, Notifizierungsverfahren
 
 (1) Hat die Befugnis erteilende Behörde festgestellt, dass eine Konformitätsbewertungsstelle die Anforderungen nach § 13 erfüllt, so erteilt sie dieser die Befugnis, Konformitätsbewertungsaufgaben nach den Rechtsverordnungen nach § 8 Absatz 1, die erlassen wurden, um Rechtsvorschriften der Europäischen Union umzusetzen oder durchzuführen, wahrzunehmen. Anschließend notifiziert die Befugnis erteilende Behörde die Konformitätsbewertungsstelle mit Hilfe des elektronischen Notifizierungsinstruments, das von der Europäischen Kommission entwickelt und verwaltet wird.
 
@@ -355,7 +358,7 @@ Die Befugnis kann unter weiteren Bedingungen erteilt und mit Auflagen verbunden 
 
 (5) Die Befugnis erteilende Behörde erteilt der Europäischen Kommission auf Verlangen sämtliche Auskünfte über die Grundlage für die Notifizierung oder über die Erhaltung der Kompetenz der betreffenden Stelle.
 
-##### § 16 Verpflichtungen der notifizierten Stelle
+###### § 16 Verpflichtungen der notifizierten Stelle
 
 (1) Die notifizierte Stelle führt die Konformitätsbewertung im Einklang mit den Konformitätsbewertungsverfahren gemäß den Rechtsverordnungen nach § 8 Absatz 1 und unter Wahrung der Verhältnismäßigkeit durch.
 
@@ -367,7 +370,7 @@ Die Befugnis kann unter weiteren Bedingungen erteilt und mit Auflagen verbunden 
 
 (5) Die notifizierte Stelle hat an den einschlägigen Normungsaktivitäten und den Aktivitäten der Koordinierungsgruppe notifizierter Stellen, die im Rahmen der jeweiligen Harmonisierungsrechtsvorschriften der Europäischen Union geschaffen wurden, mitzuwirken oder dafür zu sorgen, dass ihr Konformitätsbewertungspersonal darüber informiert wird. Sie hat die von dieser Gruppe erarbeiteten Verwaltungsentscheidungen und Dokumente als allgemeine Leitlinie anzuwenden.
 
-##### § 17 Meldepflichten der notifizierten Stelle
+###### § 17 Meldepflichten der notifizierten Stelle
 
 (1) Die notifizierte Stelle meldet der Befugnis erteilenden Behörde
 
@@ -381,7 +384,7 @@ Die Befugnis kann unter weiteren Bedingungen erteilt und mit Auflagen verbunden 
 
 (2) Die notifizierte Stelle übermittelt den anderen notifizierten Stellen, die unter der jeweiligen Harmonisierungsrechtsvorschrift der Europäischen Union notifiziert sind, ähnlichen Konformitätsbewertungstätigkeiten nachgehen und gleichartige Produkte abdecken, einschlägige Informationen über die negativen und auf Verlangen auch über die positiven Ergebnisse von Konformitätsbewertungen.
 
-##### § 18 Zweigunternehmen einer notifizierten Stelle und Vergabe von Unteraufträgen
+###### § 18 Zweigunternehmen einer notifizierten Stelle und Vergabe von Unteraufträgen
 
 (1) Vergibt die notifizierte Stelle bestimmte mit der Konformitätsbewertung verbundene Aufgaben an Unterauftragnehmer oder überträgt sie diese Aufgaben einem Zweigunternehmen, stellt sie sicher, dass der Unterauftragnehmer oder das Zweigunternehmen die Anforderungen des § 13 erfüllt, und unterrichtet die Befugnis erteilende Behörde entsprechend.
 
@@ -391,7 +394,7 @@ Die Befugnis kann unter weiteren Bedingungen erteilt und mit Auflagen verbunden 
 
 (4) Die notifizierte Stelle hält die einschlägigen Unterlagen über die Begutachtung der Qualifikation des Unterauftragnehmers oder des Zweigunternehmens und über die von ihm gemäß den Rechtsverordnungen nach § 8 Absatz 1 ausgeführten Arbeiten für die Befugnis erteilende Behörde bereit.
 
-##### § 19 Widerruf der erteilten Befugnis
+###### § 19 Widerruf der erteilten Befugnis
 
 (1) Wenn die Befugnis erteilende Behörde feststellt oder darüber unterrichtet wird, dass eine notifizierte Stelle die in § 13 genannten Anforderungen nicht mehr erfüllt oder dass sie ihren Verpflichtungen nicht nachkommt, widerruft sie ganz oder teilweise die erteilte Befugnis. Sie unterrichtet unverzüglich die Europäische Kommission und die anderen Mitgliedstaaten der Europäischen Union darüber.
 
@@ -399,7 +402,7 @@ Die Befugnis kann unter weiteren Bedingungen erteilt und mit Auflagen verbunden 
 
 ## Abschnitt 5 GS-Zeichen
 
-##### § 20 Zuerkennung des GS-Zeichens
+###### § 20 Zuerkennung des GS-Zeichens
 
 (1) Ein verwendungsfertiges und geeignetes Produkt darf mit dem GS-Zeichen gemäß der Anlage versehen werden, wenn das GS-Zeichen von einer GS-Stelle auf Antrag des Herstellers oder seines Bevollmächtigten zuerkannt worden ist. Sofern der Hersteller nicht in der Europäischen Union oder in der Europäischen Freihandelszone ansässig ist oder keine ladungsfähige Adresse in der Europäischen Union oder der Europäischen Freihandelszone angeben kann, muss ein Bevollmächtigter den Antrag stellen.
 
@@ -421,7 +424,7 @@ Die Befugnis kann unter weiteren Bedingungen erteilt und mit Auflagen verbunden 
 
 (5) Die GS-Stelle hat eine Bescheinigung über die Zuerkennung des GS-Zeichens auszustellen. Die Zuerkennung ist auf höchstens fünf Jahre zu befristen oder auf ein bestimmtes Fertigungskontingent oder -los zu beschränken.
 
-##### § 21 Befugnis für die Tätigkeit als GS-Stelle
+###### § 21 Befugnis für die Tätigkeit als GS-Stelle
 
 (1) Eine Konformitätsbewertungsstelle, die im Geltungsbereich dieses Gesetzes ansässig ist, kann bei der Befugnis erteilenden Behörde beantragen, als GS-Stelle für einen bestimmten Aufgabenbereich tätig werden zu dürfen. Die GS-Stelle muss ihre Konformitätsbewertungstätigkeiten im Sinne von § 13 Absatz 5 und 6 grundsätzlich auch im Sitzland der GS-Stelle durchführen; § 23 Absatz 1 bleibt unberührt. Das Verfahren zur Prüfung des Antrags kann nach den Vorschriften des Verwaltungsverfahrensgesetzes über eine einheitliche Stelle abgewickelt werden und muss innerhalb von sechs Monaten abgeschlossen sein. Die Frist für das Verfahren beginnt mit Eingang der vollständigen Unterlagen. Die Befugnis erteilende Behörde kann diese Frist einmalig um höchstens drei Monate verlängern. Die Fristverlängerung ist ausreichend zu begründen und dem Antragsteller rechtzeitig mitzuteilen.
 
@@ -445,7 +448,7 @@ In der grenzüberschreitenden Behördenvereinbarung nach Satz 3 Nummer 1 müssen
 
 3. eine den Grundsätzen des § 9 Absatz 3 entsprechende Überwachung der GS-Stelle.
 
-##### § 22 Pflichten der GS-Stellen
+###### § 22 Pflichten der GS-Stellen
 
 (1) Die GS-Stelle hat eine Liste aller ausgestellten Bescheinigungen über die Zuerkennung des GS-Zeichens zu veröffentlichen. Dabei sind zu jeder Bescheinigung alle Daten anzugeben, die zur eindeutigen Identifizierung des jeweils mit dem GS-Zeichen versehenen Produktes erforderlich sind. Die GS-Stellen sollen dazu auch geeignete Abbildungen veröffentlichen.
 
@@ -465,7 +468,7 @@ In der grenzüberschreitenden Behördenvereinbarung nach Satz 3 Nummer 1 müssen
 
 (9) Die GS-Stelle hat an den einschlägigen Erfahrungsaustauschkreisen regelmäßig mitzuwirken und dafür zu sorgen, dass ihr Konformitätsbewertungspersonal über die Ergebnisse informiert wird. Sie hat an der Erarbeitung der für sie einschlägigen GS-Spezifikationen sowie an weiteren Schriften mitzuwirken und dafür zu sorgen, dass diese Beschlüsse und Dokumente angewendet werden.
 
-##### § 23 Einbeziehung von externen Stellen
+###### § 23 Einbeziehung von externen Stellen
 
 (1) Die GS-Stelle kann bestimmte, mit der Zuerkennung des GS-Zeichens verbundene Aufgaben an externe Stellen vergeben. Diese Stellen müssen die Anforderungen des § 13 erfüllen. Die Entscheidung über die Zuerkennung des GS-Zeichens kann nur durch eigenes Personal der GS-Stelle, das arbeitsvertraglich an die GS-Stelle gebunden und von der GS-Stelle zu entlohnen ist, getroffen werden.
 
@@ -481,7 +484,7 @@ In der grenzüberschreitenden Behördenvereinbarung nach Satz 3 Nummer 1 müssen
 
 (5) Die GS-Stelle hält die einschlägigen Unterlagen zu den Überwachungsmaßnahmen nach Absatz 4 Satz 2 und über die von den externen Stellen ausgeführten Tätigkeiten im Zusammenhang mit der Zuerkennung des GS-Zeichens für die Befugnis erteilende Behörde bereit.
 
-##### § 24 Pflichten des Herstellers und des Einführers
+###### § 24 Pflichten des Herstellers und des Einführers
 
 (1) Der Hersteller hat dafür Sorge zu tragen, dass die von ihm hergestellten verwendungsfertigen Produkte mit dem geprüften Baumuster übereinstimmen.
 
@@ -509,7 +512,7 @@ In der grenzüberschreitenden Behördenvereinbarung nach Satz 3 Nummer 1 müssen
 
 ## Abschnitt 6 Marktüberwachung, Bundesanstalt für Arbeitsschutz und Arbeitsmedizin und Ausschuss für Produktsicherheit
 
-##### § 25 Marktüberwachung
+###### § 25 Marktüberwachung
 
 (1) Vorbehaltlich der Sätze 2 und 3 obliegt die Marktüberwachung den nach Landesrecht zuständigen Behörden (Marktüberwachungsbehörden). Zuständigkeiten zur Durchführung dieses Gesetzes, die durch andere Rechtsvorschriften zugewiesen sind, bleiben unberührt. Werden die Bestimmungen der Verordnung (EU) 2023/988 ergänzend zu den Bestimmungen in anderen Rechtsvorschriften angewendet, so sind die für die Durchführung der anderen Rechtsvorschriften zuständigen Behörden auch für die Durchführung dieses Gesetzes und der Verordnung (EU) 2023/988 zuständig, sofern nichts anderes bestimmt worden ist. Dies gilt nicht, sofern die Bestimmungen der Verordnung (EU) 2023/988 ergänzend zu den Bestimmungen der Verordnung (EU) 2022/2065 angewandt werden.
 
@@ -543,7 +546,7 @@ In der grenzüberschreitenden Behördenvereinbarung nach Satz 3 Nummer 1 müssen
 
 (10) Wirtschaftsakteure können entsprechend Artikel 17 Absatz 2 der Verordnung (EU) 2023/988 unentgeltlich konkrete Informationen über die Durchführung der Verordnung (EU) 2023/988 auf nationaler Ebene und nationale Produktsicherheitsvorschriften für die unter die Verordnung (EU) 2023/988 fallenden Produkte verlangen. Zu diesem Zweck findet Artikel 9 Absatz 1, 4 und 5 der Verordnung (EU) 2019/515 Anwendung.
 
-##### § 26 Aufgaben der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
+###### § 26 Aufgaben der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
 
 (1) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
 
@@ -557,7 +560,7 @@ In der grenzüberschreitenden Behördenvereinbarung nach Satz 3 Nummer 1 müssen
 
 (4) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin unterstützt die Marktüberwachungsbehörden bei der Entwicklung und Durchführung der Marktüberwachungsstrategie nach § 6 Absatz 2 des Marktüberwachungsgesetzes, insbesondere, indem sie festgestellte Mängel in der Beschaffenheit von Produkten wissenschaftlich auswertet. Sie unterrichtet die Marktüberwachungsbehörden sowie den Ausschuss für Produktsicherheit regelmäßig über den Stand der Erkenntnisse und veröffentlicht die gewonnenen Erkenntnisse regelmäßig in dem von ihr betriebenen zentralen Produktsicherheitsportal. Die Vorschriften über die Verarbeitung personenbezogener Daten für Zwecke der wissenschaftlichen Forschung bleiben unberührt.
 
-##### § 27 Ausschuss für Produktsicherheit
+###### § 27 Ausschuss für Produktsicherheit
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss für Produktsicherheit eingesetzt.
 
@@ -587,7 +590,7 @@ Der Ausschuss gibt sich eine Geschäftsordnung und wählt den Vorsitzenden oder 
 
 ## Abschnitt 7 Straf- und Bußgeldvorschriften
 
-##### § 28 Bußgeldvorschriften
+###### § 28 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -695,13 +698,13 @@ b) Nummer 7 Buchstabe b
 
 (4) Die Bundesregierung wird ermächtigt, soweit es zur Durchsetzung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nummer 12 und 13 geahndet werden können.
 
-##### § 29 Strafvorschriften
+###### § 29 Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer eine in § 28 Absatz 1 Nummer 7 Buchstabe a, Nummer 9 oder 13 Buchstabe a oder Absatz 2 Nummer 7 oder 19 bezeichnete vorsätzliche Handlung beharrlich wiederholt oder durch eine solche vorsätzliche Handlung Leben oder Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet.
 
 ## Abschnitt 8 Schlussbestimmungen
 
-##### § 30 Geändertes Unionsrecht; Verordnungsermächtigung
+###### § 30 Geändertes Unionsrecht; Verordnungsermächtigung
 
 (1) Wird eine in einer Vorschrift dieses Gesetzes oder in einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung (innerstaatliche Vorschrift) genannte Vorschrift eines unmittelbar geltenden Rechtsakts der Europäischen Gemeinschaft oder der Europäischen Union aufgehoben oder für nicht mehr anwendbar erklärt, sind für die Verfolgung von Ordnungswidrigkeiten nach § 28 und von Straftaten nach § 29, die bis zum Zeitpunkt der Aufhebung oder der Nichtanwendung begangen worden sind, abweichend von § 4 Absatz 3 des Gesetzes über Ordnungswidrigkeiten und von § 2 Absatz 3 des Strafgesetzbuches die zum Zeitpunkt der Tat geltenden Vorschriften weiter anzuwenden.
 
@@ -711,7 +714,7 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer ein
 
 2. der Europäischen Gemeinschaft oder der Europäischen Union, die durch eine inhaltsgleiche Vorschrift der Europäischen Union ersetzt worden ist, durch den Verweis auf die ersetzende Vorschrift anpassen.
 
-##### Anlage Gestaltung des GS-Zeichens
+###### Anlage Gestaltung des GS-Zeichens
 
 (Fundstelle: BGBl. I 2021, 3161)
 
@@ -734,4 +737,3 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer ein
 9. Es ist zulässig, das Symbol der GS-Stelle links neben dem GS-Zeichen abzubilden. In diesem Fall muss jedoch das Symbol der GS-Stelle das GS-Zeichen berühren, damit die Einheit des Sicherheitszeichens erhalten bleibt.
 
 10. Andere grafische Darstellungen und Beschriftungen dürfen nicht mit dem GS-Zeichen verknüpft werden, wenn dadurch der Charakter und die Aussage des GS-Zeichens beeinträchtigt werden.
-
