@@ -4,24 +4,28 @@ identifier: "ERBSTG-1974"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1974-04-17"
-last_updated: "2026-04-04"
+last_updated: "2026-08-10"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/erbstg_1974/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR109330974"
 slug: "erbstg_1974"
 bgbl_reference: "BGBl I 1974, 933"
 amtabk: "ErbStG"
-stand: "zuletzt geändert durch Art. 34 G v. 2.12.2024 I Nr. 387"
+stand: "zuletzt geändert durch Art. 10 G v. 22.6.2026 I Nr. 192"
 neufassung: "Neugefasst durch Bek. v. 27.2.1997 I 378;"
 ---
 # Erbschaftsteuer- und Schenkungsteuergesetz
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ## Abschnitt 1 Steuerpflicht
 
-##### § 1 Steuerpflichtige Vorgänge
+###### § 1 Steuerpflichtige Vorgänge
 
 (1) Der Erbschaftsteuer (Schenkungsteuer) unterliegen
 
@@ -35,7 +39,7 @@ neufassung: "Neugefasst durch Bek. v. 27.2.1997 I 378;"
 
 (2) Soweit nichts anderes bestimmt ist, gelten die Vorschriften dieses Gesetzes über die Erwerbe von Todes wegen auch für Schenkungen und Zweckzuwendungen, die Vorschriften über Schenkungen auch für Zweckzuwendungen unter Lebenden.
 
-##### § 2 Persönliche Steuerpflicht
+###### § 2 Persönliche Steuerpflicht
 
 (1) Die Steuerpflicht tritt ein
 
@@ -61,11 +65,11 @@ d) Körperschaften, Personenvereinigungen und Vermögensmassen, die ihre Geschä
 
 (3) (weggefallen)
 
-##### § 2a Rechtsfähige Personengesellschaft
+###### § 2a Rechtsfähige Personengesellschaft
 
 Rechtsfähige Personengesellschaften (§ 14a Absatz 2 Nummer 2 der Abgabenordnung) gelten für Zwecke der Erbschaft- und Schenkungsteuer als Gesamthand und deren Vermögen als Gesamthandsvermögen. Bei einem Erwerb nach § 1 Absatz 1 Nummer 1 bis 3 durch eine rechtsfähige Personengesellschaft gelten deren Gesellschafter als Erwerber. Bei einer Zuwendung durch eine rechtsfähige Personengesellschaft gelten deren Gesellschafter als Zuwendende.
 
-##### § 3 Erwerb von Todes wegen
+###### § 3 Erwerb von Todes wegen
 
 (1) Als Erwerb von Todes wegen gilt
 
@@ -93,13 +97,13 @@ Rechtsfähige Personengesellschaften (§ 14a Absatz 2 Nummer 2 der Abgabenordnun
 
 7. was der Vertragserbe oder der Schlusserbe eines gemeinschaftlichen Testaments oder der Vermächtnisnehmer wegen beeinträchtigender Schenkungen des Erblassers (§§ 2287, 2288 Abs. 2 des Bürgerlichen Gesetzbuchs) von dem Beschenkten nach den Vorschriften über die ungerechtfertigte Bereicherung erlangt.
 
-##### § 4 Fortgesetzte Gütergemeinschaft
+###### § 4 Fortgesetzte Gütergemeinschaft
 
 (1) Wird die Gütergemeinschaft beim Tod eines Ehegatten oder beim Tod eines Lebenspartners fortgesetzt (§§ 1483 ff. des Bürgerlichen Gesetzbuchs), wird dessen Anteil am Gesamtgut so behandelt, als wäre er ausschließlich den anteilsberechtigten Abkömmlingen angefallen.
 
 (2) Beim Tode eines anteilsberechtigten Abkömmlings gehört dessen Anteil am Gesamtgut zu seinem Nachlaß. Als Erwerber des Anteils gelten diejenigen, denen der Anteil nach § 1490 Satz 2 und 3 des Bürgerlichen Gesetzbuchs zufällt.
 
-##### § 5 Zugewinngemeinschaft
+###### § 5 Zugewinngemeinschaft
 
 (1) Wird der Güterstand der Zugewinngemeinschaft (§ 1363 des Bürgerlichen Gesetzbuchs, § 6 des Lebenspartnerschaftsgesetzes) durch den Tod eines Ehegatten oder den Tod eines Lebenspartners beendet und der Zugewinn nicht nach § 1371 Abs. 2 des Bürgerlichen Gesetzbuchs ausgeglichen, gilt beim überlebenden Ehegatten oder beim überlebenden Lebenspartner der Betrag, den er nach Maßgabe des § 1371 Abs. 2 des Bürgerlichen Gesetzbuchs als Ausgleichsforderung geltend machen könnte, nicht als Erwerb im Sinne des § 3. Bei der Berechnung dieses Betrags bleiben von den Vorschriften der §§ 1373 bis 1383 und 1390 des Bürgerlichen Gesetzbuchs abweichende güterrechtliche Vereinbarungen unberücksichtigt. Die Vermutung des § 1377 Abs. 3 des Bürgerlichen Gesetzbuchs findet keine Anwendung. Wird der Güterstand der Zugewinngemeinschaft durch Ehevertrag oder Lebenspartnerschaftsvertrag vereinbart, gilt als Zeitpunkt des Eintritts des Güterstandes (§ 1374 Abs. 1 des Bürgerlichen Gesetzbuchs) der Tag des Vertragsabschlusses. Soweit das Endvermögen des Erblassers bei der Ermittlung des als Ausgleichsforderung steuerfreien Betrags mit einem höheren Wert als dem nach den steuerlichen Bewertungsgrundsätzen maßgebenden Wert angesetzt worden ist, gilt höchstens der dem Steuerwert des Endvermögens entsprechende Betrag nicht als Erwerb im Sinne des § 3. Sind bei der Ermittlung der Bereicherung des überlebenden Ehegatten oder des überlebenden Lebenspartners Steuerbefreiungen berücksichtigt worden, gilt die Ausgleichsforderung im Verhältnis des um den Wert des steuerbefreiten Vermögens geminderten Werts des Endvermögens zum ungeminderten Wert des Endvermögens des Erblassers nicht als Erwerb im Sinne des § 3.
 
@@ -107,7 +111,7 @@ Rechtsfähige Personengesellschaften (§ 14a Absatz 2 Nummer 2 der Abgabenordnun
 
 (3) Wird der Güterstand der Wahl-Zugewinngemeinschaft (§ 1519 des Bürgerlichen Gesetzbuchs) beendet und der Zugewinn ausgeglichen, so gehört die Ausgleichsforderung (Artikel 12 Absatz 1 des Abkommens vom 4. Februar 2010 zwischen der Bundesrepublik Deutschland und der Französischen Republik über den Güterstand der Wahl-Zugewinngemeinschaft) nicht zum Erwerb im Sinne der §§ 3 und 7.
 
-##### § 6 Vor- und Nacherbschaft
+###### § 6 Vor- und Nacherbschaft
 
 (1) Der Vorerbe gilt als Erbe.
 
@@ -117,7 +121,7 @@ Rechtsfähige Personengesellschaften (§ 14a Absatz 2 Nummer 2 der Abgabenordnun
 
 (4) Nachvermächtnisse und beim Tod des Beschwerten fällige Vermächtnisse oder Auflagen stehen den Nacherbschaften gleich.
 
-##### § 7 Schenkungen unter Lebenden
+###### § 7 Schenkungen unter Lebenden
 
 (1) Als Schenkungen unter Lebenden gelten
 
@@ -157,11 +161,11 @@ Rechtsfähige Personengesellschaften (§ 14a Absatz 2 Nummer 2 der Abgabenordnun
 
 (9) Als Schenkung gilt auch die Werterhöhung einer Beteiligung eines persönlich haftenden Gesellschafters einer Kommanditgesellschaft auf Aktien, die eine an der Gesellschaft unmittelbar oder mittelbar beteiligte natürliche Person oder Stiftung (Bedachte) durch die Leistung einer anderen Person (Zuwendender) an die Gesellschaft erlangt. Absatz 8 Satz 2 ist entsprechend anzuwenden.
 
-##### § 8 Zweckzuwendungen
+###### § 8 Zweckzuwendungen
 
 Zweckzuwendungen sind Zuwendungen von Todes wegen oder freigebige Zuwendungen unter Lebenden, die mit der Auflage verbunden sind, zugunsten eines bestimmten Zwecks verwendet zu werden, oder die von der Verwendung zugunsten eines bestimmten Zwecks abhängig sind, soweit hierdurch die Bereicherung des Erwerbers gemindert wird.
 
-##### § 9 Entstehung der Steuer
+###### § 9 Entstehung der Steuer
 
 (1) Die Steuer entsteht
 
@@ -197,7 +201,7 @@ j) im Fall des § 3 Abs. 2 Nr. 7 mit dem Zeitpunkt der Geltendmachung des Anspru
 
 ## Abschnitt 2 Wertermittlung
 
-##### § 10 Steuerpflichtiger Erwerb
+###### § 10 Steuerpflichtiger Erwerb
 
 (1) Als steuerpflichtiger Erwerb gilt die Bereicherung des Erwerbers, soweit sie nicht steuerfrei ist (§§ 5, 13, 13a, 13c, 13d, 16, 17 und 18). In den Fällen des § 3 gilt unbeschadet Absatz 10 als Bereicherung der Betrag, der sich ergibt, wenn von dem nach § 12 zu ermittelnden Wert des gesamten Vermögensanfalls, soweit er der Besteuerung nach diesem Gesetz unterliegt, die nach den Absätzen 3 bis 9 abzugsfähigen Nachlassverbindlichkeiten mit ihrem nach § 12 zu ermittelnden Wert abgezogen werden. Die vom Erblasser herrührenden Steuererstattungsansprüche sind bei der Ermittlung der Bereicherung zu berücksichtigen, auch wenn sie rechtlich erst nach dem Tod des Erblassers entstanden sind. Der unmittelbare oder mittelbare Erwerb einer Beteiligung an einer Personenvereinigung, die nicht unter § 97 Abs. 1 Satz 1 Nr. 5 des Bewertungsgesetzes fällt, gilt als Erwerb der anteiligen Wirtschaftsgüter; die dabei übergehenden Schulden und Lasten der Gesellschaft sind bei der Ermittlung der Bereicherung des Erwerbers wie eine Gegenleistung zu behandeln. Bei der Zweckzuwendung tritt an die Stelle des Vermögensanfalls die Verpflichtung des Beschwerten. Der steuerpflichtige Erwerb wird auf volle 100 Euro nach unten abgerundet. In den Fällen des § 1 Abs. 1 Nr. 4 tritt an die Stelle des Vermögensanfalls das Vermögen der Stiftung oder des Vereins.
 
@@ -229,11 +233,11 @@ j) im Fall des § 3 Abs. 2 Nr. 7 mit dem Zeitpunkt der Geltendmachung des Anspru
 
 (10) Überträgt ein Erbe ein auf ihn von Todes wegen übergegangenes Mitgliedschaftsrecht an einer Personengesellschaft unverzüglich nach dessen Erwerb auf Grund einer im Zeitpunkt des Todes des Erblassers bestehenden Regelung im Gesellschaftsvertrag an die Mitgesellschafter und ist der Wert, der sich für seinen Anteil zur Zeit des Todes des Erblassers nach § 12 ergibt, höher als der gesellschaftsvertraglich festgelegte Abfindungsanspruch, so gehört nur der Abfindungsanspruch zum Vermögensanfall im Sinne des Absatzes 1 Satz 2. Überträgt ein Erbe einen auf ihn von Todes wegen übergegangenen Geschäftsanteil an einer Gesellschaft mit beschränkter Haftung unverzüglich nach dessen Erwerb auf Grund einer im Zeitpunkt des Todes des Erblassers bestehenden Regelung im Gesellschaftsvertrag an die Mitgesellschafter oder wird der Geschäftsanteil auf Grund einer im Zeitpunkt des Todes des Erblassers bestehenden Regelung im Gesellschaftsvertrag von der Gesellschaft eingezogen und ist der Wert, der sich für seinen Anteil zur Zeit des Todes des Erblassers nach § 12 ergibt, höher als der gesellschaftsvertraglich festgelegte Abfindungsanspruch, so gehört nur der Abfindungsanspruch zum Vermögensanfall im Sinne des Absatzes 1 Satz 2.
 
-##### § 11 Bewertungsstichtag
+###### § 11 Bewertungsstichtag
 
 Für die Wertermittlung ist, soweit in diesem Gesetz nichts anderes bestimmt ist, der Zeitpunkt der Entstehung der Steuer maßgebend.
 
-##### § 12 Bewertung
+###### § 12 Bewertung
 
 (1) Die Bewertung richtet sich, soweit nicht in den Absätzen 2 bis 7 etwas anderes bestimmt ist, nach den Vorschriften des Ersten Teils des Bewertungsgesetzes (Allgemeine Bewertungsvorschriften) in der Fassung der Bekanntmachung vom 1. Februar 1991 (BGBl. I S. 230), zuletzt geändert durch Artikel 2 des Gesetzes vom 24. Dezember 2008 (BGBl. I S. 3018), in der jeweils geltenden Fassung.
 
@@ -249,7 +253,7 @@ Für die Wertermittlung ist, soweit in diesem Gesetz nichts anderes bestimmt ist
 
 (7) Ausländischer Grundbesitz und ausländisches Betriebsvermögen werden nach § 31 des Bewertungsgesetzes bewertet.
 
-##### § 13 Steuerbefreiungen
+###### § 13 Steuerbefreiungen
 
 (1) Steuerfrei bleiben
 
@@ -355,7 +359,7 @@ bb) der Verein auf Bundes-, Landes- oder Kommunalebene bei der jeweils letzten W
 
 (3) Jede Befreiungsvorschrift ist für sich anzuwenden. In den Fällen des Absatzes 1 Nr. 2 und 3 kann der Erwerber der Finanzbehörde bis zur Unanfechtbarkeit der Steuerfestsetzung erklären, daß er auf die Steuerbefreiung verzichtet.
 
-##### § 13a Steuerbefreiung für Betriebsvermögen, Betriebe der Land- und Forstwirtschaft und Anteile an Kapitalgesellschaften
+###### § 13a Steuerbefreiung für Betriebsvermögen, Betriebe der Land- und Forstwirtschaft und Anteile an Kapitalgesellschaften
 
 (1) Begünstigtes Vermögen im Sinne des § 13b Absatz 2 bleibt vorbehaltlich der folgenden Absätze zu 85 Prozent steuerfrei (Verschonungsabschlag), wenn der Erwerb begünstigten Vermögens im Sinne des § 13b Absatz 2 zuzüglich der Erwerbe im Sinne des Satzes 2 insgesamt 26 Millionen Euro nicht übersteigt. Bei mehreren Erwerben begünstigten Vermögens im Sinne des § 13b Absatz 2 von derselben Person innerhalb von zehn Jahren werden bei der Anwendung des Satzes 1 die früheren Erwerbe nach ihrem früheren Wert dem letzten Erwerb hinzugerechnet. Wird die Grenze von 26 Millionen Euro durch mehrere innerhalb von zehn Jahren von derselben Person anfallende Erwerbe überschritten, entfällt die Steuerbefreiung für die bis dahin nach Satz 1 oder Absatz 10 als steuerfrei behandelten früheren Erwerbe mit Wirkung für die Vergangenheit. Die Festsetzungsfrist für die Steuer der früheren Erwerbe endet nicht vor dem Ablauf des vierten Jahres, nachdem das für die Erbschaftsteuer zuständige Finanzamt von dem letzten Erwerb Kenntnis erlangt.
 
@@ -443,7 +447,7 @@ Voraussetzung für die Gewährung der Steuerbefreiung nach Satz 1 ist, dass das 
 
 (11) Die Absätze 1 bis 10 gelten in den Fällen des § 1 Absatz 1 Nummer 4 entsprechend.
 
-##### § 13b Begünstigtes Vermögen
+###### § 13b Begünstigtes Vermögen
 
 (1) Zum begünstigungsfähigen Vermögen gehören
 
@@ -497,7 +501,7 @@ f) die Grundstücke, Grundstücksteile, grundstücksgleichen Rechte und Bauten a
 
 (10) Das für die Bewertung der wirtschaftlichen Einheit örtlich zuständige Finanzamt im Sinne des § 152 Nummer 1 bis 3 des Bewertungsgesetzes stellt die Summen der gemeinen Werte der Finanzmittel im Sinne des Absatzes 4 Nummer 5 Satz 1, der jungen Finanzmittel im Sinne des Absatzes 4 Nummer 5 Satz 2, der Vermögensgegenstände des Verwaltungsvermögens im Sinne des Absatzes 4 Nummer 1 bis 4, der Schulden, des jungen Verwaltungsvermögens im Sinne des Absatzes 7 Satz 2, des Betriebsvermögens, das einer weder in einem Mitgliedstaat der Europäischen Union noch in einem Staat des Europäischen Wirtschaftsraums belegenen Betriebsstätte dient, und das Vorliegen der Voraussetzungen des Absatzes 4 Nummer 5 Satz 4 und 5 gesondert fest, wenn und soweit diese Werte für die Erbschaftsteuer oder eine andere Feststellung im Sinne dieser Vorschrift von Bedeutung sind. Dies gilt entsprechend, wenn nur ein Anteil am Betriebsvermögen im Sinne des Absatzes 1 Nummer 2 übertragen wird. Die Entscheidung, ob die Werte von Bedeutung sind, trifft das für die Festsetzung der Erbschaftsteuer oder für die Feststellung nach § 151 Absatz 1 Satz 1 Nummer 1 bis 3 des Bewertungsgesetzes zuständige Finanzamt. Bei Anteilen an Kapitalgesellschaften, die nach § 11 Absatz 1 des Bewertungsgesetzes zu bewerten sind, trifft die Feststellungen des Satzes 1 das örtlich zuständige Finanzamt entsprechend § 152 Nummer 3 des Bewertungsgesetzes. § 151 Absatz 3 und die §§ 152 bis 156 des Bewertungsgesetzes sind auf die Sätze 1 bis 4 entsprechend anzuwenden.
 
-##### § 13c Verschonungsabschlag bei Großerwerben von begünstigtem Vermögen
+###### § 13c Verschonungsabschlag bei Großerwerben von begünstigtem Vermögen
 
 (1) Überschreitet der Erwerb von begünstigtem Vermögen im Sinne des § 13b Absatz 2 die Grenze des § 13a Absatz 1 Satz 1 von 26 Millionen Euro, verringert sich auf Antrag des Erwerbers der Verschonungsabschlag nach § 13a Absatz 1 oder Absatz 10 um jeweils einen Prozentpunkt für jede vollen 750 000 Euro, die der Wert des begünstigten Vermögens im Sinne des § 13b Absatz 2 den Betrag von 26 Millionen Euro übersteigt. Im Fall des § 13a Absatz 10 wird ab einem Erwerb von begünstigtem Vermögen im Sinne des § 13b Absatz 2 in Höhe von 90 Millionen Euro ein Verschonungsabschlag nicht mehr gewährt.
 
@@ -505,7 +509,7 @@ f) die Grundstücke, Grundstücksteile, grundstücksgleichen Rechte und Bauten a
 
 (3) Die Absätze 1 und 2 gelten in den Fällen des § 1 Absatz 1 Nummer 4 entsprechend.
 
-##### § 13d Steuerbefreiung für zu Wohnzwecken vermietete Grundstücke
+###### § 13d Steuerbefreiung für zu Wohnzwecken vermietete Grundstücke
 
 (1) Grundstücke im Sinne des Absatzes 3 sind mit 90 Prozent ihres Werts anzusetzen.
 
@@ -523,7 +527,7 @@ f) die Grundstücke, Grundstücksteile, grundstücksgleichen Rechte und Bauten a
 
 ## Abschnitt 3 Berechnung der Steuer
 
-##### § 14 Berücksichtigung früherer Erwerbe
+###### § 14 Berücksichtigung früherer Erwerbe
 
 (1) Mehrere innerhalb von zehn Jahren von derselben Person anfallende Vermögensvorteile werden in der Weise zusammengerechnet, daß dem letzten Erwerb die früheren Erwerbe nach ihrem früheren Wert zugerechnet werden. Von der Steuer für den Gesamtbetrag wird die Steuer abgezogen, die für die früheren Erwerbe nach den persönlichen Verhältnissen des Erwerbers und auf der Grundlage der geltenden Vorschriften zur Zeit des letzten Erwerbs zu erheben gewesen wäre. Anstelle der Steuer nach Satz 2 ist die tatsächlich für die in die Zusammenrechnung einbezogenen früheren Erwerbe zu entrichtende Steuer abzuziehen, wenn diese höher ist. Die Steuer, die sich für den letzten Erwerb ohne Zusammenrechnung mit früheren Erwerben ergibt, darf durch den Abzug der Steuer nach Satz 2 oder Satz 3 nicht unterschritten werden. Erwerbe, für die sich nach den steuerlichen Bewertungsgrundsätzen kein positiver Wert ergeben hat, bleiben unberücksichtigt.
 
@@ -531,7 +535,7 @@ f) die Grundstücke, Grundstücksteile, grundstücksgleichen Rechte und Bauten a
 
 (3) Die durch jeden weiteren Erwerb veranlaßte Steuer darf nicht mehr betragen als 50 Prozent dieses Erwerbs.
 
-##### § 15 Steuerklassen
+###### § 15 Steuerklassen
 
 (1) Nach dem persönlichen Verhältnis des Erwerbers zum Erblasser oder Schenker werden die folgenden drei Steuerklassen unterschieden:
 
@@ -573,7 +577,7 @@ alle übrigen Erwerber und die Zweckzuwendungen.
 
 (4) Bei einer Schenkung durch eine Kapitalgesellschaft oder Genossenschaft ist der Besteuerung das persönliche Verhältnis des Erwerbers zu derjenigen unmittelbar oder mittelbar beteiligten natürlichen Person oder Stiftung zugrunde zu legen, durch die sie veranlasst ist. In diesem Fall gilt die Schenkung bei der Zusammenrechnung früherer Erwerbe (§ 14) als Vermögensvorteil, der dem Bedachten von dieser Person anfällt.
 
-##### § 16 Freibeträge
+###### § 16 Freibeträge
 
 (1) Steuerfrei bleibt in den Fällen der unbeschränkten Steuerpflicht (§ 2 Absatz 1 Nummer 1) der Erwerb
 
@@ -593,7 +597,7 @@ alle übrigen Erwerber und die Zweckzuwendungen.
 
 (2) In den Fällen der beschränkten Steuerpflicht (§ 2 Absatz 1 Nummer 3) wird der Freibetrag nach Absatz 1 um einen Teilbetrag gemindert. Dieser Teilbetrag entspricht dem Verhältnis der Summe der Werte des in demselben Zeitpunkt erworbenen, nicht der beschränkten Steuerpflicht unterliegenden Vermögens und derjenigen, nicht der beschränkten Steuerpflicht unterliegenden Vermögensvorteile, die innerhalb von zehn Jahren von derselben Person angefallen sind, zum Wert des Vermögens, das insgesamt innerhalb von zehn Jahren von derselben Person angefallenen ist. Die früheren Erwerbe sind mit ihrem früheren Wert anzusetzen.
 
-##### § 17 Besonderer Versorgungsfreibetrag
+###### § 17 Besonderer Versorgungsfreibetrag
 
 (1) Neben dem Freibetrag nach § 16 wird dem überlebenden Ehegatten und dem überlebenden Lebenspartner ein besonderer Versorgungsfreibetrag von 256 000 Euro gewährt. Der Freibetrag wird bei Ehegatten oder bei Lebenspartnern, denen aus Anlass des Todes des Erblassers nicht der Erbschaftsteuer unterliegende Versorgungsbezüge zustehen, um den nach § 14 des Bewertungsgesetzes zu ermittelnden Kapitalwert dieser Versorgungsbezüge gekürzt.
 
@@ -613,13 +617,13 @@ Stehen dem Kind aus Anlaß des Todes des Erblassers nicht der Erbschaftsteuer un
 
 (3) In den Fällen der beschränkten Steuerpflicht (§ 2 Absatz 1 Nummer 3) wird der besondere Versorgungsfreibetrag nach Absatz 1 oder 2 gewährt, wenn die Staaten, in denen der Erblasser ansässig war oder der Erwerber ansässig ist, auf Grund völkervertraglicher Abkommen oder Übereinkommen verpflichtet sind, der Bundesrepublik Deutschland entsprechend dem OECD-Standard für Transparenz und effektiven Informationsaustausch auf Ersuchen im Sinne des § 4 Absatz 2 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des Steueroasen-Abwehrgesetzes in Bezug auf die Erbschaftsteuer Amtshilfe zu leisten. Das Bundesministerium der Finanzen veröffentlicht im Bundessteuerblatt Teil I eine Liste der Drittstaaten, die die Voraussetzungen nach Satz 1 erfüllen.
 
-##### § 18 Mitgliederbeiträge
+###### § 18 Mitgliederbeiträge
 
 Beiträge an Personenvereinigungen und rechtsfähige Vereine, die nicht lediglich die Förderung ihrer Mitglieder zum Zweck haben, sind steuerfrei, soweit die von einem Mitglied im Kalenderjahr der Vereinigung geleisteten Beiträge 300 Euro nicht übersteigen. § 13 Abs. 1 Nr. 16 und 18 bleibt unberührt.
 
-##### § 19 Steuersätze
+###### § 19 Steuersätze
 
-(1) Die Erbschaftsteuer wird nach folgenden Prozentsätzen erhoben:
+(1) Die Erbschaftsteuer wird nach folgenden Prozentsätzen erhoben: 
 
 Wert des steuerpflichtigen
 Erwerbs (§ 10)
@@ -636,7 +640,7 @@ b) bei einem Steuersatz über 30 Prozent aus drei Vierteln,
 
 des die Wertgrenze übersteigenden Betrags gedeckt werden kann.
 
-##### § 19a Tarifbegrenzung beim Erwerb von Betriebsvermögen, von Betrieben der Land- und Forstwirtschaft und von Anteilen an Kapitalgesellschaften
+###### § 19a Tarifbegrenzung beim Erwerb von Betriebsvermögen, von Betrieben der Land- und Forstwirtschaft und von Anteilen an Kapitalgesellschaften
 
 (1) Sind in dem steuerpflichtigen Erwerb einer natürlichen Person der Steuerklasse II oder III Betriebsvermögen, land- und forstwirtschaftliches Vermögen oder Anteile an Kapitalgesellschaften im Sinne des Absatzes 2 enthalten, ist von der tariflichen Erbschaftsteuer ein Entlastungsbetrag nach Absatz 4 abzuziehen.
 
@@ -650,7 +654,7 @@ des die Wertgrenze übersteigenden Betrags gedeckt werden kann.
 
 ## Abschnitt 4 Steuerfestsetzung und Erhebung
 
-##### § 20 Steuerschuldner
+###### § 20 Steuerschuldner
 
 (1) Steuerschuldner ist der Erwerber, bei einer Schenkung auch der Schenker, bei einer Zweckzuwendung der mit der Ausführung der Zuwendung Beschwerte und in den Fällen des § 1 Abs. 1 Nr. 4 die Stiftung oder der Verein. In den Fällen des § 3 Abs. 2 Nr. 1 Satz 2 und § 7 Abs. 1 Nr. 8 Satz 2 ist die Vermögensmasse Erwerber und Steuerschuldner, in den Fällen des § 7 Abs. 1 Nr. 8 Satz 2 ist Steuerschuldner auch derjenige, der die Vermögensmasse gebildet oder ausgestattet hat.
 
@@ -666,7 +670,7 @@ des die Wertgrenze übersteigenden Betrags gedeckt werden kann.
 
 (7) Die Haftung nach Absatz 6 ist nicht geltend zu machen, wenn der in einem Steuerfall in ein Gebiet außerhalb des Geltungsbereichs dieses Gesetzes gezahlte oder außerhalb des Geltungsbereichs dieses Gesetzes wohnhaften Berechtigten zur Verfügung gestellte Betrag 5 000 Euro nicht übersteigt.
 
-##### § 21 Anrechnung ausländischer Erbschaftsteuer
+###### § 21 Anrechnung ausländischer Erbschaftsteuer
 
 (1) Bei Erwerbern, die in einem ausländischen Staat mit ihrem Auslandsvermögen zu einer der deutschen Erbschaftsteuer entsprechenden Steuer - ausländische Steuer - herangezogen werden, ist in den Fällen des § 2 Absatz 1 Nummer 1, sofern nicht die Vorschriften eines Abkommens zur Vermeidung der Doppelbesteuerung anzuwenden sind, auf Antrag die festgesetzte, auf den Erwerber entfallende, gezahlte und keinem Ermäßigungsanspruch unterliegende ausländische Steuer insoweit auf die deutsche Erbschaftsteuer anzurechnen, als das Auslandsvermögen auch der deutschen Erbschaftsteuer unterliegt. Besteht der Erwerb nur zum Teil aus Auslandsvermögen, ist der darauf entfallende Teilbetrag der deutschen Erbschaftsteuer in der Weise zu ermitteln, daß die für das steuerpflichtige Gesamtvermögen einschließlich des steuerpflichtigen Auslandsvermögens sich ergebende Erbschaftsteuer im Verhältnis des steuerpflichtigen Auslandsvermögens zum steuerpflichtigen Gesamtvermögen aufgeteilt wird. Ist das Auslandsvermögen in verschiedenen ausländischen Staaten belegen, ist dieser Teil für jeden einzelnen ausländischen Staat gesondert zu berechnen. Die ausländische Steuer ist nur anrechenbar, wenn die deutsche Erbschaftsteuer für das Auslandsvermögen innerhalb von fünf Jahren seit dem Zeitpunkt der Entstehung der ausländischen Erbschaftsteuer entstanden ist.
 
@@ -680,23 +684,23 @@ des die Wertgrenze übersteigenden Betrags gedeckt werden kann.
 
 (4) Ist nach einem Abkommen zur Vermeidung der Doppelbesteuerung die in einem ausländischen Staat erhobene Steuer auf die Erbschaftsteuer anzurechnen, sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
-##### § 22 Kleinbetragsgrenze
+###### § 22 Kleinbetragsgrenze
 
 Von der Festsetzung der Erbschaftsteuer ist abzusehen, wenn die Steuer, die für den einzelnen Steuerfall festzusetzen ist, den Betrag von 50 Euro nicht übersteigt.
 
-##### § 23 Besteuerung von Renten, Nutzungen und Leistungen
+###### § 23 Besteuerung von Renten, Nutzungen und Leistungen
 
 (1) Steuern, die von dem Kapitalwert von Renten oder anderen wiederkehrenden Nutzungen oder Leistungen zu entrichten sind, können nach Wahl des Erwerbers statt vom Kapitalwert jährlich im voraus von dem Jahreswert entrichtet werden. Die Steuer wird in diesem Fall nach dem Steuersatz erhoben, der sich nach § 19 für den gesamten Erwerb einschließlich des Kapitalwerts der Renten oder anderen wiederkehrenden Nutzungen oder Leistungen ergibt.
 
 (2) Der Erwerber hat das Recht, die Jahressteuer zum jeweils nächsten Fälligkeitstermin mit ihrem Kapitalwert abzulösen. Für die Ermittlung des Kapitalwerts im Ablösungszeitpunkt sind die Vorschriften der §§ 13 und 14 des Bewertungsgesetzes anzuwenden. Der Antrag auf Ablösung der Jahressteuer ist spätestens bis zum Beginn des Monats zu stellen, der dem Monat vorausgeht, in dem die nächste Jahressteuer fällig wird.
 
-##### § 24 Verrentung der Steuerschuld in den Fällen des § 1 Abs. 1 Nr. 4
+###### § 24 Verrentung der Steuerschuld in den Fällen des § 1 Abs. 1 Nr. 4
 
 In den Fällen des § 1 Abs. 1 Nr. 4 kann der Steuerpflichtige verlangen, daß die Steuer in 30 gleichen jährlichen Teilbeträgen (Jahresbeträgen) zu entrichten ist. Die Summe der Jahresbeträge umfaßt die Tilgung und die Verzinsung der Steuer; dabei ist von einem Zinssatz von 5,5 Prozent auszugehen.
 
-##### § 25 (weggefallen)
+###### § 25 (weggefallen)
 
-##### § 26 Ermäßigung der Steuer bei Aufhebung einer Familienstiftung oder Auflösung eines Vereins
+###### § 26 Ermäßigung der Steuer bei Aufhebung einer Familienstiftung oder Auflösung eines Vereins
 
 In den Fällen des § 7 Abs. 1 Nr. 9 ist auf die nach § 15 Abs. 2 Satz 2 zu ermittelnde Steuer die nach § 15 Abs. 2 Satz 3 festgesetzte Steuer anteilsmäßig anzurechnen
 
@@ -704,9 +708,9 @@ a) mit 50 Prozent, wenn seit der Entstehung der anrechenbaren Steuer nicht mehr 
 
 b) mit 25 Prozent, wenn seit der Entstehung der anrechenbaren Steuer mehr als zwei Jahre, aber nicht mehr als vier Jahre vergangen sind.
 
-##### § 27 Mehrfacher Erwerb desselben Vermögens
+###### § 27 Mehrfacher Erwerb desselben Vermögens
 
-(1) Fällt Personen der Steuerklasse I von Todes wegen Vermögen an, das in den letzten zehn Jahren vor dem Erwerb bereits von Personen dieser Steuerklasse erworben worden ist und für das nach diesem Gesetz eine Steuer zu erheben war, ermäßigt sich der auf dieses Vermögen entfallende Steuerbetrag vorbehaltlich des Absatzes 3 wie folgt:
+(1) Fällt Personen der Steuerklasse I von Todes wegen Vermögen an, das in den letzten zehn Jahren vor dem Erwerb bereits von Personen dieser Steuerklasse erworben worden ist und für das nach diesem Gesetz eine Steuer zu erheben war, ermäßigt sich der auf dieses Vermögen entfallende Steuerbetrag vorbehaltlich des Absatzes 3 wie folgt: 
 
 um . . . Prozentwenn zwischen den beiden Zeitpunkten der Entstehung der Steuer liegen50nicht mehr als 1 Jahr45mehr als 1 Jahr, aber nicht mehr als 2 Jahre40mehr als 2 Jahre, aber nicht mehr als 3 Jahre35mehr als 3 Jahre, aber nicht mehr als 4 Jahre30mehr als 4 Jahre, aber nicht mehr als 5 Jahre25mehr als 5 Jahre, aber nicht mehr als 6 Jahre20mehr als 6 Jahre, aber nicht mehr als 8 Jahre10mehr als 8 Jahre, aber nicht mehr als 10 Jahre
 
@@ -714,7 +718,7 @@ um . . . Prozentwenn zwischen den beiden Zeitpunkten der Entstehung der Steuer l
 
 (3) Die Ermäßigung nach Absatz 1 darf den Betrag nicht überschreiten, der sich bei Anwendung der in Absatz 1 genannten Prozentsätze auf die Steuer ergibt, die der Vorerwerber für den Erwerb desselben Vermögens entrichtet hat.
 
-##### § 28 Stundung
+###### § 28 Stundung
 
 (1) Gehört zum Erwerb von Todes wegen begünstigtes Vermögen im Sinne des § 13b Absatz 2, ist dem Erwerber die darauf entfallende Erbschaftsteuer auf Antrag bis zu sieben Jahre zu stunden. Der erste Jahresbetrag ist ein Jahr nach der Festsetzung der Steuer fällig und bis dahin zinslos zu stunden. Für die weiteren zu entrichtenden Jahresbeträge sind die §§ 234 und 238 der Abgabenordnung ab dem zweiten Jahr nach der Festsetzung der Steuer anzuwenden. § 222 der Abgabenordnung bleibt unberührt. Die Stundung endet, sobald der Erwerber, ausgehend vom Zeitpunkt der Entstehung der Steuer (§ 9), den Tatbestand nach § 13a Absatz 3 nicht einhält oder einen der Tatbestände nach § 13a Absatz 6 erfüllt. Wurde ein Antrag nach § 13a Absatz 10 oder nach § 28a Absatz 1 gestellt, ist bei der Anwendung des Satzes 5 § 13a Absatz 10 entsprechend anzuwenden. Satz 1 ist nicht auf die Erbschaftsteuer anzuwenden, die der Erwerber zu entrichten hat, weil er den Tatbestand nach § 13a Absatz 3 nicht eingehalten oder einen der Tatbestände nach § 13a Absatz 6 erfüllt hat. Die Stundung endet, sobald der Erwerber den Betrieb oder den Anteil daran überträgt oder aufgibt.
 
@@ -728,7 +732,7 @@ um . . . Prozentwenn zwischen den beiden Zeitpunkten der Entstehung der Steuer l
 
 Das Bundesministerium der Finanzen veröffentlicht im Bundessteuerblatt Teil I eine Liste der Drittstaaten, die die Voraussetzungen nach Satz 5 erfüllen.
 
-##### § 28a Verschonungsbedarfsprüfung
+###### § 28a Verschonungsbedarfsprüfung
 
 (1) Überschreitet der Erwerb von begünstigtem Vermögen im Sinne des § 13b Absatz 2 die Grenze des § 13a Absatz 1 Satz 1 von 26 Millionen Euro, ist die auf das begünstigte Vermögen entfallende Steuer auf Antrag des Erwerbers zu erlassen, soweit er nachweist, dass er persönlich nicht in der Lage ist, die Steuer aus seinem verfügbaren Vermögen im Sinne des Absatzes 2 zu begleichen. Ein Erwerber kann den Erlass nicht in Anspruch nehmen, soweit er begünstigtes Vermögen im Sinne des § 13b Absatz 2 auf Grund einer letztwilligen Verfügung des Erblassers oder einer rechtsgeschäftlichen Verfügung des Erblassers oder Schenkers auf einen Dritten übertragen muss. Satz 2 gilt entsprechend, wenn ein Erbe im Rahmen der Teilung des Nachlasses begünstigtes Vermögen auf einen Miterben überträgt. Überträgt ein Erbe erworbenes begünstigtes Vermögen im Sinne des § 13b Absatz 2 im Rahmen der Teilung des Nachlasses auf einen Dritten und gibt der Dritte dabei diesem Erwerber nicht begünstigtes Vermögen hin, das er vom Erblasser erworben hat, erhöht sich insoweit der Wert des begünstigten Vermögens des Dritten um den Wert des hingegebenen Vermögens, höchstens jedoch um den Wert des übertragenen Vermögens.
 
@@ -764,7 +768,7 @@ Der Verwaltungsakt nach Absatz 1 Satz 1 steht unter dem Vorbehalt des Widerrufs 
 
 (8) Die Absätze 1 bis 7 gelten nicht, wenn ein Antrag nach § 13c gestellt wurde.
 
-##### § 29 Erlöschen der Steuer in besonderen Fällen
+###### § 29 Erlöschen der Steuer in besonderen Fällen
 
 (1) Die Steuer erlischt mit Wirkung für die Vergangenheit,
 
@@ -778,7 +782,7 @@ Der Verwaltungsakt nach Absatz 1 Satz 1 steht unter dem Vorbehalt des Widerrufs 
 
 (2) Der Erwerber ist für den Zeitraum, für den ihm die Nutzungen des zugewendeten Vermögens zugestanden haben, wie ein Nießbraucher zu behandeln.
 
-##### § 30 Anzeige des Erwerbs
+###### § 30 Anzeige des Erwerbs
 
 (1) Jeder der Erbschaftsteuer unterliegende Erwerb (§ 1) ist vom Erwerber, bei einer Zweckzuwendung vom Beschwerten binnen einer Frist von drei Monaten nach erlangter Kenntnis von dem Anfall oder von dem Eintritt der Verpflichtung dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt schriftlich anzuzeigen.
 
@@ -812,7 +816,7 @@ Der Verwaltungsakt nach Absatz 1 Satz 1 steht unter dem Vorbehalt des Widerrufs 
 
 5. Wert und Zusammensetzung des Vermögens.
 
-##### § 31 Steuererklärung
+###### § 31 Steuererklärung
 
 (1) Das Finanzamt kann von jedem an einem Erbfall, an einer Schenkung oder an einer Zweckzuwendung Beteiligten ohne Rücksicht darauf, ob er selbst steuerpflichtig ist, die Abgabe einer Erklärung innerhalb einer von ihm zu bestimmenden Frist verlangen. Die Frist muß mindestens einen Monat betragen. In den Fällen des § 1 Absatz 1 Nummer 4 kann das Finanzamt von der Stiftung oder dem Verein sowie von jedem Familienmitglied im Sinne des § 1 Absatz 1 Nummer 4 und jedem Mitglied des Vereins die Abgabe einer Erklärung innerhalb einer von ihm zu bestimmenden Frist verlangen. Satz 2 gilt entsprechend.
 
@@ -828,13 +832,13 @@ Der Verwaltungsakt nach Absatz 1 Satz 1 steht unter dem Vorbehalt des Widerrufs 
 
 (7) Das Finanzamt kann verlangen, daß eine Steuererklärung auf einem Vordruck nach amtlich bestimmtem Muster abzugeben ist, in der der Steuerschuldner die Steuer selbst zu berechnen hat. Der Steuerschuldner hat die selbstberechnete Steuer innerhalb eines Monats nach Abgabe der Steuererklärung zu entrichten.
 
-##### § 32 Bekanntgabe des Steuerbescheides an Vertreter
+###### § 32 Bekanntgabe des Steuerbescheides an Vertreter
 
 (1) In den Fällen des § 31 Abs. 5 ist der Steuerbescheid abweichend von § 122 Abs. 1 Satz 1 der Abgabenordnung dem Testamentsvollstrecker oder Nachlaßverwalter bekanntzugeben. Diese Personen haben für die Bezahlung der Erbschaftsteuer zu sorgen. Auf Verlangen des Finanzamts ist aus dem Nachlaß Sicherheit zu leisten.
 
 (2) In den Fällen des § 31 Abs. 6 ist der Steuerbescheid dem Nachlaßpfleger bekanntzugeben. Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
 
-##### § 33 Anzeigepflicht der Vermögensverwahrer, Vermögensverwalter und Versicherungsunternehmen
+###### § 33 Anzeigepflicht der Vermögensverwahrer, Vermögensverwalter und Versicherungsunternehmen
 
 (1) Wer sich geschäftsmäßig mit der Verwahrung oder Verwaltung fremden Vermögens befaßt, hat diejenigen in seinem Gewahrsam befindlichen Vermögensgegenstände und diejenigen gegen ihn gerichteten Forderungen, die beim Tod eines Erblassers zu dessen Vermögen gehörten oder über die dem Erblasser zur Zeit seines Todes die Verfügungsmacht zustand, dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt schriftlich anzuzeigen. Die Anzeige ist zu erstatten:
 
@@ -848,7 +852,7 @@ Der Verwaltungsakt nach Absatz 1 Satz 1 steht unter dem Vorbehalt des Widerrufs 
 
 (4) Zuwiderhandlungen gegen diese Pflichten werden als Steuerordnungswidrigkeit mit Geldbuße geahndet.
 
-##### § 34 Anzeigepflicht der Gerichte, Behörden, Beamten und Notare
+###### § 34 Anzeigepflicht der Gerichte, Behörden, Beamten und Notare
 
 (1) Die Gerichte, Behörden, Beamten und Notare haben dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt schriftlich Anzeige zu erstatten über diejenigen Beurkundungen, Zeugnisse und Anordnungen, die für die Festsetzung einer Erbschaftsteuer von Bedeutung sein können.
 
@@ -860,7 +864,7 @@ Der Verwaltungsakt nach Absatz 1 Satz 1 steht unter dem Vorbehalt des Widerrufs 
 
 3. die Gerichte, die Notare und die deutschen Konsuln: die eröffneten Verfügungen von Todes wegen, die abgewickelten Erbauseinandersetzungen, die beurkundeten Vereinbarungen der Gütergemeinschaft und die beurkundeten Schenkungen und Zweckzuwendungen.
 
-##### § 35 Örtliche Zuständigkeit
+###### § 35 Örtliche Zuständigkeit
 
 (1) Örtlich zuständig für die Steuerfestsetzung ist in den Fällen, in denen der Erblasser zur Zeit seines Todes oder der Schenker zur Zeit der Ausführung der Zuwendung ein Inländer war, das Finanzamt, das sich bei sinngemäßer Anwendung des § 19 Absatz 1 und des § 20 der Abgabenordnung ergibt. Im Fall der Steuerpflicht nach § 2 Absatz 1 Nummer 1 Buchstabe b richtet sich die Zuständigkeit nach dem letzten inländischen Wohnsitz oder gewöhnlichen Aufenthalt des Erblassers oder Schenkers.
 
@@ -878,7 +882,7 @@ Der Verwaltungsakt nach Absatz 1 Satz 1 steht unter dem Vorbehalt des Widerrufs 
 
 ## Abschnitt 5 Ermächtigungs- und Schlussvorschriften
 
-##### § 36 Ermächtigungen
+###### § 36 Ermächtigungen
 
 (1) Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 
@@ -898,7 +902,7 @@ e) die Anzeige-, Mitteilungs- und Übersendungspflichten der Gerichte, Behörden
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetzes und der zu diesem Gesetz erlassenen Durchführungsverordnung in der jeweils geltenden Fassung satzweise numeriert mit neuem Datum und neuer Paragraphenfolge bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
-##### § 37 Anwendung des Gesetzes
+###### § 37 Anwendung des Gesetzes
 
 (1) Dieses Gesetz in der Fassung des Artikels 6 des Gesetzes vom 22. Dezember 2009 (BGBl. I S. 3950) findet auf Erwerbe Anwendung, für die die Steuer nach dem 31. Dezember 2009 entsteht.
 
@@ -954,7 +958,7 @@ e) die Anzeige-, Mitteilungs- und Übersendungspflichten der Gerichte, Behörden
 
 (22) § 13 Absatz 1 Nummer 16 Buchstabe c und § 17 Absatz 3 in der am 6. Dezember 2024 geltenden Fassung ist auf Erwerbe anzuwenden, für die die Steuer nach dem 31. Dezember 2024 entsteht.
 
-##### § 37a Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands
+###### § 37a Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands
 
 (1) (weggefallen)
 
@@ -972,7 +976,6 @@ e) die Anzeige-, Mitteilungs- und Übersendungspflichten der Gerichte, Behörden
 
 (8) Wurde in Erbfällen, die vor dem 1. Januar 1991 eingetreten sind, oder für Schenkungen, die vor diesem Zeitpunkt ausgeführt worden sind, die Versteuerung nach § 34 des Erbschaftsteuergesetzes der Deutschen Demokratischen Republik ausgesetzt, ist diese Vorschrift weiterhin anzuwenden, auch wenn die Steuer infolge der Aussetzung der Versteuerung erst nach dem 31. Dezember 1990 entsteht.
 
-##### § 38 (weggefallen)
+###### § 38 (weggefallen)
 
-##### § 39 (weggefallen)
-
+###### § 39 (weggefallen)
