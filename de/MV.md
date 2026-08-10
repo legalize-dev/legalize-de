@@ -4,9 +4,10 @@ identifier: "MV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "1993-09-07"
-last_updated: "2026-04-04"
+last_updated: "2026-08-10"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/mv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR155400993"
 slug: "mv"
@@ -15,19 +16,22 @@ neufassung: "Neugefasst durch Bek. v. 14.1.2025 I Nr. 14"
 ---
 # Verordnung über Mitteilungen an die Finanzbehörden durch andere Behörden und öffentlich-rechtliche Rundfunkanstalten
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 93a der Abgabenordnung vom 16. März 1976 (BGBl. I S. 613, 1977 I S. 269), der durch Artikel 1 Nr. 10 des Gesetzes vom 19. Dezember 1985 (BGBl. I S. 2436) eingefügt worden ist, verordnet die Bundesregierung:
 
 ## 1. Teil Allgemeine Vorschriften
 
-##### § 1 Grundsätze
+###### § 1 Grundsätze
 
 (1) Behörden und andere öffentliche Stellen einschließlich öffentlich-rechtlicher Rundfunkanstalten (§ 6 Absatz 1 bis 1c der Abgabenordnung) sind verpflichtet, Mitteilungen an die Finanzbehörden nach Maßgabe der folgenden Vorschriften ohne Ersuchen zu übersenden. Dies gilt nicht, wenn die Finanzbehörden bereits auf Grund anderer Vorschriften über diese Tatbestände Mitteilungen erhalten. Eine Verpflichtung zur Mitteilung besteht auch dann nicht, wenn die Gefahr besteht, dass das Bekanntwerden des Inhalts der Mitteilung dem Wohl des Bundes oder eines deutschen Landes Nachteile bereiten würde. Ist eine mitteilungspflichtige Behörde einer obersten Dienstbehörde nachgeordnet, muss die oberste Behörde dem Unterlassen der Mitteilung zustimmen; die Zustimmung kann für bestimmte Fallgruppen allgemein erteilt werden.
 
 (2) Auf Grund dieser Verordnung sind personenbezogene Daten, die dem Sozialgeheimnis unterliegen (§ 35 des Ersten Buches Sozialgesetzbuch), und nach Landesrecht zu erbringende Sozialleistungen nicht mitzuteilen.
 
-##### § 2 Allgemeine Zahlungsmitteilungen
+###### § 2 Allgemeine Zahlungsmitteilungen
 
 (1) Behörden und andere öffentliche Stellen mit Ausnahme öffentlich-rechtlicher Rundfunkanstalten haben den Finanzbehörden alle Zahlungen mitzuteilen. Satz 1 gilt nicht, sofern
 
@@ -43,27 +47,27 @@ Satz 2 Nummer 1 gilt nicht für Zahlungen an Berufsbetreuer im Sinne von § 292 
 
 (3) (weggefallen)
 
-##### § 3 Honorare der Rundfunkanstalten
+###### § 3 Honorare der Rundfunkanstalten
 
 (1) Die öffentlich-rechtlichen Rundfunkanstalten haben Honorare für Leistungen freier Mitarbeiter mitzuteilen, die in unmittelbarem Zusammenhang mit der Vorbereitung, Herstellung oder Verbreitung von Hörfunk- und Fernsehsendungen erbracht werden. Das gilt nicht, wenn die Besteuerung den Regeln eines Abzugsverfahrens unterliegt oder wenn die Finanzbehörden auf Grund anderweitiger Regelungen Mitteilungen über die Honorare erhalten.
 
 (2) Honorare im Sinne des Absatzes 1 sind alle Güter, die in Geld oder Geldeswert bestehen und dem Steuerpflichtigen für eine persönliche Leistung oder eine Verwertung im Sinne des Urheberrechtsgesetzes zufließen.
 
-##### § 4 Wegfall oder Einschränkung einer steuerlichen Vergünstigung
+###### § 4 Wegfall oder Einschränkung einer steuerlichen Vergünstigung
 
 Behörden und andere öffentliche Stellen mit Ausnahme öffentlich-rechtlicher Rundfunkanstalten haben Verwaltungsakte und öffentlich-rechtliche Verträge mitzuteilen, die den Wegfall oder die Einschränkung einer steuerlichen Vergünstigung zur Folge haben können.
 
-##### § 4a Ordnungsgelder nach § 335 des Handelsgesetzbuchs
+###### § 4a Ordnungsgelder nach § 335 des Handelsgesetzbuchs
 
 (1) Das Bundesamt für Justiz hat als mitteilungspflichtige Stelle im Sinne des § 93c Absatz 1 der Abgabenordnung den Finanzbehörden die Höhe von nach dem 31. Dezember 2021 in Verfahren nach § 335 des Handelsgesetzbuchs festgesetzten Ordnungsgeldern sowie die Daten zur Identifizierung des betroffenen publizitätsverpflichteten Unternehmens mitzuteilen, sofern das festgesetzte Ordnungsgeld mindestens 5 000 Euro beträgt. Abweichend von § 93c Absatz 1 Nummer 2 Buchstabe d der Abgabenordnung sind die Wirtschafts-Identifikationsnummer oder die Steuernummer in den Fällen nach Satz 1 dabei nur mitzuteilen, wenn sie dem Bundesamt für Justiz bekannt sind.
 
 (2) Die den Finanzbehörden übermittelten Daten sind abweichend von § 93c Absatz 1 Nummer 4 der Abgabenordnung fünf Jahre aufzubewahren; die Frist beginnt mit dem Tag der Festsetzung des Ordnungsgelds. Weitergehende Aufbewahrungsbestimmungen aufgrund anderer Rechtsvorschriften bleiben unberührt. Wird die Festsetzung eines Ordnungsgelds in einem späteren Kalenderjahr ganz oder teilweise widerrufen, zurückgenommen oder aufgehoben, ist § 93c Absatz 3 der Abgabenordnung nicht anzuwenden.
 
-##### § 5 Ausgleichs- und Abfindungszahlungen nach dem Flurbereinigungsgesetz
+###### § 5 Ausgleichs- und Abfindungszahlungen nach dem Flurbereinigungsgesetz
 
 Die Flurbereinigungsbehörden haben Ausgleichs- und Abfindungszahlungen nach dem Flurbereinigungsgesetz mitzuteilen.
 
-##### § 6 Gewerberechtliche Erlaubnisse und Gestattungen
+###### § 6 Gewerberechtliche Erlaubnisse und Gestattungen
 
 (1) Behörden und andere öffentliche Stellen mit Ausnahme öffentlich-rechtlicher Rundfunkanstalten haben mitzuteilen
 
@@ -91,7 +95,7 @@ Die Flurbereinigungsbehörden haben Ausgleichs- und Abfindungszahlungen nach dem
 
 3. den Ort der Durchführung des Werkvertrages.
 
-##### § 7 Ausnahmen von der Mitteilungspflicht über Zahlungen
+###### § 7 Ausnahmen von der Mitteilungspflicht über Zahlungen
 
 (1) Zahlungen an Behörden und andere öffentliche Stellen, Betriebe gewerblicher Art von Körperschaften des öffentlichen Rechts oder Körperschaften, die steuerbegünstigte Zwecke im Sinne des Zweiten Teils Dritter Abschnitt der Abgabenordnung verfolgen, sind nicht mitzuteilen; maßgebend sind die Verhältnisse zum Zeitpunkt der Zahlung. Das gilt auch für Mitteilungen über Leistungen, die von Körperschaften des öffentlichen Rechts im Rahmen ihrer Beteiligungen an Unternehmen oder Einrichtungen des privaten Rechts erbracht werden.
 
@@ -101,7 +105,7 @@ Die Flurbereinigungsbehörden haben Ausgleichs- und Abfindungszahlungen nach dem
 
 ## 2. Teil Mitteilungen
 
-##### § 8 Form, Inhalt und Zeitpunkt der Mitteilungen
+###### § 8 Form, Inhalt und Zeitpunkt der Mitteilungen
 
 (1) Die Mitteilungen sind den Finanzbehörden nach Maßgabe des § 93c der Abgabenordnung nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle zu übermitteln. Zur Sicherstellung der Besteuerung sind neben den in § 93c Absatz 1 Nummer 2 der Abgabenordnung genannten Angaben auch folgende Angaben zu übermitteln:
 
@@ -125,21 +129,21 @@ Werden mitzuteilende Zahlungen in einem späteren Kalenderjahr ganz oder teilwei
 
 (3) Mitteilungen nach den §§ 2 bis 6 für das Kalenderjahr 2024 sind bis 2. März 2026 elektronisch zu übermitteln. Liegen die Voraussetzungen für die elektronische Übermittlung von Mitteilungen nach den §§ 2 bis 6 für die Kalenderjahre 2024 und 2025 bei der mitteilungspflichtigen Stelle am 2. März 2026 noch nicht vor, kann die oberste Finanzbehörde des Landes, in dem die mitteilungspflichtige Stelle ihren Sitz hat, auf begründeten Antrag die Frist zur elektronischen Übermittlung der Mitteilungen höchstens bis 1. März 2027 verlängern. Soweit die mitteilungspflichtige Stelle Mitteilungen nach den §§ 2 bis 6 nicht elektronisch übermitteln kann, weil sie die nach dem amtlich vorgeschriebenen Datensatz zwingend erforderlichen Daten auch nach Ausschöpfung der ihr zumutbaren Ermittlungsmöglichkeiten nicht beschaffen kann, kann die oberste Finanzbehörde des Landes, in dem die mitteilungspflichtige Stelle ihren Sitz hat, auf begründeten Antrag unter Vorbehalt des Widerrufs mit Wirkung für die Zukunft gestatten, Mitteilungen nach den §§ 2 bis 6 für die Kalenderjahre ab 2024 nach amtlich vorgeschriebenem Formular an die oberste Landesfinanzbehörde oder die von ihr bestimmte Finanzbehörde schriftlich zu übersenden. Das Bundesministerium der Finanzen ist über eine Maßnahme nach Satz 2 oder Satz 3 zu unterrichten.
 
-##### (XXXX) §§ 9 und 10 (weggefallen)
+###### (XXXX) §§ 9 und 10 (weggefallen)
 
 ## 3. Teil Unterrichtung des Betroffenen
 
-##### (XXXX) §§ 11 und 12 (weggefallen)
+###### (XXXX) §§ 11 und 12 (weggefallen)
 
 ## 4. Teil Anwendungsbestimmung und Besondere Vorschriften
 
-##### § 13 Anwendungszeitpunkt
+###### § 13 Anwendungszeitpunkt
 
 (1) Den Zeitpunkt der erstmaligen Anwendung des § 8 in der am 1. Januar 2025 geltenden Fassung bestimmt das Bundesministerium der Finanzen im Einvernehmen mit den obersten Finanzbehörden der Länder durch ein im Bundessteuerblatt zu veröffentlichendes Schreiben. Bis zu diesem Zeitpunkt sind die §§ 8 bis 12 in der am 31. Dezember 2024 geltenden Fassung weiter anzuwenden.
 
 (2) § 4a in der am 1. Januar 2025 geltenden Fassung ist erstmals ab 1. Januar 2027 anzuwenden; bis 31. Dezember 2026 ist § 4a in der am 31. Dezember 2024 geltenden Fassung weiterhin anzuwenden. Wenn die technischen und organisatorischen Voraussetzungen für die Anwendung von § 4a in der am 1. Januar 2025 geltenden Fassung bereits zu einem früheren Zeitpunkt vorliegen, kann das Bundesministerium der Finanzen im Benehmen mit dem Bundesministerium der Justiz einen früheren erstmaligen Anwendungszeitpunkt bestimmen. Ein nach Satz 2 bestimmter Anwendungszeitpunkt ist im Bundessteuerblatt Teil I bekanntzugeben.
 
-##### § 13a Mitteilungen über Billigkeitsleistungen zur temporären Kostendämpfung des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm
+###### § 13a Mitteilungen über Billigkeitsleistungen zur temporären Kostendämpfung des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle hat als mitteilungspflichtige Stelle (§ 93c Absatz 1 der Abgabenordnung) den Finanzbehörden aus Anlass des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm bewilligte Leistungen nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung mitzuteilen.
 
@@ -159,7 +163,7 @@ Werden nach Satz 1 mitzuteilende Zahlungen in einem späteren Kalenderjahr ganz 
 
 (4) Von den Absätzen 1 bis 3 abweichende Bestimmungen dieser Verordnung sind nicht anzuwenden. § 1 Absatz 2 und § 2 Absatz 2 bleiben unberührt. Mitteilungspflichten über Leistungen im Sinne des Absatzes 1 Satz 1, die sich nach anderen Bestimmungen dieser Verordnung ergeben, sind nicht anzuwenden.
 
-##### § 14 Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen- und Hochwasserkatastrophe im Juli 2021
+###### § 14 Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen- und Hochwasserkatastrophe im Juli 2021
 
 (1) Behörden und andere öffentliche Stellen haben als mitteilungspflichtige Stellen (§ 93c Absatz 1 der Abgabenordnung) den Finanzbehörden aus Anlass der Starkregen- und Hochwasserkatastrophe im Juli 2021 als Aufbauhilfen des Bundes und der Länder aus den Mitteln des Fonds „Aufbauhilfe 2021“ bewilligte Leistungen nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung mitzuteilen; mitzuteilen sind Leistungen an
 
@@ -191,7 +195,6 @@ Werden nach Satz 1 mitzuteilende Zahlungen in einem späteren Kalenderjahr ganz 
 
 (4) Von den Absätzen 1 bis 3 abweichende Bestimmungen oder andere Mitteilungspflichten nach dieser Verordnung sind nicht anzuwenden. § 1 Absatz 2 bleibt unberührt. Das Bundesministerium der Finanzen oder die obersten Finanzbehörden der Länder können Ausnahmen von der Mitteilungspflicht nach Absatz 1 zulassen.
 
-##### Schlußformel
+###### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
