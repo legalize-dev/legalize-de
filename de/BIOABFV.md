@@ -4,19 +4,24 @@ identifier: "BIOABFV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "1998-09-21"
-last_updated: "2026-04-04"
+last_updated: "2026-08-11"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bioabfv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR295500998"
 slug: "bioabfv"
 bgbl_reference: "BGBl I 1998, 2955"
 stand: "zuletzt geändert durch Art. 1 V v. 28.4.2022 I 700; 2023 I Nr. 153"
 neufassung: "Neugefasst durch Bek. v. 4.4.2013 I 658;"
+hinweis: "Änderung durch Art. 6 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Verordnung über die Verwertung von Bioabfällen auf Böden
 
-##### § 1 Anwendungsbereich
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für
 
@@ -58,7 +63,7 @@ neufassung: "Neugefasst durch Bek. v. 4.4.2013 I 658;"
 
 (5) (weggefallen)
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bedeuten die Begriffe
 
@@ -90,7 +95,7 @@ a) bei gärtnerischen Dienstleistungen auf fremden Flächen angefallenen pflanzl
 
 b) anteilig zurückgenommenen unbehandelten pflanzlichen Bioabfällen durch Mitglieder von Erzeugerzusammenschlüssen des Wein-, Obst- und Gemüseanbaus auf selbst bewirtschaftete Betriebsflächen, soweit die pflanzlichen Ausgangserzeugnisse auf Betriebsflächen von Mitgliedern des jeweiligen Erzeugerzusammenschlusses erzeugt wurden.
 
-##### § 2a Anforderungen an die Fremdstoffentfrachtung
+###### § 2a Anforderungen an die Fremdstoffentfrachtung
 
 (1) Entsorgungsträger, Erzeuger und Besitzer dürfen zur Aufbereitung, Bioabfallbehandlung und Gemischherstellung Bioabfälle und in Anhang 1 Nummer 2 genannte Materialien abgeben, von denen angenommen werden kann, dass sie den nach Art der Bioabfälle und Materialien in Absatz 3 festgelegten Kontrollwert nicht überschreiten. Von der Anforderung des Satzes 1 kann durch Vereinbarung abgewichen werden, wenn vom Aufbereiter, Bioabfallbehandler oder Gemischhersteller durch eine Fremdstoffentfrachtung im Sinne des Absatzes 4 Satz 2 Nummer 2, Satz 3 und 4 sichergestellt werden kann, dass der Kontrollwert nicht überschritten wird.
 
@@ -122,7 +127,7 @@ Der Aufbereiter, der Bioabfallbehandler und der Gemischhersteller haben übernom
 
 (7) Die Probenahmen, Probevorbereitungen und Untersuchungen nach Absatz 4 Satz 5, Absatz 4a Satz 1 und Absatz 6 Satz 1 sind gemäß den Vorgaben des Anhangs 3 und durch unabhängige, von der zuständigen Behörde bestimmte Untersuchungsstellen durchführen zu lassen. Für die Bestimmung einer Untersuchungsstelle nach Satz 1 gilt § 3 Absatz 8a und 8b entsprechend.
 
-##### § 3 Anforderungen an die hygienisierende Behandlung
+###### § 3 Anforderungen an die hygienisierende Behandlung
 
 (1) Entsorgungsträger, Erzeuger und Besitzer haben, soweit nicht von einer Freistellung nach § 10 Absatz 1 oder Absatz 2 erfasst, Bioabfälle vor einer Aufbringung oder vor der Herstellung von Gemischen einer hygienisierenden Behandlung zuzuführen, welche die seuchen- und phytohygienische Unbedenklichkeit gewährleistet.
 
@@ -168,33 +173,33 @@ Der Temperaturverlauf während der hygienisierenden Behandlung ist mit einer st�
 
 (10) Die Absätze 1 bis 9 sind bei gemeinsamer hygienisierender Behandlung von Bioabfällen mit in Anhang 1 Nummer 2 genannten Materialien auf das gesamte Material entsprechend anzuwenden. Werden bereits hygienisierend behandelte Bioabfälle zusammen mit in Anhang 1 Nummer 2 genannten Materialien einer nachfolgenden biologisch stabilisierenden Behandlung unterzogen, gilt Absatz 4 Satz 1 Nummer 3 mit der Maßgabe, dass die Prüfungen der hygienisierten Bioabfälle erst nach der biologisch stabilisierenden Behandlung am abgabefertigen Material durchzuführen sind. Abweichend von Satz 2 können die Prüfungen der hygienisierten Bioabfälle bereits nach der hygienisierenden Behandlung am abgabefertigen Material durchgeführt werden, wenn die nachfolgende biologisch stabilisierende Behandlung der bereits hygienisierend behandelten Bioabfälle in einem landwirtschaftlichen Betrieb zusammen mit dort angefallenen biologisch abbaubaren Materialien erfolgt und die behandelten Materialien auf selbst bewirtschaftete Betriebsflächen aufgebracht werden.
 
-##### § 3a Anforderungen an die biologisch stabilisierende Behandlung
+###### § 3a Anforderungen an die biologisch stabilisierende Behandlung
 
 Entsorgungsträger, Erzeuger und Besitzer haben, soweit nicht von einer Freistellung nach § 10 Absatz 1 oder Absatz 2 erfasst, Bioabfälle vor einer Aufbringung oder vor der Herstellung von Gemischen einer biologisch stabilisierenden Behandlung zuzuführen. Die Bioabfälle sind unter Berücksichtigung der vorgesehenen Verwendung so weit biologisch zu stabilisieren, dass das Wohl der Allgemeinheit insbesondere durch Zersetzungsprozesse und Geruchsbelastungen der aufgebrachten Bioabfälle oder Gemische nicht beeinträchtigt wird.
 
-##### § 3b Behandlung von Bioabfällen in Betrieben mit Nutztierhaltung
+###### § 3b Behandlung von Bioabfällen in Betrieben mit Nutztierhaltung
 
 (1) In Betrieben mit Nutztierhaltung ist das Verbringen von Bioabfällen tierischer Herkunft nur nach einer hygienisierenden Behandlung zulässig. Werden Nutztiere in einem Betrieb in abgetrennten Bereichen gehalten, gilt Satz 1 nur für diese Betriebsbereiche.
 
 (2) Eine Behandlung von Bioabfällen tierischer Herkunft gemäß den §§ 3 und 3a darf in Betrieben mit Nutztierhaltung nur durchgeführt werden, wenn sich die Behandlungsanlage in einem zum Schutz vor der Übertragung von Seuchenerregern ausreichenden Abstand von dem Betriebsbereich befindet, in dem die Tiere gehalten werden. Der Betriebsbereich zur Behandlung der Bioabfälle einschließlich Annahme, Aufbereitung, Aufbewahrung und Abgabe ist von dem Bioabfallbehandler von Tieren, Futtermitteln und Einstreu vollständig räumlich zu trennen, um sicherzustellen, dass die Nutztiere weder unmittelbar noch mittelbar mit den Bioabfällen tierischer Herkunft in Berührung kommen. Satz 1 und 2 gilt entsprechend für Anlagen zur Behandlung von Bioabfällen tierischer Herkunft in Betrieben, die an Betriebe oder Betriebsbereiche mit Nutztierhaltung angrenzen.
 
-##### § 3c Schadstoff- und Fremdstoffminimierung
+###### § 3c Schadstoff- und Fremdstoffminimierung
 
 (1) Die in § 1 Absatz 2 Genannten wirken darauf hin, dass die in dieser Verordnung genannten Schadstoffhöchstwerte für unbehandelte und behandelte Bioabfälle und Gemische so weit wie möglich unterschritten werden. Generelle Anbaubeschränkungen oder sonstige in dieser Verordnung nicht genannte Beschränkungen lassen sich aus dem Erreichen oder Überschreiten der Bodenwerte nach § 9 Absatz 2 nicht herleiten.
 
 (2) Die in § 1 Absatz 2 Genannten wirken darauf hin, dass bei der getrennten Sammlung, Aufbereitung, Behandlung, Gemischherstellung und Aufbringung von Bioabfällen die Kontrollwerte für Gesamtkunststoff nach § 2a Absatz 3 und die Fremdstoffgrenzwerte nach § 4 Absatz 4 so weit wie möglich unterschritten werden; dabei ist insbesondere eine Vermeidung von Kunststoff als Fremdstoff in Bioabfällen anzustreben.
 
-##### § 4 Anforderungen hinsichtlich der Schadstoffe und weiterer Parameter
+###### § 4 Anforderungen hinsichtlich der Schadstoffe und weiterer Parameter
 
 (1) Der Bioabfallbehandler darf nur Bioabfälle und in Anhang 1 Nummer 2 genannte Materialien verwenden, von denen in unvermischter Form auf Grund ihrer Art, Beschaffenheit oder Herkunft angenommen werden kann, dass sie nach einer Behandlung die Anforderungen nach den Absätzen 3 und 4 einhalten und bei denen keine Anhaltspunkte für überhöhte Gehalte an anderen als den von Absatz 3 erfassten Schadstoffen bestehen. In Anhang 1 Nummer 2 genannte Materialien dürfen auch verwendet werden, wenn sie als Düngemittel, Bodenhilfsstoffe oder Kultursubstrate die Anforderungen der Düngemittelverordnung an die stoffliche Zusammensetzung erfüllen und keine Anhaltspunkte für überhöhte Gehalte an anderen als von der Düngemittelverordnung erfassten Schadstoffen bestehen. Gehalte an den in den Sätzen 1 und 2 bezeichneten anderen Schadstoffen sind überhöht, wenn durch sie bei bestimmungsgemäßer Verwendung der Bioabfälle oder in Anhang 1 Nummer 2 genannten Materialien in unvermischter Form die Gesundheit von Menschen oder Haus- und Nutztieren, die Gesundheit, das Wachstum und die Qualität von Nutzpflanzen, die Beschaffenheit und Fruchtbarkeit des Bodens oder der Naturhaushalt gefährdet werden können.
 
 (2) Der Bioabfallbehandler darf die behandelten Bioabfälle einschließlich in Anhang 1 Nummer 2 genannter mitbehandelter Materialien nur nach Maßgabe der Absätze 3 bis 5 abgeben oder auf selbst bewirtschafteten Betriebsflächen aufbringen.
 
-(3) Die folgenden Schwermetallgehalte (Milligramm je Kilogramm Trockenmasse des aufzubringenden Materials) dürfen bei Aufbringung gemäß § 6 Absatz 1 Satz 1 nicht überschritten werden:
+(3) Die folgenden Schwermetallgehalte (Milligramm je Kilogramm Trockenmasse des aufzubringenden Materials) dürfen bei Aufbringung gemäß § 6 Absatz 1 Satz 1 nicht überschritten werden: 
 
 Blei150Cadmium1,5Chrom100Kupfer100Nickel50Quecksilber1Zink400.
 
-Bei Aufbringung gemäß § 6 Absatz 1 Satz 2 dürfen folgende Schwermetallgehalte (Milligramm je Kilogramm Trockenmasse des aufzubringenden Materials) nicht überschritten werden:
+Bei Aufbringung gemäß § 6 Absatz 1 Satz 2 dürfen folgende Schwermetallgehalte (Milligramm je Kilogramm Trockenmasse des aufzubringenden Materials) nicht überschritten werden: 
 
 Blei100Cadmium1Chrom70Kupfer70Nickel35Quecksilber0,7Zink300.
 
@@ -226,7 +231,7 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 (10) Für die Bestimmung einer Untersuchungsstelle nach Absatz 9 Satz 1 gilt § 3 Absatz 8a und 8b entsprechend.
 
-##### § 5 Anforderungen an Gemische
+###### § 5 Anforderungen an Gemische
 
 (1) Der Gemischhersteller darf behandelte Bioabfälle, gemäß § 10 unbehandelte, hygienisierend oder biologisch stabilisierend behandelte Bioabfälle sowie in Anhang 1 Nummer 2 genannte Materialien verwenden, von denen in unvermischter Form auf Grund ihrer Art, Beschaffenheit oder Herkunft angenommen werden kann, dass sie die Anforderungen nach § 4 Absatz 3 und 4 einhalten und bei denen keine Anhaltspunkte für überhöhte Gehalte an anderen als den von § 4 Absatz 3 erfassten Schadstoffen bestehen. In Anhang 1 Nummer 2 genannte Materialien dürfen auch verwendet werden, wenn sie als Düngemittel, Bodenhilfsstoffe oder Kultursubstrate die Anforderungen der Düngemittelverordnung an die stoffliche Zusammensetzung erfüllen und keine Anhaltspunkte für überhöhte Gehalte an anderen als von der Düngemittelverordnung erfassten Schadstoffen bestehen. § 4 Absatz 1 Satz 3 gilt entsprechend.
 
@@ -238,7 +243,7 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 (5) Die in Anhang 1 Nummer 1 und 2 in der jeweiligen Spalte 3 für die Getrennthaltung, Behandlung und Verwendung der Einsatzmaterialien sowie die Aufbringung von Gemischen festgelegten ergänzenden Bestimmungen sind zu beachten.
 
-##### § 5a Rückstellprobe
+###### § 5a Rückstellprobe
 
 (1) Die zuständige Behörde kann den Bioabfallbehandler und den Gemischhersteller verpflichten, zur Überwachung der in § 4 Absatz 3 und 4 genannten Grenzwerte eine Rückstellprobe aus den behandelten und unbehandelten Bioabfällen und Gemischen, die für die Verwertung auf Böden aufgebracht oder zum Zweck der Aufbringung abgegeben werden, zu entnehmen. Satz 1 ist entsprechend für den Entsorgungsträger, den Erzeuger und den Besitzer von unbehandelten Bioabfällen anzuwenden, die für die Verwertung auf Böden aufgebracht oder zum Zweck der Aufbringung abgegeben werden, soweit sie nicht gemäß § 10 Absatz 1 oder 2 von einer Freistellung von den Untersuchungen der in § 4 Absatz 3 und 4 genannten Grenzwerte erfasst sind. Die Sätze 1 und 2 gelten entsprechend für die in Anhang 1 Nummer 2 genannten Materialien. Die Probenahme hat nach § 4 Absatz 9 zu erfolgen.
 
@@ -250,7 +255,7 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 (5) Für die Bestimmung einer Untersuchungsstelle nach Absatz 1 Satz 3 und Absatz 3 Satz 1, jeweils in Verbindung mit § 4 Absatz 9 Satz 1, gilt § 3 Absatz 8a und 8b entsprechend.
 
-##### § 6 Beschränkungen und Verbote der Aufbringung
+###### § 6 Beschränkungen und Verbote der Aufbringung
 
 (1) Unbeschadet düngemittelrechtlicher Regelungen dürfen auf Böden innerhalb von drei Jahren nicht mehr als 20 Tonnen Trockenmasse Bioabfälle oder Gemische je Hektar aufgebracht werden. Die gemäß Satz 1 zulässige Aufbringungsmenge kann bis zu 30 Tonnen je Hektar innerhalb von drei Jahren betragen, wenn die gemäß § 4 Absatz 5 und 6 oder § 5 Absatz 2 gemessenen Schwermetallgehalte die in § 4 Absatz 3 Satz 2 festgelegten Grenzwerte nicht überschreiten. Die für die Aufbringungsfläche zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde weitere Ausnahmen im Einzelfall zulassen, wenn die in § 4 Absatz 3 Satz 2 genannten Schwermetallgrenzwerte deutlich unterschritten werden und Beeinträchtigungen des Wohls der Allgemeinheit nicht zu erwarten sind.
 
@@ -264,7 +269,7 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 (3) Das Aufbringen von Bioabfällen und Gemischen auf forstwirtschaftlich genutzte Böden darf nur im begründeten Ausnahmefall mit Zustimmung der zuständigen Behörde im Einvernehmen mit der zuständigen Forstbehörde erfolgen.
 
-##### § 7 Zusätzliche Anforderungen bei der Aufbringung auf Grünlandflächen sowie Feldfutter- und Feldgemüseanbauflächen
+###### § 7 Zusätzliche Anforderungen bei der Aufbringung auf Grünlandflächen sowie Feldfutter- und Feldgemüseanbauflächen
 
 (1) Auf Grünlandflächen und mehrschnittigen Feldfutterflächen dürfen nur diejenigen Bioabfälle und Gemische aufgebracht werden, die in Anhang 1 Nummer 1 Spalte 3 und Nummer 2 Spalte 3 mit einem Verweis auf diesen Satz aufgeführt sind. Im Übrigen dürfen Bioabfälle und Gemische auf Feldfutterflächen aufgebracht werden, wenn diese vor dem Anbau des Feldfutters aufgebracht und in den Boden eingearbeitet werden.
 
@@ -274,11 +279,11 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 (4) Werden Bioabfälle tierischer Herkunft oder Gemische, die solche Bioabfälle enthalten, auf Grünlandflächen oder auf Feldfutterflächen aufgebracht, darf eine Beweidung durch Nutztiere oder eine Futtermittelgewinnung erst 21 Tage nach der Aufbringung erfolgen. Die für die Aufbringungsfläche zuständige Behörde kann den Zeitraum nach Satz 1 verlängern, sofern dies zur Vorbeugung einer Gefahr für die menschliche oder tierische Gesundheit erforderlich ist.
 
-##### § 8 Zusammentreffen von Bioabfall- und Klärschlammaufbringung
+###### § 8 Zusammentreffen von Bioabfall- und Klärschlammaufbringung
 
 Innerhalb des Zeitraumes nach § 6 Absatz 1 ist auf derselben Fläche nur die Aufbringung von Bioabfällen und Gemischen nach dieser Verordnung oder die Aufbringung von Klärschlamm nach der Klärschlammverordnung zulässig.
 
-##### § 9 Bodenuntersuchungen
+###### § 9 Bodenuntersuchungen
 
 (1) Der Bewirtschafter oder ein beauftragter Dritter hat der zuständigen Behörde innerhalb von zwei Wochen nach der ersten nach dem 1. Oktober 1998 erfolgenden Aufbringung von Bioabfällen oder Gemischen die Aufbringungsflächen anzugeben. Die zuständige Behörde teilt der zuständigen landwirtschaftlichen Fachbehörde diese Flächen mit.
 
@@ -290,7 +295,7 @@ Innerhalb des Zeitraumes nach § 6 Absatz 1 ist auf derselben Fläche nur die Au
 
 (4) Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde im Rahmen der regionalen Verwertung bei geogen bedingt erhöhten Schwermetallgehalten von Böden zulassen, dass Bioabfälle oder Gemische auch auf Böden aufgebracht werden, bei denen die in Absatz 2 genannten Werte überschritten werden, wenn keine Beeinträchtigungen des Wohls der Allgemeinheit zu erwarten sind. Satz 1 gilt nicht für Cadmium.
 
-##### § 9a Zusätzliche Anforderungen an die Verwertung von bestimmten Bioabfällen
+###### § 9a Zusätzliche Anforderungen an die Verwertung von bestimmten Bioabfällen
 
 (1) Entsorgungsträger, Erzeuger und Besitzer dürfen die in Anhang 1 Nummer 1 Buchstabe b genannten Bioabfälle nur mit Zustimmung der für sie zuständigen Behörde abgeben oder auf selbst bewirtschaftete Betriebsflächen aufbringen. Die Bioabfälle sind der zuständigen Behörde nach Art, Beschaffenheit, Bezugsquelle und Anfallstelle vor der erstmaligen Abgabe oder erstmaligen Aufbringung auf selbst bewirtschaftete Betriebsflächen sowie bei sich erheblich verändernder Zusammensetzung nach Art, Beschaffenheit oder Herkunft anzugeben. Die zuständige Behörde kann zur Bewertung der Eignung dieser Bioabfälle für die Verwertung verlangen, dass Untersuchungsergebnisse über Schwermetallgehalte und Fremdstoffanteile nach § 4 Absatz 3 und 4, über andere als die von § 4 Absatz 3 erfassten Schadstoffe und über zusätzliche Inhaltsstoffe sowie weitere Unterlagen vorgelegt werden. Eine Zustimmung der zuständigen Behörde ist für Erzeuger nicht erforderlich, wenn bei ihnen nicht mehr als insgesamt zwei Tonnen der in Anhang 1 Nummer 1 Buchstabe b genannten Bioabfälle (Kleinmengen) jährlich anfallen.
 
@@ -298,7 +303,7 @@ Innerhalb des Zeitraumes nach § 6 Absatz 1 ist auf derselben Fläche nur die Au
 
 (3) Die nach Absatz 1 Satz 1 Verpflichteten haben eine Kopie der vollständigen Formblätter nach Absatz 2 Satz 1 und 2 einmalig im Geltungszeitraum der Behördenzustimmung bei der ersten Abgabe von Bioabfällen dem Bioabfallbehandler, Aufbereiter oder Einsammler oder im Falle von der Behandlung freigestellter Bioabfälle nach § 10 dem Gemischhersteller oder Bewirtschafter der Aufbringungsfläche auszuhändigen.
 
-##### § 10 Freistellung von den Anforderungen an die Behandlung und Untersuchung von bestimmten Bioabfällen
+###### § 10 Freistellung von den Anforderungen an die Behandlung und Untersuchung von bestimmten Bioabfällen
 
 (1) Bioabfälle dürfen unvermischt abgegeben, zur Gemischherstellung verwendet oder aufgebracht werden, soweit diese in Anhang 1 Nummer 1 Spalte 3 aufgeführt werden und hierbei auf eine der folgenden Nummern verwiesen wird,
 
@@ -320,7 +325,7 @@ Die sich aus Satz 1 ergebenden Pflichten des Bioabfallbehandlers sind durch den 
 
 (4) Soweit nicht von einer Freistellung nach Absatz 1 oder Absatz 2 erfasst, sind für die Abgabe, Verwendung zur Gemischherstellung und Aufbringung von ausschließlich biologisch stabilisierend behandelten Bioabfällen die Bestimmungen über die Prüfungen der hygienisierten Bioabfälle gemäß § 3 Absatz 4 Satz 1 Nummer 3, Satz 2, Absatz 7 und 8 Satz 1 und 2 entsprechend anzuwenden. Die sich aus Satz 1 ergebenden Pflichten sind durch den Bioabfallbehandler zu erfüllen, der die biologisch stabilisierende Behandlung der Bioabfälle durchführt.
 
-##### § 11 Nachweispflichten
+###### § 11 Nachweispflichten
 
 (1) Der Bioabfallbehandler hat die bei der Behandlung verwendeten Materialien nach Art, Bezugsquelle, -menge und Anfallstelle von der ursprünglichen Anfallstelle bis zum letzten Besitzer sowie aufgeteilt nach Chargen behandelten Bioabfalls gemäß Satz 2 und 3 aufzulisten. Jede Charge behandelten Bioabfalls ist mit einer fortlaufenden Chargennummer zu versehen, die mindestens das Jahr und den Monat der Behandlung sowie eine für das Behandlungsjahr fortlaufende Nummerierung enthalten muss. Handelt es sich um eine Behandlungsanlage mit einer kontinuierlichen Zuführung und Entnahme des behandelten Materials, legt die zuständige Behörde eine bestimmte Zeitspanne fest, in der der Bioabfallbehandler Chargen nach Satz 2 zu bestimmen hat. Verwendet der Bioabfallbehandler bei einer Behandlung bereits hygienisierend behandelte oder biologisch stabilisierend behandelte Materialien, hat er diese im Sinne des Satzes 1 mit den Angaben nach Absatz 2 Satz 2 des vorhergehenden Bioabfallbehandlers aufzulisten. Satz 1 gilt für den Einsammler entsprechend mit der Maßgabe, dass dieser die eingesammelten Materialien mit den Angaben nach Satz 1 sowie aufgeteilt nach Lieferungen an den Aufbereiter oder Bioabfallbehandler aufzulisten und dem Aufbereiter oder Bioabfallbehandler nach Art und Menge anzugeben hat. Satz 1 gilt für den Aufbereiter entsprechend mit der Maßgabe, dass dieser die bei der Aufbereitung verwendeten Materialien mit den Angaben nach Satz 1 sowie aufgeteilt nach Lieferungen an den Bioabfallbehandler aufzulisten und dem Bioabfallbehandler nach Art und Menge anzugeben hat. Die Pflicht zur Dokumentation der Anfallstelle nach Satz 1 entfällt für den Aufbereiter im Fall des Satzes 5 und für den Bioabfallbehandler im Fall der Sätze 4 bis 6.
 
@@ -392,7 +397,7 @@ Satz 2 gilt für Zwischenabnehmer entsprechend, die gütegesicherte Bioabfälle 
 
 (4) Auf die Verwertung von Bioabfällen, für die die Bestimmungen dieser Verordnung gelten, finden die Bestimmungen der Nachweisverordnung mit Ausnahme des § 2 Absatz 1 Nummer 2 und des § 23 Nummer 2 der Nachweisverordnung keine Anwendung.
 
-##### § 12 Ausnahmen für Kleinflächen
+###### § 12 Ausnahmen für Kleinflächen
 
 (1) § 9 Absatz 1 und 2, § 11 Absatz 2a Satz 2 und Absatz 3a Satz 6 gelten nicht, wenn unbehandelte oder behandelte Bioabfälle oder Gemische auf Flächen von Bewirtschaftern aufgebracht werden, die insgesamt nicht mehr als 1 Hektar landwirtschaftlich oder gärtnerisch genutzte Flächen bewirtschaften. § 11 Absatz 2a Satz 3 gilt nicht für den Bewirtschafter dieser Flächen. Die Sätze 1 und 2 gelten im Rahmen gärtnerischer oder landschaftsbaulicher Dienstleistungen durch einen Bioabfallbehandler, Gemischhersteller oder Zwischenabnehmer auf anderen als in Satz 1 genannten Flächen des Bewirtschafters mit der Maßgabe, dass die unbehandelten oder behandelten Bioabfälle oder Gemische auf zusammenhängende Flächen von jeweils nicht mehr als 1 Hektar aufgebracht werden.
 
@@ -400,11 +405,11 @@ Satz 2 gilt für Zwischenabnehmer entsprechend, die gütegesicherte Bioabfälle 
 
 (3) Die Ausnahmen für Kleinflächen nach den Absätzen 1 und 2 gelten nicht für forstwirtschaftliche Flächen.
 
-##### § 12a Elektronische Datenverarbeitung und -übermittlung
+###### § 12a Elektronische Datenverarbeitung und -übermittlung
 
 Die in dieser Verordnung vorgeschriebenen Dokumentationen und Nachweise können mit Hilfe elektronischer Datenverarbeitung erstellt und mit Zustimmung der zuständigen Behörde elektronisch oder in elektronischer Form vorgelegt oder übermittelt werden.
 
-##### § 13 Ordnungswidrigkeiten
+###### § 13 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -472,7 +477,7 @@ c) § 11 Absatz 1a Satz 1
 
 10. entgegen § 11 Absatz 3a Satz 6 eine Dokumentation nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
 
-##### § 13a Bestimmungen für bestehende Anlagen
+###### § 13a Bestimmungen für bestehende Anlagen
 
 (1) Bei den am 1. Mai 2012 bestehenden Anlagen, in denen von den Anforderungen an die Behandlung freigestellte Bioabfälle nach § 10 Absatz 1 in der bis zu diesem Datum geltenden Fassung eingesetzt worden sind und die als Behandlungsanlage zur Hygienisierung fortgeführt werden, ist eine Prozessprüfung gemäß § 3 Absatz 4 Satz 1 Nummer 1 und Satz 2 innerhalb von 18 Monaten nach dem 1. Mai 2012 durchzuführen. Satz 1 gilt nicht, soweit nach dem 30. September 1993 für die Anlage oder das eingesetzte Verfahren eine Hygieneprüfung nach den Vorgaben für die Prozessprüfung oder nach vergleichbaren Vorgaben durchgeführt worden ist oder begonnen wurde und innerhalb von 12 Monaten nach dem 1. Mai 2012 abgeschlossen wird. Im Falle des Satzes 2 hat der Bioabfallbehandler die Untersuchungsergebnisse über die Hygieneprüfung nach den Vorgaben für die Prozessprüfung oder den Nachweis über die Vergleichbarkeit der Hygieneprüfung sowie die Untersuchungsergebnisse dieser Hygieneprüfung der zuständigen Behörde innerhalb von drei Monaten nach dem 1. Mai 2012 vorzulegen und zehn Jahre aufzubewahren; bei begonnener Hygieneprüfung sind der Nachweis und die Untersuchungsergebnisse innerhalb von drei Monaten nach Abschluss der Prüfung vorzulegen und zehn Jahre aufzubewahren. Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde bei Behandlungsanlagen nach Satz 1 von Bioabfallbehandlern, die die Voraussetzungen des § 11 Absatz 3 Satz 2 oder 3 erfüllen, anstelle der Hygieneprüfung nach Satz 1 oder 2 eine vom Träger der Gütegemeinschaft zwischen dem 1. Oktober 1998 und 1. Mai 2012 im Rahmen des Gütesicherungsverfahrens durchgeführte Konformitätsprüfung zulassen. Mit der Konformitätsprüfung muss nachgewiesen werden, dass die Behandlungsanlage oder das eingesetzte Hygienisierungsverfahren einer geprüften Anlage oder einem geprüften Verfahren nach den Vorgaben für die Prozessprüfung oder nach vergleichbaren Vorgaben entspricht. Die Zulassung darf nur erteilt werden, wenn nach Art, Beschaffenheit oder Herkunft der eingesetzten Bioabfälle einschließlich in Anhang 1 Nummer 2 genannter Materialien keine Beeinträchtigung seuchen- und phytohygienischer Belange zu erwarten ist.
 
@@ -480,15 +485,15 @@ c) § 11 Absatz 1a Satz 1
 
 (3) Bei den am 1. Mai 2012 bestehenden Anlagen hat der Bioabfallbehandler die Anforderungen an die Prozessüberwachung und an die Prüfungen der hygienisierten Bioabfälle gemäß § 3 Absatz 4 Satz 1 Nummer 2 und 3 und Satz 2 nach spätestens 12 Monaten einzuhalten.
 
-##### § 13b Übergangsbestimmungen für geltende und vergleichbare Hygieneprüfungen sowie für geltende Ausnahmezulassungen
+###### § 13b Übergangsbestimmungen für geltende und vergleichbare Hygieneprüfungen sowie für geltende Ausnahmezulassungen
 
 (1) Direkte Prozessprüfungen, die vor dem 1. Mai 2012 nach § 3 Absatz 4 Satz 1 Nummer 1 in der bis zu diesem Datum geltenden Fassung durchgeführt worden sind, gelten bis zum Ablauf ihrer Geltungsdauer, längstens jedoch bis zum Einsatz eines neuen Verfahrens oder wesentlicher technischer Änderung des Verfahrens oder der Prozessführung, als Prozessprüfung im Sinne des § 3 Absatz 4 Satz 1 Nummer 1 für Behandlungsanlagen zur Hygienisierung fort. Mit der direkten Prozessprüfung vergleichbare Hygieneprüfungen, die vor dem 1. Mai 2012 nach § 3 Absatz 5 Satz 3 und Absatz 8 Satz 3 in der bis zu diesem Datum geltenden Fassung bei bereits bestehenden Anlagen durchgeführt und der zuständigen Behörde nachgewiesen worden sind, gelten bis zum Ablauf ihrer Geltungsdauer, längstens jedoch bis zum Einsatz eines neuen Verfahrens oder wesentlicher technischer Änderung des Verfahrens oder der Prozessführung, als Prozessprüfung im Sinne des § 3 Absatz 4 Satz 1 Nummer 1 für Behandlungsanlagen zur Hygienisierung fort.
 
 (2) Ausnahmezulassungen, die vor dem 1. Mai 2012 nach § 3 Absatz 3 Satz 2 in der bis zu diesem Datum geltenden Fassung von den in Anhang 2 enthaltenen Vorgaben an die direkte Prozessprüfung für Behandlungsanlagen erteilt worden sind, gelten bis zum Ablauf ihrer Geltungsdauer fort, längstens jedoch bis zum Einsatz eines neuen Verfahrens oder wesentlicher technischer Änderung des Verfahrens oder der Prozessführung. Ausnahmezulassungen, die vor dem 1. Mai 2012 nach § 3 Absatz 3 Satz 2 in der bis zu diesem Datum geltenden Fassung von den in Anhang 2 enthaltenen Vorgaben an die indirekte Prozessprüfung und an die Endprüfung der behandelten Bioabfälle für Behandlungsanlagen erteilt worden sind, soll die zuständige Behörde nachträglich auf längstens zwölf Monate befristen; nach Ablauf der Befristung sind die Anforderungen an die Prozessüberwachung und an die Prüfungen der hygienisierten Bioabfälle gemäß § 3 Absatz 4 Satz 1 Nummer 2 und 3 und Satz 2 einzuhalten.
 
-##### § 14 Inkrafttreten
+###### § 14 Inkrafttreten
 
-##### Anhang 1 (zu § 2 Nummer 1, 1a, 4, 5, § 2a Absatz 1, 2, 3, 4, § 3 Absatz 3, 7, 7a, 9, 10, § 4 Absatz 1, 2, 5, 6, 8, § 5 Absatz 1, 5, § 6 Absatz 1a, 2, § 7 Absatz 1, § 9a Absatz 1, § 10 Absatz 1, § 13a Absatz 1)Liste der für eine Verwertung auf Böden geeigneten Bioabfälle sowie der dafür geeigneten anderen Abfälle, biologisch abbaubaren Materialien und mineralischen Stoffe
+###### Anhang 1 (zu § 2 Nummer 1, 1a, 4, 5, § 2a Absatz 1, 2, 3, 4, § 3 Absatz 3, 7, 7a, 9, 10, § 4 Absatz 1, 2, 5, 6, 8, § 5 Absatz 1, 5, § 6 Absatz 1a, 2, § 7 Absatz 1, § 9a Absatz 1, § 10 Absatz 1, § 13a Absatz 1)Liste der für eine Verwertung auf Böden geeigneten Bioabfälle sowie der dafür geeigneten anderen Abfälle, biologisch abbaubaren Materialien und mineralischen Stoffe
 
 (Fundstelle: BGBl. I 2013, 671 — 688; 
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -691,9 +696,13 @@ reinigung(Abfälle aus der Zubereitung und Verarbeitung von Obst, Gemüse, Getre
  – Pflanzliche Bestandteile des Treibsels (einschließlich von Küsten- und Uferbereichen)
 (Garten- und Parkabfälle [einschließlich Friedhofsabfälle])
  Im Rahmen einer Kompostierung sind holzige Materialien so zu zerkleinern oder der Kompost so abzusieben, dass im Kompost keine stückigen Materialien über 40 mm (Siebmaschenweite) enthalten sind.
- Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind pflanzliche Materialien von Verkehrswegebegleitflächen (an Straßen, Wegen, Schienentrassen, Flughäfen) und von Industriestandorten.Gemischte Siedlungsabfälle
- (20 03 01)– Getrennt gesammelte Bioabfälle(Andere Siedlungsabfälle)
- Geeignete Abfälle gemäß Spalte 2 sind getrennt gesammelte Bioabfälle (z. B. Biotonne) privater Haushalte, des Kleingewerbes und sonstiger Einrichtungen.Marktabfälle
+ Die Materialien dürfen, auch als Bestandteil eines Gemisches, nach § 7 Absatz 1 Satz 1 auf Grünlandflächen und auf mehrschnittigen Feldfutterflächen aufgebracht werden; davon ausgenommen sind pflanzliche Materialien von Verkehrswegebegleitflächen (an Straßen, Wegen, Schienentrassen, Flughäfen) und von Industriestandorten.Gemischte Siedlungs- 
+abfälle
+ (20 03 01)Getrennt gesammelte
+Bioabfälle, einschließlich durchlässiger aufweichender Einzelportionseinheiten für Tee, Kaffee oder andere Getränke nach Artikel 3 Absatz 1 Nummer 1 Buchstabe f der
+Verordnung (EU) 2025/40(Andere Siedlungsabfälle)
+ Geeignete Abfälle gemäß Spalte 2 sind getrennt gesammelte Bioabfälle (z. B. Biotonne) privater Haushalte, des Kleingewerbes und sonstiger Einrichtungen.
+ Sofern durchlässige aufweichende Einzelportionseinheiten für Tee, Kaffee oder andere Getränke nach Artikel 3 Absatz 1 Nummer 1 Buchstabe f der Verordnung (EU) 2025/40 aus biologisch abbaubaren Kunststoffen bestehen, dürfen diese nur zusammen mit den gesammelten Bioabfällen der Kompostierung zugegeben werden, wenn sie nach DIN EN 13432 (Ausgabe 2000-12) und DIN EN 13432 Berichtigung 2 (Ausgabe 2007-10) zertifiziert sind. Darüber hinaus muss die Zertifizierung den Nachweis beinhalten, dass nach einer Kompostierung von höchstens sechs Wochen Dauer eine vollständige Desintegration mit einem Siebdurchgang von maximal 2 mm erfolgt ist; dieser Nachweis kann auch durch eine Zusatzzertifizierung erbracht werden.Marktabfälle
  (20 03 02)– Futtermittelabfälle aus dem Groß- und Einzelhandel, ohne Verpackung
  – Lebensmittelabfälle aus dem Groß- und Einzelhandel, ohne Verpackung
  – Pflanzliche Marktabfälle, ohne Verpackung(Andere Siedlungsabfälle)
@@ -840,7 +849,7 @@ Kunststoff-SammelbeutelSammel- und Transportmaterialien aus der getrennten Bioab
 
 **3.** ***Bekanntmachungen sachverständiger Stellen*** DIN-Normen, auf die in diesem Anhang verwiesen wird, wurden in der Beuth-Verlag GmbH, Berlin, veröffentlicht und sind beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
-##### Anhang 2 (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)Anforderungen an die hygienisierende Behandlung von Bioabfällen zur Gewährleistung der seuchen- und phytohygienischen Unbedenklichkeit
+###### Anhang 2 (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)Anforderungen an die hygienisierende Behandlung von Bioabfällen zur Gewährleistung der seuchen- und phytohygienischen Unbedenklichkeit
 
 **Inhaltsverzeichnis*****1******Allgemeine Anmerkungen******2******Hygienisierende Behandlung*****2.1****Behandlungsverfahren zur Hygienisierung** (zu § 2 Nummer 2)**2.2****Anforderungen an die hygienisierende Behandlung**2.2.1*Pasteurisierung*2.2.1.1Anforderungen an die Prozessführung2.2.1.2Prozessprüfung (zu § 3 Absatz 4 Satz 1 Nummer 1 i. V. m. Absatz 5)2.2.1.3Prozessüberwachung (zu § 3 Absatz 4 Satz 1 Nummer 2 i. V. m. Absatz 6)2.2.1.4Prüfungen der hygienisierten Bioabfälle (zu § 3 Absatz 4 Satz 1 Nummer 3 i. V. m. Absatz 7 und 7a)2.2.2*Aerobe hygienisierende Behandlung (thermophile Kompostierung)*2.2.2.1Anforderungen an die Prozessführung2.2.2.2Prozessprüfung (zu § 3 Absatz 4 Satz 1 Nummer 1 i. V. m. Absatz 5)2.2.2.3Prozessüberwachung (zu § 3 Absatz 4 Satz 1 Nummer 2 i. V. m. Absatz 6)2.2.2.4Prüfungen der hygienisierten Bioabfälle (zu § 3 Absatz 4 Satz 1 Nummer 3 i. V. m. Absatz 7 und 7a)2.2.3*Anaerobe hygienisierende Behandlung (thermophile Vergärung)*2.2.3.1Anforderungen an die Prozessführung2.2.3.2Ermittlung der Mindestverweilzeit2.2.3.3Prozessprüfung (zu § 3 Absatz 4 Satz 1 Nummer 1 i. V. m. Absatz 5)2.2.3.4Prozessüberwachung (zu § 3 Absatz 4 Satz 1 Nummer 2 i. V. m. Absatz 6)2.2.3.5Prüfungen der hygienisierten Bioabfälle (zu § 3 Absatz 4 Satz 1 Nummer 3 i. V. m. Absatz 7 und 7a)2.2.4*Anderweitige hygienisierende Behandlung*2.2.4.1Anforderungen an die Prozessführung2.2.4.2Prozessprüfung (zu § 3 Absatz 4 Satz 1 Nummer 1 i. V. m. Absatz 5)2.2.4.3Prozessüberwachung (§ 3 Absatz 4 Satz 1 Nummer 2 i. V. m. Absatz 6)2.2.4.4Prüfungen der hygienisierten Bioabfälle (zu § 3 Absatz 4 Satz 1 Nummer 3 i. V. m. Absatz 7 und 7a)***3******Prüfungen der seuchen- und phytohygienischen Unbedenklichkeit*****3.1****Prozessprüfung** (zu § 3 Absatz 4 Satz 1 Nummer 1 i. V. m. Absatz 5)3.1.1*Allgemeine Anforderungen*3.1.2*Anlagen zur aeroben hygienisierenden Behandlung (thermophile Kompostierungsanlagen)*3.1.2.1Mietenkompostierung3.1.2.2Andere Kompostierungsverfahren3.1.3*Anlagen zur anaeroben hygienisierenden Behandlung (thermophile Vergärungsanlagen)***3.2****Prozessüberwachung** (zu § 3 Absatz 4 Satz 1 Nummer 2 i. V. m. Absatz 6)**3.3****Prüfungen der hygienisierten Bioabfälle** (zu § 3 Absatz 4 Satz 1 Nummer 3 i. V. m. Absatz 7 und 7a)***4******Methoden zur Prüfung der seuchen- und phytohygienischen Unbedenklichkeit*****4.1****Traceruntersuchungen zur Ermittlung der Mindestverweilzeit bei anaeroben hygienisierenden Behandlungsverfahren (thermophile Vergärung)**4.1.1*Traceruntersuchung mit Sporen von *Bacillus globigii**4.1.1.1Vorbereitung4.1.1.2Durchführung der Untersuchung4.1.1.3Nachweismethode4.1.1.4Mindestverweilzeit4.1.2*Traceruntersuchung mit Lithium*4.1.2.1Vorbereitung4.1.2.2Durchführung der Untersuchung4.1.2.3Nachweismethode4.1.2.4Mindestverweilzeit**4.2****Prüfungen der Seuchenhygiene**4.2.1*Prozessprüfung*4.2.1.1Testorganismus und Grenzwert4.2.1.2Einlageproben für aerobe hygienisierende Verfahren (thermophile Kompostierung)4.2.1.3Einlageproben für anaerobe hygienisierende Verfahren (thermophile Vergärung)4.2.1.4Nachweismethode4.2.2*Prüfungen der hygienisierten Bioabfälle***4.3****Prüfungen der Phytohygiene**4.3.1*Prozessprüfung*4.3.1.1Testorganismen und Grenzwerte4.3.1.2Testorganismus Plasmodiophora brassicae4.3.1.2.1Herstellung der Einlageproben für aerobe hygienisierende Behandlungsverfahren (thermophile Kompostierung)4.3.1.2.2Herstellung der Einlageproben für anaerobe hygienisierende Behandlungsverfahren (thermophile Vergärung)4.3.1.2.3Nachweis der Infektiosität durch einen Biotest4.3.1.3Testorganismus Tomatensamen4.3.1.3.1Herstellung der Einlageprobe4.3.1.3.2Bestimmung der Keimrate durch einen Biotest4.3.1.4Testorganismus Tabakmosaikvirus bei aeroben hygienisierenden Behandlungsverfahren (thermophile Kompostierung)4.3.1.4.1Herstellung der Einlageproben4.3.1.4.2Nachweis der Infektiosität durch einen Biotest4.3.2*Prüfungen der hygienisierten Bioabfälle*
 
@@ -1055,7 +1064,7 @@ Grenzwert im Biotest: ≤ 4 % Restinfektiosität (Relativwert zur Positivkontrol
 
 4.3.1.2.2 Herstellung der Einlageproben für anaerobe hygienisierende Behandlungsverfahren (thermophile Vergärung) Für das zu verwendende Gallenmaterial (Infektionsmaterial mit dem Erreger *Plasmodiophora brassicae*) gilt Nummer 4.3.1.2.1 Absatz 1 entsprechend. Bei Vergärungsanlagen zur Hygienisierung werden 30 g Gallenmaterial in Gazebeutel (Maschenweite max. 1 x 1 mm) in die für die thermische Inaktivierung relevanten Prozessabschnitte oder Anlageteile eingebracht. Entsprechend hergestellte Kontrollproben werden während des Versuchszeitraums in feuchtem, sterilisiertem Sand bei Zimmertemperatur gelagert.
 
-4.3.1.2.3 Nachweis der Infektiosität durch einen Biotest Eine vorhandene Restinfektion von *Plasmodiophora brassicae* in den Einlageproben wird durch die nachfolgend beschriebene Prüfung festgestellt. **Probenaufbereitung** Nach Rückgewinnung aus dem geprüften Hygienisierungsverfahren werden die Einlageproben mit dem Erreger *Plasmodiophora brassicae* sorgfältig zerkleinert und mit einem Sand-Torfgemisch (5 Stunden bei 80 °C gedämpft) auf ein Volumen von 1 000 ml aufgefüllt und gut homogenisiert. Da der pH-Wert einen starken Einfluss auf die Infektiosität von *Plasmodiophora brassicae* ausübt (Optimum: pH-Wert 6,0 ± 0,2), ist der pH-Wert der hergestellten Substratmischung zu überprüfen und gegebenenfalls durch Erhöhung des Torfanteils zu korrigieren. **Biotest** Als Versuchsgefäße werden 13 x 13 x 13 cm große Kunststofftöpfe verwendet. Für jede reisolierte Erregerprobe, die mit dem Sand-Torf-Gemisch auf je 1 000 ml aufgefüllt wurde, wird ein Gefäß mit 16 Nachweispflanzen Sarepta-Senf (*Brassica juncea*) angelegt; dabei werden in jedes Gefäß vorgezogene Keimpflanzen (1. Laubblattbildung) einpikiert. Der Biotest wird als randomisierter Versuch im Gewächshaus oder in einer Klimakammer bei 6 000 bis 9 000 Lux und einer Temperatur von mindestens 20 °C aufgestellt. Die Pflanzen werden ab der dritten Woche wöchentlich einmal gedüngt. Die Vegetationszeit des Biotests bis zur Bonitur der Nachweispflanzen beträgt 4 bis 5 Wochen. Nach Beendigung des Biotests wird zum einen die Anzahl der befallenen Pflanzen gezählt und zum anderen die Wurzelgallenbildung nach einer Boniturskala von 0 bis 3 bewertet:
+4.3.1.2.3 Nachweis der Infektiosität durch einen Biotest Eine vorhandene Restinfektion von *Plasmodiophora brassicae* in den Einlageproben wird durch die nachfolgend beschriebene Prüfung festgestellt. **Probenaufbereitung** Nach Rückgewinnung aus dem geprüften Hygienisierungsverfahren werden die Einlageproben mit dem Erreger *Plasmodiophora brassicae* sorgfältig zerkleinert und mit einem Sand-Torfgemisch (5 Stunden bei 80 °C gedämpft) auf ein Volumen von 1 000 ml aufgefüllt und gut homogenisiert. Da der pH-Wert einen starken Einfluss auf die Infektiosität von *Plasmodiophora brassicae* ausübt (Optimum: pH-Wert 6,0 ± 0,2), ist der pH-Wert der hergestellten Substratmischung zu überprüfen und gegebenenfalls durch Erhöhung des Torfanteils zu korrigieren. **Biotest** Als Versuchsgefäße werden 13 x 13 x 13 cm große Kunststofftöpfe verwendet. Für jede reisolierte Erregerprobe, die mit dem Sand-Torf-Gemisch auf je 1 000 ml aufgefüllt wurde, wird ein Gefäß mit 16 Nachweispflanzen Sarepta-Senf (*Brassica juncea*) angelegt; dabei werden in jedes Gefäß vorgezogene Keimpflanzen (1. Laubblattbildung) einpikiert. Der Biotest wird als randomisierter Versuch im Gewächshaus oder in einer Klimakammer bei 6 000 bis 9 000 Lux und einer Temperatur von mindestens 20 °C aufgestellt. Die Pflanzen werden ab der dritten Woche wöchentlich einmal gedüngt. Die Vegetationszeit des Biotests bis zur Bonitur der Nachweispflanzen beträgt 4 bis 5 Wochen. Nach Beendigung des Biotests wird zum einen die Anzahl der befallenen Pflanzen gezählt und zum anderen die Wurzelgallenbildung nach einer Boniturskala von 0 bis 3 bewertet: 
 
 BefallsklasseBeschreibung der Symptome0Keine sichtbaren Symptome1Leichte Gallenbildung an Haupt- und Nebenwurzeln2Mittlere Gallenbildung an Haupt- und Nebenwurzeln3Starke Gallenbildung am gesamten Wurzelsystem **Bewertung der Boniturnoten** Für jede einzelne Erregerprobe (Wiederholung) werden die Boniturnoten für den Befall der Einzelpflanzen (Befallsklasse = Kl) nach folgender Formel im Befallsindex zusammengefasst: Der Befallsindex für einen Prüfbereich ergibt sich aus dem arithmetischen Mittel des Befallsindex aller Wiederholungen (Erregerproben) des jeweiligen Prüfbereichs: Ist der Befallsindex je Prüfbereich ≤ 0,5, so ist die Prüfung bestanden.
 
@@ -1121,7 +1130,7 @@ BefallsklasseBeschreibung der Symptome0Keine sichtbaren Symptome1Leichte Gallenb
 
 4.3.1.4.1 Herstellung der Einlageproben Die Vermehrung des Virus erfolgt in Tabakpflanzen (*Nicotiana tabacum „Samsun“* ), in denen es sich systemisch ausbreitet. Dazu werden die Tabakpflanzen bei 18 bis 22 °C unter Gewächshausbedingungen bis zum 5-Blattstadium herangezogen. Zur Inokulation werden 2 oder 3 untere Blätter mit einem Gemisch aus Karborund und Bentonit (1:1) dünn eingepudert und die TMV-haltige Suspension (Pflanzenpresssaft aus TMV-infizierten Tabakpflanzen) in 0,05 mol/l Phosphatpuffer nach Sörensen oder entsprechend (pH-Wert 7) auf die bestäubten Blätter aufgetragen. 2 bis 3 Wochen nach der Inokulation können dann virushaltige Blätter mit mosaikartigen Verfärbungen für die Untersuchungen verwendet werden. Jede in den Kompostierungsprozess zur Hygienisierung eingeschleuste Probe enthält 10 g TMV-infizierte Tabakblätter (*Nicotiana tabacum „Samsun“* ), die in ein rottebeständiges Gazesäckchen (Maschenweite 1 x 1 mm) gefüllt werden. Damit die Rottebedingungen auf die TMV-infizierten Tabakblätter einwirken können, ist das Gazesäckchen der Einlageprobe vollständig mit Kompostrohmaterial zu umgeben. Es sind Positivkontrollen aus 10 g mit TMV-infizierten Tabakblättern (*Nicotiana tabacum „Samsun“* ) derselben Charge herzustellen, die bei –18 °C aufbewahrt werden.
 
-4.3.1.4.2 Nachweis der Infektiosität durch einen Biotest Die Inaktivierung der durch den Hygienisierungsprozess der thermophilen Kompostierung geleiteten Erregerproben wird durch einen Biotest nach folgender beschriebener Methode untersucht. **Probenaufarbeitung** Nach Beendigung des hygienisierenden Verfahrensschritts (z. B. Entnahme nach Beendigung der Prozessprüfung auf einer thermophilen Kompostierungsanlage) wird die TMV-Erregerprobe von eventuell vorhandenen nicht verrotteten groben Bestandteilen befreit. Unter Zusatz von 30 ml Phosphatpuffer nach Sörensen oder entsprechend (0,05 mol/l; pH-Wert 7) wird die Probe in einem Mörser zerkleinert. Die Probensuspension wird auf die Filtriergaze gegeben und ausgepresst. Der Probenextrakt wird in ein verschließbares Glas- oder Kunststoffgefäß überführt. Mit den mitgeführten Positiv-Kontrollproben wird in gleicher Weise verfahren. **Biotest** Als Nachweis für die Infektion werden die Extrakte aus den Proben und aus den Kontrollen auf Blätter der Testpflanze (*Nicotiana glutinosa L.*) aufgetragen. Der Biotest wird an Nachweispflanzen durchgeführt, die sich im 6 – 8-Blattstadium befinden. Für die Inokulation der 12 reisolierten TMV-Erregerproben werden insgesamt 12 Nachweispflanzen benötigt, wobei je Prüfbereich vier Proben an vier Pflanzen getestet werden. An den Nachweispflanzen werden die Vegetationsspitze und die unteren älteren Blätter entfernt, so dass jeweils vier voll ausgebildete Blätter für die Inokulation an den Pflanzen verbleiben. Für die bessere Vergleichbarkeit bei Lokalläsionen an Pflanzen mit Blättern unterschiedlicher Größe und unterschiedlichen Alters ist das lateinische Quadrat als Versuchsanordnung zu wählen. Voraussetzung hierfür ist die gleiche Anzahl an TMV-Proben, Testpflanzen und Blättern. Bei der Prozessprüfung werden die drei charakteristischen Prüfbereiche des Rottekörpers in jeweils vierfacher Wiederholung überprüft. Das folgende Schema verdeutlicht die Versuchsanordnung der Halbblattmethode unter Einbeziehung der Positiv-Kontrollprobe (P) für die vier zu prüfenden TMV-Proben (A, B, C, D) eines Prüfbereichs:
+4.3.1.4.2 Nachweis der Infektiosität durch einen Biotest Die Inaktivierung der durch den Hygienisierungsprozess der thermophilen Kompostierung geleiteten Erregerproben wird durch einen Biotest nach folgender beschriebener Methode untersucht. **Probenaufarbeitung** Nach Beendigung des hygienisierenden Verfahrensschritts (z. B. Entnahme nach Beendigung der Prozessprüfung auf einer thermophilen Kompostierungsanlage) wird die TMV-Erregerprobe von eventuell vorhandenen nicht verrotteten groben Bestandteilen befreit. Unter Zusatz von 30 ml Phosphatpuffer nach Sörensen oder entsprechend (0,05 mol/l; pH-Wert 7) wird die Probe in einem Mörser zerkleinert. Die Probensuspension wird auf die Filtriergaze gegeben und ausgepresst. Der Probenextrakt wird in ein verschließbares Glas- oder Kunststoffgefäß überführt. Mit den mitgeführten Positiv-Kontrollproben wird in gleicher Weise verfahren. **Biotest** Als Nachweis für die Infektion werden die Extrakte aus den Proben und aus den Kontrollen auf Blätter der Testpflanze (*Nicotiana glutinosa L.*) aufgetragen. Der Biotest wird an Nachweispflanzen durchgeführt, die sich im 6 – 8-Blattstadium befinden. Für die Inokulation der 12 reisolierten TMV-Erregerproben werden insgesamt 12 Nachweispflanzen benötigt, wobei je Prüfbereich vier Proben an vier Pflanzen getestet werden. An den Nachweispflanzen werden die Vegetationsspitze und die unteren älteren Blätter entfernt, so dass jeweils vier voll ausgebildete Blätter für die Inokulation an den Pflanzen verbleiben. Für die bessere Vergleichbarkeit bei Lokalläsionen an Pflanzen mit Blättern unterschiedlicher Größe und unterschiedlichen Alters ist das lateinische Quadrat als Versuchsanordnung zu wählen. Voraussetzung hierfür ist die gleiche Anzahl an TMV-Proben, Testpflanzen und Blättern. Bei der Prozessprüfung werden die drei charakteristischen Prüfbereiche des Rottekörpers in jeweils vierfacher Wiederholung überprüft. Das folgende Schema verdeutlicht die Versuchsanordnung der Halbblattmethode unter Einbeziehung der Positiv-Kontrollprobe (P) für die vier zu prüfenden TMV-Proben (A, B, C, D) eines Prüfbereichs: 
 
 Pflanze 1Pflanze 2Pflanze 3Pflanze 4Blatt-
 positionBlatthälfte
@@ -1149,7 +1158,7 @@ Blattspitze)linksrechtslinksrechtslinksrechtslinksrechts1. BlattAPPDCPPB2. Blatt
 
 – geeignetes Mischsubstrat (z. B. schwach zersetzter Hochmoortorf mit ca. 4 g kohlensaurem Kalk pro Liter, welches frei von keimfähigen Samen und austriebsfähigen Pflanzenteilen ist).
 
-##### Anhang 3 (zu § 2a Absatz 7, § 4 Absatz 9)Vorgaben zur Analytik (Probenahme, Probevorbereitung und Untersuchung von unbehandelten und behandelten Bioabfällen)
+###### Anhang 3 (zu § 2a Absatz 7, § 4 Absatz 9)Vorgaben zur Analytik (Probenahme, Probevorbereitung und Untersuchung von unbehandelten und behandelten Bioabfällen)
 
 (Fundstelle: BGBl. I 2013, 704 — 706; 
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1174,7 +1183,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1.3.4 Bestimmung des pH-Wertes und des Salzgehaltes Die Bestimmungen erfolgen aus der Frischmasse. Die Bestimmung des pH-Wertes wird gemäß DIN EN 13037 (Ausgabe Januar 2012), Bodenverbesserungsmittel und Kultursubstrate – Bestimmung des pH-Wertes, durchgeführt. Für die Bestimmung des Salzgehaltes wird die elektrische Leitfähigkeit gemäß DIN EN 13038 (Ausgabe Januar 2012), Bodenverbesserungsmittel und Kultursubstrate – Bestimmung der elektrischen Leitfähigkeit, ermittelt. Nach Messung der elektrischen Leitfähigkeit wird der Salzgehalt im filtrierten Extrakt als Kaliumchlorid gemäß Methodenbuch zur Analyse organischer Düngemittel, Bodenverbesserungsmittel und Substrate berechnet. Die Ergebnisse sind in Milligramm je 100 Gramm Frischmasse anzugeben.
 
-1.3.5 Bestimmung der Schwermetalle Blei, Cadmium, Chrom, Kupfer, Nickel, Quecksilber und Zink Die Bestimmung der Schwermetalle erfolgt aus dem Königswasseraufschluss nach DIN EN 13650 (Ausgabe Januar 2002), Bodenverbesserungsmittel und Kultursubstrate – Extraktion von in Königswasser löslichen Elementen, der Trockenmasse nach einer der folgenden Untersuchungsmethoden:
+1.3.5 Bestimmung der Schwermetalle Blei, Cadmium, Chrom, Kupfer, Nickel, Quecksilber und Zink Die Bestimmung der Schwermetalle erfolgt aus dem Königswasseraufschluss nach DIN EN 13650 (Ausgabe Januar 2002), Bodenverbesserungsmittel und Kultursubstrate – Extraktion von in Königswasser löslichen Elementen, der Trockenmasse nach einer der folgenden Untersuchungsmethoden: 
 
 SchwermetallUntersuchungsmethode(n)BleiDIN 38406, Teil 6 (Ausgabe Juli 1998)
  DIN EN ISO 11885 (Ausgabe September 2009)
@@ -1202,7 +1211,7 @@ SchwermetallUntersuchungsmethode(n)BleiDIN 38406, Teil 6 (Ausgabe Juli 1998)
 
 **4** ***Bekanntmachungen sachverständiger Stellen*** Die im Abschnitt 1 genannten DIN-Normen wurden in der Beuth-Verlag GmbH, Berlin und Köln, veröffentlicht und sind beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt. Das in Nummer 1.3.3 genannte Methodenbuch zur Analyse organischer Düngemittel, Bodenverbesserungsmittel und Substrate wurde im Selbstverlag der Bundesgütegemeinschaft Kompost e. V., Köln, veröffentlicht und ist bei der Deutschen Nationalbibliothek in Leipzig archivmäßig gesichert niedergelegt.
 
-##### Anhang 4 (zu § 11 Absatz 2)Lieferschein gemäß § 11 Absatz 2 der Bioabfallverordnung
+###### Anhang 4 (zu § 11 Absatz 2)Lieferschein gemäß § 11 Absatz 2 der Bioabfallverordnung
 
 (Fundstelle: BGBl. I 2013, 706 — 708; 
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1273,7 +1282,7 @@ Aufbringungsfläche (§ 11 Abs. 2a Satz 2; vom Bewirtschafter im Original des Li
  Bewirtschafters der
  Aufbringungsfläche
 
-##### Anhang 5 (zu Anhang 1 Nummer 2, Tabellenzeile „Sammel- und Transportmaterialien aus der getrennten Bioabfallsammlung“, Spalte 3, Satz 1 Buchstabe c)
+###### Anhang 5 (zu Anhang 1 Nummer 2, Tabellenzeile „Sammel- und Transportmaterialien aus der getrennten Bioabfallsammlung“, Spalte 3, Satz 1 Buchstabe c)
 
 (Fundstelle: BGBl. I 2022, 714 — 719)
 
@@ -1319,4 +1328,3 @@ zertifiziert als industriell kompostierbar nach DIN EN *[Angabe der zugrundelieg
 **4.1** **Aufdruck des Logos „Keimling“ bei abweichenden Maßen des Sammelbeutels** Sammelbeutel können von den Referenzmaßen in Nummer 3.1.1 abweichende Maße und ein abweichendes Höhen- und Seitenverhältnis aufweisen. Bei Abweichungen der Größe des Sammelbeutels von den Referenzmaßen in Nummer 3.1.1 und gleichbleibendem Höhen- und Seitenverhältnis ist die Größe der Aufdrucke nach Nummer 3.2.3 für jede Abweichungsstufe von 10 Prozent im gleichen Verhältnis zur abweichenden Größe des Sammelbeutels anzupassen. Bei großen Sammelbeuteln darf das Logo „Keimling“ die Maximalmaße von 50 mm Höhe und 50 mm Breite einschließlich des Symbols für das eingetragene Markenzeichen entsprechend Nummer 3.1.2 Satz 2 nicht überschreiten. Bei Abweichung nur des Höhenmaßes oder nur des Breitenmaßes des Sammelbeutels vom Referenzmaß in Nummer 3.1.1 sind die Aufdrucke gemäß Nummer 3.2.3 vorzunehmen und ist das Logo „Keimling“ mit angepasster Zeilenanzahl entsprechend der geänderten Höhe oder mit angepasster vertikaler Reihenanzahl entsprechend der geänderten Breite des Sammelbeutels aufzudrucken.
 
 **4.2** **Drucktechnisch bedingte Abweichungen** Die Platzierung der Textfelder und des Freifelds darf beim Aufdruck auf der Vorderseite und der Rückseite drucktechnisch bedingt von den Maßangaben nach Nummer 3.2.3 vertikal und horizontal an jeder Seite der Felder um maximal 10 mm abweichen. Eine Änderung der Maße der Textfelder und des Freifeldes, der Rahmenstärke oder der Formatierung der Beschriftungstexte ist nicht zulässig.
-
