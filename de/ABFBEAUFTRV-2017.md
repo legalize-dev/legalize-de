@@ -4,27 +4,32 @@ identifier: "ABFBEAUFTRV-2017"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2016-12-02"
-last_updated: "2026-04-04"
+last_updated: "2026-08-11"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/abfbeauftrv_2017/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR278900016"
 slug: "abfbeauftrv_2017"
 bgbl_reference: "BGBl I 2016, 2789"
 amtabk: "AbfBeauftrV"
 stand: "Zuletzt geändert durch Art. 9 Abs. 2 G v. 30.9.2025 I Nr. 233"
+hinweis: "Änderung durch Art. 3 Abs. 3 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Verordnung über Betriebsbeauftragte für Abfall
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 Diese Verordnung regelt den Kreis der zur Bestellung von Abfallbeauftragten Verpflichteten und die Anforderungen an Abfallbeauftragte.
 
-##### § 2 Pflicht zur Bestellung
+###### § 2 Pflicht zur Bestellung
 
 Einen betriebsangehörigen Abfallbeauftragten zu bestellen haben
 
@@ -44,13 +49,13 @@ d) Abwasserbehandlungsanlagen der Größenklasse 5 gemäß Anhang I der Abwasser
 
 2. folgende Besitzer im Sinne von § 27 des Kreislaufwirtschaftsgesetzes:
 
-a) Hersteller und Vertreiber, die pro Kalenderjahr mehr als 100 Tonnen Transportverpackungen gemäß § 15 Absatz 1 Satz 1 Nummer 1 des Verpackungsgesetzes vom 5. Juli 2017 (BGBl. I S. 2234) in der jeweils geltenden Fassung zurücknehmen,
+a) Hersteller und Vertreiber, die pro Kalenderjahr mehr als 100 Tonnen Transportverpackungen, die nicht nach § 7 Absatz 1 Satz 1 des Verpackungsrecht-Durchführungsgesetzes systembeteiligungspflichtig sind, nach § 39 Absatz 1 Satz 1 Nummer 1 des Verpackungsrecht-Durchführungsgesetzes zurücknehmen,
 
-b) Hersteller und Vertreiber, die Verkaufs- und Umverpackungen gemäß § 8 Absatz 1 Satz 1 des Verpackungsgesetzes zurücknehmen, es sei denn, die von ihnen hierfür beauftragten Dritten haben einen Abfallbeauftragten bestellt,
+b) Hersteller und Vertreiber, die Verkaufs- und Umverpackungen gemäß § 8 Absatz 1 Satz 1 des Verpackungsrecht-Durchführungsgesetzes zurücknehmen, es sei denn, die von ihnen hierfür beauftragten Dritten haben einen Abfallbeauftragten bestellt,
 
-c) Hersteller und Vertreiber, die pro Kalenderjahr mehr als 100 Tonnen Verkaufs- und Umverpackungen gemäß § 15 Absatz 1 Satz 1 Nummer 2 des Verpackungsgesetzes zurücknehmen,
+c) Hersteller und Vertreiber, die pro Kalenderjahr mehr als 100 Tonnen Verkaufs- und Umverpackungen gemäß § 39 Absatz 1 Nummer 2 und 3 des Verpackungsrecht-Durchführungsgesetzes zurücknehmen,
 
-d) Hersteller und Vertreiber, die pro Kalenderjahr mehr als 2 Tonnen Verkaufsverpackungen gemäß § 15 Absatz 1 Satz 1 Nummer 4 des Verpackungsgesetzes zurücknehmen,
+d) Hersteller und Vertreiber, die pro Kalenderjahr mehr als 2 Tonnen Verkaufsverpackungen gemäß § 39 Absatz 1 Nummer 5 des Verpackungsrecht-Durchführungsgesetzes zurücknehmen,
 
 e) Hersteller, die Elektro- und Elektronikaltgeräte gemäß § 19 des Elektro- und Elektronikgerätegesetzes vom 20. Oktober 2015 (BGBl. I S. 1739), das zuletzt durch Artikel 3 des Gesetzes vom 20. Oktober 2015 (BGBl. I S. 1739) geändert worden ist, in der jeweils geltenden Fassung zurücknehmen, es sei denn, die von ihnen hierfür beauftragten Dritten haben einen Abfallbeauftragten bestellt,
 
@@ -62,25 +67,25 @@ h) Hersteller und Vertreiber, die mehr als 2 Tonnen gefährliche Abfälle oder m
 
 3. Betreiber folgender Rücknahmesysteme:
 
-a) Systeme, die Verpackungen gemäß § 14 Absatz 1 des Verpackungsgesetzes zurücknehmen, sowie
+a) Systeme, die Verpackungen gemäß § 40 Absatz 1 des Verpackungsrecht-Durchführungsgesetzes zurücknehmen, sowie
 
 b) herstellereigene Rücknahmesysteme, die Elektro- und Elektronik-Altgeräte gemäß § 16 Absatz 5 des Elektro- und Elektronikgerätegesetzes zurücknehmen.
 
 4. Betreiber von Organisationen für Herstellerverantwortung gemäß § 8 des Batterierecht-Durchführungsgesetzes vom 30. September 2025 (BGBl. 2025 I Nr. 233).
 
-##### § 3 Mehrere Abfallbeauftragte
+###### § 3 Mehrere Abfallbeauftragte
 
 Die zuständige Behörde kann anordnen, dass die zur Bestellung Verpflichteten mehrere betriebsangehörige Abfallbeauftragte zu bestellen haben; die Zahl der Abfallbeauftragten ist so zu bemessen, dass die sachgemäße Erfüllung der in § 60 Absatz 1 und 2 des Kreislaufwirtschaftsgesetzes bezeichneten Aufgaben sichergestellt ist.
 
-##### § 4 Gemeinsamer Abfallbeauftragter
+###### § 4 Gemeinsamer Abfallbeauftragter
 
 Betreibt ein zur Bestellung Verpflichteter mehrere Anlagen, mehrere Betriebe als Besitzer im Sinne des § 27 des Kreislaufwirtschaftsgesetzes oder mehrere Rücknahmesysteme oder Rücknahmestellen, kann ein gemeinsamer betriebsangehöriger Abfallbeauftragter bestellt werden, wenn hierdurch die sachgemäße Erfüllung der in § 60 Absatz 1 und 2 des Kreislaufwirtschaftsgesetzes bezeichneten Aufgaben nicht beeinträchtigt wird.
 
-##### § 5 Nicht betriebsangehöriger Abfallbeauftragter
+###### § 5 Nicht betriebsangehöriger Abfallbeauftragter
 
 Die zuständige Behörde soll einem zur Bestellung Verpflichteten auf Antrag die Bestellung eines oder mehrerer nicht betriebsangehöriger Abfallbeauftragter gestatten, wenn hierdurch die sachgemäße Erfüllung der in § 60 Absatz 1 und 2 des Kreislaufwirtschaftsgesetzes bezeichneten Aufgaben nicht beeinträchtigt wird.
 
-##### § 6 Abfallbeauftragter für Konzerne
+###### § 6 Abfallbeauftragter für Konzerne
 
 Ist die Anlage, der Betrieb eines Besitzers im Sinne des § 27 des Kreislaufwirtschaftsgesetzes, das Rücknahmesystem oder die Rücknahmestelle eines zur Bestellung Verpflichteten unter einer einheitlichen Leitung eines herrschenden Unternehmens zusammengefasst (Konzern), so kann die zuständige Behörde dem zur Bestellung Verpflichteten auf Antrag die Bestellung eines Abfallbeauftragten für den Konzernbereich gestatten,
 
@@ -92,13 +97,13 @@ b) Maßnahmen gemäß § 60 Absatz 3 Satz 1 des Kreislaufwirtschaftsgesetzes in 
 
 2. wenn der zur Bestellung Verpflichtete eine oder mehrere Personen bestellt, deren Fachkunde und Zuverlässigkeit die sachgemäße Erfüllung der Aufgaben des betriebsangehörigen Abfallbeauftragten gewährleisten.
 
-##### § 7 Ausnahme von der Pflicht zur Bestellung eines Abfallbeauftragten
+###### § 7 Ausnahme von der Pflicht zur Bestellung eines Abfallbeauftragten
 
 Die zuständige Behörde hat auf Antrag den zur Bestellung Verpflichteten von seiner Pflicht zu befreien, wenn die Bestellung im Einzelfall im Hinblick auf die Größe der Anlage, des Rücknahmesystems oder der Rücknahmestelle oder auf die Art oder Menge der entstehenden, angelieferten oder zurückgenommenen Abfälle nicht erforderlich ist.
 
 ## Abschnitt 2 Anforderungen an Abfallbeauftragte
 
-##### § 8 Zuverlässigkeit
+###### § 8 Zuverlässigkeit
 
 (1) Die nach § 60 Absatz 3 Satz 1 des Kreislaufwirtschaftsgesetzes in Verbindung mit § 55 Absatz 2 Satz 1 des Bundes-Immissionsschutzgesetzes erforderliche Zuverlässigkeit ist gegeben, wenn der Abfallbeauftragte auf Grund seiner persönlichen Eigenschaften, seines Verhaltens und seiner Fähigkeiten zur ordnungsgemäßen Erfüllung der ihm obliegenden Aufgaben geeignet ist.
 
@@ -126,7 +131,7 @@ b) seine Pflichten als Abfallbeauftragter oder als Betriebsbeauftragter für Imm
 
 4. sich nicht in geordneten wirtschaftlichen Verhältnissen befindet, es sei denn, dass dadurch die Interessen des zur Bestellung Verpflichteten nicht gefährdet sind.
 
-##### § 9 Fachkunde
+###### § 9 Fachkunde
 
 (1) Die nach § 60 Absatz 3 Satz 1 des Kreislaufwirtschaftsgesetzes in Verbindung mit § 55 Absatz 2 Satz 1 des Bundes-Immissionsschutzgesetzes erforderliche Fachkunde ist gegeben, wenn der Abfallbeauftragte
 
@@ -162,13 +167,13 @@ Der zur Bestellung Verpflichtete hat die Unterlagen der zuständigen Behörde au
 
 (4) Nachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum über die Erfüllung der Anforderungen nach den Absätzen 1 und 2 stehen inländischen Nachweisen gleich, wenn aus ihnen hervorgeht, dass die betreffenden Anforderungen oder die auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen des Ausstellungsstaates erfüllt sind. Unterlagen nach Satz 1 sind auf Verlangen im Original oder in Kopie vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung können verlangt werden.
 
-##### § 10 Übergangsvorschriften
+###### § 10 Übergangsvorschriften
 
 (1) Die Anforderungen des § 9 Absatz 1 gelten nicht für Abfallbeauftragte, die am 1. Juni 2017 bereits bestellt worden sind. Die Pflicht zur Teilnahme an einem von der zuständigen Behörde anerkannten Lehrgang gemäß § 9 Absatz 2 ist spätestens am 1. Juni 2019 erstmals zu erfüllen.
 
 (2) Abfallbeauftragte, die nach den Vorschriften dieser Verordnung erstmals bestellt werden, haben die Pflicht zur Teilnahme an einem von der zuständigen Behörde anerkannten Lehrgang gemäß § 9 Absatz 1 Nummer 3 spätestens am 1. Juni 2019 zu erfüllen.
 
-##### Anlage 1 (zu § 9 Absatz 1 Nummer 3 und Absatz 2 Satz 2)Lehrgangsinhalte
+###### Anlage 1 (zu § 9 Absatz 1 Nummer 3 und Absatz 2 Satz 2)Lehrgangsinhalte
 
 (Fundstelle: BGBl. I 2016, 2792 - 2793;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -221,7 +226,7 @@ a) das Elektro- und Elektronikgerätegesetz,
 
 b) Kapitel VIII der Verordnung (EU) 2023/1542 und das Batterierecht-Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233),
 
-c) das Verpackungsgesetz,
+c) das Verpackungsrecht-Durchführungsgesetz,
 
 4. das Recht der Abfallverbringung,
 
@@ -284,4 +289,3 @@ a) das Vortragsrecht,
 b) das Benachteiligungsverbot und den Kündigungsschutz,
 
 3. das Verfahren zur Bestellung von Abfallbeauftragten.
-
