@@ -4,30 +4,35 @@ identifier: "EWKFONDSG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2023-05-11"
-last_updated: "2026-04-04"
+last_updated: "2026-08-11"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/ewkfondsg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR07C0B0023"
 slug: "ewkfondsg"
 bgbl_reference: "BGBl I 2023, Nr. 124"
 stand: "Geändert durch Art. 3 G v. 11.5.2023 I Nr. 124, Nr. 183"
+hinweis: "Änderung durch Art. 5 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Gesetz über den Einwegkunststofffonds
 
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
 ## Teil 1 Allgemeine Vorschriften
 
-##### § 1 Ziel
+###### § 1 Ziel
 
 Ziel dieses Gesetzes ist, die Auswirkungen der Einwegkunststoffprodukte nach Anlage 1 auf die Umwelt, insbesondere die Meeresumwelt, und die menschliche Gesundheit zu vermeiden und zu vermindern sowie innovative und nachhaltige Geschäftsmodelle, Produkte und Werkstoffe zu fördern. Um diese abfallwirtschaftlichen Ziele zu erreichen, soll das Gesetz auch das Marktverhalten der Verpflichteten regeln.
 
-##### § 2 Anwendungsbereich
+###### § 2 Anwendungsbereich
 
 (1) Dieses Gesetz regelt die Produktverantwortung der Hersteller von Einwegkunststoffprodukten nach Anlage 1 im Sinne von § 23 Absatz 1 bis 3 des Kreislaufwirtschaftsgesetzes vom 24. Februar 2012 (BGBl. I S. 212), das zuletzt durch Artikel 5 des Gesetzes vom 2. März 2023 (BGBl. 2023 I Nr. 56) geändert worden ist, in der jeweils geltenden Fassung.
 
 (2) Soweit dieses Gesetz keine abweichenden Vorschriften enthält, sind das Kreislaufwirtschaftsgesetz und die auf der Grundlage des Kreislaufwirtschaftsgesetzes oder des bis zum 31. Mai 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Rechtsverordnungen in der jeweils geltenden Fassung anzuwenden. § 62 des Kreislaufwirtschaftsgesetzes gilt entsprechend.
 
-##### § 3 Begriffsbestimmungen
+###### § 3 Begriffsbestimmungen
 
 Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
@@ -53,7 +58,7 @@ b) nicht im Geltungsbereich dieses Gesetzes niedergelassen ist und gewerbsmäßi
 
 9. Bevollmächtigter: jede natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die im Geltungsbereich dieses Gesetzes niedergelassen ist und die ein Hersteller, der nicht im Geltungsbereich dieses Gesetzes niedergelassen ist, beauftragt hat, in eigenem Namen Aufgaben wahrzunehmen, um bestimmte Herstellerpflichten nach diesem Gesetz zu erfüllen;
 
-10. Zentrale Stelle: die nach § 24 Absatz 1 des Verpackungsgesetzes vom 5. Juli 2017 (BGBl. I S. 2234), das zuletzt durch Artikel 2 des Gesetzes vom 22. September 2021 (BGBl. I S. 4363) geändert worden ist, in der jeweils geltenden Fassung, eingerichtete Stiftung „Zentrale Stelle Verpackungsregister“;
+10. Zentrale Stelle Verpackungsregister: die nach § 48 des Verpackungsrecht-Durchführungsgesetzes beibehaltene oder neu eingerichtete Stiftung;
 
 11. öffentliches Sammelsystem: öffentlich ist ein Sammelsystem, das an allgemein zugänglichen Orten errichtet ist und von oder im Auftrag von einem öffentlich-rechtlichen Entsorgungsträger oder einer juristischen Person des öffentlichen Rechts betrieben wird;
 
@@ -69,13 +74,13 @@ b) nicht im Geltungsbereich dieses Gesetzes niedergelassen ist und gewerbsmäßi
 
 ## Teil 2 Einwegkunststofffonds
 
-##### § 4 Einwegkunststofffonds
+###### § 4 Einwegkunststofffonds
 
 (1) Das Umweltbundesamt verwaltet den Einwegkunststofffonds. Der Einwegkunststofffonds dient der Abwicklung der Erstattung der in § 3 Nummer 12 bis 16 genannten Kosten durch die Hersteller.
 
 (2) Bei der Verwaltung des Einwegkunststofffonds sind die Grundsätze der Wirtschaftlichkeit und Sparsamkeit zu beachten.
 
-##### § 5 Finanzierung
+###### § 5 Finanzierung
 
 (1) Die Verwaltungskosten werden aus den Einnahmen des Einwegkunststofffonds finanziert, soweit keine anderweitige Kostenerstattung geregelt ist. Die Verwaltungskosten, die dem Umweltbundesamt im Haushaltsjahr 2023 entstanden sind, werden diesem ab dem Jahr 2025 in den darauffolgenden fünf Haushaltsjahren zu gleichen Teilen aus den Einnahmen des Einwegkunststofffonds erstattet.
 
@@ -89,7 +94,7 @@ b) nicht im Geltungsbereich dieses Gesetzes niedergelassen ist und gewerbsmäßi
 
 Im Falle des Satzes 1 Nummer 3 dürfen von den Einnahmen eines Haushaltsjahres jedoch nicht mehr als 10 Prozent für weitere Haushaltsjahre vorgesehen werden.
 
-##### § 6 Jahresübersicht
+###### § 6 Jahresübersicht
 
 (1) Unbeschadet der §§ 80 bis 85 der Bundeshaushaltsordnung vom 19. August 1969 (BGBl. I S. 1284), die zuletzt durch Artikel 2 des Gesetzes vom 1. Juli 2022 (BGBl. I S. 1030) geändert worden ist, in der jeweils geltenden Fassung, stellt das Umweltbundesamt nach Ende eines jeden Haushaltsjahres in der Jahresübersicht die Summen der Einnahmen und Ausgaben des Einwegkunststofffonds dar.
 
@@ -97,7 +102,7 @@ Im Falle des Satzes 1 Nummer 3 dürfen von den Einnahmen eines Haushaltsjahres j
 
 ## Teil 3 Register der Hersteller, Pflichten der Hersteller
 
-##### § 7 Registrierung der Hersteller
+###### § 7 Registrierung der Hersteller
 
 (1) Hersteller haben sich vor der Aufnahme ihrer Tätigkeit nach Maßgabe des Absatzes 2 beim Umweltbundesamt registrieren zu lassen. Änderungen von Registrierungsdaten sowie die dauerhafte Aufgabe der Tätigkeit sind dem Umweltbundesamt unverzüglich mitzuteilen.
 
@@ -121,7 +126,7 @@ b) die schriftliche Beauftragung durch den Hersteller,
 
 7. Erklärung, dass sämtliche gemachten Angaben der Wahrheit entsprechen.
 
-Die Angaben nach Satz 1 Nummer 1 bis 4 entfallen, wenn der Hersteller einer Nutzung dieser Daten unter Angabe seiner Registrierungsnummer aus dem Register nach § 9 des Verpackungsgesetzes zustimmt.
+Die Angaben nach Satz 1 Nummer 1 bis 4 entfallen, wenn der Hersteller einer Nutzung dieser Daten unter Angabe seiner Registrierungsnummer aus dem Register nach § 6 des Verpackungsrecht-Durchführungsgesetzes zustimmt.
 
 (3) Die Registrierung sowie die Änderungsmitteilungen haben über das vom Umweltbundesamt nach § 8 Absatz 1 zur Verfügung gestellte informationstechnische System zu erfolgen.
 
@@ -137,17 +142,17 @@ Die Angaben nach Satz 1 Nummer 1 bis 4 entfallen, wenn der Hersteller einer Nutz
 
 (5) Das Umweltbundesamt veröffentlicht die registrierten Hersteller mit den in Absatz 2 Satz 1 Nummer 1 und 2 Buchstabe a sowie Nummer 5 und 6 genannten Angaben sowie mit der Registrierungsnummer und dem Registrierungsdatum auf seiner Internetseite. Bei Herstellern, deren Registrierung beendet ist, ist zusätzlich das Datum des Marktaustritts anzugeben. Die auf der Internetseite des Umweltbundesamtes veröffentlichten Daten sind dort drei Jahre nach dem Tag, an dem die Registrierung des Herstellers endet, automatisiert zu löschen.
 
-##### § 8 Register der Hersteller
+###### § 8 Register der Hersteller
 
 (1) Zur Registrierung der Hersteller nach § 7 richtet das Umweltbundesamt ein informationstechnisches System ein und eröffnet den Zugang für die Hersteller und die Bevollmächtigten auf seiner Internetseite. Das Umweltbundesamt kann nähere Anweisungen zum elektronischen Registrierungsverfahren erteilen sowie für die sonstige Kommunikation mit den Herstellern und den Bevollmächtigten die elektronische Übermittlung, eine bestimmte Verschlüsselung sowie die Eröffnung eines Zugangs für die Übermittlung elektronischer Dokumente bestimmen. Das Umweltbundesamt ist befugt, die in § 7 Absatz 2 genannten Daten abzurufen, zu erheben, zu speichern und zu verwenden. Die Daten sind drei Jahre nach Ablauf des Tages, an dem die Registrierung des Herstellers endet, automatisiert zu löschen.
 
-(2) Soweit die Angaben nach § 7 Absatz 2 Satz 1 Nummer 1 bis 4 bereits durch die Registrierung nach § 9 des Verpackungsgesetzes bei der Zentralen Stelle vorliegen, ist das Umweltbundesamt bei Vorliegen der Zustimmung des Herstellers nach § 7 Absatz 2 Satz 2 verpflichtet und befugt, die dort zur Verfügung stehenden Daten zu erheben, zu speichern und zu verwenden. Dazu stellt die Zentrale Stelle dem Umweltbundesamt diese Daten sowie die notwendigen technischen Informationen zur Art der Datenübermittlung zur Verfügung und dokumentiert die Abrufe. Die Dokumentation darf nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Dokumentation ist nach sechs Monaten automatisiert zu löschen.
+(2) Soweit die Angaben nach § 7 Absatz 2 Satz 1 Nummer 1 bis 4 bereits durch die Registrierung nach § 6 des Verpackungsrecht-Durchführungsgesetzes bei der Zentralen Stelle Verpackungsregister vorliegen, ist das Umweltbundesamt bei Vorliegen der Zustimmung des Herstellers nach § 7 Absatz 2 Satz 2 verpflichtet und befugt, die dort zur Verfügung stehenden Daten zu erheben, zu speichern und zu verwenden. Dazu stellt die Zentrale Stelle Verpackungsregister dem Umweltbundesamt diese Daten sowie die notwendigen technischen Informationen zur Art der Datenübermittlung zur Verfügung und dokumentiert die Abrufe. Die Dokumentation darf nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Dokumentation ist nach sechs Monaten automatisiert zu löschen.
 
-(3) Das Umweltbundesamt übermittelt der Zentralen Stelle jährlich elektronisch bis zum 31. Januar die Daten aller im vorangegangenen Kalenderjahr registrierten Hersteller mit den Angaben nach § 7 Absatz 2 Satz 1 Nummer 1 bis 6 und § 11 Absatz 1, soweit dies zur Erfüllung der Pflichten nach dem Verpackungsgesetz erforderlich ist. Das Umweltbundesamt und die Zentrale Stelle legen das Format der elektronischen Übermittlung im Einvernehmen fest.
+(3) Das Umweltbundesamt übermittelt der Zentralen Stelle Verpackungsregister jährlich elektronisch bis zum 31. Januar die Daten aller im vorangegangenen Kalenderjahr registrierten Hersteller mit den Angaben nach § 7 Absatz 2 Satz 1 Nummer 1 bis 6 und § 11 Absatz 1, soweit dies zur Erfüllung der Pflichten nach dem Verpackungsrecht-Durchführungsgesetz erforderlich ist. Das Umweltbundesamt und die Zentrale Stelle Verpackungsregister legen das Format der elektronischen Übermittlung im Einvernehmen fest.
 
 (4) Das Umweltbundesamt übermittelt dem Statistischen Bundesamt jährlich elektronisch bis zum 31. Januar die Daten aller im vorangegangenen Kalenderjahr registrierten Hersteller mit den Angaben nach § 7 Absatz 2 Satz 1 Nummer 1 bis 6, soweit dies für die Aufgabenerfüllung des Statistischen Bundesamtes nach § 5a des Umweltstatistikgesetzes erforderlich ist. Das Umweltbundesamt und das Statistische Bundesamt legen das Format der elektronischen Übermittlung im Einvernehmen fest.
 
-##### § 9 Einwegkunststoffprodukte von nicht oder nicht ordnungsgemäß registrierten Herstellern
+###### § 9 Einwegkunststoffprodukte von nicht oder nicht ordnungsgemäß registrierten Herstellern
 
 (1) Hersteller, die nicht nach § 7 Absatz 1 Satz 1 registriert sind, dürfen Einwegkunststoffprodukte nach Anlage 1 nicht erstmals auf dem Markt bereitstellen oder verkaufen.
 
@@ -157,7 +162,7 @@ Die Angaben nach Satz 1 Nummer 1 bis 4 entfallen, wenn der Hersteller einer Nutz
 
 (4) Fulfilment-Dienstleister dürfen die in § 3 Nummer 8 genannten Dienstleistungen in Bezug auf Einwegkunststoffprodukte nach Anlage 1 nicht erbringen, wenn der Hersteller dieser Einwegkunststoffprodukte nicht nach § 7 Absatz 1 Satz 1 registriert ist.
 
-##### § 10 Beauftragung von Bevollmächtigten; Drittbeauftragung
+###### § 10 Beauftragung von Bevollmächtigten; Drittbeauftragung
 
 (1) Hersteller, die nicht im Geltungsbereich dieses Gesetzes niedergelassen sind, haben vor der Aufnahme ihrer Tätigkeit einen Bevollmächtigten zu beauftragen, der die Pflichten nach diesem Gesetz, mit Ausnahme der Registrierung nach § 7 Absatz 1 und der jährlichen Meldung nach § 11 Absatz 1, erfüllt. Der Bevollmächtigte gilt im Hinblick auf diese Pflichten als Hersteller im Sinne dieses Gesetzes. Der Bevollmächtigte erfüllt diese Pflichten im eigenen Namen. Jeder Hersteller darf nur einen Bevollmächtigten beauftragen. Die Beauftragung hat schriftlich und in deutscher Sprache zu erfolgen.
 
@@ -169,25 +174,25 @@ Die Angaben nach Satz 1 Nummer 1 bis 4 entfallen, wenn der Hersteller einer Nutz
 
 (5) Hersteller können Dritte mit der Erfüllung ihrer Pflichten beauftragen; § 22 Satz 2 und 3 des Kreislaufwirtschaftsgesetzes gilt entsprechend. Satz 1 gilt nicht für die Registrierung nach § 7 Absatz 1 und die jährliche Meldung nach § 11 Absatz 1.
 
-##### § 11 Jährliche Meldung der Hersteller
+###### § 11 Jährliche Meldung der Hersteller
 
-(1) Hersteller haben jährlich bis zum 15. Mai dem Umweltbundesamt die von ihnen im vorangegangenen Kalenderjahr erstmals auf dem Markt bereitgestellten oder verkauften Einwegkunststoffprodukte nach Anlage 1 gemäß den Sätzen 2 und 3, aufgeschlüsselt nach jeweiliger Art und Masse, in Kilogramm, zu melden. Die Meldung bedarf der Prüfung und Bestätigung durch einen registrierten Sachverständigen im Sinne von § 3 Absatz 15 des Verpackungsgesetzes oder einen nach § 27 Absatz 2 des Verpackungsgesetzes registrierten Wirtschaftsprüfer, Steuerberater oder vereidigten Buchprüfer. Die Bestätigung ist mit einer qualifizierten elektronischen Signatur gemäß Artikel 3 Nummer 12 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) zu versehen und vom Hersteller dem Umweltbundesamt zusammen mit der Meldung und dem Prüfbericht elektronisch zu übermitteln. Im Fall einer Bevollmächtigung nach § 10 Absatz 1 übermittelt das Umweltbundesamt die vom Hersteller getätigten Angaben unverzüglich dem Bevollmächtigten.
+(1) Hersteller haben jährlich bis zum 15. Mai dem Umweltbundesamt die von ihnen im vorangegangenen Kalenderjahr erstmals auf dem Markt bereitgestellten oder verkauften Einwegkunststoffprodukte nach Anlage 1 gemäß den Sätzen 2 und 3, aufgeschlüsselt nach jeweiliger Art und Masse, in Kilogramm, zu melden. Die Meldung bedarf der Prüfung und Bestätigung durch einen registrierten Sachverständigen nach § 3 Absatz 16 des Verpackungsrecht-Durchführungsgesetzes oder einen nach § 56 Absatz 2 des Verpackungsrecht-Durchführungsgesetzes registrierten Wirtschaftsprüfer, Steuerberater oder vereidigten Buchprüfer. Die Bestätigung ist mit einer qualifizierten elektronischen Signatur gemäß Artikel 3 Nummer 12 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) zu versehen und vom Hersteller dem Umweltbundesamt zusammen mit der Meldung und dem Prüfbericht elektronisch zu übermitteln. Im Fall einer Bevollmächtigung nach § 10 Absatz 1 übermittelt das Umweltbundesamt die vom Hersteller getätigten Angaben unverzüglich dem Bevollmächtigten.
 
 (2) Das Umweltbundesamt stellt für die Meldung nach Absatz 1 Satz 1, die Bestätigung und die Übermittlung der Meldung und des Prüfberichts nach Absatz 1 Satz 3 sowie die sonstige Kommunikation mit den Herstellern einheitliche elektronische Formulare zur Verfügung und regelt das nähere Verfahren. Das Umweltbundesamt veröffentlicht jährlich auf seiner Internetseite bis zum 31. Dezember Daten über die im Vorjahr insgesamt erstmals auf dem Markt bereitgestellten oder verkauften Einwegkunststoffprodukte nach Anlage 1, aufgeschlüsselt nach jeweiliger Art und Masse.
 
 (3) Bei Vorliegen von Anhaltspunkten für eine Unrichtigkeit oder Unvollständigkeit der Meldung kann das Umweltbundesamt von dem Hersteller die Vorlage weiterer für die Prüfung im Einzelfall erforderlicher Unterlagen verlangen. Werden die Unterlagen nicht eingereicht oder sind die eingereichten Unterlagen nicht geeignet, um die Anhaltspunkte für eine Unrichtigkeit oder Unvollständigkeit zu widerlegen, gilt die Meldung nach Absatz 1 Satz 1 als nicht abgegeben.
 
-(4) Von der Pflicht nach Absatz 1 Satz 2 ist befreit, wer im vorangegangen Kalenderjahr insgesamt weniger als 100 Kilogramm Einwegkunststoffprodukte nach Anlage 1 oder ausschließlich bepfandete Getränkeflaschen nach § 31 des Verpackungsgesetzes erstmals auf dem Markt bereitgestellt oder verkauft hat. Das Umweltbundesamt kann in den Fällen des Satzes 1 jederzeit verlangen, dass eine Prüfung gemäß Absatz 1 Satz 2 durchzuführen und die Bestätigung gemäß Absatz 1 Satz 3 vorzulegen ist.
+(4) Von der Pflicht nach Absatz 1 Satz 2 ist befreit, wer im vorangegangen Kalenderjahr insgesamt weniger als 100 Kilogramm Einwegkunststoffprodukte nach Anlage 1 oder ausschließlich bepfandete Getränkeflaschen nach § 46 des Verpackungsrecht-Durchführungsgesetzes erstmals auf dem Markt bereitgestellt oder verkauft hat. Das Umweltbundesamt kann in den Fällen des Satzes 1 jederzeit verlangen, dass eine Prüfung gemäß Absatz 1 Satz 2 durchzuführen und die Bestätigung gemäß Absatz 1 Satz 3 vorzulegen ist.
 
-(5) Das Umweltbundesamt hat im Einvernehmen mit dem Bundeskartellamt Prüfleitlinien zu entwickeln, die von den registrierten Sachverständigen sowie den registrierten Wirtschaftsprüfern, Steuerberatern und vereidigten Buchprüfern bei Prüfungen im Rahmen dieses Gesetzes zu beachten sind. Verstöße gegen die Prüfleitlinien hat das Umweltbundesamt der Zentralen Stelle unverzüglich mitzuteilen und dabei vorhandene Beweisdokumente beizufügen.
+(5) Das Umweltbundesamt hat im Einvernehmen mit dem Bundeskartellamt Prüfleitlinien zu entwickeln, die von den registrierten Sachverständigen sowie den registrierten Wirtschaftsprüfern, Steuerberatern und vereidigten Buchprüfern bei Prüfungen im Rahmen dieses Gesetzes zu beachten sind. Verstöße gegen die Prüfleitlinien hat das Umweltbundesamt der Zentralen Stelle Verpackungsregister unverzüglich mitzuteilen und dabei vorhandene Beweisdokumente beizufügen.
 
 ## Teil 4 Einwegkunststoffabgabe
 
-##### § 12 Abgabepflicht
+###### § 12 Abgabepflicht
 
 Die Hersteller von Einwegkunststoffprodukten nach Anlage 1 entrichten jährlich eine Sonderabgabe zur Erstattung der Kosten nach Anlage 2 (Einwegkunststoffabgabe).
 
-##### § 13 Festsetzung, Fälligkeit und Säumnis
+###### § 13 Festsetzung, Fälligkeit und Säumnis
 
 (1) Die Festsetzung der Einwegkunststoffabgabe erfolgt jährlich durch einen Abgabebescheid des Umweltbundesamtes. Die Einwegkunststoffabgabe berechnet sich aus der gemäß § 11 Absatz 1 gemeldeten Masse der erstmals auf dem Markt bereitgestellten oder verkauften Einwegkunststoffprodukte nach Anlage 1 multipliziert mit dem durch Rechtsverordnung nach § 14 festzulegenden Abgabesatz.
 
@@ -201,7 +206,7 @@ Die Hersteller von Einwegkunststoffprodukten nach Anlage 1 entrichten jährlich 
 
 (6) Der Anspruch auf Zahlung der Einwegkunststoffabgabe verjährt nach fünf Jahren. Die Verjährung beginnt mit dem Ablauf des Kalenderjahres, in dem der Anspruch erstmals fällig geworden ist. Die Verjährung ist gehemmt, solange der Anspruch wegen höherer Gewalt innerhalb der letzten sechs Monate der Verjährungsfrist nicht verfolgt werden kann. § 19 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154), das zuletzt durch Artikel 2 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3019) geändert worden ist, in der jeweils geltenden Fassung, ist entsprechend anzuwenden.
 
-##### § 14 Festlegung der Abgabesätze, Verordnungsermächtigung
+###### § 14 Festlegung der Abgabesätze, Verordnungsermächtigung
 
 (1) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz hat nach Anhörung der beteiligten Kreise ohne Zustimmung des Bundesrates durch Rechtsverordnung bis zum 31. Dezember 2023 den Abgabesatz für jede Art eines Einwegkunststoffproduktes nach Anlage 1 in Euro pro Kilogramm nach Maßgabe von Anlage 2 festzulegen. § 68 des Kreislaufwirtschaftsgesetzes gilt entsprechend. Der Abgabesatz für Feuerwerkskörper ist entsprechend den Sätzen 1 und 2 bis zum 31. Dezember 2026 festzulegen.
 
@@ -211,7 +216,7 @@ Die Hersteller von Einwegkunststoffprodukten nach Anlage 1 entrichten jährlich 
 
 ## Teil 5 Register der Anspruchsberechtigten, Pflichten der Anspruchsberechtigten
 
-##### § 15 Registrierung der Anspruchsberechtigten
+###### § 15 Registrierung der Anspruchsberechtigten
 
 (1) Öffentlich-rechtliche Entsorgungsträger und sonstige juristische Personen des öffentlichen Rechts, die eine Erstattung ihrer Kosten gemäß § 3 Nummer 12 bis 15 geltend machen wollen, müssen beim Umweltbundesamt nach Maßgabe des Absatzes 2 registriert sein. Änderungen von Registrierungsdaten sowie die dauerhafte Aufgabe der anspruchsberechtigenden Tätigkeit sind dem Umweltbundesamt unverzüglich mitzuteilen.
 
@@ -245,11 +250,11 @@ Die Hersteller von Einwegkunststoffprodukten nach Anlage 1 entrichten jährlich 
 
 (6) Das Umweltbundesamt veröffentlicht die Anspruchsberechtigten mit den in Absatz 2 Nummer 1, 4 und 5 genannten Angaben sowie mit der Registrierungsnummer und dem Registrierungsdatum auf seiner Internetseite. Bei Anspruchsberechtigten, deren Registrierung beendet ist, ist zusätzlich das Datum des Endes der anspruchsberechtigenden Tätigkeit anzugeben. Die auf der Internetseite des Umweltbundesamtes veröffentlichten Daten sind dort ein Jahr nach Ablauf des Tages, an dem die Registrierung des Anspruchsberechtigten endet, automatisiert zu löschen.
 
-##### § 16 Register der Anspruchsberechtigten
+###### § 16 Register der Anspruchsberechtigten
 
 Zur Registrierung der Anspruchsberechtigten nach § 15 richtet das Umweltbundesamt ein informationstechnisches System ein und eröffnet den Zugang für die Anspruchsberechtigten auf seiner Internetseite. Das Umweltbundesamt kann nähere Anweisungen zum elektronischen Registrierungsverfahren erteilen sowie für die sonstige Kommunikation mit den Anspruchsberechtigten die elektronische Übermittlung, eine bestimmte Verschlüsselung sowie die Eröffnung eines Zugangs für die Übermittlung elektronischer Dokumente bestimmen. Das Umweltbundesamt ist befugt, die in § 15 Absatz 2 genannten Daten zu erheben, zu speichern und zu verwenden. Die Daten sind ein Jahr nach Ablauf des Tages, an dem die Registrierung des Anspruchsberechtigten endet, automatisiert zu löschen.
 
-##### § 17 Jährliche Meldung der Anspruchsberechtigten
+###### § 17 Jährliche Meldung der Anspruchsberechtigten
 
 (1) Die Erstattung von Kosten setzt voraus, dass der registrierte Anspruchsberechtigte dem Umweltbundesamt bis zum 15. Mai des betreffenden Jahres folgende Daten für das vorangegangene Kalenderjahr meldet:
 
@@ -265,7 +270,7 @@ Zur Registrierung der Anspruchsberechtigten nach § 15 richtet das Umweltbundesa
 
 (3) Das Umweltbundesamt legt die Art der zu meldenden Angaben und der zu erbringenden Nachweise fest, stellt für die Meldung und den Prüfbericht nach § 18 Absatz 1 einheitliche elektronische Formulare zur Verfügung und regelt das nähere Verfahren. Das Umweltbundesamt veröffentlicht jährlich bis zum 31. Dezember die Daten über die im Vorjahr insgesamt erbrachten Leistungen und dadurch entstandenen Kosten nach Absatz 1 auf seiner Internetseite.
 
-##### § 18 Kontrolle der Angaben
+###### § 18 Kontrolle der Angaben
 
 (1) Bei Vorliegen von Anhaltspunkten für die Unrichtigkeit der Meldung eines Anspruchsberechtigten nach § 17 Absatz 1, die auch nach entsprechender Aufforderung innerhalb einer angemessenen Frist nicht ausgeräumt werden konnten, kann das Umweltbundesamt anordnen, dass der Anspruchsberechtigte die Angaben der Meldung auf seine Kosten durch einen zugelassenen Sachverständigen überprüfen zu lassen und den Prüfbericht vorzulegen hat. Kommt ein Anspruchsberechtigter dieser Anordnung nicht in der gesetzten Frist nach, gilt die Meldung als nicht erfolgt.
 
@@ -281,7 +286,7 @@ Zur Registrierung der Anspruchsberechtigten nach § 15 richtet das Umweltbundesa
 
 ## Teil 6 Auszahlung
 
-##### § 19 Punktesystem, Verordnungsermächtigung
+###### § 19 Punktesystem, Verordnungsermächtigung
 
 (1) Die Auszahlung aus dem Einwegkunststofffonds erfolgt nach einem Punktesystem, welches den kalenderjährlich erbrachten Leistungen der Anspruchsberechtigten eine bestimmte Punktzahl zuweist.
 
@@ -291,7 +296,7 @@ Zur Registrierung der Anspruchsberechtigten nach § 15 richtet das Umweltbundesa
 
 (4) Das Punktesystem ist regelmäßig, mindestens alle drei Jahre, zu überprüfen und, soweit erforderlich, anzupassen.
 
-##### § 20 Bekanntgabe und Berechnung des Punktewertes
+###### § 20 Bekanntgabe und Berechnung des Punktewertes
 
 (1) Das Umweltbundesamt berechnet jährlich den Punktewert und gibt diesen bis zum Ablauf des 30. September bekannt. Der Punktewert ist der Quotient aus dem Gesamtauszahlungsbetrag und der Gesamtpunktzahl.
 
@@ -307,13 +312,13 @@ b) vorgesehenen Mitteln nach § 5 Absatz 2 Satz 1 sowie
 
 (3) Die Gesamtpunktzahl ist die Summe der Punkte aller Anspruchsberechtigten für die im vorangegangenen Kalenderjahr erbrachten Leistungen.
 
-##### § 21 Festsetzung und Auszahlung der Mittel
+###### § 21 Festsetzung und Auszahlung der Mittel
 
 Das Umweltbundesamt setzt die auszuzahlenden Mittel aus dem Einwegkunststofffonds gegenüber dem jeweiligen Anspruchsberechtigten durch einen Leistungsbescheid fest. Die Höhe der Mittel berechnet sich aus der für die erbrachten Leistungen nach dem Punktesystem errechneten Punktzahl multipliziert mit dem Punktewert. Die Auszahlungen sollen spätestens einen Monat nach Eintritt der Bestandskraft des Bescheides erfolgt sein.
 
 ## Teil 7 Feststellungsbefugnisse
 
-##### § 22 Feststellung zur Einordnung als Einwegkunststoffprodukt, Feststellung der Herstellereigenschaft
+###### § 22 Feststellung zur Einordnung als Einwegkunststoffprodukt, Feststellung der Herstellereigenschaft
 
 (1) Das Umweltbundesamt stellt auf Antrag eines Herstellers oder Bevollmächtigten oder nach pflichtgemäßem Ermessen fest,
 
@@ -333,7 +338,7 @@ Die Feststellung nach Satz 1 Nummer 1 und 2 kann als Allgemeinverfügung erfolge
 
 ## Teil 8 Einwegkunststoffkommission
 
-##### § 23 Einrichtung, Aufgaben und Verfahren
+###### § 23 Einrichtung, Aufgaben und Verfahren
 
 (1) Es wird eine Einwegkunststoffkommission eingerichtet. Sie berät
 
@@ -355,7 +360,7 @@ Das Umweltbundesamt unterstützt die Einwegkunststoffkommission bei der Wahrnehm
 
 (4) Die Einwegkunststoffkommission gibt sich eine Geschäftsordnung und nimmt diese mit der Mehrheit der abgegebenen Stimmen an. Die Geschäftsordnung bedarf der Zustimmung des Umweltbundesamtes. Mit der Zustimmung des Umweltbundesamtes ist die Einwegkunststoffkommission eingerichtet. Das Umweltbundesamt kann die Einwegkunststoffkommission auffordern, innerhalb einer angemessenen Frist eine Geschäftsordnung zur Zustimmung vorzulegen. Wird innerhalb dieser Frist keine Geschäftsordnung vorgelegt, werden die Verfahren nach Absatz 1 Satz 2 ohne Mitwirkung der Einwegkunststoffkommission fortgesetzt.
 
-##### § 24 Besetzung und Benennung
+###### § 24 Besetzung und Benennung
 
 (1) Die Einwegkunststoffkommission besteht aus 12 Mitgliedern. Die Mitglieder verteilen sich wie folgt:
 
@@ -377,11 +382,11 @@ Die Tätigkeit der Mitglieder ist ehrenamtlich. Eine Vergütung oder Erstattung 
 
 ## Teil 9 Schlussbestimmungen
 
-##### § 25 Aufsicht
+###### § 25 Aufsicht
 
 Das Umweltbundesamt untersteht hinsichtlich der ihm nach diesem Gesetz übertragenen Aufgaben der Rechts- und Fachaufsicht des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz.
 
-##### § 26 Bußgeldvorschriften
+###### § 26 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -413,7 +418,7 @@ b) § 10 Absatz 2 Satz 5
 
 (4) Auch die im gerichtlichen Verfahren angeordneten Geldbußen und die Geldbeträge, deren Einziehung nach § 29a des Gesetzes über Ordnungswidrigkeiten gerichtlich angeordnet wurde, fließen derjenigen Bundeskasse zu, die auch die der Staatskasse auferlegten Kosten trägt.
 
-##### § 27 Einziehung
+###### § 27 Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 26 Absatz 1 begangen worden, so können Gegenstände eingezogen werden,
 
@@ -423,7 +428,7 @@ Ist eine Ordnungswidrigkeit nach § 26 Absatz 1 begangen worden, so können Gege
 
 § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-##### § 28 Evaluierung
+###### § 28 Evaluierung
 
 Die Bundesregierung evaluiert bis zum 31. Dezember 2027 die Wirkung der in diesem Gesetz enthaltenen Regelungen im Hinblick auf die Zielerreichung. Im Rahmen der Evaluierung ist insbesondere zu überprüfen:
 
@@ -435,7 +440,7 @@ Die Bundesregierung evaluiert bis zum 31. Dezember 2027 die Wirkung der in diese
 
 4. die Notwendigkeit einer Erweiterung des Anwendungsbereichs auf weitere Produkte unter Berücksichtigung der Ergebnisse der Überprüfung nach Artikel 15 der Richtlinie (EU) 2019/904.
 
-##### § 29 Übergangsvorschrift
+###### § 29 Übergangsvorschrift
 
 (1) Hersteller von Feuerwerkskörpern, die ihre Tätigkeit bereits vor dem 1. Januar 2026 aufgenommen haben, haben sich bis zum 31. Dezember 2026 gemäß § 7 beim Umweltbundesamt registrieren zu lassen.
 
@@ -449,9 +454,9 @@ Die Bundesregierung evaluiert bis zum 31. Dezember 2027 die Wirkung der in diese
 
 (6) Die Festsetzung der Einwegkunststoffabgabe für Feuerwerkskörper nach § 13 Absatz 1 hat erstmals 2028 zu erfolgen.
 
-##### § 30 (weggefallen)
+###### § 30 (weggefallen)
 
-##### Anlage 1 (zu den §§ 1, 2 Absatz 1, zu § 3 Nummer 3, 5 bis 8 und 12 bis 15, § 7 Absatz 2 Satz 1 Nummer 5 und 6,zu den §§ 9, 10 Absatz 4, zu § 11 Absatz 1 Satz 1, Absatz 2 und Absatz 4, zu den §§ 12, 13 Absatz 1 Satz 2 und Absatz 2, zu § 14 Absatz 1 Satz 1, § 22 Absatz 1 Satz 1 Nummer 2, § 28 Satz 2 Nummer 1 und 2)Liste der Einwegkunststoffprodukte
+###### Anlage 1 (zu den §§ 1, 2 Absatz 1, zu § 3 Nummer 3, 5 bis 8 und 12 bis 15, § 7 Absatz 2 Satz 1 Nummer 5 und 6,zu den §§ 9, 10 Absatz 4, zu § 11 Absatz 1 Satz 1, Absatz 2 und Absatz 4, zu den §§ 12, 13 Absatz 1 Satz 2 und Absatz 2, zu § 14 Absatz 1 Satz 1, § 22 Absatz 1 Satz 1 Nummer 2, § 28 Satz 2 Nummer 1 und 2)Liste der Einwegkunststoffprodukte
 
 (Fundstelle: BGBl. 2023 I Nr. 123, S. 13;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -484,7 +489,7 @@ b) keiner weiteren Zubereitung bedarf;
 
 9. Feuerwerkskörper im Sinne von § 3 Absatz 1 Nummer 4 des Sprengstoffgesetzes.
 
-##### Anlage 2 (zu den §§ 12, 14 Absatz 1 Satz 1)Kostentragung nach Produktart
+###### Anlage 2 (zu den §§ 12, 14 Absatz 1 Satz 1)Kostentragung nach Produktart
 
 (Fundstelle: BGBl. 2023 I Nr. 123, S. 14;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -499,7 +504,7 @@ Tüten und Folienverpackungen (Anlage 1 Nummer 2)XXXXX
 
 Getränkebehälter (Anlage 1 Nummer 3)XXXXX
 
-nach § 31 des Verpackungsgesetzes bepfandete Getränkeflaschen (Anlage 1 Nummer 3)XXXXX
+nach § 46 des Verpackungsrecht-Durchführungsgesetzes bepfandete Getränkeflaschen (Anlage 1 Nummer 3)XXXXX
 
 Getränkebecher (Anlage 1 Nummer 4)XXXXX
 
@@ -512,4 +517,3 @@ Luftballons (Anlage 1 Nummer 7)XXXX
 Tabakprodukte mit Filtern und Filter für Tabakprodukte (Anlage 1 Nummer 8)XXXXX
 
 Feuerwerkskörper (Anlage 1 Nummer 9)XXXX
-
