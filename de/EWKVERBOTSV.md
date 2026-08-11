@@ -4,25 +4,30 @@ identifier: "EWKVERBOTSV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2021-01-20"
-last_updated: "2026-04-04"
+last_updated: "2026-08-11"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/ewkverbotsv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR009500021"
 slug: "ewkverbotsv"
 bgbl_reference: "BGBl I 2021, 95"
+hinweis: "Änderung durch Art. 3 Abs. 5 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 24 Nummer 4 in Verbindung mit § 67 des Kreislaufwirtschaftsgesetzes vom 24. Februar 2012 (BGBl. I S. 212), von denen § 24 Nummer 4 durch Artikel 1 Nummer 18 des Gesetzes vom 23. Oktober 2020 (BGBl. I S. 2232) geändert worden ist, verordnet die Bundesregierung nach Anhörung der beteiligten Kreise unter Wahrung der Rechte des Bundestages:
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
-Diese Verordnung gilt für das Inverkehrbringen von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff. Diese Verordnung gilt unabhängig davon, ob die Produkte als Verpackungen nach § 3 Absatz 1 des Verpackungsgesetzes in Verkehr gebracht werden oder nicht.
+Diese Verordnung gilt für das Inverkehrbringen von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff. Diese Verordnung gilt unabhängig davon, ob die Produkte als Verpackungen nach Artikel 3 Absatz 1 Nummer 1 der Verordnung (EU) 2025/40 in Verkehr gebracht werden oder nicht.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -36,7 +41,7 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
 5. Bereitstellung auf dem Markt: jede entgeltliche oder unentgeltliche Abgabe eines Produkts zum Vertrieb, zum Verbrauch oder zur Verwendung auf dem Markt im Rahmen einer Geschäftstätigkeit.
 
-##### § 3 Beschränkungen des Inverkehrbringens
+###### § 3 Beschränkungen des Inverkehrbringens
 
 (1) Folgende Einwegkunststoffprodukte dürfen nicht in Verkehr gebracht werden:
 
@@ -66,15 +71,14 @@ c) ohne weitere Zubereitung wie Kochen, Sieden oder Erhitzen verzehrt werden kö
 
 (2) Produkte aus oxo-abbaubarem Kunststoff dürfen nicht in Verkehr gebracht werden.
 
-##### § 4 Ordnungswidrigkeiten
+###### § 4 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3 ein Produkt in Verkehr bringt.
 
-##### § 5 Inkrafttreten
+###### § 5 Inkrafttreten
 
 Diese Verordnung tritt am 3. Juli 2021 in Kraft.
 
-##### Schlussformel
+###### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
