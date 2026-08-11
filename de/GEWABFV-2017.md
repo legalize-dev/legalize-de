@@ -4,19 +4,24 @@ identifier: "GEWABFV-2017"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2017-04-18"
-last_updated: "2026-04-04"
+last_updated: "2026-08-11"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/gewabfv_2017/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR089600017"
 slug: "gewabfv_2017"
 bgbl_reference: "BGBl I 2017, 896"
 amtabk: "GewAbfV"
 stand: "Zuletzt geändert durch Art. 9 Abs. 3 G v. 30.9.2025 I Nr. 233"
+hinweis: "Änderung durch Art. 3 Abs. 4 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Verordnung über die Bewirtschaftung von gewerblichen Siedlungsabfällen und von bestimmten Bau- und Abbruchabfällen
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund
 
@@ -26,11 +31,11 @@ Auf Grund
 
 verordnet die Bundesregierung:
 
-##### Inhaltsübersicht
+###### Inhaltsübersicht
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Bewirtschaftung, insbesondere die Erfassung, die Vorbehandlung, die Vorbereitung zur Wiederverwendung, das Recycling und die sonstige Verwertung,
 
@@ -44,7 +49,7 @@ verordnet die Bundesregierung:
 
 2. Betreiber von Vorbehandlungs- und Aufbereitungsanlagen.
 
-(3) Auf Abfälle, die einer Verordnung auf Grund der §§ 24 und 25 des Kreislaufwirtschaftsgesetzes oder der §§ 23 und 24 des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes oder dem Verpackungsgesetz unterliegen, findet diese Verordnung nur Anwendung, soweit Erzeuger und Besitzer solcher Abfälle diese nicht entsprechend den Regelungen der jeweiligen Verordnung oder des Verpackungsgesetzes zurückgeben.
+(3) Auf Abfälle, die einer Verordnung auf Grund der §§ 24 und 25 des Kreislaufwirtschaftsgesetzes oder der §§ 23 und 24 des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes oder dem Verpackungsrecht-Durchführungsgesetz unterliegen, findet diese Verordnung nur Anwendung, soweit Erzeuger und Besitzer solcher Abfälle diese nicht entsprechend den Regelungen der jeweiligen Verordnung oder des Verpackungsrecht-Durchführungsgesetzes zurückgeben.
 
 (4) Diese Verordnung gilt nicht für Abfälle, die
 
@@ -56,7 +61,7 @@ verordnet die Bundesregierung:
 
 (5) Die Vorgaben der Altholzverordnung vom 15. August 2002 (BGBl. I S. 3302), die zuletzt durch Artikel 6 der Verordnung vom 2. Dezember 2016 (BGBl. I S. 2770) geändert worden ist, in der jeweils geltenden Fassung bleiben unberührt.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -86,7 +91,7 @@ b) weitere nicht in Kapitel 20 der Anlage der Abfallverzeichnis-Verordnung aufge
 
 ## Abschnitt 2 Gewerbliche Siedlungsabfälle
 
-##### § 3 Getrennte Sammlung, Vorbereitung zur Wiederverwendung und Recycling von gewerblichen Siedlungsabfällen
+###### § 3 Getrennte Sammlung, Vorbereitung zur Wiederverwendung und Recycling von gewerblichen Siedlungsabfällen
 
 (1) Erzeuger und Besitzer von gewerblichen Siedlungsabfällen haben die folgenden Abfallfraktionen jeweils getrennt zu sammeln und zu befördern sowie nach Maßgabe des § 8 Absatz 1 und § 9 Absatz 4 des Kreislaufwirtschaftsgesetzes vorrangig der Vorbereitung zur Wiederverwendung oder dem Recycling zuzuführen:
 
@@ -120,7 +125,7 @@ Erzeuger und Besitzer von gewerblichen Siedlungsabfällen nach Satz 1 können ei
 
 Die Dokumentation ist auf Verlangen der zuständigen Behörde vorzulegen; die Vorlage hat auf Verlangen der zuständigen Behörde elektronisch zu erfolgen.
 
-##### § 4 Vorbehandlung von gewerblichen Siedlungsabfällen
+###### § 4 Vorbehandlung von gewerblichen Siedlungsabfällen
 
 (1) Entfallen die Pflichten nach § 3 Absatz 1 Satz 1 unter den Voraussetzungen des § 3 Absatz 2, sind Erzeuger und Besitzer der nicht getrennt gehaltenen Abfälle verpflichtet, diese unverzüglich einer Vorbehandlungsanlage zuzuführen. In diesen Gemischen dürfen
 
@@ -150,7 +155,7 @@ Die Dokumentation ist auf Verlangen der zuständigen Behörde vorzulegen; die Vo
 
 4. wer in einem anderen Mitgliedstaat der Europäischen Union oder in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassen ist, seine Tätigkeit im Inland nur vorübergehend und gelegentlich ausüben will und seine Berufsqualifikation vor Aufnahme der Tätigkeit entsprechend den §§ 13a und 13b der Gewerbeordnung hat nachprüfen lassen; Verfahren nach dieser Nummer können über eine einheitliche Stelle abgewickelt werden.
 
-##### § 4a Umgang mit verpackten Bioabfällen
+###### § 4a Umgang mit verpackten Bioabfällen
 
 (1) Verpackte Bioabfälle, insbesondere verpackte Lebensmittelabfälle, sind
 
@@ -160,11 +165,11 @@ Die Dokumentation ist auf Verlangen der zuständigen Behörde vorzulegen; die Vo
 
 (2) Erzeuger und Besitzer haben sich bei der erstmaligen Übergabe der verpackten Bioabfälle durch denjenigen, der die Abfälle übernimmt, in Textform bestätigen zu lassen, dass die Anforderungen nach Absatz 1 erfüllt werden. Beauftragt ein Erzeuger oder Besitzer einen Dritten mit der Beförderung der verpackten Bioabfälle, so ist dieser verpflichtet, die Bestätigung einzuholen. Der Beförderer teilt dem Erzeuger oder Besitzer unverzüglich nach dem Erhalt der Bestätigung mit, ob die Anforderungen nach Absatz 1 erfüllt werden.
 
-##### § 5 Gemeinsame Erfassung und Entsorgung von Kleinmengen
+###### § 5 Gemeinsame Erfassung und Entsorgung von Kleinmengen
 
 Erzeuger und Besitzer von gewerblichen Siedlungsabfällen können diese gemeinsam mit den auf dem jeweiligen Grundstück anfallenden Abfällen aus privaten Haushaltungen in den dafür vorgesehenen Abfallbehältern erfassen und im Rahmen der für die privaten Haushaltungen vorgesehenen Entsorgungswege einer Verwertung oder einer Beseitigung zuführen, wenn ihnen auf Grund der geringen Menge der angefallenen gewerblichen Siedlungsabfälle eine Erfüllung der Pflichten nach den §§ 3 und 4 wirtschaftlich nicht zumutbar ist. Für diesen Fall entfällt die Pflicht zur Benutzung von Abfallbehältern nach § 7 Absatz 2.
 
-##### § 6 Anforderungen an Vorbehandlungsanlagen
+###### § 6 Anforderungen an Vorbehandlungsanlagen
 
 (1) Betreiber von Vorbehandlungsanlagen haben zur Gewährleistung eines ordnungsgemäßen, schadlosen und hochwertigen Recyclings, insbesondere der Abfallfraktionen Papier, Pappe und Karton, Kunststoff, Metall sowie Holz, ihre Anlagen mit mindestens den in der Anlage genannten Komponenten auszustatten. Diese Pflicht ist auch erfüllt, wenn die Komponenten auf mehrere Anlagen verteilt sind und diese Anlagen hintereinandergeschaltet betrieben werden. Sofern es sich dabei um Anlagen unterschiedlicher Betreiber handelt, ist durch Verträge zwischen den beteiligten Betreibern sicherzustellen, dass alle von der ersten Anlage zur Verwertung aussortierten Abfälle weiterbehandelt und insgesamt die Sortier- und Recyclingquoten eingehalten werden.
 
@@ -192,7 +197,7 @@ Bei hintereinandergeschaltet betriebenen Anlagen unterschiedlicher Betreiber nac
 
 (8) Betreiber von Vorbehandlungsanlagen haben gefährliche Abfälle auszusortieren und einer ordnungsgemäßen Verwertung oder Beseitigung zuzuführen.
 
-##### § 7 Überlassung von gewerblichen Siedlungsabfällen, die nicht verwertet werden
+###### § 7 Überlassung von gewerblichen Siedlungsabfällen, die nicht verwertet werden
 
 (1) Erzeuger und Besitzer von gewerblichen Siedlungsabfällen, die nicht verwertet werden, haben diese dem zuständigen öffentlich-rechtlichen Entsorgungsträger nach Maßgabe des § 17 Absatz 1 Satz 2 des Kreislaufwirtschaftsgesetzes zu überlassen.
 
@@ -202,7 +207,7 @@ Bei hintereinandergeschaltet betriebenen Anlagen unterschiedlicher Betreiber nac
 
 ## Abschnitt 3 Bau- und Abbruchabfälle
 
-##### § 8 Getrennte Sammlung, Vorbereitung zur Wiederverwendung und Recycling von bestimmten Bau- und Abbruchabfällen
+###### § 8 Getrennte Sammlung, Vorbereitung zur Wiederverwendung und Recycling von bestimmten Bau- und Abbruchabfällen
 
 (1) Erzeuger und Besitzer von Bau- und Abbruchabfällen haben die folgenden Abfallfraktionen jeweils getrennt zu sammeln, zu befördern und nach Maßgabe des § 8 Absatz 1 und § 9 Absatz 4 des Kreislaufwirtschaftsgesetzes vorrangig der Vorbereitung zur Wiederverwendung oder dem Recycling zuzuführen:
 
@@ -242,7 +247,7 @@ Erzeuger und Besitzer von Bau- und Abbruchabfällen können eine getrennte Samml
 
 Die Dokumentation ist auf Verlangen der zuständigen Behörde vorzulegen; die Vorlage hat auf Verlangen der zuständigen Behörde elektronisch zu erfolgen. Die Pflichten nach den Sätzen 1 bis 3 gelten nicht für Bau- und Abbruchmaßnahmen, bei denen das Volumen der insgesamt anfallenden Abfälle 10 Kubikmeter nicht überschreitet.
 
-##### § 9 Vorbehandlung und Aufbereitung von bestimmten Bau- und Abbruchabfällen
+###### § 9 Vorbehandlung und Aufbereitung von bestimmten Bau- und Abbruchabfällen
 
 (1) Entfallen die Pflichten nach § 8 Absatz 1 unter den Voraussetzungen des § 8 Absatz 2 sind Erzeuger und Besitzer der nicht getrennt gehaltenen Abfälle verpflichtet,
 
@@ -264,7 +269,7 @@ In den Gemischen nach Satz 1 dürfen Glas, Dämmmaterial, Bitumengemische und Ba
 
 ## Abschnitt 4 Gemeinsame Vorschriften
 
-##### § 10 Eigenkontrolle bei Vorbehandlungsanlagen
+###### § 10 Eigenkontrolle bei Vorbehandlungsanlagen
 
 (1) Betreiber von Vorbehandlungsanlagen haben bei jeder Abfallanlieferung unverzüglich eine Annahmekontrolle nach Satz 2 durchzuführen und deren Ergebnis zu dokumentieren. Die Annahmekontrolle umfasst eine Sichtkontrolle sowie die Feststellung
 
@@ -290,7 +295,7 @@ In den Gemischen nach Satz 1 dürfen Glas, Dämmmaterial, Bitumengemische und Ba
 
 3. die Art der Anlage; soweit die weitere Entsorgung in einer genehmigungsbedürftigen Anlage erfolgt, auf der Grundlage der Bezeichnung im Genehmigungsbescheid.
 
-##### § 11 Fremdkontrolle bei Vorbehandlungsanlagen
+###### § 11 Fremdkontrolle bei Vorbehandlungsanlagen
 
 (1) Betreiber von Vorbehandlungsanlagen haben für jedes Kalenderjahr innerhalb von zwei Monaten nach Jahresende eine Fremdkontrolle nach Satz 2 durch eine von der zuständigen Behörde bekannt gegebene Stelle durchführen zu lassen. Die Fremdkontrolle, die insbesondere durch die Kontrolle der vorzuhaltenden Dokumentationen erfolgen kann, umfasst die Überprüfung, ob die Anforderungen nach den §§ 6 und 10 eingehalten werden.
 
@@ -308,7 +313,7 @@ In den Gemischen nach Satz 1 dürfen Glas, Dämmmaterial, Bitumengemische und Ba
 
 (6) Hinsichtlich der Überprüfung der erforderlichen Fachkunde eines Antragstellers aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum gilt § 36a Absatz 1 Satz 2 und Absatz 2 und 4 Satz 4 der Gewerbeordnung entsprechend. Bei vorübergehender und nur gelegentlicher Tätigkeit eines Staatsangehörigen eines in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassenen Dienstleistungserbringers gilt hinsichtlich der erforderlichen Fachkunde § 13a Absatz 2 Satz 2 bis 5 und Absatz 3 der Gewerbeordnung entsprechend.
 
-##### § 12 Betriebstagebuch
+###### § 12 Betriebstagebuch
 
 (1) Betreiber von Vorbehandlungsanlagen haben ein Betriebstagebuch nach Satz 2 zu führen und dieses nach Kalenderjahren zu unterteilen. Folgende Angaben sind in das Betriebstagebuch unverzüglich einzustellen:
 
@@ -326,7 +331,7 @@ In den Gemischen nach Satz 1 dürfen Glas, Dämmmaterial, Bitumengemische und Ba
 
 (4) Das Betriebstagebuch ist von der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Person oder von einer von ihr beauftragten Person regelmäßig auf Richtigkeit und Vollständigkeit zu überprüfen. Die Überprüfung ist zu dokumentieren.
 
-##### § 13 Ordnungswidrigkeiten
+###### § 13 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -370,7 +375,7 @@ In den Gemischen nach Satz 1 dürfen Glas, Dämmmaterial, Bitumengemische und Ba
 
 14. entgegen § 12 Absatz 3 Satz 5 eine dort genannte Information nicht oder nicht mindestens fünf Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt.
 
-##### § 14 Übergangsvorschrift
+###### § 14 Übergangsvorschrift
 
 Abweichend von § 4 Absatz 3 Satz 3 ist für das Entfallen der Pflicht nach § 4 Absatz 1 Satz 1
 
@@ -378,17 +383,17 @@ Abweichend von § 4 Absatz 3 Satz 3 ist für das Entfallen der Pflicht nach § 4
 
 2. im Kalenderjahr nach dem Inkrafttreten der Verordnung nicht die Getrenntsammlungsquote aus dem vorangegangenen Kalenderjahr sondern die Getrenntsammlungsquote vom Zeitpunkt des Inkrafttretens bis zum Ende des Jahres des Inkrafttretens maßgeblich.
 
-##### § 15 Inkrafttreten, Außerkrafttreten
+###### § 15 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am 1. August 2017 in Kraft. Gleichzeitig tritt die Gewerbeabfallverordnung vom 19. Juni 2002 (BGBl. I S. 1938), die zuletzt durch Artikel 4 der Verordnung vom 2. Dezember 2016 (BGBl. I S. 2770) geändert worden ist, außer Kraft.
 
 (2) § 4 Absatz 2, § 6 Absatz 1 und Absatz 3 bis 6 treten am 1. Januar 2019 in Kraft.
 
-##### Schlussformel
+###### Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-##### Anlage (zu § 6 Absatz 1 Satz 1)Technische Mindestanforderungen für Vorbehandlungsanlagen
+###### Anlage (zu § 6 Absatz 1 Satz 1)Technische Mindestanforderungen für Vorbehandlungsanlagen
 
 (Fundstelle: BGBl. I 2017, 904)
 
@@ -403,4 +408,3 @@ Vorbehandlungsanlagen für die Behandlung von Gemischen gemäß § 4 Absatz 1 Sa
 4. Aggregate zur Ausbringung von Eisen und Nichteisenmetallen mit einer Metallausbringung von mindestens 95 Prozent, sofern Eisen- und Nichteisenmetalle in den zu behandelnden Gemischen enthalten sind, sowie
 
 5. Aggregate zur Ausbringung von Kunststoff mit einer Kunststoffausbringung von mindestens 85 Prozent, von Holz oder von Papier, wie zum Beispiel Nahinfrarotaggregate.
-
