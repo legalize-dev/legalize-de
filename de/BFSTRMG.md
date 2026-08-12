@@ -4,19 +4,22 @@ identifier: "BFSTRMG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2011-07-12"
-last_updated: "2026-04-04"
+last_updated: "2026-08-12"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bfstrmg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR137810011"
 slug: "bfstrmg"
 bgbl_reference: "BGBl I 2011, 1378"
-stand: "Zuletzt geändert durch Art. 2 G v. 1.12.2025 I Nr. 295"
-hinweis: "Änderung durch Art. 3 Abs. 4 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Zuletzt geändert durch Art. 3 Abs. 3 G v. 15.5.2026 I Nr. 148"
 ---
 # Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutzung von Bundesautobahnen und Bundesstraßen
 
-##### § 1 Autobahn- und Bundesstraßenmaut
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Autobahn- und Bundesstraßenmaut
 
 (1) Für die Benutzung der Bundesautobahnen und der Bundesstraßen mit Fahrzeugen im Sinne des Satzes 2 ist eine Gebühr im Sinne des Artikels 2 Absatz 1 Nummer 7 der Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), die zuletzt durch die Richtlinie (EU) 2022/362 (ABl. L 69 vom 4.3.2022, S. 1) geändert worden ist, zu entrichten (Maut). Fahrzeuge sind Kraftfahrzeuge und Fahrzeugkombinationen,
 
@@ -64,7 +67,7 @@ Voraussetzung für die Mautbefreiung nach Satz 1 Nummer 2 bis 4 ist, dass die Fa
 
 (6) (weggefallen)
 
-##### § 2 Mautschuldner
+###### § 2 Mautschuldner
 
 (1) Mautschuldner ist die Person,
 
@@ -82,7 +85,7 @@ Maßgeblich ist der Zeitpunkt, zu dem die Benutzung einer mautpflichtigen Straß
 
 (2) Mautgläubiger ist der Bund.
 
-##### § 3 Mautsätze und Mautberechnung
+###### § 3 Mautsätze und Mautberechnung
 
 (1) Die geschuldete Maut bestimmt sich nach der auf mautpflichtigen Straßen im Sinne des § 1 zurückgelegten Strecke des Fahrzeuges oder der Fahrzeugkombination und einem Mautsatz je Kilometer nach Maßgabe des Absatzes 3, der aus je einem Mautteilsatz für
 
@@ -118,7 +121,7 @@ besteht.
 
 6. zusätzliche Einnahmen dürfen nicht erzielt werden.
 
-##### § 3a Knotenpunkte
+###### § 3a Knotenpunkte
 
 (1) Ein Knotenpunkt im Sinne dieses Gesetzes ist
 
@@ -136,7 +139,7 @@ Ergibt sich im Falle des Satzes 1 Nummer 2 eine Abschnittslänge von weniger als
 
 (2) Das Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates abweichend von Absatz 1 Satz 1 Nummer 2 und Satz 2 bis 4 Knotenpunkte für Bundesstraßen festzulegen, um den örtlichen Gegebenheiten und dem üblichen Verkehrsverhalten Rechnung zu tragen. Das Bundesministerium für Verkehr wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das Bundesamt für Logistik und Mobilität zu übertragen.
 
-##### § 4 Mautentrichtung und Mauterstattung
+###### § 4 Mautentrichtung und Mauterstattung
 
 (1) Der Mautschuldner hat die Maut in der sich aus § 3, auch in Verbindung mit § 14, ergebenden Höhe spätestens bei Beginn der mautpflichtigen Benutzung oder im Fall einer Stundung zu dem festgesetzten Zeitpunkt an das Bundesamt für Logistik und Mobilität zu entrichten. Die Maut wird für ein bestimmtes Fahrzeug mit dem ihm zugeteilten Kennzeichen entrichtet.
 
@@ -192,15 +195,15 @@ Diese Daten dürfen ausschließlich für die Zwecke dieses Gesetzes verarbeitet 
 
 Der Nachweis nach Satz 1 ist auf geeignete Weise zu erbringen, insbesondere gelten Absatz 4 Satz 1 und 2 und die auf Grund des Absatzes 4 Satz 3 und des § 5 Satz 2 erlassenen Vorschriften sowie § 7 Absatz 5 und 6 entsprechend.
 
-##### § 4a Europäischer elektronischer Mautdienst
+###### § 4a Europäischer elektronischer Mautdienst
 
 Das Mautsystem nach diesem Gesetz ist ein elektronisches Mautsystem im Sinne des § 1 Absatz 1 des Mautsystemgesetzes.
 
-##### § 4b Bundesamt für Logistik und Mobilität
+###### § 4b Bundesamt für Logistik und Mobilität
 
 Vorbehaltlich abweichender Regelungen in diesem Gesetz ist das Bundesamt für Logistik und Mobilität für das elektronische Mautsystem nach diesem Gesetz zuständige Stelle des Bundes nach dem Mautsystemgesetz.
 
-##### § 4c Zulassungsverfahren
+###### § 4c Zulassungsverfahren
 
 (1) Für die Zulassung nach § 10 des Mautsystemgesetzes für die nach § 1 mautpflichtigen Straßen sind
 
@@ -216,7 +219,7 @@ Vorbehaltlich abweichender Regelungen in diesem Gesetz ist das Bundesamt für Lo
 
 (2) Die Gebrauchstauglichkeitsprüfung nach § 23 des Mautsystemgesetzes besteht aus dem Prüfverfahren nach Absatz 1 Nummer 2 und dem Pilotbetrieb nach Absatz 1 Nummer 4.
 
-##### § 4d Prüfvereinbarung und Prüfverfahren
+###### § 4d Prüfvereinbarung und Prüfverfahren
 
 (1) Das Bundesamt für Logistik und Mobilität hat mit einem Anbieter, der nach § 4 des Mautsystemgesetzes registriert ist und einen Antrag auf Zulassung zur Erbringung mautdienstbezogener Leistungen nach § 10 Absatz 1 des Mautsystemgesetzes gestellt hat, einen öffentlich-rechtlichen Vertrag zu schließen, mit dem der Anbieter es dem Bundesamt für Logistik und Mobilität ermöglicht, das Erfüllen der Anforderungen nach § 4f Absatz 1 festzustellen (Prüfvereinbarung).
 
@@ -244,13 +247,13 @@ In die Prüfvereinbarung können ferner solche Regelungen aufgenommen werden, di
 
 (3) Nach Abschluss der Prüfvereinbarung nach Absatz 1 stellt das Bundesamt für Logistik und Mobilität fest, ob der jeweilige Anbieter, der die Zulassung zur Erbringung mautdienstbezogener Leistungen auf den nach § 1 mautpflichtigen Straßen beantragt hat, die Vorgaben nach § 4f Absatz 1 Nummer 1 bis 3 erfüllt, soweit dies vor Durchführung des Pilotbetriebs nach § 4e Absatz 2 möglich ist.
 
-##### § 4e Beschränkte Zulassung und Pilotbetrieb
+###### § 4e Beschränkte Zulassung und Pilotbetrieb
 
 (1) Das Bundesamt für Logistik und Mobilität lässt nach § 11 Absatz 1 des Mautsystemgesetzes einen Anbieter auf Antrag zur Erbringung mautdienstbezogener Leistungen auf den nach § 1 mautpflichtigen Straßen zum Zwecke der Durchführung des Pilotbetriebs nach Absatz 2 durch Verwaltungsakt zu (beschränkte Zulassung), wenn der Anbieter das Prüfverfahren nach § 4d Absatz 3 erfolgreich bestanden hat.
 
 (2) Nach Erteilung der beschränkten Zulassung nach Absatz 1 stellt das Bundesamt für Logistik und Mobilität im Rahmen eines Pilotbetriebs nach § 11 Absatz 1 des Mautsystemgesetzes fest, ob der jeweilige Anbieter, der die Zulassung zur Erbringung mautdienstbezogener Leistungen auf den nach § 1 mautpflichtigen Straßen beantragt hat, die Vorgaben nach § 4f Absatz 1 Nummer 1 bis 3 erfüllt.
 
-##### § 4f Zulassung von Anbietern
+###### § 4f Zulassung von Anbietern
 
 (1) Das Bundesamt für Logistik und Mobilität lässt nach § 10 Absatz 2 des Mautsystemgesetzes einen Anbieter auf Antrag zur Mitwirkung bei der Erhebung der Maut auf den nach § 1 mautpflichtigen Straßen durch öffentlich-rechtlichen Vertrag zu (Zulassungsvertrag), wenn der Anbieter
 
@@ -292,7 +295,7 @@ In die Prüfvereinbarung können ferner solche Regelungen aufgenommen werden, di
 
 In den Zulassungsvertrag können ferner solche Regelungen aufgenommen werden, die keinen unmittelbaren Bezug zu der Leistungserbringung haben, jedoch zur Gestaltung sonstiger Beziehungen der Vertragsparteien erforderlich sind.
 
-##### § 4g Überwachung
+###### § 4g Überwachung
 
 (1) Das Bundesamt für Logistik und Mobilität überwacht die Einhaltung der Pflichten der Anbieter aus den Prüfvereinbarungen nach § 4d Absatz 1, den beschränkten Zulassungen nach § 4e Absatz 1 und den Zulassungsverträgen nach § 4f Absatz 1 und ergreift die Maßnahmen, die zur Feststellung oder zur Ausräumung eines hinreichenden Verdachts eines Verstoßes oder zur Beseitigung festgestellter Verstöße oder zur Verhütung künftiger Verstöße erforderlich sind. Dazu gehört insbesondere die Befugnis, eine Prüfvereinbarung nach § 4d Absatz 1 oder einen Zulassungsvertrag nach § 4f Absatz 1 zu kündigen, wenn die Kündigungsvoraussetzungen vorliegen.
 
@@ -302,15 +305,15 @@ In den Zulassungsvertrag können ferner solche Regelungen aufgenommen werden, di
 
 (4) Widerspruch und Anfechtungsklage gegen Rücknahme oder Widerruf der beschränkten Zulassung haben keine aufschiebende Wirkung.
 
-##### § 4h Rechtsverordnungen zu Prüfvereinbarung und Zulassungsvertrag
+###### § 4h Rechtsverordnungen zu Prüfvereinbarung und Zulassungsvertrag
 
 Das Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die näheren Einzelheiten der Bestimmungen der Prüfvereinbarung nach § 4d Absatz 2 und des Zulassungsvertrages nach § 4f Absatz 2 einheitlich festzusetzen. Das Bundesministerium für Verkehr wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das Bundesamt für Logistik und Mobilität zu übertragen.
 
-##### § 4i Rechtsverordnungen zu Gebietsvorgaben
+###### § 4i Rechtsverordnungen zu Gebietsvorgaben
 
 Das Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Gebietsvorgaben im Sinne des § 9 Absatz 1, 3 und 4 des Mautsystemgesetzes für die nach § 1 mautpflichtigen Straßen festzulegen. Das Bundesministerium für Verkehr wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates seine Befugnis nach Satz 1 ganz oder teilweise auf das Bundesamt für Logistik und Mobilität zu übertragen.
 
-##### § 4j Nutzerlisten
+###### § 4j Nutzerlisten
 
 (1) Der Betreiber und die nach § 4e oder § 4f zugelassenen Anbieter übermitteln dem Bundesamt für Logistik und Mobilität auf elektronischem Weg zu den in Absatz 3 genannten Zwecken täglich Daten nach Satz 2 zu den jeweiligen Verträgen, die der Betreiber oder der Anbieter mit seinen Nutzern abgeschlossen hat (Nutzerlisten). In den Nutzerlisten sind folgende Daten zu speichern:
 
@@ -350,17 +353,17 @@ Das Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung ohne
 
 (4) Die Daten nach Absatz 1 sind vom Bundesamt für Logistik und Mobilität drei Jahre nach Ablauf des Kalenderjahres, in dem sie übermittelt worden sind, zu löschen. Die Daten nach den Absätzen 2 und 2a sind vom Bundesamt für Logistik und Mobilität nach Erfüllung des Zwecks ihrer Übermittlung, spätestens nach Ablauf der haushaltsrechtlichen Aufbewahrungsfristen unverzüglich zu löschen.
 
-##### § 5 Nachweispflicht des Mautschuldners
+###### § 5 Nachweispflicht des Mautschuldners
 
 (1) Der Mautschuldner hat auf Verlangen des Betreibers nach § 4 Absatz 3 Satz 1, eines Anbieters nach § 10 Absatz 1 oder § 11 Absatz 1 des Mautsystemgesetzes oder des Bundesamtes für Logistik und Mobilität, die für die Mauterhebung maßgeblichen Tatsachen nachzuweisen. Das Bundesministerium für Verkehr wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten der Nachweisführung zu regeln. Im Falle des nicht ordnungsgemäßen Nachweises der technisch zulässigen Gesamtmasse des Kraftfahrzeuges oder der Fahrzeugkombination wird der Mautteilsatz für die Infrastrukturkosten je nach Anzahl der Achsen nach dem Höchstsatz in Anlage 1 Nummer 1 Buchstabe c oder d berechnet. Im Falle des nicht ordnungsgemäßen Nachweises der Schadstoffklasse des Fahrzeuges wird der Mautteilsatz für die verursachten Luftverschmutzungskosten nach dem Höchstsatz in Anlage 1 Nummer 2 Buchstabe a Kategorie F berechnet. Im Falle des nicht ordnungsgemäßen Nachweises der Kohlenstoffdioxid-Emissionsklasse des Fahrzeugs wird der Mautteilsatz für die Kosten für verkehrsbedingte Kohlenstoffdioxid-Emissionen nach Kohlenstoffdioxid-Emissionsklasse 1 in Anlage 1 Nummer 4 berechnet.
 
 (2) Besteht zwischen dem Mautschuldner und dem Betreiber nach § 4 Absatz 3 Satz 1 oder einem Anbieter nach § 10 Absatz 1 oder § 11 Absatz 1 des Mautsystemgesetzes Uneinigkeit über die für die Mauthöhe maßgeblichen Merkmale des Kraftfahrzeugs oder der Fahrzeugkombination, hat das Bundesamt für Logistik und Mobilität diese auf Antrag festzustellen.
 
-##### § 6 Einrichtungen zur Erhebung der Maut
+###### § 6 Einrichtungen zur Erhebung der Maut
 
 Der Betreiber hat die Einrichtungen für den Betrieb des Mauterhebungssystems und für die Feststellung von mautpflichtigen Benutzungen mautpflichtiger Straßen im Sinne des § 1 mit Zustimmung der zuständigen Behörden der Länder und auf Bundesautobahnen des Fernstraßen-Bundesamtes zu errichten. Soweit nach Artikel 90 Absatz 4 oder Artikel 143e Absatz 2 des Grundgesetzes auf Antrag eines Landes Bundesstraßen, soweit sie im Gebiet dieses Landes liegen, vom Bund in Bundesverwaltung übernommen werden, ist das Fernstraßen-Bundesamt für diese Bundesstraßen für die Erteilung der Zustimmung nach Satz 1 zuständig.
 
-##### § 7 Kontrolle
+###### § 7 Kontrolle
 
 (1) Das Bundesamt für Logistik und Mobilität überwacht die Einhaltung der Vorschriften dieses Gesetzes. Das Bundesamt für Logistik und Mobilität kann sich bei der Kontrolle der Einhaltung der Mautpflicht der Hilfe des Betreibers im Sinne des § 4 Absatz 3 bedienen. Dem Betreiber kann zu diesem Zweck die Feststellung von Benutzungen mautpflichtiger Straßen im Sinne des § 1 und der ordnungsgemäßen Mautentrichtung übertragen werden.
 
@@ -424,21 +427,21 @@ nicht mitführt oder den zur Kontrolle befugten Personen nicht aushändigt.
 
 (8) Weitergehende Befugnisse des Bundesamtes für Logistik und Mobilität, die ihm nach anderen gesetzlichen Bestimmungen zur Überwachung der Einhaltung der Vorschriften nach diesem Gesetz zustehen, bleiben unberührt.
 
-##### § 8 Nachträgliche Mauterhebung
+###### § 8 Nachträgliche Mauterhebung
 
 (1) Die Maut kann auch nachträglich durch Bescheid von jedem Mautschuldner der jeweiligen mautpflichtigen Straßenbenutzung erhoben werden. Der Bescheid kann mit einer Nebenbestimmung versehen werden. Dem Betreiber kann die nachträgliche Erhebung der Maut für die Fälle übertragen werden, in denen er nach § 7 Absatz 1 Satz 3 eine Benutzung einer mautpflichtigen Straße im Sinne des § 1 feststellt und die geschuldete Maut nicht entrichtet und nicht im Rahmen der Kontrolle gemäß § 7 Absatz 7 erhoben wurde. Widerspruchsbehörde ist das Bundesamt für Logistik und Mobilität.
 
 (2) Kann im Verwaltungsverfahren über die nachträgliche Mauterhebung die tatsächliche Wegstrecke der Benutzung mautpflichtiger Straßen im Sinne des § 1 nicht festgestellt werden, wird eine Maut erhoben, die einer Wegstrecke von 500 Kilometern auf mautpflichtigen Straßen im Sinne des § 1 entspricht. Im Falle des Satzes 1 wird beim Mautteilsatz für die Infrastrukturkosten der Betrag nach Anlage 1 Nummer 1 Buchstabe d, beim Mautteilsatz für die verursachten Luftverschmutzungskosten der Betrag nach Anlage 1 Nummer 2 Buchstabe a Kategorie F sowie beim Mautteilsatz für Kosten für verkehrsbedingte Kohlenstoffdioxid-Emissionen der Betrag nach Anlage 1 Nummer 4 Buchstabe a zugrunde gelegt, es sei denn, der Mautschuldner kann nachweisen, dass eine günstigere Fallgruppe vorliegt. Beim Mautteilsatz für die Lärmbelastungskosten kommt der Betrag nach Anlage 1 Nummer 3 zur Anwendung. Eine nachträgliche Mauterhebung entfällt, soweit der Mautschuldner nachweislich die ihm obliegenden Pflichten bei der Mautentrichtung erfüllt hat.
 
-##### § 8a Bekanntgabe von Verwaltungsakten im Ausland
+###### § 8a Bekanntgabe von Verwaltungsakten im Ausland
 
 Ergänzend zu § 41 Absatz 2 des Verwaltungsverfahrensgesetzes gilt für die Bekanntgabe von Verwaltungsakten im Ausland § 122 Absatz 2 Nummer 2 der Abgabenordnung entsprechend.
 
-##### § 8b Aufrechnungsverbot
+###### § 8b Aufrechnungsverbot
 
 Gegen Mautforderungen, die durch Verwaltungsakt nach § 7 Absatz 7 Satz 1 und § 8 Absatz 1 Satz 1 und 3 festgesetzt werden, ist die Aufrechnung nicht zulässig.
 
-##### § 9 Datenlöschung, Statistiken
+###### § 9 Datenlöschung, Statistiken
 
 (1) Der Betreiber hat die nach § 4 Absatz 3 Satz 3 Nummer 1 bis 9 gespeicherten Daten unverzüglich zu löschen, wenn ein Mauterstattungsverlangen nicht fristgerecht gestellt worden ist. Ist ein Erstattungsverlangen fristgerecht gestellt worden, sind die Daten unverzüglich nach Abschluss des Verfahrens zu löschen. Für Anbieter nach den §§ 4e und 4f gelten die Sätze 1 und 2 entsprechend.
 
@@ -466,9 +469,9 @@ Werden die Daten nach § 7 Absatz 2 Satz 1 im Rahmen eines Verfahrens nach dem G
 
 (6) Nach diesem Gesetz gespeicherte Daten dürfen in anonymisierter Form für statistische Zwecke und für Zwecke des Verkehrsmanagements verwendet werden. Die nach § 4 Absatz 3 Satz 3 Nummer 2, 6, 8 und 10 gespeicherten Daten dürfen unmittelbar nach ihrer Erhebung in pseudonymisierter Form für statistische Auswertungen zum Zwecke der Verkehrslenkung sowie der Verbesserung des Verkehrsflusses und der Verkehrssicherheit verwendet werden, soweit die Verwendung für diese Zwecke in pseudonymisierter Form erforderlich ist und kein Grund zu der Annahme besteht, dass die schutzwürdigen Interessen der betroffenen Personen an dem Ausschluss der Verwendung überwiegen. Die nach Satz 2 verwendeten Daten nach § 4 Absatz 3 Satz 3 Nummer 2, 6 und 8 sind unverzüglich nach Erreichung des Zwecks, zu dem sie pseudonymisiert wurden, spätestens aber nach 120 Tagen automatisiert zu löschen oder für die Zwecke des Satzes 1 zu anonymisieren. Die nach Satz 2 verwendeten Daten nach § 4 Absatz 3 Satz 3 Nummer 10 sind nach ihrer statistischen Auswertung unverzüglich automatisiert zu löschen.
 
-(7) Die Mautdaten nach § 4 Absatz 3 Satz 3 Nummer 1, 2 und 6 werden in anonymisierter Form in regelmäßigen Abständen durch das Bundesamt für Logistik und Mobilität über den Nationalen Zugangspunkt nach § 2 Nummer 11 des Intelligente Verkehrssysteme Gesetzes vom 11. Juni 2013 (BGBl. I S. 1553), das zuletzt durch Artikel 1 des Gesetzes vom 17. Juni 2017 (BGBl. I S. 2690) geändert worden ist, allen Interessierten gebührenfrei und in standardisierter Form bereitgestellt.
+(7) Die Mautdaten nach § 4 Absatz 3 Satz 3 Nummer 1, 2 und 6 werden in anonymisierter Form in regelmäßigen Abständen durch das Bundesamt für Logistik und Mobilität über den Nationalen Zugangspunkt nach § 2 Nummer 11 des Intelligente-Verkehrssysteme-Gesetzes allen Interessierten gebührenfrei und in standardisierter Form bereitgestellt.
 
-##### § 10 Bußgeldvorschriften
+###### § 10 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -486,13 +489,13 @@ Werden die Daten nach § 7 Absatz 2 Satz 1 im Rahmen eines Verfahrens nach dem G
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Logistik und Mobilität.
 
-##### § 10a Kostentragungspflicht bei Nichtermittelbarkeit des Führers des Motorfahrzeugs
+###### § 10a Kostentragungspflicht bei Nichtermittelbarkeit des Führers des Motorfahrzeugs
 
 (1) Kann in einem Bußgeldverfahren wegen einer Zuwiderhandlung nach § 10 Absatz 1 Nummer 1 und 2 der Führer des Motorfahrzeugs, der den Verstoß begangen hat, nicht vor Eintritt der Verfolgungsverjährung ermittelt werden oder würde seine Ermittlung einen unangemessenen Aufwand erfordern, so werden dem Halter des Motorfahrzeugs oder demjenigen, der über den Gebrauch des Motorfahrzeugs bestimmt, die Kosten des Verfahrens auferlegt; er hat in diesem Fall seine Auslagen zu tragen. Von einer Entscheidung nach Satz 1 wird abgesehen, wenn es unbillig wäre, den Halter des Motorfahrzeugs oder denjenigen, der über den Gebrauch des Motorfahrzeugs bestimmt, mit den Kosten zu belasten. § 25a Absatz 2 und 3 des Straßenverkehrsgesetzes gilt entsprechend.
 
 (2) § 107 Absatz 2 des Gesetzes über Ordnungswidrigkeiten gilt entsprechend.
 
-##### § 11 Mautaufkommen
+###### § 11 Mautaufkommen
 
 (1) Das Mautaufkommen wird vollständig im Bundeshaushalt vereinnahmt und wird abzüglich eines jährlichen Betrages von 150 Millionen Euro zusätzlich dem Verkehrshaushalt zugeführt.
 
@@ -512,11 +515,11 @@ geleistet.
 
 (5) In einem Haushaltsjahr nicht verausgabte Mittel nach Absatz 1 sind im jeweils übernächsten Haushaltsjahr dem Verkehrshaushalt zusätzlich zur Verfügung zu stellen. Nicht durch Einnahmen nach Absatz 1 gedeckte Ausgaben sind im übernächsten Haushaltsjahr im Verkehrshaushalt einzusparen. Dabei sind die tatsächlichen Ist-Einnahmen und Ist-Ausgaben zu berücksichtigen.
 
-##### § 12 Beginn der Mauterhebung auf Bundesautobahnen
+###### § 12 Beginn der Mauterhebung auf Bundesautobahnen
 
 Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet sich nach § 12 des Autobahnmautgesetzes für schwere Nutzfahrzeuge in der Fassung der Bekanntmachung vom 2. Dezember 2004 (BGBl. I S. 3122), das zuletzt durch Artikel 6 des Gesetzes vom 29. Mai 2009 (BGBl. I S. 1170) geändert worden ist.
 
-##### § 13 Bericht über die erhobenen Mautgebühren
+###### § 13 Bericht über die erhobenen Mautgebühren
 
 (1) Bis zum 25. März 2025 und anschließend alle fünf Jahre veröffentlicht das Bundesministerium für Verkehr in zusammengefasster Form einen Bericht über die erhobenen Mautgebühren.
 
@@ -540,13 +543,13 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
 9. die Entwicklung des Anteils der Fahrzeuge in den verschiedenen Emissionsklassen auf mautpflichtigen Straßen.
 
-##### § 13a Übergangsregelungen
+###### § 13a Übergangsregelungen
 
 (1) Bis zum Ablauf des 30. Juni 2018 sind die §§ 1, 3a und 11 dieses Gesetzes in der am 30. März 2017 geltenden Fassung mit der Maßgabe weiter anzuwenden, dass abweichend von der vorstehend genannten Fassung mautpflichtig alle Fahrzeuge und Fahrzeugkombinationen sind, die für den Güterkraftverkehr bestimmt sind oder verwendet werden.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates einen Zeitpunkt nach dem 1. Dezember 2023 zu bestimmen, zu dem die Erhebung eines Mautteilsatzes für Kosten für verkehrsbedingte Kohlenstoffdioxid-Emissionen nach § 3 Absatz 1 Nummer 4 erfolgen soll, soweit es aus einem technischen oder rechtlichen Grund im Hinblick auf eine ordnungsgemäße Erhebung der Maut erforderlich ist. Der Zeitpunkt ist so festzulegen, dass die Erhebung des Mautteilsatzes für Kosten für verkehrsbedingte Kohlenstoffdioxid-Emissionen schnellstmöglich nach dem Entfallen des Grundes für die Rechtsverordnung erhoben werden kann.
 
-##### § 14 Alt-Sachverhalte
+###### § 14 Alt-Sachverhalte
 
 (1) Für Sachverhalte, die ab dem 1. Juli 2003 und bis zum Ablauf des 31. August 2007 entstanden sind, bestimmt sich der Mautsatz abweichend von § 3 Absatz 3 nach der Anlage 2. Im Rahmen der Anlage 2 ist die Straßenverkehrs-Zulassungs-Ordnung in der am 31. August 2007 geltenden Fassung anzuwenden.
 
@@ -568,9 +571,9 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
 (10) Für Sachverhalte, die ab dem 1. Dezember 2023 und bis zum Ablauf des 30. Juni 2024 entstanden sind, bestimmt sich der Mautsatz abweichend von § 3 Absatz 3 nach der Anlage 11.
 
-##### § 15 (weggefallen)
+###### § 15 (weggefallen)
 
-##### Anlage 1 (zu § 3 Absatz 3) Berechnung der Höhe des Mautsatzes
+###### Anlage 1 (zu § 3 Absatz 3) Berechnung der Höhe des Mautsatzes
 
 (Fundstelle: BGBl. 2023 I Nr. 315, S. 8 – 9)
 
@@ -639,7 +642,7 @@ bis zu
 
 b) Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1 Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG. Im Sinne des Artikels 7ga Absatz 2 Satz 2 der Richtlinie 1999/62/EG wird die Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2 und 3 alle sechs Jahre, gerechnet vom Tag seiner Erstzulassung, auf Basis der zum Überprüfungszeitpunkt geltenden Grenzwerte neu ermittelt. Die gegebenenfalls neu ermittelte Kohlenstoffdioxid-Emissionsklasse wird am Tag nach der Neuermittlung der Einstufung wirksam.
 
-##### Anlage 2 (zu § 14 Absatz 1)
+###### Anlage 2 (zu § 14 Absatz 1)
 
 (Fundstelle: BGBl. I 2013, 2551)
 
@@ -679,7 +682,7 @@ Kategorie B Fahrzeuge der Schadstoffklassen S 4 und 3,
 
 Kategorie C Fahrzeuge der Schadstoffklassen S 2, S 1 und Fahrzeuge, die keiner Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung angehören.
 
-##### Anlage 3 (zu § 14 Absatz 2)
+###### Anlage 3 (zu § 14 Absatz 2)
 
 (Fundstelle: BGBl. I 2013, 2552)
 
@@ -709,7 +712,7 @@ Kategorie B Fahrzeuge der Schadstoffklassen S 4 und 3,
 
 Kategorie C Fahrzeuge der Schadstoffklassen S 2, S 1 und Fahrzeuge, die keiner Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung angehören.
 
-##### Anlage 4 (zu § 14 Absatz 3)Mautsätze im Zeitraum vom 1. Januar 2009 bis zum Ablauf des 31. Dezember 2014
+###### Anlage 4 (zu § 14 Absatz 3)Mautsätze im Zeitraum vom 1. Januar 2009 bis zum Ablauf des 31. Dezember 2014
 
 (Fundstelle: BGBl. I 2011, 1383) 
  bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -734,11 +737,11 @@ c) 0,204 Euro in der Kategorie C,
 
 d) 0,288 Euro in der Kategorie D.
 
-3. Fahrzeuge nach § 1 Absatz 1 werden den in den Nummern 1 und 2 aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung wie folgt zugeordnet:
+3. Fahrzeuge nach § 1 Absatz 1 werden den in den Nummern 1 und 2 aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung wie folgt zugeordnet: 
 
 Kategorie AFahrzeuge der EEV Klasse 1 und der Schadstoffklasse S 5,Kategorie BFahrzeuge der Schadstoffklasse S 4 sowie Fahrzeuge der Schadstoffklasse S 3, die der Partikelminderungsklasse PMK 2 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören,Kategorie CFahrzeuge der Schadstoffklasse S 3 sowie Fahrzeuge der Schadstoffklasse S 2, die der Partikelminderungsklasse PMK 1 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören,Kategorie DFahrzeuge der Schadstoffklassen S 2, S 1 sowie Fahrzeuge, die keiner Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung angehören.
 
-##### Anlage 5 (zu § 14 Absatz 4) Mautsätze im Zeitraum vom 1. Januar 2015 bis zum Ablauf des 30. September 2015
+###### Anlage 5 (zu § 14 Absatz 4) Mautsätze im Zeitraum vom 1. Januar 2015 bis zum Ablauf des 30. September 2015
 
 (Fundstelle: BGBl. I 2014, 2473 - 2474)
 
@@ -764,11 +767,11 @@ ee) 0,073 Euro in der Kategorie E,
 
 ff) 0,083 Euro in der Kategorie F.
 
-b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung:
+b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung: 
 
 aa)Kategorie AFahrzeuge der Schadstoffklasse S 6,bb)Kategorie BFahrzeuge der EEV Klasse 1 und der Schadstoffklasse S 5,cc)Kategorie CFahrzeuge der Schadstoffklasse S 4 sowie Fahrzeuge der Schadstoffklasse S 3, die der Partikelminderungsklasse PMK 2 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören,dd)Kategorie DFahrzeuge der Schadstoffklasse S 3 sowie Fahrzeuge der Schadstoffklasse S 2, die der Partikelminderungsklasse PMK 1 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören,ee)Kategorie EFahrzeuge der Schadstoffklasse S 2,ff)Kategorie FFahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung angehören.
 
-##### Anlage 6 (zu § 14 Absatz 5) Mautsätze im Zeitraum vom 1. Oktober 2015 bis zum Ablauf des 31. Dezember 2018
+###### Anlage 6 (zu § 14 Absatz 5) Mautsätze im Zeitraum vom 1. Oktober 2015 bis zum Ablauf des 31. Dezember 2018
 
 (Fundstelle: BGBl. I 2015, 923)
 
@@ -798,13 +801,13 @@ ee) 0,073 Euro in der Kategorie E,
 
 ff) 0,083 Euro in der Kategorie F.
 
-b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in Verbindung mit der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung:
+b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in Verbindung mit der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung: 
 
 aa)Kategorie AFahrzeuge der Schadstoffklasse S 6,bb)Kategorie BFahrzeuge der EEV Klasse 1 und der Schadstoffklasse S 5,cc)Kategorie CFahrzeuge der Schadstoffklasse S 4 sowie Fahrzeuge der Schadstoffklasse S 3, die der Partikelminderungsklasse PMK 2 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören,dd)Kategorie DFahrzeuge der Schadstoffklasse S 3 sowie Fahrzeuge der Schadstoffklasse S 2, die der Partikelminderungsklasse PMK 1 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören,ee)Kategorie EFahrzeuge der Schadstoffklasse S 2,ff)Kategorie FFahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung angehören.
 
 Elektrisch betriebene Fahrzeuge im Sinne des § 2 Nummer 1 des Elektromobilitätsgesetzes in der jeweils geltenden Fassung werden der Kategorie A zugeordnet, wenn sie über eine Kennzeichnung im Sinne des § 4 des Elektromobilitätsgesetzes verfügen.
 
-##### Anlage 7 (zu § 14 Absatz 6)Mautsätze im Zeitraum vom 1. Januar 2019 bis zum Ablauf des 27. Oktober 2020
+###### Anlage 7 (zu § 14 Absatz 6)Mautsätze im Zeitraum vom 1. Januar 2019 bis zum Ablauf des 27. Oktober 2020
 
 (Fundstelle: BGBl. I 2021, 1611 - 1612)
 
@@ -838,7 +841,7 @@ b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführte
 
 3. Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer nach § 3 Absatz 1 Nummer 3: 0,002 Euro.
 
-##### Anlage 8 (zu § 14 Absatz 7)Mautsätze im Zeitraum vom 28. Oktober 2020 bis zum Ablauf des 30. September 2021
+###### Anlage 8 (zu § 14 Absatz 7)Mautsätze im Zeitraum vom 28. Oktober 2020 bis zum Ablauf des 30. September 2021
 
 Fundstelle: BGBl. I 2021, 1612)
 
@@ -872,7 +875,7 @@ b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführte
 
 3. Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer nach § 3 Absatz 1 Nummer 3: 0,002 Euro.
 
-##### Anlage 9 (zu § 14 Absatz 8) Mautsätze im Zeitraum vom 1. Oktober 2021 bis zum Ablauf des 31. Dezember 2022
+###### Anlage 9 (zu § 14 Absatz 8) Mautsätze im Zeitraum vom 1. Oktober 2021 bis zum Ablauf des 31. Dezember 2022
 
 (Fundstelle: BGBl. I 2022, 2238)
 
@@ -930,7 +933,7 @@ Kategorie F Fahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner Schad
 
 3. Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer nach § 3 Absatz 1 Nummer 3: 0,002 Euro.
 
-##### Anlage 10 (zu § 14 Absatz 9) Mautsätze im Zeitraum vom 1. Januar 2023 bis zum 30. November 2023
+###### Anlage 10 (zu § 14 Absatz 9) Mautsätze im Zeitraum vom 1. Januar 2023 bis zum 30. November 2023
 
 (Fundstelle: BGBl. 2023 I Nr. 315, S. 6 – 7)
 
@@ -980,7 +983,7 @@ Kategorie F Fahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner Schad
 bis zu 3 Achsen> 18 t mit
 4 Achsen oder mehr0,0160,0160,0160,012
 
-##### Anlage 11 (zu § 14 Absatz 10) Mautsätze im Zeitraum vom 1. Dezember 2023 bis zum 30. Juni 2024
+###### Anlage 11 (zu § 14 Absatz 10) Mautsätze im Zeitraum vom 1. Dezember 2023 bis zum 30. Juni 2024
 
 (Fundstelle: BGBl. 2023 I Nr. 315, S. 9 – 11)
 
@@ -1045,4 +1048,3 @@ bis zu 3 Achsen> 18 t mit
  EURO V EEV Klasse 10,0800,1000,1340,1340,160EURO VI0,0800,1000,1240,1340,15820,0760,0960,1180,1280,15030,0720,0900,1110,1200,14240,0400,0500,0630,0680,079500000
 
 b) Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1 Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), zuletzt geändert durch die Richtlinie (EU) 2022/362 des Europäischen Parlaments und des Rates vom 24. Februar 2022. Im Sinne des Artikels 7ga Absatz 2 Satz 2 wird die Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2 und 3 sechs Jahre nach seiner Erstzulassung auf Basis der zum Überprüfungszeitpunkt geltenden Grenzwerte neu ermittelt. Die gegebenenfalls neu ermittelte Kohlenstoffdioxid-Emissionsklasse wird spätestens nach sechs Jahren und einem Tag nach dem Tag der Erstzulassung des betroffenen Fahrzeugs wirksam.
-
