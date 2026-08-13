@@ -4,24 +4,28 @@ identifier: "ALG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1994-07-29"
-last_updated: "2026-04-04"
+last_updated: "2026-08-13"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/alg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR189100994"
 slug: "alg"
 bgbl_reference: "BGBl I 1994, 1890, 1891"
-stand: "Zuletzt geändert durch Art. 19 Abs. 8 G v. 22.12.2025 I Nr. 369"
+stand: "Zuletzt geändert durch Art. 7b G v. 24.7.2026 I Nr. 228"
 ---
 # Gesetz über die Alterssicherung der Landwirte
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 **Erstes Kapitel****Versicherter Personenkreis** § 1Versicherte kraft Gesetzes§ 1aGeltung für Lebenspartner§ 2Versicherungsfreiheit§ 3Befreiung von der Versicherungspflicht§ 4Freiwillige Versicherung§ 5Freiwillige Weiterversicherung§ 6(weggefallen) **Zweites Kapitel****Leistungen****Erster Abschnitt****Leistungen zur Teilhabe** *Erster Unterabschnitt**Voraussetzungen für die Leistungen* § 7Aufgabe der Leistungen zur Teilhabe§ 8Persönliche und versicherungsrechtliche Voraussetzungen§ 9Ausschluß von Leistungen *Zweiter Unterabschnitt**Umfang und Ort der Leistungen* § 10Umfang und Ort der Leistungen **Zweiter Abschnitt****Laufende Geldleistungen** *Erster Unterabschnitt**Renten**Erster Titel**Anspruchsvoraussetzungen* Erster Untertitel Renten wegen Alters § 11Regelaltersrente§ 12Vorzeitige Altersrente Zweiter Untertitel Renten wegen Erwerbsminderung § 13Renten wegen Erwerbsminderung Dritter Untertitel Renten wegen Todes § 14Witwenrente und Witwerrente§ 14a(weggefallen)§ 15Waisenrente§ 16Renten wegen Todes bei Verschollenheit Vierter Untertitel Wartezeiterfüllung § 17Anrechenbare Zeiten Fünfter Untertitel Rentenrechtliche Zeiten § 18Beitragszeiten§ 19Zurechnungszeit§ 20Schadensersatz bei rentenrechtlichen Zeiten Sechster Untertitel (weggefallen) § 21(weggefallen)§ 22(weggefallen) *Zweiter Titel**Berechnung der Renten* § 23Berechnung der Renten§ 24Zuschläge oder Abschläge aufgrund eines Versorgungsausgleichs *Dritter Titel**Anpassung der Renten* § 25Anpassung§ 26Verordnungsermächtigung *Vierter Titel**Zusammentreffen von Renten mit Einkommen* § 27Zusammentreffen von Renten§ 27aRenten wegen Erwerbsminderung und Hinzuverdienst§ 27b(weggefallen)§ 28Einkommensanrechnung auf Renten wegen Todes§ 29Reihenfolge bei der Anwendung von Berechnungsvorschriften *Fünfter Titel**Beginn, Änderung, Ruhen und Ende von Renten* § 30Beginn, Änderung, Ruhen und Ende von Renten *Sechster Titel**Ausschluß und Minderung von Renten* § 31Ausschluß und Minderung von Renten *Zweiter Unterabschnitt**Beitragszuschüsse**Erster Titel**Zuschuß zum Beitrag* § 32Anspruchsvoraussetzungen§ 33Berechnung§ 34Fälligkeit, Beginn und Änderung von Beitragszuschüssen§ 35(weggefallen) *Zweiter Titel**Zuschuss zum Beitrag zur Krankenversicherung* § 35aZuschuß zum Beitrag zur Krankenversicherung **Dritter Abschnitt****Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft** § 36Betriebs- und Haushaltshilfe bei Arbeitsunfähigkeit, Schwangerschaft und medizinischen Vorsorge- und Rehabilitationsleistungen§ 37Betriebs- und Haushaltshilfe bei Tod des Landwirts§ 38Überbrückungsgeld§ 39Betriebs- und Haushaltshilfe in anderen Fällen **Vierter Abschnitt****Rentenauskunft** § 40Rentenauskunft **Fünfter Abschnitt****Leistungen an Berechtigte im Ausland** § 41Grundsatz§ 42Leistungen zur Teilhabe, Renten **Sechster Abschnitt****Versorgungsausgleich** § 43Interne und externe Teilung **Siebter Abschnitt****Durchführung** *Erster Unterabschnitt**Beginn und Abschluß des Verfahrens* § 44Beginn und Abschluß *Zweiter Unterabschnitt**Auszahlung und Anpassung* § 45Auszahlung und Anpassung§ 46Verordnungsermächtigung *Dritter Unterabschnitt**Berechnungsgrundsätze* § 47Berechnungsgrundsätze *Vierter Unterabschnitt**Rechtsweg* § 48(weggefallen) **Drittes Kapitel****Organisation und Datenschutz** **Erster Abschnitt****Organisation** § 49Träger der Alterssicherung der Landwirte§ 50Aufgaben der landwirtschaftlichen Alterskasse§§ 51 bis 58b(weggefallen) **Zweiter Abschnitt****Datenschutz** § 59Mitgliedsnummer§ 60Datenverarbeitung bei der landwirtschaftlichen Alterskasse§ 61Versicherungskonto§ 61aÜberprüfung von Beitragszuschüssen§ 62Dateisysteme der landwirtschaftlichen Sozialversicherung§ 63Auskünfte der Deutschen Post AG§ 64Verarbeitung von Daten aufgrund des Gesetzes zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner§ 65Verordnungsermächtigung **Viertes Kapitel****Finanzierung** **Erster Abschnitt****Finanzierungsgrundsatz und Lagebericht** § 66Finanzierungsgrundsatz§ 67Lagebericht **Zweiter Abschnitt****Beiträge und Verfahren** *Erster Unterabschnitt**Beitragshöhe* § 68Beitragshöhe§ 69(weggefallen) *Zweiter Unterabschnitt**Verteilung der Beitragslast und Zahlung der Beiträge* § 70Verteilung der Beitragslast und Zahlung der Beiträge *Dritter Unterabschnitt**Fälligkeit und Wirksamkeit von Beiträgen* § 71Fälligkeit und Wirksamkeit von Beiträgen *Vierter Unterabschnitt**Versorgungsausgleich* § 72Wiederauffüllung geminderter Anrechte *Fünfter Unterabschnitt**Auskunfts- und Mitteilungspflichten* § 73Auskunfts- und Mitteilungspflichten *Sechster Unterabschnitt**(weggefallen)* § 74(weggefallen) *Siebter Unterabschnitt**Beitragserstattung* § 75Erstattungsberechtigte§ 76Umfang und Wirkung§ 77Erstattung zu Unrecht entrichteter Beiträge **Dritter Abschnitt****Beteiligung des Bundes, Ausgabenbegrenzung** *Erster Unterabschnitt**Beteiligung des Bundes* § 78Beteiligung des Bundes *Zweiter Unterabschnitt**Ausgabenbegrenzung* § 79Reduzierung der Kosten für Verwaltung und Verfahren§ 80Ausgaben für Teilhabe sowie für Betriebs- und Haushaltshilfe *Dritter Unterabschnitt**(weggefallen)* § 81(weggefallen) **Fünftes Kapitel****Sonderregelungen** **Erster Abschnitt****Ergänzungen für Sonderfälle** *Erster Unterabschnitt**Grundsatz* § 82Grundsatz§ 83Besonderheiten für das Beitrittsgebiet *Zweiter Unterabschnitt**Versicherter Personenkreis* § 84Versicherungspflicht§ 85Versicherungsfreiheit, Versicherungsbefreiung *Dritter Unterabschnitt**Teilhabe* § 86Teilhabe *Vierter Unterabschnitt**Vorzeitige Wartezeiterfüllung* § 87Vorzeitige Wartezeiterfüllung *Fünfter Unterabschnitt**Anspruchsvoraussetzungen für Renten* *Erster Titel**Renten wegen Alters und Renten wegen Todes* § 87aRegelaltersrente§ 87bVorzeitige Altersrente§ 87cVorzeitige Altersrente für langjährig Versicherte§ 87dWaisenrente§ 88Rente an frühere Ehegatten *Zweiter Titel**Hinzuverdienstgrenze* § 89Hinzuverdienstgrenze *Dritter Titel**Wartezeiterfüllung* § 90Wartezeit§ 91Wartezeit für Ehegatten befreiter Landwirte *Vierter Titel**Rentenrechtliche Zeiten* § 92Beitragszeiten von Ehegatten und mitarbeitenden Familienangehörigen§ 92aZurechnungszeit *Sechster Unterabschnitt**Berechnung der Renten* § 93Berechnung der Renten§ 93aAbschlag vom Rentenwert **Zweiter Abschnitt****Ausnahmen von der Anwendung neuen Rechts** *Erster Unterabschnitt**Grundsatz* § 94Grundsatz *Zweiter Unterabschnitt**Leistungen zur Teilhabe* § 95Leistungen zur Teilhabe *Dritter Unterabschnitt**Anspruchsvoraussetzungen für einzelne Renten* § 95aRente wegen Erwerbsunfähigkeit und wegen Todes§ 96Anspruchsvoraussetzungen für Witwen- oder Witwerrenten *Vierter Unterabschnitt**Rentenhöhe* § 97Zuschlag bei Zugangsrenten§ 98Höhe von Bestandsrenten§ 99Ermittlung der nach dem am 31. Dezember 1994 geltenden Recht festzustellenden Renten§ 99aZuschlag zur Steigerungszahl bei Renten wegen Erwerbsminderung und bei Renten wegen Todes§ 100Begrenzung der Steigerungszahl§ 101Auswirkungen eines Versorgungsausgleichs§ 102(weggefallen)§ 102aAllgemeiner Rentenwert für die Zeit vom 1. Januar bis 30. Juni 2002§ 102bAbschlagsfreiheit vorzeitig in Anspruch genommener Altersrenten§ 103Höhe der Rente wegen Erwerbsminderung§ 104Höhe der Rente für frühere Ehegatten§ 104aRentenartfaktor§ 104bZuschlag bei Witwenrenten und Witwerrenten§ 105Verordnungsermächtigung§ 105a(weggefallen) *Fünfter Unterabschnitt**Zusammentreffen von Renten mit Einkommen* § 106Zusammentreffen von Renten mit Einkommen§ 106aEinkommensanrechnung auf Renten wegen Todes *Sechster Unterabschnitt**Beitragszuschüsse* § 107Beitragszuschüsse§ 107aAusfertigung von Einkommensteuerbescheiden§ 107bNeuregelung des Zuschusses zum Beitrag zum 1. April 2021§ 107cNeuregelung der Ermittlung von Arbeitseinkommen aus Land- und Forstwirtschaft zum 1. Januar 2025 *Siebter Unterabschnitt**Rentenauskunft* § 108Anspruch auf Rentenauskunft *Achter Unterabschnitt**Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft* § 109Betriebs- und Haushaltshilfe sowie sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft§ 110(weggefallen) *Neunter Unterabschnitt**(weggefallen)* *Zehnter Unterabschnitt* Organisation und Datenschutz § 111(weggefallen)§ 112Versicherungskonto *Elfter Unterabschnitt**Finanzierung* § 113(weggefallen)§ 114Beitragshöhe§ 115Beitragstragung§ 116Wiederauffüllung geminderter angleichungsdynamischer Anrechte§ 117Beitragserstattung§ 117a(weggefallen)§ 118Aufrechnung mit Beitragsentlastungen§ 119(weggefallen)§ 119a(weggefallen)§ 120Berechnung des Zuschusses zum Beitrag für das Beitrittsgebiet **Dritter Abschnitt****Landabgaberente** § 121Anspruchsvoraussetzungen§ 122Leistungshöhe und Anpassung§ 123Leistungen an Berechtigte im Ausland§ 124Zusammentreffen von Renten mit Einkommen§ 125Beginn, Änderung, Ruhen und Ende von Landabgaberenten§ 126Durchführende Stelle§ 127Kostentragung **Vierter Abschnitt****Zuschuß zur Nachzahlung von Beiträgen für Landwirte zur gesetzlichen Rentenversicherung** § 128Versicherungsfreiheit§ 129Kürzung der Renten§ 130(weggefallen) Anlage 1 (weggefallen) Anlage 2 Umrechnungsfaktoren Anlage 3 Zurechnungszeiten und Abschlag vom allgemeinen Rentenwert
 
 ## Erstes Kapitel Versicherter Personenkreis
 
-##### § 1 Versicherte kraft Gesetzes
+###### § 1 Versicherte kraft Gesetzes
 
 (1) Versicherungspflichtig sind
 
@@ -57,11 +61,11 @@ Als Unternehmen der Landwirtschaft gelten auch die Imkerei, die Binnenfischerei 
 
 eines Landwirtes oder seines Ehegatten, die in seinem Unternehmen hauptberuflich tätig sind. Pflegekinder sind Personen, die mit dem Landwirt oder seinem Ehegatten durch ein auf längere Dauer angelegtes Pflegeverhältnis mit häuslicher Gemeinschaft wie Kinder mit Eltern verbunden sind.
 
-##### § 1a Geltung für Lebenspartner
+###### § 1a Geltung für Lebenspartner
 
 Die für Ehegatten und ehemalige Ehegatten sowie Witwen und Witwer geltenden Vorschriften dieses Gesetzes gelten entsprechend für Lebenspartner, Lebenspartner, deren Lebenspartnerschaft aufgehoben wurde, und hinterbliebene Lebenspartner.
 
-##### § 2 Versicherungsfreiheit
+###### § 2 Versicherungsfreiheit
 
 Versicherungsfrei sind
 
@@ -77,13 +81,13 @@ c) bereits eine vorzeitige Rente wegen Alters oder eine Rente wegen Erwerbsminde
 
 3. mitarbeitende Familienangehörige, solange sie als Landwirt in der Alterssicherung der Landwirte versichert sind.
 
-##### § 3 Befreiung von der Versicherungspflicht
+###### § 3 Befreiung von der Versicherungspflicht
 
 (1) Landwirte und mitarbeitende Familienangehörige werden auf Antrag von der Versicherungspflicht befreit, solange sie
 
 1. regelmäßig Arbeitsentgelt, Arbeitseinkommen, vergleichbares Einkommen oder Erwerbsersatzeinkommen (Absatz 4) beziehen, das ohne Berücksichtigung des Arbeitseinkommens aus Land- und Forstwirtschaft jährlich das Zwölffache der Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches Sozialgesetzbuch überschreitet,
 
-1a. Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch beziehen, wenn sie im letzten Kalendermonat vor dem Bezug von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch nicht versichert waren,
+1a. Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch beziehen, wenn sie im letzten Kalendermonat vor dem Bezug von Grundsicherungsgeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch nicht versichert waren,
 
 2. wegen Erziehung eines Kindes in der gesetzlichen Rentenversicherung versicherungspflichtig sind oder nur deshalb nicht versicherungspflichtig sind, weil sie nach § 56 Abs. 4 des Sechsten Buches Sozialgesetzbuch von der Anrechnung von Kindererziehungszeiten ausgeschlossen sind,
 
@@ -107,7 +111,7 @@ c) bereits eine vorzeitige Rente wegen Alters oder eine Rente wegen Erwerbsminde
 
 Erwerbsersatzeinkommen sind auch den in Satz 2 genannten Leistungen vergleichbare Leistungen, die von einer Stelle außerhalb des Geltungsbereichs dieses Gesetzes erbracht werden, sowie die Renten einer Einrichtung der betrieblichen oder überbetrieblichen Alters- und Hinterbliebenenversorgung. Kinderzuschuß, Kinderzulage und vergleichbare kindbezogene Leistungen bleiben außer Betracht. Wird eine Kapitalleistung oder anstelle einer wiederkehrenden Leistung eine Abfindung gezahlt, ist der Betrag als Einkommen zu berücksichtigen, der bei einer Verrentung der Kapitalleistung oder als Rente ohne die Abfindung zu zahlen wäre. Bei der Verletztenrente aus der gesetzlichen Unfallversicherung bleiben die Beträge nach § 93 Absatz 2 Nummer 2 Buchstabe a in Verbindung mit Absatz 2a und 2b des Sechsten Buches Sozialgesetzbuch unberücksichtigt.
 
-##### § 4 Freiwillige Versicherung
+###### § 4 Freiwillige Versicherung
 
 (1) Ehegatten von ehemaligen Landwirten können sich freiwillig versichern, wenn
 
@@ -127,7 +131,7 @@ Erwerbsersatzeinkommen sind auch den in Satz 2 genannten Leistungen vergleichbar
 
 2. die Regelaltersgrenze erreicht ist.
 
-##### § 5 Freiwillige Weiterversicherung
+###### § 5 Freiwillige Weiterversicherung
 
 (1) Personen, die zuletzt als Landwirt versichert waren und die nicht mehr versicherungspflichtig sind, können die Versicherung freiwillig fortsetzen, wenn sie
 
@@ -145,7 +149,7 @@ Erwerbsersatzeinkommen sind auch den in Satz 2 genannten Leistungen vergleichbar
 
 (3) Die Berechtigung zur freiwilligen Weiterversicherung endet mit Beginn des Kalendermonats, zu dessen Beginn die Voraussetzungen des Absatzes 1 Nr. 2 bis 4 nicht mehr erfüllt sind.
 
-##### § 6 (weggefallen)
+###### § 6 (weggefallen)
 
 ## Zweites Kapitel Leistungen
 
@@ -154,7 +158,7 @@ Erwerbsersatzeinkommen sind auch den in Satz 2 genannten Leistungen vergleichbar
 ## Erster Unterabschnitt Voraussetzungen für die
 Leistungen
 
-##### § 7 Aufgabe der Leistungen zur Teilhabe
+###### § 7 Aufgabe der Leistungen zur Teilhabe
 
 (1) Die Alterssicherung der Landwirte erbringt Leistungen zur Prävention, Leistungen zur medizinischen Rehabilitation, Leistungen zur Nachsorge sowie ergänzende Leistungen, um
 
@@ -168,20 +172,20 @@ Die Leistungen zur Teilhabe haben Vorrang vor Rentenleistungen, die bei erfolgre
 
 (3) Die Alterssicherung der Landwirte kann zudem sonstige Leistungen zur Teilhabe erbringen, wenn die persönlichen und versicherungsrechtlichen Voraussetzungen erfüllt sind.
 
-##### § 8 Persönliche und versicherungsrechtliche Voraussetzungen
+###### § 8 Persönliche und versicherungsrechtliche Voraussetzungen
 
 (1) Die persönlichen Voraussetzungen für Leistungen zur Teilhabe haben Versicherte erfüllt, bei denen die Voraussetzungen des § 10 des Sechsten Buches Sozialgesetzbuch vorliegen.
 
 (2) Für die versicherungsrechtlichen Voraussetzungen für Leistungen zur Teilhabe gilt § 11 des Sechsten Buches Sozialgesetzbuch entsprechend; § 17 Abs. 1 Satz 2 ist hierbei nicht anzuwenden.
 
-##### § 9 Ausschluß von Leistungen
+###### § 9 Ausschluß von Leistungen
 
 Für den Ausschluß von Leistungen zur Teilhabe nach diesem Abschnitt gilt § 12 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
 ## Zweiter Unterabschnitt Umfang und Ort der
 Leistungen
 
-##### § 10 Umfang und Ort der Leistungen
+###### § 10 Umfang und Ort der Leistungen
 
 (1) Für Umfang und Ort der Leistungen zur Teilhabe gelten die §§ 13, 14 Absatz 1 und 3, § 15 Absatz 1 und 2, § 15a Absatz 1 bis 4, § 17 Absatz 1, § 28 Absatz 2 Satz 2, § 31 Absatz 1 und 2 Satz 1 und 2 und § 32 Absatz 1, 2, 4 und 5 des Sechsten Buches Sozialgesetzbuch sowie die §§ 31, 64 Absatz 1 Nummer 3 bis 6 und § 73 des Neunten Buches Sozialgesetzbuch entsprechend. Als ergänzende Leistung kann auch Betriebs- oder Haushaltshilfe erbracht werden. Die landwirtschaftliche Alterskasse betreibt keine eigenen Rehabilitationseinrichtungen; sie soll solche Einrichtungen belegen, die über eine Zulassung nach § 15 des Sechsten Buches Sozialgesetzbuch verfügen oder nach § 301 Absatz 4 des Sechsten Buches Sozialgesetzbuch als zugelassen gelten. Sie hat hierzu mit diesen Einrichtungen über Inhalt, Umfang, Vergütung sowie Prüfung der Qualität und Wirtschaftlichkeit der Dienstleistungen Verträge nach diskriminierungsfreien und transparenten Kriterien zu schließen. Leistungen nach den Absätzen 1 bis 3 müssen wirksam und wirtschaftlich sein, sie dürfen das Maß des Notwendigen nicht übersteigen. Das Nähere über Umfang, Ort und Durchführung der Leistungen nach den Absätzen 1 bis 3 wird in der Satzung der landwirtschaftlichen Alterskasse geregelt. Für Leistungen zur Prävention, zur Kinderrehabilitation und zur Nachsorge sind insbesondere die Ziele, die persönlichen Voraussetzungen sowie Art und Umfang der medizinischen Leistungen in der Satzung näher auszuführen. Für sonstige Leistungen zur Teilhabe sind insbesondere die Ziele sowie Art und Umfang der Leistungen in der Satzung näher auszuführen. Die Satzungsregelungen sind regelmäßig an den medizinischen Fortschritt und die gewonnenen Erfahrungen anzupassen.
 
@@ -220,7 +224,7 @@ Betriebs- oder Haushaltshilfe wird grundsätzlich bis zu einer Dauer von höchst
 ## Erster Untertitel Renten wegen
 Alters
 
-##### § 11 Regelaltersrente
+###### § 11 Regelaltersrente
 
 (1) Landwirte haben Anspruch auf Regelaltersrente, wenn
 
@@ -236,7 +240,7 @@ Alters
 
 (3) Die Regelaltersgrenze wird mit Vollendung des 67. Lebensjahres erreicht.
 
-##### § 12 Vorzeitige Altersrente
+###### § 12 Vorzeitige Altersrente
 
 (1) Landwirte können die Altersrente bis zu zehn Jahre vor Erreichen der Regelaltersgrenze vorzeitig in Anspruch nehmen, wenn die Voraussetzung des § 11 Absatz 1 Nummer 2 vorliegt und der Ehegatte bereits Anspruch auf eine Regelaltersrente oder vorzeitige Altersrente nach Absatz 2 hat oder gehabt hat.
 
@@ -245,7 +249,7 @@ Alters
 ## Zweiter Untertitel Renten wegen
 Erwerbsminderung
 
-##### § 13 Renten wegen Erwerbsminderung
+###### § 13 Renten wegen Erwerbsminderung
 
 (1) Landwirte haben Anspruch auf Rente wegen teilweiser Erwerbsminderung, wenn
 
@@ -286,7 +290,7 @@ Landwirte haben Anspruch auf Rente wegen voller Erwerbsminderung, wenn sie voll 
 ## Dritter Untertitel Renten wegen
 Todes
 
-##### § 14 Witwenrente und Witwerrente
+###### § 14 Witwenrente und Witwerrente
 
 (1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach dem Tode des Versicherten Anspruch auf Witwenrente oder Witwerrente, wenn
 
@@ -316,19 +320,19 @@ Der Erziehung steht die in häuslicher Gemeinschaft ausgeübte Sorge für ein ei
 
 (3) Die Absätze 1 und 2 gelten entsprechend für mitarbeitende Familienangehörige.
 
-##### § 14a (weggefallen)
+###### § 14a (weggefallen)
 
-##### § 15 Waisenrente
+###### § 15 Waisenrente
 
 Kinder haben nach dem Tode eines Elternteils entsprechend § 48 des Sechsten Buches Sozialgesetzbuch Anspruch auf Waisenrente. Die Wartezeit ist erfüllt, wenn der verstorbene Elternteil die Wartezeit von fünf Jahren erfüllt hat.
 
-##### § 16 Renten wegen Todes bei Verschollenheit
+###### § 16 Renten wegen Todes bei Verschollenheit
 
 Sind Ehegatten, geschiedene Ehegatten oder Elternteile verschollen, gelten sie als verstorben, wenn die Umstände ihren Tod wahrscheinlich machen und seit einem Jahr Nachrichten über ihr Leben nicht eingegangen sind. Die landwirtschaftliche Alterskasse kann von den Berechtigten die Versicherung an Eides Statt verlangen, daß ihnen weitere als die angezeigten Nachrichten über den Verschollenen nicht bekannt sind. Die landwirtschaftliche Alterskasse ist berechtigt, für die Rente den nach den Umständen mutmaßlichen Todestag festzustellen. Dieser bleibt auch bei gerichtlicher Feststellung oder Beurkundung eines abweichenden Todesdatums maßgeblich.
 
 ## Vierter Untertitel Wartezeiterfüllung
 
-##### § 17 Anrechenbare Zeiten
+###### § 17 Anrechenbare Zeiten
 
 (1) Auf die Wartezeit von fünf, 15 und 35 Jahren werden Beitragszeiten angerechnet. Ferner werden angerechnet
 
@@ -347,11 +351,11 @@ Zeiten nach Satz 2 werden nicht angerechnet, wenn diese Zeiten bereits mit Beitr
 ## Fünfter Untertitel Rentenrechtliche
 Zeiten
 
-##### § 18 Beitragszeiten
+###### § 18 Beitragszeiten
 
 Beitragszeiten sind Zeiten, für die Pflichtbeiträge oder freiwillige Beiträge zur landwirtschaftlichen Alterskasse gezahlt sind.
 
-##### § 19 Zurechnungszeit
+###### § 19 Zurechnungszeit
 
 (1) Zurechnungszeit ist die Zeit bis zur Vollendung des 67. Lebensjahres, die bei der Berechnung einer Rente wegen Erwerbsminderung oder einer Rente wegen Todes hinzugerechnet wird.
 
@@ -365,17 +369,17 @@ Beitragszeiten sind Zeiten, für die Pflichtbeiträge oder freiwillige Beiträge
 
 (4) Hat der verstorbene Versicherte eine Altersrente bezogen, ist bei einer nachfolgenden Rente wegen Todes eine Zurechnungszeit nicht zu berücksichtigen.
 
-##### § 20 Schadensersatz bei rentenrechtlichen Zeiten
+###### § 20 Schadensersatz bei rentenrechtlichen Zeiten
 
 Durch die Berücksichtigung von rentenrechtlichen Zeiten wird ein Anspruch auf Schadensersatz wegen verminderter Erwerbsfähigkeit nicht ausgeschlossen oder gemindert.
 
 ## Sechster Untertitel (weggefallen)
 
-##### (XXXX) §§ 21, 22 (weggefallen)
+###### (XXXX) §§ 21, 22 (weggefallen)
 
 ## Zweiter Titel Berechnung der Renten
 
-##### § 23 Berechnung der Renten
+###### § 23 Berechnung der Renten
 
 (1) Der Monatsbetrag der Rente ergibt sich, wenn
 
@@ -421,7 +425,7 @@ unberücksichtigt. Dies gilt nicht für freiwillige Beiträge nach Satz 3 Nr. 2,
 
 Bei einer Rente an Witwen und Witwer, für die in der gesetzlichen Rentenversicherung Zeiten der Kindererziehung berücksichtigt werden, und bei einer Vollwaisenrente ist die Steigerungszahl um einen Zuschlag zu erhöhen. Für die Ermittlung des Zuschlags zur Witwenrente oder Witwerrente findet § 78a des Sechsten Buches Sozialgesetzbuch mit der Maßgabe Anwendung, dass der Zuschlag für die ersten 36 Kalendermonate für Renten an Hinterbliebene von Landwirten jeweils 0,1010, für jeden weiteren Monat jeweils 0,0505 und für die ersten 36 Kalendermonate für Renten an Hinterbliebene von mitarbeitenden Familienangehörigen jeweils 0,0506, für jeden weiteren Monat jeweils 0,0253 beträgt. Der Zuschlag zu einer Vollwaisenrente beträgt für jeden Kalendermonat mit rentenrechtlichen Zeiten des verstorbenen Versicherten mit der höchsten Anwartschaft 0,075; auf den Zuschlag wird die Steigerungszahl des verstorbenen Versicherten mit der zweithöchsten Steigerungszahl angerechnet. Der Monatsbetrag einer nur zu einem Bruchteil zu leistenden Erwerbsminderungsrente wird ermittelt durch Anwendung des Bruchteils auf den Betrag der jeweiligen Rente, wenn sie in voller Höhe zu leisten wäre.
 
-(6) Der Rentenartfaktor beträgt bei
+(6) Der Rentenartfaktor beträgt bei 
 
 1.Renten wegen Alters1,02.Renten wegen voller Erwerbsminderung1,03.Renten wegen teilweiser Erwerbsminderung0,54.Witwen- und Witwerrenten bis zum Ende des dritten Kalendermonats nach Ablauf des Monats, in dem der Ehegatte verstorben ist1,0 anschließend0,555.Waisenrenten0,2.
 
@@ -471,7 +475,7 @@ mindert. Satz 2 gilt entsprechend für Zeiten nach Satz 1 Nummer 2 wegen Übersc
 
 (11) Für Zeiten nach Absatz 2 Satz 1, die nach Beginn einer Rente, bei der ein Abschlag zu berücksichtigen ist, zurückgelegt werden, wird ein Monatsteilbetrag ermittelt. Die aus diesen Zeiten ermittelte Steigerungszahl ist mit einem nach den Absätzen 8 bis 10 verminderten allgemeinen Rentenwert zu vervielfältigen, wenn die in Absatz 8 genannten Voraussetzungen vorliegen.
 
-##### § 24 Zuschläge oder Abschläge aufgrund eines Versorgungsausgleichs
+###### § 24 Zuschläge oder Abschläge aufgrund eines Versorgungsausgleichs
 
 (1) Die Übertragung von Anrechten auf Grund einer internen Teilung führt zu einem Zuschlag zur Steigerungszahl. Der Übertragung von Anrechten steht die Wiederauffüllung geminderter Anrechte gleich.
 
@@ -485,24 +489,24 @@ mindert. Satz 2 gilt entsprechend für Zeiten nach Satz 1 Nummer 2 wegen Übersc
 
 ## Dritter Titel Anpassung der Renten
 
-##### § 25 Anpassung
+###### § 25 Anpassung
 
 Zum 1. Juli eines jeden Jahres werden die Renten angepaßt, indem der bisherige allgemeine Rentenwert durch den neuen allgemeinen Rentenwert ersetzt wird.
 
-##### § 26 Verordnungsermächtigung
+###### § 26 Verordnungsermächtigung
 
 Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des Bundesrates den vom 1. Juli eines jeden Jahres an maßgebenden allgemeinen Rentenwert zu bestimmen.
 
 ## Vierter Titel Zusammentreffen von Renten
 mit Einkommen
 
-##### § 27 Zusammentreffen von Renten
+###### § 27 Zusammentreffen von Renten
 
 (1) Bestehen für denselben Zeitraum Ansprüche auf Altersrente und Rente wegen Erwerbsminderung oder mehrere Ansprüche auf Witwenrente, Witwerrente oder Waisenrente, wird nur eine Rente geleistet. § 89 Absatz 1 Satz 3 bis 7 des Sechsten Buches Sozialgesetzbuch gilt entsprechend.
 
 (2) Besteht für denselben Zeitraum aus den Rentenanwartschaften eines Versicherten Anspruch auf Witwenrente oder Witwerrente für mehrere Berechtigte, erhält jeder Berechtigte den Teil der Witwenrente oder Witwerrente, der dem Verhältnis der Dauer seiner Ehe mit dem Versicherten zu der Dauer der Ehen des Versicherten mit allen Berechtigten entspricht. Dies gilt nicht für Witwen oder Witwer, solange der Rentenartfaktor 1,0 beträgt. Ergibt sich aus der Anwendung des Rechts eines anderen Staates, daß mehrere Berechtigte vorhanden sind, erfolgt die Aufteilung nach § 34 Abs. 2 des Ersten Buches Sozialgesetzbuch.
 
-##### § 27a Rente wegen Erwerbsminderung und Hinzuverdienst
+###### § 27a Rente wegen Erwerbsminderung und Hinzuverdienst
 
 (1) Eine Rente wegen Erwerbsminderung wird bis zum Erreichen der Regelaltersgrenze in Abhängigkeit vom monatlich erzielten Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder selbständigen Tätigkeit oder von einem vergleichbaren Einkommen nach Maßgabe von Absatz 2 in voller oder teilweiser Höhe geleistet, wenn die in Absatz 2 genannten Hinzuverdienstgrenzen nicht überschritten werden. Ein zweimaliges Überschreiten um jeweils einen Betrag bis zur Hinzuverdienstgrenze nach Absatz 2 im Laufe eines jeden Kalenderjahres bleibt außer Betracht. Für das zu berücksichtigende Einkommen findet § 96a Absatz 2, 3 und 4 des Sechsten Buches Sozialgesetzbuch mit der Maßgabe entsprechend Anwendung, dass Arbeitseinkommen aus Land- und Forstwirtschaft nur berücksichtigt wird, wenn der Rentenbezieher Landwirt ist.
 
@@ -526,13 +530,13 @@ b) in Höhe der Hälfte das 0,88fache,
 
 c) in Höhe eines Viertels das 1,07fache
 
-##### § 27b (weggefallen)
+###### § 27b (weggefallen)
 
-##### § 28 Einkommensanrechnung auf Renten wegen Todes
+###### § 28 Einkommensanrechnung auf Renten wegen Todes
 
 Trifft eine Rente wegen Todes mit Einkommen (§§ 18a bis 18e des Vierten Buches Sozialgesetzbuch) des Berechtigten zusammen, gilt § 97 des Sechsten Buches Sozialgesetzbuch entsprechend mit der Maßgabe, daß an die Stelle des 26,4fachen des aktuellen Rentenwerts der gesetzlichen Rentenversicherung das 39,6fache des aktuellen Rentenwerts der gesetzlichen Rentenversicherung tritt.
 
-##### § 29 Reihenfolge bei der Anwendung von Berechnungsvorschriften
+###### § 29 Reihenfolge bei der Anwendung von Berechnungsvorschriften
 
 Für die Berechnung einer Rente, deren Leistung sich aufgrund eines Aufenthalts von Berechtigten im Ausland oder aufgrund eines Zusammentreffens mit Renten oder mit sonstigem Einkommen mindert oder entfällt, sind, soweit nichts anderes bestimmt ist, die entsprechenden Vorschriften in der folgenden Reihenfolge anzuwenden:
 
@@ -551,14 +555,14 @@ Mindert oder erhöht sich die Rente auch aufgrund einer internen Teilung im Rahm
 ## Fünfter Titel Beginn, Änderung, Ruhen
 und Ende von Renten
 
-##### § 30 Beginn, Änderung, Ruhen und Ende von Renten
+###### § 30 Beginn, Änderung, Ruhen und Ende von Renten
 
 Die §§ 99, 100 Absatz 1, 3 und 4 sowie § 102 des Sechsten Buches Sozialgesetzbuch gelten für Beginn, Änderung und Ende von Renten entsprechend. § 101 Abs. 3 bis 3b sowie § 268a des Sechsten Buches Sozialgesetzbuch gelten entsprechend, wenn eine interne Teilung im Rahmen des Versorgungsausgleichs stattgefunden hat.
 
 ## Sechster Titel Ausschluß und Minderung
 von Renten
 
-##### § 31 Ausschluß und Minderung von Renten
+###### § 31 Ausschluß und Minderung von Renten
 
 Für den Ausschluß und die Minderung von Renten gelten die §§ 103 bis 105 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
@@ -566,7 +570,7 @@ Für den Ausschluß und die Minderung von Renten gelten die §§ 103 bis 105 des
 
 ## Erster Titel Zuschuß zum Beitrag
 
-##### § 32 Anspruchsvoraussetzungen
+###### § 32 Anspruchsvoraussetzungen
 
 (1) Versicherungspflichtige Landwirte erhalten einen Zuschuss zu ihrem Beitrag und zum Beitrag für mitarbeitende Familienangehörige, wenn das jährliche Einkommen weniger als 60 Prozent der Bezugsgröße beträgt.
 
@@ -594,15 +598,17 @@ Die Anspruchsvoraussetzungen für den Zuschuss zum Beitrag sind in den Fällen d
 
 (4) Änderungen des Einkommens sind vom Beginn des dritten Kalendermonats nach Ausfertigung des Einkommensteuerbescheides zu berücksichtigten; dies gilt entsprechend, wenn vor erstmaliger Bewilligung eines Zuschusses zum Beitrag Einkommensteuerbescheide aus unterschiedlichen Veranlagungsjahren vorliegen. Einkommensteuerbescheide, die dem Zuschuss zum Beitrag zugrunde gelegte Einkommensteuerbescheide ändern, werden mit Wirkung für die Vergangenheit berücksichtigt.
 
-##### § 33 Berechnung
+###### § 33 Berechnung
 
 (1) Bei einem jährlichen Einkommen bis zu 30 Prozent der Bezugsgröße beträgt der Zuschuss zum Beitrag 60 Prozent des Beitrags. Bei einem jährlichen Einkommen von mehr als 30 Prozent der Bezugsgröße berechnet sich der Zuschuss zum Beitrag wie folgt:
+
+
 
 Der Zuschuss zum Beitrag wird auf volle Euro gerundet.
 
 (2) Der Zuschuß zum Beitrag für mitarbeitende Familienangehörige beträgt die Hälfte des Zuschusses nach Absatz 1 und bemißt sich wie der Zuschuß zum Beitrag für den Landwirt, mit dem der mitarbeitende Familienangehörige verwandt oder verschwägert ist. Ist der mitarbeitende Familienangehörige mit mehreren Mitunternehmern eines Unternehmens der Landwirtschaft verwandt oder verschwägert, berechnet sich der Beitragszuschuß für den mitarbeitenden Familienangehörigen aus dem Durchschnitt der Beitragszuschüsse der Mitunternehmer, mit denen der mitarbeitende Familienangehörige verwandt oder verschwägert ist. Der Zuschuß zum Beitrag wird auf volle Euro gerundet.
 
-##### § 34 Fälligkeit, Beginn und Änderung von Beitragszuschüssen
+###### § 34 Fälligkeit, Beginn und Änderung von Beitragszuschüssen
 
 (1) Der Zuschuß zum Beitrag wird monatlich geleistet und zum selben Zeitpunkt wie der Beitrag fällig.
 
@@ -612,12 +618,12 @@ Der Zuschuss zum Beitrag wird auf volle Euro gerundet.
 
 (4) Ändern sich die für Grund oder Höhe des Zuschusses zum Beitrag maßgebenden Verhältnisse, ist der Verwaltungsakt vom Zeitpunkt der Änderung der Verhältnisse an aufzuheben. In den Fällen des § 32 Abs. 4 Satz 2 ist der Verwaltungsakt von dem Zeitpunkt an aufzuheben, von dem an er auf dem geänderten Einkommensteuerbescheid beruht hat. Einer Anhörung nach § 24 des Zehnten Buches Sozialgesetzbuch bedarf es nicht, wenn sich das nach § 32 Absatz 3 Satz 3 maßgebende Einkommen geändert hat und diese Änderung berücksichtigt werden soll.
 
-##### § 35 (weggefallen)
+###### § 35 (weggefallen)
 
 ## Zweiter Titel Zuschuss zum Beitrag zur
 Krankenversicherung
 
-##### § 35a Zuschuß zum Beitrag zur Krankenversicherung
+###### § 35a Zuschuß zum Beitrag zur Krankenversicherung
 
 (1) Rentenbezieher, die freiwillig in der gesetzlichen Krankenversicherung oder bei einem Krankenversicherungsunternehmen, das der deutschen Aufsicht unterliegt, versichert sind, erhalten zu ihrer Rente einen Zuschuß zu den Aufwendungen für die Krankenversicherung. Dies gilt nicht, wenn sie bereits von einem Träger der gesetzlichen Krankenversicherung einen Zuschuß erhalten oder wenn sie gleichzeitig in einer in- oder ausländischen gesetzlichen Krankenversicherung pflichtversichert sind. Bei rückwirkender Feststellung einer Pflichtmitgliedschaft in der gesetzlichen Krankenversicherung gilt § 108 Absatz 2 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
@@ -627,9 +633,9 @@ Krankenversicherung
 oder sonstige Leistungen zur Aufrechterhaltung des Unternehmens
 der Landwirtschaft
 
-##### § 36 Betriebs- und Haushaltshilfe bei Arbeitsunfähigkeit, Schwangerschaft und medizinischen Vorsorge- und Rehabilitationsleistungen
+###### § 36 Betriebs- und Haushaltshilfe bei Arbeitsunfähigkeit, Schwangerschaft und medizinischen Vorsorge- und Rehabilitationsleistungen
 
-(1) Betriebshilfe kann bei Arbeitsunfähigkeit des Versicherten erbracht werden, wenn die Leistung zur Aufrechterhaltung des Unternehmens der Landwirtschaft erforderlich ist. Haushaltshilfe kann bei Arbeitsunfähigkeit des Versicherten erbracht werden, wenn die Weiterführung des Haushalts nicht möglich und diese auf andere Weise nicht sicherzustellen ist. Eine Leistung nach den Sätzen 1 und 2 ist ausgeschlossen, wenn sie durch die landwirtschaftliche Krankenkasse oder die landwirtschaftliche Berufsgenossenschaft erbracht oder nur deshalb nicht erbracht wird, weil insoweit in der Satzung die Möglichkeiten zur Ausweitung der Leistungsansprüche nicht ausgeschöpft wurden. Eine Leistung nach Satz 1 und 2 ist auch ausgeschlossen, wenn sie von einem Träger der Sozialversicherung nur deshalb nicht erbracht wird, weil der Anspruch auf Leistungen nach § 8 Abs. 2a des Zweiten Gesetzes über die Krankenversicherung der Landwirte oder nach § 16 Abs. 3a des Fünften Buches Sozialgesetzbuch ruht. Eine Leistung nach Satz 2 ist ferner ausgeschlossen, soweit sie von anderen als den in Satz 3 genannten Trägern der Sozialversicherung kraft Gesetzes oder infolge satzungsmäßiger Ausweitung der Leistungsverpflichtung erbracht wird.
+(1) Betriebshilfe kann bei Arbeitsunfähigkeit des Versicherten oder Teilarbeitsunfähigkeit des Versicherten nach § 44c Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch erbracht werden, wenn die Leistung zur Aufrechterhaltung des Unternehmens der Landwirtschaft erforderlich ist. Haushaltshilfe kann in den in Satz 1 genannten Fällen erbracht werden, wenn dem Versicherten die Weiterführung des Haushalts nicht möglich und diese auf andere Weise nicht sicherzustellen ist. Eine Leistung nach den Sätzen 1 und 2 ist ausgeschlossen, wenn sie durch die landwirtschaftliche Krankenkasse oder die landwirtschaftliche Berufsgenossenschaft erbracht oder nur deshalb nicht erbracht wird, weil insoweit in der Satzung die Möglichkeiten zur Ausweitung der Leistungsansprüche nicht ausgeschöpft wurden. Eine Leistung nach Satz 1 und 2 ist auch ausgeschlossen, wenn sie von einem Träger der Sozialversicherung nur deshalb nicht erbracht wird, weil der Anspruch auf Leistungen nach § 8 Abs. 2a des Zweiten Gesetzes über die Krankenversicherung der Landwirte oder nach § 16 Abs. 3a des Fünften Buches Sozialgesetzbuch ruht. Eine Leistung nach Satz 2 ist ferner ausgeschlossen, soweit sie von anderen als den in Satz 3 genannten Trägern der Sozialversicherung kraft Gesetzes oder infolge satzungsmäßiger Ausweitung der Leistungsverpflichtung erbracht wird.
 
 (2) Absatz 1 gilt entsprechend bei
 
@@ -645,7 +651,7 @@ der Landwirtschaft
 
 (5) Versicherter ist, wer im Zeitpunkt der Antragstellung oder, wenn ein Antrag nicht gestellt ist, im Zeitpunkt des Leistungsbeginns als Landwirt versicherungspflichtig ist.
 
-##### § 37 Betriebs- und Haushaltshilfe bei Tod des Landwirts
+###### § 37 Betriebs- und Haushaltshilfe bei Tod des Landwirts
 
 (1) Betriebshilfe kann für den überlebenden Ehegatten eines Landwirts erbracht werden, wenn er das Unternehmen des Verstorbenen als versicherungspflichtiger Landwirt weiterführt und
 
@@ -661,7 +667,7 @@ Haushaltshilfe kann in entsprechender Anwendung des Satzes 1 erbracht werden, we
 
 (4) Leistungen nach den Absätzen 1 bis 3 müssen wirksam und wirtschaftlich sein, sie dürfen das Maß des Notwendigen nicht übersteigen. Das Nähere über die Durchführung der Leistungen nach den Absätzen 1 bis 3 wird in der Satzung der landwirtschaftlichen Alterskasse geregelt.
 
-##### § 38 Überbrückungsgeld
+###### § 38 Überbrückungsgeld
 
 (1) Nach dem Tode versicherter Landwirte erhalten Witwen oder Witwer Überbrückungsgeld, wenn
 
@@ -681,7 +687,7 @@ Haushaltshilfe kann in entsprechender Anwendung des Satzes 1 erbracht werden, we
 
 (4) Der Anspruch ruht während der Zeit, in der Betriebs- oder Haushaltshilfe bei Tod des Landwirts gestellt oder Witwenrente oder Witwerrente bezogen wird.
 
-##### § 39 Betriebs- und Haushaltshilfe in anderen Fällen
+###### § 39 Betriebs- und Haushaltshilfe in anderen Fällen
 
 (1) Betriebshilfe kann für den versicherten Landwirt erbracht werden, wenn
 
@@ -703,7 +709,7 @@ Haushaltshilfe kann in entsprechender Anwendung des Satzes 1 erbracht werden, we
 
 ## Vierter Abschnitt Rentenauskunft
 
-##### § 40 Rentenauskunft
+###### § 40 Rentenauskunft
 
 (1) Versicherte, die das 55. Lebensjahr vollendet haben, erhalten von Amts wegen alle drei Jahre oder bei einem berechtigten Interesse in kürzeren Abständen Auskunft über die Höhe der Anwartschaft, die ihnen ohne weitere rentenrechtliche Zeiten als Regelaltersrente zustehen würde. Diese Auskunft kann von Amts wegen oder auf Antrag auch jüngeren Versicherten erteilt werden.
 
@@ -716,13 +722,13 @@ Haushaltshilfe kann in entsprechender Anwendung des Satzes 1 erbracht werden, we
 ## Fünfter Abschnitt Leistungen an Berechtigte im
 Ausland
 
-##### § 41 Grundsatz
+###### § 41 Grundsatz
 
 (1) Berechtigte, die sich nur vorübergehend im Ausland aufhalten, erhalten für diese Zeit Leistungen wie Berechtigte, die ihren gewöhnlichen Aufenthalt im Inland haben. Dies gilt auch für Berechtigte, die ihren gewöhnlichen Aufenthalt im Ausland haben, soweit nicht die folgenden Vorschriften über Leistungen an Berechtigte im Ausland etwas anderes bestimmen.
 
 (2) Die Vorschriften dieses Abschnitts sind nur anzuwenden, soweit nicht nach über- oder zwischenstaatlichem Recht etwas anderes bestimmt ist.
 
-##### § 42 Leistungen zur Teilhabe, Renten
+###### § 42 Leistungen zur Teilhabe, Renten
 
 (1) Berechtigte erhalten die Leistungen zur Teilhabe nur, wenn für den Kalendermonat, in dem der Antrag gestellt ist, ein Beitrag gezahlt worden ist.
 
@@ -734,7 +740,7 @@ Ausland
 
 ## Sechster Abschnitt Versorgungsausgleich
 
-##### § 43 Interne und externe Teilung
+###### § 43 Interne und externe Teilung
 
 (1) Zum Ausgleich der nach diesem Gesetz erworbenen Anrechte findet zwischen den geschiedenen Ehegatten die interne Teilung nach dem Versorgungsausgleichsgesetz und den ergänzenden Vorschriften dieses Gesetzes statt. Dies gilt entsprechend für den Versorgungsausgleich nach dem Lebenspartnerschaftsgesetz.
 
@@ -747,7 +753,7 @@ Ausland
 ## Erster Unterabschnitt Beginn und Abschluß
 des Verfahrens
 
-##### § 44 Beginn und Abschluß
+###### § 44 Beginn und Abschluß
 
 (1) Für den Beginn und den Abschluß des Verfahrens gelten § 115 Abs. 1 bis 5, § 116 Abs. 2 sowie § 117 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
@@ -758,25 +764,25 @@ des Verfahrens
 ## Zweiter Unterabschnitt Auszahlung und
 Anpassung
 
-##### § 45 Auszahlung und Anpassung
+###### § 45 Auszahlung und Anpassung
 
 (1) Für die Auszahlung von Renten gelten die §§ 118, 118a und 272a des Sechsten Buches Sozialgesetzbuch entsprechend.
 
 (2) Das Auszahlungsverfahren wird durch die Satzung der landwirtschaftlichen Alterskasse geregelt; dabei kann vorgesehen werden, dass die Renten durch die Deutsche Post AG ausgezahlt und angepasst werden. Werden der Deutschen Post AG diese Aufgaben übertragen, gilt § 119 Absatz 2 bis 7 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
-##### § 46 Verordnungsermächtigung
+###### § 46 Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Ernährung und Landwirtschaft das Nähere zu dem Inhalt der von der Deutschen Post AG wahrzunehmenden Aufgaben, der Höhe und Fälligkeit der Vorschüsse und Vergütungen entsprechend § 120 des Sechsten Buches Sozialgesetzbuch zu bestimmen, sofern die landwirtschaftliche Alterskasse von der Möglichkeit nach § 45 Absatz 2 Satz 1 Gebrauch macht.
 
 ## Dritter Unterabschnitt Berechnungsgrundsätze
 
-##### § 47 Berechnungsgrundsätze
+###### § 47 Berechnungsgrundsätze
 
 Die Berechnungsgrundsätze der §§ 121 bis 123 des Sechsten Buches Sozialgesetzbuch gelten entsprechend.
 
 ## Vierter Unterabschnitt Rechtsweg
 
-##### § 48
+###### § 48
 
 (weggefallen)
 
@@ -784,11 +790,11 @@ Die Berechnungsgrundsätze der §§ 121 bis 123 des Sechsten Buches Sozialgesetz
 
 ## Erster Abschnitt Organisation
 
-##### § 49 Träger der Alterssicherung der Landwirte
+###### § 49 Träger der Alterssicherung der Landwirte
 
 Träger der Alterssicherung der Landwirte ist die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau. In Angelegenheiten der Alterssicherung der Landwirte und bei Durchführung der Aufgaben nach diesem Gesetz führt sie die Bezeichnung landwirtschaftliche Alterskasse.
 
-##### § 50 Aufgaben der landwirtschaftlichen Alterskasse
+###### § 50 Aufgaben der landwirtschaftlichen Alterskasse
 
 (1) Neben den sich aus diesem Gesetz ergebenden Aufgaben nimmt die landwirtschaftliche Alterskasse die Funktion als Verbindungsstelle nach zwischenstaatlichem und überstaatlichem Recht für den Bereich der Alterssicherung der Landwirte wahr.
 
@@ -798,11 +804,11 @@ Träger der Alterssicherung der Landwirte ist die Sozialversicherung für Landwi
 
 2. Aufklärung, Beratung und Information.
 
-##### (XXXX) §§ 51 bis 58b (weggefallen)
+###### (XXXX) §§ 51 bis 58b (weggefallen)
 
 ## Zweiter Abschnitt Datenschutz
 
-##### § 59 Mitgliedsnummer
+###### § 59 Mitgliedsnummer
 
 (1) Die landwirtschaftliche Alterskasse kann für Personen eine Mitgliedsnummer vergeben, wenn dies zur personenbezogenen Zuordnung der Daten für die Erfüllung einer ihr durch Gesetz oder aufgrund eines Gesetzes zugewiesenen Aufgabe erforderlich ist. Für versicherte Personen hat sie eine Mitgliedsnummer zu vergeben.
 
@@ -818,7 +824,7 @@ Es wird eine gemeinsame Mitgliedsnummer vergeben, die für die Alterssicherung d
 
 (4) Die §§ 18f und 18g des Vierten Buches Sozialgesetzbuch gelten entsprechend.
 
-##### § 60 Datenverarbeitung bei der landwirtschaftlichen Alterskasse
+###### § 60 Datenverarbeitung bei der landwirtschaftlichen Alterskasse
 
 (1) Die landwirtschaftliche Alterskasse darf Sozialdaten nur verarbeiten, soweit dies zur Erfüllung einer ihr durch Gesetz oder aufgrund eines Gesetzes zugewiesenen Aufgabe erforderlich ist. Aufgaben nach diesem Gesetz sind:
 
@@ -838,11 +844,11 @@ Für Daten, aus denen die Art einer Erkrankung erkennbar ist, gilt § 148 Absatz
 
 (2) Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung von Sozialdaten aus Dateien der landwirtschaftlichen Alterskasse durch Abruf ermöglicht, ist mit Leistungsträgern außerhalb des Geltungsbereichs des Sozialgesetzbuchs zulässig, soweit diese Daten zur Feststellung von Leistungen nach über- und zwischenstaatlichem Recht erforderlich sind und nicht Grund zur Annahme besteht, dass dadurch schutzwürdige Belange der davon betroffenen Personen beeinträchtigt werden.
 
-##### § 61 Versicherungskonto
+###### § 61 Versicherungskonto
 
 Für die Führung und den Inhalt des Versicherungskontos sowie die Pflichten der landwirtschaftlichen Alterskasse und der Versicherten gilt § 149 des Sechsten Buches Sozialgesetzbuch entsprechend mit der Maßgabe, daß die Versicherten nur im Falle der Beendigung ihrer Versicherung und auf Antrag über die in ihrem Versicherungskonto gespeicherten personenbezogenen Daten, die für die Feststellung der Höhe einer Rentenanwartschaft erheblich sind (Versicherungsverlauf), zu unterrichten sind; § 149 Abs. 5 Satz 1 des Sechsten Buches Sozialgesetzbuch findet keine Anwendung.
 
-##### § 61a Überprüfung von Beitragszuschüssen
+###### § 61a Überprüfung von Beitragszuschüssen
 
 (1) Die landwirtschaftliche Alterskasse ist befugt, Personen, die einen Beitragszuschuss erhalten, auch regelmäßig im Wege eines automatisierten Datenabgleichs daraufhin zu überprüfen, ob ein Anspruch auf den Beitragszuschuss weiterhin besteht. Sie übermittelt hierzu in einem automatisierten Verfahren an zentrale Vermittlungsstellen der Finanzbehörden Angaben zu
 
@@ -884,15 +890,15 @@ Die landwirtschaftliche Alterskasse darf die ihnen übermittelten Daten nur zur 
 
 (3) Wird ein Verfahren nach Absatz 1 durchgeführt, ist der Empfänger eines Beitragszuschusses bei jeder Bewilligung darauf hinzuweisen.
 
-##### § 62 Dateisysteme der landwirtschaftlichen Sozialversicherung
+###### § 62 Dateisysteme der landwirtschaftlichen Sozialversicherung
 
 Für die Führung und den Inhalt der Dateisysteme der landwirtschaftlichen Sozialversicherung gilt § 150 mit Ausnahme des Absatzes 1 Satz 1 Nummer 6 und 8, des Absatzes 3 und des Absatzes 3a des Sechsten Buches Sozialgesetzbuch entsprechend mit der Maßgabe, dass in die Stammsatzdatei alle Personen und Unternehmen aufzunehmen sind, die von der landwirtschaftlichen Alterskasse, der landwirtschaftlichen Krankenkasse oder der landwirtschaftlichen Berufsgenossenschaft eine Mitgliedsnummer erhalten haben.
 
-##### § 63 Auskünfte der Deutschen Post AG
+###### § 63 Auskünfte der Deutschen Post AG
 
 Für Auskünfte der Deutschen Post AG an die für Sozialleistungen zuständigen Leistungsträger und diesen Gleichgestellte (§ 35 Erstes Buch Sozialgesetzbuch sowie § 69 Abs. 2 Zehntes Buch Sozialgesetzbuch) über personenbezogene Daten gilt § 151 Absatz 1, 2 und 4 des Sechsten Buches Sozialgesetzbuch entsprechend. Die landwirtschaftliche Alterskasse darf der Deutschen Post AG Auskünfte über personenbezogene Daten entsprechend § 151 Abs. 3 des Sechsten Buches Sozialgesetzbuch erteilen.
 
-##### § 64 Verarbeitung von Daten aufgrund des Gesetzes zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner
+###### § 64 Verarbeitung von Daten aufgrund des Gesetzes zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner
 
 (1) Die Landwirtschaftliche Alterskasse darf zur Durchführung der ihr nach dem Gesetz zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner übertragenen Aufgaben die bei ihr gespeicherten personenbezogenen Daten sowie die von den Stellen nach § 3 des Rentenbeziehende-Energiepreispauschalengesetzes vom 7. November 2022 (BGBl. I S. 1985) übermittelten personenbezogenen Daten zur Gewährung einer Energiepreispauschale verarbeiten, soweit dies für die Durchführung dieser Aufgaben erforderlich ist.
 
@@ -900,7 +906,7 @@ Für Auskünfte der Deutschen Post AG an die für Sozialleistungen zuständigen 
 
 (3) Die Übermittlung nach Absatz 2 darf auch durch Abruf im automatisierten Verfahren erfolgen, ohne dass es einer Genehmigung nach § 79 Absatz 1 des Zehnten Buches Sozialgesetzbuch bedarf.
 
-##### § 65 Verordnungsermächtigung
+###### § 65 Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -925,13 +931,13 @@ zu bestimmen.
 ## Erster Abschnitt Finanzierungsgrundsatz und
 Lagebericht
 
-##### § 66 Finanzierungsgrundsatz
+###### § 66 Finanzierungsgrundsatz
 
 (1) Die Ausgaben eines Kalenderjahres werden durch die Einnahmen des gleichen Kalenderjahres gedeckt.
 
 (2) Einnahmen sind insbesondere die Beiträge und die Mittel des Bundes zum Ausgleich von Einnahmen und Ausgaben.
 
-##### § 67 Lagebericht
+###### § 67 Lagebericht
 
 (1) Die Bundesregierung erstellt alle vier Jahre einen Lagebericht. Der Bericht enthält auf der Grundlage der letzten Ermittlungen der Zahl der Versicherten und Leistungsempfänger sowie der Einnahmen und der Ausgaben insbesondere Modellrechnungen zur Entwicklung von Einnahmen und Ausgaben einschließlich der Beitragszuschüsse sowie des jeweils sich ergebenden Beitrages in den künftigen zehn Kalenderjahren. Daneben enthält der Bericht eine Übersicht über die voraussichtliche finanzielle Entwicklung der Alterssicherung der Landwirte in den künftigen fünf Kalenderjahren auf der Grundlage der aktuellen Einschätzung der mittelfristigen Entwicklung in der Landwirtschaft.
 
@@ -941,18 +947,18 @@ Lagebericht
 
 ## Erster Unterabschnitt Beitragshöhe
 
-##### § 68 Beitragshöhe
+###### § 68 Beitragshöhe
 
 Der monatliche Beitrag für ein Kalenderjahr ergibt sich, indem der Beitragssatz in der allgemeinen Rentenversicherung dieses Jahres, das der Ermittlung dieses Beitragssatzes zugrunde gelegte voraussichtliche Durchschnittsentgelt in der allgemeinen Rentenversicherung und der Wert 0,0346 miteinander vervielfältigt werden. Der Beitrag wird auf volle Euro aufgerundet. Er wird vom Bundesministerium für Arbeit und Soziales im Bundesgesetzblatt bekannt gemacht. Für mitarbeitende Familienangehörige beträgt der Beitrag die Hälfte des Beitrags eines Landwirts.
 
-##### § 69 (weggefallen)
+###### § 69 (weggefallen)
 
 -
 
 ## Zweiter Unterabschnitt Verteilung der
 Beitragslast und Zahlung der Beiträge
 
-##### § 70 Verteilung der Beitragslast und Zahlung der Beiträge
+###### § 70 Verteilung der Beitragslast und Zahlung der Beiträge
 
 (1) Die Beiträge werden getragen
 
@@ -971,7 +977,7 @@ Sind beide Ehegatten Landwirte, haften sie gesamtschuldnerisch. Die Beiträge we
 ## Dritter Unterabschnitt Fälligkeit und
 Wirksamkeit von Beiträgen
 
-##### § 71 Fälligkeit und Wirksamkeit von Beiträgen
+###### § 71 Fälligkeit und Wirksamkeit von Beiträgen
 
 (1) Der Beitrag ist jeweils am Fünfzehnten eines Kalendermonats fällig.
 
@@ -979,7 +985,7 @@ Wirksamkeit von Beiträgen
 
 ## Vierter Unterabschnitt Versorgungsausgleich
 
-##### § 72 Wiederauffüllung geminderter Anrechte
+###### § 72 Wiederauffüllung geminderter Anrechte
 
 (1) Im Rahmen des Versorgungsausgleichs können Beiträge gezahlt werden, um Anrechte, die um einen Abschlag von der Steigerungszahl gemindert worden sind, ganz oder teilweise wieder aufzufüllen.
 
@@ -990,7 +996,7 @@ Wirksamkeit von Beiträgen
 ## Fünfter Unterabschnitt Auskunfts- und
 Mitteilungspflichten
 
-##### § 73 Auskunfts- und Mitteilungspflichten
+###### § 73 Auskunfts- und Mitteilungspflichten
 
 (1) Für die Auskunfts- und Mitteilungspflichten von Versicherten gilt § 196 Abs. 1 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
@@ -1018,11 +1024,11 @@ Die Datenstelle führt den Abgleich der ihr übermittelten Daten durch. Bei Ehes
 
 ## Sechster Unterabschnitt (weggefallen)
 
-##### § 74 (weggefallen)
+###### § 74 (weggefallen)
 
 ## Siebter Unterabschnitt Beitragserstattung
 
-##### § 75 Erstattungsberechtigte
+###### § 75 Erstattungsberechtigte
 
 Beiträge werden auf Antrag erstattet
 
@@ -1030,7 +1036,7 @@ Beiträge werden auf Antrag erstattet
 
 2. Witwen, Witwern und Waisen, wenn wegen der Nichterfüllung der Wartezeit von fünf Jahren ein Anspruch auf Leistungen nach dem Tode des Versicherten nicht besteht, Halbwaisen aber nur, wenn eine Witwe oder ein Witwer nicht vorhanden ist. Mehreren Waisen steht der Erstattungsbetrag zu gleichen Teilen zu.
 
-##### § 76 Umfang und Wirkung
+###### § 76 Umfang und Wirkung
 
 (1) Erstattet wird die Hälfte der vom Versicherten getragenen Beiträge. Vor Ermittlung des Erstattungsbetrages werden erbrachte Zuschüsse zum Beitrag gegen die für den gleichen Zeitraum gezahlten Beiträge aufgerechnet.
 
@@ -1040,7 +1046,7 @@ Beiträge werden auf Antrag erstattet
 
 (4) Der Antrag auf Erstattung kann nicht auf einzelne Beitragszeiten beschränkt werden. Mit der Beitragserstattung wird das bisherige Versicherungsverhältnis aufgelöst. Verwaltungsakte über die Erbringung von Zuschüssen zum Beitrag sind mit Wirkung für die Vergangenheit zurückzunehmen. Ansprüche aus den bis zur Erstattung zurückgelegten rentenrechtlichen Zeiten bestehen nicht mehr.
 
-##### § 77 Erstattung zu Unrecht entrichteter Beiträge
+###### § 77 Erstattung zu Unrecht entrichteter Beiträge
 
 Bei der Erstattung zu Unrecht entrichteter Beiträge nach § 26 des Vierten Buches Sozialgesetzbuch gilt § 76 Abs. 1 Satz 2 und Abs. 4 Satz 3 entsprechend; § 76 Abs. 3 gilt entsprechend, soweit zu Lasten der Anrechte aus den zu Unrecht entrichteten Beiträgen ein Versorgungsausgleich durchgeführt worden ist. Zu Unrecht entrichtete Beiträge, die bereits verjährt sind, gelten als zu Recht entrichtete Beiträge. § 26 Absatz 1 des Vierten Buches Sozialgesetzbuch findet keine Anwendung.
 
@@ -1049,19 +1055,19 @@ Bei der Erstattung zu Unrecht entrichteter Beiträge nach § 26 des Vierten Buch
 ## Erster Unterabschnitt Beteiligung des
 Bundes
 
-##### § 78 Beteiligung des Bundes
+###### § 78 Beteiligung des Bundes
 
 Der Bund trägt den Unterschiedsbetrag zwischen den Einnahmen und den Ausgaben der Alterssicherung der Landwirte eines Kalenderjahres; er stellt hiermit zugleich deren dauernde Leistungsfähigkeit sicher.
 
 ## Zweiter Unterabschnitt Ausgabenbegrenzung
 
-##### § 79 Reduzierung der Kosten für Verwaltung und Verfahren
+###### § 79 Reduzierung der Kosten für Verwaltung und Verfahren
 
 (1) Die landwirtschaftliche Alterskasse ergreift Maßnahmen, damit die jährlichen Verwaltungs- und Verfahrenskosten für die Alterssicherung der Landwirte spätestens im Jahr 2016 nicht mehr als 66 Millionen Euro betragen. Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau legt dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium für Ernährung und Landwirtschaft bis zum 31. Dezember 2017 einen Bericht über die Entwicklung der Verwaltungs- und Verfahrenskosten in der Alterssicherung der Landwirte vor. Das Bundesministerium für Arbeit und Soziales und das Bundesministerium für Ernährung und Landwirtschaft leiten den Bericht an den Deutschen Bundestag und an den Bundesrat weiter und fügen eine Stellungnahme bei.
 
 (2) Bei der Ermittlung der Verwaltungs- und Verfahrenskosten nach Absatz 1 Satz 1 bleiben Versorgungsaufwendungen und Zuführungen zum Altersrückstellungsvermögen unberücksichtigt.
 
-##### § 80 Ausgaben für Teilhabe sowie für Betriebs- und Haushaltshilfe
+###### § 80 Ausgaben für Teilhabe sowie für Betriebs- und Haushaltshilfe
 
 (1) Die jährlichen Ausgaben der landwirtschaftlichen Alterskasse für Leistungen zur Teilhabe sowie für Betriebs- und Haushaltshilfe werden entsprechend der voraussichtlichen Entwicklung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2 Satz 1 des Sechsten Buches Sozialgesetzbuch) und der voraussichtlichen Entwicklung der Zahl der Versicherten, die zugleich nach § 2 des Zweiten Gesetzes über die Krankenversicherung der Landwirte versichert sind, festgesetzt. In der Zeit vom 1. Januar 2014 bis zum 31. Dezember 2050 werden die jährlichen Ausgaben nach Satz 1 unter zusätzlicher Berücksichtigung einer Demografiekomponente fortgeschrieben; § 287b des Sechsten Buches Sozialgesetzbuch ist entsprechend anzuwenden. Überschreiten die Ausgaben am Ende eines Kalenderjahres den für dieses Kalenderjahr jeweils bestimmten Betrag, wird der sich für das zweite Kalenderjahr nach dem Jahr der Überschreitung der Ausgaben nach Satz 1 ergebende Betrag entsprechend vermindert.
 
@@ -1069,7 +1075,7 @@ Der Bund trägt den Unterschiedsbetrag zwischen den Einnahmen und den Ausgaben d
 
 ## Dritter Unterabschnitt (weggefallen)
 
-##### § 81 (weggefallen)
+###### § 81 (weggefallen)
 
 ## Fünftes Kapitel Sonderregelungen
 
@@ -1077,16 +1083,16 @@ Der Bund trägt den Unterschiedsbetrag zwischen den Einnahmen und den Ausgaben d
 
 ## Erster Unterabschnitt Grundsatz
 
-##### § 82 Grundsatz
+###### § 82 Grundsatz
 
 Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der vorangegangenen Kapitel für Sachverhalte, die von dem Zeitpunkt des Inkrafttretens der Vorschriften der vorangegangenen Kapitel an nicht mehr oder nur noch übergangsweise eintreten können.
 
-##### § 83 (weggefallen)
+###### § 83 (weggefallen)
 
 ## Zweiter Unterabschnitt Versicherter
 Personenkreis
 
-##### § 84 Versicherungspflicht
+###### § 84 Versicherungspflicht
 
 (1) Personen, die am 31. Dezember 1994 als Landwirte beitragspflichtig waren und die Voraussetzungen des § 1 nicht erfüllen, bleiben versicherungspflichtig, solange die Wartezeit von 15 Jahren noch nicht erfüllt ist. Ist am 22. Dezember 1995 die Wartezeit von 15 Jahren unter Berücksichtigung von Zeiten nach § 17 Abs. 1 Satz 2 erfüllt, endet die Versicherungspflicht mit Wirkung vom 1. Januar 1996.
 
@@ -1102,7 +1108,7 @@ Personenkreis
 
 (5) Die Versicherungspflicht für nach § 1 Absatz 3 versicherte Lebenspartner beginnt mit Inkrafttreten der Gleichstellungsvorschrift für Lebenspartner (§ 1a).
 
-##### § 85 Versicherungsfreiheit, Versicherungsbefreiung
+###### § 85 Versicherungsfreiheit, Versicherungsbefreiung
 
 (1) Personen, die am 31. Dezember 1994 als Landwirte oder mitarbeitende Familienangehörige von der Beitragspflicht in der Altershilfe für Landwirte befreit oder kraft Gesetzes beitragsfrei waren, bleiben in dieser Tätigkeit versicherungsfrei. Personen, die am 31. Dezember 1994 von der Beitragspflicht befreit waren, sind nach den Vorschriften über den versicherten Personenkreis versicherungspflichtig, wenn sie innerhalb von sechs Monaten nach Vorliegen der für die Versicherungspflicht maßgebenden Voraussetzungen beantragen, daß die Befreiung von der Beitragspflicht enden soll; die Befreiung endet vom Eingang des Antrags, frühestens vom 1. Januar 1995 an. Satz 1 gilt nicht für den Ehegatten eines Landwirts, der am 31. Dezember 1994 nur deshalb nicht beitragspflichtig war, weil der Landwirt das Unternehmen der Landwirtschaft überwiegend geleitet hat; er gilt als Landwirt nach § 1 Abs. 3.
 
@@ -1170,7 +1176,7 @@ Eine Wiedereinsetzung in den vorigen Stand ist ausgeschlossen.
 
 ## Dritter Unterabschnitt Teilhabe
 
-##### § 86 Teilhabe
+###### § 86 Teilhabe
 
 Sind die versicherungsrechtlichen Voraussetzungen für Leistungen zur medizinischen Rehabilitation nur erfüllt, wenn der Versicherte in den letzten zwei Jahren vor der Antragstellung sechs Monate versichert war, stehen bis 31. Dezember 1996 den Beitragszeiten Pflichtbeitragszeiten nach den Vorschriften der gesetzlichen Rentenversicherung im Beitrittsgebiet gleich, wenn
 
@@ -1183,30 +1189,30 @@ Sind die versicherungsrechtlichen Voraussetzungen für Leistungen zur medizinisc
 ## Vierter Unterabschnitt Vorzeitige
 Wartezeiterfüllung
 
-##### § 87 Vorzeitige Wartezeiterfüllung
+###### § 87 Vorzeitige Wartezeiterfüllung
 
 Die Vorschrift über die vorzeitige Wartezeiterfüllung findet nur Anwendung, wenn der Arbeitsunfall oder die Berufskrankheit nach dem 31. Dezember 1994 eingetreten ist.
 
-##### § 87a Regelaltersrente
+###### § 87a Regelaltersrente
 
-Versicherte, die vor 1964 geboren sind, erreichen die Regelaltersgrenze abweichend von § 11 Abs. 3 mit Vollendung des nachstehenden Lebensalters in Jahren und Monaten:
+Versicherte, die vor 1964 geboren sind, erreichen die Regelaltersgrenze abweichend von § 11 Abs. 3 mit Vollendung des nachstehenden Lebensalters in Jahren und Monaten: 
 
 Geburtsjahrgängemaßgebende RegelaltersgrenzeJahreMonatevor 194765019476511948652194965319506541951655195265619536571954658195565919566510195765111958660195966219606641961666196266819636610.
 
-##### § 87b Vorzeitige Altersrente
+###### § 87b Vorzeitige Altersrente
 
-Bei Versicherten, die vor 1958 geboren sind, sind für die Ermittlung des Zeitpunktes, ab dem eine vorzeitige Altersrente nach § 12 Abs. 1 in Anspruch genommen werden kann, abweichend von § 11 Abs. 3 und § 87a folgende Regelaltersgrenzen zugrunde zu legen:
+Bei Versicherten, die vor 1958 geboren sind, sind für die Ermittlung des Zeitpunktes, ab dem eine vorzeitige Altersrente nach § 12 Abs. 1 in Anspruch genommen werden kann, abweichend von § 11 Abs. 3 und § 87a folgende Regelaltersgrenzen zugrunde zu legen: 
 
 Geburtsjahrgänge Geburtsmonatemaßgebende RegelaltersgrenzeJahreMonatevor 19576501957  Januar651Februar652März653April654Mai655Juni656Juli657August658September659Oktober6510November
 und Dezember6511.
 
-##### § 87c Vorzeitige Altersrente für langjährig Versicherte
+###### § 87c Vorzeitige Altersrente für langjährig Versicherte
 
-Versicherte, die vor 1964 geboren sind und insgesamt 45 Jahre Zeiten nach § 23 Absatz 8 Satz 2 zweiter Halbsatz zurückgelegt haben, können die vorzeitige Altersrente abweichend von § 12 Absatz 2 frühestens mit Vollendung des nachstehenden Lebensalters in Jahren und Monaten in Anspruch nehmen:
+Versicherte, die vor 1964 geboren sind und insgesamt 45 Jahre Zeiten nach § 23 Absatz 8 Satz 2 zweiter Halbsatz zurückgelegt haben, können die vorzeitige Altersrente abweichend von § 12 Absatz 2 frühestens mit Vollendung des nachstehenden Lebensalters in Jahren und Monaten in Anspruch nehmen: 
 
 GeburtsjahrgängeJahreMonatevor 195363 0195363 2195463 4195563 6195663 819576310195864 0195964 2196064 4196164 6196264 819636410.
 
-##### § 87d Waisenrente
+###### § 87d Waisenrente
 
 § 304 Absatz 2 des Sechsten Buches Sozialgesetzbuch gilt entsprechend.
 
@@ -1216,7 +1222,7 @@ für Renten
 ## Erster Titel Renten wegen Alters und Renten wegen 
 Todes
 
-##### § 88 Rente an frühere Ehegatten
+###### § 88 Rente an frühere Ehegatten
 
 Anspruch auf Witwen- oder Witwerrente besteht nach dem Tode des versicherten Landwirts auch für frühere Ehegatten, deren Ehe mit dem verstorbenen Landwirt vor dem 1. Juli 1977 geschieden, aufgelöst oder für nichtig erklärt ist, wenn
 
@@ -1240,13 +1246,13 @@ Satz 1 gilt auch nach einer Wiederheirat, wenn diese Ehe aufgelöst oder für ni
 
 ## Zweiter Titel Hinzuverdienstgrenze
 
-##### § 89 Hinzuverdienstgrenze
+###### § 89 Hinzuverdienstgrenze
 
 Bestand am 31. Dezember 1994 Anspruch auf ein vorzeitiges Altersgeld, das spätestens am 1. Januar 1984 begonnen hat, tritt an die Stelle des Siebtels der monatlichen Bezugsgröße mindestens der Betrag von 320 Euro monatlich.
 
 ## Dritter Titel Wartezeiterfüllung
 
-##### § 90 Wartezeit
+###### § 90 Wartezeit
 
 (1) Beitragszeiten vor dem 1. Januar 1995 werden auf die Wartezeit für eine Rente an Landwirte nur angerechnet, wenn der Versicherte mindestens bis zur Vollendung des 60. Lebensjahres oder bis zum Eintritt von Erwerbsunfähigkeit im Sinne des bis zum 31. Dezember 2000 geltenden Rechts, mit Ausnahme der Zeiten des Bezugs eines vorzeitigen Altersgeldes, einer Landabgaberente oder eines Hinterbliebenengeldes, längstens jedoch bis 31. Dezember 1994, anrechenbare Beitragszeiten zurückgelegt hat. Satz 1 gilt für die Erfüllung der Wartezeit für eine Rente wegen Erwerbsminderung nicht für Landwirte, die bis zum 1. Oktober 1972 mindestens für 60 Kalendermonate Beiträge an die landwirtschaftliche Alterskasse gezahlt haben, wenn die Beitragspflicht bis zum 1. Oktober 1972 endete; § 13 Abs. 1 Satz 1 Nr. 2 gilt als erfüllt.
 
@@ -1272,7 +1278,7 @@ b) erwerbsunfähig nach dem bis zum 31. Dezember 2000 geltenden Recht geworden w
 
 (8) Bei Renten wegen Erwerbsminderung verlängert sich der Zeitraum von fünf Jahren vor Eintritt der Erwerbsminderung gemäß § 13 Absatz 1 Satz 1 Nummer 2 auch um Zeiten bis zum 8. August 2018, in denen die Voraussetzungen nach § 13 Absatz 2 Nummer 8 und 9 in der bis zum 8. August 2018 geltenden Fassung erfüllt waren.
 
-##### § 91 Wartezeit für Ehegatten befreiter Landwirte
+###### § 91 Wartezeit für Ehegatten befreiter Landwirte
 
 Die Wartezeit von 15 Jahren gilt für Versicherte nach § 1 Abs. 3 als erfüllt, wenn sie
 
@@ -1284,7 +1290,7 @@ Die Wartezeit von 15 Jahren gilt für Versicherte nach § 1 Abs. 3 als erfüllt,
 
 ## Vierter Titel Rentenrechtliche Zeiten
 
-##### § 92 Beitragszeiten von Ehegatten und mitarbeitenden Familienangehörigen
+###### § 92 Beitragszeiten von Ehegatten und mitarbeitenden Familienangehörigen
 
 (1) Für den Ehegatten gelten für die Ehezeit in der Zeit vom 1. Oktober 1957 bis 31. Dezember 1994, für die der andere Ehegatte Beiträge als Landwirt nach § 14 des Gesetzes über eine Altershilfe für Landwirte gezahlt hat, Beiträge als gezahlt, soweit diese Zeiten nicht vor Vollendung des 18. Lebensjahres des Ehegatten liegen und für den Ehegatten nicht bereits mit anrechenbaren Beitragszeiten als Landwirt belegt sind und sofern
 
@@ -1338,13 +1344,13 @@ gelten für Zeiten vom 1. Mai 1980 bis 31. Dezember 1985 für jeden Kalendermona
 
 (6) Die Absätze 1 und 3 sind nicht anzuwenden, wenn eine Witwen- oder Witwerrente oder Überbrückungsgeld für den Landwirt, dessen Beitragsjahre dem verstorbenen Ehegatten nach den Absätzen 1 und 3 anzurechnen gewesen sind, festzustellen ist.
 
-##### § 92a Zurechnungszeit
+###### § 92a Zurechnungszeit
 
 (1) Beginnt eine Rente wegen Erwerbsminderung im Jahr 2018 oder verstirbt die versicherte Person bei einer Rente wegen Todes im Jahr 2018, endet die Zurechnungszeit mit Vollendung des 62. Lebensjahres und drei Monaten.
 
 (2) Beginnt eine Rente wegen Erwerbsminderung im Jahr 2019 oder verstirbt die versicherte Person bei einer Rente wegen Todes im Jahr 2019, endet die Zurechnungszeit mit Vollendung des 65. Lebensjahres und acht Monaten.
 
-(3) Beginnt eine Rente wegen Erwerbsminderung nach dem 31. Dezember 2019 und vor dem 1. Januar 2031 oder verstirbt die versicherte Person bei einer Rente wegen Todes nach dem 31. Dezember 2019 und vor dem 1. Januar 2031, wird das Ende der Zurechnungszeit wie folgt angehoben:
+(3) Beginnt eine Rente wegen Erwerbsminderung nach dem 31. Dezember 2019 und vor dem 1. Januar 2031 oder verstirbt die versicherte Person bei einer Rente wegen Todes nach dem 31. Dezember 2019 und vor dem 1. Januar 2031, wird das Ende der Zurechnungszeit wie folgt angehoben: 
 
 Bei Beginn der Rente oder bei Tod der Versicherten im JahrAnhebung
  um Monateauf AlterJahreMonate2020165920212651020223651120234660202456612025666220267663202786642028106662029126682030146610
@@ -1356,7 +1362,7 @@ Bei Beginn der Rente oder bei Tod der Versicherten im JahrAnhebung
 ## Sechster Unterabschnitt Berechnung der
 Renten
 
-##### § 93 Berechnung der Renten
+###### § 93 Berechnung der Renten
 
 (1) Beiträge von Personen, die unabhängig von einer Tätigkeit als Landwirt oder mitarbeitender Familienangehöriger versicherungspflichtig waren, gelten als Beiträge als Landwirt.
 
@@ -1380,13 +1386,13 @@ b) nach dem letztmaligen, vor dem 1. Januar 1995 erfolgten Fortfall der Beitrags
 
 3. sie bereits bei einer Witwen- oder Witwerrente berücksichtigt sind und für den Überlebenden, der diese Beiträge gezahlt hat, eine Rente aus eigener Versicherung festzustellen ist.
 
-##### § 93a Abschlag vom Rentenwert
+###### § 93a Abschlag vom Rentenwert
 
 (1) Bei Beginn einer Rente wegen Erwerbsminderung vor dem 1. Januar 2004 wird der Abschlag vom allgemeinen Rentenwert nach § 23 Abs. 8 in Abhängigkeit vom Beginn der Rente in Höhe des Prozentsatzes nach Anlage 3 berücksichtigt. Für Renten wegen Todes gilt Satz 1 mit der Maßgabe, dass nicht auf den Rentenbeginn, sondern auf den auf den Todesmonat folgenden Kalendermonat abzustellen ist.
 
 (2) Bei Versicherten, die eine vorzeitige Altersrente nach § 12 Abs. 1 nach Maßgabe von § 87b in Anspruch nehmen können, ist bei der Berechnung dieser Rente der Abschlag nach § 23 Abs. 8 unter Anwendung der in § 87b genannten Regelaltersgrenze zu ermitteln.
 
-(3) Beginnt eine Rente wegen Erwerbsminderung vor 2024 oder sind bei einer Rente wegen Todes die Versicherten vor 2024 verstorben, tritt bei der Berechnung der Abschläge bei diesen Renten nach § 23 Abs. 8 Satz 1 Nr. 1 und 2 und bei der Berechnung der Verminderung der Abschläge nach § 23 Abs. 10 Satz 1 Nr. 1 an die Stelle des 65. Lebensjahres die folgende Altersgrenze:
+(3) Beginnt eine Rente wegen Erwerbsminderung vor 2024 oder sind bei einer Rente wegen Todes die Versicherten vor 2024 verstorben, tritt bei der Berechnung der Abschläge bei diesen Renten nach § 23 Abs. 8 Satz 1 Nr. 1 und 2 und bei der Berechnung der Verminderung der Abschläge nach § 23 Abs. 10 Satz 1 Nr. 1 an die Stelle des 65. Lebensjahres die folgende Altersgrenze: 
 
 Rentenbeginn/Todeszeitpunktmaßgebende
 AltersgrenzeJahrMonatJahreMonatevor 2012 6302012    Januar631 Februar632 März633 April634 Mai635 Juni bis Dezember6362013 6372014 6382015 6392016 63102017 63112018 6402019 6422020 6442021 6462022 6482023 6410.
@@ -1397,7 +1403,7 @@ neuen Rechts
 
 ## Erster Unterabschnitt Grundsatz
 
-##### § 94 Grundsatz
+###### § 94 Grundsatz
 
 (1) Die Vorschriften dieses Gesetzes sind von dem Zeitpunkt ihres Inkrafttretens an auf einen Sachverhalt oder Anspruch auch dann anzuwenden, wenn bereits vor diesem Zeitpunkt der Sachverhalt oder Anspruch bestanden hat. Ist nach dem maßgebenden Zeitpunkt
 
@@ -1434,20 +1440,20 @@ ist mindestens die Steigerungszahl zugrunde zu legen, die sich bei Anwendung der
 ## Zweiter Unterabschnitt Leistungen zur
 Teilhabe
 
-##### § 95 Leistungen zur Teilhabe
+###### § 95 Leistungen zur Teilhabe
 
 Für Leistungen zur Teilhabe sind bis zum Ende der Leistungen die Vorschriften weiter anzuwenden, die im Zeitpunkt der Antragstellung oder, wenn den Leistungen ein Antrag nicht vorausging, der Inanspruchnahme galten.
 
 ## Dritter Unterabschnitt Anspruchsvoraussetzungen
 für einzelne Renten
 
-##### § 95a Renten wegen Erwerbsunfähigkeit und wegen Todes
+###### § 95a Renten wegen Erwerbsunfähigkeit und wegen Todes
 
 (1) Bestand am 31. Dezember 2000 Anspruch auf eine Rente wegen Erwerbsunfähigkeit, besteht der Anspruch weiter, solange Erwerbsunfähigkeit nach dem am 31. Dezember 2000 geltenden Recht vorliegt; die Rente gilt ab 1. Januar 2001 als Rente wegen voller Erwerbsminderung. Zeiten des Bezugs einer Rente wegen Erwerbsunfähigkeit vor dem 1. Januar 2001 gelten als Zeiten des Bezugs einer Rente wegen voller Erwerbsminderung. Für diese Rente ist § 27a nicht anzuwenden.
 
 (2) Verstirbt der Leistungsberechtigte nach Absatz 1 und entsteht innerhalb vom 24 Kalendermonaten nach dem Tod des Versicherten ein Anspruch auf Rente wegen Todes, ist ein Abschlag vom allgemeinen Rentenwert nicht vorzunehmen.
 
-##### § 96 Anspruchsvoraussetzungen für Witwen- oder Witwerrenten
+###### § 96 Anspruchsvoraussetzungen für Witwen- oder Witwerrenten
 
 (1) Anspruch auf eine Witwen- oder Witwerrente besteht abweichend von § 14 Abs. 1 Satz 1 Nr. 2 auch, wenn
 
@@ -1463,14 +1469,14 @@ Im Saarland tritt an die Stelle des 1. Oktober 1957 der 1. April 1963.
 
 (4) § 14 Abs. 1 Satz 2 findet keine Anwendung, wenn die Ehe vor dem 1. Januar 2002 geschlossen wurde.
 
-(5) Ist der Versicherte vor 2029 verstorben, besteht Anspruch auf Witwenrente oder Witwerrente abweichend von § 14 Abs. 1 Satz 1 Nr. 4 Buchstabe b ab Vollendung des nachstehenden Lebensalters in Jahren und Monaten:
+(5) Ist der Versicherte vor 2029 verstorben, besteht Anspruch auf Witwenrente oder Witwerrente abweichend von § 14 Abs. 1 Satz 1 Nr. 4 Buchstabe b ab Vollendung des nachstehenden Lebensalters in Jahren und Monaten: 
 
 Todesjahr
 des Versichertenmaßgebendes LebensalterJahreMonatevor 201245020124512013452201445320154542016455201745620184572019458202045920214510202245112023460202446220254642026466202746820284610.
 
 ## Vierter Unterabschnitt Rentenhöhe
 
-##### § 97 Zuschlag bei Zugangsrenten
+###### § 97 Zuschlag bei Zugangsrenten
 
 (1) Beginnt die Rente erstmals in der Zeit vom 1. Juli 1995 bis 30. Juni 2009 und sind bereits vor dem 1. Juli 1995 für mindestens fünf Jahre anrechenbare Beitragszeiten als Landwirt zurückgelegt worden, wird zu einer nach § 23 berechneten gleichartigen Rente ein Zuschlag gezahlt. Der Zuschlag gilt als Rente. Der Zuschlag ergibt sich, indem eine Rente nach dem am 31. Dezember 1994 geltenden Recht unter Berücksichtigung des Absatzes 2 und nachfolgender Rentenanpassungen berechnet und der Unterschiedsbetrag zu einer nach § 23 berechneten gleichartigen Rente mit dem Abschmelzungsfaktor nach Absatz 3 vervielfältigt wird; die Vorschriften über das Zusammentreffen von Renten mit Einkommen finden bei der jeweiligen Rentenberechnung keine Anwendung. Eine Rente nach dem am 31. Dezember 1994 geltenden Recht wird nicht ermittelt, wenn
 
@@ -1508,7 +1514,7 @@ Vollendet der Bezieher einer vorzeitigen Altersrente nach § 12 Abs. 1 vor dem 1
 
 (13) Für den Versorgungsausgleich gilt für die Summe der Steigerungszahlen nach § 23 und nach Absatz 11 die zeitratierliche Bewertung nach § 40 des Versorgungsausgleichsgesetzes, soweit die Rente nicht ausschließlich nach § 23 zu berechnen ist. Abweichend von § 40 Abs. 5 des Versorgungsausgleichsgesetzes wird der Bewertung des in den Versorgungsausgleich einzubeziehenden Anrechts das unter Berücksichtigung einer familienstandsbedingten Erhöhung bemessene Anrecht zugrunde gelegt, wenn der Ehegatte kein Anrecht auf eine Rente aus eigener Versicherung hat.
 
-##### § 98 Höhe von Bestandsrenten
+###### § 98 Höhe von Bestandsrenten
 
 (1) Bestand am 31. Dezember 1994 Anspruch auf eine Rente, wird diese aus Anlaß der Rechtsänderung nicht neu bestimmt, soweit nicht nachfolgend etwas anderes bestimmt ist.
 
@@ -1550,13 +1556,13 @@ gilt hierfür § 97 Abs. 1, 6 und 8 mit der Maßgabe, daß der Abschmelzungsfakt
 
 (10) Eine vor dem 1. Januar 1995 geleistete Rente an Berechtigte im Ausland, bei deren Berechnung der allgemeine Rentenwert mit 0,7 vervielfältigt wurde, wird ab 1. Oktober 2013 neu festgestellt. Bei der Neufeststellung ist § 42 in der am 1. Oktober 2013 geltenden Fassung anzuwenden.
 
-##### § 99 Ermittlung der nach dem am 31. Dezember 1994 geltenden Recht festzustellenden Renten
+###### § 99 Ermittlung der nach dem am 31. Dezember 1994 geltenden Recht festzustellenden Renten
 
 (1) Eine nach dem am 31. Dezember 1994 geltenden Recht vor Anwendung von Ruhens-, Kürzungs- oder Anrechnungsvorschriften festzustellende Rente wird ermittelt, indem der für die bis zum Rentenbeginn zurückgelegte Anzahl an vollen Beitragsjahren maßgebende Umrechnungsfaktor (Anlage 2) mit dem allgemeinen Rentenwert vervielfältigt wird; der sich ergebende Betrag ist auf fünf Cent aufzurunden. Sind sowohl Kalendermonate mit Beiträgen als Landwirt als auch Kalendermonate mit Beiträgen als mitarbeitender Familienangehöriger zurückgelegt und ist die Wartezeit für eine Rente an Landwirte oder deren Hinterbliebene nur unter Berücksichtigung der Kalendermonate mit Beiträgen als mitarbeitender Familienangehöriger erfüllt, ist für die Ermittlung der Rente der für mitarbeitende Familienangehörige geltende Umrechnungsfaktor mit der Maßgabe anzuwenden, daß die Kalendermonate mit Beiträgen als Landwirt als Kalendermonate mit Beiträgen als mitarbeitender Familienangehöriger gelten. Ist die Wartezeit für eine Rente an Landwirte oder deren Hinterbliebene auch ohne Berücksichtigung der Kalendermonate mit Beiträgen als mitarbeitender Familienangehöriger erfüllt, ist für die Ermittlung der Rente der für Landwirte geltende Umrechnungsfaktor mit der Maßgabe anzuwenden, daß je zwei Kalendermonate mit Beiträgen als mitarbeitender Familienangehöriger als je ein Kalendermonat mit Beiträgen als Landwirt gelten; ein sich ergebender Rest von mindestens sechs Kalendermonaten wird berücksichtigt, indem der anzuwendende Umrechnungsfaktor bei Verheirateten um 0,513948 und bei Unverheirateten um 0,342835 erhöht wird. Wenn eine Rente an mitarbeitende Familienangehörige festzustellen ist, sind auch die Kalendermonate mit Beiträgen als Landwirt zu berücksichtigen und die Rente entsprechend Satz 2 zu ermitteln. Bis zum Ende des dritten Kalendermonats nach Ablauf des Monats, in dem der Ehegatte verstorben ist, wird der Umrechnungsfaktor für Verheiratete (Anlage 2) zugrunde gelegt. Bei der Anwendung der Sätze 1 bis 5 sind § 93 und § 98 Abs. 3a mit Ausnahme von Satz 1 Nr. 3 entsprechend anzuwenden. Ist bei der nach § 23 berechneten Rente nach § 23 Abs. 8 ein Abschlag vom allgemeinen Rentenwert vorzunehmen, ist dieser auch für die Berechnung der Rente nach dem am 31. Dezember 1994 geltenden Recht maßgeblich.
 
 (2) Bestand am 31. Juli 2003 Anspruch auf eine Witwen- oder Witwerrente und lagen die Voraussetzungen des § 98 Abs. 3a Satz 1 Nr. 3 nicht vor, ist diese Rente auf Antrag ab dem 1. August 2003 neu zu bestimmen.
 
-##### § 99a Zuschlag zur Steigerungszahl bei Renten wegen Erwerbsminderung und bei Renten wegen Todes
+###### § 99a Zuschlag zur Steigerungszahl bei Renten wegen Erwerbsminderung und bei Renten wegen Todes
 
 (1) Ein Zuschlag zur Steigerungszahl als Steigerungszahlzuschlag wird ab dem 1. Juli 2024 berücksichtigt, wenn am 30. Juni 2024 ein Anspruch bestand auf
 
@@ -1584,25 +1590,25 @@ gilt hierfür § 97 Abs. 1, 6 und 8 mit der Maßgabe, daß der Abschmelzungsfakt
 
 Dies gilt nicht, soweit der Steigerungszahlzuschlag auf Zeiten beruht, die nach § 92 Absatz 6 bei der weiteren Rente nach Satz 1 Nummer 1 oder 2 nicht zu berücksichtigen sind.
 
-##### § 100 Begrenzung der Steigerungszahl
+###### § 100 Begrenzung der Steigerungszahl
 
 (1) Die Steigerungszahl wird, soweit sie auf Zeiten nach § 92 Abs. 1 und sich hieran anschließende Zurechnungszeiten vor dem 1. Januar 1995 beruht, auf den halben Wert des Umrechnungsfaktors (Anlage 2) begrenzt (Grenzsteigerungszahl), der für unverheiratete Landwirte und die Anzahl an vollen Beitragsjahren maßgebend ist, die der Ehegatte des Berechtigten, dessen Beitragsjahre dem Berechtigten nach § 92 Abs. 1 anzurechnen sind, bis zum erstmaligen Rentenbeginn des Berechtigten, längstens bis zum Zeitpunkt der Auflösung oder Nichtigkeitserklärung der Ehe zurückgelegt hat. Hat der Ehegatte des Berechtigten bis zu dem in Satz 1 genannten Zeitpunkt weniger als 15 Beitragsjahre zurückgelegt und vor Rentenbeginn des Berechtigten nicht einen Anspruch auf Rente wegen Erwerbsminderung, wird die Grenzsteigerungszahl ermittelt, indem der halbe Wert des für unverheiratete Landwirte bis 15 Beitragsjahre maßgebenden Umrechnungsfaktors mit dem Verhältnis vervielfältigt wird, in dem die vom Ehegatten des Berechtigten bis zum erstmaligen Rentenbeginn des Berechtigten, längstens bis zum Zeitpunkt der Auflösung oder Nichtigkeitserklärung der Ehe zurückgelegte Anzahl an vollen Beitragsjahren zu 15 Beitragsjahren stehen. Hat der Berechtigte eine Rente wegen Erwerbsminderung bezogen und beginnt nicht unmittelbar nach Ende des Bezugs dieser Rente erneut eine Rente, ist bei Anwendung der Sätze 1 und 2 auf den letztmaligen Rentenbeginn des Berechtigten abzustellen.
 
 (2) Die Steigerungszahl wird, soweit sie auf Zeiten nach § 92 Abs. 3 und sich hieran anschließende Zurechnungszeiten vor dem 1. Januar 1995 beruht, entsprechend Absatz 1 mit der Maßgabe begrenzt, daß als Beitragsjahre des Ehegatten des Berechtigten auch Zeiten nach dem 30. September 1957 gelten, in denen Beiträge nach den Vorschriften der gesetzlichen Rentenversicherung im Beitrittsgebiet gezahlt sind.
 
-##### § 101 Auswirkungen eines Versorgungsausgleichs
+###### § 101 Auswirkungen eines Versorgungsausgleichs
 
 Ist ein Versorgungsausgleich durchgeführt worden und wurde bei der Berechnung des in den Versorgungsausgleich einzubeziehenden Anrechts aus der Alterssicherung der Landwirte eine familienstandsbedingte Erhöhung berücksichtigt, so ist bei dem Leistungsberechtigten, der keinen Anspruch auf eine unter Berücksichtigung dieser Erhöhung berechnete Rente hat, der Abschlag von der Steigerungszahl (§ 24 Abs. 2) um den Wert zu mindern, der dem auf die Ehezeit entfallenden Teil der Minderung der Steigerungszahl als Folge der Anwendung des § 97 Abs. 3 Satz 3 oder des § 98 Abs. 3 entspricht.
 
-##### § 102 (weggefallen)
+###### § 102 (weggefallen)
 
-##### § 102a (weggefallen)
+###### § 102a (weggefallen)
 
-##### § 102b Abschlagsfreiheit vorzeitig in Anspruch genommener Altersrenten
+###### § 102b Abschlagsfreiheit vorzeitig in Anspruch genommener Altersrenten
 
 Bei der Anwendung des § 23 Absatz 8 Satz 2 Nummer 2 gilt § 244 Absatz 3 Satz 1 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
-##### § 103 Höhe der Rente wegen Erwerbsminderung
+###### § 103 Höhe der Rente wegen Erwerbsminderung
 
 In der Zeit bis zum 31. Dezember 2000 gelten für eine Rente wegen Erwerbsminderung die nach den Vorschriften der gesetzlichen Rentenversicherung im Beitrittsgebiet zurückgelegten Pflichtbeitragszeiten bis zum Beginn einer Altersrente oder Rente wegen verminderter Erwerbsfähigkeit nach dem Sechsten Buch Sozialgesetzbuch als Beitragszeiten nach § 23 Abs. 2 Satz 1 Nr. 1, wenn
 
@@ -1616,26 +1622,26 @@ In der Zeit bis zum 31. Dezember 2000 gelten für eine Rente wegen Erwerbsminder
 
 Die in Satz 1 genannten Beitragszeiten bleiben bei der Altersrente unberücksichtigt.
 
-##### § 104 Höhe der Rente für frühere Ehegatten
+###### § 104 Höhe der Rente für frühere Ehegatten
 
 Eine Witwen- oder Witwerrente an frühere Ehegatten des Versicherten, deren Ehe mit dem verstorbenen Landwirt vor dem 1. Juli 1977 geschieden, aufgelöst oder für nichtig erklärt ist, wird wie eine Witwen- oder Witwerrente an den Ehegatten des Versicherten ermittelt. Es wird der Teil des ermittelten Betrages gezahlt, der dem Verhältnis der Dauer seiner Ehe mit dem Versicherten zu der Dauer der Ehen des Versicherten mit allen Berechtigten entspricht, höchstens jedoch der Anteil, der dem Verhältnis der in die Zeit der Ehe fallenden Zahl der Beiträge zu der Zahl der Monate, für die der verstorbene Landwirt insgesamt Beiträge gezahlt hat, entspricht. § 27 Abs. 2 gilt mit der Maßgabe, daß der Betrag der Witwen- oder Witwerrente höchstens um den an den früheren Ehegatten zu zahlenden Betrag gekürzt wird.
 
-##### § 104a Rentenartfaktor
+###### § 104a Rentenartfaktor
 
 Der Rentenartfaktor beträgt bei Witwenrenten und Witwerrenten nach Ablauf des dritten Kalendermonats nach Ablauf des Sterbemonats 0,6, wenn der Ehegatte vor dem 1. Januar 2002 verstorben ist oder die Ehe vor diesem Tag geschlossen wurde und mindestens ein Ehegatte vor dem 2. Januar 1962 geboren ist. Eine Rente an frühere Ehegatten wird mit einem Rentenartfaktor 0,6 ermittelt.
 
-##### § 104b Zuschlag bei Witwenrenten und Witwerrenten
+###### § 104b Zuschlag bei Witwenrenten und Witwerrenten
 
 Für Witwenrenten und Witwerrenten mit einem Rentenartfaktor vor mindestens 0,6 wird ein Zuschlag nach § 23 Abs. 5 Satz 3 nicht ermittelt; dies gilt auch für eine Rente an frühere Ehegatten.
 
-##### § 105 (weggefallen)
+###### § 105 (weggefallen)
 
-##### § 105a (weggefallen)
+###### § 105a (weggefallen)
 
 ## Fünfter Unterabschnitt Zusammentreffen von
 Renten mit Einkommen
 
-##### § 106 Zusammentreffen von Renten mit Einkommen
+###### § 106 Zusammentreffen von Renten mit Einkommen
 
 (1) Beginnt in der Zeit vom 1. Januar 1995 bis zum 31. Dezember 1996 eine Rente wegen Todes und trifft die Rente in dieser Zeit mit Einkommen zusammen, ist die Rente nach Maßgabe der Absätze 2 und 3 zu zahlen, wenn der Berechtigte dies erklärt. Die Erklärung ist bis zum Ende des fünften Kalendermonats abzugeben, der dem Monat folgt, in dem die Rente erstmals mit Einkommen zusammentrifft. Die Erklärung ist für die Zeit des Bezugs der Rente bindend. Wird eine Erklärung nicht fristgerecht abgegeben, sind für die Zeit des Bezugs der Rente die Vorschriften des Zweiten Kapitels über das Zusammentreffen von Renten mit Einkommen anzuwenden. Absatz 2 ist ohne Erklärung anzuwenden, wenn von Rentenbeginn an die Voraussetzungen nach Absatz 2 Satz 2 Nr. 1 oder Nr. 2 Buchstabe a erfüllt sind.
 
@@ -1697,7 +1703,7 @@ Für die Dauer des auf den Sterbemonat des Landwirts folgenden Jahres gelten Sat
 
 (9) (weggefallen)
 
-##### § 106a Einkommensanrechnung auf Renten wegen Todes
+###### § 106a Einkommensanrechnung auf Renten wegen Todes
 
 (1) Ist die Witwenrente oder Witwerrente ab dem vierten Kalendermonat nach Ablauf des Sterbemonats mit einem Rentenartfaktor von mindestens 0,6 zu ermitteln, findet beim Zusammentreffen von Witwenrenten und Witwerrenten mit Einkommen § 114 des Vierten Buches Sozialgesetzbuch Anwendung. Bei der Bestimmung des anrechenbaren Einkommens für die in Satz 1 genannten Renten ist das Einkommen anrechenbar, das monatlich das 26,4fache des aktuellen Rentenwerts der gesetzlichen Rentenversicherung übersteigt; 83 Abs. 2 findet Anwendung. Die Sätze 1 und 2 gelten auch für eine Rente an frühere Ehegatten.
 
@@ -1705,25 +1711,25 @@ Für die Dauer des auf den Sterbemonat des Landwirts folgenden Jahres gelten Sat
 
 ## Sechster Unterabschnitt Beitragszuschüsse
 
-##### § 107 Beitragszuschüsse
+###### § 107 Beitragszuschüsse
 
 Personen, die am 31. Dezember 1994 unabhängig von einer Tätigkeit als Landwirt oder mitarbeitender Familienangehöriger beitragspflichtig waren und weiterhin versicherungspflichtig sind, erhalten einen Zuschuß zu ihrem Beitrag mit der Maßgabe, daß für Zeiten nach Vollendung des 60. Lebensjahres ein Zuschuß zum Beitrag nur gezahlt wird, solange noch nicht die Wartezeit von 15 Jahren erfüllt ist.
 
-##### § 107a Ausfertigung von Einkommensteuerbescheiden
+###### § 107a Ausfertigung von Einkommensteuerbescheiden
 
 § 32 Absatz 4 und § 34 Absatz 5 in der bis 31. Dezember 2012 geltenden Fassung sind weiterhin anzuwenden, wenn der Einkommensteuerbescheid vor dem 1. Januar 2013 ausgefertigt worden ist.
 
-##### § 107b Neuregelung des Zuschusses zum Beitrag zum 1. April 2021
+###### § 107b Neuregelung des Zuschusses zum Beitrag zum 1. April 2021
 
 § 32 Absatz 1 und § 33 Absatz 1 in der bis zum 31. März 2021 geltenden Fassung sind weiterhin anzuwenden, soweit der Anspruch auf Zuschuss zum Beitrag für Zeiträume vor dem 1. April 2021 festzustellen ist.
 
-##### § 107c Neuregelung der Ermittlung von Arbeitseinkommen aus Land- und Forstwirtschaft zum 1. Januar 2025
+###### § 107c Neuregelung der Ermittlung von Arbeitseinkommen aus Land- und Forstwirtschaft zum 1. Januar 2025
 
 § 32 Absatz 4 Satz 3, Absatz 5 und 6 in der bis zum 31. Dezember 2024 geltenden Fassung ist weiterhin anzuwenden, soweit der Anspruch auf Zuschuss zum Beitrag für Zeiträume vor dem 1. Januar 2025 festzustellen ist.
 
 ## Siebter Unterabschnitt Rentenauskunft
 
-##### § 108 Anspruch auf Rentenauskunft
+###### § 108 Anspruch auf Rentenauskunft
 
 Ein Anspruch auf Rentenauskunft besteht erst ab 1. Januar 1997.
 
@@ -1731,38 +1737,38 @@ Ein Anspruch auf Rentenauskunft besteht erst ab 1. Januar 1997.
 Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung
 des Unternehmens der Landwirtschaft
 
-##### § 109 Betriebs- und Haushaltshilfe sowie sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft
+###### § 109 Betriebs- und Haushaltshilfe sowie sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft
 
 Für die Erbringung von Betriebs- oder Haushaltshilfe zur Aufrechterhaltung des Unternehmens der Landwirtschaft sind bis zum Ende der Leistungen die Vorschriften weiter anzuwenden, die im Zeitpunkt der Antragstellung oder, wenn den Leistungen ein Antrag nicht vorausging, der Inanspruchnahme galten.
 
 ## Neunter Unterabschnitt (weggefallen)
 
-##### § 110 (weggefallen)
+###### § 110 (weggefallen)
 
 -
 
 ## Zehnter Unterabschnitt Organisation und
 Datenschutz
 
-##### § 111 (weggefallen)
+###### § 111 (weggefallen)
 
-##### § 112 Versicherungskonto
+###### § 112 Versicherungskonto
 
 Die landwirtschaftliche Alterskasse ist verpflichtet, Versicherungskonten zu führen.
 
 ## Elfter Unterabschnitt Finanzierung
 
-##### § 113 (weggefallen)
+###### § 113 (weggefallen)
 
-##### § 114 (weggefallen)
+###### § 114 (weggefallen)
 
-##### § 115 Beitragstragung
+###### § 115 Beitragstragung
 
 Personen, die unabhängig von einer Tätigkeit als Landwirt oder mitarbeitender Familienangehöriger beitragspflichtig sind, tragen ihre Beiträge selbst.
 
-##### § 116 (weggefallen)
+###### § 116 (weggefallen)
 
-##### § 117 Beitragserstattung
+###### § 117 Beitragserstattung
 
 (1) Personen, die am 31. Dezember 1994
 
@@ -1776,21 +1782,21 @@ werden innerhalb einer Frist von zwei Jahren nach dem Ende der Beitragspflicht a
 
 (2) Beiträge für Zeiten vor dem 1. Januar 1995 werden nicht erstattet, soweit am 31. Dezember 1994 keine Beiträge zur Altershilfe für Landwirte gezahlt wurden und nach dem am 31. Dezember 1994 geltenden Recht eine Erstattung von Beiträgen ausgeschlossen war.
 
-##### § 117a (weggefallen)
+###### § 117a (weggefallen)
 
-##### § 118 Aufrechnung mit Beitragsentlastungen
+###### § 118 Aufrechnung mit Beitragsentlastungen
 
 Entlastungen nach dem Sozialversicherungs-Beitragsentlastungsgesetz, die für Beiträge für den landwirtschaftlichen Unternehmer gezahlt wurden, werden vor Ermittlung des Erstattungsbetrages für eine Beitragserstattung nach den Vorschriften der §§ 75 bis 77 und 117 gegen die für den gleichen Zeitraum gezahlten Beiträge aufgerechnet. Verwaltungsakte über die Erbringung von Entlastungen nach dem Sozialversicherungs-Beitragsentlastungsgesetz sind insoweit mit Wirkung für die Vergangenheit zurückzunehmen.
 
-##### § 119 (weggefallen)
+###### § 119 (weggefallen)
 
-##### § 119a (weggefallen)
+###### § 119a (weggefallen)
 
-##### § 120 (weggefallen)
+###### § 120 (weggefallen)
 
 ## Dritter Abschnitt Landabgaberente
 
-##### § 121 Anspruchsvoraussetzungen
+###### § 121 Anspruchsvoraussetzungen
 
 (1) Verstirbt der Empfänger einer Landabgaberente nach dem 31. Dezember 1994, erhält die Witwe oder der Witwer Landabgaberente, wenn sie nicht wieder geheiratet haben und nicht Landwirt sind. Dies gilt auch nach einer Wiederheirat, wenn diese Ehe aufgelöst oder für nichtig erklärt wird. § 16 gilt entsprechend.
 
@@ -1800,7 +1806,7 @@ Entlastungen nach dem Sozialversicherungs-Beitragsentlastungsgesetz, die für Be
 
 (4) (weggefallen)
 
-##### § 122 Leistungshöhe und Anpassung
+###### § 122 Leistungshöhe und Anpassung
 
 (1) Eine am 31. Dezember 2001 geleistete Landabgaberente wird in Euro umgerechnet, indem die bisherige Steigerungszahl mit dem neuen allgemeinen Rentenwert vervielfältigt und dieser Betrag bei Verheirateten um 89,50 Euro und bei Unverheirateten um 58,80 Euro erhöht wird.
 
@@ -1808,15 +1814,15 @@ Entlastungen nach dem Sozialversicherungs-Beitragsentlastungsgesetz, die für Be
 
 (3) Verstirbt der Empfänger einer Landabgaberente nach dem 31. Dezember 1994, wird die Leistung dem überlebenden Ehegatten bis zum Ende des dritten Kalendermonats nach Ablauf des Monats, in dem der Ehegatte verstorben ist, in Höhe der Landabgaberente eines Verheirateten geleistet. Im übrigen wird der Betrag der Landabgaberente entsprechend Absatz 2 Satz 1 ermittelt.
 
-##### § 123 Leistungen an Berechtigte im Ausland
+###### § 123 Leistungen an Berechtigte im Ausland
 
 Bei Leistungen ins Ausland gilt § 41 entsprechend.
 
-##### § 124 Zusammentreffen von Renten mit Einkommen
+###### § 124 Zusammentreffen von Renten mit Einkommen
 
 Eine Rente, die mit einer Landabgaberente zusammentrifft, wird hierauf angerechnet. Eine Rente aus der gesetzlichen Rentenversicherung oder der gesetzlichen Unfallversicherung oder Versorgungsbezüge nach beamtenrechtlichen Vorschriften oder Grundsätzen, die mit einer Landabgaberente zusammentreffen, werden hierauf angerechnet, höchstens jedoch bis zu einem Drittel des Unterschiedsbetrags zwischen der Landabgaberente nach § 122 und einem Betrag, der dem Leistungsempfänger als Altersrente zusteht oder bei Bezug einer Landabgaberente vor Vollendung des 65. Lebensjahres zustehen würde.
 
-##### § 125 Beginn, Änderung, Ruhen und Ende von Landabgaberenten
+###### § 125 Beginn, Änderung, Ruhen und Ende von Landabgaberenten
 
 (1) Für Beginn, Änderung, Ruhen und Ende einer Landabgaberente gelten § 99 Abs. 2, § 100 Abs. 1 und 3 sowie § 102 Abs. 5 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
@@ -1826,39 +1832,45 @@ Eine Rente, die mit einer Landabgaberente zusammentrifft, wird hierauf angerechn
 
 (4) Entsteht nach dem 31. Dezember 1994 für den Empfänger einer Landabgaberente Anspruch auf Altersrente oder Rente wegen Erwerbsminderung, wird diese von Amts wegen festgestellt; § 98 Abs. 4 ist entsprechend anzuwenden.
 
-##### § 126 Durchführende Stelle
+###### § 126 Durchführende Stelle
 
 Für die Durchführung der Bestimmungen über die Landabgaberente ist die landwirtschaftliche Alterskasse zuständig.
 
-##### § 127 Kostentragung
+###### § 127 Kostentragung
 
 Die Aufwendungen für die Landabgaberente einschließlich der Verwaltungskosten trägt der Bund.
 
 ## Vierter Abschnitt Zuschuß zur Nachzahlung
 von Beiträgen für Landwirte zur gesetzlichen Rentenversicherung
 
-##### § 128 Versicherungsfreiheit
+###### § 128 Versicherungsfreiheit
 
 Personen, die einen Zuschuß zur Nachzahlung von Beiträgen für Landwirte zur gesetzlichen Rentenversicherung erhalten haben und nach dem vor dem 1. Januar 1995 jeweils geltenden Recht aus der Altershilfe für Landwirte ausgeschieden sind, bleiben als Landwirt versicherungsfrei.
 
-##### § 129 Kürzung der Renten
+###### § 129 Kürzung der Renten
 
 (1) Bezieht der Empfänger einer Altersrente, Rente wegen Erwerbsminderung oder eine Rente wegen Todes, der einen Zuschuß zur Nachzahlung von Beiträgen für Landwirte zur gesetzlichen Rentenversicherung erhalten hat und deshalb nach dem vor dem 1. Januar 1995 jeweils geltenden Recht aus der Altershilfe für Landwirte ausgeschieden ist, gleichzeitig eine Rente aus der gesetzlichen Rentenversicherung, wird die Rente um den Teil der Rente aus der gesetzlichen Rentenversicherung gekürzt, der dem Verhältnis entspricht, in dem die Entgeltpunkte für Beitragszeiten, auf die der Zuschuß entfällt, zur Summe aller Entgeltpunkte steht. Berechnet sich die Rente nach Werteinheiten, bemißt sich die Kürzung nach dem Verhältnis der Werteinheiten für Beitragszeiten, auf die der Zuschuß entfällt, zur Summe der Werteinheiten, die der Ermittlung der für den Versicherten maßgebenden Rentenbemessungsgrundlage zugrunde gelegt worden ist. Das gleiche gilt, wenn eine Altersrente, Rente wegen Erwerbsminderung oder Rente wegen Todes mit einer Rente wegen Todes aus der gesetzlichen Rentenversicherung zusammentrifft und der Verstorbene einen Zuschuß erhalten hatte.
 
 (2) Die Höhe des Kürzungsbetrages sowie seine Veränderungen sind der landwirtschaftlichen Alterskasse von dem Rentenversicherungsträger mitzuteilen, der die Rente festgestellt hat.
 
-##### § 130 (weggefallen)
+###### § 130 (weggefallen)
 
-##### Anlage 1
+###### Anlage 1
 
 (weggefallen)
 
-##### Anlage 2
+###### Anlage 2
 
 Fundstelle: BGBl. I 1994, 1924 - 1925,
-bzgl. der einzelnen Änderungen vgl. Fußnote.
+bzgl. der einzelnen Änderungen vgl. Fußnote. 
 
-A.
+	
+		
+		
+		
+		
+			
+				A.
 				Umrechnungsfaktoren für Landwirte
 			
 			
@@ -2582,11 +2594,10 @@ A.
 				 
 				5,713923
 
-##### Anlage 3
+###### Anlage 3
 
 (Fundstelle: BGBl. I 2017, 2511)
 
 Rentenbeginn/Monat
 nach TodesmonatWerte nach § 93a
  (in Prozent)JahrMonatvor 2001 0,002001Januar 2,78Februar 5,56März 8,33April11,11Mai13,89Juni16,67Juli19,44August22,22September25,00Oktober27,78November30,56Dezember33,332002Januar36,11Februar38,89März41,67April44,44Mai47,22Juni50,00Juli52,78August55,56September58,33Oktober61,11November63,89Dezember66,672003Januar69,44Februar72,22März75,00April77,78Mai80,56Juni83,33Juli86,11August88,89September91,67Oktober94,44November97,22Dezember100,00
-
