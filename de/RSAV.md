@@ -4,24 +4,28 @@ identifier: "RSAV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "1994-01-03"
-last_updated: "2026-04-04"
+last_updated: "2026-08-13"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/rsav/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR005500994"
 slug: "rsav"
 bgbl_reference: "BGBl I 1994, 55"
-stand: "Zuletzt geändert durch Art. 12 G v. 22.12.2025 I Nr. 371"
+stand: "Zuletzt geändert durch Art. 6 G v. 24.7.2026 I Nr. 228"
 ---
 # Verordnung über das Verfahren zum Risikostrukturausgleich in der gesetzlichen Krankenversicherung
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 266 Abs. 7 des Fünften Buches Sozialgesetzbuch, der durch Artikel 1 Nr. 143 des Gesetzes vom 21. Dezember 1992 (BGBl. I S. 2266) neu gefaßt worden ist, verordnet das Bundesministerium für Gesundheit:
 
 ## Abschnitt 1 Gemeinsame Vorschriften
 
-##### § 1 Begriffsbestimmungen
+###### § 1 Begriffsbestimmungen
 
 (1) Versicherte im Sinne dieser Verordnung sind alle versicherungspflichtigen und versicherungsberechtigten Mitglieder und Familienversicherten.
 
@@ -33,7 +37,7 @@ Auf Grund des § 266 Abs. 7 des Fünften Buches Sozialgesetzbuch, der durch Arti
 
 (5) (weggefallen)
 
-##### § 2 Risikogruppen
+###### § 2 Risikogruppen
 
 (1) Die Zuordnung der Versicherten zu den Risikogruppen nach § 266 Absatz 2 des Fünften Buches Sozialgesetzbuch und § 269 Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch erfolgt mittels eines vom Bundesamt für Soziale Sicherung festgelegten Versichertenklassifikationsmodells, das auf Klassifikationsmodellen aufbaut, deren Einsatzfähigkeit in der gesetzlichen Krankenversicherung wissenschaftlich untersucht und bestätigt worden ist. Der Zuordnung der Versicherten zu Risikogruppen sind folgende Risikomerkmale zu Grunde zu legen:
 
@@ -61,13 +65,13 @@ Auf Grund des § 266 Abs. 7 des Fünften Buches Sozialgesetzbuch, der durch Arti
 
 3. Mitglieder, deren Leistungsansprüche nach § 256a Absatz 4 des Fünften Buches Sozialgesetzbuch ruhen.
 
-##### § 3 Versicherungszeiten
+###### § 3 Versicherungszeiten
 
 (1) Beginn und Ende einer Versicherungszeit (Anzahl der Versichertentage) im Sinne dieser Verordnung richten sich nach den Vorschriften des Fünften Buches Sozialgesetzbuch, soweit in dieser Verordnung keine weitergehenden Anforderungen bestimmt sind.
 
 (2) Bei Versicherten nach § 10 des Fünften Buches Sozialgesetzbuch beginnt die Versicherungszeit mit dem Tag, an dem die Familienversicherung beginnt; der Zeitpunkt ist durch eine zeitnahe Meldung nach § 10 Absatz 6 des Fünften Buches Sozialgesetzbuch oder nach § 289 Satz 2 und 3 des Fünften Buches Sozialgesetzbuch zu belegen. Satz 1 gilt unbeschadet eines Leistungsanspruchs nach § 19 Absatz 2 des Fünften Buches Sozialgesetzbuch. Die Versicherungszeit nach Satz 1 endet mit dem Wegfall der Voraussetzungen oder mit dem Ausscheiden des Mitglieds aus der Mitgliedschaft.
 
-##### § 4 Berücksichtigungsfähige Leistungsausgaben
+###### § 4 Berücksichtigungsfähige Leistungsausgaben
 
 (1) Bei der Ermittlung der standardisierten Leistungsausgaben nach § 266 Absatz 3 des Fünften Buches Sozialgesetzbuch sind insbesondere Aufwendungen zu berücksichtigen für
 
@@ -115,11 +119,11 @@ Die Aufwendungen für die Leistungen der Knappschaftsärzte und -zahnärzte werd
 
 (4) Für die Durchführung des Risikostrukturausgleichs sind die Leistungsausgaben nach Absatz 1 abzüglich der Beträge nach Absatz 3 dem Ausgleichsjahr zuzuordnen, auf das sie nach § 37 der Allgemeinen Verwaltungsvorschrift über das Rechnungswesen in der Sozialversicherung vom 15. Juli 1999 (BAnz. Nr. 145a vom 6. August 1999) in der im Erhebungszeitraum geltenden Fassung und nach Maßgabe der Bestimmungen des Kontenrahmens für die Träger der gesetzlichen Krankenversicherung entfallen.
 
-##### § 5 Bekanntmachungen
+###### § 5 Bekanntmachungen
 
 Die in dieser Verordnung vorgesehenen Bekanntmachungen erfolgen durch Mitteilung des Bundesamts für Soziale Sicherung an den Spitzenverband Bund der Krankenkassen. Der Spitzenverband Bund der Krankenkassen stellt sicher, dass die Krankenkassen unverzüglich Kenntnis von der Bekanntmachung erhalten. Das Bundesamt für Soziale Sicherung stellt die Bekanntmachung in geeigneter elektronischer Form öffentlich zugänglich zur Verfügung.
 
-##### § 6 Zahlungsverkehr und Verrechnung
+###### § 6 Zahlungsverkehr und Verrechnung
 
 (1) Hat das Bundesamt für Soziale Sicherung aufgrund einer Vorschrift dieser Verordnung einen durch eine Krankenkasse zu leistenden Betrag festgesetzt, verrechnet es diesen mit den nach § 16 Absatz 5 an die Krankenkasse auszuzahlenden Zuweisungen in der Höhe, in der sich die Forderungen decken. Das Bundesamt für Soziale Sicherung bestimmt den Zeitpunkt der Verrechnung und teilt diesen der Krankenkasse mit einer Frist von mindestens 14 Kalendertagen mit.
 
@@ -127,7 +131,7 @@ Die in dieser Verordnung vorgesehenen Bekanntmachungen erfolgen durch Mitteilung
 
 ## Abschnitt 2 Datenmeldungen, Versichertenklassifikationsmodell und Gutachten
 
-##### § 7 Verarbeitung von Daten für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs
+###### § 7 Verarbeitung von Daten für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs
 
 (1) Unter Berücksichtigung der Vorgabe nach § 266 Absatz 4 Satz 2 des Fünften Buches Sozialgesetzbuch ergeben sich aus § 267 Absatz 1 Satz 1 und Absatz 2 des Fünften Buches Sozialgesetzbuch und § 269 Absatz 5 Satz 1 des Fünften Buches Sozialgesetzbuch die folgenden versichertenbezogenen Datenübermittlungen der Krankenkassen für jedes Kalenderjahr (Berichtsjahr):
 
@@ -191,7 +195,7 @@ Werden dem Bundesamt für Soziale Sicherung Daten nicht termingerecht übermitte
 
 (6) Stellt der Spitzenverband Bund der Krankenkassen fest, dass zu einem Versichertenpseudonym, zu dem mehr als eine Krankenkasse Daten gemeldet hat, in der Summe mehr Versichertentage übermittelt wurden, als das Ausgleichsjahr an Kalendertagen aufweist, oder dass unterschiedliche Angaben zu Geburtsjahr und Geschlecht übermittelt wurden, teilt er den betroffenen Krankenkassen das jeweilige Versichertenpseudonym, die Art des Fehlers sowie die jeweils andere betroffene Krankenkasse mit, um eine Klärung der Versichertenverhältnisse herbeizuführen. Das Nähere über das Verfahren bestimmt der Spitzenverband Bund der Krankenkassen.
 
-##### § 8 Auswahl und Anpassung des Versichertenklassifikationsmodells
+###### § 8 Auswahl und Anpassung des Versichertenklassifikationsmodells
 
 (1) Die Auswahl des Versichertenklassifikationsmodells nach § 2 Absatz 1 Satz 1 und seine Anpassung an die Gegebenheiten der gesetzlichen Krankenversicherung haben so zu erfolgen, dass keine Anreize für medizinisch nicht gerechtfertigte Leistungsausweitungen geschaffen und Anreize zur Risikoselektion vermieden werden. Das nach Satz 1 an die gesetzliche Krankenversicherung angepasste Versichertenklassifikationsmodell ist prospektiv auszugestalten.
 
@@ -221,7 +225,7 @@ nach Anhörung des Spitzenverbandes Bund der Krankenkassen bis zum 30. September
 
 (6) Das Bundesamt für Soziale Sicherung kann ab dem Ausgleichsjahr 2023 im Versichertenklassifikationsmodell bei den Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 5 länderübergreifende Risikogruppen bilden. Als abgerechnete Rechnungsbeträge eines Jahres nach § 269 Absatz 3 Satz 2 Nummer 2 des Fünften Buches Sozialgesetzbuch sind die im jeweiligen Berichtsjahr beim Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, eingegangenen Rechnungsbeträge zu berücksichtigen.
 
-##### § 9 Datenmeldungen für den monatlichen Ausgleich
+###### § 9 Datenmeldungen für den monatlichen Ausgleich
 
 Die Krankenkassen übermitteln nach Maßgabe des Satzes 2 für den monatlichen Ausgleich nach § 16 Absatz 3 versichertenbezogen die Versicherungszeiten der Versicherten einschließlich des amtlichen Gemeindeschlüssels ihres Wohnorts für die Zeiträume
 
@@ -231,7 +235,7 @@ Die Krankenkassen übermitteln nach Maßgabe des Satzes 2 für den monatlichen A
 
 (Berichtszeiträume). Die Krankenkassen legen die Daten nach Satz 1 für den Berichtszeitraum nach Satz 1 Nummer 1 bis zum 31. August des Berichtsjahres und für den Berichtszeitraum nach Satz 1 Nummer 2 bis zum 28. Februar des dem Berichtsjahr folgenden Jahres dem Bundesamt für Soziale Sicherung über den Spitzenverband Bund der Krankenkassen maschinenlesbar vor. Der Spitzenverband Bund der Krankenkassen bestimmt im Einvernehmen mit dem Bundesamt für Soziale Sicherung das Nähere zum Verfahren der Übermittlung und der zeitlichen Zuordnung der Daten nach Satz 1. § 7 Absatz 4 Satz 3 gilt entsprechend.
 
-##### § 10 Gutachten des Wissenschaftlichen Beirates zu Zuweisungen für das Krankengeld
+###### § 10 Gutachten des Wissenschaftlichen Beirates zu Zuweisungen für das Krankengeld
 
 Auf Grundlage der Daten nach § 7 Absatz 1 überprüft der Wissenschaftliche Beirat in seiner ersten Untersuchung nach § 266 Absatz 10 Satz 1 des Fünften Buches Sozialgesetzbuch Modelle zur Ermittlung der Zuweisungen für die Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 3. Dabei sind insbesondere Modelle zu überprüfen, bei denen die Zuweisungen nach Satz 1 ermittelt werden auf der Grundlage von
 
@@ -241,11 +245,11 @@ Auf Grundlage der Daten nach § 7 Absatz 1 überprüft der Wissenschaftliche Bei
 
 ## Abschnitt 3 Zuweisungen aus dem Gesundheitsfonds
 
-##### § 11 Zuweisungen für das Krankengeld
+###### § 11 Zuweisungen für das Krankengeld
 
 Für die Zuweisungen für die Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 3 gelten die §§ 5 bis 7 und 10 in der am 31. März 2020 geltenden Fassung weiter.
 
-##### § 12 Ermittlung der Höhe der Grundpauschale
+###### § 12 Ermittlung der Höhe der Grundpauschale
 
 (1) Die Grundlage für die Ermittlung der Grundpauschale bilden die voraussichtlichen standardisierten Leistungsausgaben der Krankenkassen nach § 266 Absatz 3 des Fünften Buches Sozialgesetzbuch. Die Ausgaben sind durch die voraussichtliche Summe der Versicherten aller Krankenkassen zu teilen.
 
@@ -253,7 +257,7 @@ Für die Zuweisungen für die Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 3 g
 
 (3) Die Bekanntmachung der vom Bundesamt für Soziale Sicherung für das Folgejahr ermittelten Grundpauschale sowie der Werte nach § 266 Absatz 6 Satz 2 des Fünften Buches Sozialgesetzbuch erfolgt jährlich bis zum 15. November.
 
-##### § 13 Zuweisungen für sonstige Ausgaben
+###### § 13 Zuweisungen für sonstige Ausgaben
 
 (1) Die Krankenkassen erhalten aus dem Gesundheitsfonds Zuweisungen zur Deckung ihrer standardisierten Verwaltungskosten. Das Bundesamt für Soziale Sicherung ermittelt die Höhe dieser Zuweisungen für jede Krankenkasse im Voraus für jedes Ausgleichsjahr auf der Grundlage der für die Festlegung des durchschnittlichen Zusatzbeitrags nach § 242a des Fünften Buches Sozialgesetzbuch maßgeblichen Werte wie folgt:
 
@@ -279,7 +283,7 @@ Bei der Ermittlung der Höhe der Zuweisungen nach Satz 1 im Jahresausgleich ist 
 
 (4) Die Bekanntmachung der vom Bundesamt für Soziale Sicherung vorläufig ermittelten Höhe der Zuweisungen nach § 266 Absatz 3 des Fünften Buches Sozialgesetzbuch für die Krankenkassen, der vorläufig ermittelten Höhe der Zuweisungen zur Deckung der standardisierten Aufwendungen für Verwaltungskosten aller Krankenkassen, der vorläufig ermittelten Höhe der Zuweisungen zur Deckung der standardisierten Aufwendungen nach § 266 Absatz 4 Satz 2 Nummer 2 des Fünften Buches Sozialgesetzbuch aller Krankenkassen sowie der Summe der nach § 7 Absatz 1 Satz 1 Nummer 1 von den Krankenkassen übermittelten Versicherungszeiten aller Krankenkassen erfolgt jährlich bis zum 15. November.
 
-##### § 14 Risikopool
+###### § 14 Risikopool
 
 (1) Das Bundesamt für Soziale Sicherung legt jährlich den Schwellenwert für den Risikopool nach § 268 Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch fest und gibt ihn in geeigneter Weise bekannt. Für die Festlegung nach Satz 1 berechnet das Bundesamt für Soziale Sicherung nach Vorliegen der Geschäfts- und Rechnungsergebnisse aller am Risikostrukturausgleich teilnehmenden Krankenkassen für das jeweilige abgelaufene Kalenderjahr die Veränderungsrate der im Risikopool ausgleichsfähigen Leistungsausgaben je Versicherten.
 
@@ -289,7 +293,7 @@ Bei der Ermittlung der Höhe der Zuweisungen nach Satz 1 im Jahresausgleich ist 
 
 (4) Das Nähere zum Verfahren nach dieser Vorschrift bestimmt das Bundesamt für Soziale Sicherung nach Anhörung des Spitzenverbandes Bund der Krankenkassen.
 
-##### § 15 Zuweisungen für Vorsorge- und Früherkennungsmaßnahmen und für strukturierte Behandlungsprogramme
+###### § 15 Zuweisungen für Vorsorge- und Früherkennungsmaßnahmen und für strukturierte Behandlungsprogramme
 
 (1) Die Krankenkassen erhalten jährlich aus dem Gesundheitsfonds eine Pauschale für die Teilnahme eines Versicherten an einer der in § 270 Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch genannten Leistungen. Das Bundesamt für Soziale Sicherung bestimmt die Höhe der Pauschalen jährlich nach Maßgabe der Absätze 2 und 3. Nimmt ein Versicherter in einem Ausgleichsjahr bei einer Krankenkasse mehrere Leistungen nach Satz 1 in Anspruch, erhält die Krankenkasse nur die Pauschale für die Leistung, die der jeweils höheren Stufe nach Absatz 2 zugeordnet ist.
 
@@ -321,7 +325,7 @@ Bei der Ermittlung der Höhe der Zuweisungen nach Satz 1 im Jahresausgleich ist 
 
 (9) Hebt das Bundesamt für Soziale Sicherung nach § 137g Absatz 3 des Fünften Buches Sozialgesetzbuch die Zulassung eines Programms auf, ist die Zuweisung nach Absatz 5 Satz 1 zurückzuzahlen. Das Bundesamt für Soziale Sicherung kann der Krankenkasse durch Bescheid die erneute Übermittlung der Datenmeldung nach Absatz 6 Satz 1 Nummer 1 aufgeben und den Rückzahlungsbetrag geltend machen. Im Fall des Satzes 2 fließen die Einnahmen in den Gesundheitsfonds und werden im nächsten Jahresausgleich bei der Ermittlung nach § 18 Absatz 2 zu dem Wert nach § 17 Absatz 2 hinzugerechnet.
 
-##### § 16 Durchführung des Zahlungsverkehrs, monatlicher Ausgleich und Kostentragung
+###### § 16 Durchführung des Zahlungsverkehrs, monatlicher Ausgleich und Kostentragung
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt die Höhe der Zuweisungen, die die Krankenkassen zur Deckung ihrer Ausgaben nach § 266 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch erhalten, und führt den Zahlungsverkehr durch.
 
@@ -343,7 +347,7 @@ die vorläufige Höhe der Zuweisungen nach Absatz 2 neu unter Berücksichtigung 
 
 (6) Die dem Bundesamt für Soziale Sicherung auf Grund der Verwaltung des Gesundheitsfonds entstehenden Ausgaben einschließlich der Ausgaben für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs werden aus den Einnahmen des Gesundheitsfonds nach § 271 des Fünften Buches Sozialgesetzbuch getragen.
 
-##### § 17 Mitgliederbezogene Veränderung der Zuweisungen
+###### § 17 Mitgliederbezogene Veränderung der Zuweisungen
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt für jede Krankenkasse im Voraus für ein Ausgleichsjahr den Betrag, um den die monatlichen Zuweisungen für jede Krankenkasse zu verändern sind. Das Bundesamt für Soziale Sicherung zieht dazu von dem Zuweisungsvolumen nach Absatz 2 die Ausgaben nach Absatz 3 ab und teilt das Ergebnis durch die voraussichtliche jahresdurchschnittliche Zahl der Mitglieder aller Krankenkassen und durch die Zahl 12. Das Ergebnis nach Satz 2 wird für jede Krankenkasse mit der Zahl ihrer Mitglieder, die zum Ersten eines Monats in der Monatsstatistik des Vorvormonats gemeldet ist, vervielfacht.
 
@@ -353,7 +357,7 @@ die vorläufige Höhe der Zuweisungen nach Absatz 2 neu unter Berücksichtigung 
 
 (4) Die Bekanntmachung der vom Bundesamt für Soziale Sicherung für das Folgejahr ermittelten Beträge erfolgt jährlich bis zum 15. November.
 
-##### § 18 Jahresausgleich
+###### § 18 Jahresausgleich
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt nach Vorliegen der Geschäfts- und Rechnungsergebnisse aller am monatlichen Ausgleich teilnehmenden Krankenkassen für das jeweilige abgelaufene Kalenderjahr (Ausgleichsjahr)
 
@@ -381,7 +385,7 @@ abzieht und das Ergebnis durch die jahresdurchschnittliche Zahl der Mitglieder a
 
 (5) Der Jahresausgleich ist bis zum Ende des auf das Ausgleichsjahr folgenden Jahres durchzuführen und im nächsten Jahresausgleich auf Grundlage der Datenmeldung nach § 7 Absatz 4 Satz 2 zu korrigieren. Das Bundesamt für Soziale Sicherung gibt die korrigierten Werte nach Absatz 1 Satz 1 Nummer 1 und 2 in geeigneter Weise bekannt und teilt den Krankenkassen die korrigierten Zuweisungen mit. Das Nähere zum Verfahren bestimmt das Bundesamt für Soziale Sicherung nach Anhörung des Spitzenverbandes Bund der Krankenkassen.
 
-##### § 19 Ausschluss auffälliger Risikogruppen
+###### § 19 Ausschluss auffälliger Risikogruppen
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt die nach § 18 Absatz 1 Satz 4 auszuschließenden Risikogruppen nach § 2 Absatz 1 Satz 2 Nummer 2 durch das Verfahren nach den Absätzen 2 bis 5. Es gibt die dem Ausschlussverfahren zugrunde liegenden Werte zum Jahresausgleich bekannt.
 
@@ -397,7 +401,7 @@ abzieht und das Ergebnis durch die jahresdurchschnittliche Zahl der Mitglieder a
 
 (7) Das Bundesamt für Soziale Sicherung kann unter Berücksichtigung des Gutachtens nach § 266 Absatz 10 Satz 3 des Fünften Buches Sozialgesetzbuch oder einer durch das Bundesministerium für Gesundheit in Auftrag gegebenen Überprüfung der Schwellenwerte nach Absatz 4 durch den wissenschaftlichen Beirat die Schwellenwerte abweichend festlegen.
 
-##### § 20 Prüfung der Datenmeldungen
+###### § 20 Prüfung der Datenmeldungen
 
 (1) Die mit der Prüfung nach § 274 des Fünften Buches Sozialgesetzbuch befassten Stellen haben bei den Krankenkassen in ihrem Zuständigkeitsbereich mindestens alle drei Jahre folgende Daten, jeweils bezogen auf eines der drei zuletzt nach § 18 abgeschlossenen und korrigierten Ausgleichsjahre, auf deren Richtigkeit zu prüfen:
 
@@ -417,7 +421,7 @@ Die Stellen nach Satz 1 haben jährlich die Datenmeldung nach § 7 Absatz 4 Satz
 
 (6) Das Bundesamt für Soziale Sicherung ermittelt auf Grund der jeweiligen Hochrechnung nach Absatz 5 den Korrekturbetrag und macht diesen durch Bescheid geltend. Die Einnahmen nach diesem Absatz fließen in den Gesundheitsfonds und werden im nächsten Jahresausgleich bei der Ermittlung nach § 18 Absatz 2 zu dem Wert nach § 17 Absatz 2 hinzugerechnet.
 
-##### § 21 Ermittlung des Korrekturbetrags nach § 273 Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch
+###### § 21 Ermittlung des Korrekturbetrags nach § 273 Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch
 
 (1) Das Bundesamt für Soziale Sicherung prüft nach § 273 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch die Datenmeldungen nach § 7 Absatz 4 Satz 2 eines Berichtsjahres.
 
@@ -433,7 +437,7 @@ Das Bundesamt für Soziale Sicherung kann die Schätzung nach Satz 1 Nummer 2 au
 
 (3) Die Einnahmen nach dieser Vorschrift fließen in den Gesundheitsfonds und werden im nächsten Jahresausgleich bei der Ermittlung nach § 18 Absatz 2 zu dem Wert nach § 17 Absatz 2 hinzugerechnet. Das Nähere zum Verfahren nach Absatz 2 Satz 1 Nummer 2 bestimmt das Bundesamt für Soziale Sicherung im Benehmen mit dem Spitzenverband Bund der Krankenkassen.
 
-##### § 22 Durchführung des Einkommensausgleichs
+###### § 22 Durchführung des Einkommensausgleichs
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt die Höhe der Mittel, die die Krankenkassen aus dem Einkommensausgleich nach § 270a des Fünften Buches Sozialgesetzbuch erhalten, und führt den Zahlungsverkehr durch.
 
@@ -445,7 +449,7 @@ Das Bundesamt für Soziale Sicherung kann die Schätzung nach Satz 1 Nummer 2 au
 
 ## Abschnitt 4 Aufbringung der Finanzmittel für den Innovationsfonds bei den Krankenkassen
 
-##### § 23 Aufzubringende Mittel der Krankenkassen für den Innovationsfonds
+###### § 23 Aufzubringende Mittel der Krankenkassen für den Innovationsfonds
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt jährlich für jede Krankenkasse den von dieser zu tragenden Anteil zur Finanzierung des Innovationsfonds, indem es jeweils den sich aus § 92a Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch für die Krankenkassen ergebenden Betrag durch die Summe der nach § 7 Absatz 1 Satz 1 Nummer 1 von den Krankenkassen übermittelten Versicherungszeiten aller Krankenkassen teilt und danach das Ergebnis mit den Versicherungszeiten der Krankenkasse vervielfacht.
 
@@ -453,7 +457,7 @@ Das Bundesamt für Soziale Sicherung kann die Schätzung nach Satz 1 Nummer 2 au
 
 ## Abschnitt 5 Anforderungen an die Zulassung strukturierter Behandlungsprogramme nach § 137g des Fünften Buches Sozialgesetzbuch
 
-##### § 24 Anforderungen an das Verfahren der Einschreibung der Versicherten in ein strukturiertes Behandlungsprogramm nach § 137g des Fünften Buches Sozialgesetzbuch einschließlich der Dauer der Teilnahme
+###### § 24 Anforderungen an das Verfahren der Einschreibung der Versicherten in ein strukturiertes Behandlungsprogramm nach § 137g des Fünften Buches Sozialgesetzbuch einschließlich der Dauer der Teilnahme
 
 (1) Ein strukturiertes Behandlungsprogramm kann nur zugelassen werden, wenn es vorsieht, dass der Versicherte
 
@@ -485,7 +489,7 @@ c) zwei aufeinanderfolgende der quartalsbezogen zu erstellenden Dokumentationen 
 
 (3) Ein strukturiertes Behandlungsprogramm kann auch zugelassen werden, wenn es vorsieht, dass bei einer Unterbrechung der Zugehörigkeit des Versicherten zur Krankenkasse, die sich über nicht mehr als sechs Monate erstreckt, seine Teilnahme am Programm auf Grund einer Folgedokumentation fortgesetzt werden kann. Während der Unterbrechungszeit gilt Absatz 2 Nummer 2 entsprechend.
 
-##### § 25 Anforderungen an das Verfahren der Verarbeitung der für die Durchführung der Programme nach § 137g des Fünften Buches Sozialgesetzbuch erforderlichen personenbezogenen Daten
+###### § 25 Anforderungen an das Verfahren der Verarbeitung der für die Durchführung der Programme nach § 137g des Fünften Buches Sozialgesetzbuch erforderlichen personenbezogenen Daten
 
 (1) Voraussetzung für die Zulassung eines strukturierten Behandlungsprogramms ist, dass
 
@@ -513,7 +517,7 @@ Satz 1 gilt für sonstige Verträge mit Leistungserbringern zur Durchführung vo
 
 (4) Die Krankenkassen stellen sicher, dass die Leistungsdaten nach dem Zweiten Abschnitt des Zehnten Kapitels des Fünften Buches Sozialgesetzbuch, soweit erforderlich, und die Daten nach Absatz 1 an die mit der Evaluation beauftragten Sachverständigen gemäß § 137f Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch übermittelt werden. Personenbezogene Daten sind vor Übermittlung an die Sachverständigen durch die Krankenkassen zu pseudonymisieren.
 
-##### § 26 Berechnung der Kosten für die Bescheidung von Zulassungsanträgen
+###### § 26 Berechnung der Kosten für die Bescheidung von Zulassungsanträgen
 
 (1) Die Bescheidung eines Antrags auf Zulassung eines strukturierten Behandlungsprogramms umfasst alle Tätigkeiten, die unmittelbar durch die Bearbeitung des Antrags veranlasst sind. Der Berechnung der Gebühren sind die Personalkostensätze des Bundes einschließlich der Sachkostenpauschale zu Grunde zu legen. Die Personalkostensätze sind je Arbeitsstunde anzusetzen. Wird ein Zulassungsantrag vor der Bescheiderteilung zurückgenommen, wird der Gebührenberechnung der bis dahin angefallene Bearbeitungsaufwand zu Grunde gelegt. Auslagen sind den Gebühren in ihrer tatsächlichen Höhe hinzuzurechnen.
 
@@ -521,7 +525,7 @@ Satz 1 gilt für sonstige Verträge mit Leistungserbringern zur Durchführung vo
 
 ## Abschnitt 6 Übergangsregelung
 
-##### § 27 Übergangsregelung
+###### § 27 Übergangsregelung
 
 (1) Nach Maßgabe des § 266 Absatz 11 Satz 1 des Fünften Buches Sozialgesetzbuch gilt für die Zuweisungen aus dem Gesundheitsfonds für die Ausgleichsjahre 2019 und 2020 insbesondere, dass
 
@@ -545,7 +549,6 @@ zu prüfen. Die Prüfung nach § 20 Absatz 1 Satz 2 ist für die Ausgleichsjahre
 
 (5) Zur Umsetzung der Vorgaben nach § 269 Absatz 2 des Fünften Buches Sozialgesetzbuch und nach § 18 Absatz 1 Satz 3 passt das Bundesamt für Soziale Sicherung unterjährig die Festlegungen nach § 8 Absatz 4 Satz 1 für das Ausgleichsjahr 2021 an.
 
-##### Schlußformel
+###### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
