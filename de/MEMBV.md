@@ -1,37 +1,36 @@
 ---
-title: "Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse nach § 137h des Fünften Buches Sozialgesetzbuch"
+title: "Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden nach § 137h des Fünften Buches Sozialgesetzbuch"
 identifier: "MEMBV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2015-12-15"
-last_updated: "2026-04-04"
+last_updated: "2026-08-13"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/membv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR234000015"
 slug: "membv"
 bgbl_reference: "BGBl I 2015, 2340"
-stand: "Geändert durch Art. 3 V v. 21.4.2021 I 833"
+amtabk: "MBV"
+stand: "Zuletzt geändert durch Art. 6a G v. 24.7.2026 I Nr. 228"
 ---
-# Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse nach § 137h des Fünften Buches Sozialgesetzbuch
+# Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden nach § 137h des Fünften Buches Sozialgesetzbuch
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 137h Absatz 2 Satz 3 des Fünften Buches Sozialgesetzbuch – Gesetzliche Krankenversicherung –, der durch Artikel 1 Nummer 66 des Gesetzes vom 16. Juli 2015 (BGBl. I S. 1211) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium für Bildung und Forschung:
 
-##### § 1 Geltungsbereich
+###### § 1 Geltungsbereich
 
-Die Verordnung regelt nähere Kriterien zur Bestimmung der in § 137h Absatz 2 Satz 1 und 2 des Fünften Buches Sozialgesetzbuch genannten Voraussetzungen des Verfahrens zur Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse.
+Die Verordnung regelt nähere Kriterien zur Bestimmung der in § 137h Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch genannten Voraussetzungen des Verfahrens zur Bewertung neuer Untersuchungs- und Behandlungsmethoden.
 
-##### § 2 Medizinprodukte mit hoher Risikoklasse
+###### § 2 (weggefallen)
 
-(1) Medizinprodukte mit hoher Risikoklasse nach § 137h Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch sind solche, die der Klasse IIb oder III nach Artikel 51 in Verbindung mit Anhang VIII der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG,der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWGdes Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils geltenden Fassung, zuzuordnen sind und deren Anwendung einen besonders invasiven Charakter aufweist.
-
-(2) Die Anwendung eines aktiven implantierbaren Medizinprodukts im Sinne von Artikel 2 Nummer 4 und 5 der Verordnung (EU) 2017/745 weist einen besonders invasiven Charakter auf. Die Anwendung eines sonstigen Medizinprodukts, das der Klasse III zuzuordnen ist, weist einen besonders invasiven Charakter auf, wenn mit dem Einsatz des Medizinprodukts ein erheblicher Eingriff in wesentliche Funktionen von Organen oder Organsystemen, insbesondere des Herzens, des zentralen Kreislaufsystems oder des zentralen Nervensystems einhergeht. Erheblich ist ein Eingriff, der die Leistung oder die wesentliche Funktion eines Organs oder eines Organsystems langzeitig verändert oder ersetzt oder den Einsatz des Medizinprodukts in direktem Kontakt mit dem Herzen, dem zentralen Kreislaufsystem oder dem zentralen Nervensystem zur Folge hat.
-
-(3) Die Anwendung eines Medizinprodukts, das der Klasse IIb zuzuordnen ist, weist nur dann einen besonders invasiven Charakter auf, wenn das Medizinprodukt mittels Aussendung von Energie oder Abgabe radioaktiver Stoffe gezielt auf wesentliche Funktionen von Organen oder Organsystemen, insbesondere des Herzens, des zentralen Kreislaufsystems oder des zentralen Nervensystems einwirkt.
-
-##### § 3 Neues theoretisch-wissenschaftliches Konzept
+###### § 3 Neues theoretisch-wissenschaftliches Konzept
 
 (1) Eine Methode weist ein neues theoretisch-wissenschaftliches Konzept im Sinne von § 137h Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch auf, wenn sich ihr Wirkprinzip oder ihr Anwendungsgebiet von anderen, in der stationären Versorgung bereits eingeführten systematischen Herangehensweisen wesentlich unterscheidet.
 
@@ -51,9 +50,8 @@ Die Verordnung regelt nähere Kriterien zur Bestimmung der in § 137h Absatz 2 S
 
 2. bei der zu untersuchenden spezifischen Indikation im Unterschied zu der spezifischen Indikation der bereits eingeführten systematischen Herangehensweise eine derart abweichende Auswirkung zu erwarten ist oder bezweckt wird, dass eine Übertragung der vorliegenden Erkenntnisse zum Nutzen einschließlich etwaiger Risiken der bereits eingeführten systematischen Herangehensweise auf die zu untersuchende spezifische Indikation medizinisch-wissenschaftlich nicht zu rechtfertigen ist.
 
-(6) Eine schrittweise erfolgende Weiterentwicklung einer bereits eingeführten systematischen Herangehensweise, die nicht zu einer wesentlichen Veränderung des zugrundeliegenden theoretisch-wissenschaftlichen Konzepts führt, erfüllt nicht die Voraussetzungen des Verfahrens zur Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse. Insbesondere wenn mit einer schrittweise erfolgenden Weiterentwicklung der Zweck verfolgt wird, das diagnostische oder therapeutische Ziel in höherem Maße zu erreichen, führt dies für sich allein nicht bereits zu einer wesentlichen Veränderung des zugrundeliegenden Behandlungskonzepts, ohne dass eines der Kriterien nach den Absätzen 4 oder 5 erfüllt ist.
+(6) Eine schrittweise erfolgende Weiterentwicklung einer bereits eingeführten systematischen Herangehensweise, die nicht zu einer wesentlichen Veränderung des zugrundeliegenden theoretisch-wissenschaftlichen Konzepts führt, erfüllt nicht die Voraussetzungen des Verfahrens zur Bewertung neuer Untersuchungs- und Behandlungsmethoden nach § 137h des Fünften Buches Sozialgesetzbuch. Insbesondere wenn mit einer schrittweise erfolgenden Weiterentwicklung der Zweck verfolgt wird, das diagnostische oder therapeutische Ziel in höherem Maße zu erreichen, führt dies für sich allein nicht bereits zu einer wesentlichen Veränderung des zugrundeliegenden Behandlungskonzepts, ohne dass eines der Kriterien nach den Absätzen 4 oder 5 erfüllt ist.
 
-##### § 4 Inkrafttreten
+###### § 4 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
-
