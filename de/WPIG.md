@@ -4,19 +4,22 @@ identifier: "WPIG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2021-05-12"
-last_updated: "2026-04-04"
+last_updated: "2026-08-17"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/wpig/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR099010021"
 slug: "wpig"
 bgbl_reference: "BGBl I 2021, 990"
-stand: "Zuletzt geändert durch Art. 45 G v. 4.2.2026 I Nr. 33"
-hinweis: "mittelbare Änderung durch Art. 27a G v. 25.3.2026 I Nr. 81 mWv 30.12.2026 noch nicht berücksichtigt"
+stand: "Zuletzt geändert durch Art. 9 G v. 9.4.2026 I Nr. 97"
 ---
 # Gesetz zur Beaufsichtigung von Wertpapierinstituten
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 Kapitel 1Allgemeine VorschriftenAbschnitt 1Anwendungsbereich
 und Begriffsbestimmungen§  1Anwendungsbereich§  2Begriffsbestimmungen§  2aUnzuverlässigkeit von sanktionierten Personen§  3Ausnahmen§  4Gesetzlicher Aufsichtsrahmen für Große WertpapierinstituteAbschnitt 2Aufgaben und grundlegende
@@ -58,11 +61,11 @@ Bekanntmachung und Mitteilungen in Strafsachen§ 82Strafvorschriften§ 83Bußgel
 
 ## Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 Dieses Gesetz ist auf Wertpapierinstitute und Datenbereitstellungsdienste mit Sitz oder Tätigkeit im Inland anzuwenden.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 (1) Ein Wertpapierinstitut ist ein Unternehmen, das gewerbsmäßig oder in einem Umfang, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, Wertpapierdienstleistungen allein oder zusammen mit Wertpapiernebendienstleistungen oder Nebengeschäften erbringt.
 
@@ -288,13 +291,15 @@ Alle Betriebsstellen eines Wertpapierinstituts mit Hauptverwaltung in einem ande
 
 (38) Auslagerungsunternehmen im Sinne dieses Gesetzes sind Unternehmen, auf die ein Wertpapierinstitut oder ein übergeordnetes Unternehmen Aktivitäten und Prozesse zur Durchführung von Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder Nebengeschäften ausgelagert hat, sowie deren Subunternehmen bei Weiterverlagerung von Aktivitäten und Prozessen, die für die Durchführung von Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder Nebengeschäften wesentlich sind.
 
+(39) Zentrale Gegenpartei im Sinne dieses Gesetzes ist eine CCP im Sinne von Artikel 2 Nummer 1 der Verordnung (EU) Nr. 648/2012.
+
 (39) Datenbereitstellungsdienste im Sinne dieses Gesetzes sind Datenbereitstellungsdienste im Sinne von § 2 Absatz 40 des Wertpapierhandelsgesetzes.
 
-##### § 2a Unzuverlässigkeit von sanktionierten Personen
+###### § 2a Unzuverlässigkeit von sanktionierten Personen
 
 Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, ihre Gelder und wirtschaftlichen Ressourcen eingefroren sind oder ihr weder unmittelbar noch mittelbar Gelder oder wirtschaftliche Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen. Eine natürliche Person gilt in der Regel als unzuverlässig, wenn sie als Geschäftsleiter, Aufsichtsratsmitglied oder in vergleichbarer Position für eine Person oder Personengesellschaft nach Satz 1 tätig ist; dies gilt nicht für Arbeitnehmervertreter. Eine natürliche Person gilt in der Regel auch dann als unzuverlässig, wenn sie die Interessen einer Person oder Personengesellschaft nach Satz 1 als Mitglied eines Aufsichts- oder Verwaltungsrats oder eines vergleichbaren Kontrollgremiums in einem Institut wahrnimmt, das nicht unter Satz 1 fällt.
 
-##### § 3 Ausnahmen
+###### § 3 Ausnahmen
 
 (1) Als Wertpapierinstitut gelten nicht
 
@@ -370,13 +375,13 @@ Für Einrichtungen und Unternehmen im Sinne von Satz 1 Nummern 4 und 5 gelten di
 
 (2) Ein Unternehmen mit Sitz im Inland, das keine Bankgeschäfte im Sinne des § 1 Absatz 1 Satz 2 des Kreditwesengesetzes betreibt und das als Wertpapierdienstleistung nur die Anlagevermittlung, die Anlageberatung oder das Platzierungsgeschäft erbringt und dies ausschließlich für Rechnung und unter der Haftung eines Wertpapierinstituts, das seinen Sitz im Inland hat oder nach § 73 Absatz 1 im Inland tätig ist (vertraglich gebundener Vermittler), gilt nicht als Wertpapierinstitut, wenn das haftende Wertpapierinstitut dies der Bundesanstalt zuvor angezeigt hat. Die Tätigkeit des vertraglich gebundenen Vermittlers wird dem haftenden Wertpapierinstitut zugerechnet. Ändern sich die von dem haftenden Wertpapierinstitut angezeigten Verhältnisse, sind die neuen Verhältnisse unverzüglich der Bundesanstalt anzuzeigen. Für den Inhalt der Anzeigen nach den Sätzen 1 und 3 und die beizufügenden Unterlagen und Nachweise können durch Rechtsverordnung nach § 14 Absatz 3 Satz 1 nähere Bestimmungen getroffen werden. Die Bundesanstalt führt über die ihr angezeigten vertraglich gebundenen Vermittler nach diesem Absatz ein öffentliches Register auf ihrer Internetseite, das das haftende Wertpapierinstitut, die vertraglich gebundenen Vermittler, das Datum des Beginns und des Endes der Tätigkeit nach Satz 1 ausweist. Für die Voraussetzungen zur Aufnahme in das Register, den Inhalt und die Führung des Registers können durch Rechtsverordnung nach § 14 Absatz 3 nähere Bestimmungen getroffen werden; insbesondere kann dem haftenden Unternehmen ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und ihm die Verantwortlichkeit für die Richtigkeit und Aktualität dieser Seite übertragen werden.
 
-##### § 4 Gesetzlicher Aufsichtsrahmen für Große Wertpapierinstitute
+###### § 4 Gesetzlicher Aufsichtsrahmen für Große Wertpapierinstitute
 
 § 1 Absatz 3c Satz 1, 2 Nummer 2 und 3, die §§ 2a, 2d, 2e, 3, 6a bis 10e, 10g bis 18, 19 bis 22, 24b bis 25d, 25f, 25g, 25l, 25m, 26 bis 31, 36 bis 38, 44 bis 48t, 49, 54a, 55, 55a, 55b, 56 Absatz 2 Nummer 3 Buchstabe b bis d und f bis n, Absatz 4, 4a, 5 bis 8 und § 60b des Kreditwesengesetzes, einschließlich der aufgrund dieser Bestimmungen erlassenen Rechtsverordnungen, gelten auch für Große Wertpapierinstitute. Die §§ 12, 20 bis 23, 38 bis 54, 55 Nummer 1 und 2 und § 56 bis 63 sowie 76 bis 78 dieses Gesetzes finden auf Große Wertpapierinstitute keine Anwendung.
 
 ## Abschnitt 2 Aufgaben und grundlegende Befugnisse der Bundesanstalt
 
-##### § 5 Aufgaben und allgemeine Befugnisse der Bundesanstalt
+###### § 5 Aufgaben und allgemeine Befugnisse der Bundesanstalt
 
 (1) Die Bundesanstalt übt die Aufsicht über Wertpapierinstitute, Investmentholdinggesellschaften und gemischte Finanzholdinggesellschaften nach den Vorschriften dieses Gesetzes, den dazu erlassenen Rechtsverordnungen, der Verordnung (EU) 2019/2033 und der auf der Grundlage der Verordnung (EU) 2019/2033 und der Richtlinie (EU) 2019/2034 erlassenen Rechtsakte sowie der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnung (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) in der jeweils geltenden Fassung und der auf der Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte aus. Die Bundesanstalt ist die zuständige Behörde gemäß Artikel 4 Absatz 1 Satz 1 der Richtlinie (EU) 2019/2034 und nach Artikel 46 der Verordnung (EU) 2022/2554. Die Bundesanstalt hat Missständen im Wertpapierwesen entgegenzuwirken, welche die Sicherheit der anvertrauten Vermögenswerte gefährden, die ordnungsmäßige Durchführung der erbrachten Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder Nebengeschäfte beeinträchtigen oder erhebliche Nachteile für die Gesamtwirtschaft herbeiführen könnten. Die Bundesanstalt und die Deutsche Bundesbank arbeiten bei der Durchführung der Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 zusammen. Die Deutsche Bundesbank nimmt die operativen Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 wahr. § 7 Absatz 3 und 4 des Kreditwesengesetzes gilt entsprechend.
 
@@ -400,9 +405,9 @@ Im Falle des Satzes 1 Nummer 1 gilt § 84 Absatz 3 entsprechend.
 
 3. Personen und Unternehmen, bei denen Tatsachen die Annahme rechtfertigen, dass es sich um Personen oder Unternehmen im Sinne der Nummer 2 handelt, und
 
-4. Personen und Unternehmen, die mit einer Person oder einem Unternehmen im Sinne der Nummern 1 bis 3 nach § 15 des Aktiengesetzes verbunden sind. Die Auskunfts- und Vorlegungspflichten nach Satz 1 bestehen auch für Beschäftigte oder Mitglieder eines Organs einer solchen Person oder eines solchen Unternehmens. Mitglieder eines Organs und Beschäftigte haben auf Verlangen auch nach ihrem Ausscheiden aus dem Organ oder dem Unternehmen Auskunft zu erteilen und Unterlagen vorzulegen.
+4. Personen und Unternehmen, die mit einer Person oder einem Unternehmen im Sinne der Nummern 1 bis 3 nach § 15 des Aktiengesetzes verbunden sind.
 
-Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die einzureichenden Unterlagen gemäß § 76 Absatz 1 auf seine Kosten durch einen von der Bundesanstalt zu bestimmenden Wirtschaftsprüfer prüfen zu lassen. Die Bundesanstalt kann Maßnahmen nach Absatz 4 Satz 2 und 3 gegenüber den in Satz 1 genannten Personen und Unternehmen ergreifen, wenn Anhaltspunkte für einen Untersagungsgrund nach § 26 Absatz 1 vorliegen. Die Betroffenen haben diese Maßnahmen zu dulden.
+Die Auskunfts- und Vorlegungspflichten nach Satz 1 bestehen auch für Beschäftigte oder Mitglieder eines Organs einer solchen Person oder eines solchen Unternehmens. Mitglieder eines Organs und Beschäftigte haben auf Verlangen auch nach ihrem Ausscheiden aus dem Organ oder dem Unternehmen Auskunft zu erteilen und Unterlagen vorzulegen. Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die einzureichenden Unterlagen gemäß § 76 Absatz 1 auf seine Kosten durch einen von der Bundesanstalt zu bestimmenden Wirtschaftsprüfer prüfen zu lassen. Die Bundesanstalt kann Maßnahmen nach Absatz 4 Satz 2 und 3 gegenüber den in Satz 1 genannten Personen und Unternehmen ergreifen, wenn Anhaltspunkte für einen Untersagungsgrund nach § 26 Absatz 1 vorliegen. Die Betroffenen haben diese Maßnahmen zu dulden.
 
 (6) Wer nach Absatz 4 oder 5 zur Erteilung einer Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Die betroffene Person ist auf das Recht, die Auskunft zu verweigern, hinzuweisen.
 
@@ -418,7 +423,7 @@ Die Durchsuchungen sind, außer bei Gefahr im Verzug, durch den Richter anzuordn
 
 (9) Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank dürfen Gegenstände sicherstellen, die als Beweismittel für die Ermittlung des Sachverhalts von Bedeutung sein können. Werden die Gegenstände für das Verwaltungsverfahren nicht mehr benötigt, so werden diese an den letzten Gewahrsamsinhaber herausgegeben. Die Betroffenen haben Maßnahmen nach Satz 1 zu dulden.
 
-##### § 5a Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+###### § 5a Besondere Befugnisse nach der Verordnung (EU) 2022/2554
 
 (1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU) 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 sicherzustellen. Insbesondere kann sie gegenüber einem Institut anordnen,
 
@@ -432,11 +437,11 @@ Die Durchsuchungen sind, außer bei Gefahr im Verzug, durch den Richter anzuordn
 
 (2) Die Bundesanstalt und die Deutsche Bundesbank können Untersuchungen über die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes vornehmen. Unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse kann die Bundesanstalt zu diesem Zweck Mitglieder der Organe eines Instituts zu einer Befragung vorladen, damit diese mündliche oder schriftliche Erklärungen zu Sachverhalten oder Unterlagen abgeben, die mit Gegenstand und Zweck der Untersuchung in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. § 5 Absatz 6 gilt entsprechend. Die Bundesanstalt kann die Durchführung der Befragung auf die Deutsche Bundesbank übertragen.
 
-##### § 6 Sofortige Vollziehbarkeit
+###### § 6 Sofortige Vollziehbarkeit
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage des § 5 Absatz 2 bis 7 und 9, des § 5a, des § 7 Absatz 1 Satz 2 und Absatz 3, des § 10 Absatz 2, 4 und 6, des § 18 Absatz 2 Nummer 2, 3 und Absatz 3, des § 19 Absatz 2, des § 20 Absatz 6, der §§ 22, 23, 25 und 26 Absatz 1 und 2, des § 27 Absatz 3, des § 33 Absatz 3 Satz 2, Absatz 4 und 5 Satz 2, des § 39 Absatz 3, des § 40 Absatz 3, des § 43 Absatz 3 Satz 2, des § 48 Absatz 2 bis 5, der §§ 49, 51, 54, 56 Absatz 2, der §§ 60 und 62 Absatz 2, der §§ 63 und 70 Absatz 4, des § 77 Absatz 1 Satz 2, 4 und 5, des § 79 Absatz 1 und 2, des § 80 Absatz 1 und 2 sowie des § 81 Absatz 2 haben keine aufschiebende Wirkung.
 
-##### § 7 Grenzüberschreitende Auskünfte und Prüfungen
+###### § 7 Grenzüberschreitende Auskünfte und Prüfungen
 
 (1) Nationale Rechtsvorschriften, die einer Übermittlung von Daten entgegenstehen, sind nicht anzuwenden auf die Übermittlung von Daten zwischen einem Wertpapierinstitut, einem Finanzinstitut, einer Investmentholdinggesellschaft, einer gemischten Finanzholdinggesellschaft, oder einem Unternehmen mit Sitz im Europäischen Wirtschaftsraum, das mindestens 20 Prozent der Kapitalanteile oder Stimmrechte an dem Unternehmen unmittelbar oder mittelbar hält, Mutterunternehmen ist oder beherrschenden Einfluss ausüben kann, oder zwischen einer gemischten Holdinggesellschaft und ihren Tochterunternehmen mit Sitz im Europäischen Wirtschaftsraum, wenn die Übermittlung der Daten erforderlich ist, um Bestimmungen der Aufsicht nach Maßgabe der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom 25.1.2017, S. 1; L 203 vom 26.6.2020, S. 95), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert worden ist, der Verordnung (EU) 2019/2033 oder der Richtlinie 2002/87/EG über das Unternehmen mit Sitz im Ausland zu erfüllen. Die Bundesanstalt kann einem Wertpapierinstitut die Übermittlung von Daten in einen Drittstaat untersagen.
 
@@ -444,13 +449,13 @@ Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließl
 
 (3) Die Bundesanstalt kann von Wertpapierinstituten, Investmentholdinggesellschaften oder gemischten Finanzholdinggesellschaften mit Sitz in einem anderen Vertragsstaat weitere Auskünfte verlangen, welche die Aufsicht über Wertpapierinstitute erleichtern, die Tochterunternehmen dieser Unternehmen sind und von den zuständigen Stellen des anderen Staates aus den in Artikel 19 Absatz 1 oder Absatz 2 Buchstabe b der Verordnung (EU) Nr. 575/2013 genannten Gründen nicht in die Beaufsichtigung auf zusammengefasster Basis einbezogen werden.
 
-##### § 8 Befugnis zur Erstreckung der Verordnung (EU) Nr. 575/2013 auf bestimmte Wertpapierinstitute
+###### § 8 Befugnis zur Erstreckung der Verordnung (EU) Nr. 575/2013 auf bestimmte Wertpapierinstitute
 
 (1) Die Bundesanstalt kann anordnen, dass ein Wertpapierinstitut, das den Eigenhandel oder das Emissionsgeschäft betreibt und dessen zusammengerechnete Vermögenswerte, berechnet als Durchschnitt der vorausgegangenen zwölf Monate, 5 Milliarden Euro übersteigen, die Vorschriften der Verordnung (EU) Nr. 575/2013 anzuwenden hat, wenn das Wertpapierinstitut
 
 1. die vorgenannten Dienstleistungen in einem solchen Umfang betreibt, dass ein Ausfall oder eine Notlage des Wertpapierinstituts zu einer Störung des Finanzsystems mit möglicherweise schwerwiegenden negativen Auswirkungen auf das Finanzsystem und die Realwirtschaft führen könnte,
 
-2. ein Clearing-Mitglied im Sinne des Artikels 4 Absatz 1 Nummer 3 der Verordnung (EU) 2019/2033 in Verbindung mit Artikel 2 Nummer 14 der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1; L 321 vom 30.11.2013, S. 6) in der jeweils geltenden Fassung, ist oder
+2. ein Clearing-Mitglied im Sinne des Artikels 4 Absatz 1 Nummer 3 der Verordnung (EU) 2019/2033 in Verbindung mit Artikel 2 Nummer 14 der Verordnung (EU) Nr. 648/2012 ist oder
 
 3. aufgrund seiner Größe, der Art, des Umfangs und der Komplexität seiner Tätigkeiten oder seiner grenzüberschreitend erbrachten Dienstleistungen erhebliche wirtschaftliche Bedeutung für die Volkswirtschaft der Europäischen Union oder des betreffenden Mitgliedstaates hat oder mit dem Finanzsystem der Europäischen Union oder dem Mitgliedstaat erheblich verbunden ist.
 
@@ -458,11 +463,11 @@ Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließl
 
 (3) Unterschreitet das Wertpapierinstitut über einen Zeitraum von zwölf Monaten den in Absatz 1 genannten Schwellenwert oder liegen die Voraussetzungen nach Absatz 1 nicht mehr vor, zeigt das Wertpapierinstitut dies der Bundesanstalt unverzüglich an. Die Bundesanstalt prüft die Anzeige und widerruft ihre Anordnung nach Absatz 1 bei Wegfall der betreffenden Voraussetzungen mit Wirkung zum Zeitpunkt des Eingangs der Anzeige.
 
-(4) Die Bundesanstalt informiert die Europäische Bankenaufsichtsbehörde, die nach Maßgabe des in Artikel 19 der Verordnung (EU) Nr. 1093/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Bankenaufsichtsbehörde), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/78/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 12; L 101 vom 18.4.2015, S. 62), die zuletzt durch die Verordnung (EU) 2019/2175 (ABl. L 334 vom 27.12.2019, S. 1) geändert worden ist, festgelegten Verfahrens tätig wird, unverzüglich über eine nach Absatz 1 und Absatz 3 getroffene Entscheidung unter Hinweis auf die Geltung der Titel VII und VIII der Richtlinie 2013/36/EU.
+(4) Die Bundesanstalt informiert die Europäische Bankenaufsichtsbehörde, die nach Maßgabe des in Artikel 19 der Verordnung (EU) Nr. 1093/2010 festgelegten Verfahrens tätig wird, unverzüglich über eine nach Absatz 1 und Absatz 3 getroffene Entscheidung unter Hinweis auf die Geltung der Titel VII und VIII der Richtlinie 2013/36/EU.
 
 ## Abschnitt 3 Zusammenarbeit der Bundesanstalt mit anderen Stellen
 
-##### § 9 Zusammenarbeit mit der Deutschen Bundesbank
+###### § 9 Zusammenarbeit mit der Deutschen Bundesbank
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank arbeiten nach Maßgabe dieses Gesetzes zusammen. Unbeschadet weiterer gesetzlicher Maßgaben umfasst die Zusammenarbeit die laufende Überwachung der Wertpapierinstitute durch die Deutsche Bundesbank. Die laufende Überwachung beinhaltet insbesondere die Auswertung der von den Wertpapierinstituten eingereichten Unterlagen, der Prüfungsberichte für Kleine oder Mittlere Wertpapierinstitute nach § 76, für Große Wertpapierinstitute nach § 26 des Kreditwesengesetzes und der Jahresabschlussunterlagen sowie die Durchführung und Auswertung der aufsichtlichen Prüfungen zur Beurteilung der angemessenen Eigenkapitalausstattung und Risikosteuerungsverfahren der Wertpapierinstitute und das Bewerten von Prüfungsfeststellungen. Die laufende Überwachung durch die Deutsche Bundesbank erfolgt in der Regel durch ihre Hauptverwaltungen.
 
@@ -472,7 +477,7 @@ Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließl
 
 (4) Die Zusammenarbeit nach den Absätzen 1 und 2 sowie die Mitteilungen nach Absatz 3 schließen die Übermittlung der zur Erfüllung der Aufgaben der empfangenden Stelle erforderlichen personenbezogenen Daten ein. Zur Erfüllung ihrer Aufgaben nach diesem Gesetz dürfen die Bundesanstalt und die Deutsche Bundesbank gegenseitig die bei der anderen Stelle jeweils gespeicherten Daten im automatisierten Verfahren abrufen. Die Deutsche Bundesbank hat bei jedem zehnten von der Bundesanstalt durchgeführten Abruf personenbezogener Daten den Zeitpunkt, die Angaben, welche die Feststellung der aufgerufenen Datensätze ermöglichen, sowie die für den Abruf verantwortliche Person zu protokollieren. Die Protokolldaten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsmäßigen Betriebs der Datenverarbeitungsanlage verwendet werden. Sie sind am Ende des auf das Jahr der Protokollierung folgenden Kalenderjahres zu löschen, soweit sie nicht für ein laufendes Kontrollverfahren benötigt werden. Die Sätze 3 bis 5 gelten entsprechend für die Datenabrufe der Deutschen Bundesbank bei der Bundesanstalt. Im Übrigen bleiben die Bestimmungen des Bundesdatenschutzgesetzes unberührt.
 
-##### § 10 Zusammenarbeit innerhalb des Europäischen Systems der Finanzaufsicht
+###### § 10 Zusammenarbeit innerhalb des Europäischen Systems der Finanzaufsicht
 
 Im Rahmen des Europäischen Systems der Finanzaufsicht arbeiten die Bundesanstalt und die Deutsche Bundesbank bei der Aufsicht über Wertpapierinstitute, Investmentholdinggesellschaften oder gemischte Finanzholdinggesellschaften im Rahmen dieses Gesetzes und der Verordnung (EU) 2019/2033 mit anderen zuständigen Behörden und sonstigen zuständigen Stellen zusammen und tauschen Informationen aus. Sonstige zuständige Stellen sind
 
@@ -486,7 +491,7 @@ Im Rahmen des Europäischen Systems der Finanzaufsicht arbeiten die Bundesanstal
 
 Die Bundesanstalt und die Deutsche Bundesbank beteiligen sich insbesondere an den Tätigkeiten der Europäischen Bankenaufsichtsbehörde und gegebenenfalls an den in den Artikeln 44 und 116 der Richtlinie 2013/36/EU genannten Aufsichtskollegien, soweit dies erforderlich ist. Die Bundesanstalt meldet der Europäischen Kommission insbesondere allgemeine Schwierigkeiten, die Wertpapierinstitute bei der Errichtung von Zweigniederlassungen, der Gründung von Tochterunternehmen und beim Betreiben von Geschäften nach § 2 Absatz 2 in einem Drittstaat haben.
 
-##### § 11 Zusammenarbeit mit zuständigen Behörden und Stellen
+###### § 11 Zusammenarbeit mit zuständigen Behörden und Stellen
 
 (1) Die Bundesanstalt und, soweit sie im Rahmen dieses Gesetzes tätig wird, die Deutsche Bundesbank arbeiten bei der Aufsicht über Wertpapierinstitutsgruppen, Wertpapierinstitute, die in einem anderen Vertragsstaat Wertpapierdienstleistungen erbringen, sowie bei der Aufsicht über Investmentholdinggesellschaften und gemischte Finanzholdinggesellschaften mit den anderen zuständigen Behörden und sonstigen zuständigen Stellen zusammen. Vorbehaltlich der maßgeblichen datenschutzrechtlichen Vorschriften tauschen die Bundesanstalt und die Deutsche Bundesbank mit den zuständigen Behörden und sonstigen zuständigen Stellen alle Informationen aus, die für die Durchführung der Aufsicht erforderlich sind. Informationen können auch ohne entsprechende Anfrage der zuständigen Stelle weitergegeben werden. Hierzu gehören insbesondere Informationen über
 
@@ -536,7 +541,7 @@ Die Bundesanstalt und die Deutsche Bundesbank beteiligen sich insbesondere an de
 
 Satz 1 findet mit der Maßgabe Anwendung, dass diese Stellen einer Verschwiegenheitsverpflichtung entsprechend § 12 Absatz 1 unterliegen und übermittelte Daten nur unter Beachtung der Zweckbestimmung der Bundesanstalt verwendet und nur mit ihrer ausdrücklicher Zustimmung weitergegeben werden dürfen, sofern dies für die Erfüllung der Aufgaben der Stelle, an die die Daten übermittelt wurden, erforderlich ist.
 
-##### § 12 Verschwiegenheitspflicht
+###### § 12 Verschwiegenheitspflicht
 
 (1) Die bei der Bundesanstalt beschäftigten und die nach § 4 Absatz 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen, die nach § 80 Absatz 1 bestellten Sonderbeauftragten, die gerichtlich bestellten Treuhänder nach § 27 Absatz 2 sowie die im Dienst der Deutschen Bundesbank stehenden Personen, soweit sie zur Durchführung dieses Gesetzes tätig werden, dürfen die ihnen bei ihrer Tätigkeit bekanntgewordenen Tatsachen, deren Geheimhaltung im Interesse des Wertpapierinstituts, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Dies gilt auch für die in Satz 1 genannten Personen, sofern ihnen Tatsachen im Rahmen der Anbahnung einer Beauftragung oder Bestellung anvertraut werden. Satz 1 gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Die von den beaufsichtigten Wertpapierinstituten zu beachtenden allgemeinen datenschutzrechtlichen Vorschriften bleiben unberührt. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
 
@@ -610,13 +615,13 @@ soweit diese Stellen oder Personen die Informationen zur Erfüllung ihrer Aufgab
 
 ## Abschnitt 4 Hinweisgebersystem und Aufzeichnungsverpflichtung bei Wertpapierinstituten; Form der einzureichenden Dokumente
 
-##### § 13 Hinweisgebersystem und Aufzeichnungsverpflichtung
+###### § 13 Hinweisgebersystem und Aufzeichnungsverpflichtung
 
 (1) Wertpapierinstitute sind verpflichtet, ein Verfahren einzurichten, das es den Mitarbeitern unter Wahrung der Vertraulichkeit ihrer Identität ermöglicht, mögliche Verstöße gegen Aufsichtsrecht und möglicherweise strafbare Handlungen innerhalb des Unternehmens an geeignete Stellen zu melden. Das Verfahren kann von Sozialpartnern bereitgestellt werden, sofern dabei für die Meldenden das gleiche Schutzniveau wie nach § 4d des Finanzdienstleistungsaufsichtsgesetzes gewährt wird.
 
 (2) Wertpapierinstitute müssen sämtliche Transaktionen aufzeichnen und die Systeme und Verfahren, die diesem Gesetz und der Verordnung (EU) 2019/2033 unterliegen, so dokumentieren, dass die Bundesanstalt oder ein von ihr Beauftragter jederzeit prüfen kann, ob das Wertpapierinstitut dieses Gesetz und die Verordnung (EU) 2019/2033 einhält. Die internen Kontrollverfahren und die Verwaltungs- und Rechnungslegungsverfahren des Wertpapierinstituts müssen die Bundesanstalt in die Lage versetzen, die Einhaltung dieser Vorschriften jederzeit zu prüfen.
 
-##### § 14 Kommunikation mit Bundesanstalt und Deutscher Bundesbank; Verordnungsermächtigung
+###### § 14 Kommunikation mit Bundesanstalt und Deutscher Bundesbank; Verordnungsermächtigung
 
 (1) Soweit durch eine Rechtsverordnung nach Absatz 2 oder 3 nicht abweichend bestimmt, hat die Übermittlung von Erlaubnisanträgen, Anzeigen, Informationen und sonstigen nach diesem Gesetz zu übermittelnden Dokumenten schriftlich zu erfolgen. § 3a des Verwaltungsverfahrensgesetzes sowie die Vorgaben der Delegierten Verordnung (EU) 2017/1943 sowie der Durchführungsverordnung (EU) 2017/1945 der Kommission vom 19. Juni 2017 zur Festlegung technischer Durchführungsstandards für Mitteilungen von und an Wertpapierfirmen, die eine Zulassung beantragen oder besitzen, gemäß der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates (ABl. L 276 vom 26.10.2017, S. 22) bleiben unberührt.
 
@@ -638,7 +643,7 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnu
 
 ## Abschnitt 1 Erlaubnis
 
-##### § 15 Erlaubnis für das Erbringen von Wertpapierdienstleistungen und -nebendienstleistungen
+###### § 15 Erlaubnis für das Erbringen von Wertpapierdienstleistungen und -nebendienstleistungen
 
 (1) Wer im Inland Wertpapierdienstleistungen im Sinne des § 2 Absatz 2 Satz 1 Nummer 1 bis 10, die Wertpapiernebendienstleistungen des § 2 Absatz 3 Nummer 1, 2 und 4 oder ein Nebengeschäft im Sinne des § 2 Absatz 4 erbringen will, ohne die in § 32 Absatz 1 Satz 2 des Kreditwesengesetzes bestimmte Schwelle zu überschreiten, bedarf einer schriftlichen Erlaubnis der Bundesanstalt; die Bundesanstalt hat § 37 Absatz 4 des Verwaltungsverfahrensgesetzes anzuwenden.
 
@@ -678,7 +683,7 @@ Für Zeitpunkt, Inhalt und Form der Anzeige nach Satz 1 Nummer 3 Buchstabe c und
 
 (10) Die Absätze 1 bis 9 finden auch dann Anwendung, wenn im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine juristische Person, die nach den Absätzen 1 bis 4 oder Absatz 6 erlaubnispflichtige Geschäfte betreibt, ihren juristischen Sitz vom Ausland ins Inland verlegt.
 
-##### § 16 Erlaubnisverfahren und Bekanntmachung
+###### § 16 Erlaubnisverfahren und Bekanntmachung
 
 (1) Vor Erteilung einer Erlaubnis hat die Bundesanstalt die Entschädigungseinrichtung der Wertpapierhandelsunternehmen nach § 6 Absatz 1 Satz 1 des Anlegerentschädigungsgesetzes zu hören. Mit der Erteilung der Erlaubnis ist das Wertpapierinstitut dieser Entschädigungseinrichtung der Wertpapierhandelsunternehmen zugeordnet. Dies ist dem Wertpapierinstitut mitzuteilen.
 
@@ -696,7 +701,7 @@ Die Anhörung erstreckt sich insbesondere auf die Angaben, die für die Beurteil
 
 (5) Die Bundesanstalt führt ein Wertpapierinstitutsregister und veröffentlicht dies auf ihrer Internetseite. In das Wertpapierinstitutsregister sind alle inländischen Wertpapierinstitute, denen eine Erlaubnis nach § 15 Absatz 1 erteilt worden ist, mit dem Datum der Erteilung und dem Umfang der Erlaubnis und gegebenenfalls dem Datum des Erlöschens oder der Aufhebung der Erlaubnis einzutragen. Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zum Inhalt des Registers und zu den Mitwirkungspflichten der Wertpapierinstitute bei der Führung des Registers erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-##### § 17 Anfangskapital
+###### § 17 Anfangskapital
 
 (1) Das Anfangskapital beträgt
 
@@ -722,7 +727,7 @@ c) das eine Erlaubnis für die Verwahrung und Verwaltung im Sinne des § 2 Absat
 
 (6) (weggefallen)
 
-##### § 18 Versagung der Erlaubnis
+###### § 18 Versagung der Erlaubnis
 
 (1) Die Erlaubnis ist zu versagen, wenn
 
@@ -758,7 +763,7 @@ c) das eine Erlaubnis für die Verwahrung und Verwaltung im Sinne des § 2 Absat
 
 (4) Aus anderen als den in den Absätzen 1 bis 3 genannten Gründen darf die Erlaubnis nicht versagt werden.
 
-##### § 19 Erlöschen und Aufhebung der Erlaubnis
+###### § 19 Erlöschen und Aufhebung der Erlaubnis
 
 (1) Die Erlaubnis erlischt, wenn
 
@@ -794,7 +799,7 @@ Die Erlaubnis erlischt auch dann, wenn im Zuge einer Umwandlung nach § 305, § 
 
 ## Abschnitt 2 Geschäftsleiter und Verwaltungs- oder Aufsichtsorgan
 
-##### § 20 Geschäftsleiter
+###### § 20 Geschäftsleiter
 
 (1) Die Geschäftsleiter eines Kleinen oder Mittleren Wertpapierinstituts müssen für die Leitung eines Wertpapierinstituts fachlich geeignet und zuverlässig sein und der Wahrnehmung ihrer Aufgaben ausreichend Zeit widmen. Die fachliche Eignung setzt voraus, dass die Geschäftsleiter in ausreichendem Maß theoretische und praktische Kenntnisse in den betreffenden Geschäften sowie Leitungserfahrung haben. Das Vorliegen der fachlichen Eignung ist regelmäßig anzunehmen, wenn eine dreijährige leitende Tätigkeit bei einem Wertpapierinstitut von vergleichbarer Größe und Geschäftsart nachgewiesen wird. Der Nachweis kann auch durch Tätigkeiten bei einem anderen Unternehmen erbracht werden, sofern dieses eine vergleichbare Größe aufweist und von Art und Volumen in mit dem Wertpapierinstitut vergleichbarer Weise Wertpapierdienstleistungen erbringt.
 
@@ -812,7 +817,7 @@ Die Erlaubnis erlischt auch dann, wenn im Zuge einer Umwandlung nach § 305, § 
 
 (8) Eine Person, die nicht die Anforderungen nach den Absätzen 1 bis 3 erfüllt, darf nicht zum Geschäftsleiter eines Kleinen oder Mittleren Wertpapierinstituts bestellt werden.
 
-##### § 21 Verwaltungs- oder Aufsichtsorgan
+###### § 21 Verwaltungs- oder Aufsichtsorgan
 
 (1) Die Mitglieder des Verwaltungs- oder Aufsichtsorgans eines Kleinen oder Mittleren Wertpapierinstituts müssen zuverlässig sein, die erforderliche Sachkunde zur Wahrnehmung der Kontrollfunktion sowie zur Beurteilung und Überwachung der Geschäfte, die das jeweilige Unternehmen betreibt, besitzen und der Wahrnehmung ihrer Aufgaben ausreichend Zeit widmen. Bei der Prüfung, ob eine der in Satz 1 genannten Personen die erforderliche Sachkunde besitzt, berücksichtigt die Bundesanstalt den Umfang und die Komplexität der von dem Wertpapierinstitut, der Investmentholdinggesellschaft oder der gemischten Finanzholdinggesellschaft betriebenen Geschäfte.
 
@@ -826,7 +831,7 @@ Die Erlaubnis erlischt auch dann, wenn im Zuge einer Umwandlung nach § 305, § 
 
 (6) Eine Person, die nicht die Anforderungen nach Absatz 1 Satz 1 erfüllt, darf nicht zum Mitglied des Verwaltungs- oder Aufsichtsorgans eines Kleinen oder Mittleren Wertpapierinstituts bestellt werden.
 
-##### § 22 Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans
+###### § 22 Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans
 
 (1) In den Fällen des § 19 Absatz 2 Nummer 2 bis 4 kann die Bundesanstalt, statt die Erlaubnis aufzuheben,
 
@@ -860,7 +865,7 @@ Die Erlaubnis erlischt auch dann, wenn im Zuge einer Umwandlung nach § 305, § 
 
 Bei Wertpapierinstituten, die aufgrund ihrer Rechtsform einer besonderen Rechtsaufsicht unterliegen, erfolgt eine Maßnahme nach Satz 1 erst nach Anhörung der zuständigen Stelle für die Rechtsaufsicht über diese Wertpapierinstitute. Soweit das Gericht auf Antrag des Verwaltungs- oder Aufsichtsorgans ein Mitglied des Verwaltungs- oder Aufsichtsorgans abzuberufen hat, kann dieser Antrag bei Vorliegen der Voraussetzungen nach Satz 1 auch von der Bundesanstalt gestellt werden, wenn das Verwaltungs- oder Aufsichtsorgan dem Abberufungsverlangen der Bundesanstalt nicht nachgekommen ist. Die Abberufung von Arbeitnehmervertretern im Aufsichtsrat erfolgt allein nach den Vorschriften der Mitbestimmungsgesetze.
 
-##### § 23 Tätigkeitsverbote für natürliche Personen, die nicht Geschäftsleiter sind
+###### § 23 Tätigkeitsverbote für natürliche Personen, die nicht Geschäftsleiter sind
 
 (1) Die Bundesanstalt kann der für einen Verstoß gegen § 19 Absatz 2 Nummer 5, 7 oder 8 verantwortlichen natürlichen Person, die zum Zeitpunkt des Verstoßes nicht Geschäftsleiter ist, für einen Zeitraum von bis zu zwei Jahren die Aufnahme und Ausübung einer Tätigkeit als Geschäftsleiter eines Wertpapierinstituts in der Rechtsform einer juristischen Person untersagen.
 
@@ -868,7 +873,7 @@ Bei Wertpapierinstituten, die aufgrund ihrer Rechtsform einer besonderen Rechtsa
 
 ## Abschnitt 3 Inhaber bedeutender Beteiligungen
 
-##### § 24 Anzeige
+###### § 24 Anzeige
 
 (1) Wer beabsichtigt, allein oder im Zusammenwirken mit anderen Personen oder Unternehmen eine bedeutende Beteiligung an einem Wertpapierinstitut direkt oder indirekt zu erwerben (interessierter Erwerber) oder eine derartige bedeutende Beteiligung direkt oder indirekt zu erhöhen mit der Folge, dass sein Anteil an den Stimmrechten oder am Kapital die Grenzen von 20 Prozent, 30 Prozent oder 50 Prozent erreichen oder überschreiten würde oder das Wertpapierinstitut unter seine Kontrolle kommen würde (beabsichtigter Erwerb), hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich unter Angabe des Umfangs der geplanten Beteiligung anzuzeigen. In der Anzeige hat der interessierte Erwerber die für die Höhe der Beteiligung und die für die Begründung des maßgeblichen Einflusses wesentlichen Tatsachen und Unterlagen gemäß der Delegierten Verordnung (EU) 2017/1946 sowie die Personen und Unternehmen anzugeben, von denen er die entsprechenden Anteile erwerben will. Die Bundesanstalt kann in einer Rechtsverordnung nach § 14 Absatz 3 nähere Bestimmungen hierzu treffen.
 
@@ -880,7 +885,7 @@ Bei Wertpapierinstituten, die aufgrund ihrer Rechtsform einer besonderen Rechtsa
 
 (5) Der Inhaber einer bedeutenden Beteiligung hat jeden neu bestellten gesetzlichen oder satzungsmäßigen Vertreter oder neuen persönlich haftenden Gesellschafter mit den für die Beurteilung von dessen Zuverlässigkeit wesentlichen Tatsachen der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen.
 
-##### § 25 Beurteilungszeitraum
+###### § 25 Beurteilungszeitraum
 
 Die Bundesanstalt hat die Anzeige nach § 24 Absatz 1 innerhalb von 60 Arbeitstagen ab dem Datum des Schreibens, mit dem sie den Eingang der vollständigen Anzeige bestätigt hat, zu beurteilen (Beurteilungszeitraum). Bis spätestens zum 50. Arbeitstag innerhalb des Beurteilungszeitraums kann die Bundesanstalt weitere Informationen anfordern, die für den Abschluss der Beurteilung notwendig sind. Die Anforderung ergeht unter Angabe der zusätzlich benötigten Informationen. Die Bundesanstalt hat den Eingang der weiteren Informationen umgehend, spätestens jedoch innerhalb von zwei Arbeitstagen nach deren Zugang gegenüber dem Anzeigepflichtigen zu bestätigen. Der Beurteilungszeitraum ist vom Zeitpunkt der Anforderung der weiteren Informationen bis zu deren Eingang bei der Bundesanstalt gehemmt. Der Beurteilungszeitraum beträgt im Falle einer Hemmung nach Satz 5 höchstens 80 Arbeitstage. Die Bundesanstalt kann Ergänzungen oder Klarstellungen zu diesen Informationen anfordern; dies führt nicht zu einer erneuten Hemmung des Beurteilungszeitraums. Abweichend von Satz 6 kann der Beurteilungszeitraum im Falle einer Hemmung auf höchstens 90 Arbeitstage ausgedehnt werden, wenn der Anzeigepflichtige
 
@@ -896,7 +901,7 @@ c) der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. 
 
 d) der Richtlinie 2013/36/EU.
 
-##### § 26 Beurteilungskriterien und Untersagung
+###### § 26 Beurteilungskriterien und Untersagung
 
 (1) Die Bundesanstalt kann innerhalb des Beurteilungszeitraums den beabsichtigten Erwerb der bedeutenden Beteiligung oder ihre Erhöhung untersagen, wenn Tatsachen die Annahme rechtfertigen, dass
 
@@ -918,7 +923,7 @@ d) der Richtlinie 2013/36/EU.
 
 (4) Entscheidet die Bundesanstalt nach Abschluss der Beurteilung, den Erwerb oder die Erhöhung der Beteiligung zu untersagen, teilt sie dem Anzeigepflichtigen die Entscheidung innerhalb von zwei Arbeitstagen und unter Einhaltung des Beurteilungszeitraums unter Angabe der Gründe mit. Bemerkungen und Vorbehalte der für den Anzeigepflichtigen zuständigen Stellen sind in der Entscheidung wiederzugeben; die Untersagung darf nur aufgrund der in den Absätzen 1 und 2 genannten Gründe erfolgen. Wird der Erwerb oder die Erhöhung der Beteiligung nicht innerhalb des Beurteilungszeitraums untersagt, kann der Erwerb oder die Erhöhung vollzogen werden; die Rechte der Bundesanstalt nach § 27 bleiben unberührt. Die Bundesanstalt kann eine Frist setzen, nach deren Ablauf ihr der Anzeigepflichtige den Vollzug oder den Nichtvollzug des beabsichtigten Erwerbs oder der Erhöhung anzuzeigen hat. Nach Ablauf der Frist hat der Anzeigepflichtige die Anzeige unverzüglich bei der Bundesanstalt einzureichen.
 
-##### § 27 Untersagung der Stimmrechtsausübung und Weisungsrecht
+###### § 27 Untersagung der Stimmrechtsausübung und Weisungsrecht
 
 (1) Die Bundesanstalt kann dem Inhaber einer bedeutenden Beteiligung sowie den von ihm kontrollierten Unternehmen die Ausübung der Stimmrechte untersagen und anordnen, dass über die Anteile nur mit ihrer Zustimmung verfügt werden darf, wenn
 
@@ -938,7 +943,7 @@ d) der Richtlinie 2013/36/EU.
 
 ## Abschnitt 4 Vertraglich gebundene Vermittler, Bezeichnungsschutz und Registervorschriften
 
-##### § 28 Verpflichtungen von Wertpapierinstituten bei der Bestellung vertraglich gebundener Vermittler
+###### § 28 Verpflichtungen von Wertpapierinstituten bei der Bestellung vertraglich gebundener Vermittler
 
 (1) Bedient sich ein Wertpapierinstitut eines vertraglich gebundenen Vermittlers, hat das Wertpapierinstitut sicherzustellen, dass der Vermittler zuverlässig und fachlich geeignet ist, bei der Erbringung der Wertpapierdienstleistung die gesetzlichen Vorgaben erfüllt, Kunden vor Aufnahme der Geschäftsbeziehung über seinen Status nach § 3 Absatz 2 Satz 1 und 2 informiert und unverzüglich von der Beendigung dieses Status in Kenntnis setzt.
 
@@ -948,7 +953,7 @@ d) der Richtlinie 2013/36/EU.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Anforderungen an die Zuverlässigkeit und die fachliche Eignung der vertraglich gebundenen Vermittler sowie die erforderlichen Nachweise und die Art und Weise zur Übermittlung der betreffenden Daten zu regeln. Das Bundesministerium der Finanzen kann die Ermächtigung auf die Bundesanstalt übertragen. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Wertpapierinstitute anzuhören.
 
-##### § 29 Bezeichnungsschutz
+###### § 29 Bezeichnungsschutz
 
 (1) Die Bezeichnung „Wertpapierinstitut“ oder „Wertpapierdienstleistungsunternehmen“ oder eine Bezeichnung, in der eines dieser Wörter enthalten ist, dürfen, soweit durch Gesetz nichts anderes bestimmt ist, in der Firmenbezeichnung, als Zusatz zum Firmennamen, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken nur führen:
 
@@ -960,7 +965,7 @@ Wertpapierinstitute, die bis zum Inkrafttreten dieses Gesetzes zulässigerweise 
 
 (2) Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen zur Führung der in Absatz 1 genannten Bezeichnungen befugt ist. Sie hat ihre Entscheidungen dem Registergericht mitzuteilen.
 
-##### § 30 Registervorschriften
+###### § 30 Registervorschriften
 
 (1) Soweit nach § 15 das Betreiben von Wertpapierdienstleistungen einer Erlaubnis bedarf, dürfen Eintragungen in das Handels- oder Genossenschaftsregister oder in sonstige öffentliche Register nur vorgenommen werden, wenn dem Registergericht die Erlaubnis nachgewiesen ist.
 
@@ -970,17 +975,17 @@ Wertpapierinstitute, die bis zum Inkrafttreten dieses Gesetzes zulässigerweise 
 
 ## Kapitel 3 Informationen über die zuständigen Sicherungseinrichtungen
 
-##### § 31 Information über die Sicherungseinrichtung
+###### § 31 Information über die Sicherungseinrichtung
 
 Ein Wertpapierinstitut hat Kunden, die nicht Institute im Sinne des Kreditwesengesetzes oder Wertpapierinstitute sind, über seine Zugehörigkeit zu einer Einrichtung zur Sicherung der Ansprüche von Anlegern (Sicherungseinrichtung) zu informieren. Das Wertpapierinstitut hat ferner Kunden, die nicht Kreditinstitute oder Wertpapierinstitute sind, vor Aufnahme der Geschäftsbeziehung in Textform in leicht verständlicher Sprache über die für die Sicherung geltenden Bestimmungen einschließlich Umfang und Höhe der Sicherung zu informieren. Sofern rückzahlbare Gelder nicht gesichert sind, hat das Wertpapierinstitut auf diese Tatsache in den Allgemeinen Geschäftsbedingungen und an hervorgehobener Stelle in den Vertragsunterlagen vor Aufnahme der Geschäftsbeziehung hinzuweisen. Die Informationen in den Vertragsunterlagen dürfen keine anderen Erklärungen enthalten und sind gesondert von den Kunden zu bestätigen. Außerdem müssen auf Anfrage Informationen über die Bedingungen der Sicherung einschließlich der für die Geltendmachung der Entschädigungsansprüche erforderlichen Formalitäten erhältlich sein.
 
-##### § 32 Information der Kunden über das Ausscheiden aus einer Sicherungseinrichtung
+###### § 32 Information der Kunden über das Ausscheiden aus einer Sicherungseinrichtung
 
 Scheidet ein Wertpapierinstitut aus einer Sicherungseinrichtung aus, hat es seine Kunden, die nicht Institute im Sinne des Kreditwesengesetzes oder Wertpapierinstitute sind, sowie die Bundesanstalt und die Deutsche Bundesbank hierüber unverzüglich in Textform zu unterrichten.
 
 ## Kapitel 4 Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
 
-##### § 33 Interne Sicherungsmaßnahmen
+###### § 33 Interne Sicherungsmaßnahmen
 
 (1) Wertpapierinstitute, Wertpapierinstitutsgruppen, Investmentholdinggesellschaften, gemischte Finanzholdinggesellschaften sowie Mutterunternehmen von Wertpapierinstitutsgruppen müssen unbeschadet der in den §§ 4 bis 6 des Geldwäschegesetzes aufgeführten Pflichten sowie der in diesem Gesetz enthaltenen Organisationspflichten über ein angemessenes Risikomanagement sowie über interne Sicherungsmaßnahmen verfügen, die der Verhinderung von strafbaren Handlungen, die zu einer Gefährdung des Vermögens des Wertpapierinstituts führen können, dienen. Sie haben dafür angemessene geschäfts- und kundenbezogene Sicherungssysteme zu schaffen und diese zu aktualisieren sowie Kontrollen durchzuführen. Hierzu gehört auch die fortlaufende Entwicklung geeigneter Strategien und Sicherungsmaßnahmen zur Verhinderung des Missbrauchs von neuen Finanzprodukten und Technologien für Zwecke der Geldwäsche und der Terrorismusfinanzierung oder der Begünstigung der Anonymität von Geschäftsbeziehungen und Transaktionen.
 
@@ -992,19 +997,19 @@ Scheidet ein Wertpapierinstitut aus einer Sicherungseinrichtung aus, hat es sein
 
 (5) Die Funktion des Geldwäschebeauftragten im Sinne des § 7 des Geldwäschegesetzes und die Pflichten zur Verhinderung strafbarer Handlungen nach Absatz 1 Satz 1 werden in dem Wertpapierinstitut sowie in der Investmentholdinggesellschaft oder gemischten Finanzholdinggesellschaft von einer Stelle wahrgenommen. Die Bundesanstalt kann auf Antrag des Wertpapierinstituts sowie der Investmentholdinggesellschaften oder gemischten Finanzholdinggesellschaften zulassen, dass eine andere Stelle in dem Wertpapierinstitut, der Investmentholdinggesellschaft oder gemischten Finanzholdinggesellschaft für die Verhinderung der strafbaren Handlungen zuständig ist, soweit hierfür ein wichtiger Grund vorliegt.
 
-##### § 34 Zeitpunkt der Identitätsüberprüfung
+###### § 34 Zeitpunkt der Identitätsüberprüfung
 
 Abweichend von § 11 Absatz 1 des Geldwäschegesetzes kann die Überprüfung der Identität des Vertragspartners, einer für diesen auftretenden Person und des wirtschaftlich Berechtigten auch unverzüglich nach der Eröffnung eines Kontos oder Depots abgeschlossen werden. In diesem Fall muss sichergestellt sein, dass vor Abschluss der Überprüfung der Identität keine Gelder von dem Konto oder dem Depot abverfügt werden können. Für den Fall einer Rückzahlung eingegangener Gelder dürfen diese nur an den Einzahler ausgezahlt werden.
 
-##### § 35 Verstärkte Sorgfaltspflichten
+###### § 35 Verstärkte Sorgfaltspflichten
 
 Abweichend von § 10 Absatz 3 Nummer 2 Buchstabe b des Geldwäschegesetzes bestehen die Sorgfaltspflichten nach § 10 Absatz 1 Nummer 1, 2 und 4 des Geldwäschegesetzes für Wertpapierinstitute sowie Investmentholdinggesellschaften oder gemischte Finanzholdinggesellschaften bei der Annahme von Bargeld ungeachtet etwaiger im Geldwäschegesetz oder in diesem Gesetz genannter Schwellenbeträge, soweit ein Sortengeschäft nach § 1 Absatz 1a Satz 2 Nummer 7 des Kreditwesengesetzes nicht über ein bei dem Wertpapierinstitut eröffneten Konto des Kunden abgewickelt wird und die Transaktion einen Wert von 2 500 Euro oder mehr aufweist.
 
-##### § 36 Geldwäscherechtliche Pflichten für Investmentholdinggesellschaften
+###### § 36 Geldwäscherechtliche Pflichten für Investmentholdinggesellschaften
 
 Investmentholdinggesellschaften, die als Mutterunternehmen gelten oder von der Bundesanstalt als solches bestimmt wurden, sind Verpflichtete nach § 2 Absatz 1 Nummer 2 des Geldwäschegesetzes. Sie unterliegen insoweit auch der Aufsicht der Bundesanstalt nach § 50 Nummer 1 Buchstabe b und c des Geldwäschegesetzes.
 
-##### § 37 Verbotene Geschäfte
+###### § 37 Verbotene Geschäfte
 
 Einem Wertpapierinstitut sind verboten:
 
@@ -1016,7 +1021,7 @@ Einem Wertpapierinstitut sind verboten:
 
 ## Abschnitt 1 Grundlagen der Solvenzaufsicht
 
-##### § 38 Anwendungsbereich
+###### § 38 Anwendungsbereich
 
 (1) Abschnitt 1 dieses Kapitels findet mit Ausnahme der §§ 38, 40, 41 Nummer 1 bis 3, von § 43 Absatz 1, § 45 Absatz 1 Satz 1, 2 und 3 Nummer 1, 3 und 4 auf Kleine Wertpapierinstitute keine Anwendung.
 
@@ -1032,7 +1037,7 @@ Einem Wertpapierinstitut sind verboten:
 
 (7) Die aufsichtliche Konsolidierung einer Wertpapierinstitutsgruppe richtet sich nach den Artikeln 7 und 8 der Verordnung (EU) 2019/2033. Dies gilt auch, wenn ein oder mehrere Finanzdienstleistungsinstitute oder Kreditinstitute, die nicht CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes sind, Teil der Wertpapierinstitutsgruppe sind.
 
-##### § 39 Internes Kapital und liquide Mittel
+###### § 39 Internes Kapital und liquide Mittel
 
 (1) Mittlere Wertpapierinstitute müssen laufend ihre Risikotragfähigkeit sicherstellen. Dies umfasst Verfahren zur Ermittlung und Sicherstellung der Risikotragfähigkeit, wobei eine vorsichtige Ermittlung der Risiken und des zu ihrer Abdeckung verfügbaren Risikodeckungspotenzials zugrunde zu legen ist. Mittlere Wertpapierinstitute müssen darüber hinaus durch entsprechende Verfahren sicherstellen, dass sie ihre Mittel so anlegen, dass jederzeit eine ausreichende Zahlungsbereitschaft (Liquidität) gewährleistet ist.
 
@@ -1040,7 +1045,7 @@ Einem Wertpapierinstitut sind verboten:
 
 (3) In dem Umfang, in dem die Bundesanstalt es als angemessen einstuft, kann sie von Kleinen Wertpapierinstituten verlangen, dass diese die Anforderungen der Absätze 1 und 2 einhalten.
 
-##### § 40 Auslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung
+###### § 40 Auslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung
 
 (1) Ein Wertpapierinstitut muss abhängig von Art, Umfang, Komplexität und Risikogehalt einer Auslagerung von ausschlaggebenden und wichtigen betrieblichen Aufgaben im Sinne des Artikels 30 Absatz 1 der Delegierten Verordnung (EU) 2017/565 (wesentliche Auslagerung) angemessene Vorkehrungen treffen, um übermäßige zusätzliche Risiken zu vermeiden. Eine Auslagerung darf weder die Ordnungsmäßigkeit dieser Geschäfte und Dienstleistungen noch die Geschäftsorganisation beeinträchtigen. Insbesondere muss ein angemessenes und wirksames Risikomanagement durch das Wertpapierinstitut gewährleistet bleiben. Ein Wertpapierinstitut hat im Rahmen seines Risikomanagements ein Auslagerungsregister zu führen. Darin sind sämtliche wesentlichen und nicht wesentlichen Auslagerungen zu erfassen.
 
@@ -1068,19 +1073,19 @@ Einem Wertpapierinstitut sind verboten:
 
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute zu hören.
 
-##### § 41 Interne Unternehmensführung
+###### § 41 Interne Unternehmensführung
 
 Wertpapierinstitute müssen solide Regelungen für die Unternehmensführung schaffen, die zweckdienlich, der Art, dem Umfang und der Komplexität der dem Geschäftsmodell innewohnenden Risiken und den Geschäften des Wertpapierinstituts angemessen sind; dazu zählen
 
 1. eine klare Organisationsstruktur mit klar bestimmten, transparenten und widerspruchsfreien Berichtslinien,
 
-2. wirksame Verfahren zur Identifizierung, Beurteilung, Steuerung sowie Überwachung und Kommunikation der Risiken und möglichen Risiken, denen das Wertpapierinstitut ausgesetzt ist oder die das Wertpapierinstitut für andere darstellt,
+2. wirksame Verfahren zur Identifizierung, Beurteilung, Steuerung sowie Überwachung und Kommunikation der Risiken und möglichen Risiken, denen das Wertpapierinstitut ausgesetzt ist oder die das Wertpapierinstitut für andere darstellt, einschließlich des Konzentrationsrisikos, das aus Risikopositionen gegenüber zentralen Gegenparteien unter Berücksichtigung der in Artikel 7a der Verordnung (EU) Nr. 648/2012 festgelegten Anforderungen erwächst,
 
 3. angemessene interne Kontrollmechanismen, einschließlich ordnungsgemäßer Verwaltungs- und Rechnungslegungsverfahren, und
 
 4. ein Vergütungssystem, das mit einem soliden und wirksamen Risikomanagement vereinbar und diesem förderlich sowie geschlechtsneutral ausgestaltet ist.
 
-##### § 42 Länderspezifische Berichterstattung
+###### § 42 Länderspezifische Berichterstattung
 
 In Deutschland zugelassene Wertpapierinstitute, die in anderen Vertragsstaaten oder in Drittstaaten über Zweigniederlassungen oder über Tochterunternehmen verfügen, die als Finanzinstitut gemäß Artikel 4 Absatz 1 Nummer 26 der Verordnung (EU) Nr. 575/2013 einzustufen sind, haben jährlich, aufgeschlüsselt nach Mitgliedstaaten der Europäischen Union und Drittstaaten, die folgenden Angaben in eine Anlage zum Jahresabschluss im Sinne des § 76 Absatz 1 Satz 2 aufzunehmen, sie nach Maßgabe des § 340k des Handelsgesetzbuchs prüfen zu lassen und offenzulegen:
 
@@ -1096,7 +1101,7 @@ In Deutschland zugelassene Wertpapierinstitute, die in anderen Vertragsstaaten o
 
 6. die erhaltenen staatlichen Beihilfen.
 
-##### § 43 Aufgaben der Geschäftsleiter im Rahmen des Risikomanagements
+###### § 43 Aufgaben der Geschäftsleiter im Rahmen des Risikomanagements
 
 (1) Die Geschäftsleiter des Wertpapierinstituts tragen die Gesamtverantwortung für die Risikostrategie und die internen Grundsätze des Wertpapierinstituts zum Umgang mit Risiken. Sie genehmigen und überprüfen regelmäßig die Strategien und die internen Richtlinien zur Risikobereitschaft des Wertpapierinstituts sowie zum Umgang, zur Überwachung und zur Minderung von Risiken, denen das Wertpapierinstitut ausgesetzt ist oder ausgesetzt sein könnte, wenn nicht das Verwaltungs- oder Aufsichtsorgan diese Aufgaben gemäß § 44 wahrnimmt. Dabei sind das makroökonomische Umfeld und der Geschäftszyklus des Wertpapierinstituts zu berücksichtigen.
 
@@ -1108,7 +1113,7 @@ In Deutschland zugelassene Wertpapierinstitute, die in anderen Vertragsstaaten o
 
 2. Zugang zu allen Informationen über die Risiken haben, denen das Wertpapierinstitut ausgesetzt ist oder ausgesetzt sein könnte.
 
-##### § 44 Funktion des Verwaltungs- oder Aufsichtsorgans im Rahmen des Risikomanagements; Ausschussbildung
+###### § 44 Funktion des Verwaltungs- oder Aufsichtsorgans im Rahmen des Risikomanagements; Ausschussbildung
 
 (1) Das Verwaltungs- oder Aufsichtsorgan des Wertpapierinstituts überwacht regelmäßig die Risikostrategie und die internen Grundsätze des Wertpapierinstituts zum Umgang mit Risiken. Es überwacht die angemessene Ausgestaltung der Vergütungssysteme einschließlich deren Umsetzung in dem Wertpapierinstitut und überprüft sie regelmäßig. Es ist auch für die Ausgestaltung der Vergütungssysteme der Geschäftsleiter zuständig.
 
@@ -1138,7 +1143,7 @@ Abweichend von Satz 2 kann die Bundesanstalt im Einzelfall für ein Wertpapierin
 
 (7) Der Vergütungskontrollausschuss muss eine ausgewogene Zusammensetzung aus Frauen und Männern aufweisen. Die Mitglieder des Vergütungskontrollausschusses müssen in der Lage sein, die Vergütungssysteme sowie die für das Risiko-, Kapital- und Liquiditätsmanagement geschaffenen Anreize sachkundig und unabhängig zu bewerten. Ist eine Arbeitnehmervertretung im Verwaltungs- oder Aufsichtsorgan vorgesehen, so umfasst der Vergütungskontrollausschuss einen oder mehrere Vertreter der Arbeitnehmer. Der Vergütungskontrollausschuss kann auf Gruppenebene eingerichtet werden.
 
-##### § 45 Risikosteuerung
+###### § 45 Risikosteuerung
 
 (1) Ein Wertpapierinstitut hat angemessene Strategien, Grundsätze, Verfahren und Systeme zur Risikosteuerung einzurichten. Diese müssen eine Identifizierung, Beurteilung, Steuerung sowie Überwachung und Kommunikation der wesentlichen Risiken und damit verbundener Risikokonzentrationen sowie deren Ursachen und Auswirkungen auf die Eigenmittel des Wertpapierinstituts gewährleisten. Dies betrifft
 
@@ -1146,13 +1151,15 @@ Abweichend von Satz 2 kann die Bundesanstalt im Einzelfall für ein Wertpapierin
 
 2. Risiken für den Markt,
 
-3. Risiken für das Wertpapierinstitut und
+3. Risiken für das Wertpapierinstitut,
 
-4. Liquiditätsrisiken.
+4. Liquiditätsrisiken und
+
+5. das Konzentrationsrisiko, das aus Risikopositionen gegenüber zentralen Gegenparteien erwächst.
 
 (2) Bei der Beurteilung der Risiken gegenüber Kunden gemäß Absatz 1 Satz 3 Nummer 1 hat das Wertpapierinstitut die Auswirkungen einer getrennten Verwahrung von Kundengeldern gemäß § 84 Absatz 2 des Wertpapierhandelsgesetzes zu berücksichtigen. Das Wertpapierinstitut hat zu prüfen, ob durch den Abschluss einer Berufshaftpflichtversicherung eine Minderung der Risiken gegenüber Kunden möglich ist.
 
-(3) Bei der Beurteilung der Risiken nach Absatz 1 Satz 3 Nummer 3 hat das Wertpapierinstitut zu berücksichtigen:
+(3) Bei der Beurteilung der Risiken nach Absatz 1 Satz 3 Nummer 3 hat das Wertpapierinstitut Folgendes zu berücksichtigen:
 
 1. wesentliche Veränderungen des Buchwertes von Vermögensgegenständen,
 
@@ -1164,9 +1171,11 @@ Abweichend von Satz 2 kann die Bundesanstalt im Einzelfall für ein Wertpapierin
 
 5. eigene Verpflichtungen gegenüber Altersversorgungssystemen mit im Voraus festgelegten Leistungen.
 
+Bei der Beurteilung des Konzentrationsrisikos nach Absatz 1 Satz 3 Nummer 5 hat das Wertpapierinstitut konkrete Pläne und quantifizierbare Ziele im Einklang mit den in Artikel 7a der Verordnung (EU) Nr. 648/2012 festgelegten Anforderungen auszuarbeiten, um das Konzentrationsrisiko zu überwachen, das aus Risikopositionen gegenüber zentralen Gegenparteien erwächst.
+
 (4) Wertpapierinstitute tragen im Falle einer Abwicklung oder Einstellung ihrer Tätigkeiten unter Berücksichtigung der Tragfähigkeit und Nachhaltigkeit ihrer Geschäftsmodelle und -strategien den Erfordernissen und dem Mittelbedarf, die mit Blick auf den Zeitplan und die Erhaltung der Eigenmittel und der liquiden Mittel während des gesamten Prozesses des Marktaustritts zu erwarten sind, gebührend Rechnung.
 
-##### § 46 Vergütungssystem; Verordnungsermächtigung
+###### § 46 Vergütungssystem; Verordnungsermächtigung
 
 (1) Ein Wertpapierinstitut hat über Vergütungssysteme für Geschäftsleiter und Mitarbeiter, deren berufliche Tätigkeit sich wesentlich auf das Risikoprofil des Wertpapierinstituts oder der von ihr verwalteten Vermögenswerte auswirkt, zu verfügen, die angemessen, transparent und auf eine nachhaltige Entwicklung des Wertpapierinstituts ausgerichtet sind; dies gilt nicht, soweit die Vergütung durch Tarifvertrag oder in seinem Geltungsbereich durch Vereinbarung der Arbeitsvertragsparteien über die Anwendung der tarifvertraglichen Regelungen oder aufgrund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung vereinbart ist.
 
@@ -1198,7 +1207,7 @@ Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur des We
 
 ## Abschnitt 2 Aufsichtlicher Überprüfungs- und Bewertungsprozess
 
-##### § 47 Aufsichtliche Überprüfung und Bewertung
+###### § 47 Aufsichtliche Überprüfung und Bewertung
 
 (1) Die Bundesanstalt überprüft und bewertet die Regelungen, Strategien, Verfahren und Mechanismen, die ein Mittleres Wertpapierinstitut zur Einhaltung dieses Gesetzes und der Verordnung (EU) 2019/2033 eingeführt hat; dabei berücksichtigt die Bundesanstalt die Größe, das Risikoprofil und das Geschäftsmodell des Mittleren Wertpapierinstituts.
 
@@ -1220,13 +1229,21 @@ Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur des We
 
 8. den Abschluss einer Vermögensschadenhaftpflichtversicherung durch das Wertpapierinstitut.
 
+(2a) Wenn ein Mittleres Wertpapierinstitut Risikopositionen gegenüber zentralen Gegenparteien hält, überprüft und bewertet die Bundesanstalt
+
+1. diese Risikopositionen in Bezug auf die Steuerung seines Konzentrationsrisikos, das aus ihnen erwächst,
+
+2. die gemäß § 45 Absatz 3 Satz 2 ausgearbeiteten Pläne und
+
+3. die Fortschritte bei der Anpassung seines Geschäftsmodells an die in Artikel 7a der Verordnung (EU) Nr. 648/2012 festgelegten Anforderungen.
+
 (3) Die Bundesanstalt kann im Einzelfall unter Berücksichtigung der Größe, der Art, des Umfangs und der Komplexität der Geschäfte eines Mittleren Wertpapierinstituts sowie ihrer Systemrelevanz von der Überprüfung und Bewertung nach Absatz 2 absehen. Bei der Entscheidung sind die Vorgaben des § 84 des Wertpapierhandelsgesetzes und des § 10 der Wertpapierdienstleistungs-Verhaltens- und -Organisationsverordnung hinsichtlich der Trennung der gehaltenen Kundengelder von den eigenen Geldern des Wertpapierinstituts zu berücksichtigen.
 
-(4) Die Bundesanstalt entscheidet im Einzelfall, ob und in welcher Form die Überprüfung und Bewertung nach den Absätzen 1 und 2 in Bezug auf ein Kleines Wertpapierinstitut durchgeführt wird, sofern die Bundesanstalt dies aufgrund der Größe, der Art, des Umfangs und der Komplexität der Geschäfte des Wertpapierinstituts für notwendig hält.
+(4) Die Bundesanstalt entscheidet im Einzelfall, ob und in welcher Form die Überprüfung und Bewertung nach den Absätzen 1 bis 2a in Bezug auf ein Kleines Wertpapierinstitut durchgeführt wird, sofern die Bundesanstalt dies aufgrund der Größe, der Art, des Umfangs und der Komplexität der Geschäfte des Wertpapierinstituts für notwendig hält.
 
-(5) Das Wertpapierinstitut gewährt der Bundesanstalt bei der nach den Absätzen 1 und 2 durchzuführenden Bewertung und Feststellung den Zugang zu Tagesordnungen, Protokollen und Begleitdokumenten der Sitzungen des Verwaltungs- oder Aufsichtsorgans und seiner Ausschüsse sowie zu den Ergebnissen der internen oder externen Bewertung der Leistung der Geschäftsleiter.
+(5) Das Wertpapierinstitut gewährt der Bundesanstalt bei der nach den Absätzen 1 bis 2a durchzuführenden Bewertung und Feststellung den Zugang zu Tagesordnungen, Protokollen und Begleitdokumenten der Sitzungen des Verwaltungs- oder Aufsichtsorgans und seiner Ausschüsse sowie zu den Ergebnissen der internen oder externen Bewertung der Leistung der Geschäftsleiter.
 
-##### § 48 Laufende Überprüfung der Erlaubnis zur Verwendung interner Modelle
+###### § 48 Laufende Überprüfung der Erlaubnis zur Verwendung interner Modelle
 
 (1) Die Bundesanstalt überprüft regelmäßig, mindestens alle drei Jahre, ob das Wertpapierinstitut die Anforderungen für die Erlaubnis zur Verwendung interner Modelle gemäß Artikel 22 der Verordnung (EU) 2019/2033 erfüllt. Dabei trägt die Bundesanstalt insbesondere Veränderungen bei der Geschäftstätigkeit des Wertpapierinstituts und der Anwendung der internen Modelle auf neue Produkte Rechnung und überprüft und bewertet, ob das Wertpapierinstitut bei diesen Modellen sachgerechte und aktuelle Techniken und Vorgehensweisen anwendet.
 
@@ -1250,7 +1267,7 @@ Sind die Eigenmittelanforderungen im Falle des Satzes 1 zur angemessenen Risikoa
 
 ## Abschnitt 3 Besondere Befugnisse der Bundesanstalt bei der laufenden Beaufsichtigung von Wertpapierinstituten
 
-##### § 49 Besondere Aufsichtsbefugnisse
+###### § 49 Besondere Aufsichtsbefugnisse
 
 Die Bundesanstalt kann, um Verstöße gegen dieses Gesetz oder die Verordnung (EU) 2019/2033 zu verhindern oder zu unterbinden, insbesondere zur Durchführung der §§ 46 bis 48 sowie der Verordnung (EU) 2019/2033, gegenüber einem Wertpapierinstitut anordnen,
 
@@ -1276,11 +1293,13 @@ Die Bundesanstalt kann, um Verstöße gegen dieses Gesetz oder die Verordnung (E
 
 11. im Einklang mit § 52 besondere Liquiditätsanforderungen zu erfüllen,
 
-12. ergänzende Informationen zu Verstößen gegen dieses Gesetz oder die Verordnung (EU) 2019/2033 zu übermitteln und
+12. ergänzende Informationen zu Verstößen gegen dieses Gesetz oder die Verordnung (EU) 2019/2033 zu übermitteln,
 
-13. die Risiken für die Sicherheit der Netzwerke und Informationssysteme, die das Wertpapierinstitut zur Gewährleistung der Vertraulichkeit, Integrität und Verfügbarkeit seiner Verfahren, Daten und Vermögenswerte einsetzt, zu verringern.
+13. die Risiken für die Sicherheit der Netzwerke und Informationssysteme, die das Wertpapierinstitut zur Gewährleistung der Vertraulichkeit, Integrität und Verfügbarkeit seiner Verfahren, Daten und Vermögenswerte einsetzt, zu verringern und
 
-##### § 50 Zusätzliche Eigenmittelanforderungen
+14. die Risikopositionen des Wertpapierinstituts gegenüber dieser zentralen Gegenpartei zu verringern oder Risikopositionen über die Clearingkonten des Wertpapierinstituts gemäß Artikel 7a der Verordnung (EU) Nr. 648/2012 neu zuzuweisen, wenn sie der Auffassung ist, dass ein Risiko einer übermäßigen Konzentration besteht, das aus Risikopositionen gegenüber einer zentralen Gegenpartei erwächst.
+
+###### § 50 Zusätzliche Eigenmittelanforderungen
 
 (1) Die Bundesanstalt kann die in § 49 Nummer 1 genannten zusätzlichen Eigenmittelanforderungen anordnen, wenn Tatsachen die Annahme rechtfertigen, dass
 
@@ -1306,13 +1325,13 @@ Die Bundesanstalt kann, um Verstöße gegen dieses Gesetz oder die Verordnung (E
 
 3. diese Eigenmittel dürfen nicht zur Erfüllung einer der Eigenmittelanforderungen in Artikel 11 Absatz 1 der Verordnung (EU) 2019/2033 verwendet werden.
 
-##### § 51 Vorgaben zu zusätzlichen Eigenmitteln
+###### § 51 Vorgaben zu zusätzlichen Eigenmitteln
 
 (1) Zusätzliche Eigenmittelanforderungen kann die Bundesanstalt gegenüber einem Mittleren Wertpapierinstitut unter Berücksichtigung der Größe und Systemrelevanz sowie der Art, des Umfangs und der Komplexität der Tätigkeiten anordnen, um zu verhindern, dass konjunkturbedingte wirtschaftliche Schwankungen zu einer Unterschreitung der in Teil 3 der Verordnung (EU) 2019/2033 genannten und der nach § 49 Nummer 1 und § 50 angeordneten Eigenmittelanforderungen führen oder die Fähigkeit des Wertpapierinstituts gefährden, die Einstellung der Geschäftstätigkeit geordnet durchzuführen.
 
 (2) Die Bundesanstalt kann bei einem Mittleren Wertpapierinstitut die Angemessenheit der nach Absatz 1 angeordneten zusätzlichen Eigenmittelanforderungen überprüfen, Änderungen der zusätzlichen Eigenmittel anordnen und zu deren Umsetzung eine Frist bestimmen.
 
-##### § 52 Besondere Liquiditätsanforderungen
+###### § 52 Besondere Liquiditätsanforderungen
 
 (1) Die Bundesanstalt kann besondere Liquiditätsanforderungen nach § 49 Nummer 11 anordnen, wenn Tatsachen die Annahme rechtfertigen, dass ein Mittleres Wertpapierinstitut oder ein Kleines Wertpapierinstitut, das nicht von der Liquiditätsanforderung nach Artikel 43 Absatz 1 der Verordnung (EU) 2019/2033 ausgenommen ist,
 
@@ -1324,11 +1343,11 @@ Die Bundesanstalt kann, um Verstöße gegen dieses Gesetz oder die Verordnung (E
 
 (3) Die besondere Liquiditätsanforderung nach § 49 Nummer 11 ist mit liquiden Aktiva gemäß Artikel 43 der Verordnung (EU) 2019/2033 zu erfüllen.
 
-##### § 53 Zusammenarbeit mit Abwicklungsbehörden
+###### § 53 Zusammenarbeit mit Abwicklungsbehörden
 
 Die Bundesanstalt unterrichtet die von den Vertragsstaaten nach Artikel 2 Absatz 1 Nummer 18 in Verbindung mit Artikel 3 der Richtlinie 2014/59/EU benannten zuständigen Abwicklungsbehörden und, soweit erforderlich, die zuständigen Abwicklungsbehörden von Drittstaaten über das von einem Wertpapierinstitut nach § 49 Nummer 1 verlangte zusätzliche Kapital sowie über möglicherweise von einem solchen Wertpapierinstitut erwartete Korrekturen gemäß § 51 Absatz 2.
 
-##### § 54 Veröffentlichungspflichten
+###### § 54 Veröffentlichungspflichten
 
 (1) Die Bundesanstalt kann ein Mittleres Wertpapierinstitut und ein Wertpapierinstitut nach Artikel 46 Absatz 2 der Verordnung (EU) 2019/2033 dazu verpflichten,
 
@@ -1340,7 +1359,7 @@ Die Bundesanstalt kann Fristen für die Veröffentlichungen der in Artikel 46 de
 
 (2) Die Bundesanstalt kann Mutterunternehmen dazu verpflichten, jährlich entweder vollständig zusammenhängend in Textform oder durch einen Verweis auf gleichwertige Angaben eine Beschreibung ihrer rechtlichen Struktur und der Unternehmensführungs- und Organisationsstruktur der Wertpapierinstitutsgruppe gemäß § 41 dieses Gesetzes und Artikel 10 der Richtlinie 2014/65/EU zu veröffentlichen.
 
-##### § 55 Pflicht zur Unterrichtung der Europäischen Bankenaufsichtsbehörde
+###### § 55 Pflicht zur Unterrichtung der Europäischen Bankenaufsichtsbehörde
 
 Die Bundesanstalt unterrichtet die Europäische Bankenaufsichtsbehörde über
 
@@ -1354,7 +1373,7 @@ Die Bundesanstalt unterrichtet die Europäische Bankenaufsichtsbehörde über
 
 ## Unterabschnitt 1 Beaufsichtigung von Wertpapierinstitutsgruppen auf konsolidierter Basis und Beaufsichtigung der Einhaltung der Gruppenkapitalanforderungen
 
-##### § 56 Zuständigkeit der Bundesanstalt für die Beaufsichtigung auf konsolidierter Basis und die Überwachung der Einhaltung des Gruppenkapitaltests
+###### § 56 Zuständigkeit der Bundesanstalt für die Beaufsichtigung auf konsolidierter Basis und die Überwachung der Einhaltung des Gruppenkapitaltests
 
 (1) Die Bundesanstalt ist für die Beaufsichtigung auf konsolidierter Basis zuständig, wenn
 
@@ -1372,11 +1391,11 @@ Satz 1 gilt entsprechend für die Einhaltung der Überwachung des Gruppenkapital
 
 (2) Die Bundesanstalt kann einvernehmlich mit den zuständigen Behörden der anderen betroffenen Vertragsstaaten unter Berücksichtigung der betreffenden Wertpapierinstitute und der Bedeutung ihrer Tätigkeiten in Deutschland und den anderen betroffenen Vertragsstaaten von den in Absatz 1 Satz 1 Nummer 3, 4 und 5 genannten Kriterien abweichen, sollte die Anwendung dieser Kriterien für eine wirksame Beaufsichtigung auf konsolidierter Basis oder Überwachung der Einhaltung des Gruppenkapitaltests nicht angemessen sein. In diesem Fall kann die Bundesanstalt für die Beaufsichtigung auf konsolidierter Basis oder die Überwachung der Einhaltung des Gruppenkapitaltests sich selbst oder die zuständige Behörde eines anderen betroffenen Vertragsstaates benennen. Die Bundesanstalt und die zuständigen Behörden der anderen betroffenen Vertragsstaaten geben in diesem Fall der EU-Mutterinvestmentholdinggesellschaft, der gemischten EU-Mutterfinanzholdinggesellschaft und dem Wertpapierinstitut mit der höchsten Bilanzsumme vor einer solchen Entscheidung die Gelegenheit, zu der beabsichtigten Entscheidung Stellung zu nehmen. Die Bundesanstalt und die zuständigen Stellen der anderen betroffenen Vertragsstaaten melden der Kommission und der Europäischen Bankenaufsichtsbehörde die Entscheidung.
 
-##### § 57 Informationspflichten in Krisensituationen
+###### § 57 Informationspflichten in Krisensituationen
 
 Bei Eintritt einer Krisensituation, einschließlich einer Situation im Sinne des Artikels 18 der Verordnung (EU) Nr. 1093/2010 oder widriger Entwicklungen an den Märkten, die die Marktliquidität und die Stabilität des Finanzsystems in einem der Vertragsstaaten, in denen Unternehmen einer Wertpapierinstitutsgruppe zugelassen sind, gefährden könnte, benachrichtigt die Bundesanstalt, wenn sie gemäß § 56 zuständig ist für die Beaufsichtigung auf konsolidierter Basis oder für die Überwachung der Einhaltung des Gruppenkapitaltests, unverzüglich die Europäische Bankenaufsichtsbehörde, den Europäischen Ausschuss für Systemrisiken sowie alle relevanten zuständigen Stellen innerhalb des Europäischen Wirtschaftsraums und übermittelt diesen Stellen alle für die Wahrnehmung ihrer Aufgaben wesentlichen Informationen.
 
-##### § 58 Aufsichtskollegien
+###### § 58 Aufsichtskollegien
 
 (1) Ist die Bundesanstalt die nach § 56 zuständige Behörde, kann sie Aufsichtskollegien einrichten, um die Ausübung der in Absatz 2 genannten Aufgaben zu unterstützen. Dabei stellt die Bundesanstalt die Koordinierung und Zusammenarbeit mit den zuständigen Aufsichtsbehörden von Drittstaaten sicher, insbesondere zur Erfüllung der Anwendung von Artikel 23 Absatz 1 Buchstabe c und Absatz 2 der Verordnung (EU) 2019/2033. Die Bundesanstalt kann auch dann Aufsichtskollegien einrichten, wenn sich Tochterunternehmen einer Wertpapierinstitutsgruppe, an deren Spitze ein Wertpapierinstitut mit Sitz in einem Vertragsstaat, eine EU-Mutterinvestmentholdinggesellschaft oder eine gemischte EU-Mutterfinanzholdinggesellschaft steht, in einem Drittstaat befinden.
 
@@ -1412,7 +1431,7 @@ Bei ihren Entscheidungen berücksichtigt die Bundesanstalt die Relevanz der von 
 
 (6) Bei der Wahrnehmung der Aufgaben nach den Absätzen 1, 2 und 5 arbeiten die Bundesanstalt und die Deutsche Bundesbank zusammen.
 
-##### § 59 Kooperation der Bundesanstalt mit anderen zuständigen Behörden
+###### § 59 Kooperation der Bundesanstalt mit anderen zuständigen Behörden
 
 (1) Ist die Bundesanstalt die nach § 56 zuständige Behörde, übermittelt sie den in § 58 Absatz 4 genannten zuständigen Behörden und sonstigen zuständigen Stellen, sofern zur Erfüllung ihrer Aufgaben erforderlich, alle relevanten Informationen, darunter
 
@@ -1440,7 +1459,7 @@ Bei ihren Entscheidungen berücksichtigt die Bundesanstalt die Relevanz der von 
 
 (5) Abweichend von Absatz 3 kann die Bundesanstalt in Notfällen oder in Fällen, in denen eine solche Konsultation die Wirksamkeit ihrer Entscheidung gefährden könnte, davon absehen, die in § 58 Absatz 4 genannten zuständigen Behörden oder sonstigen zuständigen Stellen zu konsultieren; dies teilt sie den anderen betroffenen zuständigen Behörden oder Stellen unverzüglich mit.
 
-##### § 60 Nachprüfung von Informationen über Unternehmen in anderen Vertragsstaaten
+###### § 60 Nachprüfung von Informationen über Unternehmen in anderen Vertragsstaaten
 
 (1) Die Bundesanstalt führt auf Ersuchen einer zuständigen Behörde oder Stelle eines Vertragsstaates eine Nachprüfung von Informationen über Wertpapierinstitute, Investmentholdinggesellschaften, gemischte Finanzholdinggesellschaften, Finanzinstitute, Anbieter von Nebendienstleistungen, gemischte Unternehmen oder Tochterunternehmen, einschließlich Tochterunternehmen, bei denen es sich um Versicherungsgesellschaften handelt, nach Maßgabe des Absatzes 2 durch.
 
@@ -1462,11 +1481,11 @@ Bei ihren Entscheidungen berücksichtigt die Bundesanstalt die Relevanz der von 
 
 ## Unterabschnitt 2 Investmentholdinggesellschaften, gemischte Finanzholdinggesellschaften und gemischte Unternehmen
 
-##### § 61 Einbezug von Holdinggesellschaften bei der Überwachung der Einhaltung des Gruppenkapitaltests
+###### § 61 Einbezug von Holdinggesellschaften bei der Überwachung der Einhaltung des Gruppenkapitaltests
 
 Investmentholdinggesellschaften und gemischte Finanzholdinggesellschaften werden bei der Überwachung der Einhaltung des Gruppenkapitaltests von der Bundesanstalt einbezogen.
 
-##### § 62 Qualifikation von Geschäftsleitern und Mitgliedern des Verwaltungs- oder Aufsichtsorgans einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft; Tätigkeitsuntersagung; Verwarnung
+###### § 62 Qualifikation von Geschäftsleitern und Mitgliedern des Verwaltungs- oder Aufsichtsorgans einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft; Tätigkeitsuntersagung; Verwarnung
 
 (1) Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft müssen zuverlässig sein und über ausreichende Kenntnisse, Fähigkeiten und Erfahrung für die wirksame Erfüllung ihrer Aufgaben unter Berücksichtigung der besonderen Rolle einer Investmentholdinggesellschaft oder gemischten Finanzholdinggesellschaft verfügen. Sie müssen der Wahrnehmung ihrer Aufgaben ausreichend Zeit widmen.
 
@@ -1480,7 +1499,7 @@ Die Abberufung von Arbeitnehmervertretern im Aufsichtsrat erfolgt allein nach de
 
 (3) Die Bundesanstalt kann einen Geschäftsleiter oder ein Mitglied des Verwaltungs- oder Aufsichtsorgans einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft verwarnen, wenn dieser vorsätzlich oder leichtfertig gegen dieses Gesetz, gegen die zur Durchführung dieses Gesetzes erlassenen Verordnungen oder gegen Anordnungen der Bundesanstalt verstoßen hat.
 
-##### § 63 Gemischte Holdinggesellschaften
+###### § 63 Gemischte Holdinggesellschaften
 
 (1) Ist das Mutterunternehmen eines Wertpapierinstituts eine gemischte Holdinggesellschaft, so kann die Bundesanstalt, wenn sie die für die Beaufsichtigung des Wertpapierinstituts zuständige Behörde ist,
 
@@ -1492,7 +1511,7 @@ Die Abberufung von Arbeitnehmervertretern im Aufsichtsrat erfolgt allein nach de
 
 ## Abschnitt 5 Anzeigepflichten; Wertpapierinstitute mit Mutterunternehmen im Drittstaat
 
-##### § 64 Anzeigepflichten für alle Wertpapierinstitute
+###### § 64 Anzeigepflichten für alle Wertpapierinstitute
 
 (1) Ein Wertpapierinstitut hat der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen:
 
@@ -1538,7 +1557,7 @@ b) an Personen, die Kapital, soweit es sich nicht um Kapital nach Nummer 1 hande
 
 2. jährlich eine Liste der Namen der Inhaber einer bedeutenden Beteiligung an ihm und an den ihm nachgeordneten Unternehmen (Unternehmen, die nach Artikel 7 der Verordnung (EU) 2019/2033 zu konsolidieren sind oder freiwillig konsolidiert werden) mit Sitz im Ausland sowie die Höhe dieser Beteiligungen einzureichen.
 
-##### § 65 Anzeigepflichten für Große Wertpapierinstitute
+###### § 65 Anzeigepflichten für Große Wertpapierinstitute
 
 (1) Ein Großes Wertpapierinstitut hat der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen:
 
@@ -1566,7 +1585,7 @@ b) an Personen, die Kapital, soweit es sich nicht um Kapital nach Nummer 1 hande
 
 2. die für einen Vergleich der Diversität in den Instituten nach Artikel 91 Absatz 9 in Verbindung mit Artikel 75 Absatz 1 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 erforderlichen Informationen; die Vorgaben der Anzeigenverordnung betreffend die Anzeigen nach § 24 Absatz 1e des Kreditwesengesetzes sind entsprechend anwendbar.
 
-##### § 66 Anzeigepflichten für Kleine und Mittlere Wertpapierinstitute
+###### § 66 Anzeigepflichten für Kleine und Mittlere Wertpapierinstitute
 
 (1) Ein Kleines oder Mittleres Wertpapierinstitut, das über die Erlaubnis für die Dienstleistungen nach § 2 Absatz 2 Nummer 10 oder § 2 Absatz 3 Nummer 2 verfügt oder auf eigene Rechnung im Sinne des § 17 Absatz 1 handelt, hat der bei der Deutschen Bundesbank geführten Evidenzzentrale vierteljährlich (Beobachtungszeitraum) die Kreditnehmer (Millionenkreditnehmer) anzuzeigen, deren Kreditvolumen 1 Million Euro oder mehr beträgt (Millionenkreditmeldegrenze). § 14 Absatz 2 bis 4 und die §§ 19 und 20 des Kreditwesengesetzes sowie Teil 2 und 3 der Großkredit- und Millionenkreditverordnung gelten entsprechend.
 
@@ -1584,7 +1603,7 @@ b) an Personen, die Kapital, soweit es sich nicht um Kapital nach Nummer 1 hande
 
 2. die Informationen zum Vergleich der Diversität in den Instituten, die für die Zwecke des Artikels 26 der Richtlinie (EU) 2019/2034 in der Fassung vom 27. November 2024 erforderlich sind.
 
-##### § 67 Anzeigepflichten von Geschäftsleitern, Investmentholdinggesellschaften sowie gemischten Finanzholdinggesellschaften
+###### § 67 Anzeigepflichten von Geschäftsleitern, Investmentholdinggesellschaften sowie gemischten Finanzholdinggesellschaften
 
 (1) Ein Geschäftsleiter eines Wertpapierinstituts und die Personen, die die Geschäfte einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft tatsächlich führen, haben der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen:
 
@@ -1610,13 +1629,13 @@ Die Verpflichtung nach Satz 1 Nummer 1, 2, 4 und 5 gilt auch für gemischte Fina
 
 (4) Wird ein Kleines oder Mittleres Wertpapierinstitut oder eine als Mutterunternehmen geltende Investmentholdinggesellschaft oder gemischte Finanzholdinggesellschaft, der kein Großes Wertpapierinstitut angehört, zahlungsunfähig oder tritt Überschuldung ein, so haben die Geschäftsleiter, bei einem in der Rechtsform des Einzelkaufmanns betriebenen Wertpapierinstitut der Inhaber und die Personen, die die Geschäfte der Investmentholdinggesellschaft oder der gemischten Finanzholdinggesellschaft tatsächlich führen, dies der Bundesanstalt unter Beifügung aussagefähiger Unterlagen unverzüglich anzuzeigen; die im ersten Halbsatz bezeichneten Personen haben eine solche Anzeige unter Beifügung entsprechender Unterlagen auch dann vorzunehmen, wenn das Wertpapierinstitut oder die als Mutterunternehmen geltende Investmentholdinggesellschaft oder gemischte Finanzholdinggesellschaft voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt der Fälligkeit zu erfüllen (drohende Zahlungsunfähigkeit).
 
-##### § 68 Befugnis für einzelfallbezogene Anzeigepflichten; Verordnungsermächtigung
+###### § 68 Befugnis für einzelfallbezogene Anzeigepflichten; Verordnungsermächtigung
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank können einem Wertpapierinstitut, einer Wertpapierinstitutsgruppe oder Investmentholdinggruppe zusätzliche Anzeige- und Meldepflichten auferlegen, insbesondere, um vertieften Einblick zu erhalten in die Entwicklung ihrer wirtschaftlichen Verhältnisse, in ihre Grundsätze einer ordnungsgemäßen Geschäftsführung und in die Fähigkeiten der Mitglieder der Organe des Wertpapierinstituts, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt und der Deutschen Bundesbank erforderlich ist.
 
 (2) Das Bundesministerium der Finanzen kann im Benehmen mit der Deutschen Bundesbank durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, weitere Anzeigepflichten für Wertpapierinstitute, Investmentholdinggesellschaften, gemischte Finanzholdinggesellschaften sowie deren Geschäftsleiter erlassen, die für eine wirksame Beaufsichtigung durch die Bundesanstalt erforderlich sind. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Wertpapierinstitute anzuhören.
 
-##### § 69 Bewertung der Aufsicht im Drittstaat und andere Aufsichtstechniken
+###### § 69 Bewertung der Aufsicht im Drittstaat und andere Aufsichtstechniken
 
 (1) Unterliegt ein Wertpapierinstitut oder unterliegen mehrere Wertpapierinstitute, die Tochterunternehmen desselben Mutterunternehmens sind, das seinen Sitz in einem Drittstaat hat, auf Gruppenebene keiner wirksamen Beaufsichtigung, so prüft die Bundesanstalt, wenn sie gemäß Absatz 2 Satz 2 die zuständige Behörde ist, ob die Beaufsichtigung des Wertpapierinstituts durch die zuständige Behörde des Drittstaates der Beaufsichtigung nach der Richtlinie (EU) 2019/2034 und Teil 1 der Verordnung (EU) 2019/2033 gleichwertig ist.
 
@@ -1626,7 +1645,7 @@ Die Verpflichtung nach Satz 1 Nummer 1, 2, 4 und 5 gilt auch für gemischte Fina
 
 ## Abschnitt 6 Besondere Vorgaben bei qualifizierter Kryptoverwahrung
 
-##### § 69a Vermögenstrennung
+###### § 69a Vermögenstrennung
 
 (1) Ein Institut, das das qualifizierte Kryptoverwahrgeschäft betreibt, hat sicherzustellen, dass die kryptografischen Instrumente und privaten kryptographischen Schlüssel der Kunden getrennt von den kryptografischen Instrumenten und privaten kryptographischen Schlüsseln des Instituts verwahrt werden. Werden kryptografische Instrumente mehrerer Kunden gebündelt verwahrt (gemeinschaftliche Verwahrung), so ist sicherzustellen, dass sich die den einzelnen Kunden zustehenden Anteile am gemeinschaftlich verwahrten Gesamtbestand jederzeit bestimmen lassen.
 
@@ -1636,7 +1655,7 @@ Die Verpflichtung nach Satz 1 Nummer 1, 2, 4 und 5 gilt auch für gemischte Fina
 
 ## Abschnitt 1 Europäischer Pass, Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr
 
-##### § 70 Errichten einer Zweigniederlassung durch inländische Wertpapierinstitute
+###### § 70 Errichten einer Zweigniederlassung durch inländische Wertpapierinstitute
 
 (1) Ein Wertpapierinstitut, das beabsichtigt, in einem anderen Vertragsstaat
 
@@ -1662,7 +1681,7 @@ hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen
 
 (4) Hat die Bundesanstalt keine Anhaltspunkte, die Zweifel an der Angemessenheit der Organisationsstruktur und der Finanzlage des Wertpapierinstituts begründen, übermittelt sie die Angaben nach den Absätzen 1 und 2 innerhalb von drei Monaten nach Eingang der vollständigen Unterlagen der zuständigen Behörde des Aufnahmevertragsstaates. Die Bundesanstalt teilt dies dem anzeigenden Wertpapierinstitut mit. Sie unterrichtet die zuständige Behörde des Aufnahmevertragsstaates außerdem über die Sicherungseinrichtung, der das Wertpapierinstitut angehört. Leitet die Bundesanstalt die Angaben nach den Absätzen 1 und 2 nicht an die zuständige Behörde des Aufnahmevertragsstaates weiter, teilt die Bundesanstalt dem Wertpapierinstitut innerhalb von drei Monaten nach Eingang sämtlicher Angaben nach den Absätzen 1 und 2 die Gründe dafür mit. Nach Weiterleitung der Anzeige an die zuständigen Stellen des Aufnahmevertragsstaates kann das Wertpapierinstitut nach einer entsprechenden Mitteilung dieser Stellen oder spätestens nach Ablauf einer Zweimonatsfrist seine Tätigkeit in dem anderen Staat aufnehmen.
 
-##### § 71 Grenzüberschreitender Dienstleistungsverkehr durch inländische Wertpapierinstitute
+###### § 71 Grenzüberschreitender Dienstleistungsverkehr durch inländische Wertpapierinstitute
 
 (1) Ein Wertpapierinstitut, das beabsichtigt, Wertpapierdienstleistungen grenzüberschreitend in einem anderen Vertragsstaat anzubieten, hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen. Die Anzeige muss enthalten:
 
@@ -1678,7 +1697,7 @@ hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen
 
 (4) Beabsichtigt der Betreiber eines multilateralen oder organisierten Handelssystems, Handelsteilnehmern in anderen Staaten einen unmittelbaren Zugang zu seinem Handelssystem zu gewähren und ihnen das Handeln an seinen Märkten zu ermöglichen, hat er dies der Bundesanstalt anzuzeigen, sofern es sich um die erstmalige Zugangsgewährung an einen Handelsteilnehmer in dem betreffenden Staat handelt. Die Bundesanstalt unterrichtet die zuständigen Stellen des Aufnahmevertragsstaates innerhalb eines Monats nach Eingang der Anzeige von dieser Absicht. Der Betreiber hat der Bundesanstalt auf Anfrage die Namen der zugelassenen Handelsteilnehmer aus diesem Staat zu nennen. Auf Ersuchen der zuständigen Behörde im Aufnahmevertragsstaat teilt ihr die Bundesanstalt innerhalb einer angemessenen Frist diese Angaben mit.
 
-##### § 72 Änderung der angezeigten Verhältnisse
+###### § 72 Änderung der angezeigten Verhältnisse
 
 (1) Ändern sich die Verhältnisse, die nach § 70 Absatz 1 und 2 oder § 71 Absatz 1 angezeigt wurden, hat das Wertpapierinstitut der Bundesanstalt und der Deutschen Bundesbank diese Änderungen mindestens einen Monat vor dem Wirksamwerden der Änderungen anzuzeigen. Die Bundesanstalt teilt den zuständigen Stellen des Aufnahmevertragsstaates die Änderungen nach Satz 1 mit.
 
@@ -1688,7 +1707,7 @@ hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen
 
 ## Abschnitt 2 Errichten einer Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr durch Wertpapierinstitute mit Sitz in einem anderen Vertragsstaat
 
-##### § 73 Errichten einer Zweigniederlassung durch Wertpapierinstitute mit Sitz in einem anderen Vertragsstaat
+###### § 73 Errichten einer Zweigniederlassung durch Wertpapierinstitute mit Sitz in einem anderen Vertragsstaat
 
 (1) Ein Wertpapierinstitut mit Sitz in einem anderen Vertragsstaat darf ohne Erlaubnis durch die Bundesanstalt über eine Zweigniederlassung oder über nach § 3 Absatz 2 angezeigte vertraglich gebundene Vermittler, die ihren Sitz oder gewöhnlichen Aufenthalt im Inland haben, im Inland Wertpapierdienstleistungen erbringen, wenn das Wertpapierinstitut von der zuständigen Behörde seines Herkunftsvertragsstaates zugelassen worden ist, die erbrachten Wertpapierdienstleistungen von der Zulassung abgedeckt sind und das Wertpapierinstitut von der zuständigen Behörde im Einklang mit den einschlägigen unionsrechtlichen Vorgaben, insbesondere der Richtlinie 2014/65/EU, der Richtlinie (EU) 2019/2034 sowie der Verordnung (EU) 2019/2033, beaufsichtigt wird. § 53 des Kreditwesengesetzes ist in diesem Fall nicht anzuwenden. § 14 der Gewerbeordnung bleibt unberührt.
 
@@ -1706,13 +1725,13 @@ hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen
 
 3. § 17 des Finanzdienstleistungsaufsichtsgesetzes.
 
-##### § 74 Grenzüberschreitender Dienstleistungsverkehr
+###### § 74 Grenzüberschreitender Dienstleistungsverkehr
 
 (1) Ein Wertpapierinstitut mit Sitz in einem anderen Vertragsstaat darf ohne Erlaubnis durch die Bundesanstalt im Wege des grenzüberschreitenden Dienstleistungsverkehrs, auch durch vertraglich gebundene Vermittler, die ihren Sitz oder gewöhnlichen Aufenthalt im Herkunftsvertragsstaat oder in einem anderen Mitgliedstaat haben, im Inland Wertpapierdienstleistungen erbringen, wenn das Wertpapierinstitut von der zuständigen Behörde seines Herkunftsvertragsstaates zugelassen worden ist, die erbrachten Wertpapierdienstleistungen von der Zulassung abgedeckt sind und das Wertpapierinstitut von den zuständigen Behörden im Einklang mit den einschlägigen unionsrechtlichen Vorgaben, insbesondere der Richtlinie 2014/65/EU, der Richtlinie (EU) 2019/2034 sowie der Verordnung (EU) 2019/2033, beaufsichtigt wird. Die Bundesanstalt veröffentlicht die Namen von vertraglich gebundenen Vermittlern, die ihren Sitz oder gewöhnlichen Aufenthalt im Herkunftsvertragsstaat des Wertpapierinstituts haben und die das Wertpapierinstitut beabsichtigt, grenzüberschreitend im Inland einzusetzen.
 
 (2) Für die Tätigkeiten im Wege des grenzüberschreitenden Dienstleistungsverkehrs nach Absatz 1 gelten § 5 Absatz 4 und 6, §§ 11, 31 und 32 dieses Gesetzes sowie § 17 des Finanzdienstleistungsaufsichtsgesetzes entsprechend. Auf Betreiber eines multilateralen oder organisierten Handelssystems, die im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland einen Zugang anbieten, sind die §§ 30 und 31 nicht anzuwenden.
 
-##### § 75 Unterrichtungsbefugnis und Maßnahmen der Bundesanstalt
+###### § 75 Unterrichtungsbefugnis und Maßnahmen der Bundesanstalt
 
 (1) Stellt die Bundesanstalt fest, dass ein Unternehmen im Sinne des § 73 Absatz 1 oder des § 74 Absatz 1 seinen Pflichten nach § 73 Absatz 4 oder § 74 Absatz 2 dieses Gesetzes, § 90 des Wertpapierhandelsgesetzes oder der Verordnung (EU) 2019/2033 nicht nachkommt oder dass es sehr wahrscheinlich ist, dass es diesen Pflichten nicht nachkommen wird, unterrichtet die Bundesanstalt unverzüglich die zuständige Behörde des Herkunftsvertragsstaates.
 
@@ -1720,13 +1739,13 @@ hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen
 
 ## Kapitel 7 Vorlage von Rechnungslegungsunterlagen, Prüferbestellung und Prüfung
 
-##### § 76 Vorlage von Rechnungslegungsunterlagen
+###### § 76 Vorlage von Rechnungslegungsunterlagen
 
 (1) Ein Kleines oder Mittleres Wertpapierinstitut hat den Jahresabschluss in den ersten drei Monaten des Geschäftsjahres für das vergangene Geschäftsjahr aufzustellen und den aufgestellten sowie später den festgestellten Jahresabschluss und den Lagebericht der Bundesanstalt und der Deutschen Bundesbank jeweils unverzüglich einzureichen. Der Jahresabschluss muss mit dem Bestätigungsvermerk oder einem Vermerk über die Versagung der Bestätigung versehen sein. Der Abschlussprüfer hat den Bericht über die Prüfung des Jahresabschlusses (Prüfungsbericht) unverzüglich nach Beendigung seiner Prüfung der Bundesanstalt und der Deutschen Bundesbank einzureichen.
 
 (2) Absatz 1 gilt entsprechend für einen Einzelabschluss nach § 325 Absatz 2a des Handelsgesetzbuchs.
 
-##### § 77 Prüferbestellung und Anzeige
+###### § 77 Prüferbestellung und Anzeige
 
 (1) Ein Kleines oder Mittleres Wertpapierinstitut hat der Bundesanstalt und der Deutschen Bundesbank den von ihm bestellten Prüfer unverzüglich nach der Bestellung anzuzeigen. Die Bundesanstalt kann innerhalb von zwei Monaten nach Zugang der Anzeige die Bestellung eines anderen Prüfers verlangen, wenn dies zur Erreichung des Prüfungszwecks geboten ist. Die Bestellung eines anderen Prüfers ist in der Regel zur Erreichung des Prüfungszwecks geboten, wenn ein Wertpapierinstitut, das kein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 des Handelsgesetzbuchs ist, der Bundesanstalt für mindestens elf aufeinanderfolgende Geschäftsjahre denselben Prüfer angezeigt hat. Hat das Wertpapierinstitut eine Wirtschaftsprüfungsgesellschaft zum Prüfer bestellt, die in einem der beiden vorangegangenen Geschäftsjahre Prüfer des Wertpapierinstituts war, kann die Bundesanstalt den Wechsel des verantwortlichen Prüfungspartners verlangen, wenn die vorangegangene Prüfung einschließlich des Prüfungsberichts den Prüfungszweck nicht erfüllt hat; § 43 Absatz 3 Satz 3 der Wirtschaftsprüferordnung gilt entsprechend. Die Bundesanstalt kann die Bestellung eines anderen Prüfers oder den Wechsel des verantwortlichen Prüfungspartners auch dann verlangen, wenn ihr Tatsachen bekannt werden, die die Annahme rechtfertigen, dass der Prüfer seine Pflichten nach § 78 Absatz 3 verletzt hat.
 
@@ -1740,7 +1759,7 @@ hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen
 
 Die Bestellung durch das Gericht ist endgültig. § 318 Absatz 5 des Handelsgesetzbuchs ist entsprechend anzuwenden. Das Gericht kann auf Antrag der Bundesanstalt einen nach Satz 1 bestellten Prüfer abberufen.
 
-##### § 78 Besondere Pflichten des Prüfers; Verordnungsermächtigung
+###### § 78 Besondere Pflichten des Prüfers; Verordnungsermächtigung
 
 (1) Als Teil der Prüfung des Jahresabschlusses sowie eines Zwischenabschlusses hat der Prüfer auch die wirtschaftlichen Verhältnisse des Wertpapierinstituts zu prüfen. Dies schließt die Prüfung der Einhaltung der Eigenmittel- und Liquiditätsanforderungen sowie deren angemessene Ermittlung durch das Wertpapierinstitut ein. Bei der Prüfung des Jahresabschlusses hat er insbesondere festzustellen, ob das Wertpapierinstitut die folgenden Anzeigepflichten und Anforderungen erfüllt hat:
 
@@ -1802,17 +1821,17 @@ Die Rechtsverordnung dient insbesondere zur Vermeidung und Behebung von Missstä
 
 ## Kapitel 7a DLT-Pilotregelung nach der Verordnung (EU) 2022/858
 
-##### § 78a Zuständigkeit
+###### § 78a Zuständigkeit
 
 Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 12 Absatz 1 der Verordnung (EU) 2022/858.
 
-##### § 78b Ausnahmen von der Erlaubnispflicht nach § 15
+###### § 78b Ausnahmen von der Erlaubnispflicht nach § 15
 
 (1) DLT-Marktinfrastrukturen im Sinne des Artikels 2 Nummer 5 der Verordnung (EU) 2022/858, denen eine besondere Genehmigung nach Artikel 8 oder Artikel 10 der Verordnung (EU) 2022/858 erteilt wurde, benötigen keine weitere Erlaubnis nach § 15, soweit die erbrachte Wertpapierdienstleistung von der besonderen Genehmigung umfasst ist.
 
 (2) Privatkunden im Sinne des § 67 Absatz 3 des Wertpapierhandelsgesetzes, die aufgrund einer Ausnahme nach Artikel 4 Absatz 2 der Verordnung (EU) 2022/858 als Mitglied oder Teilnehmer eines multilateralen DLT-Handelssystems im Sinne des Artikels 2 Nummer 6 der Verordnung (EU) 2022/858 oder eines DLT-Handels- und Abwicklungssystems im Sinne des Artikels 2 Nummer 10 der Verordnung (EU) 2022/858 das Eigengeschäft betreiben, benötigen hierfür keine Erlaubnis nach § 15 Absatz 4 Satz 1.
 
-##### § 78c Unterlagen und Anträge nach der Verordnung (EU) 2022/858
+###### § 78c Unterlagen und Anträge nach der Verordnung (EU) 2022/858
 
 (1) Die Unterlagen, die der Bundesanstalt nach der Verordnung (EU) 2022/858 vorzulegen sind, sind in deutscher Sprache vorzulegen. Sie sind auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen oder Teile davon ausschließlich in englischer Sprache erstellt und vorgelegt werden. Sofern die Bundesanstalt eine Vorlage in beiden Sprachen verlangt, ist allein die deutschsprachige Fassung rechtlich maßgeblich.
 
@@ -1820,7 +1839,7 @@ Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 12 Absatz 1 der
 
 ## Kapitel 7b Zulassung von Datenbereitstellungsdiensten
 
-##### § 78d Zulassungsverfahren; Ausnahmen
+###### § 78d Zulassungsverfahren; Ausnahmen
 
 (1) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, als Datenbereitstellungsdienst tätig werden will, bedarf nach Artikel 27b Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 600/2014 der schriftlichen oder elektronischen Zulassung durch die Bundesanstalt; die Bundesanstalt hat § 37 Absatz 4 des Verwaltungsverfahrensgesetzes anzuwenden.
 
@@ -1830,7 +1849,7 @@ Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 12 Absatz 1 der
 
 (4) Ausnahmen von der Zulassungspflicht als Datenbereitstellungsdienst ergeben sich aus Artikel 27b Absatz 2 und Artikel 27c Absatz 4 der Verordnung (EU) Nr. 600/2014.
 
-##### § 78e Versagung der Zulassung; Entzug der Zulassung
+###### § 78e Versagung der Zulassung; Entzug der Zulassung
 
 (1) Die Zulassung als Datenbereitstellungsdienst ist zu versagen, wenn
 
@@ -1840,13 +1859,13 @@ Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 12 Absatz 1 der
 
 (2) Die Bundesanstalt kann die von ihr erteilte Zulassung außer nach den Vorschriften des Verwaltungsverfahrensgesetzes nach Artikel 27e Absatz 1 der Verordnung (EU) Nr. 600/2014 entziehen.
 
-##### § 78f Unterrichtung der ESMA
+###### § 78f Unterrichtung der ESMA
 
 Die Bundesanstalt meldet der Europäischen Wertpapier- und Marktaufsichtsbehörde die Erteilung einer Zulassung nach Artikel 27c Absatz 1 sowie den Entzug einer Zulassung nach Artikel 27e Absatz 1 der Verordnung (EU) Nr. 600/2014.
 
 ## Kapitel 8 Maßnahmen bei Gefahr
 
-##### § 79 Maßnahmen bei Gefahr
+###### § 79 Maßnahmen bei Gefahr
 
 (1) Besteht Gefahr für die Erfüllung der Verpflichtungen eines Wertpapierinstituts gegenüber seinen Kunden, insbesondere für die Sicherheit der dem Wertpapierinstitut anvertrauten Vermögenswerte, oder besteht der begründete Verdacht, dass eine wirksame Aufsicht über das Wertpapierinstitut nicht möglich ist, kann die Bundesanstalt zur Abwendung dieser Gefahr einstweilige Maßnahmen treffen. Sie kann insbesondere
 
@@ -1872,7 +1891,7 @@ Die Bundesanstalt meldet der Europäischen Wertpapier- und Marktaufsichtsbehörd
 
 (6) Die zuständige Entschädigungseinrichtung oder sonstige Sicherungseinrichtung kann ihre Verpflichtungserklärung im Sinne des Absatzes 1 Satz 2 Nummer 6 davon abhängig machen, dass eingehende Zahlungen, soweit sie nicht zur Erfüllung von Verbindlichkeiten nach Absatz 1 Satz 2 Nummer 6 gegenüber dem Wertpapierinstitut bestimmt sind, von dem im Zeitpunkt des Erlasses des Veräußerungs- und Zahlungsverbots nach Absatz 1 Satz 2 Nummer 4 vorhandenen Vermögen des Wertpapierinstituts zugunsten der Einrichtung getrennt gehalten und verwaltet werden.
 
-##### § 80 Sonderbeauftragter
+###### § 80 Sonderbeauftragter
 
 (1) Zur Überwachung der Einhaltung der Anordnungen nach § 79 Absatz 1 und 2 kann die Bundesanstalt einen Sonderbeauftragten bestellen. Dieser ist im Rahmen seiner Aufgabe berechtigt,
 
@@ -1892,7 +1911,7 @@ Der Sonderbeauftragte hat begangene Verstöße gegen eine Anordnung nach § 79 A
 
 (3) Der Sonderbeauftragte haftet im Rahmen seiner Aufgabe nur für Vorsatz.
 
-##### § 81 Abwicklung laufender Geschäfte; Ausnahmen; Verbot der Zwangsvollstreckung
+###### § 81 Abwicklung laufender Geschäfte; Ausnahmen; Verbot der Zwangsvollstreckung
 
 (1) Das Wertpapierinstitut darf nach Erlass des Veräußerungs- und Zahlungsverbots nach § 79 Absatz 1 Satz 2 Nummer 4 die im Zeitpunkt des Erlasses laufenden Geschäfte abwickeln und neue Geschäfte eingehen, soweit diese zur Abwicklung erforderlich sind, wenn und soweit die zuständige Entschädigungseinrichtung oder sonstige Sicherungseinrichtung die zur Durchführung erforderlichen Mittel zur Verfügung stellt oder sich verpflichtet, dem Wertpapierinstitut die Vermögensminderungen zu erstatten, die aus diesen Geschäften insgesamt entstehen, soweit dies zur vollen Befriedigung sämtlicher Ansprüche aus offenen Wertpapierverbindlichkeiten erforderlich ist.
 
@@ -1900,7 +1919,7 @@ Der Sonderbeauftragte hat begangene Verstöße gegen eine Anordnung nach § 79 A
 
 (3) Solange Maßnahmen nach § 79 Absatz 1 Satz 2 Nummer 4 bis 6 andauern, sind Zwangsvollstreckung, Arrest und einstweilige Verfügung in das Vermögen des Wertpapierinstituts nicht zulässig. Die Vorschriften der Insolvenzordnung zum Schutz von Zahlungs- sowie Wertpapierliefer- und Abrechnungssystemen einschließlich interoperabler Systeme sowie von dinglichen Sicherheiten der Zentralbanken und von Finanzsicherheiten sind bei Anordnung einer Maßnahme nach § 79 Absatz 1 Satz 2 Nummer 4 bis 6 entsprechend anzuwenden. Die Anordnung von Sicherungsmaßnahmen nach § 21 der Insolvenzordnung berührt nicht die Wirksamkeit der Erstattung einer Zahlung, die entgegen einer Anordnung nach § 79 Absatz 1 Satz 2 Nummer 6 über ein System oder über eine zwischengeschaltete Stelle entgegengenommen worden ist oder eingegangen ist oder bei dem Wertpapierinstitut eingegangen ist und deren Erstattung die Bundesanstalt nach Absatz 2 Satz 2 angeordnet hat.
 
-##### § 81a Zuordnung verwahrter kryptografischer Instrumente; Kosten der Aussonderung
+###### § 81a Zuordnung verwahrter kryptografischer Instrumente; Kosten der Aussonderung
 
 (1) Das im Rahmen eines qualifizierten Kryptoverwahrgeschäfts für einen Kunden verwahrte kryptografische Instrument gilt als dem Kunden gehörig. Das gilt nicht, wenn der Kunde die Einwilligung zu Verfügungen über den verwahrten Wert für Rechnung des Instituts oder Dritter erteilt hat.
 
@@ -1910,7 +1929,7 @@ Der Sonderbeauftragte hat begangene Verstöße gegen eine Anordnung nach § 79 A
 
 ## Kapitel 9 Straf- und Bußgeldvorschriften, öffentliche Bekanntmachung und Mitteilungen in Strafsachen
 
-##### § 82 Strafvorschriften
+###### § 82 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer ohne Erlaubnis nach § 15 Absatz 1 erster Halbsatz, Absatz 3, 4 Satz 1 oder Absatz 6 Satz 1 eine Wertpapierdienstleistung, eine Wertpapiernebendienstleistung oder ein Nebengeschäft erbringt, ein Finanzinstrument für eigene Rechnung anschafft oder veräußert, ein Eigengeschäft betreibt oder ein eigenes Finanzinstrument vertreibt.
 
@@ -1918,7 +1937,7 @@ Der Sonderbeauftragte hat begangene Verstöße gegen eine Anordnung nach § 79 A
 
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-##### § 83 Bußgeldvorschriften
+###### § 83 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2000,7 +2019,7 @@ Handelt es sich bei der juristischen Person oder der Personenvereinigung um das 
 
 (10) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt für Finanzdienstleistungsaufsicht.
 
-##### § 84 Öffentliche Bekanntmachung von Verwaltungssanktionen und -maßnahmen
+###### § 84 Öffentliche Bekanntmachung von Verwaltungssanktionen und -maßnahmen
 
 (1) Die Bundesanstalt veröffentlicht auf ihrer offiziellen Website unverzüglich alle sanktionierenden, rechtskräftigen Verwaltungsmaßnahmen und Bußgeldentscheidungen (Sanktionen), die sie nach § 83 verhängt hat. Zu veröffentlichen sind Informationen zu Art und Typ des Verstoßes sowie die Identität der natürlichen oder juristischen Person, gegen die die Sanktion verhängt wurde oder gegen die sich die Maßnahme richtet. Die Informationen werden erst veröffentlicht, nachdem die betroffene Person über diese Sanktionen unterrichtet wurde und sofern die Veröffentlichung erforderlich und verhältnismäßig ist.
 
@@ -2018,7 +2037,7 @@ Handelt es sich bei der juristischen Person oder der Personenvereinigung um das 
 
 (5) Die Bundesanstalt unterrichtet die Europäische Bankenaufsichtsbehörde über alle im Einklang mit § 83 verhängten Verwaltungssanktionen und -maßnahmen sowie über alle gegen diese Sanktionen und Maßnahmen eingelegten Rechtsmittel und deren Ausgang.
 
-##### § 84a Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2022/2554
+###### § 84a Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2022/2554
 
 (1) Die Bundesanstalt macht Entscheidungen über bestandskräftige Maßnahmen und unanfechtbar gewordene Bußgeldentscheidungen, die wegen Verstößen gegen die Verordnung (EU) 2022/2554 oder die jeweils darauf basierenden delegierten Rechtsakte erlassen wurden, auf ihrer Internetseite unverzüglich bekannt.
 
@@ -2038,7 +2057,7 @@ b) die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
 
 (4) Eine Bekanntmachung nach Absatz 1 ist spätestens fünf Jahre nach ihrer Bekanntmachung zu löschen. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich ist.
 
-##### § 85 Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
+###### § 85 Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
 
 (1) Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde hat in Strafverfahren gegen Inhaber, Geschäftsleiter oder Mitglieder des Verwaltungs- oder Aufsichtsorgans von Wertpapierinstituten oder Investmentholdinggesellschaften sowie gegen Inhaber bedeutender Beteiligungen an Wertpapierinstituten oder deren gesetzliche Vertreter oder persönlich haftende Gesellschafter wegen Verletzung ihrer Berufspflichten oder anderer Straftaten bei oder im Zusammenhang mit der Ausübung eines Gewerbes oder dem Betrieb einer sonstigen wirtschaftlichen Unternehmung, ferner in Strafverfahren, die Straftaten nach § 82 zum Gegenstand haben, im Falle der Erhebung der öffentlichen Klage der Bundesanstalt zu übermitteln:
 
@@ -2058,7 +2077,7 @@ Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidu
 
 ## Kapitel 10 Übergangsvorschriften
 
-##### § 86 Übergangsvorschriften für bestehende Wertpapierinstitute
+###### § 86 Übergangsvorschriften für bestehende Wertpapierinstitute
 
 (1) Unternehmen, denen bis zum 26. Juni 2021 die Erlaubnis nach § 32 des Kreditwesengesetzes für das Finanzkommissionsgeschäft nach § 1 Absatz 1 Satz 2 Nummer 4, das Emissionsgeschäft nach § 1 Absatz 1 Satz 2 Nummer 10, die Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 1 bis 5 oder 12 oder für das Eigengeschäft nach § 32 Absatz 1a Satz 1, 2 oder 4 des Kreditwesengesetzes erteilt wurde oder für die eine Erlaubnis nach § 64e Absatz 2, § 64i, § 64n, § 64p oder § 64x Absatz 1 bis 5 des Kreditwesengesetzes als erteilt gilt, gilt die Erlaubnis nach § 15 für jene Geschäfte als erteilt. Die bisherige Erlaubnis nach § 32 des Kreditwesengesetzes wird insoweit gegenstandslos.
 
@@ -2068,7 +2087,6 @@ Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidu
 
 (4) Für Unternehmen, denen bis zum 26. Juni 2021 die Erlaubnis nach § 32 des Kreditwesengesetzes für das Depotgeschäft nach § 1 Absatz 1 Satz 2 Nummer 5 des Kreditwesengesetzes erteilt wurde oder für die diese Erlaubnis nach § 64e Absatz 2, § 64i, § 64n, § 64p oder § 64x Absatz 1 bis 5 des Kreditwesengesetzes zu diesem Zeitpunkt als erteilt gilt, gilt die Erlaubnis nach § 15 Absatz 1 für die Wertpapiernebendienstleistung nach § 2 Absatz 3 Nummer 1 unter den in § 15 Absatz 2 genannten Voraussetzungen ab diesem Zeitpunkt als erteilt. Die bisherige Erlaubnis nach § 32 des Kreditwesengesetzes für das Depotgeschäft wird zugleich gegenstandslos.
 
-##### § 87 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+###### § 87 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
 
 § 78 Absatz 1 Satz 3 Nummer 5 ist erstmals anzuwenden auf Rechnungslegungsunterlagen für ein nach dem 31. Dezember 2024 beginnendes Geschäftsjahr.
-
