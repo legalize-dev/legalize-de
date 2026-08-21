@@ -4,31 +4,35 @@ identifier: "GWB"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1998-08-26"
-last_updated: "2026-04-04"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/gwb/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR252110998"
 slug: "gwb"
 bgbl_reference: "BGBl I 1998, 2521"
-stand: "zuletzt geändert durch Art. 2 Abs. 9 G v. 20.3.2026 I Nr. 95"
+stand: "Zuletzt geändert durch Art. 9 G v. 20.7.2026 I Nr. 215"
 neufassung: "Neugefasst durch Bek. v. 26.6.2013 I 1750, 3245;"
 ---
 # Gesetz gegen Wettbewerbsbeschränkungen
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
 
-**Teil 1** **Wettbewerbsbeschränkungen****Kapitel 1****Wettbewerbsbeschränkende Vereinbarungen, Beschlüsse und abgestimmte Verhaltensweisen**§ 1Verbot wettbewerbsbeschränkender Vereinbarungen§ 2Freigestellte Vereinbarungen§ 3Mittelstandskartelle§§ 4 bis 17(weggefallen)**Kapitel 2****Marktbeherrschung, sonstiges wettbewerbsbeschränkendes Verhalten**§ 18Marktbeherrschung§ 19Verbotenes Verhalten von marktbeherrschenden Unternehmen§ 19aMissbräuchliches Verhalten von Unternehmen mit überragender marktübergreifender Bedeutung für den Wettbewerb§ 20Verbotenes Verhalten von Unternehmen mit relativer oder überlegener Marktmacht§ 21Boykottverbot, Verbot sonstigen wettbewerbsbeschränkenden Verhaltens**Kapitel 3****Anwendung des europäischen Wettbewerbsrechts**§ 22Verhältnis dieses Gesetzes zu den Artikeln 101 und 102 des Vertrages über die Arbeitsweise der Europäischen Union§ 23(weggefallen)**Kapitel 4****Wettbewerbsregeln**§ 24Begriff, Antrag auf Anerkennung§ 25Stellungnahme Dritter§ 26Anerkennung§ 27Veröffentlichung von Wettbewerbsregeln, Bekanntmachungen**Kapitel 5****Sonderregeln für bestimmte Wirtschaftsbereiche**§ 28Landwirtschaft§ 29Energiewirtschaft§ 29aKraftstoffmärkte§ 30Presse§ 31Verträge der Wasserwirtschaft§ 31aWasserwirtschaft, Meldepflicht§ 31bWasserwirtschaft, Aufgaben und Befugnisse der Kartellbehörde, Sanktionen**Kapitel 6****Befugnisse der Kartellbehörden, Schadensersatz und Vorteilsabschöpfung****Abschnitt 1****Befugnisse der Kartellbehörden**§ 32Abstellung und nachträgliche Feststellung von Zuwiderhandlungen§ 32aEinstweilige Maßnahmen§ 32bVerpflichtungszusagen§ 32cKein Anlass zum Tätigwerden§ 32dEntzug der Freistellung§ 32eUntersuchungen einzelner Wirtschaftszweige und einzelner Arten von Vereinbarungen§ 32fMaßnahmen nach einer Sektoruntersuchung§ 32gUntersuchung von möglichen Verstößen gegen die Verordnung (EU) 2022/1925 (Digital Markets Act)**Abschnitt 2****Schadensersatz und Vorteilsabschöpfung**§ 33Unterlassungsanspruch, Schadensersatzpflicht§ 33aSchadensersatzpflicht§ 33bBindungswirkung von Entscheidungen einer Wettbewerbsbehörde§ 33cSchadensabwälzung§ 33dGesamtschuldnerische Haftung§ 33eKronzeuge§ 33fWirkungen des Vergleichs§ 33gAnspruch auf Herausgabe von Beweismitteln und Erteilung von Auskünften§ 33hVerjährung§ 34Vorteilsabschöpfung durch die Kartellbehörde§ 34aVorteilsabschöpfung durch Verbände**Kapitel 7****Zusammenschlusskontrolle**§ 35Geltungsbereich der Zusammenschlusskontrolle§ 36Grundsätze für die Beurteilung von Zusammenschlüssen§ 37Zusammenschluss§ 38Berechnung der Umsatzerlöse und der Marktanteile und des Wertes der Gegenleistung§ 39Anmelde- und Anzeigepflicht§ 39a(weggefallen)§ 40Verfahren der Zusammenschlusskontrolle§ 41Vollzugsverbot, Entflechtung§ 42Ministererlaubnis§ 43Bekanntmachungen§ 43aEvaluierung**Kapitel 8****Monopolkommission**§ 44Aufgaben§ 45Mitglieder§ 46Beschlüsse, Organisation, Rechte und Pflichten der Mitglieder§ 47Übermittlung statistischer Daten**Kapitel 9****Markttransparenzstellen für den Großhandel mit Strom und Gas und für Kraftstoffe****Abschnitt 1****Markttransparenzstelle für den Großhandel im Bereich Strom und Gas**§ 47aEinrichtung, Zuständigkeit, Organisation§ 47bAufgaben§ 47cDatenverwendung§ 47dBefugnisse§ 47eMitteilungspflichten§ 47fVerordnungsermächtigung§ 47gFestlegungsbereiche§ 47hBerichtspflichten, Veröffentlichungen§ 47iZusammenarbeit mit anderen Behörden und Aufsichtsstellen§ 47jVertrauliche Informationen, operationelle Zuverlässigkeit, Datenschutz**Abschnitt 2****Markttransparenzstelle für Kraftstoffe**§ 47kMarktbeobachtung im Bereich Kraftstoffe**Abschnitt 3****Evaluierung**§ 47lEvaluierung der Markttransparenzstellen**Teil 2****Kartellbehörden****Kapitel 1****Allgemeine Vorschriften**§ 48Zuständigkeit§ 49Bundeskartellamt und oberste Landesbehörde§ 50Vollzug des europäischen Rechts**Kapitel 2****Behördenzusammenarbeit**§ 50aErmittlungen im Netzwerk der europäischen Wettbewerbsbehörden§ 50bZustellung im Netzwerk der europäischen Wettbewerbsbehörden§ 50cVollstreckung im Netzwerk der europäischen Wettbewerbsbehörden§ 50dInformationsaustausch im Netzwerk der europäischen Wettbewerbsbehörden§ 50eSonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden§ 50fZusammenarbeit mit anderen Behörden**Kapitel 3****Bundeskartellamt**§ 51Sitz, Organisation§ 52Veröffentlichung allgemeiner Weisungen§ 53Tätigkeitsbericht und Monitoringberichte**Teil 3****Verfahren****Kapitel 1** **Verwaltungssachen****Abschnitt 1****Verfahren vor den Kartellbehörden**§ 54Einleitung des Verfahrens, Beteiligte, Beteiligtenfähigkeit§ 55Vorabentscheidung über Zuständigkeit§ 56Anhörung, Akteneinsicht, mündliche Verhandlung§ 57Ermittlungen, Beweiserhebung§ 58Beschlagnahme§ 59Auskunftsverlangen§ 59aPrüfung von geschäftlichen Unterlagen§ 59bDurchsuchungen§ 60Einstweilige Anordnungen§ 61Verfahrensabschluss, Begründung der Verfügung, Zustellung§ 62Gebührenpflichtige Handlungen**Abschnitt 2****Gemeinsame Bestimmungen für Rechtsbehelfsverfahren**§ 63Beteiligte am Rechtsbehelfsverfahren, Beteiligtenfähigkeit§ 64Anwaltszwang§ 65Mündliche Verhandlung§ 66Aufschiebende Wirkung§ 67Anordnung der sofortigen Vollziehung§ 68Einstweilige Anordnungen im Rechtsbehelfsverfahren§ 69Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör§ 70Akteneinsicht§ 71Kostentragung und -festsetzung§ 72Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung**Abschnitt 3****Beschwerde**§ 73Zulässigkeit, Zuständigkeit§ 74Frist und Form§ 75Untersuchungsgrundsatz§ 76Beschwerdeentscheidung**Abschnitt 4****Rechtsbeschwerde und Nichtzulassungsbeschwerde**§ 77Zulassung, absolute Rechtsbeschwerdegründe§ 78Nichtzulassungsbeschwerde§ 79Rechtsbeschwerdeberechtigte, Form und Frist§ 80Rechtsbeschwerdeentscheidung**Kapitel 2****Bußgeldsachen****Abschnitt 1****Bußgeldvorschriften**§ 81Bußgeldtatbestände§ 81aGeldbußen gegen Unternehmen§ 81bGeldbußen gegen Unternehmensvereinigungen§ 81cHöhe der Geldbuße§ 81dZumessung der Geldbuße§ 81eAusfallhaftung im Übergangszeitraum§ 81fVerzinsung der Geldbuße§ 81gVerjährung der Geldbuße**Abschnitt 2****Kronzeugenprogramm**§ 81hZiel und Anwendungsbereich§ 81iAntrag auf Kronzeugenbehandlung§ 81jAllgemeine Voraussetzungen für die Kronzeugenbehandlung§ 81kErlass der Geldbuße§ 81lErmäßigung der Geldbuße§ 81mMarker§ 81nKurzantrag**Abschnitt 3****Bußgeldverfahren**§ 82Zuständigkeiten in Kartellbußgeldsachen§ 82aBefugnisse und Zuständigkeiten im Verfahren nach Einspruchseinlegung§ 82bBesondere Ermittlungsbefugnisse§ 83Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren§ 84Rechtsbeschwerde zum Bundesgerichtshof§ 85Wiederaufnahmeverfahren gegen Bußgeldbescheid§ 86Gerichtliche Entscheidung bei der Vollstreckung**Kapitel 3****Vollstreckung**§ 86aVollstreckung**Kapitel 4****Bürgerliche Rechtsstreitigkeiten**§ 87Ausschließliche Zuständigkeit der Landgerichte§ 88Klageverbindung§ 89Zuständigkeit eines Landgerichts für mehrere Gerichtsbezirke§ 89aStreitwertanpassung, Kostenerstattung§ 89bVerfahren§ 89cOffenlegung aus der Behördenakte§ 89dBeweisregeln§ 89eGemeinsame Vorschriften für die §§ 33g und 89b bis 89d**Kapitel 5****Gemeinsame Bestimmungen**§ 90Benachrichtigung und Beteiligung der Kartellbehörden§ 90aZusammenarbeit der Gerichte mit der Europäischen Kommission und den Kartellbehörden§ 91Kartellsenat beim Oberlandesgericht§ 92Zuständigkeit eines Oberlandesgerichts oder des Obersten Landesgerichts für mehrere Gerichtsbezirke in Verwaltungs- und Bußgeldsachen§ 93Zuständigkeit für Berufung und Beschwerde§ 94Kartellsenat beim Bundesgerichtshof§ 95Ausschließliche Zuständigkeit§ 96(weggefallen)**Teil 4****Vergabe von öffentlichen Aufträgen und Konzessionen****Kapitel 1****Vergabeverfahren****Abschnitt 1****Grundsätze, Definitionen und Anwendungsbereich**§ 97Grundsätze der Vergabe§ 98Auftraggeber§ 99Öffentliche Auftraggeber§ 100Sektorenauftraggeber§ 101Konzessionsgeber§ 102Sektorentätigkeiten§ 103Öffentliche Aufträge, Rahmenvereinbarungen und Wettbewerbe§ 104Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge§ 105Konzessionen§ 106Schwellenwerte§ 107Allgemeine Ausnahmen§ 108Ausnahmen bei öffentlich-öffentlicher Zusammenarbeit§ 109Ausnahmen für Vergaben auf der Grundlage internationaler Verfahrensregeln§ 110Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben§ 111Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen§ 112Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen§ 113Verordnungsermächtigung§ 114Monitoring und Vergabestatistik**Abschnitt 2****Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber****Unterabschnitt 1****Anwendungsbereich**§ 115Anwendungsbereich§ 116Besondere Ausnahmen§ 117Besondere Ausnahmen für Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen§ 118Bestimmten Auftragnehmern vorbehaltene öffentliche Aufträge**Unterabschnitt 2****Vergabeverfahren und Auftragsausführung**§ 119Verfahrensarten§ 120Besondere Methoden und Instrumente in Vergabeverfahren§ 121Leistungsbeschreibung§ 122Eignung§ 123Zwingende Ausschlussgründe§ 124Fakultative Ausschlussgründe§ 125Selbstreinigung§ 126Zulässiger Zeitraum für Ausschlüsse§ 127Zuschlag§ 128Auftragsausführung§ 129Zwingend zu berücksichtigende Ausführungsbedingungen§ 130Vergabe von öffentlichen Aufträgen über soziale und andere besondere Dienstleistungen§ 131Vergabe von öffentlichen Aufträgen über Personenverkehrsleistungen im Eisenbahnverkehr§ 132Auftragsänderungen während der Vertragslaufzeit§ 133Kündigung von öffentlichen Aufträgen in besonderen Fällen§ 134Informations- und Wartepflicht§ 135Unwirksamkeit**Abschnitt 3****Vergabe von öffentlichen Aufträgen in besonderen Bereichen und von Konzessionen****Unterabschnitt 1****Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber**§ 136Anwendungsbereich§ 137Besondere Ausnahmen§ 138Besondere Ausnahme für die Vergabe an verbundene Unternehmen§ 139Besondere Ausnahme für die Vergabe durch oder an ein Gemeinschaftsunternehmen§ 140Besondere Ausnahme für unmittelbar dem Wettbewerb ausgesetzte Tätigkeiten§ 141Verfahrensarten§ 142Sonstige anwendbare Vorschriften§ 143Regelung für Auftraggeber nach dem Bundesberggesetz**Unterabschnitt 2****Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen**§ 144Anwendungsbereich§ 145Besondere Ausnahmen für die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen§ 146Verfahrensarten§ 147Sonstige anwendbare Vorschriften**Unterabschnitt 3****Vergabe von Konzessionen**§ 148Anwendungsbereich§ 149Besondere Ausnahmen§ 150Besondere Ausnahmen für die Vergabe von Konzessionen in den Bereichen Verteidigung und Sicherheit§ 151Verfahren§ 152Anforderungen im Konzessionsvergabeverfahren§ 153Vergabe von Konzessionen über soziale und andere besondere Dienstleistungen§ 154Sonstige anwendbare Vorschriften**Kapitel 2****Nachprüfungsverfahren****Abschnitt 1****Nachprüfungsbehörden**§ 155Grundsatz§ 156Vergabekammern§ 157Besetzung, Unabhängigkeit§ 158Einrichtung, Organisation§ 159Abgrenzung der Zuständigkeit der Vergabekammern**Abschnitt 2****Verfahren vor der Vergabekammer**§ 160Einleitung, Antrag§ 161Form, Inhalt§ 162Verfahrensbeteiligte, Beiladung§ 163Untersuchungsgrundsatz§ 164Aufbewahrung vertraulicher Unterlagen§ 165Akteneinsicht§ 166Mündliche Verhandlung§ 167Beschleunigung§ 168Entscheidung der Vergabekammer§ 169Aussetzung des Vergabeverfahrens§ 170Ausschluss von abweichendem Landesrecht**Abschnitt 3****Sofortige Beschwerde**§ 171Zulässigkeit, Zuständigkeit§ 172Frist, Form, Inhalt§ 173Wirkung§ 174Beteiligte am Beschwerdeverfahren§ 175Verfahrensvorschriften§ 176Vorabentscheidung über den Zuschlag§ 177Ende des Vergabeverfahrens nach Entscheidung des Beschwerdegerichts§ 178Beschwerdeentscheidung§ 179Bindungswirkung und Vorlagepflicht§ 180Schadensersatz bei Rechtsmissbrauch§ 181Anspruch auf Ersatz des Vertrauensschadens§ 182Kosten des Verfahrens vor der Vergabekammer§ 183Korrekturmechanismus der Kommission§ 184Unterrichtungspflichten der Nachprüfungsinstanzen**Teil 5****Anwendungsbereich der Teile 1 bis 3**§ 185Unternehmen der öffentlichen Hand, Geltungsbereich**Teil 6****Übergangs- und Schlussbestimmungen**§ 186Anwendungsbestimmung zu § 47k§ 187Übergangs- und Schlussbestimmungen
+###### Inhaltsübersicht
+
+**Teil 1** **Wettbewerbsbeschränkungen****Kapitel 1****Wettbewerbsbeschränkende Vereinbarungen, Beschlüsse und abgestimmte Verhaltensweisen**§ 1Verbot wettbewerbsbeschränkender Vereinbarungen§ 2Freigestellte Vereinbarungen§ 3Mittelstandskartelle§§ 4 bis 17(weggefallen)**Kapitel 2****Marktbeherrschung, sonstiges wettbewerbsbeschränkendes Verhalten**§ 18Marktbeherrschung§ 19Verbotenes Verhalten von marktbeherrschenden Unternehmen§ 19aMissbräuchliches Verhalten von Unternehmen mit überragender marktübergreifender Bedeutung für den Wettbewerb§ 20Verbotenes Verhalten von Unternehmen mit relativer oder überlegener Marktmacht§ 21Boykottverbot, Verbot sonstigen wettbewerbsbeschränkenden Verhaltens**Kapitel 3****Anwendung des europäischen Wettbewerbsrechts**§ 22Verhältnis dieses Gesetzes zu den Artikeln 101 und 102 des Vertrages über die Arbeitsweise der Europäischen Union§ 23(weggefallen)**Kapitel 4****Wettbewerbsregeln**§ 24Begriff, Antrag auf Anerkennung§ 25Stellungnahme Dritter§ 26Anerkennung§ 27Veröffentlichung von Wettbewerbsregeln, Bekanntmachungen**Kapitel 5****Sonderregeln für bestimmte Wirtschaftsbereiche**§ 28Landwirtschaft§ 29Energiewirtschaft§ 29aKraftstoffmärkte§ 30Presse§ 31Verträge der Wasserwirtschaft§ 31aWasserwirtschaft, Meldepflicht§ 31bWasserwirtschaft, Aufgaben und Befugnisse der Kartellbehörde, Sanktionen**Kapitel 6****Befugnisse der Kartellbehörden, Schadensersatz und Vorteilsabschöpfung****Abschnitt 1****Befugnisse der Kartellbehörden**§ 32Abstellung und nachträgliche Feststellung von Zuwiderhandlungen§ 32aEinstweilige Maßnahmen§ 32bVerpflichtungszusagen§ 32cKein Anlass zum Tätigwerden§ 32dEntzug der Freistellung§ 32eUntersuchungen einzelner Wirtschaftszweige und einzelner Arten von Vereinbarungen§ 32fMaßnahmen nach einer Sektoruntersuchung§ 32gUntersuchung von möglichen Verstößen gegen die Verordnung (EU) 2022/1925 (Digital Markets Act)**Abschnitt 2****Schadensersatz und Vorteilsabschöpfung**§ 33Unterlassungsanspruch, Schadensersatzpflicht§ 33aSchadensersatzpflicht§ 33bBindungswirkung von Entscheidungen einer Wettbewerbsbehörde§ 33cSchadensabwälzung§ 33dGesamtschuldnerische Haftung§ 33eKronzeuge§ 33fWirkungen des Vergleichs§ 33gAnspruch auf Herausgabe von Beweismitteln und Erteilung von Auskünften§ 33hVerjährung§ 34Vorteilsabschöpfung durch die Kartellbehörde§ 34aVorteilsabschöpfung durch Verbände**Kapitel 7****Zusammenschlusskontrolle**§ 35Geltungsbereich der Zusammenschlusskontrolle§ 36Grundsätze für die Beurteilung von Zusammenschlüssen§ 37Zusammenschluss§ 38Berechnung der Umsatzerlöse und der Marktanteile und des Wertes der Gegenleistung§ 39Anmelde- und Anzeigepflicht§ 39a(weggefallen)§ 40Verfahren der Zusammenschlusskontrolle§ 41Vollzugsverbot, Entflechtung§ 42Ministererlaubnis§ 43Bekanntmachungen§ 43aEvaluierung**Kapitel 8****Monopolkommission**§ 44Aufgaben§ 45Mitglieder§ 46Beschlüsse, Organisation, Rechte und Pflichten der Mitglieder§ 47Übermittlung statistischer Daten**Kapitel 9****Markttransparenzstellen für den Großhandel mit Strom und Gas und für Kraftstoffe****Abschnitt 1****Markttransparenzstelle für den Großhandel im Bereich Strom und Gas**§ 47aEinrichtung, Zuständigkeit, Organisation§ 47bAufgaben§ 47cDatenverwendung§ 47dBefugnisse§ 47eMitteilungspflichten§ 47fVerordnungsermächtigung§ 47gFestlegungsbereiche§ 47hBerichtspflichten, Veröffentlichungen§ 47iZusammenarbeit mit anderen Behörden und Aufsichtsstellen§ 47jVertrauliche Informationen, operationelle Zuverlässigkeit, Datenschutz**Abschnitt 2****Markttransparenzstelle für Kraftstoffe**§ 47kMarktbeobachtung im Bereich Kraftstoffe**Abschnitt 3****Evaluierung**§ 47lEvaluierung der Markttransparenzstellen**Teil 2****Kartellbehörden****Kapitel 1****Allgemeine Vorschriften**§ 48Zuständigkeit§ 49Bundeskartellamt und oberste Landesbehörde§ 50Vollzug des europäischen Rechts**Kapitel 2****Behördenzusammenarbeit**§ 50aErmittlungen im Netzwerk der europäischen Wettbewerbsbehörden§ 50bZustellung im Netzwerk der europäischen Wettbewerbsbehörden§ 50cVollstreckung im Netzwerk der europäischen Wettbewerbsbehörden§ 50dInformationsaustausch im Netzwerk der europäischen Wettbewerbsbehörden§ 50eSonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden§ 50fZusammenarbeit mit anderen Behörden**Kapitel 3****Bundeskartellamt**§ 51Sitz, Organisation§ 52Veröffentlichung allgemeiner Weisungen§ 53Tätigkeitsbericht und Monitoringberichte**Teil 3****Verfahren****Kapitel 1** **Verwaltungssachen****Abschnitt 1****Verfahren vor den Kartellbehörden**§ 54Einleitung des Verfahrens, Beteiligte, Beteiligtenfähigkeit§ 55Vorabentscheidung über Zuständigkeit§ 56Anhörung, Akteneinsicht, mündliche Verhandlung§ 57Ermittlungen, Beweiserhebung§ 58Beschlagnahme§ 59Auskunftsverlangen§ 59aPrüfung von geschäftlichen Unterlagen§ 59bDurchsuchungen§ 60Einstweilige Anordnungen§ 61Verfahrensabschluss, Begründung der Verfügung, Zustellung§ 62Gebührenpflichtige Handlungen**Abschnitt 2****Gemeinsame Bestimmungen für Rechtsbehelfsverfahren**§ 63Beteiligte am Rechtsbehelfsverfahren, Beteiligtenfähigkeit§ 64Anwaltszwang§ 65Mündliche Verhandlung§ 66Aufschiebende Wirkung§ 67Anordnung der sofortigen Vollziehung§ 68Einstweilige Anordnungen im Rechtsbehelfsverfahren§ 69Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör§ 70Akteneinsicht§ 71Kostentragung und -festsetzung§ 72Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung**Abschnitt 3****Beschwerde**§ 73Zulässigkeit, Zuständigkeit§ 74Frist und Form§ 75Untersuchungsgrundsatz§ 76Beschwerdeentscheidung**Abschnitt 4****Rechtsbeschwerde und Nichtzulassungsbeschwerde**§ 77Zulassung, absolute Rechtsbeschwerdegründe§ 78Nichtzulassungsbeschwerde§ 79Rechtsbeschwerdeberechtigte, Form und Frist§ 80Rechtsbeschwerdeentscheidung**Kapitel 2****Bußgeldsachen****Abschnitt 1****Bußgeldvorschriften**§ 81Bußgeldtatbestände§ 81aGeldbußen gegen Unternehmen§ 81bGeldbußen gegen Unternehmensvereinigungen§ 81cHöhe der Geldbuße§ 81dZumessung der Geldbuße§ 81eAusfallhaftung im Übergangszeitraum§ 81fVerzinsung der Geldbuße§ 81gVerjährung der Geldbuße**Abschnitt 2****Kronzeugenprogramm**§ 81hZiel und Anwendungsbereich§ 81iAntrag auf Kronzeugenbehandlung§ 81jAllgemeine Voraussetzungen für die Kronzeugenbehandlung§ 81kErlass der Geldbuße§ 81lErmäßigung der Geldbuße§ 81mMarker§ 81nKurzantrag**Abschnitt 3****Bußgeldverfahren**§ 82Zuständigkeiten in Kartellbußgeldsachen§ 82aBefugnisse und Zuständigkeiten im Verfahren nach Einspruchseinlegung§ 82bBesondere Ermittlungsbefugnisse§ 83Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren§ 84Rechtsbeschwerde zum Bundesgerichtshof§ 85Wiederaufnahmeverfahren gegen Bußgeldbescheid§ 86Gerichtliche Entscheidung bei der Vollstreckung**Kapitel 3****Vollstreckung**§ 86aVollstreckung**Kapitel 4****Bürgerliche Rechtsstreitigkeiten**§ 87Ausschließliche Zuständigkeit der Landgerichte§ 88Klageverbindung§ 89Zuständigkeit eines Landgerichts für mehrere Gerichtsbezirke§ 89aStreitwertanpassung, Kostenerstattung§ 89bVerfahren§ 89cOffenlegung aus der Behördenakte§ 89dBeweisregeln§ 89eGemeinsame Vorschriften für die §§ 33g und 89b bis 89d**Kapitel 5****Gemeinsame Bestimmungen**§ 90Benachrichtigung und Beteiligung der Kartellbehörden§ 90aZusammenarbeit der Gerichte mit der Europäischen Kommission und den Kartellbehörden§ 91Kartellsenat beim Oberlandesgericht§ 92Zuständigkeit eines Oberlandesgerichts oder des Obersten Landesgerichts für mehrere Gerichtsbezirke in Verwaltungs- und Bußgeldsachen§ 93Zuständigkeit für Berufung und Beschwerde§ 94Kartellsenat beim Bundesgerichtshof§ 95Ausschließliche Zuständigkeit§ 96(weggefallen)**Teil 4****Vergabe von öffentlichen Aufträgen und Konzessionen****Kapitel 1****Vergabeverfahren****Abschnitt 1****Grundsätze, Definitionen und Anwendungsbereich**§ 97Grundsätze der Vergabe§ 97aLosgrundsatz§ 98Auftraggeber§ 99Öffentliche Auftraggeber§ 100Sektorenauftraggeber§ 101Konzessionsgeber§ 102Sektorentätigkeiten§ 103Öffentliche Aufträge, Rahmenvereinbarungen und Wettbewerbe§ 104Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge§ 105Konzessionen§ 106Schwellenwerte§ 107Allgemeine Ausnahmen§ 108Anwendbarkeit bei öffentlich-öffentlicher Zusammenarbeit§ 109Ausnahmen für Vergaben auf der Grundlage internationaler Verfahrensregeln§ 110Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben§ 111Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen§ 112Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen§ 113Verordnungsermächtigung§ 114Monitoring; Vergabestatistik; Datenservice Öffentlicher Einkauf**Abschnitt 2****Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber****Unterabschnitt 1****Anwendungsbereich**§ 115Anwendungsbereich§ 116Besondere Ausnahmen§ 117Besondere Ausnahmen für Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen§ 118Bestimmten Auftragnehmern vorbehaltene öffentliche Aufträge**Unterabschnitt 2****Vergabeverfahren und Auftragsausführung**§ 119Verfahrensarten§ 120Besondere Methoden und Instrumente in Vergabeverfahren§ 121Leistungsbeschreibung§ 122Eignung§ 123Zwingende Ausschlussgründe§ 124Fakultative Ausschlussgründe§ 125Selbstreinigung§ 126Zulässiger Zeitraum für Ausschlüsse§ 127Zuschlag§ 128Auftragsausführung§ 129Zwingend zu berücksichtigende Ausführungsbedingungen§ 130Vergabe von öffentlichen Aufträgen über soziale und andere besondere Dienstleistungen§ 131Vergabe von öffentlichen Aufträgen über Personenverkehrsleistungen im Eisenbahnverkehr§ 132Auftragsänderungen während der Vertragslaufzeit§ 133Kündigung von öffentlichen Aufträgen in besonderen Fällen§ 134Informations- und Wartepflicht§ 135Unwirksamkeit**Abschnitt 3****Vergabe von öffentlichen Aufträgen in besonderen Bereichen und von Konzessionen****Unterabschnitt 1****Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber**§ 136Anwendungsbereich§ 137Besondere Ausnahmen§ 138Besondere Ausnahme für die Vergabe an verbundene Unternehmen§ 139Besondere Ausnahme für die Vergabe durch oder an ein Gemeinschaftsunternehmen§ 140Besondere Ausnahme für unmittelbar dem Wettbewerb ausgesetzte Tätigkeiten§ 141Verfahrensarten§ 142Sonstige anwendbare Vorschriften§ 143Regelung für Auftraggeber nach dem Bundesberggesetz**Unterabschnitt 2****Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen**§ 144Anwendungsbereich§ 145Besondere Ausnahmen für die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen§ 146Verfahrensarten§ 147Sonstige anwendbare Vorschriften**Unterabschnitt 3****Vergabe von Konzessionen**§ 148Anwendungsbereich§ 149Besondere Ausnahmen§ 150Besondere Ausnahmen für die Vergabe von Konzessionen in den Bereichen Verteidigung und Sicherheit§ 151Verfahren§ 152Anforderungen im Konzessionsvergabeverfahren§ 153Vergabe von Konzessionen über soziale und andere besondere Dienstleistungen§ 154Sonstige anwendbare Vorschriften**Kapitel 2****Nachprüfungsverfahren****Abschnitt 1****Nachprüfungsbehörden**§ 155Grundsatz§ 156Vergabekammern§ 157Besetzung, Unabhängigkeit§ 158Einrichtung, Organisation, Form§ 159Abgrenzung der Zuständigkeit der Vergabekammern**Abschnitt 2****Verfahren vor der Vergabekammer**§ 160Einleitung, Antrag§ 161Form, Inhalt§ 162Verfahrensbeteiligte, Beiladung§ 163Untersuchungsgrundsatz§ 164Aufbewahrung vertraulicher Unterlagen§ 165Akteneinsicht§ 166Mündliche Verhandlung§ 167Beschleunigung§ 168Entscheidung der Vergabekammer§ 169Aussetzung des Vergabeverfahrens§ 170Ausschluss von abweichendem Landesrecht**Abschnitt 3****Sofortige Beschwerde**§ 171Zulässigkeit, Zuständigkeit§ 172Frist, Form, Inhalt§ 173Wirkung§ 174Beteiligte am Beschwerdeverfahren§ 175Verfahrensvorschriften§ 176Vorabentscheidung über den Zuschlag§ 177(weggefallen)§ 178Beschwerdeentscheidung§ 179Bindungswirkung und Vorlagepflicht§ 180Schadensersatz bei Rechtsmissbrauch§ 181Anspruch auf Ersatz des Vertrauensschadens§ 182Kosten des Verfahrens vor der Vergabekammer§ 183Korrekturmechanismus der Kommission§ 184Unterrichtungspflichten der Nachprüfungsinstanzen**Teil 5****Anwendungsbereich der Teile 1 bis 3**§ 185Unternehmen der öffentlichen Hand, Geltungsbereich**Teil 6****Übergangs- und Schlussbestimmungen**§ 186Anwendungsbestimmung zu § 47k§ 186aFusionskontrolle im Krankenhausbereich§ 187Übergangs- und Schlussbestimmungen
 
 ## Teil 1 Wettbewerbsbeschränkungen
 
 ## Kapitel 1 Wettbewerbsbeschränkende Vereinbarungen, Beschlüsse und abgestimmte Verhaltensweisen
 
-##### § 1 Verbot wettbewerbsbeschränkender Vereinbarungen
+###### § 1 Verbot wettbewerbsbeschränkender Vereinbarungen
 
 Vereinbarungen zwischen Unternehmen, Beschlüsse von Unternehmensvereinigungen und aufeinander abgestimmte Verhaltensweisen, die eine Verhinderung, Einschränkung oder Verfälschung des Wettbewerbs bezwecken oder bewirken, sind verboten.
 
-##### § 2 Freigestellte Vereinbarungen
+###### § 2 Freigestellte Vereinbarungen
 
 (1) Vom Verbot des § 1 freigestellt sind Vereinbarungen zwischen Unternehmen, Beschlüsse von Unternehmensvereinigungen oder aufeinander abgestimmte Verhaltensweisen, die unter angemessener Beteiligung der Verbraucher an dem entstehenden Gewinn zur Verbesserung der Warenerzeugung oder -verteilung oder zur Förderung des technischen oder wirtschaftlichen Fortschritts beitragen, ohne dass den beteiligten Unternehmen
 
@@ -38,7 +42,7 @@ Vereinbarungen zwischen Unternehmen, Beschlüsse von Unternehmensvereinigungen u
 
 (2) Bei der Anwendung von Absatz 1 gelten die Verordnungen des Rates oder der Europäischen Kommission über die Anwendung von Artikel 101 Absatz 3 des Vertrages über die Arbeitsweise der Europäischen Union auf bestimmte Gruppen von Vereinbarungen, Beschlüsse von Unternehmensvereinigungen und aufeinander abgestimmte Verhaltensweisen (Gruppenfreistellungsverordnungen) entsprechend. Dies gilt auch, soweit die dort genannten Vereinbarungen, Beschlüsse und Verhaltensweisen nicht geeignet sind, den Handel zwischen den Mitgliedstaaten der Europäischen Union zu beeinträchtigen.
 
-##### § 3 Mittelstandskartelle
+###### § 3 Mittelstandskartelle
 
 Vereinbarungen zwischen miteinander im Wettbewerb stehenden Unternehmen und Beschlüsse von Unternehmensvereinigungen, die die Rationalisierung wirtschaftlicher Vorgänge durch zwischenbetriebliche Zusammenarbeit zum Gegenstand haben, erfüllen die Voraussetzungen des § 2 Absatz 1, wenn
 
@@ -46,11 +50,11 @@ Vereinbarungen zwischen miteinander im Wettbewerb stehenden Unternehmen und Besc
 
 2. die Vereinbarung oder der Beschluss dazu dient, die Wettbewerbsfähigkeit kleiner oder mittlerer Unternehmen zu verbessern.
 
-##### (XXXX) §§ 4 bis 17 (weggefallen)
+###### (XXXX) §§ 4 bis 17 (weggefallen)
 
 ## Kapitel 2 Marktbeherrschung, sonstiges wettbewerbsbeschränkendes Verhalten
 
-##### § 18 Marktbeherrschung
+###### § 18 Marktbeherrschung
 
 (1) Ein Unternehmen ist marktbeherrschend, soweit es als Anbieter oder Nachfrager einer bestimmten Art von Waren oder gewerblichen Leistungen auf dem sachlich und räumlich relevanten Markt
 
@@ -120,7 +124,7 @@ Vereinbarungen zwischen miteinander im Wettbewerb stehenden Unternehmen und Besc
 
 (8) Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden Körperschaften nach Ablauf von drei Jahren nach Inkrafttreten der Regelungen in den Absätzen 2a und 3a über die Erfahrungen mit den Vorschriften.
 
-##### § 19 Verbotenes Verhalten von marktbeherrschenden Unternehmen
+###### § 19 Verbotenes Verhalten von marktbeherrschenden Unternehmen
 
 (1) Der Missbrauch einer marktbeherrschenden Stellung durch ein oder mehrere Unternehmen ist verboten.
 
@@ -138,7 +142,7 @@ Vereinbarungen zwischen miteinander im Wettbewerb stehenden Unternehmen und Besc
 
 (3) Absatz 1 in Verbindung mit Absatz 2 Nummer 1 und Nummer 5 gilt auch für Vereinigungen von miteinander im Wettbewerb stehenden Unternehmen im Sinne der §§ 2, 3 und 28 Absatz 1, § 30 Absatz 2a, 2b und § 31 Absatz 1 Nummer 1, 2 und 4. Absatz 1 in Verbindung mit Absatz 2 Nummer 1 gilt auch für Unternehmen, die Preise nach § 28 Absatz 2 oder § 30 Absatz 1 Satz 1 oder § 31 Absatz 1 Nummer 3 binden.
 
-##### § 19a Missbräuchliches Verhalten von Unternehmen mit überragender marktübergreifender Bedeutung für den Wettbewerb
+###### § 19a Missbräuchliches Verhalten von Unternehmen mit überragender marktübergreifender Bedeutung für den Wettbewerb
 
 (1) Das Bundeskartellamt kann durch Verfügung feststellen, dass einem Unternehmen, das in erheblichem Umfang auf Märkten im Sinne des § 18 Absatz 3a tätig ist, eine überragende marktübergreifende Bedeutung für den Wettbewerb zukommt. Bei der Feststellung der überragenden marktübergreifenden Bedeutung eines Unternehmens für den Wettbewerb sind insbesondere zu berücksichtigen:
 
@@ -196,7 +200,7 @@ Dies gilt nicht, soweit die jeweilige Verhaltensweise sachlich gerechtfertigt is
 
 (4) Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden Körperschaften nach Ablauf von vier Jahren nach Inkrafttreten der Regelungen in den Absätzen 1 und 2 über die Erfahrungen mit der Vorschrift.
 
-##### § 20 Verbotenes Verhalten von Unternehmen mit relativer oder überlegener Marktmacht
+###### § 20 Verbotenes Verhalten von Unternehmen mit relativer oder überlegener Marktmacht
 
 (1) § 19 Absatz 1 in Verbindung mit Absatz 2 Nummer 1 gilt auch für Unternehmen und Vereinigungen von Unternehmen, soweit von ihnen andere Unternehmen als Anbieter oder Nachfrager einer bestimmten Art von Waren oder gewerblichen Leistungen in der Weise abhängig sind, dass ausreichende und zumutbare Möglichkeiten, auf dritte Unternehmen auszuweichen, nicht bestehen und ein deutliches Ungleichgewicht zur Gegenmacht der anderen Unternehmen besteht (relative Marktmacht). § 19 Absatz 1 in Verbindung mit Absatz 2 Nummer 1 gilt ferner auch für Unternehmen, die als Vermittler auf mehrseitigen Märkten tätig sind, soweit andere Unternehmen mit Blick auf den Zugang zu Beschaffungs- und Absatzmärkten von ihrer Vermittlungsleistung in der Weise abhängig sind, dass ausreichende und zumutbare Ausweichmöglichkeiten nicht bestehen. Es wird vermutet, dass ein Anbieter einer bestimmten Art von Waren oder gewerblichen Leistungen von einem Nachfrager abhängig im Sinne des Satzes 1 ist, wenn dieser Nachfrager bei ihm zusätzlich zu den verkehrsüblichen Preisnachlässen oder sonstigen Leistungsentgelten regelmäßig besondere Vergünstigungen erlangt, die gleichartigen Nachfragern nicht gewährt werden.
 
@@ -220,7 +224,7 @@ anbietet, es sei denn, dies ist jeweils sachlich gerechtfertigt. Einstandspreis 
 
 (5) Wirtschafts- und Berufsvereinigungen sowie Gütezeichengemeinschaften dürfen die Aufnahme eines Unternehmens nicht ablehnen, wenn die Ablehnung eine sachlich nicht gerechtfertigte ungleiche Behandlung darstellen und zu einer unbilligen Benachteiligung des Unternehmens im Wettbewerb führen würde.
 
-##### § 21 Boykottverbot, Verbot sonstigen wettbewerbsbeschränkenden Verhaltens
+###### § 21 Boykottverbot, Verbot sonstigen wettbewerbsbeschränkenden Verhaltens
 
 (1) Unternehmen und Vereinigungen von Unternehmen dürfen nicht ein anderes Unternehmen oder Vereinigungen von Unternehmen in der Absicht, bestimmte Unternehmen unbillig zu beeinträchtigen, zu Liefersperren oder Bezugssperren auffordern.
 
@@ -244,7 +248,7 @@ anbietet, es sei denn, dies ist jeweils sachlich gerechtfertigt. Einstandspreis 
 
 ## Kapitel 3 Anwendung des europäischen Wettbewerbsrechts
 
-##### § 22 Verhältnis dieses Gesetzes zu den Artikeln 101 und 102 des Vertrages über die Arbeitsweise der Europäischen Union
+###### § 22 Verhältnis dieses Gesetzes zu den Artikeln 101 und 102 des Vertrages über die Arbeitsweise der Europäischen Union
 
 (1) Auf Vereinbarungen zwischen Unternehmen, Beschlüsse von Unternehmensvereinigungen und aufeinander abgestimmte Verhaltensweisen im Sinne des Artikels 101 Absatz 1 des Vertrages über die Arbeitsweise der Europäischen Union, die den Handel zwischen den Mitgliedstaaten der Europäischen Union im Sinne dieser Bestimmung beeinträchtigen können, können auch die Vorschriften dieses Gesetzes angewandt werden. Ist dies der Fall, ist daneben gemäß Artikel 3 Absatz 1 Satz 1 der Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur Durchführung der in den Artikeln 81 und 82 des Vertrages niedergelegten Wettbewerbsregeln (ABl. EG 2003 Nr. L 1 S. 1) auch Artikel 101 des Vertrages über die Arbeitsweise der Europäischen Union anzuwenden.
 
@@ -262,11 +266,11 @@ Die Vorschriften des Kapitels 2 bleiben unberührt. In anderen Fällen richtet s
 
 (4) Die Absätze 1 bis 3 gelten unbeschadet des Rechts der Europäischen Union nicht, soweit die Vorschriften über die Zusammenschlusskontrolle angewandt werden. Vorschriften, die überwiegend ein von den Artikeln 101 und 102 des Vertrages über die Arbeitsweise der Europäischen Union abweichendes Ziel verfolgen, bleiben von den Vorschriften dieses Abschnitts unberührt.
 
-##### § 23 (weggefallen)
+###### § 23 (weggefallen)
 
 ## Kapitel 4 Wettbewerbsregeln
 
-##### § 24 Begriff, Antrag auf Anerkennung
+###### § 24 Begriff, Antrag auf Anerkennung
 
 (1) Wirtschafts- und Berufsvereinigungen können für ihren Bereich Wettbewerbsregeln aufstellen.
 
@@ -296,11 +300,11 @@ In dem Antrag dürfen keine unrichtigen oder unvollständigen Angaben gemacht od
 
 (5) Änderungen und Ergänzungen anerkannter Wettbewerbsregeln sind der Kartellbehörde mitzuteilen.
 
-##### § 25 Stellungnahme Dritter
+###### § 25 Stellungnahme Dritter
 
 Die Kartellbehörde hat nichtbeteiligten Unternehmen der gleichen Wirtschaftsstufe, Wirtschafts- und Berufsvereinigungen der durch die Wettbewerbsregeln betroffenen Lieferanten und Abnehmer sowie den Bundesorganisationen der beteiligten Wirtschaftsstufen Gelegenheit zur Stellungnahme zu geben. Gleiches gilt für Verbraucherzentralen und andere Verbraucherverbände, die mit öffentlichen Mitteln gefördert werden, wenn die Interessen der Verbraucher erheblich berührt sind. Die Kartellbehörde kann eine öffentliche mündliche Verhandlung über den Antrag auf Anerkennung durchführen, in der es jedermann freisteht, Einwendungen gegen die Anerkennung zu erheben.
 
-##### § 26 Anerkennung
+###### § 26 Anerkennung
 
 (1) Die Anerkennung erfolgt durch Verfügung der Kartellbehörde. Sie hat zum Inhalt, dass die Kartellbehörde von den ihr nach Kapitel 6 zustehenden Befugnissen keinen Gebrauch machen wird.
 
@@ -310,7 +314,7 @@ Die Kartellbehörde hat nichtbeteiligten Unternehmen der gleichen Wirtschaftsstu
 
 (4) Die Kartellbehörde hat die Anerkennung zurückzunehmen oder zu widerrufen, wenn sie nachträglich feststellt, dass die Voraussetzungen für die Ablehnung der Anerkennung nach Absatz 2 vorliegen.
 
-##### § 27 Veröffentlichung von Wettbewerbsregeln, Bekanntmachungen
+###### § 27 Veröffentlichung von Wettbewerbsregeln, Bekanntmachungen
 
 (1) Anerkannte Wettbewerbsregeln sind im Bundesanzeiger zu veröffentlichen.
 
@@ -332,7 +336,7 @@ Die Kartellbehörde hat nichtbeteiligten Unternehmen der gleichen Wirtschaftsstu
 
 ## Kapitel 5 Sonderregeln für bestimmte Wirtschaftsbereiche
 
-##### § 28 Landwirtschaft
+###### § 28 Landwirtschaft
 
 (1) § 1 gilt nicht für Vereinbarungen von landwirtschaftlichen Erzeugerbetrieben sowie für Vereinbarungen und Beschlüsse von Vereinigungen von landwirtschaftlichen Erzeugerbetrieben und Vereinigungen von solchen Erzeugervereinigungen über
 
@@ -346,7 +350,7 @@ sofern sie keine Preisbindung enthalten und den Wettbewerb nicht ausschließen. 
 
 (3) Landwirtschaftliche Erzeugnisse sind die in Anhang I des Vertrages über die Arbeitsweise der Europäischen Union aufgeführten Erzeugnisse sowie die durch Be- oder Verarbeitung dieser Erzeugnisse gewonnenen Waren, deren Be- oder Verarbeitung durch landwirtschaftliche Erzeugerbetriebe oder ihre Vereinigungen durchgeführt zu werden pflegt.
 
-##### § 29 Energiewirtschaft
+###### § 29 Energiewirtschaft
 
 Einem Unternehmen ist es verboten, als Anbieter von Elektrizität, Fernwärme oder leitungsgebundenem Gas (Versorgungsunternehmen) auf einem Markt, auf dem es allein oder zusammen mit anderen Versorgungsunternehmen eine marktbeherrschende Stellung hat, diese Stellung missbräuchlich auszunutzen, indem es
 
@@ -356,7 +360,7 @@ Einem Unternehmen ist es verboten, als Anbieter von Elektrizität, Fernwärme od
 
 Kosten, die sich ihrem Umfang nach im Wettbewerb nicht einstellen würden, dürfen bei der Feststellung eines Missbrauchs im Sinne des Satzes 1 nicht berücksichtigt werden. Die §§ 19 und 20 bleiben unberührt.
 
-##### § 29a Kraftstoffmärkte
+###### § 29a Kraftstoffmärkte
 
 (1) Einem Anbieter von Kraftstoffen ist es verboten, auf einem der Abgabe von Kraftstoffen an Letztverbraucher vorgelagerten Markt, auf dem er allein oder zusammen mit anderen Anbietern von Kraftstoffen eine marktbeherrschende Stellung innehat oder über relative Marktmacht verfügt, diese missbräuchlich auszunutzen, indem er Kraftstoffpreise fordert, die die Kosten in unangemessener Weise überschreiten. Dabei trägt der Anbieter in Verfahren vor der Kartellbehörde die Darlegungs- und Beweislast für die Zuordnung und Höhe der Kosten und, soweit die Höhe der Kosten das Marktübliche erheblich überschreitet, auch die Angemessenheit der Kosten.
 
@@ -366,7 +370,7 @@ Kosten, die sich ihrem Umfang nach im Wettbewerb nicht einstellen würden, dürf
 
 (4) Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden Körperschaften nach Ablauf von fünf Jahren nach dem 1. April 2026 über die Erfahrung mit dieser Regelung.
 
-##### § 30 Presse
+###### § 30 Presse
 
 (1) § 1 gilt nicht für vertikale Preisbindungen, durch die ein Unternehmen, das Zeitungen oder Zeitschriften herstellt, die Abnehmer dieser Erzeugnisse rechtlich oder wirtschaftlich bindet, bei der Weiterveräußerung bestimmte Preise zu vereinbaren oder ihren Abnehmern die gleiche Bindung bis zur Weiterveräußerung an den letzten Verbraucher aufzuerlegen. Zu Zeitungen und Zeitschriften zählen auch Produkte, die Zeitungen oder Zeitschriften reproduzieren oder substituieren und bei Würdigung der Gesamtumstände als überwiegend verlagstypisch anzusehen sind, sowie kombinierte Produkte, bei denen eine Zeitung oder eine Zeitschrift im Vordergrund steht.
 
@@ -392,7 +396,7 @@ Soweit eine Branchenvereinbarung nach Absatz 2a oder eine Vereinbarung nach Absa
 
 (4) Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden Körperschaften nach Ablauf von fünf Jahren nach Inkrafttreten der Regelung in den Absätzen 2b und 3 Satz 2 über die Erfahrungen mit der Vorschrift.
 
-##### § 31 Verträge der Wasserwirtschaft
+###### § 31 Verträge der Wasserwirtschaft
 
 (1) Das Verbot wettbewerbsbeschränkender Vereinbarungen nach § 1 gilt nicht für Verträge von Unternehmen der öffentlichen Versorgung mit Wasser (Wasserversorgungsunternehmen) mit
 
@@ -418,7 +422,7 @@ Soweit eine Branchenvereinbarung nach Absatz 2a oder eine Vereinbarung nach Absa
 
 (5) Ein Missbrauch liegt nicht vor, wenn ein Wasserversorgungsunternehmen sich insbesondere aus technischen oder hygienischen Gründen weigert, mit einem anderen Unternehmen Verträge über die Einspeisung von Wasser in sein Versorgungsnetz abzuschließen, und eine damit verbundene Entnahme (Durchleitung) verweigert.
 
-##### § 31a Wasserwirtschaft, Meldepflicht
+###### § 31a Wasserwirtschaft, Meldepflicht
 
 (1) Verträge nach § 31 Absatz 1 Nummer 1, 2 und 4 sowie ihre Änderungen und Ergänzungen bedürfen zu ihrer Wirksamkeit der vollständigen Anmeldung bei der Kartellbehörde. Bei der Anmeldung sind für jedes beteiligte Unternehmen anzugeben:
 
@@ -432,7 +436,7 @@ Soweit eine Branchenvereinbarung nach Absatz 2a oder eine Vereinbarung nach Absa
 
 (2) Die Beendigung oder Aufhebung der in § 31 Absatz 1 Nummer 1, 2 und 4 genannten Verträge ist der Kartellbehörde mitzuteilen.
 
-##### § 31b Wasserwirtschaft, Aufgaben und Befugnisse der Kartellbehörde, Sanktionen
+###### § 31b Wasserwirtschaft, Aufgaben und Befugnisse der Kartellbehörde, Sanktionen
 
 (1) Die Kartellbehörde erteilt zu den nach § 31 Absatz 1 Nummer 1, 2 und 4 freigestellten Verträgen auf Anfrage Auskunft über
 
@@ -460,7 +464,7 @@ Soweit eine Branchenvereinbarung nach Absatz 2a oder eine Vereinbarung nach Absa
 
 ## Abschnitt 1 Befugnisse der Kartellbehörden
 
-##### § 32 Abstellung und nachträgliche Feststellung von Zuwiderhandlungen
+###### § 32 Abstellung und nachträgliche Feststellung von Zuwiderhandlungen
 
 (1) Die Kartellbehörde kann Unternehmen oder Vereinigungen von Unternehmen verpflichten, eine Zuwiderhandlung gegen eine Vorschrift dieses Teils oder gegen Artikel 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union abzustellen.
 
@@ -470,13 +474,13 @@ Soweit eine Branchenvereinbarung nach Absatz 2a oder eine Vereinbarung nach Absa
 
 (3) Soweit ein berechtigtes Interesse besteht, kann die Kartellbehörde auch eine Zuwiderhandlung feststellen, nachdem diese beendet ist.
 
-##### § 32a Einstweilige Maßnahmen
+###### § 32a Einstweilige Maßnahmen
 
 (1) Die Kartellbehörde kann von Amts wegen einstweilige Maßnahmen anordnen, wenn eine Zuwiderhandlung im Sinne des § 32 Absatz 1 überwiegend wahrscheinlich erscheint und die einstweilige Maßnahme zum Schutz des Wettbewerbs oder aufgrund einer unmittelbar drohenden, schwerwiegenden Beeinträchtigung eines anderen Unternehmens geboten ist. Dies gilt nicht, sofern das betroffene Unternehmen Tatsachen glaubhaft macht, nach denen die Anordnung eine unbillige, nicht durch überwiegende öffentliche Interessen gebotene Härte zur Folge hätte.
 
 (2) Die Anordnung gemäß Absatz 1 ist zu befristen. Die Frist kann verlängert werden. Sie soll insgesamt ein Jahr nicht überschreiten.
 
-##### § 32b Verpflichtungszusagen
+###### § 32b Verpflichtungszusagen
 
 (1) Bieten Unternehmen im Rahmen eines Verfahrens nach § 30 Absatz 3, § 31b Absatz 3 oder § 32 an, Verpflichtungen einzugehen, die geeignet sind, die ihnen von der Kartellbehörde nach vorläufiger Beurteilung mitgeteilten Bedenken auszuräumen, so kann die Kartellbehörde für diese Unternehmen die Verpflichtungszusagen durch Verfügung für bindend erklären. Die Verfügung hat zum Inhalt, dass die Kartellbehörde vorbehaltlich des Absatzes 2 von ihren Befugnissen nach den § 30 Absatz 3, § 31b Absatz 3, §§ 32 und 32a keinen Gebrauch machen wird. Sie kann befristet werden.
 
@@ -488,7 +492,7 @@ Soweit eine Branchenvereinbarung nach Absatz 2a oder eine Vereinbarung nach Absa
 
 3. die Verfügung auf unvollständigen, unrichtigen oder irreführenden Angaben der Parteien beruht.
 
-##### § 32c Kein Anlass zum Tätigwerden
+###### § 32c Kein Anlass zum Tätigwerden
 
 (1) Sind die Voraussetzungen für ein Verbot nach den §§ 1, 19 bis 21 und 29, nach Artikel 101 Absatz 1 oder Artikel 102 des Vertrages über die Arbeitsweise der Europäischen Union nach den der Kartellbehörde vorliegenden Erkenntnissen nicht gegeben, so kann sie entscheiden, dass für sie kein Anlass besteht, tätig zu werden. Die Entscheidung hat zum Inhalt, dass die Kartellbehörde vorbehaltlich neuer Erkenntnisse von ihren Befugnissen nach den §§ 32 und 32a keinen Gebrauch machen wird. Sie hat keine Freistellung von einem Verbot im Sinne des Satzes 1 zum Inhalt.
 
@@ -498,11 +502,11 @@ Soweit eine Branchenvereinbarung nach Absatz 2a oder eine Vereinbarung nach Absa
 
 (4) Unternehmen oder Unternehmensvereinigungen haben auf Antrag gegenüber dem Bundeskartellamt einen Anspruch auf eine Entscheidung nach Absatz 1, wenn im Hinblick auf eine Zusammenarbeit mit Wettbewerbern ein erhebliches rechtliches und wirtschaftliches Interesse an einer solchen Entscheidung besteht. Das Bundeskartellamt soll innerhalb von sechs Monaten über einen Antrag nach Satz 1 entscheiden.
 
-##### § 32d Entzug der Freistellung
+###### § 32d Entzug der Freistellung
 
 Haben Vereinbarungen, Beschlüsse von Unternehmensvereinigungen oder aufeinander abgestimmte Verhaltensweisen, die unter eine Gruppenfreistellungsverordnung fallen, in einem Einzelfall Wirkungen, die mit § 2 Absatz 1 oder mit Artikel 101 Absatz 3 des Vertrages über die Arbeitsweise der Europäischen Union unvereinbar sind und auf einem Gebiet im Inland auftreten, das alle Merkmale eines gesonderten räumlichen Marktes aufweist, so kann die Kartellbehörde den Rechtsvorteil der Gruppenfreistellung in diesem Gebiet entziehen.
 
-##### § 32e Untersuchungen einzelner Wirtschaftszweige und einzelner Arten von Vereinbarungen
+###### § 32e Untersuchungen einzelner Wirtschaftszweige und einzelner Arten von Vereinbarungen
 
 (1) Lassen Umstände vermuten, dass der Wettbewerb im Inland möglicherweise eingeschränkt oder verfälscht ist, können das Bundeskartellamt und die obersten Landesbehörden die Untersuchung eines bestimmten Wirtschaftszweiges oder – Sektor übergreifend – einer bestimmten Art von Vereinbarungen oder Verhaltensweisen durchführen (Sektoruntersuchung).
 
@@ -518,7 +522,7 @@ Haben Vereinbarungen, Beschlüsse von Unternehmensvereinigungen oder aufeinander
 
 (7) Der Anspruch auf Ersatz der Aufwendungen einer Abmahnung nach § 13 Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb ist ab der Veröffentlichung eines Abschlussberichts über eine Sektoruntersuchung nach Absatz 6 für vier Monate ausgeschlossen.
 
-##### § 32f Maßnahmen nach einer Sektoruntersuchung
+###### § 32f Maßnahmen nach einer Sektoruntersuchung
 
 (1) Nach der Veröffentlichung eines Berichts nach § 32e Absatz 4 zu einer Sektoruntersuchung nach § 32e Absatz 1 hat das Bundeskartellamt unbeschadet seiner sonstigen Befugnisse die weiteren Befugnisse gemäß den Absätzen 2 bis 4. Dies gilt nicht in Fällen des § 32e Absatz 6.
 
@@ -576,11 +580,11 @@ Eine Störung des Wettbewerbs ist fortwährend, wenn diese über einen Zeitraum 
 
 (8) Auf Märkten in den von der Bundesnetzagentur regulierten Sektoren Eisenbahn, Post und Telekommunikation, für die sektorspezifisches Wettbewerbsrecht gilt, sowie den regulierten Elektrizitäts- und Gasversorgungsnetzen gemäß dem Energiewirtschaftsgesetz bedarf das Bundeskartellamt zur Ergreifung von Abhilfemaßnahmen nach den Absätzen 3 und 4 des Einvernehmens der Bundesnetzagentur; die Bundesnetzagentur veröffentlicht hierzu jeweils eine Stellungnahme. Mögliche Abhilfemaßnahmen nach den Absätzen 3 und 4 sind bei der Prüfung im Rahmen der Marktanalyse nach § 37 Absatz 2 Nummer 3 des Postgesetzes und § 11 Absatz 2 Nummer 3 des Telekommunikationsgesetzes nicht zu berücksichtigen.
 
-(9) Das Bundesministerium für Wirtschaft und Klimaschutz berichtet den gesetzgebenden Körperschaften nach Ablauf von zehn Jahren nach Inkrafttreten der Regelungen in den Absätzen 1 bis 8 über die Erfahrungen mit der Vorschrift.
+(9) Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden Körperschaften nach Ablauf von zehn Jahren nach Inkrafttreten der Regelungen in den Absätzen 1 bis 8 über die Erfahrungen mit der Vorschrift.
 
 (10) Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden Körperschaften nach Ablauf von fünf Jahren nach dem 1. April 2026 über die Erfahrung mit dem neuen Absatz 3 Satz 1.
 
-##### § 32g Untersuchung von möglichen Verstößen gegen die Verordnung (EU) 2022/1925 (Digital Markets Act)
+###### § 32g Untersuchung von möglichen Verstößen gegen die Verordnung (EU) 2022/1925 (Digital Markets Act)
 
 (1) Das Bundeskartellamt kann eine Untersuchung bei einer möglichen Nichteinhaltung der Artikel 5, 6 oder 7 der Verordnung (EU) 2022/1925 des Europäischen Parlaments und des Rates vom 14. September 2022 über bestreitbare und faire Märkte im digitalen Sektor und zur Änderung der Richtlinien (EU) 2019/1937 und (EU) 2020/1828 (Gesetz über digitale Märkte) (ABl. L 265 vom 12.10.2022, S. 1) durch ein nach Artikel 3 der Verordnung benanntes Unternehmen durchführen.
 
@@ -590,7 +594,7 @@ Eine Störung des Wettbewerbs ist fortwährend, wenn diese über einen Zeitraum 
 
 ## Abschnitt 2 Schadensersatz und Vorteilsabschöpfung
 
-##### § 33 Beseitigungs- und Unterlassungsanspruch
+###### § 33 Beseitigungs- und Unterlassungsanspruch
 
 (1) Wer gegen eine Vorschrift dieses Teils oder gegen Artikel 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union oder gegen die Artikel 5, 6 oder 7 der Verordnung (EU) 2022/1925 verstößt (Rechtsverletzer) oder wer gegen eine Verfügung der Kartellbehörde verstößt, ist gegenüber dem Betroffenen zur Beseitigung der Beeinträchtigung und bei Wiederholungsgefahr zur Unterlassung verpflichtet.
 
@@ -608,7 +612,7 @@ b) sie insbesondere nach ihrer personellen, sachlichen und finanziellen Ausstatt
 
 2. qualifizierten Verbraucherverbänden, die in der Liste nach § 4 des Unterlassungsklagengesetzes eingetragen sind, und qualifizierten Einrichtungen aus anderen Mitgliedstaaten der Europäischen Union, die in dem Verzeichnis der Europäischen Kommission nach Artikel 5 Absatz 1 Satz 4 der Richtlinie (EU) 2020/1828 des Europäischen Parlaments und des Rates vom 25. November 2020 über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009/22/EG (ABl. L 409 vom 4.12.2020, S. 1) eingetragen sind.
 
-##### § 33a Schadensersatzpflicht
+###### § 33a Schadensersatzpflicht
 
 (1) Wer einen Verstoß nach § 33 Absatz 1 vorsätzlich oder fahrlässig begeht, ist zum Ersatz des daraus entstehenden Schadens verpflichtet.
 
@@ -628,11 +632,11 @@ Es wird widerleglich vermutet, dass Rechtsgeschäfte über Waren oder Dienstleis
 
 (4) Geldschulden nach Absatz 1 hat der Schuldner ab Eintritt des Schadens zu verzinsen. Die §§ 288 und 289 Satz 1 des Bürgerlichen Gesetzbuchs finden entsprechende Anwendung.
 
-##### § 33b Bindungswirkung von Entscheidungen einer Wettbewerbsbehörde
+###### § 33b Bindungswirkung von Entscheidungen einer Wettbewerbsbehörde
 
 Wird wegen eines Verstoßes gegen eine Vorschrift dieses Teils oder gegen Artikel 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union oder wegen eines Verstoßes gegen die Artikel 5, 6 oder 7 der Verordnung (EU) 2022/1925 Schadensersatz gefordert, so ist das Gericht an den bestandskräftigen Benennungsbeschluss der Europäischen Kommission nach Artikel 3 der Verordnung (EU) Nr. 2022/1925 und an die Feststellung des Verstoßes gebunden, wie sie in einer bestandskräftigen Entscheidung der Kartellbehörde, der Europäischen Kommission oder der Wettbewerbsbehörde oder des als solche handelnden Gerichts in einem anderen Mitgliedstaat der Europäischen Union getroffen wurde. Das Gleiche gilt für entsprechende Feststellungen in rechtskräftigen Gerichtsentscheidungen, die infolge der Anfechtung von Entscheidungen nach Satz 1 ergangen sind. Diese Verpflichtung gilt unbeschadet der Rechte und Pflichten nach Artikel 267 des Vertrages über die Arbeitsweise der Europäischen Union.
 
-##### § 33c Schadensabwälzung
+###### § 33c Schadensabwälzung
 
 (1) Wird eine Ware oder Dienstleistung zu einem überteuerten Preis bezogen (Preisaufschlag), so ist der Schaden nicht deshalb ausgeschlossen, weil die Ware oder Dienstleistung weiterveräußert wurde. Der Schaden des Abnehmers ist ausgeglichen, soweit der Abnehmer einen Preisaufschlag, der durch einen Verstoß nach § 33 Absatz 1 verursacht worden ist, an seine Abnehmer (mittelbare Abnehmer) weitergegeben hat (Schadensabwälzung). Davon unberührt bleibt der Anspruch des Geschädigten auf Ersatz seines entgangenen Gewinns nach § 252 des Bürgerlichen Gesetzbuchs, soweit der entgangene Gewinn durch die Weitergabe des Preisaufschlags verursacht worden ist.
 
@@ -656,7 +660,7 @@ c) Waren oder Dienstleistungen enthalten haben, die Gegenstand des Verstoßes wa
 
 (5) Bei der Entscheidung über den Umfang der Schadensabwälzung findet § 287 der Zivilprozessordnung entsprechende Anwendung.
 
-##### § 33d Gesamtschuldnerische Haftung
+###### § 33d Gesamtschuldnerische Haftung
 
 (1) Begehen mehrere gemeinschaftlich einen Verstoß im Sinne des § 33a Absatz 1, sind sie als Gesamtschuldner zum Ersatz des daraus entstehenden Schadens verpflichtet. Im Übrigen finden die §§ 830 und 840 Absatz 1 des Bürgerlichen Gesetzbuchs Anwendung.
 
@@ -680,7 +684,7 @@ Anderen Geschädigten ist das kleine oder mittlere Unternehmen nur zum Ersatz de
 
 3. in der Vergangenheit bereits die Beteiligung des kleinen oder mittleren Unternehmens an einem sonstigen Verstoß gegen § 1 oder 19 oder Artikel 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union oder gegen Wettbewerbsrecht im Sinne des § 89e Absatz 2 behördlich oder gerichtlich festgestellt worden ist.
 
-##### § 33e Kronzeuge
+###### § 33e Kronzeuge
 
 (1) Abweichend von § 33a Absatz 1 ist ein an einem Kartell beteiligtes Unternehmen oder eine an dem Kartell beteiligte natürliche Person, dem oder der im Rahmen eines Kronzeugenprogramms der vollständige Erlass der Geldbuße gewährt wurde (Kronzeuge), nur zum Ersatz des Schadens verpflichtet, der seinen oder ihren unmittelbaren und mittelbaren Abnehmern oder Lieferanten aus dem Verstoß entsteht. Anderen Geschädigten ist der Kronzeuge nur zum Ersatz des aus dem Verstoß gemäß § 33a Absatz 1 entstehenden Schadens verpflichtet, wenn sie von den übrigen Rechtsverletzern keinen vollständigen Ersatz erlangen konnten.
 
@@ -688,13 +692,13 @@ Anderen Geschädigten ist das kleine oder mittlere Unternehmen nur zum Ersatz de
 
 (3) Die übrigen Rechtsverletzer können von dem Kronzeugen Ausgleichung nach § 33d Absatz 2 nur bis zur Höhe des Schadens verlangen, den dieser seinen unmittelbaren und mittelbaren Abnehmern oder Lieferanten verursacht hat. Diese Beschränkung gilt nicht für die Ausgleichung von Schäden, die anderen als den unmittelbaren oder mittelbaren Abnehmern oder Lieferanten der an dem Kartell beteiligten Unternehmen aus dem Verstoß entstehen.
 
-##### § 33f Wirkungen des Vergleichs
+###### § 33f Wirkungen des Vergleichs
 
 (1) Wenn nicht anders vereinbart, wird im Falle einer durch einvernehmliche Streitbeilegung erzielten Einigung (Vergleich) über einen Schadensersatzanspruch nach § 33a Absatz 1 der sich vergleichende Gesamtschuldner in Höhe seines Anteils an dem Schaden von seiner Haftung gegenüber dem sich vergleichenden Geschädigten befreit. Die übrigen Gesamtschuldner sind nur zum Ersatz des Schadens verpflichtet, der nach Abzug des Anteils des sich vergleichenden Gesamtschuldners verbleibt. Den Ersatz des verbliebenen Schadens kann der sich vergleichende Geschädigte von dem sich vergleichenden Gesamtschuldner nur verlangen, wenn der sich vergleichende Geschädigte von den übrigen Gesamtschuldnern insoweit keinen vollständigen Ersatz erlangen konnte. Satz 3 findet keine Anwendung, wenn die Vergleichsparteien dies in dem Vergleich ausgeschlossen haben.
 
 (2) Gesamtschuldner, die nicht an dem Vergleich nach Absatz 1 beteiligt sind, können von dem sich vergleichenden Gesamtschuldner keine Ausgleichung nach § 33d Absatz 2 für den Ersatz des Schadens des sich vergleichenden Geschädigten verlangen, der nach Abzug des Anteils des sich vergleichenden Gesamtschuldners verblieben ist.
 
-##### § 33g Anspruch auf Herausgabe von Beweismitteln und Erteilung von Auskünften
+###### § 33g Anspruch auf Herausgabe von Beweismitteln und Erteilung von Auskünften
 
 (1) Wer im Besitz von Beweismitteln ist, die für die Erhebung eines auf Schadensersatz gerichteten Anspruchs nach § 33a Absatz 1 erforderlich sind, ist verpflichtet, sie demjenigen herauszugeben, der glaubhaft macht, einen solchen Schadensersatzanspruch zu haben, wenn dieser die Beweismittel so genau bezeichnet, wie dies auf Grundlage der mit zumutbarem Aufwand zugänglichen Tatsachen möglich ist.
 
@@ -748,7 +752,7 @@ Geistlichen stehen ihre berufsmäßig tätigen Gehilfen und die Personen gleich,
 
 (10) Die Absätze 1 bis 9 sowie die §§ 89b bis 89d über die Herausgabe von Beweismitteln gelten für die Erteilung von Auskünften entsprechend.
 
-##### § 33h Verjährung
+###### § 33h Verjährung
 
 (1) Ansprüche aus § 33 Absatz 1 und § 33a Absatz 1 verjähren in fünf Jahren.
 
@@ -796,7 +800,7 @@ Die Hemmung endet ein Jahr nach der bestands- und rechtskräftigen Entscheidung 
 
 Absatz 3 findet keine Anwendung auf Schadensersatzansprüche, deren Verjährungsfrist nach Maßgabe dieses Absatzes beginnt.
 
-##### § 34 Vorteilsabschöpfung durch die Kartellbehörde
+###### § 34 Vorteilsabschöpfung durch die Kartellbehörde
 
 (1) Hat ein Unternehmen vorsätzlich oder fahrlässig gegen eine Vorschrift dieses Teils, gegen Artikel 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union oder eine Verfügung der Kartellbehörde verstoßen und dadurch einen wirtschaftlichen Vorteil erlangt, kann die Kartellbehörde die Abschöpfung des wirtschaftlichen Vorteils anordnen und dem Unternehmen die Zahlung eines entsprechenden Geldbetrags auferlegen.
 
@@ -818,7 +822,7 @@ Soweit das Unternehmen Leistungen nach Satz 1 erst nach der Vorteilsabschöpfung
 
 (5) Die Vorteilsabschöpfung kann nur innerhalb einer Frist von bis zu sieben Jahren seit Beendigung der Zuwiderhandlung und längstens für einen Zeitraum von fünf Jahren (Abschöpfungszeitraum) angeordnet werden. § 33h Absatz 6 gilt entsprechend. Im Falle einer bestandskräftigen Entscheidung im Sinne des § 33b Satz 1 oder einer rechtskräftigen Gerichtsentscheidung im Sinne des § 33b Satz 2 beginnt die Frist nach Satz 1 erneut.
 
-##### § 34a Vorteilsabschöpfung durch Verbände
+###### § 34a Vorteilsabschöpfung durch Verbände
 
 (1) Wer einen Verstoß im Sinne des § 34 Absatz 1 vorsätzlich begeht und hierdurch zu Lasten einer Vielzahl von Abnehmern oder Anbietern einen wirtschaftlichen Vorteil erlangt, kann von den gemäß § 33 Absatz 4 zur Geltendmachung eines Unterlassungsanspruchs Berechtigten auf Herausgabe dieses wirtschaftlichen Vorteils an den Bundeshaushalt in Anspruch genommen werden, soweit nicht die Kartellbehörde die Abschöpfung des wirtschaftlichen Vorteils durch Verhängung einer Geldbuße, durch Einziehung von Taterträgen, durch Rückerstattung oder nach § 34 Absatz 1 anordnet.
 
@@ -832,7 +836,7 @@ Soweit das Unternehmen Leistungen nach Satz 1 erst nach der Vorteilsabschöpfung
 
 ## Kapitel 7 Zusammenschlusskontrolle
 
-##### § 35 Geltungsbereich der Zusammenschlusskontrolle
+###### § 35 Geltungsbereich der Zusammenschlusskontrolle
 
 (1) Die Vorschriften über die Zusammenschlusskontrolle finden Anwendung, wenn im letzten Geschäftsjahr vor dem Zusammenschluss
 
@@ -868,7 +872,7 @@ Satz 2 gilt nicht für Zusammenschlüsse von Zentralbanken und Girozentralen im 
 
 (3) Die Vorschriften dieses Gesetzes finden keine Anwendung, soweit die Europäische Kommission nach der Verordnung (EG) Nr. 139/2004 des Rates vom 20. Januar 2004 über die Kontrolle von Unternehmenszusammenschlüssen in ihrer jeweils geltenden Fassung ausschließlich zuständig ist.
 
-##### § 36 Grundsätze für die Beurteilung von Zusammenschlüssen
+###### § 36 Grundsätze für die Beurteilung von Zusammenschlüssen
 
 (1) Ein Zusammenschluss, durch den wirksamer Wettbewerb erheblich behindert würde, insbesondere von dem zu erwarten ist, dass er eine marktbeherrschende Stellung begründet oder verstärkt, ist vom Bundeskartellamt zu untersagen. Dies gilt nicht, wenn
 
@@ -882,7 +886,7 @@ Satz 2 gilt nicht für Zusammenschlüsse von Zentralbanken und Girozentralen im 
 
 (3) Steht einer Person oder Personenvereinigung, die nicht Unternehmen ist, die Mehrheitsbeteiligung an einem Unternehmen zu, gilt sie als Unternehmen.
 
-##### § 37 Zusammenschluss
+###### § 37 Zusammenschluss
 
 (1) Ein Zusammenschluss liegt in folgenden Fällen vor:
 
@@ -906,7 +910,7 @@ b) 25 vom Hundert
 
 (3) Erwerben Kreditinstitute, Finanzinstitute oder Versicherungsunternehmen Anteile an einem anderen Unternehmen zum Zwecke der Veräußerung, gilt dies nicht als Zusammenschluss, solange sie das Stimmrecht aus den Anteilen nicht ausüben und sofern die Veräußerung innerhalb eines Jahres erfolgt. Diese Frist kann vom Bundeskartellamt auf Antrag verlängert werden, wenn glaubhaft gemacht wird, dass die Veräußerung innerhalb der Frist unzumutbar war.
 
-##### § 38 Berechnung der Umsatzerlöse, der Marktanteile und des Wertes der Gegenleistung
+###### § 38 Berechnung der Umsatzerlöse, der Marktanteile und des Wertes der Gegenleistung
 
 (1) Für die Ermittlung der Umsatzerlöse gilt § 277 Absatz 1 des Handelsgesetzbuchs. Verwendet ein Unternehmen für seine regelmäßige Rechnungslegung ausschließlich einen anderen international anerkannten Rechnungslegungsstandard, so ist für die Ermittlung der Umsatzerlöse dieser Standard maßgeblich. Umsatzerlöse aus Lieferungen und Leistungen zwischen verbundenen Unternehmen (Innenumsatzerlöse) sowie Verbrauchsteuern bleiben außer Betracht.
 
@@ -924,17 +928,15 @@ b) 25 vom Hundert
 
 (5) Wird ein Zusammenschluss durch den Erwerb von Teilen eines oder mehrerer Unternehmen bewirkt, so ist unabhängig davon, ob diese Teile eigene Rechtspersönlichkeit besitzen, auf Seiten des Veräußerers nur der Umsatz oder der Marktanteil zu berücksichtigen, der auf die veräußerten Teile entfällt. Dies gilt nicht, sofern beim Veräußerer die Kontrolle im Sinne des § 37 Absatz 1 Nummer 2 oder 25 Prozent oder mehr der Anteile verbleiben. Zwei oder mehr Erwerbsvorgänge im Sinne von Satz 1, die innerhalb von zwei Jahren zwischen denselben Personen oder Unternehmen getätigt werden, werden als ein einziger Zusammenschluss behandelt, wenn dadurch die Umsatzschwellen des § 35 Absatz 1 erreicht oder die Voraussetzungen des § 35 Absatz 1a erfüllt werden; als Zeitpunkt des Zusammenschlusses gilt der letzte Erwerbsvorgang.
 
-##### § 39 Anmelde- und Anzeigepflicht
+###### § 39 Anmelde- und Anzeigepflicht
 
 (1) Zusammenschlüsse sind vor dem Vollzug beim Bundeskartellamt gemäß den Absätzen 2 und 3 anzumelden. Elektronische Anmeldungen sind zulässig über:
 
-1. die vom Bundeskartellamt eingerichtete zentrale De-Mail-Adresse im Sinne des De-Mail-Gesetzes,
+1. (weggefallen)
 
-2. die vom Bundeskartellamt eingerichtete zentrale E-Mail-Adresse für Dokumente mit qualifizierter elektronischer Signatur,
+2. das besondere elektronische Behördenpostfach gegen ein elektronisches oder ein mit Datum und Unterschrift versehenes schriftliches Empfangsbekenntnis sowie
 
-3. das besondere elektronische Behördenpostfach gegen ein elektronisches oder ein mit Datum und Unterschrift versehenes schriftliches Empfangsbekenntnis sowie
-
-4. eine hierfür bestimmte Internetplattform.
+3. eine hierfür bestimmte Internetplattform.
 
 (2) Zur Anmeldung sind verpflichtet:
 
@@ -966,9 +968,9 @@ In den Fällen des § 37 Absatz 1 Nummer 1 oder 3 sind die Angaben nach Satz 2 N
 
 (6) Anmeldepflichtige Zusammenschlüsse, die entgegen Absatz 1 Satz 1 nicht vor dem Vollzug angemeldet wurden, sind von den beteiligten Unternehmen unverzüglich beim Bundeskartellamt anzuzeigen. § 41 bleibt unberührt.
 
-##### § 39a (weggefallen)
+###### § 39a (weggefallen)
 
-##### § 40 Verfahren der Zusammenschlusskontrolle
+###### § 40 Verfahren der Zusammenschlusskontrolle
 
 (1) Das Bundeskartellamt darf einen Zusammenschluss, der ihm angemeldet worden ist, nur untersagen, wenn es den anmeldenden Unternehmen innerhalb einer Frist von einem Monat seit Eingang der vollständigen Anmeldung mitteilt, dass es in die Prüfung des Zusammenschlusses (Hauptprüfverfahren) eingetreten ist. Das Hauptprüfverfahren soll eingeleitet werden, wenn eine weitere Prüfung des Zusammenschlusses erforderlich ist.
 
@@ -992,7 +994,7 @@ Die Frist nach Satz 2 wird gehemmt, wenn das Bundeskartellamt von einem am Zusam
 
 (6) Wird eine Freigabe des Bundeskartellamts durch gerichtlichen Beschluss rechtskräftig ganz oder teilweise aufgehoben, beginnt die Frist nach Absatz 2 Satz 2 mit Eintritt der Rechtskraft von Neuem.
 
-##### § 41 Vollzugsverbot, Entflechtung
+###### § 41 Vollzugsverbot, Entflechtung
 
 (1) Die Unternehmen dürfen einen Zusammenschluss, der vom Bundeskartellamt nicht freigegeben ist, nicht vor Ablauf der Fristen nach § 40 Absatz 1 Satz 1 und Absatz 2 Satz 2 vollziehen oder am Vollzug dieses Zusammenschlusses mitwirken. Rechtsgeschäfte, die gegen dieses Verbot verstoßen, sind unwirksam. Dies gilt nicht
 
@@ -1016,7 +1018,7 @@ Die Frist nach Satz 2 wird gehemmt, wenn das Bundeskartellamt von einem am Zusam
 
 3. einen Treuhänder bestellen, der die Auflösung des Zusammenschlusses herbeiführt.
 
-##### § 42 Ministererlaubnis
+###### § 42 Ministererlaubnis
 
 (1) Die Bundesministerin oder der Bundesminister für Wirtschaft und Energie erteilt auf Antrag die Erlaubnis zu einem vom Bundeskartellamt untersagten Zusammenschluss, wenn im Einzelfall die Wettbewerbsbeschränkung von gesamtwirtschaftlichen Vorteilen des Zusammenschlusses aufgewogen wird oder der Zusammenschluss durch ein überragendes Interesse der Allgemeinheit gerechtfertigt ist. Hierbei ist auch die Wettbewerbsfähigkeit der beteiligten Unternehmen auf Märkten außerhalb des Geltungsbereichs dieses Gesetzes zu berücksichtigen. Die Erlaubnis darf nur erteilt werden, wenn durch das Ausmaß der Wettbewerbsbeschränkung die marktwirtschaftliche Ordnung nicht gefährdet wird. Weicht die Entscheidung vom Votum der Stellungnahme ab, die die Monopolkommission nach Absatz 5 Satz 1 erstellt hat, ist dies in der Verfügung gesondert zu begründen.
 
@@ -1030,7 +1032,7 @@ Die Frist nach Satz 2 wird gehemmt, wenn das Bundeskartellamt von einem am Zusam
 
 (6) Das Bundesministerium für Wirtschaft und Energie erlässt Leitlinien über die Durchführung des Verfahrens.
 
-##### § 43 Bekanntmachungen
+###### § 43 Bekanntmachungen
 
 (1) Die Einleitung des Hauptprüfverfahrens durch das Bundeskartellamt nach § 40 Absatz 1 Satz 1 und der Antrag auf Erteilung einer Ministererlaubnis sind unverzüglich im Bundesanzeiger bekannt zu machen.
 
@@ -1046,13 +1048,13 @@ Die Frist nach Satz 2 wird gehemmt, wenn das Bundeskartellamt von einem am Zusam
 
 (3) Bekannt zu machen nach Absatz 1 und 2 sind jeweils die Angaben nach § 39 Absatz 3 Satz 1 sowie Satz 2 Nummer 1 und 2.
 
-##### § 43a Evaluierung
+###### § 43a Evaluierung
 
 Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden Körperschaften nach Ablauf von drei Jahren nach Inkrafttreten der Vorschrift über die Erfahrungen mit den Regelungen von § 35 Absatz 1a, § 37 Absatz 1 Nummer 1 und § 38 Absatz 4a.
 
 ## Kapitel 8 Monopolkommission
 
-##### § 44 Aufgaben
+###### § 44 Aufgaben
 
 (1) Die Monopolkommission erstellt alle zwei Jahre ein Gutachten, in dem sie den Stand und die absehbare Entwicklung der Unternehmenskonzentration in der Bundesrepublik Deutschland beurteilt, die Anwendung der wettbewerbsrechtlichen Vorschriften anhand abgeschlossener Verfahren würdigt, sowie zu sonstigen aktuellen wettbewerbspolitischen Fragen Stellung nimmt. Das Gutachten soll bis zum 30. Juni des Jahres abgeschlossen sein, in dem das Gutachten zu erstellen ist. Die Bundesregierung kann die Monopolkommission mit der Erstattung zusätzlicher Gutachten beauftragen. Darüber hinaus kann die Monopolkommission nach ihrem Ermessen Gutachten oder andere Stellungnahmen erstellen. Die Möglichkeit zur Stellungnahme nach § 75 Absatz 5 bleibt unberührt.
 
@@ -1062,7 +1064,7 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 (4) In ihren Gutachten kann die Monopolkommission Empfehlungen für die Durchführung von Sektoruntersuchungen nach § 32e Absatz 1 aussprechen. Soweit das Bundeskartellamt der Empfehlung für eine Sektoruntersuchung nach § 32e Absatz 1 innerhalb von zwölf Monaten nach der Veröffentlichung des Gutachtens nicht gefolgt ist, nimmt es Stellung zu der Empfehlung.
 
-##### § 45 Mitglieder
+###### § 45 Mitglieder
 
 (1) Die Monopolkommission besteht aus fünf Mitgliedern, die über besondere volkswirtschaftliche, betriebswirtschaftliche, sozialpolitische, technologische oder wirtschaftsrechtliche Kenntnisse und Erfahrungen verfügen müssen. Die Monopolkommission wählt aus ihrer Mitte einen Vorsitzenden.
 
@@ -1070,7 +1072,7 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 (3) Die Mitglieder der Monopolkommission dürfen weder der Regierung oder einer gesetzgebenden Körperschaft des Bundes oder eines Landes noch dem öffentlichen Dienst des Bundes, eines Landes oder einer sonstigen juristischen Person des öffentlichen Rechts, es sei denn als Hochschullehrer oder als Mitarbeiter eines wissenschaftlichen Instituts, angehören. Ferner dürfen sie weder einen Wirtschaftsverband noch eine Arbeitgeber- oder Arbeitnehmerorganisation repräsentieren oder zu diesen in einem ständigen Dienst- oder Geschäftsbesorgungsverhältnis stehen. Sie dürfen auch nicht während des letzten Jahres vor der Berufung zum Mitglied der Monopolkommission eine derartige Stellung innegehabt haben.
 
-##### § 46 Beschlüsse, Organisation, Rechte und Pflichten der Mitglieder
+###### § 46 Beschlüsse, Organisation, Rechte und Pflichten der Mitglieder
 
 (1) Die Beschlüsse der Monopolkommission bedürfen der Zustimmung von mindestens drei Mitgliedern.
 
@@ -1084,7 +1086,7 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 (4) Die Mitglieder der Monopolkommission erhalten eine pauschale Entschädigung sowie Ersatz ihrer Reisekosten. Diese werden vom Bundesministerium für Wirtschaft und Energie festgesetzt. Die Kosten der Monopolkommission trägt der Bund.
 
-##### § 47 Übermittlung statistischer Daten
+###### § 47 Übermittlung statistischer Daten
 
 (1) Für die Begutachtung der Entwicklung der Unternehmenskonzentration werden der Monopolkommission vom Statistischen Bundesamt aus Wirtschaftsstatistiken (Statistik im produzierenden Gewerbe, Handwerksstatistik, Außenhandelsstatistik, Steuerstatistik, Verkehrsstatistik, Statistik im Handel und Gastgewerbe, Dienstleistungsstatistik) und dem Statistikregister zusammengefasste Einzelangaben über die Vomhundertanteile der größten Unternehmen, Betriebe oder fachlichen Teile von Unternehmen des jeweiligen Wirtschaftsbereichs
 
@@ -1120,7 +1122,7 @@ h) an der Zahl der jeweiligen Einheiten
 
 ## Abschnitt 1 Markttransparenzstelle für den Großhandel im Bereich Strom und Gas
 
-##### § 47a Einrichtung, Zuständigkeit, Organisation
+###### § 47a Einrichtung, Zuständigkeit, Organisation
 
 (1) Zur Sicherstellung einer wettbewerbskonformen Bildung der Großhandelspreise von Elektrizität und Gas wird eine Markttransparenzstelle bei der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) eingerichtet. Sie beobachtet laufend die Vermarktung und den Handel mit Elektrizität und Erdgas auf der Großhandelsstufe.
 
@@ -1136,7 +1138,7 @@ h) an der Zahl der jeweiligen Einheiten
 
 (5) Entscheidungen der Markttransparenzstelle trifft die Person, die sie leitet. § 51 Absatz 5 gilt für alle Mitarbeiterinnen und Mitarbeiter der Markttransparenzstelle entsprechend.
 
-##### § 47b Aufgaben
+###### § 47b Aufgaben
 
 (1) Die Markttransparenzstelle beobachtet laufend den gesamten Großhandel mit Elektrizität und Erdgas, unabhängig davon, ob er auf physikalische oder finanzielle Erfüllung gerichtet ist, um Auffälligkeiten bei der Preisbildung aufzudecken, die auf Missbrauch von Marktbeherrschung, Insiderinformationen oder auf Marktmanipulation beruhen können. Die Markttransparenzstelle beobachtet zu diesem Zweck auch die Erzeugung, den Kraftwerkseinsatz und die Vermarktung von Elektrizität und Erdgas durch die Erzeugungsunternehmen sowie die Vermarktung von Elektrizität und Erdgas als Regelenergie. Die Markttransparenzstelle kann Wechselwirkungen zwischen den Großhandelsmärkten für Elektrizität und Erdgas und dem Emissionshandelssystem berücksichtigen.
 
@@ -1154,7 +1156,7 @@ h) an der Zahl der jeweiligen Einheiten
 
 (8) Die Absätze 1 bis 3 können auch Anwendung finden auf die Erzeugung und Vermarktung im Ausland und auf Handelsgeschäfte, die im Ausland stattfinden, sofern sie sich auf die Preisbildung von Elektrizität und Erdgas im Geltungsbereich dieses Gesetzes auswirken.
 
-##### § 47c Datenverwendung
+###### § 47c Datenverwendung
 
 (1) Die Markttransparenzstelle stellt die nach § 47b Absatz 3 erhaltenen Daten ferner folgenden Stellen zur Verfügung:
 
@@ -1178,7 +1180,7 @@ c) Verordnung (EU) Nr. 994/2010 des Europäischen Parlaments und des Rates vom 2
 
 (4) Die Markttransparenzstelle darf die Daten in anonymisierter Form ferner Bundesministerien für eigene oder in deren Auftrag durchzuführende wissenschaftliche Studien zur Verfügung stellen, wenn die Daten zur Erreichung dieser Zwecke erforderlich sind. Daten, die Betriebs- und Geschäftsgeheimnisse darstellen, dürfen von der Markttransparenzstelle nur herausgegeben werden, wenn ein Bezug zu einem Unternehmen nicht mehr hergestellt werden kann. Die Bundesministerien dürfen die nach Satz 1 von der Markttransparenzstelle erhaltenen Daten auch Dritten zur Durchführung wissenschaftlicher Studien im Auftrag zur Verfügung stellen, wenn diese ihnen gegenüber die Fachkunde nachgewiesen und die vertrauliche Behandlung der Daten zugesichert haben.
 
-##### § 47d Befugnisse
+###### § 47d Befugnisse
 
 (1) Zur Erfüllung ihrer Aufgaben hat die Markttransparenzstelle die Befugnisse nach §§ 59, 59a und 59b gegenüber natürlichen und juristischen Personen. Sie kann nach Maßgabe des § 47f Festlegungen gegenüber einzelnen, einer Gruppe oder allen der in § 47e Absatz 1 genannten Personen und Unternehmen in den in § 47g genannten Festlegungsbereichen treffen zur Datenkategorie, zum Zeitpunkt und zur Form der Übermittlung. Die Markttransparenzstelle ist nach Maßgabe des § 47f befugt, die Festlegung bei Bedarf zu ändern, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist. Sie kann insbesondere vorgeben, dass eine Internetplattform zur Eingabe der angeforderten Auskünfte sowie der Mitteilungen verwendet werden muss. Die Markttransparenzstelle kann nach Maßgabe des § 47f darüber hinaus vorgeben, dass Auskünfte und Daten an einen zur Datenerfassung beauftragten Dritten geliefert werden; Auswertung und Nutzung findet allein bei der Markttransparenzstelle statt. Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt. Die §§ 50f, 54, 56 bis 58, 61 Absatz 1 und 2, die §§ 63, 64, 66, 67, 70, 73 bis 80, 82a, 83, 85, 91 und 92 gelten entsprechend. Für Entscheidungen, die die Markttransparenzstelle durch Festlegungen trifft, kann die Zustellung nach § 61 durch eine öffentliche Bekanntgabe im Bundesanzeiger ersetzt werden. Für Auskunftspflichten nach Satz 1 und Mitteilungspflichten nach § 47e gilt § 55 der Strafprozessordnung entsprechend.
 
@@ -1186,7 +1188,7 @@ c) Verordnung (EU) Nr. 994/2010 des Europäischen Parlaments und des Rates vom 2
 
 (3) Die Markttransparenzstelle kann bei der Behörde, an die sie einen Verdachtsfall nach § 47b Absatz 7 Satz 1 abgegeben hat, eine Mitteilung über den Abschluss der Untersuchung anfordern.
 
-##### § 47e Mitteilungspflichten
+###### § 47e Mitteilungspflichten
 
 (1) Folgende Personen und Unternehmen unterliegen neben den in § 47g genannten Mitteilungspflichtigen der Mitteilungspflicht nach den Absätzen 2 bis 5:
 
@@ -1234,7 +1236,7 @@ c) Verordnung (EU) Nr. 994/2010 des Europäischen Parlaments und des Rates vom 2
 
 (5) Die Verpflichtungen nach den Absätzen 1 bis 4 gelten für Unternehmen, wenn sie an einer inländischen Börse zur Teilnahme am Handel zugelassen sind oder wenn sich ihre Tätigkeiten im Geltungsbereich dieses Gesetzes auswirken. Übermittelt ein Unternehmen mit Sitz außerhalb des Geltungsbereichs dieses Gesetzes die verlangten Informationen nicht, so kann die Markttransparenzstelle zudem die zuständige Behörde des Sitzstaates ersuchen, geeignete Maßnahmen zur Verbesserung des Zugangs zu diesen Informationen zu treffen.
 
-##### § 47f Verordnungsermächtigung
+###### § 47f Verordnungsermächtigung
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Wege der Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium der Finanzen unter Berücksichtigung der Anforderungen von Durchführungsrechtsakten nach Artikel 8 Absatz 2 oder Absatz 6 der Verordnung (EU) Nr. 1227/2011
 
@@ -1258,7 +1260,7 @@ d) die in § 47i genannten Behörden,
 
 6. eine Registrierungspflicht für die Meldepflichtigen vorzusehen und die Markttransparenzstelle zu ermächtigen, den Meldepflichtigen hierfür ein zu nutzendes Registrierungsportal vorzugeben und die inhaltlichen und technischen Details der Registrierung festzulegen.
 
-##### § 47g Festlegungsbereiche
+###### § 47g Festlegungsbereiche
 
 (1) Die Markttransparenzstelle entscheidet nach Maßgabe von § 47d Absatz 1 und § 47e sowie der nach § 47f zu erlassenden Rechtsverordnung durch Festlegungen zu den in den Absätzen 2 bis 12 genannten Bereichen, welche Daten und Kategorien von Daten wie zu übermitteln sind.
 
@@ -1338,7 +1340,7 @@ d) die in § 47i genannten Behörden,
 
 (12) Die Markttransparenzstelle kann festlegen, dass im Bereich der Regelenergie und von Biogas Angaben über die Beschaffung externer Regelenergie, über Ausschreibungsergebnisse sowie über die Einspeisung und Vermarktung von Biogas übermittelt werden.
 
-##### § 47h Berichtspflichten, Veröffentlichungen
+###### § 47h Berichtspflichten, Veröffentlichungen
 
 (1) Die Markttransparenzstelle unterrichtet das Bundesministerium für Wirtschaft und Energie über die Übermittlung von Informationen nach § 47b Absatz 7 Satz 1.
 
@@ -1348,7 +1350,7 @@ d) die in § 47i genannten Behörden,
 
 (4) Die Markttransparenzstelle kann im Einvernehmen mit dem Bundeskartellamt zur Verbesserung der Transparenz im Großhandel diejenigen Erzeugungs- und Verbrauchsdaten veröffentlichen, die bisher auf der Transparenzplattform der European Energy Exchange AG und der Übertragungsnetzbetreiber veröffentlicht werden, sobald diese Veröffentlichung eingestellt wird. Die nach dem Energiewirtschaftsgesetz und darauf basierenden Rechtsverordnungen sowie die nach europäischem Recht bestehenden Veröffentlichungspflichten der Marktteilnehmer zur Verbesserung der Transparenz auf den Strom- und Gasmärkten bleiben unberührt.
 
-##### § 47i Zusammenarbeit mit anderen Behörden und Aufsichtsstellen
+###### § 47i Zusammenarbeit mit anderen Behörden und Aufsichtsstellen
 
 (1) Das Bundeskartellamt und die Bundesnetzagentur arbeiten bei der Wahrnehmung der Aufgaben der Markttransparenzstelle nach § 47b mit folgenden Stellen zusammen:
 
@@ -1364,7 +1366,7 @@ Diese Stellen können unabhängig von der jeweils gewählten Verfahrensart unter
 
 (2) Die Markttransparenzstelle kann mit Zustimmung des Bundesministeriums für Wirtschaft und Energie Kooperationsvereinbarungen mit der Bundesanstalt für Finanzdienstleistungsaufsicht, den Börsenaufsichtsbehörden sowie Handelsüberwachungsstellen derjenigen Börsen, an denen Elektrizität und Gas sowie Energiederivate im Sinne des § 3 Nummer 33 des Energiewirtschaftsgesetzes gehandelt werden, und der Agentur für die Zusammenarbeit der Energieregulierungsbehörden schließen.
 
-##### § 47j Vertrauliche Informationen, operationelle Zuverlässigkeit, Datenschutz
+###### § 47j Vertrauliche Informationen, operationelle Zuverlässigkeit, Datenschutz
 
 (1) Informationen, die die Markttransparenzstelle bei ihrer Aufgabenerfüllung im gewöhnlichen Geschäftsverkehr erlangt oder erstellt hat, unterliegen der Vertraulichkeit. Die Beschäftigten bei der Markttransparenzstelle sind zur Verschwiegenheit über die vertraulichen Informationen im Sinne des Satzes 1 verpflichtet. Andere Personen, die vertrauliche Informationen erhalten sollen, sind vor der Übermittlung besonders zur Geheimhaltung zu verpflichten, soweit sie nicht Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete sind. § 1 Absatz 2, 3 und 4 Nummer 2 des Verpflichtungsgesetzes gilt entsprechend.
 
@@ -1378,7 +1380,7 @@ Diese Stellen können unabhängig von der jeweils gewählten Verfahrensart unter
 
 ## Abschnitt 2 Markttransparenzstelle für Kraftstoffe
 
-##### § 47k Marktbeobachtung im Bereich Kraftstoffe
+###### § 47k Marktbeobachtung im Bereich Kraftstoffe
 
 (1) Beim Bundeskartellamt wird eine Markttransparenzstelle für Kraftstoffe eingerichtet. Sie beobachtet die Wertschöpfungsstufen der Herstellung von und des Handels mit Kraftstoffen, um den Kartellbehörden die Aufdeckung und Sanktionierung von Verstößen gegen die §§ 1, 19 und 20 dieses Gesetzes und die Artikel 101 und 102 des Vertrages über die Arbeitsweise der Europäischen Union zu erleichtern. Sie nimmt ihre Aufgaben nach Maßgabe der Absätze 2 bis 9 wahr.
 
@@ -1424,7 +1426,7 @@ Die Rechtsverordnung ist dem Bundestag vom Bundesministerium für Wirtschaft und
 
 ## Abschnitt 3 Evaluierung
 
-##### § 47l Evaluierung der Markttransparenzstellen
+###### § 47l Evaluierung der Markttransparenzstellen
 
 Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden Körperschaften über die Ergebnisse der Arbeit der Markttransparenzstellen und die hieraus gewonnenen Erfahrungen. Die Berichterstattung für den Großhandel mit Strom und Gas erfolgt fünf Jahre nach Beginn der Mitteilungspflichten nach § 47e Absatz 2 bis 5 in Verbindung mit der Rechtsverordnung nach § 47f. Die Berichterstattung für den Kraftstoffbereich erfolgt drei Jahre nach Beginn der Meldepflicht nach § 47k Absatz 2 in Verbindung mit der Rechtsverordnung nach § 47k Absatz 8 und soll insbesondere auf die Preisentwicklung und die Situation der mittelständischen Mineralölwirtschaft eingehen.
 
@@ -1432,7 +1434,7 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 ## Kapitel 1 Allgemeine Vorschriften
 
-##### § 48 Zuständigkeit
+###### § 48 Zuständigkeit
 
 (1) Kartellbehörden sind das Bundeskartellamt, das Bundesministerium für Wirtschaft und Energie und die nach Landesrecht zuständigen obersten Landesbehörden.
 
@@ -1440,7 +1442,7 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 (3) Das Bundeskartellamt führt ein Monitoring durch über den Grad der Transparenz, auch der Großhandelspreise, sowie den Grad und die Wirksamkeit der Marktöffnung und den Umfang des Wettbewerbs auf Großhandels- und Endkundenebene auf den Strom- und Gasmärkten sowie an Elektrizitäts- und Gasbörsen. Das Bundeskartellamt wird die beim Monitoring gewonnenen Daten der Bundesnetzagentur unverzüglich zur Verfügung stellen.
 
-##### § 49 Bundeskartellamt und oberste Landesbehörde
+###### § 49 Bundeskartellamt und oberste Landesbehörde
 
 (1) Leitet das Bundeskartellamt ein Verfahren ein oder führt es Ermittlungen durch, so benachrichtigt es gleichzeitig die oberste Landesbehörde, in deren Gebiet die betroffenen Unternehmen ihren Sitz haben. Leitet eine oberste Landesbehörde ein Verfahren ein oder führt sie Ermittlungen durch, so benachrichtigt sie gleichzeitig das Bundeskartellamt.
 
@@ -1450,7 +1452,7 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 (4) Auf Antrag der obersten Landesbehörde kann das Bundeskartellamt eine Sache, für die nach § 48 Absatz 2 Satz 1 seine Zuständigkeit begründet ist, an die oberste Landesbehörde abgeben, wenn dies aufgrund der Umstände der Sache angezeigt ist. Mit der Abgabe wird die oberste Landesbehörde zuständige Kartellbehörde. Vor der Abgabe benachrichtigt das Bundeskartellamt die übrigen betroffenen obersten Landesbehörden. Die Abgabe erfolgt nicht, sofern ihr eine betroffene oberste Landesbehörde innerhalb einer vom Bundeskartellamt zu setzenden Frist widerspricht.
 
-##### § 50 Vollzug des europäischen Rechts
+###### § 50 Vollzug des europäischen Rechts
 
 (1) Abweichend von § 48 Absatz 2 ist das Bundeskartellamt für die Anwendung der Artikel 101 und 102 des Vertrages über die Arbeitsweise der Europäischen Union zuständige Wettbewerbsbehörde im Sinne des Artikels 35 Absatz 1 der Verordnung (EG) Nr. 1/2003.
 
@@ -1464,7 +1466,7 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 ## Kapitel 2 Behördenzusammenarbeit
 
-##### § 50a Ermittlungen im Netzwerk der europäischen Wettbewerbsbehörden
+###### § 50a Ermittlungen im Netzwerk der europäischen Wettbewerbsbehörden
 
 (1) Das Bundeskartellamt darf im Namen und für Rechnung der Wettbewerbsbehörde eines anderen Mitgliedstaates der Europäischen Union und nach Maßgabe des innerstaatlichen Rechts Durchsuchungen und sonstige Maßnahmen zur Sachverhaltsaufklärung durchführen, um festzustellen, ob Unternehmen oder Unternehmensvereinigungen im Rahmen von Verfahren zur Durchsetzung von Artikel 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union die ihnen bei Ermittlungsmaßnahmen obliegenden Pflichten verletzt oder Entscheidungen der ersuchenden Behörde nicht befolgt haben. Das Bundeskartellamt kann von der ersuchenden Behörde die Erstattung aller im Zusammenhang mit diesen Ermittlungsmaßnahmen entstandenen vertretbaren Kosten, einschließlich Übersetzungs-, Personal- und Verwaltungskosten, verlangen, sofern nicht im Rahmen der Gegenseitigkeit auf eine Erstattung verzichtet wurde.
 
@@ -1472,7 +1474,7 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 (3) Die erhobenen Informationen werden in entsprechender Anwendung des § 50d ausgetauscht und verwendet.
 
-##### § 50b Zustellung im Netzwerk der europäischen Wettbewerbsbehörden
+###### § 50b Zustellung im Netzwerk der europäischen Wettbewerbsbehörden
 
 (1) Auf Ersuchen der Wettbewerbsbehörde eines anderen Mitgliedstaates der Europäischen Union stellt das Bundeskartellamt in deren Namen einem Unternehmen, einer Unternehmensvereinigung oder einer natürlichen Person im Inland folgende Unterlagen zu:
 
@@ -1506,7 +1508,7 @@ Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden K
 
 (7) Über Streitigkeiten in Bezug auf die Rechtmäßigkeit einer durch das Bundeskartellamt erstellten und im Hoheitsgebiet einer anderen Wettbewerbsbehörde zuzustellenden Unterlage sowie über Streitigkeiten in Bezug auf die Wirksamkeit einer Zustellung, die das Bundeskartellamt im Namen der Wettbewerbsbehörde eines anderen Mitgliedstaates übernimmt, entscheidet das nach diesem Gesetz zuständige Gericht. Es gilt deutsches Recht.
 
-##### § 50c Vollstreckung im Netzwerk der europäischen Wettbewerbsbehörden
+###### § 50c Vollstreckung im Netzwerk der europäischen Wettbewerbsbehörden
 
 (1) Auf Ersuchen der Wettbewerbsbehörde eines anderen Mitgliedstaates der Europäischen Union vollstreckt das Bundeskartellamt Entscheidungen, durch die in Verfahren zur Anwendung von Artikel 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union Geldbußen oder Zwangsgelder festgesetzt werden, sofern die zu vollstreckende Entscheidung bestandskräftig ist und die ersuchende Behörde aufgrund hinreichender Bemühungen, die Entscheidung in ihrem Hoheitsgebiet zu vollstrecken, mit Sicherheit feststellen konnte, dass das Unternehmen oder die Unternehmensvereinigung dort über keine zur Einziehung der Geldbuße bzw. des Zwangsgeldes ausreichenden Vermögenswerte verfügt.
 
@@ -1534,7 +1536,7 @@ Die Vollstreckung erfolgt auf Grundlage des einheitlichen Titels, der zur Vollst
 
 (8) Über Streitigkeiten in Bezug auf die Rechtmäßigkeit einer durch das Bundeskartellamt erlassenen und im Hoheitsgebiet einer anderen Wettbewerbsbehörde zu vollstreckenden Entscheidung sowie über die Rechtmäßigkeit des einheitlichen Titels, der zur Vollstreckung einer Entscheidung in einem anderen Mitgliedstaat berechtigt, entscheidet das nach diesem Gesetz zuständige Gericht. Es gilt deutsches Recht. Gleiches gilt für Streitigkeiten in Bezug auf die Durchführung einer Vollstreckung, die das Bundeskartellamt für die Wettbewerbsbehörde eines anderen Mitgliedstaates vornimmt.
 
-##### § 50d Informationsaustausch im Netzwerk der europäischen Wettbewerbsbehörden
+###### § 50d Informationsaustausch im Netzwerk der europäischen Wettbewerbsbehörden
 
 (1) Das Bundeskartellamt ist nach Artikel 12 Absatz 1 der Verordnung (EG) Nr. 1/2003 befugt, der Europäischen Kommission und den Wettbewerbsbehörden der anderen Mitgliedstaaten der Europäischen Union zum Zweck der Anwendung der Artikel 101 und 102 des Vertrages über die Arbeitsweise der Europäischen Union und vorbehaltlich Absatz 2
 
@@ -1552,7 +1554,7 @@ Die Vollstreckung erfolgt auf Grundlage des einheitlichen Titels, der zur Vollst
 
 (4) Informationen, die das Bundeskartellamt nach Absatz 1 erhalten hat, können zum Zweck der Verhängung von Sanktionen gegen natürliche Personen nur als Beweismittel verwendet werden, wenn das Recht der übermittelnden Behörde ähnlich geartete Sanktionen in Bezug auf Verstöße gegen Artikel 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union vorsieht. Falls die Voraussetzungen des Satzes 1 nicht erfüllt sind, ist eine Verwendung als Beweismittel auch dann möglich, wenn die Informationen in einer Weise erhoben worden sind, die hinsichtlich der Wahrung der Verteidigungsrechte natürlicher Personen das gleiche Schutzniveau wie nach dem für das Bundeskartellamt geltenden Recht gewährleistet. Das Beweisverwertungsverbot nach Satz 1 steht einer Verwendung der Beweise gegen juristische Personen oder Personenvereinigungen nicht entgegen. Die Beachtung verfassungsrechtlich begründeter Verwertungsverbote bleibt unberührt.
 
-##### § 50e Sonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden
+###### § 50e Sonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden
 
 (1) Das Bundeskartellamt hat die in § 50d Absatz 1 genannten Befugnisse auch in anderen Fällen, in denen es zum Zweck der Anwendung kartellrechtlicher Vorschriften mit der Europäischen Kommission oder den Wettbewerbsbehörden anderer Staaten zusammenarbeitet.
 
@@ -1566,7 +1568,7 @@ Vertrauliche Angaben, einschließlich Betriebs- und Geschäftsgeheimnisse, aus V
 
 (3) Die Regelungen über die Rechtshilfe in Strafsachen sowie Amts- und Rechtshilfeabkommen bleiben unberührt.
 
-##### § 50f Zusammenarbeit mit anderen Behörden
+###### § 50f Zusammenarbeit mit anderen Behörden
 
 (1) Die Kartellbehörden, Regulierungsbehörden, die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit und die Landesbeauftragten für Datenschutz sowie die zuständigen Behörden im Sinne des § 2 des EU-Verbraucherschutzdurchführungsgesetzes können unabhängig von der jeweils gewählten Verfahrensart untereinander Informationen einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnisse austauschen, soweit dies zur Erfüllung ihrer jeweiligen Aufgaben erforderlich ist, sowie diese in ihren Verfahren verwerten. Beweisverwertungsverbote bleiben unberührt.
 
@@ -1582,23 +1584,23 @@ Die Sätze 2 und 3 Nummer 1 lassen die Regelungen des Wertpapiererwerbs- und Üb
 
 ## Kapitel 3 Bundeskartellamt
 
-##### § 51 Sitz, Organisation
+###### § 51 Sitz, Organisation
 
 (1) Das Bundeskartellamt ist eine selbstständige Bundesoberbehörde mit dem Sitz in Bonn. Es gehört zum Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie.
 
 (2) Die Entscheidungen des Bundeskartellamts werden von den Beschlussabteilungen getroffen, die nach Bestimmung des Bundesministeriums für Wirtschaft und Energie gebildet werden. Im Übrigen regelt der Präsident die Verteilung und den Gang der Geschäfte des Bundeskartellamts durch eine Geschäftsordnung; sie bedarf der Bestätigung durch das Bundesministerium für Wirtschaft und Energie.
 
-(3) Die Beschlussabteilungen entscheiden in der Besetzung mit einem oder einer Vorsitzenden und zwei Beisitzenden.
+(3) Die Beschlussabteilungen entscheiden in der Besetzung mit einem oder einer Vorsitzenden und zwei Beisitzenden. Die Mitglieder der Beschlussabteilungen haften gegenüber dem Dienstherrn im Falle der Verletzung einer Amtspflicht nur bei Vorsatz.
 
 (4) Vorsitzende und Beisitzende der Beschlussabteilungen müssen Beamte auf Lebenszeit sein und die Befähigung zum Richteramt oder zum höheren Verwaltungsdienst haben.
 
 (5) Die Mitglieder des Bundeskartellamts dürfen weder ein Unternehmen innehaben oder leiten noch dürfen sie Mitglied des Vorstandes oder des Aufsichtsrates eines Unternehmens, eines Kartells oder einer Wirtschafts- oder Berufsvereinigung sein.
 
-##### § 52 Veröffentlichung allgemeiner Weisungen
+###### § 52 Veröffentlichung allgemeiner Weisungen
 
 Soweit das Bundesministerium für Wirtschaft und Energie dem Bundeskartellamt allgemeine Weisungen für den Erlass oder die Unterlassung von Verfügungen nach diesem Gesetz erteilt, sind diese Weisungen im Bundesanzeiger zu veröffentlichen.
 
-##### § 53 Tätigkeitsbericht und Monitoringberichte
+###### § 53 Tätigkeitsbericht und Monitoringberichte
 
 (1) Das Bundeskartellamt veröffentlicht alle zwei Jahre einen Bericht über seine Tätigkeit sowie über die Lage und Entwicklung auf seinem Aufgabengebiet. In den Bericht sind die allgemeinen Weisungen des Bundesministeriums für Wirtschaft und Energie nach § 52 aufzunehmen. Es veröffentlicht ferner fortlaufend seine Verwaltungsgrundsätze.
 
@@ -1628,7 +1630,7 @@ Soweit das Bundesministerium für Wirtschaft und Energie dem Bundeskartellamt al
 
 ## Abschnitt 1 Verfahren vor den Kartellbehörden
 
-##### § 54 Einleitung des Verfahrens, Beteiligte, Beteiligtenfähigkeit
+###### § 54 Einleitung des Verfahrens, Beteiligte, Beteiligtenfähigkeit
 
 (1) Die Kartellbehörde leitet ein Verfahren von Amts wegen oder auf Antrag ein. Die Kartellbehörde kann auf entsprechendes Ersuchen zum Schutz eines Beschwerdeführers ein Verfahren von Amts wegen einleiten. Soweit sich nicht aus den besonderen Bestimmungen dieses Gesetzes Abweichungen ergeben, sind für das Verfahren die allgemeinen Vorschriften der Verwaltungsverfahrensgesetze anzuwenden.
 
@@ -1646,13 +1648,13 @@ Soweit das Bundesministerium für Wirtschaft und Energie dem Bundeskartellamt al
 
 (4) Fähig, am Verfahren vor der Kartellbehörde beteiligt zu sein, sind außer natürlichen und juristischen Personen auch nichtrechtsfähige Personenvereinigungen.
 
-##### § 55 Vorabentscheidung über Zuständigkeit
+###### § 55 Vorabentscheidung über Zuständigkeit
 
 (1) Macht ein Beteiligter die örtliche oder sachliche Unzuständigkeit der Kartellbehörde geltend, so kann die Kartellbehörde über die Zuständigkeit vorab entscheiden. Die Verfügung kann selbstständig mit der Beschwerde angefochten werden; die Beschwerde hat aufschiebende Wirkung.
 
 (2) Hat ein Beteiligter die örtliche oder sachliche Unzuständigkeit der Kartellbehörde nicht geltend gemacht, so kann eine Beschwerde nicht darauf gestützt werden, dass die Kartellbehörde ihre Zuständigkeit zu Unrecht angenommen hat.
 
-##### § 56 Anhörung, Akteneinsicht, mündliche Verhandlung
+###### § 56 Anhörung, Akteneinsicht, mündliche Verhandlung
 
 (1) Die Kartellbehörde hat den Beteiligten Gelegenheit zur Stellungnahme zu geben. Über die Form der Anhörung entscheidet die Kartellbehörde nach pflichtgemäßem Ermessen. Die Kartellbehörde kann die Anhörung auch mündlich durchführen, wenn die besonderen Umstände des Falles dies erfordern.
 
@@ -1666,11 +1668,11 @@ Soweit das Bundesministerium für Wirtschaft und Energie dem Bundeskartellamt al
 
 (6) Die Kartellbehörde kann von den Beteiligten sowie von Dritten verlangen, mit der Übersendung von Anmeldungen, Stellungnahmen, Unterlagen oder sonstigen Auskünften oder im Anschluss an die Übersendung auf die in Absatz 4 genannten Geheimnisse hinzuweisen und diese in den Unterlagen entsprechend kenntlich zu machen. Erfolgt dies trotz entsprechenden Verlangens nicht, darf die Kartellbehörde von der Zustimmung zur Offenlegung im Rahmen der Gewährung von Akteneinsicht ausgehen.
 
-(7) Auf Antrag eines Beteiligten oder von Amts wegen kann die Kartellbehörde eine öffentliche mündliche Verhandlung durchführen. Für die Verhandlung oder für einen Teil davon ist die Öffentlichkeit auszuschließen, wenn sie eine Gefährdung der öffentlichen Ordnung, insbesondere des Wohls des Bundes oder eines Landes, oder eine Gefährdung eines wichtigen Betriebs- oder Geschäftsgeheimnisses besorgen lässt. In den Fällen des § 32f Absatz 3 Satz 1 und Absatz 4 hat das Bundeskartellamt nach Einleitung des Verfahrens eine öffentliche mündliche Verhandlung durchzuführen. In den Fällen des § 42 hat das Bundesministerium für Wirtschaft und Klimaschutz eine öffentliche mündliche Verhandlung durchzuführen. Mit Einverständnis der Beteiligten kann in den Fällen des § 32f Absatz 3 Satz 1 und Absatz 4 sowie des § 42 ohne mündliche Verhandlung entschieden werden. In der öffentlichen mündlichen Verhandlung hat die Monopolkommission in den Fällen des § 32f Absatz 3 Satz 1 und Absatz 4 sowie des § 42 das Recht, gehört zu werden; in den Fällen des § 42 hat sie das Recht, die Stellungnahme, die sie nach § 42 Absatz 5 erstellt hat, zu erläutern.
+(7) Auf Antrag eines Beteiligten oder von Amts wegen kann die Kartellbehörde eine öffentliche mündliche Verhandlung durchführen. Für die Verhandlung oder für einen Teil davon ist die Öffentlichkeit auszuschließen, wenn sie eine Gefährdung der öffentlichen Ordnung, insbesondere des Wohls des Bundes oder eines Landes, oder eine Gefährdung eines wichtigen Betriebs- oder Geschäftsgeheimnisses besorgen lässt. In den Fällen des § 32f Absatz 3 Satz 1 und Absatz 4 hat das Bundeskartellamt nach Einleitung des Verfahrens eine öffentliche mündliche Verhandlung durchzuführen. In den Fällen des § 42 hat das Bundesministerium für Wirtschaft und Energie eine öffentliche mündliche Verhandlung durchzuführen. Mit Einverständnis der Beteiligten kann in den Fällen des § 32f Absatz 3 Satz 1 und Absatz 4 sowie des § 42 ohne mündliche Verhandlung entschieden werden. In der öffentlichen mündlichen Verhandlung hat die Monopolkommission in den Fällen des § 32f Absatz 3 Satz 1 und Absatz 4 sowie des § 42 das Recht, gehört zu werden; in den Fällen des § 42 hat sie das Recht, die Stellungnahme, die sie nach § 42 Absatz 5 erstellt hat, zu erläutern.
 
 (8) Die §§ 45 und 46 des Verwaltungsverfahrensgesetzes sind anzuwenden.
 
-##### § 57 Ermittlungen, Beweiserhebung
+###### § 57 Ermittlungen, Beweiserhebung
 
 (1) Die Kartellbehörde kann alle Ermittlungen führen und alle Beweise erheben, die erforderlich sind.
 
@@ -1684,7 +1686,7 @@ Soweit das Bundesministerium für Wirtschaft und Energie dem Bundeskartellamt al
 
 (6) Die Kartellbehörde kann das Amtsgericht um die Beeidigung von Zeugen ersuchen, wenn sie die Beeidigung zur Herbeiführung einer wahrheitsgemäßen Aussage für notwendig erachtet. Über die Beeidigung entscheidet das Gericht.
 
-##### § 58 Beschlagnahme
+###### § 58 Beschlagnahme
 
 (1) Die Bediensteten der Kartellbehörde können Gegenstände, die als Beweismittel für die Ermittlung von Bedeutung sein können, beschlagnahmen. Die Beschlagnahme ist dem davon Betroffenen unverzüglich bekannt zu machen.
 
@@ -1694,7 +1696,7 @@ Soweit das Bundesministerium für Wirtschaft und Energie dem Bundeskartellamt al
 
 (4) Gegen die richterliche Entscheidung ist die Beschwerde zulässig. Die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend.
 
-##### § 59 Auskunftsverlangen
+###### § 59 Auskunftsverlangen
 
 (1) Soweit es zur Erfüllung der in diesem Gesetz der Kartellbehörde übertragenen Aufgaben erforderlich ist, kann die Kartellbehörde bis zum Eintritt der Bestandskraft ihrer Entscheidung von Unternehmen und Unternehmensvereinigungen die Erteilung von Auskünften sowie die Herausgabe von Unterlagen verlangen. Die Unternehmen und Unternehmensvereinigungen sind verpflichtet, diese innerhalb einer angemessenen Frist zu erteilen oder herauszugeben. Die Verpflichtung erstreckt sich auf alle Informationen und Unterlagen, die dem Unternehmen oder der Unternehmensvereinigung zugänglich sind. Dies umfasst auch allgemeine Marktstudien, die der Einschätzung oder Analyse der Wettbewerbsbedingungen oder der Marktlage dienen und sich im Besitz des Unternehmens oder der Unternehmensvereinigung befinden. Die Verpflichtung gilt auch für die näheren Umstände des Postverkehrs. Das Postgeheimnis nach Artikel 10 des Grundgesetzes wird insoweit eingeschränkt. Die Kartellbehörde kann vorgeben, in welcher Form die Auskünfte zu erteilen sind; insbesondere kann sie vorgeben, dass eine Internetplattform zur Eingabe der Informationen verwendet werden muss. Vertreter des Unternehmens oder der Unternehmensvereinigung können von der Kartellbehörde zu einer Befragung bestellt werden. Gegenüber juristischen Personen sowie Personenvereinigungen, die keine Unternehmen oder Unternehmensvereinigungen sind, gelten die Sätze 1 bis 8 entsprechend.
 
@@ -1706,7 +1708,7 @@ Soweit das Bundesministerium für Wirtschaft und Energie dem Bundeskartellamt al
 
 (5) Das Bundesministerium für Wirtschaft und Energie oder die oberste Landesbehörde fordert die Auskunft durch schriftliche Einzelverfügung, das Bundeskartellamt fordert sie durch Beschluss an. Darin sind die Rechtsgrundlage, der Gegenstand und der Zweck des Auskunftsverlangens anzugeben und eine angemessene Frist zur Erteilung der Auskunft ist zu bestimmen.
 
-##### § 59a Prüfung von geschäftlichen Unterlagen
+###### § 59a Prüfung von geschäftlichen Unterlagen
 
 (1) Soweit es zur Erfüllung der in diesem Gesetz der Kartellbehörde übertragenen Aufgaben erforderlich ist, kann die Kartellbehörde bis zum Eintritt der Bestandskraft ihrer Entscheidung bei Unternehmen und Unternehmensvereinigungen innerhalb der üblichen Geschäftszeiten die geschäftlichen Unterlagen einsehen und prüfen.
 
@@ -1718,7 +1720,7 @@ Soweit das Bundesministerium für Wirtschaft und Energie dem Bundeskartellamt al
 
 (5) Das Bundesministerium für Wirtschaft und Energie oder die oberste Landesbehörde ordnet die Prüfung durch schriftliche Einzelverfügung, das Bundeskartellamt ordnet sie durch Beschluss mit Zustimmung des Präsidenten an. In der Anordnung sind Zeitpunkt, Rechtsgrundlage, Gegenstand und Zweck der Prüfung anzugeben.
 
-##### § 59b Durchsuchungen
+###### § 59b Durchsuchungen
 
 (1) Zur Erfüllung der ihr in diesem Gesetz übertragenen Aufgaben kann die Kartellbehörde Geschäftsräume, Wohnungen, Grundstücke und Sachen durchsuchen, wenn zu vermuten ist, dass sich dort Unterlagen befinden, die die Kartellbehörde nach den §§ 59 und 59a einsehen, prüfen oder herausverlangen darf. Das Grundrecht des Artikels 13 des Grundgesetzes wird insofern eingeschränkt. § 104 Absatz 1 und 3 der Strafprozessordnung gilt entsprechend.
 
@@ -1738,7 +1740,7 @@ Soweit natürliche Personen nach Satz 1 Nummer 3 zur Mitwirkung in Form der Erte
 
 (5) § 108 Absatz 1 und § 110 der Strafprozessordnung gelten entsprechend. Die Betroffenen haben die Durchsuchung zu dulden. Die Duldung kann im Fall der Durchsuchung von Geschäftsräumen sowie geschäftlich genutzten Grundstücken und Sachen gegenüber Unternehmen und Unternehmensvereinigungen mit einem Zwangsgeld entsprechend § 86a durchgesetzt werden.
 
-##### § 60 Einstweilige Anordnungen
+###### § 60 Einstweilige Anordnungen
 
 Die Kartellbehörde kann bis zur endgültigen Entscheidung über
 
@@ -1750,7 +1752,7 @@ Die Kartellbehörde kann bis zur endgültigen Entscheidung über
 
 einstweilige Anordnungen zur Regelung eines einstweiligen Zustandes treffen.
 
-##### § 61 Verfahrensabschluss, Begründung der Verfügung, Zustellung
+###### § 61 Verfahrensabschluss, Begründung der Verfügung, Zustellung
 
 (1) Verfügungen der Kartellbehörde sind zu begründen und mit einer Belehrung über das zulässige Rechtsmittel den Beteiligten nach den Vorschriften des Verwaltungszustellungsgesetzes zuzustellen. § 5 Absatz 4 des Verwaltungszustellungsgesetzes und § 178 Absatz 1 Nummer 2 der Zivilprozessordnung sind auf Unternehmen und Vereinigungen von Unternehmen sowie auf Auftraggeber im Sinne des § 98 entsprechend anzuwenden. Verfügungen, die gegenüber einem Unternehmen mit Sitz außerhalb des Geltungsbereichs dieses Gesetzes ergehen, stellt die Kartellbehörde der im Inland ansässigen Person zu, die das Unternehmen dem Bundeskartellamt als zustellungsbevollmächtigt benannt hat. Hat das Unternehmen keine zustellungsbevollmächtigte Person benannt und ist bei Unternehmen oder Vereinigungen von Unternehmen mit Sitz innerhalb der Europäischen Union keine Zustellung nach § 50b möglich oder verspricht diese keinen Erfolg, so stellt die Kartellbehörde die Verfügungen durch Bekanntmachung im Bundesanzeiger zu.
 
@@ -1758,7 +1760,7 @@ einstweilige Anordnungen zur Regelung eines einstweiligen Zustandes treffen.
 
 (3) Verfügungen der Kartellbehörde nach § 30 Absatz 3, § 31b Absatz 3, den §§ 32 bis 32b und 32d sind im Bundesanzeiger bekannt zu machen. Entscheidungen nach § 32c Absatz 1 können von der Kartellbehörde veröffentlicht werden.
 
-##### § 62 Gebührenpflichtige Handlungen
+###### § 62 Gebührenpflichtige Handlungen
 
 (1) Im Verfahren vor der Kartellbehörde werden Kosten (Gebühren und Auslagen) zur Deckung des Verwaltungsaufwandes erhoben. Als individuell zurechenbare öffentliche Leistungen sind gebührenpflichtig (gebührenpflichtige Handlungen):
 
@@ -1834,7 +1836,7 @@ Kostenschuldner ist auch, wer die Zahlung der Kosten durch eine vor der Kartellb
 
 ## Abschnitt 2 Gemeinsame Bestimmungen für Rechtsbehelfsverfahren
 
-##### § 63 Beteiligte am Rechtsbehelfsverfahren, Beteiligtenfähigkeit
+###### § 63 Beteiligte am Rechtsbehelfsverfahren, Beteiligtenfähigkeit
 
 (1) An dem Rechtsbehelfsverfahren sind beteiligt:
 
@@ -1848,17 +1850,17 @@ Kostenschuldner ist auch, wer die Zahlung der Kosten durch eine vor der Kartellb
 
 (3) Fähig, am Rechtsbehelfsverfahren beteiligt zu sein, sind außer natürlichen und juristischen Personen auch nichtrechtsfähige Personenvereinigungen.
 
-##### § 64 Anwaltszwang
+###### § 64 Anwaltszwang
 
 Die Beteiligten müssen sich durch einen Rechtsanwalt als Bevollmächtigten vertreten lassen. Die Kartellbehörde kann sich durch ein Mitglied der Behörde vertreten lassen.
 
-##### § 65 Mündliche Verhandlung
+###### § 65 Mündliche Verhandlung
 
 (1) Das Gericht entscheidet über die Beschwerde und über die Rechtsbeschwerde aufgrund mündlicher Verhandlung; mit Einverständnis der Beteiligten kann ohne mündliche Verhandlung entschieden werden.
 
 (2) Sind die Beteiligten in dem Verhandlungstermin trotz rechtzeitiger Ladung nicht erschienen oder ordnungsgemäß vertreten, so kann gleichwohl in der Sache verhandelt und entschieden werden.
 
-##### § 66 Aufschiebende Wirkung
+###### § 66 Aufschiebende Wirkung
 
 (1) Rechtsbehelfe haben aufschiebende Wirkung, soweit durch die angefochtene Verfügung
 
@@ -1870,7 +1872,7 @@ oder soweit der angefochtene Beschluss des Beschwerdegerichts eine solche Verfü
 
 (2) Wird eine Verfügung, durch die eine einstweilige Anordnung nach § 60 getroffen wurde, angefochten, so kann das Gericht im Rechtsbehelfsverfahren anordnen, dass die Vollziehung der angefochtenen Verfügung ganz oder teilweise ausgesetzt wird. Die Anordnung kann jederzeit aufgehoben oder geändert werden.
 
-##### § 67 Anordnung der sofortigen Vollziehung
+###### § 67 Anordnung der sofortigen Vollziehung
 
 (1) Die Kartellbehörde kann in den Fällen des § 66 Absatz 1 die sofortige Vollziehung der Verfügung anordnen, wenn dies im öffentlichen Interesse oder im überwiegenden Interesse eines Beteiligten geboten ist.
 
@@ -1890,11 +1892,11 @@ In den Fällen, in denen der Rechtsbehelf keine aufschiebende Wirkung hat, kann 
 
 (5) Beschlüsse über Anträge nach Absatz 3 können jederzeit geändert oder aufgehoben werden.
 
-##### § 68 Einstweilige Anordnungen im Rechtsbehelfsverfahren
+###### § 68 Einstweilige Anordnungen im Rechtsbehelfsverfahren
 
 § 60 gilt für Rechtsbehelfsverfahren entsprechend. Dies gilt nicht für die Fälle des § 67. Für den Erlass einstweiliger Anordnungen im Rechtsbehelfsverfahren ist das Gericht der Hauptsache zuständig.
 
-##### § 69 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+###### § 69 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
 (1) Auf die Rüge eines durch eine gerichtliche Entscheidung beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
 
@@ -1914,7 +1916,7 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 (6) § 149 Absatz 1 Satz 2 der Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
 
-##### § 70 Akteneinsicht
+###### § 70 Akteneinsicht
 
 (1) Die in § 63 Absatz 1 Nummer 1 und 2 und Absatz 2 bezeichneten Beteiligten können die Akten des Gerichts einsehen und sich durch die Geschäftsstelle auf ihre Kosten Ausfertigungen, Auszüge und Abschriften erstellen lassen. § 299 Absatz 3 der Zivilprozessordnung gilt entsprechend.
 
@@ -1922,11 +1924,11 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 (3) Den in § 63 Absatz 1 Nummer 3 bezeichneten Beteiligten kann das Gericht nach Anhörung des Verfügungsberechtigten Akteneinsicht in gleichem Umfang gewähren.
 
-##### § 71 Kostentragung und -festsetzung
+###### § 71 Kostentragung und -festsetzung
 
 Das Gericht kann anordnen, dass die Kosten, die zur zweckentsprechenden Erledigung der Angelegenheit notwendig waren, von einem Beteiligten ganz oder teilweise zu erstatten sind, wenn dies der Billigkeit entspricht. Hat ein Beteiligter Kosten durch ein unbegründetes Rechtsmittel oder durch grobes Verschulden veranlasst, so sind ihm die Kosten aufzuerlegen. Im Übrigen gelten die Vorschriften der Zivilprozessordnung über das Kostenfestsetzungsverfahren und die Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen entsprechend.
 
-##### § 72 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
+###### § 72 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
 
 Soweit nichts anderes bestimmt ist, gelten entsprechend
 
@@ -1936,7 +1938,7 @@ Soweit nichts anderes bestimmt ist, gelten entsprechend
 
 ## Abschnitt 3 Beschwerde
 
-##### § 73 Zulässigkeit, Zuständigkeit
+###### § 73 Zulässigkeit, Zuständigkeit
 
 (1) Gegen Verfügungen der Kartellbehörde ist die Beschwerde zulässig. Sie kann auch auf neue Tatsachen und Beweismittel gestützt werden.
 
@@ -1954,7 +1956,7 @@ Soweit nichts anderes bestimmt ist, gelten entsprechend
 
 jeweils einschließlich aller selbständig anfechtbaren Verfahrenshandlungen.
 
-##### § 74 Frist und Form
+###### § 74 Frist und Form
 
 (1) Die Beschwerde ist binnen einer Frist von einem Monat bei der Kartellbehörde, deren Verfügung angefochten wird, schriftlich einzureichen. Die Frist beginnt mit der Zustellung der Verfügung der Kartellbehörde. Wird in den Fällen des § 36 Absatz 1 Antrag auf Erteilung einer Erlaubnis nach § 42 gestellt, so beginnt die Frist für die Beschwerde gegen die Verfügung des Bundeskartellamts mit der Zustellung der Verfügung des Bundesministeriums für Wirtschaft und Energie. Es genügt, wenn die Beschwerde innerhalb der Frist bei dem Beschwerdegericht eingeht.
 
@@ -1970,7 +1972,7 @@ jeweils einschließlich aller selbständig anfechtbaren Verfahrenshandlungen.
 
 (5) Die Beschwerdeschrift und die Beschwerdebegründung müssen durch einen Rechtsanwalt unterzeichnet sein; dies gilt nicht für Beschwerden der Kartellbehörden.
 
-##### § 75 Untersuchungsgrundsatz
+###### § 75 Untersuchungsgrundsatz
 
 (1) Das Beschwerdegericht erforscht den Sachverhalt von Amts wegen.
 
@@ -1982,7 +1984,7 @@ jeweils einschließlich aller selbständig anfechtbaren Verfahrenshandlungen.
 
 (5) Der Bundesgerichtshof kann in Verfahren nach § 73 Absatz 5 eine Stellungnahme der Monopolkommission einholen.
 
-##### § 76 Beschwerdeentscheidung
+###### § 76 Beschwerdeentscheidung
 
 (1) Das Beschwerdegericht entscheidet durch Beschluss nach seiner freien, aus dem Gesamtergebnis des Verfahrens gewonnenen Überzeugung. Der Beschluss darf nur auf Tatsachen und Beweismittel gestützt werden, zu denen die Beteiligten sich äußern konnten. Das Beschwerdegericht kann hiervon abweichen, soweit Beigeladenen aus wichtigen Gründen, insbesondere zur Wahrung von Betriebs- oder Geschäftsgeheimnissen, Akteneinsicht nicht gewährt und der Akteninhalt aus diesen Gründen auch nicht vorgetragen worden ist. Dies gilt nicht für solche Beigeladene, die an dem streitigen Rechtsverhältnis derart beteiligt sind, dass die Entscheidung auch ihnen gegenüber nur einheitlich ergehen kann.
 
@@ -1998,7 +2000,7 @@ jeweils einschließlich aller selbständig anfechtbaren Verfahrenshandlungen.
 
 ## Abschnitt 4 Rechtsbeschwerde und Nichtzulassungsbeschwerde
 
-##### § 77 Zulassung, absolute Rechtsbeschwerdegründe
+###### § 77 Zulassung, absolute Rechtsbeschwerdegründe
 
 (1) Gegen Beschlüsse der Oberlandesgerichte findet die Rechtsbeschwerde an den Bundesgerichtshof statt, wenn das Oberlandesgericht die Rechtsbeschwerde zugelassen hat. Für Beschlüsse des Landessozialgerichts in Streitigkeiten, die die freiwillige Vereinigung von Krankenkassen nach § 158 des Fünften Buches Sozialgesetzbuch betreffen, gilt § 202 Satz 3 des Sozialgerichtsgesetzes.
 
@@ -2024,7 +2026,7 @@ jeweils einschließlich aller selbständig anfechtbaren Verfahrenshandlungen.
 
 6. wenn die Entscheidung nicht mit Gründen versehen ist.
 
-##### § 78 Nichtzulassungsbeschwerde
+###### § 78 Nichtzulassungsbeschwerde
 
 (1) Die Nichtzulassung der Rechtsbeschwerde kann von den am Beschwerdeverfahren Beteiligten durch Nichtzulassungsbeschwerde angefochten werden.
 
@@ -2038,7 +2040,7 @@ jeweils einschließlich aller selbständig anfechtbaren Verfahrenshandlungen.
 
 (6) Wird die Rechtsbeschwerde nicht zugelassen, so wird die Entscheidung des Oberlandesgerichts mit der Zustellung des Beschlusses des Bundesgerichtshofs rechtskräftig. Wird die Rechtsbeschwerde zugelassen, so wird das Verfahren als Rechtsbeschwerdeverfahren fortgesetzt. In diesem Fall gilt die form- und fristgerechte Einlegung der Nichtzulassungsbeschwerde als Einlegung der Rechtsbeschwerde. Mit der Zustellung der Entscheidung beginnt die Frist für die Begründung der Rechtsbeschwerde.
 
-##### § 79 Rechtsbeschwerdeberechtigte, Form und Frist
+###### § 79 Rechtsbeschwerdeberechtigte, Form und Frist
 
 (1) Die Rechtsbeschwerde steht den am Beschwerdeverfahren Beteiligten zu.
 
@@ -2052,7 +2054,7 @@ jeweils einschließlich aller selbständig anfechtbaren Verfahrenshandlungen.
 
 (6) Der Bundesgerichtshof ist an die in der angefochtenen Entscheidung getroffenen tatsächlichen Feststellungen gebunden, außer, wenn in Bezug auf diese Feststellungen zulässige und begründete Rechtsbeschwerdegründe vorgebracht sind.
 
-##### § 80 Rechtsbeschwerdeentscheidung
+###### § 80 Rechtsbeschwerdeentscheidung
 
 (1) Der Bundesgerichtshof entscheidet durch Beschluss.
 
@@ -2078,7 +2080,7 @@ Der Bundesgerichtshof verweist den Rechtsstreit zurück, wenn der im Rechtsbesch
 
 ## Abschnitt 1 Bußgeldvorschriften
 
-##### § 81 Bußgeldtatbestände
+###### § 81 Bußgeldtatbestände
 
 (1) Ordnungswidrig handelt, wer gegen den Vertrag über die Arbeitsweise der Europäischen Union in der Fassung der Bekanntmachung vom 9. Mai 2008 (ABl. C 115 vom 9.5.2008, S. 47) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -2130,7 +2132,7 @@ d) § 47d Absatz 1 Satz 5 erster Halbsatz in Verbindung mit einer Rechtsverordnu
 
 3. entgegen § 24 Absatz 4 Satz 3 oder § 39 Absatz 3 Satz 5 eine Angabe macht oder benutzt.
 
-##### § 81a Geldbußen gegen Unternehmen
+###### § 81a Geldbußen gegen Unternehmen
 
 (1) Hat jemand als Leitungsperson im Sinne des § 30 Absatz 1 Nummer 1 bis 5 des Gesetzes über Ordnungswidrigkeiten eine Ordnungswidrigkeit nach § 81 begangen, durch die Pflichten, welche das Unternehmen treffen, verletzt worden sind oder das Unternehmen bereichert worden ist oder werden sollte, so kann auch gegen weitere juristische Personen oder Personenvereinigungen, die das Unternehmen zum Zeitpunkt der Begehung der Ordnungswidrigkeit gebildet haben und die auf die juristische Person oder Personenvereinigung, deren Leitungsperson die Ordnungswidrigkeit begangen hat, unmittelbar oder mittelbar einen bestimmenden Einfluss ausgeübt haben, eine Geldbuße festgesetzt werden.
 
@@ -2142,7 +2144,7 @@ d) § 47d Absatz 1 Satz 5 erster Halbsatz in Verbindung mit einer Rechtsverordnu
 
 (5) Soweit in den Fällen der Absätze 1 bis 3 gegen mehrere juristische Personen oder Personenvereinigungen wegen derselben Ordnungswidrigkeit Geldbußen festgesetzt werden, finden die Vorschriften zur Gesamtschuld entsprechende Anwendung.
 
-##### § 81b Geldbußen gegen Unternehmensvereinigungen
+###### § 81b Geldbußen gegen Unternehmensvereinigungen
 
 (1) Wird gegen eine Unternehmensvereinigung als juristische Person oder Personenvereinigung im Sinne des § 30 des Gesetzes gegen Ordnungswidrigkeiten eine Geldbuße nach § 81c Absatz 4 festgesetzt und ist die Unternehmensvereinigung selbst nicht zahlungsfähig, so setzt die Kartellbehörde eine angemessene Frist, binnen derer die Unternehmensvereinigung von ihren Mitgliedern Beiträge zur Zahlung der Geldbuße verlangt.
 
@@ -2164,7 +2166,7 @@ d) § 47d Absatz 1 Satz 5 erster Halbsatz in Verbindung mit einer Rechtsverordnu
 
 2. denen nach § 81k ein Erlass der Geldbuße gewährt wurde.
 
-##### § 81c Höhe der Geldbuße
+###### § 81c Höhe der Geldbuße
 
 (1) Die Ordnungswidrigkeit kann in den Fällen des § 81 Absatz 1, 2 Nummer 1, 2 Buchstabe a und Nummer 5 und Absatz 3 mit einer Geldbuße bis zu einer Million Euro geahndet werden. In den übrigen Fällen des § 81 kann die Ordnungswidrigkeit mit einer Geldbuße bis zu einhunderttausend Euro geahndet werden.
 
@@ -2176,7 +2178,7 @@ d) § 47d Absatz 1 Satz 5 erster Halbsatz in Verbindung mit einer Rechtsverordnu
 
 (5) Bei der Ermittlung des Gesamtumsatzes ist der weltweite Umsatz aller natürlichen und juristischen Personen sowie Personenvereinigungen zugrunde zu legen, die als wirtschaftliche Einheit operieren. Die Höhe des Gesamtumsatzes kann geschätzt werden.
 
-##### § 81d Zumessung der Geldbuße
+###### § 81d Zumessung der Geldbuße
 
 (1) Bei der Festsetzung der Höhe der Geldbuße ist sowohl die Schwere der Zuwiderhandlung als auch deren Dauer zu berücksichtigen. Bei Geldbußen, die gegen Unternehmen oder Unternehmensvereinigungen wegen wettbewerbsbeschränkender Vereinbarungen, Beschlüssen oder abgestimmter Verhaltensweisen nach § 1 dieses Gesetzes oder Artikel 101 des Vertrages über die Arbeitsweise der Europäischen Union oder wegen verbotener Verhaltensweisen nach den §§ 19, 20 oder 21 oder nach Artikel 102 des Vertrages über die Arbeitsweise der Europäischen Union festgesetzt werden, kommen als abzuwägende Umstände insbesondere in Betracht:
 
@@ -2198,7 +2200,7 @@ Bei der Berücksichtigung des Ausmaßes, der Größenordnung und der Bedeutung i
 
 (4) Das Bundeskartellamt kann allgemeine Verwaltungsgrundsätze über die Ausübung seines Ermessens bei der Bemessung der Geldbuße, insbesondere für die Feststellung der Bußgeldhöhe und für die Zusammenarbeit mit ausländischen Wettbewerbsbehörden, festlegen.
 
-##### § 81e Ausfallhaftung im Übergangszeitraum
+###### § 81e Ausfallhaftung im Übergangszeitraum
 
 (1) Erlischt die nach § 30 des Gesetzes über Ordnungswidrigkeiten verantwortliche juristische Person oder Personenvereinigung nach der Bekanntgabe der Einleitung des Bußgeldverfahrens oder wird Vermögen verschoben mit der Folge, dass ihr oder ihrem Rechtsnachfolger gegenüber eine nach den §§ 81c und 81d in Bezug auf das Unternehmen angemessene Geldbuße nicht festgesetzt oder voraussichtlich nicht vollstreckt werden kann, so kann gegen juristische Personen oder Personenvereinigungen, die zum Zeitpunkt der Bekanntgabe der Einleitung des Bußgeldverfahrens das Unternehmen gebildet und auf die verantwortliche juristische Person oder Personenvereinigung oder ihren Rechtsnachfolger unmittelbar oder mittelbar einen bestimmenden Einfluss ausgeübt haben oder die nach der Bekanntgabe der Einleitung des Bußgeldverfahrens Rechtsnachfolger im Sinne des § 81a Absatz 2 oder wirtschaftlicher Nachfolger im Sinne des § 81a Absatz 3 werden, ein Haftungsbetrag in Höhe der nach den §§ 81c und 81d in Bezug auf das Unternehmen angemessenen Geldbuße festgesetzt werden.
 
@@ -2208,11 +2210,11 @@ Bei der Berücksichtigung des Ausmaßes, der Größenordnung und der Bedeutung i
 
 (4) Sofern gegen mehrere juristische Personen oder Personenvereinigungen eines Unternehmens wegen derselben Ordnungswidrigkeit Geldbußen und Haftungsbeträge festgesetzt werden, darf im Vollstreckungsverfahren diesen gegenüber insgesamt nur eine Beitreibung bis zur Erreichung des höchsten festgesetzten Einzelbetrages erfolgen.
 
-##### § 81f Verzinsung der Geldbuße
+###### § 81f Verzinsung der Geldbuße
 
 Im Bußgeldbescheid festgesetzte Geldbußen gegen juristische Personen und Personenvereinigungen sind zu verzinsen; die Verzinsung beginnt vier Wochen nach Zustellung des Bußgeldbescheides. § 288 Absatz 1 Satz 2 und § 289 Satz 1 des Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden. Die Verjährungsfrist beträgt drei Jahre und beginnt mit dem Ablauf des Kalenderjahres, in dem die festgesetzte Geldbuße vollständig gezahlt oder beigetrieben wurde.
 
-##### § 81g Verjährung der Geldbuße
+###### § 81g Verjährung der Geldbuße
 
 (1) Die Verjährung der Verfolgung von Ordnungswidrigkeiten nach § 81 bestimmt sich nach den Vorschriften des Gesetzes über Ordnungswidrigkeiten auch dann, wenn die Tat durch Verbreiten von Druckschriften begangen wird. Die Verfolgung der Ordnungswidrigkeiten nach § 81 Absatz 1, 2 Nummer 1 und Absatz 3 verjährt in fünf Jahren.
 
@@ -2224,7 +2226,7 @@ Im Bußgeldbescheid festgesetzte Geldbußen gegen juristische Personen und Perso
 
 ## Abschnitt 2 Kronzeugenprogramm
 
-##### § 81h Ziel und Anwendungsbereich
+###### § 81h Ziel und Anwendungsbereich
 
 (1) Die Kartellbehörde kann an Kartellen beteiligten natürlichen Personen, Unternehmen und Unternehmensvereinigungen (Kartellbeteiligte), die durch ihre Kooperation mit der Kartellbehörde dazu beitragen, ein Kartell aufzudecken, die Geldbuße erlassen oder reduzieren (Kronzeugenbehandlung).
 
@@ -2232,7 +2234,7 @@ Im Bußgeldbescheid festgesetzte Geldbußen gegen juristische Personen und Perso
 
 (3) Das Bundeskartellamt kann allgemeine Verwaltungsgrundsätze über die Ausübung seines Ermessens bei der Anwendung des Kronzeugenprogramms sowie der Gestaltung des Verfahrens festlegen. Die Verwaltungsgrundsätze sind im Bundesanzeiger zu veröffentlichen.
 
-##### § 81i Antrag auf Kronzeugenbehandlung
+###### § 81i Antrag auf Kronzeugenbehandlung
 
 (1) Eine Kronzeugenbehandlung ist nur auf Antrag möglich. Kartellbeteiligte können wegen einer verfolgbaren Tat einen Antrag auf Kronzeugenbehandlung bei der zuständigen Kartellbehörde stellen. Der Antrag muss detaillierte Informationen zu allen in § 81m Absatz 1 Satz 2 aufgelisteten Angaben enthalten und zusammen mit den entsprechenden Beweismitteln eingereicht werden.
 
@@ -2242,7 +2244,7 @@ Im Bußgeldbescheid festgesetzte Geldbußen gegen juristische Personen und Perso
 
 (4) Auf Ersuchen des Antragstellers bestätigt die Kartellbehörde den Eingang des Antrags mit Datum und Uhrzeit.
 
-##### § 81j Allgemeine Voraussetzungen für die Kronzeugenbehandlung
+###### § 81j Allgemeine Voraussetzungen für die Kronzeugenbehandlung
 
 (1) Die Kronzeugenbehandlung kann nur gewährt werden, wenn der Antragsteller
 
@@ -2270,7 +2272,7 @@ b) weder die beabsichtigte Stellung des Antrags auf Kronzeugenbehandlung noch de
 
 (2) Die Voraussetzungen des Absatzes 1 finden entsprechend Anwendung auf diejenigen Kartellbeteiligten, zu deren Gunsten der Antrag auf Kronzeugenbehandlung gemäß § 81i Absatz 2 gestellt ist.
 
-##### § 81k Erlass der Geldbuße
+###### § 81k Erlass der Geldbuße
 
 (1) Die Kartellbehörde sieht von der Verhängung einer Geldbuße gegenüber einem Kartellbeteiligten ab, wenn er
 
@@ -2286,7 +2288,7 @@ b) weder die beabsichtigte Stellung des Antrags auf Kronzeugenbehandlung noch de
 
 (3) Ein Erlass der Geldbuße kommt nicht in Betracht, wenn der Kartellbeteiligte Schritte unternommen hat, um andere Kartellbeteiligte zur Beteiligung am oder zum Verbleib im Kartell zu zwingen.
 
-##### § 81l Ermäßigung der Geldbuße
+###### § 81l Ermäßigung der Geldbuße
 
 (1) Die Kartellbehörde kann gegenüber einem Kartellbeteiligten die Geldbuße ermäßigen, wenn er
 
@@ -2298,7 +2300,7 @@ b) weder die beabsichtigte Stellung des Antrags auf Kronzeugenbehandlung noch de
 
 (3) Übermittelt ein Antragsteller als Erster stichhaltige Beweise, die die Kartellbehörde zur Feststellung zusätzlicher Tatsachen heranzieht und zur Festsetzung höherer Geldbußen gegenüber anderen Kartellbeteiligten verwendet, oder wirkt ein Kartellbeteiligter im Fall eines Antrags zu seinen Gunsten an deren erstmaliger Übermittlung umfassend mit, so werden diese Tatsachen bei der Festsetzung der Geldbuße gegen den Antragsteller beziehungsweise gegen den begünstigten Kartellbeteiligten nicht berücksichtigt.
 
-##### § 81m Marker
+###### § 81m Marker
 
 (1) Ein Kartellbeteiligter kann sich an die Kartellbehörde wenden, um zunächst die Bereitschaft zur Zusammenarbeit zu erklären (Marker), um einen Rang in der Reihenfolge des Eingangs der Anträge auf Kronzeugenbehandlung zu erhalten. Ein Marker soll mindestens die folgenden Angaben in Kurzform enthalten:
 
@@ -2316,7 +2318,7 @@ b) weder die beabsichtigte Stellung des Antrags auf Kronzeugenbehandlung noch de
 
 (3) Die Kartellbehörde setzt eine angemessene Frist, vor deren Ablauf der Antragsteller einen Antrag auf Kronzeugenbehandlung, einschließlich detaillierter Informationen zu allen in Absatz 1 Satz 2 aufgelisteten Angaben zusammen mit den entsprechenden Beweismitteln, einzureichen hat. Für den Rang des ausgearbeiteten Antrags auf Kronzeugenbehandlung nach Satz 1 ist der Zeitpunkt des Markers nach Absatz 1 maßgeblich, soweit der Antragsteller die ihm obliegenden Pflichten fortwährend erfüllt. In diesem Fall gelten alle ordnungsgemäß bis zum Ablauf der nach Satz 1 gesetzten Frist beigebrachten Informationen und Beweismittel als zum Zeitpunkt des Markers vorgelegt.
 
-##### § 81n Kurzantrag
+###### § 81n Kurzantrag
 
 (1) Die Kartellbehörde nimmt von Kartellbeteiligten, die bei der Europäischen Kommission in Bezug auf dasselbe Kartell einen Antrag auf Kronzeugenbehandlung stellen, einen Kurzantrag an. Dies gilt nur, wenn sich der Antrag auf mehr als drei Mitgliedstaaten als von dem Kartell betroffene Gebiete bezieht.
 
@@ -2328,7 +2330,7 @@ b) weder die beabsichtigte Stellung des Antrags auf Kronzeugenbehandlung noch de
 
 ## Abschnitt 3 Bußgeldverfahren
 
-##### § 82 Zuständigkeiten in Kartellbußgeldsachen
+###### § 82 Zuständigkeiten in Kartellbußgeldsachen
 
 (1) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind
 
@@ -2348,13 +2350,13 @@ b) weder die beabsichtigte Stellung des Antrags auf Kronzeugenbehandlung noch de
 
 zugrunde liegt. Dies gilt nicht, wenn die Behörde das § 30 des Gesetzes über Ordnungswidrigkeiten betreffende Verfahren an die Staatsanwaltschaft abgibt. In den Fällen des Satzes 1 sollen sich die Staatsanwaltschaft und die Kartellbehörde gegenseitig frühzeitig über geplante Ermittlungsschritte mit Außenwirkung, insbesondere über Durchsuchungen, unterrichten.
 
-##### § 82a Befugnisse und Zuständigkeiten im Verfahren nach Einspruchseinlegung
+###### § 82a Befugnisse und Zuständigkeiten im Verfahren nach Einspruchseinlegung
 
 (1) Im Verfahren nach Einspruch gegen eine Bußgeldentscheidung ist § 69 Absatz 4 und 5 Satz 1 zweiter Halbsatz des Gesetzes über Ordnungswidrigkeiten nicht anzuwenden. Die Staatsanwaltschaft hat die Akten an das nach § 83 zuständige Gericht zu übersenden. Im gerichtlichen Bußgeldverfahren verfügt die Kartellbehörde über dieselben Rechte wie die Staatsanwaltschaft; im Verfahren vor dem Bundesgerichtshof vertritt allein der Generalbundesanwalt das öffentliche Interesse. § 76 des Gesetzes über Ordnungswidrigkeiten ist nicht anzuwenden.
 
 (2) Sofern das Bundeskartellamt als Verwaltungsbehörde des Vorverfahrens tätig war, erfolgt die Vollstreckung der Geldbuße und des Geldbetrages, dessen Einziehung nach § 29a des Gesetzes über Ordnungswidrigkeiten angeordnet wurde, durch das Bundeskartellamt als Vollstreckungsbehörde aufgrund einer von dem Urkundsbeamten der Geschäftsstelle des Gerichts zu erteilenden, mit der Bescheinigung der Vollstreckbarkeit versehenen beglaubigten Abschrift der Urteilsformel entsprechend den Vorschriften über die Vollstreckung von Bußgeldbescheiden. Die Geldbußen und die Geldbeträge, deren Einziehung nach § 29a des Gesetzes über Ordnungswidrigkeiten angeordnet wurde, fließen der Bundeskasse zu, die auch die der Staatskasse auferlegten Kosten trägt.
 
-##### § 82b Besondere Ermittlungsbefugnisse
+###### § 82b Besondere Ermittlungsbefugnisse
 
 (1) In Verfahren zur Festsetzung einer Geldbuße nach § 81 oder zur Festsetzung eines Haftungsbetrages nach § 81e sind über § 46 Absatz 2 des Gesetzes über Ordnungswidrigkeiten hinaus § 59 Absatz 1, 2, 3 Satz 1 und 2, Absatz 4 und 5 und im Rahmen von Durchsuchungen § 59b Absatz 3 Satz 1 und Absatz 5 Satz 2 und 3 entsprechend anzuwenden. § 59 Absatz 4 Satz 2 ist bei Auskunftsverlangen und Herausgabeverlangen nach § 59 Absatz 1 und 2 oder Verlangen nach § 59b Absatz 3 Satz 1 Nummer 3 in Bezug auf natürliche Personen entsprechend anzuwenden.
 
@@ -2362,41 +2364,41 @@ zugrunde liegt. Dies gilt nicht, wenn die Behörde das § 30 des Gesetzes über 
 
 (3) Schriftliche oder protokollierte Auskünfte, die aufgrund von Auskunftsverlangen nach Absatz 1 in Verbindung mit § 59 erteilt wurden, sowie Protokolle nach Absatz 1 in Verbindung mit § 59b Absatz 3 Satz 1 Nummer 3 können als Urkunden in das gerichtliche Verfahren eingebracht werden. § 250 der Strafprozessordnung ist insoweit nicht anzuwenden.
 
-##### § 83 Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren
+###### § 83 Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren
 
 (1) Im gerichtlichen Verfahren wegen einer Ordnungswidrigkeit nach § 81 entscheidet das Oberlandesgericht, in dessen Bezirk die zuständige Kartellbehörde ihren Sitz hat; es entscheidet auch über einen Antrag auf gerichtliche Entscheidung (§ 62 des Gesetzes über Ordnungswidrigkeiten) in den Fällen des § 52 Absatz 2 Satz 3 und des § 69 Absatz 1 Satz 2 des Gesetzes über Ordnungswidrigkeiten sowie gegen Maßnahmen, die die Kartellbehörde während des gerichtlichen Bußgeldverfahrens getroffen hat. § 140 Absatz 1 Nummer 1 der Strafprozessordnung in Verbindung mit § 46 Absatz 1 des Gesetzes über Ordnungswidrigkeiten findet keine Anwendung.
 
 (2) Das Oberlandesgericht entscheidet in der Besetzung von drei Mitgliedern mit Einschluss des vorsitzenden Mitglieds.
 
-##### § 84 Rechtsbeschwerde zum Bundesgerichtshof
+###### § 84 Rechtsbeschwerde zum Bundesgerichtshof
 
 Über die Rechtsbeschwerde (§ 79 des Gesetzes über Ordnungswidrigkeiten) entscheidet der Bundesgerichtshof. Hebt er die angefochtene Entscheidung auf, ohne in der Sache selbst zu entscheiden, so verweist er die Sache an das Oberlandesgericht, dessen Entscheidung aufgehoben wird, zurück.
 
-##### § 85 Wiederaufnahmeverfahren gegen Bußgeldbescheid
+###### § 85 Wiederaufnahmeverfahren gegen Bußgeldbescheid
 
 Im Wiederaufnahmeverfahren gegen den Bußgeldbescheid der Kartellbehörde (§ 85 Absatz 4 des Gesetzes über Ordnungswidrigkeiten) entscheidet das nach § 83 zuständige Gericht.
 
-##### § 86 Gerichtliche Entscheidungen bei der Vollstreckung
+###### § 86 Gerichtliche Entscheidungen bei der Vollstreckung
 
 Die bei der Vollstreckung notwendig werdenden gerichtlichen Entscheidungen (§ 104 des Gesetzes über Ordnungswidrigkeiten) werden von dem nach § 83 zuständigen Gericht erlassen.
 
 ## Kapitel 3 Vollstreckung
 
-##### § 86a Vollstreckung
+###### § 86a Vollstreckung
 
 Die Kartellbehörde kann ihre Anordnungen nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften durchsetzen. Die Höhe des Zwangsgeldes gegen Unternehmen oder Unternehmensvereinigungen kann für jeden Tag des Verzugs ab dem in der Androhung bestimmten Zeitpunkt bis zu 5 Prozent des im vorausgegangenen Geschäftsjahr erzielten durchschnittlichen weltweiten Tagesgesamtumsatzes des Unternehmens oder der Unternehmensvereinigung betragen.
 
 ## Kapitel 4 Bürgerliche Rechtsstreitigkeiten
 
-##### § 87 Ausschließliche Zuständigkeit der Landgerichte
+###### § 87 Ausschließliche Zuständigkeit der Landgerichte
 
 Für bürgerliche Rechtsstreitigkeiten, die die Anwendung von Vorschriften des Teils 1, des Artikels 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union oder des Artikels 53 oder 54 des Abkommens über den Europäischen Wirtschaftsraum oder der Artikel 5, 6 oder 7 der Verordnung (EU) 2022/1925 betreffen, sind ohne Rücksicht auf den Wert des Streitgegenstands die Landgerichte ausschließlich zuständig. Satz 1 gilt auch, wenn die Entscheidung eines Rechtsstreits ganz oder teilweise von einer Entscheidung, die nach diesem Gesetz zu treffen ist, oder von der Anwendbarkeit des Artikels 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union oder des Artikels 53 oder 54 des Abkommens über den Europäischen Wirtschaftsraum oder der Artikel 5, 6 oder 7 der Verordnung (EU) 2022/1925 abhängt.
 
-##### § 88 Klageverbindung
+###### § 88 Klageverbindung
 
 Mit der Klage nach § 87 kann die Klage wegen eines anderen Anspruchs verbunden werden, wenn dieser im rechtlichen oder unmittelbaren wirtschaftlichen Zusammenhang mit dem Anspruch steht, der bei dem nach § 87 zuständigen Gericht geltend zu machen ist; dies gilt auch dann, wenn für die Klage wegen des anderen Anspruchs eine ausschließliche Zuständigkeit gegeben ist.
 
-##### § 89 Zuständigkeit eines Landgerichts für mehrere Gerichtsbezirke
+###### § 89 Zuständigkeit eines Landgerichts für mehrere Gerichtsbezirke
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung bürgerliche Rechtsstreitigkeiten, für die nach § 87 ausschließlich die Landgerichte zuständig sind, einem Landgericht für die Bezirke mehrerer Landgerichte zuzuweisen, wenn eine solche Zusammenfassung der Rechtspflege in Kartellsachen oder der kohärenten Durchsetzung der Verordnung (EU) 2022/1925, insbesondere der Sicherung einer einheitlichen Rechtsprechung, dienlich ist. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
@@ -2404,7 +2406,7 @@ Mit der Klage nach § 87 kann die Klage wegen eines anderen Anspruchs verbunden 
 
 (3) Die Parteien können sich vor den nach den Absätzen 1 und 2 bestimmten Gerichten auch anwaltlich durch Personen vertreten lassen, die bei dem Gericht zugelassen sind, vor das der Rechtsstreit ohne die Regelung nach den Absätzen 1 und 2 gehören würde.
 
-##### § 89a Streitwertanpassung, Kostenerstattung
+###### § 89a Streitwertanpassung, Kostenerstattung
 
 (1) Macht in einer Rechtsstreitigkeit, in der ein Anspruch nach den §§ 33, 33a Absatz 1 oder § 34a geltend gemacht wird, eine Partei glaubhaft, dass die Belastung mit den Prozesskosten nach dem vollen Streitwert ihre wirtschaftliche Lage erheblich gefährden würde, so kann das Gericht auf ihren Antrag anordnen, dass die Verpflichtung dieser Partei zur Zahlung von Gerichtskosten sich nach einem ihrer Wirtschaftslage angepassten Teil des Streitwerts bemisst. Das Gericht kann die Anordnung davon abhängig machen, dass die Partei glaubhaft macht, dass die von ihr zu tragenden Kosten des Rechtsstreits weder unmittelbar noch mittelbar von einem Dritten übernommen werden. Die Anordnung hat zur Folge, dass die begünstigte Partei die Gebühren ihres Rechtsanwalts ebenfalls nur nach diesem Teil des Streitwerts zu entrichten hat. Soweit ihr Kosten des Rechtsstreits auferlegt werden oder soweit sie diese übernimmt, hat sie die von dem Gegner entrichteten Gerichtsgebühren und die Gebühren seines Rechtsanwalts nur nach dem Teil des Streitwerts zu erstatten. Soweit die außergerichtlichen Kosten dem Gegner auferlegt oder von ihm übernommen werden, kann der Rechtsanwalt der begünstigten Partei seine Gebühren von dem Gegner nach dem für diesen geltenden Streitwert beitreiben.
 
@@ -2412,7 +2414,7 @@ Mit der Klage nach § 87 kann die Klage wegen eines anderen Anspruchs verbunden 
 
 (3) Ist in einer Rechtsstreitigkeit, in der ein Anspruch nach § 33a Absatz 1 geltend gemacht wird, ein Nebenintervenient einer Hauptpartei beigetreten, hat der Gegner, soweit ihm Kosten des Rechtsstreits auferlegt werden oder soweit er sie übernimmt, die Rechtsanwaltskosten der Nebenintervention nur nach dem Gegenstandswert zu erstatten, den das Gericht nach freiem Ermessen festsetzt. Bei mehreren Nebeninterventionen darf die Summe der Gegenstandswerte der einzelnen Nebeninterventionen den Streitwert der Hauptsache nicht übersteigen.
 
-##### § 89b Verfahren
+###### § 89b Verfahren
 
 (1) Für die Erteilung von Auskünften gemäß § 33g gilt § 142 der Zivilprozessordnung entsprechend.
 
@@ -2446,7 +2448,7 @@ Der Beschluss ist zu begründen. Gegen den Beschluss findet sofortige Beschwerde
 
 Hierüber entscheidet das Gericht durch Beschluss. Vor Beschlüssen nach diesem Absatz ist die Wettbewerbsbehörde anzuhören, gegenüber der die Kronzeugenerklärung oder Vergleichsausführung abgegeben worden ist. Die Mitglieder des Gerichts sind zur Geheimhaltung verpflichtet; die Entscheidungsgründe dürfen den Inhalt der geheim gehaltenen Beweismittel nicht erkennen lassen. Gegen Beschlüsse nach diesem Absatz findet sofortige Beschwerde statt.
 
-##### § 89c Offenlegung aus der Behördenakte
+###### § 89c Offenlegung aus der Behördenakte
 
 (1) In einem Rechtsstreit wegen eines Anspruchs nach § 33a Absatz 1 oder nach § 33g Absatz 1 oder 2 kann das Gericht auf Antrag einer Partei bei der Wettbewerbsbehörde die Vorlegung von Urkunden und Gegenständen ersuchen, die sich in deren Akten zu einem Verfahren befinden oder in einem Verfahren amtlich verwahrt werden, wenn der Antragsteller glaubhaft macht, dass er
 
@@ -2490,7 +2492,7 @@ Das Gericht hat von der Offenlegung Betroffene und die Wettbewerbsbehörde vor d
 
 (6) Die Regelungen der Absätze 1 bis 5 gelten entsprechend für Behörden und Gerichte, die Akten, Bestandteile oder Kopien von Akten einer Wettbewerbsbehörde in ihren Akten haben. Die Wettbewerbsbehörde, die die Akte führt oder geführt hat, ist nach Absatz 2 Satz 2 zu beteiligen.
 
-##### § 89d Beweisregeln
+###### § 89d Beweisregeln
 
 (1) Beweismittel, die allein durch Einsicht in die Akten einer Wettbewerbsbehörde oder nach § 89c erlangt worden sind, können nur Beweis für Tatsachen in einem Rechtsstreit über einen Anspruch auf Schadensersatz wegen eines Verstoßes nach § 33 Absatz 1 erbringen, wenn derjenige, dem die Einsicht gewährt worden ist, oder dessen Rechtsnachfolger Partei in dem Rechtsstreit ist.
 
@@ -2500,7 +2502,7 @@ Das Gericht hat von der Offenlegung Betroffene und die Wettbewerbsbehörde vor d
 
 (4) Die §§ 142, 144, § 371 Absatz 2, § 371a Absatz 1 Satz 1, die §§ 421, 422, 428, 429 und 432 der Zivilprozessordnung finden in einem Rechtsstreit über einen Anspruch auf Schadensersatz wegen eines Verstoßes nach § 33 Absatz 1 oder über einen Anspruch nach § 33g Absatz 1 oder Absatz 2 nur Anwendung, soweit in Bezug auf die vorzulegende Urkunde oder den vorzulegenden Gegenstand auch ein Anspruch auf Herausgabe von Beweismitteln nach § 33g gegen den zur Vorlage Verpflichteten besteht, es sei denn, es besteht ein vertraglicher Anspruch auf Vorlage gegen den Verpflichteten. Satz 1 gilt entsprechend für die Vorlage durch Behörden bei Urkunden und Gegenständen, die sich in der Akte einer Wettbewerbsbehörde befinden oder in einem Verfahren amtlich verwahrt werden, mit der Maßgabe, dass in Bezug auf das betreffende Beweismittel auch die Voraussetzungen für eine Vorlage nach § 89c Absatz 1 bis 4 und 6 vorliegen müssen.
 
-##### § 89e Gemeinsame Vorschriften für die §§ 33g und 89b bis 89d
+###### § 89e Gemeinsame Vorschriften für die §§ 33g und 89b bis 89d
 
 (1) Wettbewerbsbehörden im Sinne der §§ 33g und 89b bis 89d sind
 
@@ -2524,7 +2526,7 @@ Davon ausgenommen sind nationale Rechtsvorschriften, mit denen natürlichen Pers
 
 ## Kapitel 5 Gemeinsame Bestimmungen
 
-##### § 90 Benachrichtigung und Beteiligung der Kartellbehörden
+###### § 90 Benachrichtigung und Beteiligung der Kartellbehörden
 
 (1) Die deutschen Gerichte unterrichten das Bundeskartellamt über alle Rechtsstreitigkeiten, deren Entscheidung ganz oder teilweise von der Anwendung der Vorschriften dieses Gesetzes, von einer Entscheidung, die nach diesen Vorschriften zu treffen ist, oder von der Anwendung von Artikel 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union oder von Artikel 53 oder 54 des Abkommens über den europäischen Wirtschaftsraum oder von der Anwendung der Verordnung (EU) 2022/1925 abhängt. Dies gilt auch in den Fällen einer entsprechenden Anwendung der genannten Vorschriften. Satz 1 gilt nicht für Rechtsstreitigkeiten über Entscheidungen nach § 42. Das Gericht hat dem Bundeskartellamt auf Verlangen Abschriften von allen Schriftsätzen, Protokollen, Verfügungen und Entscheidungen zu übersenden.
 
@@ -2538,7 +2540,7 @@ Davon ausgenommen sind nationale Rechtsvorschriften, mit denen natürlichen Pers
 
 (6) Absatz 1 Satz 4 und Absatz 2 gelten entsprechend für Streitigkeiten vor Gericht, die erhebliche, dauerhafte oder wiederholte Verstöße gegen verbraucherrechtliche Vorschriften zum Gegenstand haben, die nach ihrer Art oder ihrem Umfang die Interessen einer Vielzahl von Verbraucherinnen und Verbrauchern beeinträchtigen. Dies gilt nicht, wenn die Durchsetzung der Vorschriften nach Satz 1 in die Zuständigkeit anderer Bundesbehörden fällt.
 
-##### § 90a Zusammenarbeit der Gerichte mit der Europäischen Kommission und den Kartellbehörden
+###### § 90a Zusammenarbeit der Gerichte mit der Europäischen Kommission und den Kartellbehörden
 
 (1) In allen gerichtlichen Verfahren, in denen der Artikel 101 oder 102 des Vertrages über die Arbeitsweise der Europäischen Union oder die Verordnung (EU) 2022/1925 zur Anwendung kommt, übermittelt das Gericht der Europäischen Kommission über das Bundeskartellamt eine Abschrift jeder Entscheidung unverzüglich nach deren Zustellung an die Parteien. Das Bundeskartellamt darf der Europäischen Kommission die Unterlagen übermitteln, die es nach § 90 Absatz 1 Satz 4 erhalten hat.
 
@@ -2548,21 +2550,21 @@ Davon ausgenommen sind nationale Rechtsvorschriften, mit denen natürlichen Pers
 
 (4) In den Fällen der Absätze 2 und 3 kann der Geschäftsverkehr zwischen dem Gericht und der Europäischen Kommission auch über das Bundeskartellamt erfolgen.
 
-##### § 91 Kartellsenat beim Oberlandesgericht
+###### § 91 Kartellsenat beim Oberlandesgericht
 
 Bei den Oberlandesgerichten wird ein Kartellsenat gebildet. Er entscheidet über die ihm gemäß § 57 Absatz 2 Satz 2, § 73 Absatz 4, §§ 83, 85 und 86 zugewiesenen Rechtssachen, über die Berufung gegen Endurteile und die Beschwerde gegen sonstige Entscheidungen in bürgerlichen Rechtsstreitigkeiten nach § 87 sowie über Verbandsklagen nach dem Verbraucherrechtedurchsetzungsgesetz, die Ansprüche und Rechtsverhältnisse in den in § 87 aufgeführten bürgerlichen Rechtsstreitigkeiten betreffen.
 
-##### § 92 Zuständigkeit eines Oberlandesgerichts oder des Obersten Landesgerichts für mehrere Gerichtsbezirke in Verwaltungs- und Bußgeldsachen
+###### § 92 Zuständigkeit eines Oberlandesgerichts oder des Obersten Landesgerichts für mehrere Gerichtsbezirke in Verwaltungs- und Bußgeldsachen
 
 (1) Sind in einem Land mehrere Oberlandesgerichte errichtet, so können die Rechtssachen, für die nach § 57 Absatz 2 Satz 2, § 73 Absatz 4, §§ 83, 85 und 86 ausschließlich die Oberlandesgerichte zuständig sind, von den Landesregierungen durch Rechtsverordnung einem oder einigen der Oberlandesgerichte oder dem Obersten Landesgericht zugewiesen werden, wenn eine solche Zusammenfassung der Rechtspflege in Kartellsachen, insbesondere der Sicherung einer einheitlichen Rechtsprechung, dienlich ist. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 (2) Durch Staatsverträge zwischen Ländern kann die Zuständigkeit eines Oberlandesgerichts oder Obersten Landesgerichts für einzelne Bezirke oder das gesamte Gebiet mehrerer Länder begründet werden.
 
-##### § 93 Zuständigkeit für Berufung und Beschwerde
+###### § 93 Zuständigkeit für Berufung und Beschwerde
 
 § 92 Absatz 1 und 2 gilt entsprechend für die Entscheidung über die Berufung gegen Endurteile und die Beschwerde gegen sonstige Entscheidungen in bürgerlichen Rechtsstreitigkeiten nach § 87.
 
-##### § 94 Kartellsenat beim Bundesgerichtshof
+###### § 94 Kartellsenat beim Bundesgerichtshof
 
 (1) Beim Bundesgerichtshof wird ein Kartellsenat gebildet; er entscheidet im ersten und letzten Rechtszug über die in § 73 Absatz 5 genannten Verfügungen des Bundeskartellamts und über folgende Rechtsmittel:
 
@@ -2586,11 +2588,11 @@ b) über die Rechtsbeschwerde gegen Beschlüsse der Oberlandesgerichte in den F�
 
 (2) Der Kartellsenat gilt im Sinne des § 132 des Gerichtsverfassungsgesetzes in Bußgeldsachen als Strafsenat, in allen übrigen Sachen als Zivilsenat.
 
-##### § 95 Ausschließliche Zuständigkeit
+###### § 95 Ausschließliche Zuständigkeit
 
 Die Zuständigkeit der nach diesem Gesetz zur Entscheidung berufenen Gerichte ist ausschließlich.
 
-##### § 96 (weggefallen)
+###### § 96 (weggefallen)
 
 ## Teil 4 Vergabe von öffentlichen Aufträgen und Konzessionen
 
@@ -2598,25 +2600,51 @@ Die Zuständigkeit der nach diesem Gesetz zur Entscheidung berufenen Gerichte is
 
 ## Abschnitt 1 Grundsätze, Definitionen und Anwendungsbereich
 
-##### § 97 Grundsätze der Vergabe
+###### § 97 Grundsätze der Vergabe
 
 (1) Öffentliche Aufträge und Konzessionen werden im Wettbewerb und im Wege transparenter Verfahren vergeben. Dabei werden die Grundsätze der Wirtschaftlichkeit und der Verhältnismäßigkeit gewahrt.
 
-(2) Die Teilnehmer an einem Vergabeverfahren sind gleich zu behandeln, es sei denn, eine Ungleichbehandlung ist aufgrund dieses Gesetzes ausdrücklich geboten oder gestattet.
+(2) Die Teilnehmer an einem Vergabeverfahren sind gleich zu behandeln, es sei denn, eine Ungleichbehandlung ist unionsrechtlich oder aufgrund eines Bundesgesetzes geboten oder gestattet.
 
 (3) Bei der Vergabe werden Aspekte der Qualität und der Innovation sowie soziale und umweltbezogene Aspekte nach Maßgabe dieses Teils berücksichtigt.
 
-(4) Mittelständische Interessen sind bei der Vergabe öffentlicher Aufträge vornehmlich zu berücksichtigen. Leistungen sind in der Menge aufgeteilt (Teillose) und getrennt nach Art oder Fachgebiet (Fachlose) zu vergeben. Mehrere Teil- oder Fachlose dürfen zusammen vergeben werden, wenn wirtschaftliche oder technische Gründe dies erfordern. Wird ein Unternehmen, das nicht öffentlicher Auftraggeber oder Sektorenauftraggeber ist, mit der Wahrnehmung oder Durchführung einer öffentlichen Aufgabe betraut, verpflichtet der öffentliche Auftraggeber oder Sektorenauftraggeber das Unternehmen, sofern es Unteraufträge vergibt, nach den Sätzen 1 bis 3 zu verfahren.
+(4) Mittelständische Interessen sind bei der Vergabe öffentlicher Aufträge vornehmlich zu berücksichtigen.
 
 (5) Für das Senden, Empfangen, Weiterleiten und Speichern von Daten in einem Vergabeverfahren verwenden Auftraggeber und Unternehmen grundsätzlich elektronische Mittel nach Maßgabe der aufgrund des § 113 erlassenen Verordnungen.
 
 (6) Unternehmen haben Anspruch darauf, dass die Bestimmungen über das Vergabeverfahren eingehalten werden.
 
-##### § 98 Auftraggeber
+###### § 97a Losgrundsatz
+
+(1) Leistungen sind in der Menge aufgeteilt (Teillose) und getrennt nach Art oder Fachgebiet (Fachlose) zu vergeben.
+
+(2) Mehrere Teil- oder Fachlose dürfen zusammen vergeben werden, wenn wirtschaftliche oder technische Gründe dies erfordern.
+
+(3) Mehrere Teil- oder Fachlose dürfen auch zusammen vergeben werden, wenn zeitliche Gründe dies erfordern bei der Durchführung von Infrastrukturvorhaben, deren geschätzter Auftrags- oder Vertragswert ohne Umsatzsteuer das Zweifache des jeweiligen Schwellenwertes nach § 106 Absatz 2 erreicht oder überschreitet und die
+
+1. aus dem Sondervermögen Infrastruktur und Klimaneutralität (Gesetz zur Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität, BGBl. 2025 I Nr. 230) finanziert werden oder
+
+2. zur Verkehrsinfrastruktur nach Absatz 4 gehören.
+
+(4) Verkehrsinfrastruktur im Sinne des Absatzes 3 Nummer 2 umfasst
+
+1. Eisenbahninfrastruktur nach § 2 Absatz 6 des Allgemeinen Eisenbahngesetzes,
+
+2. Bundesfernstraßen nach § 1 Absatz 1 des Bundesfernstraßengesetzes,
+
+3. Bundeswasserstraßen nach § 1 Absatz 1 des Bundeswasserstraßengesetzes und
+
+4. Flugplätze nach § 6 Absatz 1 des Luftverkehrsgesetzes.
+
+(5) Auftraggeber können im Fall einer Gesamtvergabe nach den Absätzen 2 bis 4 Auftragnehmer verpflichten, bei der Erteilung von Unteraufträgen die Interessen von kleinen und mittleren Unternehmen besonders zu berücksichtigen. Wird ein Unternehmen, das nicht öffentlicher Auftraggeber oder Sektorenauftraggeber ist, mit der Wahrnehmung oder Durchführung einer öffentlichen Aufgabe betraut, verpflichtet der öffentliche Auftraggeber oder Sektorenauftraggeber das Unternehmen, sofern es Unteraufträge vergibt, nach § 97 Absatz 4 sowie den Absätzen 1 bis 4 zu verfahren.
+
+(6) Die Bundesregierung berichtet dem Bundestag bis zum 30. September 2027 über die Auswirkungen des § 97a Absatz 3. Dabei sollen insbesondere die Auswirkungen der Ausnahmetatbestände auf die Abflüsse aus dem Sondervermögen Infrastruktur und Klimaneutralität nach dem Gesetz zur Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität (BGBl. 2025 I Nr. 230), die Anwendbarkeit in den Kommunen und die Beteiligung von kleinen und mittleren Unternehmen an öffentlichen Aufträgen und Gesamtvergaben auf die Beschleunigung und die Wirtschaftlichkeit von darunter fallenden Baumaßnahmen sowie deren Anwendbarkeit wirkungsorientiert untersucht werden.
+
+###### § 98 Auftraggeber
 
 Auftraggeber im Sinne dieses Teils sind öffentliche Auftraggeber im Sinne des § 99, Sektorenauftraggeber im Sinne des § 100 und Konzessionsgeber im Sinne des § 101.
 
-##### § 99 Öffentliche Auftraggeber
+###### § 99 Öffentliche Auftraggeber
 
 Öffentliche Auftraggeber sind
 
@@ -2634,7 +2662,7 @@ c) mehr als die Hälfte der Mitglieder eines ihrer zur Geschäftsführung oder z
 
 4. natürliche oder juristische Personen des privaten Rechts sowie juristische Personen des öffentlichen Rechts, soweit sie nicht unter Nummer 2 fallen, in den Fällen, in denen sie für Tiefbaumaßnahmen, für die Errichtung von Krankenhäusern, Sport-, Erholungs- oder Freizeiteinrichtungen, Schul-, Hochschul- oder Verwaltungsgebäuden oder für damit in Verbindung stehende Dienstleistungen und Wettbewerbe von Stellen, die unter die Nummern 1, 2 oder 3 fallen, Mittel erhalten, mit denen diese Vorhaben zu mehr als 50 Prozent subventioniert werden.
 
-##### § 100 Sektorenauftraggeber
+###### § 100 Sektorenauftraggeber
 
 (1) Sektorenauftraggeber sind
 
@@ -2656,7 +2684,7 @@ b) öffentliche Auftraggeber gemäß § 99 Nummer 1 bis 3 auf diese Personen ein
 
 3. mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder Aufsichtsorgans des Unternehmens bestellen kann.
 
-##### § 101 Konzessionsgeber
+###### § 101 Konzessionsgeber
 
 (1) Konzessionsgeber sind
 
@@ -2668,7 +2696,7 @@ b) öffentliche Auftraggeber gemäß § 99 Nummer 1 bis 3 auf diese Personen ein
 
 (2) § 100 Absatz 2 und 3 gilt entsprechend. Zu den in § 100 Absatz 2 Satz 2 genannten Verfahren zählen dabei insbesondere solche, die in Anhang III der Richtlinie 2014/23/EU genannt sind.
 
-##### § 102 Sektorentätigkeiten
+###### § 102 Sektorentätigkeiten
 
 (1) Sektorentätigkeiten im Bereich Wasser sind
 
@@ -2722,13 +2750,13 @@ Postdienste im Sinne dieses Gesetzes sind Dienste, die die Abholung, das Sortier
 
 (8) Für die Zwecke der Absätze 1 bis 3 umfasst der Begriff „Einspeisung“ die Erzeugung und Produktion sowie den Groß- und Einzelhandel. Die Erzeugung von Gas fällt unter Absatz 6.
 
-##### § 103 Öffentliche Aufträge, Rahmenvereinbarungen und Wettbewerbe
+###### § 103 Öffentliche Aufträge, Rahmenvereinbarungen und Wettbewerbe
 
-(1) Öffentliche Aufträge sind entgeltliche Verträge zwischen öffentlichen Auftraggebern oder Sektorenauftraggebern und Unternehmen über die Beschaffung von Leistungen, die die Lieferung von Waren, die Ausführung von Bauleistungen oder die Erbringung von Dienstleistungen zum Gegenstand haben.
+(1) Öffentliche Aufträge sind entgeltliche Verträge zwischen öffentlichen Auftraggebern oder Sektorenauftraggebern und Unternehmen über die Beschaffung von Leistungen, die die Lieferung von Waren, die Ausführung von Bauleistungen oder die Erbringung von Dienstleistungen zum Gegenstand haben. Ein Vertrag ist entgeltlich im Sinne des Satzes 1, wenn sich jede Partei rechtsverbindlich verpflichtet, eine Leistung im Gegenzug für eine andere zu erbringen. Leistung und Gegenleistung sind rechtsverbindlich im Sinne des Satzes 2, wenn ihre Erfüllung einklagbar ist.
 
 (2) Lieferaufträge sind Verträge zur Beschaffung von Waren, die insbesondere Kauf oder Ratenkauf oder Leasing, Mietverhältnisse oder Pachtverhältnisse mit oder ohne Kaufoption betreffen. Die Verträge können auch Nebenleistungen umfassen.
 
-(3) Bauaufträge sind Verträge über die Ausführung oder die gleichzeitige Planung und Ausführung
+(3) Bauaufträge sind Verträge über die Ausführung oder sowohl die Planung als auch die Ausführung
 
 1. von Bauleistungen im Zusammenhang mit einer der Tätigkeiten, die in Anhang II der Richtlinie 2014/24/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die öffentliche Auftragsvergabe und zur Aufhebung der Richtlinie 2004/18/EG (ABl. L 94 vom 28.3.2014, S. 65) und Anhang I der Richtlinie 2014/25/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die Vergabe von Aufträgen durch Auftraggeber im Bereich der Wasser-, Energie- und Verkehrsversorgung sowie der Postdienste und zur Aufhebung der Richtlinie 2004/17/EG (ABl. L 94 vom 28.3.2014, S. 243) genannt sind, oder
 
@@ -2742,7 +2770,7 @@ Ein Bauauftrag liegt auch vor, wenn ein Dritter eine Bauleistung gemäß den vom
 
 (6) Wettbewerbe sind Auslobungsverfahren, die dem Auftraggeber aufgrund vergleichender Beurteilung durch ein Preisgericht mit oder ohne Verteilung von Preisen zu einem Plan oder einer Planung verhelfen sollen.
 
-##### § 104 Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge
+###### § 104 Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge
 
 (1) Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge sind öffentliche Aufträge, deren Auftragsgegenstand mindestens eine der folgenden Leistungen umfasst:
 
@@ -2762,13 +2790,15 @@ Ein Bauauftrag liegt auch vor, wenn ein Dritter eine Bauleistung gemäß den vom
 
 2. der Verschlusssachen im Sinne der Nummer 1 erfordert oder beinhaltet.
 
-##### § 105 Konzessionen
+###### § 105 Konzessionen
 
 (1) Konzessionen sind entgeltliche Verträge, mit denen ein oder mehrere Konzessionsgeber ein oder mehrere Unternehmen
 
 1. mit der Erbringung von Bauleistungen betrauen (Baukonzessionen); dabei besteht die Gegenleistung entweder allein in dem Recht zur Nutzung des Bauwerks oder in diesem Recht zuzüglich einer Zahlung; oder
 
 2. mit der Erbringung und der Verwaltung von Dienstleistungen betrauen, die nicht in der Erbringung von Bauleistungen nach Nummer 1 bestehen (Dienstleistungskonzessionen); dabei besteht die Gegenleistung entweder allein in dem Recht zur Verwertung der Dienstleistungen oder in diesem Recht zuzüglich einer Zahlung.
+
+§ 103 Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (2) In Abgrenzung zur Vergabe öffentlicher Aufträge geht bei der Vergabe einer Bau- oder Dienstleistungskonzession das Betriebsrisiko für die Nutzung des Bauwerks oder für die Verwertung der Dienstleistungen auf den Konzessionsnehmer über. Dies ist der Fall, wenn
 
@@ -2778,13 +2808,13 @@ Ein Bauauftrag liegt auch vor, wenn ein Dritter eine Bauleistung gemäß den vom
 
 Das Betriebsrisiko kann ein Nachfrage- oder Angebotsrisiko sein.
 
-##### § 106 Schwellenwerte
+###### § 106 Schwellenwerte
 
 (1) Dieser Teil gilt für die Vergabe von öffentlichen Aufträgen und Konzessionen sowie die Ausrichtung von Wettbewerben, deren geschätzter Auftrags- oder Vertragswert ohne Umsatzsteuer die jeweils festgelegten Schwellenwerte erreicht oder überschreitet. § 114 Absatz 2 bleibt unberührt.
 
 (2) Der jeweilige Schwellenwert ergibt sich
 
-1. für öffentliche Aufträge und Wettbewerbe, die von öffentlichen Auftraggebern vergeben werden, aus Artikel 4 der Richtlinie 2014/24/EU in der jeweils geltenden Fassung; der sich hieraus für zentrale Regierungsbehörden ergebende Schwellenwert ist von allen obersten Bundesbehörden sowie allen oberen Bundesbehörden und vergleichbaren Bundeseinrichtungen anzuwenden,
+1. für öffentliche Aufträge und Wettbewerbe, die von öffentlichen Auftraggebern vergeben werden, aus Artikel 4 der Richtlinie 2014/24/EU in der jeweils geltenden Fassung; der sich hieraus für zentrale Regierungsbehörden ergebende Schwellenwert ist vom Bundeskanzleramt und den Bundesministerien anzuwenden,
 
 2. für öffentliche Aufträge und Wettbewerbe, die von Sektorenauftraggebern zum Zweck der Ausübung einer Sektorentätigkeit vergeben werden, aus Artikel 15 der Richtlinie 2014/25/EU in der jeweils geltenden Fassung,
 
@@ -2792,9 +2822,9 @@ Das Betriebsrisiko kann ein Nachfrage- oder Angebotsrisiko sein.
 
 4. für Konzessionen aus Artikel 8 der Richtlinie 2014/23/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die Konzessionsvergabe (ABl. L 94 vom 28.3.2014, S. 1) in der jeweils geltenden Fassung.
 
-(3) Das Bundesministerium für Wirtschaft und Energie gibt die geltenden Schwellenwerte unverzüglich, nachdem sie im Amtsblatt der Europäischen Union veröffentlicht worden sind, im Bundesanzeiger bekannt.
+(3) (weggefallen)
 
-##### § 107 Allgemeine Ausnahmen
+###### § 107 Allgemeine Ausnahmen
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen und Konzessionen
 
@@ -2816,13 +2846,17 @@ Wesentliche Sicherheitsinteressen im Sinne des Artikels 346 Absatz 1 des Vertrag
 
 1. sicherheitsindustrielle Schlüsseltechnologien betreffen oder
 
-2. Leistungen betreffen, die und soweit ein besonders hohes Maß an Vertraulichkeit erforderlich ist.
+2. Leistungen betreffen, die
 
-a) für den Grenzschutz, die Bekämpfung des Terrorismus oder der organisierten Kriminalität oder für verdeckte Tätigkeiten der Polizei oder der Sicherheitskräfte bestimmt sind, oder
+a) für den Grenzschutz, die Bekämpfung des Terrorismus oder der organisierten Kriminalität, für Zwecke nachrichtendienstlicher Tätigkeiten oder für verdeckte Tätigkeiten der Polizei, des Zolls oder der Sicherheitskräfte bestimmt sind,
 
-b) Verschlüsselung betreffen
+b) Verschlüsselung betreffen,
 
-##### § 108 Ausnahmen bei öffentlich-öffentlicher Zusammenarbeit
+c) die Schaffung militärisch nutzbarer Infrastruktur betreffen oder
+
+d) Aspekte der Cybersicherheit oder digitalen Souveränität betreffen
+
+###### § 108 Anwendbarkeit bei öffentlich-öffentlicher Zusammenarbeit
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen, die von einem öffentlichen Auftraggeber im Sinne des § 99 Nummer 1 bis 3 an eine juristische Person des öffentlichen oder privaten Rechts vergeben werden, wenn
 
@@ -2844,6 +2878,8 @@ b) Verschlüsselung betreffen
 
 3. an der juristischen Person keine direkte private Kapitalbeteiligung besteht; Absatz 1 Nummer 3 zweiter Halbsatz gilt entsprechend.
 
+Absatz 2 Satz 2 und Absatz 3 gelten entsprechend. An der gemeinsamen Kontrolle nach Satz 1 Nummer 1 können auch solche juristischen Personen des öffentlichen Rechts beteiligt sein, die zu dem besonderen Zweck gegründet wurden, im Allgemeininteresse liegende Aufgaben nichtgewerblicher Art zu erfüllen, aber die weiteren Voraussetzungen des § 99 Nummer 2 nicht erfüllen.
+
 (5) Eine gemeinsame Kontrolle im Sinne von Absatz 4 Nummer 1 besteht, wenn
 
 1. sich die beschlussfassenden Organe der juristischen Person aus Vertretern sämtlicher teilnehmender öffentlicher Auftraggeber zusammensetzen; ein einzelner Vertreter kann mehrere oder alle teilnehmenden öffentlichen Auftraggeber vertreten,
@@ -2852,19 +2888,25 @@ b) Verschlüsselung betreffen
 
 3. die juristische Person keine Interessen verfolgt, die den Interessen der öffentlichen Auftraggeber zuwiderlaufen.
 
-(6) Dieser Teil ist ferner nicht anzuwenden auf Verträge, die zwischen zwei oder mehreren öffentlichen Auftraggebern im Sinne des § 99 Nummer 1 bis 3 geschlossen werden, wenn
+(6) Dieser Teil ist ferner nicht anzuwenden auf öffentliche Aufträge, die zwischen zwei oder mehreren öffentlichen Auftraggebern im Sinne des § 99 Nummer 1 bis 3 geschlossen werden, wenn
 
-1. der Vertrag eine Zusammenarbeit zwischen den beteiligten öffentlichen Auftraggebern begründet oder erfüllt, um sicherzustellen, dass die von ihnen zu erbringenden öffentlichen Dienstleistungen im Hinblick auf die Erreichung gemeinsamer Ziele ausgeführt werden,
+1. der öffentliche Auftrag eine auf einer gemeinsamen Kooperationsvereinbarung beruhende Zusammenarbeit zwischen den beteiligten öffentlichen Auftraggebern zur Erreichung gemeinsamer Ziele begründet oder erfüllt,
 
-2. die Durchführung der Zusammenarbeit nach Nummer 1 ausschließlich durch Überlegungen im Zusammenhang mit dem öffentlichen Interesse bestimmt wird und
+2. die Durchführung der Zusammenarbeit nach Nummer 1 ausschließlich durch Überlegungen im Zusammenhang mit dem öffentlichen Interesse bestimmt wird,
 
-3. die öffentlichen Auftraggeber auf dem Markt weniger als 20 Prozent der Tätigkeiten erbringen, die durch die Zusammenarbeit nach Nummer 1 erfasst sind.
+3. die öffentlichen Auftraggeber auf dem Markt weniger als 20 Prozent der Tätigkeiten erbringen, die durch die Zusammenarbeit nach Nummer 1 erfasst sind und
 
-(7) Zur Bestimmung des prozentualen Anteils nach Absatz 1 Nummer 2, Absatz 4 Nummer 2 und Absatz 6 Nummer 3 wird der durchschnittliche Gesamtumsatz der letzten drei Jahre vor Vergabe des öffentlichen Auftrags oder ein anderer geeigneter tätigkeitsgestützter Wert herangezogen. Ein geeigneter tätigkeitsgestützter Wert sind zum Beispiel die Kosten, die der juristischen Person oder dem öffentlichen Auftraggeber in dieser Zeit in Bezug auf Liefer-, Bau- und Dienstleistungen entstanden sind. Liegen für die letzten drei Jahre keine Angaben über den Umsatz oder einen geeigneten alternativen tätigkeitsgestützten Wert wie zum Beispiel Kosten vor oder sind sie nicht aussagekräftig, genügt es, wenn der tätigkeitsgestützte Wert insbesondere durch Prognosen über die Geschäftsentwicklung glaubhaft gemacht wird.
+4. kein privater Dritter unmittelbar aufgrund der Zusammenarbeit einen Vorteil gegenüber seinen Wettbewerbern erhält.
 
-(8) Die Absätze 1 bis 7 gelten entsprechend für Sektorenauftraggeber im Sinne des § 100 Absatz 1 Nummer 1 hinsichtlich der Vergabe von öffentlichen Aufträgen sowie für Konzessionsgeber im Sinne des § 101 Absatz 1 Nummer 1 und 2 hinsichtlich der Vergabe von Konzessionen.
+5. Absatz 4 Satz 3 gilt entsprechend.
 
-##### § 109 Ausnahmen für Vergaben auf der Grundlage internationaler Verfahrensregeln
+(7) Eine Betrauung nach Absatz 1 Nummer 2 oder Absatz 4 Nummer 2 liegt vor, wenn eine dem Zuständigkeitsbereich des öffentlichen Auftraggebers unterfallende Aufgabe erkennbar, inhaltlich festgelegt und rechtsverbindlich an die juristische Person des öffentlichen oder privaten Rechts übertragen wurde. Die Betrauung kann auch solche Tätigkeiten umfassen, die der öffentliche Auftraggeber oder eine andere von ihm kontrollierte juristische Person zur Erfüllung einer Zusammenarbeit nach Absatz 6 erbringt.
+
+(8) Zur Bestimmung des prozentualen Anteils nach Absatz 1 Nummer 2, Absatz 4 Nummer 2 und Absatz 6 Nummer 3 wird der durchschnittliche Gesamtumsatz der letzten drei Jahre vor Vergabe des öffentlichen Auftrags oder ein anderer geeigneter tätigkeitsgestützter Wert herangezogen. Ein geeigneter tätigkeitsgestützter Wert sind zum Beispiel die Kosten, die der juristischen Person oder dem öffentlichen Auftraggeber in dieser Zeit in Bezug auf Liefer-, Bau- und Dienstleistungen entstanden sind. Liegen für die letzten drei Jahre keine Angaben über den Umsatz oder einen geeigneten alternativen tätigkeitsgestützten Wert wie zum Beispiel Kosten vor oder sind sie nicht aussagekräftig, genügt es, wenn der tätigkeitsgestützte Wert insbesondere durch Prognosen über die Geschäftsentwicklung glaubhaft gemacht wird.
+
+(9) Die Absätze 1 bis 8 gelten entsprechend für Sektorenauftraggeber im Sinne des § 100 Absatz 1 Nummer 1 hinsichtlich der Vergabe von öffentlichen Aufträgen sowie für Konzessionsgeber im Sinne des § 101 Absatz 1 Nummer 1 und 2 hinsichtlich der Vergabe von Konzessionen.
+
+###### § 109 Ausnahmen für Vergaben auf der Grundlage internationaler Verfahrensregeln
 
 (1) Dieser Teil ist nicht anzuwenden, wenn öffentliche Aufträge, Wettbewerbe oder Konzessionen
 
@@ -2878,7 +2920,7 @@ b) eine internationale Organisation oder
 
 (2) Für verteidigungs- oder sicherheitsspezifische öffentliche Aufträge ist § 145 Nummer 7 und für Konzessionen in den Bereichen Verteidigung und Sicherheit ist § 150 Nummer 7 anzuwenden.
 
-##### § 110 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben
+###### § 110 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben
 
 (1) Öffentliche Aufträge, die verschiedene Leistungen wie Liefer-, Bau- oder Dienstleistungen zum Gegenstand haben, werden nach den Vorschriften vergeben, denen der Hauptgegenstand des Auftrags zuzuordnen ist. Dasselbe gilt für die Vergabe von Konzessionen, die sowohl Bau- als auch Dienstleistungen zum Gegenstand haben.
 
@@ -2890,7 +2932,7 @@ b) eine internationale Organisation oder
 
 wird danach bestimmt, welcher geschätzte Wert der jeweiligen Liefer- oder Dienstleistungen am höchsten ist.
 
-##### § 111 Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen
+###### § 111 Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen
 
 (1) Sind die verschiedenen Teile eines öffentlichen Auftrags, die jeweils unterschiedlichen rechtlichen Regelungen unterliegen, objektiv trennbar, so dürfen getrennte Aufträge für jeden Teil oder darf ein Gesamtauftrag vergeben werden.
 
@@ -2918,7 +2960,7 @@ wird danach bestimmt, welcher geschätzte Wert der jeweiligen Liefer- oder Diens
 
 (6) Auf die Vergabe von Konzessionen sind die Absätze 1, 2 und 3 Nummer 1 und 2 sowie die Absätze 4 und 5 entsprechend anzuwenden.
 
-##### § 112 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen
+###### § 112 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen
 
 (1) Umfasst ein öffentlicher Auftrag mehrere Tätigkeiten, von denen eine Tätigkeit eine Sektorentätigkeit im Sinne des § 102 darstellt, dürfen getrennte Aufträge für die Zwecke jeder einzelnen Tätigkeit oder darf ein Gesamtauftrag vergeben werden.
 
@@ -2944,9 +2986,9 @@ wird danach bestimmt, welcher geschätzte Wert der jeweiligen Liefer- oder Diens
 
 3. den Vorschriften zur Vergabe von Konzessionen, wenn eine der Tätigkeiten, für die die Konzession bestimmt ist, diesen Vorschriften und die andere Tätigkeit weder den Vorschriften zur Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber noch den Vorschriften zur Vergabe öffentlicher Aufträge durch öffentliche Auftraggeber unterliegt.
 
-##### § 113 Verordnungsermächtigung
+###### § 113 Verordnungsermächtigung
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnungen mit Zustimmung des Bundesrates die Einzelheiten zur Vergabe von öffentlichen Aufträgen und Konzessionen sowie zur Ausrichtung von Wettbewerben zu regeln. Diese Ermächtigung umfasst die Befugnis zur Regelung von Anforderungen an den Auftragsgegenstand und an das Vergabeverfahren, insbesondere zur Regelung
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnungen mit Zustimmung des Bundesrates die Einzelheiten zur Vergabe von öffentlichen Aufträgen und Konzessionen sowie zur Ausrichtung von Wettbewerben zu regeln. Diese Ermächtigung umfasst die Befugnis zur Regelung von Anforderungen an den Auftragsgegenstand und an das Vergabeverfahren, insbesondere zur Regelung
 
 1. der Schätzung des Auftrags- oder Vertragswertes,
 
@@ -2962,25 +3004,33 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnungen mit Zustimmung de
 
 7. der verteidigungs- oder sicherheitsspezifischen Anforderungen im Hinblick auf den Geheimschutz, auf die allgemeinen Regelungen zur Wahrung der Vertraulichkeit, auf die Versorgungssicherheit sowie auf die besonderen Regelungen für die Vergabe von Unteraufträgen,
 
-8. der Voraussetzungen, nach denen Sektorenauftraggeber, Konzessionsgeber oder Auftraggeber nach dem Bundesberggesetz von der Verpflichtung zur Anwendung dieses Teils befreit werden können, sowie des dabei anzuwendenden Verfahrens einschließlich der erforderlichen Ermittlungsbefugnisse des Bundeskartellamtes und der Einzelheiten der Kostenerhebung; Vollstreckungserleichterungen dürfen vorgesehen werden.
+8. der Voraussetzungen, nach denen Sektorenauftraggeber, Konzessionsgeber oder Auftraggeber nach dem Bundesberggesetz von der Verpflichtung zur Anwendung dieses Teils befreit werden können, sowie des dabei anzuwendenden Verfahrens einschließlich der erforderlichen Ermittlungsbefugnisse des Bundeskartellamtes und der Einzelheiten der Kostenerhebung; Vollstreckungserleichterungen dürfen vorgesehen werden,
+
+9. verpflichtender Anforderungen an die Klimafreundlichkeit bei der Beschaffung von Leistungen, insbesondere hinsichtlich der Verwendung von emissionsarmen Grundstoffen wie Stahl und Zement.
 
 Die Rechtsverordnungen sind dem Bundestag zuzuleiten. Die Zuleitung erfolgt vor der Zuleitung an den Bundesrat. Die Rechtsverordnungen können durch Beschluss des Bundestages geändert oder abgelehnt werden. Der Beschluss des Bundestages wird der Bundesregierung zugeleitet. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnungen nicht mit ihnen befasst, so werden die unveränderten Rechtsverordnungen dem Bundesrat zugeleitet.
 
-##### § 114 Monitoring und Vergabestatistik
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die in Vorschriften dieses Gesetzes oder in einer aufgrund dieses Gesetzes erlassenen Rechtsverordnung enthaltenen Verweise auf die Vergabe- und Vertragsordnung für Bauleistungen zu ändern, soweit dies zur Anpassung an eine Änderung der Vergabe- und Vertragsordnung für Bauleistungen erforderlich ist.
+
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die in diesem Gesetz oder in anderen Rechtsvorschriften des Bundes enthaltenen Verweise auf die nach dieser Vorschrift erlassenen Rechtsverordnungen abzuändern, soweit dies zur Anpassung an eine Änderung dieser Rechtsverordnungen erforderlich ist.
+
+###### § 114 Monitoring; Vergabestatistik; Datenservice Öffentlicher Einkauf
 
 (1) Die obersten Bundesbehörden und die Länder erstatten in ihrem jeweiligen Zuständigkeitsbereich dem Bundesministerium für Wirtschaft und Energie über die Anwendung der Vorschriften dieses Teils und der aufgrund des § 113 erlassenen Rechtsverordnungen bis zum 15. Februar 2017 und danach auf Anforderung schriftlich Bericht. Zu berichten ist regelmäßig über die jeweils letzten drei Kalenderjahre, die der Anforderung vorausgegangen sind.
 
-(2) Das Statistische Bundesamt erstellt im Auftrag des Bundesministeriums für Wirtschaft und Energie eine Vergabestatistik. Zu diesem Zweck übermitteln Auftraggeber im Sinne des § 98 an das Statistische Bundesamt Daten zu öffentlichen Aufträgen im Sinne des § 103 Absatz 1 unabhängig von deren geschätzten Auftragswert und zu Konzessionen im Sinne des § 105. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Vergabestatistik sowie der Datenübermittlung durch die meldende Stelle einschließlich des technischen Ablaufs, des Umfangs der zu übermittelnden Daten, der Wertgrenzen für die Erhebung sowie den Zeitpunkt des Inkrafttretens und der Anwendung der entsprechenden Verpflichtungen zu regeln.
+(2) Das Statistische Bundesamt erstellt im Auftrag des Bundesministeriums für Wirtschaft und Energie eine Vergabestatistik. Zu diesem Zweck übermitteln Auftraggeber im Sinne des § 98 an das Statistische Bundesamt Daten zu öffentlichen Aufträgen im Sinne des § 103 Absatz 1 unabhängig von deren geschätzten Auftragswert und zu Konzessionen im Sinne des § 105. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Vergabestatistik sowie der Datenübermittlung durch die meldende Stelle einschließlich des technischen Ablaufs, des Umfangs der zu übermittelnden Daten, der Wertgrenzen für die Erhebung sowie den Zeitpunkt des Inkrafttretens und der Anwendung der entsprechenden Verpflichtungen zu regeln.
+
+(3) Der Datenservice Öffentlicher Einkauf ist beim Beschaffungsamt des BMI eingerichtet und wird dort betrieben.
 
 ## Abschnitt 2 Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber
 
 ## Unterabschnitt 1 Anwendungsbereich
 
-##### § 115 Anwendungsbereich
+###### § 115 Anwendungsbereich
 
 Dieser Abschnitt ist anzuwenden auf die Vergabe von öffentlichen Aufträgen und die Ausrichtung von Wettbewerben durch öffentliche Auftraggeber.
 
-##### § 116 Besondere Ausnahmen
+###### § 116 Besondere Ausnahmen
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber, wenn diese Aufträge Folgendes zum Gegenstand haben:
 
@@ -3026,7 +3076,7 @@ b) die Dienstleistung vollständig durch den Auftraggeber vergütet wird,
 
 4. logistische Dienstleistungen, bei denen die materielle Auslieferung, Lagerung oder eine Kombination des Vorgenannten mit anderen nicht postalischen Aufgaben kombiniert wird.
 
-##### § 117 Besondere Ausnahmen für Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen
+###### § 117 Besondere Ausnahmen für Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen
 
 Bei öffentlichen Aufträgen und Wettbewerben, die Verteidigungs- oder Sicherheitsaspekte umfassen, ohne verteidigungs- oder sicherheitsspezifische Aufträge zu sein, ist dieser Teil nicht anzuwenden,
 
@@ -3046,7 +3096,7 @@ c) eine internationale Organisation oder
 
 5. wenn der öffentliche Auftraggeber gemäß den Vergaberegeln einer internationalen Organisation oder internationalen Finanzierungseinrichtung einen öffentlichen Auftrag vergibt oder einen Wettbewerb ausrichtet und dieser öffentliche Auftrag oder Wettbewerb vollständig durch diese Organisation oder Einrichtung finanziert wird. Im Falle einer überwiegenden Kofinanzierung durch eine internationale Organisation oder eine internationale Finanzierungseinrichtung einigen sich die Parteien auf die anwendbaren Vergabeverfahren.
 
-##### § 118 Bestimmten Auftragnehmern vorbehaltene öffentliche Aufträge
+###### § 118 Bestimmten Auftragnehmern vorbehaltene öffentliche Aufträge
 
 (1) Öffentliche Auftraggeber können das Recht zur Teilnahme an Vergabeverfahren Werkstätten für Menschen mit Behinderungen und Unternehmen vorbehalten, deren Hauptzweck die soziale und berufliche Integration von Menschen mit Behinderungen oder von benachteiligten Personen ist, oder bestimmen, dass öffentliche Aufträge im Rahmen von Programmen mit geschützten Beschäftigungsverhältnissen durchzuführen sind.
 
@@ -3054,7 +3104,7 @@ c) eine internationale Organisation oder
 
 ## Unterabschnitt 2 Vergabeverfahren und Auftragsausführung
 
-##### § 119 Verfahrensarten
+###### § 119 Verfahrensarten
 
 (1) Die Vergabe von öffentlichen Aufträgen erfolgt im offenen Verfahren, im nicht offenen Verfahren, im Verhandlungsverfahren, im wettbewerblichen Dialog oder in der Innovationspartnerschaft.
 
@@ -3070,7 +3120,7 @@ c) eine internationale Organisation oder
 
 (7) Die Innovationspartnerschaft ist ein Verfahren zur Entwicklung innovativer, noch nicht auf dem Markt verfügbarer Liefer-, Bau- oder Dienstleistungen und zum anschließenden Erwerb der daraus hervorgehenden Leistungen. Nach einem Teilnahmewettbewerb verhandelt der öffentliche Auftraggeber in mehreren Phasen mit den ausgewählten Unternehmen über die Erst- und Folgeangebote.
 
-##### § 120 Besondere Methoden und Instrumente in Vergabeverfahren
+###### § 120 Besondere Methoden und Instrumente in Vergabeverfahren
 
 (1) Ein dynamisches Beschaffungssystem ist ein zeitlich befristetes, ausschließlich elektronisches Verfahren zur Beschaffung marktüblicher Leistungen, bei denen die allgemein auf dem Markt verfügbaren Merkmale den Anforderungen des öffentlichen Auftraggebers genügen.
 
@@ -3080,15 +3130,15 @@ c) eine internationale Organisation oder
 
 (4) Eine zentrale Beschaffungsstelle ist ein öffentlicher Auftraggeber, der für andere öffentliche Auftraggeber dauerhaft Liefer- und Dienstleistungen beschafft, öffentliche Aufträge vergibt oder Rahmenvereinbarungen abschließt (zentrale Beschaffungstätigkeit). Öffentliche Auftraggeber können Liefer- und Dienstleistungen von zentralen Beschaffungsstellen erwerben oder Liefer-, Bau- und Dienstleistungsaufträge mittels zentraler Beschaffungsstellen vergeben. Öffentliche Aufträge zur Ausübung zentraler Beschaffungstätigkeiten können an eine zentrale Beschaffungsstelle vergeben werden, ohne ein Vergabeverfahren nach den Vorschriften dieses Teils durchzuführen. Derartige Dienstleistungsaufträge können auch Beratungs- und Unterstützungsleistungen bei der Vorbereitung oder Durchführung von Vergabeverfahren umfassen. Die Teile 1 bis 3 bleiben unberührt.
 
-##### § 121 Leistungsbeschreibung
+###### § 121 Leistungsbeschreibung
 
-(1) In der Leistungsbeschreibung ist der Auftragsgegenstand so eindeutig und erschöpfend wie möglich zu beschreiben, sodass die Beschreibung für alle Unternehmen im gleichen Sinne verständlich ist und die Angebote miteinander verglichen werden können. Die Leistungsbeschreibung enthält die Funktions- oder Leistungsanforderungen oder eine Beschreibung der zu lösenden Aufgabe, deren Kenntnis für die Erstellung des Angebots erforderlich ist, sowie die Umstände und Bedingungen der Leistungserbringung.
+(1) In der Leistungsbeschreibung ist der Auftragsgegenstand so eindeutig wie möglich zu beschreiben, sodass die Beschreibung für alle Unternehmen im gleichen Sinne verständlich ist und die Angebote miteinander verglichen werden können. Die Leistungsbeschreibung enthält die Funktions- oder Leistungsanforderungen oder eine Beschreibung der zu lösenden Aufgabe, deren Kenntnis für die Erstellung des Angebots erforderlich ist, sowie die Umstände und Bedingungen der Leistungserbringung.
 
 (2) Bei der Beschaffung von Leistungen, die zur Nutzung durch natürliche Personen vorgesehen sind, sind bei der Erstellung der Leistungsbeschreibung außer in ordnungsgemäß begründeten Fällen die Zugänglichkeitskriterien für Menschen mit Behinderungen oder die Konzeption für alle Nutzer zu berücksichtigen.
 
 (3) Die Leistungsbeschreibung ist den Vergabeunterlagen beizufügen.
 
-##### § 122 Eignung
+###### § 122 Eignung
 
 (1) Öffentliche Aufträge werden an fachkundige und leistungsfähige (geeignete) Unternehmen vergeben, die nicht nach den §§ 123 oder 124 ausgeschlossen worden sind.
 
@@ -3100,11 +3150,11 @@ c) eine internationale Organisation oder
 
 3. technische und berufliche Leistungsfähigkeit.
 
-(3) Der Nachweis der Eignung und des Nichtvorliegens von Ausschlussgründen nach den §§ 123 und 124 kann ganz oder teilweise durch die Teilnahme an Präqualifizierungssystemen erbracht werden.
+(3) Der Nachweis der Eignung und des Nichtvorliegens von Ausschlussgründen nach den §§ 123 und 124 soll durch Eigenerklärungen erfolgen. Über Eigenerklärungen hinausgehende Unterlagen sollen im Verlauf des Verfahrens nur von aussichtsreichen Bewerbern oder Bietern verlangt werden. Der Nachweis kann ganz oder teilweise durch die Teilnahme an Präqualifizierungssystemen erbracht werden.
 
-(4) Eignungskriterien müssen mit dem Auftragsgegenstand in Verbindung und zu diesem in einem angemessenen Verhältnis stehen. Sie sind in der Auftragsbekanntmachung, der Vorinformation oder der Aufforderung zur Interessensbestätigung aufzuführen.
+(4) Eignungskriterien und geforderte Eignungsnachweise müssen mit dem Auftragsgegenstand in Verbindung und zu diesem sowie dem Auftragswert in einem angemessenen Verhältnis stehen. Der Grundsatz der Verhältnismäßigkeit nach § 97 Absatz 1 Satz 2 ist zu wahren. Die Eignungskriterien und Eignungsnachweise sind in der Auftragsbekanntmachung, der Vorinformation oder der Aufforderung zur Interessensbestätigung anzugeben. In der Bekanntmachung kann auf die elektronische Adresse der Vergabeunterlagen verwiesen werden, soweit in der Bekanntmachung erkennbar ist, an welcher genauen Stelle der direkt zu verlinkenden Vergabeunterlagen die Eignungskriterien aufgeführt sind.
 
-##### § 123 Zwingende Ausschlussgründe
+###### § 123 Zwingende Ausschlussgründe
 
 (1) Öffentliche Auftraggeber schließen ein Unternehmen zu jedem Zeitpunkt des Vergabeverfahrens von der Teilnahme aus, wenn sie Kenntnis davon haben, dass eine Person, deren Verhalten nach Absatz 3 dem Unternehmen zuzurechnen ist, rechtskräftig verurteilt oder gegen das Unternehmen eine Geldbuße nach § 30 des Gesetzes über Ordnungswidrigkeiten rechtskräftig festgesetzt worden ist wegen einer Straftat nach:
 
@@ -3142,7 +3192,7 @@ Satz 1 ist nicht anzuwenden, wenn das Unternehmen seinen Verpflichtungen dadurch
 
 (5) Von einem Ausschluss nach Absatz 1 kann abgesehen werden, wenn dies aus zwingenden Gründen des öffentlichen Interesses geboten ist. Von einem Ausschluss nach Absatz 4 Satz 1 kann abgesehen werden, wenn dies aus zwingenden Gründen des öffentlichen Interesses geboten ist oder ein Ausschluss offensichtlich unverhältnismäßig wäre. § 125 bleibt unberührt.
 
-##### § 124 Fakultative Ausschlussgründe
+###### § 124 Fakultative Ausschlussgründe
 
 (1) Öffentliche Auftraggeber können unter Berücksichtigung des Grundsatzes der Verhältnismäßigkeit ein Unternehmen zu jedem Zeitpunkt des Vergabeverfahrens von der Teilnahme an einem Vergabeverfahren ausschließen, wenn
 
@@ -3150,7 +3200,7 @@ Satz 1 ist nicht anzuwenden, wenn das Unternehmen seinen Verpflichtungen dadurch
 
 2. das Unternehmen zahlungsunfähig ist, über das Vermögen des Unternehmens ein Insolvenzverfahren oder ein vergleichbares Verfahren beantragt oder eröffnet worden ist, die Eröffnung eines solchen Verfahrens mangels Masse abgelehnt worden ist, sich das Unternehmen im Verfahren der Liquidation befindet oder seine Tätigkeit eingestellt hat,
 
-3. das Unternehmen im Rahmen der beruflichen Tätigkeit nachweislich eine schwere Verfehlung begangen hat, durch die die Integrität des Unternehmens infrage gestellt wird; § 123 Absatz 3 ist entsprechend anzuwenden,
+3. der öffentliche Auftraggeber auf geeignete Weise nachweisen kann, dass das Unternehmen im Rahmen der beruflichen Tätigkeit eine schwere Verfehlung begangen hat, durch die die Integrität des Unternehmens infrage gestellt wird; § 123 Absatz 3 ist entsprechend anzuwenden,
 
 4. der öffentliche Auftraggeber über hinreichende Anhaltspunkte dafür verfügt, dass das Unternehmen mit anderen Unternehmen Vereinbarungen getroffen oder Verhaltensweisen aufeinander abgestimmt hat, die eine Verhinderung, Einschränkung oder Verfälschung des Wettbewerbs bezwecken oder bewirken,
 
@@ -3158,7 +3208,7 @@ Satz 1 ist nicht anzuwenden, wenn das Unternehmen seinen Verpflichtungen dadurch
 
 6. eine Wettbewerbsverzerrung daraus resultiert, dass das Unternehmen bereits in die Vorbereitung des Vergabeverfahrens einbezogen war, und diese Wettbewerbsverzerrung nicht durch andere, weniger einschneidende Maßnahmen beseitigt werden kann,
 
-7. das Unternehmen eine wesentliche Anforderung bei der Ausführung eines früheren öffentlichen Auftrags oder Konzessionsvertrags erheblich oder fortdauernd mangelhaft erfüllt hat und dies zu einer vorzeitigen Beendigung, zu Schadensersatz oder zu einer vergleichbaren Rechtsfolge geführt hat,
+7. das Unternehmen bei der Erfüllung einer wesentlichen Anforderung im Rahmen eines früheren öffentlichen Auftrags oder Konzessionsvertrags erhebliche oder fortdauernde Mängel erkennen lassen hat, die die Erklärung einer vorzeitigen Beendigung dieses früheren Auftrags, die Forderung nach Schadenersatz oder andere vergleichbare Rechtsfolgen nach sich gezogen haben,
 
 8. das Unternehmen in Bezug auf Ausschlussgründe oder Eignungskriterien eine schwerwiegende Täuschung begangen oder Auskünfte zurückgehalten hat oder nicht in der Lage ist, die erforderlichen Nachweise zu übermitteln, oder
 
@@ -3170,9 +3220,9 @@ b) versucht hat, vertrauliche Informationen zu erhalten, durch die es unzulässi
 
 c) fahrlässig oder vorsätzlich irreführende Informationen übermittelt hat, die die Vergabeentscheidung des öffentlichen Auftraggebers erheblich beeinflussen könnten, oder versucht hat, solche Informationen zu übermitteln.
 
-(2) § 21 des Arbeitnehmer-Entsendegesetzes, § 98c des Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes, § 21 des Schwarzarbeitsbekämpfungsgesetzes und § 22 des Lieferkettensorgfaltspflichtengesetzes vom 16. Juli 2021 (BGBl. I S. 2959) bleiben unberührt.
+(2) § 21 des Arbeitnehmer-Entsendegesetzes, § 98c des Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes, § 21 des Schwarzarbeitsbekämpfungsgesetzes, § 22 des Lieferkettensorgfaltspflichtengesetzes und § 14 des Bundestariftreuegesetzes bleiben unberührt.
 
-##### § 125 Selbstreinigung
+###### § 125 Selbstreinigung
 
 (1) Öffentliche Auftraggeber schließen ein Unternehmen, bei dem ein Ausschlussgrund nach § 123 oder § 124 vorliegt, nicht von der Teilnahme an dem Vergabeverfahren aus, wenn das Unternehmen dem öffentlichen Auftraggeber oder nach § 8 des Wettbewerbsregistergesetzes dem Bundeskartellamt nachgewiesen hat, dass es
 
@@ -3186,7 +3236,7 @@ c) fahrlässig oder vorsätzlich irreführende Informationen übermittelt hat, d
 
 (2) Bei der Bewertung der von dem Unternehmen ergriffenen Selbstreinigungsmaßnahmen sind die Schwere und die besonderen Umstände der Straftat oder des Fehlverhaltens zu berücksichtigen. Die Entscheidung, dass die Selbstreinigungsmaßnahmen des Unternehmens als unzureichend bewertet werden, ist gegenüber dem Unternehmen zu begründen.
 
-##### § 126 Zulässiger Zeitraum für Ausschlüsse
+###### § 126 Zulässiger Zeitraum für Ausschlüsse
 
 Wenn ein Unternehmen, bei dem ein Ausschlussgrund vorliegt, keine oder keine ausreichenden Selbstreinigungsmaßnahmen nach § 125 ergriffen hat, darf es
 
@@ -3194,7 +3244,7 @@ Wenn ein Unternehmen, bei dem ein Ausschlussgrund vorliegt, keine oder keine aus
 
 2. bei Vorliegen eines Ausschlussgrundes nach § 124 höchstens drei Jahre ab dem betreffenden Ereignis von der Teilnahme an Vergabeverfahren ausgeschlossen werden.
 
-##### § 127 Zuschlag
+###### § 127 Zuschlag
 
 (1) Der Zuschlag wird auf das wirtschaftlichste Angebot erteilt. Grundlage dafür ist eine Bewertung des öffentlichen Auftraggebers, ob und inwieweit das Angebot die vorgegebenen Zuschlagskriterien erfüllt. Das wirtschaftlichste Angebot bestimmt sich nach dem besten Preis-Leistungs-Verhältnis. Zu dessen Ermittlung können neben dem Preis oder den Kosten auch qualitative, umweltbezogene oder soziale Aspekte berücksichtigt werden.
 
@@ -3206,31 +3256,33 @@ Wenn ein Unternehmen, bei dem ein Ausschlussgrund vorliegt, keine oder keine aus
 
 (5) Die Zuschlagskriterien und deren Gewichtung müssen in der Auftragsbekanntmachung oder den Vergabeunterlagen aufgeführt werden.
 
-##### § 128 Auftragsausführung
+###### § 128 Auftragsausführung
 
-(1) Unternehmen haben bei der Ausführung des öffentlichen Auftrags alle für sie geltenden rechtlichen Verpflichtungen einzuhalten, insbesondere Steuern, Abgaben und Beiträge zur Sozialversicherung zu entrichten, die arbeitsschutzrechtlichen Regelungen einzuhalten und den Arbeitnehmerinnen und Arbeitnehmern wenigstens diejenigen Mindestarbeitsbedingungen einschließlich des Mindestentgelts zu gewähren, die nach dem Mindestlohngesetz, einem nach dem Tarifvertragsgesetz mit den Wirkungen des Arbeitnehmer-Entsendegesetzes für allgemein verbindlich erklärten Tarifvertrag oder einer nach § 7, § 7a oder § 11 des Arbeitnehmer-Entsendegesetzes oder einer nach § 3a des Arbeitnehmerüberlassungsgesetzes erlassenen Rechtsverordnung für die betreffende Leistung verbindlich vorgegeben werden.
+(1) Unternehmen haben bei der Ausführung des öffentlichen Auftrags alle für sie geltenden rechtlichen Verpflichtungen einzuhalten, insbesondere Steuern, Abgaben und Beiträge zur Sozialversicherung zu entrichten, die arbeitsschutzrechtlichen Regelungen und die rechtlichen Vorgaben über die Gleichbehandlung der Geschlechter in Bezug auf die Entgeltgleichheit einzuhalten und den Arbeitnehmerinnen und Arbeitnehmern wenigstens diejenigen Mindestarbeitsbedingungen einschließlich des Mindestentgelts zu gewähren, die nach dem Mindestlohngesetz, einem nach dem Tarifvertragsgesetz mit den Wirkungen des Arbeitnehmer-Entsendegesetzes für allgemein verbindlich erklärten Tarifvertrag oder einer nach § 7, § 7a oder § 11 des Arbeitnehmer-Entsendegesetzes oder einer nach § 3a des Arbeitnehmerüberlassungsgesetzes erlassenen Rechtsverordnung für die betreffende Leistung verbindlich vorgegeben werden.
 
-(2) Öffentliche Auftraggeber können darüber hinaus besondere Bedingungen für die Ausführung eines Auftrags (Ausführungsbedingungen) festlegen, sofern diese mit dem Auftragsgegenstand entsprechend § 127 Absatz 3 in Verbindung stehen. Die Ausführungsbedingungen müssen sich aus der Auftragsbekanntmachung oder den Vergabeunterlagen ergeben. Sie können insbesondere wirtschaftliche, innovationsbezogene, umweltbezogene, soziale oder beschäftigungspolitische Belange oder den Schutz der Vertraulichkeit von Informationen umfassen.
+(2) Öffentliche Auftraggeber können darüber hinaus besondere Bedingungen für die Ausführung eines Auftrags (Ausführungsbedingungen) festlegen, sofern diese mit dem Auftragsgegenstand entsprechend § 127 Absatz 3 in Verbindung stehen. Die Ausführungsbedingungen müssen sich aus der Auftragsbekanntmachung oder den Vergabeunterlagen ergeben. Sie können insbesondere wirtschaftliche, innovationsbezogene, umweltbezogene, soziale oder beschäftigungspolitische Belange, Belange der Versorgungssicherheit oder der digitalen Souveränität oder den Schutz der Vertraulichkeit von Informationen umfassen.
 
-##### § 129 Zwingend zu berücksichtigende Ausführungsbedingungen
+###### § 129 Zwingend zu berücksichtigende Ausführungsbedingungen
 
-Ausführungsbedingungen, die der öffentliche Auftraggeber dem beauftragten Unternehmen verbindlich vorzugeben hat, dürfen nur aufgrund eines Bundes- oder Landesgesetzes festgelegt werden.
+(1) Ausführungsbedingungen, die der öffentliche Auftraggeber dem beauftragten Unternehmen verbindlich vorzugeben hat, dürfen nur aufgrund eines Bundes- oder Landesgesetzes festgelegt werden.
 
-##### § 130 Vergabe von öffentlichen Aufträgen über soziale und andere besondere Dienstleistungen
+(2) Aufgrund eines Bundesgesetzes zwingend zu berücksichtigende Ausführungsbedingungen nach Absatz 1 müssen in Vergabeverfahren ausnahmsweise nicht verbindlich vorgegeben werden, wenn in einem vorhergehenden Verfahren zur Vergabe desselben öffentlichen Auftrags oder derselben Konzession keine oder keine geeigneten Angebote abgegeben wurden und die Ausführung des öffentlichen Auftrags oder der Konzession zur Bewältigung einer oder in Vorbereitung auf eine konkrete Krisensituation durch die Bundeswehr, den Zivil- und Katastrophenschutz, die Bundespolizei oder andere Sicherheitskräfte oder in dieser Krisensituation zur Sicherung der Energieversorgung, für die Funktionsfähigkeit des Gesundheitswesens, zum Erhalt der Bauwerksicherheit oder für die Bundesinfrastruktur unmittelbar und zwingend erforderlich ist. Ein Angebot gilt als ungeeignet im Sinne des Satzes 1, wenn es ohne Abänderung den in den Vergabeunterlagen genannten Anforderungen des öffentlichen Bundesauftraggebers offensichtlich nicht entsprechen kann.
+
+###### § 130 Vergabe von öffentlichen Aufträgen über soziale und andere besondere Dienstleistungen
 
 (1) Bei der Vergabe von öffentlichen Aufträgen über soziale und andere besondere Dienstleistungen im Sinne des Anhangs XIV der Richtlinie 2014/24/EU stehen öffentlichen Auftraggebern das offene Verfahren, das nicht offene Verfahren, das Verhandlungsverfahren mit Teilnahmewettbewerb, der wettbewerbliche Dialog und die Innovationspartnerschaft nach ihrer Wahl zur Verfügung. Ein Verhandlungsverfahren ohne Teilnahmewettbewerb steht nur zur Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist.
 
 (2) Abweichend von § 132 Absatz 3 ist die Änderung eines öffentlichen Auftrags über soziale und andere besondere Dienstleistungen im Sinne des Anhangs XIV der Richtlinie 2014/24/EU ohne Durchführung eines neuen Vergabeverfahrens zulässig, wenn der Wert der Änderung nicht mehr als 20 Prozent des ursprünglichen Auftragswertes beträgt.
 
-##### § 131 Vergabe von öffentlichen Aufträgen über Personenverkehrsleistungen im Eisenbahnverkehr
+###### § 131 Vergabe von öffentlichen Aufträgen über Personenverkehrsleistungen im Eisenbahnverkehr
 
-(1) Bei der Vergabe von öffentlichen Aufträgen, deren Gegenstand Personenverkehrsleistungen im Eisenbahnverkehr sind, stehen öffentlichen Auftraggebern das offene und das nicht offene Verfahren, das Verhandlungsverfahren mit Teilnahmewettbewerb, der wettbewerbliche Dialog und die Innovationspartnerschaft nach ihrer Wahl zur Verfügung. Ein Verhandlungsverfahren ohne Teilnahmewettbewerb steht nur zur Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist.
+(1) Bei der Vergabe von öffentlichen Aufträgen, deren Gegenstand Personenverkehrsleistungen im Eisenbahnverkehr sind, stehen öffentlichen Auftraggebern das offene und das nicht offene Verfahren, das Verhandlungsverfahren mit Teilnahmewettbewerb, der wettbewerbliche Dialog und die Innovationspartnerschaft nach ihrer Wahl zur Verfügung. Ein Verhandlungsverfahren ohne Teilnahmewettbewerb steht nur zur Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist. Die Sätze 1 und 2 stehen der Anwendung von Artikel 5 Absatz 4 der Verordnung (EG) Nr. 1370/2007 nicht entgegen.
 
 (2) Anstelle des § 108 Absatz 1 ist Artikel 5 Absatz 2 der Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über öffentliche Personenverkehrsdienste auf Schiene und Straße und zur Aufhebung der Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des Rates (ABl. L 315 vom 3.12.2007, S. 1) anzuwenden. Artikel 5 Absatz 5 und Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1370/2007 bleiben unberührt.
 
-(3) Öffentliche Auftraggeber, die öffentliche Aufträge im Sinne von Absatz 1 vergeben, sollen gemäß Artikel 4 Absatz 5 der Verordnung (EG) Nr. 1370/2007 verlangen, dass bei einem Wechsel des Betreibers der Personenverkehrsleistung der ausgewählte Betreiber die Arbeitnehmerinnen und Arbeitnehmer, die beim bisherigen Betreiber für die Erbringung dieser Verkehrsleistung beschäftigt waren, übernimmt und ihnen die Rechte gewährt, auf die sie Anspruch hätten, wenn ein Übergang gemäß § 613a des Bürgerlichen Gesetzbuchs erfolgt wäre. Für den Fall, dass ein öffentlicher Auftraggeber die Übernahme von Arbeitnehmerinnen und Arbeitnehmern im Sinne von Satz 1 verlangt, beschränkt sich das Verlangen auf diejenigen Arbeitnehmerinnen und Arbeitnehmer, die für die Erbringung der übergehenden Verkehrsleistung unmittelbar erforderlich sind. Der öffentliche Auftraggeber soll Regelungen vorsehen, durch die eine missbräuchliche Anpassung tarifvertraglicher Regelungen zu Lasten des neuen Betreibers zwischen der Veröffentlichung der Auftragsbekanntmachung und der Übernahme des Betriebes ausgeschlossen wird. Der bisherige Betreiber ist nach Aufforderung durch den öffentlichen Auftraggeber verpflichtet, alle hierzu erforderlichen Angaben zu machen.
+(3) Öffentliche Auftraggeber, die öffentliche Aufträge im Sinne von Absatz 1 vergeben, sollen gemäß Artikel 4 Absatz 5 der Verordnung (EG) Nr. 1370/2007 verlangen, dass bei einem Wechsel des Betreibers der Personenverkehrsleistung der ausgewählte Betreiber die Arbeitnehmerinnen und Arbeitnehmer, die beim bisherigen Betreiber für die Erbringung dieser Verkehrsleistung beschäftigt waren, übernimmt und ihnen die Rechte gewährt, auf die sie Anspruch hätten, wenn ein Übergang gemäß § 613a des Bürgerlichen Gesetzbuchs erfolgt wäre. Für den Fall, dass ein öffentlicher Auftraggeber die Übernahme von Arbeitnehmerinnen und Arbeitnehmern im Sinne von Satz 1 verlangt, beschränkt sich das Verlangen auf diejenigen Arbeitnehmerinnen und Arbeitnehmer, die für die Erbringung der übergehenden Verkehrsleistung erforderlich sind. Der öffentliche Auftraggeber soll Regelungen vorsehen, durch die eine missbräuchliche Anpassung tarifvertraglicher Regelungen zu Lasten des neuen Betreibers zwischen der Veröffentlichung der Auftragsbekanntmachung und der Übernahme des Betriebes ausgeschlossen wird. Der bisherige Betreiber ist nach Aufforderung durch den öffentlichen Auftraggeber verpflichtet, alle hierzu erforderlichen Angaben zu machen.
 
-##### § 132 Auftragsänderungen während der Vertragslaufzeit
+###### § 132 Auftragsänderungen während der Vertragslaufzeit
 
 (1) Wesentliche Änderungen eines öffentlichen Auftrags während der Vertragslaufzeit erfordern ein neues Vergabeverfahren. Wesentlich sind Änderungen, die dazu führen, dass sich der öffentliche Auftrag erheblich von dem ursprünglich vergebenen öffentlichen Auftrag unterscheidet. Eine wesentliche Änderung liegt insbesondere vor, wenn
 
@@ -3282,7 +3334,7 @@ Bei mehreren aufeinander folgenden Änderungen ist der Gesamtwert der Änderunge
 
 (5) Änderungen nach Absatz 2 Satz 1 Nummer 2 und 3 sind im Amtsblatt der Europäischen Union bekannt zu machen.
 
-##### § 133 Kündigung von öffentlichen Aufträgen in besonderen Fällen
+###### § 133 Kündigung von öffentlichen Aufträgen in besonderen Fällen
 
 (1) Unbeschadet des § 135 können öffentliche Auftraggeber einen öffentlichen Auftrag während der Vertragslaufzeit kündigen, wenn
 
@@ -3296,15 +3348,21 @@ Bei mehreren aufeinander folgenden Änderungen ist der Gesamtwert der Änderunge
 
 (3) Die Berechtigung, Schadensersatz zu verlangen, wird durch die Kündigung nicht ausgeschlossen.
 
-##### § 134 Informations- und Wartepflicht
+###### § 134 Informations- und Wartepflicht
 
 (1) Öffentliche Auftraggeber haben die Bieter, deren Angebote nicht berücksichtigt werden sollen, über den Namen des Unternehmens, dessen Angebot angenommen werden soll, über die Gründe der vorgesehenen Nichtberücksichtigung ihres Angebots und über den frühesten Zeitpunkt des Vertragsschlusses unverzüglich in Textform zu informieren. Dies gilt auch für Bewerber, denen keine Information über die Ablehnung ihrer Bewerbung zur Verfügung gestellt wurde, bevor die Mitteilung über die Zuschlagsentscheidung an die betroffenen Bieter ergangen ist.
 
 (2) Ein Vertrag darf erst 15 Kalendertage nach Absendung der Information nach Absatz 1 geschlossen werden. Wird die Information auf elektronischem Weg oder per Fax versendet, verkürzt sich die Frist auf zehn Kalendertage. Die Frist beginnt am Tag nach der Absendung der Information durch den Auftraggeber; auf den Tag des Zugangs beim betroffenen Bieter und Bewerber kommt es nicht an.
 
-(3) Die Informationspflicht entfällt in Fällen, in denen das Verhandlungsverfahren ohne Teilnahmewettbewerb wegen besonderer Dringlichkeit gerechtfertigt ist. Im Fall verteidigungs- oder sicherheitsspezifischer Aufträge können öffentliche Auftraggeber beschließen, bestimmte Informationen über die Zuschlagserteilung oder den Abschluss einer Rahmenvereinbarung nicht mitzuteilen, soweit die Offenlegung den Gesetzesvollzug behindert, dem öffentlichen Interesse, insbesondere Verteidigungs- oder Sicherheitsinteressen, zuwiderläuft, berechtigte geschäftliche Interessen von Unternehmen schädigt oder den lauteren Wettbewerb zwischen ihnen beeinträchtigen könnte.
+(3) Die Informations- und Wartepflicht entfällt in Fällen, in denen
 
-##### § 135 Unwirksamkeit
+1. das Verhandlungsverfahren ohne Teilnahmewettbewerb wegen besonderer Dringlichkeit gerechtfertigt ist oder
+
+2. eine Leistung bei der Nutzung einer Rahmenvereinbarung oder eines dynamischen Beschaffungssystems vergeben werden soll.
+
+Im Fall verteidigungs- oder sicherheitsspezifischer Aufträge können öffentliche Auftraggeber beschließen, bestimmte Informationen über die Zuschlagserteilung oder den Abschluss einer Rahmenvereinbarung nicht mitzuteilen, soweit die Offenlegung den Gesetzesvollzug behindert, dem öffentlichen Interesse, insbesondere Verteidigungs- oder Sicherheitsinteressen, zuwiderläuft, berechtigte geschäftliche Interessen von Unternehmen schädigt oder den lauteren Wettbewerb zwischen ihnen beeinträchtigen könnte.
+
+###### § 135 Unwirksamkeit
 
 (1) Ein öffentlicher Auftrag ist von Anfang an unwirksam, wenn der öffentliche Auftraggeber
 
@@ -3314,7 +3372,7 @@ Bei mehreren aufeinander folgenden Änderungen ist der Gesamtwert der Änderunge
 
 und dieser Verstoß in einem Nachprüfungsverfahren festgestellt worden ist.
 
-(2) Die Unwirksamkeit nach Absatz 1 kann nur festgestellt werden, wenn sie im Nachprüfungsverfahren innerhalb von 30 Kalendertagen nach der Information der betroffenen Bieter und Bewerber durch den öffentlichen Auftraggeber über den Abschluss des Vertrags einschließlich einer Zusammenfassung der einschlägigen Gründe entsprechend § 134 Absatz 1 Satz 1 unter Berücksichtigung von Absatz 3 Satz 2, jedoch nicht später als sechs Monate nach Vertragsschluss geltend gemacht worden ist. Hat der Auftraggeber die Auftragsvergabe im Amtsblatt der Europäischen Union bekannt gemacht, endet die Frist zur Geltendmachung der Unwirksamkeit 30 Kalendertage nach Veröffentlichung der Bekanntmachung der Auftragsvergabe im Amtsblatt der Europäischen Union, sofern in der Bekanntmachung die Angaben entsprechend Absatz 3 Satz 2 enthalten sind.
+(2) Die Unwirksamkeit nach Absatz 1 kann nur festgestellt werden, wenn sie im Nachprüfungsverfahren innerhalb von 30 Kalendertagen nach der Information der betroffenen Bieter und Bewerber durch den öffentlichen Auftraggeber über den Abschluss des Vertrags einschließlich einer Zusammenfassung der einschlägigen Gründe entsprechend § 134 Absatz 1 Satz 1 unter Berücksichtigung von Absatz 3 Satz 2, jedoch nicht später als sechs Monate nach Vertragsschluss geltend gemacht worden ist. Hat der Auftraggeber die Auftragsvergabe im Amtsblatt der Europäischen Union bekannt gemacht, endet die Frist zur Geltendmachung der Unwirksamkeit 30 Kalendertage nach Veröffentlichung der Bekanntmachung der Auftragsvergabe im Amtsblatt der Europäischen Union, sofern in der Bekanntmachung die Angaben entsprechend Absatz 3 Satz 2 enthalten sind. Nach Ablauf der Fristen in den Sätzen 1 und 2 ist ein Antrag nach § 160, mit welchem die Feststellung der Unwirksamkeit nach Absatz 1 begehrt wird, unstatthaft.
 
 (3) Die Unwirksamkeit nach Absatz 1 Nummer 2 tritt nicht ein, wenn
 
@@ -3326,15 +3384,17 @@ und dieser Verstoß in einem Nachprüfungsverfahren festgestellt worden ist.
 
 Die Bekanntmachung nach Satz 1 Nummer 2 muss den Namen und die Kontaktdaten des öffentlichen Auftraggebers, die Beschreibung des Vertragsgegenstands, die Begründung der Entscheidung des Auftraggebers, den Auftrag ohne vorherige Veröffentlichung einer Bekanntmachung im Amtsblatt der Europäischen Union zu vergeben, und den Namen und die Kontaktdaten des Unternehmens, das den Zuschlag erhalten soll, umfassen.
 
+(4) Abweichend von Absatz 1 kann ein Vertrag als nicht von Anfang an unwirksam erachtet werden, wenn nach Prüfung aller maßgeblichen Gesichtspunkte zwingende Gründe des Allgemeininteresses dies ausnahmsweise rechtfertigen. In diesem Fall hat die Vergabekammer oder das Beschwerdegericht eine Geldsanktion gegen den Auftraggeber zu verhängen oder die Verkürzung der Laufzeit des Vertrags auszusprechen. Derartige alternative Sanktionen müssen wirksam, verhältnismäßig und abschreckend sein.
+
 ## Abschnitt 3 Vergabe von öffentlichen Aufträgen in besonderen Bereichen und von Konzessionen
 
 ## Unterabschnitt 1 Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber
 
-##### § 136 Anwendungsbereich
+###### § 136 Anwendungsbereich
 
 Dieser Unterabschnitt ist anzuwenden auf die Vergabe von öffentlichen Aufträgen und die Ausrichtung von Wettbewerben durch Sektorenauftraggeber zum Zweck der Ausübung einer Sektorentätigkeit.
 
-##### § 137 Besondere Ausnahmen
+###### § 137 Besondere Ausnahmen
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber zum Zweck der Ausübung einer Sektorentätigkeit, wenn die Aufträge Folgendes zum Gegenstand haben:
 
@@ -3366,7 +3426,7 @@ b) andere Unternehmen die Möglichkeit haben, den Auftragsgegenstand unter den g
 
 2. die Durchführung von Sektorentätigkeiten außerhalb des Gebietes der Europäischen Union, wenn der Auftrag in einer Weise vergeben wird, die nicht mit der tatsächlichen Nutzung eines Netzes oder einer Anlage innerhalb dieses Gebietes verbunden ist.
 
-##### § 138 Besondere Ausnahme für die Vergabe an verbundene Unternehmen
+###### § 138 Besondere Ausnahme für die Vergabe an verbundene Unternehmen
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen,
 
@@ -3392,7 +3452,7 @@ c) gemeinsam mit dem Auftraggeber aufgrund der Eigentumsverhältnisse, der finan
 
 (5) Liegen für die letzten drei Jahre keine Umsatzzahlen vor, genügt es, wenn das Unternehmen etwa durch Prognosen über die Tätigkeitsentwicklung glaubhaft macht, dass die Erreichung des nach Absatz 3 geforderten Umsatzziels wahrscheinlich ist.
 
-##### § 139 Besondere Ausnahme für die Vergabe durch oder an ein Gemeinschaftsunternehmen
+###### § 139 Besondere Ausnahme für die Vergabe durch oder an ein Gemeinschaftsunternehmen
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen,
 
@@ -3406,19 +3466,19 @@ c) gemeinsam mit dem Auftraggeber aufgrund der Eigentumsverhältnisse, der finan
 
 2. in dem Gründungsakt des Gemeinschaftsunternehmens festgelegt wird, dass die das Gemeinschaftsunternehmen bildenden Sektorenauftraggeber dem Gemeinschaftsunternehmen mindestens während desselben Zeitraums angehören werden.
 
-##### § 140 Besondere Ausnahme für unmittelbar dem Wettbewerb ausgesetzte Tätigkeiten
+###### § 140 Besondere Ausnahme für unmittelbar dem Wettbewerb ausgesetzte Tätigkeiten
 
 (1) Dieser Teil ist nicht anzuwenden auf öffentliche Aufträge, die zum Zweck der Ausübung einer Sektorentätigkeit vergeben werden, wenn die Sektorentätigkeit unmittelbar dem Wettbewerb auf Märkten ausgesetzt ist, die keiner Zugangsbeschränkung unterliegen. Dasselbe gilt für Wettbewerbe, die im Zusammenhang mit der Sektorentätigkeit ausgerichtet werden.
 
 (2) Für Gutachten und Stellungnahmen, die aufgrund der nach § 113 Satz 2 Nummer 8 erlassenen Rechtsverordnung vorgenommen werden, erhebt das Bundeskartellamt Kosten (Gebühren und Auslagen) zur Deckung des Verwaltungsaufwands. § 62 Absatz 1 Satz 3 und Absatz 2 Satz 1, Satz 2 Nummer 1, Satz 3 und 4, Absatz 5 Satz 1 sowie Absatz 6 Satz 1 Nummer 2, Satz 2 und 3 gilt entsprechend. Hinsichtlich der Möglichkeit zur Beschwerde über die Kostenentscheidung gilt § 73 Absatz 1 und 4 entsprechend.
 
-##### § 141 Verfahrensarten
+###### § 141 Verfahrensarten
 
 (1) Sektorenauftraggebern stehen das offene Verfahren, das nicht offene Verfahren, das Verhandlungsverfahren mit Teilnahmewettbewerb und der wettbewerbliche Dialog nach ihrer Wahl zur Verfügung.
 
 (2) Das Verhandlungsverfahren ohne Teilnahmewettbewerb und die Innovationspartnerschaft stehen nur zur Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist.
 
-##### § 142 Sonstige anwendbare Vorschriften
+###### § 142 Sonstige anwendbare Vorschriften
 
 Im Übrigen gelten für die Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber zum Zweck der Ausübung von Sektorentätigkeiten die §§ 118 und 119, soweit in § 141 nicht abweichend geregelt, die §§ 120 bis 129, 130 in Verbindung mit Anhang XVII der Richtlinie 2014/25/EU sowie die §§ 131 bis 135 mit der Maßgabe entsprechend, dass
 
@@ -3428,7 +3488,7 @@ Im Übrigen gelten für die Vergabe von öffentlichen Aufträgen durch Sektorena
 
 3. § 132 Absatz 2 Satz 2 und 3 nicht anzuwenden ist.
 
-##### § 143 Regelung für Auftraggeber nach dem Bundesberggesetz
+###### § 143 Regelung für Auftraggeber nach dem Bundesberggesetz
 
 (1) Sektorenauftraggeber, die nach dem Bundesberggesetz berechtigt sind, Erdöl, Gas, Kohle oder andere feste Brennstoffe aufzusuchen oder zu gewinnen, müssen bei der Vergabe von Liefer-, Bau- oder Dienstleistungsaufträgen oberhalb der Schwellenwerte nach § 106 Absatz 2 Nummer 2 zur Durchführung der Aufsuchung oder Gewinnung von Erdöl, Gas, Kohle oder anderen festen Brennstoffen die Grundsätze der Nichtdiskriminierung und der wettbewerbsorientierten Auftragsvergabe beachten. Insbesondere müssen sie Unternehmen, die ein Interesse an einem solchen Auftrag haben können, ausreichend informieren und bei der Auftragsvergabe objektive Kriterien zugrunde legen. Die Sätze 1 und 2 gelten nicht für die Vergabe von Aufträgen, deren Gegenstand die Beschaffung von Energie oder Brennstoffen zur Energieerzeugung ist.
 
@@ -3436,15 +3496,15 @@ Im Übrigen gelten für die Vergabe von öffentlichen Aufträgen durch Sektorena
 
 ## Unterabschnitt 2 Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen
 
-##### § 144 Anwendungsbereich
+###### § 144 Anwendungsbereich
 
 Dieser Unterabschnitt ist anzuwenden auf die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen durch öffentliche Auftraggeber und Sektorenauftraggeber.
 
-##### § 145 Besondere Ausnahmen für die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen
+###### § 145 Besondere Ausnahmen für die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen
 
 Dieser Teil ist nicht anzuwenden auf die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen, die
 
-1. den Zwecken nachrichtendienstlicher Tätigkeiten dienen,
+1. den Zwecken nachrichtendienstlicher Tätigkeiten, einschließlich des militärischen Nachrichtenwesens, dienen,
 
 2. im Rahmen eines Kooperationsprogramms vergeben werden, das
 
@@ -3474,23 +3534,37 @@ a) die sich aus einem internationalen Abkommen oder einer internationalen Verein
 
 b) die sich aus einem internationalen Abkommen oder einer internationalen Vereinbarung im Zusammenhang mit der Stationierung von Truppen ergeben, das oder die Unternehmen eines Mitgliedstaates der Europäischen Union oder eines anderen Staates betrifft, oder
 
-c) die für eine internationale Organisation gelten, wenn diese für ihre Zwecke Beschaffungen tätigt oder wenn ein Mitgliedstaat öffentliche Aufträge nach diesen Regeln vergeben muss.
+c) die für eine internationale Organisation gelten, wenn diese für ihre Zwecke, einschließlich ihrer satzungsgemäßen Zwecke, Beschaffungen tätigt oder wenn ein Mitgliedstaat öffentliche Aufträge nach diesen Regeln vergeben muss.
 
-##### § 146 Verfahrensarten
+###### § 146 Verfahrensarten
 
 Bei der Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen stehen öffentlichen Auftraggebern und Sektorenauftraggebern das nicht offene Verfahren und das Verhandlungsverfahren mit Teilnahmewettbewerb nach ihrer Wahl zur Verfügung. Das Verhandlungsverfahren ohne Teilnahmewettbewerb und der wettbewerbliche Dialog stehen nur zur Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist.
 
-##### § 147 Sonstige anwendbare Vorschriften
+###### § 147 Sonstige anwendbare Vorschriften
 
-Im Übrigen gelten für die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen die §§ 119, 120, 121 Absatz 1 und 3 sowie die §§ 122 bis 135 mit der Maßgabe entsprechend, dass ein Unternehmen gemäß § 124 Absatz 1 auch dann von der Teilnahme an einem Vergabeverfahren ausgeschlossen werden kann, wenn das Unternehmen nicht die erforderliche Vertrauenswürdigkeit aufweist, um Risiken für die nationale Sicherheit auszuschließen. Der Nachweis, dass Risiken für die nationale Sicherheit nicht auszuschließen sind, kann auch mit Hilfe geschützter Datenquellen erfolgen.
+(1) Im Übrigen gelten für die Vergabe von verteidigungs- und sicherheitsspezifischen öffentlichen Aufträgen die §§ 119, 120, 121 Absatz 1 und 3 sowie die §§ 122 bis 135 mit der Maßgabe entsprechend, dass
+
+1. eine zentrale Beschaffungsstelle abweichend von § 120 Absatz 4 Satz 1 ein öffentlicher Auftraggeber oder eine europäische öffentliche Einrichtung ist, die für Auftraggeber
+
+a) bestimmte Waren oder Dienstleistungen erwirbt oder
+
+b) Aufträge vergibt oder Rahmenvereinbarungen über Bau-, Liefer- oder Dienstleistungen schließt;
+
+soweit ein öffentlicher Auftraggeber für einen Auftraggeber aus einem Mitgliedsstaat der Europäischen Union oder einem Staat, der Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum ist, als zentrale Beschaffungsstelle tätig wird, kommt es für das Vorliegen von vergaberechtlichen Ausnahmetatbeständen auf die Umstände an, die bei dem anderen Mitgliedstaat oder Staat vorliegen;
+
+2. ein Unternehmen gemäß § 124 Absatz 1 auch dann von der Teilnahme an einem Vergabeverfahren ausgeschlossen werden kann, wenn das Unternehmen nicht die erforderliche Vertrauenswürdigkeit aufweist, um Risiken für die nationale Sicherheit auszuschließen.
+
+Der Nachweis, dass Risiken für die nationale Sicherheit nicht auszuschließen sind, kann auch mit Hilfe geschützter Datenquellen erfolgen.
+
+(2) Bis zum Ablauf des 31. Dezember 2030 ist § 97a bei verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen nach § 104 nicht anzuwenden.
 
 ## Unterabschnitt 3 Vergabe von Konzessionen
 
-##### § 148 Anwendungsbereich
+###### § 148 Anwendungsbereich
 
 Dieser Unterabschnitt ist anzuwenden auf die Vergabe von Konzessionen durch Konzessionsgeber.
 
-##### § 149 Besondere Ausnahmen
+###### § 149 Besondere Ausnahmen
 
 Dieser Teil ist nicht anzuwenden auf die Vergabe von:
 
@@ -3526,7 +3600,7 @@ bb) Abwasserbeseitigung oder -behandlung,
 
 12. Konzessionen, die im Bereich der Luftverkehrsdienste auf der Grundlage der Erteilung einer Betriebsgenehmigung im Sinne der Verordnung (EG) Nr. 1008/2008 des Europäischen Parlaments und des Rates vom 24. September 2008 über gemeinsame Vorschriften für die Durchführung von Luftverkehrsdiensten in der Gemeinschaft (ABl. L 293 vom 31.10.2008, S. 3) vergeben werden, oder von Konzessionen, die die Beförderung von Personen im Sinne des § 1 des Personenbeförderungsgesetzes betreffen.
 
-##### § 150 Besondere Ausnahmen für die Vergabe von Konzessionen in den Bereichen Verteidigung und Sicherheit
+###### § 150 Besondere Ausnahmen für die Vergabe von Konzessionen in den Bereichen Verteidigung und Sicherheit
 
 Dieser Teil ist nicht anzuwenden auf die Vergabe von Konzessionen in den Bereichen Verteidigung und Sicherheit,
 
@@ -3554,11 +3628,11 @@ b) die sich aus einem internationalen Abkommen oder einer internationalen Verein
 
 c) die für eine internationale Organisation gelten, wenn diese für ihre Zwecke Beschaffungen tätigt oder wenn ein Mitgliedstaat der Europäischen Union Aufträge nach diesen Regeln vergeben muss.
 
-##### § 151 Verfahren
+###### § 151 Verfahren
 
 Konzessionsgeber geben die Absicht bekannt, eine Konzession zu vergeben. Auf die Veröffentlichung der Konzessionsvergabeabsicht darf nur verzichtet werden, soweit dies aufgrund dieses Gesetzes zulässig ist. Im Übrigen dürfen Konzessionsgeber das Verfahren zur Vergabe von Konzessionen vorbehaltlich der aufgrund dieses Gesetzes erlassenen Verordnung zu den Einzelheiten des Vergabeverfahrens frei ausgestalten.
 
-##### § 152 Anforderungen im Konzessionsvergabeverfahren
+###### § 152 Anforderungen im Konzessionsvergabeverfahren
 
 (1) Zur Leistungsbeschreibung ist § 121 Absatz 1 und 3 entsprechend anzuwenden.
 
@@ -3568,11 +3642,11 @@ Konzessionsgeber geben die Absicht bekannt, eine Konzession zu vergeben. Auf die
 
 (4) Die Vorschriften zur Auftragsausführung nach § 128 und zu den zwingend zu berücksichtigenden Ausführungsbedingungen nach § 129 sind entsprechend anzuwenden.
 
-##### § 153 Vergabe von Konzessionen über soziale und andere besondere Dienstleistungen
+###### § 153 Vergabe von Konzessionen über soziale und andere besondere Dienstleistungen
 
 Für das Verfahren zur Vergabe von Konzessionen, die soziale und andere besondere Dienstleistungen im Sinne des Anhangs IV der Richtlinie 2014/23/EU betreffen, sind die §§ 151 und 152 anzuwenden.
 
-##### § 154 Sonstige anwendbare Vorschriften
+###### § 154 Sonstige anwendbare Vorschriften
 
 Im Übrigen sind für die Vergabe von Konzessionen einschließlich der Konzessionen nach § 153 folgende Vorschriften entsprechend anzuwenden:
 
@@ -3604,11 +3678,11 @@ c) bei Fehlen einer vertraglichen Indexierungsklausel im Sinne des § 132 Absatz
 
 ## Abschnitt 1 Nachprüfungsbehörden
 
-##### § 155 Grundsatz
+###### § 155 Grundsatz
 
 Unbeschadet der Prüfungsmöglichkeiten von Aufsichtsbehörden unterliegt die Vergabe öffentlicher Aufträge und von Konzessionen der Nachprüfung durch die Vergabekammern.
 
-##### § 156 Vergabekammern
+###### § 156 Vergabekammern
 
 (1) Die Nachprüfung der Vergabe öffentlicher Aufträge und der Vergabe von Konzessionen nehmen die Vergabekammern des Bundes für die dem Bund zuzurechnenden öffentlichen Aufträge und Konzessionen, die Vergabekammern der Länder für die diesen zuzurechnenden öffentlichen Aufträge und Konzessionen wahr.
 
@@ -3616,23 +3690,25 @@ Unbeschadet der Prüfungsmöglichkeiten von Aufsichtsbehörden unterliegt die Ve
 
 (3) Die Zuständigkeit der ordentlichen Gerichte für die Geltendmachung von Schadensersatzansprüchen und die Befugnisse der Kartellbehörden zur Verfolgung von Verstößen insbesondere gegen die §§ 19 und 20 bleiben unberührt.
 
-##### § 157 Besetzung, Unabhängigkeit
+###### § 157 Besetzung, Unabhängigkeit
 
 (1) Die Vergabekammern üben ihre Tätigkeit im Rahmen der Gesetze unabhängig und in eigener Verantwortung aus.
 
-(2) Die Vergabekammern entscheiden in der Besetzung mit einem Vorsitzenden und zwei Beisitzern, von denen einer ein ehrenamtlicher Beisitzer ist. Der Vorsitzende und der hauptamtliche Beisitzer müssen Beamte auf Lebenszeit mit der Befähigung zum höheren Verwaltungsdienst oder vergleichbar fachkundige Angestellte sein. Der Vorsitzende oder der hauptamtliche Beisitzer muss die Befähigung zum Richteramt haben; in der Regel soll dies der Vorsitzende sein. Die Beisitzer sollen über gründliche Kenntnisse des Vergabewesens, die ehrenamtlichen Beisitzer auch über mehrjährige praktische Erfahrungen auf dem Gebiet des Vergabewesens verfügen. Bei der Überprüfung der Vergabe von verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des § 104 können die Vergabekammern abweichend von Satz 1 auch in der Besetzung mit einem Vorsitzenden und zwei hauptamtlichen Beisitzern entscheiden.
+(2) Die Vergabekammern entscheiden in der Besetzung mit einem Vorsitzenden und zwei Beisitzern, von denen einer ein ehrenamtlicher Beisitzer ist, soweit die Entscheidung nicht nach diesem Gesetz dem Vorsitzenden oder hauptamtlichen Beisitzer übertragen ist. Der Vorsitzende und der hauptamtliche Beisitzer müssen Beamte auf Lebenszeit mit der Befähigung zum höheren Verwaltungsdienst oder vergleichbar fachkundige Angestellte sein. Der Vorsitzende oder der hauptamtliche Beisitzer muss die Befähigung zum Richteramt haben; in der Regel soll dies der Vorsitzende sein. Die Beisitzer sollen über gründliche Kenntnisse des Vergabewesens, die ehrenamtlichen Beisitzer auch über mehrjährige praktische Erfahrungen auf dem Gebiet des Vergabewesens verfügen. Bei der Überprüfung der Vergabe von verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des § 104 können die Vergabekammern abweichend von Satz 1 auch in der Besetzung mit einem Vorsitzenden und zwei hauptamtlichen Beisitzern entscheiden. Der Vorsitzende oder der hauptamtliche Beisitzer trifft Verfahrensentscheidungen einschließlich verfahrensleitender Verfügungen und der Gewährung der Akteneinsicht nach § 165. Die Vergabekammern können Einzelheiten in einer Geschäftsordnung regeln.
 
-(3) Die Kammer kann das Verfahren dem Vorsitzenden oder dem hauptamtlichen Beisitzer ohne mündliche Verhandlung durch unanfechtbaren Beschluss zur alleinigen Entscheidung übertragen. Diese Übertragung ist nur möglich, sofern die Sache keine wesentlichen Schwierigkeiten in tatsächlicher oder rechtlicher Hinsicht aufweist und die Entscheidung nicht von grundsätzlicher Bedeutung sein wird.
+(3) Die Kammer kann das Verfahren dem Vorsitzenden oder dem hauptamtlichen Beisitzer ohne mündliche Verhandlung durch unanfechtbaren Beschluss zur alleinigen Entscheidung übertragen. Diese Übertragung ist möglich, sofern die Sache keine besonderen Schwierigkeiten in tatsächlicher oder rechtlicher Hinsicht aufweist und die Entscheidung nicht von grundsätzlicher Bedeutung sein wird.
 
-(4) Die Mitglieder der Kammer werden für eine Amtszeit von fünf Jahren bestellt. Sie entscheiden unabhängig und sind nur dem Gesetz unterworfen.
+(4) Die Mitglieder der Kammer werden für eine Amtszeit von fünf Jahren bestellt. Sie entscheiden unabhängig und sind nur dem Gesetz unterworfen. Sie haften gegenüber dem Dienstherrn im Falle der Verletzung einer Amtspflicht nur bei Vorsatz.
 
-##### § 158 Einrichtung, Organisation
+###### § 158 Einrichtung, Organisation, Form
 
 (1) Der Bund richtet die erforderliche Anzahl von Vergabekammern beim Bundeskartellamt ein. Einrichtung und Besetzung der Vergabekammern sowie die Geschäftsverteilung bestimmt der Präsident des Bundeskartellamts. Ehrenamtliche Beisitzer und deren Stellvertreter ernennt er auf Vorschlag der Spitzenorganisationen der öffentlich-rechtlichen Kammern. Der Präsident des Bundeskartellamts erlässt nach Genehmigung durch das Bundesministerium für Wirtschaft und Energie eine Geschäftsordnung und veröffentlicht diese im Bundesanzeiger.
 
 (2) Die Einrichtung, Organisation und Besetzung der in diesem Abschnitt genannten Stellen (Nachprüfungsbehörden) der Länder bestimmen die nach Landesrecht zuständigen Stellen, mangels einer solchen Bestimmung die Landesregierung, die die Ermächtigung weiter übertragen kann. Die Länder können gemeinsame Nachprüfungsbehörden einrichten.
 
-##### § 159 Abgrenzung der Zuständigkeit der Vergabekammern
+(3) Das Nachprüfungsverfahren wird schriftlich oder elektronisch geführt, soweit die Vergabekammer wegen besonderer Erfordernisse im Einzelfall keine abweichende Vorgabe macht. Alle Entscheidungen und Verfügungen der Vergabekammern sowie deren Übermittlung erfolgen schriftlich oder elektronisch, soweit dieser Teil nichts anderes vorsieht.
+
+###### § 159 Abgrenzung der Zuständigkeit der Vergabekammern
 
 (1) Die Vergabekammer des Bundes ist zuständig für die Nachprüfung der Vergabeverfahren
 
@@ -3654,11 +3730,11 @@ Unbeschadet der Prüfungsmöglichkeiten von Aufsichtsbehörden unterliegt die Ve
 
 ## Abschnitt 2 Verfahren vor der Vergabekammer
 
-##### § 160 Einleitung, Antrag
+###### § 160 Einleitung, Antrag
 
 (1) Die Vergabekammer leitet ein Nachprüfungsverfahren nur auf Antrag ein.
 
-(2) Antragsbefugt ist jedes Unternehmen, das ein Interesse an dem öffentlichen Auftrag oder der Konzession hat und eine Verletzung in seinen Rechten nach § 97 Absatz 6 durch Nichtbeachtung von Vergabevorschriften geltend macht. Dabei ist darzulegen, dass dem Unternehmen durch die behauptete Verletzung der Vergabevorschriften ein Schaden entstanden ist oder zu entstehen droht.
+(2) Antragsbefugt ist jedes Unternehmen, das ein Interesse an dem öffentlichen Auftrag oder der Konzession hat und eine Verletzung in seinen Rechten nach § 97 Absatz 6 durch Nichtbeachtung von Vergabevorschriften geltend macht. Ein Unternehmen ist nicht antragsbefugt, soweit es sich auf die Unwirksamkeit einer Rechtsverordnung nach § 5 des Bundestariftreuegesetzes beruft, wenn die Unwirksamkeit dieser Rechtsverordnung nicht durch rechtskräftigen Beschluss nach § 98 Absatz 4 Satz 1 des Arbeitsgerichtsgesetzes festgestellt ist. Das Unternehmen hat darzulegen, dass ihm durch die behauptete Verletzung der Vergabevorschriften ein Schaden entstanden ist oder zu entstehen droht.
 
 (3) Der Antrag ist unzulässig, soweit
 
@@ -3668,35 +3744,39 @@ Unbeschadet der Prüfungsmöglichkeiten von Aufsichtsbehörden unterliegt die Ve
 
 3. Verstöße gegen Vergabevorschriften, die erst in den Vergabeunterlagen erkennbar sind, nicht spätestens bis zum Ablauf der Frist zur Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden,
 
-4. mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers, einer Rüge nicht abhelfen zu wollen, vergangen sind.
+4. mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers, einer Rüge nicht abhelfen zu wollen, vergangen sind,
+
+5. ein offensichtlicher Missbrauch des Antrags- oder Beschwerderechts gemäß § 180 Absatz 2 vorliegt.
 
 Satz 1 gilt nicht bei einem Antrag auf Feststellung der Unwirksamkeit des Vertrags nach § 135 Absatz 1 Nummer 2. § 134 Absatz 1 Satz 2 bleibt unberührt.
 
-##### § 161 Form, Inhalt
+###### § 161 Form, Inhalt
 
-(1) Der Antrag ist schriftlich bei der Vergabekammer einzureichen und unverzüglich zu begründen. Er soll ein bestimmtes Begehren enthalten. Ein Antragsteller ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Geltungsbereich dieses Gesetzes hat einen Empfangsbevollmächtigten im Geltungsbereich dieses Gesetzes zu benennen.
+(1) Der Antrag ist schriftlich oder elektronisch bei der Vergabekammer einzureichen und zu begründen. Er soll ein bestimmtes Begehren enthalten. Ein Antragsteller ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Geltungsbereich dieses Gesetzes hat einen Empfangsbevollmächtigten im Geltungsbereich dieses Gesetzes zu benennen.
 
 (2) Die Begründung muss die Bezeichnung des Antragsgegners, eine Beschreibung der behaupteten Rechtsverletzung mit Sachverhaltsdarstellung und die Bezeichnung der verfügbaren Beweismittel enthalten sowie darlegen, dass die Rüge gegenüber dem Auftraggeber erfolgt ist; sie soll, soweit bekannt, die sonstigen Beteiligten benennen.
 
-##### § 162 Verfahrensbeteiligte, Beiladung
+(3) Ein elektronisches Dokument ist eingegangen, sobald es auf der für den Empfang bestimmten Einrichtung der Vergabekammer gespeichert ist. Dem Absender ist eine Bestätigung über den Zeitpunkt des Eingangs zu erteilen.
 
-Verfahrensbeteiligte sind der Antragsteller, der Auftraggeber und die Unternehmen, deren Interessen durch die Entscheidung schwerwiegend berührt werden und die deswegen von der Vergabekammer beigeladen worden sind. Die Entscheidung über die Beiladung ist unanfechtbar.
+###### § 162 Verfahrensbeteiligte, Beiladung
 
-##### § 163 Untersuchungsgrundsatz
+Verfahrensbeteiligte sind der Antragsteller, der Auftraggeber und die Unternehmen, deren Interessen durch die Entscheidung schwerwiegend berührt werden und die deswegen von der Vergabekammer beigeladen worden sind. Die Entscheidung über die Beiladung ergeht durch den Vorsitzenden oder den hauptamtlichen Beisitzer schriftlich oder elektronisch und ist unanfechtbar.
+
+###### § 163 Untersuchungsgrundsatz
 
 (1) Die Vergabekammer erforscht den Sachverhalt von Amts wegen. Sie kann sich dabei auf das beschränken, was von den Beteiligten vorgebracht wird oder ihr sonst bekannt sein muss. Zu einer umfassenden Rechtmäßigkeitskontrolle ist die Vergabekammer nicht verpflichtet. Sie achtet bei ihrer gesamten Tätigkeit darauf, dass der Ablauf des Vergabeverfahrens nicht unangemessen beeinträchtigt wird.
 
-(2) Die Vergabekammer prüft den Antrag darauf, ob er offensichtlich unzulässig oder unbegründet ist. Dabei berücksichtigt die Vergabekammer auch einen vorsorglich hinterlegten Schriftsatz (Schutzschrift) des Auftraggebers. Sofern der Antrag nicht offensichtlich unzulässig oder unbegründet ist, übermittelt die Vergabekammer dem Auftraggeber eine Kopie des Antrags und fordert bei ihm die Akten an, die das Vergabeverfahren dokumentieren (Vergabeakten). Der Auftraggeber hat die Vergabeakten der Kammer sofort zur Verfügung zu stellen. Die §§ 57 bis 59 Absatz 1 bis 4, § 59a Absatz 1 bis 3 und § 59b sowie § 61 gelten entsprechend.
+(2) Der Vorsitzende oder der hauptamtliche Beisitzer prüft den Antrag darauf, ob er offensichtlich unzulässig oder unbegründet ist. Dabei berücksichtigt er auch einen vorsorglich hinterlegten Schriftsatz (Schutzschrift) des Auftraggebers. Sofern der Antrag nicht offensichtlich unzulässig oder unbegründet ist, übermittelt der Vorsitzende oder der hauptamtliche Beisitzer dem Auftraggeber eine Kopie des Antrags schriftlich oder elektronisch und fordert beim Auftraggeber die Akten an, die das Vergabeverfahren dokumentieren (Vergabeakten). Der Auftraggeber hat die Vergabeakten der Kammer sofort nach den Vorgaben des Vorsitzenden oder hauptamtlichen Beisitzers soweit möglich als elektronische Kopie zur Verfügung zu stellen. Die §§ 57 bis 59 Absatz 1 bis 4, § 59a Absatz 1 bis 3 und die §§ 59b sowie 61 gelten entsprechend.
 
-##### § 164 Aufbewahrung vertraulicher Unterlagen
+###### § 164 Aufbewahrung vertraulicher Unterlagen
 
 (1) Die Vergabekammer stellt die Vertraulichkeit von Verschlusssachen und anderen vertraulichen Informationen sicher, die in den von den Parteien übermittelten Unterlagen enthalten sind.
 
 (2) Die Mitglieder der Vergabekammern sind zur Geheimhaltung verpflichtet; die Entscheidungsgründe dürfen Art und Inhalt der geheim gehaltenen Urkunden, Akten, elektronischen Dokumente und Auskünfte nicht erkennen lassen.
 
-##### § 165 Akteneinsicht
+###### § 165 Akteneinsicht
 
-(1) Die Beteiligten können die Akten bei der Vergabekammer einsehen und sich durch die Geschäftsstelle auf ihre Kosten Ausfertigungen, Auszüge oder Abschriften erteilen lassen.
+(1) Die Beteiligten können die Akten bei der Vergabekammer einsehen und sich durch die Geschäftsstelle auf ihre Kosten Ausfertigungen, Auszüge oder Abschriften erteilen lassen. Die Vergabekammer soll die Akteneinsicht elektronisch durch Übermittlung oder zum Abruf auf einem sicheren Übermittlungsweg gewähren.
 
 (2) Die Vergabekammer hat die Einsicht in die Unterlagen zu versagen, soweit dies aus wichtigen Gründen, insbesondere des Geheimschutzes oder zur Wahrung von Betriebs- oder Geschäftsgeheimnissen, geboten ist.
 
@@ -3704,19 +3784,23 @@ Verfahrensbeteiligte sind der Antragsteller, der Auftraggeber und die Unternehme
 
 (4) Die Versagung der Akteneinsicht kann nur im Zusammenhang mit der sofortigen Beschwerde in der Hauptsache angegriffen werden.
 
-##### § 166 Mündliche Verhandlung
+###### § 166 Mündliche Verhandlung
 
-(1) Die Vergabekammer entscheidet aufgrund einer mündlichen Verhandlung, die sich auf einen Termin beschränken soll. Alle Beteiligten haben Gelegenheit zur Stellungnahme. Mit Zustimmung der Beteiligten oder bei Unzulässigkeit oder bei offensichtlicher Unbegründetheit des Antrags kann nach Lage der Akten entschieden werden.
+(1) Die Vergabekammer entscheidet aufgrund einer mündlichen Verhandlung, die sich auf einen Termin beschränken soll. Alle Beteiligten haben Gelegenheit zur Stellungnahme. Mit Zustimmung der Beteiligten oder bei Unzulässigkeit oder bei offensichtlicher Unbegründetheit des Antrags kann nach Lage der Akten entschieden werden. Nach Lage der Akten kann auch entschieden werden, soweit dies der Beschleunigung dient und die Sache keine besonderen Schwierigkeiten in rechtlicher oder tatsächlicher Hinsicht aufweist.
 
 (2) Auch wenn die Beteiligten in dem Verhandlungstermin nicht erschienen oder nicht ordnungsgemäß vertreten sind, kann in der Sache verhandelt und entschieden werden.
 
-##### § 167 Beschleunigung
+(3) Die Vergabekammer kann die mündliche Verhandlung auf Antrag oder von Amts wegen als Videoverhandlung durchführen, bei der die Verhandlung sowie etwaige Vernehmungen zeitgleich in Bild und Ton an den jeweiligen Aufenthaltsort der Beteiligten und der Mitglieder der Vergabekammer übertragen werden. Die Bild- und Tonübertragung kann auch nur für Teile der mündlichen Verhandlung, insbesondere Vernehmungen, oder für einzelne Beteiligte erfolgen. Absatz 2 sowie § 128a Absatz 6 Satz 1 der Zivilprozessordnung gelten entsprechend.
 
-(1) Die Vergabekammer trifft und begründet ihre Entscheidung schriftlich innerhalb einer Frist von fünf Wochen ab Eingang des Antrags. Bei besonderen tatsächlichen oder rechtlichen Schwierigkeiten kann der Vorsitzende im Ausnahmefall die Frist durch Mitteilung an die Beteiligten um den erforderlichen Zeitraum verlängern. Dieser Zeitraum soll nicht länger als zwei Wochen dauern. Er begründet diese Verfügung schriftlich.
+(4) Entscheidungen nach Absatz 1 Satz 3 und 4 sowie Absatz 3 Satz 1 und 2 ergehen durch den Vorsitzenden oder den hauptamtlichen Beisitzer und sind unanfechtbar.
+
+###### § 167 Beschleunigung
+
+(1) Die Vergabekammer trifft und begründet ihre Entscheidung schriftlich oder elektronisch innerhalb einer Frist von fünf Wochen ab Eingang des Antrags. Bei besonderen tatsächlichen oder rechtlichen Schwierigkeiten kann der Vorsitzende oder der hauptamtliche Beisitzer im Ausnahmefall die Frist durch Mitteilung an die Beteiligten um den erforderlichen Zeitraum verlängern. Dieser Zeitraum soll nicht länger als zwei Wochen dauern. Der Vorsitzende oder der hauptamtliche Beisitzer begründet diese Verfügung schriftlich oder elektronisch.
 
 (2) Die Beteiligten haben an der Aufklärung des Sachverhalts mitzuwirken, wie es einem auf Förderung und raschen Abschluss des Verfahrens bedachten Vorgehen entspricht. Den Beteiligten können Fristen gesetzt werden, nach deren Ablauf weiterer Vortrag unbeachtet bleiben kann.
 
-##### § 168 Entscheidung der Vergabekammer
+###### § 168 Entscheidung der Vergabekammer
 
 (1) Die Vergabekammer entscheidet, ob der Antragsteller in seinen Rechten verletzt ist und trifft die geeigneten Maßnahmen, um eine Rechtsverletzung zu beseitigen und eine Schädigung der betroffenen Interessen zu verhindern. Sie ist an die Anträge nicht gebunden und kann auch unabhängig davon auf die Rechtmäßigkeit des Vergabeverfahrens einwirken.
 
@@ -3724,9 +3808,9 @@ Verfahrensbeteiligte sind der Antragsteller, der Auftraggeber und die Unternehme
 
 (3) Die Entscheidung der Vergabekammer ergeht durch Verwaltungsakt. Die Vollstreckung richtet sich, auch gegen einen Hoheitsträger, nach den Verwaltungsvollstreckungsgesetzen des Bundes und der Länder. Die Höhe des Zwangsgeldes beträgt mindestens 1 000 Euro und höchstens 10 Millionen Euro. § 61 Absatz 1 und 2 gilt entsprechend.
 
-##### § 169 Aussetzung des Vergabeverfahrens
+###### § 169 Aussetzung des Vergabeverfahrens
 
-(1) Informiert die Vergabekammer den Auftraggeber in Textform über den Antrag auf Nachprüfung, darf dieser vor einer Entscheidung der Vergabekammer und dem Ablauf der Beschwerdefrist nach § 172 Absatz 1 den Zuschlag nicht erteilen.
+(1) Informiert der Vorsitzende oder der hauptamtliche Beisitzer den Auftraggeber schriftlich oder elektronisch über den Antrag auf Nachprüfung, darf dieser vor Bekanntgabe der Entscheidung der Vergabekammer und dem Ablauf der Beschwerdefrist nach § 172 Absatz 1 den Zuschlag nicht erteilen. Im Falle des Obsiegens des Auftraggebers vor der Vergabekammer endet das Zuschlagsverbot bereits mit der Bekanntgabe der Entscheidung der Vergabekammer über den Antrag auf Nachprüfung.
 
 (2) Die Vergabekammer kann dem Auftraggeber auf seinen Antrag oder auf Antrag des Unternehmens, das nach § 134 vom Auftraggeber als das Unternehmen benannt ist, das den Zuschlag erhalten soll, gestatten, den Zuschlag nach Ablauf von zwei Wochen seit Bekanntgabe dieser Entscheidung zu erteilen, wenn unter Berücksichtigung aller möglicherweise geschädigten Interessen sowie des Interesses der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens die nachteiligen Folgen einer Verzögerung der Vergabe bis zum Abschluss der Nachprüfung die damit verbundenen Vorteile überwiegen. Bei der Abwägung ist das Interesse der Allgemeinheit an einer wirtschaftlichen Erfüllung der Aufgaben des Auftraggebers zu berücksichtigen; bei verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des § 104 sind zusätzlich besondere Verteidigungs- und Sicherheitsinteressen zu berücksichtigen. Die besonderen Verteidigungs- und Sicherheitsinteressen überwiegen in der Regel, wenn der öffentliche Auftrag oder die Konzession im unmittelbaren Zusammenhang steht mit
 
@@ -3742,15 +3826,15 @@ Die Vergabekammer berücksichtigt dabei auch die allgemeinen Aussichten des Antr
 
 (3) Sind Rechte des Antragstellers aus § 97 Absatz 6 im Vergabeverfahren auf andere Weise als durch den drohenden Zuschlag gefährdet, kann die Kammer auf besonderen Antrag mit weiteren vorläufigen Maßnahmen in das Vergabeverfahren eingreifen. Sie legt dabei den Beurteilungsmaßstab des Absatzes 2 Satz 1 zugrunde. Diese Entscheidung ist nicht selbständig anfechtbar. Die Vergabekammer kann die von ihr getroffenen weiteren vorläufigen Maßnahmen nach den Verwaltungsvollstreckungsgesetzen des Bundes und der Länder durchsetzen; die Maßnahmen sind sofort vollziehbar. § 86a Satz 2 gilt entsprechend.
 
-(4) Macht der Auftraggeber das Vorliegen der Voraussetzungen nach § 117 Nummer 1 bis 3 oder § 150 Nummer 1 oder 6 geltend, entfällt das Verbot des Zuschlags nach Absatz 1 fünf Werktage nach Zustellung eines entsprechenden Schriftsatzes an den Antragsteller; die Zustellung ist durch die Vergabekammer unverzüglich nach Eingang des Schriftsatzes vorzunehmen. Auf Antrag kann das Beschwerdegericht das Verbot des Zuschlags wiederherstellen. § 176 Absatz 1 Satz 1, Absatz 2 Satz 1 sowie Absatz 3 und 4 ist entsprechend anzuwenden.
+(4) Macht der Auftraggeber das Vorliegen der Voraussetzungen nach § 117 Nummer 1 bis 3 oder § 150 Nummer 1 oder 6 geltend, entfällt das Verbot des Zuschlags nach Absatz 1 fünf Werktage nach Zustellung eines entsprechenden Schriftsatzes an den Antragsteller; die Zustellung ist durch den Vorsitzenden oder den hauptamtlichen Beisitzer unverzüglich nach Eingang des Schriftsatzes zu veranlassen. Auf Antrag kann das Beschwerdegericht das Verbot des Zuschlags wiederherstellen. § 176 Absatz 1 Satz 1, Absatz 2 Satz 1 sowie Absatz 3 und 4 ist entsprechend anzuwenden.
 
-##### § 170 Ausschluss von abweichendem Landesrecht
+###### § 170 Ausschluss von abweichendem Landesrecht
 
 Soweit dieser Abschnitt Regelungen zum Verwaltungsverfahren enthält, darf hiervon durch Landesrecht nicht abgewichen werden.
 
 ## Abschnitt 3 Sofortige Beschwerde
 
-##### § 171 Zulässigkeit, Zuständigkeit
+###### § 171 Zulässigkeit, Zuständigkeit
 
 (1) Gegen Entscheidungen der Vergabekammer ist die sofortige Beschwerde zulässig. Sie steht den am Verfahren vor der Vergabekammer Beteiligten zu.
 
@@ -3760,7 +3844,7 @@ Soweit dieser Abschnitt Regelungen zum Verwaltungsverfahren enthält, darf hierv
 
 (4) Rechtssachen nach den Absätzen 1 und 2 können von den Landesregierungen durch Rechtsverordnung anderen Oberlandesgerichten oder dem Obersten Landesgericht zugewiesen werden. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
-##### § 172 Frist, Form, Inhalt
+###### § 172 Frist, Form, Inhalt
 
 (1) Die sofortige Beschwerde ist binnen einer Notfrist von zwei Wochen, die mit der Zustellung der Entscheidung, im Fall des § 171 Absatz 2 mit dem Ablauf der Frist beginnt, schriftlich bei dem Beschwerdegericht einzulegen.
 
@@ -3774,37 +3858,27 @@ Soweit dieser Abschnitt Regelungen zum Verwaltungsverfahren enthält, darf hierv
 
 (4) Mit der Einlegung der Beschwerde sind die anderen Beteiligten des Verfahrens vor der Vergabekammer vom Beschwerdeführer durch Übermittlung einer Ausfertigung der Beschwerdeschrift zu unterrichten.
 
-##### § 173 Wirkung
+(5) Die Vergabekammer übermittelt die Verfahrensakte einschließlich der Vergabeakte an das zuständige Oberlandesgericht schriftlich oder elektronisch. Die Übermittlung wird durch den Vorsitzenden oder den hauptamtlichen Beisitzer veranlasst.
 
-(1) Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der Entscheidung der Vergabekammer. Die aufschiebende Wirkung entfällt zwei Wochen nach Ablauf der Beschwerdefrist. Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, so kann das Beschwerdegericht auf Antrag des Beschwerdeführers die aufschiebende Wirkung bis zur Entscheidung über die Beschwerde verlängern.
+###### § 173 Wirkung
 
-(2) Das Gericht lehnt den Antrag nach Absatz 1 Satz 3 ab, wenn unter Berücksichtigung aller möglicherweise geschädigten Interessen die nachteiligen Folgen einer Verzögerung der Vergabe bis zur Entscheidung über die Beschwerde die damit verbundenen Vorteile überwiegen. Bei der Abwägung ist das Interesse der Allgemeinheit an einer wirtschaftlichen Erfüllung der Aufgaben des Auftraggebers zu berücksichtigen; bei verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des § 104 sind zusätzlich besondere Verteidigungs- und Sicherheitsinteressen zu berücksichtigen. Die besonderen Verteidigungs- und Sicherheitsinteressen überwiegen in der Regel, wenn der öffentliche Auftrag oder die Konzession im unmittelbaren Zusammenhang steht mit
+(1) Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, hat die sofortige Beschwerde keine aufschiebende Wirkung gegenüber der Entscheidung der Vergabekammer.
 
-1. einer Krise,
+(2) Hat die Vergabekammer dem Antrag auf Nachprüfung durch Untersagung des Zuschlags stattgegeben, so unterbleibt dieser, solange nicht das Beschwerdegericht die Entscheidung der Vergabekammer nach § 176 oder § 178 aufhebt.
 
-2. einem mandatierten Einsatz der Bundeswehr,
-
-3. einer einsatzgleichen Verpflichtung der Bundeswehr oder
-
-4. einer Bündnisverpflichtung.
-
-Das Gericht berücksichtigt bei seiner Entscheidung auch die Erfolgsaussichten der Beschwerde, die allgemeinen Aussichten des Antragstellers im Vergabeverfahren, den öffentlichen Auftrag oder die Konzession zu erhalten, und das Interesse der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens.
-
-(3) Hat die Vergabekammer dem Antrag auf Nachprüfung durch Untersagung des Zuschlags stattgegeben, so unterbleibt dieser, solange nicht das Beschwerdegericht die Entscheidung der Vergabekammer nach § 176 oder § 178 aufhebt.
-
-##### § 174 Beteiligte am Beschwerdeverfahren
+###### § 174 Beteiligte am Beschwerdeverfahren
 
 An dem Verfahren vor dem Beschwerdegericht beteiligt sind die an dem Verfahren vor der Vergabekammer Beteiligten.
 
-##### § 175 Verfahrensvorschriften
+###### § 175 Verfahrensvorschriften
 
 (1) Vor dem Beschwerdegericht müssen sich die Beteiligten durch einen Rechtsanwalt als Bevollmächtigten vertreten lassen. Juristische Personen des öffentlichen Rechts können sich durch Beamte oder Angestellte mit Befähigung zum Richteramt vertreten lassen.
 
-(2) Die §§ 65, 69 bis 72 mit Ausnahme der Verweisung auf § 227 Absatz 3 der Zivilprozessordnung, § 75 Absatz 1 bis 3, § 76 Absatz 1 und 6, die §§ 165 und 167 Absatz 2 Satz 1 sind entsprechend anzuwenden.
+(2) Die §§ 65, 69 bis 72 mit Ausnahme der Verweisung auf § 227 Absatz 3 der Zivilprozessordnung, § 75 Absatz 1 bis 3, § 76 Absatz 1 und 6, die §§ 165 und 167 Absatz 2 Satz 1 sind entsprechend anzuwenden. Die mündliche Verhandlung kann als Videoverhandlung nach § 128a der Zivilprozessordnung durchgeführt werden.
 
-##### § 176 Vorabentscheidung über den Zuschlag
+###### § 176 Vorabentscheidung über den Zuschlag
 
-(1) Auf Antrag des Auftraggebers oder auf Antrag des Unternehmens, das nach § 134 vom Auftraggeber als das Unternehmen benannt ist, das den Zuschlag erhalten soll, kann das Gericht den weiteren Fortgang des Vergabeverfahrens und den Zuschlag gestatten, wenn unter Berücksichtigung aller möglicherweise geschädigten Interessen die nachteiligen Folgen einer Verzögerung der Vergabe bis zur Entscheidung über die Beschwerde die damit verbundenen Vorteile überwiegen. Bei der Abwägung ist das Interesse der Allgemeinheit an einer wirtschaftlichen Erfüllung der Aufgaben des Auftraggebers zu berücksichtigen; bei verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des § 104 sind zusätzlich besondere Verteidigungs- und Sicherheitsinteressen zu berücksichtigen. Die besonderen Verteidigungs- und Sicherheitsinteressen überwiegen in der Regel, wenn der öffentliche Auftrag oder die Konzession im unmittelbaren Zusammenhang steht mit
+(1) Auf Antrag des Auftraggebers oder auf Antrag des Unternehmens, das nach § 134 vom Auftraggeber als das Unternehmen benannt ist, das den Zuschlag erhalten soll, kann das Gericht den weiteren Fortgang des Vergabeverfahrens und den Zuschlag gestatten, wenn unter Berücksichtigung aller möglicherweise geschädigten Interessen die vorteilhaften Folgen einer Verzögerung der Vergabe bis zur Entscheidung über die Beschwerde die damit verbundenen Nachteile nicht überwiegen. Bei der Abwägung ist das Interesse der Allgemeinheit an einer wirtschaftlichen Erfüllung der Aufgaben des Auftraggebers zu berücksichtigen; bei verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des § 104 sind zusätzlich besondere Verteidigungs- und Sicherheitsinteressen zu berücksichtigen. Die besonderen Verteidigungs- und Sicherheitsinteressen überwiegen in der Regel, wenn der öffentliche Auftrag oder die Konzession im unmittelbaren Zusammenhang steht mit
 
 1. einer Krise,
 
@@ -3814,7 +3888,7 @@ An dem Verfahren vor dem Beschwerdegericht beteiligt sind die an dem Verfahren v
 
 4. einer Bündnisverpflichtung.
 
-Das Gericht berücksichtigt bei seiner Entscheidung auch die Erfolgsaussichten der sofortigen Beschwerde, die allgemeinen Aussichten des Antragstellers im Vergabeverfahren, den öffentlichen Auftrag oder die Konzession zu erhalten, und das Interesse der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens.
+Das Gericht berücksichtigt bei seiner Entscheidung vorrangig die Erfolgsaussichten der sofortigen Beschwerde, die allgemeinen Aussichten des Antragstellers im Vergabeverfahren, den öffentlichen Auftrag oder die Konzession zu erhalten, und das Interesse der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens.
 
 (2) Der Antrag ist schriftlich zu stellen und gleichzeitig zu begründen. Die zur Begründung des Antrags vorzutragenden Tatsachen sowie der Grund für die Eilbedürftigkeit sind glaubhaft zu machen. Bis zur Entscheidung über den Antrag kann das Verfahren über die Beschwerde ausgesetzt werden.
 
@@ -3822,21 +3896,19 @@ Das Gericht berücksichtigt bei seiner Entscheidung auch die Erfolgsaussichten d
 
 (4) Gegen eine Entscheidung nach dieser Vorschrift ist ein Rechtsmittel nicht zulässig.
 
-##### § 177 Ende des Vergabeverfahrens nach Entscheidung des Beschwerdegerichts
+###### § 177 (weggefallen)
 
-Ist der Auftraggeber mit einem Antrag nach § 176 vor dem Beschwerdegericht unterlegen, gilt das Vergabeverfahren nach Ablauf von zehn Tagen nach Zustellung der Entscheidung als beendet, wenn der Auftraggeber nicht die Maßnahmen zur Herstellung der Rechtmäßigkeit des Verfahrens ergreift, die sich aus der Entscheidung ergeben; das Verfahren darf nicht fortgeführt werden.
-
-##### § 178 Beschwerdeentscheidung
+###### § 178 Beschwerdeentscheidung
 
 Hält das Gericht die Beschwerde für begründet, so hebt es die Entscheidung der Vergabekammer auf. In diesem Fall entscheidet das Gericht in der Sache selbst oder spricht die Verpflichtung der Vergabekammer aus, unter Berücksichtigung der Rechtsauffassung des Gerichts über die Sache erneut zu entscheiden. Auf Antrag stellt es fest, ob das Unternehmen, das die Nachprüfung beantragt hat, durch den Auftraggeber in seinen Rechten verletzt ist. § 168 Absatz 2 gilt entsprechend.
 
-##### § 179 Bindungswirkung und Vorlagepflicht
+###### § 179 Bindungswirkung und Vorlagepflicht
 
 (1) Wird wegen eines Verstoßes gegen Vergabevorschriften Schadensersatz begehrt und hat ein Verfahren vor der Vergabekammer stattgefunden, ist das ordentliche Gericht an die bestandskräftige Entscheidung der Vergabekammer und die Entscheidung des Oberlandesgerichts sowie gegebenenfalls des nach Absatz 2 angerufenen Bundesgerichtshofs über die Beschwerde gebunden.
 
-(2) Will ein Oberlandesgericht von einer Entscheidung eines anderen Oberlandesgerichts oder des Bundesgerichtshofs abweichen, so legt es die Sache dem Bundesgerichtshof vor. Der Bundesgerichtshof entscheidet anstelle des Oberlandesgerichts. Der Bundesgerichtshof kann sich auf die Entscheidung der Divergenzfrage beschränken und dem Beschwerdegericht die Entscheidung in der Hauptsache übertragen, wenn dies nach dem Sach- und Streitstand des Beschwerdeverfahrens angezeigt scheint. Die Vorlagepflicht gilt nicht im Verfahren nach § 173 Absatz 1 Satz 3 und nach § 176.
+(2) Will ein Oberlandesgericht von einer Entscheidung eines anderen Oberlandesgerichts oder des Bundesgerichtshofs abweichen, so legt es die Sache dem Bundesgerichtshof vor. Der Bundesgerichtshof entscheidet anstelle des Oberlandesgerichts. Der Bundesgerichtshof kann sich auf die Entscheidung der Divergenzfrage beschränken und dem Beschwerdegericht die Entscheidung in der Hauptsache übertragen, wenn dies nach dem Sach- und Streitstand des Beschwerdeverfahrens angezeigt scheint. Die Vorlagepflicht gilt nicht im Verfahren nach § 176.
 
-##### § 180 Schadensersatz bei Rechtsmissbrauch
+###### § 180 Schadensersatz bei Rechtsmissbrauch
 
 (1) Erweist sich der Antrag nach § 160 oder die sofortige Beschwerde nach § 171 als von Anfang an ungerechtfertigt, ist der Antragsteller oder der Beschwerdeführer verpflichtet, dem Gegner und den Beteiligten den Schaden zu ersetzen, der ihnen durch den Missbrauch des Antrags- oder Beschwerderechts entstanden ist.
 
@@ -3850,11 +3922,11 @@ Hält das Gericht die Beschwerde für begründet, so hebt es die Entscheidung de
 
 (3) Erweisen sich die von der Vergabekammer entsprechend einem besonderen Antrag nach § 169 Absatz 3 getroffenen vorläufigen Maßnahmen als von Anfang an ungerechtfertigt, hat der Antragsteller dem Auftraggeber den aus der Vollziehung der angeordneten Maßnahme entstandenen Schaden zu ersetzen.
 
-##### § 181 Anspruch auf Ersatz des Vertrauensschadens
+###### § 181 Anspruch auf Ersatz des Vertrauensschadens
 
 Hat der Auftraggeber gegen eine den Schutz von Unternehmen bezweckende Vorschrift verstoßen und hätte das Unternehmen ohne diesen Verstoß bei der Wertung der Angebote eine echte Chance gehabt, den Zuschlag zu erhalten, die aber durch den Rechtsverstoß beeinträchtigt wurde, so kann das Unternehmen Schadensersatz für die Kosten der Vorbereitung des Angebots oder der Teilnahme an einem Vergabeverfahren verlangen. Weiterreichende Ansprüche auf Schadensersatz bleiben unberührt.
 
-##### § 182 Kosten des Verfahrens vor der Vergabekammer
+###### § 182 Kosten des Verfahrens vor der Vergabekammer
 
 (1) Für Amtshandlungen der Vergabekammern werden Kosten (Gebühren und Auslagen) zur Deckung des Verwaltungsaufwandes erhoben. Das Verwaltungskostengesetz vom 23. Juni 1970 (BGBl. I S. 821) in der am 14. August 2013 geltenden Fassung ist anzuwenden.
 
@@ -3864,7 +3936,7 @@ Hat der Auftraggeber gegen eine den Schutz von Unternehmen bezweckende Vorschrif
 
 (4) Soweit ein Beteiligter im Nachprüfungsverfahren unterliegt, hat er die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen des Antragsgegners zu tragen. Die Aufwendungen der Beigeladenen sind nur erstattungsfähig, soweit sie die Vergabekammer aus Billigkeit der unterlegenen Partei auferlegt. Hat sich der Antrag durch Rücknahme oder anderweitig erledigt, erfolgt die Entscheidung, wer die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen anderer Beteiligter zu tragen hat, nach billigem Ermessen; in Bezug auf die Erstattung der Aufwendungen der Beigeladenen gilt im Übrigen Satz 2 entsprechend. § 80 Absatz 1, 2 und 3 Satz 2 des Verwaltungsverfahrensgesetzes und die entsprechenden Vorschriften der Verwaltungsverfahrensgesetze der Länder gelten entsprechend. Ein gesondertes Kostenfestsetzungsverfahren findet nicht statt.
 
-##### § 183 Korrekturmechanismus der Kommission
+###### § 183 Korrekturmechanismus der Kommission
 
 (1) Erhält die Bundesregierung im Laufe eines Vergabeverfahrens vor Abschluss des Vertrags eine Mitteilung der Europäischen Kommission, dass diese der Auffassung ist, es liege ein schwerer Verstoß gegen das Recht der Europäischen Union zur Vergabe öffentlicher Aufträge oder zur Vergabe von Konzessionen vor, der zu beseitigen sei, teilt das Bundesministerium für Wirtschaft und Energie dies dem Auftraggeber mit.
 
@@ -3872,13 +3944,13 @@ Hat der Auftraggeber gegen eine den Schutz von Unternehmen bezweckende Vorschrif
 
 (3) Ist das Vergabeverfahren Gegenstand eines Nachprüfungsverfahrens oder wurde es ausgesetzt, so ist der Auftraggeber verpflichtet, das Bundesministerium für Wirtschaft und Energie unverzüglich über den Ausgang des Verfahrens zu informieren.
 
-##### § 184 Unterrichtungspflichten der Nachprüfungsinstanzen
+###### § 184 Unterrichtungspflichten der Nachprüfungsinstanzen
 
 Die Vergabekammern und die Oberlandesgerichte unterrichten das Bundesministerium für Wirtschaft und Energie bis zum 31. Januar eines jeden Jahres über die Anzahl der Nachprüfungsverfahren des Vorjahres und deren Ergebnisse.
 
 ## Teil 5 Anwendungsbereich der Teile 1 bis 3
 
-##### § 185 Unternehmen der öffentlichen Hand, Geltungsbereich
+###### § 185 Unternehmen der öffentlichen Hand, Geltungsbereich
 
 (1) Die Vorschriften des Ersten bis Dritten Teils dieses Gesetzes sind auch auf Unternehmen anzuwenden, die ganz oder teilweise im Eigentum der öffentlichen Hand stehen oder die von ihr verwaltet oder betrieben werden. Die §§ 19, 20 und 31b Absatz 5 sind nicht anzuwenden auf öffentlich-rechtliche Gebühren oder Beiträge. Die Vorschriften des Ersten bis Dritten Teils dieses Gesetzes sind nicht auf die Deutsche Bundesbank und die Kreditanstalt für Wiederaufbau anzuwenden.
 
@@ -3890,21 +3962,39 @@ Die Vergabekammern und die Oberlandesgerichte unterrichten das Bundesministerium
 
 ## Teil 6 Übergangs- und Schlussbestimmungen
 
-##### § 186 Anwendungsbestimmung zu § 47k
+###### § 186 Anwendungsbestimmung zu § 47k
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz hat
+(1) Das Bundesministerium für Wirtschaft und Energie hat
 
 1. das Vorliegen der erforderlichen technischen Voraussetzungen für eine Übermittlung der abgegebenen Mengen nach § 47k Absatz 2 Satz 1 Nummer 2 in Verbindung mit der Rechtsverordnung nach § 47k Absatz 8 festzustellen und
 
 2. die Feststellung nach Nummer 1 im Bundesanzeiger bekannt zu machen.
 
-(2) § 47k Absatz 2 Satz 1 Nummer 2 ist nach Ablauf des Monats, der auf den Monat folgt, in dem die Bekanntmachung nach Absatz 1 Nummer 2 erfolgt, anzuwenden; dieser Tag ist vom Bundesministerium für Wirtschaft und Klimaschutz unverzüglich im Bundesanzeiger bekannt zu machen.
+(2) § 47k Absatz 2 Satz 1 Nummer 2 ist nach Ablauf des Monats, der auf den Monat folgt, in dem die Bekanntmachung nach Absatz 1 Nummer 2 erfolgt, anzuwenden; dieser Tag ist vom Bundesministerium für Wirtschaft und Energie unverzüglich im Bundesanzeiger bekannt zu machen.
 
-##### § 187 Übergangs- und Schlussbestimmungen
+###### § 186a Fusionskontrolle im Krankenhausbereich
+
+(1) Für einen Zusammenschluss im Sinne des § 37, bei dem mindestens zwei Krankenhäuser im Sinne des § 107 Absatz 1 des Fünften Buches Sozialgesetzbuch oder einzelne medizinische Fachbereiche von mindestens zwei solchen Krankenhäusern ganz oder teilweise zusammengeschlossen werden, haben die Zusammenschlussbeteiligten bei Eröffnung des Geltungsbereichs der Zusammenschlusskontrolle bei der für die Krankenhausplanung zuständigen Behörde des Landes, in dem sich ein von dem Zusammenschluss betroffenes Krankenhaus oder ein von dem Zusammenschluss betroffener medizinischer Fachbereich eines am Zusammenschluss beteiligten Krankenhauses befindet, die Bestätigung zu beantragen, dass der Zusammenschluss dieser Krankenhäuser oder dieser einzelnen medizinischen Fachbereiche der am Zusammenschluss beteiligten Krankenhäuser zur Verbesserung der Krankenhausversorgung für erforderlich gehalten wird. Die von der für die Krankenhausplanung zuständige Landesbehörde auf Antrag nach Satz 1 erteilte Erforderlichkeitsbestätigung erstreckt sich nur auf Märkte, auf denen die vom Zusammenschluss betroffenen Krankenhäuser im Sinne des § 107 Absatz 1 des Fünften Buches Sozialgesetzbuch oder medizinischen Fachbereiche Leistungen im Sinne des § 39 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch erbringen. Sind mehrere Landesbehörden nach Satz 1 zuständig, entscheiden diese einvernehmlich mit einer gemeinsamen schriftlichen oder elektronischen Bestätigung.
+
+(2) Anträge auf Erteilung der Erforderlichkeitsbestätigung nach Absatz 1 Satz 1 sowie die Entscheidung über diese sind unverzüglich durch die für die Krankenhausplanung zuständige Landesbehörde auf ihrer Internetseite unter Nennung der Zusammenschlussbeteiligten bekanntzumachen. Die für die Krankenhausplanung zuständige Landesbehörde setzt sich mit dem Bundeskartellamt vor der Erteilung einer Erforderlichkeitsbestätigung ins Benehmen. Über den Antrag nach Absatz 1 Satz 1 darf nicht vor Ablauf von einem Monat nach dessen Bekanntmachung entschieden werden. Wird der Antrag nicht innerhalb von drei Monaten nach der Stellung des Antrags nach Absatz 1 Satz 1 beschieden, gilt er als abgelehnt. Die für die Krankenhausplanung zuständige Landesbehörde kann mit Zustimmung aller Zusammenschlussbeteiligten die in Satz 4 genannte Frist verlängern.
+
+(3) Die Anmeldung eines Zusammenschlusses nach Absatz 1 Satz 1 beim Bundeskartellamt nach § 39 ist nur dann zulässig und erforderlich,
+
+1. wenn der Antrag auf Erteilung einer Erforderlichkeitsbestätigung abgelehnt wurde oder gemäß Absatz 2 Satz 4 als abgelehnt gilt, oder
+
+2. in den Fällen, in denen die Erforderlichkeitsbestätigung erteilt wurde und das Zusammenschlussvorhaben nicht ausschließlich Märkte betrifft, auf denen Krankenhäuser im Sinne des § 107 Absatz 1 des Fünften Buches Sozialgesetzbuch oder medizinische Fachbereiche der am Zusammenschluss beteiligten Krankenhäuser in § 39 Absatz 1 Satz 1 des Fünften Buches genannte Leistungen erbringen.
+
+Im Fall eines Zusammenschlusses nach Satz 1 Nummer 2 bleibt der Teil des Zusammenschlusses, auf den sich die Erforderlichkeitsbestätigung nach Absatz 1 Satz 1 erstreckt, bei der Prüfung des Geltungsbereiches der Zusammenschlusskontrolle nach § 35 außer Betracht. Dieser Teil des Zusammenschlusses gilt nicht als Teil des nach § 39 anmeldepflichtigen Zusammenschlussvorhabens. Die in § 40 Absatz 1 Satz 1 genannte Frist beginnt nicht, bevor die Zusammenschlussbeteiligten dem Bundeskartellamt die Entscheidung der für die Krankenhausplanung zuständigen Landesbehörde über den Antrag nach Absatz 1 Satz 1 vorlegen oder nachweisen, dass die Erforderlichkeitsbestätigung beantragt und der in Absatz 2 Satz 4 genannte oder nach Absatz 2 Satz 5 verlängerte Zeitraum abgelaufen ist.
+
+(4) Die Monopolkommission nimmt gegenüber dem Bundesministerium für Wirtschaft und Energie nach dessen Aufforderung Stellung zu den Erfahrungen mit dieser Vorschrift. Das Bundesministerium für Wirtschaft und Energie berichtet auf Grundlage dieser Stellungnahme den gesetzgebenden Körperschaften spätestens nach Ablauf von fünf Jahren nach Inkrafttreten der Regelungen in den Absätzen 1 bis 3 über die Erfahrungen mit dieser Vorschrift. Für Datenanforderungen des Bundesministeriums für Wirtschaft und Energie und der Monopolkommission zwecks Abgabe der Stellungnahme nach Satz 1 oder Erstellung des Berichts nach Satz 2 gilt § 21 Absatz 3 Satz 8 des Krankenhausentgeltgesetzes entsprechend mit der Maßgabe, dass die ausgewählten Krankenhäuser von einem Zusammenschluss nach Absatz 1 Satz 1 betroffen sein müssen. Für die Abgabe der Stellungnahme nach Satz 1 oder die Erstellung des Berichts nach Satz 2 und zur Untersuchung der Auswirkungen dieser Vorschrift auf die Wettbewerbsverhältnisse und die Krankenhausversorgung können Daten aus der amtlichen Krankenhausstatistik zusammengeführt werden.
+
+(5) Diese Vorschrift ist nur anzuwenden auf Zusammenschlüsse, die bis zum 31. Dezember 2030 vollzogen werden.
+
+###### § 187 Übergangs- und Schlussbestimmungen
 
 (1) § 29 ist nach dem 31. Dezember 2027 nicht mehr anzuwenden.
 
-(2) Vergabeverfahren, die vor dem 18. April 2016 begonnen haben, einschließlich der sich an diese anschließenden Nachprüfungsverfahren sowie am 18. April 2016 anhängige Nachprüfungsverfahren werden nach dem Recht zu Ende geführt, das zum Zeitpunkt der Einleitung des Verfahrens galt.
+(2) Vergabeverfahren, die vor dem 1. Juli 2026 begonnen haben, einschließlich der sich an diese anschließenden Nachprüfungsverfahren sowie am 1. Juli 2026 anhängige Nachprüfungsverfahren werden nach dem Recht zu Ende geführt, das zum Zeitpunkt der Einleitung des Verfahrens galt.
 
 (3) Mit Ausnahme von § 33c Absatz 5 sind die §§ 33a bis 33f nur auf Schadensersatzansprüche anwendbar, die nach dem 26. Dezember 2016 entstanden sind. § 33h ist auf nach dem 26. Dezember 2016 entstandene Ansprüche nach § 33 Absatz 1 oder § 33a Absatz 1 sowie auf vor dem 27. Dezember 2016 entstandene Unterlassungs-, Beseitigungs- und Schadensersatzansprüche wegen eines Verstoßes gegen eine Vorschrift im Sinne des § 33 Absatz 1 oder gegen eine Verfügung der Kartellbehörde anzuwenden, die am 9. Juni 2017 noch nicht verjährt waren. Der Beginn, die Hemmung, die Ablaufhemmung und der Neubeginn der Verjährung der Ansprüche, die vor dem 27. Dezember 2016 entstanden sind, bestimmen sich jedoch für die Zeit bis zum 8. Juni 2017 nach den bisher für diese Ansprüche jeweils geltenden Verjährungsvorschriften.
 
@@ -3928,33 +4018,24 @@ Die Vergabekammern und die Oberlandesgerichte unterrichten das Bundesministerium
 
 1. der Zusammenschluss eine standortübergreifende Konzentration von mehreren Krankenhäusern oder einzelnen Fachrichtungen mehrerer Krankenhäuser zum Gegenstand hat,
 
-2. dem Zusammenschluss keine anderen wettbewerbsrechtlichen Vorschriften entgegenstehen und dies das Land bei Antragstellung nach der Krankenhausstrukturfonds-Verordnung bestätigt hat,
+2. dem Zusammenschluss keine anderen wettbewerbsrechtlichen Vorschriften entgegenstehen und dies das Land bei Antragstellung nach der Krankenhausstrukturfonds-Verordnung oder der Krankenhaustransformationsfonds-Verordnung bestätigt hat,
 
-3. das Vorliegen der weiteren Voraussetzungen für eine Förderung nach § 12a Absatz 1 Satz 4 des Krankenhausfinanzierungsgesetzes in Verbindung mit § 11 Absatz 1 Nummer 2 der Krankenhausstrukturfonds-Verordnung oder nach § 12b Absatz 1 Satz 4 Nummer 1 des Krankenhausfinanzierungsgesetzes in einem Auszahlungsbescheid auf der Grundlage der Krankenhausstrukturfonds-Verordnung festgestellt wurde und
+3. das Vorliegen der weiteren Voraussetzungen für eine Förderung nach § 12a Absatz 1 Satz 4 des Krankenhausfinanzierungsgesetzes in Verbindung mit § 11 Absatz 1 Nummer 2 der Krankenhausstrukturfonds-Verordnung oder nach § 12b Absatz 1 Satz 3 Nummer 1 des Krankenhausfinanzierungsgesetzes in Verbindung mit einem Auszahlungsbescheid auf der Grundlage von § 5 Absatz 1 der Krankenhaustransformationsfonds-Verordnung festgestellt wurde und
 
 4. der Zusammenschluss bis zum 31. Dezember 2038 vollzogen wird.
 
 Werden Zusammenschlüsse im Krankenhausbereich beim Bundeskartellamt nach § 39 Absatz 1 angemeldet, ist das Bundeskartellamt darüber zu informieren, inwieweit ein Antrag auf Förderung aus den Mitteln des Krankenhausstrukturfonds oder des Transformationsfonds gestellt wurde; ein Zusammenschluss im Sinne des Satzes 1 ist dem Bundeskartellamt nach Vollzug anzuzeigen. Für die Evaluierung dieser Regelung sind die §§ 32e und 21 Absatz 3 Satz 8 des Krankenhausentgeltgesetzes entsprechend anzuwenden. Für die Zwecke der Evaluierung und zur Untersuchung der Auswirkungen dieser Regelung auf die Wettbewerbsverhältnisse und die Versorgungsqualität können Daten aus der amtlichen Krankenhausstatistik zusammengeführt werden. Diese Regelung ist anzuwenden auf Zusammenschlüsse, die ab dem 1. Januar 2031 vollzogen werden.
 
-(10) Die §§ 35 bis 41 sind nicht anzuwenden auf einen Zusammenschluss im Krankenhausbereich, sofern
+(10) (weggefallen)
 
-1. der Zusammenschluss eine standortübergreifende Konzentration von mehreren Krankenhäusern im Sinne des § 2 Nummer 1 des Krankenhausfinanzierungsgesetzes oder einzelnen Fachrichtungen solcher Krankenhäuser zum Gegenstand hat,
-
-2. die für die Krankenhausplanung zuständigen Landesbehörden der Bundesländer, in denen die am Zusammenschluss beteiligten Krankenhäuser oder einzelnen Fachrichtungen solcher Krankenhäuser belegen sind, – im Falle der Zuständigkeit mehrerer Landesbehörden einvernehmlich – schriftlich bestätigen, dass sie den Zusammenschluss zur Verbesserung der Krankenhausversorgung für erforderlich halten und dem Zusammenschluss nach vorliegenden Erkenntnissen keine anderen wettbewerbsrechtlichen Vorschriften entgegenstehen,
-
-3. der Zusammenschluss bis zum 31. Dezember 2030 vollzogen wird.
-
-Anträge auf schriftliche Bestätigung nach Satz 1 Nummer 2 sind unverzüglich durch die zuständigen Landesministerien auf ihren Internetseiten unter Nennung der Zusammenschlussbeteiligten zu veröffentlichen. Die für die Krankenhausplanung zuständigen Landesbehörden der Bundesländer setzen sich mit dem Bundeskartellamt vor einer Bestätigung nach Satz 1 Nummer 2 ins Benehmen. Über den Antrag nach Satz 1 Nummer 2 darf nicht vor Ablauf von einem Monat nach der Veröffentlichung entschieden werden. Eine Anmeldung eines Zusammenschlusses im Sinne des Satzes 1 Nummer 1 und 3 ist beim Bundeskartellamt nach § 39 Absatz 1 erst dann zulässig, wenn die Zusammenschlussparteien gegenüber dem Bundeskartellamt nachweisen, dass ihr Antrag auf schriftliche Bestätigung nach Satz 1 Nummer 2 durch die zuständigen Landesbehörden abgelehnt oder nicht innerhalb von zwei Monaten beschieden wurde. Das Bundesministerium für Wirtschaft und Klimaschutz berichtet auf Grundlage einer Stellungnahme der Monopolkommission den gesetzgebenden Körperschaften spätestens nach Ablauf von sechs Jahren nach Inkrafttreten der Regelungen in den Sätzen 1 bis 4 über die Erfahrungen mit dieser Vorschrift. Für Datenanforderungen des Bundesministeriums für Wirtschaft und Klimaschutz und der Monopolkommission zur Evaluierung im Sinne dieses Absatzes ist § 21 Absatz 3 Satz 8 des Krankenhausentgeltgesetzes entsprechend anzuwenden, soweit die Krankenhäuser von einem Zusammenschluss im Sinne des Satzes 1 betroffen sind. § 21 Absatz 3 Satz 9 des Krankenhausentgeltgesetzes findet insofern keine Anwendung. Für die Zwecke der Evaluierung und zur Untersuchung der Auswirkungen dieser Regelungen auf die Wettbewerbsverhältnisse und die Krankenhausversorgung können Daten aus der amtlichen Krankenhausstatistik zusammengeführt werden.
-
-(11) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im Hinblick auf das Abkommen zwischen dem Bundesministerium für Wirtschaft und Klimaschutz der Bundesrepublik Deutschland und dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung der Schweizerischen Eidgenossenschaft über Zusammenarbeit und Koordinierung der Wettbewerbsbehörden, zu bestimmen, dass
+(11) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im Hinblick auf das Abkommen zwischen dem Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland und dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung der Schweizerischen Eidgenossenschaft über Zusammenarbeit und Koordinierung der Wettbewerbsbehörden, zu bestimmen, dass
 
 1. Informationen ausschließlich in kartellbehördlichen Verfahren und sich daran anschließenden Rechtsbehelfsverfahren sowie nur für die Zwecke, für die sie von der schweizerischen Wettbewerbsbehörde übermittelt wurden, verwendet werden dürfen und
 
 2. eine Pflicht zur Wahrung der Vertraulichkeit sowie ein Ausschluss der Offenlegung gegenüber anderen staatlichen Stellen sowie Dritten zu beachten ist,
 
-soweit sich die in dem Abkommen von der Bundesrepublik Deutschland übernommenen Verpflichtungen und gewährten Rechte im Rahmen der nach den §§ 50a bis 50f zulässigen zwischenbehördlichen Zusammenarbeit halten. Bestimmungen einer Rechtsverordnung nach Satz 1 sind erst ab dem Tag anzuwenden, ab dem das in Satz 1 bezeichnete Abkommen wirksam geworden ist. Das Bundesministerium für Wirtschaft und Klimaschutz gibt den Tag unter Angabe der Bezeichnung des Abkommens zwischen dem Bundesministerium für Wirtschaft und Klimaschutz der Bundesrepublik Deutschland und dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung der Schweizerischen Eidgenossenschaft über Zusammenarbeit und Koordinierung der Wettbewerbsbehörden und dessen Fundstelle im Bundesgesetzblatt bekannt.
+soweit sich die in dem Abkommen von der Bundesrepublik Deutschland übernommenen Verpflichtungen und gewährten Rechte im Rahmen der nach den §§ 50a bis 50f zulässigen zwischenbehördlichen Zusammenarbeit halten. Bestimmungen einer Rechtsverordnung nach Satz 1 sind erst ab dem Tag anzuwenden, ab dem das in Satz 1 bezeichnete Abkommen wirksam geworden ist. Das Bundesministerium für Wirtschaft und Energie gibt den Tag unter Angabe der Bezeichnung des Abkommens zwischen dem Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland und dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung der Schweizerischen Eidgenossenschaft über Zusammenarbeit und Koordinierung der Wettbewerbsbehörden und dessen Fundstelle im Bundesgesetzblatt bekannt.
 
 (12) Das Bundeskartellamt kann eine Verfügung nach § 32f Absatz 2 auch auf der Grundlage einer Sektoruntersuchung nach § 32e erlassen, die am 7. November 2023 bereits abgeschlossen war, wenn die Veröffentlichung des Abschlussberichts nach § 32e Absatz 4 zu diesem Zeitpunkt weniger als ein Jahr zurücklag. In den Fällen des Satzes 1 ist § 32f Absatz 7 mit der Maßgabe anzuwenden, dass die Frist am 7. November 2023 zu laufen beginnt.
 
 (13) Verfahren nach § 32f Absatz 3, die vor dem 1. April 2026 eingeleitet wurden, werden nach dem Recht zu Ende geführt, das zum Zeitpunkt des Erlasses der Verfügung nach § 32f Absatz 3 gilt.
-
