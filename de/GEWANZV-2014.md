@@ -4,23 +4,27 @@ identifier: "GEWANZV-2014"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2014-07-22"
-last_updated: "2026-04-04"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/gewanzv_2014/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR120800014"
 slug: "gewanzv_2014"
 bgbl_reference: "BGBl I 2014, 1208"
 amtabk: "GewAnzV"
-stand: "Zuletzt geändert durch Art. 10 V v. 11.12.2024 I Nr. 411"
+stand: "Zuletzt geändert durch Art. 7 G v. 20.7.2026 I Nr. 215"
 ---
 # Verordnung zur Ausgestaltung des Gewerbeanzeigeverfahrens
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund des § 14 Absatz 14 der Gewerbeordnung, der durch Artikel 1 Nummer 2 Buchstabe g des Gesetzes vom 11. Juli 2011 (BGBl. I S. 1341) eingefügt worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310):
 
-##### § 1 Erstattung der Gewerbeanzeige
+###### § 1 Erstattung der Gewerbeanzeige
 
 Für die Erstattung der Gewerbeanzeige ist zu verwenden
 
@@ -32,7 +36,7 @@ Für die Erstattung der Gewerbeanzeige ist zu verwenden
 
 Die Vordrucke sind vollständig und gut lesbar maschinell oder in Druckbuchstaben auszufüllen.
 
-##### § 2 Elektronische Erstattung der Gewerbeanzeige
+###### § 2 Elektronische Erstattung der Gewerbeanzeige
 
 (1) Wird die Gewerbeanzeige elektronisch erstattet, kann die zuständige Behörde zur elektronischen Datenverarbeitung Abweichungen von der Form der in § 1 geregelten Vordrucke, nicht aber vom Inhalt der Anzeige zulassen. Bei einer für die elektronische Versendung an die zuständige Behörde bestimmten Fassung des Vordrucks entfällt das in Feld 33 vorgesehene Unterschriftsfeld gemäß § 13 Satz 2 des E-Government-Gesetzes vom 25. Juli 2013 (BGBl. I S. 2749).
 
@@ -42,13 +46,13 @@ Die Vordrucke sind vollständig und gut lesbar maschinell oder in Druckbuchstabe
 
 2. der elektronische Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes,
 
-3. eine De-Mail nach § 5 des De-Mail-Gesetzes vom 28. April 2011 (BGBl. I S. 666), das durch Artikel 2 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, in der jeweils geltenden Fassung,
+3. (weggefallen)
 
 4. eine Erklärung, mit deren Abgabe versichert wird, dass die Person, die die Erklärung abgibt, mit der im Vordruck angegebenen Person des Anzeigenden identisch ist.
 
 Alternativ kann die zuständige Behörde zur Feststellung der Identität des Anzeigenden die Übersendung einer Kopie des Personalausweises oder Reisepasses verlangen.
 
-##### § 3 Übermittlung von Daten aus der Gewerbeanzeige an weitere Behörden
+###### § 3 Übermittlung von Daten aus der Gewerbeanzeige an weitere Behörden
 
 (1) Die zuständige Behörde übermittelt die mittels der Vordrucke der Anlagen 1 bis 3 erhobenen Daten aus der Gewerbeanzeige regelmäßig an die nachfolgenden Stellen zur Wahrnehmung ihrer jeweiligen Aufgaben:
 
@@ -176,29 +180,28 @@ c) in den Feldern 6, 10, 18 bis 26, 28 und 29 der Anlage 3 als Erhebungsmerkmale
 
 (6) (weggefallen)
 
-##### § 4 Inkrafttreten
+###### § 4 Inkrafttreten
 
 Diese Verordnung tritt vorbehaltlich des Satzes 2 am 1. Januar 2015 in Kraft. § 3 Absatz 4 und 5 treten am 1. Januar 2016 in Kraft.
 
-##### Schlussformel
+###### Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-##### Anlage 1 (zu § 1 Satz 1 Nummer 1)Gewerbe-Anmeldung
+###### Anlage 1 (zu § 1 Satz 1 Nummer 1)Gewerbe-Anmeldung
 
 (Fundstelle: BGBl. I 2019, 918 – 919; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gewerbe-Anmeldung
 
-##### Anlage 2 (zu § 1 Satz 1 Nummer 2)Gewerbe-Ummeldung
+###### Anlage 2 (zu § 1 Satz 1 Nummer 2)Gewerbe-Ummeldung
 
 (Fundstelle: BGBl. I 2019, 920 – 921; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gewerbe-Ummeldung
 
-##### Anlage 3 (zu § 1 Satz 1 Nummer 3)Gewerbe-Abmeldung
+###### Anlage 3 (zu § 1 Satz 1 Nummer 3)Gewerbe-Abmeldung
 
 (Fundstelle: BGBl. I 2019, 922 – 923; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Gewerbe-Abmeldung
-
