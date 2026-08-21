@@ -4,18 +4,22 @@ identifier: "IHKG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1956-12-18"
-last_updated: "2026-04-04"
+last_updated: "2026-08-21"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/ihkg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR009200956"
 slug: "ihkg"
 bgbl_reference: "BGBl I 1956, 920"
-stand: "Zuletzt geändert durch Art. 1 G v. 7.8.2021 I 3306"
+stand: "Zuletzt geändert durch Art. 6 G v. 20.7.2026 I Nr. 215"
 ---
 # Gesetz zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern
 
-##### § 1
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1
 
 (1) Die Industrie- und Handelskammern haben, soweit nicht die Zuständigkeit der Organisationen des Handwerks nach Maßgabe der Handwerksordnung oder die Zuständigkeit der Kammern der freien Berufe in Bezug auf die Berufspflichten ihrer Mitglieder gegeben ist, die Aufgaben:
 
@@ -51,7 +55,7 @@ Bei der Wahrnehmung ihrer Aufgaben haben die Industrie- und Handelskammern den a
 
 (5) Nicht zu den Aufgaben nach Absatz 1 Satz 1 Nummer 1 gehören die grundrechtlich geschützten Aufgabenbereiche der Vereinigungen im Sinne des Artikels 9 Absatz 3 Satz 1 des Grundgesetzes, insbesondere die Aufgabenbereiche der Tarifpartner sowie die arbeitsgerichtliche Vertretung von Unternehmen. Zudem sind Stellungnahmen ausgeschlossen zu sozial- und arbeitsmarktpolitischen Fragen, soweit diese in der ausschließlichen Entscheidungszuständigkeit der Gremien der sozialen Selbstverwaltung liegen.
 
-##### § 2
+###### § 2
 
 (1) Zur Industrie- und Handelskammer gehören, sofern sie zur Gewerbesteuer veranlagt sind, natürliche Personen, Handelsgesellschaften, andere Personenmehrheiten und juristische Personen des privaten und des öffentlichen Rechts, welche im Bezirk der Industrie- und Handelskammer eine Betriebsstätte unterhalten (Kammerzugehörige).
 
@@ -69,7 +73,7 @@ c) Zusammenschlüsse der unter Buchstabe b genannten Genossenschaften bis zu ein
 
 (5) Absatz 1 gilt nicht für Gebietskörperschaften.
 
-##### § 3
+###### § 3
 
 (1) Die Industrie- und Handelskammer ist Körperschaft des öffentlichen Rechts.
 
@@ -97,7 +101,7 @@ die für Gemeindeabgaben geltenden landesrechtlichen Vorschriften
 
 entsprechend anzuwenden. Durch Landesrecht kann Verfahren und Zuständigkeit für Einziehung und Beitreibung abweichend geregelt werden.
 
-##### § 4
+###### § 4
 
 (1) Die Organe der Industrie- und Handelskammer sind
 
@@ -133,7 +137,7 @@ entsprechend anzuwenden. Durch Landesrecht kann Verfahren und Zuständigkeit fü
 
 Soweit nach Satz 2 Nr. 7 die elektronische Verkündung von Satzungsrecht vorgesehen ist, hat diese im Bundesanzeiger zu erfolgen.
 
-##### § 5
+###### § 5
 
 (1) Die Mitglieder der Vollversammlung werden von den Kammerzugehörigen gewählt.
 
@@ -143,23 +147,23 @@ Soweit nach Satz 2 Nr. 7 die elektronische Verkündung von Satzungsrecht vorgese
 
 (4) Das Nähere über die Ausübung des aktiven und passiven Wahlrechts, über die Durchführung der Wahl sowie über Dauer und vorzeitige Beendigung der Mitgliedschaft zur Vollversammlung regelt die Wahlordnung. Sie muß Bestimmungen über die Aufteilung der Kammerzugehörigen in besondere Wahlgruppen sowie die Zahl der diesen zugeordneten Sitze in der Vollversammlung enthalten und dabei die wirtschaftlichen Besonderheiten des Kammerbezirks sowie die gesamtwirtschaftliche Bedeutung der Gewerbegruppen berücksichtigen.
 
-##### § 6
+###### § 6
 
 (1) Die Vollversammlung wählt aus ihrer Mitte den Präsidenten (Präses) und die von der Satzung zu bestimmende Zahl von weiteren Mitgliedern des Präsidiums.
 
 (2) Der Präsident (Präses) ist der Vorsitzende des Präsidiums. Er beruft die Vollversammlung ein und führt in ihr den Vorsitz.
 
-##### § 7
+###### § 7
 
 (1) Die Vollversammlung bestellt den Hauptgeschäftsführer.
 
 (2) Präsident (Präses) und Hauptgeschäftsführer vertreten nach näherer Bestimmung der Satzung die Industrie- und Handelskammer rechtsgeschäftlich und gerichtlich.
 
-##### § 8
+###### § 8
 
 Werden bei den Industrie- und Handelskammern zur Durchführung anderer als der in § 79 des Berufsbildungsgesetzes genannten Aufgaben Ausschüsse gebildet, so kann die Satzung bestimmen, daß in diese Ausschüsse auch Personen berufen werden, die nach § 5 Abs. 2 nicht wählbar sind.
 
-##### § 9
+###### § 9
 
 (1) Die Industrie- und Handelskammern erheben die Daten nach § 14 Absatz 8 Satz 1 Nummer 1 in Verbindung mit Satz 2 der Gewerbeordnung sowie der Rechtsverordnung nach § 14 Absatz 14 der Gewerbeordnung bei den Kammerzugehörigen oder öffentlichen Stellen, soweit diese Daten ihnen nicht von der zuständigen Behörde übermittelt worden sind. Bei nichtöffentlichen Stellen und aus allgemein zugänglichen Quellen dürfen Industrie- und Handelskammern die Daten nach § 14 Absatz 8 Satz 1 Nummer 1 in Verbindung mit Satz 2 der Gewerbeordnung sowie der Rechtsverordnung nach § 14 Absatz 14 der Gewerbeordnung erheben, wenn
 
@@ -193,7 +197,7 @@ Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt die Stelle,
 
 (7) Für das Verändern, Einschränken der Verarbeitung oder Löschen der nach den Absätzen 1 und 2 erhobenen Daten sowie die Übermittlung der Daten nach Absatz 1 an öffentliche Stellen gelten unbeschadet der Verordnung (EU) 2016/679 die Datenschutzgesetze der Länder.
 
-##### § 10 Aufgabenübertragung und öffentlich-rechtlicher Zusammenschluss
+###### § 10 Aufgabenübertragung und öffentlich-rechtlicher Zusammenschluss
 
 (1) Industrie- und Handelskammern können Aufgaben, die ihnen auf Grund von Gesetz oder Rechtsverordnung obliegen, einvernehmlich einer anderen Industrie- und Handelskammer übertragen oder zur Erfüllung dieser Aufgaben untereinander öffentlich-rechtliche Zusammenschlüsse bilden oder sich daran beteiligen. § 1 Abs. 3b bleibt unberührt.
 
@@ -203,7 +207,7 @@ Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt die Stelle,
 
 (4) Die Regelungen dieses Gesetzes in § 1 Abs. 3a, § 3 Absatz 1, 2, 6, 7a und 8, § 4 Absatz 2 Satz 1 und 2 Nummer 1 bis 5 und 7 bis 9 sowie in den §§ 6 und 7 sind auf öffentlich-rechtliche Zusammenschlüsse entsprechend anzuwenden.
 
-##### § 10a
+###### § 10a
 
 (1) Die Deutsche Industrie- und Handelskammer hat die Aufgabe,
 
@@ -227,13 +231,13 @@ und dabei stets die wirtschaftlichen Interessen der einzelnen Regionen, Gewerbez
 
 (5) Innerhalb ihrer Verbandskompetenz kann die Deutsche Industrie- und Handelskammer zur Erfüllung ihrer Aufgaben Gesellschaften oder sonstige Vereinigungen gründen sowie sich an Gesellschaften, sonstigen Vereinigungen, Zusammenschlüssen oder Einrichtungen beteiligen oder diese unterstützen. Entstehende Gewinne sind zur Aufgabenerfüllung einzusetzen. Die Deutsche Industrie- und Handelskammer kann Kooperationen im Bereich der gewerblichen Wirtschaft unterstützen, koordinieren und für die Industrie- und Handelskammern Projekte von bundespolitischer Bedeutung durchführen. Zur Förderung und Durchführung der kaufmännischen und gewerblichen Berufsbildung unterstützt sie die Umsetzung der Empfehlungen des Hauptausschusses beim Bundesinstitut für Berufsbildung und die Industrie- und Handelskammern beim Erfüllen der ihnen durch Gesetz übertragenen Aufgaben im Rahmen des Berufsbildungsgesetzes.
 
-(6) Die Deutsche Industrie- und Handelskammer und das Bundesministerium für Wirtschaft und Energie berichten dem Bundestag jeweils zur Mitte einer Legislaturperiode des Bundestages über die wesentlichen Entwicklungen und Perspektiven der Deutschen Industrie- und Handelskammer, der Industrie- und Handelskammern und des Netzwerkes der deutschen Auslandshandelskammern.
+(6) Die Deutsche Industrie- und Handelskammer berichtet dem Bundestag jeweils zur Mitte einer Legislaturperiode des Bundestages über die wesentlichen Entwicklungen und Perspektiven der Deutschen Industrie- und Handelskammer, der Industrie- und Handelskammern und des Netzwerkes der deutschen Auslandshandelskammern.
 
 (7) Der Deutschen Industrie- und Handelskammer können durch Gesetz oder auf Grund eines Gesetzes weitere Aufgaben übertragen werden.
 
 (8) Industrie- und Handelskammern können nach § 10 der Deutschen Industrie- und Handelskammer Aufgaben übertragen, soweit die Vollversammlung der Deutschen Industrie- und Handelskammer zustimmt. Die Übertragung von Aufgaben als zuständige Stelle nach dem Berufsbildungsgesetz ist ausgeschlossen.
 
-##### § 10b
+###### § 10b
 
 (1) Die Deutsche Industrie- und Handelskammer ist eine Körperschaft des öffentlichen Rechts. Sie führt ein Dienstsiegel und hat Dienstherreneigenschaft. Sie wird nach § 13c errichtet. Die Deutsche Industrie- und Handelskammer hat ihren Sitz in Berlin.
 
@@ -245,7 +249,7 @@ und dabei stets die wirtschaftlichen Interessen der einzelnen Regionen, Gewerbez
 
 (5) Die Deutsche Industrie- und Handelskammer ist berechtigt, abweichend von den Bestimmungen der Bundeshaushaltsordnung einen Wirtschaftsplan aufzustellen, die Bücher nach den Regeln der kaufmännischen Buchführung zu führen und einen Jahresabschluss sowie einen Lagebericht nach handelsrechtlichen Grundsätzen zu erstellen. Das Nähere ist nach Maßgabe des § 105 Absatz 1 der Bundeshaushaltsordnung durch Satzung zu regeln.
 
-##### § 10c
+###### § 10c
 
 (1) Für die Organe der Deutschen Industrie- und Handelskammer gilt § 4 Absatz 1 Nummer 1 bis 4 entsprechend.
 
@@ -281,7 +285,7 @@ und dabei stets die wirtschaftlichen Interessen der einzelnen Regionen, Gewerbez
 
 (9) § 8 gilt entsprechend.
 
-##### § 11
+###### § 11
 
 (1) Die Industrie- und Handelskammern unterliegen der Aufsicht des Landes darüber, daß sie sich bei Ausübung ihrer Tätigkeit im Rahmen der für sie geltenden Rechtsvorschriften (einschließlich der Satzung, der Wahl-, Beitrags-, Sonderbeitrags- und Gebührenordnung) halten. Die Aufsicht über den öffentlich-rechtlichen Zusammenschluss wird durch die Aufsichtsbehörde des Landes ausgeübt, in dem der Zusammenschluss seinen Sitz hat. § 1 Abs. 3a Satz 4 bleibt unberührt.
 
@@ -309,7 +313,7 @@ bedürfen der Genehmigung durch die Aufsichtsbehörde des Landes.
 
 (3) Rechtsvorschriften, die diesem Gesetz widersprechen, werden aufgehoben; *Abschnitt I des Gesetzes zur Erhaltung und Hebung der Kaufkraft vom 24. März 1934 (Reichsgesetzbl. I S. 235) und die Verordnung über die Rechnungslegung und Rechnungsprüfung während des Krieges vom 5. Juli 1940 (Reichsgesetzbl. II S. 139)* finden auf die Industrie- und Handelskammern keine Anwendung.
 
-##### § 11a
+###### § 11a
 
 (1) Die Deutsche Industrie- und Handelskammer unterliegt in entsprechender Anwendung des § 11 Absatz 1 Satz 1 der Aufsicht des Bundesministeriums für Wirtschaft und Energie. Abweichende Regelungen durch oder auf Grund anderer Gesetze bleiben hiervon unberührt. Der Genehmigung durch die Aufsichtsbehörde bedürfen die Beschlüsse über
 
@@ -329,7 +333,7 @@ bedürfen der Genehmigung durch die Aufsichtsbehörde des Landes.
 
 (3) Die Industrie- und Handelskammern sowie ihre Kammerzugehörigen haben gegenüber der Deutschen Industrie- und Handelskammer einen Anspruch auf Unterlassung, soweit die Deutsche Industrie- und Handelskammer die gesetzlichen Kompetenzen nach § 10a überschreitet oder eines ihrer Organe gegen einen Beschluss der Vollversammlung verstößt. Über die Klage entscheidet im ersten Rechtszug das für den Sitz der Deutschen Industrie- und Handelskammer örtlich zuständige Verwaltungsgericht. Durch Satzung der Deutschen Industrie- und Handelskammer ist ein Beschwerdeverfahren mit einem Beschwerdeausschuss einzurichten.
 
-##### § 12
+###### § 12
 
 (1) Durch Landesrecht können ergänzende Vorschriften erlassen werden über
 
@@ -351,11 +355,11 @@ bedürfen der Genehmigung durch die Aufsichtsbehörde des Landes.
 
 (2) Vor der Entscheidung über Maßnahmen nach Absatz 1 Nr. 1 und 2 sind die Kammerzugehörigen gemäß § 2 Abs. 1 zu hören.
 
-##### § 13
+###### § 13
 
 Die Handelskammern Bremen und Hamburg sind berechtigt, ihre bisherige Bezeichnung weiterzuführen.
 
-##### § 13a
+###### § 13a
 
 (1) Kammerzugehörige, die am 31. Dezember 1993 nach § 2 Abs. 3 und § 3 Abs. 3 Satz 2 in der am 31. Dezember 1993 geltenden Fassung einer Industrie- und Handelskammer angehörten, können nach Maßgabe dieser Vorschriften weiterhin der Industrie- und Handelskammer angehören.
 
@@ -363,7 +367,7 @@ Die Handelskammern Bremen und Hamburg sind berechtigt, ihre bisherige Bezeichnun
 
 (3) Die Beitragsbefreiung in § 3 Abs. 3 Satz 4 ist nur auf Kammerzugehörige anzuwenden, deren Gewerbeanzeige nach dem 31. Dezember 2003 erfolgt.
 
-##### § 13b
+###### § 13b
 
 (1) Präsidiumsmitglieder und der Hauptgeschäftsführer einer Industrie- und Handelskammer bleiben auch nach Ablauf ihrer Amtszeit bis zur Bestellung ihrer Nachfolger im Amt. Entsprechendes gilt für die Mitglieder von Ausschüssen sowie einer Vollversammlung bis zur konstituierenden Sitzung einer neuen Vollversammlung. Regelungen in Gesetz oder Satzung über das Ausscheiden, insbesondere die Abwahl eines Präsidiumsmitglieds oder die Abberufung eines Hauptgeschäftsführers sowie über das Ausscheiden eines Ausschussmitglieds oder eines Vollversammlungsmitglieds, bleiben unberührt.
 
@@ -399,7 +403,7 @@ c) der Beschluss mit der nach der jeweiligen Satzung erforderlichen Mehrheit gef
 
 (6) Die Absätze 1 bis 5 sind ab dem 1. Januar 2023 nicht mehr anzuwenden.
 
-##### § 13c
+###### § 13c
 
 (1) Der Deutsche Industrie- und Handelskammertag e. V. wird zum 1. Januar 2023 zur Deutschen Industrie- und Handelskammer durch einen Formwechsel umgewandelt. Die Vollversammlung des Deutschen Industrie- und Handelskammertags e. V. hat bis zum 30. September 2022 mit einer Mehrheit von drei Vierteln seiner Mitglieder die Satzung nach § 10c Absatz 3 Satz 2 Nummer 1 zu beschließen und dem Bundesministerium für Wirtschaft und Energie zur Genehmigung vorzulegen. Die Satzung wird mit Beginn des Monats wirksam, der auf den Monat folgt, in dem die Satzung genehmigt wird. Ab dem nach Satz 3 bestimmten Zeitpunkt kann die in der Satzung vorgesehene Vollversammlung die für die Handlungsfähigkeit der Deutschen Industrie- und Handelskammer erforderlichen Beschlüsse fassen. Das Bundesministerium für Wirtschaft und Energie hat die Genehmigung und den Tag nach Satz 3 im Bundesanzeiger bekannt zu machen.
 
@@ -431,17 +435,16 @@ Die erste Wahl des Präsidenten und der Vizepräsidenten sowie die erste Bestell
 
 (10) Die Industrie- und Handelskammern sowie ihre Kammerzugehörigen haben gegenüber dem Deutschen Industrie- und Handelskammertag e. V. einen Anspruch auf Unterlassung, soweit der Deutsche Industrie- und Handelskammertag e. V. die gesetzlichen Kompetenzen nach § 10a überschreitet. Über die Klage entscheidet im ersten Rechtszug das für den Sitz des Deutschen Industrie- und Handelskammertags e. V. örtlich zuständige Verwaltungsgericht. § 11a Absatz 3 Satz 3 gilt entsprechend. Die Satzung nach Satz 3 in Verbindung mit § 11a Absatz 3 Satz 3 bedarf der Genehmigung der Aufsichtsbehörde.
 
-##### § 13d
+###### § 13d
 
 (1) Wird die Satzung nach § 10c Absatz 3 Satz 2 Nummer 1 nicht bis zu dem in § 13c Absatz 1 Satz 2 genannten Stichtag beschlossen und dem Bundesministerium für Wirtschaft und Energie zur Genehmigung vorgelegt, hat das Bundesministerium für Wirtschaft und Energie diese Satzung unverzüglich durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu erlassen. Satz 1 gilt entsprechend, wenn die vorgelegte Satzung nicht genehmigungsfähig ist. Wurde die nicht genehmigungsfähige Satzung bis spätestens drei Monate vor dem in § 13c Absatz 1 Satz 2 genannten Stichtag vorgelegt, so hat das Bundesministerium für Wirtschaft und Energie zuvor auf die Umstände der fehlenden Genehmigungsfähigkeit hinzuweisen und Gelegenheit zur Nachbesserung bis zum Stichtag zu geben.
 
 (2) Absatz 1 gilt für die Satzung nach § 10b Absatz 3 Satz 1, die Satzung nach § 10b Absatz 5 Satz 2 und die Satzung nach § 11a Absatz 3 Satz 3 entsprechend, soweit die Vollversammlung der Deutschen Industrie- und Handelskammer diese nicht innerhalb von sechs Monaten ab dem in § 13c Absatz 1 Satz 3 bestimmten Zeitpunkt beschließt und dem Bundesministerium für Wirtschaft und Energie zur Genehmigung vorlegt oder diese nicht genehmigungsfähig sind. Soweit die Satzung nach § 10c Absatz 3 Satz 2 Nummer 1 vom Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung nach Absatz 1 erlassen wird, so ist für den Beginn der Frist der Zeitpunkt des Inkrafttretens der Satzung nach § 10c Absatz 3 Satz 2 Nummer 1 maßgeblich.
 
-##### § 14
+###### § 14
 
 Bis zum 31. Dezember 1997 können die Beiträge der Kammerzugehörigen von den Industrie- und Handelskammern in dem in Artikel 3 des Einigungsvertrages genannten Gebiet im Anschluß an die in Anlage I Kapitel V Sachgebiet B Abschnitt III Nr. 4 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1000) angegebene Frist abweichend von § 3 Abs. 3 und 4 festgesetzt werden. Die Beitragsordnung und der Beitragsmaßstab bedürfen der Genehmigung der Aufsichtsbehörde.
 
-##### § 15
+###### § 15
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
-
