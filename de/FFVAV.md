@@ -4,24 +4,28 @@ identifier: "FFVAV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2021-09-28"
-last_updated: "2026-04-04"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/ffvav/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR459110021"
 slug: "ffvav"
 bgbl_reference: "BGBl I 2021, 4591 (4831)"
-stand: "Geändert durch Art. 2 G v. 4.1.2023 I Nr. 9"
+stand: "Zuletzt geändert durch Art. 8 Abs. 8 G v. 23.7.2026 I Nr. 226"
 ---
 # Verordnung über die Verbrauchserfassung und Abrechnung bei der Versorgung mit Fernwärme oder Fernkälte
 
-##### § 1 Anwendungsbereich
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Anwendungsbereich
 
 (1) Bei einem Vertrag über die Versorgung mit Fernwärme oder über die Versorgung mit Fernkälte hat ein Unternehmen, das einen Kunden mit Fernwärme oder Fernkälte versorgt, die nachfolgenden Bestimmungen in Bezug auf die Verbrauchserfassung und Abrechnung sowie die in diesem Zusammenhang erforderliche Bereitstellung von Informationen einzuhalten.
 
 (2) Die Bestimmungen dieser Verordnung sind auch für öffentlich-rechtlich gestaltete Versorgungsverhältnisse anzuwenden.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 (1) Fernablesbar ist eine Messeinrichtung, wenn sie ohne Zugang zu den einzelnen Nutzeinheiten abgelesen werden kann.
 
@@ -31,7 +35,7 @@ stand: "Geändert durch Art. 2 G v. 4.1.2023 I Nr. 9"
 
 (4) Versorgungsunternehmen ist ein Unternehmen, das Kunden mit Fernwärme oder Fernkälte versorgt.
 
-##### § 3 Messung des Verbrauchs von Fernwärme und Fernkälte
+###### § 3 Messung des Verbrauchs von Fernwärme und Fernkälte
 
 (1) Zur Ermittlung des verbrauchsabhängigen Entgelts hat ein Versorgungsunternehmen Messeinrichtungen zu verwenden, die den mess- und eichrechtlichen Vorschriften entsprechen. Der Fernwärme- oder Fernkälteverbrauch ist durch Messung festzustellen, welche den tatsächlichen Fernwärme- oder Fernkälteverbrauch des Kunden präzise widerzuspiegeln hat. Wird Dampf als Wärmeträger zur Verfügung gestellt, ist die Dampf- oder die rückgeführte Kondensatmenge zu messen. Soweit das Versorgungsunternehmen aus Gründen, die es nicht zu vertreten hat, den tatsächlichen Verbrauch für einen bestimmten Abrechnungszeitraum nicht ermitteln kann, darf die Verbrauchserfassung auf einer Schätzung beruhen, die unter angemessener Berücksichtigung der tatsächlichen Verhältnisse zu erfolgen hat.
 
@@ -49,7 +53,7 @@ stand: "Geändert durch Art. 2 G v. 4.1.2023 I Nr. 9"
 
 (8) Sofern das Versorgungsunternehmen eine Weitergabe der bei der Installation, Nachrüstung sowie Betrieb von fernablesbaren Messeinrichtungen nach den Absätzen 1 bis 3 anfallenden Kosten zu Lasten der Kundinnen und Kunden vorsieht, hat das Versorgungsunternehmen den Kundinnen und Kunden die betreffenden Kosten unter Berücksichtigung der möglicherweise zu erzielenden Einsparungen transparent und verständlich darzulegen.
 
-##### § 4 Abrechnung, Abrechnungsinformationen, Verbrauchsinformationen
+###### § 4 Abrechnung, Abrechnungsinformationen, Verbrauchsinformationen
 
 (1) Ein Versorgungsunternehmen hat dem Kunden Abrechnungen und Abrechnungsinformationen einschließlich Verbrauchsinformationen unentgeltlich zu übermitteln. Auf Wunsch des Kunden hat es diese unentgeltlich auch elektronisch bereitzustellen.
 
@@ -67,7 +71,7 @@ Ab dem 1. Januar 2022 sind die Abrechnungsinformationen einschließlich Verbrauc
 
 (5) Das Versorgungsunternehmen hat bei der Verarbeitung der Abrechnungsinformationen einschließlich Verbrauchsinformationen die Einhaltung datenschutz- und datensicherheitsrechtlicher Anforderungen zu gewährleisten.
 
-##### § 5 Inhalt und Transparenz der Abrechnungen
+###### § 5 Inhalt und Transparenz der Abrechnungen
 
 (1) Das Versorgungsunternehmen muss dem Kunden mit den Abrechnungen folgende Informationen unentgeltlich sowie auf klare und verständliche Weise zur Verfügung stellen:
 
@@ -93,7 +97,6 @@ c) die auf Wärme oder Kälte erhobenen Steuern, Abgaben oder Zölle,
 
 (2) Abweichend von Absatz 1 muss das Versorgungsunternehmen, soweit Abrechnungen im Fall des § 4 Absatz 3 Satz 2 nicht auf dem tatsächlichen Verbrauch beruhen, auf klare und verständliche Weise erklären, wie der in der Abrechnung ausgewiesene Betrag berechnet wurde. In der Abrechnung sind insoweit mindestens die Informationen gemäß Absatz 1 Nummer 4 und 5 anzugeben.
 
-(3) Das Versorgungsunternehmen hat zudem in leicht zugänglicher Form, auf seiner Internetseite und in den Abrechnungen, Informationen über den Primärenergiefaktor seines technisch zusammenhängenden Fernwärme- oder Fernkältesystems zugänglich zu machen sowie darüber, wie hoch in seinem technisch zusammenhängenden Fernwärme- oder Fernkältesystem der prozentuale Anteil der eingesetzten erneuerbaren Energien im Sinne des § 3 Absatz 2 des Gebäudeenergiegesetzes vom 8. August 2020 (BGBl. I S. 1728) in der jeweils geltenden Fassung ist.
+(3) Das Versorgungsunternehmen hat zudem in leicht zugänglicher Form, auf seiner Internetseite und in den Abrechnungen, Informationen über den Primärenergiefaktor seines technisch zusammenhängenden Fernwärme- oder Fernkältesystems zugänglich zu machen sowie darüber, wie hoch in seinem technisch zusammenhängenden Fernwärme- oder Fernkältesystem der prozentuale Anteil der eingesetzten erneuerbaren Energien im Sinne des § 3 Absatz 2 des Gebäudemodernisierungsgesetzes vom 8. August 2020 (BGBl. I S. 1728), das zuletzt durch Artikel 4 des Gesetzes vom 23. Juli 2026 (BGBl. 2026 I Nr. 226) geändert worden ist, in der jeweils geltenden Fassung ist.
 
 (4) Auf Verlangen des Kunden ist das Versorgungsunternehmen verpflichtet, Informationen über die Abrechnungen und den historischen Verbrauch des Kunden, soweit verfügbar, einem vom Kunden benannten Energiedienstleister zur Verfügung zu stellen.
-
