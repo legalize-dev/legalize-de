@@ -4,24 +4,28 @@ identifier: "SCHFHWG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2008-11-26"
-last_updated: "2026-04-04"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/schfhwg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR224210008"
 slug: "schfhwg"
 bgbl_reference: "BGBl I 2008, 2242"
-stand: "Zuletzt geändert durch Art. 1 G v. 3.4.2025 I Nr. 106"
+stand: "Zuletzt geändert durch Art. 8 Abs. 5 G v. 23.7.2026 I Nr. 226"
 ---
 # Gesetz über das Berufsrecht und die Versorgung im Schornsteinfegerhandwerk
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ## Teil 1 Berufsrecht
 
 ## Kapitel 1 Allgemeine Vorschriften
 
-##### § 1 Eigentümerpflichten; Verordnungsermächtigungen
+###### § 1 Eigentümerpflichten; Verordnungsermächtigungen
 
 (1) Jeder Eigentümer eines Grundstücks oder eines Raums ist verpflichtet, fristgerecht Folgendes zu veranlassen:
 
@@ -59,7 +63,7 @@ nicht gestattet, erlässt die zuständige Behörde unverzüglich eine Duldungsve
 
 (5) Das Grundrecht der Unverletzlichkeit der Wohnung wird nach Maßgabe der Absätze 3 und 4 eingeschränkt.
 
-##### § 2 Schornsteinfeger und Schornsteinfegerinnen
+###### § 2 Schornsteinfeger und Schornsteinfegerinnen
 
 (1) Die nach den Rechtsverordnungen nach § 1 Abs. 1 Satz 2 und 3 oder einer auf Grund des Bundes-Immissionsschutzgesetzes für kleine und mittlere Feuerungsanlagen vorgeschriebenen Schornsteinfegerarbeiten sind wesentliche Tätigkeiten des Schornsteinfegerhandwerks im Sinne des § 1 Abs. 2 Satz 1 der Handwerksordnung. Die Durchführung dieser Arbeiten darf nur durch Betriebe erfolgen, die
 
@@ -75,7 +79,7 @@ In einem Betrieb nach Satz 2 beschäftigte Personen dürfen auch ohne Begleitung
 
 2. nur solche Geräte zu verwenden, die nach dem Stand der Technik geeignet sind, die im Rahmen der wesentlichen Tätigkeiten des Schornsteinfegerhandwerks anfallenden Arbeiten zu verrichten.
 
-##### § 3 Schornsteinfegerregister
+###### § 3 Schornsteinfegerregister
 
 (1) Um den Eigentümern, den bevollmächtigten Bezirksschornsteinfegern und der zuständigen Behörde die Feststellung zu erleichtern, wer die Voraussetzungen nach § 2 Abs. 1 Satz 2 erfüllt, wird beim Bundesamt für Wirtschaft und Ausfuhrkontrolle ein Register (Schornsteinfegerregister) geführt, in das die bevollmächtigten Bezirksschornsteinfeger sowie jeder Betrieb, der im Geltungsbereich dieses Gesetzes staatlich vorgeschriebene Schornsteinfegerarbeiten ausführen möchte und die Voraussetzungen zur selbständigen Ausübung dieses Handwerks besitzt, mit den folgenden Daten einzutragen sind:
 
@@ -97,7 +101,7 @@ Weitere Daten dürfen nicht eingetragen werden. Die Eintragung in das Register i
 
 2. die eingetragene Person der zuständigen Behörde anzeigt, dass sie im Geltungsbereich dieses Gesetzes keine Schornsteinfegerarbeiten mehr ausführen möchte.
 
-##### § 4 Nachweise; Verordnungsermächtigung
+###### § 4 Nachweise; Verordnungsermächtigung
 
 (1) Jeder Eigentümer eines Grundstücks oder eines Raums hat die Durchführung der im Feuerstättenbescheid festgesetzten Arbeiten nachzuweisen, sofern er nicht den zuständigen bevollmächtigten Bezirksschornsteinfeger mit der Durchführung beauftragt. Der Nachweis ist erbracht, wenn dem zuständigen bevollmächtigten Bezirksschornsteinfeger innerhalb der Frist des Absatzes 2 ein nach Maßgabe einer Rechtsverordnung nach Absatz 4 vorgesehenes Formblatt und nach Maßgabe der genannten Rechtsverordnung vorgesehene Bescheinigungen vollständig ausgefüllt zugehen.
 
@@ -107,29 +111,29 @@ Weitere Daten dürfen nicht eingetragen werden. Die Eintragung in das Register i
 
 (4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Ausgestaltung und den Inhalt des Formblatts und der Bescheinigungen zu regeln. Das Formblatt und die Bescheinigungen sind so zu fassen, dass der bevollmächtigte Bezirksschornsteinfeger ihnen alle für die Führung des Kehrbuchs nach § 19 vorgesehenen Daten entnehmen kann.
 
-##### § 5 Mängel
+###### § 5 Mängel
 
 (1) Mängel an kehr- und überprüfungspflichtigen Anlagen, die nicht innerhalb des im Feuerstättenbescheid für die Durchführung der Schornsteinfegerarbeiten festgesetzten Zeitraums behoben sind, sind von dem Schornsteinfeger oder der Schornsteinfegerin im Formblatt (§ 4) zu vermerken. Ihre Behebung ist dem bevollmächtigten Bezirksschornsteinfeger innerhalb von sechs Wochen nach dem Tag, bis zu dem die Schornsteinfegerarbeiten gemäß der Festsetzung im Feuerstättenbescheid spätestens durchzuführen waren, nachzuweisen. Andernfalls hat der bevollmächtigte Bezirksschornsteinfeger die Mängel der zuständigen Behörde anzuzeigen.
 
 (2) Mängel, durch die unmittelbare Gefahren für die Betriebs- und Brandsicherheit oder schädliche Umwelteinwirkungen drohen, sind von dem Schornsteinfeger oder der Schornsteinfegerin unverzüglich der zuständigen Behörde und dem zuständigen bevollmächtigten Bezirksschornsteinfeger zu melden.
 
-##### § 6 Erbbaurecht und Gebäudeeigentum
+###### § 6 Erbbaurecht und Gebäudeeigentum
 
 Für Erbbauberechtigte sowie für Eigentümer von Gebäuden nach Artikel 233 §§ 2b, 4 und 8 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche sind die für Eigentümer von Grundstücken geltenden Vorschriften dieses Gesetzes entsprechend anzuwenden.
 
 ## Kapitel 2 Bezirke, bevollmächtigte Bezirksschornsteinfeger
 
-##### § 7 Bezirke
+###### § 7 Bezirke
 
 Für die Überprüfung der Einhaltung der Pflichten nach § 1 Abs. 1 und 2 richtet die zuständige Behörde Bezirke, insbesondere unter Berücksichtigung der Betriebs- und Brandsicherheit, ein.
 
-##### § 8 Bevollmächtigte Bezirksschornsteinfeger
+###### § 8 Bevollmächtigte Bezirksschornsteinfeger
 
 (1) Bevollmächtigter Bezirksschornsteinfeger ist, wer von der zuständigen Behörde für einen Bezirk bestellt ist.
 
 (2) Die bevollmächtigten Bezirksschornsteinfeger gehören als Gewerbetreibende dem Schornsteinfegerhandwerk an. Sie üben ihre hoheitlichen Tätigkeiten als natürliche Personen aus und unterliegen auch hinsichtlich der hoheitlichen Tätigkeiten der Rolleneintragungspflicht nach der Handwerksordnung.
 
-##### § 9 Öffentliche Ausschreibung
+###### § 9 Öffentliche Ausschreibung
 
 Die zuständige Behörde hat die Bestellung zum bevollmächtigten Bezirksschornsteinfeger öffentlich auszuschreiben. Sie kann
 
@@ -139,7 +143,7 @@ Die zuständige Behörde hat die Bestellung zum bevollmächtigten Bezirksschorns
 
 Im Falle der Ausschreibung des Statusamtes nach Satz 2 Nummer 2 weist die zuständige Behörde dem ausgewählten Bewerber einen Bezirk zu.
 
-##### § 9a Bewerber und Bewerberinnen
+###### § 9a Bewerber und Bewerberinnen
 
 (1) Bewerber und Bewerberinnen, die in ihrer Person die handwerksrechtlichen Voraussetzungen zur selbstständigen Ausübung des Schornsteinfegerhandwerks erfüllen, können zum bevollmächtigten Bezirksschornsteinfeger bestellt werden.
 
@@ -177,11 +181,11 @@ In der Ausschreibung hat die zuständige Behörde anzugeben, welche in Satz 1 be
 
 (4) Ein bevollmächtigter Bezirksschornsteinfeger darf sich frühestens zwei Jahre nach Wirksamkeit der Bestellung erneut bewerben. Satz 1 ist nicht anzuwenden, wenn der Ausschluss von der Bewerbung eine persönliche Härte bedeuten würde und eine frühere Bewerbung im Hinblick auf die Erhaltung der Betriebs- und Brandsicherheit nicht zu beanstanden ist.
 
-##### § 9b Verordnungsermächtigung
+###### § 9b Verordnungsermächtigung
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Nähere über das Ausschreibungsverfahren und die Auswahl der Bewerber und Bewerberinnen zu erlassen. Die Landesregierungen können diese Ermächtigung auf die zuständigen obersten Landesbehörden übertragen.
 
-##### § 10 Bestellung und kommissarische Verwaltung
+###### § 10 Bestellung und kommissarische Verwaltung
 
 (1) Die Bestellung des bevollmächtigten Bezirksschornsteinfegers ist auf sieben Jahre befristet, endet jedoch spätestens mit Ablauf des Monats, in dem die bestellte Person das 67. Lebensjahr vollendet. Die bestellte Person kann bei der zuständigen Behörde bis spätestens sechs Monate vor Erreichen der Altersgrenze nach Satz 1 einen Antrag auf Verlängerung der Bestellung über diese Altersgrenze hinaus bis zum Ende der siebenjährigen Bestellungszeit stellen. In den Fällen des Satzes 2 endet die Bestellung jedoch spätestens mit Ablauf des Monats, in dem die bestellte Person das 70. Lebensjahr vollendet. Die Bestellungsbehörde kann die Vorlage eines amtsärztlichen Gutachtens über die gesundheitliche Eignung für eine Verlängerung über die Altersgrenze hinaus auf Kosten der bestellten Person verlangen.
 
@@ -191,7 +195,7 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Nähere üb
 
 (4) Widerspruch und Anfechtungsklage gegen die Bestellung haben keine aufschiebende Wirkung.
 
-##### § 11 Vertretung
+###### § 11 Vertretung
 
 (1) Der bevollmächtigte Bezirksschornsteinfeger hat der zuständigen Behörde unverzüglich nach seiner Bestellung mindestens einen bevollmächtigten Bezirksschornsteinfeger eines Bezirks im Zuständigkeitsbereich der Behörde als Vertreter zu benennen.
 
@@ -209,13 +213,13 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Nähere üb
 
 3. den vertretenen bevollmächtigten Bezirksschornsteinfeger über die durchgeführten Arbeiten zu unterrichten.
 
-##### § 11a Verwaltung eines unbesetzten Bezirks
+###### § 11a Verwaltung eines unbesetzten Bezirks
 
 (1) Wenn ein Bezirk unbesetzt ist, ist § 11 Absatz 3 bis 5 entsprechend anzuwenden.
 
 (2) Stirbt ein bevollmächtigter Bezirksschornsteinfeger, so sind der Erbe oder die Erben verpflichtet, der zuständigen Behörde den Todesfall unter Angabe des Sterbedatums unverzüglich anzuzeigen.
 
-##### § 11b Vertretung durch Betriebsangehörigen für die Feuerstättenschau
+###### § 11b Vertretung durch Betriebsangehörigen für die Feuerstättenschau
 
 (1) Der bevollmächtigte Bezirksschornsteinfeger kann bei der zuständigen Behörde schriftlich oder elektronisch beantragen, einen Angehörigen seines Betriebs als Vertreter für die Feuerstättenschau nach § 14 Absatz 1 und die dabei anfallenden Tätigkeiten nach § 14 Absatz 2 Satz 1 und 2 zu bestellen. Der Vertreter muss die handwerksrechtlichen Voraussetzungen zur selbstständigen Ausübung des Schornsteinfegerhandwerks erfüllen.
 
@@ -233,7 +237,7 @@ Die zuständige Behörde kann die Vorlage weiterer Unterlagen der vorgeschlagene
 
 (4) Bei einer Verhinderung des bevollmächtigten Bezirksschornsteinfegers ist § 11 anzuwenden. Der betriebsangehörige Vertreter wird im Namen und in Verantwortung des bevollmächtigten Bezirksschornsteinfegers tätig. Ein Fehlverhalten ist dem bevollmächtigten Bezirksschornsteinfeger im Sinne des § 21 Absatz 3 zuzurechnen. § 10 Absatz 1, § 12 Absatz 1 Satz 1 und 2, Absatz 2 und 3 und § 18 Absatz 1 sind entsprechend anzuwenden, wobei im Falle des § 12 Absatz 1 Satz 1 Nummer 1 sowohl der bevollmächtigte Bezirksschornsteinfeger als auch der Betriebsangehörige jeweils einzeln und unabhängig voneinander antragsberechtigt sind.
 
-##### § 12 Aufhebung der Bestellung
+###### § 12 Aufhebung der Bestellung
 
 (1) Unbeschadet der Regelungen der Verwaltungsverfahrensgesetze der Länder über Rücknahme und Widerruf eines Verwaltungsakts ist die Bestellung aufzuheben
 
@@ -251,17 +255,17 @@ In einem Antrag nach Nummer 1 ist anzugeben, zu welchem Zeitpunkt die Bestellung
 
 (4) Die Aufhebung der Bestellung ist dem Bundesamt für Wirtschaft und Ausfuhrkontrolle durch die zuständige Behörde unverzüglich für die Führung des Schornsteinfegerregisters mitzuteilen.
 
-##### § 12a Haftungsausschluss
+###### § 12a Haftungsausschluss
 
 Eine Haftung des Staates an Stelle des bevollmächtigten Bezirksschornsteinfegers oder von dessen Vertreter besteht nicht.
 
 ## Kapitel 3 Aufgaben, Befugnisse und Pflichten der bevollmächtigten Bezirksschornsteinfeger
 
-##### § 13 Allgemeine Aufgaben
+###### § 13 Allgemeine Aufgaben
 
 Die bevollmächtigten Bezirksschornsteinfeger kontrollieren die Einhaltung der Pflichten der Eigentümer nach § 1 Abs. 1 und 2 und führen die Kehrbücher nach Maßgabe des § 19 Absatz 2.
 
-##### § 14 Feuerstättenschau
+###### § 14 Feuerstättenschau
 
 (1) Jeder bevollmächtigte Bezirksschornsteinfeger hat zweimal während des Zeitraums seiner Bestellung sämtliche Anlagen in den Gebäuden seines Bezirks zu besichtigen, in denen folgende Arbeiten durchzuführen sind:
 
@@ -277,7 +281,7 @@ Der bevollmächtigte Bezirksschornsteinfeger prüft die Betriebs- und Brandsiche
 
 (3) Der bevollmächtigte Bezirksschornsteinfeger hat dem Eigentümer die bei der Feuerstättenschau festgestellten Mängel schriftlich oder in elektronischer Form mitzuteilen. § 5 Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
 
-##### § 14a Feuerstättenbescheid
+###### § 14a Feuerstättenbescheid
 
 (1) Unverzüglich nach der Feuerstättenschau hat der bevollmächtigte Bezirksschornsteinfeger gegenüber dem Eigentümer einen Feuerstättenbescheid zu erlassen. Dieser ergeht schriftlich oder elektronisch und beinhaltet:
 
@@ -301,11 +305,11 @@ Der bevollmächtigte Bezirksschornsteinfeger bestimmt die Fristen nach pflichtge
 
 (5) Widerspruch und Anfechtungsklage gegen den Feuerstättenbescheid haben keine aufschiebende Wirkung. Der Feuerstättenbescheid gilt auch für und gegen den Rechtsnachfolger.
 
-##### § 14b Gegenstands- und Streitwert
+###### § 14b Gegenstands- und Streitwert
 
 In Widerspruchsverfahren oder in verwaltungsgerichtlichen Verfahren, die einen Feuerstättenbescheid zum Gegenstand haben, betragen der Gegenstandswert und der Streitwert jeweils 500 Euro.
 
-##### § 15 Anlassbezogene Überprüfungen
+###### § 15 Anlassbezogene Überprüfungen
 
 Die bevollmächtigten Bezirksschornsteinfeger haben die Befugnis zur Durchführung von Überprüfungen in ihrem jeweiligen Bezirk, wenn Tatsachen die Annahme rechtfertigen, dass
 
@@ -315,15 +319,15 @@ Die bevollmächtigten Bezirksschornsteinfeger haben die Befugnis zur Durchführu
 
 Die Überprüfung ist der zuständigen Behörde unter Angabe der Gründe und des Ergebnisses unverzüglich anzuzeigen. § 14 Absatz 2 gilt entsprechend.
 
-##### § 16 Weitere Aufgaben
+###### § 16 Weitere Aufgaben
 
 (1) Der bevollmächtigte Bezirksschornsteinfeger stellt in seinem Bezirk Bescheinigungen über die Tauglichkeit und sichere Benutzbarkeit von Feuerungsanlagen aus, soweit solche Bescheinigungen durch Landesrecht vorgesehen sind.
 
 (2) Jeder bevollmächtigte Bezirksschornsteinfeger leistet auf Anforderung der für den örtlichen Brandschutz zuständigen Behörde Hilfe bei der Brandbekämpfung in seinem Bezirk.
 
-##### § 17 (weggefallen)
+###### § 17 (weggefallen)
 
-##### § 18 Berufspflichten des bevollmächtigten Bezirksschornsteinfegers
+###### § 18 Berufspflichten des bevollmächtigten Bezirksschornsteinfegers
 
 (1) Der bevollmächtigte Bezirksschornsteinfeger hat seine Aufgaben unparteiisch zu erfüllen.
 
@@ -339,7 +343,7 @@ Angehörige des bevollmächtigten Bezirksschornsteinfegers im Sinne des Satzes 1
 
 (4) Der bevollmächtigte Bezirksschornsteinfeger hat seine Vertretung durch einen Betriebsangehörigen für die Feuerstättenschau nach § 11b, sofern bestellt, regelmäßig zu überwachen.
 
-##### § 19 Führung des Kehrbuchs
+###### § 19 Führung des Kehrbuchs
 
 (1) In das Kehrbuch sind die folgenden Daten einzutragen:
 
@@ -353,11 +357,11 @@ c) der Wohnungseigentümer, wenn kein Verwalter bestellt ist, und, wenn abweiche
 
 2. Angaben zur Anlage hinsichtlich:
 
-a) Art, Brennstoff, Nennwärmeleistung, Alter sowie die Angabe, ob es sich um einen Niedertemperatur-Heizkessel oder Brennwertkessel im Sinne des Gebäudeenergiegesetzes handelt,
+a) Art, Brennstoff, Nennwärmeleistung, Alter sowie die Angabe, ob es sich um einen Niedertemperatur-Heizkessel oder Brennwertkessel im Sinne des Gebäudemodernisierungsgesetzes handelt,
 
 b) Betrieb, Standort und Zuweisung zur Abgasanlage,
 
-c) Angaben der Eigentümer zu Ausnahmetatbeständen nach den §§ 71 bis 71m, 72 und 73 sowie 102 des Gebäudeenergiegesetzes, auch in Verbindung mit § 69 des Gebäudeenergiegesetzes, sowie Angaben darüber, dass entsprechende Nachweise vorgelegen haben, und
+c) Angaben des Eigentümers zu Ausnahmetatbeständen nach § 69 Absatz 3 und 4 in Verbindung mit Absatz 2 und § 102 des Gebäudemodernisierungsgesetzes sowie Angaben darüber, dass entsprechende Nachweise vorgelegen haben, und
 
 d) im Falle von Einzelraumfeuerungsanlagen für feste Brennstoffe, die vor dem 22. März 2010 errichtet und in Betrieb genommen wurden, Angabe der Rechtsgrundlage für die Zulässigkeit des Weiterbetriebs nach § 26 der Verordnung über kleine und mittlere Feuerungsanlagen;
 
@@ -365,7 +369,7 @@ d) im Falle von Einzelraumfeuerungsanlagen für feste Brennstoffe, die vor dem 2
 
 4. das Datum und das Ergebnis der letzten beiden Feuerstättenschauen sowie der Name der durchführenden Person;
 
-5. in dem Formblatt nach § 4 vermerkte Mängel oder selbst festgestellte Mängel sowie Beanstandungen nach § 97 Absatz 1, 2 und 4 des Gebäudeenergiegesetzes und das Datum des Abstellens der Mängel oder der Beanstandungen;
+5. in dem Formblatt nach § 4 vermerkte Mängel oder selbst festgestellte Mängel sowie Beanstandungen nach § 97 Absatz 1, 2 und 4 des Gebäudemodernisierungsgesetzes und das Datum des Abstellens der Mängel oder der Beanstandungen;
 
 6. das Datum und das Ergebnis einer Bescheinigung nach § 16 Absatz 1 sowie Name und Stellung der feststellenden Person;
 
@@ -397,11 +401,11 @@ Der Nachfolger hat die übergebenen Kehrbücher und Unterlagen stichprobenartig 
 
 Die Verordnung (EU) 2016/679 bleibt unberührt.
 
-##### § 19a Mitteilungspflichten von Verwaltern und Wohnungseigentümern
+###### § 19a Mitteilungspflichten von Verwaltern und Wohnungseigentümern
 
 Ein Verwalter im Sinne des Wohnungseigentumsgesetzes hat dem bevollmächtigten Bezirksschornsteinfeger auf Anforderung unverzüglich Namen und Anschrift des Besitzers im Sinne des § 19 Absatz 1 Nummer 1 Buchstabe b mitzuteilen. Der Wohnungseigentümer hat dem bevollmächtigten Bezirksschornsteinfeger Namen und Anschrift des Besitzers im Sinne des § 19 Absatz 1 Nummer 1 Buchstabe c auf Anforderung unverzüglich mitzuteilen.
 
-##### § 20 Kosten; Verordnungsermächtigung
+###### § 20 Kosten; Verordnungsermächtigung
 
 (1) Der Eigentümer hat für Tätigkeiten des bevollmächtigten Bezirksschornsteinfegers nach § 14 Absatz 1 bis 3, § 14a, § 15 Satz 1, § 16 und § 26 Gebühren zu entrichten. Satz 1 ist für die Mahnung rückständiger Gebühren entsprechend anzuwenden.
 
@@ -411,7 +415,7 @@ Ein Verwalter im Sinne des Wohnungseigentumsgesetzes hat dem bevollmächtigten B
 
 (4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze, auch in Form von Gebühren nach Zeitaufwand, oder Rahmensätze vorzusehen. Die Gebühren sollen die mit der individuell zurechenbaren öffentlichen Leistung verbundenen Kosten decken. In die Gebühren sind die mit der Leistung regelmäßig verbundenen Auslagen einzubeziehen. Zur Ermittlung der Gebühr sind die Kosten zu Grunde zu legen, die nach betriebswirtschaftlichen Grundsätzen als Einzel- und Gemeinkosten zurechenbar und ansatzfähig sind, insbesondere Personal- und Sachkosten sowie kalkulatorische Kosten. Zu den Gemeinkosten zählen auch die Kosten der Rechts- und Fachaufsicht. Grundlage der Gebührenermittlung nach den Sätzen 1 bis 4 sind die in der Gesamtheit der Länder mit der jeweiligen Leistung verbundenen Kosten. § 9 Absatz 3 des Bundesgebührengesetzes ist entsprechend anzuwenden.
 
-##### § 21 Aufsicht
+###### § 21 Aufsicht
 
 (1) Die bevollmächtigten Bezirksschornsteinfeger unterstehen der Aufsicht der zuständigen Behörde. Die zuständige Behörde kann die bevollmächtigten Bezirksschornsteinfeger hinsichtlich der Wahrnehmung der ihnen übertragenen Aufgaben und Befugnisse und der Einhaltung ihrer Pflichten jederzeit überprüfen. Wenn bei der Überprüfung wesentliche Pflichtverletzungen festgestellt werden, tragen die jeweiligen bevollmächtigten Bezirksschornsteinfeger die Kosten der Überprüfung.
 
@@ -419,17 +423,17 @@ Ein Verwalter im Sinne des Wohnungseigentumsgesetzes hat dem bevollmächtigten B
 
 (3) Wenn bevollmächtigte Bezirksschornsteinfeger die ihnen nach diesem Gesetz obliegenden Aufgaben und Pflichten nicht oder nicht ordnungsgemäß erfüllen, kann die zuständige Behörde als Aufsichtsmaßnahme insbesondere einen Verweis aussprechen oder ein Warnungsgeld von bis zu zwanzigtausend Euro verhängen.
 
-##### § 22 Verhältnis zu Bestimmungen des Immissionsschutzrechts
+###### § 22 Verhältnis zu Bestimmungen des Immissionsschutzrechts
 
 Die Befugnisse der jeweils zuständigen Behörde, auf Grund des Bundes-Immissionsschutzgesetzes oder der nach diesem Gesetz erlassenen Rechtsverordnungen andere oder weitergehende Anordnungen zu treffen, bleiben von den Bestimmungen dieses Gesetzes unberührt.
 
-##### § 23 Zuständige Behörden
+###### § 23 Zuständige Behörden
 
 Die für die Aufgaben nach diesem Gesetz zuständigen Behörden werden durch Landesrecht bestimmt.
 
 ## Kapitel 4 Bußgeldvorschriften, Ersatzvornahme
 
-##### § 24 Bußgeldvorschriften
+###### § 24 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -455,7 +459,7 @@ Die für die Aufgaben nach diesem Gesetz zuständigen Behörden werden durch Lan
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 8 und 9 mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-##### § 25 Nichterfüllung, Zweitbescheid
+###### § 25 Nichterfüllung, Zweitbescheid
 
 (1) Der bevollmächtigte Bezirksschornsteinfeger hat der zuständigen Behörde unverzüglich zu melden, wenn
 
@@ -469,7 +473,7 @@ Die für die Aufgaben nach diesem Gesetz zuständigen Behörden werden durch Lan
 
 (4) Widerspruch und Anfechtungsklage gegen den Bescheid haben keine aufschiebende Wirkung.
 
-##### § 26 Ersatzvornahme
+###### § 26 Ersatzvornahme
 
 (1) Wird die Verpflichtung, die in dem Zweitbescheid nach § 25 Absatz 2 Satz 1 festgesetzten Schornsteinfegerarbeiten durchführen zu lassen, nicht oder nicht fristgemäß erfüllt, hat die zuständige Behörde unverzüglich die Vornahme der Handlungen im Wege der Ersatzvornahme zu beauftragen. Sie soll hiermit den zuständigen bevollmächtigten Bezirksschornsteinfeger beauftragen, ansonsten einen anderen bevollmächtigten Bezirksschornsteinfeger aus ihrem Zuständigkeitsbereich.
 
@@ -479,7 +483,7 @@ Die für die Aufgaben nach diesem Gesetz zuständigen Behörden werden durch Lan
 
 ## Kapitel 1 Organisation
 
-##### § 27 Schließung der Zusatzversorgung
+###### § 27 Schließung der Zusatzversorgung
 
 (1) Die Zusatzversorgung der bevollmächtigten Bezirksschornsteinfeger (Zusatzversorgung) wird geschlossen; ab dem 1. Januar 2013 werden keine Anwartschaften mehr erworben und keine Beiträge mehr erhoben.
 
@@ -489,13 +493,13 @@ Die für die Aufgaben nach diesem Gesetz zuständigen Behörden werden durch Lan
 
 (4) Die Leistungen und Anwartschaften nach den Absätzen 2 und 3 werden zum 1. Juli eines jeden Jahres um den Prozentsatz verändert, um den sich der aktuelle Rentenwert in der gesetzlichen Rentenversicherung verändert. In den Jahren ab 2013 erfolgt keine Veränderung der Leistungen und Anwartschaften, die höher ist als die Hälfte des Prozentsatzes nach Satz 1. Satz 2 gilt so lange, bis die Höhe der Leistungen und Anwartschaften 5,2 Prozent unter dem Wert liegt, der sich bei einer Veränderung nach Satz 1 ergeben hätte.
 
-##### § 28 Träger der Zusatzversorgung; Verordnungsermächtigung
+###### § 28 Träger der Zusatzversorgung; Verordnungsermächtigung
 
 (1) Die bisherige Versorgungsanstalt der deutschen Bezirksschornsteinfegermeister wird zur Versorgungsanstalt der bevollmächtigten Bezirksschornsteinfeger (Versorgungsanstalt). Sie ist eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts mit Sitz in München und Trägerin der Zusatzversorgung.
 
 (2) Durch Rechtsverordnung kann das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium der Finanzen ohne Zustimmung des Bundesrates die Trägerschaft und die Geschäftsführung einer anderen Stelle zuweisen.
 
-##### § 29 Geschäftsführung
+###### § 29 Geschäftsführung
 
 (1) Die Geschäftsführung der Versorgungsanstalt obliegt der Bayerischen Versorgungskammer. Sie vertritt die Versorgungsanstalt gerichtlich und außergerichtlich.
 
@@ -515,13 +519,13 @@ Die für die Aufgaben nach diesem Gesetz zuständigen Behörden werden durch Lan
 
 (3) Das Geschäftsjahr ist das Kalenderjahr.
 
-##### § 30 Aufsicht
+###### § 30 Aufsicht
 
 Die Rechts- und Fachaufsicht über die Versorgungsanstalt führt das Bundesamt für Soziale Sicherung. § 88 Absatz 1 und 2, § 89 Absatz 1 und § 94 Absatz 2 Satz 3 des Vierten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
 
 ## Kapitel 2 Allgemeine Verfahrens- und Anspruchsregelungen; Finanzierung
 
-##### § 31 Versorgungsverfahren
+###### § 31 Versorgungsverfahren
 
 (1) Die Versorgungsempfänger und Versorgungsberechtigten sind verpflichtet, der Versorgungsanstalt auf Verlangen unverzüglich alle Tatsachen mitzuteilen, die für die Feststellung ihrer Rechte und Pflichten aus der Zusatzversorgung erforderlich sind. Den Eintritt des Versorgungsfalles hat die anspruchsberechtigte Person der Versorgungsanstalt unverzüglich anzuzeigen. Mit der Anzeige sind die für den Nachweis und die Feststellung des Versorgungsanspruchs erforderlichen Unterlagen einzureichen. Der Anspruch auf Versorgungsleistungen ruht, solange ein Versorgungsberechtigter seinen Mitteilungs- oder Mitwirkungspflichten nicht nachkommt.
 
@@ -531,25 +535,25 @@ Die Rechts- und Fachaufsicht über die Versorgungsanstalt führt das Bundesamt f
 
 (4) (weggefallen)
 
-##### § 32 Verpfändung, Übertragung und Aufrechnung von Versorgungsansprüchen
+###### § 32 Verpfändung, Übertragung und Aufrechnung von Versorgungsansprüchen
 
 (1) Versorgungsansprüche können nicht verpfändet und nur zur Erfüllung gesetzlicher Unterhaltsansprüche auf Dritte übertragen werden.
 
 (2) Die Versorgungsanstalt kann ihre Forderungen gegen Ansprüche von Versorgungsempfängern aufrechnen.
 
-##### § 33 Übergang von Schadenersatzansprüchen
+###### § 33 Übergang von Schadenersatzansprüchen
 
 Wird ein Versorgungsberechtigter oder ein Versorgungsempfänger körperlich verletzt oder getötet, so geht ein gesetzlicher Schadenersatzanspruch, der der verletzten Person oder den Hinterbliebenen der getöteten Person infolge der Körperverletzung oder Tötung gegen einen Dritten zusteht, in der Höhe auf die Versorgungsanstalt über, in der sie infolge der Körperverletzung oder der Tötung zur Gewährung einer Zusatzversorgung verpflichtet ist. Der Übergang ist ausgeschlossen, soweit der Schadenersatzanspruch nach anderen gesetzlichen Bestimmungen auf Träger der Sozialversicherung übergeht. Der Übergang des Anspruchs kann nicht zum Nachteil der verletzten Person oder der Hinterbliebenen der getöteten Person geltend gemacht werden.
 
-##### § 34 Verjährung
+###### § 34 Verjährung
 
 Ansprüche gegen die Versorgungsanstalt nach diesem Gesetz sowie Ansprüche der Versorgungsanstalt auf Beiträge, Zinsen und sonstige Nebenkosten verjähren in vier Jahren. Die Verjährungsfrist beginnt mit dem Schluss des Kalenderjahres, in dem die Zahlung verlangt werden kann.
 
-##### § 35 Rechtsweg
+###### § 35 Rechtsweg
 
 Für alle Streitigkeiten, die Angelegenheiten der Zusatzversorgung der bevollmächtigten Bezirksschornsteinfeger durch die Versorgungsanstalt betreffen, ist der Verwaltungsrechtsweg gegeben.
 
-##### § 36 Mittel zur Durchführung der Zusatzversorgung
+###### § 36 Mittel zur Durchführung der Zusatzversorgung
 
 (1) Die Mittel zur Durchführung der Zusatzversorgung werden aufgebracht aus
 
@@ -563,7 +567,7 @@ Für alle Streitigkeiten, die Angelegenheiten der Zusatzversorgung der bevollmä
 
 ## Kapitel 3 Versorgungsleistungen
 
-##### § 37 Ruhegeld
+###### § 37 Ruhegeld
 
 (1) Die erworbenen Anwartschaften der Versorgungsberechtigten auf Ruhegeld werden zum Stichtag 31. Dezember 2012 auf Grundlage der Absätze 3 bis 7 berechnet und in Euro ausgewiesen. Die Versorgungsanstalt erteilt den Versorgungsberechtigten über die erworbenen Anwartschaften einen Bescheid.
 
@@ -579,7 +583,7 @@ Für alle Streitigkeiten, die Angelegenheiten der Zusatzversorgung der bevollmä
 
 (7) Für Versorgungsberechtigte im Beitrittsgebiet ist § 56a Absatz 1 des Schornsteinfegergesetzes in der am 31. Dezember 2012 geltenden Fassung entsprechend anzuwenden.
 
-##### § 38 Ruhegeld bei Berufsunfähigkeit
+###### § 38 Ruhegeld bei Berufsunfähigkeit
 
 (1) Ein Versorgungsberechtigter erhält auf Antrag Ruhegeld bei Berufsunfähigkeit, wenn
 
@@ -609,7 +613,7 @@ Satz 1 Nummer 3 ist nicht anzuwenden auf Versorgungsberechtigte, die vor dem 1. 
 
 Im Übrigen ist § 37 Absatz 6 entsprechend anzuwenden.
 
-##### § 39 Witwen- und Witwergeld
+###### § 39 Witwen- und Witwergeld
 
 (1) Ehegatten von verstorbenen Versorgungsempfängern nach § 37 oder § 38 erhalten Witwen- oder Witwergeld in Höhe von 55 Prozent des Ruhegeldes oder des Ruhegeldes bei Berufsunfähigkeit. Ehegatten von verstorbenen Versorgungsberechtigten erhalten Witwen- oder Witwergeld in Höhe von jährlich 0,82 Prozent des entsprechend § 27 Absatz 4 angepassten Jahreshöchstbetrages für jedes mit Beiträgen belegte Jahr, mindestens jedoch 17,3 Prozent des Jahreshöchstbetrages; § 37 Absatz 7 und § 38 Absatz 1 Nummer 2 sind entsprechend anzuwenden.
 
@@ -619,7 +623,7 @@ Im Übrigen ist § 37 Absatz 6 entsprechend anzuwenden.
 
 (4) Die Absätze 1 bis 3 gelten für Lebenspartner entsprechend.
 
-##### § 40 Waisengeld
+###### § 40 Waisengeld
 
 (1) Die Kinder von verstorbenen Versorgungsberechtigten oder verstorbenen Versorgungsempfängern nach § 37 oder § 38 erhalten Waisengeld. Ein Anspruch auf Waisengeld besteht nicht, wenn die Waise erst nach Erreichung der Regelaltersgrenze in der gesetzlichen Rentenversicherung als Kind angenommen worden ist.
 
@@ -629,7 +633,7 @@ Im Übrigen ist § 37 Absatz 6 entsprechend anzuwenden.
 
 (4) Für das Erlöschen des Anspruchs auf Waisengeld ist § 48 Absatz 4 und 5 des Sechsten Buches Sozialgesetzbuch mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des 27. Lebensjahres das 25. Lebensjahr tritt.
 
-##### § 41 Interne Teilung beim Versorgungsausgleich
+###### § 41 Interne Teilung beim Versorgungsausgleich
 
 (1) Der Ausgleich von Anrechten der Versorgungsanstalt erfolgt in Form der internen Teilung nach Maßgabe des Versorgungsausgleichsgesetzes sowie nach dieser Vorschrift.
 
@@ -645,15 +649,14 @@ Im Übrigen ist § 37 Absatz 6 entsprechend anzuwenden.
 
 ## Teil 3 Übergangsregelungen
 
-##### § 42 (weggefallen)
+###### § 42 (weggefallen)
 
-##### § 43 Ruhegeld wegen Versetzung in den Ruhestand
+###### § 43 Ruhegeld wegen Versetzung in den Ruhestand
 
 Am 31. Dezember 2012 festgestellte Ruhegelder wegen Versetzung in den Ruhestand werden vom 1. Januar 2013 an als Ruhegeld bei Berufsunfähigkeit weitergezahlt.
 
-##### § 44 (weggefallen)
+###### § 44 (weggefallen)
 
-##### § 45 Anwendungsbestimmungen
+###### § 45 Anwendungsbestimmungen
 
 § 12a ist ab dem 1. Januar 2018 anzuwenden.
-
