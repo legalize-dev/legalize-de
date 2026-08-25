@@ -4,28 +4,33 @@ identifier: "BMG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2013-05-03"
-last_updated: "2026-04-04"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bmg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR108410013"
 slug: "bmg"
 bgbl_reference: "BGBl I 2013, 1084"
-stand: "Zuletzt geändert durch Art. 12 G v. 22.12.2025 I Nr. 370"
+stand: "Zuletzt geändert durch Art. 5 G v. 3.7.2026 I Nr. 199"
+hinweis: "Änderung durch Art. 10 G v. 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Bundesmeldegesetz
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
 
-Abschnitt 1Allgemeine Bestimmungen§  1Meldebehörden§  2Aufgaben und Befugnisse der Meldebehörden§  3Speicherung von Daten§  4Ordnungsmerkmale§  5Zweckbindung der Daten§  6Richtigkeit und Vollständigkeit des Melderegisters§  7MeldegeheimnisAbschnitt 2Schutzrechte§  8Schutzwürdige Interessen der betroffenen Person§  9(weggefallen)§ 10Auskunftsrecht der betroffenen Person§ 11Auskunftsbeschränkungen§ 12Recht auf Berichtigung§ 13Aufbewahrung von Daten§ 14Löschung von Daten§ 15Aufbewahrung und Löschung von Hinweisen§ 16Anbieten von Daten an ArchiveAbschnitt 3Allgemeine Meldepflichten§ 17Anmeldung, Abmeldung§ 18Meldebescheinigung§ 18aMeldedatensatz zum Abruf§ 19Mitwirkung des Wohnungsgebers§ 20Begriff der Wohnung§ 21Mehrere Wohnungen§ 22Bestimmung der Hauptwohnung§ 23Erfüllung der allgemeinen Meldepflicht§ 23aElektronische Anmeldung§ 24Datenerhebung, Meldebestätigung§ 25Mitwirkungspflichten der meldepflichtigen Person§ 26Befreiung von der Meldepflicht§ 27Ausnahmen von der MeldepflichtAbschnitt 4Besondere Meldepflichten§ 28Besondere Meldepflichten für Binnenschiffer und Seeleute§ 29Besondere Meldepflicht in Beherbergungsstätten§ 30Besondere Meldescheine für Beherbergungsstätten§ 31Verarbeitungsbeschränkungen§ 32Besondere Meldepflicht in Krankenhäusern, Heimen und ähnlichen EinrichtungenAbschnitt 5DatenübermittlungenUnterabschnitt 1Datenübermittlungen zwischen öffentlichen Stellen§ 33Datenübermittlungen zwischen den Meldebehörden§ 34Datenübermittlungen an andere öffentliche Stellen§ 34aPersonensuche und freie Suche im automatisierten Abruf§ 35Datenübermittlungen an ausländische Stellen§ 36Regelmäßige Datenübermittlungen§ 37Datenweitergabe§ 38Auswahldaten für automatisierte Abrufe und für Datenübermittlungen über Personengruppen§ 39Verfahren des automatisierten Abrufs§ 39aDatenbestätigung für öffentliche Stellen§ 40Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung§ 41Zweckbindung übermittelter Daten und Hinweise§ 42Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften§ 43(weggefallen)Unterabschnitt 2Melderegisterauskunft§ 44Einfache Melderegisterauskunft§ 45Erweiterte Melderegisterauskunft§ 46Gruppenauskunft§ 47Zweckbindung der Melderegisterauskunft§ 48Melderegisterauskunft für öffentlich-rechtliche Rundfunkanstalten§ 49Automatisierte Melderegisterauskunft§ 49aDatenbestätigung§ 50Melderegisterauskünfte in besonderen Fällen§ 51Auskunftssperren§ 52Bedingter SperrvermerkUnterabschnitt 3Zeugenschutz§ 53ZeugenschutzAbschnitt 6Ordnungswidrigkeiten§ 54BußgeldvorschriftenAbschnitt 7Sonstige Vorschriften, Schlussvorschriften§ 55Regelungsbefugnisse der Länder§ 56Verordnungsermächtigungen§ 57Verwaltungsvorschriften§ 58(weggefallen)
+###### Inhaltsübersicht
+
+Abschnitt 1Allgemeine Bestimmungen§  1Meldebehörden§  2Aufgaben und Befugnisse der Meldebehörden§  3Speicherung von Daten§  4Ordnungsmerkmale§  5Zweckbindung der Daten§  6Richtigkeit und Vollständigkeit des Melderegisters§  7MeldegeheimnisAbschnitt 2Schutzrechte§  8Schutzwürdige Interessen der betroffenen Person§  9(weggefallen)§ 10Auskunftsrecht der betroffenen Person§ 11Auskunftsbeschränkungen§ 12Recht auf Berichtigung§ 13Aufbewahrung von Daten§ 14Löschung von Daten§ 15Aufbewahrung und Löschung von Hinweisen§ 16Anbieten von Daten an ArchiveAbschnitt 3Allgemeine Meldepflichten§ 17Anmeldung, Abmeldung§ 18Meldebescheinigung§ 18aMeldedatensatz zum Abruf§ 19Mitwirkung des Wohnungsgebers§ 20Begriff der Wohnung§ 21Mehrere Wohnungen§ 22Bestimmung der Hauptwohnung§ 23Erfüllung der allgemeinen Meldepflicht§ 23aElektronische Anmeldung§ 24Datenerhebung, Meldebestätigung§ 25Mitwirkungspflichten der meldepflichtigen Person§ 26Befreiung von der Meldepflicht§ 27Ausnahmen von der MeldepflichtAbschnitt 4Besondere Meldepflichten§ 28Besondere Meldepflicht für Binnenschiffer§ 29Besondere Meldepflicht in Beherbergungsstätten§ 30Besondere Meldescheine für Beherbergungsstätten§ 31Verarbeitungsbeschränkungen§ 32Besondere Meldepflicht in Krankenhäusern, Heimen und ähnlichen EinrichtungenAbschnitt 5DatenübermittlungenUnterabschnitt 1Datenübermittlungen zwischen öffentlichen Stellen§ 33Datenübermittlungen zwischen den Meldebehörden§ 34Datenübermittlungen an andere öffentliche Stellen§ 34aPersonensuche und freie Suche im automatisierten Abruf§ 35Datenübermittlungen an ausländische Stellen§ 36Regelmäßige Datenübermittlungen§ 37Datenweitergabe§ 38Auswahldaten für automatisierte Abrufe und für Datenübermittlungen über Personengruppen§ 39Verfahren des automatisierten Abrufs§ 40Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung§ 41Zweckbindung übermittelter Daten und Hinweise§ 42Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften§ 43(weggefallen)Unterabschnitt 2Melderegisterauskunft§ 44Einfache Melderegisterauskunft§ 45Erweiterte Melderegisterauskunft§ 46Gruppenauskunft§ 47Zweckbindung der Melderegisterauskunft§ 48Melderegisterauskunft für öffentlich-rechtliche Rundfunkanstalten§ 49Automatisierte Melderegisterauskunft§ 50Melderegisterauskünfte in besonderen Fällen§ 51Auskunftssperren§ 52Bedingter SperrvermerkUnterabschnitt 3Zeugenschutz§ 53ZeugenschutzAbschnitt 6Ordnungswidrigkeiten§ 54BußgeldvorschriftenAbschnitt 7Sonstige Vorschriften, Schlussvorschriften§ 55Regelungsbefugnisse der Länder§ 56Verordnungsermächtigungen§ 57Verwaltungsvorschriften§ 58(weggefallen)
 
 ## Abschnitt 1 Allgemeine Bestimmungen
 
-##### § 1 Meldebehörden
+###### § 1 Meldebehörden
 
 Meldebehörden sind die durch Landesrecht dazu bestimmten Behörden.
 
-##### § 2 Aufgaben und Befugnisse der Meldebehörden
+###### § 2 Aufgaben und Befugnisse der Meldebehörden
 
 (1) Die Meldebehörden haben die in ihrem Zuständigkeitsbereich wohnhaften Personen (Einwohner) zu registrieren, um deren Identität und deren Wohnungen feststellen und nachweisen zu können.
 
@@ -35,7 +40,7 @@ Meldebehörden sind die durch Landesrecht dazu bestimmten Behörden.
 
 (4) Die Meldebehörden dürfen personenbezogene Daten, die im Melderegister gespeichert werden, nur nach Maßgabe dieses Gesetzes oder sonstiger Rechtsvorschriften verarbeiten. Daten nicht meldepflichtiger Personen dürfen nur verarbeitet werden, wenn die betroffene Person in die Datenverarbeitung eingewilligt hat.
 
-##### § 3 Speicherung von Daten
+###### § 3 Speicherung von Daten
 
 (1) Zur Erfüllung ihrer Aufgaben nach § 2 Absatz 1 und 3 speichern die Meldebehörden folgende Daten sowie die zum Nachweis ihrer Richtigkeit erforderlichen Hinweise im Melderegister:
 
@@ -69,9 +74,11 @@ e) Geburtsdatum,
 
 f) Geschlecht,
 
-g) Sterbedatum sowie
+g) Sterbedatum,
 
-h) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
+h) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
+
+i) die Identifikationsnummer nach § 139b der Abgabenordnung,
 
 10. derzeitige Staatsangehörigkeiten,
 
@@ -99,9 +106,11 @@ f) Geschlecht,
 
 g) derzeitige Anschriften im Zuständigkeitsbereich der Meldebehörde sowie Anschrift der letzten alleinigen Wohnung oder Hauptwohnung außerhalb des Zuständigkeitsbereichs der Meldebehörde,
 
-h) Sterbedatum sowie
+h) Sterbedatum,
 
-i) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
+i) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
+
+j) die Identifikationsnummer nach § 139b der Abgabenordnung,
 
 16. zu minderjährigen Kindern
 
@@ -117,7 +126,9 @@ e) Anschrift im Inland,
 
 f) Sterbedatum,
 
-g) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
+g) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 sowie
+
+h) die Identifikationsnummer nach § 139b der Abgabenordnung,
 
 17. Ausstellungsbehörde, Ausstellungsdatum, letzter Tag der Gültigkeitsdauer und Seriennummer des Personalausweises, vorläufigen Personalausweises oder Ersatz-Personalausweises, des anerkannten Passes oder Passersatzpapiers, Ausstellungsbehörde, letzter Tag der Gültigkeitsdauer und Seriennummer der eID-Karte sowie Sperrkennwort und Sperrsumme des Personalausweises und der eID-Karte,
 
@@ -141,24 +152,18 @@ c) (weggefallen)
 
 a) die Zugehörigkeit zu einer steuererhebenden Religionsgesellschaft sowie das Datum des Eintritts und Austritts,
 
-b) den Familienstand,
+b) den Familienstand sowie
 
-c) das Datum der Begründung oder Auflösung der Ehe oder Lebenspartnerschaft sowie
-
-d) die Identifikationsnummern oder die Vorläufigen Bearbeitungsmerkmale
-
-aa) des Ehegatten oder Lebenspartners,
-
-bb) der minderjährigen Kinder, die ihre alleinige Wohnung oder ihre Hauptwohnung im Zuständigkeitsbereich derselben Meldebehörde haben,
+c) das Datum der Begründung oder Auflösung der Ehe oder Lebenspartnerschaft,
 
 3. für Zwecke der Vergabe der Identifikationsnummer nach § 139b der Abgabenordnung bis zu deren Speicherung im Melderegister das Vorläufige Bearbeitungsmerkmal nach § 139b Absatz 6 Satz 2 der Abgabenordnung,
 
 4. für die Ausstellung von Pässen und Ausweisen
  die Tatsache, dass Passversagungsgründe vorliegen, ein Pass versagt oder entzogen oder eine Anordnung nach § 6 Absatz 7, § 6a Absatz 1 oder § 6a Absatz 2 des Personalausweisgesetzes getroffen worden ist,
 
-5. (weggefallen)
+5. für staatsangehörigkeitsrechtliche Verfahren die Tatsache, dass die deutsche Staatsangehörigkeit nach § 4 Absatz 3 oder § 40b des Staatsangehörigkeitsgesetzes erworben wurde und nach § 29 des Staatsangehörigkeitsgesetzes ein Verlust der deutschen Staatsangehörigkeit eintreten kann,
 
-6. (weggefallen)
+6. für Zwecke der Suchdienste die Anschrift vom 1. September 1939 derjenigen Einwohner, die aus den in § 1 Absatz 2 Nummer 3 des Bundesvertriebenengesetzes bezeichneten Gebieten stammen,
 
 7. für waffenrechtliche Verfahren die Tatsache, dass eine waffenrechtliche Erlaubnis erteilt oder ein Waffenbesitzverbot erlassen worden ist, sowie die jeweilige Behörde, die diese Tatsache mitteilt, mit Angabe des Datums, an dem die waffenrechtliche Erlaubnis erstmals erteilt oder das Waffenbesitzverbot erlassen worden ist,
 
@@ -168,7 +173,7 @@ bb) der minderjährigen Kinder, die ihre alleinige Wohnung oder ihre Hauptwohnun
 
 10. für die Prüfung, ob die von der meldepflichtigen Person gemachten Angaben richtig sind, und zur Gewährleistung der Auskunftsrechte in § 19 Absatz 1 Satz 3 und § 50 Absatz 4 den Namen und die Anschrift des Eigentümers der Wohnung und, wenn dieser nicht selbst Wohnungsgeber ist, den Namen des Eigentümers der Wohnung sowie den Namen und die Anschrift des Wohnungsgebers.
 
-##### § 4 Ordnungsmerkmale
+###### § 4 Ordnungsmerkmale
 
 (1) Die Meldebehörden dürfen ihre Register mit Hilfe von Ordnungsmerkmalen führen. Die Ordnungsmerkmale können aus den in § 3 Absatz 1 Nummer 6 und 7 genannten Daten gebildet werden. Durch geeignete technische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung sind die Ordnungsmerkmale vor Verwechslungen zu schützen.
 
@@ -178,7 +183,7 @@ bb) der minderjährigen Kinder, die ihre alleinige Wohnung oder ihre Hauptwohnun
 
 (4) Absatz 3 Satz 2 und 3 gilt entsprechend für die Weitergabe von Ordnungsmerkmalen innerhalb der Verwaltungseinheit, der die Meldebehörde angehört.
 
-##### § 5 Zweckbindung der Daten
+###### § 5 Zweckbindung der Daten
 
 (1) Die Meldebehörde darf die Daten, die nach § 3 Absatz 1 Nummer 17a gespeichert sind, nur noch im Verkehr mit der Registerbehörde für das Ausländerzentralregister nutzen, sobald sie von der Ausländerbehörde nach § 90a Absatz 1 Satz 3 des Aufenthaltsgesetzes unterrichtet wurde.
 
@@ -192,7 +197,7 @@ bb) der minderjährigen Kinder, die ihre alleinige Wohnung oder ihre Hauptwohnun
 
 Die in Satz 2 Nummer 1 und 2 genannten Daten dürfen nach § 33 auch an die Meldebehörden übermittelt werden.
 
-##### § 6 Richtigkeit und Vollständigkeit des Melderegisters
+###### § 6 Richtigkeit und Vollständigkeit des Melderegisters
 
 (1) Ist das Melderegister unrichtig oder unvollständig, hat es die Meldebehörde nach Artikel 5 Absatz 1 Buchstabe d der Verordnung (EU) 2016/679 zu berichtigen oder zu vervollständigen (Fortschreibung). Über die Fortschreibung sind unverzüglich diejenigen öffentlichen Stellen zu unterrichten, denen im Rahmen regelmäßiger Datenübermittlungen die unrichtigen oder unvollständigen Daten übermittelt worden sind.
 
@@ -202,7 +207,7 @@ Die in Satz 2 Nummer 1 und 2 genannten Daten dürfen nach § 33 auch an die Meld
 
 (4) Bei der Weitergabe von Daten und Hinweisen nach § 37 sind Absatz 1 Satz 2 und Absatz 2 entsprechend anzuwenden.
 
-##### § 7 Meldegeheimnis
+###### § 7 Meldegeheimnis
 
 (1) Personen, die bei Meldebehörden oder anderen Stellen, die im Auftrag der Meldebehörden handeln, beschäftigt sind, ist es verboten, personenbezogene Daten unbefugt zu verarbeiten.
 
@@ -210,13 +215,13 @@ Die in Satz 2 Nummer 1 und 2 genannten Daten dürfen nach § 33 auch an die Meld
 
 ## Abschnitt 2 Schutzrechte
 
-##### § 8 Schutzwürdige Interessen der betroffenen Person
+###### § 8 Schutzwürdige Interessen der betroffenen Person
 
 Schutzwürdige Interessen der betroffenen Person dürfen durch die Verarbeitung personenbezogener Daten nicht beeinträchtigt werden. Schutzwürdige Interessen werden insbesondere beeinträchtigt, wenn die Verarbeitung, gemessen an ihrer Eignung und ihrer Erforderlichkeit zu dem vorgesehenen Zweck, die betroffene Person unverhältnismäßig belastet. Die Prüfung, ob schutzwürdige Interessen der betroffenen Person beeinträchtigt werden, entfällt, falls die Verarbeitung durch Rechtsvorschrift vorgeschrieben ist.
 
-##### § 9 (weggefallen)
+###### § 9 (weggefallen)
 
-##### § 10 Auskunftsrecht der betroffenen Person
+###### § 10 Auskunftsrecht der betroffenen Person
 
 (1) Vor der Erteilung der Auskunft an die betroffene Person nach Artikel 15 der Verordnung (EU) 2016/679 hat die Meldebehörde die Identität der betroffenen Person zu überprüfen.
 
@@ -224,11 +229,11 @@ Schutzwürdige Interessen der betroffenen Person dürfen durch die Verarbeitung 
 
 (3) Das bei einer elektronischen Antragstellung erforderliche Vertrauensniveau zum Nachweis der Identität des Antragstellers wird durch Rechtsverordnung nach § 56 Absatz 1 Nummer 6 festgelegt.
 
-##### § 11 Auskunftsbeschränkungen
+###### § 11 Auskunftsbeschränkungen
 
 (1) Das Recht auf Auskunft der betroffenen Person über die Kategorien der übermittelten Daten und über die Empfänger der Daten nach Artikel 15 Absatz 1 Buchstabe b und c der Verordnung (EU) 2016/679 besteht nicht, wenn
 
-1. eine nicht automatisierte Melderegisterauskunft nach den §§ 46 und 50 Absatz 1 bis 3 erfolgt ist,
+1. eine nicht automatisierte Melderegisterauskunft nach den §§ 46 und 50 Absatz 1 und 2 erfolgt ist,
 
 2. eine nicht automatisierte Datenübermittlung nach § 34 oder eine nicht automatisierte Datenweitergabe nach § 37 Absatz 1 erfolgt ist oder
 
@@ -280,11 +285,11 @@ Dies gilt entsprechend für die Auskunft über den Empfänger der Daten, soweit 
 
 (5) Wird der betroffenen Person keine Auskunft erteilt, so ist die Auskunft auf ihr Verlangen der in Absatz 4 Satz 2 bezeichneten Stelle zu erteilen. Stellt die jeweils zuständige oberste Landesbehörde im Einzelfall fest, dass dadurch die Sicherheit des Bundes oder eines Landes gefährdet würde, erhält der Landesbeauftragte für den Datenschutz persönlich Auskunft.
 
-##### § 12 Recht auf Berichtigung
+###### § 12 Recht auf Berichtigung
 
 Hat die Meldebehörde die Daten auf Antrag der betroffenen Person nach Artikel 16 der Verordnung (EU) 2016/679 berichtigt oder vervollständigt, so gilt § 6 Absatz 1 Satz 2 entsprechend. Für die Dauer der Prüfung der Richtigkeit ist die Verarbeitung der Daten nicht nach Artikel 18 Absatz 1 Buchstabe a der Verordnung (EU) 2016/679 eingeschränkt.
 
-##### § 13 Aufbewahrung von Daten
+###### § 13 Aufbewahrung von Daten
 
 (1) Nach dem Wegzug oder dem Tod eines Einwohners hat die Meldebehörde für die Erfüllung ihrer Aufgaben weiterhin die in § 3 Absatz 1 Nummer 1 bis 10, 12 bis 16, 17a, 18 und 19 genannten Daten zu speichern. Sie darf in diesen Fällen auch die Daten nach § 3 Absatz 2 Nummer 1 und 2 im Melderegister speichern. Bei Wegzug eines Einwohners speichert die Meldebehörde außerdem die Daten nach § 3 Absatz 1 Nummer 17 und die Feststellung der Tatsachen nach § 3 Absatz 2 Nummer 4, 7 und 8.
 
@@ -306,7 +311,7 @@ e) zur Durchführung des staatsangehörigkeitsrechtlichen Verfahrens nach § 30 
 
 3. die Daten nach Absatz 1 mit Ausnahme der Daten nach § 3 Absatz 1 Nummer 18 als Auswahldaten nach Maßgabe des § 38 Absatz 1 bis 3 verarbeitet werden.
 
-##### § 14 Löschung von Daten
+###### § 14 Löschung von Daten
 
 (1) Die Meldebehörde hat gespeicherte Daten zu löschen, wenn sie zur Erfüllung ihrer Aufgaben nicht mehr erforderlich sind. Das Gleiche gilt, wenn bereits die Speicherung der Daten unzulässig war.
 
@@ -314,11 +319,11 @@ e) zur Durchführung des staatsangehörigkeitsrechtlichen Verfahrens nach § 30 
 
 (3) Ist eine Löschung im Fall nicht automatisierter Datenverarbeitung wegen der besonderen Art der Speicherung nicht oder nur mit unverhältnismäßig hohem Aufwand möglich und ist das Interesse der betroffenen Person an der Löschung als gering anzusehen, besteht das Recht der betroffenen Person auf Löschung personenbezogener Daten und die Pflicht der Meldebehörde zur Löschung personenbezogener Daten nach Artikel 17 Absatz 1 der Verordnung (EU) 2016/679 ergänzend zu den in Artikel 17 Absatz 3 der Verordnung (EU) 2016/679 genannten Ausnahmen nicht. In diesem Fall tritt an die Stelle einer Löschung die Einschränkung der Verarbeitung nach Artikel 18 der Verordnung (EU) 2016/679.
 
-##### § 15 Aufbewahrung und Löschung von Hinweisen
+###### § 15 Aufbewahrung und Löschung von Hinweisen
 
 Die §§ 13 und 14 gelten entsprechend für Hinweise, die gespeichert werden, um die Richtigkeit der jeweiligen Daten nachzuweisen.
 
-##### § 16 Anbieten von Daten an Archive
+###### § 16 Anbieten von Daten an Archive
 
 (1) Nach Ablauf der in § 13 Absatz 2 Satz 1 für die Aufbewahrung bestimmten Frist hat die Meldebehörde die Daten und die zum Nachweis ihrer Richtigkeit gespeicherten Hinweise vor der Löschung den durch Landesrecht bestimmten Archiven nach den jeweiligen archivrechtlichen Vorschriften zur Übernahme anzubieten.
 
@@ -326,7 +331,7 @@ Die §§ 13 und 14 gelten entsprechend für Hinweise, die gespeichert werden, um
 
 ## Abschnitt 3 Allgemeine Meldepflichten
 
-##### § 17 Anmeldung, Abmeldung
+###### § 17 Anmeldung, Abmeldung
 
 (1) Wer eine Wohnung bezieht, hat sich innerhalb von zwei Wochen nach dem Einzug bei der Meldebehörde anzumelden.
 
@@ -336,7 +341,7 @@ Die §§ 13 und 14 gelten entsprechend für Hinweise, die gespeichert werden, um
 
 (4) Die Standesämter teilen den Meldebehörden unverzüglich die Beurkundung der Geburt eines Kindes sowie jede Änderung des Personenstandes einer Person mit. Die Meldebehörden teilen den Standesämtern in diesen Fällen unverzüglich die Identifikationsnummer nach § 139b der Abgabenordnung mit.
 
-##### § 18 Meldebescheinigung
+###### § 18 Meldebescheinigung
 
 (1) Die Meldebehörde erteilt der betroffenen Person auf deren Antrag eine schriftliche oder elektronische Meldebescheinigung. Die Meldebescheinigung enthält folgende Daten:
 
@@ -358,7 +363,7 @@ Hierzu hat die meldepflichtige Person Familienname, Vornamen, Geburtsdatum sowie
 
 (4) Im Übrigen gelten § 10 Absatz 2 und 3 sowie § 11 Absatz 2 Nummer 1 bis 3 entsprechend.
 
-##### § 18a Meldedatensatz zum Abruf
+###### § 18a Meldedatensatz zum Abruf
 
 (1) Die Meldebehörde stellt der betroffenen Person auf deren Antrag die Meldedaten nach § 18 Absatz 1 und 2 zum Zweck der Weiterleitung in einer elektronischen Verwaltungsleistung nach dem Onlinezugangsgesetz im Wege des automatisierten Abrufs bereit. Hierzu hat die meldepflichtige Person die in § 18 Absatz 1 Satz 3 genannten Daten zu übermitteln. Die Meldedaten werden als unveränderbarer maschinenlesbarer Datensatz (Meldedatensatz) bereitgestellt. Aus dem Meldedatensatz muss der Zeitpunkt des Abrufs erkennbar sein.
 
@@ -366,7 +371,7 @@ Hierzu hat die meldepflichtige Person Familienname, Vornamen, Geburtsdatum sowie
 
 (3) Im Übrigen gelten § 10 Absatz 2 und 3 sowie § 11 Absatz 2 Nummer 1 bis 3 entsprechend.
 
-##### § 19 Mitwirkung des Wohnungsgebers
+###### § 19 Mitwirkung des Wohnungsgebers
 
 (1) Der Wohnungsgeber ist verpflichtet, bei der Anmeldung mitzuwirken. Hierzu hat der Wohnungsgeber oder eine von ihm beauftragte Person der meldepflichtigen Person den Einzug schriftlich oder gegenüber der Meldebehörde nach Absatz 4 auch elektronisch innerhalb der in § 17 Absatz 1 genannten Frist zu bestätigen. Er kann sich durch Rückfrage bei der Meldebehörde davon überzeugen, dass sich die meldepflichtige Person angemeldet hat. Die meldepflichtige Person hat dem Wohnungsgeber die Auskünfte zu geben, die für die Bestätigung des Einzugs erforderlich sind. Die Bestätigung nach Satz 2 darf nur vom Wohnungsgeber oder einer von ihm beauftragten Person ausgestellt werden.
 
@@ -388,11 +393,11 @@ Hierzu hat die meldepflichtige Person Familienname, Vornamen, Geburtsdatum sowie
 
 (6) Es ist verboten, eine Wohnungsanschrift für eine Anmeldung nach § 17 Absatz 1 einem Dritten anzubieten oder zur Verfügung zu stellen, obwohl ein tatsächlicher Bezug der Wohnung durch einen Dritten weder stattfindet noch beabsichtigt ist.
 
-##### § 20 Begriff der Wohnung
+###### § 20 Begriff der Wohnung
 
 Wohnung im Sinne dieses Gesetzes ist jeder umschlossene Raum, der zum Wohnen oder Schlafen benutzt wird. Als Wohnung gilt auch die Unterkunft an Bord eines Schiffes der Marine. Wohnwagen und Wohnschiffe sind nur dann als Wohnungen anzusehen, wenn sie nicht oder nur gelegentlich fortbewegt werden.
 
-##### § 21 Mehrere Wohnungen
+###### § 21 Mehrere Wohnungen
 
 (1) Hat ein Einwohner mehrere Wohnungen im Inland, so ist eine dieser Wohnungen seine Hauptwohnung.
 
@@ -402,7 +407,7 @@ Wohnung im Sinne dieses Gesetzes ist jeder umschlossene Raum, der zum Wohnen ode
 
 (4) Die meldepflichtige Person hat der Meldebehörde bei jeder An- oder Abmeldung mitzuteilen, welche weiteren Wohnungen im Inland sie hat und welche Wohnung ihre Hauptwohnung ist. Sie hat jede Änderung der Hauptwohnung innerhalb von zwei Wochen der Meldebehörde mitzuteilen, die für die neue Hauptwohnung zuständig ist. Zieht die meldepflichtige Person aus einer ihrer Nebenwohnungen im Inland aus und bezieht sie keine neue Wohnung, so hat sie dies der Meldebehörde, die für die Nebenwohnung zuständig ist, oder der Meldebehörde, die für die alleinige Wohnung oder die Hauptwohnung zuständig ist, mitzuteilen.
 
-##### § 22 Bestimmung der Hauptwohnung
+###### § 22 Bestimmung der Hauptwohnung
 
 (1) Hauptwohnung eines verheirateten oder eine Lebenspartnerschaft führenden Einwohners, der nicht dauernd getrennt von seiner Familie oder seinem Lebenspartner lebt, ist die vorwiegend benutzte Wohnung der Familie oder der Lebenspartner.
 
@@ -414,11 +419,11 @@ Wohnung im Sinne dieses Gesetzes ist jeder umschlossene Raum, der zum Wohnen ode
 
 (5) Auf Antrag eines Einwohners, der in einer Einrichtung für behinderte Menschen wohnt, bleibt die Wohnung nach Absatz 2, bis er 25 Jahre alt ist, seine Hauptwohnung.
 
-##### § 23 Erfüllung der allgemeinen Meldepflicht
+###### § 23 Erfüllung der allgemeinen Meldepflicht
 
-(1) Soweit nachstehend nicht etwas anderes bestimmt ist, hat die meldepflichtige Person einen Meldeschein auszufüllen, zu unterschreiben und der Meldebehörde zusammen mit dem Personalausweis, dem vorläufigen Personalausweis, dem Ersatz-Personalausweis, dem anerkannten und gültigen Pass oder Passersatzpapier sowie der Bestätigung des Wohnungsgebers oder dem entsprechenden Zuordnungsmerkmal nach § 19 Absatz 4 Satz 1 vorzulegen. Wird das Melderegister automatisiert geführt, kann von dem Ausfüllen des Meldescheins abgesehen werden, wenn die meldepflichtige Person persönlich bei der Meldebehörde erscheint und auf einem Ausdruck die Richtigkeit und Vollständigkeit der bei ihr erhobenen Daten durch ihre Unterschrift bestätigt.
+(1) Soweit nachstehend nicht etwas anderes bestimmt ist, hat die meldepflichtige Person einen Meldeschein auszufüllen, zu unterschreiben und der Meldebehörde zusammen mit dem Personalausweis, dem vorläufigen Personalausweis, dem Ersatz-Personalausweis, dem anerkannten und gültigen Pass oder Passersatzpapier sowie der Bestätigung des Wohnungsgebers oder dem entsprechenden Zuordnungsmerkmal nach § 19 Absatz 4 Satz 1 vorzulegen. Wird das Melderegister automatisiert geführt, kann von dem Ausfüllen des Meldescheins abgesehen werden, wenn die meldepflichtige Person persönlich bei der Meldebehörde erscheint und die Richtigkeit und Vollständigkeit der bei ihr erhobenen Daten durch ihre Unterschrift oder elektronisch bestätigt.
 
-(2) Die Meldebehörde des neuen Wohnortes (Zuzugsmeldebehörde) ist verpflichtet, der meldepflichtigen Person die Daten der Wegzugsmeldebehörde nach § 3 Absatz 1 Nummer 1 bis 18 und Absatz 2 Nummer 4 vorzulegen (vorausgefüllter Meldeschein). Daten zum gesetzlichen Vertreter, Ehegatten, Lebenspartner oder zu minderjährigen Kindern, für die eine Auskunftssperre nach § 51 oder ein bedingter Sperrvermerk nach § 52 gespeichert ist, dürfen nicht in dem vorausgefüllten Meldeschein enthalten sein. Die meldepflichtige Person hat die übermittelten Angaben auf ihre Richtigkeit zu prüfen, unzutreffende Angaben zu berichtigen und fehlende Angaben zu ergänzen. Sie hat den aktualisierten vorausgefüllten Meldeschein bei der Zuzugsmeldebehörde unterschrieben einzureichen. Im Fall, dass ein vorausgefüllter Meldeschein nicht erstellt werden kann, hat die meldepflichtige Person einen Meldeschein auszufüllen und zu unterschreiben.
+(2) Die Meldebehörde des neuen Wohnortes (Zuzugsmeldebehörde) ist verpflichtet, der meldepflichtigen Person die Daten der Wegzugsmeldebehörde nach § 3 Absatz 1 Nummer 1 bis 18 und Absatz 2 Nummer 4 vorzulegen (vorausgefüllter Meldeschein). Daten zum gesetzlichen Vertreter, Ehegatten, Lebenspartner oder zu minderjährigen Kindern, für die eine Auskunftssperre nach § 51 oder ein bedingter Sperrvermerk nach § 52 gespeichert ist, dürfen nicht in dem vorausgefüllten Meldeschein enthalten sein. Die meldepflichtige Person hat die übermittelten Angaben auf ihre Richtigkeit zu prüfen, unzutreffende Angaben zu berichtigen und fehlende Angaben zu ergänzen. Sie hat den aktualisierten vorausgefüllten Meldeschein bei der Zuzugsmeldebehörde unterschrieben einzureichen oder elektronisch zu bestätigen. Im Fall, dass ein vorausgefüllter Meldeschein nicht erstellt werden kann, hat die meldepflichtige Person einen Meldeschein auszufüllen und zu unterschreiben oder elektronisch zu bestätigen.
 
 (3) Für den vorausgefüllten Meldeschein gibt die meldepflichtige Person Familienname, Vornamen, Geburtsdatum sowie die letzte Wohnanschrift an. Diese Daten übermittelt die Zuzugsmeldebehörde der Wegzugsmeldebehörde, um die Daten nach § 3 Absatz 1 Nummer 1 bis 18 und Absatz 2 Nummer 4 anzufordern. Die Wegzugsmeldebehörde übermittelt der Zuzugsmeldebehörde unverzüglich die angeforderten Daten.
 
@@ -428,9 +433,9 @@ Wohnung im Sinne dieses Gesetzes ist jeder umschlossene Raum, der zum Wohnen ode
 
 (6) Die Abmeldung in das Ausland kann schriftlich oder in entsprechender Anwendung des § 10 Absatz 2 und 3 elektronisch erfolgen. Der Nachweis der Identität der abmeldepflichtigen Person kann bei der elektronischen Abmeldung auch durch die Angabe des Familiennamens, des Vornamens, des Geburtsdatums und der Seriennummer des zuletzt im Melderegister gespeicherten Ausweises oder Passes nach § 3 Absatz 1 Nummer 17 erfolgen.
 
-##### § 23a Elektronische Anmeldung
+###### § 23a Elektronische Anmeldung
 
-(1) Die meldepflichtige Person darf bei der Wegzugsmeldebehörde die nach § 3 Absatz 1 Nummer 1 bis 18 und Absatz 2 Nummer 4 gespeicherten Daten elektronisch anfordern. Hierzu hat sie die in § 18 Absatz 1 Satz 3 genannten Daten zu übermitteln. Die Wegzugsmeldebehörde ist verpflichtet, diese Daten in elektronischer und unveränderbarer Form zu übermitteln (vorausgefüllter Meldeschein). Daten zum gesetzlichen Vertreter, Ehegatten, Lebenspartner oder zu minderjährigen Kindern, für die eine Auskunftssperre nach § 51 oder ein bedingter Sperrvermerk nach § 52 gespeichert ist, dürfen nicht in dem vorausgefüllten Meldeschein enthalten sein.
+(1) Die meldepflichtige Person darf bei der Wegzugsmeldebehörde die nach § 3 Absatz 1 Nummer 1 bis 18 und Absatz 2 Nummer 4 gespeicherten Daten elektronisch anfordern. Hierzu hat sie die in § 18 Absatz 1 Satz 3 genannten Daten zu übermitteln. Die Wegzugsmeldebehörde ist verpflichtet, diese Daten in elektronischer und unveränderbarer Form zu übermitteln (vorausgefüllter Meldeschein). Daten zum gesetzlichen Vertreter, Ehegatten, Lebenspartner oder zu minderjährigen Kindern, für die eine Auskunftssperre nach § 51 oder ein bedingter Sperrvermerk nach § 52 gespeichert ist, dürfen nicht in dem vorausgefüllten Meldeschein enthalten sein. § 23 Absatz 4 Satz 1, 2 und 4 gilt entsprechend, wenn die meldepflichtige Person versichert, dass sie berechtigt ist, die Daten des Ehegatten, Lebenspartners und der Familienangehörigen mit denselben Zuzugsdaten elektronisch anzufordern.
 
 (2) Die meldepflichtige Person hat die übermittelten Angaben auf ihre Richtigkeit zu prüfen, um die Angaben nach § 19 Absatz 3 Nummer 1 bis 3 zu ergänzen, elektronisch zu bestätigen und an die Zuzugsmeldebehörde zu übermitteln.
 
@@ -438,7 +443,7 @@ Wohnung im Sinne dieses Gesetzes ist jeder umschlossene Raum, der zum Wohnen ode
 
 (4) § 10 Absatz 2 und 3 gilt entsprechend.
 
-##### § 24 Datenerhebung, Meldebestätigung
+###### § 24 Datenerhebung, Meldebestätigung
 
 (1) Bei der An- oder Abmeldung oder der Änderung der Hauptwohnung dürfen bei der meldepflichtigen Person die in § 3 Absatz 1 Nummer 1 bis 18 und in Absatz 2 Nummer 2 Buchstabe a bis c und Nummer 10 genannten Daten erhoben werden. Dies gilt auch für die Hinweise, die zum Nachweis der Richtigkeit dieser Daten erforderlich sind.
 
@@ -460,7 +465,7 @@ Wohnung im Sinne dieses Gesetzes ist jeder umschlossene Raum, der zum Wohnen ode
 
 8. alleinige Wohnung, Haupt- oder Nebenwohnung.
 
-##### § 25 Mitwirkungspflichten der meldepflichtigen Person
+###### § 25 Mitwirkungspflichten der meldepflichtigen Person
 
 Die meldepflichtige Person hat auf Verlangen der Meldebehörde
 
@@ -470,7 +475,7 @@ Die meldepflichtige Person hat auf Verlangen der Meldebehörde
 
 3. persönlich bei der Meldebehörde zu erscheinen.
 
-##### § 26 Befreiung von der Meldepflicht
+###### § 26 Befreiung von der Meldepflicht
 
 Von der Meldepflicht nach § 17 Absatz 1 und 2 sind befreit
 
@@ -480,7 +485,7 @@ Von der Meldepflicht nach § 17 Absatz 1 und 2 sind befreit
 
 Die Befreiung von der Meldepflicht nach Satz 1 Nummer 1 tritt nur ein, wenn Gegenseitigkeit besteht.
 
-##### § 27 Ausnahmen von der Meldepflicht
+###### § 27 Ausnahmen von der Meldepflicht
 
 (1) Eine Meldepflicht nach § 17 Absatz 1 und 2 wird nicht begründet, wenn eine Person, die für eine Wohnung im Inland gemeldet ist, eine Gemeinschaftsunterkunft oder eine andere dienstlich bereitgestellte Unterkunft bezieht, um
 
@@ -516,17 +521,15 @@ Andernfalls hat die Leitung der Anstalt die Aufnahme und die Entlassung innerhal
 
 ## Abschnitt 4 Besondere Meldepflichten
 
-##### § 28 Besondere Meldepflichten für Binnenschiffer und Seeleute
+###### § 28 Besondere Meldepflichten für Binnenschiffer
 
 (1) Wer auf ein Binnenschiff zieht, das in einem Schiffsregister im Inland eingetragen ist, hat sich bei der Meldebehörde des Ortes anzumelden, in dem der Heimathafen des Schiffes liegt. Die Vorschriften über die allgemeine Meldepflicht gelten entsprechend. Die An- und Abmeldung kann auch bei einer anderen Meldebehörde oder bei der Wasserschutzpolizei vorgenommen werden, die die Daten an die zuständige Meldebehörde weiterleitet.
 
-(2) Der Reeder eines Seeschiffes, das berechtigt ist, die Bundesflagge zu führen, hat den Kapitän und die Besatzungsmitglieder des Schiffes bei Beginn des Anstellungs-, Heuer- oder Ausbildungsverhältnisses anzumelden. Er hat diese Personen bei Beendigung des Anstellungs-, Heuer- oder Ausbildungsverhältnisses abzumelden. § 24 Absatz 1 gilt entsprechend. Zuständig ist die Meldebehörde am Sitz des Reeders. Die zu meldenden Personen haben dem Reeder die erforderlichen Auskünfte zu geben.
+(2) Die Meldepflicht nach Absatz 1 besteht nicht für Personen, die im Inland für eine Wohnung nach § 17 Absatz 1 gemeldet sind.
 
-(3) Die Meldepflicht nach den Absätzen 1 und 2 besteht nicht für Personen, die im Inland für eine Wohnung nach § 17 Absatz 1 gemeldet sind.
+(3) Die Meldebehörde kann von Schiffseignern Auskunft verlangen über Personen, welche Personen auf ihren Schiffen wohnen oder gewohnt haben.
 
-(4) Die Meldebehörde kann von Schiffseignern und Reedern Auskunft verlangen über Personen, welche auf ihren Schiffen wohnen oder gewohnt haben.
-
-##### § 29 Besondere Meldepflicht in Beherbergungsstätten
+###### § 29 Besondere Meldepflicht in Beherbergungsstätten
 
 (1) Wer in Einrichtungen, die der gewerbs- oder geschäftsmäßigen Aufnahme von Personen dienen (Beherbergungsstätten), für länger als sechs Monate aufgenommen wird, unterliegt der Meldepflicht nach § 17 oder § 28. Wer nicht für eine Wohnung im Inland gemeldet ist, hat sich innerhalb von zwei Wochen bei der Meldebehörde anzumelden, sobald sein Aufenthalt die Dauer von drei Monaten überschreitet.
 
@@ -564,7 +567,7 @@ Antragsberechtigt nach Satz 2 ist auch, wer elektronische Verfahren zur Erfüllu
 
 4. Einrichtungen der öffentlich-rechtlichen Religionsgesellschaften.
 
-##### § 30 Besondere Meldescheine für Beherbergungsstätten
+###### § 30 Besondere Meldescheine für Beherbergungsstätten
 
 (1) Die Leiter der Beherbergungsstätten oder der Einrichtungen nach § 29 Absatz 4 haben besondere Meldescheine bereitzuhalten. Sie können zusätzlich technische Vorrichtungen zur elektronischen Erfüllung der Meldepflicht nach § 29 Absatz 5 vorhalten. Sie haben darauf hinzuwirken, dass die betroffenen Personen
 
@@ -602,11 +605,11 @@ Die Leiter der Beherbergungsstätten oder der Einrichtungen nach § 29 Absatz 4 
 
 (5) Sofern das Meldeverfahren elektronisch durchgeführt wird, haben die nach Absatz 1 verpflichteten Personen durch geeignete technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 sicherzustellen, dass die in Absatz 2 bezeichneten Daten nur nach Maßgabe von Absatz 4 und § 29 Absatz 5 verarbeitet werden.
 
-##### § 31 Verarbeitungsbeschränkungen
+###### § 31 Verarbeitungsbeschränkungen
 
 Die nach § 30 Absatz 2 erhobenen Daten dürfen von den nach Landesrecht bestimmten Behörden und den in § 34 Absatz 4 Satz 1 Nummer 1 bis 5 und 9 bis 11 genannten Behörden verarbeitet werden, sofern dies zur Erfüllung ihrer Aufgaben erforderlich ist. Sie dürfen außerdem zur Aufklärung des Schicksals von Vermissten und Unfallopfern, für die Erhebung von Fremdenverkehrs- und Kurbeiträgen, zur Ausstellung kommunaler Gästekarten sowie für die Beherbergungs- und die Fremdenverkehrsstatistik verarbeitet werden.
 
-##### § 32 Besondere Meldepflicht in Krankenhäusern, Heimen und ähnlichen Einrichtungen
+###### § 32 Besondere Meldepflicht in Krankenhäusern, Heimen und ähnlichen Einrichtungen
 
 (1) Wer in Krankenhäusern, Pflegeheimen oder sonstigen Einrichtungen, die der Betreuung pflegebedürftiger oder behinderter Menschen oder der Heimerziehung dienen, aufgenommen wird oder dort einzieht, muss sich nicht anmelden, solange er für eine Wohnung im Inland gemeldet ist. Wer nicht für eine Wohnung im Inland gemeldet ist, hat sich, sobald sein Aufenthalt die Dauer von drei Monaten überschreitet, innerhalb von zwei Wochen anzumelden. Für Personen, die ihrer Meldepflicht nicht persönlich nachkommen können, haben die Leiter der Einrichtungen die Aufnahme innerhalb von zwei Wochen der Meldebehörde mitzuteilen, die für den Sitz der Einrichtung zuständig ist; die betroffenen Personen sind zu unterrichten. § 17 Absatz 3 Satz 3 bleibt unberührt.
 
@@ -628,7 +631,7 @@ Die nach § 30 Absatz 2 erhobenen Daten dürfen von den nach Landesrecht bestimm
 
 ## Unterabschnitt 1 Datenübermittlungen zwischen öffentlichen Stellen
 
-##### § 33 Datenübermittlungen zwischen den Meldebehörden
+###### § 33 Datenübermittlungen zwischen den Meldebehörden
 
 (1) Hat sich eine Person bei einer Meldebehörde angemeldet, so hat diese die Wegzugsmeldebehörde und die für weitere Wohnungen zuständigen Meldebehörden darüber durch Übermittlung der in § 3 Absatz 1 Nummer 1 bis 18 genannten Daten der betroffenen Person zu unterrichten (Rückmeldung). Bei einem Zuzug aus dem Ausland ist die für den letzten Wohnort im Inland zuständige Meldebehörde als Wegzugsmeldebehörde zu unterrichten. Die Daten sind unverzüglich, spätestens jedoch drei Werktage nach der Anmeldung, durch Datenübertragung zu übermitteln; § 10 Absatz 2 gilt entsprechend.
 
@@ -642,7 +645,7 @@ Die nach § 30 Absatz 2 erhobenen Daten dürfen von den nach Landesrecht bestimm
 
 (6) Datenübermittlungen und Auskünfte zwischen den Meldebehörden sind gebührenfrei.
 
-##### § 34 Datenübermittlungen an andere öffentliche Stellen
+###### § 34 Datenübermittlungen an andere öffentliche Stellen
 
 (1) Die Meldebehörde darf einer anderen öffentlichen Stelle im Sinne von § 2 Absatz 1 bis 3 und 4 Satz 2 des Bundesdatenschutzgesetzes im Inland aus dem Melderegister folgende Daten übermitteln, soweit dies zur Erfüllung einer öffentlichen Aufgabe erforderlich ist, die in ihrer Zuständigkeit oder in der Zuständigkeit des Empfängers liegt:
 
@@ -790,7 +793,7 @@ Die ersuchende Behörde hat den Namen und die Anschrift der betroffenen Person u
 
 (6) Datenübermittlungen von Meldebehörden nach Absatz 2 an andere öffentliche Stellen im Inland sind gebührenfrei. Im Fall des Absatzes 2 Satz 5 Nummer 1 gilt dies jedoch nur, wenn die Meldebehörde die Gründe für die fehlende Nutzung des automatisierten Abrufs oder der elektronischen Datenübertragung zu verantworten hat. Landesrechtliche Regelungen zur Gebührenerhebung bei Datenübermittlungen aus zentralen Meldebeständen oder Portalen auf Landesebene bleiben unberührt.
 
-##### § 34a Personensuche und freie Suche im automatisierten Abruf
+###### § 34a Personensuche und freie Suche im automatisierten Abruf
 
 (1) Ein Abruf ist nur zulässig, soweit die Daten der abrufenden Stelle zur Erfüllung ihrer Aufgaben bekannt sein müssen.
 
@@ -804,7 +807,7 @@ Die ersuchende Behörde hat den Namen und die Anschrift der betroffenen Person u
 
 (6) Ist die abrufende Stelle eine der in § 34 Absatz 4 Satz 1 Nummer 1 und 6 bis 9 genannten Behörden und ist im Melderegister eine Auskunftssperre eingetragen, die nicht auf Veranlassung einer der in § 34 Absatz 5 Satz 1 genannten Behörden von Amts wegen eingetragen wurde, so wird der abrufenden Stelle abweichend von Absatz 5 eine Auskunft erteilt, wenn sichergestellt ist, dass die Leitung der abrufenden Stelle oder von ihr hierzu besonders ermächtigte Bedienstete die Daten erhält oder erhalten.
 
-##### § 35 Datenübermittlungen an ausländische Stellen
+###### § 35 Datenübermittlungen an ausländische Stellen
 
 Im Rahmen von Tätigkeiten, die ganz oder teilweise in den Anwendungsbereich des Rechts der Europäischen Union fallen, gilt § 34 Absatz 1 Satz 1 nach Maßgabe der dafür geltenden Gesetze und Vereinbarungen, wenn Daten übermittelt werden an
 
@@ -816,17 +819,17 @@ Im Rahmen von Tätigkeiten, die ganz oder teilweise in den Anwendungsbereich des
 
 4. Organe und Einrichtungen der Europäischen Atomgemeinschaft.
 
-##### § 36 Regelmäßige Datenübermittlungen
+###### § 36 Regelmäßige Datenübermittlungen
 
 Datenübermittlungen an andere öffentliche Stellen, die ohne Ersuchen in allgemein bestimmten Fällen regelmäßig wiederkehrend durchgeführt werden (regelmäßige Datenübermittlungen), sind zulässig, soweit dies durch Bundes- oder Landesrecht bestimmt ist, in dem Anlass und Zweck der Übermittlungen, der Empfänger und die zu übermittelnden Daten festgelegt sind.
 
-##### § 37 Datenweitergabe
+###### § 37 Datenweitergabe
 
 (1) Innerhalb der Verwaltungseinheit, der die Meldebehörde angehört, dürfen unter den in § 34 Absatz 1 genannten Voraussetzungen sämtliche der in § 3 Absatz 1 aufgeführten Daten und Hinweise weitergegeben werden. Für die Einsichtnahme und Weitergabe von Daten und Hinweisen nach § 3 Absatz 2 gilt § 34 Absatz 3 entsprechend.
 
 (2) Die Einrichtung automatisierter Verfahren zur Datenübertragung an andere Stellen innerhalb der Verwaltungseinheit, der die Meldebehörde angehört, bedarf der Zulassung durch den Leiter der Verwaltungseinheit; dabei hat er die abrufberechtigten Stellen sowie die erforderlichen technischen und organisatorischen Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 schriftlich festzulegen. Die abrufberechtigte Stelle darf von der Möglichkeit des Datenabrufs nur Gebrauch machen, wenn dies im Einzelfall zur Erfüllung ihrer Aufgaben erforderlich ist. § 34a Absatz 5 gilt entsprechend.
 
-##### § 38 Auswahldaten für automatisierte Abrufe und für Datenübermittlungen über Personengruppen
+###### § 38 Auswahldaten für automatisierte Abrufe und für Datenübermittlungen über Personengruppen
 
 (1) Für automatisierte Abrufe von Daten mittels Personensuche sind aus dem Datenkatalog nach § 34 Absatz 1 Satz 1 folgende Auswahldaten zu verwenden:
 
@@ -874,7 +877,7 @@ Die Daten beigeschriebener Personen nach § 34 Absatz 1 Satz 1 Nummer 11, 13 un
 
 (5) Die abrufende Stelle kann für den Fall einer neutralen Antwort auf eine weitere Bearbeitung der Anfrage durch die Meldebehörde verzichten. Die Pflicht zur unverzüglichen Unterrichtung der veranlassenden Stelle nach § 34 Absatz 5 Satz 1 und 3 bleibt unberührt.
 
-##### § 39 Verfahren des automatisierten Abrufs
+###### § 39 Verfahren des automatisierten Abrufs
 
 (1) Bei der Einrichtung eines automatisierten Abrufverfahrens hat die abrufberechtigte Stelle durch geeignete technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 sicherzustellen, dass Daten nur durch hierzu befugte Personen abgerufen werden können und dass nur die Daten abgerufen werden, die für ihre Aufgabenerfüllung erforderlich sind.
 
@@ -884,15 +887,7 @@ Die Daten beigeschriebener Personen nach § 34 Absatz 1 Satz 1 Nummer 11, 13 un
 
 (4) Die Verantwortung für die Zulässigkeit des einzelnen automatisierten Abrufs trägt die abrufende Stelle. Die Meldebehörde überprüft die Zulässigkeit des Abrufs nur, wenn dazu Anlass besteht.
 
-##### § 39a Datenbestätigung für öffentliche Stellen
-
-(1) Die Meldebehörde darf Daten einer namentlich bestimmten Person, die sie von einer anderen öffentlichen Stelle im Wege einer maschinellen Anfrage erhält, automatisiert auf Übereinstimmung mit den im Melderegister gespeicherten Daten prüfen, soweit eine Datenübermittlung nach § 34 zulässig wäre. Für die Auswahldaten, die der Anfrage um Datenbestätigung zugrunde gelegt werden dürfen, gilt § 38 Absatz 1 entsprechend.
-
-(2) Wird die Person mit den Auswahldaten im Melderegister eindeutig identifiziert und stimmen die Daten mit den im Melderegister gespeicherten Daten überein, bestätigt die Meldebehörde dies der anfragenden Stelle. Werden mit den angegebenen Daten mehrere übereinstimmende Datensätze gefunden, teilt die Meldebehörde diese Tatsache mit. Ist im Melderegister eine Auskunftssperre nach § 51 eingetragen oder ist zu der betroffenen Person kein übereinstimmender Datensatz vorhanden, erhält die anfragende Stelle eine Mitteilung, die keine Rückschlüsse darauf zulassen darf, welcher von beiden Fällen vorliegt.
-
-(3) § 34 Absatz 5 und 6 sowie § 39 Absatz 1, 3 und 4 sind entsprechend anzuwenden.
-
-##### § 40 Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung
+###### § 40 Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung
 
 (1) Die Meldebehörde hat bei einer Personensuche im automatisierten Abruf und bei einer Datenbestätigung Folgendes zu protokollieren:
 
@@ -930,11 +925,11 @@ Die Daten beigeschriebener Personen nach § 34 Absatz 1 Satz 1 Nummer 11, 13 un
 
 (5) Die Protokolldaten sind mindestens zwölf Monate aufzubewahren und zu sichern. Sie sind spätestens zum Ende des Kalenderjahres zu löschen, das auf die Speicherung folgt. Die Protokolldaten dürfen nur für Zwecke der Datenschutzkontrolle, hieraus folgender Strafverfahren, der Sicherstellung des Betriebs der Register und der Auskunftserteilung an die betroffene Person verarbeitet werden.
 
-##### § 41 Zweckbindung übermittelter Daten und Hinweise
+###### § 41 Zweckbindung übermittelter Daten und Hinweise
 
 Die Empfänger dürfen die Daten und Hinweise, soweit gesetzlich nichts anderes bestimmt ist, nur für die Zwecke verarbeiten, zu deren Erfüllung sie ihnen übermittelt oder weitergegeben wurden. In den Fällen der §§ 51 und 52 ist eine Verarbeitung der übermittelten oder weitergegebenen Daten und Hinweise nur zulässig, wenn die Beeinträchtigung schutzwürdiger Interessen der betroffenen Person ausgeschlossen werden kann.
 
-##### § 42 Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften
+###### § 42 Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften
 
 (1) Die Meldebehörde darf einer öffentlich-rechtlichen Religionsgesellschaft unter den in § 34 Absatz 1 Satz 1 genannten Voraussetzungen zur Erfüllung ihrer Aufgaben, nicht jedoch zu arbeitsrechtlichen Zwecken folgende Daten ihrer Mitglieder auch regelmäßig übermitteln:
 
@@ -1014,11 +1009,11 @@ h) Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52,
 
 (5) Eine Datenübermittlung nach den Absätzen 1 und 2 ist nur zulässig, wenn sichergestellt ist, dass beim Empfänger ausreichende Maßnahmen zum Datenschutz getroffen sind. Die Feststellung hierüber trifft eine durch Landesrecht zu bestimmende Behörde.
 
-##### § 43 (weggefallen)
+###### § 43 (weggefallen)
 
 ## Unterabschnitt 2 Melderegisterauskunft
 
-##### § 44 Einfache Melderegisterauskunft
+###### § 44 Einfache Melderegisterauskunft
 
 (1) Wenn eine Person zu einer anderen Person oder wenn eine andere als die in § 34 Absatz 1 Satz 1 oder § 35 bezeichnete Stelle Auskunft verlangt, darf die Meldebehörde nur Auskunft über folgende Daten einzelner bestimmter Personen erteilen (einfache Melderegisterauskunft):
 
@@ -1058,7 +1053,7 @@ f) eine Anschrift und
 
 (5) § 45 Absatz 2 gilt entsprechend.
 
-##### § 45 Erweiterte Melderegisterauskunft
+###### § 45 Erweiterte Melderegisterauskunft
 
 (1) Soweit ein berechtigtes Interesse glaubhaft gemacht wird, darf zu den in § 44 Absatz 1 genannten Daten einzelner bestimmter Personen eine erweiterte Melderegisterauskunft erteilt werden über
 
@@ -1082,7 +1077,7 @@ f) eine Anschrift und
 
 (2) Die Pflicht zur Information der betroffenen Person gemäß Artikel 14 Absatz 1, 2 und 4 der Verordnung (EU) 2016/679 durch den Empfänger der erweiterten Melderegisterauskunft besteht ergänzend zu den in Artikel 14 Absatz 5 der Verordnung (EU) 2016/679 genannten Ausnahmen nicht, wenn durch ihre Erfüllung ein rechtliches Interesse, insbesondere die Geltendmachung von Rechtsansprüchen, beeinträchtigen würde, sofern nicht das berechtigte Interesse der betroffenen Person an der Erfüllung der Informationspflicht überwiegt.
 
-##### § 46 Gruppenauskunft
+###### § 46 Gruppenauskunft
 
 (1) Eine Melderegisterauskunft über eine Vielzahl nicht namentlich bezeichneter Personen (Gruppenauskunft) darf nur erteilt werden, wenn sie im öffentlichen Interesse liegt. Für die Zusammensetzung der Personengruppe dürfen die folgenden Daten herangezogen werden:
 
@@ -1116,17 +1111,17 @@ f) eine Anschrift und
 
 8. gesetzliche Vertreter mit Familienname und Vornamen sowie Anschrift.
 
-##### § 47 Zweckbindung der Melderegisterauskunft
+###### § 47 Zweckbindung der Melderegisterauskunft
 
 (1) Bei Melderegisterauskünften nach § 44 zu gewerblichen Zwecken und bei Melderegisterauskünften nach den §§ 45 und 46 sowie bei Vorliegen einer Auskunftssperre nach § 51 Absatz 1 darf der Empfänger die Daten nur für die Zwecke verwenden, zu deren Erfüllung sie ihm übermittelt wurden. Danach sind die Daten zu löschen.
 
 (2) Soweit Daten zum Zwecke der geschäftsmäßigen Anschriftenermittlung für Dritte erhoben werden, dürfen diese nicht wiederverwendet werden.
 
-##### § 48 Melderegisterauskunft für öffentlich-rechtliche Rundfunkanstalten
+###### § 48 Melderegisterauskunft für öffentlich-rechtliche Rundfunkanstalten
 
 Soweit öffentlich-rechtliche Rundfunkanstalten publizistisch tätig sind, sind sie keine öffentlichen Stellen im Sinne dieses Gesetzes.
 
-##### § 49 Automatisierte Melderegisterauskunft
+###### § 49 Automatisierte Melderegisterauskunft
 
 (1) Einfache Melderegisterauskünfte können auch auf Datenträgern erteilt werden, die sich automatisiert verarbeiten lassen. Die der Meldebehörde überlassenen Datenträger oder die der Meldebehörde übermittelten Daten sind nach Erledigung des Antrags unverzüglich zurückzugeben, zu löschen oder zu vernichten.
 
@@ -1184,17 +1179,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 (7) Die anfragende Person oder Stelle nach § 44 Absatz 1 Satz 1 kann für den Fall einer neutralen Antwort auf eine weitere Bearbeitung der Anfrage durch die Meldebehörde verzichten. Die Pflicht zur unverzüglichen Unterrichtung der betroffenen Person und der veranlassenden Stelle nach § 51 Absatz 3 bleibt unberührt.
 
-##### § 49a Datenbestätigung
-
-(1) Die Meldebehörde darf Daten einer namentlich bestimmten Person, die sie im Wege einer maschinellen Anfrage erhält, automatisiert auf Übereinstimmung mit den im Melderegister gespeicherten Daten prüfen, soweit eine einfache Melderegisterauskunft zulässig wäre.
-
-(2) Wird eine Person mit den Auswahldaten im Melderegister eindeutig identifiziert und stimmen die Daten mit den im Melderegister gespeicherten Daten überein, bestätigt die Meldebehörde dies der anfragenden Person oder Stelle. Ist dies nicht der Fall oder ist im Melderegister eine Auskunftssperre nach § 51 oder ein bedingter Sperrvermerk nach § 52 eingetragen, erhält die anfragende Person oder Stelle eine Mitteilung, die keine Rückschlüsse darauf zulassen darf, ob zu der betroffenen Person keine übereinstimmenden Daten vorhanden sind, eine Auskunftssperre oder ein bedingter Sperrvermerk besteht.
-
-(3) Personen, für die eine Auskunftssperre eingetragen ist, sind über sie betreffende Anfragen unverzüglich zu unterrichten. § 51 Absatz 3 und 5 gilt entsprechend.
-
-(4) § 10 Absatz 2 sowie § 40 Absatz 1, 3 und 4 gelten entsprechend.
-
-##### § 50 Melderegisterauskünfte in besonderen Fällen
+###### § 50 Melderegisterauskünfte in besonderen Fällen
 
 (1) Die Meldebehörde darf Parteien, Wählergruppen und anderen Trägern von Wahlvorschlägen im Zusammenhang mit Wahlen und Abstimmungen auf staatlicher und kommunaler Ebene in den sechs der Wahl oder Abstimmung vorangehenden Monaten Auskunft aus dem Melderegister über die in § 44 Absatz 1 Satz 1 bezeichneten Daten von Gruppen von Wahlberechtigten erteilen, soweit für deren Zusammensetzung das Lebensalter bestimmend ist. Die Geburtsdaten der Wahlberechtigten dürfen dabei nicht mitgeteilt werden. Die Person oder Stelle, der die Daten übermittelt werden, darf diese nur für die Werbung bei einer Wahl oder Abstimmung verwenden und hat sie spätestens einen Monat nach der Wahl oder Abstimmung zu löschen oder zu vernichten.
 
@@ -1212,25 +1197,15 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 Altersjubiläen im Sinne des Satzes 1 sind der 70. Geburtstag, jeder fünfte weitere Geburtstag und ab dem 100. Geburtstag jeder folgende Geburtstag; Ehejubiläen sind das 50. und jedes folgende Ehejubiläum.
 
-(3) Adressbuchverlagen darf zu allen Einwohnern, die das 18. Lebensjahr vollendet haben, Auskunft erteilt werden über deren
-
-1. Familienname,
-
-2. Vornamen,
-
-3. Doktorgrad und
-
-4. derzeitige Anschriften.
-
-Die übermittelten Daten dürfen nur für die Herausgabe von Adressbüchern (Adressenverzeichnisse in Buchform) verwendet werden.
+(3) (weggefallen)
 
 (4) Die Meldebehörde hat dem Eigentümer der Wohnung und, wenn er nicht selbst Wohnungsgeber ist, auch dem Wohnungsgeber bei Glaubhaftmachung eines rechtlichen Interesses unentgeltlich Auskunft über Familiennamen und Vornamen sowie Doktorgrad der in seiner Wohnung gemeldeten Einwohner zu erteilen. Die Auskunft kann auf Antrag des Auskunftsberechtigten im elektronischen Verfahren erteilt werden; § 10 Absatz 2 und 3 gilt entsprechend.
 
-(5) Die betroffene Person hat das Recht, der Übermittlung ihrer Daten nach den Absätzen 1 bis 3 zu widersprechen; hierauf ist bei der Anmeldung nach § 17 Absatz 1 sowie einmal jährlich durch ortsübliche Bekanntmachung hinzuweisen. Bei einem Widerspruch hat die betroffene Person gegenüber der Meldebehörde ein Recht auf unentgeltliche Einrichtung einer Übermittlungssperre.
+(5) Die betroffene Person hat das Recht, der Übermittlung ihrer Daten nach den Absätzen 1 und 2 zu widersprechen; hierauf ist bei der Anmeldung nach § 17 Absatz 1 sowie einmal jährlich durch ortsübliche Bekanntmachung hinzuweisen. Bei einem Widerspruch hat die betroffene Person gegenüber der Meldebehörde ein Recht auf unentgeltliche Einrichtung einer Übermittlungssperre.
 
-(6) Eine Erteilung von Auskünften nach den Absätzen 1 bis 3 unterbleibt, wenn eine Auskunftssperre nach § 51 vorliegt. Eine Auskunft nach Absatz 3 darf außerdem nicht erteilt werden, wenn ein bedingter Sperrvermerk nach § 52 eingetragen ist.
+(6) Eine Erteilung von Auskünften nach den Absätzen 1 und 2 unterbleibt, wenn eine Auskunftssperre nach § 51 vorliegt.
 
-##### § 51 Auskunftssperren
+###### § 51 Auskunftssperren
 
 (1) Liegen Tatsachen vor, die die Annahme rechtfertigen, dass der betroffenen oder einer anderen Person durch eine Melderegisterauskunft eine Gefahr für Leben, Gesundheit, persönliche Freiheit oder ähnliche schutzwürdige Interessen erwachsen kann, hat die Meldebehörde auf Antrag oder von Amts wegen unentgeltlich eine Auskunftssperre im Melderegister einzutragen. Ein ähnliches schutzwürdiges Interesse ist insbesondere der Schutz der betroffenen oder einer anderen Person vor Bedrohungen, Beleidigungen sowie unbefugten Nachstellungen. Bei der Feststellung, ob Tatsachen im Sinne des Satzes 1 vorliegen, ist auch zu berücksichtigen, ob die betroffene oder eine andere Person einem Personenkreis angehört, der sich auf Grund seiner beruflichen oder ehrenamtlich ausgeübten Tätigkeit allgemein in verstärktem Maße Anfeindungen oder sonstigen Angriffen ausgesetzt sieht.
 
@@ -1246,11 +1221,11 @@ Die übermittelten Daten dürfen nur für die Herausgabe von Adressbüchern (Adr
 
 2. in den Fällen des § 1758 des Bürgerlichen Gesetzbuchs.
 
-##### § 52 Bedingter Sperrvermerk
+###### § 52 Bedingter Sperrvermerk
 
 (1) Die Meldebehörde richtet unentgeltlich einen bedingten Sperrvermerk für derzeitige Anschriften der Personen ein, die nach Kenntnis der Meldebehörde wohnhaft gemeldet sind in
 
-1. Pflegeheimen oder sonstigen Einrichtungen, die der Betreuung pflegebedürftiger oder behinderter Menschen oder der Heimerziehung dienen,
+1. Einrichtungen, die der Betreuung behinderter Menschen oder der Heimerziehung dienen,
 
 2. Einrichtungen zum Schutz vor häuslicher Gewalt oder
 
@@ -1260,13 +1235,13 @@ Die übermittelten Daten dürfen nur für die Herausgabe von Adressbüchern (Adr
 
 ## Unterabschnitt 3 Zeugenschutz
 
-##### § 53 Zeugenschutz
+###### § 53 Zeugenschutz
 
 Die Vorschriften des Zeugenschutz-Harmonisierungsgesetzes vom 11. Dezember 2001 (BGBl. I S. 3510), das durch Artikel 2 Absatz 12 des Gesetzes vom 19. Februar 2007 (BGBl. I S. 122) geändert worden ist, in der jeweils geltenden Fassung bleiben von den Regelungen zu Datenübermittlungen und Datenweitergabe nach den §§ 34, 34a, 36, 37 und 49 unberührt.
 
 ## Abschnitt 6 Ordnungswidrigkeiten
 
-##### § 54 Bußgeldvorschriften
+###### § 54 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer entgegen § 19 Absatz 6 eine Wohnanschrift anbietet oder zur Verfügung stellt.
 
@@ -1284,21 +1259,19 @@ Die Vorschriften des Zeugenschutz-Harmonisierungsgesetzes vom 11. Dezember 2001 
 
 6. entgegen § 21 Absatz 4 Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-7. entgegen § 28 Absatz 2 Satz 1 oder Satz 2 den Kapitän oder ein Besatzungsmitglied nicht oder nicht rechtzeitig anmeldet oder nicht oder nicht rechtzeitig abmeldet,
+7. entgegen § 29 Absatz 2 Satz 1 einen besonderen Meldeschein nicht oder nicht rechtzeitig unterschreibt,
 
-8. entgegen § 29 Absatz 2 Satz 1 einen besonderen Meldeschein nicht oder nicht rechtzeitig unterschreibt,
+8. entgegen § 30 Absatz 1 Satz 1 einen besonderen Meldeschein nicht bereithält,
 
-9. entgegen § 30 Absatz 1 Satz 1 einen besonderen Meldeschein nicht bereithält,
+9. entgegen § 30 Absatz 4 Satz 1, auch in Verbindung mit Satz 2, einen Meldeschein nicht oder nicht mindestens ein Jahr aufbewahrt oder Daten nicht oder nicht mindestens ein Jahr speichert,
 
-10. entgegen § 30 Absatz 4 Satz 1, auch in Verbindung mit Satz 2, einen Meldeschein nicht oder nicht mindestens ein Jahr aufbewahrt oder Daten nicht oder nicht mindestens ein Jahr speichert,
-
-11. entgegen § 30 Absatz 4 Satz 3 einen Meldeschein nicht oder nicht rechtzeitig vorlegt oder Daten nicht oder nicht rechtzeitig zur Verfügung stellt,
+10. entgegen § 30 Absatz 4 Satz 3 einen Meldeschein nicht oder nicht rechtzeitig vorlegt oder Daten nicht oder nicht rechtzeitig zur Verfügung stellt,
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
 
 ## Abschnitt 7 Sonstige Vorschriften, Schlussvorschriften
 
-##### § 55 Regelungsbefugnisse der Länder
+###### § 55 Regelungsbefugnisse der Länder
 
 (1) Durch Landesrecht kann bestimmt werden, dass für die Erfüllung von Aufgaben der Länder weitere als die in § 3 aufgeführten Daten und Hinweise verarbeitet werden.
 
@@ -1318,7 +1291,7 @@ Die Vorschriften des Zeugenschutz-Harmonisierungsgesetzes vom 11. Dezember 2001 
 
 (9) Von den in § 33 Absatz 1 bis 3 und 6, § 34 Absatz 6 sowie in § 39 Absatz 3 getroffenen Regelungen und von den auf Grund von § 56 Absatz 1 getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
-##### § 56 Verordnungsermächtigungen
+###### § 56 Verordnungsermächtigungen
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -1338,9 +1311,8 @@ Die Vorschriften des Zeugenschutz-Harmonisierungsgesetzes vom 11. Dezember 2001 
 
 (3) Soweit in Rechtsverordnungen auf Grund dieses Gesetzes Form und Verfahren von Datenübermittlungen zu bestimmen sind, kann insoweit auf jedermann zugängliche Bekanntmachungen sachverständiger Stellen verwiesen werden. In der Rechtsverordnung sind das Datum der Bekanntmachung, die Fundstelle und die Bezugsquelle der Bekanntmachung anzugeben. Die Bekanntmachung ist beim Bundesarchiv niederzulegen; in der Rechtsverordnung ist darauf hinzuweisen.
 
-##### § 57 Verwaltungsvorschriften
+###### § 57 Verwaltungsvorschriften
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen erlassen.
 
-##### § 58 (weggefallen)
-
+###### § 58 (weggefallen)
