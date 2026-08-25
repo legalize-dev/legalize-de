@@ -4,18 +4,22 @@ identifier: "KÜO"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2009-06-16"
-last_updated: "2026-04-04"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/k_o/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR129200009"
 slug: "k_o"
 bgbl_reference: "BGBl I 2009, 1292"
-stand: "Zuletzt geändert durch Art. 1 V v. 15.1.2025 I Nr. 12"
+stand: "Zuletzt geändert durch Art. 8 Abs. 4 G v. 23.7.2026 I Nr. 226"
 ---
 # Verordnung über die Kehrung und Überprüfung von Anlagen
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund
 
@@ -25,7 +29,7 @@ Auf Grund
 
 verordnet das Bundesministerium für Wirtschaft und Technologie:
 
-##### § 1 Kehr- oder überprüfungspflichtige Anlagen
+###### § 1 Kehr- oder überprüfungspflichtige Anlagen
 
 (1) Kehr- oder überprüfungspflichtig sind folgende Anlagen:
 
@@ -85,13 +89,13 @@ Stellt die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zust�
 
 (8) Werden bauliche Maßnahmen, insbesondere der Einbau von fugendichten Fenstern oder Außentüren oder das Abdichten von Fenstern oder Außentüren durchgeführt, die eine Änderung der bisherigen Versorgung der Feuerstätten mit Verbrennungsluft oder der Abgasführung erwarten lassen, so hat die unmittelbar veranlassende Person unverzüglich nach Abschluss der Maßnahmen durch die zuständige bevollmächtigte Bezirksschornsteinfegerin oder den zuständigen bevollmächtigten Bezirksschornsteinfeger prüfen zu lassen, ob die öffentlich-rechtlichen Bestimmungen für die Versorgung der Feuerstätte mit Verbrennungsluft und für die Abführung der Rauch- oder Abgase eingehalten sind.
 
-##### § 2 Besondere Kehrarbeiten
+###### § 2 Besondere Kehrarbeiten
 
 (1) Eine kehrpflichtige Anlage ist auszubrennen, auszuschlagen oder chemisch zu reinigen, wenn die Verbrennungsrückstände mit den üblichen Kehrwerkzeugen nicht entfernt werden können. Sie darf nicht ausgebrannt werden, wenn ihr Zustand oder sonstige gefahrbringende Umstände entgegenstehen. Ausbrennarbeiten dürfen nur von Personen durchgeführt werden, die zur selbständigen Ausübung des Schornsteinfegerhandwerks berechtigt sind. Der Zeitpunkt des Ausbrennens ist der Eigentümerin oder dem Eigentümer des Grundstücks oder der Räume oder deren Beauftragten, den Hausbewohnern und dem Aufgabenträger für den örtlichen Brandschutz vorher mitzuteilen. Nach dem Ausbrennen ist die Anlage auf Brandgefahren zu überprüfen.
 
 (2) Reinigungsarbeiten an asbesthaltigen Abgas- und Lüftungsanlagen und Verbrennungsluft- und Abluftanlagen sind von Schornsteinfegerinnen und Schornsteinfegern nach dem Stand der Technik, insbesondere entsprechend den Technischen Regeln für Gefahrstoffe 519 „Asbest, Abbruch-, Sanierungs- oder Instandhaltungsarbeiten“ (Bekanntmachung des Bundesministeriums für Arbeit und Soziales vom 20. März 2014, GMBl S. 164, die durch die Bekanntmachung vom 2. März 2015, GMBl S. 136, geändert worden ist), durchzuführen.
 
-##### § 3 Pflichten der bevollmächtigten Bezirksschornsteinfegerin oder des bevollmächtigten Bezirksschornsteinfegers
+###### § 3 Pflichten der bevollmächtigten Bezirksschornsteinfegerin oder des bevollmächtigten Bezirksschornsteinfegers
 
 (1) Die bevollmächtigte Bezirksschornsteinfegerin oder der bevollmächtigte Bezirksschornsteinfeger hat den Termin der Feuerstättenschau spätestens fünf Werktage vor der Durchführung anzukündigen, soweit nicht die Eigentümerin oder der Eigentümer des Grundstücks oder der Räume oder deren Beauftragter auf die Ankündigung verzichtet. Bei der Ankündigung ist die durchführende Person oder der Kreis möglicher durchführender Personen namentlich anzugeben.
 
@@ -99,7 +103,7 @@ Stellt die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zust�
 
 (3) Über das Ergebnis der Feuerstättenschau hat die bevollmächtigte Bezirksschornsteinfegerin oder der bevollmächtigte Bezirksschornsteinfeger der Eigentümerin oder dem Eigentümer des Grundstücks oder der Räume eine Bescheinigung auszustellen.
 
-##### § 4 Durchführung der Kehr- oder Überprüfungsarbeiten
+###### § 4 Durchführung der Kehr- oder Überprüfungsarbeiten
 
 (1) Die Anlagen sind nach den anerkannten Regeln der Technik zu kehren oder zu überprüfen. Wird bei der Überprüfung festgestellt, dass eine Kehrung erforderlich ist, ist diese durchzuführen; dies gilt nicht für Heizgaswege von Feuerstätten.
 
@@ -107,11 +111,11 @@ Stellt die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zust�
 
 (3) Über das Ergebnis der Abgaswegüberprüfung ist der Eigentümerin oder dem Eigentümer des Grundstücks oder der Räume eine Bescheinigung auszustellen.
 
-##### § 5 Formblätter
+###### § 5 Formblätter
 
 Für die Formblätter nach § 4 Absatz 1 des Schornsteinfeger-Handwerksgesetzes und die Bescheinigung nach § 4 Absatz 3 ist ein Vordruck nach dem Muster der Anlage 2 zu verwenden. Die Bescheinigung nach § 4 Absatz 3 ist dem Formblatt als Anlage beizufügen. Die in der Bescheinigung nach § 4 Absatz 3 anzugebende Messgeräte-Identifikationsnummer setzt sich aus Hersteller-Kurzzeichen, Typ-/Seriennummer, Prüfstelle und letztem Prüftermin nach Jahr und Monat zusammen.
 
-##### § 6 Gebühren
+###### § 6 Gebühren
 
 (1) Gebühren sind für folgende Tätigkeiten zu entrichten:
 
@@ -133,19 +137,19 @@ Für die Formblätter nach § 4 Absatz 1 des Schornsteinfeger-Handwerksgesetzes 
 
 (3) Die Gebührensätze richten sich nach den in Anlage 3 festgesetzten Arbeitswerten. Der Arbeitswert beträgt 1,40 Euro zuzüglich der gesetzlichen Umsatzsteuer.
 
-##### § 7 Begriffsbestimmungen
+###### § 7 Begriffsbestimmungen
 
 Bei der Anwendung dieser Verordnung sind die in Anlage 4 aufgeführten Begriffsbestimmungen zugrunde zu legen.
 
-##### § 8 Inkrafttreten, Außerkrafttreten
+###### § 8 Inkrafttreten, Außerkrafttreten
 
 § 5 und § 6 in Verbindung mit Anlage 3 Nummer 5.8 dieser Verordnung treten am Tag nach der Verkündung in Kraft. Im Übrigen tritt diese Verordnung am 1. Januar 2010 in Kraft.
 
-##### Schlussformel
+###### Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-##### Anlage 1 (zu § 1 Absatz 4)Anzahl der Kehrungen und Überprüfungen
+###### Anlage 1 (zu § 1 Absatz 4)Anzahl der Kehrungen und Überprüfungen
 
 (Fundstelle: BGBl. I 2009, 1295 - 1296; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -207,7 +211,7 @@ Anlagen und deren Benutzung (soweit sie nach § 1 der Kehrung oder Überprüfung
 
 3.5Anlage nach 3.2 oder 3.3 mit selbstkalibrierender kontinuierlicher Regelung des Verbrennungsprozesseseinmal injedem dritten Kalenderjahr
 
-##### Anlage 2 (zu § 5)
+###### Anlage 2 (zu § 5)
 
 (Fundstelle: BGBl. I 2013, 762 - 772; 
  bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -228,9 +232,9 @@ Bemerkungen**
 **(ggf. Verweis auf gesondertes Blatt)****Nr.****Anlage**
 **(Art/Standort oder Verweis auf Anhang)**Name und Anschrift des SchornsteinfegerbetriebesDie Schornsteinfegerarbeiten sind entsprechend dem Feuerstättenbescheid ordnungsgemäß durchgeführt worden.Handwerkskammer, bei der der Betrieb in der Handwerksrolle eingetragen ist bzw. bei der die Anzeige nach § 9 EU/EWR-Handwerk-Verordnung erstattet wurde:
 
-Datum     Unterschrift des ausführenden Schornsteinfegers
+    Datum     Unterschrift des ausführenden Schornsteinfegers
 
-Ausführende(r) Schornsteinfeger(in) (in Druckbuchstaben):
+ Ausführende(r) Schornsteinfeger(in) (in Druckbuchstaben):
 
 **Gasförmige Brennstoffe**
 
@@ -333,7 +337,7 @@ für 
 [ ] Aufgrund der festgestellten Mängel ist eine zusätzliche Überprüfung der Feuerungsanlage erforderlich.**Messgeräte-Identifikationsnummer(n)**
  DatumUnterschrift des Schornsteinfegers Falls Mängel festgestellt worden sind, die innerhalb einer Frist zu beseitigen sind, geben Sie bitte Nachricht, sobald die Mängel beseitigt sind bzw. die Wiederholungsüberprüfung erfolgen kann.
 
-##### Anlage 3 (zu § 6)Gebührenverzeichnis
+###### Anlage 3 (zu § 6)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2013, 773 - 774; 
  bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -392,49 +396,49 @@ Anmerkung:Bei Abgasanlagen außerhalb von Gebäuden werden maximal 3 Meter berec
 
 3.2Überprüfung des Zeitpunktes der Einhaltung der Grenzwerte (§ 25 Absatz 1 1. BImSchV), Überprüfung des Datums auf dem Typschild der Einzelraumfeuerungsanlagen und Information an den Betreiber (§ 14 Absatz 1 SchfHwG, § 26 Absatz 5 1. BImSchV) 3,0
 
-3.3Überprüfung, ob ein Heizkessel, der außer Betrieb genommen werden musste, weiterhin betrieben wird (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 1 GEG)
+3.3(weggefallen)
 
-3.3.1Überprüfung des Vorliegens von Ausnahmetatbeständen 1,5
+3.3.1(weggefallen)
 
-3.3.2bei Feststellung eines Verstoßes 9,0
+3.3.2(weggefallen)
 
-3.4Überprüfung, ob Wärmeverteilungs- und Warmwasserleitungen, die gedämmt werden mussten, weiterhin ungedämmt sind (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 2 GEG)
+3.4Überprüfung, ob Wärmeverteilungs- und Warmwasserleitungen, die gedämmt werden mussten, weiterhin ungedämmt sind (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 1 GModG)
 
 3.4.1Überprüfung des Vorliegens von Ausnahmetatbeständen 1,5
 
 3.4.2bei Feststellung eines Verstoßes 9,0
 
-3.5Überprüfung, ob die Abrechnungen und Bestätigungen nach § 96 Absatz 5 GEG vorliegen (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 3 GEG), je Gasliefervertrag, Öllager oder Brennstofflager (feste Brennstoffe)10,0
+3.5Überprüfung, ob die Abrechnungen und Bestätigungen nach § 96 Absatz 5 GModG vorliegen (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 2 GModG), je Gasliefervertrag, Öllager oder Brennstofflager (feste Brennstoffe)10,0
 
-3.6Überprüfung des Verschlechterungsverbots (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 1 GEG)
+3.6Überprüfung des Verschlechterungsverbots (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 1 GModG)
 
 3.6.1bei Feststellung keiner Verschlechterung 5,0
 
 3.6.2bei Feststellung einer Verschlechterung30,0
 
-3.7Überprüfung, ob eine Zentralheizung mit bestimmten Einrichtungen ausgestattet ist (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 2 GEG) 3,0
+3.7Überprüfung, ob eine Zentralheizung mit bestimmten Einrichtungen ausgestattet ist (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 2 GModG) 3,0
 
-3.8Überprüfung, ob die Anforderungen nach den §§ 71 bis 71m GEG eingehalten worden sind (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 3 GEG), je Gaszähler, Öllager oder Brennstofflager (feste Brennstoffe)
+3.8(weggefallen)
 
-3.8.1Grundwert 8,0
+3.8.1(weggefallen)
 
-3.8.2Zuschlag bei Überprüfung von Abrechnungen und Bescheinigungen im Sinne des § 96 Absatz 5 GEG, soweit nicht bereits von Nummer 3.5 erfasst10,0
+3.8.2(weggefallen)
 
-3.9Überprüfung der Begrenzung der Wärmeabgabe bei Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 4 GEG) 2,0
+3.9Überprüfung der Begrenzung der Wärmeabgabe bei Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 3 GModG) 2,0
 
-3.10Überprüfung, ob die Anforderungen an den Einbau von Heizungsanlagen bei Nutzung von fester Biomasse eingehalten werden (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 5 GEG)
+3.10Überprüfung, ob die Anforderungen an den Einbau von Heizungsanlagen bei Nutzung von fester Biomasse eingehalten werden (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 4 GModG)
 
 3.10.1Grundwert 2,0
 
 3.10.2Zuschlag bei Überprüfung von Abrechnungen und Bescheinigungen im Sinne des § 96 Absatz 5 GEG, soweit nicht bereits von Nummer 3.5 erfasst10,0
 
-3.11Überprüfung, ob die Anforderungen an den Einbau von Wärmepumpen- oder Solarthermie-Hybridheizungen eingehalten werden (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 6 GEG)
+3.11(weggefallen)
 
-3.11.1Grundwert 8,0
+3.11.1(weggefallen)
 
-3.11.2Zuschlag bei Überprüfung von Abrechnungen und Bescheinigungen im Sinne des § 96 Absatz 5 GEG, soweit nicht bereits von Nummer 3.5 erfasst10,0
+3.11.2(weggefallen)
 
-3.12Überprüfung, ob der Eigentümer zur Nachrüstung der Ausstattung von Zentralheizungen in bestehenden Gebäuden verpflichtet ist und diese Pflicht erfüllt wurde (§ 14 Absatz 1 SchfHwG, § 97 Absatz 4 GEG) 7,0
+3.12Überprüfung, ob der Eigentümer zur Nachrüstung der Ausstattung von Zentralheizungen in bestehenden Gebäuden verpflichtet ist und diese Pflicht erfüllt wurde (§ 14 Absatz 1 SchfHwG, § 97 Absatz 4 GModG) 7,0
 
 Anmerkung: Diese Gebühr fällt nach der Feststellung, dass die Verpflichtung nicht vorliegt oder erfüllt wurde, nicht erneut an.
 
@@ -454,7 +458,7 @@ Anmerkung: Diese Gebühr fällt nach der Feststellung, dass die Verpflichtung ni
 
 5.2Je ArbeitsminuteAnmerkung:Der Zeitaufwand umfasst die Tätigkeiten und Wartezeiten vor Ort.1,0
 
-##### Anlage 4 (zu § 7)Begriffsbestimmungen
+###### Anlage 4 (zu § 7)Begriffsbestimmungen
 
 (Fundstelle: BGBl. I 2009, 1305 - 1306; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -511,4 +515,3 @@ b) Abluftschacht, der einen Raum entlüftet und Abgase einer Feuerstätte ins Fr
 23. „Verbindungsstück“: Vorrichtung zwischen dem Abgasstutzen der Feuerstätte, der Räucheranlage, des Blockheizkraftwerks, der Wärmepumpe, des ortsfesten Verbrennungsmotors oder des Brennstoffzellenheizgeräts und dem senkrechten Teil der Abgasanlage;
 
 24. „Wärmepumpe“: Maschine, die der Luft, dem Wasser oder dem Erdreich Wärme entzieht, diese über verbrennungsmotorisch angetriebene Kompressoren oder über Sorptionseinrichtungen von einem niedrigen Temperaturniveau auf ein höheres bringt und damit für Heizzwecke bzw. Warmwasserbereitung nutzbar macht.
-
