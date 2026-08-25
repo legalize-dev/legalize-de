@@ -4,17 +4,22 @@ identifier: "GWKHV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2024-04-25"
-last_updated: "2026-04-04"
+last_updated: "2026-08-25"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/gwkhv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR08B0A0024"
 slug: "gwkhv"
 bgbl_reference: "BGBl. I 2024, Nr. 139"
+stand: "Geändert durch Art. 8 Abs. 9 G v. 23.7.2026 I Nr. 226"
 ---
 # Verordnung über das Herkunftsnachweisregister für Gas und das Herkunftsnachweisregister für Wärme oder Kälte
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Es verordnen mit Zustimmung des Bundestages
 
@@ -22,13 +27,13 @@ Es verordnen mit Zustimmung des Bundestages
 
 – das Bundesministerium für Wirtschaft und Klimaschutz im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz auf Grund des § 7 des Herkunftsnachweisregistergesetzes vom 4. Januar 2023 (BGBl. 2023 I Nr. 9), der durch Artikel 2 Nummer 5 des Gesetzes vom 5. Februar 2024 (BGBl. 2024 I Nr. 32) neu gefasst worden ist:
 
-##### Inhaltsübersicht
+###### Inhaltsübersicht
 
 Abschnitt 1Allgemeine Vorschriften§ 1Gegenstand dieser Verordnung§ 2BegriffsbestimmungenAbschnitt 2Herkunftsnachweisregister§ 3Zuständige Behörde§ 4Elektronisches System§ 5Gemeinsame Datenbank§ 6Rechts- und Fachaufsicht über die zuständige BehördeAbschnitt 3Konto§ 7Konto§ 8Kommunikationssystem§ 9Kontoeröffnung und -führungAbschnitt 4Registrierung von Anlagen§ 10Grundsätze der Anlagenregistrierung§ 11Antrag auf Registrierung§ 12Prüfung des Antrags§ 13AnlagenkennnummerAbschnitt 5HerkunftsnachweiseUnterabschnitt 1Allgemeine Vorschriften§ 14Ausstellung und Form eines Herkunftsnachweises§ 15Antrag auf Ausstellung§ 16Ausstellung eines Herkunftsnachweises für strombasiertes Gas oder strombasierte thermische Energie§ 17Mindestangaben in Herkunftsnachweisen§ 18Zusätzliche Angaben in Herkunftsnachweisen§ 19Anerkennung ausländischer Herkunftsnachweise§ 20Übertragung§ 21Verwendung, Entwertung und Erklärung des Verfalls§ 22LöschungUnterabschnitt 2Besondere Anforderungen an die Ausstellung und Entwertung von Herkunftsnachweisen für Gas§ 23Ausstellung von Herkunftsnachweisen für Gas§ 24Unterscheidbarkeit§ 25Zusätzliche Mindestangaben im Herkunftsnachweis für Gas§ 26Zusätzliche Angaben im Herkunftsnachweis für Gas§ 27Entwertung bei netzgebundenem GasverbrauchUnterabschnitt 3Besondere Anforderungen an die Ausstellung und Entwertung von Herkunftsnachweisen für Wärme oder Kälte§ 28Ausstellung und Inhalt von Herkunftsnachweisen für Wärme oder Kälte§ 29Ausstellung eines Herkunftsnachweises für Wärme oder Kälte für strombasierte thermische Energie§ 30Ausstellung eines Herkunftsnachweises für Wärme oder Kälte für gasbasierte thermische Energie§ 31Unterscheidbarkeit§ 32Zusätzliche Mindestangaben in Herkunftsnachweisen für Wärme oder Kälte§ 33Zusätzliche Angaben in Herkunftsnachweisen für Wärme oder Kälte§ 34Vermarktung thermischer Energie§ 35EntwertungAbschnitt 6Verarbeitung von Daten§ 36Datenschutz und Datensicherheit§ 37Erforderlichkeit der Datenverarbeitung§ 38Löschung von Daten§ 39Überprüfung der gespeicherten Daten; DatenübermittlungAbschnitt 7Verordnungsermächtigung; Schlussvorschrift§ 40Subdelegation an das Umweltbundesamt§ 41Beleihung§ 42Ordnungswidrigkeiten§ 43Evaluierung§ 44Inkrafttreten
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
-##### § 1 Gegenstand dieser Verordnung
+###### § 1 Gegenstand dieser Verordnung
 
 Gegenstand dieser Verordnung sind
 
@@ -38,7 +43,7 @@ Gegenstand dieser Verordnung sind
 
 3. die Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen auf Grund des § 5 Absatz 1 in Verbindung mit Absatz 2 Satz 2 des Herkunftsnachweisregistergesetzes auf das Umweltbundesamt.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -60,7 +65,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 ## Abschnitt 2 Herkunftsnachweisregister
 
-##### § 3 Zuständige Behörde
+###### § 3 Zuständige Behörde
 
 Das Umweltbundesamt ist die zuständige Behörde im Sinne des § 5 Absatz 1 Nummer 7 Buchstabe a erste Variante des Herkunftsnachweisregistergesetzes. Es errichtet und betreibt
 
@@ -68,23 +73,23 @@ Das Umweltbundesamt ist die zuständige Behörde im Sinne des § 5 Absatz 1 Numm
 
 2. das Herkunftsnachweisregister für Wärme oder Kälte.
 
-##### § 4 Elektronisches System
+###### § 4 Elektronisches System
 
 Das Umweltbundesamt führt die Herkunftsnachweisregister nach § 3 als elektronische Datenbank, in der die Ausstellung von Herkunftsnachweisen für Gas und die Ausstellung von Herkunftsnachweisen für Wärme oder Kälte sowie die Übertragung oder die Entwertung inländischer Herkunftsnachweise und ausländischer Herkunftsnachweise registriert werden.
 
-##### § 5 Gemeinsame Datenbank
+###### § 5 Gemeinsame Datenbank
 
 (1) Das Umweltbundesamt darf das Herkunftsnachweisregister für Gas, das Herkunftsnachweisregister für Wärme oder Kälte sowie das Herkunftsnachweisregister nach § 79 des Erneuerbare-Energien-Gesetzes in derselben elektronischen Datenbank betreiben. Innerhalb dieser Datenbank müssen die in Satz 1 genannten Herkunftsnachweisregister jedoch getrennt voneinander betrieben werden.
 
 (2) Das Umweltbundesamt darf das Herkunftsnachweisregister für Gas mit dem zentralen Register für erneuerbare Kraftstoffe nicht biogenen Ursprungs nach § 44 Absatz 1 der Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote vom 17. April 2024 (BGBl. 2024 I Nr. 131) in derselben elektronischen Datenbank betreiben, sofern gewährleistet ist, dass der Herkunftsnachweis für Gas sowie der Nachweis nach § 16 der Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote jeweils als eigenständige Nachweisinstrumente genutzt werden können. Innerhalb der Datenbank müssen die beiden Register getrennt voneinander betrieben werden.
 
-##### § 6 Rechts- und Fachaufsicht über die zuständige Behörde
+###### § 6 Rechts- und Fachaufsicht über die zuständige Behörde
 
 Bei der Durchführung dieser Verordnung unterliegt das Umweltbundesamt der Rechts- und Fachaufsicht durch das Bundesministerium für Wirtschaft und Klimaschutz.
 
 ## Abschnitt 3 Konto
 
-##### § 7 Konto
+###### § 7 Konto
 
 (1) Voraussetzung für die Registrierung einer Erzeugungsanlage für Gas oder thermische Energie sowie für die Ausstellung, Inhaberschaft, Anerkennung, Übertragung, Verwendung oder Entwertung eines Herkunftsnachweises für Gas oder eines Herkunftsnachweises für Wärme oder Kälte ist ein Konto im jeweiligen Herkunftsnachweisregister nach § 3.
 
@@ -92,13 +97,13 @@ Bei der Durchführung dieser Verordnung unterliegt das Umweltbundesamt der Recht
 
 (3) Das Umweltbundesamt sperrt oder schließt auf Antrag des Kontoinhabers dessen Konto. Ist das Erreichen der Zwecke des Herkunftsnachweisregisters für Gas oder des Herkunftsnachweisregisters für Wärme oder Kälte gefährdet, so kann das Umweltbundesamt ein Konto vorläufig sperren oder schließen sowie einen Kontoinhaber vorläufig oder dauerhaft von der weiteren Nutzung des jeweiligen Herkunftsnachweisregisters nach § 3 ausschließen. Die vorläufige Sperrung eines Kontos ist aufzuheben, wenn der Grund für die Sperrung nicht mehr besteht.
 
-##### § 8 Kommunikationssystem
+###### § 8 Kommunikationssystem
 
 (1) Das Umweltbundesamt stellt ein Kommunikationssystem sowie ein Postfach innerhalb des Kommunikationssystems zur Führung eines Kontos zur Verfügung.
 
 (2) Registerteilnehmer sind verpflichtet, für die Kommunikation mit dem Umweltbundesamt einen Zugang zu diesem Kommunikationssystem zu eröffnen und den Zugang zu nutzen, insbesondere für die Stellung von Anträgen, die Abgabe von Erklärungen sowie die Übermittlung von Daten und Dokumenten.
 
-##### § 9 Kontoeröffnung und -führung
+###### § 9 Kontoeröffnung und -führung
 
 (1) Im Antrag auf Kontoeröffnung sind folgende Daten an das Umweltbundesamt zu übermitteln:
 
@@ -134,11 +139,11 @@ f) die Umsatzsteuer-Identifikationsnummer oder die Wirtschafts-Identifikationsnu
 
 ## Abschnitt 4 Registrierung von Anlagen
 
-##### § 10 Grundsätze der Anlagenregistrierung
+###### § 10 Grundsätze der Anlagenregistrierung
 
 Auf Antrag des Anlagenbetreibers registriert das Umweltbundesamt jede Anlage zur Erzeugung von Gas in dem Herkunftsnachweisregister für Gas oder jede Anlage zur Erzeugung von thermischer Energie in dem Herkunftsnachweisregister für Wärme oder Kälte und weist die jeweilige Anlage dem Konto des Anlagenbetreibers zu.
 
-##### § 11 Antrag auf Registrierung
+###### § 11 Antrag auf Registrierung
 
 (1) Im Antrag auf Registrierung einer Anlage muss der Anlagenbetreiber dem Umweltbundesamt folgende Angaben übermitteln:
 
@@ -178,7 +183,7 @@ b) den Ort des Übergabepunkts, über den das in der Anlage erzeugte Gas beim In
 
 (4) Der Anlagenbetreiber kann anstelle der Übermittlung von Angaben nach den Absätzen 1 bis 3 das Umweltbundesamt und den Betreiber einer Datenbank oder eines Registers nach § 39 Absatz 2 zum Austausch dieser Angaben zum Zwecke der Anlagenregistrierung in einem Herkunftsnachweisregister nach § 3 ermächtigen. Für den nach Satz 1 Übermittelnden ist § 39 Absatz 4 Satz 2 bis 4 anzuwenden.
 
-##### § 12 Prüfung des Antrags
+###### § 12 Prüfung des Antrags
 
 (1) Das Umweltbundesamt prüft die Plausibilität der übermittelten Daten und kann zu diesem Zwecke vom Anlagenbetreiber Erläuterungen zu den übermittelten Daten oder die Vorlage weiterer Unterlagen verlangen. Bei der Entscheidung über die Anforderung von Erläuterungen ist der Aufwand für Anlagen zur Erzeugung von Gas oder von thermischer Energie mit einer installierten Leistung von weniger als 50 Kilowatt zu berücksichtigen.
 
@@ -188,7 +193,7 @@ b) den Ort des Übergabepunkts, über den das in der Anlage erzeugte Gas beim In
 
 (4) Die vom Umweltbundesamt angeforderten Erläuterungen und Unterlagen oder Bestätigungen nach den Absätzen 1 bis 3 sind unverzüglich nach der Anforderung zu übermitteln. Das Umweltbundesamt soll über die Registrierung der Anlage binnen eines Monats nach Eingang der vollständigen Antragsunterlagen entscheiden.
 
-##### § 13 Anlagenkennnummer
+###### § 13 Anlagenkennnummer
 
 Das Umweltbundesamt vergibt nach der Registrierung eine Anlagenkennnummer für die registrierte Anlage.
 
@@ -196,7 +201,7 @@ Das Umweltbundesamt vergibt nach der Registrierung eine Anlagenkennnummer für d
 
 ## Unterabschnitt 1 Allgemeine Vorschriften
 
-##### § 14 Ausstellung und Form eines Herkunftsnachweises
+###### § 14 Ausstellung und Form eines Herkunftsnachweises
 
 (1) Das Umweltbundesamt stellt einen Herkunftsnachweis für Gas jeweils für eine an Letztverbraucher gelieferte Gasmenge von 1 Megawattstunde und einen Herkunftsnachweis für Wärme oder Kälte für jeweils 1 Megawattstunde thermischer Energie aus, die seit dem Beginn desjenigen Kalendermonats erzeugt und geliefert worden ist, in dem die Anlage im jeweiligen Herkunftsnachweisregister nach § 3 Satz 2 registriert wurde, und verbucht ihn auf das Konto des Anlagenbetreibers, dem die Anlage zuzuordnen ist. Auf die Ausstellung eines Herkunftsnachweises für Gas sind die ergänzenden Anforderungen des § 23 und auf die Ausstellung eines Herkunftsnachweises für Wärme oder Kälte die ergänzenden Anforderungen der §§ 28 bis 30 anzuwenden.
 
@@ -204,7 +209,7 @@ Das Umweltbundesamt vergibt nach der Registrierung eine Anlagenkennnummer für d
 
 (3) Das Umweltbundesamt ist berechtigt, Fehler in einem ausgestellten Herkunftsnachweis zu korrigieren. Der von einer Korrektur betroffene Registerteilnehmer wird darüber informiert.
 
-##### § 15 Antrag auf Ausstellung
+###### § 15 Antrag auf Ausstellung
 
 (1) Die Ausstellung eines Herkunftsnachweises für Gas oder eines Herkunftsnachweises für Wärme oder Kälte setzt einen Antrag des Anlagenbetreibers voraus. Es ist untersagt, einen Herkunftsnachweis für Gas oder einen Herkunftsnachweis für Wärme oder Kälte für Energiemengen zu beantragen,
 
@@ -268,7 +273,7 @@ c) die Erzeugung der Energieeinheit in sonstiger Weise gefördert wurde.
 
 (7) Sofern der Herkunftsnachweis zusätzliche Angaben nach den §§ 18, 26 oder 33 enthalten soll, übermittelt der Anlagenbetreiber die dafür erforderlichen Daten und Nachweise.
 
-##### § 16 Ausstellung eines Herkunftsnachweises für strombasiertes Gas oder strombasierte thermische Energie
+###### § 16 Ausstellung eines Herkunftsnachweises für strombasiertes Gas oder strombasierte thermische Energie
 
 (1) Das Umweltbundesamt stellt einen Herkunftsnachweis für Gas für strombasiertes Gas aus erneuerbaren Energien oder einen Herkunftsnachweis für Wärme oder Kälte für strombasierte thermische Energie aus erneuerbaren Energien aus, wenn zur Erzeugung des Gases oder der thermischen Energie Strom aus erneuerbaren Energien genutzt wurde.
 
@@ -286,7 +291,7 @@ c) die Erzeugung der Energieeinheit in sonstiger Weise gefördert wurde.
 
 (4) Im Antrag auf Ausstellung eines Herkunftsnachweises für Gas, der für strombasiertes Gas ausgestellt wird, muss der Anlagenbetreiber dem Umweltbundesamt zusätzlich zu den Angaben nach § 15 und nach Absatz 3 die Angabe übermitteln, ob die Voraussetzungen des Teils 2 der Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote erfüllt sind.
 
-##### § 17 Mindestangaben in Herkunftsnachweisen
+###### § 17 Mindestangaben in Herkunftsnachweisen
 
 (1) Ein Herkunftsnachweis für Gas oder ein Herkunftsnachweis für Wärme oder Kälte muss folgende Angaben enthalten:
 
@@ -304,7 +309,7 @@ c) die Erzeugung der Energieeinheit in sonstiger Weise gefördert wurde.
 
 (3) Ein Herkunftsnachweis für Gas, der für strombasiertes Gas ausgestellt ist, oder ein Herkunftsnachweis für Wärme oder Kälte, der für strombasierte thermische Energie ausgestellt ist, muss zusätzlich die Angabe nach § 16 Absatz 3 enthalten.
 
-##### § 18 Zusätzliche Angaben in Herkunftsnachweisen
+###### § 18 Zusätzliche Angaben in Herkunftsnachweisen
 
 (1) Ein Herkunftsnachweis für Gas, der für strombasiertes Gas ausgestellt ist, oder ein Herkunftsnachweis für Wärme oder Kälte, der für strombasierte thermische Energie ausgestellt ist, enthält auf Antrag des Anlagenbetreibers folgende zusätzliche Angaben, sofern für die Energieerzeugung Herkunftsnachweise nach § 79 Absatz 1 Nummer 3 des Erneuerbare-Energien-Gesetzes in entsprechendem Umfang entwertet wurden:
 
@@ -314,7 +319,7 @@ c) die Erzeugung der Energieeinheit in sonstiger Weise gefördert wurde.
 
 (2) Ein Herkunftsnachweis für Gas oder ein Herkunftsnachweis für Wärme oder Kälte enthält auf Antrag des Anlagenbetreibers zusätzlich die Angabe der bei der Erzeugung der Energieeinheit entstandenen Treibhausgasemissionen.
 
-##### § 19 Anerkennung ausländischer Herkunftsnachweise
+###### § 19 Anerkennung ausländischer Herkunftsnachweise
 
 (1) Das Umweltbundesamt erkennt auf Antrag eines Kontoinhabers einen Herkunftsnachweis für Gas oder einen Herkunftsnachweis für Wärme oder Kälte hinsichtlich der in Artikel 19 Absatz 7 Buchstabe a bis f der Richtlinie (EU) 2018/2001 genannten Angaben an, wenn der Herkunftsnachweis von einem anderen Mitgliedstaat der Europäischen Union erstellt worden ist. Das Umweltbundesamt kann auf Antrag eines Kontoinhabers zusätzliche Angaben eines Herkunftsnachweises anerkennen, sofern sie als Angaben in einem Herkunftsnachweis nach dieser Verordnung vorgesehen sind.
 
@@ -328,7 +333,7 @@ Das Umweltbundesamt kann auf Antrag eines Kontoinhabers zusätzliche Angaben ein
 
 (3) Die Anerkennung nach Absatz 1 oder Absatz 2 kann verweigert werden, wenn begründete Zweifel an der Richtigkeit, der Zuverlässigkeit oder der Wahrhaftigkeit des ausländischen Herkunftsnachweises bestehen. Das Umweltbundesamt kann im Falle des Satzes 1 zusätzliche Erläuterungen oder die Vorlage weiterer Unterlagen verlangen.
 
-##### § 20 Übertragung
+###### § 20 Übertragung
 
 (1) Das Umweltbundesamt überträgt auf Antrag des Kontoinhabers einen Herkunftsnachweis für Gas oder einen Herkunftsnachweis für Wärme oder Kälte auf das Konto eines anderen Kontoinhabers, wenn
 
@@ -342,7 +347,7 @@ Das Umweltbundesamt kann auf Antrag eines Kontoinhabers zusätzliche Angaben ein
 
 2. die Übertragung im Falle des § 15 Absatz 2 im Widerspruch zu dem Antrag auf die Registrierung der nachgewiesenen Energiemenge in einem massenbilanzierten Verfahren stünde.
 
-##### § 21 Verwendung, Entwertung und Erklärung des Verfalls
+###### § 21 Verwendung, Entwertung und Erklärung des Verfalls
 
 (1) Ein Herkunftsnachweis für Gas darf zur Kennzeichnung der Lieferung von Gas an einen Letztverbraucher und ein Herkunftsnachweis für Wärme oder Kälte darf zur Kennzeichnung der Lieferung von thermischer Energie an einen Endkunden verwendet werden, wenn
 
@@ -354,7 +359,7 @@ Das Umweltbundesamt kann auf Antrag eines Kontoinhabers zusätzliche Angaben ein
 
 (3) Das Umweltbundesamt erklärt einen Herkunftsnachweis für Gas oder einen Herkunftsnachweis für Wärme oder Kälte für verfallen, wenn seit der Erzeugung der dem Herkunftsnachweis zugrunde liegenden Energiemenge mehr als 18 Kalendermonate vergangen sind. Bis zum Ablauf von 18 Kalendermonaten ist eine Entwertung zulässig. Nach diesem Zeitpunkt darf ein Herkunftsnachweis für Gas und ein Herkunftsnachweis für Wärme oder Kälte nicht mehr übertragen oder entwertet werden.
 
-##### § 22 Löschung
+###### § 22 Löschung
 
 (1) Das Umweltbundesamt löscht einen Herkunftsnachweis für Gas oder einen Herkunftsnachweis für Wärme oder Kälte in den folgenden Fällen:
 
@@ -370,7 +375,7 @@ Das Umweltbundesamt kann auf Antrag eines Kontoinhabers zusätzliche Angaben ein
 
 ## Unterabschnitt 2 Besondere Anforderungen an die Ausstellung und Entwertung von Herkunftsnachweisen für Gas
 
-##### § 23 Ausstellung von Herkunftsnachweisen für Gas
+###### § 23 Ausstellung von Herkunftsnachweisen für Gas
 
 (1) Das Umweltbundesamt stellt auf Antrag des Anlagenbetreibers einen Herkunftsnachweis für Gas nach § 14 Absatz 1 aus für solches Gas, das seit dem Beginn desjenigen Kalendermonats an Letztverbraucher geliefert worden ist, in dem die Anlage im Herkunftsnachweisregister nach § 3 Satz 2 registriert wurde, und das
 
@@ -382,21 +387,21 @@ Das Umweltbundesamt stellt nach Satz 1 Nummer 2 einen Herkunftsnachweis für Gas
 
 (2) Sofern ein Herkunftsnachweis für Gas zur Vermarktung verwendet wird und für die dem vermarkteten Gas zugrunde liegende Anlage Investitionsbeihilfen oder sonstige Förderung für die Erzeugung des Gases nach Artikel 2 Nummer 5 der Richtlinie (EU) 2018/2001 geleistet werden, ist der Marktwert dieser Herkunftsnachweise bei der Berechnung der finanziellen Förderung zu berücksichtigen. Der Anlagenbetreiber muss die Absicht zur Vermarktung bei der für die Förderung zuständigen Stelle unverzüglich nach Antragstellung anzeigen.
 
-##### § 24 Unterscheidbarkeit
+###### § 24 Unterscheidbarkeit
 
 Das Umweltbundesamt stellt sicher, dass ein Herkunftsnachweis für Gas, der für kohlenstoffarmes Gas ausgestellt ist, klar zu unterscheiden ist von einem Herkunftsnachweis für Gas, der für Gas aus oder auf Basis von erneuerbarer Energie ausgestellt ist.
 
-##### § 25 Zusätzliche Mindestangaben im Herkunftsnachweis für Gas
+###### § 25 Zusätzliche Mindestangaben im Herkunftsnachweis für Gas
 
 (1) Ein Herkunftsnachweis für Gas muss zusätzlich zu den Angaben nach § 17 die Angaben nach § 15 Absatz 4 und § 16 Absatz 4 enthalten.
 
 (2) Ein Herkunftsnachweis für Gas für solches Gas, das unter Hinzufügung von Kohlenstoff erzeugt wurde, muss die Angabe enthalten, ob die Voraussetzungen hinsichtlich des in der chemischen Zusammensetzung des im Gas enthaltenen Kohlenstoffs nach Teil A Nummer 10 des Anhangs zu der Delegierten Verordnung (EU) 2023/1185 der Kommission vom 10. Februar 2023 zur Ergänzung der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates durch Festlegung eines Mindestschwellenwertes für die Treibhausgaseinsparungen durch wiederverwertete kohlenstoffhaltige Kraftstoffe und einer Methode zur Ermittlung der Treibhausgaseinsparungen durch flüssige oder gasförmige erneuerbare Kraftstoffe nicht biogenen Ursprungs für den Verkehr sowie durch wiederverwertete kohlenstoffhaltige Kraftstoffe (ABl. L 157 vom 20.6.2023, S. 20) in der jeweils geltenden Fassung erfüllt sind.
 
-##### § 26 Zusätzliche Angaben im Herkunftsnachweis für Gas
+###### § 26 Zusätzliche Angaben im Herkunftsnachweis für Gas
 
 Ein Herkunftsnachweis für Gas enthält auf Antrag des Anlagenbetreibers zusätzliche Angaben zur Arbeitszahl für das erzeugte Gas.
 
-##### § 27 Entwertung bei netzgebundenem Gasverbrauch
+###### § 27 Entwertung bei netzgebundenem Gasverbrauch
 
 (1) Bei der Lieferung von Wasserstoff aus einem Wasserstoffnetz entwertet das Umweltbundesamt ausschließlich Herkunftsnachweise für Gas, die für Wasserstoff ausgestellt sind.
 
@@ -404,7 +409,7 @@ Ein Herkunftsnachweis für Gas enthält auf Antrag des Anlagenbetreibers zusätz
 
 ## Unterabschnitt 3 Besondere Anforderungen an die Ausstellung und Entwertung von Herkunftsnachweisen für Wärme oder Kälte
 
-##### § 28 Ausstellung und Inhalt von Herkunftsnachweisen für Wärme oder Kälte
+###### § 28 Ausstellung und Inhalt von Herkunftsnachweisen für Wärme oder Kälte
 
 Das Umweltbundesamt stellt auf Antrag des Anlagenbetreibers einen Herkunftsnachweis für Wärme oder Kälte nach § 14 Absatz 1 für thermische Energie aus, die jeweils seit dem Beginn desjenigen Kalendermonats erzeugt und geliefert worden ist, in dem die Anlage im Herkunftsnachweisregister nach § 3 Satz 2 registriert wurde, und die
 
@@ -418,7 +423,7 @@ Das Umweltbundesamt stellt auf Antrag des Anlagenbetreibers einen Herkunftsnachw
 
 Ein Herkunftsnachweis für Wärme oder Kälte kann abweichend von § 4 Absatz 2 des Herkunftsnachweisregistergesetzes für thermische Energie ausgestellt werden, die der Anlagenbetreiber selbst nutzt. Der Herkunftsnachweis für Wärme oder Kälte weist die Art der thermischen Energie aus.
 
-##### § 29 Ausstellung eines Herkunftsnachweises für Wärme oder Kälte für strombasierte thermische Energie
+###### § 29 Ausstellung eines Herkunftsnachweises für Wärme oder Kälte für strombasierte thermische Energie
 
 Ein Herkunftsnachweis für Wärme oder Kälte wird nach § 14 Absatz 1 und § 16 ausgestellt für
 
@@ -430,7 +435,7 @@ Ein Herkunftsnachweis für Wärme oder Kälte wird nach § 14 Absatz 1 und § 16
 
 4. die Menge an strombasierter thermischer Energie, die im Sinne des § 28 Satz 1 Nummer 4 aus anderen Energiequellen erzeugt wurde.
 
-##### § 30 Ausstellung eines Herkunftsnachweises für Wärme oder Kälte für gasbasierte thermische Energie
+###### § 30 Ausstellung eines Herkunftsnachweises für Wärme oder Kälte für gasbasierte thermische Energie
 
 (1) Ein Herkunftsnachweis für Wärme oder Kälte wird ausgestellt für
 
@@ -456,17 +461,17 @@ c) Gas verbraucht wurde und Massenbilanzierungsnachweise in entsprechendem Umfan
 
 3. die Erzeugung des Gases in sonstiger Weise gefördert wurde.
 
-##### § 31 Unterscheidbarkeit
+###### § 31 Unterscheidbarkeit
 
 Das Umweltbundesamt stellt sicher, dass ein Herkunftsnachweis für Wärme oder Kälte für thermische Energie, die im Sinne des § 28 Satz 1 Nummer 1 aus oder auf Basis von erneuerbarer Energie erzeugt wurde oder im Sinne des § 28 Satz 1 Nummer 2 aus unvermeidbarer Abwärme stammt, klar zu unterscheiden ist von einem Herkunftsnachweis für Wärme oder Kälte für thermische Energie im Sinne des § 28 Satz 1 Nummer 3 oder 4.
 
-##### § 32 Zusätzliche Mindestangaben in Herkunftsnachweisen für Wärme oder Kälte
+###### § 32 Zusätzliche Mindestangaben in Herkunftsnachweisen für Wärme oder Kälte
 
 (1) Ein Herkunftsnachweis für Wärme oder Kälte muss zusätzlich zu den Angaben nach § 17 die Angaben nach § 15 Absatz 5 enthalten.
 
 (2) Ein Herkunftsnachweis für Wärme oder Kälte für thermische Energie auf Basis von Gas aus erneuerbaren Energien oder auf Basis von kohlenstoffarmem Gas muss die Angaben nach § 30 Absatz 2 enthalten.
 
-##### § 33 Zusätzliche Angaben in Herkunftsnachweisen für Wärme oder Kälte
+###### § 33 Zusätzliche Angaben in Herkunftsnachweisen für Wärme oder Kälte
 
 Ein Herkunftsnachweis für Wärme oder Kälte enthält auf Antrag des Anlagenbetreibers folgende zusätzliche Angaben:
 
@@ -494,7 +499,7 @@ b) den elektrischen Nutzungsgrad der Kraft-Wärme-Kopplungs-Anlage bezogen auf d
 
 c) den thermischen Nutzungsgrad der Anlage bezogen auf den Brennwert oder ersatzweise einen vergleichbaren Kennwert für die thermische Effizienz der Anlage.
 
-##### § 34 Vermarktung thermischer Energie
+###### § 34 Vermarktung thermischer Energie
 
 (1) Ein Herkunftsnachweis für Wärme oder Kälte darf zur Vermarktung von Mengen thermischer Energie, deren zugesagte Eigenschaften von den Eigenschaften des in dem Fernwärme- oder Fernkältesystem insgesamt verteilten thermischen Energiemix abweichen, verwendet werden. Dabei muss das vermarktende Fernwärme- oder Fernkälteversorgungsunternehmen sicherstellen, dass bestehende vertragliche Vereinbarungen zu den Eigenschaften der thermischen Energie, die an andere Kunden in demselben Fernwärme- oder Fernkältesystem geliefert wird, nicht durch die Vermarktung verletzt werden.
 
@@ -502,7 +507,7 @@ c) den thermischen Nutzungsgrad der Anlage bezogen auf den Brennwert oder ersatz
 
 (3) Gesetzliche Anforderungen an Eigenschaften oder an den Betrieb eines Wärme- oder Kältenetzes bleiben von der Vermarktung thermischer Energie innerhalb eines Fernwärme- oder Fernkältesystems unberührt.
 
-##### § 35 Entwertung
+###### § 35 Entwertung
 
 (1) Die Entwertung eines Herkunftsnachweises für Wärme oder Kälte ist nur für Letztverbräuche von thermischer Energie in demjenigen Fernwärme- oder Fernkältesystem zulässig, in dem sich die dem Herkunftsnachweis für Wärme oder Kälte zugrunde liegende Anlage befindet. Eine Anlage, deren thermische Energie nicht über Leitungen, sondern insbesondere über die Straße oder die Schiene transportiert wird, befindet sich in dem jeweiligen Fernwärme- oder Fernkältesystem, in das die transportierte Energie eingespeist wird. Netzverluste stehen im Sinne dieser Verordnung Letztverbräuchen gleich.
 
@@ -510,11 +515,11 @@ c) den thermischen Nutzungsgrad der Anlage bezogen auf den Brennwert oder ersatz
 
 ## Abschnitt 6 Verarbeitung von Daten
 
-##### § 36 Datenschutz und Datensicherheit
+###### § 36 Datenschutz und Datensicherheit
 
 Das Umweltbundesamt trifft bei der Einrichtung und bei dem Betrieb der Herkunftsnachweisregister nach § 3 die erforderlichen technischen und organisatorischen Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 74 vom 4.3.2021, S. 35). Es berücksichtigt die einschlägigen Standards und Empfehlungen des Bundesamtes für Sicherheit in der Informationstechnik.
 
-##### § 37 Erforderlichkeit der Datenverarbeitung
+###### § 37 Erforderlichkeit der Datenverarbeitung
 
 Das Umweltbundesamt verarbeitet Daten, soweit diese erforderlich sind für
 
@@ -528,7 +533,7 @@ Das Umweltbundesamt verarbeitet Daten, soweit diese erforderlich sind für
 
 Das Umweltbundesamt verarbeitet personenbezogene Daten, insbesondere die Daten nach § 9 Absatz 1, soweit diese für die Zwecke nach Satz 1 Nummer 1 bis 3 erforderlich sind.
 
-##### § 38 Löschung von Daten
+###### § 38 Löschung von Daten
 
 Das Umweltbundesamt löscht Daten, die nicht mehr erforderlich sind für
 
@@ -540,7 +545,7 @@ Das Umweltbundesamt löscht Daten, die nicht mehr erforderlich sind für
 
 4. energiestatistische Zwecke.
 
-##### § 39 Überprüfung der gespeicherten Daten; Datenübermittlung
+###### § 39 Überprüfung der gespeicherten Daten; Datenübermittlung
 
 (1) Für einen effizienten Registerbetrieb gleicht das Umweltbundesamt die im Herkunftsnachweisregister für Gas und die im Herkunftsnachweisregister für Wärme oder Kälte gespeicherten Daten, einschließlich personenbezogener Daten, miteinander ab und tauscht sie zwischen diesen Registern aus im Hinblick auf die Erzeugung von
 
@@ -570,7 +575,7 @@ Das Umweltbundesamt kann Daten nach den Sätzen 3 und 4 mit dem Betreiber eines 
 
 (3) Soweit es zur Durchführung dieser Verordnung erforderlich ist, darf das Umweltbundesamt Daten aus dem Herkunftsnachweisregister für Gas oder dem Herkunftsnachweisregister für Wärme oder Kälte übermitteln an
 
-1. das Bundesministerium für Wirtschaft und Klimaschutz,
+1. das Bundesministerium für Wirtschaft und Energie,
 
 2. das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz,
 
@@ -594,11 +599,11 @@ Das Umweltbundesamt kann Daten nach den Sätzen 3 und 4 mit dem Betreiber eines 
 
 Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle oder Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die protokollierten Daten sind durch geeignete Vorkehrungen gegen zweckfremde Verwendung und gegen sonstigen Missbrauch zu schützen. Die protokollierten Daten sind sechs Monate nach der Protokollierung zu löschen.
 
-(5) Das Umweltbundesamt richtet eine elektronische Schnittstelle ein, die es ermöglicht, Daten an die nach Landesrecht zuständigen Behörden zu übermitteln, soweit es für den Vollzug des Gebäudeenergiegesetzes vom 8. August 2020 (BGBl. I S. 1728), das durch Artikel 1 des Gesetzes vom 16. Oktober 2023 (BGBl. 2023 I Nr. 280) geändert worden ist, erforderlich ist. Absatz 4 Satz 2 bis 5 ist entsprechend anzuwenden.
+(5) Das Umweltbundesamt richtet eine elektronische Schnittstelle ein, die es ermöglicht, Daten an die nach Landesrecht zuständigen Behörden zu übermitteln, soweit es für den Vollzug des Gebäudemodernisierungsgesetzes vom 8. August 2020 (BGBl. I S. 1728), das zuletzt durch Artikel 4 des Gesetzes vom 23. Juli 2026 (BGBl. 2026 I Nr. 226) geändert worden ist, in der jeweils geltenden Fassung erforderlich ist. Absatz 4 Satz 2 bis 5 ist entsprechend anzuwenden.
 
 ## Abschnitt 7 Verordnungsermächtigung; Schlussvorschrift
 
-##### § 40 Subdelegation an das Umweltbundesamt
+###### § 40 Subdelegation an das Umweltbundesamt
 
 Das Umweltbundesamt wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz zur Durchführung dieser Verordnung Folgendes zu regeln:
 
@@ -644,7 +649,7 @@ a) in anderen internationalen Registern und Datenbanken mit energiewirtschaftlic
 
 b) in weiteren nationalen behördlichen Registern mit energiewirtschaftlichem Bezug, mit Ausnahme der bereits in § 39 Absatz 2 Satz 1 aufgeführten Register oder des Regionalnachweisregisters nach § 79a des Erneuerbare-Energien-Gesetzes.
 
-##### § 41 Beleihung
+###### § 41 Beleihung
 
 (1) Das Umweltbundesamt ist befugt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz die Aufgaben der Einrichtung und des Betriebs der Herkunftsnachweisregister nach § 3 Absatz 1 bis 5 und § 4 Absatz 1 bis 4 des Herkunftsnachweisregistergesetzes sowie die Befugnis zum Erlass der hierfür notwendigen Verwaltungsakte wie insbesondere Ausstellung, Anerkennung, Übertragung oder Entwertung von Herkunftsnachweisen für Gas und von Herkunftsnachweisen für Wärme oder Kälte einschließlich aller damit zusammenhängenden Verfahrenshandlungen ganz oder teilweise durch Beleihung auf eine juristische Person des Privatrechts zu übertragen, wenn diese die erforderliche personelle, technische und wirtschaftliche Leistungsfähigkeit und Zuverlässigkeit besitzt und die Übertragung für den Bund die wirtschaftlichere Alternative darstellt. Die Befugnis zum Erlass von Verwaltungsakten nach Satz 1 schließt die Vollstreckung der erlassenen Verwaltungsakte im Wege der Verwaltungsvollstreckung ein. Eine juristische Person des Privatrechts besitzt die erforderliche personelle, technische und wirtschaftliche Leistungsfähigkeit und Zuverlässigkeit für die Aufgabenerfüllung im Sinne von Satz 1, wenn
 
@@ -658,7 +663,7 @@ b) in weiteren nationalen behördlichen Registern mit energiewirtschaftlichem Be
 
 (2) Das Bundesministerium für Wirtschaft und Klimaschutz ist berechtigt, die nach Absatz 1 beliehene juristische Person des Privatrechts im Weisungswege zur rechtmäßigen Aufgabenerfüllung anzuhalten. Die Aufgabenübertragung ist im Bundesanzeiger bekannt zu machen.
 
-##### § 42 Ordnungswidrigkeiten
+###### § 42 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 1 des Herkunftsnachweisregistergesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 15 Absatz 1 Satz 2, auch in Verbindung mit § 20 Absatz 2 Nummer 1, oder entgegen § 20 Absatz 2 Nummer 2, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 40 Nummer 5 Buchstabe a einen dort genannten Herkunftsnachweis oder dessen Übertragung beantragt.
 
@@ -670,7 +675,7 @@ b) in weiteren nationalen behördlichen Registern mit energiewirtschaftlichem Be
 
 3. entgegen § 23 Absatz 2 Satz 2 oder § 34 Absatz 2 Satz 2, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 40 Nummer 6, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
-##### § 43 Evaluierung
+###### § 43 Evaluierung
 
 (1) Die Bundesregierung evaluiert die Wirkung dieser Verordnung im Hinblick auf
 
@@ -682,7 +687,6 @@ b) in weiteren nationalen behördlichen Registern mit energiewirtschaftlichem Be
 
 (2) Die Evaluierung erfolgt fünf Jahre nach Inbetriebnahme des Herkunftsnachweisregisters für Gas und des Herkunftsnachweisregisters für Wärme oder Kälte.
 
-##### § 44 Inkrafttreten
+###### § 44 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
