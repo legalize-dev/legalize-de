@@ -4,15 +4,19 @@ identifier: "GEG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2020-08-08"
-last_updated: "2026-08-03"
+last_updated: "2026-09-01"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/geg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR172810020"
 slug: "geg"
 bgbl_reference: "BGBl I 2020, 1728"
 amtabk: "GModG"
-stand: "Zuletzt geändert durch Art. 8 G v. 22.6.2026 I Nr. 191"
+stand: "Zuletzt geändert durch Art. 1 G v. 23.7.2026 I Nr. 226"
 hinweis: "Änderung durch Art. 4 G v. 23.7.2026 I Nr. 226 mWv 1.1.2030 noch nicht berücksichtigt"
 ---
 # Gesetz zur Einsparung von Energie und zur Modernisierung der Wärmeversorgung in Gebäuden
+
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
