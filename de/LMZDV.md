@@ -4,18 +4,23 @@ identifier: "LMZDV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2021-06-02"
-last_updated: "2026-04-04"
+last_updated: "2026-09-01"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/lmzdv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR136210021"
 slug: "lmzdv"
 bgbl_reference: "BGBl I 2021, 1362"
 stand: "Zuletzt geändert durch Art. 4 V v. 11.12.2024 I Nr. 411"
+hinweis: "Änderung durch Art. 4 V v. 24.8.2026 I Nr. 243 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Verordnung zur Durchführung unionsrechtlicher Vorschriften über Lebensmittelzusatzstoffe
 
-##### § 1 Anwendungsbereich
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Anwendungsbereich
 
 (1) Diese Verordnung ist anzuwenden in Ergänzung
 
@@ -33,7 +38,7 @@ b) Anbieter von Gemeinschaftsverpflegung im Sinne des Artikels 2 Absatz 2 Buchst
 
 (2) Diese Verordnung regelt das Verbringen, Aufbewahren und Lagern von Nitriten sowie die Anforderungen an das Herstellen von Nitritpökelsalz.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 Nicht vorverpackte Lebensmittel im Sinne dieser Verordnung sind Lebensmittel, die
 
@@ -43,7 +48,7 @@ Nicht vorverpackte Lebensmittel im Sinne dieser Verordnung sind Lebensmittel, di
 
 3. im Hinblick auf ihren unmittelbaren Verkauf vorverpackt werden.
 
-##### § 3 Bier
+###### § 3 Bier
 
 Bei der Herstellung von Bier, das unter der Bezeichnung „nach dem deutschen Reinheitsgebot gebraut“ oder unter gleichsinnigen Angaben in den Verkehr gebracht wird, dürfen als Lebensmittelzusatzstoffe nur verwendet werden:
 
@@ -55,7 +60,7 @@ a) sie bis auf technisch unvermeidbare Mengen nicht in das Bier übergehen und
 
 b) durch die Verwendung keine Erhöhung des Kohlensäuregehaltes des Bieres eintritt.
 
-##### § 4 Nitrite und Nitritpökelsalz
+###### § 4 Nitrite und Nitritpökelsalz
 
 (1) Nitrite dürfen weder in Betriebe, die Lebensmittel herstellen, verbracht werden noch in diesen Betrieben aufbewahrt oder gelagert werden. Dieses Verbot gilt nicht für das Verbringen von Natrium- und Kaliumnitrit in Betriebe, die Mischungen aus Natrium- oder Kaliumnitrit mit Kochsalz, jodiertem Kochsalz oder Kochsalzersatz (Nitritpökelsalz) herstellen.
 
@@ -67,7 +72,7 @@ b) durch die Verwendung keine Erhöhung des Kohlensäuregehaltes des Bieres eint
 
 Nitritpökelsalz darf nur in Räumen hergestellt werden, die ausschließlich zu diesem Zweck bestimmt sind.
 
-##### § 5 Kennzeichnung
+###### § 5 Kennzeichnung
 
 (1) Nicht vorverpackte Lebensmittel nach § 2 Nummer 3, die nicht zur Selbstbedienung angeboten werden, und nicht vorverpackte Lebensmittel nach § 2 Nummer 1 und 2 dürfen durch den Verantwortlichen nach Artikel 8 Absatz 1 oder Absatz 4 Satz 2 der Verordnung (EU) Nr. 1169/2011 mit dem Ziel der Abgabe an Endverbraucher oder Anbieter von Gemeinschaftsverpflegung nur in den Verkehr gebracht werden oder durch den Verantwortlichen nach Artikel 8 Absatz 3 der Verordnung (EU) Nr. 1169/2011 nur abgegeben werden, wenn die bei ihrer Herstellung verwendeten Lebensmittelzusatzstoffe in der nach Absatz 2 bezeichneten Art und Weise mit den folgenden Angaben gekennzeichnet werden:
 
@@ -133,7 +138,7 @@ c) für Lebensmittel mit Nitritpökelsalz und Natrium- oder Kaliumnitrat, jeweil
 
 gilt Absatz 1 Nummer 7 entsprechend mit der Maßgabe, dass die Angaben gemäß Artikel 12 Absatz 2 der Verordnung (EU) Nr. 1169/2011 bereitzustellen sind.
 
-##### § 6 Straftaten
+###### § 6 Straftaten
 
 (1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer
 
@@ -155,11 +160,11 @@ aa) einen Lebensmittelzusatzstoff, der unter Verwendung von Ethylenoxid sterilis
 
 bb) ein Lebensmittel, das einen unter Verwendung von Ethylenoxid sterilisierten Lebensmittelzusatzstoff enthält, oder
 
-d) in Verbindung mit Satz 2 des Anhangs der Verordnung (EU) Nr. 231/2021 einen Lebensmittelzusatzstoff oder ein Gemisch
+d) in Verbindung mit Satz 2 des Anhangs der Verordnung (EU) Nr. 231/2012 einen Lebensmittelzusatzstoff oder ein Gemisch
 
 in Verkehr bringt.
 
-##### § 7 Ordnungswidrigkeiten
+###### § 7 Ordnungswidrigkeiten
 
 (1) Wer eine in § 6 Absatz 1 bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
 
@@ -170,4 +175,3 @@ in Verkehr bringt.
 2. entgegen § 5 Absatz 4 eine Tafelsüße abgibt.
 
 (3) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Verordnung (EG) Nr. 1333/2008 verstößt, indem er vorsätzlich oder fahrlässig entgegen Artikel 21 Absatz 1 Satz 1 in Verbindung mit Artikel 22 Absatz 1, 2 oder 3 oder entgegen Artikel 23 Absatz 1 einen Lebensmittelzusatzstoff in Verkehr bringt.
-
