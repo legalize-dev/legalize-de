@@ -4,18 +4,22 @@ identifier: "GEWSCHG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2001-12-11"
-last_updated: "2026-04-04"
+last_updated: "2026-09-04"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/gewschg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR351310001"
 slug: "gewschg"
 bgbl_reference: "BGBl I 2001, 3513"
-stand: "Zuletzt geändert durch Art. 2 G v. 10.8.2021 I 3513"
+stand: "Zuletzt geändert durch Art. 1 G v. 2.7.2026 I Nr. 198"
 ---
 # Gesetz zum zivilrechtlichen Schutz vor Gewalttaten und Nachstellungen
 
-##### § 1 Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen
 
 (1) Hat eine Person vorsätzlich den Körper, die Gesundheit, die Freiheit oder die sexuelle Selbstbestimmung einer anderen Person widerrechtlich verletzt, hat das Gericht auf Antrag der verletzten Person die zur Abwendung weiterer Verletzungen erforderlichen Maßnahmen zu treffen. Die Anordnungen sollen befristet werden; die Frist kann verlängert werden. Das Gericht kann insbesondere anordnen, dass der Täter es unterlässt,
 
@@ -45,7 +49,17 @@ Im Falle des Satzes 1 Nr. 2 Buchstabe b liegt eine unzumutbare Belästigung nich
 
 (3) In den Fällen des Absatzes 1 Satz 1 oder des Absatzes 2 kann das Gericht die Maßnahmen nach Absatz 1 auch dann anordnen, wenn eine Person die Tat in einem die freie Willensbestimmung ausschließenden Zustand krankhafter Störung der Geistestätigkeit begangen hat, in den sie sich durch geistige Getränke oder ähnliche Mittel vorübergehend versetzt hat.
 
-##### § 2 Überlassung einer gemeinsam genutzten Wohnung
+###### § 1a (zukünftig in Kraft)
+
+###### § 1b Aufgaben der Koordinierungsstelle; Verordnungsermächtigung
+
+*(1) Im Fall einer Anordnung nach § 1a führen eine oder mehrere nach dem Recht des Landes, in dem das entscheidende Gericht seinen Sitz hat, zuständige Stellen (Koordinierungsstellen) die Anordnung nach § 1a durch. Die Koordinierungsstelle koordiniert die Durchführung der Anordnung mit dem Gericht, den beteiligten Stellen und den Beteiligten und überwacht die Einhaltung der Anordnung durch den Täter. Die Aufgaben der Koordinierungsstelle können ganz oder teilweise auch auf andere Stellen übertragen werden.*
+
+*(2) Die Koordinierungsstelle weist die geschützte Person mit einem Vorlauf von mindestens drei Wochen auf den bevorstehenden Ablauf der Fristen nach § 1a Absatz 4 Satz 1 und 2 hin.*
+
+(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die für die Wahrnehmung der Aufgaben nach Absatz 1 zuständigen Stellen zu bestimmen.
+
+###### § 2 Überlassung einer gemeinsam genutzten Wohnung
 
 (1) Hat die verletzte Person zum Zeitpunkt einer Tat nach § 1 Abs. 1 Satz 1, auch in Verbindung mit Abs. 3, mit dem Täter einen auf Dauer angelegten gemeinsamen Haushalt geführt, so kann sie von diesem verlangen, ihr die gemeinsam genutzte Wohnung zur alleinigen Benutzung zu überlassen.
 
@@ -65,13 +79,13 @@ Im Falle des Satzes 1 Nr. 2 Buchstabe b liegt eine unzumutbare Belästigung nich
 
 (6) Hat die bedrohte Person zum Zeitpunkt einer Drohung nach § 1 Abs. 2 Satz 1 Nr. 1, auch in Verbindung mit Abs. 3, einen auf Dauer angelegten gemeinsamen Haushalt mit dem Täter geführt, kann sie die Überlassung der gemeinsam genutzten Wohnung verlangen, wenn dies erforderlich ist, um eine unbillige Härte zu vermeiden. Eine unbillige Härte kann auch dann gegeben sein, wenn das Wohl von im Haushalt lebenden Kindern beeinträchtigt ist. Im Übrigen gelten die Absätze 2 bis 5 entsprechend.
 
-##### § 3 Geltungsbereich, Konkurrenzen
+###### § 3 Geltungsbereich, Konkurrenzen
 
 (1) Steht die verletzte oder bedrohte Person im Zeitpunkt einer Tat nach § 1 Abs. 1 oder Abs. 2 Satz 1 unter elterlicher Sorge, Vormundschaft oder unter Pflegschaft für Minderjährige, so treten im Verhältnis zu den Eltern und zu sorgeberechtigten Personen an die Stelle von §§ 1 und 2 die für das Sorgerechts-, Vormundschafts- oder Pflegschaftsverhältnis maßgebenden Vorschriften.
 
 (2) Weitergehende Ansprüche der verletzten Person werden durch dieses Gesetz nicht berührt.
 
-##### § 4 Strafvorschriften
+###### § 4 Strafvorschriften
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer einer bestimmten vollstreckbaren
 
@@ -80,4 +94,3 @@ Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer ei
 2. Verpflichtung aus einem Vergleich zuwiderhandelt, soweit der Vergleich nach § 214a Satz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit in Verbindung mit § 1 Absatz 1 Satz 1 oder 3 dieses Gesetzes, jeweils auch in Verbindung mit § 1 Absatz 2 Satz 1 dieses Gesetzes, bestätigt worden ist.
 
 Die Strafbarkeit nach anderen Vorschriften bleibt unberührt.
-
