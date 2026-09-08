@@ -4,7 +4,7 @@ identifier: "SCHBESV-2013"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2013-07-18"
-last_updated: "2026-09-02"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/schbesv_2013/"
 text_state: "current"
@@ -14,7 +14,7 @@ slug: "schbesv_2013"
 bgbl_reference: "BGBl I 2013, 2575"
 amtabk: "SchBesV"
 stand: "Zuletzt geändert durch Art. 1 V v. 23.6.2021 I 1849"
-hinweis: "Änderung durch Art. 1 V v. 7.9.2026 I Nr. 257 mWv 11.9.2026 noch nicht berücksichtigt"
+hinweis: "Änderung durch Art. 1 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Schiffsbesetzungsverordnung
 
