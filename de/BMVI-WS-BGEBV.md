@@ -4,7 +4,7 @@ identifier: "BMVI-WS-BGEBV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2021-10-28"
-last_updated: "2026-09-02"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bmvi-ws-bgebv/"
 text_state: "current"
@@ -13,8 +13,7 @@ doknr: "BJNR474400021"
 slug: "bmvi-ws-bgebv"
 bgbl_reference: "BGBl I 2021, 4744"
 amtabk: "WSBGebV"
-stand: "Zuletzt geändert durch Art. 2 G v. 18.6.2026 I Nr. 184"
-hinweis: "Änderung durch Art. 4 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Zuletzt geändert durch Art. 4 V v. 7.9.2026 I Nr. 257"
 ---
 # Besondere Gebührenverordnung des Bundesministeriums für Verkehr für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung
 
