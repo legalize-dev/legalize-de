@@ -4,25 +4,30 @@ identifier: "LUKIFG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2025-10-20"
-last_updated: "2026-04-04"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/lukifg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR0F60A0025"
 slug: "lukifg"
 bgbl_reference: "BGBl. I 2025, Nr. 246"
+stand: "Geändert durch Art. 19 G v. 22.7.2026 I Nr. 224"
 ---
 # Gesetz zur Finanzierung von Infrastrukturinvestitionen von Ländern und Kommunen
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-##### § 1 Ziel und Volumen der finanziellen Unterstützung des Bundes
+###### § 1 Ziel und Volumen der finanziellen Unterstützung des Bundes
 
 Mit dem Ziel der Behebung von Defiziten im Bereich der öffentlichen Infrastruktur und der Schaffung von Wirtschaftswachstum überlässt der Bund den Ländern gemäß Artikel 143h Absatz 2 Satz 1 des Grundgesetzes einen Betrag von insgesamt 100 Milliarden Euro aus dem Sondervermögen Infrastruktur und Klimaneutralität zur Finanzierung von Sachinvestitionen in Infrastruktur, die in die Aufgabenzuständigkeit der Länder und Kommunen fällt.
 
-##### § 2 Verteilung
+###### § 2 Verteilung
 
 (1) Der Betrag nach § 1 wird nach den folgenden Prozentsätzen auf die Länder verteilt: Baden-Württemberg13,14980Bayern15,70230Berlin5,21980Brandenburg2,99920Bremen0,94085Hamburg2,65860Hessen7,43735Mecklenburg-Vorpommern1,92510Niedersachsen9,42410Nordrhein-Westfalen21,09560Rheinland-Pfalz4,84570Saarland1,17910Sachsen4,83800Sachsen-Anhalt2,61390Schleswig-Holstein3,43080Thüringen2,53980.
 
@@ -30,7 +35,7 @@ Mit dem Ziel der Behebung von Defiziten im Bereich der öffentlichen Infrastrukt
 
 (3) Die Länder legen die Verfahren für die Verteilung der ihnen jeweils zustehenden Mittel fest.
 
-##### § 3 Förderbereiche und Fördervoraussetzungen
+###### § 3 Förderbereiche und Fördervoraussetzungen
 
 (1) Die Mittel werden für Sachinvestitionen der Träger von Einrichtungen insbesondere folgender Infrastrukturbereiche bereitgestellt, sofern sie der Erfüllung von Landesaufgaben oder kommunalen Aufgaben dienen:
 
@@ -62,13 +67,17 @@ Mit dem Ziel der Behebung von Defiziten im Bereich der öffentlichen Infrastrukt
 
 (6) Die Investitionsmaßnahmen zielen auf eine längerfristige Nutzung der jeweiligen Infrastruktur auch unter Berücksichtigung der absehbaren demografischen Veränderungen ab. Die Länder stellen dies sicher.
 
-##### § 4 Förderzeitraum
+###### § 4 Förderzeitraum
 
 (1) Investitionsmaßnahmen nach § 3 können finanziert werden, sofern sie nicht vor dem 1. Januar 2025 begonnen wurden. Dies gilt auch, sofern es sich hierbei um selbständige Abschnitte eines vor dem 1. Januar 2025 begonnenen Vorhabens handelt.
 
 (2) Investitionsmaßnahmen nach § 3 sind bis zum 31. Dezember 2042 förderfähig, sofern sie bis zum 31. Dezember 2036 von den für die Durchführung dieses Gesetzes zuständigen Stellen des Landes bewilligt wurden. Bis zum 31. Dezember 2029 soll mindestens ein Drittel der jedem Land zur Verfügung stehenden Mittel durch bewilligte Maßnahmen gebunden sein. Im Jahr 2043 können Mittel aus dem Sondervermögen nur noch für Investitionsvorhaben oder selbständige Abschnitte von Investitionsvorhaben eingesetzt werden, die bis zum 31. Dezember 2042 vollständig abgenommen wurden und die im Jahr 2043 vollständig abgerechnet werden.
 
-##### § 5 Sicherstellung der zweckentsprechenden Mittelverwendung
+###### § 4a Mittelverwendung zur Erbringung von Eigenanteilen und bei Doppelförderungsverboten
+
+Die nach diesem Gesetz zur Verfügung gestellten Mittel können durch die Länder und Kommunen zur Erbringung von in anderen Bundesgesetzen oder sonstigen Vorschriften des Bundes sowie in Verwaltungsvereinbarungen mit den Ländern vorgesehenen Eigenanteilen von Ländern und Kommunen wie eigene Haushaltsmittel eingesetzt werden. Eine vollständige Erbringung solcher Eigenanteile aus Mitteln nach diesem Gesetz ist zulässig, sofern eine Überförderung derselben förderfähigen Ausgaben ausgeschlossen ist. Der Einsatz von Mitteln nach diesem Gesetz ist unbeachtlich im Rahmen von Regelungen in anderen Bundesgesetzen, sonstigen Vorschriften des Bundes sowie Verwaltungsvereinbarungen mit den Ländern, die eine Kumulierung von Bundesmitteln untersagen (Doppelförderungsverbote).
+
+###### § 5 Sicherstellung der zweckentsprechenden Mittelverwendung
 
 (1) Die Länder stellen die zweckentsprechende Mittelverwendung sicher und legen hierfür die Verfahren fest.
 
@@ -86,7 +95,7 @@ Ein unverhältnismäßiger Verwaltungsaufwand ist zu vermeiden.
 
 (5) Die zuständigen obersten Landesbehörden sind verpflichtet, dem Bund die zur Durchführung dieses Gesetzes erforderlichen Auskünfte zu erteilen. Die Erhebungsrechte des Bundesrechnungshofes aus Artikel 114 Absatz 2 Satz 2 des Grundgesetzes bleiben unberührt.
 
-##### § 6 Berichtspflichten der Länder
+###### § 6 Berichtspflichten der Länder
 
 (1) Die Länder berichten dem Bund zu Beginn des Förderzeitraums einmalig über die Verfahren zur Durchführung dieses Gesetzes. Die Berichte gehen insbesondere auf die vom Land vorgesehenen Förderbereiche sowie auf den vom Land jeweils festgelegten Anteil nach § 2 Absatz 2 ein.
 
@@ -94,13 +103,13 @@ Ein unverhältnismäßiger Verwaltungsaufwand ist zu vermeiden.
 
 (3) Der Zeitpunkt der Berichterstattung nach Absatz 1 ist in der Verwaltungsvereinbarung nach § 9 festzulegen.
 
-##### § 7 Bewirtschaftung
+###### § 7 Bewirtschaftung
 
 (1) Der Bund stellt die Mittel den Ländern als bewirtschaftende Stellen zur Verfügung. Die für die Bewirtschaftung zuständigen Stellen der Länder sind ermächtigt, die Auszahlung der Mittel anzuordnen, sobald diese zur anteiligen Durchführung erforderlicher Zahlungen benötigt werden.
 
 (2) Nach dem 31. Dezember 2043 dürfen keine Mittel mehr zur Auszahlung angeordnet werden.
 
-##### § 8 Rückforderung
+###### § 8 Rückforderung
 
 (1) Der Bund kann Mittel von einem Land zurückfordern, wenn eine geförderte Maßnahme
 
@@ -116,17 +125,16 @@ Ein unverhältnismäßiger Verwaltungsaufwand ist zu vermeiden.
 
 (5) Kommt ein Land den Berichtspflichten zur Durchführung dieses Gesetzes, wiederholten Auskunftsersuchen oder einer Rückforderung des Bundes nicht spätestens einen Monat nach der vom Bund gesetzten Frist nach, so ist der Bund berechtigt, die Bewirtschaftung durch das Land vorübergehend zu sperren.
 
-##### § 9 Verwaltungsvereinbarung und Durchführung des Gesetzes seitens des Bundes
+###### § 9 Verwaltungsvereinbarung und Durchführung des Gesetzes seitens des Bundes
 
 (1) Ergänzende Bestimmungen zu den §§ 2 bis 8 sowie Einzelheiten des Verfahrens zur Durchführung dieses Gesetzes werden im Rahmen einer Verwaltungsvereinbarung geregelt. Die Inanspruchnahme der Mittel ist an das Inkrafttreten der Verwaltungsvereinbarung gebunden.
 
 (2) Mit der bundesseitigen Durchführung des Gesetzes wird das Bundesministerium der Finanzen betraut.
 
-##### § 10 Außerkrafttreten
+###### § 10 Außerkrafttreten
 
 Dieses Gesetz tritt mit Ablauf des 31. Dezember 2050 außer Kraft.
 
-##### § 11 Inkrafttreten
+###### § 11 Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
-
