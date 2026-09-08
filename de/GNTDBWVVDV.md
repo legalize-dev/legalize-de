@@ -4,22 +4,26 @@ identifier: "GNTDBWVVDV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2019-03-01"
-last_updated: "2026-04-04"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/gntdbwvvdv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR020500019"
 slug: "gntdbwvvdv"
 bgbl_reference: "BGBl I 2019, 205"
-stand: "Zuletzt geändert durch Art. 2 Abs. 24 V v. 11.3.2026 I Nr. 67"
+stand: "Zuletzt geändert durch Art. 1 V v. 18.8.2026 I Nr. 251"
 ---
 # Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst in der Bundeswehrverwaltung
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes, dessen Absatz 1 Nummer 2 durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert worden ist, in Verbindung mit den §§ 10, 10a Absatz 8 und Anlage 2 Nummer 24 der Bundeslaufbahnverordnung, von denen § 10 durch Artikel 1 Nummer 2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) geändert, § 10a durch Artikel 1 Nummer 3 der Verordnung vom 18. Januar 2017 (BGBl. I S. 89) eingefügt und Anlage 2 durch Artikel 1 Nummer 14 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) neu gefasst worden ist, verordnet das Bundesministerium der Verteidigung:
 
-##### Inhaltsübersicht
+###### Inhaltsübersicht
 
 Abschnitt 1Allgemeines§  1Studium§  2Ziele des Studiums§  3Einstellungsbehörde§  4Dienstaufsicht§  5Nachteilsausgleich§  6Erholungsurlaub§  7Elektronisches Informations- und KommunikationssystemAbschnitt 2Auswahlverfahren und Einstellung§  8Auswahlverfahren und Zulassung zum Auswahlverfahren§  9Anforderungen im Auswahlverfahren und Auswahlinstrumente§ 10Auswahlkommission§ 11Ergänzende Festlegungen§ 12Bestandteile des Auswahlverfahrens§ 13Schriftlicher Teil des Auswahlverfahrens§ 14Zulassung zum mündlichen Teil des Auswahlverfahrens§ 15Mündlicher Teil des Auswahlverfahrens§ 16Bewertung der Eignungsmerkmale§ 17Gesamtergebnis und Rangfolge§ 18Einstellung in den VorbereitungsdienstAbschnitt 3Studienordnung§ 19Dauer des Studiums§ 20ECTS-Leistungspunkte§ 21Module§ 22Verteilung und Inhalt der Module§ 23Durchführungsort der Fachmodule§ 24Ziel der Praxismodule§ 25Durchführungsort der Praxismodule§ 26Ausbildungsbeauftragte und Praxisbeauftragte für die PraxismoduleAbschnitt 4BachelorprüfungUnterabschnitt 1Allgemeine Bestimmungen§ 27Laufbahnprüfung und Bestandteile§ 28Prüfungsamt§ 29Bewertung der PrüfungsleistungenUnterabschnitt 2Modulprüfungen§ 30Module mit Modulprüfungen§ 31Prüfungszeitpunkt§ 32Prüfende§ 33Prüfungsformen und Praxisbeurteilung§ 34Grundsätze zu den einzelnen Prüfungsformen§ 35Gesamtbewertung eines Moduls§ 36Sprachprüfung und Sprachprüfungszeugnis§ 37Bestehen einer Modulprüfung§ 38Wiederholung nichtbestandener ModulprüfungenUnterabschnitt 3Abschlussarbeit§ 39Bestandteile der Abschlussarbeit§ 40Ziel der Bachelorthesis§ 41Thema und Bearbeitungszeit der Bachelorthesis§ 42Prüfende für die Bachelorthesis und die Verteidigung der Bachelorthesis§ 43Freistellung und Betreuung bei der Bachelorthesis§ 44Abgabe der Bachelorthesis§ 45Bewertung und Bestehen der Bachelorthesis§ 46Wiederholung der Bachelorthesis§ 47Zulassung zur Verteidigung der Bachelorthesis und Termin§ 48Bestandteile der Verteidigung der Bachelorthesis und Protokoll§ 49Bewertung und Bestehen der Verteidigung der Bachelorthesis§ 50Zuhörende bei der Verteidigung der Bachelorthesis§ 51Wiederholung der Verteidigung der Bachelorthesis§ 52Note der AbschlussarbeitUnterabschnitt 4Weitere gemeinsame Vorschriften§ 53Bestehen der Bachelorprüfung und akademischer Grad§ 54Rangpunktzahl der Bachelorprüfung und Abschlussnote§ 55Abschlusszeugnis, Bachelorurkunde und Diploma Supplement§ 56Bescheid über die nichtbestandene Bachelorprüfung§ 57Verhinderung§ 58Täuschung und Ordnungsverstoß§ 59Prüfungsakten und EinsichtnahmeAbschnitt 5Anerkennung
  und Anrechnung von außerhalb
@@ -27,15 +31,15 @@ Abschnitt 1Allgemeines§  1Studium§  2Ziele des Studiums§  3Einstellungsbeh
 
 ## Abschnitt 1 Allgemeines
 
-##### § 1 Studium
+###### § 1 Studium
 
 Das Studium „Bachelor of Public Administration“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für die Laufbahn des gehobenen nichttechnischen Verwaltungsdienstes in der Bundeswehrverwaltung.
 
-##### § 2 Ziele des Studiums
+###### § 2 Ziele des Studiums
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten, die erforderlich sind, um die Aufgaben des gehobenen nichttechnischen Dienstes in der Bundeswehrverwaltung erfüllen zu können.
 
-##### § 3 Einstellungsbehörde
+###### § 3 Einstellungsbehörde
 
 (1) Einstellungsbehörde ist das Bundesamt für das Personalmanagement der Bundeswehr.
 
@@ -43,7 +47,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 (3) Die Einstellungsbehörde kann einzelne Aufgaben auf eine nachgeordnete Behörde übertragen.
 
-##### § 4 Dienstaufsicht
+###### § 4 Dienstaufsicht
 
 (1) Die Studierenden unterstehen der Dienstaufsicht der Einstellungsbehörde.
 
@@ -53,7 +57,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 2. während der Praxismodule der Dienstaufsicht der Leitung der jeweiligen Ausbildungsbehörde.
 
-##### § 5 Nachteilsausgleich
+###### § 5 Nachteilsausgleich
 
 (1) Menschen mit Beeinträchtigungen, die die Umsetzung der nachzuweisenden Kenntnisse einschränken, werden im Auswahlverfahren und bei Prüfungen auf Antrag angemessene Erleichterungen gewährt. Darauf sind sie vor dem Auswahlverfahren und vor den Prüfungen hinzuweisen.
 
@@ -67,7 +71,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 3. bei den Prüfungen in den Praxismodulen das Prüfungsamt der Hochschule im Benehmen mit der Ausbildungsstelle.
 
-##### § 6 Erholungsurlaub
+###### § 6 Erholungsurlaub
 
 Die Zeiten des Erholungsurlaubs bestimmt
 
@@ -75,7 +79,7 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 2. während der Praxismodule die Einstellungsbehörde im Benehmen mit der Hochschule.
 
-##### § 7 Elektronisches Informations- und Kommunikationssystem
+###### § 7 Elektronisches Informations- und Kommunikationssystem
 
 (1) Die Hochschule kann ein elektronisches Informations- und Kommunikationssystem nutzen, um den Studierenden die Informationen bereitzustellen, die für die Durchführung des Studiums einschließlich der Prüfungsverfahren notwendig sind.
 
@@ -97,15 +101,15 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 ## Abschnitt 2 Auswahlverfahren und Einstellung
 
-##### § 8 Auswahlverfahren und Zulassung zum Auswahlverfahren
+###### § 8 Auswahlverfahren und Zulassung zum Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet und befähigt sind. Die Hochschule ist an der Ausgestaltung des Auswahlverfahrens zu beteiligen.
 
-(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11 Absatz 4 der Bundeslaufbahnverordnung beschränkt, so werden schwerbehinderte Menschen und gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
+(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 11 Absatz 3 Satz 2 der Bundeslaufbahnverordnung beschränkt, so werden Menschen mit Schwerbehinderung und gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
 
 (3) Wer zum Auswahlverfahren nicht zugelassen wird, erhält eine schriftliche Ablehnung. Elektronisch eingereichte Bewerbungsunterlagen werden spätestens ein Jahr nach der Ablehnung endgültig gelöscht. Nicht elektronisch eingereichte Bewerbungsunterlagen sowie Ausdrucke elektronisch eingereichter Bewerbungsunterlagen werden spätestens nach Ablauf dieser Frist vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
 
-##### § 9 Anforderungen im Auswahlverfahren und Auswahlinstrumente
+###### § 9 Anforderungen im Auswahlverfahren und Auswahlinstrumente
 
 (1) Im Auswahlverfahren wird festgestellt, inwieweit die Bewerberinnen und Bewerber die Anforderungen an ihre Eignung und Befähigung (Eignungsmerkmale) erfüllen.
 
@@ -123,7 +127,7 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 (3) Die Feststellung erfolgt mit Hilfe von Auswahlinstrumenten. Der Einsatz der Auswahlinstrumente kann durch Informationstechnologie unterstützt werden.
 
-##### § 10 Auswahlkommission
+###### § 10 Auswahlkommission
 
 (1) Für das Auswahlverfahren richtet die Einstellungsbehörde eine Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall stellt die Einstellungsbehörde sicher, dass alle Auswahlkommissionen denselben Bewertungs- und Auswahlmaßstab anlegen.
 
@@ -137,7 +141,7 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 (6) Die Gleichstellungsbeauftragte kann am Auswahlverfahren und an den anschließenden Beratungen der Auswahlkommission teilnehmen. Sie ist nicht stimmberechtigt.
 
-##### § 11 Ergänzende Festlegungen
+###### § 11 Ergänzende Festlegungen
 
 (1) Die Einstellungsbehörde legt ergänzend fest:
 
@@ -159,11 +163,11 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 (3) Die ergänzenden Festlegungen werden im Gemeinsamen Ministerialblatt veröffentlicht.
 
-##### § 12 Bestandteile des Auswahlverfahrens
+###### § 12 Bestandteile des Auswahlverfahrens
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
-##### § 13 Schriftlicher Teil des Auswahlverfahrens
+###### § 13 Schriftlicher Teil des Auswahlverfahrens
 
 (1) Im schriftlichen Teil des Auswahlverfahrens dürfen höchstens vier der folgenden Auswahlinstrumente eingesetzt werden:
 
@@ -179,13 +183,13 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (2) Der schriftliche Teil des Auswahlverfahrens dauert in der Regel einen Arbeitstag.
 
-##### § 14 Zulassung zum mündlichen Teil des Auswahlverfahrens
+###### § 14 Zulassung zum mündlichen Teil des Auswahlverfahrens
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer bei den Eignungsmerkmalen, die ausschließlich im schriftlichen Teil bewertet werden, das festgelegte Mindestergebnis erreicht hat.
 
 (2) Schwerbehinderte Bewerberinnen und Bewerber und gleichgestellte Bewerberinnen und Bewerber werden zum mündlichen Teil des Auswahlverfahrens zugelassen, wenn sie am schriftlichen Teil teilgenommen haben.
 
-##### § 15 Mündlicher Teil des Auswahlverfahrens
+###### § 15 Mündlicher Teil des Auswahlverfahrens
 
 (1) Im mündlichen Teil des Auswahlverfahrens dürfen höchstens vier der folgenden Auswahlinstrumente eingesetzt werden:
 
@@ -205,13 +209,13 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (4) Sofern schwerbehinderte Bewerberinnen und Bewerber oder gleichgestellte behinderte Bewerberinnen und Bewerber teilnehmen, ist der zuständigen Schwerbehindertenvertretung die Teilnahme am mündlichen Teil des Auswahlverfahrens und an den sich gegebenenfalls anschließenden Beratungen zu ermöglichen. Dies gilt nicht, wenn die schwerbehinderten Bewerberinnen und Bewerber oder die gleichgestellten behinderten Bewerberinnen oder Bewerber die Beteiligung der Schwerbehindertenvertretung ausdrücklich ablehnen.
 
-##### § 16 Bewertung der Eignungsmerkmale
+###### § 16 Bewertung der Eignungsmerkmale
 
 (1) Die Auswahlkommission bewertet für jedes Eignungsmerkmal die mit den verschiedenen Auswahlinstrumenten erfassten Leistungen und fasst die Leistungen zu einem Gesamtergebnis für das Eignungsmerkmal zusammen.
 
 (2) Bei der Bewertung von Leistungen im schriftlichen Teil des Auswahlverfahrens kann sich die Auswahlkommission durch Informationstechnologie und durch dafür ausgebildete Beschäftigte unterstützen lassen. Die Bewertungsentscheidungen dürfen nicht ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
-##### § 17 Gesamtergebnis und Rangfolge
+###### § 17 Gesamtergebnis und Rangfolge
 
 (1) Für die Bewerberinnen und Bewerber, die an beiden Teilen des Auswahlverfahrens teilgenommen haben, ermittelt die Auswahlkommission das Gesamtergebnis des Auswahlverfahrens gemäß der von der Einstellungsbehörde festgelegten Bewertungs- und Gewichtungssystematik.
 
@@ -221,7 +225,7 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (4) Die Auswahlkommission legt anhand der ermittelten Gesamtergebnisse eine Rangfolge der Bewerberinnen und Bewerber fest, die das Auswahlverfahren bestanden haben. Sind mehrere Auswahlkommissionen eingerichtet worden, so wird eine Rangfolge aller Bewerberinnen und Bewerber festgelegt, die das Auswahlverfahren bestanden haben. Schwerbehinderte Bewerberinnen und Bewerber und gleichgestellte Bewerberinnen und Bewerber werden bei gleichem Gesamtergebnis in der Rangfolge vor den anderen Bewerberinnen und Bewerbern geführt.
 
-##### § 18 Einstellung in den Vorbereitungsdienst
+###### § 18 Einstellung in den Vorbereitungsdienst
 
 (1) In den Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst in der Bundeswehrverwaltung kann eingestellt werden, wer
 
@@ -239,13 +243,13 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 ## Abschnitt 3 Studienordnung
 
-##### § 19 Dauer des Studiums
+###### § 19 Dauer des Studiums
 
 (1) Das Studium dauert sechs Semester.
 
 (2) Es umfasst vier Studiensemester und zwei Praxissemester.
 
-##### § 20 ECTS-Leistungspunkte
+###### § 20 ECTS-Leistungspunkte
 
 (1) Je Semester erwerben die Studierenden 30 Leistungspunkte nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen (ECTS-Leistungspunkte).
 
@@ -253,7 +257,7 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (3) Für einen erfolgreichen Abschluss des Studiums werden 180 ECTS-Leistungspunkte benötigt.
 
-##### § 21 Module
+###### § 21 Module
 
 (1) Die Studieninhalte werden in Modulen vermittelt.
 
@@ -261,9 +265,9 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (3) Die Module unterteilen sich in 20 Fachmodule und vier Praxismodule. Die Fachmodule und die Praxismodule sind jeweils unterteilt in Pflichtmodule und Wahlpflichtmodule. In den Wahlpflichtmodulen können die Studierenden zwischen verschiedenen Studienfächern oder Studienfachkombinationen wählen.
 
-##### § 22 Verteilung und Inhalt der Module
+###### § 22 Verteilung und Inhalt der Module
 
-(1) Die Module verteilen sich wie folgt auf die Semester:
+(1) Die Module verteilen sich wie folgt auf die Semester: 
 
 SemesterModulnummerModulartModulname1234 11. SemesterModul 1Fachmodul:
  PflichtmodulEinführung in das duale Studium 2Modul 2
@@ -303,23 +307,23 @@ PflichtmodulAbschlussarbeit
 
 (3) Die Teilnahme an den Lehrveranstaltungen der Module ist verpflichtend.
 
-##### § 23 Durchführungsort der Fachmodule
+###### § 23 Durchführungsort der Fachmodule
 
 Die Fachmodule werden an der Hochschule durchgeführt.
 
-##### § 24 Ziel der Praxismodule
+###### § 24 Ziel der Praxismodule
 
 (1) In den Praxismodulen erwerben die Studierenden berufliche Kenntnisse und Fähigkeiten, vertiefen die in den Fachmodulen erworbenen wissenschaftlichen Kenntnisse und lernen, die wissenschaftlichen Kenntnisse in der Praxis anzuwenden.
 
 (2) Darüber hinaus sollen die Studierenden in den Praxismodulen die Fähigkeiten zur Kommunikation und zur Kooperation, insbesondere zur Teamarbeit, erlangen.
 
-##### § 25 Durchführungsort der Praxismodule
+###### § 25 Durchführungsort der Praxismodule
 
 (1) Die Praxismodule I bis III finden in einer Oberbehörde oder einer Unterbehörde der Bundeswehrverwaltung statt. Sie werden von der Einstellungsbehörde im Einvernehmen mit der Hochschule organisiert und durchgeführt.
 
 (2) Das Praxismodul IV wird vom Bundessprachenamt an der Hochschule durchgeführt.
 
-##### § 26 Ausbildungsbeauftragte und Praxisbeauftragte für die Praxismodule
+###### § 26 Ausbildungsbeauftragte und Praxisbeauftragte für die Praxismodule
 
 (1) Für die Praxismodule bestimmt die Einstellungsbehörde im Benehmen mit der Hochschule Ausbildungsbeauftragte in den Ausbildungsdienststellen. Die Ausbildungsbeauftragten sollen über einen Hochschulabschluss verfügen.
 
@@ -331,7 +335,7 @@ Die Fachmodule werden an der Hochschule durchgeführt.
 
 ## Unterabschnitt 1 Allgemeine Bestimmungen
 
-##### § 27 Laufbahnprüfung und Bestandteile
+###### § 27 Laufbahnprüfung und Bestandteile
 
 (1) Die Bachelorprüfung ist die Laufbahnprüfung.
 
@@ -341,7 +345,7 @@ Die Fachmodule werden an der Hochschule durchgeführt.
 
 2. der Abschlussarbeit.
 
-##### § 28 Prüfungsamt
+###### § 28 Prüfungsamt
 
 (1) Die Hochschule richtet für Prüfungsangelegenheiten ein Prüfungsamt ein.
 
@@ -349,9 +353,9 @@ Die Fachmodule werden an der Hochschule durchgeführt.
 
 (3) Das Prüfungsamt ist bei Prüfungsentscheidungen unabhängig und nicht weisungsgebunden.
 
-##### § 29 Bewertung der Prüfungsleistungen
+###### § 29 Bewertung der Prüfungsleistungen
 
-(1) Die Prüfungsleistungen werden wie folgt bewertet:
+(1) Die Prüfungsleistungen werden wie folgt bewertet: 
 
 Prozentualer Anteil
 der erreichten Punktzahl an der erreichbaren PunktzahlRangpunkte/
@@ -365,7 +369,7 @@ der erreichten Punktzahl an der erreichbaren PunktzahlRangpunkte/
 
 ## Unterabschnitt 2 Modulprüfungen
 
-##### § 30 Module mit Modulprüfungen
+###### § 30 Module mit Modulprüfungen
 
 (1) In den Modulen 2 bis 19 und in den Praxismodulen ist jeweils eine Modulprüfung abzulegen.
 
@@ -373,7 +377,7 @@ der erreichten Punktzahl an der erreichbaren PunktzahlRangpunkte/
 
 (3) Die Teilnahme an den Modulprüfungen ist Pflicht.
 
-##### § 31 Prüfungszeitpunkt
+###### § 31 Prüfungszeitpunkt
 
 (1) Die Modulprüfungen sollen innerhalb desjenigen Semesters abgenommen werden, in dem das Modul absolviert wird.
 
@@ -383,7 +387,7 @@ der erreichten Punktzahl an der erreichbaren PunktzahlRangpunkte/
 
 (4) Die Modulprüfungen müssen spätestens eine Woche vor der Verteidigung der Bachelorthesis abgeschlossen sein.
 
-##### § 32 Prüfende
+###### § 32 Prüfende
 
 (1) Für die Bewertung der Modulprüfungen in den Fachmodulen werden die Prüfenden durch das Prüfungsamt bestellt. Sie sollen haupt- oder nebenamtlich Lehrende der Hochschule sein.
 
@@ -397,7 +401,7 @@ der erreichten Punktzahl an der erreichbaren PunktzahlRangpunkte/
 
 (6) Die Prüfenden sind in ihren Prüfungsentscheidungen unabhängig und nicht weisungsgebunden.
 
-##### § 33 Prüfungsformen und Praxisbeurteilung
+###### § 33 Prüfungsformen und Praxisbeurteilung
 
 (1) In den Fachmodulen sind folgende Prüfungsformen möglich:
 
@@ -435,7 +439,7 @@ b) eine mündliche Prüfung sowie
 
 In den Praxismodulen I bis III wird zudem jeweils eine Praxisbeurteilung erstellt, die in die Modulnote mit einfließt. Die Praxisbeurteilung ist eine Bewertung der Fach- und Methodenkompetenz sowie der Selbst- und Sozialkompetenz der Studierenden durch die Ausbildungsdienststelle.
 
-##### § 34 Grundsätze zu den einzelnen Prüfungsformen
+###### § 34 Grundsätze zu den einzelnen Prüfungsformen
 
 (1) In einer Klausur bearbeitet die oder der Studierende eine Aufgabe oder mehrere Aufgaben oder einen Fall oder mehrere Fälle aus den Modulinhalten. Die Bearbeitung erfolgt unter Aufsicht. Die Bearbeitungszeit ist im Modulhandbuch festzulegen.
 
@@ -447,7 +451,7 @@ In den Praxismodulen I bis III wird zudem jeweils eine Praxisbeurteilung erstell
 
 (5) Aktive Mitarbeit oder praktische Übungen umfassen zum Beispiel Rollen- und Planspiele, in denen die Studierenden die im Modulhandbuch aufgeführten Kompetenzen üben.
 
-##### § 35 Gesamtbewertung eines Moduls
+###### § 35 Gesamtbewertung eines Moduls
 
 (1) Für die Module 2 bis 19 und für die Praxismodule I bis III ermittelt das Prüfungsamt für jedes Modul eine Gesamtbewertung.
 
@@ -471,7 +475,7 @@ In den Praxismodulen I bis III wird zudem jeweils eine Praxisbeurteilung erstell
 
 (5) Einzelheiten zur Bewertung der Praxismodule regelt die Hochschule in einer Ordnung.
 
-##### § 36 Sprachprüfung und Sprachprüfungszeugnis
+###### § 36 Sprachprüfung und Sprachprüfungszeugnis
 
 (1) In der Sprachprüfung werden die folgenden Fertigkeiten geprüft:
 
@@ -487,7 +491,7 @@ In den Praxismodulen I bis III wird zudem jeweils eine Praxisbeurteilung erstell
 
 (3) Bewertet wird die Leistung in jeder Fertigkeit. Die Bewertung erfolgt mit den Leistungsstufen 0 bis 4. Die Definition der Leistungsstufen legt das Bundesministerium der Verteidigung in einer Verwaltungsvorschrift fest.
 
-(4) Der Leistungsstufe werden wie folgt Rangpunkte zugeordnet:
+(4) Der Leistungsstufe werden wie folgt Rangpunkte zugeordnet: 
 
 LeistungsstufeRangpunkte1210021332643125415
 
@@ -495,23 +499,23 @@ LeistungsstufeRangpunkte1210021332643125415
 
 (6) Über das Ergebnis der Sprachprüfung stellt das Bundessprachenamt ein Sprachprüfungszeugnis aus. Das Sprachprüfungszeugnis enthält für jede Fertigkeit die Bewertung mit den erreichten Leistungsstufen.
 
-##### § 37 Bestehen einer Modulprüfung
+###### § 37 Bestehen einer Modulprüfung
 
 (1) Eine Modulprüfung ist bestanden, wenn in der Gesamtbewertung eine Rangpunktzahl von mindestens 5,00 erreicht worden ist.
 
 (2) Ist eine Modulprüfung bestanden worden, so wird die Gesamtbewertung für dieses Modul kaufmännisch auf eine ganze Zahl gerundet.
 
-##### § 38 Wiederholung nichtbestandener Modulprüfungen
+###### § 38 Wiederholung nichtbestandener Modulprüfungen
 
 (1) Eine nichtbestandene Modulprüfung kann einmal wiederholt werden.
 
-(2) In je einem Pflichtmodul und einem Wahlpflichtmodul ist eine zweite Wiederholung möglich.
+(2) Zwei in der ersten Wiederholung nicht bestandene Modulprüfungen können ein zweites Mal wiederholt werden.
 
 (3) Die Wiederholungstermine werden durch das Prüfungsamt festgelegt. Sie sollen im jeweils folgenden Semester liegen.
 
 ## Unterabschnitt 3 Abschlussarbeit
 
-##### § 39 Bestandteile der Abschlussarbeit
+###### § 39 Bestandteile der Abschlussarbeit
 
 Die Abschlussarbeit besteht aus
 
@@ -519,11 +523,11 @@ Die Abschlussarbeit besteht aus
 
 2. der Verteidigung der Bachelorthesis.
 
-##### § 40 Ziel der Bachelorthesis
+###### § 40 Ziel der Bachelorthesis
 
 Durch die Bachelorthesis sollen die Studierenden nachweisen, dass sie fähig sind, innerhalb einer vorgegebenen Frist eine für die Studienziele relevante Problemstellung mit wissenschaftlichen Methoden selbständig zu bearbeiten.
 
-##### § 41 Thema und Bearbeitungszeit der Bachelorthesis
+###### § 41 Thema und Bearbeitungszeit der Bachelorthesis
 
 (1) Das Thema der Bachelorthesis wird vom Prüfungsamt festgelegt. Die Lehrenden der Hochschule schlagen dem Prüfungsamt ein Thema vor. Den Studierenden ist ab Beginn des vierten Semesters Gelegenheit zu geben, den Lehrenden eigene Themenvorschläge zu unterbreiten.
 
@@ -537,7 +541,7 @@ Durch die Bachelorthesis sollen die Studierenden nachweisen, dass sie fähig sin
 
 (6) Näheres zum Verfahren und zu den formalen Anforderungen an die Bachelorthesis regelt die Hochschule in einer Ordnung.
 
-##### § 42 Prüfende für die Bachelorthesis und die Verteidigung der Bachelorthesis
+###### § 42 Prüfende für die Bachelorthesis und die Verteidigung der Bachelorthesis
 
 (1) Sobald das Thema der Bachelorthesis festgelegt worden ist, bestellt das Prüfungsamt zwei Prüfende für die Bewertung der Bachelorthesis und für die Durchführung und Bewertung der Verteidigung der Bachelorthesis.
 
@@ -559,13 +563,13 @@ Mindestens eine Prüfende oder ein Prüfender soll hauptamtlich Lehrende oder ha
 
 (4) Die Prüfenden sind in ihren Prüfungsentscheidungen unabhängig und nicht weisungsgebunden.
 
-##### § 43 Freistellung und Betreuung bei der Bachelorthesis
+###### § 43 Freistellung und Betreuung bei der Bachelorthesis
 
 (1) Zur Anfertigung der Bachelorthesis werden die Studierenden für die letzten vier Wochen des fünften Semesters von der Anwesenheitspflicht und vom Dienst freigestellt. Die weitere Anfertigung der Bachelorthesis erfolgt studienbegleitend zu Beginn des sechsten Semesters.
 
 (2) Während der Anfertigung der Bachelorthesis wird die oder der Studierende von der oder dem Erstprüfenden betreut.
 
-##### § 44 Abgabe der Bachelorthesis
+###### § 44 Abgabe der Bachelorthesis
 
 (1) Die Bachelorthesis ist innerhalb der Bearbeitungszeit beim Prüfungsamt abzugeben.
 
@@ -577,7 +581,7 @@ Mindestens eine Prüfende oder ein Prüfender soll hauptamtlich Lehrende oder ha
 
 (3) Die Abgabe ist durch das Prüfungsamt zu dokumentieren.
 
-##### § 45 Bewertung und Bestehen der Bachelorthesis
+###### § 45 Bewertung und Bestehen der Bachelorthesis
 
 (1) Für die Bewertung der Bachelorthesis ist ein Gutachten zu erstellen.
 
@@ -587,7 +591,7 @@ Mindestens eine Prüfende oder ein Prüfender soll hauptamtlich Lehrende oder ha
 
 (4) Die Bachelorthesis ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewertet worden ist.
 
-##### § 46 Wiederholung der Bachelorthesis
+###### § 46 Wiederholung der Bachelorthesis
 
 (1) Ist die Bachelorthesis nicht bestanden worden, so kann sie einmal wiederholt werden.
 
@@ -595,7 +599,7 @@ Mindestens eine Prüfende oder ein Prüfender soll hauptamtlich Lehrende oder ha
 
 (3) Die Bearbeitungszeit für die Wiederholung der Bachelorthesis beträgt drei Monate. Sie beginnt mit der Ausgabe des Themas.
 
-##### § 47 Zulassung zur Verteidigung der Bachelorthesis und Termin
+###### § 47 Zulassung zur Verteidigung der Bachelorthesis und Termin
 
 (1) Zugelassen zur Verteidigung der Bachelorthesis wird, wer
 
@@ -605,7 +609,7 @@ Mindestens eine Prüfende oder ein Prüfender soll hauptamtlich Lehrende oder ha
 
 (2) Den Termin für die Verteidigung der Bachelorthesis legt das Prüfungsamt fest.
 
-##### § 48 Bestandteile der Verteidigung der Bachelorthesis und Protokoll
+###### § 48 Bestandteile der Verteidigung der Bachelorthesis und Protokoll
 
 (1) Die Verteidigung der Bachelorthesis besteht aus
 
@@ -635,7 +639,7 @@ Das wissenschaftliche Gespräch dauert in der Regel 20 Minuten.
 
 (5) Über den Ablauf der Verteidigung der Bachelorthesis wird ein Protokoll angefertigt. Das Protokoll ist von den Prüfenden zu unterschreiben.
 
-##### § 49 Bewertung und Bestehen der Verteidigung der Bachelorthesis
+###### § 49 Bewertung und Bestehen der Verteidigung der Bachelorthesis
 
 (1) Folgende Teile der Verteidigung der Bachelorthesis werden gesondert bewertet:
 
@@ -653,19 +657,19 @@ Das wissenschaftliche Gespräch dauert in der Regel 20 Minuten.
 
 (4) Die Rangpunktzahl einer bestandenen Verteidigung der Bachelorthesis wird kaufmännisch auf eine ganze Zahl gerundet.
 
-##### § 50 Zuhörende bei der Verteidigung der Bachelorthesis
+###### § 50 Zuhörende bei der Verteidigung der Bachelorthesis
 
 (1) Die Verteidigung der Bachelorthesis ist hochschulöffentlich, es sei denn, die oder der Studierende widerspricht dem.
 
 (2) Es sollen nicht mehr als fünf Zuhörende zugelassen werden. Über die Zulassung entscheidet das Prüfungsamt nach Voranmeldung.
 
-##### § 51 Wiederholung der Verteidigung der Bachelorthesis
+###### § 51 Wiederholung der Verteidigung der Bachelorthesis
 
 (1) Ist die Verteidigung der Bachelorthesis nicht bestanden worden, kann sie einmal wiederholt werden.
 
 (2) Die Wiederholung soll innerhalb von zwei Monaten nach Bekanntgabe des Ergebnisses stattfinden.
 
-##### § 52 Note der Abschlussarbeit
+###### § 52 Note der Abschlussarbeit
 
 (1) Ist die Verteidigung der Bachelorthesis bestanden worden, legt das Prüfungsamt die Note der Abschlussarbeit fest.
 
@@ -681,7 +685,7 @@ Die Rangpunktzahl der Abschlussarbeit wird kaufmännisch auf eine ganze Zahl ger
 
 ## Unterabschnitt 4 Weitere gemeinsame Vorschriften
 
-##### § 53 Bestehen der Bachelorprüfung und akademischer Grad
+###### § 53 Bestehen der Bachelorprüfung und akademischer Grad
 
 (1) Die Bachelorprüfung hat bestanden, wer
 
@@ -693,7 +697,7 @@ Die Rangpunktzahl der Abschlussarbeit wird kaufmännisch auf eine ganze Zahl ger
 
 (2) Ist die Bachelorprüfung bestanden, verleiht die Hochschule den akademischen Grad „Bachelor of Laws (LL. B.)“.
 
-##### § 54 Rangpunktzahl der Bachelorprüfung und Abschlussnote
+###### § 54 Rangpunktzahl der Bachelorprüfung und Abschlussnote
 
 (1) Hat die oder der Studierende die Bachelorprüfung bestanden, so ermittelt das Prüfungsamt für sie oder ihn die Rangpunktzahl der Bachelorprüfung und die Abschlussnote.
 
@@ -715,7 +719,7 @@ Die berechnete Rangpunktzahl der Bachelorprüfung wird kaufmännisch auf eine ga
 
 (5) Der gerundeten Rangpunktzahl der Bachelorprüfung wird die entsprechende Note als Abschlussnote zugeordnet.
 
-##### § 55 Abschlusszeugnis, Bachelorurkunde und Diploma Supplement
+###### § 55 Abschlusszeugnis, Bachelorurkunde und Diploma Supplement
 
 (1) Wer die Bachelorprüfung bestanden hat, erhält
 
@@ -753,7 +757,7 @@ Die berechnete Rangpunktzahl der Bachelorprüfung wird kaufmännisch auf eine ga
 
 Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt.
 
-##### § 56 Bescheid über die nichtbestandene Bachelorprüfung
+###### § 56 Bescheid über die nichtbestandene Bachelorprüfung
 
 (1) Wer die Bachelorprüfung nicht bestanden hat, erhält vom Prüfungsamt
 
@@ -767,7 +771,7 @@ Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt.
 
 2. die erworbenen ECTS-Leistungspunkte.
 
-##### § 57 Verhinderung
+###### § 57 Verhinderung
 
 (1) Sind Studierende an der Erbringung einer Prüfungsleistung ganz oder teilweise gehindert, so können sie beim Prüfungsamt beantragen, dass die Verhinderung genehmigt wird.
 
@@ -779,7 +783,7 @@ Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt.
 
 (5) Wird die Verhinderung nicht genehmigt, so gilt die Zeit der Verhinderung als Bearbeitungszeit. Wird in diesem Fall gar keine Prüfungsleistung erbracht, so gilt die Prüfungsleistung als mit null Rangpunkten bewertet.
 
-##### § 58 Täuschung und Ordnungsverstoß
+###### § 58 Täuschung und Ordnungsverstoß
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil täuschen, eine Täuschung versuchen, daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung oder des Prüfungsteils unter dem Vorbehalt einer Entscheidung des Prüfungsamtes gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der betreffenden Prüfung oder dem betreffenden Prüfungsteil ausgeschlossen werden.
 
@@ -795,7 +799,7 @@ Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt.
 
 (5) Betroffene sind vor einer Entscheidung nach den Absätzen 2 bis 4 anzuhören.
 
-##### § 59 Prüfungsakten und Einsichtnahme
+###### § 59 Prüfungsakten und Einsichtnahme
 
 (1) Zur Prüfungsakte zu nehmen sind:
 
@@ -819,7 +823,7 @@ Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt.
 
 ## Abschnitt 5 Anerkennung und Anrechnung von außerhalb des Studiengangs erworbenen Kompetenzen
 
-##### § 60 Anerkennung von Studien- und Prüfungsleistungen
+###### § 60 Anerkennung von Studien- und Prüfungsleistungen
 
 (1) Auf Antrag werden Studien- und Prüfungsleistungen, die an anderen staatlichen oder staatlich anerkannten Hochschulen oder Berufsakademien erbracht worden sind, anerkannt, wenn hinsichtlich der erworbenen Kompetenzen kein wesentlicher Unterschied zu den Studien- und Prüfungsleistungen besteht, die im Studiengang „Bachelor of Public Administration“ ersetzt werden.
 
@@ -827,7 +831,7 @@ Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt.
 
 (3) Die Studierenden haben die für die Anerkennung erforderlichen Unterlagen vorzulegen.
 
-##### § 61 Anrechnung von nicht an einer Hochschule erworbenen Kenntnissen und Fähigkeiten
+###### § 61 Anrechnung von nicht an einer Hochschule erworbenen Kenntnissen und Fähigkeiten
 
 (1) Kenntnisse und Fähigkeiten, die nicht an einer Hochschule erworben worden sind, können höchstens bis zu 50 Prozent der Gesamtstudienleistung angerechnet werden, wenn sie nach Inhalt und Niveau gleichwertig mit dem Teil des Studiums sind, der ersetzt werden soll.
 
@@ -835,23 +839,22 @@ Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt.
 
 (3) Die Studierenden haben die für die Anrechnung erforderlichen Unterlagen vorzulegen.
 
-##### § 62 Anrechnungsbeauftragte
+###### § 62 Anrechnungsbeauftragte
 
 (1) Die Hochschule bestimmt eine Anrechnungsbeauftragte oder einen Anrechnungsbeauftragten.
 
 (2) Die oder der Anrechnungsbeauftragte koordiniert das Anrechnungs- und Anerkennungsverfahren und berät die Studierenden zum Thema Anrechnung und Anerkennung.
 
-##### § 63 Ordnung der Hochschule zum Anrechnungs- und Anerkennungsverfahren
+###### § 63 Ordnung der Hochschule zum Anrechnungs- und Anerkennungsverfahren
 
 Näheres zum Anrechnungs- und Anerkennungsverfahren regelt die Hochschule in einer Ordnung.
 
 ## Abschnitt 6 Schlussvorschriften
 
-##### § 64 Übergangsvorschrift
+###### § 64 Übergangsvorschrift
 
 Für Studierende, die vor dem 1. April 2019 mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Verwaltungsdienst in der Bundeswehrverwaltung vom 14. März 2005 (BGBl. I S. 779), die zuletzt durch Artikel 3 Absatz 20 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, in der bis zum 31. März 2019 geltenden Fassung weiter anzuwenden.
 
-##### § 65 Inkrafttreten, Außerkrafttreten
+###### § 65 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. April 2019 in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Verwaltungsdienst in der Bundeswehrverwaltung vom 14. März 2005 (BGBl. I S. 779), die zuletzt durch Artikel 3 Absatz 20 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, außer Kraft.
-
