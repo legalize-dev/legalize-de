@@ -4,24 +4,28 @@ identifier: "SAREGG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2017-07-17"
-last_updated: "2026-04-04"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/saregg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR251310017"
 slug: "saregg"
 bgbl_reference: "BGBl I 2017, 2513"
-stand: "Geändert durch Art. 16a Abs. 1 G v. 28.4.2020 I 960"
+stand: "Zuletzt geändert durch Art. 2 Abs. 6 G v. 12.5.2026 I Nr. 143"
 ---
 # Gesetz zur Errichtung eines Samenspenderregisters und zur Regelung der Auskunftserteilung über den Spender nach heterologer Verwendung von Samen
 
-##### § 1 Samenspenderregister
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Samenspenderregister
 
 (1) Beim Bundesinstitut für Arzneimittel und Medizinprodukte wird ein Samenspenderregister errichtet und geführt.
 
 (2) Zweck des Samenspenderregisters ist es, für Personen, die durch heterologe Verwendung von Samen bei einer ärztlich unterstützten künstlichen Befruchtung gezeugt worden sind, die Verwirklichung des Rechts auf Kenntnis ihrer Abstammung sicherzustellen. Gleichzeitig werden mit diesem Gesetz die organisatorischen einschließlich der verfahrensmäßigen Voraussetzungen für die Ausübung dieses Rechts geschaffen.
 
-##### § 2 Pflichten der Entnahmeeinrichtung bei der Gewinnung von Samen zur heterologen Verwendung für eine künstliche Befruchtung
+###### § 2 Pflichten der Entnahmeeinrichtung bei der Gewinnung von Samen zur heterologen Verwendung für eine künstliche Befruchtung
 
 (1) Eine Einrichtung, in der Samen zur heterologen Verwendung für eine ärztlich unterstützte künstliche Befruchtung gewonnen wird (Entnahmeeinrichtung), hat sicherzustellen, dass der Samenspender vor der Gewinnung des Samens über Folgendes aufgeklärt worden ist:
 
@@ -65,13 +69,13 @@ Die Entnahmeeinrichtung hat bei der Gewinnung von Samen zusätzlich zu den in Sa
 
 (4) Die Daten nach den Absätzen 2 und 3 sind getrennt von den Angaben zu speichern, die nach § 5 der TPG-Gewebeverordnung von der Entnahmeeinrichtung in der Spenderakte und im Entnahmebericht zu dokumentieren sind. Die Daten sind nach Ablauf von zehn Jahren nach der Gewinnung des Samens zu löschen. Die Daten sind unverzüglich zu löschen, wenn der Samenspender der heterologen Verwendung des Samens vor der Verwendung schriftlich oder in Textform widerspricht. Die Daten nach Absatz 3 Satz 1 sind unverzüglich zu löschen, wenn der Samenspender seine Einwilligung gegenüber der Entnahmeeinrichtung nach Absatz 3 Satz 2 widerrufen hat.
 
-##### § 3 Pflichten der Entnahmeeinrichtung bei der Abgabe von Samen zur heterologen Verwendung für eine künstliche Befruchtung
+###### § 3 Pflichten der Entnahmeeinrichtung bei der Abgabe von Samen zur heterologen Verwendung für eine künstliche Befruchtung
 
-(1) Die Entnahmeeinrichtung darf Samen zur heterologen Verwendung nur an eine Einrichtung der medizinischen Versorgung im Sinne des § 1a Nummer 9 des Transplantationsgesetzes (Einrichtung der medizinischen Versorgung) und nur abgeben, wenn die Voraussetzung nach § 2 Absatz 1 Satz 2 erfüllt ist.
+(1) Die Entnahmeeinrichtung darf Samen zur heterologen Verwendung nur an eine Einrichtung der medizinischen Versorgung im Sinne des § 1a Nummer 13 des Transplantationsgesetzes (Einrichtung der medizinischen Versorgung) und nur abgeben, wenn die Voraussetzung nach § 2 Absatz 1 Satz 2 erfüllt ist.
 
 (2) Bei der Abgabe des Samens zur heterologen Verwendung für eine ärztlich unterstützte künstliche Befruchtung hat die Entnahmeeinrichtung der Einrichtung der medizinischen Versorgung die Spendenkennungssequenz oder die eindeutige Spendennummer zu übermitteln.
 
-##### § 4 Pflicht der Einrichtung der medizinischen Versorgung vor der heterologen Verwendung von Samen zur künstlichen Befruchtung
+###### § 4 Pflicht der Einrichtung der medizinischen Versorgung vor der heterologen Verwendung von Samen zur künstlichen Befruchtung
 
 Eine Einrichtung der medizinischen Versorgung hat vor einer heterologen Verwendung von Samen für eine ärztlich unterstützte künstliche Befruchtung sicherzustellen, dass die Empfängerin der Samenspende über Folgendes aufgeklärt worden ist:
 
@@ -93,7 +97,7 @@ b) die Speicherung ihrer personenbezogenen Daten im Samenspenderregister sowie d
 
 Die Empfängerin der Samenspende hat der Einrichtung der medizinischen Versorgung schriftlich zu bestätigen, dass sie gemäß Satz 1 aufgeklärt worden ist und die dort genannten Aufklärungsinhalte verstanden hat. Sie ist verpflichtet, die Einrichtung der medizinischen Versorgung unter Angabe des Geburtsdatums über die Geburt des Kindes oder der Kinder spätestens drei Monate nach der Geburt zu unterrichten, und hat schriftlich zu versichern, dass sie ihrer Verpflichtung nachkommen wird.
 
-##### § 5 Pflichten der Einrichtung der medizinischen Versorgung bei heterologer Verwendung von Samen zur künstlichen Befruchtung
+###### § 5 Pflichten der Einrichtung der medizinischen Versorgung bei heterologer Verwendung von Samen zur künstlichen Befruchtung
 
 (1) Die Einrichtung der medizinischen Versorgung darf Samen für eine ärztlich unterstützte künstliche Befruchtung nur heterolog verwenden, wenn die Voraussetzung nach § 4 Satz 2 vorliegt und ihr die Spendenkennungssequenz oder die eindeutige Spendennummer des zur Verwendung vorgesehenen Samens vorliegt. Bei der heterologen Verwendung von Samen aus einem anderen Mitgliedstaat der Europäischen Union, aus einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Drittstaat hat die Einrichtung der medizinischen Versorgung darüber hinaus sicherzustellen, dass die Entnahmeeinrichtung, von der sie den Samen erhalten hat, dem Bundesinstitut für Arzneimittel und Medizinprodukte auf Verlangen nach § 7 Absatz 2 die in § 2 Absatz 2 Satz 1 genannten Daten übermitteln wird.
 
@@ -123,7 +127,7 @@ Die Einrichtung der medizinischen Versorgung hat zusätzlich zu den personenbezo
 
 (6) Die Daten nach den Absätzen 2 und 3 sind getrennt von den Angaben, die die Einrichtungen der medizinischen Versorgung nach § 7 der TPG-Gewebeverordnung zu dokumentieren haben, zu speichern. Die Daten sind nach Ablauf von sechs Monaten nach deren Übermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte oder im Fall von § 6 Absatz 3 unverzüglich zu löschen.
 
-##### § 6 Übermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte
+###### § 6 Übermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte
 
 (1) Sobald die Einrichtung der medizinischen Versorgung nach heterologer Verwendung von Samen für eine von ihr ärztlich unterstützte künstliche Befruchtung von der Geburt des Kindes oder der Kinder Kenntnis erlangt hat, hat sie folgende Daten an das Bundesinstitut für Arzneimittel und Medizinprodukte zu übermitteln:
 
@@ -145,7 +149,7 @@ Die Einrichtung der medizinischen Versorgung hat zusätzlich zu den personenbezo
 
 (5) Für die Übermittlungen nach den Absätzen 1, 2 und 4 ist ein vom Bundesinstitut für Arzneimittel und Medizinprodukte erstelltes Formblatt zu verwenden. Das Formblatt kann auch elektronisch zur Verfügung gestellt und genutzt werden.
 
-##### § 7 Aufgaben des Bundesinstituts für Arzneimittel und Medizinprodukte im Zusammenhang mit dem Samenspenderregister
+###### § 7 Aufgaben des Bundesinstituts für Arzneimittel und Medizinprodukte im Zusammenhang mit dem Samenspenderregister
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte hat die erforderlichen räumlichen, technischen und organisatorischen Maßnahmen zu treffen, damit die im Samenspenderregister gespeicherten Daten insbesondere gegen unbefugtes Hinzufügen, Löschen oder Verändern geschützt sind und keine unbefugte Kenntnisnahme oder Weitergabe erfolgen kann.
 
@@ -157,11 +161,11 @@ Die Einrichtung der medizinischen Versorgung hat zusätzlich zu den personenbezo
 
 (5) Zur Absicherung der Daten nach Absatz 1 und Sicherstellung des Beweiserhalts und des korrekten Löschens gemäß § 8 hat das Bundesinstitut für Arzneimittel und Medizinprodukte den Stand der Technik zu erfüllen. Der Stand der Technik ist als niedergelegt zu vermuten in Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik. Diese gelten in der jeweils aktuellsten durch das Bundesamt für Sicherheit in der Informationstechnik im Bundesanzeiger bekanntgemachten Fassung.
 
-##### § 8 Speicherung und Löschung der Samenspenderregisterdaten
+###### § 8 Speicherung und Löschung der Samenspenderregisterdaten
 
 Die nach § 6 zu übermittelnden Daten werden in dem Samenspenderregister für die Dauer von 110 Jahren gespeichert. Nach Ablauf der Aufbewahrungsfrist sind die Daten zu löschen. Die Daten sind unverzüglich zu löschen, sobald das Bundesinstitut für Arzneimittel und Medizinprodukte Kenntnis davon erlangt, dass die heterologe Verwendung von Samen für eine ärztlich unterstützte künstliche Befruchtung nicht zur Geburt eines Kindes geführt hat. Wird dem Bundesinstitut für Arzneimittel und Medizinprodukte von der Entnahmeeinrichtung nach § 6 Absatz 4 Satz 2 der Widerruf der Einwilligung des Samenspenders in die weitere Speicherung der Angaben nach § 2 Absatz 3 Satz 1 mitgeteilt, sind diese Daten unverzüglich aus dem Samenspenderregister zu löschen.
 
-##### § 9 Zweckbindung bei personenbezogenen Daten
+###### § 9 Zweckbindung bei personenbezogenen Daten
 
 (1) Es dürfen
 
@@ -173,7 +177,7 @@ die nach § 2 Absatz 2 Satz 1 und § 2 Absatz 3 Satz 1, § 5 Absatz 2 bis 4 oder
 
 (2) Für Entnahmeeinrichtungen und Einrichtungen der medizinischen Versorgung gilt § 7 Absatz 1 und 5 entsprechend.
 
-##### § 10 Voraussetzungen und Verfahren der Auskunftserteilung
+###### § 10 Voraussetzungen und Verfahren der Auskunftserteilung
 
 (1) Eine Person, die vermutet, durch heterologe Verwendung von Samen bei einer ärztlich unterstützten künstlichen Befruchtung gezeugt worden zu sein, hat gegenüber dem Bundesinstitut für Arzneimittel und Medizinprodukte Anspruch auf Auskunft aus dem Samenspenderregister. Nach Vollendung des 16. Lebensjahres kann die Person diesen Anspruch nur selbst geltend machen. Der Auskunftsanspruch nach Satz 1 besteht unabhängig von einer Auskunftserteilung für die Dauer der Speicherung fort.
 
@@ -187,13 +191,13 @@ die nach § 2 Absatz 2 Satz 1 und § 2 Absatz 3 Satz 1, § 5 Absatz 2 bis 4 oder
 
 (6) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann für die Erteilung von Auskünften aus dem Samenspenderregister Entgelte verlangen.
 
-##### § 11 Auskunfts- und Berichtigungsansprüche
+###### § 11 Auskunfts- und Berichtigungsansprüche
 
 (1) Dem Samenspender steht ein Auskunfts- und Berichtigungsanspruch gegenüber dem Bundesinstitut für Arzneimittel und Medizinprodukte nur hinsichtlich seiner nach § 2 Absatz 2 Satz 1 und Absatz 3 Satz 1 im Samenspenderregister gespeicherten Daten zu.
 
 (2) Der Empfängerin der Samenspende steht ein Auskunfts- und Berichtigungsanspruch gegenüber dem Bundesinstitut für Arzneimittel und Medizinprodukte nur hinsichtlich ihrer nach § 5 Absatz 2 Satz 1, Absatz 3 bis 5 gespeicherten Daten zu. Wenn die heterologe Verwendung von Samen für eine ärztlich unterstützte künstliche Befruchtung nicht zur Geburt eines Kindes geführt hat, hat die Empfängerin der Samenspende gegenüber dem Bundesinstitut für Arzneimittel und Medizinprodukte einen Anspruch auf Löschung ihrer nach § 5 Absatz 2 und 3 gespeicherten Daten.
 
-##### § 12 Bußgeldvorschriften
+###### § 12 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -211,7 +215,7 @@ die nach § 2 Absatz 2 Satz 1 und § 2 Absatz 3 Satz 1, § 5 Absatz 2 bis 4 oder
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2 und 4 mit einer Geldbuße bis zu dreißigtausend, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-##### § 13 Übergangsregelungen
+###### § 13 Übergangsregelungen
 
 (1) Entnahmeeinrichtungen, die Samen vor Inkrafttreten dieses Gesetzes gewonnen haben, dürfen diesen nur dann an eine Einrichtung der medizinischen Versorgung zur heterologen Verwendung für eine ärztlich unterstützte künstliche Befruchtung abgeben, wenn
 
@@ -238,4 +242,3 @@ die nach § 2 Absatz 2 Satz 1 und § 2 Absatz 3 Satz 1, § 5 Absatz 2 bis 4 oder
 4. den Zeitpunkt der Verwendung des Samens nach § 5 Absatz 3 Nummer 1
 
 110 Jahre nach der heterologen Verwendung des Samens aufzubewahren, soweit solche Angaben zum Zeitpunkt des Inkrafttretens dieses Gesetzes vorhanden sind. Nach Ablauf der Aufbewahrungsdauer sind die Daten zu löschen.
-
