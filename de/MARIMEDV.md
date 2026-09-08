@@ -4,7 +4,7 @@ identifier: "MARIMEDV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2014-08-14"
-last_updated: "2026-09-02"
+last_updated: "2026-09-08"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/marimedv/"
 text_state: "current"
@@ -13,7 +13,7 @@ doknr: "BJNR138310014"
 slug: "marimedv"
 bgbl_reference: "BGBl I 2014, 1383"
 stand: "Zuletzt geändert durch Art. 9 G v. 3.2.2026 I Nr. 28"
-hinweis: "Änderung durch Art. 5 V v. 7.9.2026 I Nr. 257 mWv 11.9.2026 noch nicht berücksichtigt"
+hinweis: "Änderung durch Art. 5 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Verordnung über maritime medizinische Anforderungen auf Kauffahrteischiffen
 
