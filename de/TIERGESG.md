@@ -4,28 +4,30 @@ identifier: "TIERGESG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2013-05-22"
-last_updated: "2026-04-04"
+last_updated: "2026-09-11"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/tiergesg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR132400013"
 slug: "tiergesg"
 bgbl_reference: "BGBl I 2013, 1324"
-stand: "zuletzt geändert durch Art. 2 G v. 21.12.2022 I 2852"
-neufassung: "Neugefasst durch Bek. v. 21.11.2018 I 1938;"
-hinweis: "Neufassung gem. Bekanntmachung v. 27.3.2026 I Nr. 93 noch nicht berücksichtigt"
+neufassung: "Neugefasst durch Bek. v. 27.3.2026 I Nr. 93"
 ---
 # Gesetz zur Vorbeugung vor und Bekämpfung von Tierseuchen
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ## Abschnitt 1 Allgemeines
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 Dieses Gesetz regelt die Vorbeugung vor Seuchen bei Tieren und deren Bekämpfung. In diesem Rahmen dient es auch der Erhaltung und Förderung der Gesundheit von gehaltenen Tieren, soweit diese der landwirtschaftlichen Erzeugung dienen. § 39 bleibt unberührt.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 (1) Im Anwendungsbereich dieses Gesetzes gelten die Begriffsbestimmungen
 
@@ -47,7 +49,7 @@ Dieses Gesetz regelt die Vorbeugung vor Seuchen bei Tieren und deren Bekämpfung
 
 ## Abschnitt 2 Maßnahmen zur Vorbeugung vor Seuchen und zu deren Bekämpfung
 
-##### § 3 Anzeichen schwerer Krankheit oder verminderte Produktionsleistung; Verordnungsermächtigung
+###### § 3 Anzeichen schwerer Krankheit oder verminderte Produktionsleistung; Verordnungsermächtigung
 
 (1) Stellt ein Unternehmer eine anormale Mortalität, andere Anzeichen einer schweren Krankheit oder eine ohne ersichtlichen Grund deutlich verminderte Produktionsleistung bei einem oder mehreren Tieren, für das oder die er verantwortlich ist, fest, oder erlangt er Kenntnis über eine solche Feststellung, so hat er unverzüglich einen Tierarzt zu informieren, damit eingehendere Untersuchungen angestellt werden können.
 
@@ -61,9 +63,9 @@ Dieses Gesetz regelt die Vorbeugung vor Seuchen bei Tieren und deren Bekämpfung
 
 3. Kriterien für das Vorliegen einer anormalen Mortalität, anderer Anzeichen einer schweren Krankheit oder einer deutlich verminderten Produktionsleistung im Sinne der Absätze 1 und 2 festzulegen.
 
-##### § 4 Verordnungsermächtigung zur Meldung von Seuchen bei Tieren
+###### § 4 Verordnungsermächtigung zur Meldung von Seuchen bei Tieren
 
-(1) Das Bundesministerium wird ermächtigt, zur Erfüllung der Zwecke des § 1 durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Meldung von Seuchen bei Tieren und über die Mitteilung an das Bundesministerium zu erlassen. In einer Rechtsverordnung nach Satz 1 kann das Bundesministerium insbesondere
+(1) Das Bundesministerium wird ermächtigt, zur Erfüllung der Zwecke des § 1 durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Meldung von Seuchen bei Tieren und über die Mitteilung an das Bundesministerium zu erlassen. In einer Rechtsverordnung nach Satz 1 kann das Bundesministerium insbesondere
 
 1. die meldepflichtigen Seuchen bestimmen,
 
@@ -89,7 +91,7 @@ e) die Mitteilung, insbesondere deren Inhalt, Form und Frist, von Änderungen be
 
 (2) In einer Rechtsverordnung nach Absatz 1 Satz 1 kann das Bundesministerium ferner bestimmen, welche meldepflichtigen Seuchen von den Vorschriften dieses Gesetzes, die auf eine Rechtsverordnung nach dieser Vorschrift verweisen, jeweils erfasst sind.
 
-##### § 5 Maßnahmen zur Ermittlung einer Seuche
+###### § 5 Maßnahmen zur Ermittlung einer Seuche
 
 (1) Stellt die zuständige Behörde aufgrund eines tierärztlichen Gutachtens, sonstiger Anhaltspunkte oder einer Meldung einer in einer Rechtsverordnung nach § 4 näher bestimmten meldepflichtigen Seuche den Verdacht oder den Ausbruch einer solchen Seuche unter gehaltenen Landtieren, gehaltenen Wassertieren oder sonstigen gehaltenen Tieren fest, so hat sie anzuordnen, dass die betroffenen Tiere unverzüglich von anderen Tieren abgesondert und, soweit erforderlich, eingesperrt und bewacht werden. Satz 1 gilt für die Absonderung von Wassertieren nur, soweit eine Absonderung im Einzelfall durchführbar ist. Die zuständige Behörde führt eine epidemiologische Untersuchung durch, um insbesondere den Zeitpunkt der Einschleppung der Seuche, deren Art, Ausbreitung und Ursachen zu ermitteln. Satz 3 gilt für das Auftreten einer in einer Rechtsverordnung nach § 4 näher bestimmten meldepflichtigen Seuche bei wild lebenden Tieren entsprechend. Die zuständige Behörde kann für andere als die in Satz 4 genannten meldepflichtigen Seuchen und für neu auftretende Seuchen Maßnahmen nach den Sätzen 1 bis 4 anordnen oder durchführen.
 
@@ -97,7 +99,7 @@ e) die Mitteilung, insbesondere deren Inhalt, Form und Frist, von Änderungen be
 
 (3) Soweit über den Ausbruch einer Seuche nur mittels bestimmter an einem möglicherweise mit einem Seuchenerreger infizierten Tier durchzuführender Maßnahmen diagnostischer Art Gewissheit zu erlangen ist, können diese Maßnahmen von der zuständigen Behörde angeordnet werden. Dies gilt auch, wenn die Gewissheit nur durch die Tötung und Zerlegung des möglicherweise mit einem Seuchenerreger infizierten Tieres zu erlangen ist. Angeordnete Laboruntersuchungen sind in einer von der zuständigen Behörde nach Artikel 37 der Verordnung (EU) 2017/625 in der Fassung vom 27. November 2024 benannten Untersuchungseinrichtung durchzuführen. Im Fall des Ausbruchs einer in einer Rechtsverordnung nach § 4 näher bestimmten meldepflichtigen Seuche sowie im Fall des Vorliegens von Gründen für den Verdacht einer solchen Seuche ist die Untersuchung von Untersuchungsmaterial tierischen Ursprungs mit einem In-vitro-Diagnostikum nach Maßgabe des § 11 Absatz 2 durchzuführen.
 
-##### § 6 Verordnungsermächtigungen zur Vorbeugung vor und Bekämpfung von Seuchen
+###### § 6 Verordnungsermächtigungen zur Vorbeugung vor und Bekämpfung von Seuchen
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der Zwecke des § 1 Satz 1 erforderlich ist, Vorschriften zu erlassen
 
@@ -273,13 +275,13 @@ kann für den ihm hierdurch jeweils entstehenden Aufwand oder Schaden Ersatz nac
 
 (9) Der Jagdausübungsberechtigte, dem auf Grund einer Rechtsverordnung nach Absatz 1 Nummer 28 oder 28a oder auf Grund entsprechend angeordneter Maßnahmen ein erhöhter Aufwand entsteht oder dessen Jagdausübung verboten oder beschränkt wird, kann für den ihm hierdurch entstehenden Aufwand oder Schaden angemessenen Ersatz nach den jeweiligen landesrechtlichen Vorschriften über die Inanspruchnahme als Nichtstörer verlangen. Absatz 5 Satz 3 gilt entsprechend.
 
-##### § 7 Verordnungsermächtigung für Mittel und Verfahren zur Desinfektion
+###### § 7 Verordnungsermächtigung für Mittel und Verfahren zur Desinfektion
 
 Das Bundesministerium wird ermächtigt, soweit es zur Erfüllung der Zwecke des § 1 erforderlich ist, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Mittel und Verfahren zu bestimmen, die bei einer tierseuchenrechtlich vorgeschriebenen Desinfektion, Bekämpfung von Schadnagern oder sonstigen Schadorganismen oder sonstigen Entwesung verwendet werden dürfen, um sicherzustellen, dass Seuchenerreger unwirksam gemacht werden.
 
 ## Abschnitt 3 Besondere Schutzmaßnahmen
 
-##### § 8 Schutzgebiete, Tiergesundheitsstatus
+###### § 8 Schutzgebiete, Tiergesundheitsstatus
 
 (1) Die zuständige Behörde kann, soweit es zur Erfüllung der Zwecke des § 1 erforderlich ist,
 
@@ -315,7 +317,7 @@ Ferner kann die zuständige Behörde das Verbringen von Tieren, Erzeugnissen ode
 
 3. Maßnahmen zur Haltung einschließlich Hälterung, zum Inverkehrbringen und zum Transport von Wassertieren innerhalb eines Betriebes oder zwischen den Betrieben nach Nummer 1 oder innerhalb eines Gebietes oder zwischen Gebieten nach Nummer 2 mit gleichem Gesundheitsstatus festlegen.
 
-##### § 9 Seuchenfreiheit; Verordnungsermächtigungen
+###### § 9 Seuchenfreiheit; Verordnungsermächtigungen
 
 Das Bundesministerium wird ermächtigt, soweit es zur Erfüllung der Zwecke des § 1 Satz 1 erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -327,7 +329,7 @@ Das Bundesministerium wird ermächtigt, soweit es zur Erfüllung der Zwecke des 
 
 4. die Voraussetzungen für die Festlegung bestimmter Gebiete oder bestimmter Betriebe sowie die Voraussetzungen einer Kategorisierung dieser Gebiete und Betriebe in Abhängigkeit von dem Gesundheitsstatus der dort gehaltenen Tiere zu regeln sowie die Zuordnung von Betrieben oder Gebieten zu bestimmten Kategorien vorzunehmen.
 
-##### § 10 Monitoring; Verordnungsermächtigungen
+###### § 10 Monitoring; Verordnungsermächtigungen
 
 (1) Monitoring ist ein System wiederholter Beobachtung, Untersuchung und Bewertung von Seuchenerregern in oder auf lebenden oder toten Tieren oder an Orten, an denen üblicherweise Tiere gehalten werden oder sich wild lebende Tiere aufhalten, das dem frühzeitigen Erkennen von Gefahren, die von Seuchenerregern ausgehen können, durch die Untersuchung repräsentativer Proben dient. In das Monitoring können auch die Überträger von Seuchenerregern einbezogen werden.
 
@@ -345,7 +347,7 @@ zu regeln.
 
 ## Abschnitt 4 Immunologische Tierarzneimittel, In-vitro-Diagnostika
 
-##### § 11 Inverkehrbringen und Anwendung; Verordnungsermächtigungen
+###### § 11 Inverkehrbringen und Anwendung; Verordnungsermächtigungen
 
 (1) (weggefallen)
 
@@ -399,7 +401,7 @@ Die Ausnahmen sind zu befristen und mit den zum Schutz vor Seuchen erforderliche
 
 (8) Das Friedrich-Loeffler-Institut kann, soweit dies im Hinblick auf die Anwendung eines In-vitro-Diagnostikums, insbesondere in Bezug auf auftretende Verfälschungen, erforderlich oder durch Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union vorgeschrieben ist, Daten, die es im Rahmen seiner Tätigkeit gewonnen hat, den zuständigen Behörden, anderen Mitgliedstaaten, dem Bundesministerium und der Europäischen Kommission mitteilen.
 
-##### § 12 Herstellung von In-vitro-Diagnostika; Verordnungsermächtigungen
+###### § 12 Herstellung von In-vitro-Diagnostika; Verordnungsermächtigungen
 
 (1) Wer In-vitro-Diagnostika im Sinne des § 11 Absatz 2 Satz 1 zum Zwecke des Inverkehrbringens oder der Anwendung in eigenen Tierbeständen gewerbs- oder berufsmäßig herstellen will, bedarf für das jeweilige In-vitro-Diagnostikum einer Erlaubnis der zuständigen Behörde. Das Gleiche gilt für juristische Personen, nicht rechtsfähige Vereine und Gesellschaften des bürgerlichen Rechts, die diese In-vitro-Diagnostika zum Zwecke der Abgabe an ihre Mitglieder oder Gesellschafter herstellen wollen. Herstellen im Sinne dieser Vorschrift ist das Gewinnen, Anfertigen, Zubereiten, Be- und Verarbeiten, Umfüllen einschließlich Abfüllen, Abpacken und Kennzeichnen.
 
@@ -459,7 +461,7 @@ i) Grundsätze und Leitlinien der guten Herstellungspraxis für In-vitro-Diagnos
 
 ## Abschnitt 5 Verbringung aus einem anderen Mitgliedstaat in das Inland und aus dem Inland in einen anderen Mitgliedstaat, Eingang in die Union, Ausfuhr, Durchfuhr
 
-##### § 13 Verbringungs-, Eingangs-, Ausfuhr- und Durchfuhrverbote
+###### § 13 Verbringungs-, Eingangs-, Ausfuhr- und Durchfuhrverbote
 
 (1) Verboten sind die Verbringung aus einem anderen Mitgliedstaat in das Inland, die Verbringung aus dem Inland in einen anderen Mitgliedstaat, der Eingang in die Union (§ 2 Absatz 1 Nummer 3 in Verbindung mit Artikel 3 Nummer 40 der Verordnung (EU) 2017/625 in der Fassung vom 27. November 2024), die Ausfuhr und die Durchfuhr
 
@@ -479,7 +481,7 @@ Das Verbot nach Satz 1 gilt
 
 (3) Die zuständige Behörde kann Ausnahmen von Absatz 1 Satz 1 genehmigen für die Verbringung aus dem Inland in einen anderen Mitgliedstaat von auf behördliche Anordnung getöteten Tieren oder deren Teilen oder von Erzeugnissen nach Absatz 1 Satz 1 Nummer 2, soweit diese in angemessener Frist im Inland nicht beseitigt werden können.
 
-##### § 14 Verordnungsermächtigungen zur Regelung der Verbringung aus einem anderen Mitgliedstaat in das Inland, der Verbringung aus dem Inland in einen anderen Mitgliedstaat, des Eingangs in die Union, der Ausfuhr, der Durchfuhr
+###### § 14 Verordnungsermächtigungen zur Regelung der Verbringung aus einem anderen Mitgliedstaat in das Inland, der Verbringung aus dem Inland in einen anderen Mitgliedstaat, des Eingangs in die Union, der Ausfuhr, der Durchfuhr
 
 (1) Das Bundesministerium wird ermächtigt, soweit es zur Erfüllung der Zwecke des § 1 Satz 1 erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Verbringung aus einem anderen Mitgliedstaat in das Inland, die Verbringung aus dem Inland in einen anderen Mitgliedstaat, den Eingang in die Union, die Ausfuhr und die Durchfuhr lebender oder toter Tiere, von Teilen von Tieren oder von Erzeugnissen, Gegenständen oder Stoffen, die möglicherweise mit einem Seuchenerreger kontaminiert sind,
 
@@ -555,13 +557,13 @@ d) von dem Führen, Aufbewahren und der Vorlage von Aufzeichnungen, Nachweisen, 
 
 ## Abschnitt 6 Entschädigung für Tierverluste
 
-##### § 15 Grundsatz der Entschädigung
+###### § 15 Grundsatz der Entschädigung
 
 Vorbehaltlich der in diesem Gesetz bezeichneten Ausnahmen wird auf Antrag eine Entschädigung in Geld geleistet für
 
 1. Tiere, die auf behördliche Anordnung getötet worden oder nach Anordnung der Tötung verendet sind,
 
-2. Tiere, bei denen nach dem Tode eine in einer Rechtsverordnung nach § 4 näher bestimmte meldepflichtige Seuche festgestellt worden ist, soweit die Voraussetzungen gegeben waren, unter denen die Tiere auf behördliche Anordnung hätten getötet werden müssen,
+2. Tiere, bei denen nach dem Tode eine in einer Rechtsverordnung nach § 4 näher bestimmte meldepflichtige Seuche festgestellt worden ist, soweit die Voraussetzungen gegeben waren, unter denen die Tiere auf behördliche Anordnung hätten getötet werden müssen,
 
 3. Tiere, bei denen nach dem Tode Milzbrand oder Tollwut festgestellt worden ist,
 
@@ -571,33 +573,46 @@ Vorbehaltlich der in diesem Gesetz bezeichneten Ausnahmen wird auf Antrag eine E
 
 6. Rinder, Schweine, Schafe, Enten, Fasane, Gänse, Hühner, Laufvögel, Perlhühner, Rebhühner, Tauben, Truthühner und Wachteln, die Schlachtstätten zugeführt und bei der Schlachttieruntersuchung nicht als Verdachtsfall oder als bestätigter Fall eingestuft worden sind, soweit deren Fleisch nach der Schlachtung im Rahmen der Fleischuntersuchung aufgrund einer tierseuchenrechtlichen Vorschrift oder einer auf eine solche Vorschrift gestützten behördlichen Anordnung gemaßregelt worden ist.
 
-##### § 16 Höhe der Entschädigung; Verordnungsermächtigung
+###### § 16 Höhe der Entschädigung; Verordnungsermächtigung
 
 (1) Der Entschädigung wird der gemeine Wert des Tieres zu Grunde gelegt. Der gemeine Wert wird ohne Rücksicht auf die Wertminderung, die das Tier infolge der Seuche oder einer tierseuchenrechtlich vorgeschriebenen oder behördlich angeordneten Maßnahme erlitten hat, ermittelt.
 
 (2) Die Entschädigung darf folgende Höchstsätze je Tier nicht überschreiten:
 
-1.Pferde, Esel, Maulesel, Maultiere6 000 Euro,2.Rinder einschließlich Bisons, Wisente und Wasserbüffel4 000 Euro,3.Schweine1 500 Euro,4.Gehegewild1 000 Euro,5.Schafe800 Euro,6.Ziegen800 Euro,7.Enten, Fasane, Gänse, Hühner, Laufvögel, Perlhühner, Rebhühner, Tauben, Truthühner und Wachteln110 Euro.
+1. Pferde, Esel, Maulesel, Maultiere6 000 Euro,
+
+2. Rinder einschließlich Bisons, Wisente und Wasserbüffel4 000 Euro,
+
+3. Schweine1 500 Euro,
+
+4. Gehegewild1 000 Euro,
+
+5. Schafe800 Euro,
+
+6. Ziegen800 Euro**,**
+
+7. Enten, Fasane, Gänse, Hühner, Laufvögel, Perlhühner, Rebhühner, Tauben, Truthühner
+ und Wachteln110 Euro.
 
 Im Falle von Bienen und Hummeln beträgt der Höchstsatz der Entschädigung 200 Euro je Volk und im Falle von Wassertieren 20 Euro je Kilogramm Lebendgewicht. Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates in Abhängigkeit von der Steigerung des gemeinen Wertes der Tiere die in den Sätzen 1 und 2 festgesetzten Höchstsätze um bis zu 50 vom Hundert zu erhöhen, um ihr Verhältnis zum gemeinen Wert der Tiere bei der jeweiligen Tierart zu wahren.
 
 (3) Die Entschädigung nach Absatz 1 in Verbindung mit Absatz 2 mindert sich
 
-1. um 50 vom Hundert für Tiere, die, außer in den Fällen des § 15 Nummer 3 und 4, vor einer in einer Rechtsverordnung nach § 4 vorgeschriebenen Meldung einer dort näher bestimmten meldepflichtigen Seuche nachweislich an der Seuche verendet oder wegen der Seuche getötet worden sind,
+1. um 50 vom Hundert für Tiere, die, außer in den Fällen des § 15 Nummer 3 und 4, vor einer in einer Rechtsverordnung nach § 4 vorgeschriebenen Meldung einer dort näher bestimmten meldepflichtigen Seuche nachweislich an der Seuche verendet oder wegen der Seuche getötet worden sind,
 
 2. um 20 vom Hundert im Falle des § 15 Nummer 6.
 
 (4) Auf die Entschädigung wird der Wert der nach Maßgabe einer tierseuchenrechtlichen Vorschrift oder behördlichen Anordnung verwertbaren Teile des Tieres angerechnet. Die bei der Verwertung oder Tötung des Tieres unmittelbar entstehenden Kosten zählen nicht zur Entschädigung, sie sind zusätzlich zu erstatten. Bei der Festsetzung der Entschädigung werden Steuern nicht berücksichtigt. Dies gilt nicht für Kosten nach Satz 2.
 
-##### § 17 Ausschluss der Entschädigung
+###### § 17 Ausschluss der Entschädigung
 
 Keine Entschädigung wird gewährt für
 
 1. Tiere, die dem Bund oder einem Land gehören,
 
-2. Tiere, die entgegen § 13 oder einem der Bekämpfung von oder der Vorbeugung vor Seuchen dienenden unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes in die Union verbracht, durchgeführt oder aus einem anderen Mitgliedstaat in das Inland verbracht worden sind,
+2. Tiere, die entgegen § 13 oder einem der Bekämpfung von oder der Vorbeugung vor Seuchen dienenden unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes in die Union verbracht, durchgeführt oder aus einem anderen Mitgliedstaat in das Inland verbracht worden sind,
 
-3. Tiere, die entgegen einer Vorschrift einer nach § 14 Absatz 1 erlassenen Rechtsverordnung in die Union verbracht, durchgeführt oder aus einem anderen Mitgliedstaat in das Inland verbracht worden sind,
+3. Tiere, die entgegen einer Vorschrift einer nach § 14 Absatz 1 erlassenen Rechtsverordnung in die Union verbracht, durchgeführt oder aus einem anderen Mitgliedstaat in das Inland verbracht worden sind,
 
 4. Tiere, die nach dem Eingang in die Union oder der Verbringung aus einem anderen Mitgliedstaat in das Inland aufgrund einer im Zusammenhang mit diesem Eingang oder dieser Verbringung tierseuchenrechtlich vorgeschriebenen oder behördlich angeordneten Maßnahme oder im Zusammenhang mit einer solchen Maßnahme getötet werden mussten oder verendet sind,
 
@@ -633,7 +648,7 @@ i) Hummeln,
 
 Satz 1 Nummer 5 gilt nicht in den Fällen des § 15 Nummer 1 und 3 bis 6.
 
-##### § 18 Entfallen der Entschädigung
+###### § 18 Entfallen der Entschädigung
 
 (1) Der Anspruch auf Entschädigung entfällt, wenn der Unternehmer oder sein Vertreter im Zusammenhang mit dem die Entschädigung auslösenden Fall
 
@@ -647,7 +662,7 @@ c) eine Vorschrift einer nach einer der in den Buchstaben a oder b bezeichneten 
 
 d) eine Maßnahme, die nach einer der in den Buchstaben a oder b bezeichneten Bestimmungen oder einer nach Buchstabe c genannten Rechtsverordnung angeordnet worden ist,
 
-2. die in einer Rechtsverordnung nach § 4 vorgeschriebene Meldung einer dort näher bestimmten meldepflichtigen Seuche schuldhaft nicht oder nicht unverzüglich vorgenommen hat, es sei denn, dass die Meldung von einem anderen zur Meldung einer solchen Seuche Verpflichteten unverzüglich vorgenommen worden ist,
+2. die in einer Rechtsverordnung nach § 4 vorgeschriebene Meldung einer dort näher bestimmten meldepflichtigen Seuche schuldhaft nicht oder nicht unverzüglich vorgenommen hat, es sei denn, dass die Meldung von einem anderen zur Meldung einer solchen Seuche Verpflichteten unverzüglich vorgenommen worden ist,
 
 3. an der Seuche erkrankte oder mit einem Seuchenerreger infizierte gehaltene Landtiere oder Wassertiere erworben hat und beim Erwerb Kenntnis von der Seuche hatte oder den Umständen nach hätte haben müssen.
 
@@ -663,11 +678,11 @@ d) eine Maßnahme, die nach einer der in den Buchstaben a oder b bezeichneten Be
 
 (4) Die Absätze 1 bis 3 gelten in den Fällen des § 16 Absatz 4 Satz 2 entsprechend.
 
-##### § 19 Teilweise Entschädigung
+###### § 19 Teilweise Entschädigung
 
 Die Entschädigung kann in den Fällen des § 18 Absatz 1 Satz 1 und Absatz 3 teilweise gewährt werden, wenn die Schuld gering ist oder die Versagung der Entschädigung für den Unternehmer eine unbillige Härte bedeuten würde.
 
-##### § 20 Entschädigungspflichtiger
+###### § 20 Entschädigungspflichtiger
 
 (1) Die Länder regeln, wer die Entschädigung gewährt und wie sie aufzubringen ist. Das Land hat die Entschädigung zu leisten; soweit von Unternehmern für bestimmte Tierarten zur Gewährung von Entschädigungen Beiträge nach Absatz 2 Satz 1 erhoben werden, hat es die Entschädigung jedoch nur zur Hälfte zu leisten.
 
@@ -675,7 +690,7 @@ Die Entschädigung kann in den Fällen des § 18 Absatz 1 Satz 1 und Absatz 3 te
 
 (3) Werden von Unternehmern zur Gewährung von Entschädigungen Beiträge erhoben, dürfen für Tiere, die dem Bund oder einem Land gehören, oder für zur Schlachtung bestimmte gehaltene Landtiere, die Schlachtstätten zugeführt worden sind, keine Beiträge erhoben werden.
 
-##### § 21 Entschädigungsberechtigter, Forderungsübergang
+###### § 21 Entschädigungsberechtigter, Forderungsübergang
 
 (1) Die Entschädigung wird, soweit ein anderer Berechtigter nicht bekannt ist, demjenigen gezahlt, in dessen Gewahrsam sich das Tier zum Zeitpunkt des Todes befand.
 
@@ -685,7 +700,7 @@ Die Entschädigung kann in den Fällen des § 18 Absatz 1 Satz 1 und Absatz 3 te
 
 (4) Richtet sich der Ersatzanspruch des Entschädigungsberechtigten gegen einen mit ihm in häuslicher Gemeinschaft lebenden Familienangehörigen, so ist der Übergang ausgeschlossen; der Anspruch geht jedoch über, wenn der Angehörige den Schaden vorsätzlich verursacht hat.
 
-##### § 22 Ergänzende Bestimmungen
+###### § 22 Ergänzende Bestimmungen
 
 (1) Soweit ein unmittelbar geltender Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes nicht entgegensteht oder seine Durchführung es erfordert, gelten die Absätze 3 bis 5 und die §§ 15 bis 21 hinsichtlich der Entschädigungen für Tierverluste auf Grund einer Vorschrift eines solchen Rechtsaktes entsprechend.
 
@@ -699,7 +714,7 @@ Die Entschädigung kann in den Fällen des § 18 Absatz 1 Satz 1 und Absatz 3 te
 
 ## Abschnitt 7 Datenverarbeitung
 
-##### § 23 Datenverarbeitung
+###### § 23 Datenverarbeitung
 
 (1) Einrichtungen, die tierseuchenrechtlich vorgeschriebene Untersuchungen durchführen, übermitteln im Falle einer Untersuchung der zuständigen Behörde zu den in Absatz 3 bezeichneten Zwecken die Angaben über
 
@@ -759,7 +774,7 @@ Der schriftliche Auszug nach Satz 2 hat Name und Anschrift des Unternehmers sowi
 
 ## Abschnitt 8 Überwachung, zuständige Behörden
 
-##### § 24 Überwachung
+###### § 24 Überwachung
 
 (1) Die Durchführung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsvorschriften sowie der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes obliegt den nach Landesrecht zuständigen Behörden, soweit gesetzlich nichts anderes bestimmt ist. In diesem Rahmen überwachen sie die Einhaltung der vorstehend genannten Vorschriften sowie der auf Grund dieser Vorschriften ergangenen vollziehbaren Anordnungen. Die Überwachung ist jeweils von approbierten Tierärzten oder unter deren fachlicher Aufsicht stehenden anderen Personen durchzuführen. Die §§ 27 und 28 bleiben unberührt.
 
@@ -813,7 +828,7 @@ Eine Anordnung nach Satz 2 Nummer 2 setzt voraus, dass Grund zu der Annahme best
 
 1. rechtskräftig nach § 31 verurteilt worden ist oder
 
-2. aufgrund rechtskräftig festgestellter Ordnungswidrigkeiten nach § 32 Absatz 1 und 2 die erforderliche Zuverlässigkeit nicht besitzt.
+2. aufgrund rechtskräftig festgestellter Ordnungswidrigkeiten nach § 32 Absatz 1 und 2 die erforderliche Zuverlässigkeit nicht besitzt.
 
 (4) Natürliche und juristische Personen und sonstige Personenvereinigungen haben den zuständigen Behörden auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der den Behörden nach Absatz 1 übertragenen Aufgaben erforderlich sind. Die Auskunftspflichtigen können die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
@@ -845,7 +860,7 @@ Das Grundrecht der Unverletzlichkeit der Wohnung nach Artikel 13 des Grundgesetz
 
 (12) Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgabe des Absatzes 3 Satz 1 und 2 Nummer 11 eingeschränkt.
 
-##### § 25 Überwachung bestimmter Veranstaltungen und Einrichtungen
+###### § 25 Überwachung bestimmter Veranstaltungen und Einrichtungen
 
 (1) Auftriebe von gehaltenen Huftieren, von in Gefangenschaft gehaltenen Vögeln, von Geflügel und von gehaltenen Hasen oder gehaltenen Kaninchen sowie Transportunternehmen und Schlachtstätten werden durch die zuständige Behörde überwacht. Die zuständige Behörde kann die Anordnungen treffen, die erforderlich sind, um an den der Überwachung unterliegenden Orten oder in den der Überwachung unterliegenden Betrieben und sonstigen Einrichtungen sicherzustellen, dass die zur Erfüllung der Zwecke des § 1 Satz 1 notwendigen Anforderungen eingehalten werden.
 
@@ -867,7 +882,7 @@ Das Grundrecht der Unverletzlichkeit der Wohnung nach Artikel 13 des Grundgesetz
 
 von denen die Gefahr einer Seuche ausgehen kann.
 
-##### § 26 Verordnungsermächtigungen zur Überwachung
+###### § 26 Verordnungsermächtigungen zur Überwachung
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der Zwecke des § 1 notwendig ist, die Überwachung näher zu regeln. Es kann dabei insbesondere Vorschriften über
 
@@ -899,7 +914,7 @@ a) das Vorhandensein, die Anzahl, die Nutzungsart, den Abgang oder den Zugang od
 
 b) den Abgang oder den Zugang von toten Tieren oder Teilen von Tieren oder
 
-c) die in den § 6 Absatz 1 Nummer 2, 5, 6 und 11 und in § 25 aufgeführten Betriebe, Unternehmen oder Veranstaltungen sowie
+c) die in den § 6 Absatz 1 Nummer 2, 5, 6 und 11 und in § 25 aufgeführten Betriebe, Unternehmen oder Veranstaltungen sowie
 
 2. eine behördliche Registrierung oder Zulassung, einschließlich der Vergabe von Registriernummern oder Zulassungsnummern, von gehaltenen Landtieren und der in Nummer 1 Buchstabe c genannten Betriebe, Unternehmen oder Veranstaltungen
 
@@ -907,7 +922,7 @@ vorzuschreiben.
 
 (3) Das Bundesministerium wird ermächtigt, zur Erfüllung der Berichtspflichten, die sich aus Rechtsvorschriften nach diesem Gesetz oder auf Grund dieses Gesetzes erlassener Rechtsverordnungen oder aus Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes ergeben und gegenüber der Europäischen Union bestehen, durch Rechtsverordnung mit Zustimmung des Bundesrates die Übermittlung der erforderlichen Angaben an das Bundesministerium oder das Friedrich-Loeffler-Institut durch die zuständigen Behörden zu regeln.
 
-##### § 27 Friedrich-Loeffler-Institut; Verordnungsermächtigungen
+###### § 27 Friedrich-Loeffler-Institut; Verordnungsermächtigungen
 
 (1) Das Friedrich-Loeffler-Institut ist eine selbständige Bundesoberbehörde im Geschäftsbereich des Bundesministeriums. Es forscht auf dem Gebiet der Seuchen bei Tieren, des Tierschutzes, der Tierhaltung, der Tierernährung und der Nutztiergenetik und unterrichtet und berät die Bundesregierung auf diesen Gebieten.
 
@@ -973,7 +988,7 @@ beraten.
 
 (9) Das Friedrich-Loeffler-Institut stellt den zuständigen Behörden die IT-Anwendung „Tierseuchennachrichten (TSN)“ zur Verfügung.
 
-##### § 28 Durchführung bei Bundeswehr, Kliniken und Instituten
+###### § 28 Durchführung bei Bundeswehr, Kliniken und Instituten
 
 (1) Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt die Durchführung der Vorschriften dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen Rechtsvorschriften und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes, mit Ausnahme der Vorschriften für die Verbringung aus einem anderen Mitgliedstaat in das Inland, die Verbringung aus dem Inland in einen anderen Mitgliedstaat, den Eingang in die Union, die Durchfuhr und die Ausfuhr, den zuständigen Dienststellen der Bundeswehr. Diese Dienststellen haben der für den Standort zuständigen Behörde einen Nachweis oder Gründe für den Verdacht einer Seuche, den Verlauf und das Erlöschen einer Seuche in ihrem Zuständigkeitsbereich mitzuteilen; bei Seuchen, die bekämpft werden müssen, haben sie auch die getroffenen tierseuchenrechtlichen Maßnahmen unverzüglich mitzuteilen.
 
@@ -991,7 +1006,7 @@ die Bekämpfung von Seuchen in entsprechender Anwendung des Absatzes 2 übertrag
 
 (5) Die in den Absätzen 2 und 3 genannten Anstalten und Einrichtungen haben einen Nachweis oder Gründe für den Verdacht einer Seuche, die nicht Gegenstand ihrer wissenschaftlichen Versuche ist, unverzüglich der zuständigen Behörde mitzuteilen.
 
-##### § 29 Mitwirkung der Zollbehörden; Verordnungsermächtigung
+###### § 29 Mitwirkung der Zollbehörden; Verordnungsermächtigung
 
 (1) Die Zollbehörden wirken bei der Überwachung der Verbringung von lebenden und toten Tieren, Teilen von Tieren und von möglicherweise mit einem Seuchenerreger kontaminierten Erzeugnissen, Gegenständen und Stoffen in die Union sowie bei deren Durchfuhr und Ausfuhr mit. Die Zollbehörden können
 
@@ -1007,7 +1022,7 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgab
 
 (3) Das Bundesamt gibt im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger die Zollbehörden bekannt, bei denen lebende oder tote Tiere, Teile von Tieren und möglicherweise mit einem Seuchenerreger kontaminierte Erzeugnisse, Gegenstände oder Stoffe die erste zulässige zollrechtliche Bestimmung erhalten können, sowie die diesen Zollbehörden zugeordneten zuständigen Behörden, soweit die Verbringung in die Union durch Rechtsverordnung nach § 14 Absatz 1 oder 2, auch in Verbindung mit § 38 Absatz 2, geregelt ist. Das Bundesministerium der Finanzen kann die Erteilung des Einvernehmens nach Satz 1 auf die Generalzolldirektion übertragen.
 
-##### § 30 Bereitstellung von immunologischen Tierarzneimitteln, Seuchenbekämpfungszentren
+###### § 30 Bereitstellung von immunologischen Tierarzneimitteln, Seuchenbekämpfungszentren
 
 (1) Sehen Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes vor, dass eine Seuche nicht durch eine allgemeine, insbesondere vorbeugende Impfung empfänglicher Tiere, sondern nur im Falle eines Ausbruchs einer Seuche zur Verhinderung einer Verschleppung der Seuche durch eine räumlich begrenzte Impfung der betroffenen Bestände bekämpft werden darf, so treffen die Länder die erforderlichen Maßnahmen, um sicherzustellen, dass das für eine notwendige Impfung erforderliche immunologische Tierarzneimittel in ausreichender Menge zur Verfügung steht.
 
@@ -1015,13 +1030,13 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgab
 
 ## Abschnitt 9 Straf- und Bußgeldvorschriften
 
-##### § 31 Strafvorschriften
+###### § 31 Strafvorschriften
 
 (1) Mit Freiheitsstrafe von bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer
 
 1. entgegen § 13 Absatz 1 Satz 1 ein dort genanntes Tier, ein dort genanntes Erzeugnis, ein dort genanntes Teil, einen dort genannten Gegenstand oder einen dort genannten Stoff verbringt oder durchführt oder
 
-2. entgegen einer Rechtsverordnung nach § 14 Absatz 2 Nummer 1 Buchstabe a oder b oder einer vollziehbaren Anordnung aufgrund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
+2. entgegen einer Rechtsverordnung nach § 14 Absatz 2 Nummer 1 Buchstabe a oder b oder einer vollziehbaren Anordnung aufgrund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
 
 (2) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
@@ -1035,7 +1050,7 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgab
 
 (5) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-##### § 32 Bußgeldvorschriften
+###### § 32 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine in § 31 Absatz 2 bezeichnete Handlung fahrlässig begeht.
 
@@ -1077,17 +1092,17 @@ d) Buchstabe d
 
 (4) Das Bundesministerium wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 2 Nummer 8 geahndet werden können.
 
-##### § 33 Einziehung
+###### § 33 Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 31 oder eine Ordnungswidrigkeit nach § 32 Absatz 2 Nummer 4 Buchstabe d bezieht, können eingezogen werden.
 
 ## Abschnitt 10 Weitere Befugnisse, Schlussvorschriften
 
-##### § 34 Verordnungsermächtigung zur Aufgabenübertragung
+###### § 34 Verordnungsermächtigung zur Aufgabenübertragung
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates, Aufgaben, für die dem Bund eine Verwaltungszuständigkeit zusteht und die sich aus Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes ergeben, insbesondere die Bekanntmachung der Zulassung oder Registrierung von Betrieben, auf das Bundesamt oder die Bundesanstalt für Landwirtschaft und Ernährung zu übertragen.
 
-##### § 35 Amtshilfe, gegenseitige Unterrichtung; Verordnungsermächtigung
+###### § 35 Amtshilfe, gegenseitige Unterrichtung; Verordnungsermächtigung
 
 (1) Die zuständigen Behörden
 
@@ -1107,13 +1122,13 @@ Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung d
 
 (5) Die Absätze 1 bis 4 gelten entsprechend für Drittländer, die Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum sind.
 
-##### § 36 Schiedsverfahren
+###### § 36 Schiedsverfahren
 
 (1) Ist eine von der zuständigen Behörde getroffene Maßnahme, die sich auf lebende oder tote Tiere, auf Teile von Tieren und auf Erzeugnisse, Gegenstände oder Stoffe, die möglicherweise mit einem Seuchenerreger kontaminiert sind, aus anderen Mitgliedstaaten bezieht, zwischen ihr und dem Verfügungsberechtigten streitig, so können beide Parteien einvernehmlich den Streit durch den Schiedsspruch eines Sachverständigen schlichten lassen. Die Streitigkeit ist binnen eines Monats nach Bekanntgabe der Maßnahme einem Sachverständigen zu unterbreiten, der in einem von der Europäischen Kommission aufgestellten Verzeichnis aufgeführt ist. Der Sachverständige hat das Gutachten binnen 72 Stunden zu erstatten.
 
 (2) Auf den Schiedsvertrag und das schiedsrichterliche Verfahren finden die Vorschriften der §§ 1025 bis 1065 der Zivilprozessordnung entsprechende Anwendung. Gericht im Sinne des § 1062 der Zivilprozessordnung ist das zuständige Verwaltungsgericht; auf Rechtsmittel, die gegen Entscheidungen der zuständigen Verwaltungsgerichte erhoben werden, findet § 1065 der Zivilprozessordnung mit der Maßgabe Anwendung, dass das zuständige Oberverwaltungsgericht über das Rechtsmittel entscheidet. Abweichend von § 1059 Absatz 3 Satz 1 der Zivilprozessordnung muss der Aufhebungsantrag innerhalb eines Monats bei Gericht eingereicht werden.
 
-##### § 37 Anfechtung von Anordnungen
+###### § 37 Anfechtung von Anordnungen
 
 Die Anfechtung einer Anordnung
 
@@ -1151,7 +1166,7 @@ b) auf die Verordnung (EU) 2016/429, auf eine auf Grundlage der Verordnung (EU) 
 
 2. die Bejagung oder die Suche nach verendeten wild lebenden Tieren durch andere Personen als den Jagdausübungsberechtigten angeordnet worden ist.
 
-##### § 38 Rechtsverordnungen und Anordnungsbefugnisse in bestimmten Fällen; Verordnungsermächtigungen
+###### § 38 Rechtsverordnungen und Anordnungsbefugnisse in bestimmten Fällen; Verordnungsermächtigungen
 
 (1) Rechtsverordnungen nach diesem Gesetz kann das Bundesministerium auch zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes erlassen.
 
@@ -1187,7 +1202,7 @@ b) auf die Verordnung (EU) 2016/429, auf eine auf Grundlage der Verordnung (EU) 
 
 2. Vorschriften, die auf eine Ermächtigung des Tierseuchengesetzes oder des Viehseuchengesetzes zum Erlass von Rechtsverordnungen der Landesregierungen gestützt sind.
 
-##### § 39 Weitergehende Maßnahmen; Verordnungsermächtigungen
+###### § 39 Weitergehende Maßnahmen; Verordnungsermächtigungen
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Verbringung aus einem anderen Mitgliedstaat in das Inland, die Verbringung aus dem Inland in einen anderen Mitgliedstaat, den Eingang in die Union, die Ausfuhr und die Durchfuhr von lebenden oder toten Tieren, Teilen von Tieren oder von Erzeugnissen, Gegenständen oder Stoffen, die möglicherweise mit einem Seuchenerreger kontaminiert sind, zu verbieten oder zu beschränken, soweit dies zur Vorsorge für die Gesundheit von Mensch oder Tier oder zu deren Schutz erforderlich ist und Regelungen aufgrund anderer Vorschriften dieses Gesetzes oder aufgrund des Lebensmittel- und Futtermittelgesetzbuches nicht getroffen werden können. § 14 Absatz 1 Satz 2 und § 38 Absatz 2 und 4 gelten entsprechend.
 
@@ -1205,7 +1220,7 @@ b) auf die Verordnung (EU) 2016/429, auf eine auf Grundlage der Verordnung (EU) 
 
 zu erlassen und hierbei insbesondere im Falle nicht im Inland vorkommender Seuchen die Tötung von Tieren vorzuschreiben; die §§ 37 und 38 Absatz 1, 2, 4, 10 und 11 gelten entsprechend.
 
-##### § 39a Beschränkungen des Eigentums, Entschädigung und Ausgleich
+###### § 39a Beschränkungen des Eigentums, Entschädigung und Ausgleich
 
 (1) Führen Beschränkungen des Eigentums in Folge von Maßnahmen nach § 6 Absatz 1 Nummer 18a, 28, auch in Verbindung mit § 6 Absatz 6, Nummer 28b oder 28c oder von Rechtsvorschriften, die auf Grund dieser Vorschrift erlassen worden sind, im Einzelfall zu einer unzumutbaren Belastung, der nicht durch andere Maßnahmen, insbesondere durch die Gewährung einer Ausnahme, abgeholfen werden kann, ist eine angemessene Entschädigung zu leisten, soweit der Berechtigte nicht Ersatz nach § 6 Absatz 7, 8 oder 9 zu erlangen vermag.
 
@@ -1213,15 +1228,15 @@ zu erlassen und hierbei insbesondere im Falle nicht im Inland vorkommender Seuch
 
 (3) Die Länder können vorsehen, dass Eigentümern und Nutzungsberechtigten, denen auf Grund von Vorschriften dieses Gesetzes oder Rechtsvorschriften, die auf Grund dieses Gesetzes erlassen worden sind, insbesondere die Nutzung von Grundstücken wesentlich erschwert wird, ohne dass eine Entschädigung nach den Absätzen 1 oder 2 zu leisten ist, auf Antrag ein angemessener Ausgleich nach Maßgabe des jeweiligen Haushaltsgesetzes gezahlt werden kann.
 
-##### § 40 (weggefallen)
+###### § 40 (weggefallen)
 
-##### § 41 Verhältnis zu anderen Vorschriften
+###### § 41 Verhältnis zu anderen Vorschriften
 
 Soweit in oder auf Futtermitteln Seuchenerreger einer in einer Rechtsverordnung nach § 4 näher bestimmten meldepflichtigen Seuche oder einer mitteilungspflichtigen Seuche vorhanden sind oder sein können, gelten, vorbehaltlich des Satzes 2, hinsichtlich der Verbote und Beschränkungen für die Teilnahme am Warenverkehr und die Verwendung innerhalb eines Betriebes, ausschließlich dieses Gesetz und die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen. § 17 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches bleibt unberührt.
 
-##### § 42 (weggefallen)
+###### § 42 (weggefallen)
 
-##### § 43 Übergangsvorschriften; Verordnungsermächtigung
+###### § 43 Übergangsvorschriften; Verordnungsermächtigung
 
 (1) Ausnahmegenehmigungen nach § 17c Absatz 4 des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260, 3588), das zuletzt durch Artikel 2 Absatz 87 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, gelten bis zum Ablauf der jeweiligen Genehmigung fort.
 
@@ -1231,7 +1246,7 @@ Soweit in oder auf Futtermitteln Seuchenerreger einer in einer Rechtsverordnung 
 
 1. findet § 4 in seiner bis zum Ablauf des 9. März 2026 geltenden Fassung weiter Anwendung mit der Maßgabe, dass an die Stelle des Tierhalters der Unternehmer und der Heimtierhalter treten,
 
-2. gilt § 5 Absatz 1 Satz 1 mit der Maßgabe, dass an die Stelle der Meldung einer in einer Rechtsverordnung nach § 4 näher bestimmten meldepflichtigen Seuche die Anzeige einer Seuche tritt, die in der Verordnung über anzeigepflichtige Tierseuchen gelistet ist,
+2. gilt § 5 Absatz 1 Satz 1 mit der Maßgabe, dass an die Stelle der Meldung einer in einer Rechtsverordnung nach § 4 näher bestimmten meldepflichtigen Seuche die Anzeige einer Seuche tritt, die in der Verordnung über anzeigepflichtige Tierseuchen gelistet ist,
 
 3. gelten § 5 Absatz 1 Satz 4, Absatz 2 und 3 Satz 4, § 15 Nummer 2 und § 27 Absatz 5 Satz 1 Nummer 1 jeweils mit der Maßgabe, dass an die Stelle einer in einer Rechtsverordnung nach § 4 näher bestimmten meldepflichtigen Seuche eine Seuche tritt, die in der Verordnung über anzeigepflichtige Tierseuchen gelistet ist,
 
@@ -1239,7 +1254,7 @@ Soweit in oder auf Futtermitteln Seuchenerreger einer in einer Rechtsverordnung 
 
 5. gilt § 11 Absatz 2 Satz 1 mit der Maßgabe, dass an die Stelle der meldepflichtigen Seuchen jene Seuchen treten, die in der Verordnung über anzeigepflichtige Tierseuchen und der Verordnung über meldepflichtige Tierkrankheiten gelistet sind,
 
-6. gelten § 16 Absatz 3 Nummer 1 und § 18 Absatz 1 Satz 1 Nummer 2 mit der Maßgabe, dass an die Stelle der in einer Rechtsverordnung nach § 4 vorgeschriebenen Meldung einer dort näher bestimmten meldepflichtigen Seuche die Anzeige nach § 4 in seiner bis zum Ablauf des 9. März 2026 geltenden Fassung in Verbindung mit Nummer 1 einer solchen Seuche tritt, die in der Verordnung über anzeigepflichtige Tierseuchen gelistet ist,
+6. gelten § 16 Absatz 3 Nummer 1 und § 18 Absatz 1 Satz 1 Nummer 2 mit der Maßgabe, dass an die Stelle der in einer Rechtsverordnung nach § 4 vorgeschriebenen Meldung einer dort näher bestimmten meldepflichtigen Seuche die Anzeige nach § 4 in seiner bis zum Ablauf des 9. März 2026 geltenden Fassung in Verbindung mit Nummer 1 einer solchen Seuche tritt, die in der Verordnung über anzeigepflichtige Tierseuchen gelistet ist,
 
 7. gilt § 41 Satz 1 mit der Maßgabe, dass an die Stelle der Seuchenerreger einer in einer Rechtsverordnung nach § 4 näher bestimmten meldepflichtigen Seuche der Seuchenerreger einer in der Verordnung über anzeigepflichtigen Tierseuchen gelisteten Tierseuche tritt.
 
@@ -1248,4 +1263,3 @@ Soweit in oder auf Futtermitteln Seuchenerreger einer in einer Rechtsverordnung 
 (3a) Der Entschädigungshöchstsatz nach § 16 Absatz 2 Satz 1 Nummer 7 ist zu Grunde zu legen, wenn der die Entschädigungspflicht begründende Umstand nach Ablauf des 30. September 2025 eingetreten ist.
 
 (4) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates in Rechtsverordnungen, die auf Grund des Tierseuchengesetzes erlassen worden sind, die Anpassungen vorzunehmen, die erforderlich sind, um die jeweilige Rechtsverordnung an die Ablösung des ermächtigenden Gesetzes durch dieses Gesetzes anzupassen.
-
