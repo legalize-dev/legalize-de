@@ -4,31 +4,38 @@ identifier: "SCHWARMFDPV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2022-05-17"
-last_updated: "2026-04-04"
+last_updated: "2026-09-11"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/schwarmfdpv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR085200022"
 slug: "schwarmfdpv"
 bgbl_reference: "BGBl I 2022, 852"
+stand: "Geändert durch Art. 2 V v. 26.8.2026 I Nr. 256"
 ---
 # Verordnung zur Ausgestaltung der Prüfungen nach § 32f des Wertpapierhandelsgesetzes bei Schwarmfinanzierungsdienstleistern nach der Verordnung (EU) 2020/1503
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 32f Absatz 8 des Wertpapierhandelsgesetzes, der durch Artikel 4 Nummer 1 Buchstabe b des Gesetzes vom 3. Juni 2021 (BGBl. I S. 1568) eingefügt worden ist, in Verbindung mit § 1 Nummer 1 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch Artikel 1 der Verordnung vom 22. Dezember 2021 (BGBl. I S. 5256) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
-##### § 1 Geltungsbereich
+###### § 1 Geltungsbereich
 
 Diese Verordnung gilt für die Prüfung nach § 32f Absatz 2 des Wertpapierhandelsgesetzes.
 
-##### § 2 Fehler, Mangel, sonstige Erkenntnisse
+###### § 2 Fehler, Mangel, sonstige Erkenntnisse
 
 (1) Ein Fehler im Sinne dieser Verordnung ist jede einzelne Abweichung von
 
-1. Pflichten nach den Artikeln 3 bis 11, Artikel 15 Absatz 3, Artikel 16 Absatz 1 und 3, Artikel 18 Absatz 1 und 4, Artikeln 19 bis 21, Artikel 22 Absatz 2 bis 7, Artikel 23 Absatz 1 bis 4 und 6 bis 9 und 11 bis 16, Artikel 24 Absatz 1 bis 4 und 6 bis 8, Artikeln 25, 26, Artikel 27 Absatz 1 bis 3 und den Anhängen I und II der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), in der jeweils geltenden Fassung, einschließlich der auf der Grundlage der Verordnung (EU) 2020/1503 erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission, oder
+1. Pflichten nach den Artikeln 3 bis 11, Artikel 15 Absatz 3, Artikel 16 Absatz 1 und 3, Artikel 18 Absatz 1 und 4, Artikeln 19 bis 21, Artikel 22 Absatz 2 bis 7, Artikel 23 Absatz 1 bis 4 und 6 bis 9 und 11 bis 16, Artikel 24 Absatz 1 bis 4 und 6 bis 8, Artikeln 25, 26, Artikel 27 Absatz 1 bis 3 und den Anhängen I und II der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), in der jeweils geltenden Fassung, einschließlich der auf der Grundlage der Verordnung (EU) 2020/1503 erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission,
+
+1a. Pflichten gemäß den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit gemäß den Artikeln 15, 16, 20, 28 oder 30 der Verordnung (EU) 2022/2554 erlassenen Rechtsakten, oder
 
 2. Anordnungen der Bundesanstalt nach § 10 Absatz 4 des Wertpapierhandelsgesetzes.
 
@@ -38,7 +45,7 @@ Diese Verordnung gilt für die Prüfung nach § 32f Absatz 2 des Wertpapierhande
 
 ## Abschnitt 2 Prüfung
 
-##### § 3 Prüfungszeitraum, Prüfungsdauer und Unterbrechung der Prüfung
+###### § 3 Prüfungszeitraum, Prüfungsdauer und Unterbrechung der Prüfung
 
 (1) Der Prüfungszeitraum beginnt mit dem Tag der ersten und endet mit dem Tag der letzten Prüfungshandlung vor Ort.
 
@@ -50,7 +57,7 @@ Diese Verordnung gilt für die Prüfung nach § 32f Absatz 2 des Wertpapierhande
 
 (5) Die Unterbrechung ist im Prüfungsbericht zu dokumentieren. Dies gilt auch dann, wenn zwar einzelne Abweichungen von der Prüfungsplanung nicht länger als zwei Wochen gedauert haben, die Prüfung jedoch insgesamt für mehr als vier Wochen unterbrochen wurde.
 
-##### § 4 Stichtag der Prüfung und Berichtszeitraum
+###### § 4 Stichtag der Prüfung und Berichtszeitraum
 
 (1) Der Prüfer legt den Stichtag der Prüfung nach pflichtgemäßem Ermessen fest.
 
@@ -60,7 +67,7 @@ Diese Verordnung gilt für die Prüfung nach § 32f Absatz 2 des Wertpapierhande
 
 (4) Berichtszeitraum der sonstigen Prüfungen ist jeweils der Zeitraum zwischen dem Stichtag der letzten Prüfung und dem Stichtag der folgenden Prüfung.
 
-##### § 5 Prüfungsbeginn
+###### § 5 Prüfungsbeginn
 
 (1) Die Prüfung muss spätestens 15 Monate nach dem Beginn des für sie maßgeblichen Berichtszeitraums nach § 4 begonnen worden sein. Die Bundesanstalt kann im Einzelfall und aus wichtigem Grund eine andere Frist bestimmen.
 
@@ -72,7 +79,7 @@ Diese Verordnung gilt für die Prüfung nach § 32f Absatz 2 des Wertpapierhande
 
 (5) Mitteilungen an die Bundesanstalt haben in Textform an den Sitz der Bundesanstalt in Frankfurt am Main zu erfolgen.
 
-##### § 6 Allgemeine Anforderungen an die Prüfung; Bildung von Schwerpunkten
+###### § 6 Allgemeine Anforderungen an die Prüfung; Bildung von Schwerpunkten
 
 (1) Die Prüfung umfasst die Einhaltung der in § 2 Absatz 1 genannten Anforderungen und Anordnungen. Sie muss den gesamten Berichtszeitraum erfassen und in einem angemessenen Verhältnis zum Umfang der jeweiligen Geschäfte und Aufgaben stehen.
 
@@ -86,7 +93,7 @@ Diese Verordnung gilt für die Prüfung nach § 32f Absatz 2 des Wertpapierhande
 
 (6) Soweit die Prüfung gleichzeitig mit anderen Prüfungen durchgeführt wird, ist ein getrennter Prüfbericht zu erstellen.
 
-##### § 7 Auslagerung
+###### § 7 Auslagerung
 
 (1) Bei Schwarmfinanzierungsdienstleistern, welche bei der Wahrnehmung betrieblicher Aufgaben auf Dritte zugreifen (Auslagerung), erstreckt sich die Prüfung insoweit auch auf die Dritten (Auslagerungsunternehmen).
 
@@ -104,13 +111,13 @@ Diese Verordnung gilt für die Prüfung nach § 32f Absatz 2 des Wertpapierhande
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für rechtlich unselbständige Organisationseinheiten von Schwarmfinanzierungsdienstleistern, auch wenn sie sich nicht an deren Sitz der Hauptverwaltung befinden.
 
-##### § 8 Prüfungen nach § 32f Absatz 1 des Wertpapierhandelsgesetzes
+###### § 8 Prüfungen nach § 32f Absatz 1 des Wertpapierhandelsgesetzes
 
 (1) Wurde im Berichtszeitraum eine Prüfung nach § 32f Absatz 1 des Wertpapierhandelsgesetzes durchgeführt, hat der Prüfer das Prüfungsergebnis dieser Prüfung nach pflichtgemäßem Ermessen bei seiner Prüfung zu berücksichtigen.
 
 (2) Bei Sachverhalten, die Gegenstand der Prüfung nach § 32f Absatz 1 des Wertpapierhandelsgesetzes waren, kann sich seine Berichterstattung auf die Veränderungen beschränken, die nach dem Stichtag dieser Prüfung eingetreten sind.
 
-##### § 9 Aufzeichnungen und Unterlagen
+###### § 9 Aufzeichnungen und Unterlagen
 
 (1) Der Prüfer ist verpflichtet, über die Prüfung Aufzeichnungen in Papierform oder auf Datenträgern anzufertigen und zur Berichterstattung notwendige Unterlagen an sich zu nehmen. Zu den aufzuzeichnenden Umständen gehören insbesondere
 
@@ -126,7 +133,7 @@ Diese Verordnung gilt für die Prüfung nach § 32f Absatz 2 des Wertpapierhande
 
 ## Abschnitt 3 Prüfungsbericht und Fragebogen
 
-##### § 10 Umfang der Berichterstattung
+###### § 10 Umfang der Berichterstattung
 
 (1) Der Prüfungsbericht muss den Berichtszeitraum und den Prüfungszeitraum nennen. Er muss vollständig und so übersichtlich sein, dass aus ihm klar ersichtlich ist, inwieweit der Schwarmfinanzierungsdienstleister den in § 2 Absatz 1 genannten Anforderungen und Anordnungen entsprochen hat. Der Umfang der Berichterstattung hat jeweils der Bedeutung der behandelten Vorgänge zu entsprechen.
 
@@ -134,17 +141,37 @@ Diese Verordnung gilt für die Prüfung nach § 32f Absatz 2 des Wertpapierhande
 
 (3) Vorgänge von besonderer Bedeutung im Zeitraum zwischen dem Stichtag einer Prüfung und dem Ende des Prüfungszeitraums sind im Prüfungsbericht darzustellen.
 
-##### § 11 Darstellung der Schwarmfinanzierungsdienstleistung und Pflichten
+###### § 11 Darstellung der Schwarmfinanzierungsdienstleistung und Pflichten
 
 Im Prüfungsbericht sind die erbrachten Schwarmfinanzierungsdienstleistungen sowie die Einhaltung der in § 2 Absatz 1 genannten Pflichten darzustellen. Dabei sind die gesetzlichen Vorgaben zu benennen und deren Erfüllung quantitativ und qualitativ sowie anhand der internen Struktur und der Ablauforganisation darzulegen.
 
-##### § 12 Bestimmungen über den Prüfungsinhalt; festgesetzte Prüfungsschwerpunkte
+###### § 11a Berücksichtigung der Informations- und Kommunikationstechnologie des Schwarmfinanzierungsdienstleisters bei der Prüfung
+
+(1) Sofern im Einzelfall eine Prüfung der Artikel 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit gemäß den Artikeln 15, 16, 20, 28 oder 30 der Verordnung (EU) 2022/2554 erlassenen Rechtsakten, nicht auch gemäß § 78 Absatz 1 des Wertpapierinstitutsgesetzes oder gemäß § 29 des Kreditwesengesetzes zu erfolgen hat, hat der Prüfer im Prüfungsbericht zusammenfassend über die Organisation der Informations- und Kommunikationstechnologie des Schwarmfinanzierungsdienstleisters und diejenigen Systeme der Informations- und Kommunikationstechnologie, die wesentliche Geschäftsprozesse des Schwarmfinanzierungsdienstleisters unterstützen oder aufsichtsrechtlich relevante Daten verarbeiten, zu berichten. Wesentliche Änderungen an diesen Systemen sowie die entsprechenden Projekte sind im Prüfungsbericht darzustellen. Der Prüfer hat darzustellen und zu beurteilen, ob die organisatorischen, personellen und technischen Vorkehrungen zur Sicherstellung der Integrität, der Vertraulichkeit, der Authentizität und der Verfügbarkeit dieser Systeme angemessen sind und wirksam umgesetzt werden. Werden externe Ressourcen der Informations- und Kommunikationstechnologie eingesetzt, so erstrecken sich die vorgenannten Berichtspflichten auch auf diese Ressourcen.
+
+(2) Der Prüfer hat im Prüfungsbericht zu beurteilen, ob der Schwarmfinanzierungsdienstleister die Anforderungen der Artikel 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit Rechtsakten, die gemäß den Artikeln 15, 16, 20, 28 oder 30 der Verordnung (EU) 2022/2554 erlassen wurden, unter Berücksichtigung des Grundsatzes der Verhältnismäßigkeit gemäß Artikel 4 der Verordnung (EU) 2022/2254 angemessen und wirksam einhält. Dabei ist insbesondere einzugehen auf
+
+1. das auf die Informations- und Kommunikationstechnologie bezogene Risikomanagement gemäß den Artikeln 5 bis 14 und 16 der Verordnung (EU) 2022/2554,
+
+2. die Dokumentation des auf die Informations- und Kommunikationstechnologie bezogenen Risikomanagementrahmens gemäß Artikel 6 Absatz 5 Satz 1 oder Artikel 16 Absatz 2 Satz 1 der Verordnung (EU) 2022/2554,
+
+3. die auf die Informations- und Kommunikationstechnologie bezogene Geschäftsfortführungsleitlinie gemäß Artikel 11 Absatz 1 der Verordnung (EU) 2022/2554,
+
+4. die Behandlung und Klassifizierung von auf die Informations- und Kommunikationstechnologie bezogenen Vorfällen sowie die Meldung darüber gemäß den Artikeln 17 bis 19 und 23 der Verordnung (EU) 2022/2554,
+
+5. das Testen der digitalen operationalen Resilienz gemäß den Artikeln 24 und 25 der Verordnung (EU) 2022/2554,
+
+6. das Management des auf die Informations- und Kommunikationstechnologie bezogenen Drittparteienrisikos gemäß den Artikeln 28 bis 30 der Verordnung (EU) 2022/2554 und
+
+7. die Einhaltung der Mitteilungspflicht in Bezug auf Vereinbarungen über den Austausch von Informationen gemäß Artikel 45 Absatz 3 der Verordnung (EU) 2022/2554.
+
+###### § 12 Bestimmungen über den Prüfungsinhalt; festgesetzte Prüfungsschwerpunkte
 
 (1) Soweit die Bundesanstalt im Einzelfall Bestimmungen über den Prüfungsinhalt getroffen oder Prüfungsschwerpunkte festgesetzt hat, sind im Prüfungsbericht die insoweit vorgenommenen Prüfungshandlungen und Feststellungen im Einzelnen darzustellen.
 
 (2) Im Prüfungsbericht ist darzulegen, in Bezug auf welche Teilbereiche der Prüfer nach eigenem Ermessen schwerpunktmäßige Prüfungen vorgenommen und inwieweit es sich um Systemprüfungen mit Funktionstests und Stichproben oder um Einzelfallprüfungen gehandelt hat. Die Art und Weise der Ermittlung von Stichproben, die Anzahl der Stichproben sowie deren Ergebnis sind anzugeben.
 
-##### § 13 Verweisungen auf frühere Prüfungsberichte
+###### § 13 Verweisungen auf frühere Prüfungsberichte
 
 (1) Verweisungen auf den Inhalt anderer oder früherer Prüfungsberichte sind grundsätzlich nicht zulässig.
 
@@ -154,19 +181,19 @@ Im Prüfungsbericht sind die erbrachten Schwarmfinanzierungsdienstleistungen sow
 
 2. deutlich macht, aus welchen Gründen die in Bezug genommenen älteren Feststellungen oder Ausführungen für den gegenwärtigen Bericht noch Bedeutung haben.
 
-##### § 14 Bei der letzten Prüfung festgestellte Mängel
+###### § 14 Bei der letzten Prüfung festgestellte Mängel
 
 Im Prüfungsbericht ist darzulegen, wie die bei der letzten Prüfung festgestellten Mängel beseitigt oder welche Maßnahmen zu ihrer Beseitigung eingeleitet worden sind. Waren die Mängel organisatorisch bedingt, ist darzulegen, welche organisatorischen Maßnahmen der Schwarmfinanzierungsdienstleister getroffen hat, um derartige Mängel in der Zukunft zu vermeiden.
 
-##### § 15 Schlussbemerkung
+###### § 15 Schlussbemerkung
 
 In einer Schlussbemerkung ist zusammenfassend zu beurteilen, ob der Schwarmfinanzierungsdienstleister die in § 2 Absatz 1 genannten Pflichten erfüllt hat. Festgestellte Mängel sind unter Verweisung auf die entsprechenden Fundstellen im Bericht aufzuzählen.
 
-##### § 16 Prüfer; Unterschrift
+###### § 16 Prüfer; Unterschrift
 
 Aus dem Prüfungsbericht muss ersichtlich sein, wer die Prüfung vor Ort geleitet hat. Der Prüfer hat den Prüfungsbericht unter Angabe von Ort und Datum zu unterzeichnen.
 
-##### § 17 Fragebogen; Beschreibung der identifizierten Mängel und sonstigen Erkenntnisse
+###### § 17 Fragebogen; Beschreibung der identifizierten Mängel und sonstigen Erkenntnisse
 
 (1) Der nach § 32f Absatz 3 Satz 2 des Wertpapierhandelsgesetzes dem Prüfungsbericht beizufügende Fragebogen ist nach Maßgabe der Anlage zu dieser Verordnung zu erstellen und auszufüllen.
 
@@ -174,7 +201,7 @@ Aus dem Prüfungsbericht muss ersichtlich sein, wer die Prüfung vor Ort geleite
 
 (3) In der Beschreibung sind das als Mangel qualifizierte Verhalten und die gesetzlichen Vorschriften, gegen die ein Verstoß vorliegt, zu benennen.
 
-##### § 18 Übersendung des Prüfungsberichts und des Fragebogens
+###### § 18 Übersendung des Prüfungsberichts und des Fragebogens
 
 (1) Der Fragebogen und der Prüfungsbericht, soweit dieser nach § 32f Absatz 3 Satz 1 des Wertpapierhandelsgesetzes angefordert wurde, sind der Bundesanstalt unverzüglich an den Sitz in Frankfurt am Main in einfacher Ausfertigung und in elektronischer Form zu übersenden. Die Bundesanstalt kann Vorgaben machen, in welchem Dateiformat und auf welchem Einreichungsweg die elektronische Form des Fragebogens und des Prüfungsberichts bei ihr einzureichen ist. Die Bundesanstalt kann auf die Einreichung des Fragebogens in Schriftform bei sich verzichten.
 
@@ -182,25 +209,25 @@ Aus dem Prüfungsbericht muss ersichtlich sein, wer die Prüfung vor Ort geleite
 
 (3) Wird der Prüfungsbericht nach § 32f Absatz 3 Satz 1 des Wertpapierhandelsgesetzes angefordert, ist er zwei Wochen nach der Anforderung durch die Bundesanstalt einzureichen. Der Prüfungsbericht ist jedoch frühestens zwei Monate nach Ende des Prüfungszeitraums einzureichen.
 
-##### § 19 Berichtsentwurf
+###### § 19 Berichtsentwurf
 
 (1) Falls die Bundesanstalt an der Prüfung nach § 32f Absatz 5 Satz 4 des Wertpapierhandelsgesetzes teilnimmt, hat der Prüfer der Bundesanstalt auf deren Verlangen den Berichtsentwurf vor der Fertigstellung zu übermitteln.
 
 (2) Kündigt die Bundesanstalt ihre Teilnahme an einer Schlussbesprechung an, so hat der Prüfer der Bundesanstalt auf deren Verlangen den entsprechenden Berichtsentwurf rechtzeitig vor der Besprechung zu übersenden.
 
-##### § 20 Erläuterung des Prüfungsberichts
+###### § 20 Erläuterung des Prüfungsberichts
 
 Der Prüfer hat der Bundesanstalt auf deren Verlangen den Prüfungsbericht zu erläutern.
 
 ## Abschnitt 4 Schlussvorschriften
 
-##### § 21 Inkrafttreten
+###### § 21 Übergangsregelung aus Anlass der Verordnung (EU) 2022/2554
 
-Diese Verordnung tritt am 1. Juli 2022 in Kraft.
+Die Bestimmungen dieser Verordnung betreffend die Prüfung der Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 durch Schwarmfinanzierungsdienstleister sind erstmals auf Prüfungen anzuwenden, die ein nach dem 31. Dezember 2024 beginnendes Geschäftsjahr betreffen. Auf Prüfungen, die ein vor dem 1. Januar 2025 beginnendes Geschäftsjahr betreffen, findet die Schwarmfinanzierungsdienstleister-Prüfungsverordnung in der Fassung vom 17. Mai 2022 (BGBl. I S. 852) weiterhin Anwendung.
 
-##### Anlage (zu § 17 Absatz 1)Ausfüllhinweise für den Fragebogen gemäß § 17 Absatz 1
+###### Anlage (zu § 17 Absatz 1)Ausfüllhinweise für den Fragebogen gemäß § 17 Absatz 1
 
-(Fundstelle: BGBl. I 2022, 856 - 857)
+(Fundstelle: BGBl. I 2022, 856 - 857; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Im nachfolgend aufgeführten Fragebogen sind folgende Abkürzungen für die Prüfungsfeststellungen in der Spalte „Feststellung“ zu verwenden:
 
@@ -248,5 +275,6 @@ Abs. 1 bis 3Marketingmitteilungen26Anhang IInhalte Anlagebasisinformationsblatt2
 nein:**Sonstiges**29§ 32f Abs. 5
 WpHGDurch die Bundesanstalt festgelegte Prüfungsschwerpunkteja/
 nein:Erläuterungen zu Nummer 29:30Weitere Feststellungen, die für die Beurteilung der Ordnungsmäßigkeit der erbrachten Schwarmfinanzierungsdienstleistungen von Bedeutung und nicht durch die Nummern 1 bis 29 abgedeckt sindja/
-nein:Erläuterungen zu Nummer 30:31Kurze Beschreibung der identifizierten Mängel und der Vorschriften, gegen die ein Verstoß vorliegt, insbesondere unter Berücksichtigung der seitens der Bundesanstalt für Finanzdienstleistungsaufsicht und der ESMA vorgenommenen und veröffentlichten Normauslegung:
-
+nein:Erläuterungen zu Nummer 30:31Kurze Beschreibung der identifizierten Mängel und der Vorschriften, gegen die ein Verstoß vorliegt, insbesondere unter Berücksichtigung der seitens der Bundesanstalt für Finanzdienstleistungsaufsicht und der ESMA vorgenommenen und veröffentlichten Normauslegung:32Artikel 5 bis 14, 16 bis 19,
+ 23 bis 25,
+ 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554Erläuterungen zu Nummer 32:
