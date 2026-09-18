@@ -1,22 +1,26 @@
 ---
-title: "Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich"
+title: "Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich"
 identifier: "BMUBGEBV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2021-06-30"
-last_updated: "2026-04-04"
+last_updated: "2026-09-18"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bmubgebv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR233410021"
 slug: "bmubgebv"
 bgbl_reference: "BGBl I 2021, 2334"
-amtabk: "BMUVBGebV"
-stand: "Zuletzt geändert durch Art. 1 Nr. 1 V v. 5.9.2023 I Nr. 247"
+amtabk: "BMUKNBGebV"
+stand: "Zuletzt geändert durch Art. 1 V v. 1.4.2026 I Nr. 101"
 ---
-# Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
+# Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 
-##### § 1 Erhebung von Gebühren und Auslagen
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Erhebung von Gebühren und Auslagen
 
 (1) Gebühren und Auslagen werden für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) erhoben, die auf Grund der folgenden Vorschriften erbracht werden:
 
@@ -48,11 +52,15 @@ stand: "Zuletzt geändert durch Art. 1 Nr. 1 V v. 5.9.2023 I Nr. 247"
 
 14. Gesetz zu dem Übereinkommen vom 1. Juni 1972 zur Erhaltung der antarktischen Robben,
 
-15. Einwegkunststofffondsgesetz.
+15. Einwegkunststofffondsgesetz,
+
+16. Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote (37. BImSchV),
+
+17. Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgasminderung bei Kraftstoffen (38. BImSchV).
 
 (2) Für gebührenfähige Leistungen nach Absatz 1 Nummer 9 und 10 in Verbindung mit Abschnitt 9 Nummer 2 und Abschnitt 10 des Gebühren- und Auslagenverzeichnisses in der Anlage gelten die Vorschriften dieser Besonderen Gebührenverordnung nach Maßgabe der Vorgaben des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 1798, 1799; 1995 II S. 602) auch im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels.
 
-##### § 2 Höhe der Gebühren und Auslagen
+###### § 2 Höhe der Gebühren und Auslagen
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren- und Auslagenverzeichnis in der Anlage. Das Gebühren- und Auslagenverzeichnis in der Anlage regelt ferner die Tatbestände für eine Gebührenbefreiung und -ermäßigung.
 
@@ -60,15 +68,15 @@ stand: "Zuletzt geändert durch Art. 1 Nr. 1 V v. 5.9.2023 I Nr. 247"
 
 (3) Auslagen, die nicht im Gebühren- und Auslagenverzeichnis in der Anlage aufgeführt sind, sind mit der Gebühr abgegolten.
 
-##### § 3 Zeitgebühr
+###### § 3 Zeitgebühr
 
 Wenn im Gebühren- und Auslagenverzeichnis in der Anlage nichts anderes bestimmt ist, gelten für den Zeitaufwand von Verwaltungsbeschäftigten in der Bundesverwaltung die allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung, die in der Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung festgelegt sind.
 
-##### § 4 Übergangsvorschrift
+###### § 4 Übergangsvorschrift
 
 Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, sind die bis zum Ablauf des 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden. Für die Erhebung von Gebühren und Auslagen nach § 1 Absatz 1 Nummer 8 in Verbindung mit dem Abschnitt 8 des Gebühren- und Auslagenverzeichnisses in der Anlage sind die bis zum Ablauf des 30. September 2021 geltenden gebührenrechtlichen Regelungen auf alle vor dem 1. Oktober 2021 eingeleiteten Verwaltungsverfahren weiter anzuwenden.
 
-##### Anlage (zu § 2 Absatz 1)Gebühren- und Auslagenverzeichnis
+###### Anlage (zu § 2 Absatz 1)Gebühren- und Auslagenverzeichnis
 
 (Fundstelle: BGBl. I 2021, 2336 - 2347;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -84,7 +92,8 @@ zur Umsetzung der Verpflichtungen
  nach dem Nagoya-Protokoll und zur Durchführung
  der Verordnung (EU) Nr. 511/2014 (NagProtUmsG)Abschnitt 14Gesetz
 zu dem Übereinkommen vom 1. Juni 1972
- zur Erhaltung der antarktischen Robben (RobErhÜbkG)Abschnitt 15Einwegkunststofffondsgesetz (EWKFondsG)
+ zur Erhaltung der antarktischen Robben (RobErhÜbkG)Abschnitt 15Einwegkunststofffondsgesetz (EWKFondsG)Abschnitt 16Verordnung zur Anrechnung von strombasierten Kraftstoffen
+und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote (37. BImSchV)Abschnitt 17Verordnung zur Festlegung weitere Bestimmungen zur Treibhausgasminderung bei Kraftstoffen (38. BImSchV)
 
 Abschnitt 1
 
@@ -185,3 +194,18 @@ Einwegkunststofffondsgesetz (EWKFondsG)
 
 NummerGebührentatbestandGebühren in Euro1Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit Widersprüchen gegen Verwaltungsakte auf Grundlage des EWKFondsG1.1Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 7 Absatz 4 Nummer 1 und 4 EWKFondsG, soweit der Widerspruch erfolglos geblieben istnach Zeitaufwand1.2Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 10 Absatz 2 Satz 3 und Absatz 3 Satz 2 EWKFondsG, soweit der Widerspruch erfolglos geblieben istnach Zeitaufwand1.3Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 11 Absatz 4 Satz 2 EWKFondsG, soweit der Widerspruch erfolglos geblieben istnach Zeitaufwand1.4Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 13 Absatz 1 Satz 1 EWKFondsG, soweit der Widerspruch erfolglos geblieben istnach Zeitaufwand1.5Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 15 Absatz 5 Nummer 2 und 5 EWKFondsG, soweit der Widerspruch erfolglos geblieben istnach Zeitaufwand1.6Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 18 Absatz 1 Satz 1 EWKFondsG, soweit der Widerspruch erfolglos geblieben istnach Zeitaufwand1.7Entscheidung über einen Widerspruch gegen einen Verwaltungsakt nach § 21 Satz 1 EWKFondsG, soweit der Widerspruch erfolglos geblieben istnach Zeitaufwand1.8Entscheidung über einen Widerspruch gegen sonstige Verwaltungsakte, soweit der Widerspruch erfolglos geblieben ist, mit Ausnahme von Widersprüchen gegen Verwaltungsakte nach § 22 Absatz 1 EWKFondsGnach Zeitaufwand1.9Zurücknahme oder Erledigung eines Widerspruchs auf sonstige Weise, bevor ein Widerspruchsbescheid erlassen ist, mit Ausnahme von Widersprüchen gegen Verwaltungsakte nach § 22 Absatz 1 EWKFondsGnach Zeitaufwand2Erlass eines Verwaltungsakts nach § 22 Absatz 1 EWKFondsGnach Zeitaufwand
 
+Abschnitt 16
+
+Verordnung zur Anrechnung von strombasierten Kraftstoffen
+und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote (37. BImSchV)
+
+NummerGebühren- oder AuslagentatbestandGebühren oder Auslagen
+ in Euro1Anerkennung von Zertifizierungsstellen1.1Vorläufige Anerkennung einer Zertifizierungsstelle nach § 43 der 37. BImSchV1 190,00 – 1 780,001.2Endgültige Anerkennung einer Zertifizierungsstelle nach § 31 Absatz 1 der 37. BImSchV2 230,00 – 11 000,001.3Nachträgliche Erteilung von Auflagen bei endgültig anerkannten Zertifizierungsstellen nach § 31 Absatz 3 der 37. BImSchVNach Zeitaufwand1.4Kosten für Dienstreisen2Überwachung von Zertifizierungsstellen2.1Basisbetrag pro Kontrolle einer Zertifizierungsstelle (Office Audit) im Rahmen der Überwachung von Zertifizierungsstellen nach § 42 Absatz 1 der 37. BImSchV3 770,002.2Basisbetrag pro Begleitung einer Vor-Ort-Kontrolle einer Zertifizierungsstelle bei einer Schnittstelle oder einem Lieferanten im Rahmen der Kontrolle nach § 38 Absatz 1 Satz 1 der 37. BImSchV, auch im Fall einer Fernbegutachtung (Witness-Audit)725,002.3zuzüglich je angefangenem Prüfungstag297,00 – 1 190,002.4Kosten für Dienstreisen3Kontrolle von Schnittstellen und Lieferanten3.1Selbstvornahme der Kontrolle einer zertifizierten Schnittstelle oder eines zertifizierten Lieferanten nach § 38 Absatz 1 Satz 2 Nummer 2 der 37. BImSchV3 770,003.2zuzüglich je angefangenem Prüfungstag297,00 – 1 190,003.3Kosten für Dienstreisen4Nutzung der elektronischen Datenbank nach § 16 Absatz 6 Satz 1 der 37. BImSchV4.1Erstregistrierung (Kosten für die Erstanmeldung sowie Schulung)51,854.2Schulung von neu oder zusätzlich in der Datenbank tätigen Personen eines Kontoinhabers (Gebühr je teilnehmende Person)63,954.3Jahresgebühr für Schnittstellen nach § 2 Absatz 10 der 37. BImSchV, Lieferanten und Nachweispflichtige nach § 2 Absatz 9 der 37. BImSchV900,004.4Jahresgebühr für sonstige Kontoinhaber120,005Ausstellung von Nachweisen und Teilnachweisen sowie deren Übertragung5.1Ausstellung eines Nachweises nach § 16 Absatz 1 und 2 der 37. BImSchV10,455.2Ausstellung eines Teilnachweises nach § 22 Absatz 1 Satz 1 oder Absatz 2 der 37. BImSchV10,305.3Übertragung eines Nachweises nach § 16 Absatz 1 und 2 der 37. BImSchV oder Teilnachweises nach § 22 Absatz 1 Satz 1 oder Absatz 2 der 37. BImSchV10,255.4Mengenabhängige Kosten bei jeweils erster Registrierung von erneuerbarem Kraftstoff nicht biogenem Ursprung in der Datenbank, je 120 Megajoule Brennwertbis 31.12.2027: 0,05
+ ab 01.01.2028: 0,01 – 0,05
+
+Abschnitt 17
+
+Verordnung zur Festlegung weiterer Bestimmungen
+zur Treibhausgasminderung bei Kraftstoffen (38. BImSchV)
+
+NummerGebührentatbestandGebühren in Euro1Ausstellung einer Bescheinigung über mitgeteilte energetische Mengen elektrischen Stroms nach § 8 Absatz 1 Satz 1, Absatz 2 Satz 1 und 2 der 38. BImSchV94,60 – 6 500,00
