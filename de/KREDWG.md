@@ -4,29 +4,32 @@ identifier: "KREDWG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1961-07-10"
-last_updated: "2026-04-04"
+last_updated: "2026-09-18"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/kredwg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR008810961"
 slug: "kredwg"
 bgbl_reference: "BGBl I 1961, 881"
 amtabk: "KWG"
-stand: "Zuletzt geändert durch Art. 1 G v. 25.3.2026 I Nr. 81"
+stand: "Zuletzt geändert durch Art. 9 G v. 12.5.2026 I Nr. 139"
 neufassung: "Neugefasst durch Bek. v. 9.9.1998 I 2776"
-hinweis: "Änderung durch Art. 3 G v. 25.3.2026 I Nr. 81 mWv 11.1.2027 noch nicht berücksichtigt"
 ---
 # Gesetz über das Kreditwesen
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
 
-Erster AbschnittAllgemeine Vorschriften  1.Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Holdinggesellschaften sowie Finanzunternehmen § 1Begriffsbestimmungen; Verordnungsermächtigung§ 1aGeltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute§ 1bUnzuverlässigkeit von sanktionierten Personen§ 2Ausnahmen§ 2aAusnahmen für gruppenangehörige Institute und Institute, die institutsbezogenen Sicherungssystemen angehören§ 2bRechtsform§ 2cInhaber bedeutender Beteiligungen§ 2dLeitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften§ 2eAusnahmen für gemischte Finanzholding-Gesellschaften§ 2fZulassung von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften§ 2gEinrichtung eines zwischengeschalteten EU-Mutterunternehmens bei Mutterunternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung§ 3Verbotene Geschäfte§ 4Entscheidungen der Bundesanstalt für Finanzdienstleistungsaufsicht  2.Bundesanstalt für Finanzdienstleistungsaufsicht § 5Elektronische Übermittlung von Verwaltungsakten; Verordnungsermächtigung§ 6Aufgaben§ 6aBesondere Aufgaben§ 6bAufsichtliche Überprüfung und Beurteilung§ 6cZusätzliche Eigenmittelanforderungen§ 6dEigenmittelempfehlung§ 7Zusammenarbeit mit der Deutschen Bundesbank§ 7aZusammenarbeit mit der Europäischen Kommission§ 7bZusammenarbeit mit der Europäischen Bankenaufsichtsbehörde, der Europäischen Wertpapier- und Marktaufsichtsbehörde und der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung§ 7c(weggefallen)§ 7dZusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken§ 8Zusammenarbeit mit anderen Stellen§ 8aBesondere Aufgaben bei der Aufsicht auf zusammengefasster Basis§ 8bZuständigkeit für die Aufsicht auf zusammengefasster Basis§ 8cÜbertragung der Zuständigkeit für die Aufsicht über Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gruppenangehörige Institute§ 8d(weggefallen)§ 8eAufsichtskollegien§ 8fZusammenarbeit bei der Aufsicht über bedeutende Zweigniederlassungen§ 8gZusammenarbeit bei der Aufsicht über Zweigstellen und Kreditinstitute, die derselben Drittstaatengruppe angehören§ 8hZusammenarbeit mit Abwicklungsbehörden§ 9Verschwiegenheitspflicht Zweiter AbschnittVorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gemischte Holdinggesellschaften  1.Eigenmittel und Liquidität § 10Ergänzende Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung§ 10aErmittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung§ 10bVerhältnis der Kapitalpufferanforderungen zu anderen Kapitalanforderungen und zur Eigenmittelempfehlung§ 10cKapitalerhaltungspuffer§ 10dAntizyklischer Kapitalpuffer§ 10eKapitalpuffer für systemische Risiken§ 10fKapitalpuffer für global systemrelevante Institute§ 10gKapitalpuffer für anderweitig systemrelevante Institute§ 10hZusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrelevante Institute und für anderweitig systemrelevante Institute§ 10iKombinierte Kapitalpufferanforderung§ 10jAnforderung an den Puffer der Verschuldungsquote§ 11Liquidität; Verordnungsermächtigung§ 12Potentiell systemrelevante Institute§ 12aBegründung von Unternehmensbeziehungen  2.Kreditgeschäft § 13Großkredite; Verordnungsermächtigung§§ 13a und 13b(weggefallen)§ 13cGruppeninterne Transaktionen mit gemischten Holdinggesellschaften§ 13d(weggefallen)§ 14Millionenkredite§ 15Organtransaktionen§ 16(aufgehoben)§ 17Haftungsbestimmung§ 18Kreditunterlagen§ 18aVerbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungsermächtigung§ 19Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18§ 20Ausnahmen von den Verpflichtungen nach § 14§§ 20a bis 20c(weggefallen)§ 21Begriff des Kredits für die §§ 15 bis 18§ 22Verordnungsermächtigung für Millionenkredite  2a.Refinanzierungsregister § 22aRegisterführendes Unternehmen§ 22bFührung des Refinanzierungsregisters für Dritte§ 22cRefinanzierungsmittler§ 22dRefinanzierungsregister; Verordnungsermächtigung§ 22eBestellung des Verwalters§ 22fVerhältnis des Verwalters zur Bundesanstalt§ 22gAufgaben des Verwalters§ 22hVerhältnis des Verwalters zum registerführenden Unternehmen und zum Refinanzierungsunternehmen§ 22iVergütung des Verwalters§ 22jWirkungen der Eintragung in das Refinanzierungsregister§ 22kBeendigung und Übertragung der Registerführung§ 22lBestellung des Sachwalters bei Eröffnung des Insolvenzverfahrens§ 22mBekanntmachung der Bestellung des Sachwalters§ 22nAufgaben und Rechtsstellung des Sachwalters§ 22oBestellung des Sachwalters bei Insolvenzgefahr  3.Kundenrechte § 22p(weggefallen)  4.Werbung und Hinweispflichten der Institute § 23Werbung§ 23aSicherungseinrichtung  5.Besondere Pflichten der Institute und ihrer Geschäftsleiter sowie der Finanzholding-Gesellschaften, der gemischten Finanzholding-Gesellschaften und der gemischten Holdinggesellschaften § 24Anzeigen; Verordnungsermächtigung§ 24aErrichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums§ 24bTeilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen§ 24cAutomatisierter Abruf von Kontoinformationen§ 25Finanzinformationen, Informationen zur Risikotragfähigkeit und zur Liquiditätssteuerung, Refinanzierungspläne; Verordnungsermächtigung§ 25aBesondere organisatorische Pflichten, Bestimmungen für Risikoträger; Verordnungsermächtigung§ 25bAuslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung§ 25cGeschäftsleiter§ 25dVerwaltungs- oder Aufsichtsorgan§ 25eAnforderungen bei vertraglich gebundenen Vermittlern§ 25fBesondere Anforderungen an die ordnungsgemäße Geschäftsorganisation von CRR-Kreditinstituten sowie von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen, denen ein CRR-Kreditinstitut angehört; Verordnungsermächtigung 5a.Bargeldloser Zahlungsverkehr; Verhinderung von Geldwäsche, Terrorismusfinanzierung und sonstigen strafbaren Handlungen zu Lasten der Institute§ 25gEinhaltung der besonderen organisatorischen Pflichten im bargeldlosen Zahlungsverkehr§ 25hInterne Sicherungsmaßnahmen§ 25iAllgemeine Sorgfaltspflichten in Bezug auf E-Geld§ 25jZeitpunkt der Identitätsprüfung§ 25kVerstärkte Sorgfaltspflichten§ 25lGeldwäscherechtliche Pflichten für Finanzholding-Gesellschaften§ 25mVerbotene Geschäfte§ 25n(weggefallen)5b.Vorlage von Rechnungslegungsunterlagen§ 26Vorlage von Jahresabschluss, Lagebericht und Prüfungsberichten  5c.Offenlegung § 26aOffenlegung durch die Institute5d.Besondere Pflichten bei qualifizierter Kryptoverwahrung§ 26bVermögenstrennung  6.Prüfung und Prüferbestellung § 27(aufgehoben)§ 28Bestellung des Prüfers in besonderen Fällen§ 29Besondere Pflichten des Prüfers§ 30Bestimmung von Prüfungsinhalten  7.Befreiungen § 31Befreiungen; Verordnungsermächtigung Dritter AbschnittVorschriften über die Beaufsichtigung der Institute  1.Zulassung zum Geschäftsbetrieb § 32Erlaubnis§ 33Versagung der Erlaubnis§ 33aAussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz außerhalb der Europäischen Union§ 33bAnhörung der zuständigen Stellen eines anderen Staates des Europäischen Wirtschaftsraums§ 34Stellvertretung und Fortführung bei Todesfall§ 35Erlöschen und Aufhebung der Erlaubnis§ 36Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans§ 36aTätigkeitsverbot für natürliche Personen§ 37Einschreiten gegen unerlaubte oder verbotene Geschäfte§ 38Folgen der Aufhebung und des Erlöschens der Erlaubnis, Maßnahmen bei der Abwicklung  2.Bezeichnungsschutz § 39Bezeichnungen "Bank" und "Bankier"§ 40Bezeichnung "Sparkasse"§ 41Ausnahmen§ 42Entscheidung der Bundesanstalt§ 43Registervorschriften  3.Auskünfte und Prüfungen § 44Auskünfte und Prüfungen von Instituten, Anbietern von Nebendienstleistungen, Finanzholding-Gesellschaften, gemischten Finanzholding-Gesellschaften und anderen Unternehmen§ 44aGrenzüberschreitende Auskünfte und Prüfungen§ 44bPrüfung der Inhaber bedeutender Beteiligungen§ 44cVerfolgung unerlaubter Bankgeschäfte und Finanzdienstleistungen  4.Maßnahmen in besonderen Fällen § 45Maßnahmen zur Verbesserung der Eigenmittelausstattung und der Liquidität§ 45aMaßnahmen gegenüber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften§ 45bMaßnahmen bei organisatorischen Mängeln§ 45cSonderbeauftragter§ 46Maßnahmen bei Gefahr§ 46aUntersagungs- und Anordnungsbefugnis bei Verwenden externer Ratings§ 46bInsolvenzantrag§ 46cInsolvenzrechtliche Fristen und Haftungsfragen§ 46dUnterrichtung der anderen Staaten des Europäischen Wirtschaftsraums über Sanierungsmaßnahmen§ 46eInsolvenzverfahren in den Staaten des Europäischen Wirtschaftsraums§ 46fUnterrichtung der Gläubiger im Insolvenzverfahren und Insolvenzrangfolge§ 46gMoratorium, Einstellung des Bank- und Börsenverkehrs§ 46hWiederaufnahme des Bank- und Börsenverkehrs§ 46iZuordnung verwahrter kryptografischer Instrumente, Kosten der Aussonderung§ 47Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014§ 47aBesondere Befugnisse nach der Verordnung (EU) 2022/2554§ 48Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/24024a.Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems§§ 48a bis 48s(weggefallen)§ 48tMaßnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken§ 48uMaßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien; Verordnungsermächtigung  5.Vollziehbarkeit, Zwangsmittel, Umlage und Kosten § 49Sofortige Vollziehbarkeit§ 50(weggefallen)§ 51Umlage und Kosten Vierter AbschnittBesondere Vorschriften für Wohnungsunternehmen mit Spareinrichtung § 51aAnforderungen an die Eigenkapitalausstattung für Wohnungsunternehmen mit Spareinrichtung§ 51bAnforderungen an die Liquidität für Wohnungsunternehmen mit Spareinrichtung§ 51cSonstige Sondervorschriften für Wohnungsunternehmen mit Spareinrichtung Fünfter AbschnittSondervorschriften § 52Sonderaufsicht§ 52aVerjährung von Ansprüchen gegen Organmitglieder von Kreditinstituten§ 53Zweigstellen von Unternehmen mit Sitz im Ausland§ 53aRepräsentanzen von Instituten mit Sitz im Ausland§ 53bUnternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums§ 53cUnternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung§ 53dMutterunternehmen mit Sitz in einem DrittstaatSechster AbschnittSondervorschriften für zentrale Gegenparteien und Zentralverwahrer  1.Zentrale Gegenparteien§ 53eInhaber bedeutender Beteiligungen§ 53fAufsichtskollegien§ 53gFinanzmittelausstattung von zentralen Gegenparteien§ 53hLiquidität§ 53iGewährung des Zugangs nach den Artikeln 7 und 8 der Verordnung (EU) Nr. 648/2012§ 53jAnzeigen; Verordnungsermächtigung§ 53kAuslagerung von Aktivitäten und Prozessen§ 53lAnordnungsbefugnis; Maßnahmen bei organisatorischen Mängeln§ 53mInhalt des Zulassungsantrags§ 53nMaßnahmen zur Verbesserung der Finanzmittel und der Liquidität einer nach der Verordnung (EU) Nr. 648/2012 zugelassenen zentralen Gegenpartei 2.Zentralverwahrer§ 53oAnträge nach der Verordnung (EU) Nr. 909/2014; Verschwiegenheitspflicht§ 53pAnordnungsbefugnis für die Aufsicht nach der Verordnung (EU) Nr. 909/2014§ 53qEigentumsrechte an ZentralverwahrernAbschnitt 6aDLT-Pilotregelung nach der Verordnung (EU) 2022/858§ 53rZuständigkeit§ 53sAusnahmen von der Erlaubnispflicht nach § 32§ 53tDLT-Abwicklungssysteme und DLT-Handels- und Abwicklungssysteme§ 53uUnterlagen und Anträge nach der Verordnung (EU) 2022/858§ 53vBetreiber organisierter MärkteSiebenter AbschnittStrafvorschriften, Bußgeldvorschriften § 54Verbotene Geschäfte, Handeln ohne Erlaubnis§ 54aStrafvorschriften§ 55Verletzung der Pflicht zur Anzeige der Zahlungsunfähigkeit oder der Überschuldung§ 55aUnbefugte Verwertung von Angaben über Millionenkredite§ 55bUnbefugte Offenbarung von Angaben über Millionenkredite§ 56Bußgeldvorschriften§ 57Bußgeldvorschriften§ 58(weggefallen)§ 59Geldbußen gegen Unternehmen§ 60Zuständige Verwaltungsbehörde§ 60aBeteiligung der Bundesanstalt und Mitteilungen in Strafsachen§ 60bBekanntmachung von Maßnahmen§ 60cBekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554§ 60dBekanntmachung von Maßnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen Achter AbschnittÜbergangs- und Schlußvorschriften § 61Erlaubnis für bestehende Kreditinstitute§ 62Überleitungsbestimmungen§ 63(Aufhebung und Änderung von Rechtsvorschriften)§ 63aSondervorschriften für das in Artikel 3 des Einigungsvertrages genannte Gebiet§ 64Nachfolgeunternehmen der Deutschen Bundespost§ 64aÜbergangsvorschrift zum Risikoreduzierungsgesetz§ 64bÜbergangsvorschrift zu § 24 Absatz 1d§ 64cÜbergangsvorschriften zum Bankenrichtlinienumsetzungs- und Bürokratieentlastungsgesetz§ 64d(weggefallen)§ 64eÜbergangsvorschriften zum Sechsten Gesetz zur Änderung des Gesetzes über das Kreditwesen§ 64fÜbergangsvorschriften zum Vierten Finanzmarktförderungsgesetz§ 64gÜbergangsvorschriften zum Finanzkonglomeraterichtlinie-Umsetzungsgesetz§ 64hÜbergangsvorschriften zum Gesetz zur Umsetzung der neu gefassten Bankenrichtlinie und der neu gefassten Kapitaladäquanzrichtlinie§ 64iÜbergangsvorschriften zum Finanzmarktrichtlinie-Umsetzungsgesetz§ 64jÜbergangsvorschriften zum Jahressteuergesetz 2009§ 64kÜbergangsvorschrift zum Gesetz zur Umsetzung der Beteiligungsrichtlinie§ 64lÜbergangsvorschrift zur Erlaubnis für die Anlageverwaltung§ 64mÜbergangsvorschrift zum Brexit-Steuerbegleitgesetz§ 64nÜbergangsvorschrift zum Gesetz zur Novellierung des Finanzanlagenvermittler- und Vermögensanlagenrechts§ 64oÜbergangsvorschriften zum EMIR-Ausführungsgesetz§ 64pÜbergangsvorschrift zum Hochfrequenzhandelsgesetz§ 64qÜbergangsvorschrift zum AIFM-Umsetzungsgesetz§ 64rÜbergangsvorschriften zum CRD IV-Umsetzungsgesetz§ 64s(weggefallen)§ 64t(weggefallen)§ 64u(weggefallen)§ 64vÜbergangsvorschriften zum Ersten Finanzmarktnovellierungsgesetz§ 64w(weggefallen)§ 64xÜbergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz§ 64y(weggefallen)§ 65Übergangsvorschrift zum Gesetz zur Einführung von elektronischen Wertpapieren§ 65aÜbergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+###### Inhaltsübersicht
+
+Erster AbschnittAllgemeine Vorschriften  1.Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Holdinggesellschaften sowie Finanzunternehmen § 1Begriffsbestimmungen; Verordnungsermächtigung§ 1aGeltung der Richtlinie 2013/36/EU und der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute§ 1bUnzuverlässigkeit von sanktionierten Personen§ 2Ausnahmen§ 2aAusnahmen für gruppenangehörige Institute und Institute, die institutsbezogenen Sicherungssystemen angehören§ 2bRechtsform§ 2cInhaber bedeutender Beteiligungen§ 2dLeitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften§ 2eAusnahmen für gemischte Finanzholding-Gesellschaften§ 2fZulassung von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften; Verordnungsermächtigung§ 2gEinrichtung eines zwischengeschalteten EU-Mutterunternehmens bei Mutterunternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung§ 2hErwerb einer wesentlichen Beteiligung§ 2iVerschmelzungen und Spaltungen§ 3Verbotene Geschäfte§ 4Entscheidungen der Bundesanstalt für Finanzdienstleistungsaufsicht  2.Bundesanstalt für Finanzdienstleistungsaufsicht § 5Elektronische Übermittlung von Verwaltungsakten; Verordnungsermächtigung§ 6Aufgaben§ 6aBesondere Aufgaben§ 6bAufsichtliche Überprüfung und Beurteilung§ 6cZusätzliche Eigenmittelanforderungen§ 6dEigenmittelempfehlung§ 7Zusammenarbeit mit der Deutschen Bundesbank§ 7aZusammenarbeit mit der Europäischen Kommission§ 7bZusammenarbeit mit der Europäischen Bankenaufsichtsbehörde, der Europäischen Wertpapier- und Marktaufsichtsbehörde und der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung§ 7c(weggefallen)§ 7dZusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken§ 8Zusammenarbeit mit anderen Stellen§ 8aBesondere Aufgaben bei der Aufsicht auf zusammengefasster Basis§ 8bZuständigkeit für die Aufsicht auf zusammengefasster Basis§ 8cÜbertragung der Zuständigkeit für die Aufsicht über Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gruppenangehörige Institute§ 8d(weggefallen)§ 8eAufsichtskollegien§ 8fZusammenarbeit bei der Aufsicht über bedeutende Zweigniederlassungen§ 8gZusammenarbeit bei der Aufsicht über Zweigstellen und Kreditinstitute, die derselben Drittstaatengruppe angehören§ 8hZusammenarbeit mit Abwicklungsbehörden§ 9Verschwiegenheitspflicht Zweiter AbschnittVorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gemischte Holdinggesellschaften  1.Eigenmittel und Liquidität § 10Ergänzende Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung§ 10aErmittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung§ 10bVerhältnis der Kapitalpufferanforderungen zu anderen Kapitalanforderungen und zur Eigenmittelempfehlung§ 10cKapitalerhaltungspuffer§ 10dAntizyklischer Kapitalpuffer§ 10eKapitalpuffer für systemische Risiken§ 10fKapitalpuffer für global systemrelevante Institute§ 10gKapitalpuffer für anderweitig systemrelevante Institute§ 10hZusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrelevante Institute und für anderweitig systemrelevante Institute§ 10iKombinierte Kapitalpufferanforderung§ 10jAnforderung an den Puffer der Verschuldungsquote§ 11Liquidität; Verordnungsermächtigung§ 12Potentiell systemrelevante Institute§ 12aBegründung von Unternehmensbeziehungen  2.Kreditgeschäft § 13Großkredite; Verordnungsermächtigung§§ 13a und 13b(weggefallen)§ 13cGruppeninterne Transaktionen mit gemischten Holdinggesellschaften§ 13d(weggefallen)§ 14Millionenkredite§ 15Organtransaktionen§ 16(aufgehoben)§ 17Haftungsbestimmung§ 18Kreditunterlagen§ 18aVerbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungsermächtigung§ 19Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18§ 20Ausnahmen von den Verpflichtungen nach § 14§§ 20a bis 20c(weggefallen)§ 21Begriff des Kredits für die §§ 15 bis 18§ 22Verordnungsermächtigung für Millionenkredite  2a.Refinanzierungsregister § 22aRegisterführendes Unternehmen§ 22bFührung des Refinanzierungsregisters für Dritte§ 22cRefinanzierungsmittler§ 22dRefinanzierungsregister; Verordnungsermächtigung§ 22eBestellung des Verwalters§ 22fVerhältnis des Verwalters zur Bundesanstalt§ 22gAufgaben des Verwalters§ 22hVerhältnis des Verwalters zum registerführenden Unternehmen und zum Refinanzierungsunternehmen§ 22iVergütung des Verwalters§ 22jWirkungen der Eintragung in das Refinanzierungsregister§ 22kBeendigung und Übertragung der Registerführung§ 22lBestellung des Sachwalters bei Eröffnung des Insolvenzverfahrens§ 22mBekanntmachung der Bestellung des Sachwalters§ 22nAufgaben und Rechtsstellung des Sachwalters§ 22oBestellung des Sachwalters bei Insolvenzgefahr  3.Kundenrechte § 22p(weggefallen)  4.Werbung und Hinweispflichten der Institute § 23Werbung§ 23aSicherungseinrichtung  5.Besondere Pflichten § 24Anzeigen; Verordnungsermächtigung§ 24aErrichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums§ 24bTeilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen§ 24cAutomatisierter Abruf von Kontoinformationen§ 25Finanzinformationen, Informationen zur Risikotragfähigkeit und zur Liquiditätssteuerung, Refinanzierungspläne; Verordnungsermächtigung§ 25aBesondere organisatorische Pflichten, Bestimmungen für Risikoträger; Verordnungsermächtigung§ 25bAuslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung§ 25cGeschäftsleiter§ 25dVerwaltungs- oder Aufsichtsorgan§ 25eAnforderungen bei Inhabern von Schlüsselfunktionen und vertraglich gebundenen Vermittlern§ 25fBesondere Anforderungen an die ordnungsgemäße Geschäftsorganisation von CRR-Kreditinstituten sowie von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen, denen ein CRR-Kreditinstitut angehört; Verordnungsermächtigung 5a.Bargeldloser Zahlungsverkehr; Verhinderung von Geldwäsche, Terrorismusfinanzierung und sonstigen strafbaren Handlungen zu Lasten der Institute§ 25gEinhaltung der besonderen organisatorischen Pflichten im bargeldlosen Zahlungsverkehr§ 25hInterne Sicherungsmaßnahmen§ 25iAllgemeine Sorgfaltspflichten in Bezug auf E-Geld§ 25jZeitpunkt der Identitätsprüfung§ 25kVerstärkte Sorgfaltspflichten§ 25lGeldwäscherechtliche Pflichten für Finanzholding-Gesellschaften§ 25mVerbotene Geschäfte§ 25n(weggefallen)5b.Vorlage von Rechnungslegungsunterlagen§ 26Vorlage von Jahresabschluss, Lagebericht und Prüfungsberichten  5c.Offenlegung § 26aOffenlegung durch die Institute5d.Besondere Pflichten bei qualifizierter Kryptoverwahrung§ 26bVermögenstrennung  5e.Besondere Pflichten in Bezug auf Umwelt-, Sozial- und Unternehmensführungsrisiken§ 26cESG-Risiken im Risikomanagement§ 26dESG-Risikoplan 6.Prüfung und Prüferbestellung § 27(aufgehoben)§ 28Bestellung des Prüfers in besonderen Fällen§ 29Besondere Pflichten des Prüfers§ 30Bestimmung von Prüfungsinhalten  7.Befreiungen § 31Befreiungen; Verordnungsermächtigung Dritter AbschnittVorschriften über die Beaufsichtigung der Institute  1.Zulassung zum Geschäftsbetrieb § 32Erlaubnis§ 33Versagung der Erlaubnis§ 33aAussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz außerhalb der Europäischen Union§ 33bAnhörung der zuständigen Stellen eines anderen Staates des Europäischen Wirtschaftsraums§ 34Stellvertretung und Fortführung bei Todesfall§ 35Erlöschen und Aufhebung der Erlaubnis§ 36Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans§ 36aTätigkeitsverbot für natürliche Personen§ 37Einschreiten gegen unerlaubte oder verbotene Geschäfte§ 38Folgen der Aufhebung und des Erlöschens der Erlaubnis, Maßnahmen bei der Abwicklung  2.Bezeichnungsschutz § 39Bezeichnungen "Bank" und "Bankier"§ 40Bezeichnung "Sparkasse"§ 41Ausnahmen§ 42Entscheidung der Bundesanstalt§ 43Registervorschriften  3.Auskünfte und Prüfungen § 44Auskünfte und Prüfungen von Instituten, Anbietern von Nebendienstleistungen, Finanzholding-Gesellschaften, gemischten Finanzholding-Gesellschaften und anderen Unternehmen§ 44aGrenzüberschreitende Auskünfte und Prüfungen§ 44bPrüfung der Inhaber bedeutender Beteiligungen§ 44cVerfolgung unerlaubter Bankgeschäfte und Finanzdienstleistungen  4.Maßnahmen in besonderen Fällen § 45Maßnahmen zur Sicherstellung einer dauerhaften Erfüllung der regulatorischen Anforderungen§ 45aMaßnahmen gegenüber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften§ 45bMaßnahmen bei organisatorischen Mängeln§ 45cSonderbeauftragter§ 46Maßnahmen bei Gefahr§ 46aUntersagungs- und Anordnungsbefugnis bei Verwenden externer Ratings§ 46bInsolvenzantrag§ 46cInsolvenzrechtliche Fristen und Haftungsfragen§ 46dUnterrichtung der anderen Staaten des Europäischen Wirtschaftsraums über Sanierungsmaßnahmen§ 46eInsolvenzverfahren in den Staaten des Europäischen Wirtschaftsraums§ 46fUnterrichtung der Gläubiger im Insolvenzverfahren und Insolvenzrangfolge§ 46gMoratorium, Einstellung des Bank- und Börsenverkehrs§ 46hWiederaufnahme des Bank- und Börsenverkehrs§ 46iZuordnung verwahrter kryptografischer Instrumente, Kosten der Aussonderung§ 47Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014§ 47aBesondere Befugnisse nach der Verordnung (EU) 2022/2554§ 48Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402§ 48aMaßnahmen bei Risiko einer übermäßigen Konzentration von Risikopositionen gegenüber einer zentralen Gegenpartei4a.Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems§ 48b(weggefallen)§ 48c(weggefallen)§ 48d(weggefallen)§ 48e(weggefallen)§ 48f(weggefallen)§ 48g(weggefallen)§ 48h(weggefallen)§ 48i(weggefallen)§ 48j(weggefallen)§ 48k(weggefallen)§ 48l(weggefallen)§ 48m(weggefallen)§ 48n(weggefallen)§ 48o(weggefallen)§ 48p(weggefallen)§ 48q(weggefallen)§ 48r(weggefallen)§ 48s(weggefallen)§ 48tMaßnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken§ 48uMaßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien; Verordnungsermächtigung  5.Vollziehbarkeit, Zwangsmittel, Umlage und Kosten § 49Sofortige Vollziehbarkeit§ 50Periodische Zwangsgelder§ 51Umlage und Kosten Vierter AbschnittBesondere Vorschriften für Wohnungsunternehmen mit Spareinrichtung § 51aAnforderungen an die Eigenkapitalausstattung für Wohnungsunternehmen mit Spareinrichtung§ 51bAnforderungen an die Liquidität für Wohnungsunternehmen mit Spareinrichtung§ 51cSonstige Sondervorschriften für Wohnungsunternehmen mit Spareinrichtung Fünfter AbschnittSondervorschriften § 52Sonderaufsicht§ 52aVerjährung von Ansprüchen gegen Organmitglieder von Kreditinstituten§ 53Zweigstellen von Unternehmen mit Sitz im Ausland; Verordnungsermächtigung§ 53aRepräsentanzen von Instituten mit Sitz im Ausland§ 53bUnternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums§ 53cBesondere Anforderungen an CRD-Drittstaatenzweigstellen§ 53caEinstufung von CRD-Drittstaatenzweigstellen in Risikoklassen§ 53cbQualifizierte CRD-Drittstaatenzweigstellen§ 53ccVoraussetzungen der Erlaubniserteilung§ 53cdVersagungs-, Erlöschens- und Aufhebungsgründe§ 53ceKapitalausstattung§ 53cfLiquiditätsanforderungen§ 53cgInterne Unternehmensführung und Risikomanagement§ 53chBuchungs- und Rechnungslegungsvorschriften§ 53ciVerpflichtung zur Gründung eines Tochterunternehmens§ 53cjBewertung der Systemrelevanz§ 53ckMeldepflichten§ 53clHäufigkeit der Meldung§ 53cmAufsichtliches Prüfungsprogramm§ 53cnAufsichtliche Überprüfung und Beurteilung§ 53coAufsichtsmaßnahmen§ 53cpZusammenarbeit und Aufsichtskollegien§ 53cqMeldung an die Europäische Bankenaufsichtsbehörde§ 53dMutterunternehmen mit Sitz in einem DrittstaatSechster AbschnittSondervorschriften für zentrale Gegenparteien und Zentralverwahrer  1.Zentrale Gegenparteien§ 53eInhaber bedeutender Beteiligungen§ 53fAufsichtskollegien§ 53gFinanzmittelausstattung von zentralen Gegenparteien§ 53hLiquidität§ 53iGewährung des Zugangs nach den Artikeln 7 und 8 der Verordnung (EU) Nr. 648/2012§ 53jAnzeigen; Verordnungsermächtigung§ 53kAuslagerung von Aktivitäten und Prozessen§ 53lAnordnungsbefugnis; Maßnahmen bei organisatorischen Mängeln§ 53mInhalt des Zulassungsantrags; Anforderung von Unterlagen; Verzicht auf die Anhörung§ 53nMaßnahmen zur Verbesserung der Finanzmittel und der Liquidität einer nach der Verordnung (EU) Nr. 648/2012 zugelassenen zentralen Gegenpartei 2.Zentralverwahrer§ 53oAnträge nach der Verordnung (EU) Nr. 909/2014; Verschwiegenheitspflicht§ 53pAnordnungsbefugnis für die Aufsicht nach der Verordnung (EU) Nr. 909/2014§ 53qEigentumsrechte an ZentralverwahrernAbschnitt 6aDLT-Pilotregelung nach der Verordnung (EU) 2022/858§ 53rZuständigkeit§ 53sAusnahmen von der Erlaubnispflicht nach § 32§ 53tDLT-Abwicklungssysteme und DLT-Handels- und Abwicklungssysteme§ 53uUnterlagen und Anträge nach der Verordnung (EU) 2022/858§ 53vBetreiber organisierter MärkteSiebenter AbschnittStrafvorschriften, Bußgeldvorschriften § 54Verbotene Geschäfte, Handeln ohne Erlaubnis§ 54aStrafvorschriften§ 55Verletzung der Pflicht zur Anzeige der Zahlungsunfähigkeit oder der Überschuldung§ 55aUnbefugte Verwertung von Angaben über Millionenkredite§ 55bUnbefugte Offenbarung von Angaben über Millionenkredite§ 56Bußgeldvorschriften§ 57Bußgeldvorschriften§ 58(weggefallen)§ 59Geldbußen gegen Unternehmen§ 60Zuständige Verwaltungsbehörde§ 60aBeteiligung der Bundesanstalt und Mitteilungen in Strafsachen§ 60bBekanntmachung von Maßnahmen§ 60cBekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554§ 60dBekanntmachung von Maßnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen Achter AbschnittÜbergangs- und Schlußvorschriften § 61Erlaubnis für bestehende Kreditinstitute§ 62Überleitungsbestimmungen§ 63(Aufhebung und Änderung von Rechtsvorschriften)§ 63aSondervorschriften für das in Artikel 3 des Einigungsvertrages genannte Gebiet§ 64Nachfolgeunternehmen der Deutschen Bundespost§ 64aÜbergangsvorschrift zum Risikoreduzierungsgesetz§ 64bÜbergangsvorschrift zu § 24 Absatz 1d§ 64cÜbergangsvorschriften zum Bankenrichtlinienumsetzungs- und Bürokratieentlastungsgesetz§ 64d(weggefallen)§ 64eÜbergangsvorschriften zum Sechsten Gesetz zur Änderung des Gesetzes über das Kreditwesen§ 64fÜbergangsvorschriften zum Vierten Finanzmarktförderungsgesetz§ 64gÜbergangsvorschriften zum Finanzkonglomeraterichtlinie-Umsetzungsgesetz§ 64hÜbergangsvorschriften zum Gesetz zur Umsetzung der neu gefassten Bankenrichtlinie und der neu gefassten Kapitaladäquanzrichtlinie§ 64iÜbergangsvorschriften zum Finanzmarktrichtlinie-Umsetzungsgesetz§ 64jÜbergangsvorschriften zum Jahressteuergesetz 2009§ 64kÜbergangsvorschrift zum Gesetz zur Umsetzung der Beteiligungsrichtlinie§ 64lÜbergangsvorschrift zur Erlaubnis für die Anlageverwaltung§ 64mÜbergangsvorschrift zum Brexit-Steuerbegleitgesetz§ 64nÜbergangsvorschrift zum Gesetz zur Novellierung des Finanzanlagenvermittler- und Vermögensanlagenrechts§ 64oÜbergangsvorschriften zum EMIR-Ausführungsgesetz§ 64pÜbergangsvorschrift zum Hochfrequenzhandelsgesetz§ 64qÜbergangsvorschrift zum AIFM-Umsetzungsgesetz§ 64rÜbergangsvorschriften zum CRD IV-Umsetzungsgesetz§ 64s(weggefallen)§ 64t(weggefallen)§ 64u(weggefallen)§ 64vÜbergangsvorschriften zum Ersten Finanzmarktnovellierungsgesetz§ 64w(weggefallen)§ 64xÜbergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz§ 64y(weggefallen)§ 65Übergangsvorschrift zum Gesetz zur Einführung von elektronischen Wertpapieren§ 65aÜbergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
 
 ## Erster Abschnitt Allgemeine Vorschriften
 
 ## 1. Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Holdinggesellschaften sowie Finanzunternehmen
 
-##### § 1 Begriffsbestimmungen; Verordnungsermächtigung
+###### § 1 Begriffsbestimmungen; Verordnungsermächtigung
 
 (1) Kreditinstitute sind Unternehmen, die Bankgeschäfte gewerbsmäßig oder in einem Umfang betreiben, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert. Bankgeschäfte sind
 
@@ -126,7 +129,17 @@ Ein Unternehmen, das als Finanzdienstleistung geltendes Eigengeschäft nach Satz
 
 (1b) Institute im Sinne dieses Gesetzes sind Kreditinstitute und Finanzdienstleistungsinstitute.
 
-(2) Geschäftsleiter im Sinne dieses Gesetzes sind diejenigen natürlichen Personen, die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Führung der Geschäfte und zur Vertretung eines Instituts oder eines Unternehmens in der Rechtsform einer juristischen Person oder einer Personenhandelsgesellschaft berufen sind.
+(1c) Große Unternehmen im Sinne dieses Gesetzes sind große Institute und große Tochterunternehmen sowie nach § 2f Absatz 1 zugelassene Mutterfinanzholding-Gesellschaften und gemischte Mutterfinanzholding-Gesellschaften, die ein großes Institut in ihrer Gruppe haben.
+
+(2) Geschäftsleiter im Sinne dieses Gesetzes sind diejenigen natürlichen Personen, die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Führung der Geschäfte und zur Vertretung eines Instituts oder eines Unternehmens in der Rechtsform einer juristischen Person oder einer Personenhandelsgesellschaft berufen sind, sowie diejenigen natürlichen Personen, die die Geschäfte tatsächlich führen.
+
+(2a) Interne Kontrollfunktionen im Sinne dieses Gesetzes sind die Risikocontrolling-Funktion, die Compliance-Funktion und die Interne Revision.
+
+(2b) Inhaber von Schlüsselfunktionen im Sinne dieses Gesetzes sind Personen, die einen wesentlichen Einfluss auf die Leitung von Instituten oder von Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften haben, die nicht von der Zulassung nach § 2f Absatz 4 befreit sind, jedoch weder Geschäftsleiter noch Mitglieder des Verwaltungs- oder Aufsichtsorgans sind.
+
+(2c) Leiter der internen Kontrollfunktionen im Sinne dieses Gesetzes sind Personen, die auf der höchsten Hierarchieebene mit Ausnahme der Geschäftsleiter für die tatsächliche Leitung des Tagesgeschäfts der internen Kontrollfunktionen des Instituts verantwortlich sind.
+
+(2d) Inhaber besonderer Schlüsselfunktionen im Sinne dieses Gesetzes sind Inhaber von Schlüsselfunktionen, die besondere Funktionen wahrnehmen. Hierzu zählen die Leiter der internen Kontrollfunktionen sowie der Leiter Finanzen, soweit sie nicht Geschäftsleiter sind.
 
 (3) Finanzunternehmen sind Unternehmen, die keine Institute und keine Kapitalverwaltungsgesellschaften oder extern verwaltete Investmentgesellschaften sind und deren Haupttätigkeit darin besteht,
 
@@ -196,9 +209,45 @@ Das Bundesministerium der Finanzen kann nach Anhörung der Deutschen Bundesbank 
 
 (7f) (weggefallen)
 
-(8) (weggefallen)
+(8) Ein EU-Einzelinstitut ist ein Institut, das in der Europäischen Union nicht der aufsichtlichen Konsolidierung nach Teil 1 Titel II Kapitel 2 der Verordnung (EU) Nr. 575/2013 unterliegt und kein EU-Mutterunternehmen hat, das einer solchen aufsichtlichen Konsolidierung unterliegt.
 
 (9) Eine bedeutende Beteiligung im Sinne dieses Gesetzes ist eine qualifizierte Beteiligung gemäß Artikel 4 Absatz 1 Nummer 36 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung. Für die Berechnung des Anteils der Stimmrechte gelten § 33 Absatz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 5, § 34 Absatz 1 und 2, § 35 Absatz 1 bis 3 in Verbindung mit einer Rechtsverordnung nach Absatz 6 und § 36 des Wertpapierhandelsgesetzes entsprechend. Unberücksichtigt bleiben die Stimmrechte oder Kapitalanteile, die Institute oder Wertpapierinstitute im Rahmen des Emissionsgeschäfts nach Absatz 1 Satz 2 Nummer 10 oder nach § 2 Absatz 2 Nummer 2 des Wertpapierinstitutsgesetzes halten, vorausgesetzt, diese Rechte werden nicht ausgeübt oder anderweitig benutzt, um in die Geschäftsführung des Emittenten einzugreifen, und sie werden innerhalb eines Jahres nach dem Zeitpunkt des Erwerbs veräußert.
+
+(9a) Eine wesentliche Übertragung im Sinne dieses Gesetzes ist eine Übertragung von Vermögenswerten oder Verbindlichkeiten durch Veräußerung oder eine andere Art von Geschäft, wenn sie mindestens 10 Prozent der gesamten Vermögenswerte oder Verbindlichkeiten des Unternehmens ausmacht, es sei denn, die geplante Übertragung findet zwischen Unternehmen derselben Gruppe statt. In diesem Fall gilt die Übertragung für ein Unternehmen als wesentlich, wenn sie mindestens 15 Prozent der gesamten Vermögenswerte oder Verbindlichkeiten des Unternehmens ausmacht. Bei der Berechnung der Prozentsätze werden nicht berücksichtigt:
+
+1. Übertragungen notleidender Vermögenswerte,
+
+2. Übertragungen von Vermögenswerten, die zur Aufnahme in einen Deckungspool im Sinne von Artikel 3 Nummer 3 der Richtlinie (EU) 2019/2162 in der Fassung vom 13. Dezember 2023 bestimmt sind,
+
+3. Übertragungen von Vermögenswerten, die zur Verbriefung bestimmt sind, oder
+
+4. Übertragungen von Vermögenswerten oder Verbindlichkeiten im Zusammenhang mit der Anwendung der in Titel IV der Richtlinie 2014/59/EU in der Fassung vom 11. April 2024 vorgesehenen Abwicklungsinstrumente, -befugnisse und -mechanismen.
+
+Für Mutterfinanzholding-Gesellschaften und gemischte Mutterfinanzholding-Gesellschaften gelten die Prozentsätze auf konsolidierter Basis.
+
+(9b) Eine wesentliche Beteiligung im Sinne dieses Gesetzes ist eine Beteiligung an einem anderen Unternehmen, wenn sie 15 Prozent oder mehr der eigenen anrechenbaren Eigenmittel entspricht.
+
+(9c) Eine Verschmelzung im Sinne dieses Gesetzes ist ein Vorgang, bei dem
+
+1. eine oder mehrere Gesellschaften zum Zeitpunkt ihrer Auflösung ohne Abwicklung ihr Aktiv- und Passivvermögen vollständig oder teilweise auf eine bereits bestehende Gesellschaft, die übernehmende Gesellschaft, übertragen, und zwar gegen Gewährung von Aktien oder sonstigen Anteilen am Gesellschaftskapital der übernehmenden Gesellschaft an ihre eigenen Gesellschafter und gegebenenfalls Gewährung einer baren Zuzahlung, die 10 Prozent des Nennwerts oder, bei Fehlen eines solchen, des rechnerischen Werts dieser Aktien oder sonstigen Anteile nicht überschreiten darf,
+
+2. eine oder mehrere Gesellschaften zum Zeitpunkt ihrer Auflösung ohne Abwicklung ihr Aktiv- und Passivvermögen vollständig oder teilweise auf eine bereits bestehende Gesellschaft, die übernehmende Gesellschaft, übertragen, ohne dass die übernehmende Gesellschaft neue Anteile ausgibt, sofern eine Person unmittelbar oder mittelbar alle Aktien oder sonstigen Anteile an den sich verschmelzenden Gesellschaften besitzt oder die Aktien und sonstigen Anteile der Gesellschafter der sich verschmelzenden Gesellschaften bei allen sich verschmelzenden Gesellschaften dasselbe Verhältnis haben,
+
+3. mehrere Gesellschaften zum Zeitpunkt ihrer Auflösung ohne Abwicklung ihr Aktiv- und Passivvermögen vollständig oder teilweise auf eine Gesellschaft übertragen, die sie gegen Gewährung von Aktien oder sonstigen Anteilen am Gesellschaftskapital der neuen Gesellschaft an ihre eigenen Gesellschafter und gegebenenfalls Gewährung einer baren Zuzahlung gründen, die 10 Prozent des Nennwerts oder, bei Fehlen eines solchen, des rechnerischen Werts dieser Aktien oder sonstigen Anteile nicht überschreiten darf, oder
+
+4. eine Gesellschaft zum Zeitpunkt ihrer Auflösung ohne Abwicklung ihr Aktiv- und Passivvermögen vollständig oder teilweise auf die Gesellschaft überträgt, die sämtliche Aktien oder sonstigen Anteile an ihrem Gesellschaftskapital besitzt.
+
+(9d) Eine Spaltung im Sinne dieses Gesetzes ist ein Vorgang, bei dem
+
+1. eine Gesellschaft nach Auflösung ohne Abwicklung ihr gesamtes Aktiv- und Passivvermögen auf mehrere Gesellschaften überträgt, und zwar gegen Gewährung von Aktien oder sonstigen Anteilen der begünstigten Gesellschaften an die Gesellschafter der aufgespaltenen Gesellschaft und gegebenenfalls Gewährung einer baren Zuzahlung, die 10 Prozent des Nennbetrags oder, bei Fehlen eines solchen, des rechnerischen Werts der gewährten Aktien oder sonstigen Anteile nicht überschreiten darf,
+
+2. eine Gesellschaft nach Auflösung ohne Abwicklung ihr gesamtes Aktiv- und Passivvermögen auf mehrere neu gegründete Gesellschaften überträgt, und zwar gegen Gewährung von Aktien oder sonstigen Anteilen der begünstigten Gesellschaften an die Gesellschafter der aufgespaltenen Gesellschaft und gegebenenfalls Gewährung einer baren Zuzahlung, die 10 Prozent des Nennbetrags oder, bei Fehlen eines solchen, des rechnerischen Werts der gewährten Aktien oder sonstigen Anteile nicht überschreiten darf,
+
+3. eine Kombination der unter den Nummern 1 und 2 beschriebenen Vorgänge vorliegt,
+
+4. eine abspaltende Gesellschaft einen Teil ihres Aktiv- und Passivvermögens auf eine oder mehrere begünstigte Gesellschaften überträgt, und zwar gegen Gewährung von Aktien oder sonstigen Anteilen der begünstigten Gesellschaften, der gespaltenen Gesellschaft oder sowohl der begünstigten Gesellschaften als auch der gespaltenen Gesellschaft an die Gesellschafter der abspaltenden Gesellschaft und gegebenenfalls Gewährung einer baren Zuzahlung, die 10 Prozent des Nennbetrags oder, bei Fehlen eines solchen, des rechnerischen Werts der gewährten Aktien oder sonstigen Anteile nicht überschreiten darf, oder
+
+5. eine abspaltende Gesellschaft einen Teil ihres Aktiv- und Passivvermögens auf eine oder mehrere begünstigte Gesellschaften überträgt, und zwar gegen Gewährung von Aktien oder sonstigen Anteilen der begünstigten Gesellschaften an die abspaltende Gesellschaft.
 
 (10) Auslagerungsunternehmen sind Unternehmen, auf die ein Institut oder ein übergeordnetes Unternehmen Aktivitäten und Prozesse zur Durchführung von Bankgeschäften, Finanzdienstleistungen oder sonstigen institutstypischen Dienstleistungen ausgelagert hat, sowie deren Subunternehmen bei Weiterverlagerungen von Aktivitäten und Prozessen, die für die Durchführung von Bankgeschäften, Finanzdienstleistungen oder sonstigen institutstypischen Dienstleistungen wesentlich sind.
 
@@ -318,7 +367,7 @@ Unschädlich ist, wenn die Refinanzierungsunternehmen daneben wirtschaftliche Ri
 
 (26) Zweckgesellschaften sind Unternehmen, deren wesentlicher Zweck darin besteht, durch Emission von Finanzinstrumenten oder auf sonstige Weise Gelder aufzunehmen oder andere vermögenswerte Vorteile zu erlangen, um von Refinanzierungsunternehmen oder Refinanzierungsmittlern Gegenstände aus dem Geschäftsbetrieb eines Refinanzierungsunternehmens oder Ansprüche auf deren Übertragung zu erwerben; unschädlich ist, wenn sie daneben wirtschaftliche Risiken übernehmen, ohne dass damit ein Rechtsübergang einhergeht.
 
-(27) Interne Ansätze im Sinne dieses Gesetzes sind die Ansätze nach Artikel 143 Absatz 1, Artikel 221, 225 und 265 Absatz 2, Artikel 283, 312 Absatz 2 und Artikel 363 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung.
+(27) Interne Ansätze im Sinne dieses Gesetzes sind die auf internen Beurteilungen basierenden Ansätze nach Artikel 143 Absatz 1 der Verordnung (EU) Nr. 575/2013, die auf internen Modellen beruhenden Ansätze nach Artikel 221 der Verordnung (EU) Nr. 575/2013, die auf internen Modellen beruhenden Methoden nach Artikel 283 der Verordnung (EU) Nr. 575/2013, die alternativen auf einem internen Modell beruhenden Ansätze nach Artikel 325az der Verordnung (EU) Nr. 575/2013 und die internen Bemessungsansätze nach Artikel 265 Absatz 2 der Verordnung (EU) Nr. 575/2013.
 
 (28) Hartes Kernkapital im Sinne dieses Gesetzes ist das harte Kernkapital gemäß Artikel 26 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung.
 
@@ -370,9 +419,11 @@ d) eine Kündigungsfrist von mindestens drei Monaten aufweisen;
 
 (34) Modellrisiko ist der mögliche Verlust, den ein Institut als Folge von im Wesentlichen auf der Grundlage von Ergebnissen interner Modelle getroffenen Entscheidungen erleiden kann, die in der Entwicklung, Umsetzung oder Anwendung fehlerhaft sind.
 
-(35) Im Übrigen gelten für die Zwecke dieses Gesetzes die Definitionen aus Artikel 4 Absatz 1 Nummer 5, 6, 8, 13 bis 18, 20 bis 22, 26, 29 bis 33, 35, 37, 38, 43, 44, 48, 49, 51, 54, 57, 61 bis 63, 66, 67, 73, 74, 82, 86 und 94 der Verordnung (EU) Nr. 575/2013.
+(35) Im Übrigen gelten für die Zwecke dieses Gesetzes die Definitionen aus Artikel 4 Absatz 1 Unterabsatz 1 Nummer 5, 6, 8, 13 bis 18, 20 bis 22, 26, 29 bis 33, 35, 37, 38, 43, 44, 48, 49, 51, 52d bis 52i, 54, 57, 61 bis 63, 66, 67, 73, 74, 82, 86, 94, 146 und 147 der Verordnung (EU) Nr. 575/2013.
 
-##### § 1a Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute
+(36) Für die Zwecke dieses Gesetzes gilt ein Institut als der Output-Floor-Eigenmitteluntergrenze unterliegend, wenn der nach Artikel 92 Absatz 3 Buchstabe a der Verordnung (EU) Nr. 575/2013 berechnete Gesamtrisikobetrag des Instituts seinen nach Artikel 92 Absatz 4 jener Verordnung berechneten Gesamtrisikobetrag ohne Output-Floor-Eigenmitteluntergrenze überschreitet.
+
+###### § 1a Geltung der Richtlinie 2013/36/EU und der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute
 
 (1) Für Institute, die keine
 
@@ -382,7 +433,7 @@ d) eine Kündigungsfrist von mindestens drei Monaten aufweisen;
 
 3. Wohnungsunternehmen mit Spareinrichtung
 
-sind, gelten vorbehaltlich des § 2 Absatz 7 bis 9f die Vorgaben der Verordnung (EU) Nr. 575/2013 und des Kapitels 2 der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefung und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35), die Vorgaben der auf Grundlage der Verordnung (EU) Nr. 575/2013 und des Kapitels 2 der Verordnung (EU) 2017/2402 erlassenen Rechtsakte, die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) Nr. 575/2013 oder des Kapitels 2 der Verordnung (EU) 2017/2402 verweisen, sowie die in Ergänzung der Verordnung (EU) Nr. 575/2013 erlassenen Rechtsverordnungen nach § 10 Absatz 1 Satz 1 und § 13 Absatz 1 so, als seien diese Institute CRR-Kreditinstitute.
+sind, gelten vorbehaltlich des § 2 Absatz 7 bis 9f die Vorgaben der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024, die Vorgaben der Verordnung (EU) Nr. 575/2013 und des Kapitels 2 der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefung und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35), die Vorgaben der auf Grundlage der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024, der Verordnung (EU) Nr. 575/2013 und des Kapitels 2 der Verordnung (EU) 2017/2402 erlassenen Rechtsakte, die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) Nr. 575/2013 oder des Kapitels 2 der Verordnung (EU) 2017/2402 verweisen, sowie die in Ergänzung der Verordnung (EU) Nr. 575/2013 erlassenen Rechtsverordnungen nach § 10 Absatz 1 Satz 1 und § 13 Absatz 1 so, als seien diese Institute CRR-Kreditinstitute.
 
 (2) Für Einrichtungen, die in Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU namentlich genannt werden, gelten die Vorgaben der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) und die Vorgaben der auf Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen, als wenn diese Einrichtungen CRR-Kreditinstitute wären.
 
@@ -398,11 +449,11 @@ sind, gelten vorbehaltlich des § 2 Absatz 7 bis 9f die Vorgaben der Verordnung 
 
 (4) Für Kreditinstitute, die zwar über eine Erlaubnis verfügen, Bankgeschäfte im Sinne von § 1 Absatz 1 Satz 2 Nummer 1 und 2 zu betreiben, die aber weder CRR-Kreditinstitute noch Zweigstellen im Sinne des § 53 Absatz 1 Satz 1 sind, gelten die Meldeanforderungen der Verordnung (EU) 2015/534 der Europäischen Zentralbank vom 17. März 2015 über die Meldung aufsichtlicher Finanzinformationen (EZB/2015/13) (ABl. L 86 vom 31.3.2015, S. 13; L 65 vom 8.3.2018, S. 48), die zuletzt durch die Verordnung (EU) 2020/605 (ABl. L 145 vom 7.5.2020, S. 1) geändert worden ist, so, als seien diese Kreditinstitute CRR-Kreditinstitute. Die für die Bestimmung des Meldeumfangs erforderliche Einstufung als bedeutendes oder weniger bedeutendes Kreditinstitut erfolgt auf der Grundlage des Größenkriteriums „Gesamtwert der Aktiva“ nach Artikel 50 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1; L 113 vom 29.4.2017, S. 64; L 65 vom 8.3.2018, S. 49). Die Meldungen sind der Deutschen Bundesbank elektronisch einzureichen.
 
-##### § 1b Unzuverlässigkeit von sanktionierten Personen
+###### § 1b Unzuverlässigkeit von sanktionierten Personen
 
 Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaften oder der Europäischen Union, der der Durchführung einer vom Rat der Europäischen Union im Bereich der Gemeinsamen Außen- und Sicherheitspolitik beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, ihre Gelder und wirtschaftlichen Ressourcen eingefroren sind oder ihr weder unmittelbar noch mittelbar Gelder oder wirtschaftliche Ressourcen zur Verfügung gestellt werden oder zu Gute kommen dürfen. Eine natürliche Person gilt in der Regel als unzuverlässig, wenn sie als Geschäftsleiter, Aufsichtsratsmitglied oder in vergleichbarer Position für eine Person oder Personengesellschaft nach Satz 1 tätig ist; dies gilt nicht für Arbeitnehmervertreter. Eine natürliche Person gilt in der Regel auch dann als unzuverlässig, wenn sie die Interessen einer Person oder Personengesellschaft nach Satz 1 als Mitglied eines Aufsichts- oder Verwaltungsrats oder eines vergleichbaren Kontrollgremiums in einem Institut wahrnimmt, das nicht unter Satz 1 fällt.
 
-##### § 2 Ausnahmen
+###### § 2 Ausnahmen
 
 (1) Als Kreditinstitut gelten vorbehaltlich der Absätze 2 und 3 nicht
 
@@ -414,6 +465,8 @@ Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als
 
 2. die Kreditanstalt für Wiederaufbau;
 
+2a. die vom Anwendungsbereich der Richtlinie 2013/36/EU ausgenommenen Institute anderer Mitgliedstaaten in Artikel 2 Absatz 5 Nummer 3 bis 4a sowie Nummer 6 bis 23 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024; diese gelten als Finanzunternehmen für die Zwecke des § 53b Absatz 7;
+
 3. die Sozialversicherungsträger und die Bundesagentur für Arbeit;
 
 3a. die öffentliche Schuldenverwaltung des Bundes oder eines Landes, eines ihrer Sondervermögen oder eines anderen Staates des Europäischen Wirtschaftsraums, sofern diese nicht fremde Gelder als Einlagen oder andere rückzahlbare Gelder des Publikums annimmt und das Kreditgeschäft betreibt;
@@ -423,6 +476,8 @@ Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als
 3c. EU-Verwaltungsgesellschaften und, unter der Voraussetzung, dass der Vertrieb der betreffenden Investmentvermögen im Inland nach dem Kapitalanlagegesetzbuch auf der Basis einer Vertriebsanzeige zulässig ist, ausländische AIF-Verwaltungsgesellschaften, sofern die EU-Verwaltungsgesellschaft oder die ausländische AIF-Verwaltungsgesellschaft als Bankgeschäfte nur die kollektive Vermögensverwaltung, gegebenenfalls einschließlich der Gewährung von Gelddarlehen, oder daneben ausschließlich die in Artikel 6 Absatz 3 der Richtlinie 2009/65/EG oder die in Artikel 6 Absatz 4 der Richtlinie 2011/61/EU aufgeführten Dienstleistungen oder Nebendienstleistungen betreibt; ein Vertrieb von ausländischen AIF oder EU-AIF an professionelle Anleger nach § 330 des Kapitalanlagegesetzbuchs gilt nicht als zulässiger Vertrieb im Sinne dieser Vorschrift;
 
 3d. EU-Investmentvermögen und, unter der Voraussetzung, dass der Vertrieb der betreffenden Investmentvermögen im Inland nach dem Kapitalanlagegesetzbuch auf der Basis einer Vertriebsanzeige zulässig ist, ausländische AIF, sofern das EU-Investmentvermögen oder der ausländische AIF als Bankgeschäfte nur die kollektive Vermögensverwaltung, gegebenenfalls einschließlich der Gewährung von Gelddarlehen, oder daneben ausschließlich die in Artikel 6 Absatz 3 der Richtlinie 2009/65/EG oder die in Artikel 6 Absatz 4 der Richtlinie 2011/61/EU aufgeführten Dienstleistungen oder Nebendienstleistungen betreibt; ein Vertrieb von ausländischen AIF oder EU-AIF an professionelle Anleger nach § 330 des Kapitalanlagegesetzbuchs gilt nicht als zulässiger Vertrieb im Sinne dieser Vorschrift;
+
+3e. Kreditvergabezweckgesellschaften im Sinne des § 1 Absatz 19 Nummer 24c des Kapitalanlagegesetzbuchs, sofern sie als Bankgeschäfte nur die Gewährung von Gelddarlehen betreiben;
 
 4. private und öffentlich-rechtliche Versicherungsunternehmen;
 
@@ -468,9 +523,9 @@ c) Betreiber oder Verwalter eines Energieausgleichssystems, eines Rohrleitungsne
 
 (3) Für Unternehmen der in Absatz 1 Nr. 4 bis 6 bezeichneten Art gelten die Vorschriften dieses Gesetzes insoweit, als sie Bankgeschäfte betreiben, die nicht zu den ihnen eigentümlichen Geschäften gehören.
 
-(4) Die Bundesanstalt kann im Einzelfall bestimmen, dass auf ein Institut die §§ 1a, 2c, 10 bis 18, 24, 24a, 25, 25a bis 25e, 26 bis 38, 45, 46 bis 46c und 51 Absatz 1 dieses Gesetzes insgesamt nicht anzuwenden sind, solange das Unternehmen wegen der Art der von ihm betriebenen Geschäfte insoweit nicht der Aufsicht bedarf; auf der Grundlage einer Freistellung nach Halbsatz 1 kann sie auch bestimmen, dass auf das Institut auch die §§ 6a und 24c nicht anzuwenden sind, solange das Unternehmen wegen der Art der von ihm betriebenen Geschäfte auch insoweit nicht der Aufsicht bedarf. Die Entscheidung ist im Bundesanzeiger bekanntzumachen.
+(4) Die Bundesanstalt kann im Einzelfall bestimmen, dass auf ein Institut die §§ 1a, 2c, 10 bis 18, 24, 24a, 25, 25a bis 25e, 26 bis 38, 45, 46 bis 46c und 51 Absatz 1 dieses Gesetzes insgesamt nicht anzuwenden sind, solange das Unternehmen wegen der Art der von ihm betriebenen Geschäfte insoweit nicht der Aufsicht bedarf; auf der Grundlage einer Freistellung nach Halbsatz 1 kann sie auch bestimmen, dass auf das Institut § 24c nicht anzuwenden ist, solange das Unternehmen wegen der Art der von ihm betriebenen Geschäfte auch insoweit nicht der Aufsicht bedarf. Die Entscheidung ist im Bundesanzeiger bekanntzumachen.
 
-(5) Vorbehaltlich der Regelungen in Titel VIII der Verordnung (EU) Nr. 600/2014 in der Fassung vom 23. Oktober 2024 sowie von Beschlüssen der Europäischen Kommission gemäß Artikel 25 Absatz 4 Unterabsatz 3 der Richtlinie 2014/65/EU in der Fassung vom 28. Februar 2024 und gemäß Artikel 28 Absatz 4 Unterabsatz 1 der Verordnung (EU) Nr. 600/2014 in der Fassung vom 23. Oktober 2024 kann die Bundesanstalt im Einzelfall bestimmen, dass auf ein Institut mit Sitz in einem Drittstaat, das im Inland im Wege des grenzüberschreitenden Dienstleistungsverkehrs gewerbsmäßig oder in einem Umfang, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen will, die §§ 1a, 2c, 10 bis 18, 24, 24a, 25, 25a bis 25e, 26 bis 38, 45, 46 bis 46c und 51 Absatz 1 insgesamt nicht anzuwenden sind, solange das Institut im Hinblick auf seine im Inland betriebenen Geschäfte wegen seiner Aufsicht durch die im Herkunftsstaat zuständige Behörde insoweit nicht zusätzlich der Aufsicht durch die Bundesanstalt bedarf. Auf Grundlage einer Freistellung nach Satz 1 kann sie auch bestimmen, dass auf das Institut auch § 24c nicht anzuwenden ist. Die Sätze 1 und 2 gelten entsprechend für Institute mit Sitz im Europäischen Wirtschaftsraum, für die der Marktzutritt nicht in § 53b Absatz 1 geregelt ist.
+(5) Vorbehaltlich der Regelungen in Titel VIII der Verordnung (EU) Nr. 600/2014 in der Fassung vom 23. Oktober 2024 sowie von Beschlüssen der Europäischen Kommission nach Artikel 25 Absatz 4 Unterabsatz 3 der Richtlinie 2014/65/EU in der Fassung vom 28. Februar 2024 und nach Artikel 28 Absatz 4 Unterabsatz 1 der Verordnung (EU) Nr. 600/2014 in der Fassung vom 23. Oktober 2024 und sofern Artikel 21c und Artikel 47 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 nicht entgegenstehen, kann die Bundesanstalt im Einzelfall bestimmen, dass auf ein Institut mit Sitz in einem Drittstaat, das im Inland im Wege des grenzüberschreitenden Dienstleistungsverkehrs gewerbsmäßig oder in einem Umfang, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen will, die §§ 1a, 2c, 10 bis 18, 24, 24a, 25, 25a bis 25e, 26 bis 38, 45, 46 bis 46c und 51 Absatz 1 insgesamt nicht anzuwenden sind, solange das Institut im Hinblick auf seine im Inland betriebenen Geschäfte wegen seiner Aufsicht durch die im Herkunftsstaat zuständige Behörde insoweit nicht zusätzlich der Aufsicht durch die Bundesanstalt bedarf. Die Bundesanstalt hat die bestehenden Freistellungen zu widerrufen, soweit die Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 für die betreffenden Geschäfte die Errichtung einer inländischen Zweigstelle verlangt. Auf Grundlage einer Freistellung nach Satz 1 kann sie auch bestimmen, dass auf das Institut auch § 24c nicht anzuwenden ist. Die Sätze 1 und 3 gelten entsprechend für Institute mit Sitz im Europäischen Wirtschaftsraum, für die der Marktzutritt nicht in § 53b Absatz 1 geregelt ist.
 
 (6) Als Finanzdienstleistungsinstitute gelten nicht
 
@@ -566,7 +621,7 @@ Für Einrichtungen und Unternehmen im Sinne des Satzes 1 Nr. 3 und 4 gelten die 
 
 (9) (weggefallen)
 
-(9a) Auf Kreditinstitute, die ausschließlich über eine Erlaubnis verfügen, die Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, sind die §§ 2c, 6b, 10, 10c bis 10i, 11, 12a bis 18, 24 Absatz 1 Nummer 6, 10, 14 bis 14b, 16, Absatz 1a Nummer 4 bis 6, die §§ 24a, 24c, 25 Absatz 1 Satz 2, die §§ 25a bis 25e, 26a, 32, 33, 34, 36 Absatz 3 und die §§ 45 bis 45b dieses Gesetzes sowie die Artikel 25 bis 455 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden. § 24 Absatz 1 Nummer 9 gilt mit der Maßgabe, dass das Absinken des Anfangskapitals unter die Mindestanforderungen nach Artikel 16 der Verordnung (EU) Nr. 648/2012 anzuzeigen ist.
+(9a) Auf Kreditinstitute, die ausschließlich über eine Erlaubnis verfügen, die Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, sind die §§ 2c, 6b, 10, 10c bis 10i, 11, 12a bis 18, 24 Absatz 1 Nummer 6, 10, 14 bis 14b, 16, Absatz 1a Nummer 4 bis 6, die §§ 24a, 24c, 25 Absatz 1 Satz 2, die §§ 25a bis 25e, 26a, 26c, 26d, 32, 33, 34, 36 Absatz 3 und die §§ 45 bis 45b dieses Gesetzes sowie die Artikel 25 bis 455 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden. § 24 Absatz 1 Nummer 9 gilt mit der Maßgabe, dass das Absinken des Anfangskapitals unter die Mindestanforderungen nach Artikel 16 der Verordnung (EU) Nr. 648/2012 anzuzeigen ist.
 
 (9b) Sofern ein Kreditinstitut sowohl Tätigkeiten im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 ausübt als auch weitere nach diesem Gesetz erlaubnispflichtige Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, ist auf die Tätigkeit im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 der Absatz 9a anzuwenden; diese Kreditinstitute haben dafür Sorge zu tragen, dass sowohl die Anforderungen nach diesem Gesetz als auch die Anforderungen der Verordnung (EU) Nr. 648/2012 eingehalten werden. Bezüglich der Anforderungen an das Anfangskapital nach § 33 Absatz 1 sowie nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 648/2012 haben die betroffenen Kreditinstitute die im jeweiligen Einzelfall höheren Anforderungen zu erfüllen. Anzeige- und Informationspflichten, die sowohl nach § 2c Absatz 1 als auch nach Artikel 31 Absatz 2 der Verordnung (EU) Nr. 648/2012 bestehen, können in einer gemeinsamen Anzeige oder Mitteilung zusammengefasst werden.
 
@@ -574,7 +629,7 @@ Für Einrichtungen und Unternehmen im Sinne des Satzes 1 Nr. 3 und 4 gelten die 
 
 (9d) Auf Bilanzaktiva in Form von Forderungen eines Förderinstituts des Bundes oder eines Landes im Sinne des § 5 Absatzes 1 Nummer 2 des Körperschaftsteuergesetzes an Kreditinstitute sowie sonstige Risikopositionen dieser Förderinstitute gegenüber Kreditinstituten, sofern die betreffenden Forderungen und Positionen auf Grund von Darlehen bestehen, die dem Förderauftrag entsprechen und über diese Kreditinstitute an die Begünstigten weitergereicht werden, findet Artikel 121 Absatz 1 der Verordnung (EU) Nr. 575/2013 in der am 31. Dezember 2024 geltenden Fassung Anwendung.
 
-(9e) Auf Kreditinstitute, die ausschließlich über eine Zulassung nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 verfügen, die Tätigkeit als Zentralverwahrer nach Abschnitt A oder nach den Abschnitten A und B des Anhangs zur Verordnung (EU) Nr. 909/2014 auszuüben, sind die §§ 2c, 6b Absatz 1 Nummer 1, Absatz 2 und 3, die §§ 10, 10c bis 18, 24 Absatz 1 Nummer 4, 6, 9, 11, 14, 14a, 16 und 17, Absatz 1a Nummer 4 bis 8, Absatz 1b, die §§ 24a, 24c, 25 Absatz 1 Satz 2, die §§ 25a bis 25e, 33 bis 33b, 36 Absatz 3, die §§ 45 bis 45b, 53 und 53a dieses Gesetzes nicht anzuwenden.
+(9e) Auf Kreditinstitute, die ausschließlich über eine Zulassung nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 verfügen, die Tätigkeit als Zentralverwahrer nach Abschnitt A oder nach den Abschnitten A und B des Anhangs zur Verordnung (EU) Nr. 909/2014 auszuüben, sind die §§ 2c, 6b Absatz 1 Nummer 1, Absatz 2 und 3, die §§ 10, 10c bis 18, 24 Absatz 1 Nummer 4, 6, 9, 11, 14, 14a, 16 und 17, Absatz 1a Nummer 4 bis 8, Absatz 1b, die §§ 24a, 24c, 25 Absatz 1 Satz 2, die §§ 25a bis 25e, 26c, 26d, 33 bis 33b, 36 Absatz 3, die §§ 45 bis 45b, 53 und 53a dieses Gesetzes nicht anzuwenden.
 
 (9f) Auf Kreditinstitute, die ausschließlich über eine Zulassung nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 verfügen, die Tätigkeit als Zentralverwahrer nach Abschnitt A oder nach den Abschnitten A und B des Anhangs zur Verordnung (EU) Nr. 909/2014 auszuüben sowie weitere Bankgeschäfte zu betreiben oder Finanzdienstleistungen zu erbringen, die zugleich Wertpapierdienstleistungen im Sinne des § 2 Absatz 3 des Wertpapierhandelsgesetzes sind, sind die §§ 2c, 24 Absatz 1 Nummer 1 und 2, § 25c Absatz 1, § 33 Absatz 1 Nummer 2 und 4a und § 35 nicht anzuwenden.
 
@@ -590,7 +645,7 @@ Für Einrichtungen und Unternehmen im Sinne des Satzes 1 Nr. 3 und 4 gelten die 
 
 (12) Für Betreiber organisierter Märkte mit Sitz im Ausland, die als einzige Finanzdienstleistung ein multilaterales oder organisiertes Handelssystem im Inland betreiben, gelten die Anforderungen der §§ 25a, 25b und 33 Abs. 1 Nr. 1 bis 4 sowie die Anzeigepflichten nach § 2c Abs. 1 und 4 sowie § 24 Absatz 1 Nummer 1 und 2 und Abs. 1a Nr. 2 entsprechend. Die in Satz 1 genannten Anforderungen gelten entsprechend auch für Träger einer inländischen Börse, die außer dem Freiverkehr nach § 48 des Börsengesetzes oder einem organisierten Handelssystem nach § 48b des Börsengesetzes als einzige Finanzdienstleistung ein multilaterales oder organisiertes Handelsystem im Inland betreiben. Es wird vermutet, dass Geschäftsführer einer inländischen Börse und Personen, die die Geschäfte eines ausländischen organisierten Marktes tatsächlich leiten, den Anforderungen nach § 33 Abs. 1 Nr. 2 und 4 genügen. Die Befugnisse der Bundesanstalt nach den §§ 2c und 25a Absatz 2 Satz 1 sowie den §§ 44 bis 46h gelten entsprechend. Die Bundesanstalt kann den in Satz 1 genannten Personen den Betrieb eines multilateralen oder organisierten Handelssystems in den Fällen des § 35 Absatz 2 Nummer 4 und 6 sowie dann untersagen, wenn sie die Anforderungen des § 33 Abs. 1 Satz 1 Nr. 1 bis 4 nicht erfüllen. Die in Satz 1 genannten Personen haben der Bundesanstalt die Aufnahme des Betriebs unverzüglich anzuzeigen.
 
-##### § 2a Ausnahmen für gruppenangehörige Institute und Institute, die institutsbezogenen Sicherungssystemen angehören
+###### § 2a Ausnahmen für gruppenangehörige Institute und Institute, die institutsbezogenen Sicherungssystemen angehören
 
 (1) Institute können eine Freistellung nach Artikel 7 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung bei der Aufsichtsbehörde beantragen. Dem Antrag sind geeignete Unterlagen beizufügen, die nachweisen, dass die Voraussetzungen für eine Freistellung nach Artikel 7 der Verordnung (EU) Nr. 575/2013 vorliegen.
 
@@ -604,17 +659,17 @@ Für Einrichtungen und Unternehmen im Sinne des Satzes 1 Nr. 3 und 4 gelten die 
 
 (6) Die Aufsichtsbehörde kann das Institut oder das übergeordnete Unternehmen auch nach einer nach den Absätzen 1 bis 4 gewährten oder nach einer nach Absatz 5 fortgeltenden Freistellung auffordern, die erforderlichen Nachweise für die Einhaltung der Voraussetzungen vorzulegen. Sie kann sie auch dazu auffordern, Vorkehrungen zu treffen, die geeignet und erforderlich sind, bestehende Mängel zu beseitigen und hierfür eine angemessene Frist bestimmen. Werden die Nachweise nicht oder nicht fristgerecht vorgelegt oder werden die Mängel nicht oder nicht fristgerecht behoben, kann die Aufsichtsbehörde die Freistellung aufheben oder anordnen, dass das Institut die Vorschriften, auf die sich die Freistellung bezog, wieder anzuwenden hat.
 
-##### § 2b Rechtsform
+###### § 2b Rechtsform
 
 (1) Kreditinstitute, die eine Erlaubnis nach § 32 Absatz 1 benötigen, dürfen nicht in der Rechtsform des Einzelkaufmanns betrieben werden.
 
 (2) Unternehmen, die die Finanzdienstleistungen des Factorings nach § 1 Absatz 1a Satz 2 Nummer 9 oder des Finanzierungsleasings nach § 1 Absatz 1a Satz 2 Nummer 10 erbringen, dürfen nicht in der Rechtsform des Einzelkaufmanns betrieben werden.
 
-##### § 2c Inhaber bedeutender Beteiligungen
+###### § 2c Inhaber bedeutender Beteiligungen
 
-(1) Wer beabsichtigt, allein oder im Zusammenwirken mit anderen Personen oder Unternehmen eine bedeutende Beteiligung an einem Institut direkt oder indirekt zu erwerben (interessierter Erwerber), hat dies der Bundesanstalt und der Deutschen Bundesbank nach Maßgabe des Satzes 2 unverzüglich anzuzeigen. In der Anzeige hat der interessierte Erwerber die für die Höhe der Beteiligung und die für die Begründung des maßgeblichen Einflusses, die Beurteilung seiner Zuverlässigkeit und die Prüfung der weiteren Untersagungsgründe nach Absatz 1b Satz 1 wesentlichen Tatsachen und Unterlagen, die durch Rechtsverordnung nach § 24 Abs. 4 näher zu bestimmen sind, sowie die Personen oder Unternehmen anzugeben, von denen er die entsprechenden Anteile erwerben will. In der Rechtsverordnung kann, insbesondere auch als Einzelfallentscheidung oder allgemeine Regelung, vorgesehen werden, dass der interessierte Erwerber die in § 32 Abs. 1 Satz 2 Nr. 6 Buchstabe d und e genannten Unterlagen vorzulegen hat. Ist der interessierte Erwerber eine juristische Person oder Personenhandelsgesellschaft, hat er in der Anzeige die für die Beurteilung der Zuverlässigkeit seiner gesetzlichen oder satzungsmäßigen Vertreter oder persönlich haftenden Gesellschafter wesentlichen Tatsachen anzugeben. Der Inhaber einer bedeutenden Beteiligung hat jeden neu bestellten gesetzlichen oder satzungsmäßigen Vertreter oder neuen persönlich haftenden Gesellschafter mit den für die Beurteilung von dessen Zuverlässigkeit wesentlichen Tatsachen der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen. Der Inhaber einer bedeutenden Beteiligung hat der Bundesanstalt und der Deutschen Bundesbank ferner unverzüglich anzuzeigen, wenn er beabsichtigt, allein oder im Zusammenwirken mit anderen Personen oder Unternehmen den Betrag der bedeutenden Beteiligung so zu erhöhen, dass die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals erreicht oder überschritten werden oder dass das Institut unter seine Kontrolle kommt. Wer unabsichtlich eine bedeutende Beteiligung an einem Institut erwirbt oder eine bedeutende Beteiligung so erhöht, dass die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals erreicht oder überschritten werden, oder eine bedeutende Beteiligung so erhöht, dass das Institut unter seine Kontrolle kommt, hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen, sobald er von dem Erwerb oder der Erhöhung Kenntnis erlangt hat. Dies gilt auch, wenn er beabsichtigt, die Beteiligung so zurückzuführen, dass sie erneut unter eine der Schwellen fällt, sofern die Beteiligung nicht unverzüglich nach Kenntnis von dem Erwerb oder der Erhöhung zurückgeführt wird. Die Bundesanstalt hat den Eingang einer vollständigen Anzeige nach Satz 1, 6 oder 7 umgehend, spätestens jedoch innerhalb von zwei Arbeitstagen nach deren Zugang schriftlich oder elektronisch gegenüber dem Anzeigepflichtigen zu bestätigen.
+(1) Wer beabsichtigt, allein oder im Zusammenwirken mit anderen Personen oder Unternehmen eine bedeutende Beteiligung an einem Institut direkt oder indirekt zu erwerben (interessierter Erwerber), hat dies der Bundesanstalt und der Deutschen Bundesbank nach Maßgabe des Satzes 2 unverzüglich anzuzeigen. In der Anzeige hat der interessierte Erwerber die für die Höhe der Beteiligung und die für die Begründung des maßgeblichen Einflusses, die Beurteilung seiner Zuverlässigkeit und die Prüfung der weiteren Untersagungsgründe nach Absatz 1b Satz 1 wesentlichen Tatsachen und Unterlagen, die durch Rechtsverordnung nach § 24 Abs. 4 näher zu bestimmen sind, sowie die Personen oder Unternehmen anzugeben, von denen er die entsprechenden Anteile erwerben will. In der Rechtsverordnung kann, insbesondere auch als Einzelfallentscheidung oder allgemeine Regelung, vorgesehen werden, dass der interessierte Erwerber die in § 32 Abs. 1 Satz 2 Nr. 6 Buchstabe d und e genannten Unterlagen vorzulegen hat. Ist der interessierte Erwerber eine juristische Person oder Personenhandelsgesellschaft, hat er in der Anzeige die für die Beurteilung der Zuverlässigkeit seiner gesetzlichen oder satzungsmäßigen Vertreter oder persönlich haftenden Gesellschafter wesentlichen Tatsachen anzugeben. Der Inhaber einer bedeutenden Beteiligung hat jeden neu bestellten gesetzlichen oder satzungsmäßigen Vertreter oder neuen persönlich haftenden Gesellschafter mit den für die Beurteilung von dessen Zuverlässigkeit wesentlichen Tatsachen der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen. Der Inhaber einer bedeutenden Beteiligung hat der Bundesanstalt und der Deutschen Bundesbank ferner unverzüglich anzuzeigen, wenn er beabsichtigt, allein oder im Zusammenwirken mit anderen Personen oder Unternehmen den Betrag der bedeutenden Beteiligung so zu erhöhen, dass die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals erreicht oder überschritten werden oder dass das Institut unter seine Kontrolle kommt. Wer unabsichtlich eine bedeutende Beteiligung an einem Institut erwirbt oder eine bedeutende Beteiligung so erhöht, dass die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals erreicht oder überschritten werden, oder eine bedeutende Beteiligung so erhöht, dass das Institut unter seine Kontrolle kommt, hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen, sobald er von dem Erwerb oder der Erhöhung Kenntnis erlangt hat. Dies gilt auch, wenn er beabsichtigt, die Beteiligung so zurückzuführen, dass sie erneut unter eine der Schwellen fällt, sofern die Beteiligung nicht unverzüglich nach Kenntnis von dem Erwerb oder der Erhöhung zurückgeführt wird. Die Bundesanstalt hat den Eingang einer vollständigen Anzeige nach Satz 1, 6 oder 7 umgehend, spätestens jedoch innerhalb von zehn Arbeitstagen nach deren Zugang schriftlich oder elektronisch gegenüber dem Anzeigepflichtigen zu bestätigen.
 
-(1a) Die Bundesanstalt hat die Anzeige nach Absatz 1 innerhalb von 60 Arbeitstagen ab dem Datum des Schreibens, mit dem sie den Eingang der vollständigen Anzeige schriftlich oder elektronisch bestätigt hat, zu beurteilen (Beurteilungszeitraum). In der Bestätigung nach Absatz 1 Satz 9 hat die Bundesanstalt dem Anzeigepflichtigen den Tag mitzuteilen, an dem der Beurteilungszeitraum endet. Bis spätestens zum 50. Arbeitstag innerhalb des Beurteilungszeitraums kann die Bundesanstalt schriftlich oder elektronisch weitere Informationen anfordern, die für den Abschluss der Beurteilung notwendig sind. Die Anforderung ergeht schriftlich oder elektronisch unter Angabe der zusätzlich benötigten Informationen. Die Bundesanstalt hat den Eingang der weiteren Informationen umgehend, spätestens jedoch innerhalb von zwei Arbeitstagen nach deren Zugang schriftlich oder elektronisch gegenüber dem Anzeigepflichtigen zu bestätigen. Der Beurteilungszeitraum ist vom Zeitpunkt der Anforderung der weiteren Informationen bis zu deren Eingang bei der Bundesanstalt gehemmt. Der Beurteilungszeitraum beträgt im Falle einer Hemmung nach Satz 6 höchstens 80 Arbeitstage. Die Bundesanstalt kann Ergänzungen oder Klarstellungen zu diesen Informationen anfordern; dies führt nicht zu einer erneuten Hemmung des Beurteilungszeitraums. Abweichend von Satz 7 kann der Beurteilungszeitraum im Falle einer Hemmung auf höchstens 90 Arbeitstage ausgedehnt werden, wenn der Anzeigepflichtige
+(1a) Die Bundesanstalt hat die Anzeige nach Absatz 1 innerhalb von 60 Arbeitstagen ab dem Datum des Schreibens, mit dem sie den Eingang der vollständigen Anzeige schriftlich oder elektronisch bestätigt hat, zu beurteilen (Beurteilungszeitraum). In der Bestätigung nach Absatz 1 Satz 9 hat die Bundesanstalt dem Anzeigepflichtigen den Tag mitzuteilen, an dem der Beurteilungszeitraum endet. Bis spätestens zum 50. Arbeitstag innerhalb des Beurteilungszeitraums kann die Bundesanstalt schriftlich oder elektronisch weitere Informationen anfordern, die für den Abschluss der Beurteilung notwendig sind. Die Anforderung ergeht schriftlich oder elektronisch unter Angabe der zusätzlich benötigten Informationen. Die Bundesanstalt hat den Eingang der weiteren Informationen umgehend, spätestens jedoch innerhalb von zehn Arbeitstagen nach deren Zugang schriftlich oder elektronisch gegenüber dem Anzeigepflichtigen zu bestätigen. Der Beurteilungszeitraum ist vom Zeitpunkt der Anforderung der weiteren Informationen bis zu deren Eingang bei der Bundesanstalt gehemmt. Der Beurteilungszeitraum beträgt im Falle einer Hemmung nach Satz 6 höchstens 80 Arbeitstage. Die Bundesanstalt kann Ergänzungen oder Klarstellungen zu diesen Informationen anfordern; dies führt nicht zu einer erneuten Hemmung des Beurteilungszeitraums. Abweichend von Satz 7 kann der Beurteilungszeitraum im Falle einer Hemmung auf höchstens 90 Arbeitstage ausgedehnt werden, wenn der Anzeigepflichtige
 
 1. außerhalb des Europäischen Wirtschaftsraums ansässig ist oder beaufsichtigt wird oder
 
@@ -628,9 +683,9 @@ c) der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. 
 
 d) der Richtlinie 2013/36/EU.
 
-Wird der interessierte Erwerber von der Aufsichtsbehörde gleichzeitig mit einer Beurteilung nach Satz 1 auf Grund eines Antrags nach § 2f oder in den Fällen des § 8 Absatz 3 Satz 3 von einer zuständigen Stelle in einem Staat des Europäischen Wirtschaftsraums auf Grund eines Antrags nach Artikel 21a der Richtlinie 2013/36/EU beurteilt, so kann die Aufsichtsbehörde den Beurteilungszeitraum unterbrechen, bis das Verfahren nach § 2f oder Artikel 21a der Richtlinie 2013/36/EU abgeschlossen ist. Soweit es sich bei der Anzeige um den Erwerb einer bedeutenden Beteiligung an einem CRR-Kreditinstitut handelt, legt die Bundesanstalt nach Abschluss ihrer Beurteilung der Europäischen Zentralbank einen Beschlussentwurf gemäß Artikel 15 Absatz 2 der Verordnung (EU) Nr. 1024/2013 vor. Auf diesen Beschlussentwurf der Bundesanstalt ist Absatz 1b entsprechend anzuwenden.
+Wird der interessierte Erwerber von der Aufsichtsbehörde gleichzeitig mit einer Beurteilung nach Satz 1 aufgrund eines Antrags nach § 2f oder in den Fällen des § 8 Absatz 3 Satz 3 von einer zuständigen Stelle in einem Staat des Europäischen Wirtschaftsraums aufgrund eines Antrags nach Artikel 21a der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 beurteilt, so wird der Beurteilungszeitraum unterbrochen, bis das Verfahren nach § 2f oder Artikel 21a der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 abgeschlossen ist. Soweit es sich bei der Anzeige um den Erwerb einer bedeutenden Beteiligung an einem CRR-Kreditinstitut handelt, legt die Bundesanstalt nach Abschluss ihrer Beurteilung der Europäischen Zentralbank einen Beschlussentwurf gemäß Artikel 15 Absatz 2 der Verordnung (EU) Nr. 1024/2013 vor. Auf diesen Beschlussentwurf der Bundesanstalt ist Absatz 1b entsprechend anzuwenden.
 
-(1b) Die Aufsichtsbehörde kann in den Fällen des Absatzes 1 Satz 1 oder Satz 6 innerhalb des Beurteilungszeitraums den beabsichtigten Erwerb der bedeutenden Beteiligung oder ihre Erhöhung untersagen, wenn Tatsachen die Annahme rechtfertigen, daß
+(1b) Die Aufsichtsbehörde kann in den Fällen des Absatzes 1 Satz 1 oder Satz 6 innerhalb des Beurteilungszeitraums den beabsichtigten Erwerb der bedeutenden Beteiligung oder ihre Erhöhung untersagen, wenn Tatsachen die Annahme rechtfertigen, dass
 
 1. der Anzeigepflichtige oder, wenn er eine juristische Person ist, auch ein gesetzlicher oder satzungsmäßiger Vertreter, oder, wenn er eine Personenhandelsgesellschaft ist, auch ein Gesellschafter, nicht zuverlässig ist oder aus anderen Gründen nicht den im Interesse einer soliden und umsichtigen Führung des Instituts zu stellenden Ansprüchen genügt; dies gilt im Zweifel auch dann, wenn Tatsachen die Annahme rechtfertigen, dass er die von ihm aufgebrachten Mittel für den Erwerb der bedeutenden Beteiligung durch eine Handlung erbracht hat, die objektiv einen Straftatbestand erfüllt;
 
@@ -652,11 +707,19 @@ f) der Richtlinie 2002/87/EG in der Fassung vom 13. Dezember 2023
 
 4. der künftige Geschäftsleiter nicht zuverlässig oder nicht fachlich geeignet ist;
 
-5. im Zusammenhang mit dem beabsichtigten Erwerb oder der Erhöhung der Beteiligung Geldwäsche oder Terrorismusfinanzierung im Sinne des Artikels 1 der Richtlinie 2005/60/EG stattfinden, stattgefunden haben, diese Straftaten versucht wurden oder der Erwerb oder die Erhöhung das Risiko eines solchen Verhaltens erhöhen könnte oder
+5. im Zusammenhang mit dem beabsichtigten Erwerb oder der Erhöhung der Beteiligung Geldwäsche oder Terrorismusfinanzierung im Sinne des Artikels 1 der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 stattfinden, stattgefunden haben, diese Straftaten versucht wurden oder der Erwerb oder die Erhöhung das Risiko eines solchen Verhaltens erhöhen könnte oder
 
 6. der Anzeigepflichtige nicht über die notwendige finanzielle Solidität verfügt; dies ist insbesondere dann der Fall, wenn der Anzeigepflichtige auf Grund seiner Kapitalausstattung oder Vermögenssituation nicht den besonderen Anforderungen gerecht werden kann, die von Gesetzes wegen an die Eigenmittel und die Liquidität eines Instituts gestellt werden.
 
 Die Aufsichtsbehörde kann den Erwerb oder die Erhöhung der Beteiligung auch untersagen, wenn die Angaben nach Absatz 1 Satz 2 oder Satz 6 oder die zusätzlich nach Absatz 1a Satz 3 angeforderten Informationen unvollständig oder nicht richtig sind oder nicht den Anforderungen der Rechtsverordnung nach § 24 Abs. 4 entsprechen. Die Aufsichtsbehörde kann in den Fällen des Satzes 1, statt den beabsichtigten Erwerb der bedeutenden Beteiligung oder ihre beabsichtigte Erhöhung zu untersagen, sowie in den Fällen des Absatzes 1 Satz 7 innerhalb des Beurteilungszeitraums auch Anordnungen gegenüber dem Anzeigepflichtigen treffen, die geeignet und erforderlich sind, um das Eintreten der in Satz 1 Nummer 1 bis 6 genannten Untersagungsgründe auszuschließen. Die Aufsichtsbehörde darf weder Vorbedingungen an die Höhe der zu erwerbenden Beteiligung oder der beabsichtigten Erhöhung der Beteiligung stellen noch darf sie bei ihrer Prüfung auf die wirtschaftlichen Bedürfnisse des Marktes abstellen. Entscheidet die Aufsichtsbehörde nach Abschluss der Beurteilung, den Erwerb oder die Erhöhung der Beteiligung zu untersagen oder Anordnungen nach Satz 3 zu erlassen, teilt sie dem Anzeigepflichtigen die Entscheidung innerhalb von zwei Arbeitstagen und unter Einhaltung des Beurteilungszeitraums schriftlich oder elektronisch unter Angabe der Gründe mit. Bemerkungen und Vorbehalte der für den Anzeigepflichtigen zuständigen Stellen sind in der Entscheidung wiederzugeben. Die Untersagung darf nur aus den in den Sätzen 1 und 2 genannten Gründen erfolgen, die Anordnung nur aus den in Satz 1 genannten Gründen. Der Vollzug des Erwerbs oder der Erhöhung der Beteiligung ist bis zum Ablauf des Beurteilungszeitraums oder einer vorherigen schriftlichen oder elektronischen Bestätigung der Aufsichtsbehörde untersagt; die Befugnisse der Bundesanstalt nach Absatz 2 bleiben unberührt. Die Aufsichtsbehörde kann eine Frist setzen, nach deren Ablauf ihr der Anzeigepflichtige den Vollzug oder den Nichtvollzug des beabsichtigten Erwerbs oder der Erhöhung anzuzeigen hat. Nach Ablauf der Frist hat der Anzeigepflichtige die Anzeige unverzüglich bei der Bundesanstalt einzureichen.
+
+(1c) Im Rahmen der Prüfung des Untersagungsgrundes nach § 2c Absatz 1b Satz 1 Nummer 5 konsultiert die Aufsichtsbehörde die Behörden, die nach der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 für die Beaufsichtigung von Kreditinstituten verantwortlich sind. Die Aufsichtsbehörde kann Einwände gegen den beabsichtigten Erwerb erheben, wenn der interessierte Erwerber nach Einschätzung der Aufsichtsbehörde nicht in der Lage ist, den Anforderungen des Systems zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung zu genügen, und wenn er in einem Drittland ansässig ist,
+
+1. das gemäß Artikel 9 der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 als Drittland mit hohem Risiko geführt wird oder
+
+2. das restriktiven Maßnahmen der Union unterliegt.
+
+Eine negative Stellungnahme der konsultierten Behörden, die innerhalb von 30 Arbeitstagen nach dem Datum der ursprünglichen Konsultation durch die Aufsichtsbehörde bei dieser eingeht, wird von der Aufsichtsbehörde bei der Bewertung des beabsichtigten Erwerbs gebührend berücksichtigt und kann einen berechtigten Untersagungsgrund darstellen.
 
 (2) Die Aufsichtsbehörde kann dem Inhaber einer bedeutenden Beteiligung sowie den seine bedeutende Beteiligung begründenden Unternehmen die Ausübung der Stimmrechte untersagen und anordnen, daß über die Anteile nur mit ihrer Zustimmung verfügt werden darf, wenn
 
@@ -676,11 +739,11 @@ Im Falle einer Untersagung nach Satz 1 bestellt das Gericht am Sitz des Institut
 
 (3) Wer beabsichtigt, eine bedeutende Beteiligung an einem Institut aufzugeben oder den Betrag seiner bedeutenden Beteiligung unter die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals abzusenken oder die Beteiligung so zu verändern, daß das Institut nicht mehr kontrolliertes Unternehmen ist, hat dies der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen. Gleiches gilt, wenn der Inhaber einer bedeutenden Beteiligung an einem Institut unabsichtlich seine bedeutende Beteiligung aufgibt oder den Betrag seiner bedeutenden Beteiligung unter die Schwellen von 20 Prozent, 30 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals absenkt oder die Beteiligung so verändert, dass das Institut nicht mehr kontrolliertes Unternehmen ist. Dabei ist die beabsichtigte verbleibende Höhe der Beteiligung anzugeben. Die Bundesanstalt kann eine Frist festsetzen, nach deren Ablauf ihr die Person oder Personenhandelsgesellschaft, welche die Anzeige nach Satz 1 erstattet hat, den Vollzug oder den Nichtvollzug der beabsichtigten Absenkung oder Veränderung anzuzeigen hat. Nach Ablauf der Frist hat die Person oder Personenhandelsgesellschaft, welche die Anzeige nach Satz 1 erstattet hat, die Anzeige unverzüglich bei der Bundesanstalt zu erstatten.
 
-(4) (weggefallen)
+(4) Die Regelungen des § 2h bleiben unberührt. Endet der Beurteilungszeitraum des § 2h später als der Beurteilungszeitraum nach Absatz 1a, verlängert sich dieser entsprechend.
 
-##### § 2d Leitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
+###### § 2d Leitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
 
-(1) Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen, müssen zuverlässig sein, die zur Führung der Gesellschaft erforderliche fachliche Eignung haben und der Wahrnehmung ihrer Aufgaben ausreichend Zeit widmen.
+(1) Die Geschäftsleiter einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft müssen zuverlässig sein, die zur Führung der Gesellschaft erforderliche fachliche Eignung haben und der Wahrnehmung ihrer Aufgaben ausreichend Zeit widmen. Für Geschäftsleiter von nach § 2f zugelassenen Finanzholding-Gesellschaften und von nach § 2f zugelassenen gemischten Finanzholding-Gesellschaften gilt § 25c.
 
 (2) Bei Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften, die übergeordnete Unternehmen einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe nach § 10a Absatz 2 Satz 2 sind, kann die Bundesanstalt die Abberufung der Personen im Sinne des Absatzes 1 verlangen und ihnen die Ausübung ihrer Tätigkeit untersagen, wenn
 
@@ -688,15 +751,21 @@ Im Falle einer Untersagung nach Satz 1 bestellt das Gericht am Sitz des Institut
 
 2. sie vorsätzlich oder leichtfertig gegen die Bestimmung dieses Gesetzes, gegen die zur Durchführung dieses Gesetzes erlassenen Verordnungen oder gegen Anordnungen der Bundesanstalt verstoßen haben und trotz Verwarnung durch die Bundesanstalt dieses Verhalten fortsetzen.
 
-##### § 2e Ausnahmen für gemischte Finanzholding-Gesellschaften
+###### § 2e Ausnahmen für gemischte Finanzholding-Gesellschaften
 
 (1) Unterliegt eine gemischte Finanzholding-Gesellschaft, insbesondere im Hinblick auf eine risikobasierte Beaufsichtigung, gleichwertigen Bestimmungen nach Maßgabe der Richtlinie 2013/36/EU und der Richtlinie 2002/87/EG, so kann die Aufsichtsbehörde nach Konsultation der für die Beaufsichtigung von Tochterunternehmen zuständigen Stellen auf die gemischte Finanzholding-Gesellschaft nur die einschlägigen Bestimmungen der Richtlinie 2002/87/EG anwenden.
 
 (2) Unterliegt eine gemischte Finanzholding-Gesellschaft, insbesondere im Hinblick auf eine risikobasierte Beaufsichtigung, gleichwertigen Bestimmungen nach Maßgabe der Richtlinie 2013/36/EU und der Richtlinie 2009/138/EG, so kann die Aufsichtsbehörde im Einvernehmen mit der für die Gruppenaufsicht im Versicherungswesen zuständigen Stelle auf die gemischte Finanzholding-Gesellschaft nur die Bestimmungen der Richtlinie anwenden, die sich auf die am stärksten vertretene Finanzbranche nach § 8 Absatz 2 des Finanzkonglomerate-Aufsichtsgesetzes bezieht.
 
-##### § 2f Zulassung von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
+###### § 2f Zulassung von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften; Verordnungsermächtigung
 
-(1) Mutterfinanzholding-Gesellschaften und gemischte Mutterfinanzholding-Gesellschaften sowie EU-Mutterfinanzholding-Gesellschaften und gemischte EU-Mutterfinanzholding-Gesellschaften, die an der Spitze einer Gruppe stehen, die von der Aufsichtsbehörde auf zusammengefasster Basis beaufsichtigt wird, bedürfen der schriftlichen Zulassung durch die Aufsichtsbehörde. Die Zulassungspflicht gilt auch für sonstige Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften, die auf teilkonsolidierter Basis zur Einhaltung der Anforderungen nach diesem Gesetz oder nach der Verordnung (EU) Nr. 575/2013 verpflichtet sind, sofern die Aufsichtsbehörde für die Aufsicht über die jeweilige Teilgruppe auf zusammengefasster Basis zuständig ist.
+(1) Mutterfinanzholding-Gesellschaften und gemischte Mutterfinanzholding-Gesellschaften sowie EU-Mutterfinanzholding-Gesellschaften und gemischte EU-Mutterfinanzholding-Gesellschaften, die an der Spitze einer Gruppe stehen, die von der Aufsichtsbehörde auf zusammengefasster Basis beaufsichtigt wird, bedürfen der schriftlichen Zulassung durch die Aufsichtsbehörde. Die Zulassungspflicht gilt auch für sonstige Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften, die
+
+1. als übergeordnete Unternehmen im Sinne des Absatzes 4 Satz 1 Nummer 3 bestimmt werden sollen oder
+
+2. auf teilkonsolidierter Basis zur Einhaltung der Anforderungen nach diesem Gesetz oder nach der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 verpflichtet sind, sofern die Aufsichtsbehörde für die Aufsicht über die jeweilige Teilgruppe auf zusammengefasster Basis zuständig ist.
+
+(1a) Die Aufsichtsbehörde überprüft regelmäßig, in jedem Fall mindestens einmal jährlich, ob ein CRR-Kreditinstitut, ein Unternehmen, das eine Erlaubnis nach § 32 Absatz 1 Satz 1 beantragt hat, nach deren Erteilung es ein CRR-Kreditinstitut sein würde, oder ein übergeordnetes Unternehmen ordnungsgemäß jedes Mutterunternehmen des CRR-Kreditinstituts oder des Unternehmens, das eine Erlaubnis nach § 32 Absatz 1 Satz 1 beantragt, identifiziert hat, das die Kriterien für die Einstufung als Mutterfinanzholding-Gesellschaft, gemischte Mutterfinanzholding-Gesellschaft, EU-Mutterfinanzholding-Gesellschaft oder gemischte EU-Mutterfinanzholding-Gesellschaft erfüllt. Hat ein Mutterunternehmen seinen Sitz in einem anderen Mitgliedstaat, so arbeitet die Aufsichtsbehörde mit den dort zuständigen Behörden bei der Prüfung nach Satz 1 eng zusammen.
 
 (2) Der Antragsteller muss seinem Zulassungsantrag Folgendes beifügen:
 
@@ -732,19 +801,19 @@ c) die vom Antragsteller für die Gruppe insgesamt festgelegten Strategien inner
 
 Bei der Beurteilung des organisatorischen Aufbaus nach Satz 1 Nummer 2 berücksichtigt die Aufsichtsbehörde insbesondere die Stellung des Antragstellers innerhalb einer sich über mehrere Konzernebenen erstreckenden Gruppe, die Beteiligungsstruktur und die Rolle des Antragstellers innerhalb der Gruppe.
 
-(4) Eine Zulassung nach Absatz 1 ist nicht erforderlich, wenn
+(4) Auf Antrag der nach Absatz 1 Satz 1 oder Absatz 1 Satz 2 Nummer 2 zulassungspflichtigen Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft erteilt die Aufsichtsbehörde eine Befreiung von der Zulassungspflicht, wenn
 
 1. die Haupttätigkeit des Antragstellers in Bezug auf Institute und Finanzinstitute im Erwerb und im Halten von Beteiligungen an Tochterunternehmen besteht,
 
-2. es sich bei dem Antragsteller nicht um eine Abwicklungseinheit im Sinne von Artikel 2 Absatz 1 Nummer 83a Buchstabe a der Richtlinie 2014/59/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Festlegung eines Rahmens für die Sanierung und Abwicklung von Kreditinstituten und Wertpapierfirmen und zur Änderung der Richtlinie 82/891/EWG des Rates, der Richtlinien 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU und 2013/36/EU sowie der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates (ABl. L 173 vom 12.6.2014, S. 190), die zuletzt durch die Richtlinie (EU) 2019/2162 (ABl. L 328 vom 18.12.2019, S. 29) geändert worden ist, handelt,
+2. es sich bei dem Antragsteller nicht um eine Abwicklungseinheit im Sinne von Artikel 2 Absatz 1 Nummer 83a Buchstabe a der Richtlinie 2014/59/EU in der Fassung vom 11. April 2024 handelt,
 
-3. ein CRR-Kreditinstitut als übergeordnetes Unternehmen für die Einhaltung der Pflichten auf zusammengefasster Basis verantwortlich ist,
+3. ein Tochter-CRR-Kreditinstitut oder eine nach Absatz 3 zugelassene Tochterfinanzholding-Gesellschaft oder gemischte Tochterfinanzholding-Gesellschaft zum übergeordneten Unternehmen bestimmt worden und für die Einhaltung der Anforderungen nach diesem Gesetz und nach der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 auf zusammengefasster Basis verantwortlich ist sowie über alle erforderlichen Mittel und rechtlichen Befugnisse hierfür verfügt,
 
 4. der Antragsteller nicht an der Führung der Geschäfte auf Gruppenebene beteiligt ist sowie
 
 5. auch im Übrigen kein Hindernis für eine wirksame Aufsicht über die Gruppe auf zusammengefasster Basis besteht.
 
-Antragsteller, die nach diesem Absatz keine Zulassung nach Absatz 1 benötigen, sind dennoch weiterhin in die zusammengefasste Betrachtung nach diesem Gesetz und der Verordnung (EU) Nr. 575/2013 einzubeziehen.
+Der Antragsteller hat seinem Antrag auf Befreiung von der Zulassungspflicht die Informationen beizufügen, die erforderlich sind, um das Vorliegen der Voraussetzungen des Satzes 1 zu beurteilen. Die Aufsichtsbehörde kann weitere Informationen anfordern, die für die Beurteilung des Antrags notwendig sind. Antragsteller, die nach diesem Absatz von der Zulassungspflicht nach Absatz 1 befreit werden, sind vorbehaltlich des § 10a Absatz 3 dennoch weiterhin in den Konsolidierungskreis nach diesem Gesetz und der Verordnung (EU) Nr. 575/2013 einzubeziehen.
 
 (5) Die Aufsichtsbehörde kontrolliert fortlaufend, ob der Antragsteller die Voraussetzungen von Absatz 3 oder 4 einhält. Der Antragsteller übermittelt der Aufsichtsbehörde unverzüglich alle Informationen, die für diese fortlaufende Kontrolle erforderlich sind. Hat der Antragsteller seinen Sitz in einem anderen Staat des Europäischen Wirtschaftsraums, so übermittelt die Aufsichtsbehörde die Informationen auch an die zuständige Aufsichtsbehörde des Staates, in dem der Antragsteller seinen Sitz hat.
 
@@ -764,13 +833,15 @@ Antragsteller, die nach diesem Absatz keine Zulassung nach Absatz 1 benötigen, 
 
 Die Aufsichtsbehörde kann außerdem gegenüber den Inhabern und Geschäftsleitern des Antragstellers oder der nach Absatz 1 zugelassenen Gesellschaft einstweilige Maßnahmen treffen, um Gefahren für die Erfüllung der aufsichtsrechtlichen Anforderungen, denen die Gruppe auf zusammengefasster Basis unterliegt, abzuwehren. Im Fall einer gemischten Finanzholding-Gesellschaft sind insbesondere die Auswirkungen der Maßnahmen nach den Sätzen 1 und 2 auf das Finanzkonglomerat zu berücksichtigen.
 
-(7) Liegen die Voraussetzungen nach Absatz 4 nicht mehr vor, ist unverzüglich ein Zulassungsantrag nach Absatz 2 zu stellen.
+(7) Liegen die Voraussetzungen nach Absatz 4 Satz 1 nicht mehr vor, ist eine erteilte Befreiung von der Zulassungspflicht von der Aufsichtsbehörde zu widerrufen. Es ist unverzüglich ein Zulassungsantrag nach Absatz 2 zu stellen.
 
-(8) In Fällen des Absatzes 2 Satz 3 und 4 arbeitet die Aufsichtsbehörde bei Entscheidungen nach den Absätzen 3 bis 7 in umfassender Abstimmung mit der zuständigen Behörde des Staates des Europäischen Wirtschaftsraums zusammen, in dem die Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft nach Absatz 1 ihren Sitz hat. Dazu übermittelt die Aufsichtsbehörde der zuständigen Behörde dieses Staates eine Bewertung der Angelegenheit sowie einen Entscheidungsvorschlag diesbezüglich. Beide Behörden treffen innerhalb einer Frist von zwei Monaten nach der Übermittlung eine gemeinsame Entscheidung, die die Aufsichtsbehörde der Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft nach Absatz 1 übermittelt. Ist es den beiden Behörden nicht möglich, innerhalb der Frist nach Satz 3 eine gemeinsame Entscheidung zu treffen, überweisen sie die Angelegenheit vor Ablauf der Frist gemäß Artikel 19 der Verordnung (EU) Nr. 1093/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Bankenaufsichtsbehörde), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/78/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 12; L 101 vom 18.4.2015, S. 62), die zuletzt durch die Verordnung (EU) 2019/2175 (ABl. L 334 vom 27.12.2019, S. 1) geändert worden ist, an die Europäische Bankenaufsichtsbehörde und treffen ihre gemeinsame Entscheidung im Einklang mit dem Beschluss der Europäischen Bankenaufsichtsbehörde. Ist die Gesellschaft nach Absatz 1 eine gemischte Finanzholding-Gesellschaft, so ist für eine Entscheidung nach den Absätzen 3 bis 7 die Zustimmung des gemäß Artikel 10 der Richtlinie 2002/87/EG zuständigen Koordinators des Finanzkonglomerats erforderlich. Erteilt dieser die Zustimmung nicht, überweist die Aufsichtsbehörde die Angelegenheit an die zuständige europäische Aufsichtsbehörde, also die Europäische Bankenaufsichtsbehörde oder die Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung.
+(8) In Fällen des Absatzes 2 Satz 3 und 4 arbeitet die Aufsichtsbehörde bei Entscheidungen nach den Absätzen 3 bis 7 sowie bei der Entscheidung nach § 10a Absatz 3 in umfassender Abstimmung mit der zuständigen Behörde des Staates des Europäischen Wirtschaftsraums zusammen, in dem die Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft nach Absatz 1 ihren Sitz hat. Dazu übermittelt die Aufsichtsbehörde der zuständigen Behörde dieses Staates eine Bewertung der Angelegenheit sowie einen Entscheidungsvorschlag diesbezüglich. Beide Behörden treffen innerhalb einer Frist von zwei Monaten nach der Übermittlung eine gemeinsame Entscheidung, die die Aufsichtsbehörde der Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft nach Absatz 1 übermittelt; die Entscheidung ist durch die Bundesanstalt auch dann umzusetzen, wenn die Finanzholding-Gesellschaft oder die gemischte Finanzholding-Gesellschaft im Inland niedergelassen ist, die Aufsicht auf zusammengefasster Basis aber durch die zuständige Stelle eines anderen Staates des Europäischen Wirtschaftsraums ausgeübt wird. Ist es den beiden Behörden nicht möglich, innerhalb der Frist nach Satz 3 eine gemeinsame Entscheidung zu treffen, überweisen sie die Angelegenheit vor Ablauf der Frist gemäß Artikel 19 der Verordnung (EU) Nr. 1093/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Bankenaufsichtsbehörde), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/78/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 12; L 101 vom 18.4.2015, S. 62), die zuletzt durch die Verordnung (EU) 2019/2175 (ABl. L 334 vom 27.12.2019, S. 1) geändert worden ist, an die Europäische Bankenaufsichtsbehörde und treffen ihre gemeinsame Entscheidung im Einklang mit dem Beschluss der Europäischen Bankenaufsichtsbehörde. Ist die Gesellschaft nach Absatz 1 eine gemischte Finanzholding-Gesellschaft, so ist für eine Entscheidung nach den Absätzen 3 bis 7 die Zustimmung des gemäß Artikel 10 der Richtlinie 2002/87/EG zuständigen Koordinators des Finanzkonglomerats erforderlich. Erteilt dieser die Zustimmung nicht, überweist die Aufsichtsbehörde die Angelegenheit an die zuständige europäische Aufsichtsbehörde, also die Europäische Bankenaufsichtsbehörde oder die Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung.
 
-(9) Die Aufsichtsbehörde muss dem Antragsteller innerhalb von vier Monaten nach Eingang der vollständigen Unterlagen, spätestens aber innerhalb von sechs Monaten nach Eingang des Zulassungsantrags mitteilen, ob die Zulassung erteilt oder versagt wird.
+(9) Die Aufsichtsbehörde muss dem Antragsteller innerhalb von vier Monaten nach Eingang der vollständigen Unterlagen, spätestens aber innerhalb von sechs Monaten nach Eingang des Zulassungsantrags oder des Antrags auf Befreiung von der Zulassungspflicht mitteilen, ob die Zulassung oder die Befreiung von der Zulassungspflicht erteilt oder versagt wird.
 
-##### § 2g Einrichtung eines zwischengeschalteten EU-Mutterunternehmens bei Mutterunternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung
+(10) Die Aufsichtsbehörde hat auf ihrer Internetseite ein Register zu führen, in das sie einmal jährlich alle im Inland zugelassenen oder nach Absatz 4 Satz 1 von der Zulassungspflicht befreiten Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften einzutragen hat. Bei einer nach Absatz 4 Satz 1 von der Zulassungspflicht befreiten Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft ist zusätzlich das im Sinne des Absatzes 4 Satz 1 Nummer 3 übergeordnete Unternehmen einzutragen. Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zum Inhalt des Registers und zu den Mitwirkungspflichten der Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften bei der Führung des Registers erlassen.
+
+###### § 2g Einrichtung eines zwischengeschalteten EU-Mutterunternehmens bei Mutterunternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung
 
 (1) Haben zwei oder mehr CRR-Kreditinstitute oder Wertpapierinstitute mit Sitz in einem Staat des Europäischen Wirtschaftsraums das gleiche Mutterunternehmen mit Sitz in einem Drittstaat und übersteigt der Gesamtwert der Vermögenswerte der Drittstaatengruppe innerhalb des Europäischen Wirtschaftsraums 40 Milliarden Euro, so haben diese Unternehmen ein gemeinsames zwischengeschaltetes EU-Mutterunternehmen einzurichten.
 
@@ -842,7 +913,133 @@ Vor Einrichtung eines zwischengeschalteten EU-Mutterunternehmens übermitteln di
 
 (10) Das Bundesministerium der Finanzen kann im Benehmen mit der Deutschen Bundesbank durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen treffen über Einreichungsweg, Art, Form und Umfang der nach Absatz 8 zu übermittelnden Daten. Das Bundesministerium der Finanzen kann die Ermächtigung zum Erlass einer Rechtsverordnung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
 
-##### § 3 Verbotene Geschäfte
+###### § 2h Erwerb einer wesentlichen Beteiligung
+
+(1) CRR-Kreditinstitute haben die Absicht, direkt oder indirekt eine wesentliche Beteiligung zu erwerben, im Voraus anzuzeigen. In der Anzeige sind der Umfang des beabsichtigten Erwerbs und die zur Beurteilung erforderlichen Informationen anzugeben. Wird der Schwellenwert nach § 1 Absatz 9b ausschließlich auf Einzelbasis erreicht oder überschritten, so ist die Anzeige gegenüber der Aufsichtsbehörde und der Deutschen Bundesbank abzugeben. Wird der Schwellenwert nach § 1 Absatz 9b zugleich auf Basis der konsolidierten Lage des Mutterinstituts in der Europäischen Union erreicht oder überschritten, so ist die Anzeige auch gegenüber der konsolidierenden Aufsichtsbehörde abzugeben. Handelt es sich bei der konsolidierenden Aufsichtsbehörde um die Aufsichtsbehörde, ist die Anzeige auch gegenüber der Deutschen Bundesbank abzugeben. Die Aufsichtsbehörde veröffentlicht auf ihrer Internetseite eine Liste der nach Satz 2 erforderlichen Informationen und kann dort im Einvernehmen mit der Bundesbank Einreichungsweg, Art, Form und Umfang der Angaben und der Übermittlung näher festlegen.
+
+(2) Die Anzeigepflicht nach Absatz 1 gilt entsprechend für Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften, die nach § 10a Absatz 2 Satz 2 die Konsolidierung vorzunehmen haben, wenn der Schwellenwert auf Basis der konsolidierten Lage erreicht oder überschritten wird.
+
+(3) Die Aufsichtsbehörde bestätigt umgehend, in jedem Fall jedoch innerhalb von zehn Arbeitstagen nach Erhalt der in den Absätzen 1 und 2 genannten Anzeigen oder der nach Absatz 8 vorgelegten ergänzenden Informationen, schriftlich oder elektronisch deren Eingang.
+
+(4) Die Aufsichtsbehörde verfügt ab dem Tag der schriftlichen oder elektronischen Bestätigung des Eingangs der Anzeige und aller zur Beurteilung erforderlichen Informationen über 60 Arbeitstage (Beurteilungszeitraum), um eine Beurteilung vorzunehmen.
+
+(5) Die Regelungen des § 2c bleiben unberührt. § 2c Absatz 4 Satz 2 gilt entsprechend.
+
+(6) Erfolgt der beabsichtigte Erwerb einer wesentlichen Beteiligung zwischen Unternehmen derselben Gruppe, die unter Artikel 113 Absatz 6 der Verordnung (EU) Nr. 575/2013 fallen, oder zwischen demselben institutsbezogenen Sicherungssystem angehörenden Unternehmen, die unter Artikel 113 Absatz 7 der Verordnung (EU) Nr. 575/2013 fallen, ist die Aufsichtsbehörde nicht verpflichtet, eine Beurteilung nach Absatz 4 vorzunehmen. Sieht die Aufsichtsbehörde von einer Beurteilung ab, unterrichtet sie den Anzeigepflichtigen über diese Entscheidung.
+
+(7) Die Aufsichtsbehörde teilt dem interessierten Erwerber zum Zeitpunkt der Eingangsbestätigung nach Absatz 3 mit, an welchem Datum der Beurteilungszeitraum abläuft.
+
+(8) Bis spätestens zum 50. Arbeitstag innerhalb des Beurteilungszeitraums kann die Aufsichtsbehörde in Textform weitere Informationen anfordern, die für den Abschluss der Beurteilung nach Absatz 4 notwendig sind.
+
+(9) Der Beurteilungszeitraum ist vom Zeitpunkt der Anforderung der weiteren Informationen bis zu deren Eingang bei der Aufsichtsbehörde gehemmt. Die Hemmung nach Satz 1 beträgt höchstens 20 Arbeitstage. Die Aufsichtsbehörde kann weitere Ergänzungen oder Klarstellungen zu den vorgelegten Informationen anfordern, doch führt dies nicht zu einer weiteren Hemmung des Beurteilungszeitraums.
+
+(10) Abweichend von Absatz 9 Satz 2 beträgt die Hemmung maximal 30 Arbeitstage, wenn
+
+1. das zu erwerbende Unternehmen in einem Drittstaat ansässig ist oder in einem Drittstaat reguliert wird oder
+
+2. die Durchführung der Beurteilung einen Informationsaustausch mit den Behörden, die gemäß der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 für die Beaufsichtigung des interessierten Erwerbers verantwortlich sind, erfordert.
+
+(11) Erfolgt die Prüfung eines Antrags einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft auf Zulassung nach Artikel 21a der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 zeitgleich mit der Beurteilung nach Absatz 4, so wird der Beurteilungszeitraum ausgesetzt, bis das andere Verfahren abgeschlossen ist.
+
+(12) Die Aufsichtsbehörde kann in den Fällen des Absatzes 1 Satz 1 und des Absatzes 1 Satz 5 in Verbindung mit Satz 4 und des Absatzes 2 Satz 2 den beabsichtigten Erwerb einer wesentlichen Beteiligung innerhalb des Beurteilungszeitraums untersagen, wenn
+
+1. Tatsachen die Annahme rechtfertigen, dass der interessierte Erwerber nicht in der Lage sein oder bleiben wird, den Aufsichtsanforderungen nach diesem Gesetz, der Verordnung (EU) Nr. 575/2013 oder gegebenenfalls anderer Rechtsakte der Europäischen Union zu genügen,
+
+2. ein begründeter Verdacht besteht, dass im Zusammenhang mit dem beabsichtigten Erwerb Geldwäsche oder Terrorismusfinanzierung im Sinne des Artikels 1 der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 stattfinden, stattgefunden haben, diese Straftaten versucht wurden oder der beabsichtigte Erwerb die Gefahr eines solchen Verhaltens erhöhen könnte, oder
+
+3. die vom interessierten Erwerber vorgelegten Informationen trotz einer Anforderung nach Absatz 8 unvollständig sind.
+
+Die Aufsichtsbehörde hat eine Bestätigung der für die Beaufsichtigung des interessierten Erwerbers gemäß der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 zuständigen Behörden anzufordern, dass keine Anhaltspunkte vorliegen, die einen hinreichenden Verdacht im Sinne des Satzes 1 Nummer 2 begründen können. Eine gegenteilige Stellungnahme, die innerhalb von 30 Arbeitstagen nach der Anforderung eingeht, hat die Aufsichtsbehörde gebührend zu berücksichtigen. Die Aufsichtsbehörde darf weder Vorbedingungen an die Höhe des beabsichtigten Erwerbs stellen noch darf sie bei ihrer Prüfung auf die wirtschaftlichen Bedürfnisse des Marktes abstellen.
+
+(13) Entscheidet die Aufsichtsbehörde, den beabsichtigten Erwerb zu untersagen, so setzt sie den interessierten Erwerber innerhalb von zwei Arbeitstagen nach Abschluss der Beurteilung nach Absatz 4 und vor dem Ende des Beurteilungszeitraums in Textform unter Angabe der Gründe davon in Kenntnis.
+
+(14) Untersagt die Aufsichtsbehörde innerhalb des Beurteilungszeitraums den beabsichtigten Erwerb nicht schriftlich oder elektronisch, so gilt dieser als genehmigt. Der Vollzug des Erwerbs der wesentlichen Beteiligung ist bis zum Ablauf des Beurteilungszeitraums oder einer vorherigen schriftlichen oder elektronischen Bestätigung der Aufsichtsbehörde untersagt; die Befugnisse der Aufsichtsbehörde nach Absatz 22 bleiben unberührt.
+
+(15) Die Aufsichtsbehörde kann eine Frist für den Vollzug des beabsichtigten Erwerbs festlegen und diese Frist verlängern.
+
+(16) Bei der Beurteilung nach Absatz 4 konsultiert die Aufsichtsbehörde die maßgeblichen mit der Beaufsichtigung anderer Unternehmen der Finanzbranche betrauten Behörden, falls sich der beabsichtigte Erwerb auf eines der folgenden Unternehmen bezieht:
+
+1. ein Kreditinstitut, ein Versicherungs- oder Rückversicherungsunternehmen, eine Wertpapierfirma oder eine Vermögensverwaltungsgesellschaft, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Wirtschaftszweig als dem des interessierten Erwerbers zugelassen ist,
+
+2. ein Mutterunternehmen eines Kreditinstituts, eines Versicherungs- oder Rückversicherungsunternehmens, einer Wertpapierfirma oder einer Vermögensverwaltungsgesellschaft, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Wirtschaftszweig als dem des interessierten Erwerbers zugelassen ist, oder
+
+3. eine juristische Person, die ein Kreditinstitut, ein Versicherungs- oder Rückversicherungsunternehmen, eine Wertpapierfirma oder eine Vermögensverwaltungsgesellschaft kontrolliert, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Wirtschaftszweig als dem, in dem der Erwerb beabsichtigt ist, zugelassen ist.
+
+(17) Im Fall eines beabsichtigen Erwerbs nach Absatz 1 Satz 3 zeigt die Aufsichtsbehörde der konsolidierenden Aufsichtsbehörde den beabsichtigten Erwerb innerhalb von zehn Arbeitstagen nach Erhalt der Anzeige des interessierten Erwerbers an, wenn der interessierte Erwerber Teil einer Gruppe ist und die Aufsichtsbehörde nicht die konsolidierende Aufsichtsbehörde ist. Sie leitet ihre Beurteilung der konsolidierenden Aufsichtsbehörde zu.
+
+(18) Handelt es sich bei dem interessierten Erwerber um eine Finanzholding-Gesellschaft oder eine gemischte Finanzholding-Gesellschaft nach Absatz 2, so zeigt die Aufsichtsbehörde als konsolidierende Aufsichtsbehörde der zuständigen Behörde des Mitgliedstaats, in dem der interessierte Erwerber niedergelassen ist, den beabsichtigten Erwerb innerhalb von zehn Arbeitstagen nach Erhalt der Anzeige des interessierten Erwerbers an, wenn es sich hierbei um eine andere Behörde handelt. Die Aufsichtsbehörde leitet dieser anderen Behörde ihre Beurteilung zu.
+
+(19) Wird der Schwellenwert nach § 1 Absatz 9b bei einem Erwerb nach Absatz 1 durch ein CRR-Kreditinstitut sowohl auf Einzelbasis als auch auf Basis der konsolidierten Lage der Gruppe überschritten und ist die Aufsichtsbehörde entweder nach Absatz 1 Satz 3 oder nach Absatz 1 Satz 4 Empfängerin der Anzeige, bemüht sie sich, ihre Beurteilung mit der anderen Behörde zu koordinieren, insbesondere im Hinblick auf die Konsultationen nach Absatz 16.
+
+(20) Muss die Beurteilung der wesentlichen Beteiligung eines CRR-Kreditinstituts nach Absatz 1 von der konsolidierenden Aufsichtsbehörde und von der zuständigen Behörde des Mitgliedstaats, in dem das CRR-Kreditinstitut zugelassen ist, vorgenommen werden und ist die Aufsichtsbehörde eine dieser Behörden, so arbeitet sie mit der anderen Behörde in umfassender Abstimmung zusammen. Die Aufsichtsbehörde stellt der anderen Behörde die Informationen, die für die Beurteilung erforderlich oder relevant sind, unverzüglich von sich aus oder auf Anfrage zur Verfügung. Wenn die Aufsichtsbehörde konsolidierende Aufsichtsbehörde ist, erstellt sie eine Beurteilung des beabsichtigten Erwerbs und leitet sie der zuständigen Behörde des Mitgliedstaats zu, in dem der interessierte Erwerber niedergelassen ist. Die Aufsichtsbehörde setzt alles daran, um innerhalb von zwei Monaten nach Eingang dieser Beurteilung zu einer gemeinsamen Entscheidung mit der anderen Behörde zu gelangen. Die gemeinsame Entscheidung ist ordnungsgemäß zu dokumentieren und zu begründen.
+
+(21) Im Fall des Absatzes 20 teilt die Aufsichtsbehörde, wenn sie konsolidierende Aufsichtsbehörde ist, dem interessierten Erwerber diese gemeinsame Entscheidung mit und nennt darin alle Standpunkte und Vorbehalte der anderen Behörde. Wird nicht innerhalb von zwei Monaten nach Eingang der Beurteilung bei der zuständigen Behörde des Mitgliedstaats, in dem der interessierte Erwerber niedergelassen ist, eine gemeinsame Entscheidung getroffen, so verzichtet die Aufsichtsbehörde auf eine Entscheidung und befasst nach Artikel 19 der Verordnung (EU) Nr. 1093/2010 die Europäische Bankenaufsichtsbehörde mit der Angelegenheit. Die Aufsichtsbehörde trifft daraufhin mit der anderen Behörde im Einklang mit dem Beschluss, den die Europäische Bankenaufsichtsbehörde nach Artikel 27c Absatz 3 Unterabsatz 2 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 gefasst hat, eine gemeinsame Entscheidung.
+
+(22) Die Aufsichtsbehörde kann Unternehmen, die einen nach Absatz 1 oder Absatz 2 geplanten Erwerb einer wesentlichen Beteiligung trotz Untersagung nach Absatz 12 vollzogen oder nicht vorab unverzüglich angezeigt und innerhalb der gesetzten Frist nachgeholt haben, die Ausübung der Stimmrechte untersagen und anordnen, dass über die Anteile nur mit ihrer Zustimmung verfügt werden darf. Im Fall einer Untersagung der Ausübung der Stimmrechte nach Satz 1 bestellt das Gericht am Sitz des Unternehmens auf Antrag der Aufsichtsbehörde, des Unternehmens oder eines an ihm Beteiligten einen Treuhänder, auf den es die Ausübung der Stimmrechte überträgt. Der Treuhänder hat bei der Ausübung der Stimmrechte den Interessen einer soliden und umsichtigen Führung des Unternehmens Rechnung zu tragen. Über die Maßnahmen nach Satz 1 hinaus kann die Aufsichtsbehörde den Treuhänder mit der Veräußerung der Anteile beauftragen, soweit sie eine wesentliche Beteiligung begründen, wenn das Unternehmen nach Satz 1 ihr nicht innerhalb einer von ihr bestimmten angemessenen Frist einen zuverlässigen Erwerber nachweist; das Unternehmen hat bei der Veräußerung in dem erforderlichen Umfang mitzuwirken.
+
+(23) Sind die Voraussetzungen des Absatzes 22 entfallen, hat die Aufsichtsbehörde den Widerruf der Bestellung des Treuhänders zu beantragen. Der Treuhänder hat Anspruch auf Ersatz angemessener Auslagen und auf Vergütung für seine Tätigkeit. Das Gericht setzt auf Antrag des Treuhänders die Auslagen und die Vergütung fest; die Rechtsbeschwerde gegen die Vergütungsfestsetzung ist ausgeschlossen. Für die Kosten, die durch die Bestellung des Treuhänders entstehen, die diesem zu gewährenden Auslagen sowie die Vergütung haftet das Unternehmen nach Satz 1. Die Aufsichtsbehörde schießt die Auslagen und die Vergütung vor. Bei fahrlässigem Handeln beschränkt sich die Ersatzpflicht des Treuhänders auf 1 Million Euro. Handelt es sich um eine Aktiengesellschaft, deren Aktien zum Handel im regulierten Markt zugelassen sind, beschränkt sich die Ersatzpflicht auf 50 Millionen Euro.
+
+###### § 2i Verschmelzungen und Spaltungen
+
+(1) CRR-Kreditinstitute, Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften müssen der Aufsichtsbehörde und der Deutschen Bundesbank eine geplante Verschmelzung oder Spaltung nach Annahme des Verschmelzungs- oder Spaltungsplans und vor Abschluss des geplanten Vorgangs mit allen erforderlichen Informationen anzeigen, wenn die Aufsichtsbehörde die Aufsichtsbehörde des aus der geplanten Verschmelzung oder Spaltung hervorgehenden Unternehmens ist. Im Fall einer geplanten Spaltung ist die Anzeige an die Behörde zu richten, die für die Beaufsichtigung des Unternehmens, das die Spaltung durchführt, zuständig ist. Die Behörden nach den Sätzen 1 und 2 sind für die Beurteilung nach Absatz 11 verantwortlich. Die Aufsichtsbehörde veröffentlicht auf ihrer Internetseite eine Liste der nach Satz 1 erforderlichen Informationen und kann dort im Einvernehmen mit der Bundesbank Einreichungsweg, Art, Form und Umfang der Angaben und der Übermittlung nach den Sätzen 1 und 2 näher festlegen. Die erforderlichen Informationen müssen angemessen im Verhältnis zur Art und Bedeutung der Verschmelzung oder Spaltung sein. Auf die Besonderheiten von Verschmelzungen oder Spaltungen, bei denen alle beteiligten Unternehmen demselben institutsbezogenen Sicherungssystem angehören, ist Rücksicht zu nehmen.
+
+(2) Abweichend von Absatz 1 ist die Aufsichtsbehörde nicht verpflichtet, eine Beurteilung nach Absatz 11 durchzuführen, wenn es sich bei dem geplanten Vorgang um eine Verschmelzung handelt, an der nur CRR-Kreditinstitute, Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften derselben Gruppe beteiligt sind.
+
+(3) Die Beurteilung nach Absatz 11 wird nicht durchgeführt, wenn für die geplante Verschmelzung oder Spaltung eine Zulassung nach § 32 oder § 2f erforderlich ist.
+
+(4) Die Aufsichtsbehörde bestätigt umgehend, in jedem Fall jedoch innerhalb von zehn Arbeitstagen nach Erhalt der in Absatz 1 genannten Anzeige oder der nach Absatz 5 vorgelegten zusätzlichen Informationen, in Textform deren Eingang. Sind an der geplanten Spaltung oder Verschmelzung nur CRR-Kreditinstitute, Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften derselben Gruppe beteiligt, so verfügt die zuständige Behörde über 60 Arbeitstage ab dem Datum der in Textform erfolgten Bestätigung des Eingangs der Anzeige und des Eingangs aller erforderlichen Informationen, um die Beurteilung nach Absatz 11 vorzunehmen (Beurteilungszeitraum). Aus der Eingangsbestätigung der Aufsichtsbehörde geht hervor, an welchem Datum der Beurteilungszeitraum abläuft.
+
+(5) Die Aufsichtsbehörde kann zusätzliche Informationen anfordern, die für den Abschluss der Beurteilung nach Absatz 11 erforderlich sind. Eine solche Anforderung ergeht in Textform und führt die benötigten Informationen im Einzelnen auf. Sind an der geplanten Spaltung oder Verschmelzung nur CRR-Kreditinstitute, Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften derselben Gruppe beteiligt, kann die Aufsichtsbehörde bis spätestens zum 50. Arbeitstag des Beurteilungszeitraums zusätzliche Informationen anfordern. In diesem Fall wird der Beurteilungszeitraum für die Dauer ab dem Zeitpunkt der Anforderung zusätzlicher Informationen durch die Aufsichtsbehörde bis zum Zeitpunkt des Eingangs der Antwort mit allen erbetenen Informationen gehemmt. Diese Hemmung darf 20 Arbeitstage nicht überschreiten. Es liegt im Ermessen der Aufsichtsbehörde, weitere Ergänzungen oder Klarstellungen zu den vorgelegten Informationen anzufordern, doch führt dies nicht zu einer Hemmung des Beurteilungszeitraums.
+
+(6) Die Aufsichtsbehörde kann die in Absatz 5 Satz 5 genannte Hemmung auf maximal 30 Arbeitstage ausdehnen, wenn
+
+1. mindestens eines der an einer Spaltung oder einer Verschmelzung nach Absatz 5 Satz 3 beteiligten Unternehmen in einem Drittstaat ansässig ist oder in einem Drittstaat reguliert wird oder
+
+2. die Durchführung der Beurteilung nach Absatz 11 einen Informationsaustausch mit den Behörden erfordert, die gemäß der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 für die Beaufsichtigung des an der Spaltung oder der Verschmelzung nach Absatz 5 Satz 3 beteiligten Unternehmens verantwortlich sind.
+
+(7) Eine geplante Verschmelzung oder Spaltung nach Absatz 1 darf nicht abgeschlossen werden, bevor die Aufsichtsbehörde eine befürwortende Stellungnahme abgegeben hat.
+
+(8) Die Aufsichtsbehörde gibt innerhalb von zwei Arbeitstagen nach Abschluss ihrer Beurteilung in Textform eine befürwortende oder ablehnende Stellungnahme an die CRR-Kreditinstitute, Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften ab, die eine Anzeige nach Absatz 1 Satz 1 abgegeben haben. Das Votum ist zu begründen. Die in Satz 1 genannten Unternehmen übermitteln die Stellungnahme den für die Prüfung des geplanten Vorgangs zuständigen Behörden.
+
+(9) Erhebt die Aufsichtsbehörde gegen geplante Spaltungen oder Verschmelzungen nach Absatz 4 Satz 2 innerhalb des Beurteilungszeitraums keinen Einspruch in Textform, so gilt der Vorgang als von ihr befürwortet.
+
+(10) In einer befürwortenden Stellungnahme nach Absatz 8 kann die Aufsichtsbehörde eine begrenzte Frist für die Durchführung der geplanten Verschmelzung oder Spaltung vorsehen.
+
+(11) Die Aufsichtsbehörde beurteilt eine Anzeige nach Absatz 1 mit allen nach Absatz 1 erforderlichen Informationen sowie nach Absatz 5 zusätzlich angeforderten Informationen anhand folgender Kriterien:
+
+1. der Zuverlässigkeit der an der geplanten Verschmelzung oder Spaltung beteiligten CRR-Kreditinstitute, Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften,
+
+2. der finanziellen Solidität der an der geplanten Verschmelzung oder Spaltung beteiligten CRR-Kreditinstitute, Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften, insbesondere in Bezug auf die Art der tatsächlichen und geplanten Geschäfte der aus dem geplanten Vorgang hervorgehenden Unternehmen,
+
+3. der Fähigkeit der aus der geplanten Verschmelzung oder Spaltung hervorgehenden Unternehmen, den Aufsichtsanforderungen der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024, der Verordnung (EU) Nr. 575/2013 und gegebenenfalls anderer Rechtsakte der Union, insbesondere der Richtlinie 2002/87/EG in der Fassung vom 13. Dezember 2023 und der Richtlinie 2009/110/EG in der Fassung vom 25. November 2015, zu genügen,
+
+4. der Einschätzung, ob der Plan zur Umsetzung der geplanten Verschmelzung oder Spaltung aus aufsichtlicher Sicht realistisch und solide ist, sowie
+
+5. des Fehlens eines begründeten Verdachts, dass im Zusammenhang mit der geplanten Verschmelzung oder Spaltung Geldwäsche oder Terrorismusfinanzierung im Sinne des Artikels 1 der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 stattfindet oder stattgefunden haben könnte, diese Straftaten versucht wurden oder der geplante Vorgang die Gefahr eines solchen Verhaltens erhöhen könnte.
+
+Der Plan zur Umsetzung der geplanten Spaltung oder Verschmelzung nach Satz 1 Nummer 4 wird bis zum Abschluss des geplanten Vorgangs von der zuständigen Behörde angemessen überwacht.
+
+(12) Für den Zweck der Beurteilung des in Absatz 11 Satz 1 Nummer 5 festgelegten Kriteriums konsultiert die Aufsichtsbehörde im Rahmen ihrer Überprüfungen die Behörden, die gemäß der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 für die Beaufsichtigung der beteiligten CRR-Kreditinstitute, Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften verantwortlich sind.
+
+(13) Die Aufsichtsbehörde kann in Bezug auf die geplante Verschmelzung oder Spaltung nur dann eine ablehnende Stellungnahme abgeben, wenn die in Absatz 11 Satz 1 festgelegten Kriterien nicht erfüllt sind oder die von den beteiligten CRR-Kreditinstituten, Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften vorgelegten Informationen trotz Anforderung unvollständig sind. Bezüglich des in Absatz 11 Satz 1 Nummer 5 festgelegten Kriteriums wird eine ablehnende Stellungnahme der gemäß der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 für die Beaufsichtigung der beteiligten CRR-Kreditinstitute, Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften verantwortlichen Behörden, die innerhalb von 30 Arbeitstagen nach dem ursprünglichen Antrag bei der Aufsichtsbehörde eingeht, von dieser bei der Beurteilung der geplanten Spaltung oder Verschmelzung gebührend berücksichtigt und kann einen berechtigten Untersagungsgrund darstellen.
+
+(14) Die Aufsichtsbehörde stellt bei ihrer Prüfung nach Absatz 11 nicht auf die wirtschaftlichen Bedürfnisse des Marktes ab.
+
+(15) Bei der Durchführung der Beurteilung nach Absatz 11 konsultiert die Aufsichtsbehörde die im öffentlichen Auftrag mit der Beaufsichtigung anderer betroffener Unternehmen der Finanzbranche betrauten Behörden, wenn an der geplanten Verschmelzung oder Spaltung neben den beteiligten CRR-Kreditinstituten, Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften eines der folgenden Unternehmen beteiligt ist:
+
+1. ein Kreditinstitut, ein Versicherungs- oder Rückversicherungsunternehmen, eine Wertpapierfirma oder eine Vermögensverwaltungsgesellschaft, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Wirtschaftszweig als dem der Durchführung der geplanten Spaltung oder Verschmelzung zugelassen ist,
+
+2. ein Mutterunternehmen eines Kreditinstituts, eines Versicherungs- oder Rückversicherungsunternehmens, einer Wertpapierfirma oder einer Vermögensverwaltungsgesellschaft, das in einem anderen Mitgliedstaat oder anderen Wirtschaftszweig als dem der Durchführung der geplanten Verschmelzung oder Spaltung zugelassen ist, oder
+
+3. eine juristische Person, die ein Kreditinstitut, ein Versicherungs- oder Rückversicherungsunternehmen, eine Wertpapierfirma oder eine Vermögensverwaltungsgesellschaft kontrolliert, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Wirtschaftszweig als dem der Durchführung der geplanten Spaltung oder Verschmelzung zugelassen ist.
+
+(16) Die Aufsichtsbehörde tauscht die Informationen, die für die Beurteilung relevant sind, unverzüglich mit den nach Absatz 15 konsultierten Behörden aus. Sie teilt alle relevanten Informationen auf Anfrage mit und übermittelt alle erforderlichen Informationen von sich aus. Die Aufsichtsbehörde vermerkt in ihrer Stellungnahme nach Absatz 8 alle Standpunkte oder Vorbehalte der nach Absatz 15 konsultierten Behörden. Soweit möglich koordiniert die Aufsichtsbehörde ihre Beurteilung nach Absatz 11 Satz 1 mit den Beurteilungen der nach Absatz 15 konsultierten Behörden und verfasst ihre Stellungnahme nach Absatz 8 in Kohärenz zu den Beteiligungen der nach Absatz 15 konsultierten Behörden.
+
+(17) Die Regelungen der Verordnung (EG) Nr. 139/2004 in der Fassung vom 20. Januar 2004 und die Regelungen des Umwandlungsgesetzes bleiben unberührt.
+
+(18) Die Absätze 1 bis 17 gelten nicht für Verschmelzungen und Spaltungen, die sich aus der Anwendung des Sanierungs- und Abwicklungsgesetzes ergeben.
+
+###### § 3 Verbotene Geschäfte
 
 (1) Verboten sind
 
@@ -898,13 +1095,13 @@ Die Risikoanalyse nach Satz 1 Nummer 1 hat plausibel, umfassend und nachvollzieh
 
 Die Bundesanstalt hat bei Anordnung im Sinne des Satzes 1 dem Institut eine angemessene Frist einzuräumen.
 
-##### § 4 Entscheidung der Bundesanstalt für Finanzdienstleistungsaufsicht
+###### § 4 Entscheidung der Bundesanstalt für Finanzdienstleistungsaufsicht
 
 Die Bundesanstalt entscheidet in Zweifelsfällen, dass ein Unternehmen den Vorschriften dieses Gesetzes unterliegt. Ihre Entscheidungen binden die Verwaltungsbehörden.
 
 ## 2. Bundesanstalt für Finanzdienstleistungsaufsicht
 
-##### § 5 Elektronische Kommunikation; Verordnungsermächtigung
+###### § 5 Elektronische Kommunikation; Verordnungsermächtigung
 
 (1) Verwaltungsakte, die aufgrund dieses Gesetzes erlassen werden, dürfen nach § 4f des Finanzdienstleistungsaufsichtsgesetzes elektronisch bekanntgegeben oder nach § 4g des Finanzdienstleistungsaufsichtsgesetzes elektronisch zugestellt werden.
 
@@ -924,7 +1121,7 @@ b) zur Durchführung und Nutzung der in Absatz 1 genannten elektronischen Kommun
 
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
 
-##### § 6 Aufgaben
+###### § 6 Aufgaben
 
 (1) Die Bundesanstalt übt die Aufsicht über die Institute nach den Vorschriften dieses Gesetzes, den dazu erlassenen Rechtsverordnungen, der Verordnung (EU) Nr. 575/2013 in ihrer jeweils geltenden Fassung und der auf der Grundlage der Verordnung (EU) Nr. 575/2013 und der Richtlinie 2013/36/EU erlassenen Rechtsakte sowie nach den Vorschriften der Verordnung (EU) Nr. 1024/2013 und der Verordnung (EU) Nr. 468/2014 aus. Die Bundesanstalt ist die zuständige Behörde für die Anwendung von Artikel 124 Absatz 8, Artikel 164 Absatz 6 und Artikel 458 der Verordnung (EU) Nr. 575/2013 sowie die zuständige Behörde nach Artikel 4 Absatz 1 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024, soweit nicht die Europäische Zentralbank nach der Verordnung (EU) Nr. 1024/2013 als zuständige Behörde gilt. Die Deutsche Bundesbank ist zuständige Stelle nach Artikel 4 Absatz 1 der Richtlinie 2013/36/EU im Rahmen der ihr nach § 7 Absatz 1 auch in Verbindung mit Absatz 1a zugewiesenen Aufgaben, soweit nicht die Europäische Zentralbank nach der Verordnung (EU) Nr. 1024/2013 als zuständige Behörde gilt.
 
@@ -952,13 +1149,13 @@ und setzt ihnen gegenüber in Fällen der Nummer 1 die Einhaltung der Anforderun
 
 (2) Die Bundesanstalt hat Mißständen im Kredit- und Finanzdienstleistungswesen entgegenzuwirken, welche die Sicherheit der den Instituten anvertrauten Vermögenswerte gefährden, die ordnungsmäßige Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen oder erhebliche Nachteile für die Gesamtwirtschaft herbeiführen können.
 
-(3) Die Bundesanstalt kann im Rahmen der ihr gesetzlich zugewiesenen Aufgaben gegenüber den Instituten und ihren Geschäftsleitern Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen aufsichtsrechtliche Bestimmungen zu verhindern oder zu unterbinden oder um Missstände in einem Institut zu verhindern oder zu beseitigen, welche die Sicherheit der dem Institut anvertrauten Vermögenswerte gefährden können oder die ordnungsgemäße Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen. Die Anordnungsbefugnis nach Satz 1 besteht auch gegenüber Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften sowie gegenüber den Personen, die die Geschäfte dieser Gesellschaften tatsächlich führen.
+(3) Die Bundesanstalt kann im Rahmen der ihr gesetzlich zugewiesenen Aufgaben gegenüber den Instituten und ihren Geschäftsleitern, den Mitgliedern des Verwaltungs- oder Aufsichtsorgans, den Inhabern von Schlüsselfunktionen und den Risikoträgern sowie gegenüber anderen natürlichen Personen, die für einen Verstoß verantwortlich sind, Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen aufsichtsrechtliche Bestimmungen oder vollziehbare Anordnungen der Aufsichtsbehörde zu verhindern oder zu unterbinden oder um Missstände in einem Institut zu verhindern oder zu beseitigen, welche die Sicherheit der dem Institut anvertrauten Vermögenswerte gefährden können oder die ordnungsgemäße Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen. Die Anordnungsbefugnis nach Satz 1 besteht auch gegenüber Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften sowie gegenüber deren Geschäftsleitern, Mitgliedern des Verwaltungs- oder Aufsichtsorgans, Inhabern von Schlüsselfunktionen und Risikoträgern.
 
 (4) Die Bundesanstalt hat bei der Ausübung ihrer Aufgaben in angemessener Weise die möglichen Auswirkungen ihrer Entscheidungen auf die Stabilität des Finanzsystems in den jeweils betroffenen Staaten des Europäischen Wirtschaftsraums zu berücksichtigen.
 
 (5) (weggefallen)
 
-##### § 6a Besondere Aufgaben
+###### § 6a Besondere Aufgaben
 
 (1) Liegen Tatsachen vor, die darauf schließen lassen, dass von einem Institut angenommene Einlagen, sonstige dem Institut anvertraute Vermögenswerte oder eine Finanztransaktion der Terrorismusfinanzierung nach § 89c des Strafgesetzbuchs oder der Finanzierung einer terroristischen Vereinigung nach § 129a, auch in Verbindung mit § 129b des Strafgesetzbuchs dienen oder im Falle der Durchführung einer Finanztransaktion dienen würden, kann die Bundesanstalt
 
@@ -978,7 +1175,7 @@ und setzt ihnen gegenüber in Fällen der Nummer 1 die Einhaltung der Anforderun
 
 (6) Die Möglichkeit zur Anordnung von Beschränkungen des Kapital- und Zahlungsverkehrs nach § 4 Absatz 1 des Außenwirtschaftsgesetzes bleibt unberührt.
 
-##### § 6b Aufsichtliche Überprüfung und Beurteilung
+###### § 6b Aufsichtliche Überprüfung und Beurteilung
 
 (1) Im Rahmen der Beaufsichtigung beurteilt die Aufsichtsbehörde
 
@@ -988,13 +1185,13 @@ und setzt ihnen gegenüber in Fällen der Nummer 1 die Einhaltung der Anforderun
 
 Die Bundesanstalt arbeitet hierbei mit der Deutschen Bundesbank nach Maßgabe des § 7 zusammen.
 
-(2) Die Aufsichtsbehörde bewertet anhand der Überprüfung und Beurteilung zusammenfassend und zukunftsgerichtet, ob die von einem Institut geschaffenen Regelungen, Strategien, Verfahren und Prozesse sowie seine Liquiditäts- und Eigenmittelausstattung ein angemessenes und wirksames Risikomanagement und eine solide Risikoabdeckung gewährleisten. Neben Kreditrisiken, Marktrisiken und operationellen Risiken berücksichtigt sie dabei insbesondere
+(2) Die Aufsichtsbehörde bewertet anhand der Überprüfung und Beurteilung zusammenfassend und zukunftsgerichtet, ob die von einem Institut geschaffenen Regelungen, Strategien, Verfahren und Prozesse sowie seine Liquiditäts- und Eigenmittelausstattung ein angemessenes und wirksames Risikomanagement und eine solide Risikoabdeckung gewährleisten. Neben Kreditrisiken, Marktrisiken und operationellen Risiken sowie jeweils auf diese und weitere Risikoarten einwirkenden ESG-Risiken berücksichtigt sie dabei insbesondere
 
 1. die Ergebnisse der internen Stresstests eines Instituts, das einen IRB-Ansatz verwendet oder das zur Berechnung der in den Artikeln 362 bis 377 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung festgelegten Eigenmittelanforderungen für das Marktrisiko ein internes Modell verwendet;
 
 2. die Fähigkeit eines Instituts, auf Grund von gemäß Artikel 105 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung vorgenommenen Bewertungskorrekturen seine Positionen des Handelsbuchs unter normalen Marktbedingungen kurzfristig ohne wesentliche Verluste zu veräußern oder abzusichern;
 
-3. das Ausmaß, in dem ein Institut Risikokonzentrationen ausgesetzt ist, und deren Steuerung durch das Institut, einschließlich der Erfüllung der aufsichtlichen Anforderungen;
+3. das Ausmaß, in dem ein Institut Risikokonzentrationen ausgesetzt ist, und deren Steuerung durch das Institut, einschließlich der Erfüllung der aufsichtlichen Anforderungen, insbesondere hinsichtlich des Konzentrationsrisikos, das aus Risikopositionen gegenüber zentralen Gegenparteien erwächst, einschließlich der gemäß § 25c Absatz 4a Nummer 7 ausgearbeiteten Pläne, sowie der Fortschritte bei der Anpassung der Geschäftsmodelle der Institute an die in Artikel 7a der Verordnung (EU) Nr. 648/2012 festgelegten Anforderungen;
 
 4. die Auswirkung von Diversifikationseffekten und auf welche Art und Weise sie in das Risikomesssystem eines Instituts einbezogen werden;
 
@@ -1016,13 +1213,19 @@ Die Bundesanstalt arbeitet hierbei mit der Deutschen Bundesbank nach Maßgabe de
 
 13. das Risiko einer übermäßigen Verschuldung eines Instituts, wie es aus den Indikatoren für eine übermäßige Verschuldung hervorgeht, wozu auch die gemäß Artikel 429 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung bestimmte Verschuldungsquote zählt; bei der Beurteilung der Angemessenheit der Verschuldungsquote eines Instituts und der vom Institut zur Steuerung des Risikos einer übermäßigen Verschuldung eingeführten Regelungen, Strategien, Verfahren und Mechanismen berücksichtigt die Aufsichtsbehörde das Geschäftsmodell des Instituts;
 
-14. die Regelungen zur Sicherstellung einer ordnungsgemäßen Geschäftsführung eines Instituts, die Art und Weise ihrer Implementierung und praktischen Durchführung sowie die Fähigkeit der Mitglieder des Leitungsorgans zur Erfüllung ihrer Pflichten.
+14. die Regelungen zur Sicherstellung einer ordnungsgemäßen Geschäftsführung eines Instituts, die Art und Weise ihrer Implementierung und praktischen Durchführung sowie die Fähigkeit der Mitglieder des Leitungsorgans zur Erfüllung ihrer Pflichten;
+
+15. den nach § 26c Absatz 1 Nummer 1 in Verbindung mit § 26d zu erstellenden ESG-Risikoplan sowie die Fortschritte des Instituts in Bezug auf die Handhabung von ESG-Risiken in der Geschäftsorganisation, insbesondere in der Geschäfts- und Risikostrategie und im Risikomanagement, unter Berücksichtigung des Geschäftsmodells, eines etwaigen nachhaltigkeitsbezogenen Produktangebots, der Strategie des Instituts zur Finanzierung der Transformation der Wirtschaft, damit zusammenhängenden Richtlinien zur Kreditbearbeitung sowie Zielen, Kennzahlen und Obergrenzen im Zusammenhang mit ESG-Risiken im Sinne von § 26c Absatz 4 Nummer 2 und § 26d Absatz 1 Nummer 3; für Fragen des Klimaschutzes, der Transformation und Umwelt-, Sozial- und Unternehmensführungsfaktoren zuständige Behörden und Einrichtungen des Bundes unterstützen die Bundesanstalt auf Anfrage bei dieser Bewertung, und
+
+16. das Kreditspreadrisiko eines Instituts aus Geschäften, die nicht unter das Handelsbuch fallen.
 
 (3) Die Aufsichtsbehörde kann ein Institut aufsichtlichen Stresstests unterziehen oder, soweit die Bundesanstalt Aufsichtsbehörde ist, die Deutsche Bundesbank hierzu beauftragen. Hierzu kann die Aufsichtsbehörde und, soweit die Bundesanstalt Aufsichtsbehörde ist, auch die Deutsche Bundesbank
 
 1. das Institut auffordern, seine Risiko-, Eigenmittel- und Liquiditätspositionen unter Nutzung der institutseigenen Risikomanagement-Methoden bei aufsichtlich vorgegebenen Szenarien zu berechnen und die Daten sowie die Ergebnisse an die Aufsichtsbehörde, die Deutsche Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch an die Bundesanstalt zu übermitteln und
 
 2. die Auswirkungen von Schocks auf das Institut auf der Grundlage aufsichtlicher Stresstest-Methoden anhand der verfügbaren Daten bestimmen.
+
+Institute und Dritte, die im Zusammenhang mit Stresstests in beratender Funktion für Institute tätig sind, unterlassen Tätigkeiten, die einen Stresstest beeinträchtigen können.
 
 (4) Die Aufsichtsbehörde bestimmt Häufigkeit und Intensität der Überprüfungen, Beurteilungen und möglicher aufsichtlicher Stresstests unter Berücksichtigung der Größe, der Systemrelevanz sowie der Art, des Umfangs und der Komplexität der Geschäfte eines Instituts. Die Überprüfungen und Beurteilungen werden mindestens einmal jährlich aktualisiert. Die Aufsichtsbehörde wendet bei der Überprüfung und Beurteilung nach Absatz 1 den Grundsatz der Verhältnismäßigkeit nach Maßgabe der von ihr veröffentlichten Kriterien an. Soweit die Bundesanstalt Aufsichtsbehörde ist, nimmt sie die Aufgaben nach Satz 1 in Abstimmung mit der Deutschen Bundesbank wahr.
 
@@ -1034,7 +1237,7 @@ Die Bundesanstalt arbeitet hierbei mit der Deutschen Bundesbank nach Maßgabe de
 
 3. darf den institutsspezifischen Charakter von Anordnungen, die im Zusammenhang mit dem aufsichtlichen Überprüfungs- und Beurteilungsverfahren, der laufenden Überprüfung der Erlaubnis zur Verwendung interner Ansätze oder zur Abwehr von Verstößen gegen dieses Gesetz oder gegen die Anforderungen der Verordnung (EU) Nr. 575/2013 erlassen wurden, nicht beeinträchtigen.
 
-##### § 6c Zusätzliche Eigenmittelanforderungen
+###### § 6c Zusätzliche Eigenmittelanforderungen
 
 (1) Die Aufsichtsbehörde ordnet an, dass ein Institut, eine Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe über die Anforderungen der Verordnung (EU) Nr. 575/2013 hinaus zusätzliche Eigenmittel vorhalten muss, wenn sie im Rahmen des aufsichtlichen Überprüfungs- und Beurteilungsverfahrens nach § 6b und der nach § 10 Absatz 1 erlassenen Rechtsverordnung feststellt, dass
 
@@ -1062,6 +1265,16 @@ Die zusätzliche Eigenmittelanforderung nach Satz 1 darf nur für die Zwecke der
 
 Bei Risiken und Risikoelementen, die den Übergangsregelungen oder Bestandsschutzklauseln gemäß der Richtlinie 2013/36/EU oder der Verordnung (EU) Nr. 575/2013 unterliegen, ist grundsätzlich keine Unterschätzung der Risiken oder Risikoelemente gegeben. Für die Zwecke des Satzes 1 deckt das als angemessen betrachtete Kapital alle gemäß Satz 2 als wesentlich ermittelten Risiken oder Risikoelemente ab, die nicht oder nicht ausreichend von den in den Teilen 3, 4 und 7 der Verordnung (EU) Nr. 575/2013 und in Kapitel 2 der Verordnung (EU) 2017/2402 festgelegten Eigenmittelanforderungen abgedeckt sind.
 
+(2a) Unterliegt ein Institut, eine Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe der Output-Floor-Eigenmitteluntergrenze,
+
+1. darf sich der Nominalbetrag der zusätzlichen Eigenmittel, die von der Aufsichtsbehörde nach Absatz 1 und 2 verlangt werden, um andere Risiken als das Risiko einer übermäßigen Verschuldung zu bewältigen, dadurch nicht erhöhen und
+
+2. überprüft die Aufsichtsbehörde unverzüglich, in jedem Fall jedoch spätestens bis zum Enddatum des aufsichtlichen Überprüfungs- und Beurteilungsverfahrens, die nach Absatz 1 und 2 verlangten zusätzlichen Eigenmittel und streicht Teile davon, wenn Risiken, die bereits vollständig abgedeckt sind, da das Institut der Output-Floor-Eigenmitteluntergrenze unterliegt, andernfalls doppelt berücksichtigt würden.
+
+Sobald die Aufsichtsbehörde die Überprüfung nach Nummer 2 abgeschlossen hat, findet Nummer 1 keine Anwendung mehr.
+
+(2b) Solange ein Institut, eine Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe der Output-Floor-Eigenmitteluntergrenze unterliegt, schreibt die Aufsichtsbehörde für die Zwecke des Absatzes 1 keine zusätzliche Eigenmittelanforderung vor, wenn dadurch Risiken, die bereits vollständig dadurch abgedeckt sind, dass das Institut der Output-Floor-Eigenmitteluntergrenze unterliegt, doppelt berücksichtigt würden.
+
 (3) Zinsänderungsrisiken aus Positionen des Anlagebuchs können insbesondere als wesentlich gelten, wenn
 
 1. sich der Barwert eines Instituts auf Grund einer plötzlichen und unerwarteten Zinsänderung, wie sie sich aus einem der sechs aufsichtlichen Zinsschockszenarien ergibt, um mehr als 15 Prozent seines Kernkapitals verringert oder
@@ -1070,7 +1283,7 @@ Bei Risiken und Risikoelementen, die den Übergangsregelungen oder Bestandsschut
 
 Wenn die Aufsichtsbehörde im Rahmen des Überprüfungs- und Beurteilungsverfahrens nach § 6b zu dem Ergebnis kommt, dass die Steuerung des sich aus Geschäften des Anlagebuchs ergebenden Zinsänderungsrisikos durch das Institut angemessen ist und dass das Institut diesem Zinsänderungsrisiko nicht übermäßig ausgesetzt ist, werden diese Risiken als nicht wesentlich betrachtet.
 
-(4) Die Höhe der zusätzlichen Eigenmittelanforderungen, die zur Abdeckung des Risikos einer übermäßigen Verschuldung angeordnet sind, das nicht ausreichend durch Artikel 92 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 575/2013 abgedeckt ist, richtet sich nach der Differenz zwischen dem nach Absatz 2 als angemessen betrachteten Kapital und den in den Teilen 3 und 7 der Verordnung (EU) Nr. 575/2013 festgelegten Eigenmittelanforderungen. In allen anderen Fällen richtet sich die Höhe der zusätzlichen Eigenmittelanforderung nach der Differenz zwischen dem nach Absatz 2 als angemessen betrachteten Kapital und den in den Teilen 3 und 4 der Verordnung (EU) Nr. 575/2013 und in Kapitel 2 der Verordnung (EU) 2017/2402 festgelegten Eigenmittelanforderungen.
+(4) Die Höhe der zusätzlichen Eigenmittelanforderungen, die zur Abdeckung des Risikos einer übermäßigen Verschuldung angeordnet sind, das nicht ausreichend durch Artikel 92 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 575/2013 abgedeckt ist, richtet sich nach der Differenz zwischen dem nach Absatz 2 als angemessen betrachteten Kapital und den in den Teilen 3 und 7 der Verordnung (EU) Nr. 575/2013 festgelegten Eigenmittelanforderungen; Absatz 2 Satz 2 Nummer 3 findet keine Anwendung. In allen anderen Fällen richtet sich die Höhe der zusätzlichen Eigenmittelanforderung nach der Differenz zwischen dem nach Absatz 2 als angemessen betrachteten Kapital und den in den Teilen 3 und 4 der Verordnung (EU) Nr. 575/2013 und in Kapitel 2 der Verordnung (EU) 2017/2402 festgelegten Eigenmittelanforderungen.
 
 (5) Das Institut, die Institutsgruppe, die Finanzholding-Gruppe oder die gemischte Finanzholding-Gruppe hat die zusätzliche Eigenmittelanforderung, um andere Risiken als das Risiko einer übermäßigen Verschuldung abzudecken, zu mindestens drei Vierteln mit Kernkapital zu erfüllen. Das Kernkapital nach Satz 1 muss zu mindestens drei Vierteln aus hartem Kernkapital bestehen. Das Institut, die Institutsgruppe, die Finanzholding-Gruppe oder die gemischte Finanzholding-Gruppe hat die zusätzliche Eigenmittelanforderung, um das Risiko einer übermäßigen Verschuldung abzudecken, mit Kernkapital zu erfüllen. Die Aufsichtsbehörde kann gegenüber dem Institut anordnen, dass die zusätzliche Eigenmittelanforderung mit einem höheren Anteil an Kernkapital oder hartem Kernkapital zu erfüllen ist, soweit dies unter Berücksichtigung der Situation des Instituts erforderlich ist.
 
@@ -1098,9 +1311,11 @@ Die Eigenmittel, die zur Erfüllung der zusätzlichen Eigenmittelanforderung fü
 
 5. der Eigenmittelempfehlung nach § 6d, sofern sich diese Empfehlung auf andere Risiken als das Risiko einer übermäßigen Verschuldung bezieht.
 
-##### § 6d Eigenmittelempfehlung
+###### § 6d Eigenmittelempfehlung
 
 (1) Die Aufsichtsbehörde ermittelt auf Grundlage der Bewertung nach § 6b Absatz 2 und des nach § 6b Absatz 3 durchgeführten Stresstests für jedes Institut, jede Institutsgruppe, jede Finanzholding-Gruppe und jede gemischte Finanzholding-Gruppe die angemessene Gesamthöhe der Eigenmittel und spricht auf dieser Grundlage gegenüber dem Institut, der Institutsgruppe, der Finanzholding-Gruppe oder der gemischten Finanzholding-Gruppe eine Eigenmittelempfehlung aus. Die Höhe dieser Eigenmittelempfehlung ergibt sich aus der Differenz der vom Institut, von der Institutsgruppe, der Finanzholding-Gruppe oder der gemischten Finanzholding-Gruppe einzuhaltenden Eigenmittelanforderungen gemäß den Teilen 3, 4 und 7 der Verordnung (EU) Nr. 575/2013, Kapitel 2 der Verordnung (EU) 2017/2402, den §§ 6c, 10i und Artikel 92 Absatz 1a der Verordnung (EU) Nr. 575/2013 und der nach Satz 1 ermittelten angemessenen Gesamthöhe der Eigenmittel.
+
+(1a) Unterliegt ein Institut, eine Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe der Output-Floor-Eigenmitteluntergrenze, so kann die Aufsichtsbehörde ihre Leitlinien für zusätzliche Eigenmittel überprüfen, die sie diesem Institut, dieser Institutsgruppe, dieser Finanzholding-Gruppe oder dieser gemischten Finanzholding-Gruppe mitgeteilt hat, um sicherzustellen, dass die Kalibrierung weiterhin angemessen ist.
 
 (2) Die Eigenmittelempfehlung darf Risiken, die durch die nach § 6c Absatz 1 angeordnete zusätzliche Eigenmittelanforderung erfasst werden, nur insoweit abdecken, als sie Aspekte dieser Risiken abdeckt, die nicht bereits durch die zusätzliche Eigenmittelanforderung nach § 6c Absatz 1 abgedeckt werden.
 
@@ -1108,7 +1323,7 @@ Die Eigenmittel, die zur Erfüllung der zusätzlichen Eigenmittelanforderung fü
 
 (4) Solange ein Institut, eine Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe die in den Teilen 3, 4 und 7 der Verordnung (EU) Nr. 575/2013 und in Kapitel 2 der Verordnung (EU) 2017/2402 festgelegten Anforderungen, die zusätzliche Eigenmittelanforderung nach § 6c, die kombinierte Kapitalpufferanforderung nach § 10i und die Anforderung an den Puffer der Verschuldungsquote nach Artikel 92 Absatz 1a der Verordnung (EU) Nr. 575/2013 erfüllt, löst die Abdeckung der Eigenmittelempfehlung nicht in voller Höhe keine der Beschränkungen nach § 10i Absatz 1a bis 3 und § 10j Absatz 2 und 3 aus.
 
-##### § 7 Zusammenarbeit mit der Deutschen Bundesbank
+###### § 7 Zusammenarbeit mit der Deutschen Bundesbank
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank arbeiten nach Maßgabe dieses Gesetzes zusammen. Unbeschadet weiterer gesetzlicher Maßgaben umfasst die Zusammenarbeit die laufende Überwachung der Institute durch die Deutsche Bundesbank. Die laufende Überwachung beinhaltet insbesondere die Auswertung der von den Instituten eingereichten Unterlagen, der Prüfungsberichte nach § 26 und der Jahresabschlussunterlagen sowie die Durchführung und Auswertung der bankgeschäftlichen Prüfungen zur Beurteilung der angemessenen Eigenkapitalausstattung und Risikosteuerungsverfahren der Institute und das Bewerten von Prüfungsfeststellungen. Die laufende Überwachung durch die Deutsche Bundesbank erfolgt in der Regel durch ihre Hauptverwaltungen.
 
@@ -1122,7 +1337,7 @@ Die Eigenmittel, die zur Erfüllung der zusätzlichen Eigenmittelanforderung fü
 
 (5) Die Bundesanstalt und die Deutsche Bundesbank können gemeinsame Dateisysteme einrichten. Jede der beiden Stellen darf nur die von ihr eingegebenen Daten verändern oder löschen oder ihre Verarbeitung einschränken und ist nur hinsichtlich der von ihr eingegebenen Daten Verantwortlicher. Hat eine der beiden Stellen Anhaltspunkte dafür, dass von der anderen Stelle eingegebene Daten unrichtig sind, teilt sie dies der anderen Stelle unverzüglich mit. Bei der Errichtung eines gemeinsamen Dateisystems ist festzulegen, welche Stelle die technischen und organisatorischen Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung zu treffen hat. Die nach Satz 4 bestimmte Stelle hat sicherzustellen, dass die Beschäftigten Zugang zu personenbezogenen Daten nur in dem Umfang erhalten, der zur Erfüllung ihrer Aufgaben erforderlich ist.
 
-##### § 7a Zusammenarbeit mit der Europäischen Kommission
+###### § 7a Zusammenarbeit mit der Europäischen Kommission
 
 (1) Die Bundesanstalt meldet der Europäischen Kommission
 
@@ -1152,7 +1367,7 @@ Die Eigenmittel, die zur Erfüllung der zusätzlichen Eigenmittelanforderung fü
 
 (3) Die Bundesanstalt übermittelt der Europäischen Kommission Verzeichnisse der Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften, bei denen die Bundesanstalt die Aufsicht auf zusammengefasster Basis ausübt.
 
-##### § 7b Zusammenarbeit mit der Europäischen Bankenaufsichtsbehörde, der Europäischen Wertpapier- und Marktaufsichtsbehörde und der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung
+###### § 7b Zusammenarbeit mit der Europäischen Bankenaufsichtsbehörde, der Europäischen Wertpapier- und Marktaufsichtsbehörde und der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung
 
 (1) Die Bundesanstalt beteiligt sich nach Maßgabe
 
@@ -1214,11 +1429,9 @@ Die Bundesanstalt meldet der Europäischen Aufsichtsbehörde in den vorstehenden
 
 4. Entscheidungen nach § 2e,
 
-5. die Struktur von Institutsgruppen, Finanzholding-Gruppen oder gemischten Finanzholding-Gruppen, bei denen die Bundesanstalt die Aufsicht auf zusammengefasster Basis ausübt; dazu gehören insbesondere Informationen über die rechtliche und organisatorische Struktur sowie die Grundsätze einer ordnungsgemäßen Geschäftsführung der Gruppe,
+5. die Struktur von Institutsgruppen, Finanzholding-Gruppen oder gemischten Finanzholding-Gruppen, bei denen die Bundesanstalt die Aufsicht auf zusammengefasster Basis ausübt; dazu gehören insbesondere Informationen über die rechtliche und organisatorische Struktur sowie die Grundsätze einer ordnungsgemäßen Geschäftsführung der Gruppe, und
 
-6. die Stellen im Sinne des § 9 Absatz 1 Satz 5, der die Bundesanstalt Tatsachen offenbaren kann, ohne gegen ihre Verschwiegenheitspflicht zu verstoßen, und
-
-7. die Genehmigung, ein weiteres Mandat in einem Verwaltungs- oder Aufsichtsorgan gemäß § 25c Absatz 2 Satz 7, § 25d Absatz 3 Satz 7 innezuhaben.
+6. die Stellen im Sinne des § 9 Absatz 1 Satz 5, denen die Bundesanstalt Tatsachen offenbaren kann, ohne gegen ihre Verschwiegenheitspflicht zu verstoßen.
 
 (3a) Die Bundesanstalt übermittelt der Europäischen Bankenaufsichtsbehörde Verzeichnisse im Sinne des § 7a Absatz 3.
 
@@ -1250,17 +1463,17 @@ b) die Genehmigung, ein weiteres Mandat in dem Verwaltungs- oder Aufsichtsorgan 
 
 (6) Die Bundesanstalt meldet der Europäischen Bankenaufsichtsbehörde, der Europäischen Wertpapier- und Marktaufsichtsbehörde und der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung unter Beachtung des Verfahrens nach Artikel 36 Absatz 6 der Verordnung (EU) 2017/2402, wenn sie als zuständige Behörde einer gemäß Artikel 27 Absatz 1 dieser Verordnung benannten ersten Anlaufstelle von einem Verstoß gegen die Anforderungen des Artikels 27 Absatz 1 dieser Verordnung erfährt.
 
-##### § 7c (weggefallen)
+###### § 7c (weggefallen)
 
-##### § 7d Zusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken
+###### § 7d Zusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken
 
 Die Bundesanstalt arbeitet eng mit dem Europäischen Ausschuss für Systemrisiken zusammen und berücksichtigt die von ihm nach Maßgabe von Artikel 16 der Verordnung (EU) Nr. 1092/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 über die Finanzaufsicht der Europäischen Union auf Makroebene und zur Errichtung eines Europäischen Ausschusses für Systemrisiken (ABl. L 331 vom 15.12.2010, S. 1), die durch die Verordnung (EU) 2019/2176 (ABl. L 334 vom 27.12.2019, S. 146) geändert worden ist, erlassenen Warnungen und Empfehlungen. Die Bundesanstalt meldet dem Europäischen Ausschuss für Systemrisiken jede Änderung der Quote für den antizyklischen Kapitalpuffer nach § 10d, die Berechnungsgrundlagen der Quote nach der Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5 sowie die Anwendungsdauer der Quote und informiert über die Tatsache, dass die Bundesanstalt bei der Festlegung der Quote für den antizyklischen Kapitalpuffer Variablen im Sinne der Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5 berücksichtigt und die Quote ohne deren Berücksichtigung niedriger ausgefallen wäre.
 
-##### § 8 Zusammenarbeit mit anderen Stellen
+###### § 8 Zusammenarbeit mit anderen Stellen
 
 (1) (weggefallen)
 
-(2) Werden gegen Inhaber oder Geschäftsleiter von Instituten sowie gegen Inhaber bedeutender Beteiligungen von Instituten oder deren gesetzliche oder satzungsmäßige Vertreter oder persönlich haftende Gesellschafter oder gegen Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen, Steuerstrafverfahren eingeleitet oder unterbleibt dies auf Grund einer Selbstanzeige nach § 371 der Abgabenordnung, so steht § 30 der Abgabenordnung Mitteilungen an die Bundesanstalt über das Verfahren und über den zugrunde liegenden Sachverhalt nicht entgegen; das Gleiche gilt, wenn sich das Verfahren gegen Personen richtet, die das Vergehen als Bedienstete eines Instituts oder eines Inhabers einer bedeutenden Beteiligung an einem Institut begangen haben.
+(2) Werden gegen Inhaber oder Geschäftsleiter von Instituten oder Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften sowie gegen Inhaber bedeutender Beteiligungen von Instituten oder deren gesetzliche oder satzungsmäßige Vertreter oder persönlich haftende Gesellschafter Steuerstrafverfahren eingeleitet oder unterbleibt dies aufgrund einer Selbstanzeige nach § 371 der Abgabenordnung, so steht § 30 der Abgabenordnung Mitteilungen an die Bundesanstalt über das Verfahren und über den zugrunde liegenden Sachverhalt nicht entgegen; das Gleiche gilt, wenn sich das Verfahren gegen Personen richtet, die das Vergehen als Bedienstete eines Instituts oder eines Inhabers einer bedeutenden Beteiligung an einem Institut begangen haben.
 
 (3) Die Bundesanstalt und, soweit sie im Rahmen dieses Gesetzes tätig wird, die Deutsche Bundesbank arbeiten bei der Aufsicht über Institute, die in einem anderen Staat des Europäischen Wirtschaftsraums Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen, sowie bei der Aufsicht über Institutsgruppen, Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen im Sinne des § 10a Absatz 1 und 2 mit den zuständigen Stellen im Europäischen Wirtschaftsraum sowie der Europäischen Bankenaufsichtsbehörde und der Europäischen Wertpapier- und Marktaufsichtsbehörde zusammen. Bei der Beurteilung nach § 2c Absatz 1a und 1b arbeitet die Bundesanstalt mit den zuständigen Stellen im Europäischen Wirtschaftsraum zusammen, wenn der Anzeigepflichtige
 
@@ -1270,11 +1483,11 @@ Die Bundesanstalt arbeitet eng mit dem Europäischen Ausschuss für Systemrisike
 
 3. eine natürliche oder juristische Person ist, die ein CRR-Kreditinstitut, ein Erst- oder Rückversicherungsunternehmen oder eine OGAW-Verwaltungsgesellschaft kontrolliert, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist.
 
-Wird der interessierte Erwerber einer bedeutenden Beteiligung gleichzeitig mit der Beurteilung nach § 2c Absatz 1a auch auf Grund eines Antrags auf Erteilung einer Zulassung nach Artikel 21a der Richtlinie 2013/36/EU beurteilt, so stimmt sich die Bundesanstalt ab
+Die Bundesanstalt stimmt sich bei der Prüfung eines Erlaubnisantrags nach § 32 und bei der Beurteilung einer Anzeige nach § 2c Absatz 1a oder nach § 2h Absatz 4, sofern gleichzeitig ein Antrag auf Befreiung von der Zulassungspflicht nach Artikel 21a der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 geprüft wird, mit folgenden Stellen ab:
 
-1. mit der Stelle, die für die Beaufsichtigung der Gruppe auf zusammengefasster Basis zuständig ist, der das Institut, an dem eine bedeutende Beteiligung erworben werden soll, angehört, und
+1. der Stelle, die für die Beaufsichtigung der Finanzholding-Gruppe auf zusammengefasster Basis zuständig ist, und
 
-2. auch mit der zuständigen Stelle des Staates des Europäischen Wirtschaftsraums, in dem der interessierte Erwerber seinen Sitz hat.
+2. der zuständigen Stelle des Staates des Europäischen Wirtschaftsraums, in dem die Finanzholding-Gesellschaft oder die gemischte Finanzholding-Gesellschaft, die den Antrag auf Zulassung oder Befreiung von der Zulassungspflicht stellt, ihren Sitz hat, sofern es sich um eine andere Stelle handelt als die Stelle nach Nummer 1.
 
 Vorbehaltlich der allgemeinen datenschutzrechtlichen Vorschriften, insbesondere des § 25 Absatz 1 des Bundesdatenschutzgesetzes, tauschen die Bundesanstalt und die Deutsche Bundesbank mit den zuständigen Stellen im Europäischen Wirtschaftsraum alle zweckdienlichen und grundlegenden Informationen aus, die für die Durchführung der Aufsicht erforderlich sind. Grundlegende Informationen können auch ohne entsprechende Anfrage der zuständigen Stelle weitergegeben werden. Als grundlegend in diesem Sinne gelten alle Informationen, die Einfluss auf die Beurteilung der Finanzlage eines Instituts in dem betreffenden Staat des Europäischen Wirtschaftsraums haben können. Hierzu gehören insbesondere:
 
@@ -1340,7 +1553,7 @@ Die Bundesanstalt kann bei Gefahr im Verzug von einer vorherigen Anhörung der z
 
 (11) Ergibt sich für die Bundesanstalt auf Grund der Überprüfung, insbesondere der Evaluierung der Unternehmensführungsregelung, des Geschäftsmodells oder der Tätigkeiten eines CRR-Kreditinstituts, der begründete Verdacht, dass im Zusammenhang mit diesem CRR-Kreditinstitut Geldwäsche oder Terrorismusfinanzierung stattfindet, stattgefunden hat oder diese Straftaten versucht wurden oder dass ein erhöhtes Risiko hierfür besteht, so meldet die Bundesanstalt diesen Verdacht unverzüglich der Behörde oder Stelle, die das Institut gemäß der Richtlinie (EU) 2015/849 beaufsichtigt und die Einhaltung dieser Richtlinie sicherzustellen hat. Besteht der Verdacht auf ein erhöhtes Risiko für Geldwäsche oder Terrorismusfinanzierung und ist die Bundesanstalt die zuständige Behörde, so nimmt die Bundesanstalt zusammen mit der Behörde oder Stelle, die das CRR-Kreditinstitut gemäß der Richtlinie (EU) 2015/849 beaufsichtigt und dafür zuständig ist, die Einhaltung dieser Richtlinie sicherzustellen, Kontakt mit der Europäischen Bankenaufsichtsbehörde auf, um ihre gemeinsame Bewertung unverzüglich zu übermitteln. Ist die Bundesanstalt die zuständige Behörde, so ergreift sie Maßnahmen, soweit dies erforderlich ist.
 
-##### § 8a Besondere Aufgaben bei der Aufsicht auf zusammengefasster Basis
+###### § 8a Besondere Aufgaben bei der Aufsicht auf zusammengefasster Basis
 
 (1) Ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis über eine Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe im Sinne des § 10a zuständig, an deren Spitze ein EU-Mutterinstitut, eine EU-Mutterfinanzholding-Gesellschaft oder eine gemischte EU-Mutterfinanzholding-Gesellschaft steht, obliegen ihr neben den sonstigen, sich aus diesem Gesetz ergebenden Aufgaben folgende Aufgaben:
 
@@ -1372,7 +1585,7 @@ Bei der Entscheidung ist die von den jeweils zuständigen Stellen durchgeführte
 
 (6) (weggefallen)
 
-##### § 8b Zuständigkeit für die Aufsicht auf zusammengefasster Basis
+###### § 8b Zuständigkeit für die Aufsicht auf zusammengefasster Basis
 
 (1) Die Bundesanstalt übt die Aufsicht auf zusammengefasster Basis über eine Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe im Sinne des § 10a Absatz 1 und 2 in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 575/2013 aus, wenn
 
@@ -1396,7 +1609,7 @@ c) das Große Wertpapierinstitut mit der größten Bilanzsumme, wenn die Gruppe 
 
 (3) Erfolgt eine zusammengefasste Aufsicht nach Artikel 18 Absatz 3 oder Absatz 6 der Verordnung (EU) Nr. 575/2013, ist die Bundesanstalt zuständig für die Aufsicht auf zusammengefasster Basis, wenn die Gesamtbilanzsumme der gruppenangehörigen CRR-Kreditinstitute, für deren Beaufsichtigung auf Einzelinstitutsebene sie nach diesem Gesetz zuständig ist, die Gesamtbilanzsumme der jeweils von den sonstigen zuständigen Behörden auf Einzelinstitutsebene beaufsichtigten gruppenangehörigen CRR-Kreditinstitute übersteigt. Sofern der Gruppe kein CRR-Kreditinstitut angehört, ist die Bundesanstalt zuständig für die Aufsicht auf zusammengefasster Basis, wenn sie auf Einzelebene zuständig für die Aufsicht über das gruppenangehörige Große Wertpapierinstitut mit der größten Bilanzsumme ist.
 
-##### § 8c Übertragung der Zuständigkeit für die Aufsicht über Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gruppenangehörige Institute
+###### § 8c Übertragung der Zuständigkeit für die Aufsicht über Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gruppenangehörige Institute
 
 (1) Die Bundesanstalt kann von der Beaufsichtigung einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe im Sinne des § 10a absehen und die Aufsicht auf zusammengefasster Basis widerruflich auf eine andere zuständige Stelle innerhalb des Europäischen Wirtschaftsraums übertragen,
 
@@ -1410,9 +1623,9 @@ Die Bundesanstalt stellt in diesen Fällen das übergeordnete Unternehmen widerr
 
 (3) Die Bundesanstalt kann nach Maßgabe des Artikels 28 der Verordnung (EU) Nr. 1093/2010 die Zuständigkeit für die Beaufsichtigung eines Instituts, für dessen Zulassung sie zuständig ist, widerruflich auf eine andere zuständige Stelle innerhalb des Europäischen Wirtschaftsraums übertragen, wenn das Institut Tochterunternehmen eines Instituts ist, für dessen Zulassung und Beaufsichtigung diese zuständige Stelle nach Maßgabe der Verordnung (EU) Nr. 575/2013 zuständig ist. Vor der Übertragung der Zuständigkeit ist dieses Institut anzuhören. Die Europäische Bankenaufsichtsbehörde ist über das Bestehen und den Inhalt dieser Vereinbarungen zu unterrichten.
 
-##### § 8d (weggefallen)
+###### § 8d (weggefallen)
 
-##### § 8e Aufsichtskollegien
+###### § 8e Aufsichtskollegien
 
 (1) Ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis über eine Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe zuständig, richtet sie Aufsichtskollegien ein. Ziel der Einrichtung von Aufsichtskollegien ist es, die Aufgabenwahrnehmung nach § 8 Absatz 7 , § 8a und den Bestimmungen der Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 3 zu erleichtern und eine angemessene Zusammenarbeit mit den zuständigen Stellen im Europäischen Wirtschaftsraum, zu denen auch die Europäische Bankenaufsichtsbehörde gehört, sowie mit den zuständigen Stellen in Drittstaaten zu gewährleisten. Die Aufsichtskollegien dienen
 
@@ -1440,7 +1653,7 @@ Die Bundesanstalt stellt in diesen Fällen das übergeordnete Unternehmen widerr
 
 (7) Bei der Wahrnehmung der Aufgaben nach den Absätzen 1 bis 6 arbeiten die Bundesanstalt und die Deutsche Bundesbank zusammen.
 
-##### § 8f Zusammenarbeit bei der Aufsicht über bedeutende Zweigniederlassungen
+###### § 8f Zusammenarbeit bei der Aufsicht über bedeutende Zweigniederlassungen
 
 (1) Die Bundesanstalt stuft die Zweigniederlassung eines CRR-Kreditinstituts in einem Aufnahmemitgliedstaat oder einem Staat des Europäischen Wirtschaftsraums auf Verlangen der zuständigen Stelle insbesondere dann als bedeutend ein, wenn die Zweigniederlassung die Anforderungen des § 53b Absatz 8 Satz 4 erfüllt; in diesem Fall übermittelt die Bundesanstalt der zuständigen Stelle
 
@@ -1456,11 +1669,11 @@ Die Bundesanstalt plant und koordiniert die Aufsichtstätigkeiten im Sinne des �
 
 (3) Erhält die Bundesanstalt Informationen und Erkenntnisse von der zuständigen Stelle im Sinne des Absatzes 1 Satz 1, hat die Bundesanstalt diese bei ihrer Prüfungsplanung zu berücksichtigen; sie hat hierbei der Stabilität des Finanzsystems des Aufnahmemitgliedstaates oder des Staates des Europäischen Wirtschaftsraums Rechnung zu tragen.
 
-##### § 8g Zusammenarbeit bei der Aufsicht über Zweigstellen und Kreditinstitute, die derselben Drittstaatengruppe angehören
+###### § 8g Zusammenarbeit bei der Aufsicht über Zweigstellen und Kreditinstitute, die derselben Drittstaatengruppe angehören
 
 Ist die Bundesanstalt zuständig für die Aufsicht über Zweigstellen eines Unternehmens im Sinne des § 53 mit Sitz in einem Drittstaat oder für Kreditinstitute, die derselben Drittstaatengruppe angehören, so tauscht sie mit den anderen für die Beaufsichtigung von gruppenangehörigen Unternehmen oder Zweigstellen zuständigen Behörden innerhalb des Europäischen Wirtschaftsraums alle Informationen aus, die für die Beaufsichtigung erforderlich sind, um eine Umgehung der für die Drittstaatengruppen nach diesem Gesetz und der Verordnung (EU) Nr. 575/2013 geltenden Anforderungen zu verhindern. Die Bundesanstalt hat hierbei der Stabilität des Finanzsystems des Europäischen Wirtschaftsraums Rechnung zu tragen.
 
-##### § 8h Zusammenarbeit mit Abwicklungsbehörden
+###### § 8h Zusammenarbeit mit Abwicklungsbehörden
 
 Die Aufsichtsbehörde meldet den zuständigen Abwicklungsbehörden
 
@@ -1468,7 +1681,7 @@ Die Aufsichtsbehörde meldet den zuständigen Abwicklungsbehörden
 
 2. sämtliche Eigenmittelempfehlungen, die CRR-Kreditinstituten nach § 6d mitgeteilt wurden.
 
-##### § 9 Verschwiegenheitspflicht
+###### § 9 Verschwiegenheitspflicht
 
 (1) Die bei der Bundesanstalt beschäftigten und die nach § 4 Absatz 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen, die nach § 45c bestellten Sonderbeauftragten, die nach § 37 Absatz 1 Satz 2 und § 38 Absatz 2 Satz 2 und 3 bestellten Abwickler, die gerichtlich bestellten Treuhänder nach § 2c Absatz 2 Satz 2, die gerichtlich bestellten Sachwalter nach § 22l Absatz 1 Satz 1 und § 22o Absatz 1 Satz 1 sowie die im Dienst der Deutschen Bundesbank stehenden Personen, soweit sie zur Durchführung dieses Gesetzes tätig werden, dürfen die ihnen bei ihrer Tätigkeit bekanntgewordenen Tatsachen, deren Geheimhaltung im Interesse des Instituts, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Dies gilt auch für die in Satz 1 genannten Personen, sofern ihnen Tatsachen im Rahmen der Anbahnung einer Beauftragung oder Bestellung anvertraut werden. Die von den beaufsichtigten Instituten und Unternehmen zu beachtenden allgemeinen datenschutzrechtlichen Vorschriften bleiben unberührt. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
 
@@ -1544,17 +1757,19 @@ Andere Informationen als aggregierte und anonymisierte Informationen dürfen mit
 
 (4) Tritt eine Krisensituation ein, so kann die Bundesanstalt zu Aufsichtszwecken Tatsachen auch an die zuständigen Stellen in anderen Staaten weitergeben.
 
-(5) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
+(5) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat oder eines Besteuerungsverfahrens benötigen, es sei denn, der Weitergabe der Informationen stehen andere Vorschriften entgegen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
-1. die den in Absatz 1 Satz 1 oder Satz 3 bezeichneten Personen durch die zuständige Aufsichtsstelle eines anderen Staates oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind oder
+1. die den in Absatz 1 Satz 1 oder Satz 3 bezeichneten Personen durch die zuständige Aufsichtsstelle eines anderen Staates oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind,
 
-2. von denen bei der Bundesanstalt beschäftigte Personen dadurch Kenntnis erlangen, dass sie an der Aufsicht über direkt von der Europäischen Zentralbank beaufsichtigte Institute mitwirken, insbesondere in gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank, und die nach den Regeln der Europäischen Zentralbank geheim sind.
+2. von denen bei der Bundesanstalt beschäftigte Personen dadurch Kenntnis erlangen, dass sie an der Aufsicht über direkt von der Europäischen Zentralbank beaufsichtigte Institute mitwirken, insbesondere in gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank, und die nach den Regeln der Europäischen Zentralbank geheim sind oder
+
+3. die der Bundesanstalt von der Deutschen Bundesbank nach § 7 Absatz 3 Satz 2 zur Verfügung gestellt worden sind und die der Geheimhaltung nach § 16 des Bundesstatistikgesetzes unterliegen.
 
 ## Zweiter Abschnitt Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gemischte Holdinggesellschaften
 
 ## 1. Eigenmittel und Liquidität
 
-##### § 10 Ergänzende Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung
+###### § 10 Ergänzende Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung
 
 (1) Im Interesse der Erfüllung der Verpflichtungen der Institute, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen gegenüber ihren Gläubigern, insbesondere im Interesse der Sicherheit der ihnen anvertrauten Vermögenswerte, wird das Bundesministerium der Finanzen ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank in Ergänzung der Verordnung (EU) Nr. 575/2013 nähere Bestimmungen über die angemessene Eigenmittelausstattung (Solvabilität) der Institute, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen zu erlassen, insbesondere
 
@@ -1654,13 +1869,19 @@ Eine drohende Störung der Funktionsfähigkeit des Finanzmarktes kann insbesonde
 
 (9) Ein Institut darf für die Berechnung des Standard-Gesamtrisikobetrags des Unternehmens (S-TREA) die Risikogewichte nach Artikel 465 Absatz 5 und 9 der Verordnung (EU) Nr. 575/2013 für die dort bezeichneten Risikopositionen anwenden, wenn für das Institut die dort dafür festgelegten Voraussetzungen erfüllt sind.
 
-##### § 10a Ermittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung
+###### § 10a Ermittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung
 
 (1) Eine Institutsgruppe besteht aus einem übergeordneten Unternehmen und einem oder mehreren nachgeordneten Unternehmen. Übergeordnete Unternehmen sind CRR-Kreditinstitute oder Große Wertpapierinstitute im Sinne des § 2 Absatz 18 des Wertpapierinstitutsgesetzes, die nach Artikel 11 der Verordnung (EU) Nr. 575/2013 die Konsolidierung vorzunehmen haben, sowie Institute, die nach § 1a in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 575/2013 die Konsolidierung vorzunehmen haben. Nachgeordnete Unternehmen sind Unternehmen, die nach Artikel 18 der Verordnung (EU) Nr. 575/2013 zu konsolidieren sind oder freiwillig konsolidiert werden; Institute, die nach § 1a als CRR-Kreditinstitute gelten und die nicht ausschließlich über eine Erlaubnis verfügen, die Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, gelten hierbei als Institute im Sinne des Artikels 18 der Verordnung (EU) Nr. 575/2013. Abweichend von Satz 2 kann die Bundesanstalt auf Antrag des übergeordneten Unternehmens ein anderes gruppenangehöriges Institut als übergeordnetes Unternehmen bestimmen; das gruppenangehörige Institut ist vorab anzuhören. Erfüllt bei wechselseitigen Beteiligungen kein Unternehmen der Institutsgruppe die Voraussetzungen des Satzes 2, bestimmt die Bundesanstalt das übergeordnete Unternehmen der Gruppe. Ist das übergeordnete Unternehmen ein Kreditinstitut, das ausschließlich über eine Erlaubnis verfügt, die Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, oder ein Finanzdienstleistungsinstitut, das ausschließlich Finanzdienstleistungen im Sinne von § 1 Absatz 1a Satz 2 Nummer 9 oder 10 erbringt, besteht nur dann eine Institutsgruppe im Sinne dieser Vorschrift, wenn ihm mindestens ein CRR-Kreditinstitut mit Sitz im Inland als Tochterunternehmen nachgeordnet ist.
 
 (2) Eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe besteht aus einem übergeordneten Unternehmen und einem oder mehreren nachgeordneten Unternehmen. Übergeordnetes Unternehmen ist das Unternehmen, das nach Artikel 11 der Verordnung (EU) Nr. 575/2013 die Konsolidierung vorzunehmen hat. Nachgeordnete Unternehmen sind Unternehmen, die nach Artikel 18 der Verordnung (EU) Nr. 575/2013 zu konsolidieren sind oder freiwillig konsolidiert werden. Institute, die nach § 1a als CRR-Kreditinstitute gelten und die nicht ausschließlich über eine Erlaubnis verfügen, die Tätigkeit einer zentralen Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, gelten hierbei als Institute im Sinne des Artikels 18 der Verordnung (EU) Nr. 575/2013. Die Bundesanstalt hat gegenüber einem übergeordneten Unternehmen nach Satz 2 und seinen Organen alle Befugnisse, die ihr gegenüber einem Institut als übergeordnetem Unternehmen und dessen Organen zustehen.
 
-(3) (weggefallen)
+(3) Die nach § 2f Absatz 1 zuständige Aufsichtsbehörde kann Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften, die von ihr nach § 2f Absatz 4 Satz 1 von der Zulassungspflicht nach § 2f Absatz 1 befreit wurden, im Einzelfall unter Beachtung des § 2f Absatz 8 aus dem Konsolidierungskreis nach diesem Gesetz und der Verordnung (EU) Nr. 575/2013 ausnehmen, wenn
+
+1. die Ausnahme nicht die Wirksamkeit der Beaufsichtigung des Tochterkreditinstituts oder der Gruppe beeinträchtigt,
+
+2. die Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft keine anderen Beteiligungen hält als die Beteiligung an dem Tochterkreditinstitut oder der zwischengeschalteten Mutterfinanzholding-Gesellschaft oder zwischengeschalteten gemischten Mutterfinanzholding-Gesellschaft, die das Tochterkreditinstitut kontrolliert, und
+
+3. die Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft nicht in erheblichem Umfang auf Verschuldung zurückgreift und keine Risikopositionen hat, die nicht mit ihrem Eigentum an dem Tochterkreditinstitut oder der zwischengeschalteten Mutterfinanzholding-Gesellschaft oder zwischengeschalteten gemischten Mutterfinanzholding-Gesellschaft, die das Tochterkreditinstitut kontrolliert, verbunden sind.
 
 (4) Zur Ermittlung der Angemessenheit der Eigenmittel nach den Artikeln 92 bis 386 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung auf konsolidierter Ebene und zur Begrenzung der Großkreditrisiken nach den Artikeln 387 bis 403 der Verordnung (EU) Nr. 575/2013 haben die übergeordneten Unternehmen jeweils die Eigenmittel und die maßgeblichen Risikopositionen der Gruppe zusammenzufassen. Von den nach Satz 1 zusammenzufassenden Eigenmitteln sind die auf gruppenangehörige Unternehmen entfallenden Buchwerte der Kapitalinstrumente gemäß Artikel 26 Absatz 1 Buchstabe a, Artikel 51 Buchstabe a und Artikel 62 Buchstabe a der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung abzuziehen. Bei Beteiligungen, die über nicht gruppenangehörige Unternehmen vermittelt werden, sind solche Buchwerte jeweils quotal in Höhe desjenigen Anteils abzuziehen, der der durchgerechneten Kapitalbeteiligung entspricht. Ist der Buchwert einer Beteiligung höher als der nach Satz 1 unter Eigenmitteln zusammenzufassende Teil der Posten des harten Kernkapitals nach Artikel 26 Absatz 1 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung des nachgeordneten Unternehmens, hat das übergeordnete Unternehmen den Unterschiedsbetrag von dem harten Kernkapital gemäß Artikel 50 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung der Gruppe abzuziehen. Die Adressenausfallpositionen, die sich aus Rechtsverhältnissen zwischen gruppenangehörigen Unternehmen ergeben, sind nicht zu berücksichtigen. Bei nachgeordneten Unternehmen, die keine Tochterunternehmen sind, hat das übergeordnete Unternehmen seine Eigenmittel und die im Rahmen der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung maßgeblichen Risikopositionen mit den Eigenmitteln und den maßgeblichen Risikopositionen der nachgeordneten Unternehmen jeweils quotal in Höhe desjenigen Anteils zusammenzufassen, der seiner Kapitalbeteiligung an dem nachgeordneten Unternehmen entspricht. Im Übrigen gelten die Sätze 2 bis 5, jeweils auch in Verbindung mit der Rechtsverordnung nach Absatz 7, entsprechend.
 
@@ -1688,7 +1909,7 @@ Es darf jedoch zur Erfüllung seiner Verpflichtungen nach Satz 1 auf die gruppen
 
 (9) Für die Teilkonsolidierung gemäß Artikel 22 der Verordnung (EU) Nr. 575/2013 sind die Absätze 4 bis 8 entsprechend anzuwenden.
 
-##### § 10b Verhältnis der Kapitalpufferanforderungen zu anderen Kapitalanforderungen und zur Eigenmittelempfehlung
+###### § 10b Verhältnis der Kapitalpufferanforderungen zu anderen Kapitalanforderungen und zur Eigenmittelempfehlung
 
 Zur Erfüllung der Kapitalpufferanforderungen nach den §§ 10c bis 10g dürfen die Institute kein hartes Kernkapital verwenden, das erforderlich ist zur
 
@@ -1710,13 +1931,13 @@ Zur Erfüllung der Kapitalpufferanforderungen nach den §§ 10c bis 10g dürfen 
 
 Satz 1 gilt entsprechend für Institutsgruppen, Finanzholding-Gruppen und gemischte Finanzholding-Gruppen, denen mindestens ein Institut angehört, das die Anforderung nach Satz 1 auf Einzelinstitutsebene erfüllen muss, sowie für Institute im Sinne des Artikels 22 der Verordnung (EU) Nr. 575/2013.
 
-##### § 10c Kapitalerhaltungspuffer
+###### § 10c Kapitalerhaltungspuffer
 
 (1) Ein Institut muss einen aus hartem Kernkapital bestehenden Kapitalerhaltungspuffer vorhalten. Seine Höhe beträgt 2,5 Prozent des nach Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 ermittelten Gesamtrisikobetrags.
 
 (2) Absatz 1 gilt entsprechend für Institutsgruppen, Finanzholding-Gruppen und gemischte Finanzholding-Gruppen, denen mindestens ein Institut angehört, das die Anforderung in Absatz 1 auf Einzelinstitutsebene erfüllen muss, sowie für Institute im Sinne des Artikels 22 der Verordnung (EU) Nr. 575/2013.
 
-##### § 10d Antizyklischer Kapitalpuffer
+###### § 10d Antizyklischer Kapitalpuffer
 
 (1) Ein Institut muss einen aus hartem Kernkapital bestehenden institutsspezifischen antizyklischen Kapitalpuffer vorhalten. Satz 1 gilt entsprechend für Institutsgruppen, Finanzholding-Gruppen und gemischte Finanzholding-Gruppen, denen mindestens ein Institut angehört, das die Anforderung in Satz 1 auf Einzelinstitutsebene erfüllen muss, sowie für Institute im Sinne des Artikels 22 der Verordnung (EU) Nr. 575/2013.
 
@@ -1744,17 +1965,19 @@ Satz 1 gilt entsprechend für Institutsgruppen, Finanzholding-Gruppen und gemisc
 
 (10) Das Nähere regelt die Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5 Buchstabe a.
 
-##### § 10e Kapitalpuffer für systemische Risiken
+###### § 10e Kapitalpuffer für systemische Risiken
 
 (1) Die Bundesanstalt kann anordnen, dass alle Institute oder bestimmte Arten oder Gruppen von Instituten einen aus hartem Kernkapital bestehenden Kapitalpuffer für systemische Risiken vorhalten müssen. Der Kapitalpuffer für systemische Risiken kann angeordnet werden für alle Risikopositionen, die im Inland, in einem anderen Staat des Europäischen Wirtschaftsraums oder in einem Drittstaat belegen sind, oder für eine Teilgruppe dieser Risikopositionen. Die Quote wird von der Bundesanstalt in Schritten von 0,5 Prozentpunkten oder einem Vielfachen davon festgesetzt. Die Sätze 1 bis 3 gelten entsprechend für Institutsgruppen, Finanzholding-Gruppen und gemischte Finanzholding-Gruppen, denen mindestens ein CRR-Kreditinstitut angehört, das die Anforderungen nach den Sätzen 1 bis 3 auf Einzelinstitutsebene erfüllt, sowie für Kreditinstitute im Sinne des Artikels 22 der Verordnung (EU) Nr. 575/2013.
 
-(2) Der Kapitalpuffer für systemische Risiken kann angeordnet werden, um systemische oder makroprudenzielle Risiken zu vermindern oder abzuwehren, die
+(2) Der Kapitalpuffer für systemische Risiken kann angeordnet werden, um systemische oder makroprudenzielle Risiken, einschließlich solcher, die durch Umweltrisiken insbesondere aufgrund des Klimawandels verursacht oder begünstigt werden, zu vermindern oder abzuwehren, die
 
 1. zu einer Störung mit schwerwiegenden negativen Auswirkungen auf das nationale Finanzsystem und die Realwirtschaft im Inland führen können und
 
 2. nicht durch die Verordnung (EU) Nr. 575/2013 oder die Kapitalpuffer gemäß den §§ 10d, 10f und 10g abgedeckt sind.
 
 Die Anordnung darf nur erfolgen, wenn der Kapitalpuffer für systemische Risiken keine unverhältnismäßige Beeinträchtigung des Finanzsystems oder von Teilen des Finanzsystems eines anderen Staates oder des Europäischen Wirtschaftsraums insgesamt darstellt, so dass das Funktionieren des Binnenmarkts oder des Europäischen Wirtschaftsraums behindert wird. Der Kapitalpuffer für systemische Risiken ist mindestens alle zwei Jahre zu überprüfen. Für Risikopositionen, die in einem anderen Staat des Europäischen Wirtschaftsraums belegen sind, kann ein Kapitalpuffer für systemische Risiken nur angeordnet werden, sofern dies einheitlich für alle Risikopositionen, die in Staaten des Europäischen Wirtschaftsraums belegen sind, erfolgt. Davon ausgenommen sind die Fälle des Absatzes 9.
+
+(2a) Gilt ein Kapitalpuffer für systemische Risiken für den Gesamtrisikobetrag eines Instituts und unterliegt dieses Institut der Output-Floor-Eigenmitteluntergrenze, stellt die Bundesanstalt spätestens bei der Überprüfung nach Absatz 2 sicher, dass die Höhe des vorzuhaltenden Kapitalpuffers auch weiterhin angemessen ist.
 
 (3) Vor der Veröffentlichung eines Kapitalpuffers für systemische Risiken nach Absatz 7 zeigt die Bundesanstalt diese Anordnung dem Europäischen Ausschuss für Systemrisiken an. Ist ein Institut, für das ein Kapitalpuffer für systemische Risiken angeordnet wird, ein Tochterunternehmen eines Unternehmens mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums, so zeigt die Bundesanstalt die Entscheidung auch der zuständigen Behörde dieses Staates des Europäischen Wirtschaftsraums an. Betrifft die Anordnung des Kapitalpuffers für systemische Risiken in Drittstaaten belegene Risikopositionen, so zeigt die Bundesanstalt dies dem Europäischen Ausschuss für Systemrisiken ebenfalls an. Bei einem Kapitalpuffer für systemische Risiken oder einer Kombination von Kapitalpuffern für systemische Risiken, der oder die eine Höhe von 3 Prozent für jede betroffene Risikoposition nicht überschreitet, muss die Anzeige einen Monat vor der Veröffentlichung nach Absatz 7 erfolgen. Die Anzeige soll jeweils mindestens folgende Angaben enthalten:
 
@@ -1770,13 +1993,13 @@ Die Anordnung darf nur erfolgen, wenn der Kapitalpuffer für systemische Risiken
 
 6. sofern der Kapitalpuffer für alle Risikopositionen gilt, eine Begründung, weshalb keine Überschneidung mit dem Kapitalpuffer nach § 10g gegeben ist.
 
-(4) Bei einem Kapitalpuffer für systemische Risiken oder einer Kombination von Kapitalpuffern für systemische Risiken, der oder die für eine der betroffenen Risikopositionen eine Höhe von über 3 Prozent und bis zu 5 Prozent erreicht, ersucht die Bundesanstalt im Rahmen der Anzeige nach Absatz 3 um eine Stellungnahme der Europäischen Kommission. Einen Kapitalpuffer für systemische Risiken oder eine Kombination von Kapitalpuffern für systemische Risiken nach Satz 1 für Risikopositionen, die im Inland oder in Drittstaaten belegen sind, kann die Bundesanstalt anordnen, nachdem
+(4) Bei einem Kapitalpuffer für systemische Risiken oder einer Kombination von Kapitalpuffern für systemische Risiken, der oder die für eine der betroffenen Risikopositionen eine Höhe von über 3 Prozent und bis zu 5 Prozent erreicht, ersucht die Bundesanstalt im Rahmen der Anzeige nach Absatz 3 um eine Stellungnahme der Europäischen Kommission und des Europäischen Ausschusses für Systemrisiken. Einen Kapitalpuffer für systemische Risiken oder eine Kombination von Kapitalpuffern für systemische Risiken nach Satz 1 für Risikopositionen, die im Inland oder in Drittstaaten belegen sind, kann die Bundesanstalt anordnen, nachdem
 
-1. die Europäische Kommission eine zustimmende Empfehlung abgegeben hat oder
+1. die Europäische Kommission eine zustimmende Stellungnahme abgegeben hat oder
 
-2. die Bundesanstalt, sofern die Europäische Kommission eine ablehnende Empfehlung abgegeben hat, gegenüber der Europäischen Kommission begründet hat, dass die Anordnung des Kapitalpuffers entgegen der Empfehlung der Europäischen Kommission erforderlich ist.
+2. die Bundesanstalt, sofern die Europäische Kommission eine ablehnende Stellungnahme abgegeben hat, gegenüber der Europäischen Kommission begründet hat, dass die Anordnung des Kapitalpuffers entgegen der Stellungnahme der Europäischen Kommission erforderlich ist.
 
-Sind von der Anordnung des Kapitalpuffers für systemische Risiken nach Satz 1 auch Institute betroffen, deren Mutterinstitut seinen Sitz in einem anderen Staat des Europäischen Wirtschaftsraums hat, so kann die Bundesanstalt den Kapitalpuffer für systemische Risiken nur anordnen, wenn sie in der Anzeige gemäß Absatz 3 die Europäische Kommission und den Europäischen Ausschuss für Systemrisiken um eine Empfehlung ersucht hat. Widerspricht die zuständige Behörde eines betroffenen Staates des Europäischen Wirtschaftsraums der Anordnung des Kapitalpuffers für systemische Risiken nach Satz 1 gegenüber einem Institut, dessen Mutterinstitut seinen Sitz in diesem Staat hat, oder geben sowohl die Europäische Kommission als auch der Europäische Ausschuss für Systemrisiken ablehnende Empfehlungen ab, so kann die Bundesanstalt die Angelegenheit der Europäischen Bankenaufsichtsbehörde zur Durchführung eines Verfahrens zur Beilegung von Meinungsverschiedenheiten nach Artikel 19 der Verordnung (EU) Nr. 1093/2010 vorlegen. Im Fall einer Vorlage nach Satz 4 setzt die Bundesanstalt die Entscheidung über die Festsetzung des Kapitalpuffers aus, bis die Europäische Bankenaufsichtsbehörde einen Beschluss gefasst hat.
+Sind von der Anordnung des Kapitalpuffers für systemische Risiken nach Satz 1 auch Institute betroffen, deren Mutterinstitut seinen Sitz in einem anderen Staat des Europäischen Wirtschaftsraums hat, so kann die Bundesanstalt den Kapitalpuffer für systemische Risiken nur anordnen, wenn sie in der Anzeige gemäß Absatz 3 die Europäische Kommission und den Europäischen Ausschuss für Systemrisiken um eine Stellungnahme ersucht hat. Widerspricht die zuständige Behörde eines betroffenen Staates des Europäischen Wirtschaftsraums der Anordnung des Kapitalpuffers für systemische Risiken nach Satz 1 gegenüber einem Institut, dessen Mutterinstitut seinen Sitz in diesem Staat hat, oder geben sowohl die Europäische Kommission als auch der Europäische Ausschuss für Systemrisiken ablehnende Stellungnahmen ab, so kann die Bundesanstalt die Angelegenheit der Europäischen Bankenaufsichtsbehörde zur Durchführung eines Verfahrens zur Beilegung von Meinungsverschiedenheiten nach Artikel 19 der Verordnung (EU) Nr. 1093/2010 vorlegen. Im Fall einer Vorlage nach Satz 4 setzt die Bundesanstalt die Entscheidung über die Festsetzung des Kapitalpuffers aus, bis die Europäische Bankenaufsichtsbehörde einen Beschluss gefasst hat.
 
 (5) Für einen Kapitalpuffer für systemische Risiken oder eine Kombination von Kapitalpuffern für systemische Risiken, der oder die eine Höhe von mehr als 5 Prozent für eine der betroffenen Risikopositionen erreicht, holt die Bundesanstalt die Erlaubnis der Europäischen Kommission nach Artikel 133 Absatz 12 Unterabsatz 3 der Richtlinie 2013/36/EU ein.
 
@@ -1808,7 +2031,7 @@ Die Veröffentlichung der Angabe nach Nummer 4 hat zu unterbleiben, wenn zu bef�
 
 (12) Das Nähere regelt eine gemäß § 10 Absatz 1 Satz 1 Nummer 5 Buchstabe b erlassene Rechtsverordnung.
 
-##### § 10f Kapitalpuffer für global systemrelevante Institute
+###### § 10f Kapitalpuffer für global systemrelevante Institute
 
 (1) Die Bundesanstalt ordnet an, dass ein global systemrelevantes Institut einen aus hartem Kernkapital bestehenden Kapitalpuffer für global systemrelevante Institute auf konsolidierter Ebene vorhalten muss. Seine Quote wird von der Bundesanstalt entsprechend der Zuordnung des global systemrelevanten Instituts zu einer Größenklasse auf eine Höhe von 1,0, 1,5, 2,0, 2,5 oder 3,5 Prozent des nach Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 ermittelten Gesamtrisikobetrags festgelegt und mindestens jährlich überprüft.
 
@@ -1850,7 +2073,7 @@ Die Indikatoren für die in Satz 2 Nummer 1 genannten Kategorien entsprechen den
 
 (6) Das Nähere regelt die Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5 Buchstabe c.
 
-##### § 10g Kapitalpuffer für anderweitig systemrelevante Institute
+###### § 10g Kapitalpuffer für anderweitig systemrelevante Institute
 
 (1) Die Bundesanstalt kann anordnen, dass ein anderweitig systemrelevantes Institut einen aus hartem Kernkapital bestehenden Kapitalpuffer für anderweitig systemrelevante Institute in Höhe von bis zu 3 Prozent des nach Artikel 92 Absatz 3 der Verordnung (EU) Nr. 575/2013 ermittelten Gesamtrisikobetrags auf zusammengefasster oder teilkonsolidierter Basis oder auf Einzelinstitutsebene vorhalten muss.
 
@@ -1866,7 +2089,7 @@ Die Indikatoren für die in Satz 2 Nummer 1 genannten Kategorien entsprechen den
 
 4. Verflechtungen mit dem Finanzsystem.
 
-(3) Die Bundesanstalt überprüft mindestens jährlich, ob und in welcher Höhe der Kapitalpuffer für anderweitig systemrelevante Institute erforderlich ist. Dabei sind jeweils die insoweit bestehenden Vorgaben und Empfehlungen der Europäischen Bankenaufsichtsbehörde und des Europäischen Ausschusses für Systemrisiken zu beachten. Die Anordnung darf nur erfolgen, wenn der Kapitalpuffer für anderweitig systemrelevante Institute keine unverhältnismäßige Beeinträchtigung des Finanzsystems oder von Teilen des Finanzsystems eines anderen Staates oder des Europäischen Wirtschaftsraums insgesamt darstellt, so dass das Funktionieren des Binnenmarkts des Europäischen Wirtschaftsraums behindert wird.
+(3) Die Bundesanstalt überprüft mindestens jährlich, ob und in welcher Höhe der Kapitalpuffer für anderweitig systemrelevante Institute erforderlich ist. Dabei sind jeweils die insoweit bestehenden Vorgaben und Empfehlungen der Europäischen Bankenaufsichtsbehörde und des Europäischen Ausschusses für Systemrisiken zu beachten. Die Anordnung darf nur erfolgen, wenn der Kapitalpuffer für anderweitig systemrelevante Institute keine unverhältnismäßige Beeinträchtigung des Finanzsystems oder von Teilen des Finanzsystems eines anderen Staates oder des Europäischen Wirtschaftsraums insgesamt darstellt, so dass das Funktionieren des Binnenmarkts des Europäischen Wirtschaftsraums behindert wird. Unterliegt ein anderweitig systemrelevantes Institut bei der Ermittlung des Gesamtrisikobetrags nach Artikel 92 der Verordnung (EU) Nr. 575/2013 der Output-Floor-Eigenmitteluntergrenze, stellt die Bundesanstalt spätestens bei der Überprüfung des Kapitalpuffers nach Satz 1 sicher, dass die Höhe des vorzuhaltenden Kapitalpuffers auch weiterhin angemessen ist.
 
 (3a) Die Bundesanstalt veröffentlicht die für die Einstufung der anderweitig systemrelevanten Institute und die Festsetzung der Höhe des Kapitalpuffers angewandte Methodik unter Berücksichtigung der maßgeblichen quantitativen und qualitativen Indikatoren und Schwellenwerte. Dabei sind die insoweit bestehenden Leitlinien der Europäischen Bankenaufsichtsbehörde zu beachten.
 
@@ -1888,17 +2111,17 @@ Die Indikatoren für die in Satz 2 Nummer 1 genannten Kategorien entsprechen den
 
 (7) Das Nähere regelt die Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5 Buchstabe d.
 
-##### § 10h Zusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrelevante Institute und für anderweitig systemrelevante Institute
+###### § 10h Zusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrelevante Institute und für anderweitig systemrelevante Institute
 
 (1) Solange neben einem Kapitalpuffer für global systemrelevante Institute nach § 10f auch ein Kapitalpuffer für anderweitig systemrelevante Institute nach § 10g auf konsolidierter Ebene besteht, ist nur der höhere der beiden Kapitalpuffer einzuhalten.
 
-(2) Besteht neben einem Kapitalpuffer für global systemrelevante Institute nach § 10f oder einem Kapitalpuffer für anderweitig systemrelevante Institute nach § 10g auch ein Kapitalpuffer für systemische Risiken nach § 10e, so sind diese Kapitalpuffer kumulativ einzuhalten. Führt die Höhe der kumulativ einzuhaltenden Puffer nach Satz 1 zu einer Kapitalpufferanforderung in Höhe von mehr als 5 Prozent, verfährt die Bundesanstalt gemäß den Vorgaben nach § 10g Absatz 1a.
+(2) Besteht neben einem Kapitalpuffer für global systemrelevante Institute nach § 10f oder einem Kapitalpuffer für anderweitig systemrelevante Institute nach § 10g auch ein Kapitalpuffer für systemische Risiken nach § 10e, so sind diese Kapitalpuffer kumulativ einzuhalten. Beträgt die Summe der kumulativ einzuhaltenden Puffer nach Satz 1 mehr als 5 Prozentpunkte, verfährt die Bundesanstalt gemäß den Vorgaben nach § 10g Absatz 1a. Satz 2 gilt nicht, wenn bei der Anordnung, einen Kapitalpuffer für systemische Risiken nach § 10e, einen Kapitalpuffer für global systemrelevante Institute nach § 10f oder einen Kapitalpuffer für anderweitig systemrelevante Institute nach § 10g vorhalten zu müssen, die jeweils zuvor festgesetzte Quote entweder unterschritten wird oder unverändert bleibt.
 
 (3) (weggefallen)
 
 (4) (weggefallen)
 
-##### § 10i Kombinierte Kapitalpufferanforderung
+###### § 10i Kombinierte Kapitalpufferanforderung
 
 (1) Die kombinierte Kapitalpufferanforderung ist das gesamte harte Kernkapital eines Instituts, das zur Einhaltung der folgenden Kapitalpufferanforderungen erforderlich ist:
 
@@ -1996,7 +2219,7 @@ Daneben kann sie von dem Institut verlangen, seine Eigenmittel innerhalb eines b
 
 (10) Die Absätze 1 bis 9 gelten entsprechend für Institutsgruppen, Finanzholding-Gruppen und gemischte Finanzholding-Gruppen.
 
-##### § 10j Anforderung an den Puffer der Verschuldungsquote
+###### § 10j Anforderung an den Puffer der Verschuldungsquote
 
 (1) Ein global systemrelevantes Institut muss zusätzlich zu dem Kernkapital, das zur Einhaltung der Eigenmittelanforderungen nach Artikel 92 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 575/2013 und erhöhter Eigenmittelanforderungen zur Absicherung gegen Risiken einer übermäßigen Verschuldung nach § 6c sowie nach § 10 Absatz 3 und 4 erforderlich ist, einen aus Kernkapital bestehenden Puffer der Verschuldungsquote gemäß Artikel 92 Absatz 1a der Verordnung (EU) Nr. 575/2013 vorhalten.
 
@@ -2042,7 +2265,15 @@ d) Zahlung einer variablen Vergütung oder freiwilliger Altersvorsorgeleistungen
 
 3. eine Ausschüttung der in Artikel 51 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 575/2013 genannten Position.
 
-(6) Ein global systemrelevantes Institut, das die Anforderung an den Puffer der Verschuldungsquote nicht erfüllt, muss einen Kapitalerhaltungsplan erstellen. Der Kapitalerhaltungsplan ist innerhalb von fünf Arbeitstagen nachdem das global systemrelevante Institut festgestellt hat, dass es die Anforderung an den Puffer der Verschuldungsquote nicht erfüllen kann, der Aufsichtsbehörde vorzulegen. Die Aufsichtsbehörde kann die Frist zur Vorlage auf längstens zehn Arbeitstage verlängern, wenn dies im Einzelfall und unter Berücksichtigung des Umfangs und der Komplexität der Geschäftstätigkeit angemessen erscheint. Der Kapitalerhaltungsplan umfasst die Elemente nach § 10i Absatz 6 Satz 3 Nummer 1 bis 3 und weitere Informationen, die die Aufsichtsbehörde für die in Absatz 7 vorgeschriebene Bewertung als notwendig erachtet.
+(6) Ein global systemrelevantes Institut, das die Anforderung an den Puffer der Verschuldungsquote nicht erfüllt, muss einen Kapitalerhaltungsplan erstellen. Der Kapitalerhaltungsplan ist innerhalb von fünf Arbeitstagen nachdem das global systemrelevante Institut festgestellt hat, dass es die Anforderung an den Puffer der Verschuldungsquote nicht erfüllen kann, der Aufsichtsbehörde vorzulegen. Die Aufsichtsbehörde kann die Frist zur Vorlage auf längstens zehn Arbeitstage verlängern, wenn dies im Einzelfall und unter Berücksichtigung des Umfangs und der Komplexität der Geschäftstätigkeit angemessen erscheint. Der Kapitalerhaltungsplan umfasst
+
+1. eine Einnahmen- und Ausgabenschätzung und eine Bilanzprognose,
+
+2. Maßnahmen zur Erhöhung der Kapitalquoten des Instituts,
+
+3. einen Plan und einen Zeitplan für die Erhöhung der Eigenmittel, um die Anforderungen an den Puffer der Verschuldungsquote vollständig zu erfüllen, und
+
+4. weitere Informationen, die die Aufsichtsbehörde für die in Absatz 7 vorgeschriebene Bewertung als notwendig erachtet.
 
 (7) Die Aufsichtsbehörde bewertet den Kapitalerhaltungsplan und genehmigt ihn, wenn sie der Auffassung ist, dass durch seine Umsetzung sehr wahrscheinlich ausreichend Kernkapital erhalten oder aufgenommen wird, damit das global systemrelevante Institut die Anforderung an den Puffer der Verschuldungsquote innerhalb des von der Aufsichtsbehörde als angemessen erachteten Zeitraums erfüllen kann. Die Aufsichtsbehörde entscheidet über die Genehmigung innerhalb von 14 Tagen nach Eingang des Kapitalerhaltungsplans.
 
@@ -2062,7 +2293,7 @@ Daneben kann die Aufsichtsbehörde von dem global systemrelevanten Institut verl
 
 2. sofern die Aussetzung einer Zahlung oder eine versäumte Zahlung weder einen Ausfall noch eine Voraussetzung für die Einleitung eines Verfahrens nach den für das global systemrelevante Institut geltenden Insolvenzvorschriften darstellt.
 
-##### § 11 Liquidität; Verordnungsermächtigung
+###### § 11 Liquidität; Verordnungsermächtigung
 
 (1) Die Institute müssen ihre Mittel so anlegen, dass jederzeit eine ausreichende Zahlungsfähigkeit (Liquidität) gewährleistet ist. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung im Benehmen mit der Deutschen Bundesbank nähere Anforderungen an die ausreichende Liquidität zu bestimmen, insbesondere über die
 
@@ -2080,7 +2311,7 @@ In der Rechtsverordnung ist an die Definition der Spareinlagen aus § 21 Abs. 4 
 
 (4) Die Bundesanstalt kann anordnen, dass ein Institut, eine Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe häufigere oder auch umfangreichere Meldungen zu seiner Liquidität einzureichen hat.
 
-##### § 12 Potentiell systemrelevante Institute
+###### § 12 Potentiell systemrelevante Institute
 
 Die Aufsichtsbehörde bestimmt jährlich im Einvernehmen mit der Deutschen Bundesbank, welche Institute, Mutterinstitute, Mutterfinanzholding-Gesellschaften, gemischten Finanzholding-Gesellschaften, EU-Mutterinstitute, EU-Mutterfinanzholding-Gesellschaften oder gemischten EU-Mutterfinanzholding-Gesellschaften mit Sitz im Inland potentiell systemrelevant sind. Die vorgenannten Institute und Gesellschaften sind potentiell systemrelevant, wenn sie
 
@@ -2090,7 +2321,7 @@ Die Aufsichtsbehörde bestimmt jährlich im Einvernehmen mit der Deutschen Bunde
 
 3. aus sonstigen Gründen, insbesondere auf Grund der Größe, der Verflechtung, des Umfangs und der Komplexität oder der Art der Geschäftstätigkeit, als solches zu bestimmen sind.
 
-##### § 12a Begründung von Unternehmensbeziehungen
+###### § 12a Begründung von Unternehmensbeziehungen
 
 (1) Ein Institut, eine Finanzholding-Gesellschaft oder eine gemischte Finanzholding-Gesellschaft hat bei dem Erwerb einer Beteiligung an einem Unternehmen mit Sitz im Ausland oder der Begründung einer Unternehmensbeziehung mit einem solchen Unternehmen, wodurch das Unternehmen zu einem nachgeordneten Unternehmen im Sinne des § 10a wird, sicherzustellen, daß es, im Falle einer Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft das für die Zusammenfassung verantwortliche übergeordnete Unternehmen, die für die Erfüllung der jeweiligen Pflichten nach den §§ 10a und 25 Absatz 1 erforderlichen Angaben erhält. Satz 1 ist hinsichtlich der für die Erfüllung der Pflichten nach § 10a erforderlichen Angaben nicht anzuwenden, wenn ein Institut für einzelne gruppenangehörige Unternehmen die erforderlichen Angaben für die Zusammenfassung nach § 10a nicht beschaffen kann und durch den gemäß Artikel 36 in Verbindung mit Artikel 19 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung vorzunehmenden Abzug der Buchwerte in einer der Zusammenfassung nach § 10a Absatz 4 oder 5 vergleichbaren Weise dem Risiko aus der Begründung der Beteiligung oder der Unternehmensbeziehung Rechnung getragen und es der Bundesanstalt ermöglicht wird, die Einhaltung dieser Voraussetzung zu überprüfen. Das Institut, die Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft hat die Begründung, die Veränderung oder die Aufgabe einer in Satz 1 genannten Beteiligung oder Unternehmensbeziehung unverzüglich der Bundesanstalt und der Deutschen Bundesbank anzuzeigen.
 
@@ -2100,7 +2331,7 @@ Die Aufsichtsbehörde bestimmt jährlich im Einvernehmen mit der Deutschen Bunde
 
 ## 2. Kreditgeschäft
 
-##### § 13 Großkredite; Verordnungsermächtigung
+###### § 13 Großkredite; Verordnungsermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank im Interesse des angemessenen Schutzes der Institute, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen vor Klumpenrisiken in Ergänzung der Verordnung (EU) Nr. 575/2013 für Großkredite nähere Regelungen zu erlassen über
 
@@ -2112,15 +2343,15 @@ Die Aufsichtsbehörde bestimmt jährlich im Einvernehmen mit der Deutschen Bunde
 
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute zu hören.
 
-(2) Ein Institut in der Rechtsform einer juristischen Person oder einer Personenhandelsgesellschaft darf unbeschadet der Wirksamkeit der Rechtsgeschäfte einen Großkredit nur auf Grund eines einstimmigen Beschlusses sämtlicher Geschäftsleiter gewähren. Der Beschluss soll vor der Kreditgewährung gefasst werden. Ist dies im Einzelfall wegen der Eilbedürftigkeit des Geschäftes nicht möglich, ist der Beschluss unverzüglich nachzuholen. Der Beschluss ist zu dokumentieren. Ist der Großkredit ohne vorherigen einstimmigen Beschluss sämtlicher Geschäftsleiter gewährt worden und wird die Beschlussfassung nicht innerhalb eines Monats nach Gewährung des Kredits nachgeholt, hat das Institut dies der Aufsichtsbehörde, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt unverzüglich anzuzeigen. Wird ein bereits gewährter Kredit durch Verringerung des Kernkapitals nach Artikel 25 der Verordnung (EU) Nr. 575/2013 zu einem Großkredit, darf das Institut diesen Großkredit unbeschadet der Wirksamkeit des Rechtsgeschäftes nur auf Grund eines unverzüglich nachzuholenden einstimmigen Beschlusses sämtlicher Geschäftsleiter weitergewähren. Der Beschluss ist zu dokumentieren. Wird der Beschluss nicht innerhalb eines Monats ab dem Zeitpunkt, zu dem der Kredit zu einem Großkredit geworden ist, nachgeholt, hat das Institut dies der Aufsichtsbehörde, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt unverzüglich anzuzeigen.
+(2) Ein Institut in der Rechtsform einer juristischen Person oder einer Personenhandelsgesellschaft darf unbeschadet der Wirksamkeit der Rechtsgeschäfte einen Großkredit nur auf Grund eines einstimmigen Beschlusses sämtlicher Geschäftsleiter gewähren. Der Beschluss soll vor der Kreditgewährung gefasst werden. Ist dies im Einzelfall wegen der Eilbedürftigkeit des Geschäftes nicht möglich, ist der Beschluss unverzüglich nachzuholen. Der Beschluss ist zu dokumentieren. Ist der Großkredit ohne vorherigen einstimmigen Beschluss sämtlicher Geschäftsleiter gewährt worden und wird die Beschlussfassung nicht innerhalb eines Monats nach Gewährung des Kredits nachgeholt, hat das Institut dies der Aufsichtsbehörde, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt unverzüglich anzuzeigen. Wird ein bereits gewährter Kredit durch eine nicht allein auf eine Veränderung des für die Eigenmittel geltenden Rechtsrahmens zurückgehende Verringerung des Kernkapitals nach Artikel 25 der Verordnung (EU) Nr. 575/2013 zu einem Großkredit, darf das Institut diesen Großkredit unbeschadet der Wirksamkeit des Rechtsgeschäftes nur aufgrund eines unverzüglich nachzuholenden einstimmigen Beschlusses sämtlicher Geschäftsleiter weitergewähren. Der Beschluss ist zu dokumentieren. Wird der Beschluss nicht innerhalb eines Monats ab dem Zeitpunkt, zu dem der Kredit zu einem Großkredit geworden ist, nachgeholt, hat das Institut dies der Aufsichtsbehörde, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt unverzüglich anzuzeigen.
 
 (3) Die Beschlussfassungspflichten nach Absatz 2 gelten entsprechend für das übergeordnete Unternehmen, wenn ein Unternehmen der Institutsgruppe, der Finanzholding-Gruppe oder der gemischten Finanzholding-Gruppe von Artikel 7 der Verordnung (EU) Nr. 575/2013 Gebrauch macht.
 
 (4) Bei Krediten aus öffentlichen Fördermitteln, die die Förderinstitute des Bundes und der Länder auf Grund selbständiger Kreditverträge, gegebenenfalls auch über weitere Durchleitungsinstitute, über Hausbanken zu vorbestimmten Konditionen an Endkreditnehmer leiten (Hausbankprinzip), können für die beteiligten Institute in Bezug auf die Anwendung des Artikels 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 die einzelnen Endkreditnehmer als Kreditnehmer des von ihnen gewährten Interbankkredits behandelt werden, wenn ihnen die Kreditforderungen zur Sicherheit abgetreten werden. Dies gilt entsprechend für aus eigenen oder öffentlichen Mitteln zinsverbilligte Kredite der Förderinstitute nach dem Hausbankprinzip (Eigenmittelprogramme) sowie für Kredite aus nichtöffentlichen Mitteln, die ein Kreditinstitut nach gesetzlichen Vorgaben, gegebenenfalls auch über weitere Durchleitungsinstitute, über Hausbanken an Endkreditnehmer leitet.
 
-##### (XXXX) §§ 13a u. 13b (weggefallen)
+###### (XXXX) §§ 13a u. 13b (weggefallen)
 
-##### § 13c Gruppeninterne Transaktionen mit gemischten Holdinggesellschaften
+###### § 13c Gruppeninterne Transaktionen mit gemischten Holdinggesellschaften
 
 (1) Ein CRR-Kreditinstitut, das Tochterunternehmen eines gemischten Unternehmens ist, hat der Aufsichtsbehörde, der Deutschen Bundesbank und, soweit Aufsichtsbehörde die Europäische Zentralbank ist, auch der Bundesanstalt bedeutende gruppeninterne Transaktionen mit gemischten Holdinggesellschaften oder deren anderen Tochterunternehmen anzuzeigen. Das Bundesministerium der Finanzen wird ermächtigt, durch eine im Benehmen mit der Deutschen Bundesbank zu erlassende Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, näher zu bestimmen:
 
@@ -2142,9 +2373,9 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (4) Zur Ermittlung, Quantifizierung, Überwachung und Steuerung bedeutender gruppeninterner Transaktionen innerhalb einer gemischten Unternehmensgruppe müssen die gruppenangehörigen CRR-Kreditinstitute über ein angemessenes Risikomanagement und angemessene interne Kontrollverfahren, einschließlich eines ordnungsgemäßen Berichtswesens und ordnungsgemäßer Rechnungslegungsverfahren, verfügen; § 13 bleibt unberührt. § 10a Absatz 8, § 25a Abs. 1 Satz 2 sowie Artikel 11 Absatz 1 Satz 2 und 3 der Verordnung (EU) Nr. 575/2013 gelten entsprechend.
 
-##### § 13d (weggefallen)
+###### § 13d (weggefallen)
 
-##### § 14 Millionenkredite
+###### § 14 Millionenkredite
 
 (1) Kreditinstitute, Finanzdienstleistungsinstitute im Sinne des § 1 Absatz 1a Satz 2 Nummer 4, 9 oder 10, Finanzinstitute im Sinne des Artikels 4 Absatz 1 Nummer 26 der Verordnung (EU) Nr. 575/2013 in Verbindung mit Anhang I Nummer 2 der Richtlinie 2013/36/EU, die das Factoring betreiben, und die in § 2 Absatz 2 genannten Unternehmen und Stellen (am Millionenkreditmeldeverfahren beteiligte Unternehmen) haben der bei der Deutschen Bundesbank geführten Evidenzzentrale vierteljährlich (Beobachtungszeitraum) die Kreditnehmer (Millionenkreditnehmer) anzuzeigen, deren Kreditvolumen 1 Million Euro oder mehr beträgt (Millionenkreditmeldegrenze); Anzeigeinhalte, Anzeigefristen und nähere Bestimmungen zum Beobachtungszeitraum sind durch die Rechtsverordnung nach § 22 zu regeln. Übergeordnete Unternehmen im Sinne des § 10a haben zugleich für die gruppenangehörigen Unternehmen deren Kreditnehmer im Sinne des entsprechend anzuwendenden Satzes 1 anzuzeigen. Dies gilt nicht, soweit diese Unternehmen selbst nach Satz 1 anzeigepflichtig sind oder nach § 2 Absatz 4, 7, 8, 9a oder 9e von der Anzeigepflicht befreit oder ausgenommen sind oder der Buchwert der Beteiligung an dem gruppenangehörigen Unternehmen gemäß Artikel 36 in Verbindung mit Artikel 19 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 575/2013 in der jeweils gültigen Fassung von den Eigenmitteln des übergeordneten Unternehmens abgezogen wird. Die nicht selbst nach Satz 1 anzeigepflichtigen gruppenangehörigen Unternehmen haben dem übergeordneten Unternehmen die hierfür erforderlichen Angaben zu übermitteln. Satz 1 gilt bei Gemeinschaftskrediten von 1 Million Euro und mehr auch dann, wenn der Anteil des einzelnen Unternehmens 1 Million Euro nicht erreicht.
 
@@ -2154,7 +2385,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (4) Die Deutsche Bundesbank darf im Einvernehmen mit der Bundesanstalt nach Maßgabe der allgemeinen datenschutzrechtlichen Vorschriften ausländischen Evidenzzentralen die bei ihr gespeicherten Daten über Kreditnehmer, auch zur Weitergabe an dort ansässige Kreditgeber, zur Verfügung stellen.
 
-##### § 15 Organtransaktionen
+###### § 15 Organtransaktionen
 
 (1) Kredite an
 
@@ -2202,11 +2433,11 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (6) Für Geschäfte des Instituts, die keine Kredite im Sinne von § 21 Absatz 1 sind, mit Personen oder Unternehmen nach Absatz 1 Satz 1 Nummer 1 bis 12 (Organgeschäfte) und für Ausbuchungen von Forderungen an diese Personen oder Unternehmen gelten Absatz 1 Satz 1 bis 4, die Absätze 3 und 4, § 19 Absatz 3 sowie § 21 Absatz 2 Nummer 1 und Absatz 3 Nummer 3 entsprechend. Auf ein Organgeschäft mit Personen nach Absatz 1 Satz 1 Nummer 1 bis 5 und Nummer 12 ist Absatz 1 nicht anzuwenden, wenn das Gesamtvolumen der Organgeschäfte innerhalb des Kalenderjahres bis zum Zeitpunkt des jeweiligen Geschäfts 100 000 Euro nicht übersteigt. Abweichend von Absatz 4 Satz 6 sind Vorratsbeschlüsse für Organgeschäfte nicht auf den Personenkreis gemäß Absatz 1 Satz 1 Nummer 1 bis 5 und 12 beschränkt.
 
-##### § 16
+###### § 16
 
 (aufgehoben)
 
-##### § 17 Haftungsbestimmung
+###### § 17 Haftungsbestimmung
 
 (1) Wird entgegen den Vorschriften des § 15 Kredit gewährt, so haften die Geschäftsleiter, die hierbei ihre Pflichten verletzen, und die Mitglieder des Aufsichtsorgans, die trotz Kenntnis gegen eine beabsichtigte Kreditgewährung pflichtwidrig nicht einschreiten, dem Institut als Gesamtschuldner für den entstehenden Schaden; die Geschäftsleiter und die Mitglieder des Aufsichtsorgans haben nachzuweisen, daß sie nicht schuldhaft gehandelt haben.
 
@@ -2214,7 +2445,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (3) Die Ansprüche nach Absatz 1 verjähren in fünf Jahren.
 
-##### § 18 Kreditunterlagen
+###### § 18 Kreditunterlagen
 
 Ein Kreditinstitut darf einen Kredit, der insgesamt 1 500 000 Euro oder 10 Prozent seines Kernkapitals nach Artikel 25 der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 überschreitet, nur gewähren, wenn es sich von dem Kreditnehmer die wirtschaftlichen Verhältnisse, insbesondere durch Vorlage der Jahresabschlüsse, offenlegen lässt. Das Kreditinstitut kann hiervon absehen, wenn das Verlangen nach Offenlegung im Hinblick auf die gestellten Sicherheiten oder auf die Mitverpflichteten offensichtlich unbegründet wäre. Das Kreditinstitut kann von der laufenden Offenlegung absehen, wenn
 
@@ -2232,7 +2463,7 @@ Eine Offenlegung ist nicht erforderlich bei Krediten an
 
 3. Regionalregierungen oder örtliche Gebietskörperschaften in einem anderen Staat des Europäischen Wirtschaftsraums, ein Land, eine Gemeinde, einen Gemeindeverband, ein rechtlich unselbständiges Sondervermögen eines Landes, einer Gemeinde oder eines Gemeindeverbandes oder Einrichtungen des öffentlichen Bereichs, wenn sie ungesichert ein KSA-Risikogewicht von 0 Prozent erhalten würden.
 
-##### § 18a Verbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungsermächtigung
+###### § 18a Verbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungsermächtigung
 
 (1) Die Kreditinstitute prüfen vor Abschluss eines Verbraucherdarlehensvertrags die Kreditwürdigkeit des Darlehensnehmers. Das Kreditinstitut darf den Verbraucherdarlehensvertrag nur abschließen, wenn aus der Kreditwürdigkeitsprüfung hervorgeht, dass bei einem Allgemein-Verbraucherdarlehensvertrag keine erheblichen Zweifel an der Kreditwürdigkeit bestehen und dass es bei einem Immobiliar-Verbraucherdarlehensvertrag wahrscheinlich ist, dass der Darlehensnehmer seinen Verpflichtungen, die im Zusammenhang mit dem Darlehensvertrag stehen, vertragsgemäß nachkommen wird.
 
@@ -2302,7 +2533,7 @@ Bei einem Immobiliar-Verbraucherdarlehensvertrag umfassen die Umstände, die bei
 
 (11) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die nach Absatz 6 erforderlichen Kenntnisse und Fähigkeiten der mit der Darlehensvergabe befassten internen und externen Mitarbeiter zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-##### § 19 Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18
+###### § 19 Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18
 
 (1) Kredite im Sinne des § 14 sind Bilanzaktiva, Derivate mit Ausnahme der Stillhalterverpflichtungen aus Kaufoptionen sowie die dafür übernommenen Gewährleistungen und andere außerbilanzielle Geschäfte. Bilanzaktiva im Sinne des Satzes 1 sind
 
@@ -2386,7 +2617,7 @@ Die Zusammenfassungstatbestände nach den Nummern 1 bis 3 sind kumulativ anzuwen
 
 (6) (weggefallen)
 
-##### § 20 Ausnahmen von den Verpflichtungen nach § 14
+###### § 20 Ausnahmen von den Verpflichtungen nach § 14
 
 Als Kredite im Sinne des § 14 gelten nicht:
 
@@ -2404,9 +2635,9 @@ Als Kredite im Sinne des § 14 gelten nicht:
 
 7. Verfügungen über gutgeschriebene Beträge aus dem Lastschrifteinzugsverfahren, die mit dem Vermerk „Eingang vorbehalten“ versehen werden.
 
-##### (XXXX) §§ 20a bis 20c (weggefallen)
+###### (XXXX) §§ 20a bis 20c (weggefallen)
 
-##### § 21 Begriff des Kredits für die §§ 15 bis 18
+###### § 21 Begriff des Kredits für die §§ 15 bis 18
 
 (1) Kredite im Sinne der §§ 15 bis 18 sind
 
@@ -2462,7 +2693,7 @@ a) Bareinlagen bei dem kreditgewährenden Institut oder bei einem Drittinstitut,
 
 b) Einlagenzertifikaten oder ähnlichen Papieren, die von dem kreditgewährenden Institut oder einem Drittinstitut, das Mutter- oder Tochterunternehmen des kreditgewährenden Instituts ist, ausgegeben wurden und bei diesen hinterlegt sind und die näheren Bestimmungen der Artikel 192 bis 241 der Verordnung (EU) Nr. 575/2013 zur Kreditrisikominderung erfüllt werden.
 
-##### § 22 Verordnungsermächtigung für Millionenkredite
+###### § 22 Verordnungsermächtigung für Millionenkredite
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank für Millionenkredite nähere Bestimmungen zu erlassen über
 
@@ -2484,7 +2715,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 ## 2a. Refinanzierungsregister
 
-##### § 22a Registerführendes Unternehmen
+###### § 22a Registerführendes Unternehmen
 
 (1) Ist das Refinanzierungsunternehmen ein Kreditinstitut oder eine in § 2 Absatz 1 Nummer 1, 2 oder 3a genannte Einrichtung und hat ein Unternehmen im Sinne des § 1 Absatz 24 Satz 1 Nummer 1 bis 6 einen Anspruch auf Übertragung einer Forderung des Refinanzierungsunternehmens oder eines Grundpfandrechts des Refinanzierungsunternehmens, das der Sicherung von Forderungen dient, können diese Gegenstände in ein vom Refinanzierungsunternehmen geführtes Refinanzierungsregister eingetragen werden; dies gilt entsprechend für Registerpfandrechte an einem Luftfahrzeug und für Schiffshypotheken. Für jede Refinanzierungstransaktion ist eine gesonderte Abteilung zu bilden.
 
@@ -2496,7 +2727,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (4) Die Absätze 1 bis 3 gelten sinngemäß für Refinanzierungsmittler, die Kreditinstitut oder eine in § 2 Absatz 1 Nummer 1, 2 oder 3a genannte Einrichtung sind.
 
-##### § 22b Führung des Refinanzierungsregisters für Dritte
+###### § 22b Führung des Refinanzierungsregisters für Dritte
 
 (1) Ist das Refinanzierungsunternehmen weder ein Kreditinstitut noch eine in § 2 Absatz 1 Nummer 1, 2 oder Nummer 3a genannte Einrichtung, können die in § 22a Absatz 1 Satz 1 genannten Gegenstände des Refinanzierungsunternehmens, auf deren Übertragung ein Unternehmen im Sinne des § 1 Absatz 24 Satz 1 Nummer 1 bis 6 einen Anspruch hat, in ein von einem inländischen Kreditinstitut oder von der Kreditanstalt für Wiederaufbau geführtes Refinanzierungsregister eingetragen werden. Enthält das Refinanzierungsregister daneben Gegenstände, deren Übertragung das registerführende oder ein anderes Unternehmen schuldet, so ist für jeden zur Übertragung Verpflichteten innerhalb desselben Refinanzierungsregisters eine gesonderte Abteilung und innerhalb dieser für jede Refinanzierungstransaktion eine Unterabteilung zu bilden.
 
@@ -2506,11 +2737,11 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (4) § 22a Abs. 2 und 3, auch in Verbindung mit Abs. 4, findet entsprechende Anwendung.
 
-##### § 22c Refinanzierungsmittler
+###### § 22c Refinanzierungsmittler
 
 Die §§ 22d bis 22o gelten sinngemäß für Refinanzierungsregister, die gemäß § 22a Abs. 4 von einem Refinanzierungsmittler oder gemäß § 22b Abs. 4 für einen Refinanzierungsmittler geführt werden.
 
-##### § 22d Refinanzierungsregister; Verordnungsermächtigung
+###### § 22d Refinanzierungsregister; Verordnungsermächtigung
 
 (1) Eine elektronische Führung des Refinanzierungsregisters ist zulässig, sofern sichergestellt ist, dass hinreichende Vorkehrungen gegen einen Datenverlust getroffen worden sind. Das Bundesministerium der Finanzen hat durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Einzelheiten über die Form des Refinanzierungsregisters sowie der Art und Weise der Aufzeichnung zu bestimmen. Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
@@ -2544,7 +2775,7 @@ Im Fall des Satzes 1 Nummer 1 und 4 genügt es, wenn Dritten, insbesondere dem V
 
 4. ob das registerführende Unternehmen generell bereit ist, die Registerführung in den Fällen des § 22k Absatz 2 auch für Dritte zu übernehmen.
 
-##### § 22e Bestellung des Verwalters
+###### § 22e Bestellung des Verwalters
 
 (1) Bei jedem registerführenden Unternehmen ist eine natürliche Person als Verwalter des Refinanzierungsregisters (Verwalter) zu bestellen. Das Amt erlischt mit der Beendigung der Registerführung oder der Bestellung eines personenverschiedenen Sachwalters des Refinanzierungsregisters nach § 22l Absatz 4 Satz 1, auch in Verbindung mit § 22o Absatz 2 Satz 1.
 
@@ -2558,13 +2789,13 @@ Im Fall des Satzes 1 Nummer 1 und 4 genügt es, wenn Dritten, insbesondere dem V
 
 (6) Der Verwalter und sein Stellvertreter haften dem registerführenden Unternehmen sowie den Übertragungsberechtigten aus ihrer Tätigkeit nur im Falle von Vorsatz oder grober Fahrlässigkeit. Die Ersatzpflicht des Verwalters oder des Stellvertreters beschränkt sich im Falle grob fahrlässigen Handelns auf 1 Million Euro. Sie kann nicht durch Vertrag ausgeschlossen oder beschränkt werden. Wird die Haftung des Verwalters oder des Stellvertreters durch eine Versicherung abgedeckt, ist ein Selbstbehalt in Höhe des Eineinhalbfachen der nach § 22i Absatz 1 festgesetzten jährlichen Vergütung vorzusehen. Das registerführende Unternehmen darf den Versicherungsvertrag zugunsten des Verwalters und des Stellvertreters schließen und die Prämien zahlen.
 
-##### § 22f Verhältnis des Verwalters zur Bundesanstalt
+###### § 22f Verhältnis des Verwalters zur Bundesanstalt
 
 (1) Der Verwalter hat der Bundesanstalt Auskunft über die von ihm im Rahmen seiner Tätigkeit getroffenen Feststellungen und Beobachtungen zu erteilen und auch unaufgefordert Mitteilungen zu machen, wenn Umstände auf eine nicht ordnungsgemäße Registerführung hindeuten.
 
 (2) Der Verwalter ist an Weisungen der Bundesanstalt nicht gebunden.
 
-##### § 22g Aufgaben des Verwalters
+###### § 22g Aufgaben des Verwalters
 
 (1) Der Verwalter wacht darüber, dass das Refinanzierungsregister ordnungsgemäß geführt wird. Zu seinen Aufgaben gehört es jedoch nicht zu prüfen, ob es sich bei den eingetragenen Gegenständen um solche des Refinanzierungsunternehmens oder um nach § 22d Abs. 2 eintragungsfähige Gegenstände handelt.
 
@@ -2582,7 +2813,7 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 (3) (weggefallen)
 
-##### § 22h Verhältnis des Verwalters zum registerführenden Unternehmen und zum Refinanzierungsunternehmen
+###### § 22h Verhältnis des Verwalters zum registerführenden Unternehmen und zum Refinanzierungsunternehmen
 
 (1) Der Verwalter ist befugt, jederzeit die Bücher und Papiere des registerführenden Unternehmens einzusehen, es sei denn, dass sie mit der Führung des Refinanzierungsregisters in keinem Zusammenhang stehen. In den Fällen des § 22b stehen dem Verwalter dieselben Befugnisse auch gegenüber dem Refinanzierungsunternehmen zu.
 
@@ -2590,7 +2821,7 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 (3) Streitigkeiten zwischen dem Verwalter und dem registerführenden Unternehmen oder dem davon abweichenden Refinanzierungsunternehmen entscheidet die Bundesanstalt.
 
-##### § 22i Vergütung des Verwalters
+###### § 22i Vergütung des Verwalters
 
 (1) Der Verwalter sowie sein Stellvertreter erhalten von dem registerführenden Unternehmen eine angemessene Vergütung, deren Höhe von der Bundesanstalt festgesetzt wird, und Ersatz der notwendigen Auslagen.
 
@@ -2598,7 +2829,7 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 (3) Außer in Fällen des Absatzes 1 sind Leistungen des registerführenden Unternehmens, des Refinanzierungsunternehmens, für welches das Register geführt wird, und der Übertragungsberechtigten an den Verwalter des Refinanzierungsregisters und dessen Stellvertreter unzulässig.
 
-##### § 22j Wirkungen der Eintragung in das Refinanzierungsregister
+###### § 22j Wirkungen der Eintragung in das Refinanzierungsregister
 
 (1) Gegenstände des Refinanzierungsunternehmens, die ordnungsgemäß im Refinanzierungsregister eingetragen sind, können im Fall der Insolvenz des Refinanzierungsunternehmens vom Übertragungsberechtigten nach § 47 der Insolvenzordnung ausgesondert werden. Das Gleiche gilt für Gegenstände, die an die Stelle der ordnungsgemäß im Refinanzierungsregister eingetragenen Gegenstände treten. Gegen Verfügungen im Wege der Zwangsvollstreckung oder der Arrestvollziehung kann der Übertragungsberechtigte Widerspruch im Wege der Klage nach § 771 der Zivilprozessordnung erheben.
 
@@ -2608,7 +2839,7 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 (4) Den Wirkungen der Absätze 1 bis 3 steht nicht entgegen, dass das Refinanzierungsunternehmen im Rahmen der Veräußerung der eingetragenen Gegenstände an den Übertragungsberechtigten das Risiko deren Werthaltigkeit ganz oder teilweise trägt.
 
-##### § 22k Beendigung und Übertragung der Registerführung
+###### § 22k Beendigung und Übertragung der Registerführung
 
 (1) Willigen alle im Refinanzierungsregister eingetragenen Übertragungsberechtigten und, sofern ein Übertragungsberechtigter eine Pfandbriefbank oder ein Versicherungsunternehmen ist, der Treuhänder der Pfandbriefbank oder des Versicherungsunternehmens ein, kann die Führung des Refinanzierungsregisters einen Monat nach Anzeige an die Bundesanstalt beendet werden. Willigen alle im Refinanzierungsregister eingetragenen Übertragungsberechtigten und, sofern ein Übertragungsberechtigter eine Pfandbriefbank oder ein Versicherungsunternehmen ist, der Treuhänder der Pfandbriefbank oder des Versicherungsunternehmens ein, kann die Registerführung unter Aufsicht der Bundesanstalt auf ein geeignetes Kreditinstitut übertragen werden, sofern es sich bei den eingetragenen Gegenständen um solche des die Registerführung übernehmenden Kreditinstituts handelt oder die Voraussetzungen des § 22b über die Führung des Refinanzierungsregisters für Dritte vorliegen.
 
@@ -2618,7 +2849,7 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 (3) Absatz 2 findet keine Anwendung, wenn über das Vermögen eines Unternehmens, das ein Refinanzierungsregister nicht nur für Dritte führt, das Insolvenzverfahren eröffnet wird.
 
-##### § 22l Bestellung des Sachwalters bei Eröffnung des Insolvenzverfahrens
+###### § 22l Bestellung des Sachwalters bei Eröffnung des Insolvenzverfahrens
 
 (1) Ist über das Vermögen eines Unternehmens, das keine in § 2 Absatz 1 Nummer 1, 2 oder 3a genannte Einrichtung ist und ein Refinanzierungsregister nicht nur für Dritte führt, das Insolvenzverfahren eröffnet, bestellt das Insolvenzgericht auf Antrag der Bundesanstalt eine oder zwei von der Bundesanstalt vorgeschlagene natürliche Personen als Sachwalter des Refinanzierungsregisters (Sachwalter). Wird das Insolvenzverfahren über das Vermögen eines Refinanzierungsunternehmens eröffnet, das ein Kreditinstitut ist und für das ein Refinanzierungsregister durch Dritte geführt wird, gilt Satz 1 mit der Maßgabe entsprechend, dass der Sachwalter auf Antrag der Bundesanstalt bei dem Refinanzierungsunternehmen zu bestellen ist. Das Gericht kann vom Vorschlag der Bundesanstalt abweichen, wenn dies zur Sicherstellung einer sachgerechten Zusammenarbeit zwischen Insolvenzverwalter und Sachwalter erforderlich erscheint. Der Sachwalter erhält eine Urkunde über seine Ernennung, die er bei Beendigung seines Amtes dem Insolvenzgericht zurückzugeben hat.
 
@@ -2628,13 +2859,13 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 (4) Mit der Bestellung einer anderen Person als der des Verwalters zum Sachwalter erlischt das Amt des Verwalters. Das Amt wird von dem bei dem registerführenden Unternehmen bestellten Sachwalter des Refinanzierungsregisters fortgeführt. Die Sätze 1 und 2 gelten entsprechend für die Stellvertreter des Verwalters.
 
-##### § 22m Bekanntmachung der Bestellung des Sachwalters
+###### § 22m Bekanntmachung der Bestellung des Sachwalters
 
 (1) Das Insolvenzgericht hat die Ernennung und Abberufung des Sachwalters unverzüglich dem zuständigen Registergericht mitzuteilen und öffentlich bekannt zu machen. Die Ernennung und Abberufung des Sachwalters sind auf die Mitteilung von Amts wegen in das Handelsregister einzutragen. Die Vorschriften des § 15 des Handelsgesetzbuchs finden keine Anwendung.
 
 (2) Sind in das Refinanzierungsregister Rechte des Refinanzierungsunternehmens eingetragen, für die eine Eintragung im Grundbuch besteht, so ist die Bestellung des Sachwalters beim Refinanzierungsunternehmen auf Ersuchen des Insolvenzgerichts oder des Sachwalters in das Grundbuch einzutragen, wenn nach der Art der Rechte und den Umständen zu besorgen ist, dass ohne die Eintragung die Interessen der Übertragungsberechtigten gefährdet werden. Satz 1 gilt entsprechend für Rechte des Refinanzierungsunternehmens, die im Schiffsregister, Schiffsbauregister oder im Register für Pfandrechte an Luftfahrzeugen eingetragen sind.
 
-##### § 22n Aufgaben und Rechtsstellung des Sachwalters
+###### § 22n Aufgaben und Rechtsstellung des Sachwalters
 
 (1) Aufgabe des Sachwalters ist die Vornahme der zum Vollzug der Übertragung der in das Register eingetragenen Vermögensgegenstände des Refinanzierungsunternehmens, auf deren Übertragung ein Übertragungsberechtigter einen Anspruch hat, auf den jeweiligen Übertragungsberechtigten erforderlichen Rechtshandlungen. Bis zu einem solchen Vollzug hat er die eingetragenen Gegenstände zu verwalten, zugehörige Forderungen einzuziehen und Erlöse der eingetragenen Gegenstände entsprechend den bestehenden Vereinbarungen an den Übertragungsberechtigten auszukehren.
 
@@ -2648,7 +2879,7 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 (5) Der bei einem Kreditinstitut bestellte Sachwalter des Refinanzierungsregisters erhält von der Bundesanstalt eine angemessene Vergütung und Ersatz seiner Aufwendungen. Die gezahlten Beträge sind der Bundesanstalt von den Übertragungsberechtigten noch nicht abgewickelter Refinanzierungstransaktionen anteilig nach dem Wert der für sie eingetragenen Gegenstände gesondert zu erstatten und auf Verlangen der Bundesanstalt vorzuschießen. Soweit das Refinanzierungsregister für Dritte geführt wird, sind diese neben den Übertragungsberechtigten als Gesamtschuldner zur Erstattung und zum Vorschuss verpflichtet. § 22i Absatz 3 gilt sinngemäß.
 
-##### § 22o Bestellung des Sachwalters bei Insolvenzgefahr
+###### § 22o Bestellung des Sachwalters bei Insolvenzgefahr
 
 (1) Unter den Voraussetzungen des § 46 bestellt das Gericht auf Antrag der Bundesanstalt eine oder zwei Personen als Sachwalter. Die Bundesanstalt stellt einen Antrag nach Satz 1, wenn dies zur ordnungsgemäßen Verwaltung der im Refinanzierungsregister eingetragenen Gegenstände erforderlich erscheint. Für alle die Ernennung und Rechtsstellung des Sachwalters betreffenden gerichtlichen Entscheidungen richtet sich die Zuständigkeit nach den §§ 2 und 3 der Insolvenzordnung. Die Entscheidungen ergehen durch Beschluss. Für das Verfahren gelten die §§ 4, 5 Absatz 1 und 3 und § 6 Absatz 1 Satz 2 und Absatz 2 und 3 der Insolvenzordnung entsprechend. Gegen Entscheidungen des Gerichts steht der Bundesanstalt, dem Sachwalter sowie dem Refinanzierungsunternehmen die sofortige Beschwerde zu.
 
@@ -2658,31 +2889,31 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 ## 3. Kundenrechte
 
-##### § 22p (weggefallen)
+###### § 22p (weggefallen)
 
 -
 
 ## 4. Werbung und Hinweispflichten der Institute
 
-##### § 23 Werbung
+###### § 23 Werbung
 
 (1) Um Missständen bei der Werbung der Institute zu begegnen, kann die Bundesanstalt bestimmte Arten der Werbung untersagen. Ein Missstand liegt insbesondere vor, wenn Werbung für Verbraucherdarlehensverträge falsche Erwartungen in Bezug auf die Möglichkeit, ein Darlehen zu erhalten oder in Bezug auf die Kosten eines Darlehens weckt.
 
 (2) Vor allgemeinen Maßnahmen nach Absatz 1 sind die Spitzenverbände der Institute und des Verbraucherschutzes zu hören.
 
-##### § 23a Sicherungseinrichtung
+###### § 23a Sicherungseinrichtung
 
 (1) Ein Institut, das Bankgeschäfte im Sinne des § 1 Abs. 1 Satz 2 Nr. 1, 4 oder 10 betreibt oder Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 Nr. 1 bis 4 erbringt, hat Kunden, die nicht Institute sind, im Preisaushang über die Zugehörigkeit zu einer Einrichtung zur Sicherung der Ansprüche von Einlegern und Anlegern (Sicherungseinrichtung) zu informieren. Das Institut hat ferner Kunden, die nicht Institute sind, vor Aufnahme der Geschäftsbeziehung in Textform in leicht verständlicher Form, soweit nicht die Sätze 3 bis 10 anzuwenden sind, über die für die Sicherung geltenden Bestimmungen einschließlich Umfang und Höhe der Sicherung zu informieren. Die Einleger bestätigen in Bezug auf ihre Ansprüche aus § 5 des Einlagensicherungsgesetzes den Empfang dieser Informationen auf dem im Anhang I dieses Gesetzes enthaltenen Informationsbogen. Die Bestätigung, dass es sich bei den Einlagen um entschädigungsfähige Einlagen handelt, erhalten die Einleger auf ihren Kontoauszügen, einschließlich eines Verweises auf den Informationsbogen in Anhang I. Die Internetseite des einschlägigen Einlagensicherungssystems wird auf dem Informationsbogen angegeben. Der in Anhang I festgelegte Informationsbogen wird dem Einleger mindestens einmal jährlich zur Verfügung gestellt. Nutzt ein Einleger das Internetbanking, so können ihm die Informationen elektronisch übermittelt werden. Auf Wunsch des Einlegers werden sie in Papierform zur Verfügung gestellt. Die dem Einleger gewährten Informationen dürfen für Werbezwecke nur auf das Einlagensicherungssystem und seine Funktionsweise hinweisen. § 3 Absatz 2 des Einlagensicherungsgesetzes gilt entsprechend. Sofern Einlagen und andere rückzahlbare Gelder nicht gesichert sind, hat das Institut auf diese Tatsache in den Allgemeinen Geschäftsbedingungen, im Preisaushang und an hervorgehobener Stelle in den Vertragsunterlagen vor Aufnahme der Geschäftsbeziehung hinzuweisen, es sei denn, die rückzahlbaren Gelder sind in Pfandbriefen, Kommunalschuldverschreibungen oder anderen Schuldverschreibungen, welche die Voraussetzungen des Artikels 52 Absatz 4 Satz 1 und 2 der Richtlinie 2009/65/EG in der Fassung vom 27. November 2019 erfüllen, verbrieft. Die Informationen in den Vertragsunterlagen gemäß Satz 11 dürfen keine anderen Erklärungen enthalten und sind gesondert von den Kunden zu bestätigen. Die Sätze 7 und 8 gelten entsprechend. Außerdem müssen auf Anfrage Informationen über die Bedingungen der Sicherung einschließlich der für die Geltendmachung der Entschädigungsansprüche erforderlichen Formalitäten erhältlich sein.
 
 (2) Scheidet ein Institut aus einer Sicherungseinrichtung aus, hat es die Kunden, die nicht Institute sind, sowie die Bundesanstalt und die Deutsche Bundesbank hierüber unverzüglich in Textform zu unterrichten.
 
-## 5. Besondere Pflichten der Institute, ihrer Geschäftsleiter sowie der Finanzholding-Gesellschaften, der gemischten Finanzholding-Gesellschaften und der gemischten Holdinggesellschaften
+## 5. Besondere Pflichten
 
-##### § 24 Anzeigen; Verordnungsermächtigung
+###### § 24 Anzeigen; Verordnungsermächtigung
 
-(1) Ein Institut hat der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen
+(1) Ein Institut hat unverzüglich anzuzeigen
 
-1. die Absicht der Bestellung eines Geschäftsleiters oder eines bestellten Vertreters des Geschäftsleiters, der im Fall der Verhinderung eines Geschäftsleiters dessen Funktion ausüben soll, sowie die Absicht der Ermächtigung einer Person zur Einzelvertretung des Instituts in dessen gesamtem Geschäftsbereich, jeweils unter Angabe der Tatsachen, die für die Beurteilung der Zuverlässigkeit, der fachlichen Eignung und der ausreichenden zeitlichen Verfügbarkeit für die Wahrnehmung der jeweiligen Aufgaben wesentlich sind, und des Ergebnisses der Beurteilung dieser Kriterien durch das anzeigende Institut, sowie den Vollzug, die Aufgabe oder die Änderung einer solchen Absicht; neue Tatsachen, die sich auf die ursprüngliche Beurteilung der Zuverlässigkeit, der fachlichen Eignung und der ausreichenden zeitlichen Verfügbarkeit erheblich auswirken, sind ebenfalls unverzüglich nach Kenntniserlangung anzuzeigen;
+1. die Absicht der Bestellung eines Geschäftsleiters oder eines bestellten Vertreters des Geschäftsleiters, der im Fall der Verhinderung eines Geschäftsleiters dessen Funktion ausüben soll, sowie die Absicht der Ermächtigung einer Person zur Einzelvertretung des Instituts in dessen gesamtem Geschäftsbereich, jeweils unter Angabe der Tatsachen, die für die Beurteilung der Zuverlässigkeit, der fachlichen Eignung und der ausreichenden zeitlichen Verfügbarkeit für die Wahrnehmung der jeweiligen Aufgaben wesentlich sind, und des Ergebnisses der Beurteilung dieser Kriterien durch das anzeigende Institut, sowie den Vollzug, die Aufgabe oder die Änderung einer solchen Absicht; handelt es sich um einen Geschäftsleiter eines großen Unternehmens im Sinne des § 1 Absatz 1c, hat die Anzeige der Absicht der Bestellung spätestens 30 Arbeitstage vor der Übernahme der Funktion zu erfolgen;
 
 2. das Ausscheiden eines Geschäftsleiters oder bestellten Vertreters des Geschäftsleiters, der im Fall der Verhinderung eines Geschäftsleiters dessen Funktion ausüben soll, sowie die Entziehung der Befugnis zur Einzelvertretung des Instituts in dessen gesamtem Geschäftsbereich;
 
@@ -2714,11 +2945,13 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 14b. unter Vorlage eines Auszugs aus der Versammlungsniederschrift den Beschluss über die Änderung eines Beschlusses über die Billigung einer höheren variablen Vergütung nach § 25a Absatz 5 Satz 5 einschließlich der Angabe aller gebilligten, über das Verhältnis gemäß § 25a Absatz 5 Satz 2 hinausgehenden Höchstwerte;
 
-15. die Bestellung eines Mitglieds und stellvertretender Mitglieder des Verwaltungs- oder Aufsichtsorgans unter Angabe der Tatsachen, die zur Beurteilung ihrer Zuverlässigkeit, Sachkunde und der ausreichenden zeitlichen Verfügbarkeit für die Wahrnehmung ihrer Aufgaben notwendig sind; neue Tatsachen, die sich auf die ursprüngliche Beurteilung der Zuverlässigkeit, der fachlichen Eignung und der ausreichenden zeitlichen Verfügbarkeit erheblich auswirken, sind ebenfalls unverzüglich nach Kenntniserlangung anzuzeigen;
+15. die Bestellung eines Mitglieds und stellvertretender Mitglieder des Verwaltungs- oder Aufsichtsorgans unter Angabe der Tatsachen, die zur Beurteilung ihrer Zuverlässigkeit, Sachkunde und der ausreichenden zeitlichen Verfügbarkeit für die Wahrnehmung ihrer Aufgaben notwendig sind; soll die im ersten Halbsatz bezeichnete Person oder ein bereits bestelltes Mitglied die Funktion des Vorsitzenden des Verwaltungs- oder Aufsichtsorgans in einem großen Unternehmen im Sinne des § 1 Absatz 1c wahrnehmen, ist dies unter Angabe der im ersten Halbsatz genannten Tatsachen spätestens 30 Arbeitstage vor der Übernahme der Funktion anzuzeigen; § 25d Absatz 2 Satz 2 und 3 gilt entsprechend;
 
 15a. das Ausscheiden eines Mitglieds und stellvertretender Mitglieder des Verwaltungs- oder Aufsichtsorgans;
 
-16. (weggefallen)
+15b. bei großen Unternehmen im Sinne des § 1 Absatz 1c die Ernennung von Inhabern besonderer Schlüsselfunktionen unter Angabe der Tatsachen, die für die Beurteilung der Zuverlässigkeit und der fachlichen Eignung für die Wahrnehmung ihrer Aufgaben notwendig sind;
+
+16. bei großen Unternehmen im Sinne des § 1 Absatz 1c die Abberufung von Inhabern besonderer Schlüsselfunktionen, einschließlich einer gemäß § 25c Absatz 4a Nummer 3 Buchstabe i erforderlichen Zustimmung des Verwaltungs- oder Aufsichtsorgans;
 
 17. Kredite
 
@@ -2732,7 +2965,7 @@ b) an Personen, die Kapital, soweit es sich nicht um Kapital nach Buchstabe a ha
 
 20. das Absinken der Verschuldungsquote unter die Mindesteigenmittelanforderung nach Artikel 92 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025, die Unterschreitung der zusätzlichen Eigenmittelanforderungen zur Absicherung gegen Risiken einer übermäßigen Verschuldung nach § 6c sowie nach § 10 Absatz 3 und 4 und die Unterschreitung des Puffers der Verschuldungsquote nach Artikel 92 Absatz 1a der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025.
 
-(1a) Ein Institut hat der Aufsichtsbehörde und der Deutschen Bundesbank jährlich anzuzeigen:
+(1a) Ein Institut hat jährlich anzuzeigen:
 
 1. seine engen Verbindungen zu anderen natürlichen Personen oder Unternehmen,
 
@@ -2764,39 +2997,43 @@ d) ein CRR-Kreditinstitut, das von der Aufsichtsbehörde oder der Deutschen Bund
 
 (1e) Ein CRR-Kreditinstitut, das bedeutend im Sinne des § 1 Absatz 3c ist oder das von der Aufsichtsbehörde oder der Deutschen Bundesbank dazu aufgefordert wurde, hat dreijährlich die für einen Vergleich der Diversität in den Instituten nach Artikel 91 Absatz 9 in Verbindung mit Artikel 75 Absatz 1 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 erforderlichen Informationen anzuzeigen.
 
+(1f) Ein CRR-Kreditinstitut hat die geplante wesentliche Übertragung von Vermögenswerten oder Verbindlichkeiten unverzüglich im Voraus anzuzeigen, wobei jedes Unternehmen, das an der geplanten Übertragung beteiligt ist, anzeigepflichtig ist. Die Anzeigepflicht gilt auch, soweit an der Übertragung nur Unternehmen derselben Gruppe beteiligt sind. Die Aufsichtsbehörde bestätigt umgehend, in jedem Fall jedoch innerhalb von zehn Arbeitstagen nach Erhalt der Anzeige nach Satz 1 in Textform deren Eingang. Ein CRR-Kreditinstitut hat der Aufsichtsbehörde und der Deutschen Bundesbank die beabsichtigte direkte oder indirekte Veräußerung einer wesentlichen Beteiligung im Sinne des § 1 Absatz 9b unter Angabe ihres Umfangs im Voraus anzuzeigen.
+
 (2) Hat ein Institut die Absicht, sich mit einem anderen Institut im Sinne dieses Gesetzes, einem Wertpapierinstitut im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes, einem E-Geld-Institut im Sinne des Zahlungsdiensteaufsichtsgesetzes, einem Zahlungsinstitut im Sinne des Zahlungsdiensteaufsichtsgesetzes oder einem Institut im Sinne des § 2 Absatz 4 des Kryptomärkteaufsichtsgesetzes zu vereinigen, hat es dies der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen.
 
-(2a) Ein Mitglied eines Verwaltungs- oder Aufsichtsorgans eines CRR-Kreditinstituts, das bedeutend im Sinne des § 1 Absatz 3c ist, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft hat der Aufsichtsbehörde und der Deutschen Bundesbank die Aufnahme und die Beendigung einer Tätigkeit als Geschäftsleiter oder als Aufsichtsrats- oder Verwaltungsratsmitglied eines anderen Unternehmens unverzüglich anzuzeigen.
+(2a) Unternehmen haben neue Tatsachen nach Kenntniserlangung unverzüglich anzuzeigen, die sich auf die ursprüngliche Beurteilung der Zuverlässigkeit, der fachlichen Eignung, der Sachkunde oder der ausreichenden zeitlichen Verfügbarkeit der nach dieser Vorschrift anzuzeigenden Geschäftsleiter, Mitglieder von Verwaltungs- und Aufsichtsorganen sowie Inhaber besonderer Schlüsselfunktionen großer Unternehmen erheblich auswirken. Die Geschäftsleiter und Mitglieder von Verwaltungs- und Aufsichtsorganen haben hierbei mitzuwirken, insbesondere ist die Aufnahme und die Beendigung einer Tätigkeit als Geschäftsleiter oder als Aufsichtsrats- oder Verwaltungsratsmitglied eines anderen Unternehmens anzuzeigen.
 
-(3) Ein Geschäftsleiter eines Instituts und die Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen, haben der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen
+(3) Ein Geschäftsleiter eines Instituts, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft hat unverzüglich die Übernahme und die Aufgabe einer unmittelbaren Beteiligung an einem Unternehmen sowie Veränderungen in der Höhe der Beteiligung anzuzeigen. Als unmittelbare Beteiligung gilt das Halten von mindestens 25 Prozent der Anteile am Kapital des Unternehmens.
 
-1. die Aufnahme und die Beendigung einer Tätigkeit als Geschäftsleiter oder als Aufsichtsrats- oder Verwaltungsratsmitglied eines anderen Unternehmens und
+(3a) Eine Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft hat unverzüglich anzuzeigen:
 
-2. die Übernahme und die Aufgabe einer unmittelbaren Beteiligung an einem Unternehmen sowie Veränderungen in der Höhe der Beteiligung.
+1. die Absicht der Bestellung eines Geschäftsleiters unter Angabe der Tatsachen, die für die Beurteilung der Zuverlässigkeit, der fachlichen Eignung und der ausreichenden zeitlichen Verfügbarkeit für die Wahrnehmung seiner Aufgaben wesentlich sind, und des Ergebnisses der Beurteilung dieser Kriterien durch die anzeigende Finanzholding-Gesellschaft, sowie den Vollzug einer solchen Absicht; handelt es sich um einen Geschäftsleiter eines großen Unternehmens im Sinne des § 1 Absatz 1c, hat die Anzeige der Absicht der Bestellung spätestens 30 Arbeitstage vor der Übernahme der Funktion zu erfolgen;
 
-Als unmittelbare Beteiligung im Sinne des Satzes 1 Nr. 2 gilt das Halten von mindestens 25 vom Hundert der Anteile am Kapital des Unternehmens.
-
-(3a) Eine Finanzholding-Gesellschaft hat der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen:
-
-1. die Absicht der Bestellung einer Person, die die Geschäfte der Finanzholding-Gesellschaft tatsächlich führen soll, unter Angabe der Tatsachen, die für die Beurteilung der Zuverlässigkeit, der fachlichen Eignung und der ausreichenden zeitlichen Verfügbarkeit für das Wahrnehmen seiner Aufgaben wesentlich sind, und des Ergebnisses der Beurteilung dieser Kriterien durch die anzeigende Finanzholding-Gesellschaft, sowie den Vollzug einer solchen Absicht; neue Tatsachen, die sich auf die ursprüngliche Beurteilung der Zuverlässigkeit, der fachlichen Eignung und der ausreichenden zeitlichen Verfügbarkeit erheblich auswirken, sind ebenfalls unverzüglich nach Kenntniserlangung anzuzeigen;
-
-2. das Ausscheiden einer Person, die die Geschäfte der Finanzholding-Gesellschaft tatsächlich geführt hat;
+2. das Ausscheiden eines Geschäftsleiters;
 
 3. Änderungen der Struktur der Finanzholding-Gruppe in der Weise, dass die Gruppe künftig branchenübergreifend tätig wird;
 
-4. die Bestellung eines Mitglieds und stellvertretender Mitglieder des Verwaltungs- oder Aufsichtsorgans unter Angabe der Tatsachen, die zur Beurteilung ihrer Zuverlässigkeit, Sachkunde und der ausreichenden zeitlichen Verfügbarkeit für die Wahrnehmung ihrer Aufgaben notwendig sind; neue Tatsachen, die sich auf die ursprüngliche Beurteilung der Zuverlässigkeit, der fachlichen Eignung und der ausreichenden zeitlichen Verfügbarkeit erheblich auswirken, sind ebenfalls unverzüglich nach Kenntniserlangung anzuzeigen;
+4. die Bestellung eines Mitglieds und stellvertretender Mitglieder des Verwaltungs- oder Aufsichtsorgans unter Angabe der Tatsachen, die zur Beurteilung ihrer Zuverlässigkeit, Sachkunde und der ausreichenden zeitlichen Verfügbarkeit für die Wahrnehmung ihrer Aufgaben notwendig sind; soll die im ersten Halbsatz bezeichnete Person die Funktion des Vorsitzenden des Verwaltungs- oder Aufsichtsorgans in einem großen Unternehmen im Sinne des § 1 Absatz 1c wahrnehmen, ist dies unter Angabe der im ersten Halbsatz genannten Tatsachen spätestens 30 Arbeitstage vor der Übernahme der Funktion anzuzeigen; § 25d Absatz 2 Satz 2 und 3 gilt entsprechend;
 
-5. das Ausscheiden eines Mitglieds und stellvertretender Mitglieder des Verwaltungs- oder Aufsichtsorgans.
+5. das Ausscheiden eines Mitglieds und stellvertretender Mitglieder des Verwaltungs- oder Aufsichtsorgans;
 
-Eine Finanzholding-Gesellschaft hat der Aufsichtsbehörde und der Deutschen Bundesbank ferner einmal jährlich eine Sammelanzeige der Institute, Kapitalverwaltungsgesellschaften, Finanzunternehmen, Anbieter von Nebendienstleistungen und Zahlungsinstitute im Sinne des Zahlungsdiensteaufsichtsgesetzes, die ihr nachgeordnete Unternehmen im Sinne des § 10a sind, einzureichen. Die Aufsichtsbehörde übermittelt den zuständigen Stellen der anderen Staaten des Europäischen Wirtschaftsraums, der Europäischen Bankenaufsichtsbehörde und der Europäischen Kommission eine Aufstellung über die eingegangenen Sammelanzeigen nach Satz 2. Die Begründung, die Veränderung oder die Aufgabe solcher Beteiligungen oder Unternehmensbeziehungen sind der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen. Für eine gemischte Finanzholding-Gesellschaft gelten Satz 1 Nummer 1 und 2 hinsichtlich der Personen, die die Geschäfte tatsächlich führen sollen und Satz 1 Nummer 4 und 5 hinsichtlich der Mitglieder des Verwaltungs- und Aufsichtsorgans dieser Gesellschaft sowie die Sätze 2 bis 4 entsprechend.
+6. bei großen Unternehmen im Sinne des § 1 Absatz 1c die Ernennung von Inhabern besonderer Schlüsselfunktionen unter Angabe der Tatsachen, die für die Beurteilung der Zuverlässigkeit und der fachlichen Eignung für die Wahrnehmung ihrer Aufgaben notwendig sind;
 
-(3b) Die Bundesanstalt und die Deutsche Bundesbank können Instituten oder Arten oder Gruppen von Instituten zusätzliche Anzeige- und Meldepflichten auferlegen, insbesondere um vertieften Einblick in die Entwicklung der wirtschaftlichen Verhältnisse der Institute, deren Grundsätze einer ordnungsgemäßen Geschäftsführung und in die Fähigkeiten der Mitglieder der Organe des Instituts zu erhalten, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt und der Deutschen Bundesbank erforderlich ist. Zusätzliche Anzeige- und Meldepflichten nach Satz 1 dürfen nur auferlegt werden, wenn die Anordnung für den Zweck, für den die Angaben erforderlich sind, verhältnismäßig ist und die verlangten Angaben nicht schon vorhanden sind.
+7. bei großen Unternehmen im Sinne des § 1 Absatz 1c die Abberufung von Inhabern besonderer Schlüsselfunktionen;
 
-(3c) Soweit die Europäische Zentralbank Aufsichtsbehörde ist, sind die Anzeigen nach den Absätzen 1 bis 3a auch gegenüber der Bundesanstalt abzugeben. Die Anzeigen gemäß Absatz 1 Nummer 1, 2, 15 und 15a sowie Absatz 3a Satz 1 Nummer 1, 2, 4 und 5 sind nur gegenüber der Bundesanstalt und der Deutschen Bundesbank abzugeben.
+8. die geplante wesentliche Übertragung von Vermögenswerten oder Verbindlichkeiten im Voraus der Übertragung, wobei jedes Unternehmen, das an der geplanten Übertragung beteiligt ist, auf Einzelbasis anzeigepflichtig ist; die Anzeigepflicht gilt auch, wenn an der Übertragung nur Unternehmen derselben Gruppe beteiligt sind; die Aufsichtsbehörde bestätigt umgehend, spätestens jedoch innerhalb von zehn Arbeitstagen nach Erhalt der Anzeige in Textform deren Eingang, und
+
+9. die beabsichtigte direkte oder indirekte Veräußerung einer wesentlichen Beteiligung im Sinne des § 1 Absatz 9b unter Angabe ihres Umfangs.
+
+Das einer Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe im Sinne des § 10a Absatz 2 übergeordnete Unternehmen hat ferner einmal jährlich in einer Sammelanzeige die gruppenangehörigen Unternehmen anzuzeigen. Die Aufsichtsbehörde übermittelt den zuständigen Stellen der anderen Staaten des Europäischen Wirtschaftsraums, der Europäischen Bankenaufsichtsbehörde und der Europäischen Kommission eine Aufstellung über die eingegangenen Sammelanzeigen nach Satz 2. Die Begründung, die Veränderung oder die Aufgabe solcher Beteiligungen oder Unternehmensbeziehungen sind der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen.
+
+(3b) Die Bundesanstalt und die Deutsche Bundesbank können Instituten oder Arten oder Gruppen von Instituten zusätzliche Anzeige- und Meldepflichten auferlegen, insbesondere um vertieften Einblick in die Entwicklung der wirtschaftlichen Verhältnisse der Institute, deren Grundsätze einer ordnungsgemäßen Geschäftsführung und in die Fähigkeiten der Mitglieder der Organe des Instituts zu erhalten, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt und der Deutschen Bundesbank erforderlich ist. Zusätzliche Anzeige- und Meldepflichten nach Satz 1 dürfen nur auferlegt werden, wenn die Anordnung für den Zweck, für den die Angaben erforderlich sind, verhältnismäßig ist und die verlangten Angaben nicht schon vorhanden sind. Instituten, bei denen die Voraussetzungen des § 45 Absatz 1, des § 45a Absatz 1, des § 45b Absatz 1 oder des § 46 Absatz 1 Satz 1 vorliegen, kann die Bundesanstalt auferlegen, Anzeigen nach Absatz 1 Nummer 1 und Absatz 3a Nummer 1 bis zu 30 Arbeitstage vor Übernahme der Position einzureichen.
+
+(3c) Zum Empfang und zur Nutzung der in dieser Vorschrift geregelten Anzeigen sind die Bundesanstalt, die Deutsche Bundesbank, die Europäische Zentralbank, soweit sie Aufsichtsbehörde ist, und die Europäische Bankenaufsichtsbehörde, soweit sie in diesem Gesetz oder der Rechtsverordnung nach Absatz 4 dazu bestimmt ist, berechtigt. Soweit in der Rechtsverordnung nach Absatz 4 keine Empfängerin bestimmt wird, sind die Anzeigen an die Aufsichtsbehörde und die Deutsche Bundesbank zu richten.
 
 (3d) (weggefallen)
 
-(3e) Bei Anzeigen nach Absatz 1 Nummer 1 und 15 sowie Absatz 3a Satz 1 Nummer 1 und 4 kann die Aufsichtsbehörde zur Beurteilung der Zuverlässigkeit, der fachlichen Eignung oder der Sachkunde und der ausreichenden zeitlichen Verfügbarkeit auch Interviews mit den angezeigten Personen führen.
+(3e) Bei Anzeigen nach Absatz 1 Nummer 1, 15 und 15b sowie Absatz 3a Satz 1 Nummer 1, 4 und 6 kann die Aufsichtsbehörde zur Beurteilung der Zuverlässigkeit, der fachlichen Eignung oder der Sachkunde und der ausreichenden zeitlichen Verfügbarkeit auch Interviews mit den angezeigten Personen führen.
 
 (3f) Ein CRR-Kreditinstitut oder das übergeordnete Unternehmen einer Institutsgruppe, einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe, der ein CRR-Kreditinstitut angehört, hat der Bundesanstalt unverzüglich das Erreichen und das erneute Unterschreiten eines Schwellenwertes nach § 3 Absatz 2 Satz 1 anzuzeigen.
 
@@ -2816,7 +3053,7 @@ Eine Finanzholding-Gesellschaft hat der Aufsichtsbehörde und der Deutschen Bund
 
 erlassen und die bestehenden Anzeigepflichten durch die Verpflichtung zur Erstattung von Sammelanzeigen und die Einreichung von Sammelaufstellungen ergänzen, insbesondere um einheitliche Unterlagen zur Beurteilung der von den Instituten durchgeführten Bankgeschäfte und Finanzdienstleistungen zu erhalten. In der Rechtsverordnung können ebenfalls nähere Bestimmungen für die Führung eines öffentlichen Registers durch die Bundesanstalt sowie über die Zugriffsmöglichkeiten auf Seiten dieses Registers und die Zuweisung von Verantwortung für die Richtigkeit und Aktualität der Seiten erlassen werden. Es kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass Rechtsverordnungen der Bundesanstalt im Einvernehmen mit der Deutschen Bundesbank ergehen. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
 
-##### § 24a Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums
+###### § 24a Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums
 
 (1) Ein CRR-Kreditinstitut hat der Bundesanstalt und der Deutschen Bundesbank unverzüglich nach Maßgabe des Satzes 2 die Absicht anzuzeigen, in einem anderen Staat des Europäischen Wirtschaftsraums
 
@@ -2864,7 +3101,7 @@ Besteht kein Grund, die Angemessenheit der Organisationsstruktur und der Finanzl
 
 (6) (weggefallen)
 
-##### § 24b Teilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen
+###### § 24b Teilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen
 
 (1) Ein Institut hat die Absicht, ein System nach § 1 Abs. 16 zu betreiben, unverzüglich der Bundesanstalt und der Deutschen Bundesbank anzuzeigen und die Teilnehmer zu benennen. Dies gilt auch für eine spätere Änderung des Teilnehmerkreises sowie für Vereinbarungen über den Betrieb interoperabler Systeme. Die Deutsche Bundesbank teilt die ihr gemeldeten Systeme der Europäischen Wertpapier- und Marktaufsichtsbehörde mit, nachdem sie sich von der Zweckdienlichkeit der Regeln des Systems überzeugt hat. Im Fall einer Vereinbarung über den Betrieb interoperabler Systeme prüft die Deutsche Bundesbank, ob die Regeln der beteiligten Systeme über den Zeitpunkt des Einbringens und der Unwiderruflichkeit von Aufträgen miteinander vereinbar sind.
 
@@ -2876,7 +3113,7 @@ Besteht kein Grund, die Angemessenheit der Organisationsstruktur und der Finanzl
 
 (5) Auf Systembetreiber, die nicht Institut sind, sind die Absätze 1 bis 4 entsprechend anzuwenden.
 
-##### § 24c Automatisierter Abruf von Kontoinformationen
+###### § 24c Automatisierter Abruf von Kontoinformationen
 
 (1) Ein Kreditinstitut hat ein Dateisystem zu führen, in dem unverzüglich folgende Daten zu speichern sind:
 
@@ -2934,7 +3171,7 @@ Bei jedem Abruf zum Zweck der Auskunftserteilung auf Ersuchen nach Absatz 3 prot
 
 (8) Soweit die Deutsche Bundesbank Konten und Depots für Dritte führt, gilt sie als Kreditinstitut nach den Absätzen 1, 5 und 6.
 
-##### § 25 Finanzinformationen, Informationen zur Risikotragfähigkeit und zur Liquiditätssteuerung, Refinanzierungspläne; Verordnungsermächtigung
+###### § 25 Finanzinformationen, Informationen zur Risikotragfähigkeit und zur Liquiditätssteuerung, Refinanzierungspläne; Verordnungsermächtigung
 
 (1) Ein Institut hat unverzüglich nach Ablauf eines jeden Quartals der Deutschen Bundesbank Informationen zu seiner finanziellen Situation (Finanzinformationen) einzureichen. Ein Kreditinstitut hat außerdem unverzüglich einmal jährlich zu einem von der Bundesanstalt festgelegten Stichtag der Deutschen Bundesbank einzureichen:
 
@@ -2958,23 +3195,25 @@ Die Bundesanstalt bestimmt den Kreis der nach Satz 2 Nummer 3 einreichungspflich
 
 Die Angaben können sich auch auf nachgeordnete Unternehmen im Sinne des § 10a sowie auf Tochterunternehmen mit Sitz im Inland oder Ausland, die nicht in die Beaufsichtigung auf zusammengefasster Basis einbezogen sind, sowie auf gemischte Holdinggesellschaften mit nachgeordneten Instituten beziehen; die gemischten Holdinggesellschaften haben den Instituten die erforderlichen Angaben zu übermitteln. Das Bundesministerium der Finanzen kann die Ermächtigung zum Erlass einer Rechtsverordnung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
 
-##### § 25a Besondere organisatorische Pflichten, Bestimmungen für Risikoträger; Verordnungsermächtigung
+###### § 25a Besondere organisatorische Pflichten, Bestimmungen für Risikoträger; Verordnungsermächtigung
 
-(1) Ein Institut muss über eine ordnungsgemäße Geschäftsorganisation verfügen, die die Einhaltung der vom Institut zu beachtenden gesetzlichen Bestimmungen und der betriebswirtschaftlichen Notwendigkeiten gewährleistet. Die Geschäftsleiter sind für die ordnungsgemäße Geschäftsorganisation des Instituts verantwortlich; sie haben die erforderlichen Maßnahmen für die Ausarbeitung der entsprechenden institutsinternen Vorgaben zu ergreifen, sofern nicht das Verwaltungs- oder Aufsichtsorgan entscheidet. Eine ordnungsgemäße Geschäftsorganisation muss insbesondere eine solide Unternehmensführung sowie ein angemessenes und wirksames Risikomanagement umfassen, auf dessen Basis ein Institut die Risikotragfähigkeit laufend sicherzustellen hat; das Risikomanagement umfasst insbesondere
+(1) Ein Institut muss über eine ordnungsgemäße Geschäftsorganisation verfügen, die die Einhaltung der vom Institut zu beachtenden gesetzlichen Bestimmungen und der betriebswirtschaftlichen Notwendigkeiten gewährleistet. Die Geschäftsleiter sind für die ordnungsgemäße Geschäftsorganisation des Instituts verantwortlich; sie haben die erforderlichen Maßnahmen für die Ausarbeitung der entsprechenden institutsinternen Vorgaben zu ergreifen, sofern nicht das Verwaltungs- oder Aufsichtsorgan entscheidet. Dies umfasst insbesondere wirksame Verfahren zur Ermittlung, Steuerung, Überwachung und Meldung der Risiken, denen das Institut ausgesetzt ist oder sein könnte, einschließlich kurz-, mittel- und langfristiger Umwelt-, Sozial- und Unternehmensführungsrisiken sowie des Konzentrationsrisikos, das aus Risikopositionen gegenüber zentralen Gegenparteien erwächst, unter Berücksichtigung der in Artikel 7a der Verordnung (EU) Nr. 648/2012 festgelegten Bedingungen. Eine ordnungsgemäße Geschäftsorganisation muss insbesondere eine solide Unternehmensführung sowie ein angemessenes und wirksames Risikomanagement umfassen, auf dessen Basis ein Institut die Risikotragfähigkeit laufend sicherzustellen hat; das Risikomanagement umfasst insbesondere
 
-1. die Festlegung von Strategien, insbesondere die Festlegung einer auf die nachhaltige Entwicklung des Instituts gerichteten Geschäftsstrategie und einer damit konsistenten Risikostrategie, sowie die Einrichtung von Prozessen zur Planung, Umsetzung, Beurteilung und Anpassung der Strategien;
+1. die Festlegung von Strategien, insbesondere die Festlegung einer auf die nachhaltige Entwicklung des Instituts gerichteten Geschäftsstrategie und einer damit konsistenten Risikostrategie, sowie die Einrichtung von Prozessen zur Planung, Umsetzung, Beurteilung und Anpassung der Strategien, wobei die Strategien und die hierfür eingerichteten Prozesse von kleinen und nicht komplexen Instituten im Sinne des Artikels 4 Absatz 1 Unterabsatz 1 Nummer 145 der Verordnung (EU) Nr. 575/2013 alle zwei Jahre und von den übrigen Instituten in Abhängigkeit von Art, Umfang, Komplexität und Risikogehalt der Geschäftstätigkeit regelmäßig, mindestens aber alle zwei Jahre zu überprüfen und soweit erforderlich anzupassen sind;
 
 2. Verfahren zur Ermittlung und Sicherstellung der Risikotragfähigkeit, wobei eine vorsichtige Ermittlung der Risiken, der potentiellen Verluste, die sich auf Grund von Stressszenarien ergeben, einschließlich derjenigen, die nach dem aufsichtlichen Stresstest nach § 6b Absatz 3 ermittelt werden, und des zu ihrer Abdeckung verfügbaren Risikodeckungspotenzials zugrunde zu legen ist;
 
-3. die Einrichtung interner Kontrollverfahren mit einem internen Kontrollsystem und einer Internen Revision, wobei das interne Kontrollsystem insbesondere
+3. die Einrichtung interner Kontrollverfahren mit einem internen Kontrollsystem und einer unabhängigen Internen Revision, wobei das interne Kontrollsystem insbesondere Folgendes umfasst:
 
 a) aufbau- und ablauforganisatorische Regelungen mit klarer Abgrenzung der Verantwortungsbereiche,
 
-b) Prozesse zur Identifizierung, Beurteilung, Steuerung sowie Überwachung und Kommunikation der Risiken entsprechend den in Titel VII Kapitel 2 Abschnitt 2 Unterabschnitt II der Richtlinie 2013/36/EU niedergelegten Kriterien und
+b) Prozesse zur Identifizierung, Beurteilung, Steuerung sowie Überwachung und Kommunikation der Risiken entsprechend den in Titel VII Kapitel 2 Abschnitt 2 Unterabschnitt II der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 niedergelegten Kriterien und
 
-c) eine Risikocontrolling-Funktion und eine Compliance-Funktion umfasst;
+c) eine unabhängige Risikocontrolling-Funktion und eine unabhängige Compliance-Funktion;
 
 4. eine angemessene personelle und technischorganisatorische Ausstattung des Instituts;
+
+4a. angemessene Kapazitäten für das Datenmanagement sowie effektive Prozesse zur Sicherstellung der Datenqualität;
 
 5. die Festlegung eines angemessenen Notfallmanagements, insbesondere für IT-Systeme, und
 
@@ -2988,13 +3227,13 @@ Die Ausgestaltung des Risikomanagements hängt von Art, Umfang, Komplexität und
 
 3. einen Prozess, der es den Mitarbeitern unter Wahrung der Vertraulichkeit ihrer Identität ermöglicht, Verstöße gegen die Verordnung (EU) Nr. 575/2013, die Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1; L 287 vom 21.10.2016, S. 320; L 306 vom 15.11.2016, S. 43; L 348 vom 21.12.2016, S. 83), die zuletzt durch die Verordnung (EU) 2016/1033 (ABl. L 175 vom 30.6.2016, S. 1) geändert worden ist, die Verordnung (EU) Nr. 600/2014, die Verordnung (EU) Nr. 1286/2014 oder die Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12) oder gegen dieses Gesetz oder gegen die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen oder gegen das Wertpapierhandelsgesetz oder gegen die auf Grund des Wertpapierhandelsgesetzes erlassenen Rechtsverordnungen sowie etwaige strafbare Handlungen innerhalb des Unternehmens an geeignete Stellen zu berichten.
 
-(2) Die Bundesanstalt kann Vorgaben zur Ausgestaltung einer plötzlichen und unerwarteten Zinsänderung und zur Ermittlungsmethodik der Auswirkungen auf den Barwert und die Erträge bezüglich der Zinsänderungsrisiken aus den nicht unter das Handelsbuch fallenden Geschäften festlegen. Die Bundesanstalt kann gegenüber einem Institut im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die ordnungsgemäße Geschäftsorganisation im Sinne des Absatzes 1 Satz 3 und 6 sowie die Beachtung der Vorgaben nach Satz 1 sicherzustellen.
+(2) Die Bundesanstalt kann gegenüber einem Institut die Anwendung des standardisierten Ansatzes oder des vereinfachten standardisierten Ansatzes, jeweils gemäß der Delegierten Verordnung (EU) 2024/857 in der Fassung vom 1. Dezember 2023, für das Risikomanagement von Zinsänderungsrisiken aus den nicht unter das Handelsbuch fallenden Geschäften anordnen, falls die internen Verfahren und Methoden kein angemessenes und wirksames Risikomanagement in diesem Bereich gewährleisten. Die Bundesanstalt kann gegenüber einem Institut im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die ordnungsgemäße Geschäftsorganisation im Sinne des Absatzes 1 Satz 3 und 6 sicherzustellen.
 
 (3) Die Absätze 1 und 2 gelten für Institutsgruppen, Finanzholding-Gruppen und gemischte Finanzholding-Gruppen sowie Unterkonsolidierungsgruppen nach Artikel 22 der Verordnung (EU) Nr. 575/2013 mit der Maßgabe entsprechend, dass die Geschäftsleiter des übergeordneten oder zur Unterkonsolidierung verpflichteten Unternehmens für die ordnungsgemäße Geschäftsorganisation einschließlich einer soliden Unternehmensführung sowie eines angemessenen und wirksamen Risikomanagements der Institutsgruppe, Finanzholding-Gruppe, gemischten Finanzholding-Gruppe oder der Unterkonsolidierungsgruppe verantwortlich sind. Zu einer Gruppe im Sinne von Satz 1 gehören auch Tochterunternehmen eines übergeordneten Unternehmens oder nachgeordneten Tochterunternehmens einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe, auf die weder die Verordnung (EU) Nr. 575/2013 noch § 1a zur Anwendung kommt. Die Regelungen, Verfahren und Mechanismen der gruppenangehörigen Unternehmen müssen dabei kohärent sein und ineinandergreifen. Die sich aus den Sätzen 1 und 3 ergebenden Pflichten müssen von Tochterunternehmen der Gruppe mit Sitz in einem Drittstaat nur insoweit beachtet werden, als diese Pflichten nicht dem geltenden Recht im Herkunftsstaat des Tochterunternehmens entgegenstehen.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Europäischen Zentralbank nähere Bestimmungen über die Ausgestaltung eines angemessenen und wirksamen Risikomanagements auf Einzelinstituts- und Gruppenebene gemäß Absatz 1 Satz 3 Nummer 1 bis 5 und Absatz 3 und der jeweils zugehörigen Tätigkeiten und Prozesse zu erlassen. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute zu hören.
 
-(5) Die Institute haben angemessene Verhältnisse zwischen der variablen und fixen jährlichen Vergütung für Mitarbeiter und Geschäftsleiter festzulegen. Dabei darf die variable Vergütung vorbehaltlich eines Beschlusses nach Satz 5 jeweils 100 Prozent der fixen Vergütung für jeden einzelnen Mitarbeiter oder Geschäftsleiter nicht überschreiten. Hierbei kann für bis zu 25 Prozent der variablen Vergütung der zukünftige Wert auf den Zeitpunkt der Mitteilung an die jeweiligen Mitarbeiter oder Geschäftsleiter über die Höhe der variablen Vergütung für einen Bemessungszeitraum abgezinst werden, wenn dieser Teil der variablen Vergütung in Instrumenten gezahlt wird, die für die Dauer von mindestens fünf Jahren nach dieser Mitteilung zurückbehalten werden. Bei der Zurückbehaltung dürfen ein Anspruch und eine Anwartschaft auf diesen Teil der variablen Vergütung erst nach Ablauf des Zurückbehaltungszeitraums erwachsen und während des Zurückbehaltungszeitraums lediglich ein Anspruch auf fehlerfreie Ermittlung des noch nicht zu einer Anwartschaft oder einem Anspruch erwachsenen Teils dieses Teils der variablen Vergütung bestehen, nicht aber auf diesen Teil der variablen Vergütung selbst. Die Anteilseigner, die Eigentümer, die Mitglieder oder die Träger des Instituts können über die Billigung einer höheren variablen Vergütung als nach Satz 2, die 200 Prozent der fixen Vergütung für jeden einzelnen Mitarbeiter oder Geschäftsleiter nicht überschreiten darf, beschließen. Zur Billigung einer höheren variablen Vergütung als nach Satz 2 für Mitarbeiter haben die Geschäftsleitung und das Verwaltungs- oder Aufsichtsorgan, zur Billigung einer höheren variablen Vergütung als nach Satz 2 für Geschäftsleiter nur das Verwaltungs- oder Aufsichtsorgan, einen Vorschlag zur Beschlussfassung zu machen; der Vorschlag hat die Gründe für die erbetene Billigung einer höheren variablen Vergütung als nach Satz 2 und deren Umfang, einschließlich der Anzahl der betroffenen Mitarbeiter und Geschäftsleiter sowie ihrer Funktionen, und den erwarteten Einfluss einer höheren variablen Vergütung als nach Satz 2 auf die Anforderung, eine angemessene Eigenmittelausstattung vorzuhalten, darzulegen. Der Beschlussvorschlag ist so rechtzeitig vor der Beschlussfassung bekannt zu machen, dass sich die Anteilseigner, die Eigentümer, die Mitglieder oder die Träger des Instituts angemessen informieren können; üben die Anteilseigner, die Eigentümer, die Mitglieder oder die Träger ihre Rechte in einer Versammlung aus, ist der Beschlussvorschlag mit der Einberufung der Versammlung bekannt zu machen. Der Beschluss bedarf einer Mehrheit von mindestens 66 Prozent der abgegebenen Stimmen, sofern mindestens 50 Prozent der Stimmrechte bei der Beschlussfassung vertreten sind, oder von mindestens 75 Prozent der abgegebenen Stimmen. Anteilseigner, Eigentümer, Mitglieder oder Träger die als Mitarbeiter oder Geschäftsleiter von einer höheren variablen Vergütung als nach Satz 2 betroffen wären, dürfen ihr Stimmrecht weder unmittelbar noch mittelbar ausüben.
+(5) Die Institute haben angemessene Verhältnisse zwischen der variablen und fixen jährlichen Vergütung für Mitarbeiter und Geschäftsleiter festzulegen. Sie haben die variable Vergütung vorbehaltlich eines Beschlusses nach Satz 5 jeweils bei maximal 100 Prozent der fixen Vergütung für jeden einzelnen Mitarbeiter oder Geschäftsleiter zu halten. Hierbei kann für bis zu 25 Prozent der variablen Vergütung der zukünftige Wert auf den Zeitpunkt der Mitteilung an die jeweiligen Mitarbeiter oder Geschäftsleiter über die Höhe der variablen Vergütung für einen Bemessungszeitraum abgezinst werden, wenn dieser Teil der variablen Vergütung in Instrumenten gezahlt wird, die für die Dauer von mindestens fünf Jahren nach dieser Mitteilung zurückbehalten werden. Bei der Zurückbehaltung dürfen ein Anspruch und eine Anwartschaft auf diesen Teil der variablen Vergütung erst nach Ablauf des Zurückbehaltungszeitraums erwachsen und während des Zurückbehaltungszeitraums lediglich ein Anspruch auf fehlerfreie Ermittlung des noch nicht zu einer Anwartschaft oder einem Anspruch erwachsenen Teils dieses Teils der variablen Vergütung bestehen, nicht aber auf diesen Teil der variablen Vergütung selbst. Die Anteilseigner, die Eigentümer, die Mitglieder oder die Träger des Instituts können über die Billigung einer höheren variablen Vergütung als nach Satz 2, die 200 Prozent der fixen Vergütung für jeden einzelnen Mitarbeiter oder Geschäftsleiter nicht überschreiten darf, beschließen. Zur Billigung einer höheren variablen Vergütung als nach Satz 2 für Mitarbeiter haben die Geschäftsleitung und das Verwaltungs- oder Aufsichtsorgan, zur Billigung einer höheren variablen Vergütung als nach Satz 2 für Geschäftsleiter nur das Verwaltungs- oder Aufsichtsorgan, einen Vorschlag zur Beschlussfassung zu machen; der Vorschlag hat die Gründe für die erbetene Billigung einer höheren variablen Vergütung als nach Satz 2 und deren Umfang, einschließlich der Anzahl der betroffenen Mitarbeiter und Geschäftsleiter sowie ihrer Funktionen, und den erwarteten Einfluss einer höheren variablen Vergütung als nach Satz 2 auf die Anforderung, eine angemessene Eigenmittelausstattung vorzuhalten, darzulegen. Der Beschlussvorschlag ist so rechtzeitig vor der Beschlussfassung bekannt zu machen, dass sich die Anteilseigner, die Eigentümer, die Mitglieder oder die Träger des Instituts angemessen informieren können; üben die Anteilseigner, die Eigentümer, die Mitglieder oder die Träger ihre Rechte in einer Versammlung aus, ist der Beschlussvorschlag mit der Einberufung der Versammlung bekannt zu machen. Der Beschluss bedarf einer Mehrheit von mindestens 66 Prozent der abgegebenen Stimmen, sofern mindestens 50 Prozent der Stimmrechte bei der Beschlussfassung vertreten sind, oder von mindestens 75 Prozent der abgegebenen Stimmen. Anteilseigner, Eigentümer, Mitglieder oder Träger die als Mitarbeiter oder Geschäftsleiter von einer höheren variablen Vergütung als nach Satz 2 betroffen wären, dürfen ihr Stimmrecht weder unmittelbar noch mittelbar ausüben.
 
 (5a) Auf Risikoträger und Risikoträgerinnen bedeutender Institute, deren jährliche fixe Vergütung das Dreifache der Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung im Sinne des § 159 des Sechsten Buches Sozialgesetzbuch überschreitet und die keine Geschäftsführer, Betriebsleiter und ähnliche leitende Angestellte sind, die zur selbständigen Einstellung oder Entlassung von Arbeitnehmern berechtigt sind, findet § 9 Absatz 1 Satz 2 des Kündigungsschutzgesetzes mit der Maßgabe Anwendung, dass der Antrag des Arbeitgebers auf Auflösung des Arbeitsverhältnisses keiner Begründung bedarf. § 14 Absatz 1 des Kündigungsschutzgesetzes bleibt unberührt.
 
@@ -3010,9 +3249,9 @@ a) diese Vergütung mindestens der durchschnittlichen Vergütung der Geschäftsl
 
 b) die Mitarbeiter die berufliche Tätigkeit in einem wesentlichen Geschäftsbereich ausüben und sich diese Tätigkeit erheblich auf das Risikoprofil des betreffenden Geschäftsbereichs auswirkt.
 
-Ein bedeutendes Institut hat darüber hinaus auf Grundlage einer Risikoanalyse eigenverantwortlich alle weiteren Risikoträger zu ermitteln. Dabei sind immer mindestens die Kriterien gemäß den Artikeln 5 und 6 der Delegierten Verordnung (EU) 2021/923 der Kommission vom 25. März 2021 zur Ergänzung der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards zur Festlegung der Kriterien für die Definition der Managementverantwortung, der Kontrollaufgaben, der wesentlichen Geschäftsbereiche und einer erheblichen Auswirkung auf das Risikoprofil eines wesentlichen Geschäftsbereichs sowie zur Festlegung der Kriterien für die Ermittlung der Mitarbeiter oder Mitarbeiterkategorien, deren berufliche Tätigkeiten vergleichsweise ebenso wesentliche Auswirkungen auf das Risikoprofil des Instituts haben wie diejenigen der in Artikel 92 Absatz 3 der genannten Richtlinie aufgeführten Mitarbeiter oder Mitarbeiterkategorien (ABl. L 203 vom 9.6.2021, S. 1; L 430 vom 2.12.2021, S. 43) in der jeweils geltenden Fassung zugrunde zu legen. Das Institut teilt den betroffenen Mitarbeitern und Mitarbeiterinnen die Einstufung als Risikoträger mit. Die Risikoanalyse ist schriftlich oder elektronisch zu dokumentieren und regelmäßig zu aktualisieren. Ausnahmen nach Artikel 6 Absatz 2 der Delegierten Verordnung (EU) 2021/923 in der Fassung vom 25. März 2021 bedürfen der Zustimmung der Geschäftsleitung und der vorherigen Kenntnisnahme durch das Verwaltungs- oder Aufsichtsorgan. Für die Zwecke dieser Vorschrift gelten die Begriffsbestimmungen sowie die Berechnungsmethoden zur Höhe der maßgeblichen Vergütung nach der Delegierten Verordnung (EU) 2021/923 in der jeweils geltenden Fassung.
+Ein bedeutendes Institut hat darüber hinaus auf Grundlage einer Risikoanalyse eigenverantwortlich alle weiteren Risikoträger zu ermitteln. Dabei sind immer mindestens die Kriterien gemäß den Artikeln 5 und 6 der Delegierten Verordnung (EU) 2021/923 in der Fassung vom 25. März 2021 zugrunde zu legen. Das Institut teilt den betroffenen Mitarbeitern und Mitarbeiterinnen die Einstufung als Risikoträger unverzüglich mit. Die Risikoanalyse ist schriftlich oder elektronisch zu dokumentieren und regelmäßig zu aktualisieren. Ausnahmen nach Artikel 6 Absatz 2 der Delegierten Verordnung (EU) 2021/923 in der Fassung vom 25. März 2021 bedürfen der Zustimmung der Geschäftsleitung und der vorherigen Kenntnisnahme durch das Verwaltungs- oder Aufsichtsorgan. Für die Zwecke dieser Vorschrift gelten die Begriffsbestimmungen sowie die Berechnungsmethoden zur Höhe der maßgeblichen Vergütung nach der Delegierten Verordnung (EU) 2021/923 in der Fassung vom 25. März 2021.
 
-(5c) Die nach Artikel 6 Absatz 3 Satz 1 der Delegierten Verordnung (EU) 2021/923 in der jeweils geltenden Fassung an die Aufsichtsbehörde zu stellenden Anträge sind unverzüglich, spätestens jedoch sechs Monate nach Ablauf des Geschäftsjahres, zu stellen.
+(5c) Die nach Artikel 6 Absatz 3 Satz 1 der Delegierten Verordnung (EU) 2021/923 in der Fassung vom 25. März 2021 an die Aufsichtsbehörde zu stellenden Anträge sind unverzüglich, spätestens jedoch sechs Monate nach Ablauf des Geschäftsjahres, zu stellen.
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen zu erlassen über
 
@@ -3038,7 +3277,7 @@ c) positiver und negativer Vergütungsparameter, der Leistungszeiträume, Zurüc
 
 Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur des Instituts sowie Art, Umfang, Komplexität, Risikogehalt und Internationalität der Geschäftsaktivitäten zu orientieren. Im Rahmen der Bestimmungen nach Satz 1 Nummer 4 müssen die auf Offenlegung der Vergütung bezogenen handelsrechtlichen Bestimmungen nach § 340a Absatz 1 und 2 in Verbindung mit § 340l Absatz 1 Satz 1 des Handelsgesetzbuchs unberührt bleiben. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute zu hören.
 
-##### § 25b Auslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung
+###### § 25b Auslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung
 
 (1) Ein Institut muss abhängig von Art, Umfang, Komplexität und Risikogehalt einer Auslagerung von Aktivitäten und Prozessen auf ein anderes Unternehmen, die für die Durchführung von Bankgeschäften, Finanzdienstleistungen oder sonstigen institutstypischen Dienstleistungen wesentlich sind, angemessene Vorkehrungen treffen, um übermäßige zusätzliche Risiken zu vermeiden. Eine Auslagerung darf weder die Ordnungsmäßigkeit dieser Geschäfte und Dienstleistungen noch die Geschäftsorganisation im Sinne des § 25a Absatz 1 beeinträchtigen. Insbesondere muss ein angemessenes und wirksames Risikomanagement durch das Institut gewährleistet bleiben, das die ausgelagerten Aktivitäten und Prozesse einbezieht. Ein Institut hat im Rahmen seines Risikomanagements ein Auslagerungsregister zu führen; darin sind sämtliche wesentlichen und nicht wesentlichen Auslagerungen zu erfassen.
 
@@ -3068,13 +3307,23 @@ Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur des In
 
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute zu hören.
 
-##### § 25c Geschäftsleiter
+###### § 25c Geschäftsleiter
 
 (1) Die Geschäftsleiter eines Instituts müssen für die Leitung eines Instituts fachlich geeignet und zuverlässig sein und der Wahrnehmung ihrer Aufgaben ausreichend Zeit widmen. Die fachliche Eignung setzt voraus, dass die Geschäftsleiter in ausreichendem Maß theoretische und praktische Kenntnisse in den betreffenden Geschäften sowie Leitungserfahrung haben. Das Vorliegen der fachlichen Eignung ist regelmäßig anzunehmen, wenn eine dreijährige leitende Tätigkeit bei einem Institut von vergleichbarer Größe und Geschäftsart nachgewiesen wird.
 
 (1a) Die Geschäftsleiter müssen in ihrer Gesamtheit über ein angemessen breites Spektrum von Kenntnissen, Fähigkeiten und Erfahrungen verfügen, die zum Verständnis der Tätigkeiten des Instituts einschließlich seiner Hauptrisiken notwendig sind.
 
-(2) Bei der Zahl der Leitungs- oder Aufsichtsmandate, die ein Geschäftsleiter gleichzeitig innehaben kann, sind der Einzelfall und die Art, der Umfang und die Komplexität der Geschäfte des Instituts zu berücksichtigen. Geschäftsleiter eines bedeutenden Instituts im Sinne des § 1 Absatz 3c kann nicht sein,
+(1b) Erfüllt eine Person die Voraussetzungen des Absatzes 1 Satz 1 oder des Absatzes 2 nicht, so hat das Institut unverzüglich sicherzustellen, dass
+
+1. sie nicht zum Geschäftsleiter bestellt wird,
+
+2. sie von ihrer Position als Geschäftsleiter abberufen wird oder
+
+3. Maßnahmen ergriffen werden, damit die Person die Voraussetzungen erfüllt.
+
+(1c) Beabsichtigt ein Unternehmen eine Person zu bestellen und liegen Tatsachen vor, aus denen sich ergibt, dass sie nicht die Voraussetzungen des Absatzes 1 Satz 1 oder des Absatzes 2 erfüllt, oder fehlen bei der Anzeige nach § 24 über die Absicht der Bestellung wesentliche Informationen zur Beurteilung der Eignung, Zuverlässigkeit und zeitlichen Verfügbarkeit, kann die Bundesanstalt anordnen, dass die Person nicht bestellt wird.
+
+(2) Bei der Zahl der Leitungs- oder Aufsichtsmandate, die ein Geschäftsleiter gleichzeitig innehaben kann, sind der Einzelfall und die Art, der Umfang und die Komplexität der Geschäfte des Instituts zu berücksichtigen. Geschäftsleiter eines bedeutenden Instituts im Sinne des § 1 Absatz 3c oder einer zugelassenen Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft, denen ein solches Institut nachgeordnet ist, kann nicht sein,
 
 1. wer in demselben Unternehmen Mitglied des Verwaltungs- oder Aufsichtsorgans oder im Fall einer Europäischen Gesellschaft (SE) mit monistischem System Vorsitzender oder nicht geschäftsführendes Mitglied des Verwaltungsrates ist oder
 
@@ -3082,11 +3331,11 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 Dabei gelten im Sinne von Satz 2 Nummer 2 mehrere Mandate als ein Mandat, wenn die Mandate bei Unternehmen wahrgenommen werden,
 
-1. die derselben Gruppe im Sinne des Artikels 4 Absatz 1 Nummer 138 der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 angehören,
+1. die derselben Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe angehören oder die verbundene Unternehmen im Sinne des Handelsgesetzbuchs oder in vergleichbarer Weise in einer Gruppe verbunden sind,
 
 2. die demselben institutsbezogenen Sicherungssystem angehören oder
 
-3. an denen das Institut eine bedeutende Beteiligung hält.
+3. an denen das Unternehmen eine bedeutende Beteiligung hält.
 
 Mehrere Mandate gelten auch dann im Sinne von Satz 3 als ein Mandat, wenn sich darunter sowohl Mandate als Geschäftsleiter als auch Mandate als Mitglied des Verwaltungs- oder Aufsichtsorgans befinden. Sie zählen in diesem Fall zusammen als ein Geschäftsleitermandat. Mandate bei Organisationen und Unternehmen, die nicht überwiegend gewerbliche Ziele verfolgen, insbesondere Unternehmen, die der kommunalen Daseinsvorsorge dienen, werden bei den nach Satz 2 Nummer 2 höchstens zulässigen Mandaten nicht berücksichtigt. Die Aufsichtsbehörde kann einem Geschäftsleiter unter Berücksichtigung der Umstände im Einzelfall und der Art, des Umfangs und der Komplexität der Tätigkeiten des Instituts, der Institutsgruppe, der Finanzholding-Gruppe, der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft gestatten, ein zusätzliches Mandat in einem Verwaltungs- oder Aufsichtsorgan innezuhaben, wenn dies das Mitglied nicht daran hindert, der Wahrnehmung seiner Aufgaben in dem betreffenden Unternehmen ausreichend Zeit zu widmen. Das zusätzliche Mandat darf erst nach Erteilung der Gestattung durch die Aufsichtsbehörde angenommen werden.
 
@@ -3104,7 +3353,7 @@ Mehrere Mandate gelten auch dann im Sinne von Satz 3 als ein Mandat, wenn sich d
 
 6. die Prozesse hinsichtlich Offenlegung sowie Kommunikation überwachen.
 
-(4) Die Institute müssen angemessene personelle und finanzielle Ressourcen einsetzen, um den Mitgliedern der Geschäftsleitung die Einführung in ihr Amt zu erleichtern und die Fortbildung zu ermöglichen, die zur Aufrechterhaltung ihrer fachlichen Eignung erforderlich ist.
+(4) Die Institute müssen angemessene personelle und finanzielle Ressourcen einsetzen, um den Mitgliedern der Geschäftsleitung die Einführung in ihr Amt zu erleichtern und die Fortbildung zu ermöglichen, die zur Aufrechterhaltung ihrer fachlichen Eignung erforderlich ist, auch in Bezug auf IKT-Risiken im Sinne des Artikels 4 Absatz 1 Unterabsatz 1 Nummer 52c der Verordnung (EU) Nr. 575/2013.
 
 (4a) Im Rahmen ihrer Gesamtverantwortung für die ordnungsgemäße Geschäftsorganisation des Instituts nach § 25a Absatz 1 Satz 2 haben die Geschäftsleiter eines Instituts dafür Sorge zu tragen, dass das Institut über folgende Strategien, Prozesse, Verfahren, Funktionen und Konzepte verfügt:
 
@@ -3136,11 +3385,21 @@ f) regelmäßig angemessene Stresstests für die wesentlichen Risiken sowie das 
 
 g) die interne Revision in angemessenen Abständen, mindestens aber vierteljährlich, an die Geschäftsleitung und an das Aufsichts- oder Verwaltungsorgan berichtet;
 
+h) die Leiter der internen Kontrollfunktionen über eine hinreichende Autorität verfügen, direkten Zugang zum Verwaltungs- und Aufsichtsorgan haben und berechtigt sind, unabhängig von der Geschäftsleitung direkt an das Verwaltungs- oder Aufsichtsorgan zu berichten und insbesondere Warnungen über riskante Entwicklungen auszusprechen, und
+
+i) die Leiter der internen Kontrollfunktionen nicht ohne vorherige Zustimmung durch das Verwaltungs- oder Aufsichtsorgan von ihrer Funktion entbunden werden dürfen; in eilbedürftigen Fällen kann der Vorsitzende des Verwaltungs- oder Aufsichtsorgans die Zustimmung vorläufig erteilen;
+
 4. eine angemessene personelle und technisch-organisatorische Ausstattung des Instituts nach § 25a Absatz 1 Satz 3 Nummer 4, mindestens haben die Geschäftsleiter dafür Sorge zu tragen, dass die quantitative und qualitative Personalausstattung und der Umfang und die Qualität der technisch-organisatorischen Ausstattung die betriebsinternen Erfordernisse, die Geschäftsaktivitäten und die Risikosituation berücksichtigen;
 
 5. für Notfälle in zeitkritischen Aktivitäten und Prozessen angemessene Notfallkonzepte nach § 25a Absatz 1 Satz 3 Nummer 5, mindestens haben die Geschäftsleiter dafür Sorge zu tragen, dass regelmäßig Notfalltests zur Überprüfung der Angemessenheit und Wirksamkeit des Notfallkonzeptes durchgeführt werden und über die Ergebnisse den jeweils Verantwortlichen berichtet wird;
 
-6. im Fall einer Auslagerung von Aktivitäten und Prozessen auf ein anderes Unternehmen nach § 25b Absatz 1 Satz 1 mindestens angemessene Verfahren und Konzepte, um übermäßige zusätzliche Risiken sowie eine Beeinträchtigung der Ordnungsmäßigkeit der Geschäfte, Dienstleistungen und der Geschäftsorganisation im Sinne des § 25a Absatz 1 zu vermeiden.
+6. im Fall einer Auslagerung von Aktivitäten und Prozessen auf ein anderes Unternehmen nach § 25b Absatz 1 Satz 1 mindestens angemessene Verfahren und Konzepte, um übermäßige zusätzliche Risiken sowie eine Beeinträchtigung der Ordnungsmäßigkeit der Geschäfte, Dienstleistungen und der Geschäftsorganisation im Sinne des § 25a Absatz 1 zu vermeiden;
+
+7. angemessene Verfahren und Konzepte, die sicherstellen, dass Inhaber von Schlüsselfunktionen jederzeit die Anforderungen des § 25e Absatz 1 erfüllen; mindestens haben die Geschäftsleiter dafür Sorge zu tragen, dass die Eignung der Inhaber von Schlüsselfunktionen vor Übernahme der Funktion sowie regelmäßig und bei Bedarf bewertet wird, und
+
+8. eine Übersicht in Textform über die Aufgaben und individuellen Verantwortlichkeiten der in Artikel 88 Absatz 3 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 bestimmten Personen zu erstellen, fortzuführen und zu aktualisieren;
+
+9. konkrete Pläne und quantifizierbare Ziele gemäß den in Artikel 7a der Verordnung (EU) Nr. 648/2012 festgelegten Anforderungen, um das Konzentrationsrisiko zu überwachen und zu bewältigen, das aus Risikopositionen gegenüber zentralen Gegenparteien aus Drittstaaten erwächst, die Dienstleistungen anbieten, die für die Europäische Union oder mindestens einen ihrer Mitgliedstaaten von wesentlicher Systemrelevanz sind.
 
 (4b) Für Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und Institute im Sinne des Artikels 4 der Verordnung (EU) Nr. 575/2013 gilt, dass die Geschäftsleiter des übergeordneten Unternehmens für die Wahrung der Sorgfaltspflichten innerhalb der Institutsgruppe, der Finanzholding-Gruppe, der gemischten Finanzholding-Gruppe oder der Institute im Sinne des Artikels 4 der Verordnung (EU) Nr. 575/2013 verantwortlich sind, wenn das übergeordnete Unternehmen Mutterunternehmen ist, das beherrschenden Einfluss im Sinne des § 290 Absatz 2 des Handelsgesetzbuchs über andere Unternehmen der Gruppe ausübt, ohne dass es auf die Rechtsform der Muttergesellschaft ankommt. Im Rahmen ihrer Gesamtverantwortung für die ordnungsgemäße Geschäftsorganisation der Gruppe nach Satz 1 haben die Geschäftsleiter des übergeordneten Unternehmens dafür Sorge zu tragen, dass die Gruppe über folgende Strategien, Prozesse, Verfahren, Funktionen und Konzepte verfügt:
 
@@ -3178,7 +3437,9 @@ g) die Konzernrevision in angemessenen Abständen, mindestens aber vierteljährl
 
 5. für Notfälle in zeitkritischen Aktivitäten und Prozessen angemessene Notfallkonzepte nach § 25a Absatz 1 Satz 3 Nummer 5 auf Gruppenebene, mindestens haben die Geschäftsleiter dafür Sorge zu tragen, dass regelmäßig Notfalltests zur Überprüfung der Angemessenheit und Wirksamkeit des Notfallkonzeptes auf Gruppenebene durchgeführt werden und über die Ergebnisse den jeweils Verantwortlichen berichtet wird;
 
-6. im Fall einer Auslagerung von Aktivitäten und Prozessen auf ein anderes Unternehmen nach § 25b Absatz 1 Satz 1 mindestens angemessene Verfahren und Konzepte, um übermäßige zusätzliche Risiken sowie eine Beeinträchtigung der Ordnungsmäßigkeit der Geschäfte, Dienstleistungen und der Geschäftsorganisation im Sinne des § 25a Absatz 1 zu vermeiden.
+6. im Fall einer Auslagerung von Aktivitäten und Prozessen auf ein anderes Unternehmen nach § 25b Absatz 1 Satz 1 mindestens angemessene Verfahren und Konzepte, um übermäßige zusätzliche Risiken sowie eine Beeinträchtigung der Ordnungsmäßigkeit der Geschäfte, Dienstleistungen und der Geschäftsorganisation im Sinne des § 25a Absatz 1 zu vermeiden, und
+
+7. angemessene Verfahren und Konzepte, die sicherstellen, dass Inhaber von Schlüsselfunktionen jederzeit die Anforderungen des § 25e Absatz 1 erfüllen; mindestens haben die Geschäftsleiter dafür Sorge zu tragen, dass die Eignung der Inhaber von Schlüsselfunktionen vor Übernahme der Funktion sowie regelmäßig und bei Bedarf bewertet wird.
 
 (4c) Wenn die Bundesanstalt zu dem Ergebnis kommt, dass das Institut oder die Gruppe nicht über die Strategien, Prozesse, Verfahren, Funktionen und Konzepte nach Absatz 4a und 4b verfügt, kann sie, unabhängig von anderen Maßnahmen nach diesem Gesetz, anordnen, dass geeignete Maßnahmen ergriffen werden, um die festgestellten Mängel innerhalb einer angemessenen Frist zu beseitigen.
 
@@ -3186,11 +3447,21 @@ g) die Konzernrevision in angemessenen Abständen, mindestens aber vierteljährl
 
 (6) (weggefallen)
 
-##### § 25d Verwaltungs- oder Aufsichtsorgan
+###### § 25d Verwaltungs- oder Aufsichtsorgan
 
 (1) Die Mitglieder des Verwaltungs- oder Aufsichtsorgans eines Instituts, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft müssen zuverlässig sein, die erforderliche Sachkunde zur Wahrnehmung der Kontrollfunktion sowie zur Beurteilung und Überwachung der Geschäfte, die das jeweilige Unternehmen betreibt, besitzen und der Wahrnehmung ihrer Aufgaben ausreichend Zeit widmen. Bei der Prüfung, ob eine der in Satz 1 genannten Personen die erforderliche Sachkunde besitzt, berücksichtigt die Bundesanstalt den Umfang und die Komplexität der von dem Institut, der Institutsgruppe oder Finanzholding-Gruppe, der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft betriebenen Geschäfte.
 
-(2) Das Verwaltungs- oder Aufsichtsorgan muss in seiner Gesamtheit die Kenntnisse, Fähigkeiten und Erfahrungen haben, die zur Wahrnehmung der Kontrollfunktion sowie zur Beurteilung und Überwachung der Geschäftsleitung des Instituts oder der Institutsgruppe oder Finanzholding-Gruppe, der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft notwendig sind. Die Vorschriften der Mitbestimmungsgesetze über die Wahl und Abberufung der Arbeitnehmervertreter im Verwaltungs- oder Aufsichtsorgan bleiben unberührt.
+(1a) Erfüllt eine Person die Voraussetzungen des Absatzes 1 Satz 1, des Absatzes 3 oder des Absatzes 3a nicht, so hat das Institut unverzüglich sicherzustellen, dass
+
+1. sie nicht zum Mitglied des Verwaltungs- oder Aufsichtsorgans bestellt wird,
+
+2. sie von ihrer Position als Mitglied des Verwaltungs- oder Aufsichtsorgans abberufen wird oder
+
+3. Maßnahmen ergriffen werden, damit die Person die Voraussetzungen erfüllt.
+
+(1b) Beabsichtigt ein Unternehmen eine Person zu bestellen und liegen Tatsachen vor, aus denen sich ergibt, dass sie nicht die Voraussetzungen des Absatzes 1 Satz 1, des Absatzes 3 oder des Absatzes 3a erfüllt, oder fehlen bei der Anzeige nach § 24 über die Absicht der Bestellung wesentliche Informationen zur Beurteilung der Eignung, Zuverlässigkeit und zeitlichen Verfügbarkeit, kann die Bundesanstalt anordnen, dass die Person nicht bestellt wird.
+
+(2) Das Verwaltungs- oder Aufsichtsorgan muss in seiner Gesamtheit die Kenntnisse, Fähigkeiten und Erfahrungen haben, die zur Wahrnehmung der Kontrollfunktion sowie zur Beurteilung und Überwachung der Geschäftsleitung des Instituts oder der Institutsgruppe oder Finanzholding-Gruppe, der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft notwendig sind. Die Vorschriften der Mitbestimmungsgesetze über die Wahl und Abberufung der Arbeitnehmervertreter im Verwaltungs- oder Aufsichtsorgan bleiben unberührt. Ebenso bleiben die Rechtsvorschriften über die Ernennung der Mitglieder des Verwaltungs- oder Aufsichtsorgans durch regionale oder lokale gewählte Gremien oder über Ernennungen in Fällen, in denen kein Organ des Instituts für die Auswahl und Bestellung des jeweiligen Mitglieds zuständig ist, unberührt. In den betreffenden Fällen des Satzes 3 trifft das Institut geeignete Schutzvorkehrungen, um die Eignung dieser Mitglieder zu gewährleisten. Die Eignung in der Gesamtheit nach Satz 1 muss gewährleistet sein. Das Recht zur Abberufung nach § 36 bleibt von Satz 2 und 3 unberührt.
 
 (3) Mitglied des Verwaltungs- oder Aufsichtsorgans eines CRR-Kreditinstituts, das bedeutend im Sinne des § 1 Absatz 3c ist, kann nicht sein,
 
@@ -3202,9 +3473,9 @@ g) die Konzernrevision in angemessenen Abständen, mindestens aber vierteljährl
 
 4. wer in mehr als vier Unternehmen Mitglied des Verwaltungs- oder Aufsichtsorgans ist.
 
-Satz 1 gilt jeweils auch für Mitglieder der Verwaltungs- oder Aufsichtsorgane einer Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft, wenn diese übergeordnetes Unternehmen gemäß § 10a Absatz 2 Satz 2 sind oder nach § 12 Absatz 2 des Finanzkonglomerate-Aufsichtsgesetzes als übergeordnetes Unternehmen bestimmt worden ist und ihr ein CRR-Kreditinstitut nachgeordnet ist. Dabei gelten im Sinne von Satz 1 Nummer 3 und 4 mehrere Mandate als ein Mandat, wenn die Mandate bei Unternehmen wahrgenommen werden,
+Satz 1 gilt jeweils auch für Mitglieder der Verwaltungs- oder Aufsichtsorgane einer nach § 2f zugelassenen Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft, die ein bedeutendes Institut im Sinne des § 1 Absatz 3c in ihrer Gruppe haben. Dabei gelten im Sinne von Satz 1 Nummer 3 und 4 mehrere Mandate als ein Mandat, wenn die Mandate bei Unternehmen wahrgenommen werden,
 
-1. die derselben Gruppe im Sinne des Artikels 4 Absatz 1 Nummer 138 der Verordnung (EU) Nr. 575/2013 angehören,
+1. die derselben Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe angehören oder verbundene Unternehmen im Sinne des Handelsgesetzbuchs oder in vergleichbarer Weise in einer Gruppe verbunden sind,
 
 2. die demselben institutsbezogenen Sicherungssystem angehören oder
 
@@ -3220,7 +3491,7 @@ Mehrere Mandate gelten auch dann im Sinne von Satz 3 als ein Mandat, wenn sich d
 
 3. wer in mehr als fünf Unternehmen, die unter der Aufsicht der Bundesanstalt stehen, Mitglied des Verwaltungs- oder Aufsichtsorgans ist, es sei denn, diese Unternehmen gehören demselben institutsbezogenen Sicherungssystem an.
 
-(4) Institute, Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften müssen angemessene personelle und finanzielle Ressourcen einsetzen, um den Mitgliedern des Verwaltungs- oder Aufsichtsorgans die Einführung in ihr Amt zu erleichtern und die Fortbildung zu ermöglichen, die zur Aufrechterhaltung der erforderlichen Sachkunde notwendig ist.
+(4) Institute, Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften müssen angemessene personelle und finanzielle Ressourcen einsetzen, um den Mitgliedern des Verwaltungs- oder Aufsichtsorgans die Einführung in ihr Amt zu erleichtern und die Fortbildung zu ermöglichen, die zur Aufrechterhaltung der erforderlichen Sachkunde notwendig ist, auch in Bezug auf IKT-Risiken im Sinne des Artikels 4 Absatz 4 Nummer 52c der Verordnung (EU) Nr. 575/2013.
 
 (5) Die Ausgestaltung der Vergütungssysteme für Mitglieder des Verwaltungs- oder Aufsichtsorgans darf im Hinblick auf die wirksame Wahrnehmung der Überwachungsfunktion des Verwaltungs- oder Aufsichtsorgans keine Interessenkonflikte erzeugen. Die Vergütung ist geschlechtsneutral. Eine Entgeltbenachteiligung wegen des Geschlechts ist unzulässig. Für die Tätigkeit im Verwaltungs- oder Aufsichtsorgan dürfen dessen Mitglieder keine variablen Vergütungsbestandteile erhalten. Artikel 450 der Verordnung (EU) Nr. 575/2013 ist auch in Bezug auf die Vergütung der Mitglieder des Verwaltungs- oder Aufsichtsorgans anzuwenden.
 
@@ -3228,7 +3499,7 @@ Mehrere Mandate gelten auch dann im Sinne von Satz 3 als ein Mandat, wenn sich d
 
 (7) Das Verwaltungs- oder Aufsichtsorgan eines Instituts, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft soll abhängig von der Größe, der internen Organisation und der Art, des Umfangs, der Komplexität und dem Risikogehalt der Geschäfte des Unternehmens aus seiner Mitte, im Fall einer Europäischen Gesellschaft (SE) mit monistischem System aus dem Kreis der nicht geschäftsführenden Mitglieder des Verwaltungsrates, Ausschüsse gemäß den Absätzen 8 bis 12 bestellen, die es bei seinen Aufgaben beraten und unterstützen. Das Verwaltungs- oder Aufsichtsorgan eines bedeutenden Instituts im Sinne des § 1 Absatz 3c sowie eines in Absatz 3 Satz 2 genannten Unternehmens hat aus seiner Mitte, im Fall einer Europäischen Gesellschaft (SE) mit monistischem System aus dem Kreis der nicht geschäftsführenden Mitglieder des Verwaltungsrates, zwingend einen Risiko-, einen Prüfungs-, einen Nominierungs- und einen Vergütungskontrollausschuss zu bestellen. Jeder Ausschuss soll eines seiner Mitglieder zum Vorsitzenden ernennen. Die Mitglieder der Ausschüsse müssen die zur Erfüllung der jeweiligen Ausschussaufgaben erforderlichen Kenntnisse, Fähigkeiten und Erfahrungen haben. Um die Zusammenarbeit und den fachlichen Austausch zwischen den einzelnen Ausschüssen sicherzustellen, soll mindestens ein Mitglied eines jeden Ausschusses einem weiteren Ausschuss angehören. Die Bundesanstalt kann die Bildung eines oder mehrerer Ausschüsse verlangen, wenn dies insbesondere unter Berücksichtigung der Kriterien nach Satz 1 oder zur ordnungsgemäßen Wahrnehmung der Kontrollfunktion des Verwaltungs- oder Aufsichtsorgans erforderlich erscheint. Sofern von der Bestellung von Ausschüssen abgesehen wird, obliegen die Aufgaben, die in den Absätzen 8 bis 12 den Ausschüssen zugewiesen sind, dem Verwaltungs- oder Aufsichtsorgan. Sofern kein Verwaltungs- oder Aufsichtsorgan besteht, obliegen die Ausschussaufgaben den Anteilseignern, Eigentümern, Mitgliedern oder Trägern des Instituts.
 
-(8) Der Risikoausschuss berät das Verwaltungs- oder Aufsichtsorgan zur aktuellen und zur künftigen Gesamtrisikobereitschaft und -strategie des Unternehmens und unterstützt es bei der Überwachung der Umsetzung dieser Strategie durch die obere Leitungsebene. Der Risikoausschuss wacht darüber, dass die Konditionen im Kundengeschäft mit dem Geschäftsmodell und der Risikostruktur des Unternehmens im Einklang stehen. Soweit dies nicht der Fall ist, verlangt der Risikoausschuss von der Geschäftsleitung Vorschläge, wie die Konditionen im Kundengeschäft in Übereinstimmung mit dem Geschäftsmodell und der Risikostruktur ausgestaltet werden können, und überwacht deren Umsetzung. Der Risikoausschuss prüft, ob die durch das Vergütungssystem gesetzten Anreize die Risiko-, Kapital- und Liquiditätsstruktur des Unternehmens sowie die Wahrscheinlichkeit und Fälligkeit von Einnahmen berücksichtigen. Die Aufgaben des Vergütungskontrollausschusses nach Absatz 12 bleiben unberührt. Der Vorsitzende des Risikoausschusses soll weder Vorsitzender des Verwaltungs- oder Aufsichtsorgans noch Vorsitzender eines anderen Ausschusses sein. Der Vorsitzende des Risikoausschusses oder, falls ein Risikoausschuss nicht eingerichtet wurde, der Vorsitzende des Verwaltungs- oder Aufsichtsorgans, kann unmittelbar beim Leiter der Internen Revision und beim Leiter des Risikocontrollings Auskünfte einholen. Die Geschäftsleitung muss hierüber unterrichtet werden. Der Risikoausschuss kann, soweit erforderlich, den Rat externer Sachverständiger einholen. Der Risikoausschuss oder, falls ein solcher nicht eingerichtet wurde, das Verwaltungs- oder Aufsichtsorgan bestimmt Art, Umfang, Format und Häufigkeit der Informationen, die die Geschäftsleitung zum Thema Strategie und Risiko vorlegen muss.
+(8) Der Risikoausschuss berät das Verwaltungs- oder Aufsichtsorgan zur aktuellen und zur künftigen Gesamtrisikobereitschaft und -strategie des Unternehmens und unterstützt es bei der Überwachung der Umsetzung dieser Strategie durch die Mitarbeiter der unmittelbar der Geschäftsleitung nachgelagerten Führungsebene. Der Risikoausschuss wacht darüber, dass die Konditionen im Kundengeschäft mit dem Geschäftsmodell und der Risikostruktur des Unternehmens im Einklang stehen. Soweit dies nicht der Fall ist, verlangt der Risikoausschuss von der Geschäftsleitung Vorschläge, wie die Konditionen im Kundengeschäft in Übereinstimmung mit dem Geschäftsmodell und der Risikostruktur ausgestaltet werden können, und überwacht deren Umsetzung. Der Risikoausschuss prüft, ob die durch das Vergütungssystem gesetzten Anreize die Risiko-, Kapital- und Liquiditätsstruktur des Unternehmens sowie die Wahrscheinlichkeit und Fälligkeit von Einnahmen berücksichtigen. Die Aufgaben des Vergütungskontrollausschusses nach Absatz 12 bleiben unberührt. Der Vorsitzende des Risikoausschusses soll weder Vorsitzender des Verwaltungs- oder Aufsichtsorgans noch Vorsitzender eines anderen Ausschusses sein. Der Vorsitzende des Risikoausschusses oder, falls ein Risikoausschuss nicht eingerichtet wurde, der Vorsitzende des Verwaltungs- oder Aufsichtsorgans, kann unmittelbar beim Leiter der Internen Revision und beim Leiter des Risikocontrollings Auskünfte einholen. Die Geschäftsleitung muss hierüber grundsätzlich unterrichtet werden. Der Risikoausschuss kann, soweit erforderlich, den Rat externer Sachverständiger einholen. Der Risikoausschuss oder, falls ein solcher nicht eingerichtet wurde, das Verwaltungs- oder Aufsichtsorgan bestimmt Art, Umfang, Format und Häufigkeit der Informationen, die die Geschäftsleitung zum Thema Strategie und Risiko vorlegen muss.
 
 (9) Der Prüfungsausschuss unterstützt das Verwaltungs- oder Aufsichtsorgan insbesondere bei der Überwachung
 
@@ -3240,41 +3511,53 @@ Mehrere Mandate gelten auch dann im Sinne von Satz 3 als ein Mandat, wenn sich d
 
 4. der zügigen Behebung der vom Prüfer festgestellten Mängel durch die Geschäftsleitung mittels geeigneter Maßnahmen.
 
-Der Vorsitzende des Prüfungsausschusses muss über Sachverstand auf den Gebieten Rechnungslegung und Abschlussprüfung verfügen. Der Vorsitzende des Prüfungsausschusses oder, falls ein Prüfungsausschuss nicht eingerichtet wurde, der Vorsitzende des Verwaltungs- oder Aufsichtsorgans, kann unmittelbar beim Leiter der Internen Revision und beim Leiter des Risikocontrollings Auskünfte einholen. Die Geschäftsleitung muss hierüber unterrichtet werden.
+Der Vorsitzende des Prüfungsausschusses muss über Sachverstand auf den Gebieten Rechnungslegung und Abschlussprüfung verfügen. Der Vorsitzende des Prüfungsausschusses oder, falls ein Prüfungsausschuss nicht eingerichtet wurde, der Vorsitzende des Verwaltungs- oder Aufsichtsorgans, kann unmittelbar beim Leiter der Internen Revision und beim Leiter des Risikocontrollings Auskünfte einholen. Die Geschäftsleitung muss hierüber grundsätzlich unterrichtet werden.
 
 (10) Das Verwaltungs- oder Aufsichtsorgan eines in Absatz 3a Satz 1 genannten Unternehmens kann einen gemeinsamen Risiko- und Prüfungsausschuss bestellen, wenn dies unter Berücksichtigung der Kriterien nach Absatz 7 Satz 1 sinnvoll ist. Dies ist der Bundesanstalt mitzuteilen. Die Gründe für eine Zusammenlegung sind von dem Unternehmen zu dokumentieren. Auf den gemeinsamen Prüfungs- und Risikoausschuss finden die Absätze 8 und 9 entsprechende Anwendung.
 
 (11) Der Nominierungsausschuss unterstützt das Verwaltungs- oder Aufsichtsorgan bei der
 
-1. Ermittlung von Bewerbern für die Besetzung einer Stelle in der Geschäftsleitung und bei der Vorbereitung von Wahlvorschlägen für die Wahl der Mitglieder des Verwaltungs- oder Aufsichtsorgans; hierbei berücksichtigt der Nominierungsausschuss die Ausgewogenheit und Unterschiedlichkeit der Kenntnisse, Fähigkeiten und Erfahrungen aller Mitglieder des betreffenden Organs, entwirft eine Stellenbeschreibung mit Bewerberprofil und gibt den mit der Aufgabe verbundenen Zeitaufwand an;
+1. Ermittlung von Bewerbern für die Besetzung einer Stelle in der Geschäftsleitung und bei der Vorbereitung von Wahlvorschlägen für die Wahl der Mitglieder des Verwaltungs- oder Aufsichtsorgans; hierbei berücksichtigt der Nominierungsausschuss die Ausgewogenheit und Unterschiedlichkeit der Kenntnisse, Fähigkeiten und Erfahrungen aller Mitglieder des betreffenden Organs sowie die Zielsetzung und die Strategie nach Nummer 2, entwirft eine Stellenbeschreibung mit Bewerberprofil und gibt den mit der Aufgabe verbundenen Zeitaufwand an;
 
-2. Erarbeitung einer Zielsetzung zur Förderung der Vertretung des unterrepräsentierten Geschlechts im Verwaltungs- oder Aufsichtsorgan und in der Geschäftsleitung sowie einer Strategie zu deren Erreichung;
+2. Erarbeitung einer verhältnismäßigen Zielsetzung zur Förderung der Diversität einschließlich der Förderung eines ausgewogenen Geschlechterverhältnisses im Verwaltungs- oder Aufsichtsorgan und in der Geschäftsleitung sowie einer Strategie zu deren Erreichung;
 
 3. regelmäßig, mindestens einmal jährlich, durchzuführenden Bewertung der Struktur, Größe, Zusammensetzung und Leistung der Geschäftsleitung und des Verwaltungs- oder Aufsichtsorgans und spricht dem Verwaltungs- oder Aufsichtsorgan gegenüber diesbezügliche Empfehlungen aus;
 
 4. regelmäßig, mindestens einmal jährlich, durchzuführenden Bewertung der Kenntnisse, Fähigkeiten und Erfahrung sowohl der einzelnen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans als auch des jeweiligen Organs in seiner Gesamtheit und
 
-5. Überprüfung der Grundsätze der Geschäftsleitung für die Auswahl und Bestellung der Personen der oberen Leitungsebene und bei diesbezüglichen Empfehlungen an die Geschäftsleitung.
+5. Überprüfung der Grundsätze der Geschäftsleitung für die Auswahl und Bestellung der Mitarbeiter der unmittelbar der Geschäftsleitung nachgelagerten Führungsebene einschließlich der Inhaber von Schlüsselfunktionen und bei diesbezüglichen Empfehlungen an die Geschäftsleitung.
 
 Bei der Erfüllung seiner Aufgaben nach Satz 1 Nummer 3 achtet der Nominierungsausschuss darauf, dass die Entscheidungsfindung innerhalb der Geschäftsleitung durch einzelne Personen oder Gruppen nicht in einer Weise beeinflusst wird, die dem Unternehmen schadet. Der Umstand, ein Organmitglied eines verbundenen Unternehmens oder einer verbundenen Organisation zu sein, stellt an sich kein Hindernis für das erforderliche unvoreingenommene Handeln der Mitglieder der Geschäftsleitung und des Verwaltungs- oder Aufsichtsorgans dar. Bei der Wahrnehmung seiner Aufgaben kann der Nominierungsausschuss auf alle Ressourcen zurückgreifen, die er für angemessen hält, und auch externe Berater einschalten. Zu diesem Zwecke soll er vom Unternehmen angemessene Finanzmittel erhalten.
 
 (12) Der Vergütungskontrollausschuss
 
-1. überwacht die angemessene Ausgestaltung der Vergütungssysteme der Geschäftsleiter und Mitarbeiter, und insbesondere die angemessene Ausgestaltung der Vergütungen für die Leiter der Risikocontrolling-Funktion und der Compliance-Funktion sowie solcher Mitarbeiter, die einen wesentlichen Einfluss auf das Gesamtrisikoprofil des Instituts haben, und unterstützt das Verwaltungs- oder Aufsichtsorgan bei der Überwachung der angemessenen Ausgestaltung der Vergütungssysteme für die Mitarbeiter des Unternehmens; die Auswirkungen der Vergütungssysteme auf das Risiko-, Kapital- und Liquiditätsmanagement sind zu bewerten;
+1. überwacht die angemessene Ausgestaltung der Vergütungssysteme der Mitarbeiter und insbesondere solcher Mitarbeiter, die einen wesentlichen Einfluss auf das Gesamtrisikoprofil des Instituts haben;
 
-2. bereitet die Beschlüsse des Verwaltungs- oder Aufsichtsorgans über die Vergütung der Geschäftsleiter vor und berücksichtigt dabei besonders die Auswirkungen der Beschlüsse auf die Risiken und das Risikomanagement des Unternehmens; den langfristigen Interessen von Anteilseignern, Anlegern, sonstiger Beteiligter und dem öffentlichen Interesse ist Rechnung zu tragen;
+2. überwacht unmittelbar die angemessene Ausgestaltung der Vergütungssysteme der Geschäftsleiter und der Leiter der internen Kontrollfunktionen und unterstützt das Verwaltungs- oder Aufsichtsorgan bei der Überwachung der angemessenen Ausgestaltung der Vergütungssysteme für die Mitarbeiter des Unternehmens; die Auswirkungen der Vergütungssysteme auf das Risiko-, Kapital- und Liquiditätsmanagement sind zu bewerten;
 
-3. unterstützt das Verwaltungs- oder Aufsichtsorgan bei der Überwachung der ordnungsgemäßen Einbeziehung der internen Kontroll- und aller sonstigen maßgeblichen Bereiche bei der Ausgestaltung der Vergütungssysteme.
+3. bereitet die Beschlüsse des Verwaltungs- oder Aufsichtsorgans über die Vergütung der Geschäftsleiter vor und berücksichtigt dabei besonders die Auswirkungen der Beschlüsse auf die Risiken und das Risikomanagement des Unternehmens; den langfristigen Interessen von Anteilseignern, Anlegern, sonstiger Beteiligter und dem öffentlichen Interesse ist Rechnung zu tragen;
 
-Mindestens ein Mitglied des Vergütungskontrollausschusses muss über ausreichend Sachverstand und Berufserfahrung im Bereich Risikomanagement und Risikocontrolling verfügen, insbesondere im Hinblick auf Mechanismen zur Ausrichtung der Vergütungssysteme an der Gesamtrisikobereitschaft und -strategie und an der Eigenmittelausstattung des Unternehmens. Wenn dem Verwaltungs- oder Aufsichtsorgan entsprechend den Mitbestimmungsgesetzen Arbeitnehmervertreter angehören, muss dem Vergütungskontrollausschuss mindestens ein Arbeitnehmervertreter angehören. Der Vergütungskontrollausschuss soll mit dem Risikoausschuss zusammenarbeiten und soll sich intern beispielsweise durch das Risikocontrolling und extern von Personen beraten lassen, die unabhängig von der Geschäftsleitung sind. Geschäftsleiter dürfen nicht zu den Tagesordnungspunkten an Sitzungen des Vergütungskontrollausschusses teilnehmen, unter denen über ihre Vergütung beraten wird. Der Vorsitzende des Vergütungskontrollausschusses oder, falls ein Vergütungskontrollausschuss nicht eingerichtet wurde, der Vorsitzende des Verwaltungs- oder Aufsichtsorgans, kann unmittelbar beim Leiter der Internen Revision und bei den Leitern der für die Ausgestaltung der Vergütungssysteme zuständigen Organisationseinheiten Auskünfte einholen. Die Geschäftsleitung muss hierüber unterrichtet werden.
+4. unterstützt das Verwaltungs- oder Aufsichtsorgan bei der Überwachung der ordnungsgemäßen Einbeziehung der internen Kontroll- und aller sonstigen maßgeblichen Bereiche bei der Ausgestaltung der Vergütungssysteme.
+
+Das Verwaltungs- oder Aufsichtsorgan hat mindestens ein Mitglied in den Vergütungskontrollausschusses zu bestellen, das über ausreichend Sachverstand und Berufserfahrung im Bereich Risikomanagement und Risikocontrolling verfügt, insbesondere im Hinblick auf Mechanismen zur Ausrichtung der Vergütungssysteme an der Gesamtrisikobereitschaft und -strategie und an der Eigenmittelausstattung des Unternehmens. Wenn dem Verwaltungs- oder Aufsichtsorgan entsprechend den Mitbestimmungsgesetzen Arbeitnehmervertreter angehören, hat das Verwaltungs- oder Aufsichtsorgan in den Vergütungskontrollausschuss mindestens einen Arbeitnehmervertreter zu bestellen. Der Vergütungskontrollausschuss soll mit dem Risikoausschuss zusammenarbeiten und soll sich intern insbesondere durch die Risikocontrolling-Funktion und den Vergütungsbeauftragten sowie extern von Personen, die unabhängig von der Geschäftsleitung sind, beraten lassen. Geschäftsleiter dürfen nicht zu den Tagesordnungspunkten an Sitzungen des Vergütungskontrollausschusses teilnehmen, unter denen über ihre Vergütung beraten wird. Der Vorsitzende des Vergütungskontrollausschusses oder, falls ein Vergütungskontrollausschuss nicht eingerichtet wurde, der Vorsitzende des Verwaltungs- oder Aufsichtsorgans, kann unmittelbar beim Leiter der Internen Revision und bei den Leitern der für die Ausgestaltung der Vergütungssysteme zuständigen Organisationseinheiten Auskünfte einholen. Die Geschäftsleitung muss hierüber grundsätzlich unterrichtet werden.
 
 (13) (weggefallen)
 
-##### § 25e Anforderungen bei vertraglich gebundenen Vermittlern
+###### § 25e Anforderungen bei Inhabern von Schlüsselfunktionen und vertraglich gebundenen Vermittlern
 
-Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im Sinne des § 2 Absatz 10 Satz 1, hat es sicherzustellen, dass dieser zuverlässig und fachlich geeignet ist, bei der Erbringung der Finanzdienstleistungen die gesetzlichen Vorgaben erfüllt, Kunden vor Aufnahme der Geschäftsbeziehung über seinen Status nach § 2 Absatz 10 Satz 1 und 2 informiert und unverzüglich von der Beendigung dieses Status in Kenntnis setzt. Die erforderlichen Nachweise für die Erfüllung seiner Pflichten nach Satz 1 muss das CRR-Kreditinstitut mindestens bis zum Ablauf von fünf Jahren nach dem Ende des Status des vertraglich gebundenen Vermittlers aufbewahren. Nähere Bestimmungen zu den erforderlichen Nachweisen können durch Rechtsverordnung nach § 24 Absatz 4 getroffen werden.
+(1) Inhaber von Schlüsselfunktionen müssen fachlich geeignet und zuverlässig sein.
 
-##### § 25f Besondere Anforderungen an die ordnungsgemäße Geschäftsorganisation von CRR-Kreditinstituten sowie von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen, denen ein CRR-Kreditinstitut angehört; Verordnungsermächtigung
+(2) Die Institute sowie Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften ergreifen die erforderlichen Maßnahmen, um die ordnungsgemäße Ausübung der Schlüsselfunktionen sicherzustellen. Hierzu gehört auch, dass die Unternehmen den Inhaber einer Schlüsselfunktion ersetzen, wenn dieser die Voraussetzungen nach Absatz 1 nicht erfüllt.
+
+(3) Erfüllt ein Inhaber besonderer Schlüsselfunktionen nicht die Anforderungen des Absatzes 1, kann die Bundesanstalt verlangen,
+
+1. dass diesem die besondere Schlüsselfunktion nicht übertragen oder wieder entzogen wird oder
+
+2. dass das Unternehmen alle erforderlichen Maßnahmen ergreift, um sicherzustellen, dass die Person die Anforderungen erfüllt.
+
+(4) Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im Sinne des § 2 Absatz 10 Satz 1, hat es sicherzustellen, dass dieser zuverlässig und fachlich geeignet ist, bei der Erbringung der Finanzdienstleistungen die gesetzlichen Vorgaben erfüllt, Kunden vor Aufnahme der Geschäftsbeziehung über seinen Status nach § 2 Absatz 10 Satz 1 und 2 informiert und unverzüglich von der Beendigung dieses Status in Kenntnis setzt. Die erforderlichen Nachweise für die Erfüllung seiner Pflichten nach Satz 1 muss das CRR-Kreditinstitut mindestens bis zum Ablauf von fünf Jahren nach dem Ende des Status des vertraglich gebundenen Vermittlers aufbewahren. Nähere Bestimmungen zu den erforderlichen Nachweisen können durch Rechtsverordnung nach § 24 Absatz 4 getroffen werden.
+
+###### § 25f Besondere Anforderungen an die ordnungsgemäße Geschäftsorganisation von CRR-Kreditinstituten sowie von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen, denen ein CRR-Kreditinstitut angehört; Verordnungsermächtigung
 
 (1) Sämtliche Geschäfte im Sinne des § 3 Absatz 2 und Absatz 4 sind bei einem wirtschaftlich, organisatorisch und rechtlich eigenständigen Unternehmen (Finanzhandelsinstitut) zu betreiben. Für das Finanzhandelsinstitut gelten die zusätzlichen Anforderungen gemäß den Absätzen 2 bis 6 an eine ordnungsgemäße Geschäftsorganisation.
 
@@ -3292,7 +3575,7 @@ Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im 
 
 ## 5a. Bargeldloser Zahlungsverkehr; Verhinderung von Geldwäsche, Terrorismusfinanzierung und sonstigen strafbaren Handlungen zu Lasten der Institute
 
-##### § 25g Einhaltung der besonderen organisatorischen Pflichten im bargeldlosen Zahlungsverkehr
+###### § 25g Einhaltung der besonderen organisatorischen Pflichten im bargeldlosen Zahlungsverkehr
 
 (1) Die Bundesanstalt überwacht die Einhaltung der Pflichten der Kreditinstitute nach
 
@@ -3308,7 +3591,7 @@ Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im 
 
 (3) Die Bundesanstalt kann gegenüber einem Kreditinstitut und seinen Geschäftsleitern Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen die Pflichten nach den Verordnungen nach Absatz 1 Nummer 1 bis 4 zu verhindern oder zu unterbinden.
 
-##### § 25h Interne Sicherungsmaßnahmen
+###### § 25h Interne Sicherungsmaßnahmen
 
 (1) Institute sowie Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften nach § 25l müssen unbeschadet der in § 25a Absatz 1 dieses Gesetzes und der in den §§ 4 bis 6 des Geldwäschegesetzes aufgeführten Pflichten über ein angemessenes Risikomanagement sowie über interne Sicherungsmaßnahmen verfügen, die der Verhinderung von strafbaren Handlungen, die zu einer Gefährdung des Vermögens des Instituts führen können, dienen. Sie haben dafür angemessene geschäfts- und kundenbezogene Sicherungssysteme zu schaffen und zu aktualisieren sowie Kontrollen durchzuführen. Hierzu gehört auch die fortlaufende Entwicklung geeigneter Strategien und Sicherungsmaßnahmen zur Verhinderung des Missbrauchs von neuen Finanzprodukten und Technologien für Zwecke der Geldwäsche und der Terrorismusfinanzierung oder der Begünstigung der Anonymität von Geschäftsbeziehungen und Transaktionen.
 
@@ -3324,7 +3607,7 @@ Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im 
 
 (7) Die Funktion des Geldwäschebeauftragten im Sinne des § 7 des Geldwäschegesetzes und die Pflichten zur Verhinderung strafbarer Handlungen im Sinne des Absatzes 1 Satz 1 werden im Institut von einer Stelle wahrgenommen. Die Bundesanstalt kann auf Antrag des Instituts zulassen, dass eine andere Stelle im Institut für die Verhinderung der strafbaren Handlungen zuständig ist, soweit hierfür ein wichtiger Grund vorliegt.
 
-##### § 25i Allgemeine Sorgfaltspflichten in Bezug auf E-Geld
+###### § 25i Allgemeine Sorgfaltspflichten in Bezug auf E-Geld
 
 (1) Kreditinstitute haben bei der Ausgabe von E-Geld die Pflichten nach § 10 Absatz 1 des Geldwäschegesetzes zu erfüllen, auch wenn die Schwellenwerte nach § 10 Absatz 3 Nummer 2 des Geldwäschegesetzes nicht erreicht werden.
 
@@ -3362,21 +3645,21 @@ so kann die Bundesanstalt dem Kreditinstitut, das das E-Geld ausgibt, Anordnunge
 
 3. das E-Geld ausgebende Institut dazu verpflichten, dass es dem Risiko angemessene interne Sicherungsmaßnahmen ergreift.
 
-##### § 25j Zeitpunkt der Identitätsüberprüfung
+###### § 25j Zeitpunkt der Identitätsüberprüfung
 
 Abweichend von § 11 Absatz 1 des Geldwäschegesetzes kann die Überprüfung der Identität des Vertragspartners, einer für diesen auftretenden Person und des wirtschaftlich Berechtigten auch unverzüglich nach der Eröffnung eines Kontos oder Depots abgeschlossen werden. In diesem Fall muss sichergestellt sein, dass vor Abschluss der Überprüfung der Identität keine Gelder von dem Konto oder dem Depot abverfügt werden können. Für den Fall einer Rückzahlung eingegangener Gelder dürfen diese nur an den Einzahler ausgezahlt werden.
 
-##### § 25k Verstärkte Sorgfaltspflichten
+###### § 25k Verstärkte Sorgfaltspflichten
 
 (1) Abweichend von § 10 Absatz 3 Satz 1 Nummer 2 Buchstabe b des Geldwäschegesetzes bestehen die Sorgfaltspflichten nach § 10 Absatz 1 Nummer 1, 2 und 4 des Geldwäschegesetzes für Institute bei der Annahme von Bargeld ungeachtet etwaiger im Geldwäschegesetz oder in diesem Gesetz genannter Schwellenbeträge, soweit ein Sortengeschäft nach § 1 Absatz 1a Satz 2 Nummer 7 nicht über ein bei dem Institut eröffnetes Konto des Kunden abgewickelt wird und die Transaktion einen Wert von 2 500 Euro oder mehr aufweist.
 
 (2) Institute, die Factoring nach § 1 Absatz 1a Satz 2 Nummer 9 betreiben, haben angemessene Maßnahmen zu ergreifen, um einem erkennbar erhöhten Geldwäscherisiko bei der Annahme von Zahlungen von Debitoren zu begegnen, die bei Abschluss des Rahmenvertrags unbekannt waren.
 
-##### § 25l Geldwäscherechtliche Pflichten für Finanzholding-Gesellschaften
+###### § 25l Geldwäscherechtliche Pflichten für Finanzholding-Gesellschaften
 
 Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften mit Sitz im Inland, die über eine Zulassung nach § 2f Absatz 1 verfügen, sind Verpflichtete nach § 2 Absatz 1 Nummer 1 des Geldwäschegesetzes. Sie unterliegen insoweit auch der Aufsicht der Bundesanstalt nach § 50 Nummer 1 des Geldwäschegesetzes.
 
-##### § 25m Verbotene Geschäfte
+###### § 25m Verbotene Geschäfte
 
 Verboten sind:
 
@@ -3386,7 +3669,7 @@ Verboten sind:
 
 ## 5b. Vorlage von Rechnungslegungsunterlagen
 
-##### § 26 Vorlage von Jahresabschluß, Lagebericht und Prüfungsberichten
+###### § 26 Vorlage von Jahresabschluß, Lagebericht und Prüfungsberichten
 
 (1) Die Institute haben den Jahresabschluß in den ersten drei Monaten des Geschäftsjahres für das vergangene Geschäftsjahr aufzustellen und den aufgestellten sowie später den festgestellten Jahresabschluß und den Lagebericht der Bundesanstalt und der Deutschen Bundesbank nach Maßgabe des Satzes 2 jeweils unverzüglich einzureichen. Der Jahresabschluß muß mit dem Bestätigungsvermerk oder einem Vermerk über die Versagung der Bestätigung versehen sein. Der Abschlußprüfer hat den Bericht über die Prüfung des Jahresabschlusses (Prüfungsbericht) unverzüglich nach Beendigung der Prüfung der Bundesanstalt und der Deutschen Bundesbank einzureichen. Bei Kreditinstituten, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, hat der Abschlußprüfer den Prüfungsbericht nur auf Anforderung der Bundesanstalt einzureichen.
 
@@ -3398,7 +3681,7 @@ Verboten sind:
 
 ## 5c. Offenlegung
 
-##### § 26a Offenlegung durch die Institute
+###### § 26a Offenlegung durch die Institute
 
 (1) Zusätzlich zu den Angaben, die nach den Artikeln 435 bis 455 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung zu machen sind, sind die rechtliche und die organisatorische Struktur sowie die Grundsätze einer ordnungsgemäßen Geschäftsführung der Gruppe darzustellen. Die CRR-Kreditinstitute haben darüber hinaus auf konsolidierter Basis, aufgeschlüsselt nach Mitgliedstaaten der Europäischen Union und Drittstaaten, in denen die Institute über Niederlassungen verfügen, folgende Angaben in eine Anlage zum Jahresabschluss im Sinne des § 26 Absatz 1 Satz 2 aufzunehmen, von einem Abschlussprüfer nach Maßgabe des § 340k des Handelsgesetzbuchs prüfen zu lassen und offenzulegen:
 
@@ -3416,23 +3699,79 @@ Verboten sind:
 
 Ist das CRR-Kreditinstitut in den Konzernabschluss eines anderen Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum einbezogen, das den Anforderungen der Richtlinie 2013/36/EU unterworfen ist, braucht es die Angaben nach Satz 2 nicht zu machen. In ihrem Jahresbericht legen die CRR-Kreditinstitute ihre Kapitalrendite, berechnet als Quotient aus Nettogewinn und Bilanzsumme offen. Global systemrelevante Institute, die im Inland zugelassen sind, sind verpflichtet, der Europäischen Kommission die in Satz 2 Nummer 4 bis 6 genannten Angaben bis zum 1. Juli 2014 auf vertraulicher Basis zu übermitteln. Das Nähere zu den Anforderungen in Satz 2 bis 5 regelt die Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 10.
 
-(2) Kommt ein Institut seinen Offenlegungspflichten in anderen als den in Artikel 432 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung genannten Fällen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nach, kann die Bundesanstalt im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die ordnungsgemäße Offenlegung der Informationen zu veranlassen. Die Bundesanstalt kann von den Artikeln 433 bis 434 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung abweichende Zeitpunkte und Orte für die Veröffentlichung festlegen oder die Offenlegung zusätzlicher Informationen verlangen.
+(2) Kommt ein Institut seinen Offenlegungspflichten in anderen als den in Artikel 432 der Verordnung (EU) Nr. 575/2013 genannten Fällen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nach, kann die Aufsichtsbehörde im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die ordnungsgemäße Offenlegung der Informationen zu veranlassen. Die Aufsichtsbehörde kann von den Artikeln 433 bis 434 der Verordnung (EU) Nr. 575/2013 abweichende Zeitpunkte und Orte für die Veröffentlichung festlegen oder die Offenlegung zusätzlicher Informationen verlangen. Die Aufsichtsbehörde kann Instituten, die keine kleinen und nicht komplexen Institute im Sinne des Artikels 4 Absatz 1 Unterabsatz 1 Nummer 145 der Verordnung (EU) 575/2013 sind, Fristen setzen für die Übermittlung von zu veröffentlichenden Informationen an die Europäische Bankenaufsichtsbehörde für deren zentralisierte Offenlegungen.
 
 ## 5d. Besondere Pflichten bei qualifizierter Kryptoverwahrung
 
-##### § 26b Vermögenstrennung
+###### § 26b Vermögenstrennung
 
 (1) Ein Institut, das das qualifizierte Kryptoverwahrgeschäft betreibt, hat sicherzustellen, dass die kryptografischen Instrumente und privaten kryptographischen Schlüssel der Kunden getrennt von den kryptografischen Instrumenten und privaten kryptographischen Schlüsseln des Instituts verwahrt werden. Werden kryptografische Instrumente mehrerer Kunden gebündelt verwahrt (gemeinschaftliche Verwahrung), so ist sicherzustellen, dass sich die den einzelnen Kunden zustehenden Anteile am gemeinschaftlich verwahrten Gesamtbestand jederzeit bestimmen lassen.
 
 (2) Das Institut hat sicherzustellen, dass über die verwahrten kryptografischen Instrumente und privaten kryptographischen Schlüssel des Kunden ohne dessen ausdrückliche Einwilligung nicht für eigene Rechnung des Instituts oder für Rechnung einer anderen Person verfügt werden kann.
 
+## 5e. Besondere Pflichten in Bezug auf Umwelt-, Sozial- und Unternehmensführungsrisiken
+
+###### § 26c ESG-Risiken im Risikomanagement
+
+(1) Im Rahmen des Risikomanagements nach § 25a sind ESG-Risiken wie folgt zu berücksichtigen:
+
+1. im Rahmen der Risikostrategie ist ein ESG-Risikoplan nach § 26d zu erstellen;
+
+2. die in § 25a Absatz 1 Nummer 1 vorgesehenen Strategien und die hierfür eingerichteten Prozesse zur Berücksichtigung von Risiken, die auf die kurz-, mittel- und langfristigen Auswirkungen von ESG-Faktoren zurückzuführen sind, sind von kleinen und nicht komplexen Instituten im Sinne des Artikels 4 Absatz 1 Unterabsatz 1 Nummer 145 der Verordnung (EU) Nr. 575/2013 alle zwei Jahre und von den übrigen Instituten in Abhängigkeit von Art, Umfang, Komplexität und Risikogehalt der Geschäftstätigkeit regelmäßig, mindestens aber alle zwei Jahre, zu überprüfen und soweit erforderlich anzupassen;
+
+3. im Rahmen der Verfahren nach § 25a Absatz 1 Nummer 2 sind auch die ESG-Risiken zu erfassen, für welche das Institut ausdrücklich die kurz-, mittel- und langfristige Sicht berücksichtigt;
+
+4. die Prozesse in § 25a Absatz 1 Nummer 3 Buchstabe b berücksichtigen auch den Umfang, die Art und die Komplexität der ESG-Risiken des Geschäftsmodells sowie dem Umfang der Tätigkeiten des Instituts angemessene Prozesse im Hinblick auf über kurze, mittlere und lange Sicht von mindestens 10 Jahren zu betrachtende ESG-Risiken;
+
+5. die personelle und technisch-organisatorische Ausstattung des Instituts in § 25a Absatz 1 Nummer 4 ist geeignet, auch die Ermittlung, Beurteilung, Steuerung und Überwachung von ESG-Risiken auf kurze, mittlere und lange Sicht von mindestens 10 Jahren zu ermöglichen, und
+
+6. die Vergütungssysteme für Geschäftsleiter und Mitarbeiter nach § 25a Absatz 1 Nummer 6 berücksichtigen auch die Risikoneigung des Instituts in Bezug auf ESG-Risiken.
+
+(2) Die Kenntnisse, Fähigkeiten und Erfahrungen der Geschäftsleiter zum Verständnis der Tätigkeiten und Hauptrisiken nach § 25c Absatz 1a müssen ESG-Risiken auf kurze, mittlere und lange Sicht und die vom Institut auf ESG-Faktoren verursachten Auswirkungen umfassen.
+
+(3) Institute müssen die angemessenen personellen und finanziellen Ressourcen nach § 25c Absatz 4 auch einsetzen, um die fachliche Eignung der Mitglieder der Geschäftsleitung auch in Bezug auf ESG-Risiken und deren Auswirkungen sicherzustellen.
+
+(4) Die Strategien, Prozesse, Verfahren, Funktionen und Konzepte nach § 25c Absatz 4a, die Teil der Gesamtverantwortung der Geschäftsleiter für die ordnungsgemäße Geschäftsorganisation nach § 25a Absatz 1 Satz 2 sind, müssen ESG-Risiken wie folgt berücksichtigen:
+
+1. in der Gesamtstrategie nach § 25c Absatz 4a Nummer 1 Buchstabe a sind auch die angemessen zu den ESG-Risiken des Geschäftsmodells und dem Umfang der Tätigkeiten des Instituts ausgestalteten Ziele im Hinblick auf die aktuellen, kurz-, mittel- und langfristig über mindestens 10 Jahre betrachteten ESG-Risiken zu dokumentieren;
+
+2. die in der Risikostrategie nach § 25c Absatz 4a Nummer 1 Buchstabe b genannten Ziele der Risikosteuerung der wesentlichen Geschäftsaktivitäten umfassen auch angemessen zu den ESG-Risiken des Geschäftsmodells und dem Umfang der Tätigkeiten des Instituts ausgestaltete Grundsätze, Kennzahlen und Obergrenzen zur Steuerung und Überwachung der auf aktuelle, kurze, mittlere und lange Sicht von mindestens 10 Jahren betrachteten jeweils relevanten ESG-Risiken;
+
+3. im Rahmen der Risikoinventur nach § 25c Absatz 4a Nummer 2 Buchstabe a werden die Auswirkungen von ESG-Risiken auf kurze, mittlere und lange Sicht bei der Identifizierung und Definition von Risiken berücksichtigt und
+
+4. im Rahmen der regelmäßig durchzuführenden Stresstests innerhalb der internen Kontrollverfahren nach § 25c Absatz 4a Nummer 3 Buchstabe f haben die Geschäftsleiter dafür Sorge zu tragen, dass diese Stresstests auch die Auswirkungen von ESG-Risiken angemessen berücksichtigen; Institute testen überdies die langfristige Resilienz ihres Geschäftsmodells gegenüber ESG-Risiken, allen voran Klimarisiken, unter Verwendung einer Reihe von auf ESG-Faktoren bezogenen Szenarien, welche auf von anerkannten internationalen Organisationen entwickelten Szenarien beruhen.
+
+(5) Die Strategien, Prozesse, Verfahren, Funktionen und Konzepte nach § 25c Absatz 4b müssen ESG-Risiken entsprechend den Anforderungen des Absatzes 4 mit der Maßgabe umfassen, dass an die Stelle der Ziele, Tätigkeiten und des Geschäftsmodells des Instituts die Ziele, Tätigkeiten und das Geschäftsmodell der Gruppe treten.
+
+(6) Institute, Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften müssen im Rahmen von § 25d Absatz 4 die erforderliche Sachkunde der Mitglieder des Verwaltungs- oder Aufsichtsorgans auch in Bezug auf ESG-Risiken und deren Auswirkungen sicherstellen.
+
+(7) Die Überprüfung der durch das Vergütungssystem gesetzten Anreize nach § 25d Absatz 8 Satz 4 durch den Risikoausschuss schließt bei der Berücksichtigung der Risikostruktur auch die ESG-Risiken ein.
+
+###### § 26d ESG-Risikoplan
+
+(1) Die Geschäftsleiter haben dafür Sorge zu tragen, dass ein spezifischer Plan zur Überwachung und Steuerung der ESG-Risiken (ESG-Risikoplan) sowie Prozesse zur Planung, Umsetzung, Beurteilung und Anpassung dieses Plans erstellt werden. Die Geschäftsleiter haben mindestens dafür Sorge zu tragen, dass
+
+1. der ESG-Risikoplan die finanziellen Risiken adressiert, die sich aus Umwelt-, Sozial- und Unternehmensführungsfaktoren (ESG-Faktoren) ergeben, einschließlich der Risiken aus dem Anpassungsprozess im Zusammenhang mit den einschlägigen regulatorischen Zielen und Rechtsakten der Europäischen Union und der Mitgliedstaaten in Bezug auf ESG-Faktoren sowie – falls für international tätige Institute relevant – mit den einschlägigen rechtlichen und regulatorischen Zielen von Drittstaaten;
+
+2. die in Nummer 1 genannten Risiken auf kurze, mittlere und lange Sicht von mindestens 10 Jahren überwacht und gesteuert werden;
+
+3. der ESG-Risikoplan den ESG-Risiken des Geschäftsmodells und dem Umfang der Tätigkeiten des Instituts angemessene und quantifizierbare Ziele und Kennzahlen zur Steuerung der in Nummer 1 genannten Risiken festlegt sowie Verfahren zu deren Überwachung definiert;
+
+4. die in Nummer 3 genannten Ziele und Verfahren die jeweils aktuellsten Berichte des Europäischen Wissenschaftlichen Beirats für Klimawandel und die von ihm bestimmten Maßnahmen berücksichtigen, insbesondere in Bezug auf die Erreichung der Klimaziele der Europäischen Union, und
+
+5. der ESG-Risikoplan mit anderen offenzulegenden Angaben kohärent ist.
+
+Dabei können kleine und nicht komplexe Institute im Sinne von Artikel 4 Absatz 1 Nummer 145 der Verordnung (EU) Nr. 575/2013 und solche, die nach Art, Umfang, Komplexität und Risikogehalt der Geschäftstätigkeit mit diesen vergleichbar sind, Ziele, Kennzahlen und Verfahren unter Berücksichtigung von Art, Umfang und Komplexität ihres Geschäftsmodells festlegen, anhand derer sie ESG-Risiken überwachen und steuern; dabei sollen sie etwaige Beschränkungen der Verfügbarkeit von ESG-Informationen von verschiedenen Gegenparteien der Institute, die sich aus auf diese anwendbaren gesetzlichen Vorgaben für die Rechnungslegung und für die sonstige hinsichtlich ESG-Risiken relevante Berichterstattung oder für entsprechende Sorgfaltspflichten sowie etablierten Industriestandards ergibt, berücksichtigen. Insbesondere können die in Satz 3 genannten Institute ihre Ziele und Verfahren unter Berücksichtigung ihres jeweiligen institutsspezifischen Risikoprofils rein qualitativ beschreiben. Abweichend von Satz 1 Nummer 1 des vorliegenden Absatzes dürfen die in Satz 3 genannten Institute ihren ESG-Risikoplan bis zum 31. Dezember 2029 auf finanzielle Risiken im Zusammenhang mit umweltbezogenen Risiken, insbesondere Klimarisiken, beschränken. Abweichend von Satz 1 Nummer 4 des vorliegenden Absatzes entscheiden die in Satz 3 genannten Institute, inwiefern sie die jüngsten Berichte des Europäischen Wissenschaftlichen Beirats für Klimawandel und die von ihnen bestimmten Maßnahmen in ihrem ESG-Risikoplan berücksichtigen.
+
+(2) Die Verpflichtung nach Absatz 1 gilt auch für Gruppen gemäß § 25c Absatz 4b Satz 1.
+
 ## 6. Prüfung und Prüferbestellung
 
-##### § 27
+###### § 27
 
 (aufgehoben)
 
-##### § 28 Bestellung des Prüfers in besonderen Fällen
+###### § 28 Bestellung des Prüfers in besonderen Fällen
 
 (1) Die Institute haben der Bundesanstalt und der Deutschen Bundesbank den von ihnen bestellten Prüfer unverzüglich nach der Bestellung anzuzeigen. Die Bundesanstalt kann innerhalb von zwei Monaten nach Zugang der Anzeige die Bestellung eines anderen Prüfers verlangen, wenn dies zur Erreichung des Prüfungszwecks geboten ist. Die Bestellung eines anderen Prüfers ist in der Regel zur Erreichung des Prüfungszwecks geboten, wenn ein Institut, das kein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des Handelsgesetzbuchs ist, der Bundesanstalt für mindestens elf aufeinanderfolgende Geschäftsjahre denselben Prüfer angezeigt hat. Hat das Institut eine Wirtschaftsprüfungsgesellschaft zum Prüfer bestellt, die in einem der beiden vorangegangenen Geschäftsjahre Prüfer des Instituts war, kann die Bundesanstalt den Wechsel des verantwortlichen Prüfungspartners verlangen, wenn die vorangegangene Prüfung einschließlich des Prüfungsberichts den Prüfungszweck nicht erfüllt hat; § 43 Absatz 3 Satz 3 der Wirtschaftsprüferordnung gilt entsprechend. Die Bundesanstalt kann die Bestellung eines anderen Prüfers oder den Wechsel des verantwortlichen Prüfungspartners auch dann verlangen, wenn ihr Tatsachen bekannt werden, die die Annahme rechtfertigen, dass der Prüfer seine Pflichten nach § 29 Absatz 3 verletzt hat.
 
@@ -3448,7 +3787,7 @@ Die Bestellung durch das Gericht ist endgültig. § 318 Abs. 5 des Handelsgesetz
 
 (3) Absatz 1 Satz 1 bis 3 und Absatz 2 gelten nicht für Kreditinstitute, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden. Absatz 1 Satz 4 und 5 gilt gegenüber diesen Kreditinstituten mit der Maßgabe entsprechend, dass die Bundesanstalt den Wechsel des verantwortlichen Prüfungspartners verlangen kann.
 
-##### § 29 Besondere Pflichten des Prüfers
+###### § 29 Besondere Pflichten des Prüfers
 
 (1) Als Teil der Prüfung des Jahresabschlusses sowie eines Zwischenabschlusses hat der Prüfer auch die wirtschaftlichen Verhältnisse des Instituts zu prüfen. Bei der Prüfung des Jahresabschlusses hat er insbesondere festzustellen, ob das Institut die folgenden Anzeigepflichten und Anforderungen erfüllt hat:
 
@@ -3456,11 +3795,11 @@ Die Bestellung durch das Gericht ist endgültig. § 318 Abs. 5 des Handelsgesetz
 
 2. die Anforderungen
 
-a) nach § 3 Absatz 2 und 3, nach den §§ 10a, 10c bis 10j jeweils auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5, nach den §§ 11, 13 bis 13c, 18, 18a, 25 Absatz 1 und 2, § 25a Absatz 1 Satz 3 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 25 Absatz 3 und § 25a Absatz 5 auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 6, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 3, nach den §§ 25b, 25c Absatz 2 bis 4b, § 25d Absatz 3 bis 12, nach den §§ 26a und § 26b, nach den §§ 13 und 14 Absatz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22, nach § 51a Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51a Absatz 1, nach § 51b Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51b Absatz 2 und nach § 51c Absatz 1,
+a) nach § 3 Absatz 2 und 3, nach den §§ 10a, 10c bis 10j jeweils auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5, nach den §§ 11, 13 bis 13c, 18, 18a, 25 Absatz 1 und 2, § 25a Absatz 1 Satz 3 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 25 Absatz 3 und § 25a Absatz 5 auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 6, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 3, nach den §§ 25b, 25c Absatz 2 bis 4b, § 25d Absatz 3 bis 12, nach den §§ 26a und 26b, nach § 13, nach den §§ 26c und 26d, nach § 51a Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51a Absatz 1, nach § 51b Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51b Absatz 2 und nach § 51c Absatz 1,
 
 b) nach den §§ 17, 20, 23, 25 und 27 des Finanzkonglomerate-Aufsichtsgesetzes,
 
-c) nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, nach den Artikeln 4a und 9 Absatz 1 bis 4 sowie Artikel 11 Absatz 1 bis 10, 11 Unterabsatz 1 und Absatz 12 der Verordnung (EU) Nr. 648/2012,
+c) nach Artikel 4 Absatz 1, 2, 3 Unterabsatz 2 und Absatz 3a, nach den Artikeln 4a und 7a Absatz 1 bis 5, nach Artikel 7b Absatz 1 und 2, nach Artikel 7c Absatz 1 bis 3, nach Artikel 7d Absatz 1, nach Artikel 9 Absatz 1 bis 3 sowie Artikel 11 Absatz 1 bis 11 Unterabsatz 1 und Absatz 12 der Verordnung (EU) Nr. 648/2012,
 
 d) nach den Artikeln 92 bis 386 der Verordnung (EU) Nr. 575/2013 auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 1 Satz 1, nach den Artikeln 387 bis 403 und 411 bis 430b der Verordnung (EU) Nr. 575/2013 auch in Verbindung mit einer Rechtsverordnung nach § 13 Absatz 1 Satz 1,
 
@@ -3484,7 +3823,7 @@ m) nach den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 d
 
 Ist ein Institut nach § 2a Absatz 1 freigestellt, hat der Prüfer den Fortbestand der in Artikel 7 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung genannten Voraussetzungen zu prüfen. Ist ein Institut nach § 2a Absatz 3 freigestellt, hat der Prüfer den Fortbestand der in Artikel 8 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung genannten Voraussetzungen zu prüfen. Hat die Bundesanstalt nach § 30 gegenüber dem Institut Bestimmungen über den Inhalt der Prüfung getroffen, sind diese vom Prüfer zu berücksichtigen. Sofern dem haftenden Eigenkapital des Instituts nicht realisierte Reserven zugerechnet werden, hat der Prüfer bei der Prüfung des Jahresabschlusses auch zu prüfen, ob bei der Ermittlung dieser Reserven § 10 Absatz 4a bis 4c in der bis zum 31. Dezember 2013 geltenden Fassung beachtet worden ist. Bei einem Kreditinstitut, das aufgefordert wurde, einen Sanierungsplan nach § 12 des Sanierungs- und Abwicklungsgesetzes aufzustellen, hat der Prüfer auch zu prüfen, ob der Sanierungsplan die Voraussetzungen nach § 12 Absatz 1 sowie nach § 13 Absatz 1 bis 4 des Sanierungs- und Abwicklungsgesetzes erfüllt. Das Ergebnis ist in den Prüfungsbericht aufzunehmen.
 
-(1a) Absatz 1 gilt hinsichtlich der Anforderungen nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, nach den Artikeln 4a und 9 Absatz 1 bis 4 sowie Artikel 11 Absatz 1 bis 10, 11 Unterabsatz 1 und Absatz 12 der Verordnung (EU) Nr. 648/2012 für die Prüfung des Jahresabschlusses von zentralen Gegenparteien mit der Maßgabe, dass der Prüfer zusätzlich zu prüfen hat, ob die Anforderungen nach Artikel 7 Absatz 1 bis 4, Artikel 8 Absatz 1 bis 4, den Artikeln 26, 29 und 33 bis 54 der Verordnung (EU) Nr. 648/2012 und nach Artikel 29 Absatz 2, den Artikeln 30 und 35 der Verordnung (EU) Nr. 600/2014 sowie der gemäß diesen Artikeln erlassenen technischen Regulierungsstandards eingehalten sind. Satz 1 gilt entsprechend für den verkürzten Abschluss einer zentralen Gegenpartei, wenn ein solcher nach den gesetzlichen Vorgaben zu erstellen ist.
+(1a) Absatz 1 gilt hinsichtlich der Anforderungen nach Artikel 4 Absatz 1, 2, 3 Unterabsatz 2 und Absatz 3a, nach den Artikeln 4a und 7a Absatz 1 bis 5, nach Artikel 7b Absatz 1 und 2, nach Artikel 7c Absatz 1 bis 3, nach Artikel 7d Absatz 1, nach Artikel 9 Absatz 1 bis 3 sowie Artikel 11 Absatz 1 bis 11 Unterabsatz 1 und Absatz 12 der Verordnung (EU) Nr. 648/2012 für die Prüfung des Jahresabschlusses von zentralen Gegenparteien mit der Maßgabe, dass der Prüfer zusätzlich zu prüfen hat, ob die Anforderungen nach Artikel 7 Absatz 1 bis 4, den Artikeln 7e, 8 Absatz 1 bis 4, den Artikeln 26, 29 und 33 bis 54 der Verordnung (EU) Nr. 648/2012 und nach Artikel 29 Absatz 2, den Artikeln 30 und 35 der Verordnung (EU) Nr. 600/2014 sowie der gemäß diesen Artikeln erlassenen technischen Regulierungsstandards eingehalten sind. Satz 1 gilt entsprechend für den verkürzten Abschluss einer zentralen Gegenpartei, wenn ein solcher Abschluss nach den gesetzlichen Vorgaben zu erstellen ist.
 
 (1b) Bei der Prüfung des Jahresabschlusses eines Zentralverwahrers ist auch zu prüfen, ob die Anforderungen nach den Artikeln 6, 7, 26 bis 53, 54 Absatz 3 und nach Artikel 59 der Verordnung (EU) Nr. 909/2014 sowie nach den gemäß diesen Artikeln von der Europäischen Kommission erlassenen technischen Regulierungs- und Durchführungsstandards eingehalten sind. Bei der Prüfung des Jahresabschlusses eines Kreditinstituts, das von einem Zentralverwahrer nach Artikel 54 Absatz 4 der Verordnung (EU) Nr. 909/2014 dazu benannt wurde, bankartige Nebendienstleistungen zu erbringen, ist zudem zu prüfen, ob die Anforderungen nach Artikel 54 Absatz 4 und Artikel 59 der Verordnung (EU) Nr. 909/2014 sowie nach den gemäß diesen Artikeln von der Europäischen Kommission erlassenen technischen Regulierungs- und Durchführungsstandards eingehalten sind. Die Sätze 1 und 2 gelten entsprechend für den verkürzten Abschluss eines Zentralverwahrers, wenn ein solcher nach den gesetzlichen Vorgaben zu erstellen ist.
 
@@ -3502,13 +3841,13 @@ Ist ein Institut nach § 2a Absatz 1 freigestellt, hat der Prüfer den Fortbesta
 
 zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um Missstände, welche die Sicherheit der einem Institut anvertrauten Vermögenswerte gefährden oder die ordnungsgemäße Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen können, zu erkennen sowie einheitliche Unterlagen zur Beurteilung der von den Instituten durchgeführten Geschäfte zu erhalten. In der Rechtsverordnung kann bestimmt werden, dass die in den Absätzen 1 bis 3 geregelten Pflichten auch bei der Prüfung des Konzernabschlusses einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe oder eines Finanzkonglomerats einzuhalten sind; nähere Bestimmungen über den Gegenstand der Prüfung, den Zeitpunkt ihrer Durchführung und den Inhalt des Prüfungsberichts können dabei nach Maßgabe des Satzes 1 erlassen werden. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-##### § 30 Bestimmung von Prüfungsinhalten
+###### § 30 Bestimmung von Prüfungsinhalten
 
 Unbeschadet der besonderen Pflichten des Prüfers nach § 29 kann die Bundesanstalt auch gegenüber dem Institut Bestimmungen über den Inhalt der Prüfung treffen, die vom Prüfer im Rahmen der Jahresabschlussprüfung zu berücksichtigen sind. Sie kann insbesondere Schwerpunkte für die Prüfungen festlegen.
 
 ## 7. Befreiungen
 
-##### § 31 Befreiungen; Verordnungsermächtigung
+###### § 31 Befreiungen; Verordnungsermächtigung
 
 (1) Das Bundesministerium der Finanzen kann nach Anhörung der Deutschen Bundesbank durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
@@ -3534,15 +3873,15 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnu
 
 ## 1. Zulassung zum Geschäftsbetrieb
 
-##### § 32 Erlaubnis
+###### § 32 Erlaubnis
 
 (1) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen will, bedarf der schriftlichen oder elektronischen Erlaubnis der Aufsichtsbehörde; die Bundesanstalt hat § 37 Absatz 4 des Verwaltungsverfahrensgesetzes anzuwenden. Soweit diese Geschäfte durch eine Erlaubnis nach § 15 des Wertpapierinstitutsgesetzes gedeckt sind, tritt dahinter der Erlaubnisvorbehalt nach Satz 1 zurück und gilt das Unternehmen nicht als Institut im Sinne dieses Gesetzes bis zu dem Tag, an dem
 
 1. der über einen Zeitraum von zwölf aufeinander folgenden Monaten berechnete Monatsdurchschnitt der gesamten Vermögenswerte des Unternehmens 30 Milliarden Euro überschreitet und es das Emissionsgeschäft, den Eigenhandel oder das Eigengeschäft betreibt oder
 
-2. der über einen Zeitraum von zwölf aufeinander folgenden Monaten berechnete Monatsdurchschnitt der gesamten konsolidierten Vermögenswerte aller Unternehmen der Gruppe, die das Emissionsgeschäft, den Eigenhandel oder das Eigengeschäft betreiben, 30 Milliarden Euro überschreitet.
+2. der über zwölf aufeinander folgende Monate berechnete Durchschnitt der gesamten Vermögenswerte zwar unter 30 Milliarden Euro liegt, das Unternehmen aber zu einer Gruppe gehört, in der die konsolidierte Bilanzsumme aller in der Europäischen Union niedergelassenen Unternehmen der Gruppe, einschließlich ihrer in Drittländern niedergelassenen Zweigstellen und Tochterunternehmen, die einzeln auch über Gesamtvermögen von weniger als 30 Milliarden Euro verfügen und das Emissionsgeschäft, den Eigenhandel oder das Eigengeschäft betreiben, 30 Milliarden Euro entspricht oder überschreitet; beides wird berechnet als Durchschnitt von zwölf aufeinander folgenden Monaten.
 
-Gegebenenfalls ist der Antrag auf Erteilung einer Erlaubnis nach Satz 1 unverzüglich nachzuholen. War das Unternehmen zu dem Zeitpunkt, da es oder die Gruppe die in Satz 2 bestimmte Grenze überschreitet, nach § 15 des Wertpapierinstitutsgesetzes erlaubt tätig, darf es im Rahmen dieser Erlaubnis sein Wertpapiergeschäft fortsetzen, bis die Aufsichtsbehörde über den Erlaubnisantrag bestandskräftig entschieden hat. Der Antragsteller muss seinem Erlaubnisantrag Folgendes beifügen:
+Gegebenenfalls ist der Antrag auf Erteilung einer Erlaubnis nach Satz 1 unverzüglich nachzuholen. War das Unternehmen zu dem Zeitpunkt, da es oder die Gruppe die in Satz 2 bestimmte Grenze überschreitet, nach § 15 des Wertpapierinstitutsgesetzes erlaubt tätig, darf es im Rahmen dieser Erlaubnis sein Wertpapiergeschäft fortsetzen, bis die Aufsichtsbehörde über den Erlaubnisantrag oder den Antrag nach Absatz 1g bestandskräftig entschieden hat. Der Antragsteller muss seinem Erlaubnisantrag Folgendes beifügen:
 
 1. einen geeigneten Nachweis der zum Geschäftsbetrieb erforderlichen Mittel;
 
@@ -3618,6 +3957,16 @@ Einer schriftlichen oder elektronischen Erlaubnis der Bundesanstalt bedarf es au
 
 (1g) Ein Unternehmen mit Sitz in einem Drittstaat bedarf für das Betreiben des Eigenhandels im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe a keiner schriftlichen Erlaubnis nach Absatz 1, wenn es den Eigenhandel als Mitglied einer Börse oder als Teilnehmer eines Handelsplatzes betreibt; dies gilt bis zu einer Entscheidung der Europäischen Wertpapier- und Marktaufsichtsbehörde über eine Eintragung des Unternehmens in das Register nach Artikel 48 der Verordnung (EU) Nr. 600/2014.
 
+(1h) Die Aufsichtsbehörde kann ein Unternehmen nach Absatz 1 Satz 2, das einen Erlaubnisantrag nach Absatz 1 Satz 5 eingereicht hat, auf Grundlage der im Einklang mit Artikel 95a der Richtlinie 2014/65/EU in der Fassung vom 28. Februar 2024 eingegangenen Informationen nach Eingang seines Ersuchens von der Anforderung ausnehmen, eine Erlaubnis als Kreditinstitut zu beantragen. Nach Eingang eines Ersuchens um Ausnahme unterrichtet die Aufsichtsbehörde die Europäische Bankenaufsichtsbehörde davon. Die Europäische Bankenaufsichtsbehörde gibt nach Artikel 8a Absatz 3a Unterabsatz 2 Satz 2 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 innerhalb eines Monats nach Unterrichtung durch die Aufsichtsbehörde eine Stellungnahme zu dem Ersuchen um Ausnahme ab. Die Aufsichtsbehörde entscheidet über das Ersuchen um Ausnahme und berücksichtigt dabei die Stellungnahme der Europäischen Bankenaufsichtsbehörde und mindestens die folgenden Elemente:
+
+1. wenn das Unternehmen Teil einer Gruppe ist, die Organisationsstruktur der Gruppe, die in der Gruppe vorherrschende Buchungspraxis und die Verteilung der Vermögenswerte auf die Unternehmen der Gruppe,
+
+2. Art, Umfang und Komplexität der von dem Unternehmen in dem Mitgliedstaat, in dem es niedergelassen ist, und in der Europäischen Union insgesamt ausgeübten Tätigkeiten sowie
+
+3. die Bedeutung der von dem Unternehmen in dem Mitgliedstaat, in dem es niedergelassen ist, und in der Europäischen Union insgesamt ausgeübten Tätigkeiten und das damit verbundene Systemrisiko.
+
+Weicht die Entscheidung der Aufsichtsbehörde von der Stellungnahme der Europäischen Bankenaufsichtsbehörde ab, so gibt die Aufsichtsbehörde die Gründe für die abweichende Entscheidung an. Die Aufsichtsbehörde teilt ihre Entscheidung dem betreffenden Unternehmen und der Europäischen Bankenaufsichtsbehörde mit. Die Aufsichtsbehörde überprüft ihre Entscheidung alle drei Jahre.
+
 (2) Die Bundesanstalt kann die Erlaubnis unter Auflagen erteilen, die sich im Rahmen des mit diesem Gesetz verfolgten Zweckes halten müssen. Sie kann die Erlaubnis auf einzelne Bankgeschäfte oder Finanzdienstleistungen beschränken.
 
 (2a) Die Erlaubnis nach § 32 Absatz 1 Satz 1 zum Betreiben der Bankgeschäfte nach § 1 Absatz 1 Satz 2 Nummer 4 und 10 sowie zum Erbringen der Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 1 bis 4 kann, außer in den Fällen des Absatzes 1 Satz 2, nur erteilt werden, wenn die Erlaubnis zur Erbringung mindestens eines anderen Bankgeschäfts vorliegt oder gleichzeitig erteilt wird. Satz 1 gilt nicht, wenn zugleich eine Erlaubnis für das qualifizierte Kryptoverwahrgeschäft erteilt wird und sich die betriebenen Bankgeschäfte sowie die erbrachten Finanzdienstleistungen auf Rechnungseinheiten im Sinne des § 1 Absatz 11 Nummer 7 oder kryptografische Instrumente im Sinne des § 1 Absatz 1a Satz 9 und 10 beziehen.
@@ -3638,7 +3987,7 @@ Einer schriftlichen oder elektronischen Erlaubnis der Bundesanstalt bedarf es au
 
 (8) Die Absätze 1 bis 7 finden auch dann Anwendung, wenn im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes eine juristische Person, die nach den Absätzen 1 bis 1f erlaubnispflichtige Geschäfte betreibt, ihren juristischen Sitz vom Ausland ins Inland verlegt.
 
-##### § 33 Versagung der Erlaubnis
+###### § 33 Versagung der Erlaubnis
 
 (1) Die Erlaubnis ist zu versagen, wenn
 
@@ -3700,11 +4049,11 @@ Die Bundesanstalt kann die Erlaubnis auch versagen, wenn entgegen § 32 Absatz 1
 
 (4) Die Bundesanstalt muss dem Antragsteller einer Erlaubnis binnen sechs Monaten nach Einreichung der vollständigen Unterlagen für einen Erlaubnisantrag nach § 32 Absatz 1 Satz 5 oder Absatz 1f mitteilen, ob eine Erlaubnis erteilt oder versagt wird. Liegen innerhalb von zwölf Monaten ab Eingang des Antrags bei der Bundesanstalt trotz Aufforderung der Bundesanstalt, den Antrag innerhalb eines Monats zu vervollständigen, keine ausreichenden Angaben oder Unterlagen vor, die es der Bundesanstalt ermöglichen, über den Antrag zu befinden, ist der Antrag abzulehnen.
 
-##### § 33a Aussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz außerhalb der Europäischen Union
+###### § 33a Aussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz außerhalb der Europäischen Union
 
 Die Aufsichtsbehörde hat die Entscheidung über einen Antrag auf Erlaubnis von Unternehmen mit Sitz außerhalb der Europäischen Union oder von Tochterunternehmen dieser Unternehmen auszusetzen oder die Erlaubnis zu beschränken, wenn ein entsprechender Beschluß des Rates oder der Europäischen Kommission vorliegt, der nach Artikel 147 der Richtlinie 2013/36/EU zustande gekommen ist. Die Aussetzung oder Beschränkung darf drei Monate vom Zeitpunkt des Beschlusses an nicht überschreiten. Die Sätze 1 und 2 gelten auch für nach dem Zeitpunkt des Beschlusses eingereichte Anträge auf Erlaubnis. Beschließt der Rat die Verlängerung der Frist nach Satz 2, so hat die Aufsichtsbehörde diese Fristverlängerung zu beachten und die Aussetzung oder Beschränkung entsprechend zu verlängern.
 
-##### § 33b Anhörung der zuständigen Stellen eines anderen Staates des Europäischen Wirtschaftsraums
+###### § 33b Anhörung der zuständigen Stellen eines anderen Staates des Europäischen Wirtschaftsraums
 
 Soll eine Erlaubnis für das Betreiben von Bankgeschäften nach § 1 Abs. 1 Satz 2 Nr. 1, 2, 4 oder 10 oder für das Erbringen von Finanzdienstleistungen nach § 1 Abs. 1a Satz 2 Nr. 1 bis 4 einem Unternehmen erteilt werden, das
 
@@ -3714,13 +4063,13 @@ Soll eine Erlaubnis für das Betreiben von Bankgeschäften nach § 1 Abs. 1 Satz
 
 hat die Aufsichtsbehörde vor Erteilung der Erlaubnis die zuständigen Stellen des Herkunftsmitgliedstaates anzuhören. Die Anhörung erstreckt sich insbesondere auf die Angaben, die für die Beurteilung der Zuverlässigkeit und fachlichen Eignung der in § 1 Abs. 2 Satz 1 genannten Personen sowie für die Beurteilung der Zuverlässigkeit der Inhaber einer bedeutenden Beteiligung an Unternehmen derselben Gruppe mit Sitz in dem betreffenden Staat des Europäischen Wirtschaftsraums erforderlich sind.
 
-##### § 34 Stellvertretung und Fortführung bei Todesfall
+###### § 34 Stellvertretung und Fortführung bei Todesfall
 
 (1) § 45 der Gewerbeordnung findet auf Institute keine Anwendung.
 
 (2) Nach dem Tode des Inhabers der Erlaubnis darf ein Institut durch zwei Stellvertreter ohne Erlaubnis für die Erben bis zur Dauer eines Jahres fortgeführt werden. Die Stellvertreter sind unverzüglich nach dem Todesfall zu bestimmen; sie gelten als Geschäftsleiter. Ist ein Stellvertreter nicht zuverlässig oder hat er nicht die erforderliche fachliche Eignung, kann die Aufsichtsbehörde die Fortführung der Geschäfte untersagen. Sie kann die Frist nach Satz 1 aus besonderen Gründen verlängern. Für Finanzdienstleistungsinstitute, die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, genügt ein Stellvertreter.
 
-##### § 35 Erlöschen und Aufhebung der Erlaubnis
+###### § 35 Erlöschen und Aufhebung der Erlaubnis
 
 (1) Die Erlaubnis erlischt, wenn von ihr nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch gemacht wird. Die Erlaubnis erlischt auch, wenn das CRR-Kreditinstitut nach § 41 des Einlagensicherungsgesetzes von der gesetzlichen Entschädigungseinrichtung oder nach § 11 des Anlegerentschädigungsgesetzes von der Entschädigungseinrichtung ausgeschlossen worden ist oder die Bundesanstalt nach § 47 Absatz 3 Satz 1 des Einlagensicherungsgesetzes festgestellt hat, dass die Zugehörigkeit des Instituts zu einem Einlagensicherungssystem nicht gegeben ist. Satz 2 gilt nicht, soweit die Europäische Zentralbank Aufsichtsbehörde ist. In diesem Fall legt die Bundesanstalt der Europäischen Zentralbank einen Beschlussentwurf nach Artikel 14 Absatz 5 der Verordnung (EU) Nr. 1024/2013 vor. Die Erlaubnis erlischt auch dann, wenn im Zuge einer Umwandlung nach § 305, § 320 oder § 333 des Umwandlungsgesetzes ein als juristische Person verfasstes Institut seinen juristischen Sitz ins Ausland verlegt. Die Erlaubnis für das Betreiben von Bankgeschäften im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 erlischt auch dann, wenn die Zulassung der zentralen Gegenpartei nach Artikel 14 der Verordnung (EU) Nr. 648/2012 zur Erbringung von Clearingdienstleistungen durch die Bundesanstalt abgelehnt wurde und die Ablehnung bestandskräftig ist. Die Erlaubnis für das Betreiben von Bankgeschäften im Sinne des § 1 Absatz 1 Satz 2 Nummer 4 und 10 sowie zum Erbringen von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 erlischt mit Aufhebung oder Erlöschen der Erlaubnis des Instituts zum Betreiben sonstiger Bankgeschäfte.
 
@@ -3748,9 +4097,17 @@ b) bei einem Verlust in Höhe von jeweils mehr als 10 vom Hundert der nach Artik
 
 9. das Institut als Gegenpartei von Wertpapierfinanzierungsgeschäften nachhaltig gegen die Pflichten und Anforderungen von Artikel 4 oder 15 der Verordnung (EU) 2015/2365 oder sich auf diese Bestimmungen beziehende Anordnungen der Bundesanstalt verstoßen hat;
 
-10. das Institut nachhaltig gegen Artikel 7 Absatz 1 Satz 3 oder Artikel 11 Absatz 1 Satz 3 der Verordnung (EU) Nr. 600/2014 oder sich auf diese Bestimmungen beziehende Anordnungen der Bundesanstalt verstoßen hat oder
+10. das Institut nachhaltig gegen Artikel 7 Absatz 1 Satz 3 oder Artikel 11 Absatz 1 Satz 3 der Verordnung (EU) Nr. 600/2014 oder sich auf diese Bestimmungen beziehende Anordnungen der Bundesanstalt verstoßen hat;
 
-11. das Institut seine Zulassung ausschließlich zur Ausübung des Emissionsgeschäfts oder des Eigenhandels nutzt und seine durchschnittlichen gesamten Vermögenswerte während eines Zeitraums von fünf aufeinanderfolgenden Jahren unterhalb der in § 32 genannten Schwellenwerte lagen.
+11. das Institut seine Zulassung ausschließlich zur Ausübung des Emissionsgeschäfts oder des Eigenhandels nutzt und seine durchschnittlichen gesamten Vermögenswerte während eines Zeitraums von fünf aufeinander folgenden Jahren unterhalb der in § 32 genannten Schwellenwerte lagen oder
+
+12. das Institut ein Institut im Sinne von § 2 Absatz 1 des Sanierungs- und Abwicklungsgesetzes oder ein Unternehmen im Sinne von Artikel 2 der Verordnung (EU) Nr. 806/2014 ist und folgende Bedingungen erfüllt sind:
+
+a) eine Bestandsgefährdung nach § 62 Absatz 1 Nummer 1 des Sanierungs- und Abwicklungsgesetzes oder nach Artikel 18 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 806/2014 wurde festgestellt,
+
+b) die Abwicklungsbehörde nach § 3 des Sanierungs- und Abwicklungsgesetzes erklärt, dass die in § 62 Absatz 1 Nummer 3 des Sanierungs- und Abwicklungsgesetzes oder in Artikel 18 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 806/2014 festgelegte Bedingung erfüllt ist, und
+
+c) die Abwicklungsbehörde nach § 3 des Sanierungs- und Abwicklungsgesetzes erklärt, dass die in § 62 Absatz 1 Nummer 2 des Sanierungs- und Abwicklungsgesetzes oder in Artikel 18 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 806/2014 festgelegte Bedingung nicht erfüllt ist.
 
 (2a) Die Erlaubnis soll durch die Aufsichtsbehörde aufgehoben werden, wenn über das Institut ein Insolvenzverfahren eröffnet oder die Auflösung des Instituts beschlossen worden ist. Der Wegfall der Erlaubnis hindert die für die Liquidation zuständigen Personen nicht daran, bestimmte Tätigkeiten des Instituts weiter zu betreiben, soweit dies für Zwecke des Insolvenz- oder Liquidationsverfahrens erforderlich oder angezeigt ist.
 
@@ -3760,7 +4117,7 @@ b) bei einem Verlust in Höhe von jeweils mehr als 10 vom Hundert der nach Artik
 
 (4) Wird die Erlaubnis eines Instituts zum Betreiben von Bankgeschäften oder Erbringen von Finanzdienstleistungen aufgehoben, unterrichtet die Aufsichtsbehörde unverzüglich die zuständigen Stellen der anderen Staaten des Europäischen Wirtschaftsraums, in denen das Institut Zweigniederlassungen errichtet hat oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs tätig gewesen ist.
 
-##### § 36 Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans
+###### § 36 Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans
 
 (1) In den Fällen des § 35 Absatz 2 Nummer 3, 4 und 6 kann die Bundesanstalt, statt die Erlaubnis aufzuheben, die Abberufung der verantwortlichen Geschäftsleiter verlangen und diesen Geschäftsleitern auch die Ausübung ihrer Tätigkeit bei Instituten oder Unternehmen in der Rechtsform einer juristischen Person untersagen. Für die Zwecke des Satzes 1 ist § 35 Absatz 2 Nummer 4 mit der Maßgabe anzuwenden, dass bei der Berechnung der Höhe des Verlustes Bilanzierungshilfen, mittels derer ein Verlustausweis vermindert oder vermieden wird, nicht berücksichtigt werden. Im Falle eines Verstoßes gegen die §§ 25i, 25k oder 25m oder gegen die Verordnung (EU) 2023/1113 kann die Bundesanstalt den dafür verantwortlichen Geschäftsleitern auch die Ausübung ihrer Tätigkeit bei Verpflichteten nach § 2 Absatz 1 des Geldwäschegesetzes untersagen.
 
@@ -3796,7 +4153,7 @@ Bei Instituten, die auf Grund ihrer Rechtsform einer besonderen Rechtsaufsicht u
 
 (4) (weggefallen)
 
-##### § 36a Tätigkeitsverbot für natürliche Personen
+###### § 36a Tätigkeitsverbot für natürliche Personen
 
 (1) In den Fällen des § 35 Absatz 2 Nummer 7, 9 oder 10 kann die Aufsichtsbehörde auch einer für den Verstoß verantwortlichen natürlichen Person, die zum Zeitpunkt des Verstoßes nicht Geschäftsleiter ist, vorübergehend für einen Zeitraum von bis zu zwei Jahren eine künftige Tätigkeit als Geschäftsleiter bei einem Institut in der Rechtsform einer juristischen Person untersagen. Begeht eine natürliche Person im Sinne des Satzes 1 in den Fällen des § 35 Absatz 2 Nummer 7, 9 oder 10 wiederholt schwere Verstöße oder verstößt sie wiederholt gegen Artikel 14 oder Artikel 15 der Verordnung (EU) Nr. 596/2014 oder Artikel 4 oder Artikel 15 der Verordnung (EU) 2015/2365, kann ihr die Aufsichtsbehörde eine künftige Tätigkeit als Geschäftsleiter bei einem Institut in der Rechtsform einer juristischen Person dauerhaft untersagen. § 36 Absatz 1 und 2 bleibt unberührt. Im Falle eines Verstoßes gegen die §§ 25i, 25k oder 25m oder gegen die Verordnung (EU) 2023/1113 kann die Aufsichtsbehörde auch einer für den Verstoß verantwortlichen natürlichen Person, die zum Zeitpunkt des Verstoßes nicht Geschäftsleiter war, vorübergehend für einen Zeitraum von bis zu zwei Jahren eine künftige Tätigkeit als Geschäftsleiter bei Verpflichteten nach § 2 Absatz 1 des Geldwäschegesetzes untersagen.
 
@@ -3806,7 +4163,9 @@ Bei Instituten, die auf Grund ihrer Rechtsform einer besonderen Rechtsaufsicht u
 
 (4) Bei Verstößen gegen Vorschriften, auf die in § 120a Absatz 1 und 2 des Wertpapierhandelsgesetzes Bezug genommen wird, kann die Aufsichtsbehörde einer für den Verstoß verantwortlichen natürlichen Person, die zum Zeitpunkt des Verstoßes nicht Geschäftsleiter eines Instituts war, bis zu einem Zeitraum von zwei Jahren eine künftige Tätigkeit als Geschäftsleiter bei einem Institut untersagen.
 
-##### § 37 Einschreiten gegen unerlaubte oder verbotene Geschäfte
+(5) Bei Verstößen gegen die in § 2c Absatz 1 Satz 1 oder 6 oder Absatz 3 Satz 1, § 2f Absatz 1 Satz 1 oder 2, § 2h Absatz 1, § 2i Absatz 1 Satz 1, § 24 Absatz 1f Satz 1 oder 4 oder § 32 Absatz 1 Satz 1 festgelegten Pflichten kann die Aufsichtsbehörde einer für den Verstoß verantwortlichen natürlichen Person untersagen, für einen Zeitraum von bis zu zwei Jahren Aufgaben in einem Institut wahrzunehmen. Bei Verstößen gegen die in § 32 Absatz 1 festgelegten Pflichten ist ein in einem rechtskräftigen strafgerichtlichen Urteil angeordnetes Berufsverbot nach § 70 des Strafgesetzbuchs, das wegen dieses Verstoßes ergangen ist, bei der Entscheidung nach Satz 1 zu berücksichtigen.
+
+###### § 37 Einschreiten gegen unerlaubte oder verbotene Geschäfte
 
 (1) Die Bundesanstalt kann die sofortige Einstellung des Geschäftsbetriebs und die unverzügliche Abwicklung dieser Geschäfte gegenüber dem Unternehmen und den Mitgliedern seiner Organe anordnen, wenn
 
@@ -3834,7 +4193,7 @@ Sie kann für die Abwicklung Weisungen erlassen und eine geeignete Person als Ab
 
 (4) Soweit und solange Tatsachen die Annahme rechtfertigen oder feststeht, dass ein Unternehmen unerlaubt Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, kann die Bundesanstalt die Öffentlichkeit unter Nennung des Namens oder der Firma des Unternehmens über diesen Verdacht oder diese Feststellung informieren. Satz 1 ist entsprechend anzuwenden, wenn ein Unternehmen zwar die unerlaubten Bankgeschäfte nicht betreibt oder die unerlaubten Finanzdienstleistungen nicht erbringt, aber in der Öffentlichkeit den Anschein erweckt, dass es diese Bankgeschäfte betreibt oder diese Finanzdienstleistungen erbringt. Vor der Entscheidung über die Veröffentlichung der Information ist das Unternehmen anzuhören. Stellen sich die von der Bundesanstalt veröffentlichten Informationen als falsch oder die zugrundeliegenden Umstände als unrichtig wiedergegeben heraus, so informiert die Bundesanstalt die Öffentlichkeit hierüber in der gleichen Art und Weise, wie sie die betreffende Information zuvor bekannt gegeben hat.
 
-##### § 38 Folgen der Aufhebung und des Erlöschens der Erlaubnis, Maßnahmen bei der Abwicklung
+###### § 38 Folgen der Aufhebung und des Erlöschens der Erlaubnis, Maßnahmen bei der Abwicklung
 
 (1) Hebt die Aufsichtsbehörde die Erlaubnis auf oder erlischt die Erlaubnis, so kann die Bundesanstalt bei juristischen Personen und Personenhandelsgesellschaften bestimmen, dass das Institut abzuwickeln ist. Ihre Entscheidung wirkt wie ein Auflösungsbeschluß. Sie ist dem Registergericht mitzuteilen und von diesem in das Handels- oder Genossenschaftsregister einzutragen.
 
@@ -3848,7 +4207,7 @@ Sie kann für die Abwicklung Weisungen erlassen und eine geeignete Person als Ab
 
 ## 2. Bezeichnungsschutz
 
-##### § 39 Bezeichnungen "Bank" und "Bankier"
+###### § 39 Bezeichnungen "Bank" und "Bankier"
 
 (1) Die Bezeichnung "Bank", "Bankier" oder eine Bezeichnung, in der das Wort "Bank" oder "Bankier" enthalten ist, dürfen, soweit durch Gesetz nichts anderes bestimmt ist, in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken nur führen
 
@@ -3860,7 +4219,7 @@ Sie kann für die Abwicklung Weisungen erlassen und eine geeignete Person als Ab
 
 (3) Die Bundesanstalt kann bei Erteilung der Erlaubnis bestimmen, daß die in Absatz 1 genannten Bezeichnungen nicht geführt werden dürfen, wenn Art oder Umfang der Geschäfte des Kreditinstituts nach der Verkehrsanschauung die Führung einer solchen Bezeichnung nicht rechtfertigen.
 
-##### § 40 Bezeichnung "Sparkasse"
+###### § 40 Bezeichnung "Sparkasse"
 
 (1) Die Bezeichnung "Sparkasse" oder eine Bezeichnung, in der das Wort "Sparkasse" enthalten ist, dürfen in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken nur führen
 
@@ -3872,15 +4231,15 @@ Sie kann für die Abwicklung Weisungen erlassen und eine geeignete Person als Ab
 
 (2) Kreditinstitute im Sinne des § 1 des Gesetzes über Bausparkassen dürfen die Bezeichnung "Bausparkasse", eingetragene Genossenschaften, die einem Prüfungsverband angehören, die Bezeichnung "Spar- und Darlehenskasse" führen.
 
-##### § 41 Ausnahmen
+###### § 41 Ausnahmen
 
 Die §§ 39 und 40 gelten nicht für Unternehmen, die die Worte "Bank", "Bankier" oder "Sparkasse" in einem Zusammenhang führen, der den Anschein ausschließt, daß sie Bankgeschäfte betreiben. Kreditinstitute mit Sitz im Ausland dürfen bei ihrer Tätigkeit im Inland die in § 39 Abs. 2 und in § 40 genannten Bezeichnungen in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken führen, wenn sie zur Führung dieser Bezeichnung in ihrem Sitzstaat berechtigt sind und sie die Bezeichnung um einen auf ihren Sitzstaat hinweisenden Zusatz ergänzen.
 
-##### § 42 Entscheidung der Bundesanstalt
+###### § 42 Entscheidung der Bundesanstalt
 
 Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen zur Führung der in den §§ 39 und 40 genannten Bezeichnungen befugt ist. Sie hat ihre Entscheidungen dem Registergericht mitzuteilen.
 
-##### § 43 Registervorschriften
+###### § 43 Registervorschriften
 
 (1) Soweit nach § 32 das Betreiben von Bankgeschäften oder das Erbringen von Finanzdienstleistungen einer Erlaubnis bedarf, dürfen Eintragungen in öffentliche Register nur vorgenommen werden, wenn dem Registergericht die Erlaubnis nachgewiesen ist.
 
@@ -3890,7 +4249,7 @@ Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen zur Führun
 
 ## 3. Auskünfte und Prüfungen
 
-##### § 44 Auskünfte und Prüfungen von Instituten, Anbietern von Nebendienstleistungen, Finanzholding-Gesellschaften, gemischten Finanzholding-Gesellschaften und anderen Unternehmen
+###### § 44 Auskünfte und Prüfungen von Instituten, Anbietern von Nebendienstleistungen, Finanzholding-Gesellschaften, gemischten Finanzholding-Gesellschaften und anderen Unternehmen
 
 (1) Ein Institut oder ein übergeordnetes Unternehmen, die Mitglieder deren Organe und deren Beschäftigte haben der Bundesanstalt, den Personen und Einrichtungen, deren sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, sowie der Deutschen Bundesbank auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen, Unterlagen vorzulegen und erforderlichenfalls Kopien anzufertigen; dies gilt auch für Auslagerungsunternehmen, für die Mitglieder von deren Organen und für deren Beschäftigte, soweit Aktivitäten und Prozesse betroffen sind, die ein Institut oder übergeordnetes Unternehmen ausgelagert hat. Mitglieder eines Organs und Beschäftigte der Institute, übergeordneten Unternehmen oder Auslagerungsunternehmen haben auf Verlangen auch nach ihrem Ausscheiden aus dem Organ, dem Institut oder dem Unternehmen Auskunft zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt kann, auch ohne besonderen Anlass, bei den Instituten, übergeordneten Unternehmen und Auslagerungsunternehmen, soweit ein Institut oder ein übergeordnetes Unternehmen wesentliche Aktivitäten und Prozesse im Sinne des § 25b Absatz 1 Satz 1 ausgelagert hat oder es sich um eine Auslagerung nach § 25h Absatz 4 oder Übertragung nach § 6 Absatz 7 oder § 17 Absatz 1 oder 5 des Geldwäschegesetzes handelt, Prüfungen vornehmen und die Durchführung der Prüfungen der Deutschen Bundesbank übertragen. Die Bediensteten der Bundesanstalt, der Deutschen Bundesbank sowie die sonstigen Personen, deren sich die Bundesanstalt bei der Durchführung der Prüfungen bedient, können hierzu die Räume des Instituts, des Auslagerungsunternehmens und des übergeordneten Unternehmens innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen. Zur Verhütung dringender Gefahren für die öffentliche Sicherheit sind sie befugt, diese Räume auch außerhalb der üblichen Betriebs- und Geschäftszeiten zu betreten und zu besichtigen sowie auch Räume, die auch als Wohnung dienen, zu betreten und zu besichtigen; das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt. Die Betroffenen haben Maßnahmen nach den Sätzen 3 bis 5 zu dulden. Auskünfte sind auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank auch mündlich zu erteilen.
 
@@ -3930,7 +4289,7 @@ Die Durchsuchungen sind, außer bei Gefahr im Verzug, durch den Richter anzuordn
 
 (9) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-##### § 44a Grenzüberschreitende Auskünfte und Prüfungen
+###### § 44a Grenzüberschreitende Auskünfte und Prüfungen
 
 (1) Rechtsvorschriften, die einer Übermittlung von Daten entgegenstehen, sind nicht anzuwenden auf die Übermittlung von Daten zwischen einem Institut, einer Kapitalverwaltungsgesellschaft, einem Finanzunternehmen, einer Finanzholding-Gesellschaft, einer gemischten Finanzholding-Gesellschaft, einem Anbieter von Nebendienstleistungen, einem E-Geld-Institut im Sinne des Zahlungsdiensteaufsichtsgesetzes, einem Zahlungsinstitut im Sinne des Zahlungsdiensteaufsichtsgesetzes oder einem Unternehmen mit Sitz im Ausland, das mindestens 20 vom Hundert der Kapitalanteile oder Stimmrechte an dem Unternehmen unmittelbar oder mittelbar hält, Mutterunternehmen ist oder beherrschenden Einfluß ausüben kann, oder zwischen einem gemischten Holdinggesellschaften und seinen Tochterunternehmen mit Sitz im Ausland, wenn die Übermittlung der Daten erforderlich ist, um Bestimmungen der Aufsicht nach Maßgabe der Richtlinie 2013/36/EU oder der Richtlinie 2002/87/EG über das Unternehmen mit Sitz im Ausland zu erfüllen. Die Aufsichtsbehörde kann einem Institut die Übermittlung von Daten in einen Drittstaat untersagen.
 
@@ -3940,7 +4299,7 @@ Die Durchsuchungen sind, außer bei Gefahr im Verzug, durch den Richter anzuordn
 
 (4) bis (6) (weggefallen)
 
-##### § 44b Auskünfte und Prüfungen bei Inhabern bedeutender Beteiligungen
+###### § 44b Auskünfte und Prüfungen bei Inhabern bedeutender Beteiligungen
 
 (1) Die Verpflichtungen nach § 44 Absatz 1 Satz 1 gegenüber der Bundesanstalt und der Deutschen Bundesbank zur Auskunft und Vorlegung von Unterlagen gelten auch für
 
@@ -3962,7 +4321,7 @@ Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die einzureichenden Un
 
 (5) Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank dürfen Gegenstände sicherstellen, die als Beweismittel für die Ermittlung des Sachverhalts von Bedeutung sein können. Werden die Gegenstände für das Verwaltungsverfahren nicht mehr benötigt, so werden diese an den letzten Gewahrsamsinhaber herausgegeben. Die Betroffenen haben Maßnahmen nach Satz 1 zu dulden.
 
-##### § 44c Verfolgung unerlaubter Bankgeschäfte und Finanzdienstleistungen
+###### § 44c Verfolgung unerlaubter Bankgeschäfte und Finanzdienstleistungen
 
 (1) Ein Unternehmen, die Mitglieder seiner Organe, seine Beschäftigten sowie andere Unternehmen, die in die Abwicklung seiner Geschäfte einbezogen sind oder einbezogen waren, haben der Bundesanstalt sowie der Deutschen Bundesbank auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen und Unterlagen vorzulegen, wenn Tatsachen die Annahme rechtfertigen oder feststeht, dass das Unternehmen
 
@@ -3992,25 +4351,15 @@ Ein Mitglied eines Organs sowie ein Beschäftigter haben auf Verlangen auch nach
 
 ## 4. Maßnahmen in besonderen Fällen
 
-##### § 45 Maßnahmen zur Verbesserung der Eigenmittelausstattung und der Liquidität
+###### § 45 Maßnahmen zur Sicherstellung einer dauerhaften Erfüllung der regulatorischen Anforderungen
 
-(1) Wenn die Vermögens-, Finanz- oder Ertragsentwicklung eines Instituts oder andere Umstände die Annahme rechtfertigen, dass das Institut
+(1) Die Aufsichtsbehörde kann gegenüber einem Institut Maßnahmen zur dauerhaften Erfüllung der jeweiligen Anforderung anordnen, wenn seine Vermögens-, Finanz- oder Ertragsentwicklung oder andere Umstände die Annahme rechtfertigen, dass es mindestens eine der folgenden Anforderungen nicht erfüllt oder zukünftig voraussichtlich nicht erfüllen wird:
 
-1. die Anforderungen der Artikel 92 bis 386 der Verordnung (EU) Nr. 575/2013 oder des § 10 Absatz 3 und 4,
+1. die Anforderungen der Verordnung (EU) Nr. 575/2013,
 
-2. die Anforderungen der Artikel 412 und 413 der Verordnung (EU) Nr. 575/2013 oder des § 11,
+2. die Anforderungen dieses Gesetzes oder der aufgrund dieses Gesetzes ergangenen Rechtsverordnungen oder
 
-3. die Anforderungen des § 6c,
-
-4. die kombinierte Kapitalpufferanforderung nach § 10i,
-
-4a. die Anforderung an den Puffer der Verschuldungsquote nach § 10j,
-
-5. die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten und die Anforderung an das Verlustabsorptionskapital nach den §§ 49 bis 51 des Sanierungs- und Abwicklungsgesetzes oder
-
-6. die Anforderungen des § 51a Absatz 1 oder Absatz 2 oder des § 51b
-
-nicht erfüllt oder zukünftig voraussichtlich nicht erfüllen wird, kann die Aufsichtsbehörde gegenüber dem Institut Maßnahmen zur dauerhaften Erfüllung der Anforderungen anordnen.
+3. die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten und die Anforderung an das Verlustabsorptionskapital nach den §§ 49 bis 51 des Sanierungs- und Abwicklungsgesetzes.
 
 (2) Die Aufsichtsbehörde kann insbesondere
 
@@ -4022,7 +4371,7 @@ nicht erfüllt oder zukünftig voraussichtlich nicht erfüllen wird, kann die Au
 
 4. anordnen, dass das Institut ein Konzept zur Abwendung einer möglichen Gefahrenlage nach § 35 Absatz 2 Nummer 4 entwickelt und der Aufsichtsbehörde und der Deutschen Bundesbank vorlegt,
 
-5. Entnahmen durch die Inhaber oder Gesellschafter sowie die Ausschüttung von Gewinnen untersagen oder beschränken,
+5. anordnen, dass das Institut seine Nettogewinne zur Stärkung seiner Eigenmittel einsetzt, und insbesondere Entnahmen durch die Inhaber oder Gesellschafter sowie Ausschüttungen oder Zinszahlungen an Anteilseigner, Gesellschafter oder Inhaber von Instrumenten des zusätzlichen Kernkapitals untersagen oder beschränken, sofern die Nichtzahlung nicht ein Ausfallereignis für das Institut darstellt,
 
 6. bilanzielle Maßnahmen untersagen oder beschränken, die dazu dienen, einen entstandenen Jahresfehlbetrag auszugleichen oder einen Bilanzgewinn auszuweisen,
 
@@ -4036,9 +4385,15 @@ nicht erfüllt oder zukünftig voraussichtlich nicht erfüllen wird, kann die Au
 
 11. die Auszahlung variabler Vergütungsbestandteile untersagen oder auf einen bestimmten Anteil des Jahresergebnisses beschränken, soweit diese variablen Vergütungsbestandteile nicht durch Tarifvertrag oder in seinem Geltungsbereich durch Vereinbarung der Arbeitsvertragsparteien über die Anwendung der tarifvertraglichen Regelungen oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung vereinbart sind,
 
-12. anordnen, dass das Institut darlegt, wie und in welchem Zeitraum die in Absatz 1 genannten Anforderungen nachhaltig wieder erfüllt werden können (Restrukturierungsplan), und es der Aufsichtsbehörde und der Deutschen Bundesbank regelmäßig über den Fortschritt der hierzu ergriffenen Maßnahmen berichtet, und
+12. anordnen, dass das Institut darlegt, wie und in welchem Zeitraum die in Absatz 1 genannten Anforderungen nachhaltig wieder erfüllt werden können (Restrukturierungsplan), es Nachbesserungen vornimmt und es der Aufsichtsbehörde und der Deutschen Bundesbank regelmäßig über den Fortschritt der hierzu ergriffenen Maßnahmen berichtet,
 
-13. anordnen, dass das Kreditinstitut eine oder mehrere Handlungsoptionen aus einem Sanierungsplan nach § 13 des Sanierungs- und Abwicklungsgesetzes umsetzt.
+13. anordnen, dass das Kreditinstitut eine oder mehrere Handlungsoptionen aus einem Sanierungsplan nach § 13 des Sanierungs- und Abwicklungsgesetzes umsetzt,
+
+14. anordnen, dass das Institut eine oder mehrere Maßnahmen aus einem Restrukturierungsplan nach Nummer 12 umsetzt,
+
+15. anordnen, dass das Institut kurz-, mittel- oder langfristig bestehende ESG-Risiken, vor allem in Bezug auf die Ziele der Verordnung (EU) 2021/1119, verringert, indem es Anpassungen an seiner Geschäftsorganisation vornimmt, insbesondere an seiner Geschäftsstrategie, Risikostrategie, seinem Risikomanagement oder indem es seinen nach § 26d Absatz 1 zu erstellenden ESG-Risikoplan nachschärft, und
+
+16. anordnen, dass das Institut Stresstests oder Szenarioanalysen durchführt, um die Risiken bewerten zu können, die sich aus Risikopositionen in Kryptowerten und aus der Erbringung von Kryptowerte-Dienstleistungen im Sinne des Artikels 3 Absatz 1 Nummer 16 der Verordnung (EU) 2023/1114 in der Fassung vom 13. Dezember 2023 ergeben.
 
 (3) Der Restrukturierungsplan nach Absatz 2 Nummer 12 muss transparent, plausibel und begründet sein. Im Restrukturierungsplan sind
 
@@ -4054,23 +4409,23 @@ nicht erfüllt oder zukünftig voraussichtlich nicht erfüllen wird, kann die Au
 
 Die Aufsichtsbehörde kann jederzeit Einsicht in den Restrukturierungsplan und die zugehörigen Unterlagen nehmen. Die Aufsichtsbehörde kann die Änderung des Restrukturierungsplans verlangen und hierfür Vorgaben machen, soweit sie die angegebenen Ziele, Zwischenziele und Umsetzungsfristen für nicht ausreichend hält oder wenn sich für den Restrukturierungsplan wesentliche Umstände geändert haben oder das Institut die Ziele, Zwischenziele oder Umsetzungsfristen nicht einhalten kann.
 
-(4) Die Absätze 1 und 2 Nummer 1 bis 7 und 9 bis 12 sind auf übergeordnete Unternehmen nach § 10a sowie auf Institute, die nach Artikel 22 der Verordnung (EU) Nr. 575/2013 zur Teilkonsolidierung verpflichtet sind, entsprechend anzuwenden, wenn eine oder mehrere der in Absatz 1 aufgezählten Anforderungen auf zusammengefasster Basis nicht erfüllt werden oder zukünftig voraussichtlich nicht mehr erfüllt werden können. Bei einem gruppenangehörigen Institut, das nach § 2a Absatz 1 freigestellt ist, kann die Aufsichtsbehörde anordnen, dass die Vorschriften der Artikel 24 bis 403 der Verordnung (EU) Nr. 575/2013 entgegen der Freistellung ganz oder teilweise wieder anzuwenden sind.
+(4) Die Aufsichtsbehörde darf die in Absatz 2 Nummer 5 bis 11 und 13 bis 15 sowie Absatz 5 Satz 2 bezeichneten Anordnungen erst treffen, wenn das Institut oder die gemischte Finanzholding-Gesellschaft die Gefahrenlage gemäß Absatz 1 nicht innerhalb einer von der Aufsichtsbehörde zu bestimmenden Frist behoben hat. Soweit dies zur Verhinderung einer kurzfristig zu erwartenden Verschlechterung der Vermögens-, Finanz- oder Ertragsentwicklung des Instituts nach Absatz 1 erforderlich ist oder soweit bereits Maßnahmen nach Absatz 2 Nummer 1 bis 4 und 12 ergriffen wurden, sind solche Anordnungen auch ohne vorherige Fristsetzung zulässig.
 
-(5) Die Aufsichtsbehörde darf die in Absatz 2 Nummer 5 bis 13 und Absatz 4 bezeichneten Anordnungen erst treffen, wenn das Institut oder die gemischte Finanzholding-Gesellschaft den Mangel nicht innerhalb einer von der Aufsichtsbehörde zu bestimmenden Frist behoben hat. Soweit dies zur Verhinderung einer kurzfristig zu erwartenden Verschlechterung der Vermögens-, Finanz- oder Ertragsentwicklung des Instituts nach Absatz 1 erforderlich ist oder soweit bereits Maßnahmen nach Absatz 2 Nummer 1 bis 4 ergriffen wurden, sind solche Anordnungen auch ohne vorherige Androhung zulässig.
+(5) Absatz 1, 2 Nummer 1 bis 7, 9 bis 12 und 14 bis 16 sowie Absatz 4 sind auf übergeordnete Unternehmen nach § 10a sowie auf Institute und Finanzholding-Gesellschaften, die nach Artikel 22 der Verordnung (EU) Nr. 575/2013 zur Teilkonsolidierung verpflichtet sind, entsprechend anzuwenden, wenn eine oder mehrere der in Absatz 1 aufgezählten Anforderungen auf zusammengefasster Basis nicht erfüllt werden oder zukünftig voraussichtlich nicht mehr erfüllt werden können. Bei einem gruppenangehörigen Institut, das nach § 2a Absatz 1 freigestellt ist, kann die Aufsichtsbehörde anordnen, dass die Vorschriften der Artikel 24 bis 403 der Verordnung (EU) Nr. 575/2013 entgegen der Freistellung ganz oder teilweise wieder anzuwenden sind.
 
-(6) Beschlüsse über eine Gewinnausschüttung sind nichtig, soweit sie einer Anordnung nach Absatz 2 oder 4 widersprechen. Aus Regelungen in Verträgen über Eigenmittelinstrumente können keine Rechte abgeleitet werden, soweit diese einer Anordnung nach Absatz 2 Nummer 5 bis 13 oder Absatz 4 widersprechen.
+(6) Beschlüsse über eine Gewinnausschüttung sind nichtig, soweit sie einer Anordnung nach Absatz 2 oder 5 widersprechen. Aus Regelungen in Verträgen über Eigenmittelinstrumente können keine Rechte abgeleitet werden, soweit diese einer Anordnung nach Absatz 2 Nummer 5 bis 11 oder Nummer 13, 14 oder Absatz 5 widersprechen.
 
 (7) Bei einer Streichung des Gesamtbetrags der variablen Vergütung oder einer Untersagung der Auszahlung von variablen Vergütungsbestandteilen nach Absatz 2 Nummer 10 oder 11 kann die Aufsichtsbehörde anordnen, dass die Ansprüche auf Gewährung variabler Vergütungsbestandteile ganz oder teilweise erlöschen, wenn bei Untersagung der Auszahlung oder innerhalb eines Zeitraums von zwei Jahren nach Untersagung der Auszahlung
 
-1. das Institut außerordentliche staatliche Unterstützung in Anspruch nimmt und die Voraussetzungen für die Untersagung der Auszahlung bis zu diesem Zeitpunkt nicht weggefallen sind oder allein auf Grund dieser Maßnahmen weggefallen sind,
+1. das Institut außerordentliche staatliche Unterstützung in Anspruch nimmt und die Voraussetzungen für die Untersagung der Auszahlung bis zu diesem Zeitpunkt nicht weggefallen sind oder allein aufgrund dieser Maßnahmen weggefallen sind,
 
-2. eine Anordnung der Aufsichtsbehörde nach Absatz 2 Nummer 1 bis 7 besteht oder getroffen wird oder
+2. eine Anordnung der Aufsichtsbehörde nach Absatz 2 Nummer 5 bis 11 und 13 bis 15 besteht oder getroffen wird oder
 
 3. Maßnahmen nach § 46 getroffen werden oder eine Abwicklungsanordnung im Sinne des § 77 des Sanierungs- und Abwicklungsgesetzes ergangen ist.
 
 Eine solche Anordnung soll insbesondere ergehen, wenn
 
-1. die Ansprüche auf Gewährung variabler Vergütungsbestandteile auf Grund solcher Regelungen eines Vergütungssystems eines Instituts entstanden sind, die den Anforderungen nach § 25a Absatz 1 Satz 3 Nummer 6 widersprechen, oder
+1. die Ansprüche auf Gewährung variabler Vergütungsbestandteile aufgrund solcher Regelungen eines Vergütungssystems eines Instituts entstanden sind, die den Anforderungen nach § 25a Absatz 1 Satz 3 Nummer 6 widersprechen, oder
 
 2. anzunehmen ist, dass ohne die außerordentliche staatliche Unterstützung das Institut nicht in der Lage gewesen wäre, die variablen Vergütungsbestandteile zu gewähren.
 
@@ -4084,21 +4439,21 @@ Ist anzunehmen, dass das Institut einen Teil der variablen Vergütungsbestandtei
 
 (11) Zur Umsetzung der Anordnungen nach Absatz 8 oder § 10 Absatz 4 gelten für Beschlussfassungen der Anteilsinhaberversammlung des Instituts, die Kapitalmaßnahmen betreffen, die §§ 7 bis 7f, 9, 10, 12, 13 und 15 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes entsprechend. Dies gilt auch dann, wenn andere private oder öffentliche Stellen als der Finanzmarktstabilisierungsfonds zur Erreichung der Kapitalanforderungen teilweise oder vollständig beitragen.
 
-##### § 45a Maßnahmen gegenüber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
+###### § 45a Maßnahmen gegenüber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
 
 (1) Die Bundesanstalt kann einer Finanzholding-Gesellschaft an der Spitze einer Finanzholding-Gruppe im Sinne des § 10a oder einer gemischten Finanzholding-Gesellschaft an der Spitze einer gemischten Finanzholding-Gruppe im Sinne des § 10a die Ausübung ihrer Stimmrechte an dem übergeordneten Unternehmen und den anderen nachgeordneten Unternehmen untersagen, wenn
 
-1. die Finanzholding-Gesellschaft oder die gemischte Finanzholding-Gesellschaft dem übergeordneten Unternehmen nicht die für die Zusammenfassung nach Artikel 11 bis 23 der Verordnung (EU) Nr. 575/2013 erforderlichen Angaben gemäß Artikel 11 Absatz 1 Satz 2 der Verordnung (EU) Nr. 575/2013 übermittelt, sofern nicht den Erfordernissen der bankaufsichtlichen Zusammenfassung in anderer Weise Rechnung getragen werden kann;
+1. die Finanzholding-Gesellschaft oder die gemischte Finanzholding-Gesellschaft dem übergeordneten Unternehmen nicht die für die Zusammenfassung nach Artikel 11 bis 23 der Verordnung (EU) Nr. 575/2013 erforderlichen Angaben gemäß Artikel 11 Absatz 1 Satz 2 der Verordnung (EU) Nr. 575/2013 übermittelt, sofern nicht den Erfordernissen der bankaufsichtlichen Zusammenfassung in anderer Weise Rechnung getragen werden kann, oder
 
-2. Tatsachen vorliegen, aus denen sich ergibt, dass eine Person, die die Geschäfte der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft tatsächlich führt, nicht zuverlässig ist oder nicht die zur Führung der Geschäfte erforderliche fachliche Eignung hat.
+2. Tatsachen vorliegen, aus denen sich ergibt, dass ein Geschäftsleiter der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft nicht zuverlässig ist oder nicht die zur Führung der Geschäfte erforderliche fachliche Eignung hat.
 
-(1a) Die Bundesanstalt kann in den Fällen des Absatzes 1 Nummer 2 auch gegenüber dem übergeordneten Unternehmen einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe anordnen, Weisungen der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft nicht zu befolgen, sofern es keine gesellschaftsrechtlichen Möglichkeiten gibt, die Personen abzuberufen, die die Geschäfte der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft tatsächlich führen. Das Gleiche gilt, wenn solche Möglichkeiten zwar vorhanden sind, aber ihre Ausschöpfung erfolglos geblieben ist.
+(1a) Die Bundesanstalt kann in den Fällen des Absatzes 1 Nummer 2 auch gegenüber dem übergeordneten Unternehmen einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe anordnen, Weisungen der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft nicht zu befolgen, sofern es keine gesellschaftsrechtlichen Möglichkeiten gibt, den Geschäftsleiter abzuberufen. Das Gleiche gilt, wenn solche Möglichkeiten zwar vorhanden sind, aber ihre Ausschöpfung erfolglos geblieben ist.
 
 (2) Im Falle der Untersagung nach Absatz 1 hat auf Antrag der Bundesanstalt das Gericht des Sitzes des übergeordneten Unternehmens nach § 10a einen Treuhänder zu bestellen, auf den es die Ausübung der Stimmrechte überträgt. Der Treuhänder hat bei der Ausübung der Stimmrechte den Interessen einer soliden und bankaufsichtskonformen Führung der betroffenen Unternehmen Rechnung zu tragen. Die Bundesanstalt kann aus wichtigem Grund die Bestellung eines anderen Treuhänders beantragen. Sind die Voraussetzungen des Absatzes 1 entfallen, hat die Bundesanstalt den Widerruf der Bestellung des Treuhänders zu beantragen. Der Treuhänder hat Anspruch auf Ersatz angemessener Auslagen und auf Vergütung für seine Tätigkeit. Das Gericht setzt auf Antrag des Treuhänders die Auslagen und die Vergütung fest; die Rechtsbeschwerde gegen die Vergütungsfestsetzung ist ausgeschlossen. Der Bund schießt die Auslagen und die Vergütung vor; für seine Aufwendungen haften die Finanzholding-Gesellschaft oder die gemischte Finanzholding-Gesellschaft und die betroffenen Unternehmen gesamtschuldnerisch.
 
 (3) Solange die Untersagungsverfügung nach Absatz 1 vollziehbar ist, gelten die betroffenen Unternehmen nicht als nachgeordnete Unternehmen der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft im Sinne der §§ 10a und 13b.
 
-##### § 45b Maßnahmen bei organisatorischen Mängeln
+###### § 45b Maßnahmen bei organisatorischen Mängeln
 
 (1) Verfügt ein Institut nicht über eine ordnungsgemäße Geschäftsorganisation im Sinne des § 25a Abs. 1, kann die Aufsichtsbehörde auch bereits vor oder gemeinsam mit einer Anordnung nach § 25a Absatz 2 Satz 2 oder nach § 25c Absatz 4c, auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 4 oder Absatz 6 oder nach § 25b, auch in Verbindung mit einer Rechtsverordnung nach § 25b Absatz 5, insbesondere anordnen, dass das Institut
 
@@ -4114,7 +4469,7 @@ Die Aufsichtsbehörde ist berechtigt, Maßnahmen nach Satz 1 zusätzlich zu eine
 
 (3) Absatz 1 Satz 1 Nummer 1 ist entsprechend auf Auslagerungsunternehmen anzuwenden, soweit ein Institut oder ein übergeordnetes Unternehmen wesentliche Aktivitäten und Prozesse im Sinne des § 25b Absatz 1 Satz 1 ausgelagert hat.
 
-##### § 45c Sonderbeauftragter
+###### § 45c Sonderbeauftragter
 
 (1) Die Aufsichtsbehörde kann einen Sonderbeauftragten bestellen, diesen mit der Wahrnehmung von Aufgaben bei einem Institut betrauen und ihm die hierfür erforderlichen Befugnisse übertragen. Der Sonderbeauftragte muss unabhängig, zuverlässig und zur ordnungsgemäßen Wahrnehmung der ihm übertragenen Aufgaben im Sinne einer nachhaltigen Geschäftspolitik des Instituts und der Wahrung der Finanzmarktstabilität geeignet sein; soweit der Sonderbeauftragte Aufgaben eines Geschäftsleiters oder eines Organs übernimmt, muss er Gewähr für die erforderliche fachliche Eignung bieten. Soweit dem Sonderbeauftragten nicht die Wahrnehmung der Befugnisse eines Geschäftsleiters oder eines Organs übertragen wird, kann auch eine juristische Person bestellt werden. Bei der Auswahl einer Wirtschaftsprüfungsgesellschaft als Sonderbeauftragter darf die Aufsichtsbehörde ohne Prüfung davon ausgehen, dass die Wirtschaftsprüfungsgesellschaft nur Personal einsetzt, das zuverlässig und zur ordnungsgemäßen Wahrnehmung der übertragenen Aufgaben geeignet ist. Der Sonderbeauftragte ist im Rahmen seiner Aufgaben berechtigt, von den Mitgliedern der Organe und den Beschäftigten des Instituts Auskünfte und die Vorlage von Unterlagen zu verlangen, an allen Sitzungen und Versammlungen der Organe und sonstiger Gremien des Instituts in beratender Funktion teilzunehmen, die Geschäftsräume des Instituts zu betreten, Einsicht in dessen Geschäftspapiere und Bücher zu nehmen und Nachforschungen anzustellen. Die Organe und Organmitglieder haben den Sonderbeauftragten bei der Wahrnehmung seiner Aufgaben zu unterstützen. Er ist gegenüber der Aufsichtsbehörde zur Auskunft über alle Erkenntnisse im Rahmen seiner Tätigkeit verpflichtet.
 
@@ -4152,9 +4507,9 @@ Die Aufsichtsbehörde ist berechtigt, Maßnahmen nach Satz 1 zusätzlich zu eine
 
 (7) Sonderbeauftragte haften bei Handlungen im Rahmen des Absatzes 2 Nummer 1 bis 5, 7, 7a, 9, 10 und Nummer 8, sofern sie selbst Maßnahmen zur Abwendung einer Gefahr ergreifen, für Vorsatz und Fahrlässigkeit. Wurde der Sonderbeauftragte nach Absatz 2 Nummer 6 oder Nummer 8 ausschließlich für die Überwachung von Anordnungen der Bundesanstalt gegenüber dem Institut, für die Überwachung von Maßnahmen des Instituts zur Abwendung einer Gefahr im Sinne des § 35 Absatz 2 Nummer 4 oder des § 46 Absatz 1 Satz 1 oder für die Überwachung der Einhaltung von Maßnahmen der Bundesanstalt nach § 46 bestellt, so haftet er nur für Vorsatz. Dies gilt auch, soweit der Sonderbeauftragte nach § 46 Absatz 2 Satz 5 im Rahmen einer von der Bundesanstalt festgelegten Betragsgrenze Ausnahmen vom Veräußerungs- und Zahlungsverbot genehmigt. Bei fahrlässigem Handeln beschränkt sich die Ersatzpflicht des Sonderbeauftragten auf 1 Million Euro. Handelt es sich um eine Aktiengesellschaft, deren Aktien zum Handel im regulierten Markt zugelassen sind, beschränkt sich die Ersatzpflicht auf 50 Millionen Euro.
 
-(8) Die Absätze 1 bis 7 gelten entsprechend für Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften, die nach § 10a als übergeordnetes Unternehmen gelten und bezüglich der Personen, die die Geschäfte derartiger Finanzholding-Gesellschaften oder gemischter Finanzholding-Gesellschaften tatsächlich führen.
+(8) Die Absätze 1 bis 7 gelten entsprechend für Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften, die nach § 10a als übergeordnetes Unternehmen gelten und bezüglich ihrer Geschäftsleiter.
 
-##### § 46 Maßnahmen bei Gefahr
+###### § 46 Maßnahmen bei Gefahr
 
 (1) Besteht Gefahr für die Erfüllung der Verpflichtungen eines Instituts gegenüber seinen Gläubigern, insbesondere für die Sicherheit der ihm anvertrauten Vermögenswerte, oder besteht der begründete Verdacht, dass eine wirksame Aufsicht über das Institut nicht möglich ist (§ 33 Absatz 2), kann die Aufsichtsbehörde zur Abwendung dieser Gefahr einstweilige Maßnahmen treffen. Sie kann insbesondere
 
@@ -4186,15 +4541,15 @@ Die Löschung von zur Deckung verwendeten Werten im Deckungsregister steht deren
 
 (3) (weggefallen)
 
-##### § 46a Untersagungs- und Anordnungsbefugnis bei Verwenden externer Ratings
+###### § 46a Untersagungs- und Anordnungsbefugnis bei Verwenden externer Ratings
 
 (1) Die Aufsichtsbehörde kann einem Institut, das für aufsichtliche Zwecke Ratings einer oder mehrerer Ratingagenturen verwendet, das Verwenden dieser Ratings untersagen, wenn die Ratingagenturen ihren Sitz nicht innerhalb des Europäischen Wirtschaftsraums haben und nicht nach der Verordnung (EG) Nr. 1060/2009 in der jeweils geltenden Fassung registriert sind.
 
 (2) Die Aufsichtsbehörde kann gegenüber einem Institut im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die Einhaltung der Anforderungen der Verordnung (EG) Nr. 1060/2009 in der jeweils geltenden Fassung sicherzustellen. Insbesondere kann die Aufsichtsbehörde Anordnungen treffen, um einem übermäßigen Rückgriff des Instituts auf Ratings entgegenzuwirken.
 
-##### § 46b Insolvenzantrag
+###### § 46b Insolvenzantrag
 
-(1) Wird ein Institut, das eine Erlaubnis zum Geschäftsbetrieb im Inland besitzt oder das nach Erlöschen seiner Erlaubnis noch erlaubnispflichtiges Geschäft im Rahmen der Abwicklung betreibt, oder eine nach § 10a als übergeordnetes Unternehmen geltende Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft zahlungsunfähig oder tritt Überschuldung ein, so haben die Geschäftsleiter, bei einem in der Rechtsform des Einzelkaufmanns betriebenen Institut der Inhaber und die Personen, die die Geschäfte der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft tatsächlich führen, dies der Bundesanstalt unter Beifügung aussagefähiger Unterlagen unverzüglich anzuzeigen. Die in Satz 1 bezeichneten Personen haben eine solche Anzeige unter Beifügung entsprechender Unterlagen auch dann vorzunehmen, wenn das Institut oder die nach § 10a als übergeordnetes Unternehmen geltende Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt der Fälligkeit zu erfüllen (drohende Zahlungsunfähigkeit). Soweit diese Personen nach anderen Rechtsvorschriften verpflichtet sind, bei Zahlungsunfähigkeit oder Überschuldung die Eröffnung des Insolvenzverfahrens zu beantragen, tritt an die Stelle der Antragspflicht die Anzeigepflicht nach Satz 1. Das Insolvenzverfahren über das Vermögen eines Instituts oder einer nach § 10a als übergeordnetes Unternehmen geltenden Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft findet im Fall der Zahlungsunfähigkeit, der Überschuldung oder unter den Voraussetzungen des Satzes 5 auch im Fall der drohenden Zahlungsunfähigkeit statt. Der Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen des Instituts oder der nach § 10a als übergeordnetes Unternehmen geltenden Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft kann nur von der Bundesanstalt gestellt werden. Im Fall der drohenden Zahlungsunfähigkeit darf die Bundesanstalt den Antrag jedoch nur mit Zustimmung des Instituts und im Fall einer nach § 10a als übergeordnetes Unternehmen geltenden Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft mit deren Zustimmung stellen. Vor der Bestellung des Insolvenzverwalters hat das Insolvenzgericht die Bundesanstalt zu dessen Eignung zu hören. Der Bundesanstalt ist der Eröffnungsbeschluss besonders zuzustellen. Das Insolvenzgericht übersendet der Bundesanstalt alle weiteren, das Verfahren betreffenden Beschlüsse und erteilt auf Anfrage Auskunft zum Stand und Fortgang des Verfahrens. Die Bundesanstalt kann Einsicht in die Insolvenzakten nehmen.
+(1) Wird ein Institut, das eine Erlaubnis zum Geschäftsbetrieb im Inland besitzt oder das nach Erlöschen seiner Erlaubnis noch erlaubnispflichtiges Geschäft im Rahmen der Abwicklung betreibt, oder eine nach § 10a als übergeordnetes Unternehmen geltende Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft zahlungsunfähig oder tritt Überschuldung ein, so haben die Geschäftsleiter und bei einem in der Rechtsform des Einzelkaufmanns betriebenen Institut der Inhaber dies der Bundesanstalt unter Beifügung aussagefähiger Unterlagen unverzüglich anzuzeigen. Die in Satz 1 bezeichneten Personen haben eine solche Anzeige unter Beifügung entsprechender Unterlagen auch dann vorzunehmen, wenn das Institut oder die nach § 10a als übergeordnetes Unternehmen geltende Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt der Fälligkeit zu erfüllen (drohende Zahlungsunfähigkeit). Die in Satz 1 bezeichneten Personen haben eine solche Anzeige unter Beifügung entsprechender Unterlagen auch dann vorzunehmen, wenn das Institut oder die nach § 10a als übergeordnetes Unternehmen geltende Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt der Fälligkeit zu erfüllen (drohende Zahlungsunfähigkeit). Soweit diese Personen nach anderen Rechtsvorschriften verpflichtet sind, bei Zahlungsunfähigkeit oder Überschuldung die Eröffnung des Insolvenzverfahrens zu beantragen, tritt an die Stelle der Antragspflicht die Anzeigepflicht nach Satz 1. Das Insolvenzverfahren über das Vermögen eines Instituts oder einer nach § 10a als übergeordnetes Unternehmen geltenden Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft findet im Fall der Zahlungsunfähigkeit, der Überschuldung oder unter den Voraussetzungen des Satzes 5 auch im Fall der drohenden Zahlungsunfähigkeit statt. Der Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen des Instituts oder der nach § 10a als übergeordnetes Unternehmen geltenden Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft kann nur von der Bundesanstalt gestellt werden. Im Fall der drohenden Zahlungsunfähigkeit darf die Bundesanstalt den Antrag jedoch nur mit Zustimmung des Instituts und im Fall einer nach § 10a als übergeordnetes Unternehmen geltenden Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft mit deren Zustimmung stellen. Vor der Bestellung des Insolvenzverwalters hat das Insolvenzgericht die Bundesanstalt zu dessen Eignung zu hören. Der Bundesanstalt ist der Eröffnungsbeschluss besonders zuzustellen. Das Insolvenzgericht übersendet der Bundesanstalt alle weiteren, das Verfahren betreffenden Beschlüsse und erteilt auf Anfrage Auskunft zum Stand und Fortgang des Verfahrens. Die Bundesanstalt kann Einsicht in die Insolvenzakten nehmen.
 
 (1a) Die Antragsrechte nach § 3a Absatz 1, § 3d Absatz 2 und § 269d Absatz 2 der Insolvenzordnung stehen bei Instituten und bei nach § 10a als übergeordnete Unternehmen bestimmten Finanzholding-Gesellschaften ausschließlich der Bundesanstalt zu. Die Einleitung eines Koordinationsverfahrens (§§ 269d bis 269i der Insolvenzordnung) entfaltet für die gruppenangehörigen Institute und für die als übergeordnete Unternehmen bestimmten Finanzholding-Gesellschaften nur dann Wirkung, wenn die Bundesanstalt sie beantragt oder ihr zugestimmt hat. Für die Bestellung des Verfahrenskoordinators gilt Absatz 1 Satz 6 entsprechend.
 
@@ -4202,13 +4557,13 @@ Die Löschung von zur Deckung verwendeten Werten im Deckungsregister steht deren
 
 (3) Der Insolvenzverwalter informiert die Bundesanstalt laufend über Stand und Fortgang des Insolvenzverfahrens, insbesondere durch Überlassung der Berichte für das Insolvenzgericht, die Gläubigerversammlung oder einen Gläubigerausschuss. Die Bundesanstalt kann darüber hinaus weitere Auskünfte und Unterlagen zum Insolvenzverfahren verlangen.
 
-##### § 46c Insolvenzrechtliche Fristen und Haftungsfragen
+###### § 46c Insolvenzrechtliche Fristen und Haftungsfragen
 
 (1) Die nach den §§ 88 und 130 bis 136 der Insolvenzordnung vom Tag des Antrags auf Eröffnung des Insolvenzverfahrens an zu berechnenden Fristen sind vom Tag des Erlasses einer Maßnahme nach § 46 Absatz 1 an zu berechnen.
 
 (2) Es wird vermutet, dass Leistungen des Instituts, die zwischen einer Anordnung der Bundesanstalt nach § 46 Absatz 1 Satz 2 Nummer 4 bis 6 und dem Insolvenzantrag erfolgten und nach § 46 zulässig sind, die Gläubiger des Instituts nicht benachteiligen und mit der Sorgfalt ordentlicher Kaufleute vereinbar sind. Die Bundesanstalt handelt bei ihrer Tätigkeit pflichtgemäß, soweit sie bei Ausübung ihrer Befugnisse vernünftigerweise annehmen durfte, auf der Grundlage angemessener Informationen die Ziele des Gesetzes erreichen zu können. § 4 Absatz 4 des Finanzdienstleistungsaufsichtsgesetzes bleibt unberührt.
 
-##### § 46d Unterrichtung der anderen Staaten des Europäischen Wirtschaftsraums über Sanierungsmaßnahmen
+###### § 46d Unterrichtung der anderen Staaten des Europäischen Wirtschaftsraums über Sanierungsmaßnahmen
 
 (1) Vor Erlass einer Sanierungsmaßnahme, insbesondere einer Maßnahme nach § 46, gegenüber einem CRR-Kreditinstitut unterrichtet die Bundesanstalt die zuständigen Behörden der anderen Staaten des Europäischen Wirtschaftsraums. Ist dies nicht möglich, sind die zuständigen Behörden unmittelbar nach Erlass der Maßnahme zu unterrichten. Das Gleiche gilt, soweit gegenüber einer Zweigstelle eines Unternehmens im Sinne des § 53 mit Sitz außerhalb der Staaten des Europäischen Wirtschaftsraums Maßnahmen nach § 46 ergriffen werden. In diesem Falle unterrichtet die Bundesanstalt die zuständigen Behörden der anderen Staaten des Europäischen Wirtschaftsraums, in denen das Unternehmen weitere Zweigstellen errichtet hat. Die Regelungen des § 8 Abs. 3 bis 7 bleiben unberührt.
 
@@ -4220,7 +4575,7 @@ Die Löschung von zur Deckung verwendeten Werten im Deckungsregister steht deren
 
 (5) Die Bundesanstalt unterstützt Sanierungsmaßnahmen der Behörden des Herkunftsmitgliedstaates bei einem CRR-Kreditinstitut mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums. Hält sie die Durchführung von Sanierungsmaßnahmen bei einem CRR-Kreditinstitut mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums für notwendig, so setzt sie die zuständigen Behörden dieses Staates hiervon in Kenntnis.
 
-##### § 46e Insolvenzverfahren in den Staaten des Europäischen Wirtschaftsraums
+###### § 46e Insolvenzverfahren in den Staaten des Europäischen Wirtschaftsraums
 
 (1) Zuständig für die Eröffnung eines Insolvenzverfahrens über das Vermögen eines CRR-Kreditinstituts sind im Bereich des Europäischen Wirtschaftsraums allein die jeweiligen Behörden oder Gerichte des Herkunftsmitgliedstaates. Ist ein anderer Staat des Europäischen Wirtschaftsraums Herkunftsmitgliedstaat eines CRR-Kreditinstituts und wird dort ein Insolvenzverfahren über das Vermögen dieses Instituts eröffnet, so wird das Verfahren ohne Rücksicht auf die Voraussetzungen des § 343 Abs. 1 der Insolvenzordnung anerkannt.
 
@@ -4234,7 +4589,7 @@ Die Löschung von zur Deckung verwendeten Werten im Deckungsregister steht deren
 
 (6) Die Absätze 1 bis 5 gelten auch für Unternehmen im Anwendungsbereich des § 1 des Sanierungs- und Abwicklungsgesetzes, gegenüber denen ein Abwicklungsinstrument im Sinne des § 77 des Sanierungs- und Abwicklungsgesetzes angeordnet oder eine Abwicklungsbefugnis im Sinne der §§ 78 bis 87 des Sanierungs- und Abwicklungsgesetzes ausgeübt wird.
 
-##### § 46f Unterrichtung der Gläubiger im Insolvenzverfahren und Insolvenzrangfolge
+###### § 46f Unterrichtung der Gläubiger im Insolvenzverfahren und Insolvenzrangfolge
 
 (1) Mit dem Eröffnungsbeschluss ist den Gläubigern von der Geschäftsstelle des Insolvenzgerichts ein Formblatt zu übersenden, das in sämtlichen Amtssprachen der Staaten des Europäischen Wirtschaftsraums mit den Worten "Aufforderung zur Anmeldung und Erläuterung einer Forderung. Fristen beachten!" überschrieben ist. Das Formblatt wird vom Bundesministerium der Justiz und für Verbraucherschutz im Bundesanzeiger veröffentlicht und enthält insbesondere folgende Angaben:
 
@@ -4280,7 +4635,7 @@ Die Höhe des Rückzahlungsbetrages oder des Zinszahlungsbetrages gilt nicht ber
 
 (9) Für Schuldtitel, die vor dem 21. Juli 2018 begeben worden sind, gilt § 46f Absatz 5 bis 7 des Kreditwesengesetzes in der bis zum 20. Juli 2018 geltenden Fassung fort. Im Insolvenzverfahren haben vor dem 21. Juli 2018 begebene Schuldtitel im Sinne des § 46f Absatz 6 Satz 1 des Kreditwesengesetzes in der bis zum 20. Juli 2018 geltenden Fassung den gleichen Rang wie Schuldtitel im Sinne des Absatzes 6 Satz 1.
 
-##### § 46g Moratorium, Einstellung des Bank- und Börsenverkehrs
+###### § 46g Moratorium, Einstellung des Bank- und Börsenverkehrs
 
 (1) Sind wirtschaftliche Schwierigkeiten bei Kreditinstituten zu befürchten, die schwerwiegende Gefahren für die Gesamtwirtschaft, insbesondere den geordneten Ablauf des allgemeinen Zahlungsverkehrs erwarten lassen, so kann die Bundesregierung durch Rechtsverordnung
 
@@ -4294,13 +4649,13 @@ Die Höhe des Rückzahlungsbetrages oder des Zinszahlungsbetrages gilt nicht ber
 
 (3) Trifft die Bundesregierung Maßnahmen nach Absatz 1, so hat sie durch Rechtsverordnung die Rechtsfolgen zu bestimmen, die sich hierdurch für Fristen und Termine auf dem Gebiet des bürgerlichen Rechts, des Handels-, Gesellschafts-, Wechsel-, Scheck- und Verfahrensrechts ergeben.
 
-##### § 46h Wiederaufnahme des Bank- und Börsenverkehrs
+###### § 46h Wiederaufnahme des Bank- und Börsenverkehrs
 
 (1) Die Bundesregierung kann nach Anhörung der Deutschen Bundesbank für die Zeit nach einer vorübergehenden Schließung der Kreditinstitute und Börsen gemäß § 46g Absatz 1 Nummer 2 und 3 durch Rechtsverordnung Vorschriften für die Wiederaufnahme des Zahlungs- und Überweisungsverkehrs sowie des Börsenverkehrs erlassen. Sie kann hierbei insbesondere bestimmen, daß die Auszahlung von Guthaben zeitweiligen Beschränkungen unterliegt. Für Geldbeträge, die nach einer vorübergehenden Schließung der Kreditinstitute angenommen werden, dürfen solche Beschränkungen nicht angeordnet werden.
 
 (2) Die nach Absatz 1 sowie die nach § 46g Absatz 1 erlassenen Rechtsverordnungen treten, wenn sie nicht vorher aufgehoben worden sind, drei Monate nach ihrer Verkündung außer Kraft.
 
-##### § 46i Zuordnung verwahrter kryptografischer Instrumente; Kosten der Aussonderung
+###### § 46i Zuordnung verwahrter kryptografischer Instrumente; Kosten der Aussonderung
 
 (1) Das im Rahmen eines qualifizierten Kryptoverwahrgeschäfts für einen Kunden verwahrte kryptografische Instrument gilt als dem Kunden gehörig. Das gilt nicht, wenn der Kunde die Einwilligung zu Verfügungen über den verwahrten Wert für Rechnung des Instituts oder Dritter erteilt hat.
 
@@ -4308,7 +4663,7 @@ Die Höhe des Rückzahlungsbetrages oder des Zinszahlungsbetrages gilt nicht ber
 
 (3) Stimmt der Kunde im Insolvenzverfahren über das Vermögen des Instituts einer Aussonderung im Wege der Übertragung des vom Institut verwahrten Gesamtbestands auf ein vom Insolvenzverwalter bestimmtes Institut, welches das qualifizierte Kryptoverwahrgeschäft betreibt, nicht zu, trägt er die Kosten der Aussonderung. Dies gilt nicht, wenn die Bedingungen, zu denen das andere Institut eine Fortführung des Verwahrverhältnisses anbietet, für den Kunden unzumutbar sind. Die Sätze 1 und 2 sind auf die Übertragung wesentlicher Teile des verwahrten Gesamtbestands entsprechend anzuwenden.
 
-##### § 47 Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014
+###### § 47 Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014
 
 Verstößt ein Institut, das über ein PRIIP im Sinne des Artikels 4 Nummer 3 der Verordnung (EU) Nr. 1286/2014 berät oder es verkauft oder das Hersteller von PRIIP im Sinne des Artikels 4 Nummer 4 der Verordnung (EU) Nr. 1286/2014 ist, gegen die Anforderungen von Artikel 5 Absatz 1, der Artikel 6, 7, 8 Absatz 1 bis 3, der Artikel 9, 10 Absatz 1, von Artikel 13 Absatz 1, 3 oder 4, der Artikel 14 oder 19 dieser Verordnung sowie der auf Grundlage der Artikel 8, 10 und 13 dieser Verordnung erlassenen technischen Regulierungsstandards, kann die Bundesanstalt gegenüber dem Institut Anordnungen treffen, die geeignet und erforderlich sind, um sicherzustellen, dass die Anforderungen eingehalten werden und um eine nicht den Grundsätzen der Verordnung entsprechende Information der Privatanleger zu verhindern. Die Bundesanstalt kann insbesondere
 
@@ -4320,7 +4675,7 @@ Verstößt ein Institut, das über ein PRIIP im Sinne des Artikels 4 Nummer 3 de
 
 4. auf ihrer Internetseite eine Warnung unter Nennung des verantwortlichen Instituts sowie der Art des Verstoßes veröffentlichen; § 60c Absatz 3 und 5 gilt entsprechend.
 
-##### § 47a Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+###### § 47a Besondere Befugnisse nach der Verordnung (EU) 2022/2554
 
 (1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU) 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes sicherzustellen. Sie kann gegenüber einem Institut insbesondere anordnen,
 
@@ -4334,7 +4689,7 @@ Verstößt ein Institut, das über ein PRIIP im Sinne des Artikels 4 Nummer 3 de
 
 (2) Die Bundesanstalt und die Deutsche Bundesbank können Untersuchungen über die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes vornehmen. Unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse kann die Bundesanstalt zu diesem Zweck Mitglieder der Organe eines Instituts zu einer Befragung vorladen, damit diese mündliche oder schriftliche Erklärungen zu Sachverhalten oder Unterlagen abgeben, die mit Gegenstand und Zweck der Untersuchung in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. § 44 Absatz 9 gilt entsprechend. Die Bundesanstalt kann die Durchführung der Befragung auf die Deutsche Bundesbank übertragen.
 
-##### § 48 Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402
+###### § 48 Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402
 
 (1) Verstößt ein Originator, Sponsor, ursprünglicher Kreditgeber oder eine Verbriefungszweckgesellschaft gegen die Anforderungen der Artikel 6, 7, 9, 18 bis 26, 26b bis 26e oder 27 Absatz 1 oder Absatz 4 der Verordnung (EU) 2017/2402, kann die Aufsichtsbehörde anordnen, dass die den Verstoß begründenden Handlungen oder Verhaltensweisen dauerhaft eingestellt werden, sowie verlangen, dass deren Wiederholung verhindert wird.
 
@@ -4344,9 +4699,17 @@ Verstößt ein Institut, das über ein PRIIP im Sinne des Artikels 4 Nummer 3 de
 
 ## 4a. Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems
 
-##### (XXXX) §§ 48a bis 48s (weggefallen)
+###### (XXXX) §§ 48a bis 48s (weggefallen)
 
-##### § 48t Maßnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken
+###### § 48a Maßnahmen bei Risiko einer übermäßigen Konzentration von Risikopositionen gegenüber einer zentralen Gegenpartei
+
+Die Bundesanstalt kann, wenn sie der Auffassung ist, dass ein Risiko einer übermäßigen Konzentration besteht, das aus Risikopositionen gegenüber einer zentralen Gegenpartei erwächst, die Geschäftsleiter eines Instituts anweisen,
+
+1. die Risikopositionen des Instituts gegenüber dieser zentralen Gegenpartei zu verringern oder
+
+2. Risikopositionen über die Clearingkonten des Instituts gemäß Artikel 7a der Verordnung (EU) Nr. 648/2012 neu zuzuweisen.
+
+###### § 48t Maßnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken
 
 (1) Stellt der Ausschuss für Finanzstabilität Veränderungen in der Intensität des makroprudenziellen oder des systemischen Risikos im Sinne des Artikels 458 Absatz 2 der Verordnung (EU) Nr. 575/2013 fest, die zu einer Störung mit bedeutenden Auswirkungen auf das nationale Finanzsystem und die Realwirtschaft im Inland führen können, auf die mit anderen Instrumenten der Makroaufsicht gemäß der Verordnung (EU) Nr. 575/2013 und der Richtlinie 2013/36/EU nicht so wirksam reagiert werden kann wie durch die Umsetzung strengerer nationaler Maßnahmen, kann die Bundesanstalt auf Aufforderung des Ausschusses für Finanzstabilität im Wege der Allgemeinverfügung gegenüber allen oder einer Gruppe der der Aufsicht der Bundesanstalt nach diesem Gesetz oder der Verordnung (EU) Nr. 575/2013 unterliegenden Institute und Unternehmen von folgenden Vorgaben der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung für die Dauer von bis zu zwei Jahren abweichen, um die festgestellten Veränderungen in der Intensität des makroprudenziellen oder des systemischen Risikos zu vermindern, durch Erhöhung
 
@@ -4384,7 +4747,7 @@ b) dargelegt hat, dass andere nach der Verordnung (EU) Nr. 575/2013 und der Rich
 
 3. die Risikogewichte im Kreditrisiko-Standardansatz für Forderungen, die von Instituten und Unternehmen untereinander innerhalb des Finanzsektors eingegangen wurden, um bis zu 25 Prozent und im auf internen Ratings basierenden Ansatz um 25 Prozent erhöhen.
 
-##### § 48u Maßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien; Verordnungsermächtigung
+###### § 48u Maßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien; Verordnungsermächtigung
 
 (1) Die Bundesanstalt kann für Kreditinstitute, die das Kreditgeschäft betreiben, im Wege der Allgemeinverfügung die in Absatz 2 vorgesehenen Beschränkungen bei der Vergabe von Darlehen zum Bau oder zum Erwerb von im Inland belegenen Wohnimmobilien festlegen, wenn und soweit dies erforderlich ist, um einer Störung der Funktionsfähigkeit des inländischen Finanzsystems oder einer Gefährdung der Finanzstabilität im Inland entgegenzuwirken. Eine Störung der Funktionsfähigkeit des Finanzsystems oder eine Gefährdung der Finanzstabilität kann insbesondere drohen, wenn die Preise von Wohnimmobilien und die Neuvergabe von Darlehen zum Bau oder Erwerb von Wohnimmobilien stark ansteigen und sich bei der Darlehensvergabe die in Absatz 2 genannten Quotienten erheblich verändern. Von Beschränkungen ausgenommen ist die Vergabe von Darlehen
 
@@ -4440,7 +4803,7 @@ Die Bagatellgrenze nach Satz 1 Nummer 2 beträgt mindestens 50 000 Euro, der un
 
 ## 5. Vollziehbarkeit, Zwangsmittel, Umlage und Kosten
 
-##### § 49 Sofortige Vollziehbarkeit
+###### § 49 Sofortige Vollziehbarkeit
 
 (1) Keine aufschiebende Wirkung haben Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage
 
@@ -4482,17 +4845,57 @@ Die Bagatellgrenze nach Satz 1 Nummer 2 beträgt mindestens 50 000 Euro, der un
 
 19. des § 53b Absatz 12,
 
-20. der §§ 53l und 53n Absatz 1 Satz 1 sowie
+20. des § 53co Absatz 2 Nummer 1, 2, 4 und 5,
 
-21. der §§ 53p und 53q Absatz 2.
+21. der §§ 53l und 53n Absatz 1 Satz 1 sowie
+
+22. der §§ 53p und 53q Absatz 2.
 
 (2) Keine aufschiebende Wirkung haben Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage des Artikels 6 Absatz 4, des Artikels 8 Absatz 1 und des Artikels 63 der Verordnung (EU) 2019/1238.
 
-##### § 50
+###### § 50 Periodische Zwangsgelder
 
-(weggefallen)
+(1) Die Bundesanstalt kann bei einem anhaltenden Verstoß gegen dieses Gesetz oder die dazu erlassenen Rechtsverordnungen, gegen die Verordnung (EU) Nr. 575/2013 oder gegen vollziehbare Anordnungen der Bundesanstalt die Zahlung eines periodischen Zwangsgelds durch Unternehmen, Geschäftsleiter, Mitglieder des Verwaltungs- oder Aufsichtsorgans, Inhaber von Schlüsselfunktionen, Risikoträger sowie jede andere natürliche Person, die für den Verstoß verantwortlich ist, verhängen, um diese dazu anzuhalten, den Vorschriften oder Anordnungen, gegen die verstoßen wird, nachzukommen. Andere wegen dieses Verstoßes bestehende Befugnisse bleiben hiervon unberührt. Die Verhängung eines periodischen Zwangsgelds darf mit einer nach anderen Vorschriften erlassenen Anordnung zur Einstellung des Verstoßes oder zur Beseitigung von Mängeln verbunden werden.
 
-##### § 51 Umlage und Kosten
+(2) Das periodische Zwangsgeld ist ab dem von der Bundesanstalt bei Verhängung festzulegenden Tag zu zahlen, bis der Verstoß beendet ist, längstens jedoch für sechs Monate. Eine rückwirkende Verhängung ist ausgeschlossen. Bei Verhängung bestimmt die Bundesanstalt die Höhe des für jeden Tag des Verstoßes entstehenden periodischen Zwangsgelds (Tageshöhe).
+
+(3) Die Bundesanstalt setzt die endgültige Gesamthöhe des zu zahlenden periodischen Zwangsgelds nach Beendigung des Verstoßes oder nach Ablauf des in Absatz 2 Satz 1 genannten Zeitraums nach der Anzahl der Tage, die der Verstoß seit dem nach Absatz 2 Satz 1 festgelegten Tag angedauert hat, und der Tageshöhe fest.
+
+(4) Die Tageshöhe des periodischen Zwangsgelds beträgt für jeden Tag des Verstoßes:
+
+1. bei natürlichen Personen bis zu 50 000 Euro und
+
+2. bei juristischen Personen und rechtsfähigen Personengesellschaften bis zu 5 Prozent des durchschnittlichen Nettotagesumsatzes nach Absatz 5.
+
+(5) Der durchschnittliche Nettotagesumsatz ist ein Dreihundertfünfundsechzigstel des Jahresnettoumsatzes nach Satz 2 bis 5. Der Jahresnettoumsatz ist die Summe der folgenden Posten, die nach den Anhängen III und IV der Durchführungsverordnung (EU) 2021/451 in der Fassung vom 15. März 2024 ermittelt wurden:
+
+1. Zinserträge,
+
+2. Zinsaufwendungen,
+
+3. auf Anforderung rückzahlbare Aufwendungen für Aktienkapital,
+
+4. Dividendenerträge,
+
+5. Erträge aus Gebühren und Provisionen,
+
+6. Aufwendungen für Gebühren und Provisionen,
+
+7. Gewinne oder Verluste aus zu Handelszwecken gehaltenen finanziellen Vermögenswerten und Verbindlichkeiten, netto,
+
+8. Gewinne oder Verluste aus als erfolgswirksam zum beizulegenden Zeitwert bewerteten finanziellen Vermögenswerten und Verbindlichkeiten, netto,
+
+9. Gewinne oder Verluste aus der Bilanzierung von Sicherungsgeschäften, netto,
+
+10. Währungsdifferenzen (Gewinn oder Verlust), netto,
+
+11. sonstige betriebliche Erträge und
+
+12. sonstige betriebliche Aufwendungen.
+
+Die Ermittlung erfolgt auf Grundlage der neuesten jährlichen aufsichtlichen Finanzinformationen, die einen Indikator von über null ergeben. Unterliegt die juristische Person oder rechtsfähige Personengesellschaft nicht der Durchführungsverordnung (EU) 2021/451, so entspricht der Jahresnettoumsatz dem jährlichen Gesamtnettoumsatz oder der entsprechenden Einkunftsart nach den für sie geltenden Rechnungslegungsvorschriften. Ist das betreffende Unternehmen Teil einer Gruppe, so entspricht der relevante Jahresnettoumsatz dem jährlichen Gesamtnettoumsatz, der sich aus dem konsolidierten Abschluss des Mutterunternehmens an der Spitze der Gruppe ergibt.
+
+###### § 51 Umlage und Kosten
 
 (1) Die Kosten des Bundesaufsichtsamtes sind, soweit sie nicht durch Gebühren oder durch besondere Erstattung nach Absatz 3 gedeckt sind, dem Bund von den Instituten zu 90 vom Hundert zu erstatten. Die Kosten werden anteilig auf die einzelnen Institute nach Maßgabe ihres Geschäftsumfanges umgelegt und vom Bundesaufsichtsamt nach den Vorschriften des Verwaltungsvollstreckungsgesetzes beigetrieben. Die in der Umlage-Verordnung Kredit- und Finanzdienstleistungswesen vom 8. März 1999 (BGBl. I S. 314) enthaltenen Regelungen gelten für die Zeit vom 12. März 1999 bis zum 30. Dezember 2000 in der am 12. März 1999 geltenden Fassung mit Gesetzeskraft. Für die Zeit vom 31. Dezember 2000 bis zum 31. Dezember 2001 gelten die in der Umlage-Verordnung Kredit- und Finanzdienstleistungswesen enthaltenen Regelungen in der am 31. Dezember 2000 geltenden Fassung mit Gesetzeskraft. Für die Zeit vom 1. Januar 2002 bis zum 30. April 2002 gelten die in der Umlage-Verordnung Kredit- und Finanzdienstleistungswesen enthaltenen Regelungen in der am 1. Januar 2002 geltenden Fassung mit Gesetzeskraft. Zu den Kosten gehören auch die Erstattungsbeträge, die nicht beigetrieben werden konnten, sowie die Fehlbeträge aus der Umlage des vorhergehenden Jahres, für das Kosten zu erstatten sind; ausgenommen sind die Erstattungs- oder Fehlbeträge, über die noch nicht unanfechtbar oder rechtskräftig entschieden ist. Das Nähere über die Erhebung der Umlage, insbesondere über den Verteilungsschlüssel und -stichtag, die Mindestveranlagung, das Umlageverfahren einschließlich eines geeigneten Schätzverfahrens, die Zahlungsfristen und die Höhe der Säumniszuschläge, sowie über die Beitreibung bestimmt das Bundesministerium der Finanzen durch Rechtsverordnung; die Rechtsverordnung kann auch Regelungen über die vorläufige Festsetzung des Umlagebetrags vorsehen. Es kann die Ermächtigung durch Rechtsverordnung auf das Bundesaufsichtsamt übertragen.
 
@@ -4504,7 +4907,7 @@ Die Bagatellgrenze nach Satz 1 Nummer 2 beträgt mindestens 50 000 Euro, der un
 
 ## Vierter Abschnitt Besondere Vorschriften für Wohnungsunternehmen mit Spareinrichtung
 
-##### § 51a Anforderungen an die Eigenkapitalausstattung für Wohnungsunternehmen mit Spareinrichtung
+###### § 51a Anforderungen an die Eigenkapitalausstattung für Wohnungsunternehmen mit Spareinrichtung
 
 (1) Wohnungsunternehmen mit Spareinrichtung müssen im Interesse der Erfüllung ihrer Verpflichtungen gegenüber ihren Gläubigern, insbesondere im Interesse der Sicherheit der ihnen anvertrauten Vermögenswerte, angemessenes Eigenkapital haben. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über die angemessene Eigenkapitalausstattung (Solvabilität) der Wohnungsunternehmen mit Spareinrichtung zu erlassen, insbesondere über
 
@@ -4558,7 +4961,7 @@ Abzugspositionen im Sinne des Satzes 1 sind:
 
 (9) Die Bundesanstalt kann auf das haftende Eigenkapital einen Korrekturposten festsetzen. Wird der Korrekturposten festgesetzt, um noch nicht bilanzwirksam gewordene Kapitalveränderungen zu berücksichtigen, so wird die Festsetzung mit der Feststellung des nächsten für den Schluss eines Geschäftsjahres aufgestellten Jahresabschlusses gegenstandslos. Die Bundesanstalt hat die Festsetzung auf Antrag des Wohnungsunternehmens mit Spareinrichtung aufzuheben, soweit die Voraussetzung für die Festsetzung wegfällt.
 
-##### § 51b Anforderungen an die Liquidität für Wohnungsunternehmen mit Spareinrichtung
+###### § 51b Anforderungen an die Liquidität für Wohnungsunternehmen mit Spareinrichtung
 
 (1) Wohnungsunternehmen mit Spareinrichtung müssen ihre Mittel so anlegen, dass jederzeit eine ausreichende Zahlungsfähigkeit (Liquidität) gewährleistet ist. Mietzahlungen, die in den nächsten zwölf Monaten fällig werden, werden als Liquiditätszuflüsse berücksichtigt.
 
@@ -4574,7 +4977,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (3) Die Bundesanstalt kann bei der Beurteilung der Liquidität im Einzelfall gegenüber Wohnungsunternehmen mit Spareinrichtung über die in der Rechtsverordnung nach Absatz 2 Satz 1 festgelegten Vorgaben hinausgehende Liquiditätsanforderungen anordnen, wenn ohne eine solche Maßnahme die nachhaltige Liquidität nicht gesichert ist.
 
-##### § 51c Sonstige Sondervorschriften für Wohnungsunternehmen mit Spareinrichtung
+###### § 51c Sonstige Sondervorschriften für Wohnungsunternehmen mit Spareinrichtung
 
 (1) Das Einlagengeschäft im Sinne des § 1 Absatz 29 Satz 1 Nummer 3 darf nur mit den Mitgliedern der Genossenschaft und ihren Angehörigen gemäß § 15 der Abgabenordnung betrieben werden.
 
@@ -4586,19 +4989,21 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (5) § 33 Absatz 1 Satz 1 gilt mit der Maßgabe, dass einem Wohnungsunternehmen mit Spareinrichtung als Anfangskapital ein Gegenwert von mindestens 5 Millionen Euro zur Verfügung steht.
 
+(6) Die §§ 26c und 26d gelten mit der Maßgabe, dass Wohnungsunternehmen mit Spareinrichtung nur finanzielle Risiken im Zusammenhang mit umweltbezogenen Risiken berücksichtigen müssen und als kleine und nicht komplexe Institute gelten.
+
 ## Fünfter Abschnitt Sondervorschriften
 
-##### § 52 Sonderaufsicht
+###### § 52 Sonderaufsicht
 
 Soweit Institute einer anderen staatlichen Aufsicht unterliegen, bleibt diese neben der Aufsicht der Bundesanstalt bestehen.
 
-##### § 52a Verjährung von Ansprüchen gegen Organmitglieder von Kreditinstituten
+###### § 52a Verjährung von Ansprüchen gegen Organmitglieder von Kreditinstituten
 
 (1) Ansprüche von Kreditinstituten gegen Geschäftsleiter und Mitglieder des Aufsichts- oder Verwaltungsorgans aus dem Organ- und Anstellungsverhältnis wegen der Verletzung von Sorgfaltspflichten verjähren in zehn Jahren.
 
 (2) Absatz 1 ist auch auf die vor dem 15. Dezember 2010 entstandenen und noch nicht verjährten Ansprüche anzuwenden.
 
-##### § 53 Zweigstellen von Unternehmen mit Sitz im Ausland
+###### § 53 Zweigstellen von Unternehmen mit Sitz im Ausland; Verordnungsermächtigung
 
 (1) Unterhält ein Unternehmen mit Sitz im Ausland eine Zweigstelle im Inland, die Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, gilt die Zweigstelle als Kreditinstitut oder Finanzdienstleistungsinstitut. Unterhält das Unternehmen mehrere Zweigstellen im Inland, gelten sie als ein Institut.
 
@@ -4628,11 +5033,15 @@ Soweit Institute einer anderen staatlichen Aufsicht unterliegen, bleibt diese ne
 
 (6) Die ebenfalls eintragungspflichtige Aufhebung der Zweigstelle darf nur mit Zustimmung der Bundesanstalt erfolgen. Die Zustimmung ist in der Regel zu verweigern, wenn nicht nachgewiesen ist, dass sämtliche Geschäfte der Zweigstelle abgewickelt worden sind.
 
-##### § 53a Repräsentanzen von Instituten mit Sitz im Ausland
+(7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu bestimmen, dass die Vorschriften dieses Gesetzes über ausländische Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums auch auf Unternehmen mit Sitz in einem Drittstaat anzuwenden sind, soweit dies im Bereich des Niederlassungsrechts oder des Dienstleistungsverkehrs oder für die Aufsicht auf zusammengefasster Basis aufgrund von Abkommen der Europäischen Union mit Drittstaaten erforderlich ist.
+
+(8) Ungeachtet der Regelungen des Absatzes 7 können Unternehmen mit Sitz in einem Drittstaat, die in das Register nach Artikel 48 der Verordnung (EU) Nr. 600/2014 eingetragen wurden, gegenüber geeigneten Gegenparteien und professionellen Kunden im Inland Wertpapierdienstleistungen im Sinne des § 2 Absatz 8 und 9 des Wertpapierhandelsgesetzes erbringen. In diesem Fall ist § 53b Absatz 1 und 3 entsprechend anzuwenden.
+
+###### § 53a Repräsentanzen von Instituten mit Sitz im Ausland
 
 Ein Institut mit Sitz im Ausland darf eine Repräsentanz im Inland errichten oder fortführen, wenn es befugt ist, in seinem Herkunftsstaat Bankgeschäfte zu betreiben oder Finanzdienstleistungen zu erbringen und dort seine Hauptverwaltung hat. Das Institut hat die Absicht, eine Repräsentanz zu errichten, und den Vollzug einer solchen Absicht der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen. Die Bundesanstalt bestätigt dem Institut den Eingang der Anzeige. Die Repräsentanz, einschließlich ihrer Leiter, darf ihre Tätigkeit erst aufnehmen, wenn dem Institut die Bestätigung der Bundesanstalt vorliegt. Das Institut hat der Bundesanstalt und der Deutschen Bundesbank die Verlegung oder Schließung der Repräsentanz unverzüglich anzuzeigen.
 
-##### § 53b Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
+###### § 53b Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
 
 (1) Ein CRR-Kreditinstitut mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums darf ohne Erlaubnis durch die Aufsichtsbehörde über eine Zweigniederlassung oder über gemäß § 2 Absatz 10 angezeigte vertraglich gebundene Vermittler, die ihren Sitz oder gewöhnlichen Aufenthalt im Inland haben, sowie im Wege des grenzüberschreitenden Dienstleistungsverkehrs, auch durch vertraglich gebundene Vermittler, die ihren Sitz oder gewöhnlichen Aufenthalt im Herkunftsmitgliedstaat haben, im Inland Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen, wenn das Unternehmen von den zuständigen Stellen seines Herkunftsmitgliedstaates zugelassen worden ist, die Geschäfte von der Zulassung abgedeckt sind und das Unternehmen von den zuständigen Stellen nach Maßgabe der Richtlinien und Verordnungen der Europäischen Union beaufsichtigt wird. Satz 1 gilt entsprechend für CRR-Kreditinstitute, die auch Zahlungsdienste im Sinne des Zahlungsdiensteaufsichtsgesetzes erbringen. § 53 ist in diesem Fall nicht anzuwenden. § 14 der Gewerbeordnung bleibt unberührt.
 
@@ -4720,23 +5129,367 @@ Die Bundesanstalt kann von den Instituten nach Satz 1 alle Angaben verlangen, di
 
 (12) Wird der Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union wirksam, ohne dass bis zu diesem Zeitpunkt ein Austrittsabkommen im Sinne von Artikel 50 Absatz 2 Satz 2 des Vertrages über die Europäische Union in Kraft getreten ist, so kann die Bundesanstalt zur Vermeidung von Nachteilen für die Funktionsfähigkeit oder die Stabilität der Finanzmärkte anordnen, dass die Vorschriften der Absätze 1 bis 9 für einen Übergangszeitraum nach dem Austritt auf Unternehmen mit Sitz im Vereinigten Königreich Großbritannien und Nordirland, die zum Zeitpunkt des Austritts des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union nach Absatz 1 im Inland über eine Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs Bankgeschäfte betrieben oder Finanzdienstleistungen erbracht haben, ganz oder teilweise entsprechend anzuwenden sind. Dies gilt nur, soweit die Unternehmen nach dem Austritt Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen, die in engem Zusammenhang mit zum Zeitpunkt des Austritts bestehenden Verträgen stehen. Der im Zeitpunkt des Austritts beginnende Übergangszeitraum darf eine Dauer von 21 Monaten nicht überschreiten. Die Anordnung kann auch durch Allgemeinverfügung ohne vorherige Anhörung getroffen und öffentlich bekannt gegeben werden.
 
-##### § 53c Unternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung
+###### § 53c Besondere Anforderungen an CRD-Drittstaatenzweigstellen
 
-(1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung
+(1) § 53 Absatz 1 ist auf eine Zweigstelle eines Unternehmens mit Sitz in einem Drittstaat ausschließlich nach Maßgabe der §§ 53ca bis 53cq anzuwenden, sofern, vorbehaltlich des Satzes 2, eine der folgenden Voraussetzungen vorliegt (CRD-Drittstaatenzweigstelle):
 
-1. zu bestimmen, daß die Vorschriften dieses Gesetzes über ausländische Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums auch auf Unternehmen mit Sitz in einem Drittstaat anzuwenden sind, soweit dies im Bereich des Niederlassungsrechts oder des Dienstleistungsverkehrs oder für die Aufsicht auf zusammengefaßter Basis auf Grund von Abkommen der Europäischen Union mit Drittstaaten erforderlich ist;
+1. das Unternehmen wäre ein CRR-Kreditinstitut nach § 1 Absatz 3d, wenn es seinen Sitz in der Europäischen Union hätte, und die Zweigstelle erbringt mindestens eine der Tätigkeiten nach Anhang I Nummer 2 oder Nummer 6 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 oder
 
-2. die vollständige oder teilweise Anwendung der Vorschriften des § 53b unter vollständiger oder teilweiser Freistellung von den Vorschriften des § 53 auf Unternehmen mit Sitz in einem Drittstaat anzuordnen, wenn die Gegenseitigkeit gewährleistet ist und
+2. die Zweigstelle erbringt eine der Tätigkeiten nach Anhang I Nummer 1 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024.
 
-a) die Unternehmen in ihrem Sitzstaat in den von der Freistellung betroffenen Bereichen nach international anerkannten Grundsätzen beaufsichtigt werden,
+Satz 1 gilt nicht, sofern die Zweigstelle lediglich Dienstleistungen nach Anhang I Abschnitt A der Richtlinie 2014/65/EU in der Fassung vom 23. Oktober 2024 oder Nebendienstleistungen wie die damit verbundene Entgegennahme von Einlagen oder die Gewährung von Krediten oder Darlehen für die Zwecke der Erbringung von Dienstleistungen im Rahmen der genannten Richtlinie erbringt.
 
-b) den Zweigniederlassungen der entsprechenden Unternehmen mit Sitz im Inland in diesem Staat gleichwertige Erleichterungen eingeräumt werden und
+(2) Als Kopfunternehmen gilt das Unternehmen mit Sitz in einem Drittstaat, welches die CRD-Drittstaatenzweigstelle im Inland errichtet hat, sowie zwischengeschaltete oder oberste Mutterunternehmen dieses Unternehmens, sofern anwendbar.
 
-c) die zuständigen Behörden des Sitzstaates zu einer befriedigenden Zusammenarbeit mit der Bundesanstalt bereit sind und dies auf der Grundlage einer Vereinbarung sichergestellt ist.
+(3) § 53 Absatz 2a bis 6 findet entsprechende Anwendung.
 
-(2) Ungeachtet der Regelungen des Absatzes 1 können Unternehmen mit Sitz in einem Drittstaat, die in das Register nach Artikel 48 der Verordnung (EU) Nr. 600/2014 eingetragen wurden, gegenüber geeigneten Gegenparteien und professionellen Kunden im Inland Wertpapierdienstleistungen im Sinne des § 2 Absatz 3 und 3a des Wertpapierhandelsgesetzes erbringen. In diesem Fall ist § 53b Absatz 1 und 3 entsprechend anzuwenden.
+###### § 53ca Einstufung von CRD-Drittstaatenzweigstellen in Risikoklassen
 
-##### § 53d Mutterunternehmen mit Sitz in einem Drittstaat
+(1) Eine CRD-Drittstaatenzweigstelle gilt als CRD-Drittstaatenzweigstelle der Risikoklasse 1, sofern eine der folgenden Voraussetzungen erfüllt ist:
+
+1. der Gesamtwert der von der CRD-Drittstaatenzweigstelle verbuchten oder initiierten Vermögenswerte im Inland beträgt laut Meldung für den unmittelbar vorangegangenen jährlichen Berichtszeitraum nach den §§ 53ck und 53cl mindestens 5 Milliarden Euro;
+
+2. die zugelassenen Tätigkeiten der CRD-Drittstaatenzweigstelle umfassen die Entgegennahme von Einlagen oder anderen rückzahlbaren Geldern von Privatkunden im Sinne des § 67 Absatz 3 des Wertpapierhandelsgesetzes und der Betrag dieser Einlagen und anderen rückzahlbaren Gelder beträgt mindestens 5 Prozent der Gesamtverbindlichkeiten der Zweigstelle oder übersteigt 50 Millionen Euro oder
+
+3. die CRD-Drittstaatenzweigstelle ist keine qualifizierte CRD-Drittstaatenzweigstelle nach § 53cb.
+
+(2) Erfüllt eine CRD-Drittstaatenzweigstelle keine der Voraussetzungen nach Absatz 1, gilt sie als CRD-Drittstaatenzweigstelle der Risikoklasse 2.
+
+(3) Erfüllt eine CRD-Drittstaatenzweigstelle der Risikoklasse 1 keine Voraussetzung nach Absatz 1 mehr, gilt sie unverzüglich als CRD-Drittstaatenzweigstelle der Risikoklasse 2. Erfüllt eine CRD-Drittstaatenzweigstelle der Risikoklasse 2 eine der Voraussetzungen nach Absatz 1, so gilt sie nach Ablauf von vier Monaten ab dem Datum, zu dem sie diese Voraussetzung erfüllt hat, als CRD-Drittstaatenzweigstelle der Risikoklasse 1.
+
+(4) Die CRD-Drittstaatenzweigstelle hat der Bundesanstalt und der Deutschen Bundesbank einen Umstand nach Absatz 3 Satz 1 oder Satz 2 unverzüglich anzuzeigen.
+
+###### § 53cb Qualifizierte CRD-Drittstaatenzweigstellen
+
+(1) Eine CRD-Drittstaatenzweigstelle gilt als qualifizierte CRD-Drittstaatenzweigstelle, wenn sämtliche der folgenden Voraussetzungen vorliegen:
+
+1. die im Sitzstaat des Kopfunternehmens gemäß dem dortigen Regulierungsrahmen für das Bankenwesen angewandten aufsichtsrechtlichen Standards und die Überwachung entsprechen mindestens den Anforderungen der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 und der Verordnung (EU) Nr. 575/2013;
+
+2. die für das Kopfunternehmen zuständigen Aufsichtsbehörden unterliegen Verschwiegenheitspflichten, die den Anforderungen des Titels VII Kapitel 1, Abschnitt II der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 mindestens gleichwertig sind, und
+
+3. der Sitzstaat des Kopfunternehmens ist nicht auf Grundlage des Artikels 9 der Richtlinie (EU) 2015/849 in der Delegierten Verordnung (EU) 2016/1675 als ein Drittstaat mit hohem Risiko aufgeführt, der in seinem nationalen System zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung strategische Mängel aufweist.
+
+(2) Die Bundesanstalt prüft nach Eingang eines Erlaubnisantrages das Vorliegen der Voraussetzungen nach Absatz 1 und § 53ca. Wird der betreffende Drittstaat nicht in dem öffentlichen Register der Europäischen Bankenaufsichtsbehörde über Drittstaaten und Drittstaatenaufsichtsbehörden nach Artikel 48b Absatz 4 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 geführt, fordert die Bundesanstalt die Europäische Kommission auf, den Regulierungsrahmen für das Bankenwesen und die Verschwiegenheitspflichten des Drittstaats für die Zwecke des Artikels 48b Absatz 2 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 zu bewerten, es sei denn, beim Sitzstaat des Kopfunternehmens handelt es sich um einen Drittstaat mit hohem Risiko nach Absatz 1 Nummer 3. Vor einer Bewertung durch die Europäische Kommission nach Satz 2 gilt die betreffende CRD-Drittstaatenzweigstelle als CRD-Drittstaatenzweigstelle der Risikoklasse 1.
+
+###### § 53cc Voraussetzungen der Erlaubniserteilung
+
+(1) Eine CRD-Drittstaatenzweigstelle bedarf der schriftlichen oder elektronischen Erlaubnis der Bundesanstalt, wenn sie die in § 53c Absatz 1 Satz 1 genannten Dienstleistungen gewerbsmäßig oder in einem Umfang, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, im Inland erbringen will.
+
+(2) Die Bundesanstalt bemüht sich, vor Aufnahme der Tätigkeit der CRD-Drittstaatenzweigstelle Verwaltungsvereinbarungen oder andere Vereinbarungen mit den zuständigen Aufsichtsbehörden des Drittstaats zu schließen. Solche Vereinbarungen sollten sich auf die von der Europäischen Bankenaufsichtsbehörde gemäß Artikel 33 Absatz 5 der Verordnung (EU) Nr. 1093/2010 ausgearbeiteten Muster stützen. Die Bundesanstalt übermittelt der Europäischen Bankenaufsichtsbehörde unverzüglich Informationen über etwaige Verwaltungs- und sonstige Vereinbarungen, die mit den zuständigen Aufsichtsbehörden eines Drittstaats geschlossen wurden.
+
+(3) § 32 Absatz 1 Satz 5 und 6 findet entsprechende Anwendung. Im Geschäftsplan nach § 32 Absatz 1 Satz 5 Nummer 5 sind die geplante Geschäftstätigkeit, die geplanten Dienstleistungen nach § 53c Absatz 1, die Organisationsstruktur und das Risikomanagement nach § 53cg darzulegen.
+
+(4) Die Erlaubnis kann nur erteilt werden, wenn sämtliche der folgenden Voraussetzungen vorliegen:
+
+1. die CRD-Drittstaatenzweigstelle erfüllt die regulatorischen Mindestanforderungen nach den §§ 53ce bis 53ch;
+
+2. die Tätigkeiten, für die eine Erlaubnis beantragt wird, werden von der Erlaubnis des Kopfunternehmens im Drittstaat abgedeckt und dort beaufsichtigt;
+
+3. die Aufsichtsbehörde im Drittstaat wurde über den Erlaubnisantrag unterrichtet und der Erlaubnisantrag einschließlich des Geschäftsplans wurde ihr vorgelegt;
+
+4. die Bundesanstalt ist für die Zwecke der Ausübung ihrer Aufsichtsaufgaben in der Lage, bei den für das Kopfunternehmen zuständigen Aufsichtsbehörden im Drittstaat auf alle erforderlichen Informationen über dieses Unternehmen zuzugreifen und Aufsichtstätigkeiten wirksam abzustimmen, insbesondere in Krisenzeiten oder Zeiten finanzieller Notlagen, die das Kopfunternehmen, seine Gruppe oder das Finanzsystem des Drittstaats betreffen, und
+
+5. es besteht kein begründeter Verdacht, dass die CRD-Drittstaatenzweigstelle für Zwecke der Geldwäsche oder Terrorismusfinanzierung genutzt wird oder dazu dienen soll, die Begehung solcher Straftaten zu erleichtern.
+
+Zur Bewertung des Vorliegens eines begründeten Verdachts nach Satz 1 Nummer 5 konsultiert die Bundesanstalt die gemäß der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 für die Überwachung der Bekämpfung der Geldwäsche oder Terrorismusfinanzierung im Inland zuständige Behörde und holt vor der Erlaubniserteilung eine schriftliche oder elektronische Bestätigung über das Nichtvorliegen ein.
+
+(5) Die Tätigkeiten, für die der CRD-Drittstaatenzweigstelle eine Erlaubnis erteilt wird, dürfen nur im Inland ausgeübt werden. Dies gilt nicht für
+
+1. gruppeninterne Finanzierungstransaktionen mit anderen CRD-Drittstaatenzweigstellen des Kopfunternehmens und
+
+2. Dienstleistungen, die auf ausschließliche Veranlassung des Kunden oder der Gegenpartei erwirkt werden.
+
+Im Erlaubnisbescheid hat die Bundesanstalt auf das Verbot nach Satz 1 hinzuweisen und die grenzüberschreitende Anbietung und Ausübung dieser Tätigkeiten in anderen Mitgliedstaaten vorbehaltlich der Ausnahmen nach Satz 2 ausdrücklich zu untersagen.
+
+(6) Die Bundesanstalt kann beschließen, dass bis zum 10. Januar 2027 erteilte Erlaubnisse fortgelten, sofern die betroffenen CRD-Drittstaatenzweigstellen die Anforderungen nach den §§ 53ca bis 53cq erfüllen.
+
+(7) § 32 Absatz 2 und 3 bis 5 findet entsprechende Anwendung.
+
+###### § 53cd Versagungs-, Erlöschens- und Aufhebungsgründe
+
+(1) Die Erlaubnis ist zu versagen, wenn
+
+1. die Voraussetzungen für die Erlaubniserteilung nach § 53cc Absatz 4 nicht vorliegen oder
+
+2. das Kopfunternehmen oder seine Gruppe nicht die Aufsichtsanforderungen erfüllt, die im betreffenden Drittstaat für das Kopfunternehmen oder die Gruppe gelten, oder der begründete Verdacht besteht, dass dieser Umstand innerhalb der nächsten zwölf Monate eintreten wird.
+
+Das Eintreten eines Umstands nach Satz 1 Nummer 2 ist der Bundesanstalt unverzüglich anzuzeigen.
+
+(2) Die Erlaubnis erlischt, wenn von ihr nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch gemacht wird. § 35 Absatz 1 Satz 2 findet entsprechende Anwendung.
+
+(3) Die Bundesanstalt kann die Erlaubnis außer nach den Vorschriften des Verwaltungsverfahrensgesetzes aufheben, wenn
+
+1. ein Versagungsgrund nach Absatz 1 vorliegt; die Anzeigepflicht gemäß Absatz 1 Satz 2 gilt entsprechend;
+
+2. der Geschäftsbetrieb, auf den sich die Erlaubnis bezieht, seit mehr als sechs Monaten nicht mehr ausgeübt worden ist;
+
+3. die Erlaubnis aufgrund falscher Angaben oder auf andere Weise unrechtmäßig erlangt wurde;
+
+4. eine oder mehrere Voraussetzungen oder Anforderungen, aufgrund derer die Erlaubnis erteilt wurde, nicht mehr erfüllt werden;
+
+5. die CRD-Drittstaatenzweigstelle keine Gewähr für die Erfüllung ihrer Verpflichtungen gegenüber ihren Gläubigern bietet, insbesondere für die Sicherheit der ihr von den Einlegern anvertrauten Vermögenswerte, oder
+
+6. der begründete Verdacht besteht, dass im Zusammenhang mit der CRD-Drittstaatenzweigstelle, dem Kopfunternehmen oder seiner Gruppe Geldwäsche oder Terrorismusfinanzierung stattfindet oder stattgefunden hat oder diese Straftaten versucht wurden oder ein diesbezüglich erhöhtes Risiko besteht.
+
+Zum Zwecke der Bewertung des Vorliegens eines Verdachts nach Satz 1 Nummer 6 konsultiert die Bundesanstalt die gemäß der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 für die Überwachung der Bekämpfung von Geldwäsche oder Terrorismusfinanzierung zuständige Behörde.
+
+(4) Die §§ 33 und 35 finden entsprechende Anwendung.
+
+###### § 53ce Kapitalausstattung
+
+(1) CRD-Drittstaatenzweigstellen haben jederzeit eine Mindestkapitalausstattung in folgender Höhe vorzuhalten:
+
+1. CRD-Drittstaatenzweigstelle der Risikoklasse 1: 2,5 Prozent der durchschnittlichen Verbindlichkeiten der drei unmittelbar vorangegangenen jährlichen Berichtszeiträume, im Fall einer neu zugelassenen CRD-Drittstaatenzweigstelle nach den Verbindlichkeiten zum Zeitpunkt der Erlaubniserteilung, gemäß Meldung nach den §§ 53ck und 53cl, mindestens jedoch 10 Millionen Euro;
+
+2. CRD-Drittstaatenzweigstelle der Risikoklasse 2: 0,5 Prozent der durchschnittlichen Verbindlichkeiten der drei unmittelbar vorangegangenen jährlichen Berichtszeiträume, im Fall einer neu zugelassenen CRD-Drittstaatenzweigstelle nach den Verbindlichkeiten zum Zeitpunkt der Erlaubniserteilung, gemäß Meldung nach den §§ 53ck und 53cl, mindestens jedoch 5 Millionen Euro.
+
+(2) Die Mindestkapitalausstattung nach Absatz 1 ist durch Vermögenswerte in Form der folgenden Instrumente vorzuhalten:
+
+1. Bargeld oder bargeldnahe Instrumente im Sinne des Artikels 4 Absatz 1 Nummer 60 der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025,
+
+2. Schuldverschreibungen von Mitgliedstaaten der Europäischen Union oder deren Zentralbanken oder
+
+3. jedes andere Instrument, das der Zweigstelle uneingeschränkt und unmittelbar zur sofortigen Deckung von Risiken oder Verlusten zur Verfügung steht.
+
+(3) Die Instrumente nach Absatz 2 sind auf einem Abwicklungskonto bei einem CRR-Kreditinstitut im Inland, das nicht Teil der Gruppe des Kopfunternehmens ist, oder auf einem Abwicklungskonto bei der Deutschen Bundesbank nach deren Ermessen zu hinterlegen. Die Instrumente müssen für die Zwecke der Liquidation der CRD-Drittstaatenzweigstelle und im Fall der Abwicklung der CRD-Drittstaatenzweigstelle für die Zwecke des § 171 des Sanierungs- und Abwicklungsgesetzes zur Verfügung stehen.
+
+###### § 53cf Liquiditätsanforderungen
+
+(1) Für CRD-Drittstaatenzweigstellen der Risikoklasse 1 gelten die Liquiditätsanforderungen nach Teil 6 Titel I der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 und der Delegierten Verordnung (EU) 2015/61 in der Fassung vom 10. Februar 2022.
+
+(2) CRD-Drittstaatenzweigstellen der Risikoklasse 2 halten jederzeit unbelastete liquide Aktiva in einem Volumen vor, das ausreicht, Liquiditätsabflüsse über einen Zeitraum von mindestens 30 Tagen zu decken. Die liquiden Aktiva sind dazu auf einem Konto bei der Bundesbank oder bei einem CRR-Kreditinstitut im Inland, das nicht Teil der Gruppe des Kopfunternehmens ist, zu hinterlegen.
+
+(3) Verbleiben nach der Verwendung zur Deckung von Liquiditätsabflüssen noch liquide Aktiva, so müssen diese für die Zwecke der Liquidation der CRD-Drittstaatenzweigstelle und im Fall der Abwicklung der CRD-Drittstaatenzweigstelle für die Zwecke des § 171 des Sanierungs- und Abwicklungsgesetzes zur Verfügung stehen.
+
+(4) Die Bundesanstalt kann qualifizierte CRD-Drittstaatenzweigstellen im Sinne des § 53cb von der Liquiditätsanforderung nach dieser Vorschrift ausnehmen.
+
+###### § 53cg Interne Unternehmensführung und Risikomanagement
+
+(1) CRD-Drittstaatenzweigstellen haben zwei natürliche Personen mit Wohnsitz im Inland zu bestellen, die für den Geschäftsbereich der CRD-Drittstaatenzweigstelle zur Geschäftsführung und zur Vertretung des Unternehmens befugt sind. Solche Personen gelten als Geschäftsleiter. Sie sind zur Eintragung in das Handelsregister anzumelden.
+
+(2) CRD-Drittstaatenzweigstellen der Risikoklasse 1 haben folgende Anforderungen einzuhalten:
+
+1. § 24 Absatz 1 Nummer 1, 2, 14 bis 14b sowie Absatz 1a Nummer 3, 5 und 6, Absatz 1c und 1d in Verbindung mit der Rechtsverordnung gemäß § 24 Absatz 4;
+
+2. die §§ 18a, 24c, 25a Absatz 1, mit Ausnahme des Satzes 3 Nummer 2, Absatz 5 bis 5c in Verbindung mit der Rechtsverordnung gemäß Absatz 6, die §§ 25b, 25c Absatz 1, 3 und 4a, die §§ 25g bis 25k und 25m sowie § 26c Absatz 1 Satz 1 Nummer 2 bis 6 und Absatz 4 sowie
+
+3. § 25d Absatz 5 sowie Absatz 7 und 12 Satz 1 im Hinblick auf die Bestellung eines Vergütungskontrollausschusses nach Maßgabe des dortigen Absatzes 7 Satz 1, mit der Maßgabe, dass das Verwaltungs- oder Aufsichtsorgan des Kopfunternehmens als Verwaltungs- oder Aufsichtsorgan der CRD-Drittstaatenzweigstelle gilt.
+
+Die Bundesanstalt kann von der CRD-Drittstaatenzweigstelle der Risikoklasse 1 verlangen, einen Leitungsausschuss im Inland einzurichten, der eine angemessene Unternehmensführung der CRD-Drittstaatenzweigstelle sicherstellt.
+
+(3) CRD-Drittstaatenzweigstellen der Risikoklasse 2 haben die Anforderungen gemäß Absatz 2 Nummer 1 bis 3 mit Ausnahme des § 25c Absatz 4a Satz 1 Nummer 3 Buchstabe i einzuhalten. Sie können zudem die Risikocontrolling-Funktion und Compliance-Funktion mit anderen Funktionen oder Geschäftsbereichen zusammenlegen, sofern sich hieraus keine wesentlichen Interessenkonflikte ergeben. Abweichend von Satz 1 und 2 haben CRD-Drittstaatenzweigstellen der Risikoklasse 2 die Anforderungen nach Absatz 2 Nummer 1 bis 3 vollständig einzuhalten, wenn die Bundesanstalt dies von der CRD-Drittstaatenzweigstelle in Abhängigkeit von deren Größe und internen Organisation sowie Art, Umfang und Komplexität ihrer Tätigkeiten verlangt.
+
+(4) CRD-Drittstaatenzweigstellen haben Berichterstattungspflichten gegenüber dem Leitungsorgan des Kopfunternehmens festzulegen, die alle wesentlichen Risiken und Risikomanagementrichtlinien sowie deren Änderungen abdecken, ferner angemessene Informations- und Kommunikationstechnologiesysteme vorzuhalten und Kontrollen durchzuführen, um eine ordnungsgemäße Einhaltung dieser Richtlinien sicherzustellen. CRD-Drittstaatenzweigstellen haben die Vorgaben des Artikel 16 der Verordnung (EU) 2022/2554 in der Fassung vom 14. Dezember 2022 (Vereinfachter IKT-Risikomanagementrahmen) anzuwenden.
+
+(5) CRD-Drittstaatenzweigstellen haben ihre Auslagerungsvereinbarungen zu überwachen, zu verwalten und sicherzustellen, dass die Bundesanstalt und die Deutsche Bundesbank uneingeschränkten Zugang zu allen Informationen haben, die sie zur Ausübung ihrer Aufsichtsfunktion benötigen.
+
+(6) CRD-Drittstaatenzweigstellen, die Back-to-back-Geschäfte oder gruppeninterne Geschäfte tätigen, haben angemessene Ressourcen vorzuhalten, um ihr Gegenparteiausfallrisiko zu ermitteln und angemessen zu steuern, wenn wesentliche Risiken im Zusammenhang mit von den CRD-Drittstaatenzweigstellen gebuchten Vermögenswerten auf eine Gegenpartei übertragen werden.
+
+(7) Nimmt das Kopfunternehmen kritische oder wichtige Funktionen der CRD-Drittstaatenzweigstellen wahr, so hat es diese Funktionen im Einklang mit Regelungen der CRD-Drittstaatenzweigstelle oder gruppeninternen Regelungen wahrzunehmen. Der Bundesanstalt und der Deutschen Bundesbank ist Zugang zu allen Informationen zu gewähren, die sie zur Ausübung ihrer Aufsichtsfunktion benötigen.
+
+(8) Die Umsetzung und die laufende Einhaltung der Anforderungen der Absätze 1 und 4 bis 7 und der in den Absätzen 2 und 3 genannten Vorschriften sind jährlich durch einen Jahresabschlussprüfer im Rahmen der Jahresabschlussprüfung nach § 53ch Absatz 2 zu bewerten. Dieser hat der Bundesanstalt und der Deutschen Bundesbank einen Bericht mit seinen Feststellungen und Schlussfolgerungen vorzulegen. Für die Jahresabschlussprüfung gelten die §§ 26, 28 und 29 in Verbindung mit der Rechtsverordnung nach § 29 Absatz 4 entsprechend.
+
+###### § 53ch Buchungs- und Rechnungslegungsvorschriften
+
+(1) Eine CRD-Drittstaatenzweigstelle ist verpflichtet, im Einklang mit den nach Artikel 48h Absatz 4 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 erlassenen technischen Regulierungsstandards über die von ihr betriebenen Geschäfte und über das ihrem Geschäftsbetrieb dienende Vermögen des Unternehmens gesondert Buch zu führen und gegenüber der Bundesanstalt und der Deutschen Bundesbank Rechnung zu legen. Die Vorschriften des Dritten Buches des Handelsgesetzbuchs über Handelsbücher gelten insoweit entsprechend. Auf der Passivseite der jährlichen Vermögensübersicht ist der Betrag des der CRD-Drittstaatenzweigstelle von dem Kopfunternehmen zur Verfügung gestellten Betriebskapitals und der Betrag der der CRD-Drittstaatenzweigstelle zur Verstärkung der eigenen Mittel belassenen Betriebsüberschüsse gesondert auszuweisen. Der Überschuss der Passivposten über die Aktivposten oder der Überschuss der Aktivposten über die Passivposten ist am Schluss der Vermögensübersicht ungeteilt und gesondert auszuweisen.
+
+(2) Die nach Absatz 1 für den Schluss eines jeden Geschäftsjahres aufzustellende Vermögensübersicht mit einer Aufwands- und Ertragsrechnung und einem Anhang gilt als Jahresabschluss nach § 26. Für die Prüfung des Jahresabschlusses gilt § 340k des Handelsgesetzbuchs entsprechend mit der Maßgabe, dass der Prüfer von den Geschäftsleitern gewählt und bestellt wird. Mit dem Jahresabschluss der CRD-Drittstaatenzweigstelle ist der Jahresabschluss des Kopfunternehmens für das gleiche Geschäftsjahr einzureichen.
+
+###### § 53ci Verpflichtung zur Gründung eines Tochterunternehmens
+
+(1) Die Bundesanstalt kann von einer CRD-Drittstaatenzweigstelle verlangen, eine Erlaubnis nach § 32 zu beantragen, insbesondere wenn
+
+1. die CRD-Drittstaatenzweigstelle eine der in § 53c Absatz 1 genannten Tätigkeiten mit Kunden oder Gegenparteien in anderen Mitgliedstaaten durchführt oder durchgeführt hat, unbeschadet der Ausnahmen nach § 53cc Absatz 5 Satz 2,
+
+2. die CRD-Drittstaatenzweigstelle die in § 10g Absatz 2 genannten Indikatoren für Systemrelevanz erfüllt oder nach Absatz 2 als systemrelevant bewertet wird und erhebliche Risiken für die Finanzstabilität der Europäischen Union oder der Bundesrepublik Deutschland darstellt,
+
+3. der Gesamtbetrag aller Vermögenswerte, die durch CRD-Drittstaatenzweigstellen derselben Drittstaatengruppe in der Europäischen Union gehalten werden, 40 Milliarden Euro erreicht oder überschreitet oder
+
+4. der Betrag der Vermögenswerte der CRD-Drittstaatenzweigstellen im Inland 10 Milliarden Euro erreicht oder überschreitet.
+
+Die Befugnis nach Satz 1 kann nach Anwendung von Maßnahmen nach § 53cj oder § 53co, falls anwendbar, ausgeübt werden oder wenn aus anderen als den in Satz 1 genannten Gründen nachgewiesen werden kann, dass die vorgenannten Maßnahmen nicht ausreichen würden, um den wesentlichen aufsichtlichen Bedenken Rechnung zu tragen.
+
+(2) Vor Ausübung der Befugnis nach Absatz 1 konsultiert die Bundesanstalt die Europäische Bankenaufsichtsbehörde, die Deutsche Bundesbank und die zuständigen Aufsichtsbehörden der Mitgliedstaaten, in denen die betreffende Drittstaatengruppe andere CRD-Drittstaatenzweigstellen oder Tochterinstitute errichtet hat. Für die Zwecke des Absatzes 1 Satz 1 Nummer 2 bis 4 und bei der Bewertung nach § 53cj berücksichtigt die Bundesanstalt folgende Indikatoren für die Beurteilung der Systemrelevanz der CRD-Drittstaatenzweigstellen:
+
+1. die Größe der CRD-Drittstaatenzweigstelle;
+
+2. die Komplexität der Struktur, der Organisation und des Geschäftsmodells der CRD-Drittstaatenzweigstelle;
+
+3. den Grad der Verflechtung der CRD-Drittstaatenzweigstelle mit dem Finanzsystem der Europäischen Union und des Mitgliedstaates, in dem sie errichtet ist;
+
+4. die Substituierbarkeit der Tätigkeiten, Dienstleistungen, Geschäfte oder der Finanzinfrastruktur, die von der CRD-Drittstaatenzweigstelle bereitgestellt wird;
+
+5. den Marktanteil der CRD-Drittstaatenzweigstelle in der Europäischen Union und im Inland in Bezug auf die gesamten Bankaktiva sowie auf die von ihr erbrachten Tätigkeiten und Dienstleistungen;
+
+6. die wahrscheinlichen Auswirkungen einer Aussetzung oder Einstellung der Geschäfte oder der gesamten Tätigkeiten der CRD-Drittstaatenzweigstelle auf die Liquidität des inländischen Finanzsystems oder die Zahlungs-, Clearing- und Abwicklungssysteme in der Europäischen Union und im Inland;
+
+7. die Rolle und Bedeutung der CRD-Drittstaatenzweigstelle für die Tätigkeiten, Dienstleistungen und Geschäfte der Drittstaatengruppe in der Europäischen Union und im Inland;
+
+8. die Rolle und Bedeutung der CRD-Drittstaatenzweigstelle im Kontext der Abwicklung und Liquidation auf der Grundlage von Informationen der Abwicklungsbehörde nach § 3 Absatz 1 des Sanierungs- und Abwicklungsgesetzes sowie
+
+9. den Umfang der Geschäfte der Drittstaatengruppe, die über CRD-Drittstaatenzweigstellen getätigt werden, im Verhältnis zu den Geschäften dieser Drittstaatengruppe, die über in der Europäischen Union und im Inland zugelassene Tochterinstitute getätigt werden.
+
+###### § 53cj Bewertung der Systemrelevanz
+
+(1) CRD-Drittstaatenzweigstellen sind einer Beurteilung nach Absatz 2 zu unterziehen, wenn der Gesamtbetrag aller Vermögenswerte, die durch CRD-Drittstaatenzweigstellen derselben Drittstaatengruppe in der Europäischen Union gehalten werden, 40 Milliarden Euro erreicht oder überschreitet, und zwar bei Zugrundelegung entweder
+
+1. des Durchschnitts der drei unmittelbar vorangegangenen jährlichen Berichtszeiträume oder
+
+2. der absoluten Zahlen in mindestens drei der fünf unmittelbar vorangegangenen jährlichen Berichtszeiträume.
+
+Vermögenswerte, die von der CRD-Drittstaatenzweigstelle im Zusammenhang mit Zentralbankmarktgeschäften mit Zentralbanken des Europäischen Systems der Zentralbanken gehalten werden, bleiben bei der Berechnung außer Betracht.
+
+(2) Im Fall des Absatzes 1 bewertet die Bundesanstalt, ob die betreffende im Inland beaufsichtigte CRD-Drittstaatenzweigstelle systemrelevant und mit signifikanten Risiken für die Finanzstabilität der Europäischen Union oder der Bundesrepublik Deutschland verbunden ist. Hierzu berücksichtigt die Bundesanstalt, ob bei der betreffenden CRD-Drittstaatenzweigstelle die in den §§ 53ci und 10g Absatz 2 genannten Indikatoren für die Systemrelevanz erfüllt sind.
+
+(3) Die Bundesanstalt konsultiert im Rahmen der Bewertung nach Absatz 2 die Europäische Bankenaufsichtsbehörde und die Deutsche Bundesbank. Die Bundesanstalt konsultiert ferner die zuständigen Aufsichtsbehörden der Mitgliedstaaten, in denen die betreffende Drittstaatengruppe andere CRD-Drittstaatenzweigstellen oder Tochterinstitute eingerichtet hat, um die Risiken für die Finanzstabilität zu bewerten, die die im Inland beaufsichtigte CRD-Drittstaatenzweigstelle für die anderen betreffenden Mitgliedstaaten birgt. Die Bundesanstalt übermittelt der Europäischen Bankenaufsichtsbehörde, der Deutschen Bundesbank sowie den Aufsichtsbehörden nach Satz 2 ihre begründete Bewertung der Systemrelevanz nach Absatz 2. Stimmen die Aufsichtsbehörden nach Satz 2 der Bewertung nicht zu, bemüht sich die Bundesanstalt mit Unterstützung der Europäischen Bankenaufsichtsbehörde, spätestens drei Monate nach dem Tag, an dem die Aufsichtsbehörden nach Satz 2 Einwände erhoben haben, einen Konsens über die Bewertung nach Absatz 2 und etwaige gezielte Anforderungen nach Absatz 4 zu erzielen. Nach Ablauf dieser Frist entscheidet die Bundesanstalt abschließend über die Bewertung der Systemrelevanz der betreffenden CRD-Drittstaatenzweigstelle im Inland und über etwaige gezielte Anforderungen nach Absatz 4.
+
+(4) Sofern dies zur Bewältigung der festgestellten Risiken angemessen ist, kann die Bundesanstalt die betreffende CRD-Drittstaatenzweigstelle im Inland gezielten Anforderungen unterwerfen, insbesondere kann sie
+
+1. die CRD-Drittstaatenzweigstelle auffordern, ihre Vermögenswerte oder Tätigkeiten so umzustrukturieren, dass sie nicht mehr systemrelevant im Sinne von Absatz 2 ist oder dass sie für die Finanzstabilität der Europäischen Union oder die Bundesrepublik Deutschland kein unangemessenes Risiko mehr darstellt, und
+
+2. der CRD-Drittstaatenzweigstelle zusätzliche Aufsichtsanforderungen auferlegen.
+
+Ist die Bundesanstalt der Auffassung, dass eine CRD-Drittstaatenzweigstelle systemrelevante Bedeutung hat, beschließt sie aber dennoch, keine der Befugnisse nach Satz 1 Nummer 1 oder nach § 53ci auszuüben, so übermittelt sie der Europäischen Bankenaufsichtsbehörde, der Deutschen Bundesbank sowie den Aufsichtsbehörden nach Absatz 3 Satz 2 eine begründete Mitteilung ihrer Entscheidung.
+
+(5) Wird die Bundesanstalt von einer ausländischen zuständigen Aufsichtsbehörde in Entsprechung zu Absatz 3 zur Bewertung einer ausländischen CRD-Drittstaatenzweigstelle konsultiert und stimmt die Bundesanstalt der Bewertung nicht zu, so unterrichtet sie die ausländische zuständige Aufsichtsbehörde innerhalb von zehn Arbeitstagen ab dem Tag des Eingangs der Bewertung hierüber. Die Bundesanstalt bemüht sich mit Unterstützung der Europäischen Bankenaufsichtsbehörde, einen Konsens über die Bewertung und etwaige gezielte Anforderungen nach Artikel 48j Absatz 4 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 zu erzielen. Nach Ablauf dieser Frist entscheidet die ausländische zuständige Aufsichtsbehörde abschließend über die Bewertung der Systemrelevanz der ausländischen CRD-Drittstaatenzweigstelle und über etwaige gezielte Anforderungen nach Artikel 48j Absatz 4 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024.
+
+###### § 53ck Meldepflichten
+
+(1) CRD-Drittstaatenzweigstellen haben der Deutschen Bundesbank Folgendes zu übermitteln:
+
+1. Angaben zu den von der CRD-Drittstaatenzweigstelle im Einklang mit § 53ch verbuchten und von der CRD-Drittstaatenzweigstelle initiierten Vermögenswerten und Verbindlichkeiten, aufgeschlüsselt nach
+
+a) den größten erfassten Vermögenswerten und Verbindlichkeiten, aufgeschlüsselt nach Sektor und Art der Gegenpartei, insbesondere Risikopositionen der Finanzbranche;
+
+b) signifikanten Konzentrationen von Risikopositionen und Finanzierungsquellen in Bezug auf bestimmte Arten von Gegenparteien und
+
+c) bedeutenden internen Transaktionen mit dem Kopfunternehmen und Mitgliedern der Gruppe des Kopfunternehmens;
+
+2. Angaben zur Einhaltung der Anforderungen, die gemäß diesem Gesetz für CRD-Drittstaatenzweigstellen gelten oder ihnen auf Grundlage dieses Gesetzes auferlegt wurden,
+
+3. Angaben auf Ad-hoc-Basis zu den Einlagensicherungssystemen, die Einlegern der CRD-Drittstaatenzweigstelle im Einklang mit Artikel 15 Absatz 2 und 3 der Richtlinie 2014/49/EU in der Fassung vom 16. April 2014 zur Verfügung stehen, und
+
+4. Angaben zu zusätzlichen regulatorischen Anforderungen, die den CRD-Drittstaatenzweigstellen nach diesem Gesetz auferlegt werden.
+
+Für die Zwecke der Meldung der Informationen über die nach Satz 1 Nummer 1 verbuchten Vermögenswerte und Verbindlichkeiten wenden CRD-Drittstaatenzweigstellen die Vorschriften des Dritten Buches des Handelsgesetzbuchs an.
+
+(2) Zu ihrem Kopfunternehmen haben CRD-Drittstaatenzweigstellen die folgenden Angaben zu übermitteln:
+
+1. in regelmäßigen Abständen aggregierte Informationen über die Vermögenswerte und Verbindlichkeiten, die von den Tochterunternehmen und anderen CRD-Drittstaatenzweigstellen der Drittstaatengruppe im Europäischen Wirtschaftsraum gehalten oder verbucht werden,
+
+2. in regelmäßigen Abständen Informationen zur Einhaltung der geltenden Aufsichtsanforderungen auf Einzelbasis und konsolidierter Basis durch das Kopfunternehmen,
+
+3. auf Ad-hoc-Basis Informationen zu wesentlichen aufsichtlichen Überprüfungen und Bewertungen des Kopfunternehmens und zu einschlägigen Aufsichtsentscheidungen,
+
+4. die Sanierungspläne des Kopfunternehmens und die spezifischen Maßnahmen, die im Einklang mit diesen Plänen in Bezug auf die CRD-Drittstaatenzweigstellen ergriffen werden könnten, sowie alle nachfolgenden Aktualisierungen und Änderungen dieser Pläne,
+
+5. die Geschäftsstrategie des Kopfunternehmens in Bezug auf die CRD-Drittstaatenzweigstellen und alle nachfolgenden Änderungen dieser Strategie sowie
+
+6. die Dienstleistungen, die das Kopfunternehmen auf ausschließliche Veranlassung von Kunden oder Gegenparteien erbringt, die im Europäischen Wirtschaftsraum ansässig oder niedergelassen sind.
+
+(3) Die Bundesanstalt und die Deutsche Bundesbank können CRD-Drittstaatenzweigstellen zusätzliche Meldepflichten auferlegen, wenn sie die zusätzlichen Informationen für erforderlich halten, um einen umfassenden Überblick über die Geschäfte, Tätigkeiten oder die finanzielle Solidität der CRD-Drittstaatenzweigstellen oder ihres Kopfunternehmens zu erhalten oder um die Einhaltung der geltenden Rechtsvorschriften durch die CRD-Drittstaatenzweigstellen und das Kopfunternehmen zu überprüfen und sicherzustellen, dass die CRD-Drittstaatenzweigstellen diese Rechtsvorschriften einhalten.
+
+###### § 53cl Häufigkeit der Meldung
+
+(1) Die Meldepflichten nach § 53ck Absatz 3 müssen in einem angemessenen Verhältnis zur Einstufung der CRD-Drittstaatenzweigstelle in die Risikoklasse 1 oder 2 stehen.
+
+(2) Die in § 53ck genannten regulatorischen und finanziellen Informationen sind von CRD-Drittstaatenzweigstellen der Risikoklasse 1 mindestens halbjährlich und von den CRD-Drittstaatenzweigstellen der Risikoklasse 2 mindestens jährlich nach Maßgabe der technischen Durchführungsstandards auf der Grundlage des Artikels 48l Absatz 1 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 zu melden.
+
+(3) Die Bundesanstalt kann qualifizierte CRD-Drittstaatenzweigstellen nach § 53cb ganz oder teilweise von der Pflicht zur Meldung von Informationen über das Kopfunternehmen nach § 53ck Absatz 2 befreien, sofern sie die einschlägigen Informationen direkt von den Aufsichtsbehörden des betreffenden Drittstaates erhalten kann.
+
+###### § 53cm Aufsichtliches Prüfungsprogramm
+
+(1) Die Bundesanstalt kommt dem Titel VII der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 für die Zwecke der Beaufsichtigung von CRD-Drittstaatenzweigstellen nach.
+
+(2) Sie nimmt CRD-Drittstaatenzweigstellen in ihre Aufsichtsplanung auf.
+
+###### § 53cn Aufsichtliche Überprüfung und Beurteilung
+
+(1) Die Bundesanstalt überprüft die Regelungen, Strategien, Verfahren und Mechanismen, die von CRD-Drittstaatenzweigstellen eingeführt wurden, um den für sie geltenden Bestimmungen dieses Gesetzes nachzukommen. Sie arbeitet hierbei mit der Deutschen Bundesbank nach Maßgabe des § 7 zusammen.
+
+(2) Sie bewertet auf der Grundlage der Überprüfung nach Absatz 1, ob die von den CRD-Drittstaatenzweigstellen eingeführten Regelungen, Strategien, Verfahren und Mechanismen sowie ihre Kapitalausstattung und Liquidität ein solides Management und eine solide Abdeckung ihrer wesentlichen Risiken sowie die Existenzfähigkeit der CRD-Drittstaatenzweigstelle gewährleisten.
+
+(3) Die Bundesanstalt führt die in den Absätzen 1 und 2 genannte Überprüfung und Bewertung im Einklang mit den Kriterien für die Anwendung des Grundsatzes der Verhältnismäßigkeit nach § 6b Absatz 4 durch. Insbesondere legt die Bundesanstalt Häufigkeit und Intensität der in Absatz 1 genannten Überprüfung fest, die in einem angemessenen Verhältnis zur Einstufung der CRD-Drittstaatenzweigstelle in die Risikoklasse 1 oder 2 steht und die Art, den Umfang und die Komplexität der Tätigkeiten der CRD-Drittstaatenzweigstelle berücksichtigt.
+
+(4) § 7b Absatz 2 Nummer 12 findet auf CRD-Drittstaatenzweigstellen entsprechende Anwendung. Die Meldung nach Satz 1 hat auch gegenüber der Behörde zu erfolgen, die für die Überwachung der CRD-Drittstaatenzweigstelle gemäß der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 zuständig ist. Besteht ein erhöhtes Risiko für Geldwäsche oder Terrorismusfinanzierung, so nehmen die Bundesanstalt und die Behörde nach Satz 2 Kontakt mit der Europäischen Bankenaufsichtsbehörde auf, um ihre gemeinsame Bewertung unverzüglich zu übermitteln. Die Bundesanstalt ergreift erforderlichenfalls Maßnahmen nach diesem Gesetz. Diese können auch die Aufhebung der Erlaubnis der CRD-Drittstaatenzweigstelle nach § 53cd Absatz 3 Satz 1 Nummer 6 umfassen.
+
+(5) Die Bundesanstalt, die zentralen Meldestellen und die Behörde, die gemäß der Richtlinie (EU) 2015/849 in der Fassung vom 31. Mai 2024 die CRD-Drittstaatenzweigstelle beaufsichtigt, arbeiten im Rahmen ihrer jeweiligen Zuständigkeiten eng zusammen und tauschen Informationen aus, die für dieses Gesetz von Relevanz sind, sofern diese Zusammenarbeit und dieser Informationsaustausch keine laufenden Untersuchungen, Ermittlungen oder Verfahren entsprechend dem Straf- oder Verwaltungsrecht beeinträchtigt. Beinhalten diese Informationen personenbezogene Daten im Sinne der Verordnung (EU) 2016/679, sind diese Informationen zu übermitteln, soweit sie für die Wahrnehmung von Aufgaben nach der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 erforderlich sind.
+
+###### § 53co Aufsichtsmaßnahmen
+
+(1) Die Bundesanstalt verlangt von CRD-Drittstaatenzweigstellen, frühzeitig die erforderlichen Maßnahmen zu ergreifen, um sicherzustellen, dass
+
+1. die CRD-Drittstaatenzweigstellen die Anforderungen einhalten, die für sie nach diesem Gesetz gelten, oder dass die Einhaltung dieser Anforderungen wiederhergestellt wird und
+
+2. die wesentlichen Risiken, denen die CRD-Drittstaatenzweigstelle ausgesetzt ist, solide und hinreichend abgedeckt und beherrscht werden und die CRD-Drittstaatenzweigstelle existenzfähig bleibt.
+
+(2) Für die Zwecke des Absatzes 1 kann die Bundesanstalt insbesondere verlangen, dass die CRD-Drittstaatenzweigstellen
+
+1. eine über die in § 53ce Absatz 1 festgelegten Mindestanforderungen hinausgehende, im Einklang mit den dortigen Absätzen 2 und 3 stehende Kapitalausstattung vorhalten oder andere zusätzliche Kapitalanforderungen erfüllen;
+
+2. zusätzlich zu den in § 53cf festgelegten Anforderungen weitere spezifische Liquiditätsanforderungen erfüllen; jegliche zusätzlichen liquiden Aktiva nach dieser Nummer müssen die in § 53cf festgelegten Anforderungen erfüllen;
+
+3. ihre Regelungen für Unternehmensführung, Risikomanagement und Buchungsregeln stärken;
+
+4. den Umfang ihrer Geschäfte oder der von ihr ausgeübten Tätigkeiten sowie die Gegenparteien dieser Tätigkeiten einschränken oder begrenzen;
+
+5. das mit ihren Tätigkeiten, Produkten und Systemen verbundene Risiko verringern, einschließlich ihrer Auslagerungstätigkeiten, und die Ausübung oder das Anbieten solcher Tätigkeiten oder Produkte einstellen;
+
+6. zusätzliche Meldepflichten im Einklang mit § 53ck Absatz 3 erfüllen oder die Häufigkeit der regelmäßigen Meldung erhöhen und
+
+7. Offenlegungen vornehmen.
+
+(3) Die Aufsichtsbefugnisse gemäß folgenden Vorschriften gelten entsprechend auch gegenüber CRD-Drittstaatenzweigstellen:
+
+1. § 3 Absatz 4 sowie die §§ 4, 6 bis 6b;
+
+2. die §§ 23 und 24c;
+
+3. § 25a Absatz 2, § 25b Absatz 4 und 4a, § 25c Absatz 4c und 5;
+
+4. § 25g Absatz 3, § 25h Absatz 2 Satz 3, Absatz 4 Satz 2, Absatz 5 und 7 Satz 2, § 25i Absatz 4;
+
+5. die §§ 30 und 31, 33a, 34 sowie die §§ 36 bis 39;
+
+6. die §§ 44 bis 45 und 45b bis 46b sowie
+
+7. die §§ 46b, 46g, 47 bis 48u und 50.
+
+Für die Anwendung des § 36 Absatz 1 gilt die CRD-Drittstaatenzweigstelle als juristische Person.
+
+(4) § 46d Absatz 1 Satz 2 und 3 gilt entsprechend.
+
+(5) Die Verpflichtungen nach § 44 Absatz 1 Satz 1 gegenüber der Bundesanstalt und der Deutschen Bundesbank zur Auskunft und Vorlage von Unterlagen gelten auch für das Kopfunternehmen, für die Mitglieder deren Organe und deren Beschäftigte. Wer nach Satz 1 zur Erteilung einer Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
+
+###### § 53cp Zusammenarbeit und Aufsichtskollegien
+
+(1) Die Bundesanstalt arbeitet eng mit den zuständigen Aufsichtsbehörden der Mitgliedstaaten zusammen, in denen die betreffende Drittstaatengruppe andere CRD-Drittstaatenzweigstellen oder Tochterinstitute eingerichtet hat, und tauscht mit ihnen Informationen aus. Sie schließt mit ihnen schriftliche Koordinierungs- und Kooperationsvereinbarungen im Sinne des § 8a Absatz 2.
+
+(2) Für die Zwecke des Absatzes 1 unterliegen CRD-Drittstaatenzweigstellen der Risikoklasse 1 entsprechend § 8e der Beaufsichtigung durch ein Aufsichtskollegium nach folgender Maßgabe:
+
+1. wurde in Bezug auf die Tochterinstitute einer Drittstaatengruppe bereits ein Aufsichtskollegium eingerichtet, so sind CRD-Drittstaatenzweigstellen der Risikoklasse 1 in den Zuständigkeitsbereich dieses Aufsichtskollegiums einzubeziehen;
+
+2. unterhält eine Drittstaatengruppe mehr als eine CRD-Drittstaatenzweigstelle der Risikoklasse 1 in mehr als einem Mitgliedstaat, aber keine Artikel 116 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 unterliegenden Tochterinstitute in der Europäischen Union, ist ein Aufsichtskollegium in Bezug auf diese CRD-Drittstaatenzweigstelle der Risikoklasse 1 einzurichten, und
+
+3. unterhält eine Drittstaatengruppe mehr als eine CRD-Drittstaatenzweigstelle der Risikoklasse 1 in mehr als einem Mitgliedstaat oder wenigstens eine CRD-Drittstaatenzweigstelle der Risikoklasse 1 und eine oder mehrere nicht Artikel 116 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024 unterliegende Tochterinstitute in der Europäischen Union, ist ein Aufsichtskollegium in Bezug auf diese CRD-Drittstaatenzweigstelle und Tochterinstitute einzurichten.
+
+(3) Die Bundesanstalt ist die federführende zuständige Behörde im Sinne des Artikels 48o Absatz 3 der Richtlinie 2013/36/EU in der Fassung vom 27. November 2024, wenn sie die Aufsichtsbehörde des Mitgliedstaats mit der im Hinblick auf den Gesamtwert der verbuchten Vermögenswerte größten CRD-Drittstaatenzweigstelle der Drittstaatengruppe ist. Die Bundesanstalt nimmt in diesem Fall für die Zwecke des Absatzes 2 Nummer 2 und 3 die Rolle entsprechend der Aufsichtsbehörde nach § 8e wahr, welche für die Aufsicht auf zusammengefasster Basis über eine Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe zuständig ist.
+
+(4) Das Aufsichtskollegium hat über die Aufgaben gemäß § 8e hinaus
+
+1. einen Bericht über die Struktur und die Tätigkeiten der Drittstaatengruppe in der Europäischen Union zu erstellen und diesen jährlich zu aktualisieren;
+
+2. Informationen über die Ergebnisse des in § 53cn genannten Prozesses der aufsichtlichen Überprüfung und Bewertung auszutauschen und
+
+3. sich um eine Angleichung der Anwendung der in § 53co genannten Aufsichtsbefugnisse und -maßnahmen zu bemühen.
+
+(5) Das Aufsichtskollegium hat erforderlichenfalls eine angemessene Koordinierung und Zusammenarbeit mit den einschlägigen Drittstaatenaufsichtsbehörden sicherzustellen.
+
+###### § 53cq Meldung an die Europäische Bankenaufsichtsbehörde
+
+§ 2g Absatz 5 und § 7b Absatz 2 Nummer 1a sind auf CRD-Drittstaatenzweigstellen entsprechend anzuwenden.
+
+###### § 53d Mutterunternehmen mit Sitz in einem Drittstaat
 
 (1) Unterliegen CRR-Kreditinstitute und Wertpapierhandelsunternehmen mit Sitz im Inland, die Tochterunternehmen eines Instituts, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft mit Sitz in einem Drittstaat sind, in dem Drittstaat nicht einer Beaufsichtigung auf konsolidierter Basis nach den Bestimmungen dieses Gesetzes, bewertet die Aufsichtsbehörde, ob die Beaufsichtigung des CRR-Kreditinstituts oder des Wertpapierhandelsunternehmens auf konsolidierter Basis durch die zuständigen Stellen des Drittstaates der Beaufsichtigung nach den Bestimmungen des § 10a dieses Gesetzes und den Anforderungen des Teils 1 Titel II Kapitel 2 der Verordnung (EU) Nr. 575/2013 gleichwertig ist. Die Aufsichtsbehörde nimmt diese Bewertung auf Wunsch des Mutterunternehmens, eines im Europäischen Wirtschaftsraum zugelassenen Unternehmens oder von Amts wegen vor. Vor der Entscheidung über die Gleichwertigkeit hört die Aufsichtsbehörde die anderen zuständigen Stellen und die Europäische Aufsichtsbehörde an.
 
@@ -4750,17 +5503,17 @@ c) die zuständigen Behörden des Sitzstaates zu einer befriedigenden Zusammenar
 
 ## 1. Zentrale Gegenparteien
 
-##### § 53e Inhaber bedeutender Beteiligungen
+###### § 53e Inhaber bedeutender Beteiligungen
 
 § 2c Absatz 2 in Verbindung mit Absatz 1b Satz 1 Nummer 1, 3, 4 bis 6 gilt entsprechend, soweit die Bundesanstalt nach Artikel 30 Absatz 4 der Verordnung (EU) Nr. 648/2012 die erforderlichen Maßnahmen ergreifen soll, um eine Einflussnahme der in Artikel 30 Absatz 1 der Verordnung (EU) Nr. 648/2012 genannten Personen, die sich voraussichtlich zum Nachteil für eine solide und umsichtige Geschäftsführung einer zentralen Gegenpartei auswirken wird, zu beenden; § 44b gilt entsprechend.
 
-##### § 53f Aufsichtskollegien
+###### § 53f Aufsichtskollegien
 
 (1) Soweit die Bundesanstalt und die Deutsche Bundesbank einem Aufsichtskollegium nach Artikel 18 der Verordnung (EU) Nr. 648/2012 angehören, nehmen sie bei Abstimmungen jeweils eine Stimme wahr.
 
 (2) Falls nach Artikel 19 Absatz 3 Satz 3 der Verordnung (EU) Nr. 648/2012 drei Stimmen für deutsche Aufsichtsbehörden vorgesehen sind oder die Bundesanstalt oder die Deutsche Bundesbank dem Aufsichtskollegium nicht angehören, rücken in der Wahrnehmung der Stimmen die zuständigen Aufsichtsbehörden der Handelsplätze im Sinne des Artikels 18 Absatz 2 Buchstabe d der Verordnung (EU) Nr. 648/2012 nach, und zwar in der Reihenfolge des an dem Handelsplatz im vorangegangenen Kalenderjahr gehandelten Volumens an Finanzinstrumenten, das über die betreffende zentrale Gegenpartei abgerechnet wurde.
 
-##### § 53g Finanzmittelausstattung von zentralen Gegenparteien
+###### § 53g Finanzmittelausstattung von zentralen Gegenparteien
 
 Die Bundesanstalt kann bei der Beurteilung der Angemessenheit der Finanzmittel anordnen, dass eine zentrale Gegenpartei Anforderungen an das Eigenkapital und die sonstigen Finanzmittel einhalten muss, die über die Anforderungen der Artikel 16 und 43 der Verordnung (EU) Nr. 648/2012 hinausgehen, insbesondere
 
@@ -4770,11 +5523,11 @@ Die Bundesanstalt kann bei der Beurteilung der Angemessenheit der Finanzmittel a
 
 3. um einer besonderen Geschäftssituation einer zentralen Gegenpartei Rechnung zu tragen.
 
-##### § 53h Liquidität
+###### § 53h Liquidität
 
 Die Bundesanstalt kann bei der Beurteilung der Liquidität im Einzelfall gegenüber einer zentralen Gegenpartei Liquiditätsanforderungen anordnen, die über die Vorgaben hinausgehen, die in Artikel 44 der Verordnung (EU) Nr. 648/2012 gegebenenfalls in Verbindung mit nach Artikel 44 Absatz 2 erlassenen technischen Regulierungsstandards festgelegt sind, wenn ohne eine solche Maßnahme die nachhaltige Liquidität der zentralen Gegenpartei nicht gesichert ist.
 
-##### § 53i Gewährung des Zugangs nach den Artikeln 7 und 8 der Verordnung (EU) Nr. 648/2012
+###### § 53i Gewährung des Zugangs nach den Artikeln 7 und 8 der Verordnung (EU) Nr. 648/2012
 
 Eine zentrale Gegenpartei, der eine Zulassung nach Artikel 14 der Verordnung (EU) Nr. 648/2012 erteilt worden ist, hat die Bundesanstalt über den Eingang von Anträgen auf Zugangsgewährung nach Artikel 7 der Verordnung (EU) Nr. 648/2012 sowie das Stellen eines Antrags auf Zugangsgewährung nach Artikel 8 der Verordnung (EU) Nr. 648/2012 unverzüglich schriftlich oder elektronisch zu informieren. Die Bundesanstalt kann der zentralen Gegenpartei
 
@@ -4782,7 +5535,7 @@ Eine zentrale Gegenpartei, der eine Zulassung nach Artikel 14 der Verordnung (EU
 
 2. unter den in Artikel 8 Absatz 4 der Verordnung (EU) Nr. 648/2012 genannten Voraussetzungen untersagen, einen Zugang zu einem Handelsplatz im Sinne des Artikels 8 der genannten Verordnung einzurichten.
 
-##### § 53j Anzeigen; Verordnungsermächtigung
+###### § 53j Anzeigen; Verordnungsermächtigung
 
 (1) Eine zentrale Gegenpartei hat der Bundesanstalt und der Deutschen Bundesbank jeweils zum Monatsende anzuzeigen:
 
@@ -4810,11 +5563,11 @@ Eine zentrale Gegenpartei, der eine Zulassung nach Artikel 14 der Verordnung (EU
 
 soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um einheitliche Unterlagen zur Beurteilung des von zentralen Gegenparteien durchgeführten Clearings zu erhalten. Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank zu erlassen ist.
 
-##### § 53k Auslagerung von Aktivitäten und Prozessen
+###### § 53k Auslagerung von Aktivitäten und Prozessen
 
 Soweit eine zentrale Gegenpartei eine Auslagerung gemäß Artikel 35 der Verordnung (EU) Nr. 648/2012 vornimmt, gilt *§ 25b Absatz 3 Satz 1 und 2 Absatz 4* entsprechend.
 
-##### § 53l Anordnungsbefugnis; Maßnahmen bei organisatorischen Mängeln
+###### § 53l Anordnungsbefugnis; Maßnahmen bei organisatorischen Mängeln
 
 (1) Die Bundesanstalt kann gegenüber einer zentralen Gegenpartei im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die Einhaltung der Anforderungen der Verordnung (EU) Nr. 648/2012 sicherzustellen. Insbesondere zur Sicherstellung der ordnungsgemäßen Geschäftsorganisation, der organisatorischen Anforderungen und der Anforderungen nach den Artikeln 26, 28, 29, 31 Absatz 1 Satz 2 sowie den Artikeln 33 bis 35 der Verordnung (EU) Nr. 648/2012 kann sie anordnen, dass eine zentrale Gegenpartei
 
@@ -4824,7 +5577,7 @@ Soweit eine zentrale Gegenpartei eine Auslagerung gemäß Artikel 35 der Verordn
 
 (2) Die Bundesanstalt kann anstelle der in Absatz 1 Satz 2 genannten Maßnahmen oder zusammen mit diesen anordnen, dass die zentrale Gegenpartei Eigenmittelanforderungen einhalten muss, die über die Anforderungen nach Artikel 16 Absatz 2 der Verordnung (EU) Nr. 648/2012, auch in Verbindung mit technischen Regulierungsstandards nach dessen Absatz 3, hinausgehen.
 
-##### § 53m Inhalt des Zulassungsantrags
+###### § 53m Inhalt des Zulassungsantrags; Anforderung von Unterlagen; Verzicht auf die Anhörung
 
 (1) Ein Antrag auf Zulassung als zentrale Gegenpartei im Inland nach den Artikeln 14 und 17 der Verordnung (EU) Nr. 648/2012 muss enthalten:
 
@@ -4850,7 +5603,17 @@ Soweit eine zentrale Gegenpartei eine Auslagerung gemäß Artikel 35 der Verordn
 
 (2) Die Bundesanstalt kann weitere Unterlagen verlangen, soweit diese für die Beurteilung des Zulassungsantrags erforderlich sind.
 
-##### § 53n Maßnahmen zur Verbesserung der Finanzmittel und der Liquidität einer nach der Verordnung (EU) Nr. 648/2012 zugelassenen zentralen Gegenpartei
+(3) Die Bundesanstalt kann auf die Anhörung gemäß § 28 Absatz 1 des Verwaltungsverfahrensgesetzes verzichten, wenn sie
+
+1. Zulassungen gemäß Artikel 14 der Verordnung (EU) Nr. 648/2012,
+
+2. Genehmigungen von Zulassungserweiterungen gemäß Artikel 15, auch in Verbindung mit Artikel 17a, der Verordnung (EU) Nr. 648/2012 oder
+
+3. Genehmigungen und Validierungen gemäß Artikel 49, auch in Verbindung mit Artikel 49a, der Verordnung (EU) Nr. 648/2012
+
+mit Bedingungen oder Empfehlungen im Sinne der Verordnung (EU) Nr. 648/2012 versehen will.
+
+###### § 53n Maßnahmen zur Verbesserung der Finanzmittel und der Liquidität einer nach der Verordnung (EU) Nr. 648/2012 zugelassenen zentralen Gegenpartei
 
 (1) Wenn die Vermögens-, Finanz- oder Ertragsentwicklung einer zentralen Gegenpartei oder andere Umstände die Annahme rechtfertigen, dass die zentrale Gegenpartei die Anforderungen nach Artikel 41, 42, 43, 44, 46 oder 47 der Verordnung (EU) Nr. 648/2012, jeweils auch in Verbindung mit den zur näheren Ausgestaltung erlassenen technischen Regulierungsstandards nicht dauerhaft erfüllen können wird, kann die Bundesanstalt gegenüber der zentralen Gegenpartei Maßnahmen zur Verbesserung ihrer finanziellen Ausstattung und Liquidität anordnen, insbesondere
 
@@ -4920,7 +5683,7 @@ Die Sätze 5 und 6 gelten nicht, soweit die Ansprüche auf Gewährung variabler 
 
 ## 2. Zentralverwahrer
 
-##### § 53o Anträge nach der Verordnung (EU) Nr. 909/2014; Verschwiegenheitspflicht
+###### § 53o Anträge nach der Verordnung (EU) Nr. 909/2014; Verschwiegenheitspflicht
 
 (1) Die Unterlagen, die der Bundesanstalt nach der Verordnung (EU) Nr. 909/2014 vorzulegen sind, sind in deutscher Sprache und auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache zu erstellen und vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen oder Teile davon ausschließlich in englischer Sprache erstellt und vorgelegt werden.
 
@@ -4928,11 +5691,11 @@ Die Sätze 5 und 6 gelten nicht, soweit die Ansprüche auf Gewährung variabler 
 
 (3) Die Verschwiegenheitspflicht nach § 9 gilt für die Wahrnehmung der Aufgaben nach § 6 Absatz 1c entsprechend.
 
-##### § 53p Anordnungsbefugnis für die Aufsicht nach der Verordnung (EU) Nr. 909/2014
+###### § 53p Anordnungsbefugnis für die Aufsicht nach der Verordnung (EU) Nr. 909/2014
 
 Die Bundesanstalt kann unbeschadet der anderen Bestimmungen dieses Gesetzes gegenüber einem Zentralverwahrer im Sinne des Artikels 2 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 909/2014, gegenüber einem benannten Kreditinstitut oder Zentralverwahrer im Sinne des Artikels 54 Absatz 2a der Verordnung (EU) Nr. 909/2014, gegenüber deren übergeordneten Unternehmen sowie gegenüber Mitgliedern, deren Organe, deren Beschäftigten und anderen natürlichen oder juristischen Personen, die deren Geschäfte tatsächlich kontrollieren oder auf die Tätigkeiten im Sinne des Artikels 30 der Verordnung (EU) Nr. 909/2014 ausgelagert worden sind oder die ansonsten der Verordnung (EU) Nr. 909/2014 unterliegen, alle Anordnungen treffen, die geeignet und erforderlich sind, die Einhaltung der Anforderungen der Verordnung (EU) Nr. 909/2014, der darauf basierenden delegierten Rechtsakte sowie der auf Zentralverwahrer anwendbaren Bestimmungen dieses Gesetzes sicherzustellen.
 
-##### § 53q Eigentumsrechte an Zentralverwahrern
+###### § 53q Eigentumsrechte an Zentralverwahrern
 
 (1) Für die Unterrichtung der Bundesanstalt und der Deutschen Bundesbank über die Entscheidung, Eigentumsrechte an einem Zentralverwahrer zu übertragen, zu erwerben oder zu veräußern, der ausschließlich Dienstleistungen nach den Abschnitten A und B des Anhangs zur Verordnung (EU) Nr. 909/2014 erbringt oder der neben solchen Dienstleistungen Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, die zugleich Wertpapierdienstleistungen im Sinne des § 2 Absatz 3 des Wertpapierhandelsgesetzes sind, gilt Artikel 27 Absatz 7 der Verordnung (EU) Nr. 909/2014.
 
@@ -4948,27 +5711,27 @@ Im Falle einer Untersagung nach Satz 1 gelten § 2c Absatz 2 Satz 2 bis 9 und §
 
 ## Abschnitt 6a DLT-Pilotregelung nach der Verordnung (EU) 2022/858
 
-##### § 53r Zuständigkeit
+###### § 53r Zuständigkeit
 
 Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 12 Absatz 1 bis 3 der Verordnung (EU) 2022/858.
 
-##### § 53s Ausnahmen von der Erlaubnispflicht nach § 32
+###### § 53s Ausnahmen von der Erlaubnispflicht nach § 32
 
 (1) DLT-Marktinfrastrukturen im Sinne des Artikels 2 Nummer 5 der Verordnung (EU) 2022/858, denen eine besondere Genehmigung nach den Artikeln 8, 9 oder 10 der Verordnung (EU) 2022/858 erteilt wurde, benötigen keine weitere Erlaubnis nach § 32, soweit die erbrachte Finanzdienstleistung oder das betriebene Bankgeschäft von der besonderen Genehmigung umfasst ist.
 
 (2) Privatkunden im Sinne des § 67 Absatz 3 des Wertpapierhandelsgesetzes, die auf Grund einer Ausnahme nach Artikel 4 Absatz 2 der Verordnung (EU) 2022/858 als Mitglied oder Teilnehmer eines multilateralen DLT-Handelssystems im Sinne des Artikels 2 Nummer 6 der Verordnung (EU) 2022/858 oder DLT-Handels- und Abwicklungssystems im Sinne des Artikels 2 Nummer 10 der Verordnung (EU) 2022/858 das Eigengeschäft betreiben, benötigen hierfür keine Erlaubnis nach § 32 Absatz 1a Satz 2.
 
-##### § 53t DLT-Abwicklungssysteme und DLT-Handels- und Abwicklungssysteme
+###### § 53t DLT-Abwicklungssysteme und DLT-Handels- und Abwicklungssysteme
 
 Die Vorschriften dieses Gesetzes über Zentralverwahrer sind auch auf DLT-Abwicklungssysteme im Sinne des Artikels 2 Nummer 7 der Verordnung (EU) 2022/858 und auf solche DLT-Handels- und Abwicklungssysteme im Sinne des Artikels 2 Nummer 10 der Verordnung (EU) 2022/858 anzuwenden, die auf einer Erlaubnis nach der Verordnung (EU) Nr. 909/2014 beruhen.
 
-##### § 53u Unterlagen und Anträge nach der Verordnung (EU) 2022/858
+###### § 53u Unterlagen und Anträge nach der Verordnung (EU) 2022/858
 
 (1) Die Unterlagen, die der Bundesanstalt nach der Verordnung (EU) 2022/858 vorzulegen sind, sind in deutscher Sprache vorzulegen. Sie sind auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen oder Teile davon ausschließlich in englischer Sprache erstellt und vorgelegt werden. Sofern die Bundesanstalt eine Vorlage in beiden Sprachen verlangt, ist allein die deutschsprachige Fassung rechtlich maßgeblich.
 
 (2) Anträge nach der Verordnung (EU) 2022/858 sind der Bundesanstalt elektronisch zu übermitteln. Datenformat und Übermittlungsweg sind von der Bundesanstalt zu bestimmen.
 
-##### § 53v Betreiber organisierter Märkte
+###### § 53v Betreiber organisierter Märkte
 
 (1) Die Vorschriften dieses Abschnitts sind auch auf Betreiber organisierter Märkte anzuwenden, sofern diese ein multilaterales DLT-Handelssystem im Sinne des Artikels 2 Nummer 6 der Verordnung (EU) 2022/858 oder ein DLT-Handels- und Abwicklungssystem im Sinne des Artikels 2 Nummer 10 der Verordnung (EU) 2022/858 betreiben.
 
@@ -4976,7 +5739,7 @@ Die Vorschriften dieses Gesetzes über Zentralverwahrer sind auch auf DLT-Abwick
 
 ## Siebenter Abschnitt Strafvorschriften, Bußgeldvorschriften
 
-##### § 54 Verbotene Geschäfte, Handeln ohne Erlaubnis
+###### § 54 Verbotene Geschäfte, Handeln ohne Erlaubnis
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -4986,15 +5749,15 @@ Die Vorschriften dieses Gesetzes über Zentralverwahrer sind auch auf DLT-Abwick
 
 3. ohne Erlaubnis nach § 32 Absatz 1 Satz 1 erster Halbsatz ein Bankgeschäft betreibt oder eine Finanzdienstleistung erbringt.
 
-(1a) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 14 Absatz 1 der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1) eine Clearingdienstleistung erbringt.
+(2) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 14 Absatz 1 der Verordnung (EU) Nr. 648/2012 in der Fassung vom 27. November 2024 eine Clearingdienstleistung erbringt.
 
-(1b) Ebenso wird bestraft, wer ohne die erforderliche Zulassung nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 eine Zentralverwahrertätigkeit ausübt.
+(3) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 909/2014 in der Fassung vom 13. Dezember 2023 eine Zentralverwahrertätigkeit ausübt.
 
-(1c) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 12 Absatz 1 der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1) eine Schwarmfinanzierungsdienstleistung erbringt.
+(4) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 12 Absatz 1 der Verordnung (EU) 2020/1503 in der Fassung vom 7. Oktober 2020 eine Schwarmfinanzierungsdienstleistung erbringt.
 
-(2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+(5) Handelt der Täter in den Fällen der Absätze 1 bis 3 oder 4 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-##### § 54a Strafvorschriften
+###### § 54a Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 25c Absatz 4a oder § 25c Absatz 4b Satz 2 nicht dafür Sorge trägt, dass ein Institut oder eine dort genannte Gruppe über eine dort genannte Strategie, einen dort genannten Prozess, ein dort genanntes Verfahren, eine dort genannte Funktion oder ein dort genanntes Konzept verfügt, und hierdurch eine Bestandsgefährdung des Instituts, des übergeordneten Unternehmens oder eines gruppenangehörigen Instituts herbeiführt.
 
@@ -5002,19 +5765,19 @@ Die Vorschriften dieses Gesetzes über Zentralverwahrer sind auch auf DLT-Abwick
 
 (3) Die Tat ist nur strafbar, wenn die Bundesanstalt dem Täter durch Anordnung nach § 25c Absatz 4c die Beseitigung des Verstoßes gegen § 25c Absatz 4a oder § 25c Absatz 4b Satz 2 aufgegeben hat, der Täter dieser vollziehbaren Anordnung zuwiderhandelt und hierdurch die Bestandsgefährdung herbeigeführt hat.
 
-##### § 55 Verletzung der Pflicht zur Anzeige der Zahlungsunfähigkeit oder der Überschuldung
+###### § 55 Verletzung der Pflicht zur Anzeige der Zahlungsunfähigkeit oder der Überschuldung
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 46b Abs. 1 Satz 1, auch in Verbindung mit § 53b Abs. 3 Satz 1, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-##### § 55a Unbefugte Verwertung von Angaben über Millionenkredite
+###### § 55a Unbefugte Verwertung von Angaben über Millionenkredite
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 14 Abs. 2 Satz 10 eine Angabe verwertet.
 
 (2) Die Tat wird nur auf Antrag verfolgt.
 
-##### § 55b Unbefugte Offenbarung von Angaben über Millionenkredite
+###### § 55b Unbefugte Offenbarung von Angaben über Millionenkredite
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen § 14 Abs. 2 Satz 10 eine Angabe offenbart.
 
@@ -5022,9 +5785,9 @@ Die Vorschriften dieses Gesetzes über Zentralverwahrer sind auch auf DLT-Abwick
 
 (3) Die Tat wird nur auf Antrag verfolgt.
 
-##### § 56 Bußgeldvorschriften
+###### § 56 Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer einer vollziehbaren Anordnung nach § 36 Absatz 1 Satz 1, Absatz 2 oder Absatz 3 Satz 1 zuwiderhandelt.
+(1) Ordnungswidrig handelt, wer einer vollziehbaren Anordnung nach § 36 Absatz 1 Satz 1, Absatz 2 oder Absatz 3 Satz 1, § 53e erster Halbsatz, den §§ 53g, 53h, 53l Absatz 1 Satz 2 oder Absatz 2 oder nach § 53n Absatz 1 Satz 1, Absatz 2 erster Halbsatz, Absatz 3 Satz 1 oder 5 oder Absatz 4 Satz 5 oder 6 zuwiderhandelt.
 
 (1a) (weggefallen)
 
@@ -5036,29 +5799,39 @@ a) § 2c Absatz 1 Satz 1, 5, 6 oder Satz 7,
 
 b) § 2c Absatz 3 Satz 1 oder Satz 4,
 
-c) § 12a Absatz 1 Satz 3,
+c) § 2h Absatz 1 Satz 1, auch in Verbindung mit § 2h Absatz 2,
 
-d) § 14 Absatz 1 Satz 1 erster Halbsatz, auch in Verbindung mit einer Rechtsverordnung nach § 22 Satz 1 Nummer 4, jeweils auch in Verbindung mit § 53b Absatz 3 Satz 1 Nummer 3,
+d) § 2i Absatz 1 Satz 1,
 
-e) § 15 Absatz 4 Satz 5,
+e) § 12a Absatz 1 Satz 3,
 
-f) § 24 Absatz 1 Nummer 1, 2, 4, 6, 8, 9, 12, 14, 14a, 14b, 15 bis 17 oder Nummer 19 oder Absatz 3d,
+f) § 14 Absatz 1 Satz 1 erster Halbsatz, auch in Verbindung mit einer Rechtsverordnung nach § 22 Satz 1 Nummer 4, jeweils auch in Verbindung mit § 53b Absatz 3 Satz 1 Nummer 3,
 
-g) § 24 Absatz 1 Nummer 5 oder Nummer 7, jeweils auch in Verbindung mit § 53b Absatz 3 Satz 1 Nummer 5,
+g) § 15 Absatz 4 Satz 5,
 
-h) § 24 Absatz 1 Nummer 10, Absatz 1a oder Absatz 1b Satz 2,
+h) § 24 Absatz 1 Nummer 1, 2, 4, 6, 8, 9, 12, 14 bis 14b, 15 erster oder zweiter Halbsatz, Nummer 15a bis 17, 19 oder 20,
 
-i) § 24 Absatz 1c, 1d oder 1e,
+i) § 24 Absatz 1 Nummer 5 oder Nummer 7, jeweils auch in Verbindung mit § 53b Absatz 3 Satz 1 Nummer 5,
 
-j) § 24 Absatz 2a, 3 Satz 1 oder Absatz 3a Satz 1 Nummer 1 oder Nummer 2 oder Satz 2, jeweils auch in Verbindung mit Satz 5,
+j) § 24 Absatz 1 Nummer 10, Absatz 1a oder Absatz 1b Satz 2,
 
-k) § 24 Absatz 3a Satz 1 Nummer 3,
+k) § 24 Absatz 1c, 1d oder 1e,
 
-l) § 24a Absatz 1 Satz 1, auch in Verbindung mit Absatz 3 Satz 1, Absatz 3a Satz 1, Absatz 3b Satz 1, Absatz 3c Satz 1, oder § 24a Absatz 4 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 24a Absatz 5,
+l) § 24 Absatz 1f Satz 1, 2 oder 4,
 
-m) § 28 Absatz 1 Satz 1 oder
+m) § 24 Absatz 2a Satz 1 oder Absatz 3 Satz 1,
 
-n) § 53a Satz 2 oder Satz 5,
+n) § 24 Absatz 3a Satz 1 Nummer 1 bis 4 erster oder zweiter Halbsatz, Nummer 5, 6 oder 7,
+
+o) § 24 Absatz 3a Satz 1 Nummer 8 erster oder zweiter Halbsatz oder Nummer 9,
+
+p) § 24 Absatz 3a Satz 2,
+
+q) § 24a Absatz 1 Satz 1, auch in Verbindung mit Absatz 3 Satz 1, Absatz 3a Satz 1, Absatz 3b Satz 1, Absatz 3c Satz 1, oder § 24a Absatz 4 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 24a Absatz 5,
+
+r) § 28 Absatz 1 Satz 1 oder
+
+s) § 53a Satz 2 oder Satz 5,
 
 2. einer Rechtsverordnung nach
 
@@ -5100,13 +5873,19 @@ n) § 46 Absatz 1 Satz 1, auch in Verbindung mit § 53b Absatz 3 Satz 1 Nummer 8
 
 3a. entgegen § 2c Absatz 1b Satz 8 erster Halbsatz eine Beteiligung erwirbt oder erhöht,
 
-3b. ohne Zulassung nach § 2f Absatz 1 Satz 1 eine dort genannte Gesellschaft betreibt,
+3b. ohne Zulassung nach § 2f Absatz 1 Satz 1, auch in Verbindung mit Satz 2 Nummer 1, eine dort genannte Gesellschaft betreibt,
 
 3c. entgegen § 2f Absatz 2 Satz 1 Nummer 1 bis 3 oder Nummer 4 eine dort genannte Darstellung nicht richtig oder nicht vollständig beifügt,
 
-3d. einer vollziehbaren Anordnung nach § 2f Absatz 2 Satz 2 zuwiderhandelt oder
+3d. einer vollziehbaren Anordnung nach § 2f Absatz 2 Satz 2 zuwiderhandelt,
 
-3e. entgegen § 2f Absatz 5 Satz 2 eine Information nicht, nicht richtig oder nicht rechtzeitig übermittelt,
+3e. entgegen § 2f Absatz 4 Satz 2 eine dort genannte Information nicht richtig beifügt,
+
+3f. entgegen § 2f Absatz 5 Satz 2 eine Information nicht, nicht richtig oder nicht rechtzeitig übermittelt,
+
+3g. entgegen § 2i Absatz 7 eine geplante Spaltung oder Verschmelzung abschließt,
+
+3h. entgegen § 10a Absatz 8 Satz 1 Nummer 2 oder 3 das Vorhalten dort genannter Eigenmittel oder die Erfüllung einer dort genannten Liquiditätsanforderung nicht sicherstellt,
 
 4. entgegen § 10i Absatz 2 oder 3 Satz 3 Nummer 1 oder § 10j Absatz 2 oder 3 Satz 4 Nummer 1 eine Ausschüttung vornimmt,
 
@@ -5128,15 +5907,21 @@ a) § 25 Absatz 1 Satz 1 oder Satz 2 oder Absatz 2 Satz 1 oder Satz 2, jeweils i
 
 b) § 26 Absatz 1 Satz 1, 3 oder 4 oder Absatz 3
 
-11a. entgegen § 25g Absatz 2 nicht über interne Verfahren und Kontrollsysteme verfügt, die die Einhaltung der Pflichten nach der Verordnung nach § 25g Absatz 1 Nummer 1 gewährleisten,
+11a. entgegen § 25a Absatz 5 Satz 2 die variable Vergütung nicht bei maximal 100 Prozent hält,
 
-11b. entgegen § 25h Absatz 2 Satz 1, auch in Verbindung mit § 53b Absatz 3 Satz 1 Nummer 7, ein dort genanntes Datenverarbeitungssystem nicht betreibt,
+11b. entgegen § 25a Absatz 5b Satz 4 eine Mitteilung nicht oder nicht rechtzeitig macht,
 
-11c. entgegen § 25h Absatz 3 Untersuchungen nicht vornimmt,
+11c. entgegen § 25a Absatz 5c einen dort genannten Antrag nicht oder nicht rechtzeitig stellt,
 
-11d. entgegen § 25i Absatz 1 die Sorgfaltspflichten nach § 10 Absatz 1 des Geldwäschegesetzes nicht erfüllt,
+11d. entgegen § 25d Absatz 12 Satz 2 oder 3 ein dort genanntes Mitglied nicht bestellt,
 
-11e. (weggefallen)
+11e. entgegen § 25g Absatz 2 nicht über interne Verfahren und Kontrollsysteme verfügt, die die Einhaltung der Pflichten nach der Verordnung nach § 25g Absatz 1 Nummer 1 gewährleisten,
+
+11f. entgegen § 25h Absatz 2 Satz 1, auch in Verbindung mit § 53b Absatz 3 Satz 1 Nummer 7, ein dort genanntes Datenverarbeitungssystem nicht betreibt,
+
+11g. entgegen § 25h Absatz 3 Untersuchungen nicht vornimmt,
+
+11h. entgegen § 25i Absatz 1 die Sorgfaltspflichten nach § 10 Absatz 1 des Geldwäschegesetzes nicht erfüllt,
 
 12. entgegen § 25m Nummer 1, auch in Verbindung mit § 53b Absatz 3 Satz 1 Nummer 8, eine Korrespondenzbeziehung oder eine sonstige Geschäftsbeziehung mit einer Bank-Mantelgesellschaft aufnimmt oder fortführt,
 
@@ -5462,9 +6247,9 @@ b) Artikel 14
 
 (4h) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
-1. entgegen § 25e Satz 1 nicht durch entsprechende Maßnahmen sicherstellt, dass ein vertraglich gebundener Vermittler die dort geforderten Anforderungen fortlaufend erfüllt,
+1. entgegen § 25e Absatz 4 Satz 1 nicht durch entsprechende Maßnahmen sicherstellt, dass ein vertraglich gebundener Vermittler die dort geforderten Anforderungen fortlaufend erfüllt,
 
-2. entgegen § 25e Satz 2 danach erforderliche Nachweise nicht oder nicht für die gesetzlich vorgesehene Dauer aufbewahrt,
+2. entgegen § 25e Absatz 4 Satz 2 danach erforderliche Nachweise nicht oder nicht für die gesetzlich vorgesehene Dauer aufbewahrt,
 
 3. (weggefallen)
 
@@ -5477,6 +6262,12 @@ b) Artikel 14
 7. entgegen § 32 Absatz 1 Satz 5, auch in Verbindung mit einer Rechtsverordnung nach § 24 Absatz 4 Satz 1 oder 3, eine dort genannte Angabe, einen dort genannten Nachweis, einen dort genannten Geschäftsplan oder einen dort genannten Jahres- oder Konzernabschluss nicht richtig oder nicht vollständig beifügt.
 
 (4i) Zuwiderhandlungen gegen die Verordnung (EU) 2019/1238 in der Fassung vom 13. Dezember 2023 durch Personen im Anwendungsbereich dieses Gesetzes können nach § 120a des Wertpapierhandelsgesetzes geahndet werden.
+
+(4j) Ordnungswidrig handelt, wer
+
+1. ein Bankgeschäft betreibt, ohne die in Artikel 92 Absatz 1 der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 genannten Eigenmittelanforderungen zu erfüllen, oder
+
+2. ein Bankgeschäft betreibt und hierbei wiederholt liquide Aktiva nicht in der in Artikel 412 Absatz 1 Satz 1 der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 genannten Höhe hält.
 
 (5) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 oder gegen § 1a in Verbindung mit der Verordnung (EU) Nr. 575/2013 in der Fassung vom 17. Juni 2025 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -5518,13 +6309,21 @@ b) Artikel 14
 
 17. entgegen Artikel 396 Absatz 1 Satz 1 den Forderungswert nicht, nicht richtig, nicht vollständig oder nicht unverzüglich meldet,
 
-18. entgegen Artikel 412 Absatz 1 Satz 1 wiederholt oder fortgesetzt liquide Aktiva in der dort bezeichneten Höhe nicht hält,
+18. (weggefallen)
 
 19. entgegen Artikel 413 Absatz 1 wiederholt oder fortgesetzt stabile Instrumente der Refinanzierung in der dort bezeichneten Höhe nicht hält,
 
 20. entgegen Artikel 414 Satz 1 erster Halbsatz die Nichteinhaltung oder das erwartete Nichteinhalten der Anforderungen nicht, nicht richtig, nicht vollständig oder nicht unverzüglich mitteilt,
 
 21. entgegen Artikel 414 Satz 1 zweiter Halbsatz einen Plan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+21a. entgegen Artikel 428b Absatz 1 Satz 2 die strukturelle Liquiditätsquote nicht richtig berechnet,
+
+21b. entgegen Artikel 428b Absatz 2 die strukturelle Liquiditätsquote nicht bei mindestens der dort genannten Höhe hält,
+
+21c. entgegen Artikel 428b Absatz 4 die strukturelle Liquiditätsquote nicht richtig berechnet oder nicht richtig überwacht,
+
+21d. entgegen Artikel 429 Absatz 1 die Verschuldungsquote nicht richtig berechnet,
 
 22. entgegen Artikel 430 Absatz 1 Unterabsatz 1 Buchstabe a und Absatz 2 über die Verpflichtungen nach Artikel 92 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig Meldung erstattet,
 
@@ -5535,6 +6334,8 @@ b) Artikel 14
 25. entgegen Artikel 430 Absatz 1 Unterabsatz 1 Buchstabe d die dort bezeichneten Informationen über die Liquiditätslage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig meldet,
 
 26. entgegen Artikel 430 Absatz 1 Unterabsatz 1 Buchstabe e die genannten Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+26a. entgegen Artikel 430a Absatz 1 in Verbindung mit Artikel 430a Absatz 2 eine Meldung nicht, nicht richtig oder nicht vollständig macht,
 
 27. entgegen Artikel 431 Absatz 1 die dort bezeichneten Informationen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig veröffentlicht,
 
@@ -5596,15 +6397,17 @@ b) unverzüglich über den Fall, dass eine Funktion kritisch oder wichtig geword
 
 (6) Die Ordnungswidrigkeit kann
 
-1. in den Fällen des Absatzes 2 Nummer 1 Buchstabe a, b und h, Nummer 3 Buchstabe a und f, Nummer 4 und 12, des Absatzes 4d Nummer 18, der Absätze 4f, 4h, 5 Satz 1 Nummer 1 bis 7, 15, 18, 19 und 22 bis 29 und der Absätze 5b bis 5e Nummer 2 und 3 mit einer Geldbuße bis zu fünf Millionen Euro,
+1. in den Fällen des Absatzes 2 Nummer 1 Buchstabe a bis c, j, l und o, Nummer 3 Buchstabe a und f, Nummer 3b, 3d, 3e, 3g, 3h, 4, 11a bis 12, des Absatzes 4d Nummer 18, der Absätze 4f, 4h, 4j, 5 Satz 1 Nummer 1 bis 7, 15, 18, 19 und 21a bis 30, der Absätze 5b bis 5d und des Absatzes 5e Nummer 2 und 3 mit einer Geldbuße bis zu fünf Millionen Euro,
 
 1a. in den Fällen des Absatzes 4g mit einer Geldbuße bis zu siebenhunderttausend Euro,
 
 2. in den Fällen der Absätze 1 und 2 Nummer 3 Buchstabe l und der Absätze 5a und 5e Nummer 1, 4, 5 und 6 mit einer Geldbuße bis zu fünfhunderttausend Euro,
 
-3. in den Fällen des Absatzes 2 Nummer 2 Buchstabe a, Nummer 3 Buchstabe b bis e, g bis k und m, Nummer 5 bis 10, 13, 14, 17a und 17b, der Absätze 4, 4b Nummer 1 bis 5 und des Absatzes 4c in Verbindung mit Absatz 1a mit einer Geldbuße bis zu zweihunderttausend Euro und
+3. in den Fällen des Absatzes 2 Nummer 15 Buchstabe c mit einer Geldbuße bis zu dreihunderttausend Euro,
 
-4. in den übrigen Fällen mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
+4. in den Fällen des Absatzes 2 Nummer 2 Buchstabe a, Nummer 3 Buchstabe b bis e, g bis k und m, Nummer 5 bis 10, 13, 14, 17a und 17b, der Absätze 4, 4b Nummer 1 bis 5 und des Absatzes 4c in Verbindung mit Absatz 1a mit einer Geldbuße bis zu zweihunderttausend Euro und
+
+5. in den übrigen Fällen mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
 
 (6a) Gegenüber einer juristischen Person oder einer Personenvereinigung kann in den Fällen der Absätze 4f, 4g, 4h, 5b bis 5d über Absatz 6 hinaus eine höhere Geldbuße verhängt werden; diese Geldbuße darf den höheren der folgenden Beträge nicht übersteigen:
 
@@ -5640,7 +6443,7 @@ Handelt es sich bei der juristischen Person oder der Personenvereinigung um das 
 
 (8) (weggefallen)
 
-##### § 57 Bußgeldvorschriften
+###### § 57 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -5652,17 +6455,17 @@ Handelt es sich bei der juristischen Person oder der Personenvereinigung um das 
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfhunderttausend Euro geahndet werden. § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-##### § 58 (weggefallen)
+###### § 58 (weggefallen)
 
-##### § 59 Geldbußen gegen Unternehmen
+###### § 59 Geldbußen gegen Unternehmen
 
 § 30 des Gesetzes über Ordnungswidrigkeiten gilt auch für Unternehmen im Sinne des § 53b Abs. 1 Satz 1 und Abs. 7 Satz 1, die über eine Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland tätig sind.
 
-##### § 60 Zuständige Verwaltungsbehörde
+###### § 60 Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-##### § 60a Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
+###### § 60a Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
 
 (1) Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde hat in Strafverfahren gegen Inhaber, Geschäftsleiter oder Mitglieder der Verwaltungs- oder Aufsichtsorgane von Instituten oder Finanzholding-Gesellschaften sowie gegen Inhaber bedeutender Beteiligungen an Instituten oder deren gesetzliche Vertreter oder persönlich haftende Gesellschafter wegen Verletzung ihrer Berufspflichten oder anderer Straftaten bei oder im Zusammenhang mit der Ausübung eines Gewerbes oder dem Betrieb einer sonstigen wirtschaftlichen Unternehmung, ferner in Strafverfahren, die Straftaten nach § 54 zum Gegenstand haben, im Falle der Erhebung der öffentlichen Klage der Bundesanstalt
 
@@ -5680,7 +6483,7 @@ zu übermitteln; ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, i
 
 (3) Der Bundesanstalt ist auf Antrag Akteneinsicht zu gewähren, soweit nicht für die Akteneinsicht gewährende Stelle erkennbar ist, dass schutzwürdige Interessen des Betroffenen überwiegen. Absatz 2 Satz 2 gilt entsprechend.
 
-##### § 60b Bekanntmachung von Maßnahmen
+###### § 60b Bekanntmachung von Maßnahmen
 
 (1) Die Bundesanstalt hat, sofern die Bekanntmachung nicht bereits nach § 60c Absatz 1 Satz 1 erfolgt, jede von ihr wegen eines Verstoßes gegen dieses Gesetz, die dazu erlassenen Rechtsverordnungen oder die Bestimmungen der Verordnung (EU) Nr. 575/2013 oder der Verordnung (EU) 2023/1113 verhängte und bestandskräftig gewordene Maßnahme, jede unanfechtbar gewordene Bußgeldentscheidung und jede bestandskräftige Maßnahme nach § 28 Absatz 1 Satz 2, 4 und 5, Absatz 2 Satz 1 nach Maßgabe der Absätze 2 bis 4 unverzüglich auf ihren Internetseiten öffentlich bekannt zu machen und dabei auch Informationen zu Art und Charakter des Verstoßes mitzuteilen. Die Rechte der Bundesanstalt nach § 37 Absatz 1 Satz 3 bleiben unberührt.
 
@@ -5702,7 +6505,7 @@ Abweichend von Satz 1 kann die Bundesanstalt in den Fällen von Satz 1 Nummer 2 
 
 (5) Die Maßnahmen und Bußgeldentscheidungen im Sinne des Absatzes 1 mit Ausnahme der Bußgeldentscheidungen nach § 56 Absatz 4e sollen mindestens für fünf Jahre ab Bestandskraft der Maßnahme oder ab Unanfechtbarkeit der Bußgeldentscheidung auf den Internetseiten der Bundesanstalt veröffentlicht bleiben. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich ist.
 
-##### § 60c Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554
+###### § 60c Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554
 
 (1) Die Bundesanstalt macht Entscheidungen über Maßnahmen und Sanktionen, die wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014 oder Artikel 4 oder 15 der Verordnung (EU) 2015/2365, Artikel 16 Absatz 1 bis 4 der Verordnung (EU) 2016/1011 oder die jeweils darauf basierenden delegierten Rechtsakte erlassen wurden, auf ihrer Internetseite unverzüglich nach Unterrichtung der natürlichen oder juristischen Person, gegen die die Maßnahme oder Sanktion verhängt wurde, bekannt.
 
@@ -5726,7 +6529,7 @@ b) die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
 
 (6) Bei bestandskräftigen Maßnahmen und unanfechtbar gewordenen Bußgeldentscheidungen, die wegen eines Verstoßes gegen die Artikel 6, 7, 9 oder 27 Absatz 1 der Verordnung (EU) 2017/2402 oder wegen Verstößen gegen die Verordnung (EU) 2022/2554 erlassen wurden, gelten die Absätze 1 bis 3 und 5 mit der Maßgabe entsprechend, dass die Bekanntmachung auch die verhängten Maßnahmen und Bußgeldentscheidungen umfasst und in der Verhältnismäßigkeitsprüfung nach Absatz 3 geprüft wird, ob die Bekanntmachung den beteiligten Personen einen unverhältnismäßigen Schaden zufügen würde.
 
-##### § 60d Bekanntmachung von Maßnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen
+###### § 60d Bekanntmachung von Maßnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen
 
 (1) Die Bundesanstalt macht Entscheidungen über Maßnahmen und Sanktionen gemäß § 56 Absatz 4h, die gegen Wertpapierdienstleistungsunternehmen im Sinne des § 2 Absatz 10 des Wertpapierhandelsgesetzes erlassen wurden, unverzüglich nach Unterrichtung der natürlichen oder juristischen Person, gegen die die Maßnahme oder Sanktion verhängt wurde, auf ihrer Internetseite bekannt. Dies gilt nicht für Entscheidungen über Ermittlungsmaßnahmen.
 
@@ -5752,11 +6555,11 @@ Entscheidet sich die Bundesanstalt für eine Bekanntmachung in anonymisierter Fo
 
 ## Achter Abschnitt Übergangs- und Schlußvorschriften
 
-##### § 61 Erlaubnis für bestehende Kreditinstitute
+###### § 61 Erlaubnis für bestehende Kreditinstitute
 
 Soweit ein Kreditinstitut bei Inkrafttreten dieses Gesetzes Bankgeschäfte in dem in § 1 Abs. 1 bezeichneten Umfang betreiben durfte, gilt die Erlaubnis nach § 32 als erteilt. Die in § 35 Abs. 1 genannte Frist beginnt mit dem Inkrafttreten dieses Gesetzes zu laufen.
 
-##### § 62 Überleitungsbestimmungen
+###### § 62 Überleitungsbestimmungen
 
 (1) Die auf dem Gebiet des Kreditwesens bestehenden Rechtsvorschriften sowie die auf Grund der bisherigen Rechtsvorschriften erlassenen Anordnungen bleiben aufrechterhalten, soweit ihnen nicht Bestimmungen dieses Gesetzes entgegenstehen. Rechtsvorschriften, die für die geschäftliche Betätigung bestimmter Arten von Kreditinstituten weitergehende Anforderungen stellen als dieses Gesetz, bleiben unberührt.
 
@@ -5764,11 +6567,11 @@ Soweit ein Kreditinstitut bei Inkrafttreten dieses Gesetzes Bankgeschäfte in de
 
 (3) Die Zuständigkeiten der Länder für die Anerkennung als verlagertes Geldinstitut nach der Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz, für die Bestätigung der Umstellungsrechnung und der Altbankenrechnung sowie für die Aufgaben und Befugnisse nach den Wertpapierbereinigungsgesetzen und dem Bereinigungsgesetz für deutsche Auslandsbonds bleiben unberührt.
 
-##### § 63
+###### § 63
 
 (Aufhebung und Änderung von Rechtsvorschriften)
 
-##### § 63a Sondervorschriften für das in Artikel 3 des Einigungsvertrages genannte Gebiet
+###### § 63a Sondervorschriften für das in Artikel 3 des Einigungsvertrages genannte Gebiet
 
 (1) Soweit ein Kreditinstitut mit Sitz in der Deutschen Demokratischen Republik einschließlich Berlin (Ost) am 1. Juli 1990 Bankgeschäfte in dem in § 1 Abs. 1 bezeichneten Umfang betreiben durfte, gilt die Erlaubnis nach § 32 als erteilt.
 
@@ -5776,11 +6579,11 @@ Soweit ein Kreditinstitut bei Inkrafttreten dieses Gesetzes Bankgeschäfte in de
 
 (3) (weggefallen)
 
-##### § 64 Nachfolgeunternehmen der Deutschen Bundespost
+###### § 64 Nachfolgeunternehmen der Deutschen Bundespost
 
 Ab 1. Januar 1995 gilt die Erlaubnis nach § 32 für das Nachfolgeunternehmen der Deutschen Bundespost POSTBANK als erteilt. Bei der Zusammenfassung gemäß § 19 Abs. 2 Satz 1 werden bis zum 31. Dezember 2002 Anteile an den Nachfolgeunternehmen der Deutschen Bundespost nicht berücksichtigt, die von der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost gehalten werden.
 
-##### § 64a Übergangsvorschrift zum Risikoreduzierungsgesetz
+###### § 64a Übergangsvorschrift zum Risikoreduzierungsgesetz
 
 (1) Eine bereits am 27. Juni 2019 bestehende Finanzholding-Gesellschaft nach § 2f Absatz 1 kann bei der Aufsichtsbehörde eine Zulassung nach § 2f bis zum 28. Juni 2021 beantragen. In dem Zeitraum zwischen dem 27. Juni 2019 und dem 28. Juni 2021 stehen der Aufsichtsbehörde gegenüber der Finanzholding-Gesellschaft nach Satz 1 alle aufsichtlichen Befugnisse zu, die auch gegenüber einer nach § 2f zugelassenen Finanzholding-Gesellschaft bestehen. Sofern eine Finanzholding-Gesellschaft nach § 2f Absatz 1 bis zum 28. Juni 2021 keine Zulassung nach § 2f beantragt hat, ergreift die Aufsichtsbehörde entsprechende Maßnahmen nach § 2f Absatz 6.
 
@@ -5788,17 +6591,25 @@ Ab 1. Januar 1995 gilt die Erlaubnis nach § 32 für das Nachfolgeunternehmen de
 
 (3) Auf Institute, die keine CRR-Kreditinstitute sind und die in den Anwendungsbereich der Verordnung (EU) 2019/2033 fallen, sind bis zum 26. Juni 2021 mit Ausnahme der Vorschrift des § 2g die Vorschriften dieses Gesetzes in der bis zum 28. Dezember 2020 geltenden Fassung anzuwenden.
 
-##### § 64b Übergangsvorschrift zu § 24 Absatz 1d
+###### § 64b Übergangsvorschrift zu § 24 Absatz 1d
 
 Die Anzeigepflicht nach § 24 Absatz 1d ist erstmals zum Meldestichtag 31. Dezember 2023 zu erfüllen.
 
-##### § 64c (weggefallen)
+###### § 64c Übergangsvorschriften zum Bankenrichtlinienumsetzungs- und Bürokratieentlastungsgesetz
 
--
+(1) Für Geschäftsleiter von nach § 2f zugelassenen Finanzholding-Gesellschaften und von nach § 2f zugelassenen gemischten Finanzholding-Gesellschaften gilt die Mandatsbeschränkung des § 25c Absatz 2 nicht für Mandate als Geschäftsleiter und für Mandate in Verwaltungs- und Aufsichtsorganen, die der Geschäftsleiter am 31. Dezember 2025 bereits innehatte.
 
-##### § 64d (weggefallen)
+(2) Die Frist nach § 24 Absatz 1 Nummer 1 zweiter Halbsatz und Absatz 3a Nummer 1 zweiter Halbsatz sowie nach § 24 Absatz 1 Nummer 15 zweiter Halbsatz und Absatz 3a Nummer 4 zweiter Halbsatz ist erstmalig auf Personen anzuwenden, für die eine Anzeigepflicht ab dem 1. April 2026 entsteht.
 
-##### § 64e Übergangsvorschriften zum Sechsten Gesetz zur Änderung des Gesetzes über das Kreditwesen
+(3) Die Pflicht gemäß § 26d Absatz 1 tritt für die in § 26d Absatz 1 Satz 3 genannten Institute am 11. Januar 2027 in Kraft.
+
+(4) Rechtsverordnungen des Bundesministeriums der Finanzen, welche die vollständige oder teilweise Anwendung der Vorschriften des § 53b unter vollständiger oder teilweiser Freistellung von den Vorschriften des § 53 auf Unternehmen mit Sitz in einem Drittstaat angeordnet haben, gelten fort. Satz 1 gilt nicht in Bezug auf CRD-Drittstaatenzweigstellen nach § 53c.
+
+(5) Mit Ausnahme des § 53cc Absatz 6, der §§ 53ck und 53cl sind die §§ 53c bis 53cq erst ab dem 11. Januar 2027 anzuwenden. Für die Zwecke der Anwendung der §§ 53ck und 53cl gilt § 53c Absatz 1 bereits ab dem 11. Januar 2026.
+
+###### § 64d (weggefallen)
+
+###### § 64e Übergangsvorschriften zum Sechsten Gesetz zur Änderung des Gesetzes über das Kreditwesen
 
 (1) Für ein Kreditinstitut, das am 1. Januar 1998 über eine Erlaubnis als Einlagenkreditinstitut verfügt, gilt die Erlaubnis für das Betreiben des Finanzkommissionsgeschäftes, des Emissionsgeschäftes, des Geldkartengeschäftes, des Netzgeldgeschäftes sowie für das Erbringen von Finanzdienstleistungen für diesen Zeitpunkt als erteilt.
 
@@ -5810,7 +6621,7 @@ Die Anzeigepflicht nach § 24 Absatz 1d ist erstmals zum Meldestichtag 31. Dezem
 
 (5) (weggefallen)
 
-##### § 64f Übergangsvorschriften zum Vierten Finanzmarktförderungsgesetz
+###### § 64f Übergangsvorschriften zum Vierten Finanzmarktförderungsgesetz
 
 (1) Für ein Kreditinstitut, das am 1. Juli 2002 über eine Erlaubnis als Einlagenkreditinstitut verfügt, gilt die Erlaubnis für das Betreiben des Kreditkartengeschäfts für diesen Zeitpunkt als erteilt.
 
@@ -5818,7 +6629,7 @@ Die Anzeigepflicht nach § 24 Absatz 1d ist erstmals zum Meldestichtag 31. Dezem
 
 (3) bis (6) (weggefallen)
 
-##### § 64g Übergangsvorschriften zum Finanzkonglomeraterichtlinie-Umsetzungsgesetz
+###### § 64g Übergangsvorschriften zum Finanzkonglomeraterichtlinie-Umsetzungsgesetz
 
 (1) (weggefallen)
 
@@ -5850,7 +6661,7 @@ b) zur Beurteilung der fachlichen Eignung der Personen, die die Geschäfte einer
 
 (4) (weggefallen)
 
-##### § 64h Übergangsvorschriften zum Gesetz zur Umsetzung der neu gefassten Bankenrichtlinie und der neu gefassten Kapitaladäquanzrichtlinie
+###### § 64h Übergangsvorschriften zum Gesetz zur Umsetzung der neu gefassten Bankenrichtlinie und der neu gefassten Kapitaladäquanzrichtlinie
 
 (1) (weggefallen)
 
@@ -5866,7 +6677,7 @@ b) zur Beurteilung der fachlichen Eignung der Personen, die die Geschäfte einer
 
 (7) § 2 Abs. 8a ist bis längstens zum 31. Dezember 2014 anzuwenden.
 
-##### § 64i Übergangsvorschriften zum Finanzmarktrichtlinie-Umsetzungsgesetz
+###### § 64i Übergangsvorschriften zum Finanzmarktrichtlinie-Umsetzungsgesetz
 
 (1) Für ein Unternehmen, das am 1. November 2007 eine Erlaubnis für ein oder mehrere Bankgeschäfte oder Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 Nr. 1 bis 4 hat, gilt die Erlaubnis für die Anlageberatung als zu diesem Zeitpunkt erteilt. Für ein Finanzdienstleistungsinstitut, das nicht unter Satz 1 fällt, gilt die Erlaubnis für die Anlageberatung ab diesem Zeitpunkt bis zur Entscheidung der Bundesanstalt als vorläufig erteilt, wenn es bis zum 31. Januar 2008 einen vollständigen Erlaubnisantrag nach § 32 Abs. 1 Satz 1 und 2, auch in Verbindung mit einer Rechtsverordnung nach § 24 Abs. 4, stellt.
 
@@ -5878,31 +6689,31 @@ b) zur Beurteilung der fachlichen Eignung der Personen, die die Geschäfte einer
 
 (5) Für ein Unternehmen, das am 1. November 2007 eine Erlaubnis für die Abschlussvermittlung hat, gilt für die Erlaubnis zur Erbringung des Platzierungsgeschäfts Absatz 1 Satz 2 entsprechend.
 
-##### § 64j Übergangsvorschriften zum Jahressteuergesetz 2009
+###### § 64j Übergangsvorschriften zum Jahressteuergesetz 2009
 
 (1) Für ein Unternehmen, das am 25. Dezember 2008 eine Erlaubnis für ein oder mehrere Bankgeschäfte im Sinne des § 1 Absatz 1 oder Finanzdienstleistungsgeschäfte im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 hat, gilt die Erlaubnis für das Factoring und das Finanzierungsleasing als zu diesem Zeitpunkt erteilt.
 
 (2) Für Finanzdienstleistungsinstitute, die nicht unter Absatz 1 fallen, gilt die Erlaubnis für das Factoring und das Finanzierungsleasing ab dem 25. Dezember 2008 als erteilt, wenn sie bis zum 31. Januar 2009 anzeigen, dass sie diese Tätigkeiten ausüben. Für Unternehmen im Sinne des Satzes 1, die zum Zeitpunkt des Inkrafttretens des Gesetzes mindestens zwei der drei in § 267 Absatz 1 des Handelsgesetzbuchs genannten Größenkriterien nicht überschreiten, gilt eine längere Frist bis zum 31. Dezember 2009. Die Anzeige muss die Angaben nach § 32 Absatz 1 Satz 5 Nummer 2 und 6 Buchstabe a und b, den Jahresabschluss für das letzte abgelaufene Geschäftsjahr oder, soweit dieser nach den hierfür geltenden Fristen noch nicht aufzustellen war, für das diesem vorausgegangene Geschäftsjahr oder, soweit noch kein Jahresabschluss aufzustellen war, die Eröffnungsbilanz und eine unterjährige Gewinn- und Verlustrechnung sowie einen aktuellen Handelsregisterauszug und die Gewerbeanzeige nach § 14 Absatz 1 Satz 1 der Gewerbeordnung enthalten.
 
-##### § 64k Übergangsvorschrift zum Gesetz zur Umsetzung der Beteiligungsrichtlinie
+###### § 64k Übergangsvorschrift zum Gesetz zur Umsetzung der Beteiligungsrichtlinie
 
 Auf Verfahren nach § 2c, bei denen bis zum 17. März 2009 eine Anzeige eingegangen ist, sind die Vorschriften dieses Gesetzes in der bis zum 17. März 2009 geltenden Fassung anzuwenden.
 
-##### § 64l Übergangsvorschrift zur Erlaubnis für die Anlageverwaltung
+###### § 64l Übergangsvorschrift zur Erlaubnis für die Anlageverwaltung
 
 Für ein Institut, das am 25. März 2009 die Erlaubnis für das Finanzkommissionsgeschäft, den Eigenhandel oder die Finanzportfolioverwaltung hat, gilt die Erlaubnis für die Anlageverwaltung als zu diesem Zeitpunkt erteilt. Eine Erlaubnispflicht für die Anlageverwaltung besteht nicht für solche Produkte, für die bis zum 24. September 2008 ein Verkaufsprospekt veröffentlicht wurde.
 
-##### § 64m Übergangsvorschrift zum Brexit-Steuerbegleitgesetz
+###### § 64m Übergangsvorschrift zum Brexit-Steuerbegleitgesetz
 
 (1) § 25a Absatz 5a in der am 29. März 2019 geltenden Fassung ist erstmals für Kündigungen anzuwenden, die nach Ablauf von acht Monaten nach dem 29. März 2019 zugehen.
 
 (2) Wird der Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union wirksam, ohne dass bis zu diesem Zeitpunkt ein Austrittsabkommen im Sinne von Artikel 50 Absatz 2 Satz 2 des Vertrages über die Europäische Union in Kraft getreten ist, so ist § 64x Absatz 7 Satz 1 auf Unternehmen mit Sitz im Vereinigten Königreich Großbritannien und Nordirland mit der Maßgabe anzuwenden, dass die Befreiung nach § 2 Absatz 5 ab dem Zeitpunkt des Austritts bis zur Entscheidung der Europäischen Wertpapier- und Marktaufsichtsbehörde über eine Eintragung des Unternehmens in das Register nach Artikel 48 der Verordnung (EU) Nr. 600/2014 als vorläufig erteilt gilt, wenn das Unternehmen innerhalb von drei Monaten nach dem Zeitpunkt des Austritts einen vollständigen Freistellungsantrag nach § 2 Absatz 5 Satz 1 stellt.
 
-##### § 64n Übergangsvorschrift zum Gesetz zur Novellierung des Finanzvermittler- und Vermögensanlagenrechts
+###### § 64n Übergangsvorschrift zum Gesetz zur Novellierung des Finanzvermittler- und Vermögensanlagenrechts
 
 Für ein Unternehmen, das auf Grund der Erweiterung der Definition der Finanzinstrumente in § 1 Absatz 11 Satz 1 am 1. Juni 2012 zum Finanzdienstleistungsinstitut wird, gilt die Erlaubnis ab diesem Zeitpunkt bis zur Entscheidung der Bundesanstalt als vorläufig erteilt, wenn es bis zum 31. Dezember 2012 einen vollständigen Erlaubnisantrag nach § 32 Absatz 1 Satz 1 und 5, auch in Verbindung mit einer Rechtsverordnung nach § 24 Absatz 4, stellt.
 
-##### § 64o Übergangsvorschriften zum EMIR-Ausführungsgesetz
+###### § 64o Übergangsvorschriften zum EMIR-Ausführungsgesetz
 
 (1) Für Kreditinstitute, die am 16. Februar 2013 über eine Erlaubnis nach § 32 zur Ausübung der Tätigkeit einer zentralen Gegenpartei nach § 1 Absatz 1 Satz 2 Nummer 12 verfügen, findet bis zu der Erteilung einer Erlaubnis nach Artikel 14 in Verbindung mit Artikel 17 der Verordnung (EU) Nr. 648/2012 § 2 Absatz 9a und 9b keine Anwendung. § 37 Absatz 1 Satz 1 sowie § 54 Absatz 1a finden auf in Satz 1 genannte Kreditinstitute hinsichtlich der Tätigkeit als zentrale Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 bis zur Erteilung oder der rechtskräftigen Versagung der Erlaubnis nach Artikel 14 in Verbindung mit Artikel 17 der Verordnung (EU) Nr. 648/2012 keine Anwendung. Soweit eine Erlaubnis nach § 32 das Betreiben von Bankgeschäften nach § 1 Absatz 1 Satz 2 Nummer 1 bis 10 oder das Erbringen von Finanzdienstleistungen nach § 1 Absatz 1a umfasst, bleibt sie insoweit von der Erteilung oder der rechtskräftigen Versagung der Erlaubnis nach Artikel 14 in Verbindung mit Artikel 17 der Verordnung (EU) Nr. 648/2012 unberührt.
 
@@ -5910,17 +6721,17 @@ Für ein Unternehmen, das auf Grund der Erweiterung der Definition der Finanzins
 
 (3) § 29 Absatz 1a in der ab dem 16. Februar 2013 geltenden Fassung ist erstmals auf die Abschlussprüfung des Jahresabschlusses für ein Geschäftsjahr anzuwenden, das nach dem Zeitpunkt beginnt, in dem das Kreditinstitut eine Erlaubnis nach Artikel 14 in Verbindung mit Artikel 17 der Verordnung (EU) Nr. 648/2012 erhalten hat.
 
-##### § 64p Übergangsvorschrift zum Hochfrequenzhandelsgesetz
+###### § 64p Übergangsvorschrift zum Hochfrequenzhandelsgesetz
 
 Für ein Unternehmen, das auf Grund der Ausdehnung des Begriffs des Eigenhandels in § 1 Absatz 1a Satz 2 Nummer 4 am 15. Mai 2013 zum Finanzdienstleistungsinstitut wird, gilt die Erlaubnis für den Eigenhandel und das Eigengeschäft im Sinne des § 32 Absatz 1a als zu diesem Zeitpunkt vorläufig erteilt, wenn es bis zum 14. November 2013 einen vollständigen Erlaubnisantrag nach § 32 Absatz 1 Satz 1 und 5, auch in Verbindung mit einer Rechtsverordnung nach § 24 Absatz 4, stellt. Für ein Unternehmen, das nicht im Inland ansässig und kein Unternehmen im Sinne des § 53b Absatz 1 Satz 1 und 2 ist, gilt Satz 1 mit der Maßgabe, dass der vollständige Erlaubnisantrag bis zum 14. Februar 2014 zu stellen ist.
 
-##### § 64q Übergangsvorschrift zum AIFM-Umsetzungsgesetz
+###### § 64q Übergangsvorschrift zum AIFM-Umsetzungsgesetz
 
 (1) Auf Finanzdienstleistungsinstitute, die durch die Änderung des § 1 und das Inkrafttreten des Kapitalanlagegesetzbuchs als Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuchs oder als Anteile an Investmentvermögen im Sinne des § 1 Absatz 1 des Kapitalanlagegesetzbuchs gelten und die die Voraussetzungen von § 353 Absatz 1 bis 3 erfüllen, ist § 1 Absatz 1a in der bis zum 21. Juli 2013 geltenden Fassung weiterhin anzuwenden.
 
 (2) Auf Finanzdienstleistungsinstitute, die durch die Änderung des § 1 und das Inkrafttreten des Kapitalanlagegesetzbuchs als Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuchs oder als Anteile an Investmentvermögen im Sinne des § 1 Absatz 1 des Kapitalanlagegesetzbuchs gelten, ist dieses Gesetz in der bis zum 21. Juli 2013 geltenden Fassung bis zur Stellung des Erlaubnisantrages gemäß § 22 des Kapitalanlagegesetzbuchs oder, wenn die Voraussetzungen des § 2 Absatz 4, 4a, 4b oder Absatz 5 des Kapitalanlagegesetzbuchs erfüllt sind, bis zur Registrierung gemäß § 44 des Kapitalanlagegesetzbuchs weiterhin anzuwenden.
 
-##### § 64r Übergangsvorschriften zum CRD IV-Umsetzungsgesetz
+###### § 64r Übergangsvorschriften zum CRD IV-Umsetzungsgesetz
 
 (1) (weggefallen)
 
@@ -5960,17 +6771,17 @@ Für ein Unternehmen, das auf Grund der Ausdehnung des Begriffs des Eigenhandels
 
 (19) Wohnungsunternehmen mit Spareinrichtung, die am 31. Dezember 2013 über eine Erlaubnis zum Betreiben von Bankgeschäften nach § 32 Absatz 1 verfügt haben, dürfen abweichend von § 51c Absatz 5 über ein geringeres Anfangskapital als den Gegenwert von 5 Millionen Euro verfügen. In diesem Fall darf das Anfangskapital nicht unter den am 31. Dezember 2013 vorhandenen Betrag sinken.
 
-##### (XXXX) §§ 64s bis 64u (weggefallen)
+###### (XXXX) §§ 64s bis 64u (weggefallen)
 
-##### § 64v Übergangsvorschriften zum Ersten Finanzmarktnovellierungsgesetz
+###### § 64v Übergangsvorschriften zum Ersten Finanzmarktnovellierungsgesetz
 
 (1) Die Tätigkeit als Zentralverwahrer kann auf Grund einer Erlaubnis für das Depotgeschäft nach § 1 Absatz 1 Satz 2 Nummer 5 bis zur Bestandskraft der Entscheidung über den Antrag auf Zulassung als Zentralverwahrer nach Artikel 17 Absatz 1 der Verordnung (EU) Nr. 909/2014 fortgeführt werden. § 2 Absatz 9e und 9f sowie § 29 Absatz 1b sind bis dahin nicht anzuwenden.
 
 (2) Ein Zentralverwahrer, der am Tag, den die Bundesregierung nach Artikel 17 Absatz 3 Satz 2 des Gesetzes vom 30. Juni 2016 (BGBl. I S. 1514) im Bundesgesetzblatt bekannt gibt, eine Erlaubnis nach § 1 Absatz 1 Satz 2 Nummer 1 oder Nummer 2 besitzt, kann die Erbringung von dadurch erlaubten Bankdienstleistungen bis zur Bestandskraft der Entscheidung über den Antrag auf Genehmigung nach Artikel 55 Absatz 1 der Verordnung (EU) Nr. 909/2014 fortführen. § 2 Absatz 9e und 9f sowie § 29 Absatz 1b sind bis dahin nicht anzuwenden.
 
-##### § 64w (weggefallen)
+###### § 64w (weggefallen)
 
-##### § 64x Übergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz
+###### § 64x Übergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz
 
 (1) Für ein Kreditinstitut, das am 3. Januar 2018 über eine Erlaubnis als CRR-Kreditinstitut verfügt, und ein Finanzdienstleistungsinstitut, das über eine Erlaubnis für den Betrieb eines multilateralen Handelssystems im Sinne des § 1 Absatz 1a Satz 2 Nummer 1b verfügt, gilt die Erlaubnis für den Betrieb eines organisierten Handelssystems im Sinne des § 1 Absatz 1a Satz 2 Nummer 1d als erteilt.
 
@@ -5986,15 +6797,15 @@ Für ein Unternehmen, das auf Grund der Ausdehnung des Begriffs des Eigenhandels
 
 (7) Für ein Unternehmen mit Sitz in einem Drittstaat, das auf Grund der Erweiterung der Erlaubnispflicht für das Betreiben des Eigengeschäfts gemäß § 32 Absatz 1a Satz 2 und 3 am 3. Januar 2018 eine Erlaubnis nach § 32 Absatz 1 Satz 1 benötigt, gilt die Befreiung nach § 2 Absatz 5 ab dem 3. Januar 2018 bis zur Entscheidung der Europäischen Wertpapier- und Marktaufsichtsbehörde über eine Eintragung des Unternehmens in das Register nach Artikel 48 der Verordnung (EU) Nr. 600/2014 als vorläufig erteilt, wenn es bis zum 2. Juli 2018 einen vollständigen Freistellungsantrag nach § 2 Absatz 5 Satz 1 stellt. Für ein Unternehmen mit Sitz in einem Drittstaat, das, wenn es ein Unternehmen mit Sitz im Inland wäre, die Regelungen der Absätze 1 bis 6 in Anspruch nehmen könnte, gilt die Freistellung nach § 2 Absatz 5 ab dem 3. Januar 2018 für das Betreiben der dann nach diesem Gesetz erlaubnispflichtigen Geschäfte als zu diesem Zeitpunkt vorläufig erteilt, wenn es bis zum 2. Juli 2018 einen vollständigen Freistellungsantrag nach § 2 Absatz 5 Satz 1 stellt.
 
-##### § 64y (weggefallen)
+###### § 64y (weggefallen)
 
-##### § 65 Übergangsvorschrift zum Gesetz zur Einführung von elektronischen Wertpapieren
+###### § 65 Übergangsvorschrift zum Gesetz zur Einführung von elektronischen Wertpapieren
 
 (1) Ein Unternehmen, das am 10. Juni 2021 über die Erlaubnis für den Betrieb des Kryptoverwahrgeschäftes verfügt, darf dieses Geschäft auch hinsichtlich der Sicherung von privaten kryptografischen Schlüsseln erbringen, die dazu dienen, Kryptowertpapiere nach § 4 Absatz 3 des Gesetzes über elektronische Wertpapiere zu halten, zu speichern oder darüber zu verfügen.
 
 (2) Für ein Unternehmen, das eine Tätigkeit nach § 1 Absatz 1a Satz 2 Nummer 8 innerhalb der ersten sechs Monate seit dem 10. Juni 2021 aufnimmt, gilt die Erlaubnis für die Kryptowertpapierregisterführung als vorläufig erteilt, wenn es sechs Monate nach Aufnahme der Tätigkeit einen vollständigen Erlaubnisantrag nach § 32 Absatz 1 Satz 1 und 5, auch in Verbindung mit einer Rechtsverordnung nach § 23 des Gesetzes über elektronische Wertpapiere, stellt und wenn es der Bundesanstalt die Absicht, die Tätigkeit aufzunehmen, zwei Monate vor Aufnahme der Tätigkeit schriftlich anzeigt. Die Anzeige muss die Angaben nach § 32 Absatz 1 Satz 5 Nummer 1, 2 und 5 enthalten und den Vorgaben der Verordnung nach § 24 Absatz 4 entsprechen. Die Bundesanstalt kann die Aufnahme der Tätigkeit insbesondere bei Zweifeln an der Eignung des Aufzeichnungssystems oder, wenn ihr Tatsachen bekannt werden, die eine Versagung der Erlaubnis nach § 33 Absatz 1 rechtfertigen, bis zum Abschluss des Erlaubnisverfahrens untersagen.
 
-##### § 65a Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+###### § 65a Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
 
 (1) Für ein Institut, das am 29. Dezember 2024 über eine Erlaubnis zur Erbringung des Kryptoverwahrgeschäftes im Sinne des § 1 Absatz 1a Satz 2 Nummer 6 verfügt, gilt die Erlaubnis für die Erbringung des qualifizierten Kryptoverwahrgeschäftes im Sinne des § 1 Absatz 1a Satz 2 Nummer 6 in der Fassung vom 30. Dezember 2024 als erteilt.
 
@@ -6002,16 +6813,15 @@ Für ein Unternehmen, das auf Grund der Ausdehnung des Begriffs des Eigenhandels
 
 (3) § 1a Absatz 2a ist ab dem 1. Januar 2027 anzuwenden. Die Anforderungen an das Meldewesen nach Kapitel III der Verordnung (EU) 2022/2554 sind ab dem 17. Januar 2025 anzuwenden.
 
-##### Anhang I Informationsbogen für den Einleger
+###### Anhang I Informationsbogen für den Einleger
 
 (Fundstelle: BGBl. I 2015, 810 - 811; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Einlagen bei (Name des Kreditinstituts einfügen) sind geschützt durch:[Name des einschlägigen Einlagensicherungssystems einfügen] (1)Sicherungsobergrenze:100 000 Euro pro Einleger pro Kreditinstitut (2)
 [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet]
 [Wenn zutreffend:] Die folgenden Marken sind Teil Ihres Kreditinstituts [alle Marken einfügen, die unter derselben Lizenz tätig sind]Falls Sie mehrere Einlagen bei demselben Kreditinstitut haben:Alle Ihre Einlagen bei demselben Kreditinstitut werden „aufaddiert“ und die Gesamtsumme unterliegt der Obergrenze von 100 000 Euro [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet] (2)Falls Sie ein Gemeinschaftskonto mit einer oder mehreren anderen Personen haben:Die Obergrenze von 100 000 Euro [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet] gilt für jeden einzelnen Einleger (3)Erstattungsfrist bei Ausfall eines Kreditinstituts:20 Arbeitstage bis zum 31. Mai 2016 bzw. 7 Arbeitstage ab dem 1. Juni 2016Währung der Erstattung:Euro [gegebenenfalls durch andere Währung ersetzen]Kontaktdaten:[Kontaktdaten des einschlägigen Einlagensicherungssystems einfügen 
-(Adresse, Telefon, E-Mail usw.)]Weitere Informationen:[Website des einschlägigen Einlagensicherungssystems einfügen]Empfangsbestätigung durch den Einleger:Zusätzliche Informationen (für alle oder einige der nachstehenden Punkte)
+(Adresse, Telefon, E-Mail usw.)]Weitere Informationen:[Website des einschlägigen Einlagensicherungssystems einfügen]Empfangsbestätigung durch den Einleger:Zusätzliche Informationen (für alle oder einige der nachstehenden Punkte) 
 
 (1)[Nur wenn zutreffend:] Ihr Kreditinstitut ist Teil eines institutsbezogenen Sicherungssystems, das als Einlagensicherungssystem amtlich anerkannt ist. Das heißt, alle Institute, die Mitglied dieses Einlagensicherungssystems sind, unterstützen sich gegenseitig, um eine Insolvenz zu vermeiden. Im Falle einer Insolvenz werden Ihre Einlagen bis zu 100 000 Euro [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet] erstattet.[Nur wenn zutreffend:] Ihre Einlage wird von einem gesetzlichen Einlagensicherungssystem gedeckt. Im Falle einer Insolvenz Ihres Kreditinstituts werden Ihre Einlagen in jedem Fall bis zu 100 000 Euro [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet] erstattet.[Nur wenn zutreffend:] Ihre Einlage wird von einem gesetzlichen Einlagensicherungssystem und einem vertraglichen Einlagensicherungssystem gedeckt. Im Falle einer Insolvenz Ihres Kreditinstituts werden Ihre Einlagen in jedem Fall bis zu 100 000 Euro [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet] erstattet.[Nur wenn zutreffend:] Ihre Einlage wird von einem gesetzlichen Einlagensicherungssystem gedeckt. Außerdem ist Ihr Kreditinstitut Teil eines institutsbezogenen Sicherungssystems, in dem sich alle Mitglieder gegenseitig unterstützen, um eine Insolvenz zu vermeiden. Im Falle einer Insolvenz werden Ihre Einlagen bis zu 100 000 Euro [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet] vom Einlagensicherungssystem erstattet.(2)Sollte eine Einlage nicht verfügbar sein, weil ein Kreditinstitut seinen finanziellen Verpflichtungen nicht nachkommen kann, so werden die Einleger von dem Einlagensicherungssystem entschädigt. Die betreffende Deckungssumme beträgt maximal 100 000 Euro [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet] pro Kreditinstitut. Das heißt, dass bei der Ermittlung dieser Summe alle bei demselben Kreditinstitut gehaltenen Einlagen addiert werden. Hält ein Einleger beispielsweise 90 000 Euro auf einem Sparkonto und 20 000 Euro auf einem Girokonto, so werden ihm lediglich 100 000 Euro erstattet.[Nur wenn zutreffend:] Diese Methode wird auch angewandt, wenn ein Kreditinstitut unter unterschiedlichen Marken auftritt. Die [Name des kontoführenden Kreditinstituts einfügen] ist auch unter dem Namen [alle anderen Marken desselben Kreditinstituts einfügen] tätig. Das heißt, dass die Gesamtsumme aller Einlagen bei einem oder mehreren dieser Marken in Höhe von bis zu 100 000 Euro gedeckt ist.(3)Bei Gemeinschaftskonten gilt die Obergrenze von 100 000 Euro für jeden Einleger.[Nur wenn zutreffend:] Einlagen auf einem Konto, über das zwei oder mehrere Personen als Mitglieder einer rechtsfähigen Personengesellschaft oder Sozietät, einer Vereinigung oder eines ähnlichen Zusammenschlusses ohne Rechtspersönlichkeit verfügen können, werden bei der Berechnung der Obergrenze von 100 000 Euro [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet] allerdings zusammengefasst und als Einlage eines einzigen Einlegers behandelt.In den Fällen des § 8 Absatz 2 bis 4 des Einlagensicherungsgesetzes sind Einlagen über 100 000 Euro hinaus [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet] gesichert. Weitere Informationen sind erhältlich über [Website des einschlägigen Einlagensicherungssystems einfügen].(4)Erstattung [ist anzupassen]Das zuständige Einlagensicherungssystem ist [Name, Adresse, Telefon, E-Mail und Website einfügen]. Es wird Ihnen Ihre Einlagen (bis zu 100 000 Euro [durch entsprechenden Betrag ersetzen, falls die Währung nicht auf Euro lautet]) spätestens innerhalb 20 Arbeitstagen bis zum 31. Mai 2016 bzw. 7 Arbeitstagen ab dem 1. Juni 2016 erstatten.Haben Sie die Erstattung innerhalb dieser Fristen nicht erhalten, sollten Sie mit dem Einlagensicherungssystem Kontakt aufnehmen, da der Gültigkeitszeitraum für Erstattungsforderungen nach einer bestimmten Frist abgelaufen sein kann. Weitere Informationen sind erhältlich über [Website des zuständigen Einlagensicherungssystems einfügen].Weitere wichtige Informationen
 
 Einlagen von Privatkunden und Unternehmen sind im Allgemeinen durch Einlagensicherungssysteme gedeckt. Für bestimmte Einlagen geltende Ausnahmen werden auf der Website des zuständigen Einlagensicherungssystems mitgeteilt. Ihr Kreditinstitut wird Sie auf Anfrage auch darüber informieren, ob bestimmte Produkte gedeckt sind oder nicht. Wenn Einlagen entschädigungsfähig sind, wird das Kreditinstitut dies auch auf dem Kontoauszug bestätigen.
-
