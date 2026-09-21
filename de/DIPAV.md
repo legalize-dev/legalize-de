@@ -4,32 +4,36 @@ identifier: "DIPAV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2022-09-29"
-last_updated: "2026-04-04"
+last_updated: "2026-09-21"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/dipav/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR156800022"
 slug: "dipav"
 bgbl_reference: "BGBl I 2022, 1568"
-hinweis: "Geändert durch Art. 4a G v. 22.3.2024 I Nr. 101"
+hinweis: "Zuletzt geändert durch Art. 1 V v. 22.6.2026 I Nr. 190"
 ---
 # Verordnung zur Prüfung der Erstattungsfähigkeit digitaler Pflegeanwendungen nach dem Elften Buch Sozialgesetzbuch
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 78a Absatz 6 und 9 Satz 3 des Elften Buches Sozialgesetzbuch – Soziale Pflegeversicherung –, der durch Artikel 5 Nummer 17 des Gesetzes vom 3. Juni 2021 (BGBl. I S. 1309) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium für Arbeit und Soziales:
 
 ## Abschnitt 1 Antragsberechtigung und Antragsinhalte
 
-##### § 1 Antragsberechtigung
+###### § 1 Antragsberechtigung
 
 (1) Das Verfahren zur Aufnahme einer digitalen Pflegeanwendung in das Verzeichnis für digitale Pflegeanwendungen des Bundesinstituts für Arzneimittel und Medizinprodukte wird gemäß § 78a Absatz 4 Satz 1 des Elften Buches Sozialgesetzbuch auf elektronischen Antrag des Herstellers der digitalen Pflegeanwendung eingeleitet. Handelt es sich bei der digitalen Pflegeanwendung um ein Medizinprodukt, ist der Hersteller im Sinne dieser Verordnung der Hersteller des Medizinproduktes im Sinne der jeweils geltenden medizinprodukterechtlichen Vorschriften.
 
 (2) Stellt ein Dritter im Namen des Herstellers einen Antrag, so hat er bei Antragstellung eine Vollmacht des Herstellers in schriftlicher oder elektronischer Form vorzulegen.
 
-##### § 2 Antragsinhalt
+###### § 2 Antragsinhalt
 
-(1) Der vom Hersteller einer digitalen Pflegeanwendung beim Bundesinstitut für Arzneimittel und Medizinprodukte zu stellende Antrag enthält Angaben über die Anforderungen nach § 78a Absatz 4 Satz 3 und 4 des Elften Buches Sozialgesetzbuch. Zudem enthält der Antrag insbesondere Angaben zu:
+(1) Der vom Hersteller einer digitalen Pflegeanwendung beim Bundesinstitut für Arzneimittel und Medizinprodukte zu stellende Antrag enthält Angaben und Nachweise entsprechend den Anforderungen nach § 78a Absatz 4 Satz 3 in Verbindung mit Satz 4 des Elften Buches Sozialgesetzbuch oder, im Fall eines Antrags auf Aufnahme zur Erprobung, nach § 78a Absatz 6a Satz 2 des Elften Buches Sozialgesetzbuch. Zudem enthält der Antrag insbesondere Angaben zu:
 
 1. den Hersteller und die digitale Pflegeanwendung identifizierenden Merkmalen,
 
@@ -49,15 +53,15 @@ Auf Grund des § 78a Absatz 6 und 9 Satz 3 des Elften Buches Sozialgesetzbuch �
 
 9. den Quellen für die pflegebezogenen Inhalte und Verfahren, die in der digitalen Pflegeanwendung umgesetzt werden, insbesondere zu den pflegerisch-medizinischen Leitlinien und Expertenstandards, Lehrwerken und Studien,
 
-10. dem vorliegenden Nachweis eines pflegerischen Nutzens nach den §§ 9 bis 11 einschließlich ergänzender Unterstützungsleistungen in einer allgemeinverständlichen Kurzfassung,
+10. dem vorliegenden Nachweis eines pflegerischen Nutzens nach den §§ 9 bis 11 einschließlich ergänzender Unterstützungsleistungen in einer allgemeinverständlichen Kurzfassung oder, im Fall eines Antrags auf Aufnahme zur Erprobung, eine allgemeinverständliche Kurzfassung der Begründung nach § 78a Absatz 6a Satz 2 Nummer 2 des Elften Buches Sozialgesetzbuch in Verbindung mit § 13,
 
-11. der Gruppe von Pflegebedürftigen und sonstigen Nutzern, für die ein pflegerischer Nutzen nach den §§ 9 bis 11 nachgewiesen wurde,
+11. der Gruppe von Pflegebedürftigen und sonstigen Nutzern, für die ein pflegerischer Nutzen gemäß § 9 nachgewiesen wurde oder, im Fall eines Antrags auf Aufnahme zur Erprobung, in dem Erprobungszeitraum nachgewiesen werden soll,
 
-12. dem pflegerischen Nutzen, der nach den §§ 9 bis 11 für die angegebene Gruppe von Pflegebedürftigen und sonstigen Nutzern nachgewiesen wurde,
+12. dem pflegerischen Nutzen, der für die angegebene Gruppe von Pflegebedürftigen und sonstigen Nutzern gemäß den §§ 10 und 11 nachgewiesen wurde oder, im Fall eines Antrags auf Aufnahme zur Erprobung, in dem Erprobungszeitraum nachgewiesen werden soll,
 
-13. der Studie oder den Studien des Herstellers zum Nachweis des pflegerischen Nutzens nach § 11 einschließlich ergänzender Unterstützungsleistungen einer digitalen Pflegeanwendung,
+13. der Studie oder den Studien des Herstellers zum Nachweis des pflegerischen Nutzens einer digitalen Pflegeanwendung nach § 11 oder, im Fall eines Antrags auf Aufnahme zur Erprobung, mindestens den systematischen Datenauswertungen, die von dem Hersteller zu der Begründung des pflegerischen Nutzens nach § 13 vorgelegt werden,
 
-14. der Erfüllung der Anforderungen und Vorgaben nach den §§ 3 bis 11,
+14. der Erfüllung der Anforderungen und Vorgaben nach den §§ 3 bis 11 oder, im Fall eines Antrags auf Aufnahme zur Erprobung, der Erfüllung der Anforderungen und Vorgaben nach den §§ 3 bis 9, 13 und 14, soweit sich aus dem Sinn und Zweck der Aufnahme zur Erprobung nichts Abweichendes ergibt,
 
 15. den in der digitalen Pflegeanwendung vorgesehenen Nutzerrollen,
 
@@ -75,13 +79,15 @@ Auf Grund des § 78a Absatz 6 und 9 Satz 3 des Elften Buches Sozialgesetzbuch �
 
 (2) Der Hersteller kennzeichnet in seinem Antrag diejenigen Angaben nach Absatz 1, bei denen rechtliche Anforderungen an den Schutz der Betriebs- und Geschäftsgeheimnisse oder an den Schutz personenbezogener Daten oder des geistigen Eigentums einer Veröffentlichung entgegenstehen.
 
-(3) Der Hersteller stellt dem Bundesinstitut für Arzneimittel und Medizinprodukte mit dem Antrag einen kostenfreien Zugang zu der digitalen Pflegeanwendung zur Verfügung.
+(3) Der Hersteller bestimmt in seinem Antrag, ob er eine dauerhafte Aufnahme in das Verzeichnis für digitale Pflegeanwendungen nach § 78a Absatz 3 des Elften Buches Sozialgesetzbuch oder eine Aufnahme zur Erprobung nach § 78a Absatz 6a des Elften Buches Sozialgesetzbuch beantragt.
 
-(4) Angaben des Herstellers nach Absatz 1 Satz 2, die nach § 16 Absatz 2 zur Veröffentlichung im Verzeichnis für digitale Pflegeanwendungen bestimmt sind, sind in deutscher Sprache zu machen.
+(4) Der Hersteller stellt dem Bundesinstitut für Arzneimittel und Medizinprodukte mit dem Antrag einen kostenfreien Zugang zu der digitalen Pflegeanwendung zur Verfügung.
+
+(5) Angaben des Herstellers nach Absatz 1 Satz 2, die nach § 19 Absatz 2 zur Veröffentlichung im Verzeichnis für digitale Pflegeanwendungen bestimmt sind, sind in deutscher Sprache zu machen.
 
 ## Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Qualität sowie Datenschutz und -sicherheit digitaler Pflegeanwendungen
 
-##### § 3 Anforderungen an Sicherheit und Funktionstauglichkeit digitaler Pflegeanwendungen als Nicht-Medizinprodukte
+###### § 3 Anforderungen an Sicherheit und Funktionstauglichkeit digitaler Pflegeanwendungen als Nicht-Medizinprodukte
 
 (1) Digitale Pflegeanwendungen, die keine Medizinprodukte im Sinne der geltenden medizinprodukterechtlichen Vorschriften sind, sind so zu gestalten, dass sie die Anforderungen an Sicherheit und Funktionstauglichkeit nach Maßgabe der Anlage 1 umsetzen.
 
@@ -97,13 +103,13 @@ Auf Grund des § 78a Absatz 6 und 9 Satz 3 des Elften Buches Sozialgesetzbuch �
 
 4. Gebrauchsanweisungen.
 
-##### § 4 Anforderungen an Sicherheit und Funktionstauglichkeit digitaler Pflegeanwendungen als Medizinprodukte
+###### § 4 Anforderungen an Sicherheit und Funktionstauglichkeit digitaler Pflegeanwendungen als Medizinprodukte
 
 (1) Für digitale Pflegeanwendungen, die Medizinprodukte im Sinne der jeweils geltenden medizinprodukterechtlichen Vorschriften sind, gilt der Nachweis der Sicherheit und Funktionstauglichkeit, vorbehaltlich des Absatzes 2, durch die CE-Konformitätskennzeichnung des Medizinproduktes grundsätzlich als erbracht.
 
 (2) Aus begründetem Anlass darf das Bundesinstitut für Arzneimittel und Medizinprodukte zusätzliche Prüfungen vornehmen. Hierzu kann es vom Hersteller der digitalen Pflegeanwendung die Vorlage der erforderlichen Nachweise, insbesondere die für das Konformitätsbewertungsverfahren notwendigen Erklärungen und Bescheinigungen, verlangen. § 3 Absatz 3 Satz 3 gilt entsprechend.
 
-##### § 5 Anforderungen an Datenschutz und Datensicherheit
+###### § 5 Anforderungen an Datenschutz und Datensicherheit
 
 (1) Digitale Pflegeanwendungen müssen die gesetzlichen Vorgaben des Datenschutzes und die Anforderungen an die Datensicherheit nach dem Stand der Technik unter Berücksichtigung der Art der verarbeiteten Daten und der damit verbundenen Schutzstufen sowie des Schutzbedarfs gewährleisten.
 
@@ -113,19 +119,21 @@ Auf Grund des § 78a Absatz 6 und 9 Satz 3 des Elften Buches Sozialgesetzbuch �
 
 2. die von dem Bundesinstitut für Arzneimittel und Medizinprodukte nach § 78a Absatz 8 des Elften Buches Sozialgesetzbuch festgelegten Prüfkriterien für die von digitalen Pflegeanwendungen nachzuweisenden Anforderungen an den Datenschutz umsetzen.
 
-(3) Die personenbezogenen Daten, die im Rahmen der Nutzung einer digitalen Pflegeanwendung und der sie erforderlichenfalls ergänzenden Unterstützungsleistungen verarbeitet werden, dürfen nur aufgrund einer Einwilligung nach Artikel 9 Absatz 2 Buchstabe a der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1) und ausschließlich zu den folgenden Zwecken verarbeitet werden:
+(3) Die personenbezogenen Daten, die im Rahmen der Nutzung einer digitalen Pflegeanwendung und der sie ergänzenden Unterstützungsleistungen verarbeitet werden, dürfen nur aufgrund einer Einwilligung nach Artikel 9 Absatz 2 Buchstabe a der Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung) und ausschließlich zu den folgenden Zwecken verarbeitet werden:
 
-1. zur Gewährung und Erbringung der ergänzenden Unterstützungsleistungen nach § 39a des Elften Buches Sozialgesetzbuch sowie der bestimmungsgemäßen Versorgung mit der digitalen Pflegeanwendung nach § 40a des Elften Buches Sozialgesetzbuch,
+1. zur Gewährung und Erbringung der ergänzenden Unterstützungsleistungen nach § 39a des Elften Buches Sozialgesetzbuch sowie der bestimmungsgemäßen Versorgung mit der digitalen Pflegeanwendung nach § 40a des Elften Buches Sozialgesetzbuch,
 
-2. zur dauerhaften Gewährleistung der Sicherheit, Funktionstauglichkeit, der altersgerechten Nutzbarkeit und der qualitätsorientierten Weiterentwicklung der Versorgung mit der digitalen Pflegeanwendung.
+2. zu dem Nachweis des pflegerischen Nutzens im Rahmen einer Erprobung nach § 78a Absatz 6a des Elften Buches Sozialgesetzbuch,
 
-Die Einwilligung zu der Datenverarbeitung nach Satz 1 Nummer 2 ist getrennt von einer Einwilligung in die Datenverarbeitung für Zwecke nach Satz 1 Nummer 1 einzuholen. Soweit die Verarbeitung personenbezogener Daten Dritter, die eine ergänzende Unterstützungsleistung erbringen, nicht besondere Kategorien personenbezogener Daten nach Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 zum Gegenstand hat, darf die Verarbeitung nur aufgrund einer Einwilligung nach Artikel 6 Absatz 1 Buchstabe a der Verordnung (EU) 2016/679 und zu den Zwecken nach Satz 1 Nummer 1 und 2 erfolgen. Für die Einwilligung nach Satz 3 gelten die Anforderungen von Satz 2 entsprechend. Gesetzliche Datenverarbeitungsbefugnisse bleiben unberührt.
+3. zur dauerhaften Gewährleistung der Sicherheit, der Funktionstauglichkeit, der altersgerechten Nutzbarkeit und der qualitätsorientierten Weiterentwicklung der Versorgung mit der digitalen Pflegeanwendung.
 
-(4) Die Verarbeitung personenbezogener Daten zu den Zwecken nach Absatz 3 Satz 1 darf im Rahmen der Versorgung mit einer digitalen Pflegeanwendung oder sie erforderlichenfalls ergänzenden Unterstützungsleistungen durch die digitale Pflegeanwendung selbst sowie bei einer Verarbeitung personenbezogener Daten im Auftrag nur im Inland, in einem Mitgliedstaat der Europäischen Union oder in einem diesem nach § 35 Absatz 7 des Ersten Buches Sozialgesetzbuch gleichgestellten Staat oder, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 der Verordnung (EU) 2016/679 vorliegt, in einem Drittstaat erfolgen.
+Die Einwilligung zur Datenverarbeitung für Zwecke nach Satz 1 Nummer 3 ist getrennt von einer Einwilligung zur Datenverarbeitung für Zwecke nach Satz 1 Nummer 1 und 2 einzuholen. Soweit die Verarbeitung personenbezogener Daten Dritter, die eine ergänzende Unterstützungsleistung erbringen, nicht besondere Kategorien personenbezogener Daten nach Artikel 9 Absatz 1 der Datenschutz-Grundverordnung zum Gegenstand hat, darf die Verarbeitung nur aufgrund einer Einwilligung nach Artikel 6 Absatz 1 Buchstabe a der Datenschutz-Grundverordnung und zu den Zwecken nach Satz 1 Nummer 1 bis 3 erfolgen. Für die Einwilligung nach Satz 3 gelten die Anforderungen nach Satz 2 entsprechend. Gesetzliche Datenverarbeitungsbefugnisse bleiben unberührt.
+
+(4) Die Verarbeitung personenbezogener Daten zu den Zwecken nach Absatz 3 Satz 1 darf im Rahmen der Versorgung mit einer digitalen Pflegeanwendung oder sie ergänzenden Unterstützungsleistungen durch die digitale Pflegeanwendung selbst sowie bei einer Verarbeitung personenbezogener Daten im Auftrag nur im Inland, in einem Mitgliedstaat der Europäischen Union oder in einem diesem nach § 35 Absatz 7 des Ersten Buches Sozialgesetzbuch gleichgestellten Staat oder, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 der Datenschutz-Grundverordnung vorliegt, in einem Drittstaat erfolgen.
 
 (5) Eine Verarbeitung personenbezogener Daten zu anderen als den in Absatz 3 Satz 1 genannten Zwecken, insbesondere zu Werbezwecken, ist ausgeschlossen; Absatz 3 Satz 5 gilt entsprechend.
 
-##### § 6 Anforderungen an Qualität
+###### § 6 Anforderungen an Qualität
 
 (1) Digitale Pflegeanwendungen sind so zu gestalten, dass sie die Anforderungen der technischen, syntaktischen und semantischen Interoperabilität erfüllen. Insbesondere muss die digitale Pflegeanwendung ermöglichen, dass von ihr verarbeitete Daten in geeigneten interoperablen Formaten exportiert und im Rahmen der Versorgung mit weiteren digitalen Pflegeanwendungen genutzt werden können und dass die digitale Pflegeanwendung Daten mit vom Pflegebedürftigen genutzten Medizingeräten oder mit vom Pflegebedürftigen getragenen Sensoren zur Messung und Übertragung von Vitalwerten (Wearables) austauschen kann, sofern dies im Rahmen der Zweckbestimmung der digitalen Pflegeanwendung erforderlich oder zuträglich ist.
 
@@ -149,11 +157,11 @@ Die Einwilligung zu der Datenverarbeitung nach Satz 1 Nummer 2 ist getrennt von 
 
 (11) Der Hersteller fügt seinem Antrag eine Erklärung nach Maßgabe der Anlage 2 bei.
 
-##### § 7 Anforderungen an Interoperabilität
+###### § 7 Anforderungen an Interoperabilität
 
 Als interoperable Formate nach § 6 Absatz 1 gelten offene, international anerkannte Standards und vom Hersteller der digitalen Pflegeanwendung bereitgestellte Profile über offene, international anerkannte Standards. Der Hersteller muss von ihm bereitgestellte Profile nach Satz 1 zur freien Nutzung in einem anerkannten Verzeichnis veröffentlichen. Sobald Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch getroffen worden sind, kann der Hersteller auch diese verwenden.
 
-##### § 8 Nachweis durch Zertifikate
+###### § 8 Nachweis durch Zertifikate
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann von dem Hersteller die Vorlage von Zertifikaten verlangen, die die Erfüllung der Anforderungen nach den §§ 3, 4 und 6 ganz oder teilweise nachweisen, insbesondere, sofern entsprechende Zertifikate aufgrund von Sicherheits-, Qualitäts- oder Umweltnormen bereits vorgesehen sind oder sonstige anerkannte Zertifikate zum Nachweis der Anforderungen nach den §§ 3, 4 und 6 geeignet sind. Die nach Satz 1 vorzulegenden Zertifikate sollen zum Zeitpunkt der Übermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte in der Regel nicht älter als zwölf Monate sein. Durch die Vorlage eines Zertifikates nach Satz 1 gilt der Nachweis der Anforderungen nach den §§ 3, 4 und 6 in dem durch das Zertifikat angegebenen Umfang grundsätzlich als erbracht. § 3 Absatz 3 und § 4 Absatz 2 bleiben unberührt.
 
@@ -165,7 +173,7 @@ Als interoperable Formate nach § 6 Absatz 1 gelten offene, international anerka
 
 ## Abschnitt 3 Anforderungen an den Nachweis des pflegerischen Nutzens
 
-##### § 9 Pflegerischer Nutzen digitaler Pflegeanwendungen
+###### § 9 Pflegerischer Nutzen digitaler Pflegeanwendungen
 
 (1) Ein pflegerischer Nutzen im Sinne dieser Verordnung liegt vor, wenn durch die Verwendung der digitalen Pflegeanwendung Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten der pflegebedürftigen Person gemindert werden oder einer Verschlimmerung der Pflegebedürftigkeit entgegengewirkt wird.
 
@@ -185,21 +193,21 @@ Als interoperable Formate nach § 6 Absatz 1 gelten offene, international anerka
 
 Neben den Bereichen nach Satz 1 kann der pflegerische Nutzen auch im Bereich der Haushaltsführung gegeben sein.
 
-(3) Ein pflegerischer Nutzen ist auch dann gegeben, wenn pflegende Angehörige oder sonstige ehrenamtlich Pflegende durch die digitale Anwendung bei ihren pflegerischen Aufgaben oder Hilfen in einem der in Absatz 2 genannten Bereiche unterstützt werden und dies der Stabilisierung der häuslichen Versorgungssituation des Pflegebedürftigen dient.
+(3) Ein pflegerischer Nutzen liegt auch dann vor, wenn pflegende Angehörige oder sonstige ehrenamtlich Pflegende durch die digitale Anwendung bei ihren pflegerischen Aufgaben oder Hilfen unterstützt werden und dies entweder der Stabilisierung der häuslichen Versorgungssituation oder der Entlastung pflegender Angehöriger oder sonstiger ehrenamtlich Pflegenden dient.
 
-##### § 10 Nachweis des pflegerischen Nutzens
+###### § 10 Nachweis des pflegerischen Nutzens
 
 (1) In dem Antrag auf Aufnahme in das Verzeichnis für digitale Pflegeanwendungen führt der Hersteller den Nachweis:
 
-1. des pflegerischen Nutzens der digitalen Pflegeanwendung einschließlich der erforderlichenfalls ergänzenden Unterstützungsleistungen und
+1. des pflegerischen Nutzens der digitalen Pflegeanwendung und
 
 2. zu der Gruppe von Pflegebedürftigen und sonstigen Nutzern, für die der pflegerische Nutzen nach § 9 besteht.
 
 (2) Der von dem Hersteller nach Absatz 1 Nummer 1 nachzuweisende pflegerische Nutzen muss mit der Zweckbestimmung, soweit zutreffend auch nach den jeweils geltenden medizinprodukterechtlichen Vorschriften, sowie mit den Funktionen und Eigenschaften, den pflegebezogenen Inhalten und den vom Hersteller veröffentlichten Aussagen zu der digitalen Pflegeanwendung einschließlich der erforderlichenfalls ergänzenden Unterstützungsleistungen konsistent sein.
 
-(3) Für die Bestimmung der maßgeblichen Gruppe nach Absatz 1 Nummer 2 gibt der Hersteller den Bereich oder mehrere Bereiche des pflegerischen Nutzens entsprechend § 9 Absatz 2 an. Gibt der Hersteller mehrere Bereiche an, so kann er den Nachweis nach Absatz 1 Nummer 2 grundsätzlich für alle Bereiche gemeinsam führen, die im Hinblick auf den nachzuweisenden pflegerischen Nutzen wesentlich vergleichbar sind. Sofern dies nicht der Fall ist, hat der Hersteller den Nachweis für den jeweiligen Bereich gesondert zu führen. Die Vergleichbarkeit nach Satz 2 ist zu begründen.
+(3) Für die Bestimmung der maßgeblichen Gruppe von Pflegebedürftigen nach Absatz 1 Nummer 2 gibt der Hersteller den Bereich oder mehrere Bereiche des pflegerischen Nutzens entsprechend § 9 Absatz 2 an. Gibt der Hersteller mehrere Bereiche an, so kann er den Nachweis nach Absatz 1 Nummer 2 grundsätzlich für alle Bereiche gemeinsam führen, die im Hinblick auf den nachzuweisenden pflegerischen Nutzen wesentlich vergleichbar sind. Sofern dies nicht der Fall ist, hat der Hersteller den Nachweis für den jeweiligen Bereich gesondert zu führen. Die Vergleichbarkeit nach Satz 2 ist zu begründen.
 
-##### § 11 Studien zum Nachweis des pflegerischen Nutzens
+###### § 11 Studien zum Nachweis des pflegerischen Nutzens
 
 (1) Der Hersteller legt zum Nachweis des pflegerischen Nutzens vergleichende Studien vor. Vergleichende Studien im Sinne von Satz 1 sind retrospektive vergleichende Studien einschließlich retrospektiver Studien mit intraindividuellem Vergleich.
 
@@ -209,23 +217,49 @@ Neben den Bereichen nach Satz 1 kann der pflegerische Nutzen auch im Bereich der
 
 (4) Der Nachweis nach den Absätzen 1 und 2 soll anhand von Studien geführt werden, die im Inland durchgeführt wurden. Sofern Studien ganz oder teilweise nicht im Inland durchgeführt wurden, muss der Hersteller die Übertragbarkeit auf den deutschen Versorgungskontext belegen.
 
-(5) Sofern die Art der Studie dies zulässt und soweit der Veröffentlichung nicht rechtliche Anforderungen an den Schutz der Betriebs- und Geschäftsgeheimnisse oder an den Schutz personenbezogener Daten oder des geistigen Eigentums ganz oder teilweise entgegenstehen, sind die Studien nach den Absätzen 1 und 2 von dem Hersteller in einem öffentlichen Studienregister zu registrieren und mit den Ergebnissen vollumfänglich im Internet zu veröffentlichen. Stehen die genannten Rechte Dritter der Veröffentlichung entgegen, ist nur die Zusammenfassung nach § 16 Absatz 3 Satz 1 Nummer 2 zu veröffentlichen. Das Studienregister nach Satz 1 muss in der Regel ein Primärregister oder ein Partnerregister der World Health Organisation International Clinical Trials Registry Platform oder ein Datenlieferant der World Health Organisation International Clinical Trials Registry Platform sein. Steht für die Registrierung der Studie kein geeignetes Studienregister zur Verfügung, registriert der Hersteller die Studie in einem anderen anerkannten Studienregister. Steht kein Studienregister nach Satz 3 zur Verfügung, veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte die Studie auf seinen Internetseiten.
+(5) Sofern die Art der Studie dies zulässt und soweit der Veröffentlichung nicht rechtliche Anforderungen an den Schutz der Betriebs- und Geschäftsgeheimnisse oder an den Schutz personenbezogener Daten oder des geistigen Eigentums ganz oder teilweise entgegenstehen, sind die Studien nach den Absätzen 1 und 2 von dem Hersteller in einem öffentlichen Studienregister zu registrieren und mit den Ergebnissen vollumfänglich im Internet zu veröffentlichen. Stehen die genannten Rechte Dritter der Veröffentlichung entgegen, ist nur die Zusammenfassung nach § 19 Absatz 3 Satz 1 Nummer 2 zu veröffentlichen. Das Studienregister nach Satz 1 muss in der Regel ein Primärregister oder ein Partnerregister der World Health Organisation International Clinical Trials Registry Platform oder ein Datenlieferant der World Health Organisation International Clinical Trials Registry Platform sein. Steht für die Registrierung der Studie kein geeignetes Studienregister zur Verfügung, registriert der Hersteller die Studie in einem anderen anerkannten Studienregister. Steht kein Studienregister nach Satz 3 zur Verfügung, veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte die Studie auf seinen Internetseiten.
 
 (6) Die im Rahmen der Durchführung der Studien nach den Absätzen 1 und 2 zu erstellenden Studienberichte müssen unter Einhaltung der maßgeblichen, international anerkannten Standards der Darstellung und Berichterstattung von Studien erstellt werden.
 
-##### § 12 Bewertungsentscheidung über das Vorliegen eines hinreichenden Nachweises
+###### § 12 Bewertungsentscheidung über das Vorliegen eines hinreichenden Nachweises
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte bewertet im Rahmen einer Abwägungsentscheidung, ob auf Grundlage der vorgelegten Dokumente ein pflegerischer Nutzen hinreichend nachgewiesen ist. Die Abwägungsentscheidung berücksichtigt die zu erwartende positive wie negative Wirksamkeit der digitalen Pflegeanwendung auf Grundlage der vorliegenden Erkenntnisse insbesondere unter Berücksichtigung der Heterogenität der Gruppe der Pflegebedürftigen und sonstigen Nutzer sowie der Besonderheiten des häuslichen Pflegekontextes.
 
 (2) Erweisen sich die Anforderungen nach § 11 aufgrund der besonderen Funktionen und Eigenschaften einer digitalen Pflegeanwendung oder aus anderen Gründen als ungeeignet für den Nachweis des pflegerischen Nutzens, kann das Bundesinstitut für Arzneimittel und Medizinprodukte im Einzelfall von den Vorgaben an Nachweise nach § 11 abweichen.
 
+###### § 13 Begründung des pflegerischen Nutzens im Rahmen der Erprobung
+
+Für einen Antrag auf Aufnahme zur Erprobung nach § 78a Absatz 6a Satz 1 des Elften Buches Sozialgesetzbuch hat der Hersteller zur plausiblen Begründung, dass im Rahmen einer Erprobung ein pflegerischer Nutzen nachgewiesen werden kann, mindestens die Ergebnisse einer systematischen Datenauswertung zur Nutzung der digitalen Pflegeanwendung vorzulegen.
+
+###### § 14 Wissenschaftliches Evaluationskonzept
+
+Der Hersteller legt im Rahmen eines Antrags auf Aufnahme zur Erprobung nach § 78a Absatz 6a Satz 1 des Elften Buches Sozialgesetzbuch ein nach allgemein anerkannten wissenschaftlichen Standards erstelltes Evaluationskonzept vor, das die Ergebnisse der Datenauswertung nach § 13 angemessen berücksichtigt. Das in dem Evaluationskonzept dargelegte Vorgehen muss geeignet sein, die Nachweise nach den §§ 10 und 11 zu erbringen.
+
 ## Abschnitt 4 Ergänzende Vorschriften für das Verwaltungsverfahren
 
-##### § 13 Einleitung des Verwaltungsverfahrens
+###### § 15 Einleitung des Verwaltungsverfahrens
 
-Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt dem Antragsteller innerhalb von 14 Tagen den Eingang der vollständigen Antragsunterlagen. Eine Änderung oder Ergänzung der Antragsangaben ist nach Antragstellung nur noch auf Anforderung des Bundesinstituts für Arzneimittel und Medizinprodukte möglich.
+Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt dem Antragsteller innerhalb von 21 Tagen den Eingang der vollständigen Antragsunterlagen. Eine Änderung oder Ergänzung der Antragsangaben ist nach Antragstellung nur noch auf Anforderung des Bundesinstituts für Arzneimittel und Medizinprodukte möglich.
 
-##### § 14 Wesentliche Veränderungen
+###### § 16 Verfahren bei Aufnahme zur Erprobung
+
+(1) Hat ein Hersteller einer digitalen Pflegeanwendung einen Antrag auf Aufnahme einer digitalen Pflegeanwendung zur Erprobung nach § 78a Absatz 6a Satz 1 des Elften Buches Sozialgesetzbuch in das Verzeichnis für digitale Pflegeanwendungen gestellt, entscheidet das Bundesinstitut für Arzneimittel und Medizinprodukte nach Eingang der vollständigen Antragsunterlagen per Bescheid. Der Bescheid enthält insbesondere Angaben zur Dauer der Aufnahme zur Erprobung sowie zu dem spätestens zum Ablauf des Erprobungszeitraums vorzulegenden Nachweis nach § 78a Absatz 4 Satz 3 Nummer 3 des Elften Buches Sozialgesetzbuch.
+
+(2) Zur endgültigen Aufnahme in das Verzeichnis für digitale Pflegeanwendungen ist dem Bundesinstitut für Arzneimittel und Medizinprodukte spätestens zum Ablauf des Erprobungszeitraums der in dem Bescheid nach Absatz 1 Satz 2 festgelegte Nachweis auf elektronischem Weg vollständig zu übermitteln.
+
+(3) Der Hersteller einer digitalen Pflegeanwendung kann eine einmalige Verlängerung des Erprobungszeitraums um bis zu zwölf Monate beantragen. Hierzu hat der Hersteller spätestens drei Monate vor Ablauf des im Bescheid nach Absatz 1 gewährten Erprobungszeitraums einen elektronischen Antrag auf Verlängerung des Erprobungszeitraums beim Bundesinstitut für Arzneimittel und Medizinprodukte zu stellen. In dem Antrag begründet der Hersteller die Erforderlichkeit einer Verlängerung des Erprobungszeitraums. Insbesondere hat der Hersteller darzulegen, warum der geforderte Nachweis nicht fristgerecht vorgelegt werden kann und inwieweit eine abschließende Nachweisführung im Rahmen der beantragten Verlängerung des Erprobungszeitraums möglich sein wird.
+
+(4) Wird der Antrag auf Verlängerung des Erprobungszeitraums nach Absatz 3
+
+1. nicht spätestens drei Monate vor Ablauf des Erprobungszeitraums gestellt,
+
+2. ist dieser unvollständig oder
+
+3. sind die Inhalte des Antrags nicht geeignet, die Anforderungen nach den §§ 10 und 11 zu erfüllen,
+
+lehnt das Bundesinstitut für Arzneimittel und Medizinprodukte den Antrag auf Verlängerung des Erprobungszeitraums ab und streicht die digitale Pflegeanwendung nach Ablauf des Erprobungszeitraums aus dem Verzeichnis für digitale Pflegeanwendungen. Der Hersteller ist über die Streichung zu informieren.
+
+###### § 17 Wesentliche Veränderungen
 
 (1) Wesentliche Veränderungen im Sinne dieser Verordnung sind solche, die
 
@@ -243,9 +277,9 @@ Im Umfang geringfügige und lediglich redaktionelle Änderungen der Angaben und 
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt den Herstellern digitaler Pflegeanwendungen elektronisch einen Prüfbogen zur Verfügung, der die Hersteller bei der Einschätzung unterstützt, ob es sich bei einer Veränderung der digitalen Pflegeanwendung um eine wesentliche Veränderung nach Absatz 1 handelt. In dem Prüfbogen weist das Bundesinstitut für Arzneimittel und Medizinprodukte die Hersteller auf die Rechtsfolgen einer unterlassenen Anzeige einer wesentlichen Veränderung hin; § 139e Absatz 6 Satz 5 bis 8 des Fünften Buches Sozialgesetzbuch gilt entsprechend.
 
-##### § 15 Verfahren bei wesentlichen Veränderungen
+###### § 18 Verfahren bei wesentlichen Veränderungen
 
-(1) Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt dem Hersteller innerhalb von 14 Tagen den Eingang der vollständigen Anzeige; dies gilt auch für einfache Anzeigen.
+(1) Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt dem Hersteller innerhalb von 21 Tagen den Eingang der vollständigen Anzeige; dies gilt auch für einfache Anzeigen.
 
 (2) Eine Änderung oder Ergänzung der Anzeige wesentlicher Veränderungen oder des Antrags auf Streichung einer digitalen Pflegeanwendung aus dem Verzeichnis für digitale Pflegeanwendungen ist nach Übermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte nur noch auf dessen Anforderung nach Absatz 3 möglich.
 
@@ -253,7 +287,7 @@ Im Umfang geringfügige und lediglich redaktionelle Änderungen der Angaben und 
 
 ## Abschnitt 5 Inhalte und Veröffentlichung des Verzeichnisses für digitale Pflegeanwendungen
 
-##### § 16 Inhalte des elektronischen Verzeichnisses
+###### § 19 Inhalte des elektronischen Verzeichnisses
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte listet im Verzeichnis für digitale Pflegeanwendungen die nach § 40a des Elften Buches Sozialgesetzbuch erstattungsfähigen digitalen Pflegeanwendungen. Jede digitale Pflegeanwendung erhält eine eineindeutige Verzeichnisnummer. Die Aufnahme in das Verzeichnis für digitale Pflegeanwendungen erfolgt ausschließlich für die von dem Hersteller angegebenen Gruppen der Pflegebedürftigen und sonstigen Nutzer.
 
@@ -261,7 +295,7 @@ Im Umfang geringfügige und lediglich redaktionelle Änderungen der Angaben und 
 
 (3) Über die Angaben nach Absatz 2 hinaus werden insbesondere Angaben veröffentlicht zu:
 
-1. dem nachgewiesenen pflegerischen Nutzen der digitalen Pflegeanwendung einschließlich der erforderlichenfalls ergänzenden Unterstützungsleistungen,
+1. dem nachgewiesenen oder nachzuweisenden pflegerischen Nutzen der digitalen Pflegeanwendung,
 
 2. den nach § 11 vorgelegten Studien in Form von Zusammenfassungen zum Forschungsdesign und zu den Ergebnissen einschließlich eines Verweises auf den Ort der Registrierung sowie auf den Ort der vollumfänglichen Veröffentlichung der Studien nach § 11 Absatz 5 im Internet,
 
@@ -269,17 +303,17 @@ Im Umfang geringfügige und lediglich redaktionelle Änderungen der Angaben und 
 
 4. den Mehrkosten, die Pflegebedürftige nach § 40a Absatz 2 des Elften Buches Sozialgesetzbuch selbst zu tragen haben, sofern zutreffend, und
 
-5. den erforderlichenfalls ergänzenden Unterstützungsleistungen nach § 39a des Elften Buches Sozialgesetzbuch.
+5. den vom Hersteller für erforderlich gehaltenen ergänzenden Unterstützungsleistungen nach § 39a des Elften Buches Sozialgesetzbuch.
 
 Neben den Angaben nach Satz 1 ist im Verzeichnis für digitale Pflegeanwendungen zu veröffentlichen, ob eine digitale Pflegeanwendung desselben Herstellers mit einer im Wesentlichen gleichen Zweckbestimmung, Wirkungsweise oder Funktion auch als digitale Gesundheitsanwendung in dem Verzeichnis für digitale Gesundheitsanwendungen nach § 139e Absatz 1 des Fünften Buches Sozialgesetzbuch gelistet ist.
 
-##### § 17 Weitere Ausgestaltung des elektronischen Verzeichnisses
+###### § 20 Weitere Ausgestaltung des elektronischen Verzeichnisses
 
 (1) Im Verzeichnis für digitale Pflegeanwendungen werden weitere Angaben aus den eingereichten Unterlagen veröffentlicht, soweit dies für die Information der Pflegebedürftigen und Nutzer sowie der Kostenträger im Hinblick auf eine informierte Entscheidung und für die qualitätsgesicherte Versorgung mit der digitalen Pflegeanwendung erforderlich ist.
 
-(2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht die Nutzung der Angaben nach § 16 Absatz 2 und 3 durch die Landesverbände der Pflegekassen für Zwecke der Pflegeversicherung. Hierzu veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte mit Errichtung des Verzeichnisses eine geeignete Schnittstelle auf Basis international anerkannter Standards und beantragt deren Aufnahme auf die Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch.
+(2) Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht die Nutzung der Angaben nach § 19 Absatz 2 und 3 durch die Landesverbände der Pflegekassen für Zwecke der Pflegeversicherung. Hierzu veröffentlicht das Bundesinstitut für Arzneimittel und Medizinprodukte mit Errichtung des Verzeichnisses eine geeignete Schnittstelle auf Basis international anerkannter Standards und beantragt deren Aufnahme auf die Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch.
 
-(3) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt die in § 16 Absatz 2 und 3 aufgeführten Angaben folgenden Berechtigten auf Antrag in maschinenlesbarer sowie plattformunabhängiger Form zur Verarbeitung und Veröffentlichung zur Verfügung:
+(3) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt die in § 19 Absatz 2 und 3 aufgeführten Angaben folgenden Berechtigten auf Antrag in maschinenlesbarer sowie plattformunabhängiger Form zur Verarbeitung und Veröffentlichung zur Verfügung:
 
 1. dem Spitzenverband Bund der Pflegekassen,
 
@@ -315,11 +349,11 @@ Neben den Angaben nach Satz 1 ist im Verzeichnis für digitale Pflegeanwendungen
 
 Das Nähere zu der Übermittlung der Daten, insbesondere zum Datenformat, zu den Nutzungsrechten und den Pflichten des Nutzers bei der Verwendung der Daten bestimmt das Bundesinstitut für Arzneimittel und Medizinprodukte in Nutzungsbedingungen, die dem Datennutzungsvertrag zu Grunde gelegt werden. Mit den Nutzungsbedingungen wird eine nicht missbräuchliche, nicht wettbewerbsverzerrende und manipulationsfreie Verwendung der Daten sichergestellt. Die Berechtigten nach Satz 1 haben zu gewährleisten, dass die Herkunft der Daten für Pflegebedürftige und alle anderen Nutzer der Informationen transparent bleibt. Dies gilt insbesondere, wenn eine Verwendung der Daten in Zusammenhang mit anderen Daten erfolgt. Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht eine geeignete Schnittstelle auf Basis international anerkannter Standards und beantragt deren Aufnahme auf die Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch.
 
-(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht die im Verzeichnis für digitale Pflegeanwendungen enthaltenen Angaben nach § 16 Absatz 2 und 3 auf einem Webportal in einer für Pflegebedürftige und sonstige Nutzer intuitiv zugänglichen barrierefreien Struktur, Form und Darstellung.
+(4) Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht die im Verzeichnis für digitale Pflegeanwendungen enthaltenen Angaben nach § 19 Absatz 2 und 3 auf einem Webportal in einer für Pflegebedürftige und sonstige Nutzer intuitiv zugänglichen barrierefreien Struktur, Form und Darstellung.
 
-(5) Mit der Antragstellung gibt der Hersteller der digitalen Pflegeanwendung die unter § 16 Absatz 2 und 3 aufgeführten Angaben zur Veröffentlichung und zur freien Nutzung durch Dritte unter einer vom Bundesinstitut für Arzneimittel und Medizinprodukte festzulegenden Lizenz frei. Dies gilt, soweit nicht rechtliche Anforderungen an den Schutz der Betriebs- und Geschäftsgeheimnisse oder den Schutz personenbezogener Daten oder des geistigen Eigentums entgegenstehen und der Hersteller in den Antragsunterlagen die entsprechenden Angaben als solche gekennzeichnet sowie der Veröffentlichung aus diesem Grund ausdrücklich widersprochen hat.
+(5) Mit der Antragstellung gibt der Hersteller der digitalen Pflegeanwendung die unter § 19 Absatz 2 und 3 aufgeführten Angaben zur Veröffentlichung und zur freien Nutzung durch Dritte unter einer vom Bundesinstitut für Arzneimittel und Medizinprodukte festzulegenden Lizenz frei. Dies gilt, soweit nicht rechtliche Anforderungen an den Schutz der Betriebs- und Geschäftsgeheimnisse oder den Schutz personenbezogener Daten oder des geistigen Eigentums entgegenstehen und der Hersteller in den Antragsunterlagen die entsprechenden Angaben als solche gekennzeichnet sowie der Veröffentlichung aus diesem Grund ausdrücklich widersprochen hat.
 
-##### § 18 Bekanntmachung des Verzeichnisses für digitale Pflegeanwendungen im Bundesanzeiger
+###### § 21 Bekanntmachung des Verzeichnisses für digitale Pflegeanwendungen im Bundesanzeiger
 
 (1) Durch das Bundesinstitut für Arzneimittel und Medizinprodukte sind im Bundesanzeiger bekannt zu machen:
 
@@ -339,7 +373,7 @@ Das Nähere zu der Übermittlung der Daten, insbesondere zum Datenformat, zu den
 
 ## Abschnitt 6 Beratung durch das Bundesinstitut für Arzneimittel und Medizinprodukte
 
-##### § 19 Beratung
+###### § 22 Beratung
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte berät Hersteller digitaler Pflegeanwendungen auf deren Anfrage vor Einreichung des Antrags auf Aufnahme einer digitalen Pflegeanwendung in das Verzeichnis für digitale Pflegeanwendungen insbesondere zum Verfahrensablauf sowie zu den mit dem Antrag vorzulegenden Angaben und Nachweisen.
 
@@ -347,7 +381,7 @@ Das Nähere zu der Übermittlung der Daten, insbesondere zum Datenformat, zu den
 
 1. zu den Anforderungen an den Nachweis eines pflegerischen Nutzens und
 
-2. zur Anzeige und Dokumentation wesentlicher Veränderungen nach § 14.
+2. zur Anzeige und Dokumentation wesentlicher Veränderungen nach § 17.
 
 (3) Die Anfrage nach Absatz 1 ist elektronisch an das Bundesinstitut für Arzneimittel und Medizinprodukte zu übermitteln. Das Bundesinstitut für Arzneimittel und Medizinprodukte legt das Nähere zum Verfahren und zu für die Anfrage zu verwendenden Formularen fest.
 
@@ -355,15 +389,25 @@ Das Nähere zu der Übermittlung der Daten, insbesondere zum Datenformat, zu den
 
 ## Abschnitt 7 Gebühren und Auslagen
 
-##### § 20 Grundsätze
+###### § 23 Grundsätze
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen nach Maßgabe der folgenden Vorschriften.
 
-##### § 21 Gebühren für Entscheidungen über die Aufnahme digitaler Pflegeanwendungen in das Verzeichnis
+###### § 24 Gebühren für Entscheidungen über die Aufnahme digitaler Pflegeanwendungen in das Verzeichnis
 
-Die Gebühr beträgt für die Entscheidung nach § 78a Absatz 5 Satz 1 des Elften Buches Sozialgesetzbuch über einen Antrag des Herstellers zur Aufnahme in das Verzeichnis mindestens 3 000 und höchstens 9 900 Euro.
+(1) Die Gebühr beträgt für die Entscheidung nach
 
-##### § 22 Gebühren für Änderungsanzeigen und Streichung
+1. § 78a Absatz 5 Satz 1 des Elften Buches Sozialgesetzbuch über einen Antrag des Herstellers nach § 78a Absatz 4 des Elften Buches Sozialgesetzbuch oder
+
+2. § 78a Absatz 6a Satz 3 des Elften Buches Sozialgesetzbuch über einen Antrag des Herstellers nach § 78a Absatz 6a Satz 1 des Elften Buches Sozialgesetzbuch
+
+mindestens 3 000 und höchstens 9 900 Euro.
+
+(2) Die Gebühr für die Entscheidung nach § 78a Absatz 6a Satz 6 des Elften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens 6 600 Euro.
+
+(3) Die Gebühr für die Entscheidung nach § 78a Absatz 6a Satz 7 des Elften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens 4 900 Euro.
+
+###### § 25 Gebühren für Änderungsanzeigen und Streichung
 
 (1) Die Gebühr für die Bearbeitung einer Anzeige nach § 78a Absatz 5 Satz 5 des Elften Buches Sozialgesetzbuch in Verbindung mit § 139e Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch beträgt
 
@@ -373,15 +417,15 @@ Die Gebühr beträgt für die Entscheidung nach § 78a Absatz 5 Satz 1 des Elfte
 
 (2) Die Gebühr für die Streichung einer digitalen Pflegeanwendung gemäß § 78a Absatz 5 Satz 5 des Elften Buches Sozialgesetzbuch in Verbindung mit § 139e Absatz 6 Satz 6 und 9 des Fünften Buches Sozialgesetzbuch im Fall einer nach Aufforderung nicht fristgerechten Anzeige wesentlicher Veränderungen oder auf Antrag des Herstellers beträgt jeweils 200 Euro.
 
-(3) Die einfache Anzeige im Umfang geringfügiger und lediglich redaktioneller Änderungen von Angaben und Informationen nach § 14 Absatz 1 Satz 2 und 3 ist gebührenfrei.
+(3) Die einfache Anzeige im Umfang geringfügiger und lediglich redaktioneller Änderungen von Angaben und Informationen nach § 17 Absatz 1 Satz 2 und 3 ist gebührenfrei.
 
-##### § 23 Gebühr für Beratungen
+###### § 26 Gebühr für Beratungen
 
 (1) Die Gebühr für die Beratung des Herstellers digitaler Pflegeanwendungen nach § 78a Absatz 5 Satz 4 des Elften Buches Sozialgesetzbuch beträgt mindestens 250 und höchstens 5 000 Euro.
 
 (2) Im Umfang geringfügige allgemeine mündliche, schriftliche oder elektronische Auskünfte sind gebührenfrei.
 
-##### § 24 Gebühren in besonderen Fällen
+###### § 27 Gebühren in besonderen Fällen
 
 (1) Wird ein Antrag ganz oder teilweise abgelehnt, ist eine Gebühr bis zu der Höhe zu erheben, die für die beantragte individuell zurechenbare öffentliche Leistung vorgesehen ist. Wird der Antrag allein wegen Unzuständigkeit des Bundesinstituts für Arzneimittel und Medizinprodukte abgelehnt, wird keine Gebühr erhoben.
 
@@ -393,21 +437,21 @@ Die Gebühr beträgt für die Entscheidung nach § 78a Absatz 5 Satz 1 des Elfte
 
 (5) Kann eine individuell zurechenbare öffentliche Leistung aus Gründen, die der Betroffene zu vertreten hat, nicht zum festgesetzten Termin erbracht werden oder muss sie aus diesen Gründen abgebrochen werden, ist eine Gebühr bis zur Höhe des für die vollständige öffentliche Leistung vorgesehenen Betrags zu erheben.
 
-##### § 25 Sonstige Gebühren
+###### § 28 Sonstige Gebühren
 
-(1) Bei individuell zurechenbaren öffentlichen Leistungen nach den Nummern 1 bis 3, die auf Antrag erbracht werden, sind folgende Gebühren zu erheben:
+(1) Bei nachfolgenden, individuell zurechenbaren öffentlichen Leistungen, die auf Antrag erbracht werden, sind folgende Gebühren zu erheben:
 
 1. für nicht einfache, schriftliche Auskünfte mindestens 50 und höchstens 500 Euro,
 
-2. für die Herstellung und Überlassung von Dokumenten oder die Herstellung und Überlassung von elektronisch gespeicherten Dateien einschließlich der Umwandlung schriftlicher Dokumente in elektronische Dateien mindestens 10 und höchstens 100 Euro, sofern dies nicht im Rahmen der individuell zurechenbaren öffentlichen Leistungen nach den §§ 21 bis 23 erfolgt, oder
+2. für die Herstellung und Überlassung von Dokumenten oder die Herstellung und Überlassung von elektronisch gespeicherten Dateien einschließlich der Umwandlung schriftlicher Dokumente in elektronische Dateien mindestens 10 und höchstens 100 Euro, sofern dies nicht im Rahmen der individuell zurechenbaren öffentlichen Leistungen nach den §§ 24 bis 26 erfolgt, oder
 
 3. für die Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhängig, mindestens 50 und höchstens 1 000 Euro.
 
 (2) Der Antragsteller ist auf die Gebührenpflichtigkeit der individuell zurechenbaren öffentlichen Leistungen nach Absatz 1 hinzuweisen.
 
-##### § 26 Gebührenermäßigung und Gebührenbefreiung auf Antrag
+###### § 29 Gebührenermäßigung und Gebührenbefreiung auf Antrag
 
-(1) Die nach den §§ 21 bis 23 zu erhebenden Gebühren können auf Antrag des Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr ermäßigt werden, wenn
+(1) Die nach den §§ 24 bis 26 zu erhebenden Gebühren können auf Antrag des Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr ermäßigt werden, wenn
 
 1. der Gebührenschuldner einen diesen Gebühren angemessenen wirtschaftlichen Nutzen nicht erwarten kann oder
 
@@ -415,11 +459,11 @@ Die Gebühr beträgt für die Entscheidung nach § 78a Absatz 5 Satz 1 des Elfte
 
 (2) Von der Erhebung der Gebühren kann ganz abgesehen werden, wenn der zu erwartende wirtschaftliche Nutzen im Verhältnis zu den Gebühren besonders gering ist.
 
-##### § 27 Auslagen
+###### § 30 Auslagen
 
 Für die Erstattung von Auslagen gilt § 12 Absatz 1 des Bundesgebührengesetzes entsprechend.
 
-##### § 28 Entstehung der Gebühren- und Auslagenschuld
+###### § 31 Entstehung der Gebühren- und Auslagenschuld
 
 (1) Die Gebührenschuld entsteht mit Beendigung der individuell zurechenbaren öffentlichen Leistung. Bedarf diese Leistung einer Zustellung, Eröffnung oder sonstigen Bekanntgabe, so gilt diese als Beendigung der Leistung.
 
@@ -431,7 +475,7 @@ Für die Erstattung von Auslagen gilt § 12 Absatz 1 des Bundesgebührengesetzes
 
 (3) Für Auslagen gelten die Absätze 1 und 2 entsprechend.
 
-##### § 29 Gebühren- und Auslagenschuldner
+###### § 32 Gebühren- und Auslagenschuldner
 
 (1) Zur Zahlung der Gebühren ist derjenige verpflichtet,
 
@@ -447,17 +491,17 @@ Für die Erstattung von Auslagen gilt § 12 Absatz 1 des Bundesgebührengesetzes
 
 ## Abschnitt 8 Schiedsverfahren
 
-##### § 30 Einigung über den Vorsitzenden und die unparteiischen Mitglieder der Schiedsstelle
+###### § 33 Einigung über den Vorsitzenden und die unparteiischen Mitglieder der Schiedsstelle
 
 Über den Vorsitzenden und die zwei weiteren unparteiischen Mitglieder sowie deren Stellvertreter sollen sich die in § 134 Absatz 3 des Fünften Buches Sozialgesetzbuch und die in § 78a Absatz 1 Satz 3 des Elften Buches Sozialgesetzbuch genannten Verbände gemeinsam einigen.
 
-##### § 31 Einleitung des Schiedsverfahrens und Fristen
+###### § 34 Einleitung des Schiedsverfahrens und Fristen
 
 (1) Kommt eine Vereinbarung über Vergütungsbeträge sowie technische und vertragliche Rahmenbedingungen für die Zurverfügungstellung der digitalen Pflegeanwendungen nach § 78a Absatz 1 des Elften Buches Sozialgesetzbuch nicht oder teilweise nicht zustande, beginnt das Schiedsverfahren mit dem bei der Schiedsstelle von einer beteiligten Vertragspartei gestellten Antrag, eine Einigung über den Inhalt der Vereinbarung herbeizuführen. Die Schiedsstelle entscheidet innerhalb von drei Monaten nach Antragseingang.
 
 (2) Die Schiedsstelle kann vor ihrer Entscheidung Dritten Gelegenheit zur Stellungnahme geben.
 
-##### § 32 Entschädigung und Kosten
+###### § 35 Entschädigung und Kosten
 
 (1) Der Vorsitzende der Schiedsstelle und die zwei weiteren unparteiischen Mitglieder oder ihre Stellvertreter erhalten Reisekosten nach den Vorschriften über die Reisekostenvergütung der Bundesbeamten nach der Reisekostenstufe C. Der Anspruch richtet sich gegen den Spitzenverband Bund der Pflegekassen. Sie erhalten für sonstige Barauslagen und für den Zeitaufwand einen Pauschalbetrag, dessen Höhe der Spitzenverband Bund der Pflegekassen im Benehmen mit den beteiligten Verbänden festsetzt. Die Festsetzung bedarf der Zustimmung des Bundesministeriums für Gesundheit.
 
@@ -465,23 +509,21 @@ Für die Erstattung von Auslagen gilt § 12 Absatz 1 des Bundesgebührengesetzes
 
 ## Abschnitt 9 Inhalte des Berichtes über digitale Pflegeanwendungen
 
-##### § 33 Inhalte des Berichtes über digitale Pflegeanwendungen
+###### § 36 Inhalte des Berichtes über digitale Pflegeanwendungen
 
-(1) Der Bericht nach § 78a Absatz 9 des Elften Buches Sozialgesetzbuch enthält insbesondere Folgendes:
+(1) Der Bericht nach § 78a Absatz 9 des Elften Buches Sozialgesetzbuch enthält insbesondere Folgendes:
 
 1. strukturelle Informationen zu den digitalen Pflegeanwendungen, insbesondere
 
-a) die Anzahl und den Namen der im Verzeichnis für digitale Pflegeanwendungen gelisteten digitalen Pflegeanwendungen einschließlich der Vergütungsbeträge sowie des Datums der Aufnahme in das Verzeichnis,
+a) die Anzahl und den Namen der im Verzeichnis für digitale Pflegeanwendungen gelisteten digitalen Pflegeanwendungen, unterteilt nach dauerhaft und zur Erprobung aufgenommen, einschließlich der Vergütungsbeträge sowie des Datums der Aufnahme in das Verzeichnis,
 
-b) eine Angabe, ob dieselbe oder eine in den wesentlichen Funktionen gleiche Anwendung desselben Herstellers auch als digitale Gesundheitsanwendung in dem Verzeichnis für digitale Gesundheitsanwendungen nach § 139e Absatz 1 des Fünften Buches Sozialgesetzbuch gelistet ist,
+b) eine Angabe, ob dieselbe oder eine in den wesentlichen Funktionen gleiche Anwendung desselben Herstellers auch als digitale Gesundheitsanwendung in dem Verzeichnis für digitale Gesundheitsanwendungen nach § 139e Absatz 1 des Fünften Buches Sozialgesetzbuch gelistet ist, und
 
-c) eine Darstellung der gelisteten digitalen Pflegeanwendungen insbesondere anhand der in § 9 Absatz 2 genannten Bereiche sowie
-
-d) den Anteil der digitalen Pflegeanwendungen, für deren bestimmungsgemäße Nutzung ergänzende Unterstützungsleistungen erforderlich sind;
+c) eine Darstellung der gelisteten digitalen Pflegeanwendungen insbesondere im Hinblick auf den nachgewiesenen oder nachzuweisenden pflegerischen Nutzen, auch anhand der in § 9 Absatz 2 genannten Bereiche;
 
 2. Informationen zum Antrags- und Genehmigungsgeschehen bei den Pflegekassen, insbesondere zu der
 
-a) Anzahl der gestellten Anträge je digitaler Pflegeanwendung, darunter Anzahl der genehmigten und der abgelehnten Anträge,
+a) Anzahl der gestellten Anträge je digitaler Pflegeanwendung, darunter Anzahl der genehmigten und der abgelehnten Anträge, unterteilt nach dauerhaft und zur Erprobung aufgenommenen digitalen Pflegeanwendungen,
 
 b) Anzahl der Anträge, die unbefristet bewilligt wurden, und
 
@@ -489,19 +531,17 @@ c) Anzahl der pflegebedürftigen Personen je digitaler Pflegeanwendung, die eine
 
 3. Informationen zur Inanspruchnahme der digitalen Pflegeanwendungen sowie Leistungsausgaben der Pflegekassen im Berichtsjahr, insbesondere zu
 
-a) der Anzahl der pflegebedürftigen Personen je digitaler Pflegeanwendung, die einen Erstattungsanspruch auf eine Versorgung mit einer digitalen Pflegeanwendung geltend gemacht haben,
+a) der Anzahl der pflegebedürftigen Personen je digitaler Pflegeanwendung, unterteilt nach dauerhaft und zur Erprobung aufgenommen, die einen Erstattungsanspruch auf eine Versorgung mit einer digitalen Pflegeanwendung geltend gemacht haben,
 
-b) der Anzahl der pflegebedürftigen Personen je digitaler Pflegeanwendung, die einen Erstattungsanspruch auf ergänzende Unterstützungsleitungen bei der Nutzung einer digitalen Pflegeanwendung geltend gemacht haben,
+b) der Anzahl der pflegebedürftigen Personen je digitaler Pflegeanwendung, unterteilt nach dauerhaft und zur Erprobung aufgenommen, die einen Erstattungsanspruch auf ergänzende Unterstützungsleitungen bei der Nutzung einer digitalen Pflegeanwendung geltend gemacht haben,
 
-c) den Leistungsausgaben insgesamt und aufgeschlüsselt nach Pflegegrad,
+c) den Leistungsausgaben für digitale Pflegeanwendungen insgesamt, unterteilt nach dauerhaft und zur Erprobung aufgenommen sowie aufgeschlüsselt nach Pflegegrad,
 
-d) den Leistungsausgaben für ergänzende Unterstützungsleistungen insgesamt und aufgeschlüsselt nach Pflegegrad und
-
-e) der Anzahl der digitalen Pflegeanwendungen und ergänzenden Unterstützungsleistungen, für die der monatliche Leistungsbetrag von pflegebedürftigen Personen jeweils in Anspruch genommen wurde;
+d) den Leistungsausgaben für ergänzende Unterstützungsleistungen insgesamt und aufgeschlüsselt nach Pflegegrad;
 
 4. Informationen zu Schiedsverfahren;
 
-5. eine Darstellung, auf welche Art und in welchem Umfang Pflegekassen ihre Versicherten über Leistungen nach den §§ 39a, 40a und 40b des Elften Buches Sozialgesetzbuch informieren.
+5. eine Darstellung, auf welche Art und in welchem Umfang Pflegekassen ihre Versicherten über Leistungen nach den §§ 39a, 40a und 40b des Elften Buches Sozialgesetzbuch informieren.
 
 Die Angaben nach Satz 1 Nummer 2 und 3 sind nach Alter, Geschlechtsidentität und Wohnort nach Bundesland zu erheben.
 
@@ -511,11 +551,11 @@ Die Angaben nach Satz 1 Nummer 2 und 3 sind nach Alter, Geschlechtsidentität un
 
 ## Abschnitt 10 Schlussbestimmungen
 
-##### § 34 Inkrafttreten
+###### § 37 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-##### Anlage 1 Fragebogen gemäß § 3 Absatz 2
+###### Anlage 1 Fragebogen gemäß § 3 Absatz 2
 
 (Fundstelle: BGBl. I 2022, 1579 - 1593)
 
@@ -535,7 +575,7 @@ Das Produkt ist so ausgelegt und hergestellt, dass die Exposition von Pflegebed�
  Ein Produkt mit externer Energiequelle, von der die Sicherheit der Pflegebedürftigen und Nutzer abhängt, wurde mit einem Alarmsystem ausgestattet, das jeden Ausfall der Energiequelle signalisiert.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).29.Elektromagnetische VerträglichkeitDas Produkt wurde so ausgelegt und hergestellt, dass die Gefahr der Entstehung elektromagnetischer Interferenzen, die das Produkt oder in der vorgesehenen Umgebung befindliche weitere Produkte oder Ausrüstungen in deren Funktion beeinträchtigen können, so weit wie möglich verringert wird.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).30.Elektromagnetische VerträglichkeitDas Produkt wurde so ausgelegt und hergestellt, dass es eine Immunität gegenüber elektromagnetischen Interferenzen aufweist, die einem bestimmungsgemäßen Betrieb angemessen ist.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).31.Elektrische SicherheitDas Produkt wurde so ausgelegt und hergestellt, dass das Risiko von unbeabsichtigten Stromstößen an Pflegebedürftigen, Nutzern oder Dritten sowohl bei normaler Nutzung des Produkts als auch beim Erstauftreten eines Defekts so weit wie möglich verringert wird, vorausgesetzt, das Produkt wird gemäß den Angaben des Herstellers installiert und instandgehalten.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).32.Unbefugter ZugriffDas Produkt wurde so ausgelegt und hergestellt, dass es so weit wie möglich vor einem unbefugten Zugriff, der das bestimmungsgemäße Funktionieren des Produkts behindern könnte, geschützt ist.33.Mechanische und thermische RisikenDas Produkt wurde so ausgelegt und hergestellt, dass Pflegebedürftige und Nutzer vor mechanischen Risiken, beispielsweise im Zusammenhang mit Widerstand gegen Bewegung, Instabilität und beweglichen Teilen, geschützt sind.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).34.Mechanische und thermische RisikenDas Produkt wurde so ausgelegt und hergestellt, dass die Risiken, die durch von dem Produkt erzeugte mechanische Schwingungen bedingt sind, unter Berücksichtigung des technischen Fortschritts so weit wie möglich verringert werden, sofern diese Schwingungen nicht im Rahmen der vorgesehenen Nutzung beabsichtigt sind; dabei sind die vorhandenen Möglichkeiten zur Minderung der Schwingungen, insbesondere an deren Ursprung, zu nutzen.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).35.Mechanische und thermische RisikenDas Produkt wurde so ausgelegt und hergestellt, dass die Risiken, die durch von dem Produkt erzeugten Lärm bedingt sind, unter Berücksichtigung des technischen Fortschritts so weit wie möglich verringert werden, sofern die akustischen Signale nicht im Rahmen der vorgesehenen Nutzung beabsichtigt sind; dabei sind die vorhandenen Möglichkeiten zur Minderung des Lärms, insbesondere an dessen Ursprung, zu nutzen.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).36.Mechanische und thermische RisikenVon Pflegebedürftigen oder anderen Nutzern zu bedienende Endeinrichtungen und Anschlüsse an Energiequellen für den Betrieb mit elektrischer, hydraulischer oder pneumatischer Energie oder mit Gas wurden so ausgelegt und konstruiert, dass alle möglichen Risiken so weit wie möglich verringert werden.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).37.Mechanische und thermische RisikenFehler bei der Montage oder erneuten Montage bestimmter Teile, die ein Risiko verursachen könnten, wurden durch die Auslegung und Konstruktion dieser Teile unmöglich gemacht oder werden andernfalls durch Hinweise auf den Teilen selbst und/oder auf ihrem Gehäuse verhindert. Die gleichen Hinweise wurden auf beweglichen Teilen und/oder auf ihrem Gehäuse angebracht, wenn die Kenntnis von der Bewegungsrichtung dieser Teile oder des Gehäuses für die Vermeidung eines Risikos notwendig ist.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).38.Mechanische und thermische RisikenZugängliche Teile von Produkten (Teile oder Bereiche, die Wärme abgeben oder bestimmte Temperaturen erreichen sollen, ausgenommen) sowie deren Umgebung dürfen keine Temperaturen erreichen, die bei normalen Anwendungsbedingungen eine Gefährdung darstellen können.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).39.Produkte, die Energie oder Stoffe abgebenEin Produkt, das zur Abgabe von Energie oder Stoffen an Pflegebedürftige oder weitere Nutzer bestimmt ist, wurde so ausgelegt und hergestellt, dass die abzugebende Menge zur Gewährleistung der Sicherheit der Pflegebedürftigen und Nutzer mit ausreichender Genauigkeit eingestellt und diese Einstellung beibehalten werden kann.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).40.Produkte, die Energie oder Stoffe abgebenDas Produkt wurde mit Vorrichtungen ausgestattet, die jegliche Störung der abgegebenen Menge von Energie oder Stoffen, die eine Gefahr darstellen kann, verhindern und/oder signalisieren. Das Produkt wurde mit geeigneten Vorrichtungen ausgestattet, die die unbeabsichtigte gefährlich überhöhte Abgabe von Energie oder von Stoffen durch die Energiequelle und/oder die Quelle von Stoffen verhindern.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).41.Produkte, die Energie oder Stoffe abgebenDie Funktion von Bedienungs- und Anzeigeeinrichtungen sind auf dem Produkt deutlich angegeben. Sind die Anweisungen für die Nutzung des Produkts auf diesem selbst angebracht oder werden die Betriebs- oder Regelungsparameter wahrnehmbar angezeigt, so müssen diese Angaben für Pflegebedürftige und weitere Nutzer verständlich sein.Die digitale Pflegeanwendung besteht lediglich aus einer Software und benötigt nicht den Einsatz einer mit der digitalen Pflegeanwendung durch den Hersteller abgegebenen Hardware (von Speichermedien abgesehen).42.Laiennutzung
 Der Hersteller hat die besonderen Anforderungen der Nutzung durch Personen ohne pflegerische oder technische Fachkenntnisse berücksichtigt und insbesondere Folgendes umgesetzt: –Maßnahmen (z. B. Nutzungsbeschreibung, Tutorials oder Schulungen) vorgesehen, die Nutzern jederzeit eine fehlerfreie Nutzung ermöglichen sowie–Maßnahmen zum Schutz der Nutzer bei Anwendungsfehlern (z. B. Beendigung oder Abbruch der Nutzung, anwendungsinterne Warnhinweise).Gebrauchsanweisung und sonstige Herstellerinformationen zur digitalen Pflegeanwendung1.GebrauchsanweisungDer Hersteller gewährleistet, dass dem Produkt eine Gebrauchsanweisung und weitere Produktinformationen in deutscher Sprache beigefügt sind.2.GebrauchsanweisungDas Produkt ist technisch so gestaltet, dass die Pflegebedürftigen und weiteren Nutzer ohne Aufwand jederzeit Zugang zu der Gebrauchsanweisung erhalten haben.3.GebrauchsanweisungDie Gebrauchsanweisung ist so verfasst und gegebenenfalls mit Abbildungen ergänzt, dass sie von den vorgesehenen Nutzern ohne Schwierigkeiten verstanden werden kann.4.GebrauchsanweisungDie Gebrauchsanweisung enthält insbesondere: –den Namen oder Handelsnamen des Produktes einschließlich der Versionsangaben,–die identifizierenden Angaben zum Hersteller (z. B. Name des Unternehmens, Anschrift, Kontaktdaten),–Angaben, aus denen Pflegebedürftige und weitere Nutzer ersehen können, worum es sich bei dem Produkt handelt,–eine Beschreibung der Zweckbestimmung des Produktes,–eine Beschreibung aller Nutzer und Nutzergruppen des Produktes einschließlich des Einsatzes durch pflegende Angehörige, sonstige ehrenamtlich Pflegende und ambulante Pflegeeinrichtungen,–Angaben zur Nutzungs- und Lebensdauer des Produktes,–Warnhinweise oder zu ergreifende Vorsichtsmaßnahmen,–Informationen zu Nutzungsbeschränkungen und Beeinträchtigungen, die eine Nutzung ausschließen,–Angaben zu dem nachgewiesenen pflegerischen Nutzen,–Angaben zu den Leistungsmerkmalen des Produktes, insbesondere zu Wirkungsweise, Eigenschaften, Funktionen und pflegebezogenen Inhalten,–Angaben zu von den Pflegebedürftigen und weiteren Nutzern für eine ordnungsgemäße Nutzung des Produktes benötigten und vorzuhaltenden Voraussetzungen (z. B. mobile Endgeräte, Wearables, Mobilfunkvertrag, Internetzugang, benötigte Kenntnisse und Fertigkeiten etc.),–eine Beschreibung der technischen Installation und der Nutzungs- und Bedienweise des Produktes sowie zur Kompatibilität mit Betriebssystemen und Plattformen,–Informationen zu Schulungs-, Trainings- und Einweisungsmöglichkeiten und–das Ausstellungsdatum der neuesten Fassung der Gebrauchsanweisung.5.IrreführungDie vom Hersteller zur Produktbeschreibung verwendeten Texte, Bezeichnungen und Abbildungen sind nicht geeignet, bei den Pflegebedürftigen und weiteren Nutzern Fehlvorstellungen über die Zweckbestimmung, Sicherheit und Funktionstauglichkeit des Produktes zu erzeugen. Insbesondere enthalten die Texte, Bezeichnungen und Abbildungen –keine Angaben zu Funktionen, Inhalten oder Eigenschaften, die das Produkt nicht besitzt,–keine Angaben, die einen falschen Eindruck über Funktionen, Inhalte oder Eigenschaften des Produktes erwecken,–keine Angaben zu Nutzungsmöglichkeiten, die über die Zweckbestimmung hinausgehen und–keine Angaben, die die Pflegebedürftigen und Nutzer über zu erwartende Risiken, die mit der Nutzung des Produktes gemäß seiner Zweckbestimmung verbunden sind, hinwegtäuschen.Dokumentation der Sicherheit und Funktionstauglichkeit der digitalen Pflegeanwendung1.DokumentationDer Hersteller hat eine Dokumentation der Sicherheit und Funktionstauglichkeit umgesetzt und Prozesse implementiert, um eine Dokumentation der Sicherheit und Funktionstauglichkeit jederzeit auf dem neuesten Stand zu halten.2.DokumentationDie Dokumentation der Sicherheit und Funktionstauglichkeit enthält mindestens folgende Angaben: –eine Angabe des Produkt- und Handelsnamens einschließlich der Versionsangaben,–eine Beschreibung der Zweckbestimmung,–eine Beschreibung der vorgesehenen Nutzer oder Nutzergruppen,–eine Beschreibung von Beeinträchtigungen bei den Pflegebedürftigen, die eine Nutzung ausschließen, und sonstige Warnhinweise zu Nutzungsrisiken,–eine Begründung, warum es sich nicht um ein Medizinprodukt nach den geltenden medizinprodukterechtlichen Vorschriften handelt,–eine Beschreibung von Zubehör und sonstigen Produktbestandteilen oder Produkten, die keine Medizinprodukte sind und die in Kombination mit dem Produkt verwendet werden sollen,–eine Beschreibung der Funktionselemente des Produktes und deren Funktionsweise und Inhalte,–technische Spezifikationen, etwa zu Eigenschaften und Leistungsattributen des Produktes, des Zubehörs oder sonstiger Produktbestandteile,–Informationen zu Entwicklungsständen des Produktes,–Informationen und technische Spezifikationen einschließlich der Entwicklungsprozesse und ihrer Validierung sowie Informationen zur laufenden Prüfung und Überwachung des Endproduktes,–Angaben zu beteiligten Unterauftragnehmern,–Informationen zu den allgemeinen technischen Sicherheitsanforderungen einschließlich einer Beschreibung der gewählten Verfahren zur Gewährleistung der Sicherheit und der Funktionstauglichkeit,–eine Nutzen-Risiko-Analyse und eine Begründung der ausgewählten Verfahren zur Gewährleistung der Sicherheit und der Funktionstauglichkeit,–Ergebnisse aller Analysen und Verifizierungs- bzw. Validierungstests einschließlich der Angaben zu den durchgeführten Testverfahren, zum Testaufbau, zur Testdurchführung, zur Datenerhebung, zur Datenauswertung und zu den Testergebnissen.3.DokumentationDer Hersteller ist in der Lage, die Dokumentation der Sicherheit und Funktionstauglichkeit dem Bundesinstitut für Arzneimittel und Medizinprodukte jederzeit und in deutscher Sprache vorzulegen.Versicherung1.VersicherungDer Hersteller hat Vorkehrungen getroffen, die der Art des Produktes und der Größe des Unternehmens angemessen sind, um, vorbehaltlich anderweitig anwendbarer gesetzlicher Vorschriften, eine ausreichende finanzielle Deckung seiner potenziellen Haftung gemäß Richtlinie 85/374/EWG des Rates vom 25. Juli 1985 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Haftung für fehlerhafte Produkte zu gewährleisten.Produktüberwachung nach Inverkehrbringen1.ProduktüberwachungDer Hersteller betreibt ein System zur Überwachung des Produktes nach Inverkehrbringen unter Berücksichtigung der für das Produkt und seinen Rechtsbereich einschlägigen rechtlichen Vorgaben und erhebt dazu über den gesamten Lebenszyklus der Anwendung Daten zur Sicherheit und zur Funktionstauglichkeit des Produktes.2.ProduktüberwachungDie Erhebung der Daten im Rahmen der Produktüberwachung wird vom Hersteller proaktiv und kontinuierlich genutzt insbesondere –zur kontinuierlichen Bewertung des Nutzungsrisikos, des Gesamtrestrisikos und des Risikomanagements,–zur Ermöglichung der Produktanpassungen und der Aktualisierung der Gebrauchsanweisung und weiterer Herstellerinformationen,–zur Durchführung von Präventiv-, Korrektur- oder Schutzmaßnahmen und–zur Ermöglichung der Verbesserung der Funktionstauglichkeit und der Sicherheit des Produktes.3.ProduktüberwachungDer Hersteller hat einen Durchführungsplan zur Produktüberwachung erstellt und umgesetzt. Der Plan enthält insbesondere: –eine systematische Zusammenstellung der verfügbaren zu erhebenden und zu verwendenden Informationen zu Vorkommnissen sowie zu unerwünschten Folgen der Nutzung und sonstigen produktrelevanten Ereignissen,–Informationen zu den verwendeten Erkenntnisquellen einschließlich individueller Beschwerden der Pflegebedürftigen und weiteren Nutzer,–Informationen zum Verfahren der systematischen Auswertung der vorhandenen Informationen und Daten,–Angaben zur Dokumentation der Durchführung der Produktüberwachung und–eine Beschreibung der Prozesse zur Umsetzung der Erkenntnisse aus der Auswertung der vorhandenen Informationen einschließlich der Information betroffener Nutzer und Nutzergruppen sowie der Durchführung erforderlicher Produktanpassungen.4.ProduktüberwachungDer Hersteller erstellt einen regelmäßigen Bericht über die Durchführung der Produktüberwachung sowie über etwaige Maßnahmen in Folge der Produktüberwachung. Er legt diesen Bericht auf Verlangen des Bundesinstituts für Arzneimittel und Medizinprodukte diesem vor.5.ProduktüberwachungSoweit für das Produkt nach anderweitigen Vorgaben Verpflichtungen zur Überwachung und Meldung von Risikovorfällen an die zuständigen Behörden bestehen, setzt der Hersteller Prozesse zur Umsetzung der rechtlichen Verpflichtungen um.Es bestehen keine rechtlichen Verpflichtungen zur Überwachung oder Meldung von Risikovorfällen.
 
-##### Anlage 2 Fragebogen gemäß den §§ 6 und 7
+###### Anlage 2 Fragebogen gemäß den §§ 6 und 7
 
 (Fundstelle: BGBl. I 2022, 1594 - 1602; 
  bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -545,4 +585,3 @@ Mit dem nachfolgend aufgeführten Fragebogen hat der Hersteller die Erfüllung d
  zu-
  treffendzulässige Begründung
  für „nicht zutreffend“**I. Themenfeld: Interoperabilität**Können Pflegebedürftige die über die digitale Pflegeanwendung verarbeiteten Daten in einem interoperablen Format aus der digitalen Pflegeanwendung exportieren?1.§ 6 Absatz 1 und § 7Ja, die über die digitale Pflegeanwendung verarbeiteten Daten können durch Pflegebedürftige und weitere Nutzer aus der digitalen Pflegeanwendung in einem interoperablen Format (Syntax und Semantik) exportiert und diesen für die weitere Nutzung bereitgestellt werden. Die Übermittlung erfolgt •in einem offenen anerkannten internationalen Standard, oder•in einem vom Hersteller offen gelegten Profil über einen offenen anerkannten internationalen Standard, sofern kein entsprechender Standard vorhanden ist.Der Export in einem interoperablen Format kann, soweit vorhanden, gemäß einer Festlegung für die semantische und syntaktische Interoperabilität von Daten der elektronischen Patientenakte nach § 355 Absatz 2a des Fünften Buches Sozialgesetzbuch erfolgen.Können Pflegebedürftige die über die digitale Pflegeanwendung verarbeiteten Daten in einer für die Versorgung nutzbaren Form aus der digitalen Pflegeanwendung exportieren?2.§ 6 Absatz 1 und § 7Ja, Pflegebedürftige können für ihre Versorgung relevante Auszüge der über die digitale Pflegeanwendung verarbeiteten Gesundheitsdaten aus der digitalen Pflegeanwendung exportieren. Der Export erfolgt in einem menschenlesbaren und ausdruckbaren Format und berücksichtigt den Versorgungskontext, in dem die digitale Pflegeanwendung gemäß ihrer Zweckbestimmung typischerweise zum Einsatz kommt.Verfügt die digitale Pflegeanwendung über standardisierte Schnittstellen zu persönlichen Medizingeräten?3.§ 6 Absatz 1 und § 7Ja, die digitale Pflegeanwendung ist in der Lage, Daten aus von Pflegebedürftigen genutzten Medizingeräten oder vom Versicherten getragenen Sensoren zur Messung und Übertragung von Vitalwerten (Wearables) zu erfassen, und unterstützt hierzu ein offengelegtes und dokumentiertes Profil der DIN EN ISO/IEEE 11073 Normenfamilie. Sofern ein solch geeignetes Profil nicht vorliegt, unterstützt die digitale Pflegeanwendung eine andere offengelegte und dokumentierte Schnittstelle, welche auf der Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch empfohlen ist.Im Rahmen der bestimmungsgemäßen Nutzung der digitalen Pflegeanwendung ist nicht vorgesehen, dass die digitale Pflegeanwendung Daten mit von Pflegebedürftigen genutzten Medizingeräten oder mit von Pflegebedürftigen getragenen Sensoren zur Messung und Übertragung von Vitalwerten (Wearables) austauscht.Sofern eine solche geeignete Schnittstelle nicht vorliegt, unterstützt die digitale Pflegeanwendung eine andere offengelegte und dokumentierte Schnittstelle, welche entweder auf der Plattform nach § 385 Absatz 1 Satz 2 Nummer 5 des Fünften Buches Sozialgesetzbuch gelistet ist oder für welche vom Hersteller ein entsprechender Antrag gestellt wurde.Sind die für die Herstellung der Interoperabilität der digitalen Pflegeanwendung genutzten Standards und Profile veröffentlicht und können diskriminierungsfrei genutzt werden?4.§ 6 Absatz 1 und § 7Ja, die für die Herstellung der Interoperabilität der digitalen Pflegeanwendung genutzten Standards und Profile sind vollständig veröffentlicht, auf der Anwendungswebseite verlinkt, können diskriminierungsfrei genutzt und von Dritten in ihren Systemen implementiert werden.5.§ 7Ja, sofern der Hersteller eigene Profilierungen vorgenommen hat, sind diese in einem anerkannten Verzeichnis veröffentlicht.Der Hersteller hat keine eigenen Profilierungen vorgenommen.**II. Themenfeld: Robustheit**Ist die digitale Pflegeanwendung robust gegen Störungen und Fehlbedienungen?1.§ 6 Absatz 2Ja, ein plötzlicher Ausfall der Stromversorgung führt nicht zu einem Verlust von Daten.2.§ 6 Absatz 2Ja, ein plötzlicher Ausfall der Internetverbindung führt nicht zu einem Verlust von Daten.3.§ 6 Absatz 2Ja, die digitale Pflegeanwendung prüft die Plausibilität von Messungen, Eingaben und anderen Daten aus externen Quellen.Die digitale Pflegeanwendung ist nicht in der Lage, Daten aus Medizingeräten, aus Sensoren oder aus anderen externen Quellen zu erfassen.4.§ 6 Absatz 2Ja, die digitale Pflegeanwendung beinhaltet Funktionen zum Testen und/oder zum Kalibrieren angebundener Medizingeräte und Sensoren.Die digitale Pflegeanwendung ist nicht in der Lage, Daten aus Medizingeräten oder aus Sensoren zu erfassen.5.§ 6 Absatz 2Ja, die digitale Pflegeanwendung berücksichtigt das Interaktionsprinzip der Robustheit gegen Benutzungsfehler, was sich insbesondere darin zeigt, dass sie so ausgelegt ist, dass der Nutzer auch bei fehlerhaften Eingaben mit keinem oder nur geringem Korrekturaufwand die Aufgabe erledigen kann.**III. Themenfeld: Verbraucherschutz**Erhalten Pflegebedürftige alle Informationen, die sie für eine Nutzungsentscheidung brauchen, bevor Verpflichtungen gegenüber dem Hersteller oder einem Dritten eingegangen werden?1.§ 6 Absatz 3Ja, in den Informationen zur digitalen Pflegeanwendung auf der Vertriebsplattform oder auf der Anwendungswebseite oder im Zusammenhang mit einem Speichermedium ist der Funktionsumfang vollständig beschrieben und die Zweckbestimmung ist vollständig wiedergegeben.2.§ 6 Absatz 3Ja, in den Informationen zur digitalen Pflegeanwendung auf der Vertriebsplattform oder auf der Anwendungswebseite oder im Zusammenhang mit einem Speichermedium ist klar erkennbar, welche Funktionen mit dem Download oder der Nutzung der Pflegeanwendung verfügbar sind und welche Funktionen zu welchem Preis, z. B. als In-App-Käufe oder Funktionsweiterleitungen, hinzugekauft werden können bzw. müssen.Wird die Kompatibilität der digitalen Pflegeanwendungen zu Systemen und Geräten transparent kommuniziert?3.§ 6 Absatz 3Ja, der Hersteller der digitalen Pflegeanwendung veröffentlicht auf der Anwendungswebseite, auf der Vertriebsplattform oder im Zusammenhang mit einem Speichermedium eine Liste mit Kompatibilitätszusagen bezüglich Betriebssystemversionen, mobilen Endgeräten, Webbrowsern und Webbrowserversionen sowie in Bezug auf weitere erforderliche oder optional nutzbare Geräte. Der Hersteller hält diese Liste aktuell.Bei der Nutzung der digitalen Pflegeanwendung sind durch die Pflegebedürftigen und die weiteren Nutzer keine Kompatibilitäten zu beachten.Veröffentlicht der Hersteller die Zweckbestimmung der digitalen Pflegeanwendung?4.§ 6 Absatz 3Ja, die Zweckbestimmung nach dieser Verordnung für Anwendungen, die keine Medizinprodukte sind, oder nach Artikel 2 Nummer 12 der Verordnung (EU)2017/745 für Medizinprodukte ist im Impressum der digitalen Pflegeanwendung veröffentlicht.Sind die Nutzungskonditionen der digitalen Pflegeanwendung verbraucherfreundlich gestaltet?5.§ 6 Absatz 4Ja, die digitale Pflegeanwendung ist werbefrei ausgestaltet.6.§ 6 Absatz 3Ja, die digitale Pflegeanwendung enthält keine für Pflegebedürftige und weitere Nutzer intransparenten Angebote, wie z. B. sich automatisch verlängernde Abonnements oder zeitlich befristete Sonderangebote.7.§ 6 Absatz 3Ja, die digitale Pflegeanwendung enthält Maßnahmen zum Schutz der Nutzer vor unbeabsichtigten In-App-Käufen oder bietet keine In-App-Käufe an.Setzt der Hersteller der digitalen Pflegeanwendung Maßnahmen zur Unterstützung der Pflegebedürftigen und der weiteren Nutzer um?8.§ 6 Absatz 5Ja, der Hersteller stellt zur Unterstützung der Pflegebedürftigen und der weiteren Nutzer eine kostenlose deutschsprachige Anwenderbetreuung •bei der Bedienung der digitalen Pflegeanwendung und•zur Beantwortung von Anfragen spätestens innerhalb von 24 Stundenzur Verfügung.**IV. Themenfelder: Altersgerechte Nutzbarkeit, Nutzerfreundlichkeit und Barrierefreiheit**Ist die digitale Pflegeanwendung so hergestellt und ausgelegt, dass sie für die in der Zweckbestimmung festgelegte(n) Nutzergruppe(n) im spezifischen Nutzungskontext ihre Zweckbestimmung erfüllt? 1.§ 6 Absatz 5Ja, die digitale Pflegeanwendung ist so ausgelegt und hergestellt, dass sie ihre Zweckbestimmung unter Berücksichtigung der Fähigkeiten, Kenntnisse und Kompetenzen der festgelegte(n) Nutzergruppe(n), z. B. pflegebedürftigen Menschen mit Behinderungen, sowie der Auswirkungen der normalerweise zu erwartenden Schwankungen in der Umgebung der Nutzer erfüllen kann. Dies gilt vor allem in Anwendungssituationen, bei denen solche Schwankungen die erfolgreiche Nutzung der digitalen Pflegeanwendung gefährden oder die Pflegebedürftigen und weiteren Nutzer dadurch sogar zu Schaden kommen könnten (Worst-Case-Szenario). Zu erwartende Schwankungen in der Umgebung sind beispielsweise Änderungen der Lichtverhältnisse (Displays sind im direkten Sonnenlicht schwer zu lesen, also sollte die Helligkeit des Displays angepasst werden können) oder der Umgebungsgeräusche (auditiv vermittelte Informationen oder Informations-/Warn-Töne sind schwerer zu hören, es sollte die Lautstärke erhöht werden können). 2.§ 6 Absatz 5Ja, eine formative Evaluation wurde mindestens einmal in der Entwicklungsphase einer digitalen Pflegeanwendung in einer simulierten oder tatsächlichen Anwenderumgebung durchgeführt, z. B. als Cognitive Walkthrough, also als analytisches Durchdenken, Evaluation und Inspektion eines Problems im Gegensatz zu einem empirischen Testverfahren. 3.§ 6 Absatz 5Ja, eine summative Validierung wurde mit einer ausreichenden Anzahl von repräsentativen Vertretern der vorgesehenen Nutzergruppe(n), z. B. Menschen mit Behinderungen, in einer simulierten oder tatsächlichen Anwenderumgebung durchgeführt. Die Wahl der Anzahl der Vertreter ist nachvollziehbar begründet, die Validierung sollte mit jeweils mindestens fünf repräsentativen Vertretern durchgeführt werden.Ist die digitale Pflegeanwendung für die vorgesehene(n) Nutzergruppe(n) in der spezifischen Nutzungsumgebung effizient, effektiv und zufriedenstellend nutzbar? 4.§ 6 Absatz 5Ja, die digitale Pflegeanwendung berücksichtigt das Interaktionsprinzip der Aufgabenangemessenheit, was sich insbesondere darin zeigt, dass sie die Nutzer, insbesondere pflegebedürftige Menschen mit Behinderungen, durch Vermeiden unnötiger Schritte bei der Erfüllung der Zweckbestimmung unterstützt. 5.§ 6 Absatz 5Ja, die digitale Pflegeanwendung berücksichtigt das Interaktionsprinzip der Selbstbeschreibungsfähigkeit, was sich insbesondere darin zeigt, dass den Nutzern in jeder Benutzungssituation angezeigt wird, wo sie sich innerhalb des Systems befinden, wie der Status des Systems ist und welche Aktionen durchgeführt werden können. 6.§ 6 Absatz 5Ja, die digitale Pflegeanwendung berücksichtigt das Interaktionsprinzip der Erwartungskonformität, was sich insbesondere darin zeigt, dass sie konsistent und so gestaltet ist, wie es im Hinblick auf die Bedürfnisse und Gewohnheiten der maßgeblichen Nutzergruppen erforderlich ist. 7.§ 6 Absatz 5Ja, die digitale Pflegeanwendung berücksichtigt das Interaktionsprinzip der Erlernbarkeit, was sich insbesondere darin zeigt, dass sie die Nutzer dabei unterstützt, die Benutzung zu erlernen. 8.§ 6 Absatz 5Ja, die digitale Pflegeanwendung berücksichtigt das Interaktionsprinzip der Steuerbarkeit, was sich insbesondere darin zeigt, dass es für die Nutzer die Möglichkeit gibt, die Interaktion zu starten, zu unterbrechen oder zu beenden, Richtung und Geschwindigkeit zu beeinflussen sowie das System an ihre individuellen Anforderungen anzupassen. 9.§ 6 Absatz 5Ja, die digitale Pflegeanwendung ist im Hinblick auf die vom Hersteller für die maßgeblichen Nutzergruppen identifizierten Gewohnheiten und Bedürfnisse ansprechend, einladend und vertrauenswürdig ausgestaltet (gemessen an Usability, User Experience und Joy of Use in Anlehnung an das Grundkonzept der DIN EN ISO 9241-110-Normenfamilie).10.§ 6 Absatz 5Ja, die zufriedenstellende Nutzbarkeit der digitalen Pflegeanwendung wurde im Rahmen einer (Online-)Befragung von repräsentativen Vertretern der vorgesehenen Nutzergruppe(n) bestätigt.Ist die digitale Pflegeanwendung leicht und intuitiv nutzbar?11.§ 6 Absatz 5Ja, die sog. Usability Styleguides der jeweiligen Betriebssysteme der mobilen Endgeräte sind vollständig umgesetzt oder es wurden alternative Lösungen umgesetzt, für die im Rahmen von Nutzertests eine besonders hohe Nutzerfreundlichkeit nachgewiesen werden konnte.Die digitale Pflegeanwendung wird nicht über eine Vertriebsplattform des Herstellers mobiler Endgeräte vertrieben oder über eine Plattform für mobile Anwendungen angeboten.12.§ 6 Absatz 5Ja, die leichte und intuitive Nutzbarkeit der digitalen Pflegeanwendung wurde im Rahmen von Tests mit die Zielgruppe repräsentierenden Fokusgruppen bestätigt.13.§ 6 Absatz 6Ja, die digitale Pflegeanwendung bietet Bedienhilfen für pflegebedürftige Menschen mit Einschränkungen oder unterstützt die durch die Plattform angebotenen Bedienhilfen. Insbesondere werden die aktuellsten Empfehlungen der DIN EN ISO 9241-171-Normenfamilie berücksichtigt.Ist die digitale Pflegeanwendung barrierefrei, auch bei Vorliegen kombinierter Beeinträchtigungen und gesundheitlich bedingter Belastungen im Sinne der Pflegebedürftigkeit im Pflegeversicherungsrecht?14.§ 6 Absatz 6Ja, die digitale Pflegeanwendung bietet allen Nutzern auf mehr als eine Art die Möglichkeit, auf der Benutzeroberfläche (User Interface) visuelle und die Interaktionsmöglichkeiten betreffende Anpassungen vorzunehmen.15.§ 6 Absatz 6Ja, die digitale Pflegeanwendung bietet Informationen auf mehr als eine Art der Interaktion an.**V. Themenfeld: Unterstützung der Pflegebedürftigen und der Nutzer**Informiert und unterstützt die digitale Pflegeanwendung Pflegebedürftige bei der Nutzung der digitalen Pflegeanwendung?1.§ 6 Absatz 3 und 5Ja, der Hersteller stellt den Pflegebedürftigen notwendiges Erklärungs-, Schulungs- und Trainingsmaterial etwa als schriftliche Anleitung oder Videoanleitung vor Beginn der Nutzung zur Verfügung.2.§ 6 Absatz 3 und 5Ja, der Hersteller stellt den Pflegebedürftigen notwendiges Erklärungs-, Schulungs- und Trainingsmaterial anlassbezogen als schriftliche Anleitung oder Videoanleitung für die Bewältigung konkreter Pflegesituationen zur Verfügung.Informiert und unterstützt die digitale Pflegeanwendung Nutzer, die in die Nutzung mit eingebunden sind?3.§ 6 Absatz 7Ja, der Hersteller der digitalen Pflegeanwendung stellt erklärende und schulende Informationen bereit, in denen die begleitende Nutzung der App durch weitere Nutzer und auch die zugrunde gelegten Rollen für alle verständlich beschrieben sind.Für die Nutzung der digitalen Pflegeanwendung ist keine Einbindung von weiteren Nutzern vorgesehen.4.§ 6 Absatz 7Ja, der Hersteller der digitalen Pflegeanwendung stellt anleitende und einweisende Informationen für eingebundene Nutzer bereit. Die Informationen sollen den eingebundenen Nutzern helfen, den Pflegebedürftigen bei der Nutzung der digitalen Pflegeanwendung zu unterstützen.Für die Nutzung der digitalen Pflegeanwendung ist keine Einbindung von weiteren Nutzern vorgesehen.5.§ 6 Absatz 7Ja, Pflegebedürftige und bereits eingebundene Nutzer können im Rahmen der bestehenden Vergütung einen eigenen Datenzugang für weitere einzubeziehende Nutzer freischalten bzw. Daten sicher an diese übermitteln.Für die Nutzung der digitalen Pflegeanwendung ist keine Einbindung von weiteren Nutzern vorgesehen.**VI. Themenfeld: Qualität der pflegebezogenen Inhalte**Baut die digitale Pflegeanwendung auf gesichertem pflegerisch-medizinischem Wissen auf und macht dieses transparent? 1.§ 6 Absatz 8Ja, die umgesetzten pflegewissenschaftlichen Inhalte und Verfahren beruhen auf dem allgemein anerkannten fachlichen Standard. 2.§ 6 Absatz 8Ja, der Hersteller hat geeignete Prozesse etabliert, um die in der digitalen Pflegeanwendung umgesetzten pflegewissenschaftlichen Inhalte und Verfahren auf aktuellem Stand zu halten. 3.§ 6 Absatz 8Ja, die Quellen für die in der digitalen Pflegeanwendung umgesetzten pflegewissenschaftlichen Inhalte und Verfahren, beispielsweise Expertenstandards, Lehrwerke und Studien, sind veröffentlicht und in der digitalen Pflegeanwendung oder auf einer aus der digitalen Pflegeanwendung heraus verlinkten Webseite benannt. 4.§ 6 Absatz 8Ja, die Studien, die mit der digitalen Pflegeanwendung durchgeführt wurden, sind veröffentlicht und in der digitalen Pflegeanwendung oder auf einer aus der digitalen Pflegeanwendung heraus verlinkten Webseite benannt. 5.§ 6 Absatz 8Ja, mögliche Interessenkonflikte der Verfasser der pflegebezogenen Informationen, insbesondere materieller Art (z. B. Sponsoring), werden benannt.Interessenkonflikte der Verfasser der pflegebezogenen Informationen bestehen nicht.Sind die pflegebezogenen Informationen, mit denen die digitale Pflegeanwendung die Pflegebedürftigen und die Nutzer unterstützt, geeignet? 6.§ 6 Absatz 8Ja, die in der digitalen Pflegeanwendung angebotenen pflegebezogenen Informationen sind aktuell und beruhen auf dem allgemein anerkannten fachlichen Standard.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an. 7.§ 6 Absatz 8Ja, der Hersteller hat geeignete Prozesse etabliert, um die in der digitalen Pflegeanwendung angebotenen pflegebezogenen Informationen auf aktuellem Stand zu halten.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an. 8.§ 6 Absatz 8Ja, die Quellen für die in der digitalen Pflegeanwendung angebotenen pflegebezogenen Informationen sind veröffentlicht und in der digitalen Pflegeanwendung oder auf einer aus der digitalen Pflegeanwendung heraus verlinkten Webseite benannt.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an. 9.§ 6 Absatz 8Ja, die in der digitalen Pflegeanwendung gegebenen pflegebezogenen Informationen sind zielgruppengerecht ausgewählt. Relevante Alters- und Geschlechtsunterschiede wurden berücksichtigt.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an.10.§ 6 Absatz 8Ja, die pflegebezogenen Informationen werden in der digitalen Pflegeanwendung so dargestellt, dass die Aufmerksamkeit der Pflegebedürftigen und der Nutzer zur erforderlichen Information gelenkt wird.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an.11.§ 6 Absatz 8Ja, die pflegebezogenen Informationen werden in der digitalen Pflegeanwendung so dargestellt, dass erforderliche Informationen von Pflegebedürftigen und Nutzern wahrgenommen werden, ohne dass weitere dargestellte Informationen ihre Wahrnehmbarkeit stören.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an.12.§ 6 Absatz 8Ja, die pflegebezogenen Informationen werden in der digitalen Pflegeanwendung so dargestellt, dass eigenständige Elemente oder Gruppen von Elementen durch die Pflegebedürftigen und Nutzer genau voneinander unterschieden werden können. Die Zuordnung und Unterscheidung der Informationselemente von anderen Elementen wird unterstützt.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an.13.§ 6 Absatz 8Ja, der Hersteller hat geprüft, dass die pflegebezogenen Informationen in der digitalen Pflegeanwendung so dargestellt sind, dass die Informationen wie von ihm vorgesehen auch von den Pflegebedürftigen und Nutzern verstanden werden.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an.14.§ 6 Absatz 8Ja, es werden nur notwendige pflegebezogene Informationen in der digitalen Pflegeanwendung dargestellt.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an.15.§ 6 Absatz 8Ja, die pflegebezogenen Informationen werden in der digitalen Pflegeanwendung so dargestellt, dass Informationselemente mit ähnlichem Zweck ähnlich dargestellt werden.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an.16.§ 6 Absatz 5 und 6Ja, bei der visuellen Darstellung von Informationen in der digitalen Pflegeanwendung ist die Anzahl an Farben und deren Verwendung auf die Umsetzung von Gestaltungszielen beschränkt. Die Zuordnung der Farben erfolgte entsprechend der kulturellen Konventionen.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an.17.§ 6 Absatz 5 und 6Ja, bei der auditiven Darstellung von Informationen wurde insbesondere auf kurze, einfache und allgemeinverständliche Informationen geachtet und entsprechend der Prinzipien der „Einfachen Sprache“ umgesetzt.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an.Werden die pflegebezogenen Informationen, mit denen die digitale Pflegeanwendung die Pflegebedürftigen und die Nutzer unterstützt, mit Hilfe didaktischer Verfahren vermittelt?18.§ 6 Absatz 8Ja, es werden in der digitalen Pflegeanwendung didaktische Verfahren zur Vertiefung und Verstärkung des angebotenen pflegebezogenen Wissens umgesetzt.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an.19.§ 6 Absatz 8Ja, die pflegebezogenen Informationen werden anlassbezogen und im Kontext der jeweiligen Nutzung der digitalen Pflegeanwendung angeboten.Die digitale Pflegeanwendung bietet keine pflegebezogenen Informationen an.**Ergänzende Anforderungen: Sicherheit der Pflegebedürftigen (Patientensicherheit)**Setzt der Hersteller geeignete Maßnahmen zur Verbesserung der Sicherheit der Pflegebedürftigen und der Nutzer um?1.§ 6 Absatz 9Ja, der Hersteller stellt bereits auf der Vertriebsplattform bzw. vor dem Start der Webanwendung deutlich heraus, welche Pflegebedürftigen und welche Nutzer die digitale Pflegeanwendung aufgrund von Einschränkungen nicht nutzen sollten.2.§ 6 Absatz 9Ja, in der digitalen Pflegeanwendung werden den Pflegebedürftigen und Nutzern kontextsensitive Hinweise auf Risiken gegeben sowie Hinweise auf geeignete Maßnahmen zu deren Abschwächung oder Vermeidung.3.§ 6 Absatz 9Ja, im Kontext von kritischen Messwerten oder Analyseergebnissen wird in der digitalen Pflegeanwendung deutlich auf das Erfordernis der Rücksprache mit einer medizinisch geschulten Person hingewiesen.Es werden keine kritischen Messwerte oder Analyseergebnisse verwendet.4.§ 6 Absatz 9Ja, die digitale Pflegeanwendung empfiehlt den Pflegebedürftigen und den Nutzern bei Feststellung eines in der Anwendung vordokumentierten risikobehafteten Zustands der nutzenden Person einen Abbruch der Nutzung oder eine Veränderung in der Nutzung der digitalen Pflegeanwendung.5.§ 6 Absatz 9Ja, für alle Werte, die von Pflegebedürftigen und Nutzern eingegeben, über die angebundenen Medizingeräte oder Sensoren erhoben oder aus sonstigen externen Quellen übernommen werden, sind in der digitalen Pflegeanwendung Konsistenzbedingungen definiert, die vor der Verwendung eines Werts jeweils abgeprüft werden.6.§ 6 Absatz 9Ja, Fehlermeldungen sind in der digitalen Pflegeanwendung so gestaltet, dass der Pflegebedürftige und die Nutzer verstehen können, wo der Fehler lag und wie sie selbst dazu beitragen können, diesen zukünftig zu vermeiden.
-
