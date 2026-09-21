@@ -4,24 +4,28 @@ identifier: "PTA-APRV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "1997-09-23"
-last_updated: "2026-04-04"
+last_updated: "2026-09-21"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/pta-aprv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR235200997"
 slug: "pta-aprv"
 bgbl_reference: "BGBl I 1997, 2352"
-stand: "Zuletzt geändert durch Art. 14 V v. 7.6.2023 I Nr. 148"
+stand: "Zuletzt geändert durch Art. 3 V v. 16.9.2026 I Nr. 266"
 ---
 # Ausbildungs- und Prüfungsverordnung für pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische Assistenten
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 7 des Gesetzes über den Beruf des pharmazeutisch-technischen Assistenten vom 18. März 1968 (BGBl. I S. 228), der durch Artikel 2 des Gesetzes vom 23. August 1994 (BGBl. I S. 2189) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
-##### § 1 Ausbildung
+###### § 1 Ausbildung
 
 (1) Die Ausbildung für pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische Assistenten umfaßt:
 
@@ -43,13 +47,13 @@ Die Ausbildung schließt mit der staatlichen Prüfung ab.
 
 (4) Die praktische Ausbildung in der Apotheke nach Absatz 1 Satz 1 Nr. 4 erstreckt sich auf die in Anlage 1 Teil C aufgeführten Lerngebiete. Sie dient der Vorbereitung auf den zweiten Prüfungsabschnitt und darf nur Tätigkeiten umfassen, die die Ausbildung fördern. Insbesondere sollen die in der schulischen Ausbildung erworbenen pharmazeutischen Kenntnisse vertieft und praktisch angewendet werden. In einem Tagebuch sind die Herstellung und Prüfung von je vier Arzneimitteln zu beschreiben und zu zwei weiteren Gebieten der praktischen Ausbildung schriftliche Arbeiten, insbesondere zur Abgabe einschließlich Information und Beratung, anzufertigen. Über die regelmäßige Teilnahme an der praktischen Ausbildung in der Apotheke erhält die oder der Auszubildende eine Bescheinigung nach dem Muster der Anlage 4.
 
-##### § 2 Staatliche Prüfung
+###### § 2 Staatliche Prüfung
 
 (1) Die staatliche Prüfung nach § 1 Abs. 1 Satz 2 besteht aus zwei Abschnitten. Der erste Abschnitt der Prüfung findet am Ende der zweijährigen schulischen Ausbildung statt. Er umfaßt einen schriftlichen, mündlichen und praktischen Teil. Der zweite Abschnitt der Prüfung findet nach Abschluß der praktischen Ausbildung in der Apotheke statt; er besteht aus einer mündlichen Prüfung.
 
 (2) Die zu prüfende Person legt die Prüfung bei der Schule ab, an der sie die schulische Ausbildung abschließt. Die zuständige Behörde, in deren Bereich die Prüfung oder ein Teil der Prüfung abgelegt werden soll, kann aus wichtigem Grund Ausnahmen zulassen. Die Vorsitzenden der beteiligten Prüfungsausschüsse sind vorher zu hören.
 
-##### § 3 Prüfungsausschuß
+###### § 3 Prüfungsausschuß
 
 (1) Bei jeder Schule ist ein Prüfungsausschuss zu bilden, der aus folgenden Mitgliedern besteht:
 
@@ -71,7 +75,7 @@ Dem Prüfungsausschuss sollen diejenigen Lehrkräfte angehören, die die zu prü
 
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur Teilnahme an allen Prüfungsvorgängen entsenden.
 
-##### § 4 Zulassung zur Prüfung
+###### § 4 Zulassung zur Prüfung
 
 (1) Die oder der Vorsitzende entscheidet auf Antrag der zu prüfenden Person über die Zulassung zum ersten und zweiten Abschnitt der Prüfung und setzt die Prüfungstermine im Benehmen mit der Schulleitung fest. Der Prüfungsbeginn für den ersten Prüfungsabschnitt soll nicht früher als zwei Monate vor dem Ende der schulischen Ausbildung liegen.
 
@@ -97,7 +101,7 @@ Dem Prüfungsausschuss sollen diejenigen Lehrkräfte angehören, die die zu prü
 
 (5) (weggefallen)
 
-##### § 4a Nachteilsausgleich
+###### § 4a Nachteilsausgleich
 
 (1) Die besonderen Belange von zu prüfenden Personen mit Behinderung oder Beeinträchtigung sind zur Wahrung ihrer Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
 
@@ -111,13 +115,13 @@ Dem Prüfungsausschuss sollen diejenigen Lehrkräfte angehören, die die zu prü
 
 (6) Die Entscheidung der zuständigen Behörde wird der zu prüfenden Person in geeigneter Weise bekannt gegeben.
 
-##### § 5 Niederschrift
+###### § 5 Niederschrift
 
 Über die Prüfung in jedem Fach ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-##### § 6 (weggefallen)
+###### § 6 (weggefallen)
 
-##### § 7 Bestehen und Wiederholung der Prüfung
+###### § 7 Bestehen und Wiederholung der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 2 Abs. 1 Satz 3 für den ersten Prüfungsabschnitt vorgeschriebenen Teile und der zweite Prüfungsabschnitt nach § 2 Abs. 1 Satz 4 bestanden sind.
 
@@ -129,30 +133,30 @@ Dem Prüfungsausschuss sollen diejenigen Lehrkräfte angehören, die die zu prü
 
 (5) Hat die zu prüfende Person mehr als zwei Aufsichtsarbeiten der schriftlichen Prüfung, die gesamte mündliche Prüfung nach § 13, mehr als ein Fach der praktischen Prüfung oder die Prüfung nach § 15 zu wiederholen, so darf sie zur Wiederholungsprüfung nur zugelassen werden, wenn sie an einer weiteren Ausbildung teilgenommen hat, deren Dauer und Inhalt vom Vorsitzenden des Prüfungsausschusses im Benehmen mit den Fachprüfern und den Beisitzern bestimmt werden. Die weitere Ausbildung nach Satz 1 darf einschließlich der für die Prüfung erforderlichen Zeit die Dauer von einem Jahr nicht überschreiten. Ein Nachweis über die weitere Ausbildung ist dem Antrag der zu prüfenden Person auf Zulassung zur Wiederholungsprüfung beizufügen. Die Wiederholungsprüfung muß spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein, in begründeten Fällen kann die zuständige Behörde Ausnahmen zulassen. Eine weitere Ausbildung ist auch in allen Fächern zu absolvieren, in denen die Prüfung zweimal nicht bestanden wurde; die Sätze 1 bis 4 finden entsprechende Anwendung.
 
-##### § 8 Rücktritt von der Prüfung
+###### § 8 Rücktritt von der Prüfung
 
 (1) Tritt eine zu prüfende Person nach ihrer Zulassung von der Prüfung zurück, so hat sie die Gründe für ihren Rücktritt unverzüglich der oder dem Vorsitzenden des Prüfungsausschusses schriftlich mitzuteilen. Genehmigt der Vorsitzende den Rücktritt, so gilt die Prüfung als nicht unternommen. Die Genehmigung ist zu erteilen, wenn wichtige Gründe vorliegen. Im Falle einer Krankheit kann die Vorlage einer ärztlichen Bescheinigung verlangt werden.
 
 (2) Wird die Genehmigung für den Rücktritt nicht erteilt oder unterläßt es die zu prüfende Person, die Gründe für ihren Rücktritt unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. § 7 Abs. 4 gilt entsprechend.
 
-##### § 9 Versäumnisfolgen
+###### § 9 Versäumnisfolgen
 
 (1) Versäumt eine zu prüfende Person einen Prüfungstermin oder gibt sie eine Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht sie die Prüfung, so gilt die Prüfung als nicht bestanden, wenn nicht ein wichtiger Grund vorliegt; § 7 Abs. 4 gilt entsprechend. Liegt ein wichtiger Grund vor, so gilt die Prüfung als nicht unternommen.
 
 (2) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft der Vorsitzende des Prüfungsausschusses. § 8 Abs. 1 Satz 1 und 4 gilt entsprechend.
 
-##### § 10 Ordnungsverstöße und Täuschungsversuche
+###### § 10 Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei zu prüfenden Personen, die die ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört oder sich eines Täuschungsversuchs schuldig gemacht haben, den betreffenden Teil der Prüfung für "nicht bestanden" erklären; § 7 Abs. 4 gilt entsprechend. Eine solche Entscheidung ist im Falle der Störung der Prüfung nur bis zum Abschluß der gesamten Prüfung, im Falle eines Täuschungsversuchs nur innerhalb von drei Jahren nach Abschluß der Prüfung zulässig.
 
-##### § 11 Prüfungsunterlagen
+###### § 11 Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und Prüfungsniederschriften zehn Jahre aufzubewahren.
 
 ## Abschnitt 2 Prüfungsbestimmungen für die
 Ausbildung zu pharmazeutisch-technischen Assistenten
 
-##### § 12 Schriftlicher Teil der Prüfung
+###### § 12 Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -168,7 +172,7 @@ Die zu prüfende Person hat in jedem Fach in jeweils einer Aufsichtsarbeit ein T
 
 (2) Die Aufgaben für die Aufsichtsarbeiten werden von dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Fachprüfer gestellt. Jede Aufsichtsarbeit ist von zwei Fachprüferinnen oder Fachprüfern zu benoten. Die oder der Vorsitzende des Prüfungsausschusses bildet aus den Noten der Fachprüferinnen und Fachprüfer als das arithmetische Mittel die Note für die einzelne Aufsichtsarbeit. Dem berechneten Zahlenwert ist die entsprechende Note nach § 15a zuzuordnen. Der schriftliche Teil der Prüfung ist bestanden, wenn die Prüfungsleistung in jedem Fach mit mindestens „ausreichend“ bewertet wird. Anschließend bildet die oder der Vorsitzende des Prüfungsausschusses für jedes Prüfungsfach aus dem berechneten Zahlenwert jeweils unter Berücksichtigung der in Zahlenwerten ausgedrückten Vornote nach § 15b den berechneten Zahlenwert für die Prüfungsnote nach § 15c. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert für die einzelne Prüfungsnote ist die entsprechende Note nach § 15a für den jeweiligen schriftlichen Teil der Prüfung zuzuordnen.
 
-##### § 13 Mündlicher Teil der Prüfung
+###### § 13 Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -182,7 +186,7 @@ Die zu prüfenden Personen werden einzeln oder in Gruppen bis zu vier geprüft. 
 
 (2) Jedes einzelne Fach wird von zwei Fachprüferinnen oder Fachprüfern abgenommen und benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen. Ihr oder ihm steht kein Fragerecht zu. Die oder der Prüfungsausschussvorsitzende bildet die Note für die Leistung in dem jeweiligen Prüfungsfach als das arithmetische Mittel der Noten der einzelnen Fachprüferinnen und Fachprüfer. Dem berechneten Zahlenwert ist die entsprechende Note nach § 15a zuzuordnen. Der mündliche Teil der Prüfung ist bestanden, wenn die Prüfungsleistung in jedem Fach mit mindestens „ausreichend“ bewertet wird. Anschließend bildet die oder der Vorsitzende des Prüfungsausschusses für jedes Prüfungsfach aus dem berechneten Zahlenwert jeweils unter Berücksichtigung der in Zahlenwerten ausgedrückten Vornote nach § 15b den berechneten Zahlenwert für die Prüfungsnote nach § 15c. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert für die einzelne Prüfungsnote ist die entsprechende Note nach § 15a für den jeweiligen mündlichen Teil der Prüfung zuzuordnen.
 
-##### § 14 Praktischer Teil der Prüfung
+###### § 14 Praktischer Teil der Prüfung
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -199,7 +203,7 @@ Die zu prüfenden Personen werden einzeln oder in Gruppen bis zu vier geprüft. 
 ## Abschnitt 3 Prüfungsbestimmungen für die
 Ausbildung zu pharmazeutisch-technischen Assistenten
 
-##### § 15 Apothekenpraxis
+###### § 15 Apothekenpraxis
 
 (1) Der zweite Prüfungsabschnitt erstreckt sich auf die Prüfung des Fachs "Apothekenpraxis", einschließlich Qualitätsmanagement und Nutzung digitaler Technologien. Die zu prüfende Person soll in einem mündlichen Prüfungsgespräch, das sich auf die in der Anlage 1 Teil C aufgeführten Lerngebiete und das Tagebuch erstreckt, nachweisen, daß sie die zur Ausübung des Berufs des pharmazeutisch-technischen Assistenten erforderlichen Kenntnisse besitzt. Die zu prüfenden Personen werden einzeln oder in Gruppen bis zu drei geprüft. Die Prüfung soll für die einzelne zu prüfende Person mindestens 20 und nicht länger als 30 Minuten dauern.
 
@@ -207,7 +211,7 @@ Ausbildung zu pharmazeutisch-technischen Assistenten
 
 ## Abschnitt 4 Grundsätze und Systematik der Notenbildung
 
-##### § 15a Benotung
+###### § 15a Benotung
 
 Die im ersten und zweiten Prüfungsabschnitt der staatlichen Prüfung erbrachten Leistungen werden wie folgt benotet: Berechneter ZahlenwertNote in Worten
  (Zahlenwert)Notendefinition1,00 bis 1,49sehr gut
@@ -218,7 +222,7 @@ Die im ersten und zweiten Prüfungsabschnitt der staatlichen Prüfung erbrachten
  (5)eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können5,50 bis 6,00ungenügend
  (6)eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können
 
-##### § 15b Vornoten
+###### § 15b Vornoten
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses setzt auf Vorschlag der Schule jeweils eine Vornote für jedes Prüfungsfach, das Gegenstand der staatlichen Prüfung ist, fest. Grundlage der Festsetzung der Vornoten ist das Zeugnis nach § 1 Absatz 2 Satz 4.
 
@@ -226,13 +230,13 @@ Die im ersten und zweiten Prüfungsabschnitt der staatlichen Prüfung erbrachten
 
 (3) Die Vornoten werden den Schülerinnen und Schülern spätestens drei Werktage vor Beginn des ersten Prüfungsabschnitts mitgeteilt.
 
-##### § 15c Prüfungsnoten
+###### § 15c Prüfungsnoten
 
 (1) Die für die Prüfungsleistungen der schriftlichen, mündlichen und praktischen Prüfungsfächer der staatlichen Prüfung berechneten Zahlenwerte werden jeweils als das arithmetische Mittel gebildet. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Aus den berechneten Zahlenwerten der Prüfungsleistungen und den in Zahlenwerten ausgedrückten Vornoten werden die Prüfungsnoten für die einzelnen Prüfungsfächer gebildet. Die Vornoten sind mit einem Anteil von 25 Prozent zu berücksichtigen. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert für die einzelne Prüfungsnote ist die entsprechende Note nach § 15a zuzuordnen.
 
 (2) § 15a ist entsprechend anzuwenden.
 
-##### § 15d Gesamtnote
+###### § 15d Gesamtnote
 
 (1) Aus den Noten des ersten und zweiten Prüfungsabschnitts wird eine Gesamtnote für die staatliche Prüfung nach § 1 Absatz 1 Satz 2 gebildet.
 
@@ -250,11 +254,11 @@ Die Durchschnittsnote nach Satz 1 Nummer 2 sowie die Gesamtnote der staatlichen 
 
 (4) Über die bestandene staatliche Prüfung für pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische Assistenten wird ein Zeugnis nach dem Muster der Anlage 7 erteilt.
 
-##### (XXXX) §§ 16 und 17 (weggefallen)
+###### (XXXX) §§ 16 und 17 (weggefallen)
 
 ## Abschnitt 5 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem Mitglied staat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Drittstaat
 
-##### § 18 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus anderen Mitgliedstaaten der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben
+###### § 18 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus anderen Mitgliedstaaten der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des Gesetzes über den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten beantragen, können zum Nachweis, daß die Voraussetzungen nach § 2 Abs. 1 Nr. 2 dieses Gesetzes vorliegen, eine von der zuständigen Behörde des Herkunftsmitgliedstaats ausgestellte entsprechende Bescheinigung oder einen von einer solchen Behörde ausgestellten Strafregisterauszug oder, wenn ein solcher nicht beigebracht werden kann, einen gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der Erlaubnis nach § 1 des Gesetzes über den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten zuständige Behörde berechtigte Zweifel, kann sie von der zuständigen Behörde eines Mitgliedstaates eine Bestätigung verlangen, aus der sich ergibt, dass dem Antragsteller die Ausübung des Berufs, der dem der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten entspricht, nicht auf Grund eines schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt worden ist. Hat die für die Erteilung der Erlaubnis zuständige Behörde in den Fällen des Satzes 1 oder 2 von Tatbeständen Kenntnis, die außerhalb des Geltungsbereichs des in Satz 1 genannten Gesetzes eingetreten sind und im Hinblick auf die Voraussetzungen des § 2 Abs. 1 Nr. 2 dieses Gesetzes von Bedeutung sein können, so hat sie die zuständige Behörde des Herkunftsmitgliedstaats zu unterrichten und sie zu bitten, diese Tatbestände zu überprüfen und ihr das Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen. Die in den Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen sind vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als drei Monate zurückliegt.
 
@@ -268,7 +272,7 @@ Die Durchschnittsnote nach Satz 1 Nummer 2 sowie die Gesamtnote der staatlichen 
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für Drittstaatsdiplome, für deren Anerkennung sich nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
 
-##### § 18a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+###### § 18a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des Gesetzes über den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren oder eine Eignungsprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworben worden ist, und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch lebenslanges Lernen nach § 35 Absatz 1 des Gesetzes über den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten erworben haben.
 
@@ -278,7 +282,7 @@ Die Durchschnittsnote nach Satz 1 Nummer 2 sowie die Gesamtnote der staatlichen 
 
 (4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 45 Absatz 2 und 3 des Gesetzes über den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 14 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 18 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
 
-##### § 18b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+###### § 18b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des Gesetzes über den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren, der mit einer Prüfung über den Inhalt des Anpassungslehrgangs abschließt, oder eine Kenntnisprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem Drittstaat erworben worden ist und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis erworben haben.
 
@@ -292,7 +296,7 @@ Die Durchschnittsnote nach Satz 1 Nummer 2 sowie die Gesamtnote der staatlichen 
 
 (6) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 9 erteilt.
 
-##### § 18c Fristen, Bescheide, Durchführungsbestimmungen
+###### § 18c Fristen, Bescheide, Durchführungsbestimmungen
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer Erlaubnis zur Führung der Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder „pharmazeutisch-technischer Assistent“ nach § 2 Absatz 1 des Gesetzes über den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten in Verbindung mit Abschnitt 5 des Gesetzes über den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten kurzfristig, spätestens vier Monate nach Vorlage der Unterlagen zu entscheiden, die nach den genannten Bestimmungen für die Entscheidung erforderlich sind. Im Fall des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen.
 
@@ -310,7 +314,7 @@ Die Durchschnittsnote nach Satz 1 Nummer 2 sowie die Gesamtnote der staatlichen 
 
 ## Abschnitt 6 Übergangs- und Schlußvorschriften
 
-##### § 19 Übergangsvorschriften
+###### § 19 Übergangsvorschriften
 
 (1) Eine vor Inkrafttreten dieser Verordnung oder vor Inkrafttreten von Änderungen dieser Verordnung begonnene Ausbildung zur "pharmazeutisch-technischen Assistentin" oder zum "pharmazeutisch-technischen Assistenten" wird nach den bisher geltenden Vorschriften nach Maßgabe der folgenden Absätze abgeschlossen.
 
@@ -339,17 +343,17 @@ Satz 1 gilt für die Bildung der Prüfungsnoten in den einzelnen Teilen des erst
 
 (9) Hinsichtlich der Kenntnisprüfung nach § 18b der Ausbildungs- und Prüfungsverordnung für pharmazeutisch-technische Assistentinnen und pharmazeutisch-technische Assistenten in der bis zum 31. Dezember 2022 geltenden Fassung gilt, dass, wenn die Prüfung nach dem 30. September 2023 durchgeführt wird, die oder der Vorsitzende des Prüfungsausschusses zum Zweck der Entscheidung über das Bestehen bei unterschiedlicher Bewertung durch die Fachprüferinnen oder Fachprüfer während der Prüfung anwesend sein muss; ihr oder ihm steht ein Fragerecht zu.
 
-##### § 20 Inkrafttreten, Außerkrafttreten
+###### § 20 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-##### Schlußformel
+###### Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-##### Anlage 1 (zu § 1 Absatz 2 Satz 1 und 3 und Absatz 4 Satz 1)
+###### Anlage 1 (zu § 1 Absatz 2 Satz 1 und 3 und Absatz 4 Satz 1)
 
-(Fundstelle: BGBl. I 2020, 86 – 90)
+(Fundstelle: BGBl. I 2020, 86 – 90; bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 **Teil A**
 
@@ -392,7 +396,17 @@ b) die erforderlichen theoretischen Grundlagen der Galenik, einschließlich der 
 
 c) den Unterschied zwischen Rezeptur- und Defekturarzneimitteln zu verstehen und die unterschiedlichen rechtlichen Anforderungen anzuwenden,
 
-d) Arzneimittel in den in § 4 Absatz 7 der Apothekenbetriebsordnung genannten Darreichungsformen gemäß ärztlicher Anweisung nach den anerkannten pharmazeutischen Regeln herzustellen, einschließlich der Kennzeichnung,
+d) Arzneimittel in den folgenden Darreichungsformen gemäß ärztlicher Anweisung nach den anerkannten pharmazeutischen Regeln herzustellen, einschließlich der Kennzeichnung:
+
+aa) Lösungen, Emulsionen, Suspensionen,
+
+bb) Salben, Cremes, Gele, Pasten,
+
+cc) Kapseln, Pulver,
+
+dd) Drogenmischungen sowie
+
+ee) Zäpfchen und Ovula,
 
 e) die für die Herstellungsvorgänge benötigten Geräte zu bedienen,
 
@@ -590,7 +604,7 @@ g) die vermittelten methodischen, sozialen und kommunikativen Kompetenzen anzuwe
 
 16. Qualitätsmanagement.
 
-##### Anlage 2 (zu § 1 Absatz 2 Satz 4)
+###### Anlage 2 (zu § 1 Absatz 2 Satz 4)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2358)  
 ............................................
@@ -627,7 +641,7 @@ Ort, Datum
 -----
 *) Nichtzutreffendes streichen.
 
-##### Anlage 3 (zu § 1 Abs. 3 Satz 3)
+###### Anlage 3 (zu § 1 Abs. 3 Satz 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2359) 
                             Bescheinigung
@@ -652,7 +666,7 @@ Ort, Datum
 ...................................
 (Unterschrift des Apothekenleiters)
 
-##### Anlage 4 (zu § 1 Abs. 4 Satz 5)
+###### Anlage 4 (zu § 1 Abs. 4 Satz 5)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2360) 
                            Bescheinigung
@@ -696,7 +710,7 @@ Ort, Datum
 -----
 *) Nichtzutreffendes streichen.
 
-##### Anlage 5 (zu § 7 Abs. 2 Satz 1)
+###### Anlage 5 (zu § 7 Abs. 2 Satz 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2361)  
 Der Vorsitzende
@@ -742,7 +756,7 @@ Ort, Datum
 ......................................................
 (Unterschrift des Vorsitzenden des Prüfungsausschusses)
 
-##### Anlage 6 (zu § 7 Absatz 2 Satz 3)
+###### Anlage 6 (zu § 7 Absatz 2 Satz 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2362 ) 
 Der Vorsitzende
@@ -773,7 +787,7 @@ Ort, Datum
 .......................................................
 (Unterschrift des Vorsitzenden des Prüfungsausschusses)
 
-##### Anlage 7 (zu § 15d Absatz 4)
+###### Anlage 7 (zu § 15d Absatz 4)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2363) 
 Der Vorsitzende
@@ -805,7 +819,7 @@ Ort, Datum
 .......................................................
 (Unterschrift des Vorsitzenden des Prüfungsausschusses)
 
-##### Anlage 7a (zu § 18a Absatz 2)
+###### Anlage 7a (zu § 18a Absatz 2)
 
 (Fundstelle: BGBl. I 2016, 902)
 
@@ -832,7 +846,7 @@ Ort, Datum
 ..............................
  Unterschrift(en) der Einrichtung
 
-##### Anlage 7b (zu § 18a Absatz 3)
+###### Anlage 7b (zu § 18a Absatz 3)
 
 (Fundstelle: BGBl. I 2016, 902)
 
@@ -859,7 +873,7 @@ Ort, Datum
 ..............................
  (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses).
 
-##### Anlage 8 (zu § 18b Absatz 2)
+###### Anlage 8 (zu § 18b Absatz 2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -895,7 +909,7 @@ Ort, Datum
 
 Unterschrift(en) der Personen nach § 18b Absatz 2 Satz 7
 
-##### Anlage 9 (zu § 18b Absatz 6)
+###### Anlage 9 (zu § 18b Absatz 6)
 
 Die/der Vorsitzendedes Prüfungsausschusses
 
@@ -920,4 +934,3 @@ Ort, Datum
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
-
