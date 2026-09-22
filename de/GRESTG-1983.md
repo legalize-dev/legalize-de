@@ -4,9 +4,10 @@ identifier: "GRESTG-1983"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1982-12-17"
-last_updated: "2026-08-03"
+last_updated: "2026-09-22"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/grestg_1983/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR017770982"
 slug: "grestg_1983"
@@ -17,3 +18,6 @@ neufassung: "Neugefasst durch Bek. v. 26.2.1997 I 418, 1804;"
 hinweis: "Mittelbare Änderung durch Art. 10 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Grunderwerbsteuergesetz
+
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
