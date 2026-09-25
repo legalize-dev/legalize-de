@@ -4,26 +4,31 @@ identifier: "APOBETRO-1987"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "1987-02-09"
-last_updated: "2026-04-04"
+last_updated: "2026-09-25"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/apobetro_1987/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR005470987"
 slug: "apobetro_1987"
 bgbl_reference: "BGBl I 1987, 547"
 amtabk: "ApBetrO"
 stand: "zuletzt geändert durch Art. 8z4 G v. 12.12.2023 I Nr. 359"
-neufassung: "Neugefasst durch Bek. v. 26.9.1995 I 1195;"
+neufassung: "Neugefasst durch Bek. v. 26.9.1995 I 1195"
+hinweis: "Änderung durch Art. 1 V v. 16.9.2026 I Nr. 266 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Verordnung über den Betrieb von Apotheken
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
 
-**Erster Abschnitt** **Allgemeine Bestimmung**§ 1Anwendungsbereich§ 1aBegriffsbestimmungen**Zweiter Abschnitt** **Der Betrieb von öffentlichen Apotheken**§ 2Apothekenleiter§ 2aQualitätsmanagementsystem§ 3Apothekenpersonal§ 4Beschaffenheit, Größe und Einrichtung der Apothekenbetriebsräume§ 4aHygienemaßnahmen§ 5Wissenschaftliche und sonstige Hilfsmittel§ 6Allgemeine Vorschriften über die Herstellung und Prüfung§ 7Rezepturarzneimittel§ 8Defekturarzneimittel§ 9(weggefallen)§ 10(weggefallen)§ 11Ausgangsstoffe§ 11aTätigkeiten im Auftrag§ 12Prüfung der nicht in der Apotheke hergestellten Fertigarzneimittel und apothekenpflichtigen Medizinprodukte§ 13Behältnisse§ 14Kennzeichnung§ 15Vorratshaltung§ 16Lagerung§ 17Erwerb und Abgabe von Arzneimitteln und Medizinprodukten§ 18Einfuhr von Arzneimitteln§ 19Erwerb und Abgabe von verschreibungspflichtigen Tierarzneimitteln§ 20Information und Beratung§ 21Arzneimittelrisiken, Behandlung nicht verkehrsfähiger Arzneimittel§ 22Allgemeine Dokumentation§ 23Dienstbereitschaft§ 24Rezeptsammelstellen§ 25(weggefallen)**Dritter Abschnitt** **Der Betrieb von Krankenhausapotheken**§ 26Anzuwendende Vorschriften§ 27Leiter der Krankenhausapotheke§ 28Personal der Krankenhausapotheke§ 29Räume und Einrichtung der Krankenhausapotheke§ 30Vorratshaltung in der Krankenhausapotheke§ 31Abgabe in der Krankenhausapotheke§ 32Überprüfung der Arzneimittelvorräte und der apothekenpflichtigen Medizinprodukte auf den Stationen§ 33Dienstbereitschaft der Krankenhausapotheke**Vierter Abschnitt****Sondervorschriften**§ 34Patientenindividuelles Stellen oder Verblistern von Arzneimitteln§ 35Herstellung von Arzneimitteln zur parenteralen Anwendung§ 35aVorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken**Fünfter Abschnitt** **Ordnungswidrigkeiten, Übergangs- und Schlussvorschriften**§ 36Ordnungswidrigkeiten§ 37Übergangsbestimmungen§ 35a(weggefallen) § 36(weggefallen)§ 37(weggefallen)§ 38Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+###### Inhaltsübersicht
+
+**Erster Abschnitt** **Allgemeine Bestimmung**§ 1Anwendungsbereich§ 1aBegriffsbestimmungen**Zweiter Abschnitt** **Der Betrieb von öffentlichen Apotheken**§ 2Apothekenleiter§ 2aQualitätsmanagementsystem§ 3Apothekenpersonal§ 4Beschaffenheit, Größe und Einrichtung der Apothekenbetriebsräume§ 4aHygienemaßnahmen§ 5Wissenschaftliche und sonstige Hilfsmittel§ 6Allgemeine Vorschriften über die Herstellung und Prüfung§ 7Rezepturarzneimittel§ 8Defekturarzneimittel§ 9Herstellung medizinischer Gase mithilfe industrieller Verfahren in Krankenhäusern§ 10(weggefallen)§ 11Ausgangsstoffe§ 11aTätigkeiten im Auftrag§ 12Prüfung der nicht in der Apotheke hergestellten Fertigarzneimittel und apothekenpflichtigen Medizinprodukte§ 13Behältnisse§ 14Kennzeichnung§ 15Vorratshaltung§ 16Lagerung§ 17Erwerb und Abgabe von Arzneimitteln und Medizinprodukten§ 18Einfuhr von Arzneimitteln§ 19Erwerb und Abgabe von verschreibungspflichtigen Tierarzneimitteln§ 20Information und Beratung§ 21Arzneimittelrisiken, Behandlung nicht verkehrsfähiger Arzneimittel§ 22Allgemeine Dokumentation§ 23Dienstbereitschaft§ 24Rezeptsammelstellen§ 25(weggefallen)**Dritter Abschnitt** **Der Betrieb von Krankenhausapotheken**§ 26Anzuwendende Vorschriften§ 27Leiter der Krankenhausapotheke§ 28Personal der Krankenhausapotheke§ 29Räume und Einrichtung der Krankenhausapotheke§ 30Vorratshaltung in der Krankenhausapotheke§ 31Abgabe in der Krankenhausapotheke§ 32Überprüfung der Arzneimittelvorräte und der apothekenpflichtigen Medizinprodukte auf den Stationen§ 33Dienstbereitschaft der Krankenhausapotheke**Vierter Abschnitt****Sondervorschriften**§ 34Patientenindividuelles Stellen oder Verblistern von Arzneimitteln§ 35Herstellung von Arzneimitteln zur parenteralen Anwendung§ 35aVorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken§ 35bVorbereitung und Durchführung von Blutentnahmen durch öffentliche Apotheken§ 35cVersand von Arzneimitteln**Fünfter Abschnitt** **Ordnungswidrigkeiten, Übergangs- und Schlussvorschriften**§ 36Ordnungswidrigkeiten§ 37Übergangsvorschriften§ 38Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
 
 ## Erster Abschnitt Allgemeine Bestimmung
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 (1) Diese Verordnung findet Anwendung auf den Betrieb und die Einrichtung von öffentlichen Apotheken einschließlich der krankenhausversorgenden Apotheken, Zweig- und Notapotheken sowie von Krankenhausapotheken. Ihre Vorschriften legen fest, wie die ordnungsgemäße Versorgung der Bevölkerung mit Arzneimitteln und apothekenpflichtigen Medizinprodukten sicherzustellen ist.
 
@@ -31,7 +36,7 @@ neufassung: "Neugefasst durch Bek. v. 26.9.1995 I 1195;"
 
 (3) Die Medizinprodukte-Betreiberverordnung in der Fassung der Bekanntmachung vom 21. August 2002 (BGBl. I S. 3396), die Vorschriften des Kapitels 5 des Medizinprodukterecht-Durchführungsgesetzes vom 28. April 2020 (BGBl. I S. 960) und die Medizinprodukte-Anwendermelde- und Informationsverordnung vom 21. April 2021 (BGBl. I S. 833), jeweils in der geltenden Fassung, bleiben unberührt.
 
-##### § 1a Begriffsbestimmungen
+###### § 1a Begriffsbestimmungen
 
 (1) Krankenhausversorgende Apotheken sind öffentliche Apotheken, die gemäß § 14 Absatz 4 des Gesetzes über das Apothekenwesen ein Krankenhaus versorgen.
 
@@ -97,7 +102,13 @@ d) über Medizinprodukte,
 
 2. die Durchführung von einfachen Gesundheitstests,
 
-2a. die Vorbereitung und Durchführung von Schutzimpfungen,
+2a. die Durchführung von pharmazeutischen Dienstleistungen,
+
+2b. die Vorbereitung und Durchführung von Schutzimpfungen,
+
+2c. die Durchführung von Testungen,
+
+2d. die Vorbereitung und Durchführung von Blutentnahmen,
 
 3. das patientenindividuelle Anpassen von Medizinprodukten sowie
 
@@ -115,26 +126,32 @@ d) über Medizinprodukte,
 
 (17) Herstellen im geschlossenen System ist die Überführung steriler Ausgangsmaterialien oder Lösungen in ein vorsterilisiertes geschlossenes Behältnis, ohne dass der Inhalt dabei mit der äußeren Umgebung in Kontakt kommt.
 
-(18) Schutzimpfungen im Sinne dieser Verordnung sind Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2.
+(18) Schutzimpfungen im Sinne dieser Verordnung sind die in § 20c Absatz 1 des Infektionsschutzgesetzes genannten Schutzimpfungen.
+
+(19) Pharmazeutische Dienstleistungen im Sinne dieser Verordnung sind die in § 129 Absatz 5e Satz 2 und 3 des Fünften Buches Sozialgesetzbuch genannten pharmazeutischen Dienstleistungen.
+
+(20) Testungen im Sinne dieser Verordnung sind die in § 24 Absatz 1 Satz 2 des Infektionsschutzgesetzes genannten Testungen.
+
+(21) Blutentnahmen im Sinne dieser Verordnung sind venöse Blutentnahmen zu diagnostischen Zwecken nach § 11c des Apothekengesetzes.
 
 ## Zweiter Abschnitt Der Betrieb von öffentlichen
 Apotheken
 
-##### § 2 Apothekenleiter
+###### § 2 Apothekenleiter
 
 (1) Apothekenleiter ist
 
 1. bei einer Apotheke, die nach § 1 Abs. 2 des Gesetzes über das Apothekenwesen betrieben wird, der Inhaber der Erlaubnis nach § 2 des Apothekengesetzes, im Falle der Verpachtung, der Pächter,
 
-2. bei einer Apotheke oder Zweigapotheke, die nach § 13 oder § 16 des Gesetzes über das Apothekenwesen verwaltet wird, der Inhaber der Genehmigung,
+2. bei einer Apotheke, die nach § 13 des Apothekengesetzes verwaltet wird, der Inhaber der Genehmigung,
 
 3. bei einer Apotheke, die nach § 17 des Gesetzes über das Apothekenwesen betrieben wird, der von der zuständigen Behörde angestellte und mit der Leitung beauftragte Apotheker,
 
-4. bei einer Hauptapotheke nach § 2 Abs. 5 Nr. 1 des Apothekengesetzes der Inhaber der Erlaubnis nach § 2 Abs. 4 des Apothekengesetzes,
+4. bei einer Hauptapotheke im Sinne des § 2 Absatz 5 Satz 1 Nummer 1 des Apothekengesetzes der Betreiber und
 
-5. bei einer Filialapotheke nach § 2 Abs. 5 Nr. 2 des Apothekengesetzes der vom Betreiber benannte Verantwortliche.
+5. bei einer Filialapotheke im Sinne des § 2 Absatz 5 Satz 1 Nummer 2 des Apothekengesetzes der nach § 2 Absatz 5 Satz 1 Nummer 2 des Apothekengesetzes vom Betreiber benannte Verantwortliche und bei einer Zweigapotheke im Sinne des § 16 Absatz 1 Satz 1 des Apothekengesetzes der Betreiber oder im Fall der Benennung eines Verantwortlichen nach § 2 Absatz 5 Satz 1 Nummer 3 des Apothekengesetzes der vom Betreiber benannte Verantwortliche.
 
-(2) Der Apothekenleiter hat die Apotheke persönlich zu leiten. Er ist dafür verantwortlich, daß die Apotheke unter Beachtung der geltenden Vorschriften betrieben wird. Neben dem Apothekenleiter nach Absatz 1 Nr. 5 ist auch der Betreiber für die Einhaltung der zum Betreiben von Apotheken geltenden Vorschriften verantwortlich.
+(2) Der Apothekenleiter hat die Apotheke persönlich zu leiten. Er ist dafür verantwortlich, daß die Apotheke unter Beachtung der geltenden Vorschriften betrieben wird. Neben einem nach § 2 Absatz 5 Satz 1 Nummer 2 oder 3 des Apothekengesetzes benannten Verantwortlichen ist auch der Betreiber für die Einhaltung der zum Betreiben von Apotheken geltenden Vorschriften verantwortlich. Der Betreiber hat sich regelmäßig persönlich davon zu überzeugen, dass ein benannter Verantwortlicher seiner Verantwortung nachkommt.
 
 (3) Der Apothekenleiter hat der zuständigen Behörde jede weitere berufliche oder gewerbsmäßige Tätigkeit anzuzeigen, bevor sie aufgenommen wird.
 
@@ -142,7 +159,7 @@ Apotheken
 
 1. die Aufklärung, die Anamnese und das Einholen der Einwilligung der zu impfenden Person durch Apotheker durchgeführt werden, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind,
 
-2. die Schutzimpfungen durch Apotheker durchgeführt werden, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind,
+2. die Impfstoffe durch Apotheker, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind, oder unter Aufsicht des Apothekers durch Personen verabreicht werden, an die die Verabreichung der Impfstoffe nach § 20c Absatz 4 Satz 1 des Infektionsschutzgesetzes delegiert wurde,
 
 3. eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht, die für die Durchführung von Schutzimpfungen erforderlich ist, sofern kein aufsuchendes Impfen durchgeführt wird, und
 
@@ -150,9 +167,21 @@ Apotheken
 
 Der Apothekenleiter hat der zuständigen Behörde die Durchführung von Schutzimpfungen und, sofern nicht ausschließlich aufsuchendes Impfen durchgeführt wird, die dafür vorgesehenen Räumlichkeiten spätestens eine Woche vor Aufnahme der Impfungen anzuzeigen. Änderungen bezüglich der Durchführung von Schutzimpfungen oder der Räumlichkeiten sind der zuständigen Behörde spätestens eine Woche vor Umsetzung der Änderung anzuzeigen.
 
+(3b) Der Apothekenleiter hat sicherzustellen, dass Blutentnahmen nur durchgeführt werden, wenn
+
+1. die Aufklärung, die Anamnese und das Einholen der Einwilligung der Person, der Blut entnommen werden soll, durch Apotheker durchgeführt werden, die nach § 11c Absatz 1 des Apothekengesetzes zur Durchführung von Blutentnahmen berechtigt sind,
+
+2. die Blutentnahme durch Apotheker, die nach § 11c Absatz 1 des Apothekengesetzes zur Durchführung von Blutentnahmen berechtigt sind, oder unter Aufsicht des Apothekers durch Personen, an die nach § 11c Absatz 3 Satz 1 des Apothekengesetzes die Entnahme von venösem Blut delegiert wurde, erfolgt,
+
+3. eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung steht, die für die Durchführung von Blutentnahmen sowie den Umgang mit Komplikationen erforderlich ist, und
+
+4. für seine Apotheke eine Betriebshaftpflichtversicherung besteht, die mögliche Schädigungen aus der Durchführung von Blutentnahmen abdeckt.
+
+Der Apothekenleiter hat die Durchführung von Blutentnahmen und die dafür vorgesehenen Räumlichkeiten spätestens eine Woche vor Aufnahme der Blutentnahmen gegenüber der zuständigen Behörde anzuzeigen. Änderungen bezüglich der Durchführung von Blutentnahmen oder der Räumlichkeiten sind der zuständigen Behörde spätestens eine Woche vor Umsetzung der Änderungen anzuzeigen.
+
 (4) Der Apothekenleiter darf neben Arzneimitteln und apothekenpflichtigen Medizinprodukten die in § 1a Absatz 10 genannten Waren nur in einem Umfang anbieten oder feilhalten, der den ordnungsgemäßen Betrieb der Apotheke und den Vorrang des Arzneimittelversorgungsauftrages nicht beeinträchtigt. Satz 1 ist auf die apothekenüblichen Dienstleistungen nach § 1a Absatz 11 entsprechend anzuwenden.
 
-(5) Der Apothekenleiter muß sich, sofern er seine Verpflichtung zur persönlichen Leitung der Apotheke vorübergehend nicht selbst wahrnimmt, durch einen Apotheker vertreten lassen. Die Vertretung darf insgesamt drei Monate im Jahr nicht überschreiten. Die zuständige Behörde kann eine Vertretung über diese Zeit hinaus zulassen, wenn ein in der Person des Apothekenleiters liegender wichtiger Grund gegeben ist.
+(5) Der Apothekenleiter muß sich, sofern er seine Verpflichtung zur persönlichen Leitung der Apotheke vorübergehend nicht selbst wahrnimmt, durch einen Apotheker vertreten lassen. Die Vertretung darf, wenn es sich nicht um eine gegenseitige Vertretung von Verantwortlichen handelt, die nach § 2 Absatz 5 Satz 1 Nummer 2 oder 3 des Apothekengesetzes für dieselbe Filialapotheke oder Zweigapotheke benannt sind, insgesamt drei Monate im Jahr nicht überschreiten. Die zuständige Behörde kann eine Vertretung über diese Zeit hinaus zulassen, wenn ein in der Person des Apothekenleiters liegender wichtiger Grund gegeben ist.
 
 (6) Kann ein Apothekenleiter seiner Verpflichtung nach Absatz 5 Satz 1 nicht nachkommen, kann er sich von einem Apothekerassistenten oder Pharmazieingenieur vertreten lassen, sofern dieser insbesondere hinsichtlich seiner Kenntnisse und Fähigkeiten dafür geeignet ist und im Jahre vor dem Vertretungsbeginn mindestens sechs Monate hauptberuflich in einer öffentlichen Apotheke oder Krankenhausapotheke beschäftigt war. Der Apothekenleiter darf sich nicht länger als insgesamt vier Wochen im Jahr von Apothekerassistenten oder Pharmazieingenieuren vertreten lassen. Der Apothekenleiter hat vor Beginn der Vertretung die zuständige Behörde unter Angabe des Vertreters zu unterrichten. Die Sätze 1 bis 3 gelten nicht für die Vertretung
 
@@ -164,27 +193,29 @@ Der Apothekenleiter hat der zuständigen Behörde die Durchführung von Schutzim
 
 (7) Der mit der Vertretung beauftragte Apotheker oder Apothekerassistent oder Pharmazieingenieur hat während der Dauer der Vertretung die Pflichten eines Apothekenleiters.
 
-##### § 2a Qualitätsmanagementsystem
+###### § 2a Qualitätsmanagementsystem
 
-(1) Der Apothekenleiter muss ein Qualitätsmanagementsystem entsprechend Art und Umfang der pharmazeutischen Tätigkeiten betreiben. Mit dem Qualitätsmanagementsystem müssen die betrieblichen Abläufe festgelegt und dokumentiert werden. Das Qualitätsmanagementsystem muss insbesondere gewährleisten, dass die Arzneimittel nach Stand von Wissenschaft und Technik hergestellt, geprüft und gelagert werden und dass Verwechslungen vermieden werden sowie eine ausreichende Beratungsleistung erfolgt.
+(1) Der Apothekenleiter muss ein Qualitätsmanagementsystem entsprechend Art und Umfang der pharmazeutischen Tätigkeiten betreiben. Mit dem Qualitätsmanagementsystem müssen die betrieblichen Abläufe festgelegt und dokumentiert werden. Das Qualitätsmanagementsystem muss insbesondere gewährleisten, dass die Arzneimittel nach Stand von Wissenschaft und Technik hergestellt, geprüft und gelagert werden und dass Verwechslungen vermieden werden sowie eine ausreichende Beratungsleistung erfolgt. Das Qualitätsmanagementsystem muss auch Regelungen über den Apothekenbetrieb in Krisensituationen, insbesondere in kurzfristigen Energiemangellagen, umfassen.
 
 (2) Der Apothekenleiter hat im Rahmen des Qualitätsmanagementsystems dafür zu sorgen, dass regelmäßig Selbstinspektionen durch pharmazeutisches Personal zur Überprüfung der betrieblichen Abläufe vorgenommen werden und erforderlichenfalls Korrekturen vorgenommen werden. Darüber hinaus sollte die Apotheke an regelmäßigen Maßnahmen zu externen Qualitätsüberprüfungen teilnehmen.
 
 (3) Der Apothekenleiter ist dafür verantwortlich, dass die Überprüfungen und die Selbstinspektionen nach Absatz 2 sowie die daraufhin erforderlichenfalls ergriffenen Maßnahmen dokumentiert werden.
 
-##### § 3 Apothekenpersonal
+(4) Wird eine Apotheke durch einen nach § 2 Absatz 5 Satz 1 Nummer 2 oder 3 des Apothekengesetzes benannten Verantwortlichen geleitet, ist das Qualitätsmanagementsystem mit dem Betreiber abzustimmen.
+
+###### § 3 Apothekenpersonal
 
 (1) Das Apothekenpersonal darf nur entsprechend seiner Ausbildung und seinen Kenntnissen eingesetzt werden und ist über die bei den jeweiligen Tätigkeiten gebotene Sorgfalt regelmäßig zu unterweisen. Die Unterweisung muss sich auch auf die Theorie und Anwendung des Qualitätsmanagementsystems erstrecken sowie auf Besonderheiten der Arzneimittel, die hergestellt, geprüft oder gelagert werden.
 
 (2) Zur Gewährleistung eines ordnungsgemäßen Betriebs der Apotheke muss das notwendige Personal, insbesondere auch das pharmazeutische Personal, in ausreichender Zahl vorhanden sein. Das zur Versorgung eines Krankenhauses zusätzlich erforderliche Personal ergibt sich aus Art und Umfang einer medizinisch zweckmäßigen und ausreichenden Versorgung des Krankenhauses mit Arzneimitteln und apothekenpflichtigen Medizinprodukten unter Berücksichtigung von Größe, Art und Leistungsstruktur des Krankenhauses. Satz 2 gilt entsprechend für die Versorgung von Einrichtungen im Sinne von § 12a des Apothekengesetzes.
 
-(3) Die Apotheke darf nur geöffnet sein und betrieben werden, wenn ein Apotheker oder eine nach § 2 Absatz 6 Satz 1 vertretungsberechtigte Person anwesend ist. § 23 Absatz 3 bleibt unberührt.
+(3) Die Apotheke darf nur geöffnet sein und betrieben werden, wenn ein Apotheker, eine nach § 2 Absatz 6 Satz 1 vertretungsberechtigte Person oder im Fall einer Genehmigung nach § 29 Absatz 1 des Apothekengesetzes ein nach § 29 Absatz 3 des Apothekengesetzes zur vorübergehenden Aufrechterhaltung des Apothekenbetriebes befugter pharmazeutisch-technischer Assistent anwesend ist. § 23 Absatz 3 bleibt unberührt.
 
 (4) Die Bewertung der Analyse und die Beratung im Rahmen eines Medikationsmanagements müssen durch einen Apotheker der Apotheke erfolgen.
 
 (5) Es ist verboten, pharmazeutische Tätigkeiten von anderen Personen als pharmazeutischem Personal auszuführen oder ausführen zu lassen, soweit nach Absatz 5a nichts anderes bestimmt ist. Die jeweilige Person muss insoweit der deutschen Sprache mächtig sein und über Kenntnis des in Deutschland geltenden Rechts verfügen, wie es für die Ausübung ihrer jeweiligen Tätigkeit notwendig ist. Pharmazeutische Tätigkeiten, die von pharmazeutisch-technischen Assistenten, pharmazeutischen Assistenten oder Personen, die sich in der Ausbildung zum Apothekerberuf oder zum Beruf des pharmazeutisch-technischen Assistenten befinden, ausgeführt werden, sind vom Apothekenleiter zu beaufsichtigen oder von diesem durch einen Apotheker beaufsichtigen zu lassen. Pharmazeutische Assistenten dürfen keine Arzneimittel abgeben.
 
-(5a) Das Umfüllen einschließlich Abfüllen und Abpacken oder Kennzeichnen von Arzneimitteln darf unter Aufsicht eines Apothekers auch durch anderes als das pharmazeutische Personal ausgeführt werden, soweit es sich um Apothekenhelfer, Apothekenfacharbeiter, pharmazeutisch-kaufmännische Angestellte, sowie Personen, die sich in der Ausbildung zum Beruf des pharmazeutisch-kaufmännischen Angestellten befinden, handelt. Darüber hinaus darf sich das pharmazeutische Personal von dem in Satz 1 genannten anderen Personal der Apotheke unterstützen lassen
+(5a) Das Umfüllen einschließlich Abfüllen und Abpacken oder Kennzeichnen von Arzneimitteln darf unter Aufsicht eines Apothekers auch von Apothekenhelfern, Apothekenfacharbeitern, pharmazeutisch-kaufmännischen Angestellten, Personen, die sich in der Ausbildung zum Beruf des pharmazeutisch-kaufmännischen Angestellten befinden, oder von weiterem nicht-pharmazeutischen Personal der Apotheke mit geeigneten Kenntnissen ausgeführt werden. Darüber hinaus darf sich das pharmazeutische Personal von dem in Satz 1 genannten anderen Personal der Apotheke unterstützen lassen
 
 1. bei der Herstellung und Prüfung der Arzneimittel,
 
@@ -218,7 +249,7 @@ Pharmazeutisch-technische Assistenten, die ihre Berufsqualifikation oder Fortbil
 
 (6) Zur Versorgung eines Krankenhauses mit Ausnahme der Zustellung darf der Apothekenleiter nur Personal einsetzen, das in seinem Betrieb tätig ist. Satz 1 findet entsprechende Anwendung auf die Versorgung von Bewohnern einer zu versorgenden Einrichtung im Sinne des § 12a des Apothekengesetzes.
 
-##### § 4 Beschaffenheit, Größe und Einrichtung der Apothekenbetriebsräume
+###### § 4 Beschaffenheit, Größe und Einrichtung der Apothekenbetriebsräume
 
 (1) Die Betriebsräume müssen nach Art, Größe, Zahl, Lage und Einrichtung geeignet sein, einen ordnungsgemäßen Apothekenbetrieb, insbesondere die einwandfreie Entwicklung, Herstellung, Prüfung, Lagerung, Verpackung sowie eine ordnungsgemäße Abgabe von Arzneimitteln oder die Abgabe von apothekenpflichtigen Medizinprodukten und die Information und Beratung über Arzneimittel oder Medizinprodukte, auch mittels Einrichtungen der Telekommunikation, zu gewährleisten. Die Betriebsräume sind
 
@@ -238,29 +269,39 @@ b) von öffentlichen Verkehrsflächen und Ladenstraßen,
 
 Satz 2 Nummer 1 Buchstabe a gilt nicht für die Herstellung von Arzneimitteln, für die eine Erlaubnis nach § 13 des Arzneimittelgesetzes erforderlich ist.
 
-(2) Die Apotheke muss mindestens aus einer Offizin, einem Laboratorium, ausreichendem Lagerraum und einem Nachtdienstzimmer bestehen. Das Laboratorium muss mit einem Abzug mit Absaugvorrichtung oder mit einer entsprechenden Einrichtung, die die gleiche Funktion erfüllt, ausgestattet sein. Die Grundfläche der in Satz 1 genannten Betriebsräume muss mindestens 110 Quadratmeter betragen. Bei der Berechnung der Grundfläche sind die nach § 34 Absatz 3 und § 35 Absatz 3 genannten separaten Räume sowie Räume, die nach Absatz 1 Satz 2 Nummer 1 Buchstabe a von den Betriebsräumen der Apotheke abzutrennen sind, nicht zu berücksichtigen. Für krankenhausversorgende Apotheken gilt § 29 Absatz 1 und 3 entsprechend.
+(2) Die Apotheke muss mindestens aus einer Offizin, einem Laboratorium, ausreichendem Lagerraum und einem Nachtdienstzimmer bestehen. Das Laboratorium muss mit einem Abzug mit Absaugvorrichtung oder mit einer entsprechenden Einrichtung, die die gleiche Funktion erfüllt, ausgestattet sein. Die Grundfläche der in Satz 1 genannten Betriebsräume muss mindestens 110 Quadratmeter betragen. Bei der Berechnung der Grundfläche sind die nach § 34 Absatz 3 und § 35 Absatz 3 genannten separaten Räume sowie Räume, die nach Absatz 1 Satz 2 Nummer 1 Buchstabe a von den Betriebsräumen der Apotheke abzutrennen sind, nicht zu berücksichtigen. Für krankenhausversorgende Apotheken gilt § 29 Absatz 1 und 3 entsprechend. Abweichend von Satz 1 muss eine Apotheke nicht über ein Laboratorium verfügen, wenn die Feststellung der Identität von Arzneimitteln und Ausgangsstoffen nach § 6 Absatz 3a Satz 1 und § 11 Absatz 1 Satz 2 in Verbindung mit § 6 Absatz 3a Satz 1 von einer anderen Apotheke durchgeführt wird, die von demselben Betreiber betrieben wird.
 
 (2a) Die Offizin muss einen Zugang zu öffentlichen Verkehrsflächen haben und soll barrierefrei erreichbar sein. Sie muss so gestaltet werden, dass der Vorrang des Arzneimittelversorgungsauftrags nicht beeinträchtigt wird und für die in der Offizin ausgeübten wesentlichen Aufgaben, insbesondere die Beratung von Patienten und Kunden, genügend Raum bleibt. Die Offizin muss so eingerichtet sein, dass die Vertraulichkeit der Beratung, insbesondere an den Stellen, an denen Arzneimittel an Kunden abgegeben werden, so gewahrt wird, dass das Mithören des Beratungsgesprächs durch andere Kunden weitestgehend verhindert wird.
 
 (2b) Für die Herstellung von nicht zur parenteralen Anwendung bestimmten Arzneimitteln ist ein eigener Arbeitsplatz vorzusehen. Der Arbeitsplatz ist von mindestens drei Seiten raumhoch von anderen Bereichen der Apotheke abzutrennen, sofern sich dieser Arbeitsplatz nicht in einem Betriebsraum befindet, der gleichzeitig ausschließlich als Laboratorium dient. Seine Wände und Oberflächen sowie der Fußboden müssen leicht zu reinigen sein, damit das umgebungsbedingte Kontaminationsrisiko für die herzustellenden Arzneimittel minimal ist. Der Arbeitsplatz kann auch für die Herstellung von Medizinprodukten oder apothekenüblichen Waren nach § 1a Absatz 10 Nummer 2, 3 oder 9 genutzt werden.
 
-(2c) Für die Herstellung von Arzneimitteln, die Drogen oder Drogenmischungen sind, oder für die sonstige Verarbeitung von Drogen als Ausgangsstoffe ist ein gesonderter Arbeitsplatz vorzusehen. Absatz 2b Satz 2 und 3 findet keine Anwendung.
+(2c) Sofern Arzneimittel hergestellt werden, die Drogen oder Drogenmischungen sind, oder für die sonstige Verarbeitung von Drogen als Ausgangsstoffe ist ein gesonderter Arbeitsplatz zu nutzen. Absatz 2b Satz 2 und 3 findet keine Anwendung.
 
 (2d) Der Lagerraum muss ausreichend groß sein und eine ordnungsgemäße Lagerung der in der Apotheke vorrätig gehaltenen oder vertriebenen Produkte ermöglichen. Es muss eine Lagerhaltung unterhalb einer Temperatur von 25 Grad Celsius möglich sein. Für Arzneimittel oder Ausgangsstoffe, die nach § 21 Absatz 4 Satz 2 abzusondern sind, und für Arzneimittel, die nach § 21 Absatz 5 Satz 1 gesichert aufzubewahren sind, ist ein separater und entsprechend gekennzeichneter Lagerbereich vorzusehen. Soweit Arzneimittel außerhalb der Öffnungszeiten der Apotheke angeliefert werden, muss die Einhaltung der erforderlichen Lagertemperaturen für die betreffenden Arzneimittel ständig gewährleistet sein; ein Zugriff Unbefugter muss ausgeschlossen werden. Apotheken, die Krankenhäuser mit Arzneimitteln versorgen, müssen für diese Arzneimittel separate Lagerräume oder mindestens separate und entsprechend gekennzeichnete Lagerbereiche vorhalten.
 
-(3) Eine Zweigapotheke muß mindestens aus einer Offizin, ausreichendem Lagerraum und einem Nachtdienstzimmer bestehen. Absatz 2 Satz 1 und 3 findet keine Anwendung.
+(3) Eine Zweigapotheke muss mindestens aus einer Offizin und ausreichendem Lagerraum bestehen. Absatz 2 Satz 1 und 3 findet keine Anwendung. Weitere Räume sind vorzusehen, soweit in der Zweigapotheke Rezeptur- und Defekturarzneimittel hergestellt oder andere Tätigkeiten durchgeführt werden, die das Vorhandensein dieser Räume erfordern. Die Absätze 2b, 2c und 7 finden keine Anwendung, wenn die Zweigapotheke Rezeptur- und Defekturarzneimittel nicht selbst herstellt, sondern diese von einer anderen Apotheke, die von demselben Betreiber betrieben wird, bezieht.
 
 (4) Absatz 1 Satz 2 Nummer 5 wird nicht angewendet auf
 
-1. Lagerräume, die ausschließlich der Arzneimittelversorgung von Krankenhäusern oder zur Versorgung von Bewohnern von zu versorgenden Einrichtungen im Sinne des § 12a des Apothekengesetzes dienen,
+1. Lagerräume, die ausschließlich genutzt werden zur
+
+a) Aufbewahrung von über den regelmäßigen täglichen Bedarf der Apotheke hinausgehenden Vorräten,
+
+b) Versorgung von Krankenhäusern auf Grundlage eines Vertrags nach § 14 Absatz 3 oder 4 des Apothekengesetzes oder
+
+c) Versorgung von Bewohnern von Heimen auf Grundlage eines Vertrags nach § 12a Absatz 1 Satz 1 des Apothekengesetzes,
 
 2. Räume, die den Versandhandel einschließlich des elektronischen Handels mit Arzneimitteln sowie die dazugehörige Beratung und Information betreffen,
 
-3. Räume, die für die Herstellungstätigkeiten nach § 34 oder § 35 genutzt werden, oder
+3. Räume, die für die Herstellungstätigkeiten nach § 34 oder § 35 genutzt werden,
 
-4. das Nachtdienstzimmer.
+4. Räume, die für die Durchführung von pharmazeutischen Dienstleistungen, Schutzimpfungen oder Testungen genutzt werden,
 
-Diese Räume müssen jedoch in angemessener Nähe zu den übrigen Betriebsräumen liegen. Die Nutzung von Lager- oder Herstellungsräumen innerhalb des zu versorgenden Krankenhauses oder der zu versorgenden Einrichtung im Sinne des § 12a des Apothekengesetzes ist nicht zulässig.
+5. Räume, die für die Durchführung von Blutentnahmen genutzt werden, oder
+
+6. das Nachtdienstzimmer.
+
+Diese Räume müssen jedoch in angemessener Nähe zu den übrigen Betriebsräumen liegen. Die Nutzung von Lager- oder Herstellungsräumen innerhalb des zu versorgenden Krankenhauses oder der zu versorgenden Einrichtung im Sinne des § 12a des Apothekengesetzes ist nicht zulässig. Entgegen Satz 3 ist die Nutzung von Herstellungsräumen innerhalb des zu versorgenden Krankenhauses zur Herstellung medizinischer Gase zulässig.
 
 (5) (weggefallen)
 
@@ -282,7 +323,7 @@ ordnungsgemäß hergestellt werden können. Die Herstellung steriler Arzneimitte
 
 (8) In der Apotheke müssen Geräte und Prüfmittel zur Prüfung der in der Apotheke hergestellten Arzneimittel und ihrer Ausgangsstoffe nach den anerkannten pharmazeutischen Regeln vorhanden sein.
 
-##### § 4a Hygienemaßnahmen
+###### § 4a Hygienemaßnahmen
 
 Der Apothekenleiter muss für das Personal und die Betriebsräume, die zur Arzneimittelherstellung genutzt werden, geeignete Hygienemaßnahmen treffen, mit denen die mikrobiologische Qualität des jeweiligen Arzneimittels sichergestellt wird. Für die Hygienemaßnahmen ist insbesondere Folgendes festzulegen:
 
@@ -294,7 +335,7 @@ Der Apothekenleiter muss für das Personal und die Betriebsräume, die zur Arzne
 
 Die Maßnahmen sind in einem Hygieneplan schriftlich festzulegen. Die Durchführung der Hygienemaßnahmen ist regelmäßig zu dokumentieren. Unbeschadet des Hygieneplans müssen Festlegungen über hygienisches Verhalten am Arbeitsplatz und zur Schutzkleidung des Personals getroffen werden.
 
-##### § 5 Wissenschaftliche und sonstige Hilfsmittel
+###### § 5 Wissenschaftliche und sonstige Hilfsmittel
 
 In der Apotheke müssen vorhanden sein
 
@@ -308,7 +349,7 @@ In der Apotheke müssen vorhanden sein
 
 Die wissenschaftlichen und sonstigen Hilfsmittel sind auf aktuellem Stand zu halten und können auch auf elektronischen Datenträgern vorhanden sein.
 
-##### § 6 Allgemeine Vorschriften über die Herstellung und Prüfung
+###### § 6 Allgemeine Vorschriften über die Herstellung und Prüfung
 
 (1) Arzneimittel, die in der Apotheke hergestellt werden, müssen die nach der pharmazeutischen Wissenschaft erforderliche Qualität aufweisen. Sie sind nach den anerkannten pharmazeutischen Regeln herzustellen und zu prüfen; enthält das Arzneibuch entsprechende Regeln, sind die Arzneimittel nach diesen Regeln herzustellen und zu prüfen. Dabei können für die Prüfung auch andere Methoden angewandt und andere Geräte benutzt werden, als im Deutschen Arzneibuch beschrieben sind, unter der Voraussetzung, daß die gleichen Ergebnisse wie mit den beschriebenen Methoden und Geräten erzielt werden. Soweit erforderlich, ist die Prüfung in angemessenen Zeiträumen zu wiederholen.
 
@@ -320,15 +361,23 @@ Die wissenschaftlichen und sonstigen Hilfsmittel sind auf aktuellem Stand zu hal
 
 2. in einem Betrieb in einem Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums, für den nach jeweiligem nationalen Recht eine Erlaubnis gemäß Artikel 40 der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), zuletzt geändert durch die Richtlinie 2011/62/EU (ABl. L 174 vom 1.7.2011, S. 74), in der jeweils geltenden Fassung oder eine Erlaubnis nach Artikel 44 der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Tierarzneimittel (ABl. L 311 vom 28.11.2001, S. 1), zuletzt geändert durch die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14), in der jeweils geltenden Fassung erteilt ist,
 
-3. in einem Betrieb, für den eine Erlaubnis nach § 1 Absatz 2 in Verbindung mit § 2 des Apothekengesetzes erteilt ist, oder
+3. in einer Apotheke, die von demselben Betreiber betrieben wird, oder
 
 4. durch einen Sachverständigen im Sinne des § 65 Absatz 4 des Arzneimittelgesetzes.
 
 Der für die Prüfung Verantwortliche des Betriebs oder die Person nach Satz 1 Nummer 4 hat unter Angabe der Charge sowie des Datums und der Ergebnisse der Prüfung zu bescheinigen, dass das Arzneimittel nach den anerkannten pharmazeutischen Regeln geprüft worden ist und die erforderliche Qualität aufweist (Prüfzertifikat). Die Ergebnisse aus dem Prüfzertifikat sind der Freigabe in der Apotheke zugrunde zu legen. In der Apotheke ist mindestens die Identität des Arzneimittels festzustellen; über die durchgeführten Prüfungen sind Aufzeichnungen zu machen.
 
+(3a) Eine Apotheke kann für eine andere Apotheke, die von demselben Betreiber betrieben wird, die Feststellung der Identität von Arzneimitteln durchführen. Die Apotheke, die das Arzneimittel abgibt, ist in diesem Fall von der Feststellung der Identität nach Absatz 3 Satz 4 erster Halbsatz befreit. Sie kann das Arzneimittel nur verwenden oder abgeben, wenn
+
+1. das Behältnis des Arzneimittels mit einer Kennzeichnung über die durchgeführte Feststellung der Identität versehen ist,
+
+2. das Behältnis von der Apotheke, die die Feststellung durchgeführt hat, so verschlossen wurde, dass ein zwischenzeitliches Öffnen des Behältnisses ersichtlich wäre, und
+
+3. weder das Behältnis noch der Verschluss beschädigt sind.
+
 (4) Die Vorschriften des Medizinprodukterechts über die Herstellung, Sonderanfertigung und Eigenherstellung von Medizinprodukten bleiben unberührt.
 
-##### § 7 Rezepturarzneimittel
+###### § 7 Rezepturarzneimittel
 
 (1) Wird ein Arzneimittel auf Grund einer Verschreibung von Personen, die zur Ausübung der Heilkunde, Zahnheilkunde oder Tierheilkunde berechtigt sind, hergestellt, muß es der Verschreibung entsprechen. Andere als die in der Verschreibung genannten Ausgangsstoffe dürfen ohne Zustimmung des Verschreibenden bei der Herstellung nicht verwendet werden. Dies gilt nicht für Ausgangsstoffe, sofern sie keine eigene arzneiliche Wirkung haben und die arzneiliche Wirkung nicht nachteilig beeinflussen können. Enthält eine Verschreibung einen erkennbaren Irrtum, ist sie unleserlich oder ergeben sich sonstige Bedenken, so darf das Arzneimittel nicht hergestellt werden, bevor die Unklarheit beseitigt ist. Bei Einzelherstellung ohne Verschreibung ist Satz 4 entsprechend anzuwenden.
 
@@ -345,8 +394,6 @@ Der für die Prüfung Verantwortliche des Betriebs oder die Person nach Satz 1 N
 5. zur Vorbereitung des Arbeitsplatzes sowie
 
 6. zur Freigabe und zur Dokumentation.
-
-Soweit es sich um standardisierte und allgemeine Herstellungsanweisungen Dritter handelt, sind sie auf den jeweiligen Apothekenbetrieb anzupassen.
 
 (1b) Die Anforderung über die Herstellung eines Rezepturarzneimittels ist von einem Apotheker nach pharmazeutischen Gesichtspunkten zu beurteilen (Plausibilitätsprüfung). Die Plausibilitätsprüfung muss insbesondere Folgendes berücksichtigen:
 
@@ -380,7 +427,7 @@ Anstelle des Namens des Patienten, Tierhalters oder Kunden nach Satz 1 Nummer 4,
 
 (2) Bei einem Rezepturarzneimittel kann von einer analytischen Prüfung abgesehen werden, sofern die Qualität des Arzneimittels durch das Herstellungsverfahren, die organoleptische Prüfung des fertig hergestellten Arzneimittels und, soweit vorgesehen, durch die Ergebnisse der Inprozesskontrollen gewährleistet ist.
 
-##### § 8 Defekturarzneimittel
+###### § 8 Defekturarzneimittel
 
 (1) Ein Defekturarzneimittel ist nach einer vorher erstellten schriftlichen Herstellungsanweisung herzustellen, die von einem Apotheker der Apotheke zu unterschreiben ist. Die Herstellungsanweisung muss insbesondere Festlegungen treffen:
 
@@ -424,25 +471,55 @@ Das Herstellungsprotokoll ist von einem Apotheker mit seiner Bestätigung zu erg
 
 4. die Freigabe durch die Unterschrift eines Apothekers der Apotheke.
 
-##### (XXXX) §§ 9 und 10 (weggefallen)
+###### § 10 (weggefallen)
 
 -
 
-##### § 11 Ausgangsstoffe
+###### § 9 Herstellung medizinischer Gase mithilfe industrieller Verfahren in Krankenhäusern
 
-(1) Zur Herstellung von Arzneimitteln dürfen nur Ausgangsstoffe verwendet werden, deren ordnungsgemäße Qualität festgestellt ist. Auf die Prüfung der Ausgangsstoffe finden die Vorschriften des § 6 Absatz 1 und 3 entsprechende Anwendung.
+(1) Die Herstellung eines medizinischen Gases mithilfe industrieller Verfahren in Krankenhäusern hat nach einer vorher erstellten schriftlichen Herstellungsanweisung zu erfolgen, die von einem Apotheker der Apotheke zu unterschreiben ist. Die Herstellungsanweisung muss mindestens Festlegungen treffen
 
-(2) Werden Ausgangsstoffe bezogen, deren Qualität durch ein Prüfzertifikat nach § 6 Abs. 3 nachgewiesen ist, ist in der Apotheke mindestens die Identität festzustellen. Das Prüfzertifikat soll auch Auskunft über die GMP-konforme Herstellung des Ausgangsstoffs geben, soweit es sich um einen Wirkstoff handelt. Die Verantwortung des Apothekenleiters für die ordnungsgemäße Qualität der Ausgangsstoffe bleibt unberührt. Über die in der Apotheke durchgeführten Prüfungen sind Aufzeichnungen zu machen; § 8 Absatz 4 Satz 2 gilt entsprechend.
+1. zu den technischen und zu den organisatorischen Maßnahmen, um Kontaminationen, Kreuzkontaminationen und Verwechslungen zu vermeiden, einschließlich der Überprüfung ihrer Wirksamkeit,
+
+2. zur Kalibrierung, Qualifizierung, Wartung und Reinigung der Ausrüstungen und des Herstellungsraums,
+
+3. zur Validierung der die Produktqualität beeinflussenden Prozesse, Methoden und Systeme und zur Revalidierung sowie
+
+4. zu den kritischen Ausrüstungsgegenständen oder Geräten.
+
+(2) Das Personal muss für die Tätigkeiten ausreichend qualifiziert sein und regelmäßig geschult werden; die Schulungsmaßnahmen sind zu dokumentieren.
+
+(3) Die Herstellung medizinischer Gase mithilfe industrieller Verfahren ist in einem separaten Raum vorzunehmen, der nicht für andere Tätigkeiten der Apotheke genutzt werden darf.
+
+(4) Die Herstellung ist gemäß der Herstellungsanweisung nach Absatz 1 durchzuführen und zu dokumentieren (Herstellungsprotokoll); aus dem Inhalt des Protokolls müssen sich alle wichtigen, die Herstellung betreffenden Tätigkeiten rückverfolgen lassen. Soweit ein validierter Prozess kontinuierlich gesteuert und überwacht wird, können automatisch erzeugte Aufzeichnungen auf zusammenfassende Ergebnisberichte über die Übereinstimmung und Abweichungen beschränkt werden.
+
+(5) Für die Prüfung von medizinischen Gasen ist eine Prüfanweisung anzufertigen, die von einem Apotheker der Apotheke zu unterschreiben ist. Die Prüfanweisung muss mindestens Angaben enthalten zur Probenahme, zur Probenhäufigkeit, zur Prüfmethode und zu der Art der Prüfungen, einschließlich der zulässigen Soll- oder Grenzwerte.
+
+(6) Die Prüfung ist gemäß der Prüfanweisung nach Absatz 5 durchzuführen und zu dokumentieren (Prüfprotokoll). Das Prüfprotokoll muss die zugrunde liegende Prüfanweisung nennen und insbesondere folgende Angaben enthalten:
+
+1. das Datum der Prüfung,
+
+2. die Prüfergebnisse,
+
+3. das Namenszeichen des Prüfenden sowie
+
+4. die Freigabe durch die Unterschrift eines Apothekers der Apotheke.
+
+###### § 11 Ausgangsstoffe
+
+(1) Zur Herstellung von Arzneimitteln dürfen nur Ausgangsstoffe verwendet werden, deren ordnungsgemäße Qualität festgestellt ist. Auf die Prüfung der Ausgangsstoffe findet § 6 Absatz 1, 3 und 3a entsprechende Anwendung.
+
+(2) Werden Ausgangsstoffe bezogen, deren Qualität durch ein Prüfzertifikat nach § 6 Abs. 3 nachgewiesen ist, ist in der Apotheke mindestens die Identität festzustellen. Das Prüfzertifikat soll auch Auskunft über die GMP-konforme Herstellung des Ausgangsstoffs geben, soweit es sich um einen Wirkstoff handelt. Von der Identitätsfeststellung an Ausgangsstoffen nach Satz 1 kann abgesehen werden, wenn die Herstellung unter Beachtung der Grundsätze der Guten Herstellungspraxis (EU-GMP-Leitfaden) erfolgte und das jeweilige Behältnis mit einer Vorrichtung zum Erkennen einer möglichen Manipulation der äußeren Umhüllung sowie Prüfzertifikat ausgeliefert wurde. Die Verantwortung des Apothekenleiters für die ordnungsgemäße Qualität der Ausgangsstoffe bleibt unberührt. Über die in der Apotheke durchgeführten Prüfungen sind Aufzeichnungen zu machen; § 8 Absatz 4 Satz 2 gilt entsprechend.
 
 (3) Werden Arzneimittel, die keine Fertigarzneimittel sind, zur Herstellung anderer Arzneimittel bezogen, gelten die Absätze 1 und 2 entsprechend.
 
-##### § 11a Tätigkeiten im Auftrag
+###### § 11a Tätigkeiten im Auftrag
 
 (1) Soweit die Apotheke die Herstellung von Arzneimitteln gemäß § 21 Absatz 2 Nummer 1b des Arzneimittelgesetzes oder § 11 Absatz 3 oder 4 des Apothekengesetzes von anderen Betrieben durchführen lassen darf, muss dafür ein schriftlicher Vertrag zwischen der Apotheke als Auftraggeber und dem anderen Betrieb als Auftragnehmer bestehen, der in beiden Betrieben vorliegen muss. In dem Vertrag sind die Verantwortlichkeiten jeder Seite klar festzulegen. Satz 1 gilt entsprechend für die Prüfung von in der Apotheke hergestellten Arzneimitteln sowie für die Prüfung von in der Apotheke zur Arzneimittelherstellung vorgesehenen Ausgangsstoffen, soweit diese über die Identitätsprüfung hinausgeht.
 
 (2) Der Apothekenleiter darf eine Arzneimittelherstellung erst in Auftrag geben, wenn ihm für das betreffende Arzneimittel eine Verordnung des Arztes vorliegt und sich nach Prüfung der Verordnung keine Bedenken ergeben haben. § 7 ist entsprechend anzuwenden. Die Verantwortung für die Qualität des hergestellten Arzneimittels sowie für die Information und Beratung des verordnenden Arztes verbleibt bei der Apotheke als Auftraggeber.
 
-##### § 12 Prüfung der nicht in der Apotheke hergestellten Fertigarzneimittel und apothekenpflichtigen Medizinprodukte
+###### § 12 Prüfung der nicht in der Apotheke hergestellten Fertigarzneimittel und apothekenpflichtigen Medizinprodukte
 
 (1) Fertigarzneimittel, die nicht in der Apotheke hergestellt worden sind, sind stichprobenweise zu prüfen. Dabei darf von einer über die Sinnesprüfung hinausgehenden Prüfung abgesehen werden, wenn sich keine Anhaltspunkte ergeben haben, die Zweifel an der ordnungsgemäßen Qualität des Arzneimittels begründen. Die Sätze 1 und 2 gelten für apothekenpflichtige Medizinprodukte entsprechend.
 
@@ -458,11 +535,11 @@ Das Herstellungsprotokoll ist von einem Apotheker mit seiner Bestätigung zu erg
 
 5. das Namenszeichen des Prüfenden und, falls ein pharmazeutisch-technischer Assistent die Prüfung unter Beaufsichtigung durchgeführt hat, das Namenszeichen des Apothekers, der die Prüfung beaufsichtigt hat.
 
-##### § 13 Behältnisse
+###### § 13 Behältnisse
 
 Zur Herstellung von Arzneimitteln dürfen nur primäre Verpackungsmaterialien verwendet werden, die gewährleisten, dass die Arzneimittel vor physikalischen, mikrobiologischen oder chemischen Veränderungen geschützt sind und die daher für die beabsichtigten Zwecke geeignet sind.
 
-##### § 14 Kennzeichnung
+###### § 14 Kennzeichnung
 
 (1) Rezepturarzneimittel müssen auf den Behältnissen und, soweit verwendet, den äußeren Umhüllungen, mindestens folgende Angaben aufweisen:
 
@@ -484,7 +561,7 @@ Zur Herstellung von Arzneimitteln dürfen nur primäre Verpackungsmaterialien ve
 
 9. soweit das Rezepturarzneimittel auf Grund einer Verschreibung zur Anwendung bei Menschen hergestellt wurde, Name des Patienten.
 
-Die Angaben müssen in gut lesbarer Schrift und auf dauerhafte Weise angebracht und mit Ausnahme der Nummer 5 in deutscher Sprache verfasst sein. Soweit für das Rezepturarzneimittel ein Fertigarzneimittel als Ausgangsstoff eingesetzt wird, genügt anstelle der Angabe nach Satz 1 Nummer 5 die Angabe der Bezeichnung des Fertigarzneimittels; soweit es sich um eine patientenindividuell hergestellte parenterale Zubereitung handelt, sind zusätzlich zu der Angabe nach Satz 1 Nummer 5 die Bezeichnung des Fertigarzneimittels, die Chargenbezeichnung sowie der Name des pharmazeutischen Unternehmers anzugeben. Die Angaben nach Nummer 8 können auch in einem Begleitdokument gemacht werden.
+Die Angaben müssen in gut lesbarer Schrift und auf dauerhafte Weise angebracht und mit Ausnahme der Nummer 5 in deutscher Sprache verfasst sein. Soweit für das Rezepturarzneimittel ein Fertigarzneimittel als Ausgangsstoff eingesetzt wird, genügt anstelle der Angabe nach Satz 1 Nummer 5 die Angabe der Bezeichnung des Fertigarzneimittels. Die Angaben nach Nummer 8 können auch in einem Begleitdokument gemacht werden.
 
 (1a) Soweit es sich bei den Arzneimitteln um aus Fertigarzneimitteln entnommene Teilmengen handelt, sind neben der vom Arzneimittelgesetz geforderten Kennzeichnung Name und Anschrift der Apotheke anzugeben.
 
@@ -500,9 +577,7 @@ ist § 10 des Arzneimittelgesetzes anzuwenden. Soweit für sie eine Zulassung na
 
 (3) In der Apotheke hergestellte Arzneimittel, die keine Fertigarzneimittel und zur Anwendung bei Tieren, die der Gewinnung von Lebensmitteln dienen, bestimmt sind, dürfen nur in den Verkehr gebracht werden, wenn die Behältnisse und, soweit verwendet, die äußeren Umhüllungen mit den Angaben entsprechend den §§ 10 und 11 des Arzneimittelgesetzes versehen sind.
 
-(5) (weggefallen)
-
-##### § 15 Vorratshaltung
+###### § 15 Vorratshaltung
 
 (1) Der Apothekenleiter hat die Arzneimittel und apothekenpflichtigen Medizinprodukte, die zur Sicherstellung einer ordnungsgemäßen Arzneimittelversorgung der Bevölkerung notwendig sind, in einer Menge vorrätig zu halten, die mindestens dem durchschnittlichen Bedarf für eine Woche entspricht. Darüber hinaus sind in der Apotheke vorrätig zu halten:
 
@@ -524,11 +599,13 @@ ist § 10 des Arzneimittelgesetzes anzuwenden. Soweit für sie eine Zulassung na
 
 9. Tetanus-Hyperimmun-Globulin 250 I. E.,
 
-10. Epinephrin zur Injektion,
+10. Epinephrin zur Injektion oder nasalen Anwendung,
 
-11. 0,9 Prozent Kochsalzlösung zur Injektion,
+11. 0,9 Prozent Kochsalzlösung zur Injektion,
 
-12. Verbandstoffe, Einwegspritzen und -kanülen, Katheter, Überleitungsgeräte für Infusionen sowie Produkte zur Blutzuckerbestimmung.
+12. Verbandstoffe, Einwegspritzen und -kanülen, Katheter, Überleitungsgeräte für Infusionen sowie Produkte zur Blutzuckerbestimmung und
+
+13. Opioide in transdermaler und in transmucosaler Darreichungsform.
 
 Abweichend von Satz 1 hat der Apothekenleiter Arzneimittel, die in einer Bekanntmachung nach § 130a Absatz 8b Satz 3 des Fünften Buches Sozialgesetzbuch als Arzneimittel mit drohender oder bestehender versorgungsrelevanter Marktkonzentration eingestuft wurden und aus denen in seiner Apotheke anwendungsfertige Zytostatikazubereitungen hergestellt werden, in einer Menge vorrätig zu halten, die mindestens dem durchschnittlichen Bedarf für vier Wochen entspricht. Die Verpflichtung nach Satz 3 besteht ab dem Zeitpunkt, zu dem seit der Bekanntmachung der Einstufung des jeweiligen Arzneimittels fünf Monate vergangen sind.
 
@@ -558,7 +635,7 @@ Abweichend von Satz 1 hat der Apothekenleiter Arzneimittel, die in einer Bekannt
 
 (3) Der Leiter einer krankenhausversorgenden Apotheke muß die zur Sicherstellung einer ordnungsgemäßen Arzneimittelversorgung der Patienten des Krankenhauses notwendigen Arzneimittel und, soweit nach dem Versorgungsvertrag vorgesehen, Medizinprodukte in einer Art und Menge vorrätig halten, die mindestens dem durchschnittlichen Bedarf für zwei Wochen entspricht. Abweichend von Satz 1 muss der Leiter einer krankenhausversorgenden Apotheke parenteral anzuwendende Arzneimittel und Antibiotika zur intensivmedizinischen Versorgung in einer Art und Menge vorrätig halten, die mindestens dem durchschnittlichen Bedarf der intensivmedizinischen Abteilungen des jeweils versorgten Krankenhauses für sechs Wochen entspricht. Abweichend von Satz 1 muss der Leiter einer krankenhausversorgenden Apotheke Arzneimittel, die in einer Bekanntmachung nach § 130a Absatz 8b Satz 3 des Fünften Buches Sozialgesetzbuch als Arzneimittel mit drohender oder bestehender versorgungsrelevanter Marktkonzentration eingestuft wurden und aus denen in seiner Apotheke anwendungsfertige Zytostatikazubereitungen hergestellt werden, in einer Art und Menge vorrätig halten, die mindestens dem durchschnittlichen Bedarf für vier Wochen entspricht. Die Verpflichtung nach Satz 3 besteht ab dem Zeitpunkt, zu dem seit der Bekanntmachung der Einstufung des jeweiligen Arzneimittels fünf Monate vergangen sind. Die in der krankenhausversorgenden Apotheke vorrätig gehaltenen Arzneimittel und Medizinprodukte sind aufzulisten.
 
-##### § 16 Lagerung
+###### § 16 Lagerung
 
 (1) Arzneimittel, Ausgangsstoffe, Medizinprodukte und apothekenübliche Waren und Prüfmittel sind übersichtlich und so zu lagern, daß ihre Qualität nicht nachteilig beeinflußt wird und Verwechslungen vermieden werden. Soweit ihre ordnungsgemäße Qualität nicht festgestellt ist, sind sie unter entsprechender Kenntlichmachung gesondert zu lagern. Dies gilt auch für Behältnisse, äußere Umhüllungen, Kennzeichnungsmaterial, Packungsbeilagen und Packmittel. Die Vorschriften der Gefahrstoffverordnung, des Betäubungsmittelgesetzes einschließlich der hierzu erlassenen Verordnungen sowie des Medizinprodukterechts bleiben unberührt. Die Lagerungshinweise des Arzneibuches sind zu beachten.
 
@@ -568,7 +645,7 @@ Abweichend von Satz 1 hat der Apothekenleiter Arzneimittel, die in einer Bekannt
 
 (4) (weggefallen)
 
-##### § 17 Erwerb und Abgabe von Arzneimitteln und Medizinprodukten
+###### § 17 Erwerb und Abgabe von Arzneimitteln und Medizinprodukten
 
 (1) Arzneimittel dürfen nur von zur Abgabe von Arzneimitteln berechtigten Betrieben erworben werden.
 
@@ -584,19 +661,19 @@ Abweichend von Satz 1 hat der Apothekenleiter Arzneimittel, die in einer Bekannt
 
 Die Arzneimittel sind für jeden Empfänger getrennt zu verpacken und jeweils mit dessen Namen und Anschrift zu versehen. Abweichend von Satz 1 sind automatisierte Ausgabestationen zur Bereitstellung, Aushändigung und Ausgabe von Arzneimitteln für den zugelassenen Versandhandel mit Arzneimitteln zulässig, wenn sie bestückt werden, nachdem die Voraussetzungen nach Satz 1 Nummer 1 bis 3 erfüllt sind. § 52 Absatz 1 Nummer 1 des Arzneimittelgesetzes bleibt unberührt.
 
-(2) Die Zustellung von Arzneimitteln durch Boten der Apotheke ist ohne Erlaubnis nach § 11a des Apothekengesetzes zulässig. Bei der Zustellung durch Boten der Apotheke sind die Arzneimittel für jeden Empfänger getrennt zu verpacken und jeweils mit dessen Namen und Anschrift zu versehen. Absatz 2a Satz 1 Nummer 1, 2 und 8 und Satz 2 gilt entsprechend. Bei einer Zustellung von Arzneimitteln durch Boten der Apotheke hat der Apothekenleiter sicherzustellen, dass die Arzneimittel dem Empfänger in zuverlässiger Weise geliefert werden. Die Zustellung muss durch pharmazeutisches Personal der Apotheke erfolgen, wenn vor der Auslieferung
+(2) Die Zustellung von Arzneimitteln durch Boten der Apotheke ist ohne Erlaubnis nach § 11a des Apothekengesetzes zulässig. Bei der Zustellung durch Boten der Apotheke sind die Arzneimittel für jeden Empfänger getrennt zu verpacken und jeweils mit dessen Namen und Anschrift zu versehen. Absatz 2a Satz 1 Nummer 1, 2 und 8 und Satz 2 gilt entsprechend. Bei einer Zustellung von Arzneimitteln durch Boten der Apotheke hat der Apothekenleiter sicherzustellen, dass die Arzneimittel dem Empfänger in zuverlässiger Weise geliefert werden und die für das Arzneimittel geltenden Temperaturanforderungen während der Lieferung bis zur Abgabe an den Empfänger eingehalten werden. Die Zustellung muss durch pharmazeutisches Personal der Apotheke erfolgen, wenn vor der Auslieferung
 
-1. bei Arzneimitteln, die der Verschreibungspflicht nach § 48 des Arzneimittelgesetzes unterliegen, die Verschreibung nicht in der Apotheke vorgelegen hat oder
+1. bei Arzneimitteln, die der Verschreibungspflicht nach § 48 des Arzneimittelgesetzes oder § 3 Absatz 1 des Medizinal-Cannabisgesetzes unterliegen, die Verschreibung nicht in der Apotheke vorgelegen hat oder
 
 2. keine Beratung zu den Arzneimitteln stattgefunden hat.
 
-Hat die Verschreibung vor der Auslieferung nicht in der Apotheke vorgelegen, so muss diese spätestens bei der Aushändigung der Arzneimittel übergeben werden. Hat vor der Auslieferung keine Beratung stattgefunden, so muss diese in unmittelbarem Zusammenhang mit der Aushändigung des Arzneimittels erfolgen. Die Beratung kann auch im Wege der Telekommunikation durch die Apotheke erfolgen. § 4 Absatz 1 der Arzneimittelverschreibungsverordnung und § 43 Absatz 5 des Arzneimittelgesetzes bleiben unberührt.
+Hat die Verschreibung vor der Auslieferung nicht in der Apotheke vorgelegen, so muss diese spätestens bei der Aushändigung der Arzneimittel übergeben werden. Hat vor der Auslieferung keine Beratung stattgefunden, so muss diese in unmittelbarem Zusammenhang mit der Aushändigung des Arzneimittels erfolgen. Die Beratung kann auch im Wege der Telekommunikation durch die Apotheke erfolgen. § 4 Absatz 1 der Arzneimittelverschreibungsverordnung bleibt unberührt.
 
 (2a) Bei dem nach § 11a des Apothekengesetzes erlaubten Versand hat der Apothekenleiter sicherzustellen, dass
 
-1. das Arzneimittel so verpackt, transportiert und ausgeliefert wird, dass seine Qualität und Wirksamkeit erhalten bleibt; insbesondere müssen die für das Arzneimittel geltenden Temperaturanforderungen während des Transports bis zur Abgabe an den Empfänger eingehalten werden; die Einhaltung muss bei besonders temperaturempfindlichen Arzneimitteln, soweit erforderlich, durch mitgeführte Temperaturkontrollen valide nachgewiesen werden,
+1. das Arzneimittel so verpackt, transportiert und ausgeliefert wird, dass seine Qualität und Wirksamkeit erhalten bleibt und die Vorgaben des § 35c eingehalten werden,
 
-2. das Arzneimittel entsprechend den Angaben des Auftraggebers ausgeliefert und gegebenenfalls die Auslieferung schriftlich bestätigt wird; der Apotheker kann in begründeten Fällen entgegen der Angabe des Auftraggebers, insbesondere wegen der Eigenart des Arzneimittels, verfügen, dass das Arzneimittel nur gegen schriftliche Empfangsbestätigung ausgeliefert wird,
+2. das Arzneimittel entsprechend den Angaben des Auftraggebers ausgeliefert und gegebenenfalls die Auslieferung schriftlich oder elektronisch bestätigt wird; soweit es sich um ein verschreibungspflichtiges Arzneimittel handelt, ist dieses nur gegen schriftliche oder elektronische Empfangsbestätigung an den Haushalt des Auftraggebers oder eine von dem Auftraggeber namentlich benannte Person oder einen benannten Personenkreis auszuliefern,
 
 3. der Besteller in geeigneter Weise davon unterrichtet wird, wenn erkennbar ist, dass die Versendung des bestellten Arzneimittels nicht innerhalb der in § 11a Nr. 3 Buchstabe a des Apothekengesetzes genannten Frist erfolgen kann,
 
@@ -620,9 +697,21 @@ Die Versendung darf nicht erfolgen, wenn zur sicheren Anwendung des Arzneimittel
 
 (4) Verschreibungen von Personen, die zur Ausübung der Heilkunde, Zahnheilkunde oder Tierheilkunde berechtigt sind, sind in einer der Verschreibung angemessenen Zeit auszuführen.
 
+(4a) Eine Zweigapotheke kann Rezeptur- und Defekturarzneimittel von einer anderen Apotheke, die von demselben Betreiber betrieben wird, beziehen anstelle sie selbst herzustellen. Abweichend von Absatz 4 hat die andere Apotheke die verschriebenen Arzneimittel unverzüglich herzustellen und an die Zweigapotheke oder an den Patienten per Botendienst der Zweigapotheke oder der herstellenden Apotheke zu liefern.
+
 (5) Die abgegebenen Arzneimittel müssen den Verschreibungen und den damit verbundenen Vorschriften des Fünften Buches Sozialgesetzbuch zur Arzneimittelversorgung entsprechen. Verordnete Arzneimittel, die an Versicherte in der privaten Krankenversicherung, Beihilfeempfänger und Selbstzahler abgegeben werden, können durch ein wirkstoffgleiches Arzneimittel ersetzt werden, das mit dem verordneten Arzneimittel in Wirkstärke und Packungsgröße identisch ist, für ein gleiches Anwendungsgebiet zugelassen ist und die gleiche oder eine austauschbare Darreichungsform besitzt, sofern die verordnende Ärztin oder der verordnende Arzt dies nicht ausgeschlossen hat und die Person, für die das Arzneimittel bestimmt ist, einverstanden ist. Enthält eine Verschreibung einen für den Abgebenden erkennbaren Irrtum, ist sie nicht lesbar oder ergeben sich sonstige Bedenken, so darf das Arzneimittel nicht abgegeben werden, bevor die Unklarheit beseitigt ist. Der Apotheker hat jede Änderung auf der Verschreibung zu vermerken und zu unterschreiben oder im Falle der Verschreibung in elektronischer Form der elektronischen Verschreibung hinzuzufügen und das Gesamtdokument mit einer qualifizierten elektronischen Signatur zu versehen. Die Vorschriften der Betäubungsmittel-Verschreibungsverordnung bleiben unberührt.
 
-(5a) Abweichend von Absatz 5 Satz 1 darf der Apotheker bei der Dienstbereitschaft während der Zeiten nach § 23 Absatz 1 Satz 2 ein anderes, mit dem verschriebenen Arzneimittel nach Anwendungsgebiet und nach Art und Menge der wirksamen Bestandteile identisches sowie in der Darreichungsform und pharmazeutischen Qualität vergleichbares Arzneimittel abgeben, wenn das verschriebene Arzneimittel nicht verfügbar ist und ein dringender Fall vorliegt, der die unverzügliche Anwendung des Arzneimittels erforderlich macht.
+(5a) Abweichend von Absatz 5 Satz 1 darf der Apotheker während der folgenden Zeiten ein anderes, mit dem verschriebenen Arzneimittel nach Anwendungsgebiet und nach Art und Menge der wirksamen Bestandteile identisches sowie in der Darreichungsform und pharmazeutischen Qualität vergleichbares Arzneimittel abgeben, wenn das verschriebene Arzneimittel nicht verfügbar ist und ein dringender Fall vorliegt, der die unverzügliche Anwendung des Arzneimittels erforderlich macht:
+
+1. montags bis samstags von 0:00 bis 8:00 Uhr,
+
+2. montags bis freitags von 18:30 bis 24:00 Uhr,
+
+3. samstags von 14:00 bis 24:00 Uhr,
+
+4. sonntags und an gesetzlichen Feiertagen von 0:00 bis 24:00 Uhr und
+
+5. am 24. und 31. Dezember von 14:00 bis 24:00 Uhr.
 
 (5b) Abweichend von Absatz 5 Satz 1 und 2 und Absatz 5a darf der Apotheker bei einem verordneten Arzneimittel, das nicht verfügbar im Sinne des § 129 Absatz 2a Satz 2 des Fünften Buches Sozialgesetzbuch ist, das verordnete Arzneimittel gegen ein verfügbares wirkstoffgleiches Arzneimittel austauschen, sofern der verordnende Arzt dies nicht ausgeschlossen hat und die Person, für die das Arzneimittel bestimmt ist, einverstanden ist. Dabei dürfen Apotheker ohne Rücksprache mit dem verordnenden Arzt von der ärztlichen Verordnung im Hinblick auf Folgendes abweichen, sofern hierdurch die verordnete Gesamtmenge des Wirkstoffs nicht überschritten wird:
 
@@ -696,7 +785,7 @@ Nach dem Versand der Durchschriften der Verschreibungen oder nach der elektronis
 
 1. die gemäß § 52a Absatz 7 des Arzneimittelgesetzes im Rahmen des üblichen Apothekenbetriebs von Apotheken bezogen werden,
 
-2. die von Apotheken bezogen werden, für die dieselbe Erlaubnis nach § 1 Absatz 2 in Verbindung mit § 2 Absatz 4 des Apothekengesetzes erteilt wurde,
+2. die von Apotheken bezogen werden, die von demselben Betreiber betrieben werden,
 
 3. die von Apotheken gemäß § 11 Absatz 3 oder 4 des Apothekengesetzes bezogen werden dürfen,
 
@@ -710,31 +799,37 @@ Werden Arzneimittel von Apotheken bezogen oder von diesen an andere Apotheken we
 
 (8) Das pharmazeutische Personal hat einem erkennbaren Arzneimittelmißbrauch in geeigneter Weise entgegenzutreten. Bei begründetem Verdacht auf Mißbrauch ist die Abgabe zu verweigern.
 
-##### § 18 Einfuhr von Arzneimitteln
+###### § 18 Einfuhr von Arzneimitteln
 
-(1) Werden Fertigarzneimittel nach § 73 Absatz 3 oder Absatz 3b des Arzneimittelgesetzes in den Geltungsbereich dieser Verordnung verbracht, sind folgende Angaben aufzuzeichnen
+(1) Werden Fertigarzneimittel nach § 73 Absatz 3 des Arzneimittelgesetzes in den Geltungsbereich dieser Verordnung verbracht, sind folgende Angaben von der Apotheke aufzuzeichnen:
 
-1. die Bezeichnung des eingeführten Arzneimittels,
+1. die Bezeichnung des in den Geltungsbereich dieser Verordnung verbrachten Arzneimittels,
 
-2. der Name oder die Firma und die Anschrift des pharmazeutischen Unternehmers,
+2. der Name oder die Firma und die Anschrift des auf der Verpackung angegebenen pharmazeutischen Unternehmers,
 
-3. die Chargenbezeichnung, Menge des Arzneimittels und die Darreichungsform,
+3. die Chargenbezeichnung, die Menge des Arzneimittels und die Darreichungsform,
 
-4. der Name oder die Firma und die Anschrift des Lieferanten,
+4. der Name oder die Firma und die Anschrift des Lieferanten der Apotheke,
 
-5. der Name und die Anschrift der Person, für die das Arzneimittel bestimmt ist,
+5. der Name und die Anschrift der Person, für die das Arzneimittel bestellt wurde,
 
-6. der Name und die Anschrift des verschreibenden Arztes oder des verschreibenden Tierarztes,
+6. der Name und die Anschrift des verschreibenden Arztes oder Tierarztes,
 
-7. das Datum der Bestellung und der Abgabe,
+7. das Datum der Bestellung und der Abgabe und
 
 8. das Namenszeichen des Apothekers, der das Arzneimittel abgegeben oder die Abgabe beaufsichtigt hat.
 
 Soweit aus Gründen der Arzneimittelsicherheit besondere Hinweise geboten sind, sind diese bei der Abgabe mitzuteilen. Diese Mitteilung ist aufzuzeichnen.
 
+(1a) Eine krankenhausversorgende Apotheke oder Krankenhausapotheke kann von der Aufzeichnung der in Absatz 1 Satz 1 Nummer 5 und 6 genannten Angaben absehen, wenn in dem von ihr versorgten Krankenhaus sichergestellt ist, dass die eindeutige Zuordnung eines nach § 73 Absatz 3 Satz 1 des Arzneimittelgesetzes in den Geltungsbereich dieser Verordnung verbrachten Fertigarzneimittels, das in angemessenem Umfang zum Zweck der vorübergehenden Bevorratung bestellt und zum Zweck der Verabreichung an einen Patienten des Krankenhauses abgegeben wird, zum konkreten Anwendungsfall mittels folgender Angaben spätestens zum Zeitpunkt der Verabreichung an den Patienten gegeben ist:
+
+1. die Patientenidentifikationsnummer oder Angaben zur eindeutigen Identifizierung der zu behandelnden Person wie Name, Vorname, Geburtsdatum und Adresse und
+
+2. Angaben zur eindeutigen Identifizierung des Arzneimittels einschließlich seiner Chargenbezeichnung.
+
 (2) Fertigarzneimittel, die aus einem Mitgliedstaat der Europäischen Gemeinschaften über den Umfang von § 73 Abs. 3 des Arzneimittelgesetzes hinaus in den Geltungsbereich dieser Verordnung verbracht werden, dürfen von einer Apotheke nur dann erstmals in den Verkehr gebracht werden, wenn sie entsprechend § 6 Absatz 3 Satz 1 bis 3 geprüft sind und die erforderliche Qualität bestätigt ist. Von der Prüfung kann abgesehen werden, wenn die Arzneimittel in dem Mitgliedstaat nach den dort geltenden Rechtsvorschriften geprüft sind und dem Prüfprotokoll entsprechende Unterlagen vorliegen.
 
-##### § 19 Erwerb und Abgabe von verschreibungspflichtigen Tierarzneimitteln
+###### § 19 Erwerb und Abgabe von verschreibungspflichtigen Tierarzneimitteln
 
 (1) Über den Erwerb und die Abgabe von verschreibungspflichtigen Arzneimitteln, die zur Anwendung bei Tieren bestimmt sind, sind zeitlich geordnete Nachweise zu führen. Als ausreichender Nachweis ist anzusehen:
 
@@ -762,11 +857,27 @@ Soweit nach § 4 Abs. 2 der Arzneimittelverschreibungsverordnung eine Verschreib
 
 (3) Der Apothekenleiter hat mindestens einmal jährlich die Ein- und Ausgänge der zur Anwendung bei Tieren bestimmten verschreibungspflichtigen Arzneimittel gegen den vorhandenen Bestand dieser Arzneimittel aufzurechnen und Abweichungen festzustellen.
 
-##### § 20 Information und Beratung
+###### § 20 Information und Beratung
 
 (1) Der Apothekenleiter muss im Rahmen des Qualitätsmanagementsystems sicherstellen, dass Patienten und andere Kunden sowie die zur Ausübung der Heilkunde, Zahnheilkunde oder Tierheilkunde berechtigten Personen hinreichend über Arzneimittel und apothekenpflichtige Medizinprodukte informiert und beraten werden. Die Verpflichtung zur Information und Beratung über Arzneimittel muss durch Apotheker der Apotheke ausgeübt werden, sie kann durch andere Angehörige des pharmazeutischen Personals der Apotheke übernommen werden, wenn der Apothekenleiter dies zuvor schriftlich oder elektronisch festgelegt hat. Dabei hat er auch zu definieren, in welchen Fällen ein Apotheker der Apotheke grundsätzlich hinzuzuziehen ist.
 
 (1a) Durch die Information und Beratung der Patienten und anderen Kunden darf die Therapie der zur Ausübung der Heilkunde, Zahnheilkunde oder Tierheilkunde berechtigten Personen nicht beeinträchtigt werden. Soweit Arzneimittel ohne Verschreibung abgegeben werden, hat der Apotheker dem Patienten und anderen Kunden die zur sachgerechten Anwendung erforderlichen Informationen zu geben.
+
+(1b) Die Durchführung einer in § 129 Absatz 5e Satz 2 und 3 des Fünften Buches Sozialgesetzbuch genannten pharmazeutischen Dienstleistung bei in der privaten Krankenversicherung Versicherten, Beihilfeempfängern und Selbstzahlern ist von der Apotheke mit ihrer Bezeichnung und dem Ergebnis in der elektronischen Patientenakte zu dokumentieren, sofern eine solche elektronische Patientenakte vorhanden ist, die Speicherung technisch möglich ist und der Patient der Speicherung nicht widersprochen hat. Die Apotheke hat die folgenden Ärzte elektronisch über ein sicheres Übermittlungsverfahren nach § 311 Absatz 6 über die jeweilige Durchführung der folgenden pharmazeutischen Dienstleistungen bei in der privaten Krankenversicherung Versicherten, Beihilfeempfängern oder Selbstzahlern zu informieren:
+
+1. den verschreibenden Arzt über jede der in § 129 Absatz 5e Satz 2 oder 3 des Fünften Buches Sozialgesetzbuch genannten pharmazeutischen Dienstleistungen,
+
+2. den behandelnden Hausarzt über eine in § 129 Absatz 5e Satz 3 Nummer 3 des Fünften Buches Sozialgesetzbuch genannte pharmazeutische Dienstleistung und
+
+3. den behandelnden Arzt über eine in § 129 Absatz 5e Satz 3 Nummer 6 oder 7 des Fünften Buches Sozialgesetzbuch genannte pharmazeutische Dienstleistung.
+
+(1c) Bei einer Abgabe von Arzneimitteln nach § 48a des Arzneimittelgesetzes hat der Apotheker die in Satz 3 Nummer 2 und 3 genannten Angaben in der elektronischen Patientenakte des Patienten zu dokumentieren, sofern eine solche elektronische Patientenakte vorhanden ist, die Speicherung technisch möglich ist und der Patient der Speicherung nicht widersprochen hat. Ist keine elektronische Patientenakte vorhanden, hat der Apotheker dem Patienten eine schriftliche Dosierungsanweisung mitzugeben. In der Apotheke sind nach einer Abgabe von Arzneimitteln nach § 48a des Arzneimittelgesetzes die folgenden Angaben zu dokumentieren:
+
+1. Name, Geburtsdatum und Kontaktdaten des Patienten,
+
+2. das abgegebene Arzneimittel einschließlich Wirkstoff, Wirkstärke, Packungsgröße, Chargenbezeichnung und Abgabedatum und
+
+3. die Dosierungsanweisung.
 
 (2) Bei der Information und Beratung über Arzneimittel müssen insbesondere Aspekte der Arzneimittelsicherheit berücksichtigt werden. Die Beratung muss die notwendigen Informationen über die sachgerechte Anwendung des Arzneimittels umfassen, soweit erforderlich, auch über eventuelle Nebenwirkungen oder Wechselwirkungen, die sich aus den Angaben auf der Verschreibung sowie den Angaben des Patienten oder Kunden ergeben, und über die sachgerechte Aufbewahrung oder Entsorgung des Arzneimittels. Bei der Abgabe von Arzneimitteln an einen Patienten oder anderen Kunden ist durch Nachfrage auch festzustellen, inwieweit dieser gegebenenfalls weiteren Informations- und Beratungsbedarf hat und eine entsprechende Beratung anzubieten. Im Falle der Selbstmedikation ist auch festzustellen, ob das gewünschte Arzneimittel zur Anwendung bei der vorgesehenen Person geeignet erscheint oder in welchen Fällen anzuraten ist, gegebenenfalls einen Arzt aufzusuchen. Die Sätze 1 bis 4 sind auf apothekenpflichtige Medizinprodukte entsprechend anzuwenden.
 
@@ -774,7 +885,7 @@ Soweit nach § 4 Abs. 2 der Arzneimittelverschreibungsverordnung eine Verschreib
 
 (4) Dem Leiter einer krankenhausversorgenden Apotheke oder dem von ihm beauftragten Apotheker obliegt die Information und Beratung der Ärzte des Krankenhauses über Arzneimittel und apothekenpflichtige Medizinprodukte. Er ist Mitglied der Arzneimittelkommission des Krankenhauses.
 
-##### § 21 Arzneimittelrisiken, Behandlung nicht verkehrsfähiger Arzneimittel
+###### § 21 Arzneimittelrisiken, Behandlung nicht verkehrsfähiger Arzneimittel
 
 (1) Der Apothekenleiter hat dafür zu sorgen, dass bei Arzneimittelrisiken und nicht verkehrsfähigen Arzneimitteln die Verpflichtungen nach Absatz 2 Satz 2, Absatz 3 Satz 3 und den Absätzen 4 und 5 erfüllt werden.
 
@@ -788,7 +899,7 @@ Soweit nach § 4 Abs. 2 der Arzneimittelverschreibungsverordnung eine Verschreib
 
 (6) Im Fall des Verdachts einer Arzneimittelfälschung, der auf einer Fehlermeldung bei der Überprüfung des individuellen Erkennungsmerkmals gemäß Artikel 11 der Delegierten Verordnung (EU) 2016/161 der Kommission vom 2. Oktober 2015 zur Ergänzung der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates durch die Festlegung genauer Bestimmungen über die Sicherheitsmerkmale auf der Verpackung von Humanarzneimitteln (ABl. L 32 vom 9.2.2016, S. 1) beruht, hat die Information der zuständigen Behörde zu erfolgen, nachdem die Untersuchung nach Artikel 37 Buchstabe d der Delegierten Verordnung (EU) 2016/161 den Verdacht nicht ausräumen konnte.
 
-##### § 22 Allgemeine Dokumentation
+###### § 22 Allgemeine Dokumentation
 
 (1) Alle Aufzeichnungen über die Herstellung, Prüfung, Überprüfung der Arzneimittel im Krankenhaus und in zu versorgenden Einrichtungen im Sinne von § 12a des Apothekengesetzes, Lagerung, Einfuhr, das Inverkehrbringen, den Rückruf, die Rückgabe der Arzneimittel auf Grund eines Rückrufes, die Bescheinigungen nach § 6 Abs. 3 Satz 2 und § 11 Abs. 2 Satz 1 sowie die Nachweise nach § 19 sind vollständig und mindestens bis ein Jahr nach Ablauf des Verfalldatums, jedoch nicht weniger als fünf Jahre lang, aufzubewahren. Der ursprüngliche Inhalt einer Eintragung darf nicht unkenntlich gemacht werden. Es dürfen keine Veränderungen vorgenommen werden, die nicht erkennen lassen, ob sie bei oder nach der ursprünglichen Eintragung vorgenommen worden sind.
 
@@ -796,13 +907,13 @@ Soweit nach § 4 Abs. 2 der Arzneimittelverschreibungsverordnung eine Verschreib
 
 (1b) Aufzeichnungen nach § 17 Abs. 6 Satz 1 Nr. 2 Halbsatz 2 sind nach der letzten Eintragung drei Jahre lang aufzubewahren.
 
-(2) Aufzeichnungen können auch auf Bild- oder Datenträgern vorgenommen und aufbewahrt werden. Hierbei muss sichergestellt sein, dass die Daten während der Aufbewahrungsfrist verfügbar sind und innerhalb einer angemessenen Frist lesbar gemacht werden können. Bei einer Aufzeichnung und Aufbewahrung ausschließlich auf Datenträgern ist ein nach dieser Verordnung gefordertes Namenszeichen durch eine elektronische Signatur und eine eigenhändige Unterschrift durch eine qualifizierte elektronische Signatur zu ersetzen.
+(2) Aufzeichnungen können auch auf Bild- oder Datenträgern vorgenommen und aufbewahrt werden. Hierbei muss sichergestellt sein, dass die Daten während der Aufbewahrungsfrist verfügbar sind und innerhalb einer angemessenen Frist lesbar gemacht werden können. Bei einer Aufzeichnung und Aufbewahrung ausschließlich auf Datenträgern ist ein nach dieser Verordnung gefordertes Namenszeichen durch eine elektronische Signatur und eine eigenhändige Unterschrift durch eine fortgeschrittene elektronische Signatur zu ersetzen.
 
 (3) Die Aufzeichnungen und Nachweise sind der zuständigen Behörde auf Verlangen vorzulegen.
 
 (4) Abweichend von Absatz 1 sind die Aufzeichnungen nach § 17 Abs. 6a mindestens dreißig Jahre aufzubewahren oder zu speichern und zu vernichten oder zu löschen, wenn die Aufbewahrung oder Speicherung nicht mehr erforderlich ist. Werden die Aufzeichnungen länger als dreißig Jahre aufbewahrt oder gespeichert, sind sie zu anonymisieren.
 
-##### § 23 Dienstbereitschaft
+###### § 23 Dienstbereitschaft
 
 (1) Apotheken sind zur ständigen Dienstbereitschaft verpflichtet. Die zuständige Behörde befreit einen Teil der Apotheken ganz oder teilweise zu folgenden Zeiten von der Pflicht zur Dienstbereitschaft:
 
@@ -824,7 +935,7 @@ Soweit nach § 4 Abs. 2 der Arzneimittelverschreibungsverordnung eine Verschreib
 
 (6) Apotheken, die Krankenhäuser mit Arzneimitteln und apothekenpflichtigen Medizinprodukten versorgen, haben unbeschadet der Vorschriften der Absätze 1 bis 4 mit dem Träger des Krankenhauses eine Dienstbereitschaftsregelung zu treffen, die die ordnungsgemäße Arzneimittelversorgung des Krankenhauses und Beratung durch einen Apotheker der Apotheke gewährleistet.
 
-##### § 24 Rezeptsammelstellen
+###### § 24 Rezeptsammelstellen
 
 (1) Einrichtungen zum Sammeln von Verschreibungen (Rezeptsammelstellen) dürfen nur mit Erlaubnis der zuständigen Behörde unterhalten werden. Die Erlaubnis ist dem Inhaber einer Apotheke auf Antrag zu erteilen, wenn zur ordnungsgemäßen Arzneimittelversorgung von abgelegenen Orten oder Ortsteilen ohne Apotheken eine Rezeptsammelstelle erforderlich ist. Die Erlaubnis ist zu befristen und darf die Dauer von drei Jahren nicht überschreiten. Eine wiederholte Erteilung ist zulässig.
 
@@ -834,11 +945,11 @@ Soweit nach § 4 Abs. 2 der Arzneimittelverschreibungsverordnung eine Verschreib
 
 (4) Die Arzneimittel sind in der Apotheke für jeden Empfänger getrennt zu verpacken und jeweils mit dessen Namen und Anschrift zu versehen. Sie sind, sofern sie nicht abgeholt werden, dem Empfänger in zuverlässiger Weise im Wege der Botenzustellung nach § 17 Absatz 2 auszuliefern.
 
-##### § 25 (weggefallen)
+###### § 25 (weggefallen)
 
 -
 
-##### § 25a Abwehr von bedrohlichen übertragbaren Krankheiten
+###### § 25a Abwehr von bedrohlichen übertragbaren Krankheiten
 
 Im Falle einer bedrohlichen übertragbaren Krankheit, deren Ausbreitung eine sofortige und das übliche Maß erheblich überschreitende Bereitstellung von spezifischen Arzneimitteln erforderlich macht, findet § 11 Abs. 2 keine Anwendung auf Ausgangsstoffe, die zur Herstellung von Arzneimitteln im Sinne von § 21 Abs. 2 Nr. 1c des Arzneimittelgesetzes verwendet werden, sofern
 
@@ -853,13 +964,13 @@ Sofern das Behältnis durch einen Betrieb in einem Mitgliedstaat der Europäisch
 ## Dritter Abschnitt Der Betrieb von
 Krankenhausapotheken
 
-##### § 26 Anzuwendende Vorschriften
+###### § 26 Anzuwendende Vorschriften
 
 (1) Die Krankenhausapotheke ist die Funktionseinheit eines Krankenhauses, der die Sicherstellung der ordnungsgemäßen Versorgung von einem oder mehreren Krankenhäusern mit Arzneimitteln und apothekenpflichtigen Medizinprodukten sowie die Information und Beratung über diese Produkte, insbesondere von Ärzten, Pflegekräften und Patienten, obliegt.
 
-(2) Die Vorschriften der §§ 1a und 2a sowie der §§ 4a, 5 bis 8 und 11 bis 14, 16, 17 Absatz 1 und 6c, der §§ 18, 20 Absatz 1 und der §§ 21, 22 und 25a gelten für den Betrieb von Krankenhausapotheken entsprechend.
+(2) Die Vorschriften der §§ 1a und 2a sowie der §§ 4a, 6 bis 8 und 11 bis 14, 16, 17 Absatz 1 und 6c, der §§ 18, 20 Absatz 1 und der §§ 21, 22, 23 Absatz 5 und § 25a gelten für den Betrieb von Krankenhausapotheken entsprechend.
 
-##### § 27 Leiter der Krankenhausapotheke
+###### § 27 Leiter der Krankenhausapotheke
 
 (1) Apothekenleiter ist der vom Träger des Krankenhauses angestellte und mit der Leitung beauftragte Apotheker.
 
@@ -881,7 +992,7 @@ Der Leiter der Krankenhausapotheke ist Mitglied der Arzneimittelkommission des K
 
 (4) Die Vorschriften des § 2 Abs. 3 und 5 gelten entsprechend.
 
-##### § 28 Personal der Krankenhausapotheke
+###### § 28 Personal der Krankenhausapotheke
 
 (1) Das für einen ordnungsgemäßen Betrieb der Krankenhausapotheke notwendige Personal, insbesondere auch das pharmazeutische Personal, muss in ausreichender Zahl vorhanden sein. Der Personalbedarf ergibt sich aus Art und Umfang einer medizinisch zweckmäßigen und ausreichenden Versorgung des Krankenhauses mit Arzneimitteln und apothekenpflichtigen Medizinprodukten unter Berücksichtigung von Größe, Art und Leistungsstruktur des Krankenhauses. Satz 2 gilt entsprechend, soweit die Krankenhausapotheke auch andere Krankenhäuser versorgt.
 
@@ -889,7 +1000,7 @@ Der Leiter der Krankenhausapotheke ist Mitglied der Arzneimittelkommission des K
 
 (3) Die Vorschriften des § 3 Absatz 1, 5, 5b, 5c und 6 gelten entsprechend.
 
-##### § 29 Räume und Einrichtung der Krankenhausapotheke
+###### § 29 Räume und Einrichtung der Krankenhausapotheke
 
 (1) Die für einen ordnungsgemäßen Betrieb der Krankenhausapotheke notwendigen Räume müssen vorhanden sein. Dabei sind Art, Beschaffenheit, Größe und Zahl der Räume sowie die Einrichtung der Krankenhausapotheke an den Maßstäben des § 28 Abs. 1 Satz 2 auszurichten.
 
@@ -897,11 +1008,13 @@ Der Leiter der Krankenhausapotheke ist Mitglied der Arzneimittelkommission des K
 
 (3) Art und Anzahl der Geräte zur Herstellung, Prüfung und Bestimmung von Ausgangsstoffen und Arzneimitteln sowie Art und Anzahl der Prüfmittel haben sich an Größe, Art und Leistungsstruktur des Krankenhauses auszurichten. Die Vorschriften des § 4 Abs. 7 und 8 finden Anwendung.
 
-##### § 30 Vorratshaltung in der Krankenhausapotheke
+###### § 30 Vorratshaltung in der Krankenhausapotheke
 
-Die zur Sicherstellung einer ordnungsgemäßen Versorgung der Patienten des Krankenhauses notwendigen Arzneimittel und apothekenpflichtigen Medizinprodukte müssen in ausreichender Menge vorrätig gehalten werden, die mindestens dem durchschnittlichen Bedarf für zwei Wochen entsprechen muß. Abweichend von Satz 1 müssen parenteral anzuwendende Arzneimittel und Antibiotika zur intensivmedizinischen Versorgung in ausreichender Menge vorrätig gehalten werden, die mindestens dem durchschnittlichen Bedarf der intensivmedizinischen Abteilungen des jeweils versorgten Krankenhauses für sechs Wochen entsprechen muss. Abweichend von Satz 1 müssen Arzneimittel, die in einer Bekanntmachung nach § 130a Absatz 8b Satz 3 des Fünften Buches Sozialgesetzbuch als Arzneimittel mit drohender oder bestehender versorgungsrelevanter Marktkonzentration eingestuft wurden und aus denen in der Krankenhausapotheke anwendungsfertige Zytostatikazubereitungen hergestellt werden, in einer Menge vorrätig gehalten werden, die mindestens dem durchschnittlichen Bedarf für vier Wochen entspricht. Die Verpflichtung nach Satz 3 besteht ab dem Zeitpunkt, zu dem seit der Bekanntmachung der Einstufung des jeweiligen Arzneimittels fünf Monate vergangen sind. Die in der Krankenhausapotheke vorrätig gehaltenen Arzneimittel und Medizinprodukte sind aufzulisten.
+(1) Die zur Sicherstellung einer ordnungsgemäßen Versorgung der Patienten des Krankenhauses notwendigen Arzneimittel und apothekenpflichtigen Medizinprodukte müssen in ausreichender Menge vorrätig gehalten werden, die mindestens dem durchschnittlichen Bedarf für zwei Wochen entsprechen muss. Abweichend von Satz 1 müssen parenteral anzuwendende Arzneimittel und Antibiotika zur intensivmedizinischen Versorgung in ausreichender Menge vorrätig gehalten werden, die mindestens dem durchschnittlichen Bedarf der intensivmedizinischen Abteilungen des jeweils versorgten Krankenhauses für sechs Wochen entsprechen muss. Abweichend von Satz 1 müssen Arzneimittel, die in einer Bekanntmachung nach § 130a Absatz 8b Satz 3 des Fünften Buches Sozialgesetzbuch als Arzneimittel mit drohender oder bestehender versorgungsrelevanter Marktkonzentration eingestuft wurden und aus denen in der Krankenhausapotheke anwendungsfertige Zytostatikazubereitungen hergestellt werden, in einer Menge vorrätig gehalten werden, die mindestens dem durchschnittlichen Bedarf für vier Wochen entspricht. Die Verpflichtung nach Satz 3 besteht ab dem Zeitpunkt, zu dem seit der Bekanntmachung der Einstufung des jeweiligen Arzneimittels fünf Monate vergangen sind. Es ist sicherzustellen, dass Arzneimittel mit den in § 15 Absatz 2 genannten Wirkstoffen entweder in der Apotheke vorrätig gehalten werden oder kurzfristig beschafft werden können. Die in der Krankenhausapotheke vorrätig gehaltenen Arzneimittel und Medizinprodukte sind aufzulisten.
 
-##### § 31 Abgabe in der Krankenhausapotheke
+(2) Die Lagerung von bis zu der Hälfte des Arzneimittelvorrats kann außerhalb der Betriebsräume erfolgen, sofern durch einen Verantwortungsabgrenzungsvertrag zwischen Apotheke und Dienstleister sichergestellt wird, dass die Lagerung qualitätsgesichert in der Verantwortung des Dienstleisters erfolgt, eine Belieferung jederzeit binnen einer Stunde erfolgen kann und die Apotheke regelmäßig die Lagerbedingungen vor Ort überprüft. Eine Zuordnung der Ware zur Apotheke muss jederzeit möglich sein. Die Vereinbarung ist der zuständigen Aufsichtsbehörde anzuzeigen.
+
+###### § 31 Abgabe in der Krankenhausapotheke
 
 (1) Arzneimittel und apothekenpflichtige Medizinprodukte dürfen an Stationen oder andere Teileinheiten des Krankenhauses nur auf Grund einer Verschreibung im Einzelfall oder auf Grund einer schriftlichen Anforderung abgegeben werden. Dies gilt für Verschreibungen oder Anforderungen in elektronischer Form entsprechend.
 
@@ -911,13 +1024,15 @@ Die zur Sicherstellung einer ordnungsgemäßen Versorgung der Patienten des Kran
 
 (4) Die Vorschriften des § 17 Absatz 1, 1a, 4, 5, 6 Satz 1 Nummer 1 bis 3 und Satz 2 bis 4 sowie Absatz 6a bis 6c gelten entsprechend.
 
-##### § 32 Überprüfung der Arzneimittelvorräte und der apothekenpflichtigen Medizinprodukte auf den Stationen
+(5) Arzneimittel, die medizinische Gase sind, dürfen Stationen oder andere Teileinheiten des Krankenhauses entgegen Absatz 1 über ein Leitungssystem zur Verfügung gestellt werden. Der Betrieb des Leitungssystems muss nicht in der Verantwortung der Apotheke erfolgen.
+
+###### § 32 Überprüfung der Arzneimittelvorräte und der apothekenpflichtigen Medizinprodukte auf den Stationen
 
 (1) Die Verpflichtung des Leiters der Krankenhausapotheke oder eines von ihm beauftragten Apothekers der Apotheke zur Überprüfung der Arzneimittelvorräte nach § 14 Abs. 6 des Gesetzes über das Apothekenwesen erstreckt sich auf alle auf den Stationen und in anderen Teileinheiten des Krankenhauses vorrätig gehaltenen Arzneimittel; die Überprüfung der Arzneimittelvorräte muß mindestens halbjährlich erfolgen. Satz 1 gilt entsprechend für apothekenpflichtige Medizinprodukte.
 
 (2) Der überprüfende Apotheker und das ihn unterstützende Apothekenpersonal sind befugt, die Räume zu betreten, die der Arzneimittelversorgung dienen. Die Krankenhausleitung und das übrige Krankenhauspersonal haben die Durchführung der Überprüfung zu unterstützen.
 
-(3) Der Leiter der Krankenhausapotheke oder der von ihm beauftragte Apotheker der Apotheke hat über jede Überprüfung ein Protokoll in vierfacher Ausfertigung anzufertigen. Das Protokoll muß mindestens enthalten
+(3) Der Leiter der Krankenhausapotheke oder der von ihm beauftragte Apotheker der Apotheke hat über jede Überprüfung der Arzneimittelvorräte des zu versorgenden Krankenhauses unverzüglich ein Protokoll insbesondere mit den in Satz 2 genannten Informationen anzufertigen. Im Protokoll sind mindestens die folgenden Informationen aufzuführen:
 
 1. das Datum der Überprüfung,
 
@@ -931,29 +1046,33 @@ a) der allgemeinen Lagerungs- und Aufbewahrungsbedingungen,
 
 b) der Lagerung und Aufbewahrung der Arzneimittel und Medizinprodukte nach den anerkannten pharmazeutischen Regeln,
 
-c) der Beschaffenheit einschließlich der Kennzeichnung der Arzneimittel und Medizinprodukte,
+c) der Beschaffenheit einschließlich der Kennzeichnung der Arzneimittel und Medizinprodukte und
 
 d) der Verfalldaten,
 
 5. die festgestellten Mängel,
 
-6. die zur Beseitigung der Mängel veranlaßten Maßnahmen,
+6. die zur Beseitigung der Mängel veranlassten Maßnahmen,
 
 7. den zur Beseitigung der Mängel gesetzten Termin,
 
-8. Angaben über die Beseitigung früher festgestellter Mängel,
+8. Angaben über die Beseitigung früher festgestellter Mängel und
 
-9. die Unterschrift mit Datum des für die Überprüfung verantwortlichen Apothekers.
+9. das Namenszeichen des für die Überprüfung verantwortlichen Apothekers mit Datum.
 
-Eine Ausfertigung des Protokolls ist der Krankenhausleitung spätestens vier Wochen, bei schwerwiegenden Mängeln unmittelbar nach Durchführung der Überprüfung zuzuleiten, jeweils eine weitere ist dem Arzt sowie der Pflegedienstleitung auszuhändigen, die für die Arzneimittelversorgung der Station oder der anderen Teileinheit des Krankenhauses zuständig ist, und die vierte ist in der Apotheke aufzubewahren.
+Das Protokoll ist vom Leiter der Krankenhausapotheke oder von dem von ihm beauftragten Apotheker der Apotheke für den in § 22 Absatz 1 Satz 1 genannten Zeitraum aufzubewahren und spätestens vier Wochen nach Durchführung der Überprüfung, bei schwerwiegenden Mängeln unmittelbar zu übermitteln an
 
-##### § 33 Dienstbereitschaft der Krankenhausapotheke
+1. die Krankenhausleitung und
+
+2. den Arzt sowie die Pﬂegedienstleitung, die für die Arzneimittelversorgung der Station oder der anderen Teileinheit des Krankenhauses zuständig sind.
+
+###### § 33 Dienstbereitschaft der Krankenhausapotheke
 
 Eine die ordnungsgemäße Arzneimittelversorgung des Krankenhauses gewährleistende Dienstbereitschaft ist durch den Inhaber der Erlaubnis sicherzustellen. Dies schließt auch ein, dass die Beratung durch einen Apotheker der Apotheke gewährleistet ist.
 
 ## Vierter Abschnitt Sondervorschriften
 
-##### § 34 Patientenindividuelles Stellen oder Verblistern von Arzneimitteln
+###### § 34 Patientenindividuelles Stellen oder Verblistern von Arzneimitteln
 
 (1) Im Qualitätsmanagementsystem nach § 2a sind insbesondere folgende Festlegungen zu treffen:
 
@@ -997,7 +1116,7 @@ Eine die ordnungsgemäße Arzneimittelversorgung des Krankenhauses gewährleiste
 
 Dem neu verpackten Arzneimittel sind die Packungsbeilagen der enthaltenen Fertigarzneimittel gemäß § 11 Absatz 7 des Arzneimittelgesetzes beizufügen.
 
-##### § 35 Herstellung von Arzneimitteln zur parenteralen Anwendung
+###### § 35 Herstellung von Arzneimitteln zur parenteralen Anwendung
 
 (1) Im Qualitätsmanagementsystem nach § 2a sind insbesondere Festlegungen zu treffen
 
@@ -1041,7 +1160,7 @@ Für die Zubereitung von Arzneimitteln, die nicht im geschlossenen System herges
 
 (6) Auf die Herstellung der parenteralen Arzneimittel sind die §§ 6 bis 8 anzuwenden. Die Plausibilitätsprüfung der ärztlichen Verordnung muss insbesondere auch patientenindividuelle Faktoren sowie die Regeldosierung und die daraus möglicherweise resultierende individuelle Dosis beinhalten. Die Herstellungsanweisung muss auch eine Kontrolle der Berechnungen, der Einwaagen und der einzusetzenden Ausgangsstoffe durch eine zweite Person oder durch validierte elektronische Verfahren sowie eine Dichtigkeitsprüfung des befüllten Behältnisses vorsehen.
 
-##### § 35a Vorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken
+###### § 35a Vorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken
 
 (1) Im Qualitätsmanagementsystem nach § 2a sind zur Vorbereitung und Durchführung von Schutzimpfungen insbesondere Festlegungen zu treffen:
 
@@ -1051,7 +1170,7 @@ Für die Zubereitung von Arzneimitteln, die nicht im geschlossenen System herges
 
 3. zur Anamnese und zur Entscheidung, wann die Schutzimpfung nicht durchgeführt wird,
 
-4. zur Durchführung der Impfung,
+4. zur Verabreichung des Impfstoffs,
 
 5. zur Dokumentation der Impfung,
 
@@ -1059,9 +1178,9 @@ Für die Zubereitung von Arzneimitteln, die nicht im geschlossenen System herges
 
 7. zur Meldung bei Verdacht auf eine über das übliche Ausmaß einer Impfreaktion hinausgehenden gesundheitlichen Schädigung.
 
-(2) Nur Apotheker, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind, dürfen die Aufklärung, die Anamnese, das Einholen der Einwilligung der zu impfenden Person und die Schutzimpfungen durchführen. Bei der Vorbereitung und der Dokumentation der Impfung darf das pharmazeutische Personal der Apotheke unterstützen. Das pharmazeutische Personal der Apotheke muss für die Tätigkeit ausreichend qualifiziert sein und regelmäßig geschult werden; die Schulungsmaßnahmen sind zu dokumentieren. Das nach § 3 Absatz 2 Satz 1 erforderliche Personal ergibt sich aus dem Umfang der Schutzimpfungen.
+(2) Nur Apotheker, die nach § 20c Absatz 1 des Infektionsschutzgesetzes zur Durchführung von Schutzimpfungen berechtigt sind, dürfen die Aufklärung, die Anamnese und das Einholen der Einwilligung der zu impfenden Person durchführen und die Impfstoffe verabreichen. Abweichend von Satz 1 dürfen auch Personen, die die Voraussetzungen des § 20c Absatz 4 Satz 1 des Infektionsschutzgesetzes erfüllen und an die die Verabreichung der Impfstoffe delegiert wurde, die Impfstoffe verabreichen. Die in Satz 2 genannten Personen dürfen Impfstoffe nur unter Aufsicht des delegierenden Apothekers verabreichen. Bei der Vorbereitung und der Dokumentation der Impfung darf das pharmazeutische Personal der Apotheke unterstützen. Das pharmazeutische Personal der Apotheke muss für die Tätigkeit ausreichend qualifiziert sein und regelmäßig geschult werden; die Schulungsmaßnahmen sind zu dokumentieren. Das nach § 3 Absatz 2 Satz 1 erforderliche Personal ergibt sich aus dem Umfang der Schutzimpfungen.
 
-(3) Für die Aufklärung, die Anamnese, das Einholen der Einwilligung von impfwilligen Personen, die Vorbereitung und die Durchführung der Schutzimpfungen muss eine geeignete Räumlichkeit einschließlich Wartebereich mit der Ausstattung zur Verfügung stehen, die für die Durchführung von Schutzimpfungen erforderlich ist, sofern kein aufsuchendes Impfen durchgeführt wird. Durch die Nutzung der Räumlichkeit zum Impfen darf der ordnungsgemäße Betrieb der Apotheke nicht gestört werden; insbesondere können keine Räume genutzt werden, die für einen anderweitigen Zweck vorgesehen und in denen die notwendigen Hygienemaßnahmen nicht umsetzbar sind. Ein unbefugter Zugriff auf apothekenpflichtige Arzneimittel, Ausgangsstoffe und Chemikalien ist auszuschließen. Auf Räumlichkeiten, in denen Schutzimpfungen durchgeführt werden, wird § 4 Absatz 1 Satz 2 Nummer 5 nicht angewendet. Diese Räumlichkeiten müssen jedoch in angemessener Nähe zu den übrigen Betriebsräumen liegen. Sowohl beim Aufklärungsgespräch als auch bei der Durchführung der Schutzimpfung ist die Privatsphäre der zu impfenden Personen zu schützen.
+(3) Für die Aufklärung, die Anamnese, das Einholen der Einwilligung von impfwilligen Personen, die Vorbereitung der Schutzimpfungen und die Verabreichung der Impfstoffe muss eine geeignete Räumlichkeit einschließlich Wartebereich mit der Ausstattung zur Verfügung stehen, die für die Durchführung von Schutzimpfungen erforderlich ist, sofern kein aufsuchendes Impfen durchgeführt wird.♦ Durch die Nutzung der Räumlichkeit zum Impfen darf der ordnungsgemäße Betrieb der Apotheke nicht gestört werden; in der Räumlichkeit müssen die notwendigen Hygienemaßnahmen umgesetzt werden und die Räumlichkeit darf während der Durchführung von Schutzimpfungen nicht für anderweitige Zwecke genutzt werden. Ein unbefugter Zugriff auf apothekenpflichtige Arzneimittel, Ausgangsstoffe und Chemikalien ist auszuschließen.♦
 
 (4) Vor der Schutzimpfung hat die impfende Person die zu impfende Person über die zu verhütende Krankheit und die Impfung aufzuklären, die Anamnese durchzuführen und die Einwilligung der zu impfenden Person einzuholen. Die Aufklärung umfasst insbesondere
 
@@ -1089,21 +1208,93 @@ Für die Zubereitung von Arzneimitteln, die nicht im geschlossenen System herges
 
 6. Name der geimpften Person, deren Geburtsdatum und Anschrift,
 
-7. Name und Anschrift der Apotheke und
+7. Name und Anschrift der Apotheke,
 
-8. Name und Bestätigung der Person, die die Aufklärung, Anamnese und Impfung durchgeführt hat.
+8. Name und Bestätigung der Person, die die Aufklärung und Anamnese durchgeführt und die Einwilligung der zu impfenden Person eingeholt hat, und
 
-Erfolgt nach Durchführung der Aufklärung oder der Anamnese keine Impfung, ist keine Dokumentation nach Satz 1 Nummer 4 und 5 erforderlich. Die Dokumentation der Schutzimpfung ist für die Dauer von zehn Jahren ab dem Datum, an dem die Impfung durchgeführt wurde, aufzubewahren.
+9. Name und Bestätigung der Person, die den Impfstoff verabreicht hat, und im Fall einer Delegation der Verabreichung des Impfstoffs nach § 20c Absatz 4 Satz 1 des Infektionsschutzgesetzes das Namenszeichen des Apothekers, der die Impfung beaufsichtigt hat.
+
+Erfolgt nach Durchführung der Aufklärung oder der Anamnese keine Impfung, ist keine Dokumentation der in Satz 1 Nummer 4, 5 und 9 genannten Angaben erforderlich. Die Dokumentation der Schutzimpfung ist für die Dauer von zehn Jahren ab dem Datum, an dem die Impfung durchgeführt wurde, aufzubewahren.
 
 (6) Es sind geeignete Hygienemaßnahmen zum Schutz der zu impfenden Person und des Apothekenpersonals zu treffen.
 
-##### § 35b (weggefallen)
+###### § 35b Vorbereitung und Durchführung von Blutentnahmen durch öffentliche Apotheken
 
--
+(1) Im Qualitätsmanagementsystem nach § 2a sind zur Vorbereitung und Durchführung von Blutentnahmen insbesondere Festlegungen zu treffen
+
+1. zur Vorbereitung der Blutentnahme,
+
+2. zur Aufklärung und Einholung der Einwilligung der Person, der Blut entnommen werden soll,
+
+3. zur Anamnese und zur Entscheidung, wann die Blutentnahme nicht durchgeführt wird,
+
+4. zur Durchführung der Blutentnahme,
+
+5. zur Dokumentation der Blutentnahme und
+
+6. zu den Hygienemaßnahmen einschließlich des hygienischen Verhaltens der an den Vorbereitungen und der Durchführung der Blutentnahme beteiligten Personen.
+
+(2) Nur Apotheker, die nach § 11c Absatz 1 des Apothekengesetzes zur Durchführung von Blutentnahmen berechtigt sind, dürfen die Aufklärung, die Anamnese, das Einholen der Einwilligung der Person, der Blut entnommen werden soll, und die Blutentnahmen durchführen. Abweichend von Satz 1 dürfen auch Personen, die die Voraussetzungen des § 11c Absatz 3 Satz 1 des Apothekengesetzes erfüllen und an die die Entnahme des venösen Blutes delegiert wurde, venöses Blut entnehmen. Die in Satz 2 genannten Personen dürfen nur unter Aufsicht des delegierenden Apothekers venöses Blut entnehmen. Bei der Vorbereitung und der Dokumentation der Blutentnahmen darf das pharmazeutische Personal der Apotheke unterstützen. Das pharmazeutische Personal der Apotheke muss für die Tätigkeit ausreichend qualifiziert sein und regelmäßig geschult werden; die Schulungsmaßnahmen sind zu dokumentieren. Das nach § 3 Absatz 2 Satz 1 erforderliche Personal ergibt sich aus dem Umfang der Blutentnahmen.
+
+(3) Für die Aufklärung, die Anamnese, das Einholen der Einwilligung von Personen, denen Blut entnommen werden soll, die Vorbereitung und die Durchführung der Blutentnahmen muss eine geeignete Räumlichkeit mit der Ausstattung zur Verfügung stehen, die für die Durchführung von Blutentnahmen erforderlich ist. Durch die Nutzung der Räumlichkeit zur Blutentnahme darf der ordnungsgemäße Betrieb der Apotheke nicht gestört werden; in der Räumlichkeit müssen die notwendigen Hygienemaßnahmen umgesetzt werden und die Räumlichkeit darf während der Durchführung von Blutentnahmen nicht für anderweitige Zwecke genutzt werden. Ein unbefugter Zugriff auf apothekenpflichtige Arzneimittel, Ausgangsstoffe und Chemikalien ist auszuschließen. Sowohl beim Aufklärungsgespräch als auch bei der Durchführung der Blutentnahmen ist die Privatsphäre der Personen, bei denen Blut entnommen werden soll, zu schützen.
+
+(4) Vor der Blutentnahme hat der Apotheker die Person, der Blut entnommen werden soll, mündlich über die Blutentnahme und deren diagnostischen Zweck aufzuklären, die Anamnese durchzuführen und die Einwilligung der Person einzuholen. Die Aufklärung umfasst insbesondere
+
+1. Informationen über den Nutzen und Zweck der Blutentnahme,
+
+2. Hinweise auf mögliche Nebenwirkungen und Komplikationen,
+
+3. Empfehlungen über Verhaltensmaßnahmen im Anschluss an die Blutentnahme,
+
+4. Informationen über die Dauer der Auswertung und die Besprechung der Ergebnisse der Blutuntersuchung.
+
+(5) Die Dokumentation ist in unmittelbarem zeitlichem Zusammenhang mit der Durchführung der Aufklärung, der Anamnese und der Blutentnahme durchzuführen. Die Dokumentation der Blutentnahme muss Angaben enthalten zu
+
+1. Datum und Durchführung der Aufklärung der Person, der Blut entnommen werden soll,
+
+2. Datum und Durchführung der Anamnese,
+
+3. Einwilligung der Person, der Blut entnommen werden soll,
+
+4. Datum der Blutentnahme,
+
+5. Name der Person, der Blut entnommen wurde, ihr Geburtsdatum und ihre Anschrift,
+
+6. Name und Anschrift der Apotheke,
+
+7. Name und Bestätigung der Person, die die Aufklärung und Anamnese durchgeführt und die Einwilligung der Person, der Blut entnommen werden soll, eingeholt hat und
+
+8. Name und Bestätigung der Person, die die Blutentnahme durchgeführt hat, und im Fall einer Delegation nach § 11c Absatz 3 Satz 1 des Apothekengesetzes das Namenszeichen des Apothekers, der die Blutentnahme beaufsichtigt hat.
+
+Erfolgt nach Durchführung der Aufklärung oder der Anamnese keine Blutentnahme, ist keine Dokumentation nach Satz 2 Nummer 4 und 8 erforderlich. Die Dokumentation der Blutentnahme ist für die Dauer von zehn Jahren ab dem Datum, an dem die Blutentnahme durchgeführt wurde, aufzubewahren.
+
+(6) Es sind geeignete Hygienemaßnahmen zum Schutz der Person, der Blut entnommen werden soll, und des Apothekenpersonals zu treffen.
+
+###### § 35c Versand von Arzneimitteln
+
+(1) Bei dem Versand von apothekenpflichtigen Arzneimitteln an Endverbraucher sind für die Verpackung, den Transport und die Auslieferung von Arzneimitteln nach § 17 Absatz 2a Satz 1 Nummer 1 im Qualitätsmanagementsystem nach § 2a vom Apothekenleiter Festlegungen zu einem risikobasierten Ansatz der Transportplanung zu treffen, insbesondere
+
+1. zu geeigneten Transportbedingungen, die sich aus den Anforderungen des jeweiligen Arzneimittels im Hinblick auf die Gewährleistung seiner Qualität, Wirksamkeit und Unversehrtheit ergeben,
+
+2. zur Auswahl einer geeigneten Transportverpackung, die den Schutz des jeweiligen Arzneimittels insbesondere vor Bruch oder Beeinträchtigung gewährleistet und
+
+3. zu den Informationen, die dem beauftragten Logistikunternehmen zur Ausführung eines Auftrages zur Verfügung zu stellen sind, insbesondere hinsichtlich des Umgangs mit dem auszuliefernden Arzneimittel, des Empfängers und der Handlungsanweisungen im Fall von dessen Abwesenheit.
+
+(2) Die am Versand beteiligten Mitarbeiter der Apotheke müssen für ihre jeweilige Tätigkeit ausreichend qualifiziert sein und regelmäßig zu den Anforderungen an den Versand von Arzneimitteln geschult werden. Die Schulungsmaßnahmen sind zu dokumentieren.
+
+(3) Im Rahmen der Transportplanung einschließlich der Auswahl der Transportverpackung ist sicherzustellen, dass das jeweilige Arzneimittel während des Transports bis zur Abgabe an den Empfänger einschließlich einer möglichen Zwischenlagerung nicht beschädigt oder seine Qualität oder Wirksamkeit nicht beeinträchtigt wird. Beim Versand kühlpflichtiger oder kühlkettenpflichtiger Arzneimittel ist
+
+1. der Einsatz geeigneter aktiver oder passiver Kühlsysteme vorzusehen, die die Qualität und Wirksamkeit des Arzneimittels während des gesamten Transportzeitraumes gewährleisten,
+
+2. soweit erforderlich, eine valide Nachweisführung durch mitgeführte Temperaturkontrollen vorzusehen und
+
+3. sicherzustellen, dass keine Auslieferung über nicht personenbetriebene stationäre Einrichtungen, in denen Postsendungen abgeholt oder eingeliefert werden können, erfolgt.
+
+Werden beim Versand von kühlpflichtigen oder kühlkettenpflichtigen Arzneimitteln passive Kühlsysteme genutzt, hat der Apothekenleiter in Abhängigkeit erwarteter Umgebungsbedingungen eine maximale Transportzeit zu bestimmen, bei deren Überschreitung eine Abgabe an den Empfänger nicht mehr erfolgen soll.
 
 ## Fünfter Abschnitt Ordnungswidrigkeiten, Übergangs- und Schlussbestimmungen
 
-##### § 36 Ordnungswidrigkeiten
+###### § 36 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 25 Abs. 2 des Gesetzes über das Apothekenwesen handelt, wer vorsätzlich oder fahrlässig
 
@@ -1113,43 +1304,47 @@ Ordnungswidrig im Sinne des § 25 Abs. 2 des Gesetzes über das Apothekenwesen h
 
 1b. entgegen § 17 Abs. 2b ein dort genanntes Arzneimittel im Wege des Versandes in den Verkehr bringt,
 
-1c. entgegen § 35a Absatz 2 Satz 1 eine Schutzimpfung durchführt,
+1c. entgegen § 35a Absatz 2 Satz 1 oder 3 einen Impfstoff verabreicht,
+
+1d. entgegen § 35b Absatz 2 Satz 1 oder 3 eine Blutentnahme durchführt,
 
 2. als Apothekenleiter
 
-a) entgegen § 2 Absatz 3a Satz 1 Nummer 1 nicht sicherstellt, dass eine Aufklärung, Anamnese oder das Einholen der Einwilligung der zu impfenden Person durchgeführt wird,
+a) entgegen § 2 Absatz 3a Satz 1 Nummer 1 oder 2 nicht sicherstellt, dass eine Schutzimpfung nur unter den dort genannten Voraussetzungen durchgeführt wird,
 
-b) entgegen § 2 Absatz 3a Satz 1 Nummer 2 nicht sicherstellt, dass eine Schutzimpfung nur durch einen berechtigten Apotheker durchgeführt wird,
+b) entgegen § 2 Absatz 3a Satz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-c) entgegen § 2 Absatz 3a Satz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+c) entgegen § 2 Absatz 3a Satz 3 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-d) entgegen § 2 Absatz 3a Satz 3 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+d) entgegen § 2 Absatz 3b Satz 1 Nummer 1 oder 2 nicht sicherstellt, dass eine Blutentnahme nach den dort genannten Voraussetzungen durchgeführt wird,
 
-e) einer Vorschrift des § 2 Abs. 5 oder 6 Satz 1, 2 oder 3 über die Vertretung des Apothekenleiters zuwiderhandelt,
+e) entgegen § 2 Absatz 3b Satz 2 oder 3 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-f) entgegen § 2a Absatz 1 Satz 1 ein Qualitätsmanagementsystem nicht betreibt,
+f) einer Vorschrift des § 2 Abs. 5 oder 6 Satz 1, 2 oder 3 über die Vertretung des Apothekenleiters zuwiderhandelt,
 
-g) entgegen § 3 Abs. 5 Satz 1 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 oder § 3 Abs. 5 Satz 2 pharmazeutische Tätigkeiten ausführen lässt,
+g) entgegen § 2a Absatz 1 Satz 1 ein Qualitätsmanagementsystem nicht betreibt,
 
-h) entgegen § 3 Abs. 5 Satz 3 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 pharmazeutische Tätigkeiten nicht beaufsichtigt oder nicht durch einen Apotheker beaufsichtigen läßt,
+h) entgegen § 3 Abs. 5 Satz 1 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 oder § 3 Abs. 5 Satz 2 pharmazeutische Tätigkeiten ausführen lässt,
 
-i) entgegen § 15 Absatz 1 Satz 2 ein dort genanntes Arzneimittel nicht vorrätig hält,
+i) entgegen § 3 Absatz 5 Satz 3 oder 6 eine pharmazeutische Tätigkeit nicht beaufsichtigt und nicht beaufsichtigen lässt,
 
-j) entgegen § 15 Absatz 2 nicht sicherstellt, dass ein dort genanntes Arzneimittel vorrätig gehalten wird oder kurzfristig beschafft werden kann,
+j) entgegen § 15 Absatz 1 Satz 2 ein dort genanntes Arzneimittel nicht vorrätig hält,
 
-k) entgegen § 17 Absatz 1a Satz 1 Arzneimittel außerhalb der Apothekenbetriebsräume oder entgegen § 17 Abs. 3 apothekenpflichtige Arzneimittel im Wege der Selbstbedienung in den Verkehr bringt,
+k) entgegen § 15 Absatz 2 nicht sicherstellt, dass ein dort genanntes Arzneimittel vorrätig gehalten wird oder kurzfristig beschafft werden kann,
 
-l) entgegen § 17 Abs. 7 in Verbindung mit § 31 Abs. 1 Satz 1 oder Abs. 3, jeweils auch in Verbindung mit § 2 Abs. 2 Satz 2 und 3, Arzneimittel abgibt oder abgeben läßt,
+l) entgegen § 17 Absatz 1a Satz 1 Arzneimittel außerhalb der Apothekenbetriebsräume oder entgegen § 17 Abs. 3 apothekenpflichtige Arzneimittel im Wege der Selbstbedienung in den Verkehr bringt,
 
-m) entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 1 und mit § 2 Abs. 2 Satz 2 und 3 auf den Stationen oder in anderen Teileinheiten des Krankenhauses vorrätig gehaltene Arzneimittel nicht, nicht vollständig oder nicht rechtzeitig überprüft oder durch einen Apotheker überprüfen läßt oder entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 3 und mit § 2 Abs. 2 Satz 2 das vorgeschriebene Protokoll nicht, nicht richtig oder nicht vollständig anfertigt, nicht der Krankenhausleitung zuleitet, nicht dem zuständigen Arzt aushändigt oder nicht aufbewahrt oder diese Maßnahmen nicht durch einen Apotheker ausführen läßt,
+m) entgegen § 17 Absatz 2a die Anforderungen bei dem nach § 11a des Apothekengesetzes erlaubten Versand nicht sicherstellt,
 
-n) entgegen § 21 nicht dafür sorgt, daß die dort genannten Maßnahmen bei Arzneimittelrisiken oder nicht verkehrsfähigen Arzneimitteln getroffen werden,
+n) entgegen § 17 Abs. 7 in Verbindung mit § 31 Abs. 1 Satz 1 oder Abs. 3, jeweils auch in Verbindung mit § 2 Abs. 2 Satz 2 und 3, Arzneimittel abgibt oder abgeben läßt,
 
-o) entgegen § 23 Abs. 1 die Apotheke nicht dienstbereit hält,
+o) entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 1 und mit § 2 Abs. 2 Satz 2 und 3 auf den Stationen oder in anderen Teileinheiten des Krankenhauses vorrätig gehaltene Arzneimittel nicht, nicht vollständig oder nicht rechtzeitig überprüft oder durch einen Apotheker überprüfen läßt oder entgegen § 17 Abs. 7 in Verbindung mit § 32 Abs. 3 und mit § 2 Abs. 2 Satz 2 das vorgeschriebene Protokoll nicht, nicht richtig oder nicht vollständig anfertigt, nicht der Krankenhausleitung zuleitet, nicht dem zuständigen Arzt aushändigt oder nicht aufbewahrt oder diese Maßnahmen nicht durch einen Apotheker ausführen läßt,
 
-p) entgegen § 23 Abs. 5 in Verbindung mit § 2 Abs. 2 Satz 2 und 3 an sichtbarer Stelle einen gut lesbaren Hinweis auf die nächstgelegenen dienstbereiten Apotheken nicht anbringt oder nicht anbringen läßt,
+p) entgegen § 21 nicht dafür sorgt, daß die dort genannten Maßnahmen bei Arzneimittelrisiken oder nicht verkehrsfähigen Arzneimitteln getroffen werden,
 
-q) entgegen § 24 Abs. 1 Satz 1 eine Rezeptsammelstelle ohne die erforderliche Erlaubnis unterhält,
+q) entgegen § 23 Absatz 1 Satz 1 die Apotheke nicht in Dienstbereitschaft hält oder
+
+r) entgegen § 24 Abs. 1 Satz 1 eine Rezeptsammelstelle ohne die erforderliche Erlaubnis unterhält,
 
 3. als Apothekenleiter oder Angehöriger des pharmazeutischen Personals
 
@@ -1171,7 +1366,7 @@ h) entgegen § 18 Abs. 1 Satz 1 bei dem Verbringen von Arzneimitteln die vorgesc
 
 i) entgegen § 19 Abs. 1 Satz 1 die dort vorgeschriebenen Nachweise nicht führt oder entgegen § 19 Abs. 2 Satz 1 die dort genannten Arzneimittel abgibt, ohne daß eine Verschreibung in zweifacher Ausfertigung vorliegt,
 
-j) Aufzeichnungen, Bescheinigungen oder Nachweise nicht entsprechende § 22 Abs. 1 Satz 1 aufbewahrt oder entgegen § 22 Abs. 1 Satz 2 oder 3 Aufzeichnungen, Bescheinigungen oder Nachweise unkenntlich macht oder Veränderungen vornimmt,
+j) Aufzeichnungen, Bescheinigungen oder Nachweise nicht entsprechende § 22 Abs. 1 Satz 1 anfertigt, aufbewahrt oder entgegen § 22 Abs. 1 Satz 2 oder 3 Aufzeichnungen, Bescheinigungen oder Nachweise unkenntlich macht oder Veränderungen vornimmt,
 
 k) entgegen § 22 Abs. 4 Satz 1 eine Aufzeichnung nicht oder nicht mindestens dreißig Jahre aufbewahrt und nicht oder nicht mindestens dreißig Jahre speichert oder
 
@@ -1181,13 +1376,15 @@ a) entgegen § 26 Abs. 2 in Verbindung mit § 21 nicht dafür sorgt, daß die do
 
 b) entgegen § 28 Abs. 3 in Verbindung mit § 3 Abs. 5 Satz 1 und mit § 27 Abs. 2 Satz 1 pharmazeutische Tätigkeiten ausführen lässt,
 
-c) entgegen § 28 Abs. 3 in Verbindung mit § 3 Abs. 5 Satz 3 und mit § 27 Abs. 2 Satz 1 pharmazeutische Tätigkeiten nicht beaufsichtigt oder nicht durch einen Apotheker beaufsichtigen läßt,
+c) entgegen § 28 Absatz 3 in Verbindung mit § 3 Absatz 5 Satz 3 oder 6 eine pharmazeutische Tätigkeit nicht beaufsichtigt und nicht beaufsichtigen lässt,
 
-d) entgegen § 31 Abs. 1 Satz 1, Abs. 3 oder 4 in Verbindung mit § 17 Abs. 5 Satz 1, jeweils in Verbindung mit § 27 Abs. 2 Satz 1, Arzneimittel abgibt oder abgeben läßt oder
+d) entgegen § 30 Satz 6 in Verbindung mit § 15 Absatz 2 nicht sicherstellt, dass ein dort genanntes Arzneimittel vorrätig gehalten wird oder kurzfristig beschafft werden kann,
 
-e) entgegen § 32 Abs. 1 in Verbindung mit § 27 Abs. 2 Satz 1 auf den Stationen oder in anderen Teileinheiten des Krankenhauses vorrätig gehaltene Arzneimittel nicht, nicht vollständig oder nicht rechtzeitig überprüft oder durch einen Apotheker überprüfen läßt oder entgegen § 32 Abs. 3 in Verbindung mit § 27 Abs. 2 Satz 1 das vorgeschriebene Protokoll nicht, nicht richtig oder nicht vollständig anfertigt, nicht der Krankenhausleitung zuleitet, nicht dem zuständigen Arzt aushändigt oder nicht aufbewahrt oder diese Maßnahmen nicht durch einen Apotheker ausführen läßt.
+e) entgegen § 31 Abs. 1 Satz 1, Abs. 3 oder 4 in Verbindung mit § 17 Abs. 5 Satz 1, jeweils in Verbindung mit § 27 Abs. 2 Satz 1, Arzneimittel abgibt oder abgeben läßt oder
 
-##### § 37 Übergangsvorschriften
+f) entgegen § 32 Abs. 1 in Verbindung mit § 27 Abs. 2 Satz 1 auf den Stationen oder in anderen Teileinheiten des Krankenhauses vorrätig gehaltene Arzneimittel nicht, nicht vollständig oder nicht rechtzeitig überprüft oder durch einen Apotheker überprüfen läßt oder entgegen § 32 Absatz 3 ein dort genanntes Protokoll nicht, nicht richtig oder nicht vollständig anfertigt, nicht ordnungsgemäß aufbewahrt, nicht rechtzeitig übermittelt oder diese Maßnahmen nicht durch einen Apotheker ausführen läßt.
+
+###### § 37 Übergangsvorschriften
 
 (1) Auf Apotheken, für die vor dem 11. Juni 2012 eine Erlaubnis nach § 1 Absatz 2, auch in Verbindung mit § 2 Absatz 4, des Apothekengesetzes erteilt worden ist, sind die §§ 2a, 4 Absatz 1 Satz 2 Nummer 1 Buchstabe a, § 34 Absatz 3 Satz 1 und 4 sowie § 35 Absatz 3 Satz 2 erst ab dem 1. Juni 2014 anzuwenden; bis zu diesem Zeitpunkt müssen die Räume jedoch weiterhin den bis zum 11. Juni 2012 geltenden Vorschriften entsprechen.
 
@@ -1197,9 +1394,8 @@ e) entgegen § 32 Abs. 1 in Verbindung mit § 27 Abs. 2 Satz 1 auf den Stationen
 
 (4) Apothekenleiter, die vor dem 1. Januar 2023 Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch ihre Apotheken haben durchführen lassen, haben abweichend von § 2 Absatz 3a Satz 2 der zuständigen Behörde die Durchführung von Schutzimpfungen und, sofern nicht ausschließlich aufsuchendes Impfen durchgeführt wird, die dafür vorgesehenen Räumlichkeiten bis zum 1. Februar 2023 anzuzeigen.
 
-##### § 38 Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+###### § 38 Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
 
 (1) Für klinische Prüfungen bei Menschen mit Arzneimitteln, die dem Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, ist diese Verordnung in der bis zum Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre weiter anzuwenden, wenn der Antrag auf Genehmigung vor dem Tag des Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) gemäß dem Sechsten Abschnitt des Arzneimittelgesetzes eingereicht wurde.
 
 (2) Eine klinische Prüfung bei Menschen mit Arzneimitteln, die dem Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, darf nach dieser Verordnung in der bis zum Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung begonnen werden, wenn der Antrag auf Genehmigung innerhalb von zwölf Monaten nach dem Tag des Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) eingereicht wurde. Für die betreffende klinische Prüfung ist diese Verordnung in der bis zu dem Tag vor dem Inkrafttreten dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre weiter anzuwenden.
-
