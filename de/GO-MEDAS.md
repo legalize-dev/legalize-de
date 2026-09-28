@@ -4,7 +4,7 @@ identifier: "GO-MEDAS"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2013-07-18"
-last_updated: "2026-09-09"
+last_updated: "2026-09-28"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/go-medas/"
 text_state: "current"
@@ -12,7 +12,7 @@ department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR257900013"
 slug: "go-medas"
 bgbl_reference: "BGBl I 2013, 2579"
-hinweis: "Änderung durch Art. 3 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Geändert durch Art. 3 V v. 7.9.2026 I Nr. 257"
 ---
 # Geschäftsordnung des Ausschusses für medizinische Ausstattung in der Seeschifffahrt
 
