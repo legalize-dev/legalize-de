@@ -4,31 +4,17 @@ identifier: "XBASISDATENV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2022-03-28"
-last_updated: "2026-04-04"
+last_updated: "2026-09-28"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/xbasisdatenv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR060100022"
 slug: "xbasisdatenv"
 bgbl_reference: "BGBl I 2022, 601"
+stand: "Geändert durch Art. 1 V v. 22.9.2026 I Nr. 283"
 ---
 # Verordnung zur Einführung eines Datenübermittlungsstandards XBasisdaten
 
-##### Eingangsformel
-
-Auf Grund des § 12 Absatz 3 Nummer 3 des Identifikationsnummerngesetzes vom 28. März 2021 (BGBl. I S. 591) in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176) verordnet das Bundesministerium des Innern und für Heimat im Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen mit dem IT-Planungsrat:
-
-##### § 1 Standard der Datenübermittlungen nach § 7 Absatz 1 Satz 1 und § 10 Absatz 4 des Identifikationsnummerngesetzes
-
-(1) XBasisdaten ist der Standard einer technischen Beschreibung des Datensatzes für Datenübermittlungen nach § 7 Absatz 1 Satz 1 und § 10 Absatz 4 des Identifikationsnummerngesetzes. Er legt Form und Inhalt der nach § 7 Absatz 1 Satz 1 und § 10 Absatz 4 des Identifikationsnummerngesetzes zu übermittelnden Daten fest.
-
-(2) Für die Datenübermittlungen an und durch die Registermodernisierungsbehörde nach § 7 Absatz 1 Satz 1 und § 10 Absatz 4 des Identifikationsnummerngesetzes sind XBasisdaten sowie als Transportstandards XTA 2 in Verbindung mit OSCI-Transport in der jeweils aktuellen Fassung oder andere in XBasisdaten genannte Standards oder Schnittstellen zu verwenden. Die näheren Anforderungen an eine sichere Datenübermittlung werden in einer Anlage zu XBasisdaten festgelegt. Für die Kommunikation unter Verwendung von XBasisdaten sind besonders gesicherte verwaltungseigene Netze zu nutzen. Ist dies nicht möglich, sind die Verbindungen durch geeignete technische und organisatorische Maßnahmen nach Stand der Technik so abzubilden, dass das Sicherheitsniveau für einen hohen Schutzbedarf gewährleistet wird.
-
-(3) Der Standard XBasisdaten wird von der Registermodernisierungsbehörde herausgegeben und vom Bundesministerium des Innern und für Heimat im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger bekanntgemacht; entsprechendes gilt für spätere Änderungen. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben.
-
-(4) Der Standard XBasisdaten wird beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, archivarisch gesichert niedergelegt und ist der Öffentlichkeit zugänglich. Er kann beim Bundesverwaltungsamt, Barbarastraße 1, 50735 Köln bezogen werden.
-
-##### § 2 Inkrafttreten
-
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
