@@ -4,23 +4,26 @@ identifier: "FINDAGEBV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2021-09-02"
-last_updated: "2026-04-04"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/findagebv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR407700021"
 slug: "findagebv"
 bgbl_reference: "BGBl I 2021, 4077"
-stand: "Zuletzt geändert durch Art. 58 G v. 4.2.2026 I Nr. 33"
-hinweis: "Änderung durch Art. 5 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Zuletzt geändert durch Art. 4 G v. 25.9.2026 I Nr. 275"
 ---
 # Besondere Gebührenverordnung des Bundesministeriums der Finanzen zur Finanzdienstleistungsaufsicht
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und Absatz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium der Finanzen:
 
-##### § 1 Erhebung von Gebühren
+###### § 1 Erhebung von Gebühren
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) erhebt Gebühren für individuell zurechenbare öffentliche Leistungen, die aufgrund der folgenden Vorschriften erbracht werden:
 
@@ -110,29 +113,29 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) erhebt Geb�
 
 41. Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1).
 
-##### § 2 Höhe der Gebühren
+###### § 2 Höhe der Gebühren
 
 (1) Die Höhe der Gebühren richtet sich nach dem Gebührenverzeichnis in der Anlage. Das Gebührenverzeichnis in der Anlage regelt ferner die Tatbestände für eine Gebührenbefreiung und -ermäßigung.
 
 (2) Die Gebührentatbestände des Gebührenverzeichnisses umfassen jeweils auch die Kosten für die Festsetzung der Gebühren.
 
-##### § 3 Zeitgebühr
+###### § 3 Zeitgebühr
 
 Für den Zeitaufwand von Verwaltungsbeschäftigten in der Bundesverwaltung gelten die in der Anlage 1 Teil A der Allgemeinen Gebührenverordnung bestimmten allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung.
 
-##### § 4 Übergangsvorschrift
+###### § 4 Übergangsvorschrift
 
 (1) Für die Erhebung von Gebühren für eine gebührenpflichtige Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht worden ist, ist das bis einschließlich 30. September 2021 geltende Recht weiter anzuwenden.
 
 (2) Für die Erhebung von Gebühren für eine gebührenpflichtige Leistung nach den Nummern 3.1, 3.3 oder Nummer 3.4 der Anlage (zu § 2 Absatz 1) Gebührenverzeichnis, die vor dem 5. März 2026 erbracht worden ist, ist das bis einschließlich 4. März 2026 geltende Recht weiter anzuwenden.
 
-##### § 5 Inkrafttreten
+###### § 5 Inkrafttreten
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am 1. Oktober 2021 in Kraft.
 
 (2) Die Nummern 1.2.3, 27.1, 27.2 und 28.1 bis 28.5 der Anlage dieser Verordnung (Gebührenverzeichnis) treten am 10. November 2021 in Kraft. Die Nummer 1.5 der Anlage dieser Verordnung (Gebührenverzeichnis) tritt am 1. Januar 2022 in Kraft.
 
-##### Anlage (zu § 2 Absatz 1)Gebührenverzeichnis
+###### Anlage (zu § 2 Absatz 1)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2021, 4079 - 4109;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -328,9 +331,9 @@ Nachträgliche Erweiterung des Umfangs einer bestehenden Erlaubnis einer OGAW-Ka
  (§ 42 KAGB)nach Zeitaufwand15.1.2.8Befreiung von der jährlichen Prüfung der Einhaltung der Vorschriften des Wertpapierhandelsgesetzes
  (§ 38 Absatz 4 Satz 5 KAGB;
  § 51 Absatz 4 Satz 3 in Verbindung mit § 38 Absatz 4 Satz 4 bis 6 KAGB; § 54 Absatz 4 Satz 3 in Verbindung mit § 38 Absatz 4 Satz 4 bis 6 KAGB)66515.1.3Individuell zurechenbare öffentliche Leistungen in Bezug auf die Verwahrstelle und den Treuhänder15.1.3.1Genehmigung der Auswahl der Verwahrstelle, Genehmigung oder Anordnung des Wechsels einer Verwahrstelle oder Prüfung der Benennung eines Treuhänders
- (§ 69 Absatz 1 und 2 KAGB;
- § 87 in Verbindung mit § 69 Absatz 1 und 2 KAGB;
- § 80 Absatz 4 KAGB; § 100b Absatz 4 KAGB)15.1.3.1.1wenn die Verwahrstelle oder der Treuhänder bereits Gegenstand einer Genehmigung oder Prüfung war30215.1.3.1.2wenn die Verwahrstelle oder der Treuhänder noch nicht Gegenstand einer Genehmigung oder Prüfung warnach Zeitaufwand15.1.3.2Genehmigung der Errichtung eines Sperrkontos bis zum Zeitpunkt der Beauftragung der neuen Verwahrstelle
+ (§ 69 Absatz 1 und 2 KAGB;
+ § 87 Satz 1 in Verbindung mit § 69 Absatz 1 und 2 KAGB;
+ § 80 Absatz 4 KAGB; § 100b Absatz 4 KAGB)15.1.3.1.1wenn die OGAW-Verwahrstelle bereits Gegenstand einer Genehmigung oder Prüfung war30215.1.3.1.2wenn die Verwahrstelle oder der Treuhänder noch nicht Gegenstand einer Genehmigung oder Prüfung warnach Zeitaufwand15.1.3.2Genehmigung der Errichtung eines Sperrkontos bis zum Zeitpunkt der Beauftragung der neuen Verwahrstelle
  (§ 69 Absatz 4 KAGB)nach Zeitaufwand15.1.4Individuell zurechenbare öffentliche Leistungen in Bezug auf offene inländische Investmentvermögen15.1.4.1Sondervermögen15.1.4.1.1Genehmigung der Übertragung der Verwaltung eines Sondervermögens oder eines Gesellschaftsvermögens
  (§ 100 Absatz 3 KAGB;
  § 100b Absatz 1 Satz 1 KAGB;
@@ -605,4 +608,3 @@ nach Zeitaufwand**21****Individuell zurechenbare öffentliche Leistungen auf der
  (§ 50 Absatz 3 KMAG)nach Zeitaufwand33Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/255433.1Maßnahmen infolge der Durchführung eines gebündelten Tests
  (Artikel 26 Absatz 4 der Verordnung (EU) 2022/2554)nach Zeitaufwand33.2Genehmigung des Einsatzes interner Tester
  (Artikel 27 Absatz 2 der Verordnung (EU) 2022/2554)nach Zeitaufwand
-
