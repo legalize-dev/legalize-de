@@ -4,9 +4,10 @@ identifier: "SPRENGG-1976"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1976-09-13"
-last_updated: "2026-04-04"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/sprengg_1976/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR027370976"
 slug: "sprengg_1976"
@@ -17,9 +18,12 @@ neufassung: "Neugefasst durch Bek. v. 10.9.2002 I 3518"
 ---
 # Gesetz über explosionsgefährliche Stoffe
 
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
 ## Abschnitt I Allgemeine Vorschriften
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 (1) Dieses Gesetz regelt den Umgang und den Verkehr mit sowie die Einfuhr und die Durchfuhr von
 
@@ -45,7 +49,7 @@ neufassung: "Neugefasst durch Bek. v. 10.9.2002 I 3518"
 
 3. bei Zuordnung der sonstigen explosionsgefährlichen Stoffe zur Stoffgruppe C § 6 Absatz 1 Nummer 3 Buchstabe b und Nummer 4, die §§ 17 bis 19, 24, 25 sowie § 26 Absatz 2, die §§ 30 bis 32, § 33 Absatz 3, § 33b sowie die §§ 34 und 36 bis 39.
 
-##### § 1a Ausnahmen für Behörden und sonstige Einrichtungen des Bundes und der Länder und für deren Bedienstete sowie für Bedienstete anderer Staaten; Verordnungsermächtigungen
+###### § 1a Ausnahmen für Behörden und sonstige Einrichtungen des Bundes und der Länder und für deren Bedienstete sowie für Bedienstete anderer Staaten; Verordnungsermächtigungen
 
 (1) Dieses Gesetz ist, soweit nicht durch dieses Gesetz oder auf Grund dieses Gesetzes ausdrücklich etwas anderes bestimmt ist, nicht anzuwenden auf
 
@@ -101,7 +105,7 @@ b) der kommunalen Gebietskörperschaften und
 
 (7) Die Landesregierungen können durch Rechtsverordnung sonstige Behörden und Einrichtungen der Länder vom Anwendungsbereich dieses Gesetzes ausnehmen. Die Landesregierungen können die Befugnis zum Erlass einer Rechtsverordnung nach Satz 1 durch Rechtsverordnung auf andere Landesbehörden übertragen.
 
-##### § 1b Ausnahmen für den Umgang und den Verkehr mit sowie für die Einfuhr, für die Durchfuhr und für die Beförderung von explosionsgefährlichen Stoffen
+###### § 1b Ausnahmen für den Umgang und den Verkehr mit sowie für die Einfuhr, für die Durchfuhr und für die Beförderung von explosionsgefährlichen Stoffen
 
 (1) Dieses Gesetz gilt nicht für
 
@@ -173,7 +177,7 @@ b) Kine- und Röntgenfilmen auf Cellulosenitratbasis mit photographischer Schich
 
 5. Rechtsvorschriften über die Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen.
 
-##### § 2 Anwendung auf neue sonstige explosionsgefährliche Stoffe
+###### § 2 Anwendung auf neue sonstige explosionsgefährliche Stoffe
 
 (1) Wer einen in einer Liste nach Absatz 6 nicht aufgeführten Stoff, bei dem die Annahme begründet ist, dass er explosionsgefährlich ist und der nicht zur Verwendung als Explosivstoff bestimmt ist, einführt, aus einem anderen Mitgliedstaat der Europäischen Union in den Geltungsbereich dieses Gesetzes verbringt, herstellt, ihn vertreiben, anderen überlassen oder verwenden will, hat dies der Bundesanstalt für Materialforschung und -prüfung (Bundesanstalt) unverzüglich anzuzeigen und ihr auf Verlangen eine Stoffprobe vorzulegen. In der Anzeige sind die Bezeichnung, die Zusammensetzung und der Verwendungszweck anzugeben. Satz 1 ist nicht anzuwenden auf das gewerbsmäßige Herstellen von sonstigen explosionsgefährlichen Stoffen, die in der Betriebsstätte weiterverarbeitet, gegen Abhandenkommen gesichert und nicht aufbewahrt werden.
 
@@ -193,7 +197,7 @@ b) Kine- und Röntgenfilmen auf Cellulosenitratbasis mit photographischer Schich
 
 (6) Die Absätze 1 bis 5 finden mit Ausnahme von Absatz 3 Satz 2 bis 4 keine Anwendung auf sonstige explosionsgefährliche Stoffe, die vom Bundesministerium des Innern, für Bau und Heimat mit Bekanntmachung vom 3. Dezember 1986 (BAnz. Nr. 233a vom 16. Dezember 1986), berichtigt mit Bekanntmachung vom 5. März 1987 (BAnz. Nr. 51 S. 2635 vom 14. März 1987), veröffentlicht worden sind. Die Bundesanstalt veröffentlicht die Stoffe, deren Explosionsgefährlichkeit sie nach den Absätzen 2 und 3 festgestellt hat, im Bundesanzeiger. Die Zusammenfassung verschiedener Zubereitungen in Rahmenzusammensetzungen ist bei der Veröffentlichung nach Satz 2 zulässig, sofern die durch die Zusammenfassung erfassten Zubereitungen zweifelsfrei explosionsgefährlich, einander bezüglich ihrer chemischen Zusammensetzung hinreichend ähnlich und der gleichen Stoffgruppe der Anlage II zuzuordnen sind.
 
-##### § 3 Begriffsbestimmungen
+###### § 3 Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes sind
 
@@ -307,7 +311,7 @@ c) aus dem Geltungsbereich dieses Gesetzes in einen anderen Mitgliedstaat der Eu
 
 4. CE-Kennzeichnung: die Kennzeichnung, durch die der Hersteller erklärt, dass der Explosivstoff oder der pyrotechnische Gegenstand den geltenden Anforderungen genügt, die in den Rechtsvorschriften der Europäischen Union zur Harmonisierung der Bedingungen für die Vermarktung von Produkten festgelegt sind.
 
-##### § 3a Kategorien von pyrotechnischen Gegenständen und pyrotechnischen Sätzen; Klassen von Wettersprengstoffen und Wettersprengschnüren
+###### § 3a Kategorien von pyrotechnischen Gegenständen und pyrotechnischen Sätzen; Klassen von Wettersprengstoffen und Wettersprengschnüren
 
 (1) Pyrotechnische Gegenstände werden nach dem Grad der von ihnen ausgehenden Gefährdung und ihrem Verwendungszweck in folgende Kategorien eingeteilt:
 
@@ -347,7 +351,7 @@ b) Klasse II: sehr geringe Gefahr der Zündung eines zündfähigen Methan-Luft- 
 
 c) Klasse III: äußerst geringe Gefahr der Zündung eines zündfähigen Methan-Luft- oder Kohlenstaub-Luft-Gemisches.
 
-##### § 4 Verordnungsermächtigung, Anwendungsbereich
+###### § 4 Verordnungsermächtigung, Anwendungsbereich
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung
 
@@ -367,7 +371,7 @@ b) die Liste der Vergleichsstoffe (Anlage II)
 
 6. zu bestimmen, dass dieses Gesetz auf Geräte anzuwenden ist, in denen zum Antrieb nicht in Hülsen untergebrachte Treibladungen verwendet werden, wenn die Handhabung der Geräte oder ihre Beanspruchung durch das Antriebsmittel eine Gefahr für Leben oder Gesundheit Beschäftigter oder Dritter herbeiführt.
 
-##### § 5 Konformitätsnachweis und CE-Kennzeichnung für Explosivstoffe und pyrotechnische Gegenstände
+###### § 5 Konformitätsnachweis und CE-Kennzeichnung für Explosivstoffe und pyrotechnische Gegenstände
 
 (1) Explosivstoffe und pyrotechnische Gegenstände dürfen nur auf dem Markt bereitgestellt werden, wenn
 
@@ -395,7 +399,7 @@ b) die Liste der Vergleichsstoffe (Anlage II)
 
 2. Zündplättchen, die speziell konzipiert sind für Spielzeug und sonstige Gegenstände im Sinne der Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Sicherheit von Spielzeug (ABl. L 170 vom 30.6.2009, S. 1, 2013 L 355 vom 31.12.2013, S. 92), die zuletzt durch die Richtlinie (EU) 2015/2117 (ABl. L 306 vom 24.11.2015, S. 23) geändert worden ist.
 
-##### § 5a Ausnahmen vom Erfordernis des Konformitätsnachweises und der CE-Kennzeichnung
+###### § 5a Ausnahmen vom Erfordernis des Konformitätsnachweises und der CE-Kennzeichnung
 
 (1) § 5 Absatz 1 und 1a ist nicht anzuwenden auf
 
@@ -445,7 +449,7 @@ d) zur Verwendung durch Feuerwehren bestimmt sind,
 
 (4) Der Überlasser von Explosivstoffen oder pyrotechnischen Gegenständen hat sich vom Erwerber schriftlich bescheinigen zu lassen, dass die Explosivstoffe oder pyrotechnischen Gegenstände nach Absatz 1 Nummer 2 Buchstabe f zu den in dieser Vorschrift bezeichneten Endprodukten in einer genehmigten Anlage im Sinne des § 4 des Bundes-Immissionsschutzgesetzes bearbeitet oder verarbeitet werden sollen.
 
-##### § 5b Konformitätsbewertung für Explosivstoffe und pyrotechnische Gegenstände vor dem Inverkehrbringen; Baumusterprüfung; Einzelprüfung
+###### § 5b Konformitätsbewertung für Explosivstoffe und pyrotechnische Gegenstände vor dem Inverkehrbringen; Baumusterprüfung; Einzelprüfung
 
 (1) Explosivstoffe und pyrotechnische Gegenstände sind vor dem Inverkehrbringen auf Antrag des Herstellers von einer benannten Stelle gemäß § 5e durch die Baumusterprüfung nach Modul B des Anhangs III der Richtlinie 2014/28/EU oder des Anhangs II der Richtlinie 2013/29/EU oder durch die Einzelprüfung nach Modul G des Anhangs III der Richtlinie 2014/28/EU oder des Anhangs II der Richtlinie 2013/29/EU daraufhin zu prüfen, ob nach ihrer Zusammensetzung und Beschaffenheit
 
@@ -461,7 +465,7 @@ erfüllen (Konformität). Der Hersteller hat den Antrag schriftlich oder elektro
 
 (4) Für die Rücknahme und den Widerruf einer Baumusterprüfbescheinigung gilt § 34 Absatz 1, 2 und 4 entsprechend.
 
-##### § 5c Konformitätsbewertung für Explosivstoffe und pyrotechnische Gegenstände in der Serienfertigung; Qualitätssicherungsverfahren; CE-Kennzeichnung
+###### § 5c Konformitätsbewertung für Explosivstoffe und pyrotechnische Gegenstände in der Serienfertigung; Qualitätssicherungsverfahren; CE-Kennzeichnung
 
 (1) Die Übereinstimmung der nach einem Baumuster gefertigten Explosivstoffe oder pyrotechnischen Gegenstände mit dem Baumuster ist auf Antrag des Herstellers in einem Qualitätssicherungsverfahren nachzuweisen, das nach der Wahl des Herstellers durchzuführen ist für
 
@@ -485,7 +489,7 @@ b) für pyrotechnische Gegenstände eine EU-Konformitätserklärung nach Anhang 
 
 Ist es nicht möglich, die CE-Kennzeichnung auf den Explosivstoffen oder pyrotechnischen Gegenständen anzubringen, muss sie auf der Verpackung angebracht werden. Das Nähere regelt eine Rechtsverordnung nach § 6 Absatz 1.
 
-##### § 5d Aufbewahrungspflicht
+###### § 5d Aufbewahrungspflicht
 
 Der Hersteller und der Bevollmächtigte haben die folgenden Unterlagen zehn Jahre lang nach der letzten Herstellung des Produkts aufzubewahren und der zuständigen Behörde auf deren Verlangen jederzeit vorzulegen:
 
@@ -499,7 +503,7 @@ Der Hersteller und der Bevollmächtigte haben die folgenden Unterlagen zehn Jahr
 
 5. die Berichte über die Nachprüfungen.
 
-##### § 5e Benannte Stellen
+###### § 5e Benannte Stellen
 
 (1) Die Baumusterprüfung, die Einzelprüfung und die Überwachung des Qualitätssicherungsverfahrens werden von einer benannten Stelle durchgeführt; die benannte Stelle erteilt auch die Bescheinigungen. Die Artikel 28, 36 und 38 der Richtlinie 2014/28/EU und die Artikel 33 und 35 der Richtlinie 2013/29/EU sind anzuwenden. Wenn im Rahmen der in Satz 1 genannten Tätigkeiten Prüfungen erforderlich sind, darf die benannte Stelle mit der Durchführung von Teilen dieser Prüfungen auch andere Prüflaboratorien beauftragen, die die Anforderungen des Artikels 28 der Richtlinie 2014/28/EU oder des Artikels 25 der Richtlinie 2013/29/EU erfüllen.
 
@@ -527,7 +531,7 @@ Die Akkreditierung ist zu befristen. Sie kann mit weiteren Nebenbestimmungen ver
 
 (6) Die Bediensteten der für die Fachaufsicht über die benannte Stelle jeweils zuständigen Behörde sind berechtigt, zu den Betriebs- und Geschäftszeiten Grundstücke, Geschäfts- und Laborräume der benannten Stellen zu betreten und zu besichtigen. Die benannte Stelle hat die Maßnahmen nach Satz 1 zu dulden.
 
-##### § 5f Zulassung von sonstigen explosionsgefährlichen Stoffen und Sprengzubehör
+###### § 5f Zulassung von sonstigen explosionsgefährlichen Stoffen und Sprengzubehör
 
 (1) Sonstige explosionsgefährliche Stoffe dürfen nur eingeführt, verbracht, vertrieben, anderen überlassen oder verwendet werden, wenn sie
 
@@ -551,7 +555,7 @@ Die Zulassung nach Nummer 1 wird dem Hersteller, seinem Bevollmächtigten, dem E
 
 (4) Die Zulassung nach Absatz 1 oder Absatz 2 kann befristet, inhaltlich beschränkt sowie mit Bedingungen und Auflagen verbunden werden, soweit dies zum Schutz von Leben und Gesundheit oder von Sachgütern erforderlich ist. Die nachträgliche Verbindung der Zulassung mit Auflagen sowie die Änderung und die Ergänzung von Auflagen sind zulässig. Nebenbestimmungen und inhaltliche Beschränkungen der Zulassung, die die Verwendung der sonstigen explosionsgefährlichen Stoffe und des Sprengzubehörs betreffen, sind vom Verwender zu beachten.
 
-##### § 5g Ausnahmen vom Zulassungserfordernis für sonstige explosionsgefährliche Stoffe und Sprengzubehör
+###### § 5g Ausnahmen vom Zulassungserfordernis für sonstige explosionsgefährliche Stoffe und Sprengzubehör
 
 (1) Eine Zulassung nach § 5f Absatz 1 ist nicht erforderlich für sonstige explosionsgefährliche Stoffe, die
 
@@ -605,7 +609,7 @@ Der Überlasser sonstiger explosionsgefährlicher Stoffe hat sich vom Erwerber s
 
 (6) Die zuständige Behörde nach § 36 Absatz 1, auch in Verbindung mit § 36 Absatz 4 Nummer 3, kann im Einzelfall Anforderungen an die Verwendung von sonstigen explosionsgefährlichen Stoffen und Sprengzubehör stellen, die über die Anforderungen des § 5f Absatz 3 hinausgehen, soweit dies zur Abwendung von Gefahren für Leben und Gesundheit Beschäftigter oder Dritter erforderlich ist.
 
-##### § 6 Ermächtigungen, Sachverständigenausschuss
+###### § 6 Ermächtigungen, Sachverständigenausschuss
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung
 
@@ -656,7 +660,7 @@ g) dass für den Umgang und Verkehr mit explosionsgefährlichen Stoffen in Einze
 ## Abschnitt II Umgang und Verkehr im gewerblichen Bereich;
 Einfuhr, Durchfuhr und Aufzeichnungspflicht
 
-##### § 7 Erlaubnis
+###### § 7 Erlaubnis
 
 (1) Wer gewerbsmäßig, selbständig im Rahmen einer wirtschaftlichen Unternehmung oder eines land- oder forstwirtschaftlichen Betriebes oder bei der Beschäftigung von Arbeitnehmern
 
@@ -668,7 +672,7 @@ bedarf der Erlaubnis.
 
 (2) Die Erlaubnis zur Herstellung, Bearbeitung, Verarbeitung oder zur Wiedergewinnung explosionsgefährlicher Stoffe schließt die Erlaubnis ein, explosionsgefährliche Stoffe, auf die sich die Erlaubnis bezieht, zu vertreiben und anderen zu überlassen. Die Erlaubnis zur Herstellung pyrotechnischer Gegenstände schließt die Erlaubnis ein, pyrotechnische Munition herzustellen.
 
-##### § 8 Versagung der Erlaubnis
+###### § 8 Versagung der Erlaubnis
 
 (1) Die Erlaubnis ist zu versagen, wenn
 
@@ -692,7 +696,7 @@ c) das 21. Lebensjahr nicht vollendet hat.
 
 (4) Die Behörde hat Erlaubnisinhaber in regelmäßigen Abständen, mindestens jedoch nach Ablauf von fünf Jahren, erneut auf ihre Zuverlässigkeit und persönliche Eignung zu überprüfen. Ist innerhalb von einem Jahr vor dem Zeitpunkt der Prüfung eine durch Gesetz oder auf Grund eines Gesetzes vorgeschriebene Überprüfung der Zuverlässigkeit erfolgt, kann auf eine erneute Prüfung ganz oder teilweise verzichtet werden, wenn und soweit das Ergebnis dieser Prüfung die Feststellung ermöglicht, dass die Zuverlässigkeit und die persönliche Eignung im Sinne der §§ 8a und 8b vorliegen. Ergebnis und Rechtsgrundlage der zugrunde gelegten Überprüfung sind aktenkundig zu machen.
 
-##### § 8a Zuverlässigkeit
+###### § 8a Zuverlässigkeit
 
 (1) Die erforderliche Zuverlässigkeit besitzen Personen nicht,
 
@@ -764,7 +768,7 @@ c) eine solche Vereinigung unterstützt haben,
 
 Ist die Person nicht Deutscher im Sinne des Artikels 116 des Grundgesetzes oder hat sie ihren Wohnsitz oder ständigen Aufenthalt außerhalb des Geltungsbereichs dieses Gesetzes, hat die Behörde der Person außerdem aufzugeben, eine Bescheinigung der zuständigen Justiz- oder Verwaltungsbehörde des Heimat-, Herkunfts-, Wohnsitz- oder Aufenthaltsstaates über bestimmte Tatsachen, die für die Beurteilung der Zuverlässigkeit erheblich sind, in beglaubigter Übersetzung vorzulegen. Die nach Satz 1 Nummer 2 erhobenen personenbezogenen Daten dürfen nur für den Zweck der sprengstoffrechtlichen Zuverlässigkeitsprüfung und der Prüfung der persönlichen Eignung verwendet werden. Erlangt die für die Auskunft nach Satz 1 Nummer 4 zuständige Verfassungsschutzbehörde im Nachhinein für die Beurteilung der Zuverlässigkeit bedeutsame Erkenntnisse, teilt sie dies der zuständigen Behörde unverzüglich mit (Nachbericht). Zu diesem Zweck speichert sie Name, Vorname, Geburtsdatum, Geburtsname, Geburtsort, Wohnort und Staatsangehörigkeit des Betroffenen sowie die Aktenfundstelle in den gemeinsamen Dateien nach § 6 des Bundesverfassungsschutzgesetzes. Lehnt die zuständige Behörde einen Antrag ab oder nimmt sie eine erteilte Erlaubnis zurück oder widerruft diese, so hat sie die zum Nachbericht verpflichtete Behörde hiervon unverzüglich in Kenntnis zu setzen. Diese hat die nach den Sätzen 4 und 5 gespeicherten Daten unverzüglich zu löschen.
 
-##### § 8b Persönliche Eignung, Begutachtung
+###### § 8b Persönliche Eignung, Begutachtung
 
 (1) Die erforderliche persönliche Eignung besitzen Personen nicht, wenn Tatsachen die Annahme rechtfertigen, dass sie
 
@@ -778,13 +782,13 @@ Die persönliche Eignung schließt die körperliche Eignung ein. Der persönlich
 
 (2) Sind Tatsachen bekannt, die Bedenken gegen die persönliche Eignung nach Absatz 1 begründen, oder bestehen begründete Zweifel an von der betroffenen Person beigebrachten Bescheinigungen, so hat die zuständige Behörde der Person unter Darlegung der Gründe für die Zweifel oder der die Bedenken begründenden Tatsachen hinsichtlich ihrer persönlichen Eignung aufzugeben, dass sie sich innerhalb einer von ihr festgelegten Frist auf eigene Kosten einer amts- oder fachärztlichen oder fachpsychologischen Untersuchung zu unterziehen und ein Gutachten beizubringen hat. In der Anordnung ist die Person darauf hinzuweisen, dass die Behörde bei Verweigerung der Untersuchung oder nicht fristgerechter Vorlage des Gutachtens auf die Nichteignung schließen darf.
 
-##### § 8c Pflichten des Gutachters
+###### § 8c Pflichten des Gutachters
 
 (1) Zwischen dem Gutachter und der betroffenen Person darf in den letzten fünf Jahren kein Behandlungsverhältnis bestanden haben oder im Zeitpunkt des Gutachtens bestehen. Der Gutachter hat dies in dem Gutachten zu bestätigen. Der Gutachter hat sich über die betroffene Person einen persönlichen Eindruck zu verschaffen. Er darf in dem in Satz 1 genannten Zeitraum behandelnde Haus- oder Fachärzte konsultieren.
 
 (2) Das Gutachten muss das Vorliegen der Voraussetzungen des Absatzes 1 bestätigen und darüber Auskunft geben, ob die Person persönlich geeignet ist, mit explosionsgefährlichen Stoffen umzugehen.
 
-##### § 9 Fachkunde
+###### § 9 Fachkunde
 
 (1) Den Nachweis der Fachkunde hat erbracht,
 
@@ -810,21 +814,21 @@ sofern die Tätigkeit und die Ausbildung geeignet waren, die erforderliche Fachk
 
 3. die Verpflichtung des Erlaubnisinhabers, in bestimmten Abständen an einem staatlichen oder staatlich anerkannten Lehrgang oder Wiederholungslehrgang nach Nummer 1 teilzunehmen.
 
-##### § 10 Inhalt der Erlaubnis
+###### § 10 Inhalt der Erlaubnis
 
 Die Erlaubnis kann inhaltlich beschränkt, befristet und mit Auflagen verbunden werden, soweit dies erforderlich ist, um Leben, Gesundheit und Sachgüter Beschäftigter oder Dritter gegen die aus dem Umgang und dem Verkehr mit explosionsgefährlichen Stoffen entstehenden Gefahren zu schützen. Die nachträgliche Beifügung, Änderung und Ergänzung von Auflagen ist zulässig.
 
-##### § 11 Erlöschen der Erlaubnis
+###### § 11 Erlöschen der Erlaubnis
 
 Die Erlaubnis erlischt, wenn der Erlaubnisinhaber die Tätigkeit nicht innerhalb eines Jahres nach Erteilung der Erlaubnis begonnen oder zwei Jahre lang nicht ausgeübt hat. Die Fristen können von der zuständigen Behörde aus besonderen Gründen verlängert werden.
 
-##### § 12 Fortführung des Betriebs
+###### § 12 Fortführung des Betriebs
 
 (1) Nach dem Tode des Erlaubnisinhabers dürfen der Ehegatte, die Ehegattin, der Lebenspartner, die Lebenspartnerin oder der minderjährige Erbe den Umgang und den Verkehr mit explosionsgefährlichen Stoffen auf Grund der bisherigen Erlaubnis fortsetzen. Das Gleiche gilt bis zur Dauer von zehn Jahren nach dem Erbfall für den Nachlassverwalter, Nachlassinsolvenzverwalter, Nachlasspfleger oder Testamentsvollstrecker. Die in Satz 1 und 2 bezeichneten Personen haben der zuständigen Behörde unverzüglich anzuzeigen, ob sie den Betrieb fortsetzen wollen.
 
 (2) Die Fortsetzung des Betriebes ist zu untersagen, wenn bei der mit der Leitung des Betriebes beauftragten Person Versagungsgründe nach § 8 Abs. 1 vorliegen. Die Fortsetzung kann untersagt werden, wenn bei dieser Person Versagungsgründe nach § 8 Abs. 2 Nr. 1 vorliegen.
 
-##### § 13 Befreiung von der Erlaubnispflicht
+###### § 13 Befreiung von der Erlaubnispflicht
 
 (1) Einer Erlaubnis nach § 7 Abs. 1 bedarf nicht, wer den Umgang und den Verkehr mit explosionsgefährlichen Stoffen betreibt, soweit hierfür eine Erlaubnis nach dem Waffengesetz erforderlich ist.
 
@@ -836,11 +840,11 @@ Die Erlaubnis erlischt, wenn der Erlaubnisinhaber die Tätigkeit nicht innerhalb
 
 2. die die Stoffe begleitende Person nach den in Nummer 1 bezeichneten Vorschriften zum Verbringen befugt ist.
 
-##### § 14 Anzeigepflicht
+###### § 14 Anzeigepflicht
 
 Der Inhaber einer Erlaubnis und der Inhaber eines Betriebes, der auf Grund einer nach § 4 erlassenen Rechtsverordnung ohne Erlaubnis mit explosionsgefährlichen Stoffen umgeht oder den Verkehr mit diesen Stoffen betreibt, haben die Aufnahme des Betriebes, die Eröffnung einer Zweigniederlassung und einer unselbständigen Zweigstelle mindestens zwei Wochen vor Aufnahme dieser Tätigkeit, die Einstellung und Schließung unverzüglich der zuständigen Behörde anzuzeigen. In der Anzeige über die Aufnahme oder die Eröffnung haben sie die mit der Leitung des Betriebes, einer Zweigniederlassung oder einer unselbständigen Zweigstelle beauftragten Personen anzugeben. Die spätere Bestellung oder Abberufung einer für die Leitung des Betriebes, einer Zweigniederlassung oder einer unselbständigen Zweigstelle verantwortlichen Person und bei juristischen Personen den Wechsel einer nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berufenen Person hat der Erlaubnisinhaber unverzüglich der zuständigen Behörde anzuzeigen.
 
-##### § 15 Einfuhr, Durchfuhr und Verbringen
+###### § 15 Einfuhr, Durchfuhr und Verbringen
 
 (1) Wer explosionsgefährliche Stoffe einführen, durchführen oder verbringen oder durch einen anderen einführen, durchführen oder verbringen lassen will, muss zum Umgang mit explosionsgefährlichen Stoffen oder zum Erwerb dieser Stoffe berechtigt sein; er hat die Berechtigung auf Verlangen der nach Absatz 5 bestimmten Behörde nachzuweisen. Der Einführer oder Verbringer hat auf Verlangen der zuständigen Behörde nachzuweisen, dass für die explosionsgefährlichen Stoffe eine auf Grund einer Rechtsverordnung nach § 25 dieses Gesetzes vorgeschriebene Lager- und Verträglichkeitsgruppenzuordnung durch die zuständige Stelle erfolgt ist; dies gilt nicht für die Einfuhr oder das Verbringen zum Zwecke der Zulassung, der EU-Baumusterprüfung oder der Lager- und Verträglichkeitsgruppenzuordnung. Das Erfordernis des Konformitätsnachweises und der CE-Kennzeichnung nach § 5 Absatz 1a oder der Zulassung nach § 5f bleiben unberührt.
 
@@ -860,7 +864,7 @@ Der Inhaber einer Erlaubnis und der Inhaber eines Betriebes, der auf Grund einer
 
 2. für das Verbringen in den, durch den und aus dem Geltungsbereich dieses Gesetzes die Bundesanstalt.
 
-##### § 15a Verfahren der Genehmigung des Verbringens von Explosivstoffen
+###### § 15a Verfahren der Genehmigung des Verbringens von Explosivstoffen
 
 (1) Der Antrag auf Genehmigung des Verbringens von Explosivstoffen nach § 15 Absatz 6 Satz 1 ist vom Empfänger der Explosivstoffe schriftlich oder elektronisch bei der nach § 15 Absatz 7 zuständigen Behörde zu stellen. Der Antrag hat die in Anlage I Nummer 1 aufgeführten Angaben zu enthalten. Für Anträge auf Genehmigung des grenzüberschreitenden Verbringens zwischen Mitgliedstaaten der Europäischen Union soll der Antragsteller das Muster des Anhangs der Entscheidung 2004/388/EG der Kommission vom 15. April 2004 über ein Begleitformular für die innergemeinschaftliche Verbringung von Explosivstoffen (ABl. L 120 vom 24.4.2004, S. 43), die durch den Beschluss 2010/347/EU (ABl. L 155 vom 22.6.2010, S. 54) geändert worden ist, verwenden.
 
@@ -874,7 +878,7 @@ Der Inhaber einer Erlaubnis und der Inhaber eines Betriebes, der auf Grund einer
 
 (4) Die nach § 15 Absatz 7 zuständige Behörde hat die Genehmigung zum grenzüberschreitenden Verbringen zwischen Mitgliedstaaten der Europäischen Union mit einem Formular zu erteilen, das der Entscheidung 2004/388/EG entspricht. Die zuständige Behörde hat ein Exemplar der Genehmigung für die Dauer von zehn Jahren, gerechnet ab dem Zeitpunkt der Beendigung des letzten von der Genehmigung erfassten Verbringensvorgangs, zu verwahren.
 
-##### § 16 Aufzeichnungspflicht
+###### § 16 Aufzeichnungspflicht
 
 (1) Der Inhaber einer Erlaubnis nach § 7 Abs. 1 hat in jedem Betrieb oder Betriebsteil ein Verzeichnis zu führen, aus dem die Art und Menge der hergestellten, wiedergewonnenen, erworbenen, eingeführten, aus einem anderen Mitgliedstaat verbrachten, überlassenen, verwendeten oder vernichteten explosionsgefährlichen Stoffe sowie ihre Herkunft und ihr Verbleib hervorgehen. Der Erlaubnisinhaber kann sich zur Erfüllung der ihm nach Satz 1 obliegenden Pflichten einer anderen Person bedienen. Der Erlaubnisinhaber hat das Verzeichnis ab dem Zeitpunkt der Eintragung für die Dauer von zehn Jahren zu verwahren und der zuständigen Behörde auf Verlangen Einsicht zu gewähren. Bei Einstellung des Betriebes hat er das Verzeichnis der zuständigen Behörde zu übergeben.
 
@@ -890,7 +894,7 @@ Der Inhaber einer Erlaubnis und der Inhaber eines Betriebes, der auf Grund einer
 
 (3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung Vorschriften über Inhalt, Führung, Aufbewahrung und Vorlage des Verzeichnisses und die Aufbewahrung von Unterlagen und Belegen zu erlassen.
 
-##### § 16a Kennzeichnung von Explosivstoffen
+###### § 16a Kennzeichnung von Explosivstoffen
 
 (1) Der Inhaber einer Erlaubnis zum Umgang oder zum Verkehr mit Explosivstoffen nach § 7 Absatz 1 muss diese unter Berücksichtigung der Größe, der Form oder der Gestaltung so kennzeichnen und erfassen, dass der Explosivstoff jederzeit identifiziert und zurückverfolgt werden kann. Näheres regelt eine Rechtsverordnung nach § 6 Absatz 1.
 
@@ -908,7 +912,7 @@ b) direkt in Silotanks oder Behältnisse und Einrichtungen für die Aufbewahrung
 
 4. Explosivstoffe, die am Sprengort hergestellt und danach sofort geladen werden.
 
-##### § 16b Pflichten des Herstellers von Explosivstoffen und pyrotechnischen Gegenständen
+###### § 16b Pflichten des Herstellers von Explosivstoffen und pyrotechnischen Gegenständen
 
 (1) Der Hersteller darf nur
 
@@ -926,7 +930,7 @@ b) direkt in Silotanks oder Behältnisse und Einrichtungen für die Aufbewahrung
 
 (4) Die Absätze 1 bis 3 finden keine Anwendung auf die in § 5a Absatz 1 Nummer 1 und 2 genannten Explosivstoffe und pyrotechnischen Gegenstände.
 
-##### § 16c Kennzeichnungspflicht des Herstellers von Explosivstoffen und pyrotechnischen Gegenständen; Gebrauchsanleitung; Registrierungsnummer
+###### § 16c Kennzeichnungspflicht des Herstellers von Explosivstoffen und pyrotechnischen Gegenständen; Gebrauchsanleitung; Registrierungsnummer
 
 (1) Der Hersteller muss auf den Explosivstoffen und auf den pyrotechnischen Gegenständen, die er in Verkehr bringt, und auf der Verpackung die folgenden Angaben und Kennzeichnungen anbringen:
 
@@ -952,7 +956,7 @@ Ist die Kennzeichnung des Explosivstoffes oder des pyrotechnischen Gegenstandes 
 
 (5) Die Absätze 1 bis 4 finden keine Anwendung auf die in § 5a Absatz 1 Nummer 1 und 2 genannten Explosivstoffe und pyrotechnischen Gegenstände.
 
-##### § 16d Bevollmächtigung durch den Hersteller von Explosivstoffen
+###### § 16d Bevollmächtigung durch den Hersteller von Explosivstoffen
 
 (1) Der Hersteller von Explosivstoffen kann schriftlich einen Bevollmächtigten benennen.
 
@@ -966,11 +970,11 @@ Ist die Kennzeichnung des Explosivstoffes oder des pyrotechnischen Gegenstandes 
 
 (3) Die Pflichten des § 16b Absatz 1 Nummer 1 und Absatz 2 Nummer 1 dürfen nicht Gegenstand der Vollmacht sein.
 
-##### § 16e Maßnahmen des Herstellers von Explosivstoffen und pyrotechnischen Gegenständen bei Nichtkonformität
+###### § 16e Maßnahmen des Herstellers von Explosivstoffen und pyrotechnischen Gegenständen bei Nichtkonformität
 
 Hat der Hersteller berechtigten Grund zu der Annahme, dass ein von ihm in Verkehr gebrachter Explosivstoff oder pyrotechnischer Gegenstand nicht den gesetzlichen Anforderungen genügt, hat er unverzüglich Maßnahmen zu ergreifen, durch die die Konformität des Explosivstoffes oder pyrotechnischen Gegenstandes hergestellt wird. Wenn dies nicht möglich ist, muss er den Explosivstoff oder pyrotechnischen Gegenstand zurücknehmen oder zurückrufen. Geht von dem Explosivstoff oder pyrotechnischen Gegenstand eine Gefahr aus, unterrichtet der Hersteller unverzüglich die zuständigen Behörden der Mitgliedstaaten der Europäischen Union, in denen er den Explosivstoff oder pyrotechnischen Gegenstand auf dem Markt bereitgestellt hat, über die Nichtkonformität und die bereits ergriffenen Maßnahmen.
 
-##### § 16f Pflichten des Einführers von Explosivstoffen und pyrotechnischen Gegenständen
+###### § 16f Pflichten des Einführers von Explosivstoffen und pyrotechnischen Gegenständen
 
 (1) Der Einführer darf nur Explosivstoffe und pyrotechnische Gegenstände in Verkehr bringen, die die durch dieses Gesetz oder auf Grund dieses Gesetzes bestimmten Produktanforderungen und die Sicherheitsanforderungen des Anhangs II der Richtlinie 2014/28/EU für Explosivstoffe oder des Anhangs I der Richtlinie 2013/29/EU für pyrotechnische Gegenstände erfüllen.
 
@@ -988,7 +992,7 @@ Hat der Hersteller berechtigten Grund zu der Annahme, dass ein von ihm in Verkeh
 
 (3) Die Absätze 1 und 2 finden keine Anwendung auf die in § 5a Absatz 1 Nummer 1 und 2 genannten Explosivstoffe und pyrotechnischen Gegenstände.
 
-##### § 16g Kennzeichnungspflicht des Einführers; Registrierungsnummer; Aufbewahrungspflicht
+###### § 16g Kennzeichnungspflicht des Einführers; Registrierungsnummer; Aufbewahrungspflicht
 
 (1) Der Einführer muss die folgenden Angaben auf dem Explosivstoff oder dem pyrotechnischen Gegenstand und auf der Verpackung anbringen:
 
@@ -1006,7 +1010,7 @@ Abweichend von Satz 1 Nummer 1 ist die Kennzeichnung mit dem Namen des Einführe
 
 (3) Die Absätze 1 und 2 finden keine Anwendung auf die in § 5a Absatz 1 Nummer 1 und 2 genannten Explosivstoffe und pyrotechnischen Gegenstände.
 
-##### § 16h Weitere Pflichten des Einführers
+###### § 16h Weitere Pflichten des Einführers
 
 (1) Solange der Einführer einen Explosivstoff oder einen pyrotechnischen Gegenstand aufbewahrt oder verbringt oder aufbewahren oder verbringen lässt, muss er gewährleisten, dass dessen Lagerungs- oder Transportbedingungen die Übereinstimmung des Explosivstoffes mit den Sicherheitsanforderungen des Anhangs II der Richtlinie 2014/28/EU oder des pyrotechnischen Gegenstandes mit den Sicherheitsanforderungen des Anhangs I der Richtlinie 2013/29/EU nicht beeinträchtigen.
 
@@ -1014,7 +1018,7 @@ Abweichend von Satz 1 Nummer 1 ist die Kennzeichnung mit dem Namen des Einführe
 
 (3) Die Absätze 1 und 2 finden keine Anwendung auf die in § 5a Absatz 1 Nummer 1 und 2 genannten Explosivstoffe und pyrotechnischen Gegenstände.
 
-##### § 16i Pflichten des Händlers
+###### § 16i Pflichten des Händlers
 
 (1) Solange der Händler einen Explosivstoff oder einen pyrotechnischen Gegenstand aufbewahrt oder verbringt oder aufbewahren oder verbringen lässt, muss er gewährleisten, dass dessen Lagerungs- oder Transportbedingungen die Übereinstimmung des Explosivstoffes mit den Sicherheitsanforderungen des Anhangs II der Richtlinie 2014/28/EU oder des pyrotechnischen Gegenstandes mit den Sicherheitsanforderungen des Anhangs I der Richtlinie 2013/29/EU nicht beeinträchtigen.
 
@@ -1030,7 +1034,7 @@ Abweichend von Satz 1 Nummer 1 ist die Kennzeichnung mit dem Namen des Einführe
 
 (5) Die Absätze 1 bis 4 finden keine Anwendung auf die in § 5a Absatz 1 Nummer 1 und 2 genannten Explosivstoffe und pyrotechnischen Gegenstände.
 
-##### § 16j Herstellerpflichten der Einführer und Händler
+###### § 16j Herstellerpflichten der Einführer und Händler
 
 Einführer oder Händler haben die Pflichten eines Herstellers, wenn sie
 
@@ -1038,7 +1042,7 @@ Einführer oder Händler haben die Pflichten eines Herstellers, wenn sie
 
 2. einen Explosivstoff oder pyrotechnischen Gegenstand, der bereits auf dem Markt bereitgestellt worden ist, so verändern, dass der Explosivstoff oder der pyrotechnische Gegenstand nicht mehr dem nach § 5b geprüften Baumuster oder dem Explosivstoff oder dem pyrotechnischen Gegenstand, auf den sich die Einzelprüfung bezog, entspricht.
 
-##### § 16k Pflichten der Wirtschaftsakteure gegenüber der zuständigen Behörde
+###### § 16k Pflichten der Wirtschaftsakteure gegenüber der zuständigen Behörde
 
 (1) Der Hersteller, der Bevollmächtigte nach § 16d und der Einführer haben der zuständigen Behörde auf Anforderung alle Informationen und Unterlagen, die für den Nachweis der Konformität des Explosivstoffes oder des pyrotechnischen Gegenstandes erforderlich sind, schriftlich oder elektronisch zur Verfügung zu stellen. Die Informationen und Unterlagen müssen in deutscher Sprache in einer für die zuständige Behörde verständlichen Form abgefasst sein. Der Hersteller, der Einführer und der Händler müssen bei allen Maßnahmen zur Abwendung von Gefahren, die von Explosivstoffen oder pyrotechnischen Gegenständen, die sie in Verkehr gebracht oder auf dem Markt bereitgestellt haben, ausgehen, mit der zuständigen Behörde zusammenarbeiten.
 
@@ -1062,7 +1066,7 @@ Unter den Voraussetzungen des Satzes 1 erheben die zuständigen Behörden von de
 
 (5) Können der Hersteller oder der Einführer keine Lager- und Verträglichkeitsgruppenzuordnung vorlegen, finden die Absätze 3 und 4 entsprechende Anwendung.
 
-##### § 16l Identifizierung und Angaben der Wirtschaftsakteure
+###### § 16l Identifizierung und Angaben der Wirtschaftsakteure
 
 (1) Jeder Wirtschaftsakteur muss den zuständigen Behörden auf Aufforderung diejenigen Wirtschaftsakteure nennen,
 
@@ -1074,7 +1078,7 @@ Unter den Voraussetzungen des Satzes 1 erheben die zuständigen Behörden von de
 
 ## Abschnitt III Aufbewahrung
 
-##### § 17 Lagergenehmigung
+###### § 17 Lagergenehmigung
 
 (1) Der Genehmigung bedürfen
 
@@ -1098,7 +1102,7 @@ Die Genehmigung schließt andere das Lager betreffende behördliche Entscheidung
 
 (6) Als wesentlich im Sinne des Absatzes 1 Nr. 2 ist eine Änderung anzusehen, die besorgen lässt, dass zusätzliche oder andere Gefahren für Leben, Gesundheit oder Sachgüter Beschäftigter oder Dritter herbeigeführt werden. Eine Änderung ist nicht als wesentlich anzusehen, wenn Teile der Anlage durch der Bauart nach gleiche oder ähnliche, jedoch sicherheitstechnisch mindestens gleichwertige Teile ausgewechselt werden oder die Anlage im Rahmen der erteilten Genehmigung instand gesetzt wird.
 
-##### § 18 Ermächtigungen
+###### § 18 Ermächtigungen
 
 Durch Rechtsverordnung nach § 25 kann bestimmt werden,
 
@@ -1113,7 +1117,7 @@ Durch Rechtsverordnung nach § 25 kann bestimmt werden,
 ## Abschnitt IV Verantwortliche Personen und ihre
 Pflichten
 
-##### § 19 Verantwortliche Personen
+###### § 19 Verantwortliche Personen
 
 (1) Verantwortliche Personen im Sinne der Abschnitte IV, V und VI sind
 
@@ -1133,7 +1137,7 @@ c) die innerhalb der Betriebsstätte die tatsächliche Gewalt über explosionsge
 
 (2) Bei dem Umgang und dem Verkehr mit explosionsgefährlichen Stoffen außerhalb der Betriebsstätte ist ferner die Person verantwortlich, die die tatsächliche Gewalt über die explosionsgefährlichen Stoffe ausübt.
 
-##### § 20 Befähigungsschein
+###### § 20 Befähigungsschein
 
 (1) Die in § 19 Abs. 1 Nr. 3 und 4 Buchstabe a bezeichneten verantwortlichen Personen dürfen ihre Tätigkeit nur ausüben, wenn sie einen behördlichen Befähigungsschein besitzen. Satz 1 ist auf die mit der Leitung des Betriebes, einer Zweigniederlassung oder einer unselbständigen Zweigstelle beauftragten Personen anzuwenden, wenn sie zugleich verantwortliche Personen nach § 19 Abs. 1 Nr. 3 oder 4 Buchstabe a sind.
 
@@ -1143,7 +1147,7 @@ c) die innerhalb der Betriebsstätte die tatsächliche Gewalt über explosionsge
 
 (4) Für das Erlöschen des Befähigungsscheines gilt § 11 entsprechend.
 
-##### § 21 Bestellung verantwortlicher Personen
+###### § 21 Bestellung verantwortlicher Personen
 
 (1) Verantwortliche Personen sind in der Anzahl zu bestellen, die nach dem Umfang des Betriebes und der Art der Tätigkeit für einen sicheren Umgang und Verkehr mit explosionsgefährlichen Stoffen erforderlich ist. Durch innerbetriebliche Anordnungen ist sicherzustellen, dass die bestellten verantwortlichen Personen die ihnen obliegenden Pflichten erfüllen können.
 
@@ -1153,7 +1157,7 @@ c) die innerhalb der Betriebsstätte die tatsächliche Gewalt über explosionsge
 
 (4) Die Namen der in § 19 Abs. 1 Nr. 3 und 4 bezeichneten verantwortlichen Personen sind der zuständigen Behörde unverzüglich nach der Bestellung mitzuteilen. Das Erlöschen der Bestellung einer dieser Personen ist unverzüglich der zuständigen Behörde anzuzeigen.
 
-##### § 22 Vertrieb und Überlassen
+###### § 22 Vertrieb und Überlassen
 
 (1) Explosionsgefährliche Stoffe dürfen nur von verantwortlichen Personen vertrieben oder an andere überlassen werden. Die verantwortlichen Personen dürfen diese Stoffe nur an Personen vertreiben oder Personen überlassen, die nach diesem Gesetz, einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder nach landesrechtlichen Vorschriften damit umgehen oder den Verkehr mit diesen Stoffen betreiben dürfen. Innerhalb einer Betriebsstätte dürfen explosionsgefährliche Stoffe auch anderen Personen überlassen oder von anderen Personen in Empfang genommen werden, wenn diese unter Aufsicht handeln und mindestens 16 Jahre alt sind; das Überlassen an Personen unter 18 Jahren ist nur zulässig, soweit dies zur Erreichung ihres Ausbildungszieles erforderlich, ihr Schutz durch die Aufsicht einer verantwortlichen Person gewährleistet und die betriebsärztliche und sicherheitstechnische Betreuung sichergestellt ist.
 
@@ -1181,11 +1185,11 @@ Satz 1 findet keine Anwendung auf den Vertrieb und das Überlassen von pyrotechn
 
 (6) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung zu bestimmen, unter welchen Voraussetzungen kleine Mengen von explosionsgefährlichen Stoffen oder Gegenstände mit kleinen Mengen explosionsgefährlicher Stoffe im Reisegewerbe und auf Veranstaltungen im Sinne des Titels IV der Gewerbeordnung vertrieben oder anderen überlassen werden dürfen, soweit der Schutz von Leben oder Gesundheit Beschäftigter oder Dritter sowie sonstige öffentliche Interessen nicht entgegenstehen.
 
-##### § 23 Mitführen von Urkunden
+###### § 23 Mitführen von Urkunden
 
 Außerhalb des eigenen Betriebes haben die verantwortlichen Personen nach § 19 Abs. 1 Nr. 1 bei dem Umgang und dem Verkehr mit explosionsgefährlichen Stoffen die Erlaubnisurkunde, und die verantwortlichen Personen, die nach § 20 im Besitz eines Befähigungsscheines sein müssen, den Befähigungsschein mitzuführen und auf Verlangen den Beauftragten der zuständigen Behörden vorzulegen. In den Fällen des § 13 Abs. 3 genügt eine in deutscher Sprache abgefasste Bescheinigung über die Befugnis zur Verbringung explosionsgefährlicher Stoffe der zuständigen Behörde des Landes, in dem der Verbringer seinen Wohnsitz, seinen ständigen Aufenthaltsort oder seine Niederlassung hat.
 
-##### § 24 Schutzvorschriften
+###### § 24 Schutzvorschriften
 
 (1) Die verantwortlichen Personen haben bei dem Umgang und dem Verkehr mit explosionsgefährlichen Stoffen Beschäftigte und Dritte vor Gefahren für Leben, Gesundheit und Sachgüter zu schützen, soweit die Art des Umgangs oder des Verkehrs dies zulässt. Sie haben hierbei die vom Hersteller oder vom Einführer oder die von einer auf Grund dieses Gesetzes bestimmten Stelle festgelegte Gebrauchsanleitung, die nach § 6 Absatz 4 bekannt gemachten Regeln und Erkenntnisse, die sonstigen gesicherten arbeitswissenschaftlichen Erkenntnisse sowie die allgemein anerkannten Regeln der Sicherheitstechnik anzuwenden. Bei Einhaltung der nach § 6 Absatz 4 bekannt gemachten Regeln ist davon auszugehen, dass die im Gesetz oder einer Verordnung zum Gesetz gestellten Anforderungen diesbezüglich erfüllt sind. Werden die Regeln nicht angewendet, muss durch andere Maßnahmen die gleiche Sicherheit und der gleiche Gesundheitsschutz der Beschäftigten erreicht werden.
 
@@ -1201,7 +1205,7 @@ Außerhalb des eigenen Betriebes haben die verantwortlichen Personen nach § 19 
 
 5. die Beschäftigten vor Beginn der Beschäftigung über die Unfall- und Gesundheitsgefahren, denen sie bei der Beschäftigung ausgesetzt sind, sowie über die Einrichtungen und Maßnahmen zur Abwendung dieser Gefahren zu belehren; die Belehrungen sind in angemessenen Zeitabständen zu wiederholen.
 
-##### § 25 Ermächtigung zum Erlass von Schutzvorschriften
+###### § 25 Ermächtigung zum Erlass von Schutzvorschriften
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung zum Schutze von Leben, Gesundheit und Sachgütern Beschäftigter und Dritter für den Umgang und den Verkehr mit explosionsgefährlichen Stoffen und mit Sprengzubehör zu bestimmen,
 
@@ -1217,7 +1221,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsver
 
 6. dass Anzeigen zu erstatten und ihnen bestimmte Unterlagen beizufügen sind.
 
-##### § 26 Anzeigepflicht
+###### § 26 Anzeigepflicht
 
 (1) Die verantwortlichen Personen haben das Abhandenkommen von explosionsgefährlichen Stoffen der zuständigen Behörde unverzüglich anzuzeigen.
 
@@ -1226,7 +1230,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsver
 ## Abschnitt V Umgang und Verkehr im nicht
 gewerblichen Bereich
 
-##### § 27 Erlaubnis zum Erwerb und zum Umgang
+###### § 27 Erlaubnis zum Erwerb und zum Umgang
 
 (1) Wer in anderen als den in § 7 Abs. 1 bezeichneten Fällen
 
@@ -1260,11 +1264,11 @@ Satz 1 Nr. 2 gilt nicht für die Erlaubnis zum Erwerb und zur Verwendung pyrotec
 
 (6) Absatz 1 gilt nicht für die bestimmungsgemäße Verwendung zugelassener pyrotechnischer Gegenstände zur Gefahrenabwehr und bei Rettungsübungen.
 
-##### § 28 Anwendbare Vorschriften
+###### § 28 Anwendbare Vorschriften
 
 Für den Umgang und den Verkehr mit explosionsgefährlichen Stoffen in anderen als den in § 7 Abs. 1 bezeichneten Fällen gelten die §§ 13, 15 Absatz 1, 3, 4 und 6, § 16 Abs. 1, 1a und 2, §§ 17, 19 Abs. 1 Nr. 1 und Abs. 2, § 22 Abs. 1 bis 4, §§ 23, 24 Abs. 1 und 2 Nr. 4 sowie § 26 Abs. 1 entsprechend. § 26 Abs. 2 gilt mit der Maßgabe, dass die dort vorgeschriebene Anzeige nur der zuständigen Behörde zu erstatten ist.
 
-##### § 29 Ermächtigungen
+###### § 29 Ermächtigungen
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für den Umgang und den Verkehr mit explosionsgefährlichen Stoffen in anderen als den in § 7 Abs. 1 bezeichneten Fällen
 
@@ -1288,11 +1292,11 @@ c) dass bestimmte Anzeigen zu erstatten und ihnen bestimmte Unterlagen beizufüg
 
 ## Unterabschnitt 1 Allgemeine Bestimmungen
 
-##### § 30 Allgemeine Überwachung
+###### § 30 Allgemeine Überwachung
 
 Der Umgang und der Verkehr mit explosionsgefährlichen Stoffen unterliegen der Überwachung durch die zuständige Behörde.
 
-##### § 31 Auskunft, Nachschau
+###### § 31 Auskunft, Nachschau
 
 (1) Der Inhaber eines Betriebes, der mit explosionsgefährlichen Stoffen umgeht oder den Verkehr mit ihnen betreibt und die mit der Leitung des Betriebes, einer Zweigniederlassung oder einer unselbständigen Zweigstelle beauftragten Personen sowie Personen, die einer Erlaubnis nach § 27 bedürfen, haben der zuständigen Behörde die für die Durchführung des Gesetzes erforderlichen Auskünfte zu erteilen.
 
@@ -1302,7 +1306,7 @@ Der Umgang und der Verkehr mit explosionsgefährlichen Stoffen unterliegen der �
 
 (4) Die Absätze 1 bis 3 sind entsprechend anzuwenden auf Personen, bei denen Tatsachen die Annahme rechtfertigen, dass sie unbefugterweise mit explosionsgefährlichen Stoffen umgehen oder den Verkehr mit diesen Stoffen betreiben.
 
-##### § 32 Anordnungen der zuständigen Behörden
+###### § 32 Anordnungen der zuständigen Behörden
 
 (1) Die zuständige Behörde kann im Einzelfall anordnen, welche Maßnahmen zur Durchführung des § 24 und der auf Grund des § 25 oder § 29 erlassenen Rechtsverordnungen zu treffen sind. Dabei können auch Anordnungen getroffen werden, die über die auf Grund einer Rechtsverordnung nach § 25 oder § 29 gestellten Anforderungen hinausgehen, soweit dies zum Schutze von Leben, Gesundheit und Sachgütern Beschäftigter oder Dritter erforderlich ist.
 
@@ -1314,9 +1318,9 @@ Der Umgang und der Verkehr mit explosionsgefährlichen Stoffen unterliegen der �
 
 (5) Übt jemand eine Tätigkeit ohne die nach dem Gesetz erforderliche Erlaubnis oder Zulassung aus oder hat jemand Umgang oder Verkehr mit Explosivstoffen oder pyrotechnischen Gegenständen ohne den nach diesem Gesetz erforderlichen Konformitätsnachweis, so kann die zuständige Behörde anordnen, dass die explosionsgefährlichen Stoffe, über die der Betroffene die tatsächliche Gewalt noch ausübt, nicht mehr verwendet werden dürfen oder ihr nachgewiesen wird, dass die explosionsgefährlichen Stoffe innerhalb einer von ihr gesetzten Frist unbrauchbar gemacht oder einem Berechtigten überlassen worden sind. Nach Ablauf der Frist können die Stoffe sichergestellt und verwertet oder vernichtet werden. Ein Erlös aus der Verwertung der Stoffe steht dem bisher Berechtigten zu. Rechtfertigen Tatsachen die Annahme, dass ein Nichtberechtigter die explosionsgefährlichen Stoffe erwerben wird oder dass die Stoffe unbefugt verwendet werden, so können diese sofort sichergestellt werden.
 
-##### § 32a (weggefallen)
+###### § 32a (weggefallen)
 
-##### § 33 Beschäftigungsverbot
+###### § 33 Beschäftigungsverbot
 
 (1) Beschäftigt der Erlaubnisinhaber als verantwortliche Person entgegen § 21 Abs. 2 eine Person, die nicht im Besitz eines Befähigungsscheines ist, so kann die zuständige Behörde dem Erlaubnisinhaber untersagen, diese Person beim Umgang oder Verkehr mit explosionsgefährlichen Stoffen zu beschäftigen.
 
@@ -1326,9 +1330,9 @@ Der Umgang und der Verkehr mit explosionsgefährlichen Stoffen unterliegen der �
 
 ## Unterabschnitt 2 Marktüberwachung
 
-##### § 33a (weggefallen)
+###### § 33a (weggefallen)
 
-##### § 33b Maßnahmen bei mangelhaften explosionsgefährlichen Stoffen und mangelhaftem Sprengzubehör
+###### § 33b Maßnahmen bei mangelhaften explosionsgefährlichen Stoffen und mangelhaftem Sprengzubehör
 
 (1) Besteht der begründete Verdacht, dass bei bestimmungsgemäßer Verwendung eines nach § 5 konformitätsbewerteten oder eines nach § 5f Absatz 1 oder 2 zugelassenen und entsprechend gekennzeichneten explosionsgefährlichen Stoffes oder Sprengzubehörs eine Gefahr für Leben und Gesundheit, für Sachgüter oder für die Umwelt besteht, prüft die zuständige Behörde anhand einer Stichprobe, ob diese dem bei der Zulassung vorgelegten Prüfmuster oder dem Baumuster entspricht. Stellt die zuständige Behörde die Übereinstimmung fest, so prüft sie, ob die Stichprobe die Anforderungen einer Rechtsverordnung nach § 6 Absatz 1 Nummer 2 Buchstabe a erfüllt.
 
@@ -1344,7 +1348,7 @@ Die Bundesanstalt für Materialforschung und -prüfung ist über die Maßnahmen 
 
 (4) Besteht der begründete Verdacht, dass ein Explosivstoff oder ein pyrotechnischer Gegenstand entgegen § 5 Absatz 1 Nummer 2 gekennzeichnet und in den Verkehr gebracht oder anderen überlassen worden ist, sind die Absätze 2 und 3 entsprechend anzuwenden.
 
-##### § 33c Maßnahmen bei Information durch andere Mitgliedstaaten der Europäischen Union über Explosivstoffe oder pyrotechnische Gegenstände; Aufhebung oder Änderung getroffener Maßnahmen
+###### § 33c Maßnahmen bei Information durch andere Mitgliedstaaten der Europäischen Union über Explosivstoffe oder pyrotechnische Gegenstände; Aufhebung oder Änderung getroffener Maßnahmen
 
 (1) Wird die zuständige Behörde von Behörden anderer Mitgliedstaaten der Europäischen Union über deren Maßnahmen gegen nicht konforme oder sonst unsichere Explosivstoffe oder pyrotechnische Gegenstände informiert, trifft sie alle notwendigen Maßnahmen zum Schutz der Verbraucher oder Dritter.
 
@@ -1352,7 +1356,7 @@ Die Bundesanstalt für Materialforschung und -prüfung ist über die Maßnahmen 
 
 (3) Verlangt die Europäische Kommission auf der Grundlage des Artikels 43 der Richtlinie 2014/28/EU oder des Artikels 40 der Richtlinie 2013/29/EU die Aufhebung oder Änderung einer getroffenen Maßnahme, hat die zuständige Behörde den erlassenen Verwaltungsakt aufzuheben oder zu ändern.
 
-##### § 33d Weitere Maßnahmen im Rahmen der Marktüberwachung
+###### § 33d Weitere Maßnahmen im Rahmen der Marktüberwachung
 
 (1) Die zuständige Behörde kann gegenüber Wirtschaftsakteuren Maßnahmen zur Durchführung der Verordnung (EG) Nr. 765/2008, auch in Verbindung mit der Richtlinie 2014/28/EU oder der Richtlinie 2013/29/EU, anordnen. Dabei können auch Anordnungen getroffen werden, die über die auf Grund einer Rechtsverordnung nach § 25 oder § 29 gestellten Anforderungen hinausgehen, soweit dies zum Schutz von Leben, Gesundheit und von Sachgütern erforderlich ist. Artikel 15 Absatz 3 der Verordnung (EG) Nr. 765/2008 findet Anwendung.
 
@@ -1380,7 +1384,7 @@ Die Bundesanstalt für Materialforschung und -prüfung ist über die Maßnahmen 
 
 ## Abschnitt VII Sonstige Vorschriften
 
-##### § 34 Rücknahme und Widerruf
+###### § 34 Rücknahme und Widerruf
 
 (1) Eine Erlaubnis, eine Zulassung und ein Befähigungsschein nach diesem Gesetz sind zurückzunehmen, wenn sie hätten versagt werden müssen.
 
@@ -1400,13 +1404,13 @@ Die Bundesanstalt für Materialforschung und -prüfung ist über die Maßnahmen 
 
 (5) Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 1 und Absatz 2 Satz 1 haben keine aufschiebende Wirkung, sofern die Erlaubnis, die Zulassung oder der Befähigungsschein wegen des Nichtvorliegens oder Entfallens der Voraussetzungen nach §§ 8, 8a oder 8b zurückgenommen oder widerrufen wird.
 
-##### § 35 Abhandenkommen des Erlaubnisbescheides und des Befähigungsscheines
+###### § 35 Abhandenkommen des Erlaubnisbescheides und des Befähigungsscheines
 
 (1) Der Erlaubnis- und der Befähigungsscheininhaber haben der zuständigen Behörde den Verlust des Erlaubnisbescheides oder des Befähigungsscheines oder einer Ausfertigung unverzüglich anzuzeigen.
 
 (2) Ist der Erlaubnisbescheid, der Befähigungsschein oder eine Ausfertigung in Verlust geraten, so sollen der Erlaubnisbescheid, der Befähigungsschein und sämtliche Ausfertigungen für ungültig erklärt werden. Die Erklärung der Ungültigkeit wird im Bundesanzeiger bekannt gemacht.
 
-##### § 36 Zuständige Behörden
+###### § 36 Zuständige Behörden
 
 (1) Die Landesregierungen oder die von ihnen durch Rechtsverordnung bestimmten Stellen können durch Rechtsverordnung die für die Ausführung dieses Gesetzes zuständigen Behörden bestimmen, soweit nicht Bundesbehörden zuständig sind. Wird eine Erlaubnis oder ein Befähigungsschein für den Umgang oder den Verkehr mit explosionsgefährlichen Stoffen für die gleichen Tätigkeiten im gewerblichen und im Bereich der Bergaufsicht beantragt, so entscheidet hierüber die Erlaubnisbehörde, in deren Zuständigkeitsbereich die Tätigkeit begonnen werden soll, im Einvernehmen mit der für den anderen Bereich zuständigen Behörde. Die Erlaubnis und der Befähigungsschein gelten in diesem Fall auch für den Bereich der jeweils anderen Behörde. Die Erlaubnisbehörde nach Satz 2 entscheidet auch über nachträgliche Änderungen und Auflagen sowie die Rücknahme und den Widerruf der Erlaubnis oder des Befähigungsscheines.
 
@@ -1432,19 +1436,19 @@ Die Bundesanstalt für Materialforschung und -prüfung ist über die Maßnahmen 
 
 (6) Verwaltungsverfahren nach diesem Gesetz oder auf Grund dieses Gesetzes können über eine einheitliche Stelle nach den Vorschriften der Verwaltungsverfahrensgesetze abgewickelt werden.
 
-##### § 37 (weggefallen)
+###### § 37 (weggefallen)
 
-##### § 38 (weggefallen)
+###### § 38 (weggefallen)
 
 -
 
-##### § 39 Beteiligung beim Erlass von Rechtsverordnungen
+###### § 39 Beteiligung beim Erlass von Rechtsverordnungen
 
 (1) Rechtsverordnungen nach den §§ 4 und 6, nach § 9 Abs. 3, § 16 Abs. 3 und § 22 Absatz 6 ergehen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Arbeit und Soziales und mit Zustimmung des Bundesrates. Rechtsverordnungen nach § 4 Satz 1 Nr. 5, § 9 Abs. 3 Nr. 2, § 13 Abs. 3 und § 29 Nr. 1 ergehen, soweit sie die Beförderung explosionsgefährlicher Stoffe betreffen, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur, Rechtsverordnungen nach § 13 Abs. 3 auch im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales. Soweit die Rechtsverordnungen nach § 4 Satz 1 Nr. 1 und 3 explosionsgefährliche Stoffe für medizinische oder pharmazeutische Zwecke betreffen, ergehen sie auch im Einvernehmen mit dem Bundesministerium für Gesundheit.
 
 (2) Rechtsverordnungen nach § 25 ergehen im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und mit Zustimmung des Bundesrates; soweit diese Rechtsverordnungen den Verkehr mit explosionsgefährlichen Stoffen oder Sprengzubehör betreffen, ergehen sie auch im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie.
 
-##### § 39a Datenübermittlung an und von Meldebehörden
+###### § 39a Datenübermittlung an und von Meldebehörden
 
 (1) Die für die Erteilung einer sprengstoffrechtlichen Erlaubnis zuständige Behörde teilt der für den Antragsteller/die Antragstellerin zuständigen Meldebehörde die erstmalige Erteilung einer Erlaubnis mit. Sie unterrichtet ferner diese Behörde, wenn eine Person über keine sprengstoffrechtliche Erlaubnis mehr verfügt. Ist eine Person am 1. September 2005 Inhaber einer Erlaubnis, soll die Mitteilung binnen drei Jahren erfolgen.
 
@@ -1454,7 +1458,7 @@ Die Bundesanstalt für Materialforschung und -prüfung ist über die Maßnahmen 
 
 ## Abschnitt VIII Straf- und Bußgeldvorschriften
 
-##### § 40 Strafbarer Umgang und Verkehr sowie strafbare Einfuhr
+###### § 40 Strafbarer Umgang und Verkehr sowie strafbare Einfuhr
 
 (1) Wer ohne die erforderliche Erlaubnis
 
@@ -1496,7 +1500,7 @@ e) entgegen § 22 Abs. 4 Satz 1 vertreibt oder anderen überlässt.
 
 (5) Die Tat ist nicht nach Absatz 1 Nummer 3 oder Absatz 2 Nummer 1 Buchstabe b oder Nummer 3 strafbar, wenn eine dort bezeichnete Handlung in Bezug auf einen nach § 5 Absatz 1 Nummer 1 konformitätsbewerteten oder nach § 47 Absatz 2 oder Absatz 4 zugelassenen pyrotechnischen Gegenstand begangen wird. Satz 1 gilt nicht für einen pyrotechnischen Gegenstand nach § 3a Absatz 1 Nummer 1 Buchstabe d.
 
-##### § 41 Ordnungswidrigkeiten
+###### § 41 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1554,7 +1558,7 @@ b) § 15 Absatz 1 Satz 2 erster Halbsatz in Verbindung mit einer Rechtsverordnu
 
 12. gegen die Vorschrift des § 23 über das Mitführen von Urkunden verstößt,
 
-12a. entgegen § 24 Abs. 1 Satz 2 eine Anleitung oder den Stand der Technik nicht oder nicht richtet anwendet,
+12a. entgegen § 24 Abs. 1 Satz 2 eine Anleitung oder den Stand der Technik nicht oder nicht richtig anwendet,
 
 13. (weggefallen)
 
@@ -1572,11 +1576,11 @@ b) § 15 Absatz 1 Satz 2 erster Halbsatz in Verbindung mit einer Rechtsverordnu
 
 (3) Wird eine Zuwiderhandlung nach Absatz 1 Nummer 5a oder Nummer 12 von einem Unternehmen begangen, das im Geltungsbereich des Gesetzes weder seinen Sitz noch eine geschäftliche Niederlassung hat, und hat auch der Betroffene im Geltungsbereich des Gesetzes keinen Wohnsitz, so ist Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für Logistik und Mobilität.
 
-##### § 42 Strafbare Verletzung von Schutzvorschriften
+###### § 42 Strafbare Verletzung von Schutzvorschriften
 
 Wer durch eine in § 41 Absatz 1 Nummer 1a, 1c, 1d, 2, 2a, 3 oder Nummer 15 oder eine in § 41 Absatz 1a bezeichnete vorsätzliche Handlung das Leben oder die Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-##### § 43 Einziehung
+###### § 43 Einziehung
 
 Ist eine Straftat nach § 40 oder § 42 oder eine Ordnungswidrigkeit nach § 41 begangen worden, so können
 
@@ -1589,7 +1593,7 @@ eingezogen werden. § 74a des Strafgesetzbuchs und § 23 des Gesetzes über Ordn
 ## Abschnitt IX Bundesanstalt für Materialforschung
 und -prüfung
 
-##### § 44 Rechtsstellung der Bundesanstalt
+###### § 44 Rechtsstellung der Bundesanstalt
 
 (1) Die Bundesanstalt ist eine bundesunmittelbare, nicht rechtsfähige Anstalt des öffentlichen Rechts im Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie; sie ist eine Bundesoberbehörde.
 
@@ -1597,7 +1601,7 @@ und -prüfung
 
 (3) (weggefallen)
 
-##### § 45 Aufgaben der Bundesanstalt
+###### § 45 Aufgaben der Bundesanstalt
 
 Die Bundesanstalt ist zuständig für
 
@@ -1611,11 +1615,11 @@ Die Bundesanstalt ist zuständig für
 
 ## Abschnitt X Übergangs- und Schlussvorschriften
 
-##### § 46 Fortgeltung erteilter Erlaubnisse
+###### § 46 Fortgeltung erteilter Erlaubnisse
 
 Erlaubnisse und Befähigungsscheine, die nach dem Sprengstoffgesetz vom 25. August 1969 (BGBl. I S. 1358) erteilt worden sind, gelten im bisherigen Umfang als Erlaubnisse und Befähigungsscheine im Sinne dieses Gesetzes.
 
-##### § 47 Übergangsvorschriften
+###### § 47 Übergangsvorschriften
 
 (1) Eine vor Inkrafttreten des Sprengstoffgesetzes vom 25. August 1969 (BGBl. I S. 1358) erteilte Zulassung zum Vertrieb, zum Überlassen oder zur Verwendung von sonstigen explosionsgefährlichen Stoffen oder von Sprengzubehör gilt in dem in § 1 bezeichneten Anwendungsbereich als Zulassung im Sinne des § 5 dieses Gesetzes.
 
@@ -1635,15 +1639,15 @@ und für die die Durchführung des Qualitätssicherungsverfahrens nach § 20 Abs
 
 2. von pyrotechnischen Gegenständen nach § 5 Absatz 2, die vor dem 1. Oktober 2009 von der Bundesanstalt erteilt wurden, ihre Gültigkeit.
 
-##### § 47a Übergangsvorschrift zu den §§ 8 bis 8b und 34
+###### § 47a Übergangsvorschrift zu den §§ 8 bis 8b und 34
 
 (1) § 34 Abs. 2 findet bis zum 31. Dezember 2009 mit der Maßgabe Anwendung, dass für den Widerruf vor dem 1. September 2005 erteilter Erlaubnisse oder Befähigungsscheine die vor dem 1. September 2005 geltenden Bestimmungen Anwendung finden. Satz 1 gilt entsprechend für die Verlängerung von Erlaubnissen oder Befähigungsscheinen.
 
 (2) Absatz 1 findet keine Anwendung in den Fällen des § 8a Abs. 2 Nr. 2 bis 4 und des § 8b Abs. 1 Nr. 1 bis 3.
 
-##### § 47b (weggefallen)
+###### § 47b (weggefallen)
 
-##### § 48 Bereits errichtete Sprengstofflager
+###### § 48 Bereits errichtete Sprengstofflager
 
 Lager für explosionsgefährliche Stoffe, die bei Inkrafttreten dieses Gesetzes bereits errichtet oder genehmigt waren, bedürfen keiner Genehmigung nach § 17 Abs. 1. Soweit nach § 17 und den auf Grund des § 25 erlassenen Rechtsverordnungen an die Errichtung und den Betrieb von Lagern für explosionsgefährliche Stoffe Anforderungen zu stellen sind, die über die vor Inkrafttreten dieses Gesetzes gestellten Anforderungen hinausgehen, kann die zuständige Behörde verlangen, dass die bereits errichteten oder genehmigten Lager den Vorschriften dieses Gesetzes entsprechend geändert werden, wenn
 
@@ -1653,7 +1657,7 @@ Lager für explosionsgefährliche Stoffe, die bei Inkrafttreten dieses Gesetzes 
 
 3. dies zur Abwehr von sonstigen erheblichen Gefahren für die öffentliche Sicherheit erforderlich ist.
 
-##### § 49 Anwendbarkeit anderer Vorschriften
+###### § 49 Anwendbarkeit anderer Vorschriften
 
 (1) Auf die den Vorschriften dieses Gesetzes unterliegenden Gewerbebetriebe ist die Gewerbeordnung insoweit anzuwenden, als nicht in diesem Gesetz besondere Vorschriften erlassen worden sind.
 
@@ -1661,11 +1665,11 @@ Lager für explosionsgefährliche Stoffe, die bei Inkrafttreten dieses Gesetzes 
 
 (3) (weggefallen)
 
-##### § 50 (Änderung anderer Vorschriften)
+###### § 50 (Änderung anderer Vorschriften)
 
 -
 
-##### § 51 Nicht mehr anwendbare Vorschriften
+###### § 51 Nicht mehr anwendbare Vorschriften
 
 (1) Soweit sie nicht bereits auf Grund des § 39 des Sprengstoffgesetzes vom 25. August 1969 außer Kraft getreten sind, treten außer Kraft
 
@@ -1679,15 +1683,15 @@ Lager für explosionsgefährliche Stoffe, die bei Inkrafttreten dieses Gesetzes 
 
 (2) Soweit sich die in Absatz 1 Nr. 4 bezeichneten Rechtsvorschriften auf Gegenstände beziehen, die durch Rechtsverordnungen auf Grund dieses Gesetzes zu regeln sind, treten diese Vorschriften erst mit Inkrafttreten der entsprechenden Rechtsverordnungen außer Kraft.
 
-##### § 52 (weggefallen)
+###### § 52 (weggefallen)
 
 -
 
-##### § 53 (Inkrafttreten)
+###### § 53 (Inkrafttreten)
 
 -
 
-##### Anlage I (zu § 15a Absatz 1 und 3) Erforderliche Angaben im Antrag auf Genehmigung des Verbringens von Explosivstoffen nach § 15a Absatz 1 und Angaben in der Genehmigung des Verbringens von Explosivstoffen nach § 15a Absatz 3
+###### Anlage I (zu § 15a Absatz 1 und 3) Erforderliche Angaben im Antrag auf Genehmigung des Verbringens von Explosivstoffen nach § 15a Absatz 1 und Angaben in der Genehmigung des Verbringens von Explosivstoffen nach § 15a Absatz 3
 
 (Fundstelle: BGBl I 2017, 1604)
 
@@ -1725,12 +1729,12 @@ Lager für explosionsgefährliche Stoffe, die bei Inkrafttreten dieses Gesetzes 
 
 2.8 Nebenbestimmungen gemäß § 15a Absatz 3 für das Verbringen der Explosivstoffe.
 
-##### Anlage II
+###### Anlage II
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 3535)
 **Stoffgruppe A**Lfd. Nr.StoffFormel11,4; 3,6-Dianhydro-D-glucit-2,5-dinitrat (Isosorbid-2,5-dinitrat ISDN)C6H8N2O82N,N'-Dinitroso-N,N' dimethyloxamidC4H6N4O43ErythrittetranitratC4H6N4O124Glycerintrinitrat (Nitroglycerin)C3H5N3O95Hexanitrodiphenylamin (Hexyl)C12H5N7O126Pentaerythrittetranitrat (Nitropenta, PETN, Pentrit)C5H8N4O127Trinitrophenol (Pikrinsäure)C6H3N307 **Stoffgruppe B**Lfd. Nr.StoffFormel1Benzol-1,3-disulfohydrazidC6H10N4O4S22tert. ButylperoxypivalatC9H18O33DibenzoylperoxidC14H10O44Di-(2,4-dichlorbenzoyl)- peroxidC14H6Cl4O45DiisopropylperoxydicarbonatC8H14O661,3-Dimethyl-5-tert. butyl-2,4,6-trinitrobenzolC12H15N3O67DisuccinoylmonoperoxidC8H10O881-Hydroxy-1'-hydroperoxydicyclohexylperoxid (Cyclohexanonperoxid)C12H20O5 **Stoffgruppe C**Lfd. Nr.StoffFormel1AzodiisobutyronitrilC8H12N42n-Butyl-4,4-di-(tert.butylperoxy)-valeratC17H34O63tert. Butylperoxy-(2-ethyl) hexanoatC12H24O34tert. ButylperoxybenzoatC11H14O352-Diazo-1-naphthol- 4-sulfochloridC10H5ClN2O3S6DinitroanthrachinonC14H6N2O671,4-DinitrosobenzolC6H5N2O285-NitrobenztriazolC6H5N4O29Tetrazol-1-essigsäureC3H4N4O2
 
-##### Anlage III (zu § 3 Absatz 1 Nummer 2 Buchstabe b)
+###### Anlage III (zu § 3 Absatz 1 Nummer 2 Buchstabe b)
 
 (Fundstelle: BGBl I 2017, 1604 bis 1605)
 
@@ -1761,11 +1765,10 @@ Lager für explosionsgefährliche Stoffe, die bei Inkrafttreten dieses Gesetzes 
  0409,
  0410**sonstige sprengkräftige Kriegswaffen** nach der Anlage (Kriegswaffenliste) zum Gesetz über die Kontrolle von Kriegswaffen in der Fassung der Bekanntmachung vom 22. November 1990 (BGBl. I S. 2506), das zuletzt durch Artikel 30 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung
 
-##### Anlage IV Gegenstände, die durch Entscheidung einer benannten Stelle den Explosivstoffen zugeordnet werden können (§ 3 Abs. 1 Satz 2, Anhang II der Richtlinie 2004/57/EG)
+###### Anlage IV Gegenstände, die durch Entscheidung einer benannten Stelle den Explosivstoffen zugeordnet werden können (§ 3 Abs. 1 Satz 2, Anhang II der Richtlinie 2004/57/EG)
 
 ( Fundstelle: BGBl. I 2005, 1635 )
 
 Soweit nachfolgend Gegenständen UN-Nummern zugeordnet sind, ist maßgeblich die 8. revidierte Fassung der "Empfehlungen der Vereinten Nationen über die Beförderung gefährlicher Güter" (UN-Dokument ST/SG/AC. 10/1/Rev. 8 - United Nations Recommendations on the Transport of Dangerous Goods, Eighth Revised Edition). Die Angabe der UN-Nummer dient der Zuordnung der Gegenstände. Sie bezieht sich auf den verpackten Gegenstand. Soweit unter einzelnen UN-Nummern Gegenstände mit unterschiedlicher Zweckbestimmung enthalten sind, ist diese maßgeblich für die Zuordnung.
 
 GegenstandUN-Nr.**Anzünder**0121,0314,0315,0325,0454**Anzünder,** Anzündschnur0131**Gegenstände mit Explosivstoff,** n. a. g.0349,0353**Zünder,** nicht sprengkräftig0316,0317,0368
-
