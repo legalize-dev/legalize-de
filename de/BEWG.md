@@ -4,30 +4,33 @@ identifier: "BEWG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1934-10-16"
-last_updated: "2026-04-04"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bewg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR010350934"
 slug: "bewg"
 bgbl_reference: "RGBl I 1934, 1035"
-stand: "zuletzt geändert durch Art. 36 G v. 2.12.2024 I Nr. 387"
+stand: "zuletzt geändert durch Art. 19 G v. 22.6.2026 I Nr. 192"
 neufassung: "Neugefasst durch Bek. v. 1.2.1991 I 230;"
-hinweis: "Mittelbare Änderung durch Art. 53 G v. 2.12.2024 I Nr. 387 ist berücksichtigt"
 ---
 # Bewertungsgesetz
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ## Erster Teil Allgemeine Bewertungsvorschriften
 
-##### § 1 Geltungsbereich
+###### § 1 Geltungsbereich
 
 (1) Die allgemeinen Bewertungsvorschriften (§§ 2 bis 16) gelten für alle öffentlich-rechtlichen Abgaben, die durch Bundesrecht geregelt sind, soweit sie durch Bundesfinanzbehörden oder durch Landesfinanzbehörden verwaltet werden.
 
 (2) Die allgemeinen Bewertungsvorschriften gelten nicht, soweit im Zweiten Teil dieses Gesetzes oder in anderen Steuergesetzen besondere Bewertungsvorschriften enthalten sind.
 
-##### § 2 Wirtschaftliche Einheit
+###### § 2 Wirtschaftliche Einheit
 
 (1) Jede wirtschaftliche Einheit ist für sich zu bewerten. Ihr Wert ist im ganzen festzustellen. Was als wirtschaftliche Einheit zu gelten hat, ist nach den Anschauungen des Verkehrs zu entscheiden. Die örtliche Gewohnheit, die tatsächliche Übung, die Zweckbestimmung und die wirtschaftliche Zusammengehörigkeit der einzelnen Wirtschaftsgüter sind zu berücksichtigen.
 
@@ -35,39 +38,39 @@ hinweis: "Mittelbare Änderung durch Art. 53 G v. 2.12.2024 I Nr. 387 ist berüc
 
 (3) Die Vorschriften der Absätze 1 und 2 gelten nicht, soweit eine Bewertung der einzelnen Wirtschaftsgüter vorgeschrieben ist.
 
-##### § 3 Wertermittlung bei mehreren Beteiligten
+###### § 3 Wertermittlung bei mehreren Beteiligten
 
 Steht ein Wirtschaftsgut mehreren Personen zu, so ist sein Wert im ganzen zu ermitteln. Der Wert ist auf die Beteiligten nach dem Verhältnis ihrer Anteile zu verteilen, soweit nicht nach dem maßgebenden Steuergesetz die Gemeinschaft selbständig steuerpflichtig ist.
 
-##### § 3a (weggefallen)
+###### § 3a (weggefallen)
 
-##### § 4 Aufschiebend bedingter Erwerb
+###### § 4 Aufschiebend bedingter Erwerb
 
 Wirtschaftsgüter, deren Erwerb vom Eintritt einer aufschiebenden Bedingung abhängt, werden erst berücksichtigt, wenn die Bedingung eingetreten ist.
 
-##### § 5 Auflösend bedingter Erwerb
+###### § 5 Auflösend bedingter Erwerb
 
 (1) Wirtschaftsgüter, die unter einer auflösenden Bedingung erworben sind, werden wie unbedingt erworbene behandelt. Die Vorschriften über die Berechnung des Kapitalwerts der Nutzungen von unbestimmter Dauer (§ 13 Abs. 2 und 3, § 14, § 15 Abs. 3) bleiben unberührt.
 
 (2) Tritt die Bedingung ein, so ist die Festsetzung der nicht laufend veranlagten Steuern auf Antrag nach dem tatsächlichen Wert des Erwerbs zu berichtigen. Der Antrag ist bis zum Ablauf des Jahres zu stellen, das auf den Eintritt der Bedingung folgt.
 
-##### § 6 Aufschiebend bedingte Lasten
+###### § 6 Aufschiebend bedingte Lasten
 
 (1) Lasten, deren Entstehung vom Eintritt einer aufschiebenden Bedingung abhängt, werden nicht berücksichtigt.
 
 (2) Für den Fall des Eintritts der Bedingung gilt § 5 Abs. 2 entsprechend.
 
-##### § 7 Auflösend bedingte Lasten
+###### § 7 Auflösend bedingte Lasten
 
 (1) Lasten, deren Fortdauer auflösend bedingt ist, werden, soweit nicht ihr Kapitalwert nach § 13 Abs. 2 und 3, § 14, § 15 Abs. 3 zu berechnen ist, wie unbedingte abgezogen.
 
 (2) Tritt die Bedingung ein, so ist die Festsetzung der nicht laufend veranlagten Steuern entsprechend zu berichtigen.
 
-##### § 8 Befristung auf einen unbestimmten Zeitpunkt
+###### § 8 Befristung auf einen unbestimmten Zeitpunkt
 
 Die §§ 4 bis 7 gelten auch, wenn der Erwerb des Wirtschaftsguts oder die Entstehung oder der Wegfall der Last von einem Ereignis abhängt, bei dem nur der Zeitpunkt ungewiß ist.
 
-##### § 9 Bewertungsgrundsatz, gemeiner Wert
+###### § 9 Bewertungsgrundsatz, gemeiner Wert
 
 (1) Bei Bewertungen ist, soweit nichts anderes vorgeschrieben ist, der gemeine Wert zugrunde zu legen.
 
@@ -75,11 +78,11 @@ Die §§ 4 bis 7 gelten auch, wenn der Erwerb des Wirtschaftsguts oder die Entst
 
 (3) Als persönliche Verhältnisse sind auch Verfügungsbeschränkungen anzusehen, die in der Person des Steuerpflichtigen oder eines Rechtsvorgängers begründet sind. Das gilt insbesondere für Verfügungsbeschränkungen, die auf letztwilligen Anordnungen beruhen.
 
-##### § 10 Begriff des Teilwerts
+###### § 10 Begriff des Teilwerts
 
 Wirtschaftsgüter, die einem Unternehmen dienen, sind, soweit nichts anderes vorgeschrieben ist, mit dem Teilwert anzusetzen. Teilwert ist der Betrag, den ein Erwerber des ganzen Unternehmens im Rahmen des Gesamtkaufpreises für das einzelne Wirtschaftsgut ansetzen würde. Dabei ist davon auszugehen, daß der Erwerber das Unternehmen fortführt.
 
-##### § 11 Wertpapiere und Anteile
+###### § 11 Wertpapiere und Anteile
 
 (1) Wertpapiere und Schuldbuchforderungen, die am Stichtag an einer deutschen Börse zum Handel im regulierten Markt zugelassen sind, werden mit dem niedrigsten am Stichtag für sie im regulierten Markt notierten Kurs angesetzt. Liegt am Stichtag eine Notierung nicht vor, so ist der letzte innerhalb von 30 Tagen vor dem Stichtag im regulierten Markt notierte Kurs maßgebend. Entsprechend sind die Wertpapiere zu bewerten, die in den Freiverkehr einbezogen sind.
 
@@ -91,7 +94,7 @@ Wirtschaftsgüter, die einem Unternehmen dienen, sind, soweit nichts anderes vor
 
 (4) Anteile oder Aktien, die Rechte an einem Investmentvermögen im Sinne des Kapitalanlagegesetzbuchs verbriefen, sind mit dem Rücknahmepreis anzusetzen.
 
-##### § 12 Kapitalforderungen und Schulden
+###### § 12 Kapitalforderungen und Schulden
 
 (1) Kapitalforderungen, die nicht im § 11 bezeichnet sind, und Schulden sind mit dem Nennwert anzusetzen, wenn nicht besondere Umstände einen höheren oder geringeren Wert begründen. Liegen die besonderen Umstände in einer hohen, niedrigen oder fehlenden Verzinsung, ist bei der Bewertung vom Mittelwert einer jährlich vorschüssigen und jährlich nachschüssigen Zahlungsweise auszugehen.
 
@@ -101,7 +104,7 @@ Wirtschaftsgüter, die einem Unternehmen dienen, sind, soweit nichts anderes vor
 
 (4) Noch nicht fällige Ansprüche aus Lebens-, Kapital- oder Rentenversicherungen werden mit dem Rückkaufswert bewertet. Rückkaufswert ist der Betrag, den das Versicherungsunternehmen dem Versicherungsnehmer im Falle der vorzeitigen Aufhebung des Vertragsverhältnisses zu erstatten hat. Die Berechnung des Werts, insbesondere die Berücksichtigung von ausgeschütteten und gutgeschriebenen Gewinnanteilen kann durch Rechtsverordnung geregelt werden.
 
-##### § 13 Kapitalwert von wiederkehrenden Nutzungen und Leistungen
+###### § 13 Kapitalwert von wiederkehrenden Nutzungen und Leistungen
 
 (1) Der Kapitalwert von Nutzungen oder Leistungen, die auf bestimmte Zeit beschränkt sind, ist mit dem aus Anlage 9a zu entnehmenden Vielfachen des Jahreswerts anzusetzen. Ist die Dauer des Rechts außerdem durch das Leben einer oder mehrerer Personen bedingt, darf der nach § 14 zu berechnende Kapitalwert nicht überschritten werden.
 
@@ -109,7 +112,7 @@ Wirtschaftsgüter, die einem Unternehmen dienen, sind, soweit nichts anderes vor
 
 (3) Ist der gemeine Wert der gesamten Nutzungen oder Leistungen nachweislich geringer oder höher, so ist der nachgewiesene gemeine Wert zugrunde zu legen. Der Ansatz eines geringeren oder höheren Werts kann jedoch nicht darauf gestützt werden, daß mit einem anderen Zinssatz als 5,5 Prozent oder mit einer anderen als mittelschüssigen Zahlungsweise zu rechnen ist.
 
-##### § 14 Lebenslängliche Nutzungen und Leistungen
+###### § 14 Lebenslängliche Nutzungen und Leistungen
 
 (1) Der Kapitalwert von lebenslänglichen Nutzungen und Leistungen ist mit dem Vielfachen des Jahreswerts nach Maßgabe der Sätze 2 bis 4 anzusetzen. Die Vervielfältiger sind nach der Sterbetafel des Statistischen Bundesamtes zu ermitteln und ab dem 1. Januar des auf die Veröffentlichung der Sterbetafel durch das Statistische Bundesamt folgenden Kalenderjahres anzuwenden. Der Kapitalwert ist unter Berücksichtigung von Zwischenzinsen und Zinseszinsen mit einem Zinssatz von 5,5 Prozent als Mittelwert zwischen dem Kapitalwert für jährlich vorschüssige und jährlich nachschüssige Zahlungsweise zu berechnen. Das Bundesministerium der Finanzen stellt die Vervielfältiger für den Kapitalwert einer lebenslänglichen Nutzung oder Leistung im Jahresbetrag von einem Euro nach Lebensalter und Geschlecht der Berechtigten in einer Tabelle zusammen und veröffentlicht diese zusammen mit dem Datum der Veröffentlichung der Sterbetafel im Bundessteuerblatt.
 
@@ -141,7 +144,7 @@ bestanden und beruht der Wegfall auf dem Tod des Berechtigten oder Verpflichtete
 
 (4) Ist der gemeine Wert der gesamten Nutzungen oder Leistungen nachweislich geringer oder höher als der Wert, der sich nach Absatz 1 ergibt, so ist der nachgewiesene gemeine Wert zugrunde zu legen. Der Ansatz eines geringeren oder höheren Werts kann jedoch nicht darauf gestützt werden, daß mit einer kürzeren oder längeren Lebensdauer, mit einem anderen Zinssatz als 5,5 Prozent oder mit einer anderen als mittelschüssigen Zahlungsweise zu rechnen ist.
 
-##### § 15 Jahreswert von Nutzungen und Leistungen
+###### § 15 Jahreswert von Nutzungen und Leistungen
 
 (1) Der einjährige Betrag der Nutzung einer Geldsumme ist, wenn kein anderer Wert feststeht, zu 5,5 Prozent anzunehmen.
 
@@ -149,19 +152,19 @@ bestanden und beruht der Wegfall auf dem Tod des Berechtigten oder Verpflichtete
 
 (3) Bei Nutzungen oder Leistungen, die in ihrem Betrag ungewiß sind oder schwanken, ist als Jahreswert der Betrag zugrunde zu legen, der in Zukunft im Durchschnitt der Jahre voraussichtlich erzielt werden wird.
 
-##### § 16 Begrenzung des Jahreswerts von Nutzungen
+###### § 16 Begrenzung des Jahreswerts von Nutzungen
 
 Bei der Ermittlung des Kapitalwerts der Nutzungen eines Wirtschaftsguts kann der Jahreswert dieser Nutzungen höchstens den Wert betragen, der sich ergibt, wenn der für das genutzte Wirtschaftsgut nach den Vorschriften des Bewertungsgesetzes anzusetzende Wert durch 18,6 geteilt wird.
 
 ## Zweiter Teil Besondere Bewertungsvorschriften
 
-##### § 17 Geltungsbereich
+###### § 17 Geltungsbereich
 
 (1) Die besonderen Bewertungsvorschriften sind nach Maßgabe der jeweiligen Einzelsteuergesetze anzuwenden.
 
 (2) Soweit sich nicht aus den §§ 20 bis 266 etwas anderes ergibt, finden neben diesen auch die Vorschriften des Ersten Teils des Gesetzes (§§ 1 bis 16) Anwendung. § 16 findet auf die Grunderwerbsteuer keine Anwendung.
 
-##### § 18 Vermögensarten
+###### § 18 Vermögensarten
 
 Das Vermögen, das nach den Vorschriften des Zweiten Teils dieses Gesetzes zu bewerten ist, umfaßt die folgenden Vermögensarten:
 
@@ -175,68 +178,68 @@ Das Vermögen, das nach den Vorschriften des Zweiten Teils dieses Gesetzes zu be
 
 ## A. Allgemeines
 
-##### § 19 (weggefallen)
+###### § 19 (weggefallen)
 
-##### § 20 Abweichende Feststellung von Besteuerungsgrundlagen aus Billigkeitsgründen
+###### § 20 Abweichende Feststellung von Besteuerungsgrundlagen aus Billigkeitsgründen
 
 Bei der Bewertung ist § 163 der Abgabenordnung nicht anzuwenden; dies gilt nicht für Übergangsregelungen, die die oberste Finanzbehörde eines Landes im Einvernehmen mit den obersten Finanzbehörden der übrigen Länder trifft.
 
-##### (XXXX) §§ 21 bis 29 (weggefallen)
+###### (XXXX) §§ 21 bis 29 (weggefallen)
 
-##### § 30 Abrundung
+###### § 30 Abrundung
 
 Die in Deutscher Mark ermittelten Einheitswerte werden auf volle hundert Deutsche Mark nach unten abgerundet und danach in Euro umgerechnet. Der umgerechnete Betrag wird auf volle Euro abgerundet.
 
-##### § 31 Bewertung von ausländischem Sachvermögen
+###### § 31 Bewertung von ausländischem Sachvermögen
 
 (1) Für die Bewertung des ausländischen land- und forstwirtschaftlichen Vermögens, Grundvermögens und Betriebsvermögens gelten die Vorschriften des Ersten Teils dieses Gesetzes, insbesondere § 9 (gemeiner Wert). Nach diesen Vorschriften sind auch die ausländischen Teile einer wirtschaftlichen Einheit zu bewerten, die sich sowohl auf das Inland als auch auf das Ausland erstreckt.
 
 (2) Bei der Bewertung von ausländischem Grundbesitz sind Bestandteile und Zubehör zu berücksichtigen. Zahlungsmittel, Geldforderungen, Wertpapiere und Geldschulden sind nicht einzubeziehen.
 
-##### § 32 (weggefallen)
+###### § 32 (weggefallen)
 
 ## B. Land- und forstwirtschaftliches Vermögen
 
 ## I. Allgemeines
 
-##### (XXXX) §§ 33 bis 48a (weggefallen)
+###### (XXXX) §§ 33 bis 48a (weggefallen)
 
-##### § 49 (weggefallen)
+###### § 49 (weggefallen)
 
 ## II. Besondere Vorschriften
 
 ## a) Landwirtschaftliche Nutzung
 
-##### (XXXX) §§ 50 bis 52 (weggefallen)
+###### (XXXX) §§ 50 bis 52 (weggefallen)
 
 ## b) Forstwirtschaftliche Nutzung
 
-##### (XXXX) §§ 53 bis 55 (weggefallen)
+###### (XXXX) §§ 53 bis 55 (weggefallen)
 
 ## c) Weinbauliche Nutzung
 
-##### (XXXX) §§ 56 bis 58 (weggefallen)
+###### (XXXX) §§ 56 bis 58 (weggefallen)
 
 ## d) Gärtnerische Nutzung
 
-##### (XXXX) §§ 59 bis 61 (weggefallen)
+###### (XXXX) §§ 59 bis 61 (weggefallen)
 
 ## e) Sonstige land- und forstwirtschaftliche
 Nutzung
 
-##### § 62 (weggefallen)
+###### § 62 (weggefallen)
 
 ## III. Bewertungsbeirat, Gutachterausschuß
 
-##### (XXXX) §§ 63 bis 67 (weggefallen)
+###### (XXXX) §§ 63 bis 67 (weggefallen)
 
 ## C. Grundvermögen
 
 ## I. Allgemeines
 
-##### (XXXX) §§ 68 und 69 (weggefallen)
+###### (XXXX) §§ 68 und 69 (weggefallen)
 
-##### § 70 Grundstück
+###### § 70 Grundstück
 
 (1) Jede wirtschaftliche Einheit des Grundvermögens bildet ein Grundstück im Sinne dieses Gesetzes.
 
@@ -244,35 +247,35 @@ Nutzung
 
 (3) Als Grundstück im Sinne dieses Gesetzes gilt auch ein Gebäude, das auf fremdem Grund und Boden errichtet oder in sonstigen Fällen einem anderen als dem Eigentümer des Grund und Bodens zuzurechnen ist, selbst wenn es wesentlicher Bestandteil des Grund und Bodens geworden ist.
 
-##### § 71 (weggefallen)
+###### § 71 (weggefallen)
 
 ## II. Unbebaute Grundstücke
 
-##### (XXXX) §§ 72 und 73 (weggefallen)
+###### (XXXX) §§ 72 und 73 (weggefallen)
 
 ## III. Bebaute Grundstücke
 
 ## a) Begriff und Bewertung
 
-##### (XXXX) §§ 74 bis 77 (weggefallen)
+###### (XXXX) §§ 74 bis 77 (weggefallen)
 
 ## b) Verfahren
 
 ## 1. Ertragswertverfahren
 
-##### (XXXX) §§ 78 bis 82 (weggefallen)
+###### (XXXX) §§ 78 bis 82 (weggefallen)
 
 ## 2. Sachwertverfahren
 
-##### (XXXX) §§ 83 bis 90 (weggefallen)
+###### (XXXX) §§ 83 bis 90 (weggefallen)
 
 ## IV. Sondervorschriften
 
-##### (XXXX) §§ 91 bis 94 (weggefallen)
+###### (XXXX) §§ 91 bis 94 (weggefallen)
 
 ## D. Betriebsvermögen
 
-##### § 95 Begriff des Betriebsvermögens
+###### § 95 Begriff des Betriebsvermögens
 
 (1) Das Betriebsvermögen umfasst alle Teile eines Gewerbebetriebs im Sinne des § 15 Absatz 1 und 2 des Einkommensteuergesetzes, die bei der steuerlichen Gewinnermittlung zum Betriebsvermögen gehören. Als Gewerbebetrieb im Sinne des Satzes 1 gilt auch der Betrieb von Gesellschaften im Sinne des § 1 Absatz 1 des Körperschaftsteuergesetzes mit Sitz im Ausland, deren Ort der Geschäftsleitung im Inland belegen ist, und die nach inländischem Gesellschaftsrecht nicht als juristische Person zu behandeln sind, wenn dem Grunde nach eine Tätigkeit im Sinne des § 15 Absatz 1 und Absatz 2 des Einkommensteuergesetzes vorliegt.
 
@@ -280,11 +283,11 @@ Nutzung
 
 (3) (weggefallen)
 
-##### § 96 Freie Berufe
+###### § 96 Freie Berufe
 
 Dem Gewerbebetrieb steht die Ausübung eines freien Berufs im Sinne des § 18 Abs. 1 Nr. 1 des Einkommensteuergesetzes gleich; dies gilt auch für die Tätigkeit als Einnehmer einer staatlichen Lotterie, soweit die Tätigkeit nicht schon im Rahmen eines Gewerbebetriebs ausgeübt wird.
 
-##### § 97 Betriebsvermögen von Körperschaften, Personenvereinigungen und Vermögensmassen
+###### § 97 Betriebsvermögen von Körperschaften, Personenvereinigungen und Vermögensmassen
 
 (1) Einen Gewerbebetrieb bilden insbesondere alle Wirtschaftsgüter, die den folgenden Körperschaften, Personenvereinigungen und Vermögensmassen gehören, wenn diese ihre Geschäftsleitung oder ihren Sitz im Inland haben:
 
@@ -318,11 +321,11 @@ b) der verbleibende Wert ist nach dem für die Gesellschaft maßgebenden Gewinnv
 
 (3) (weggefallen)
 
-##### § 98 (weggefallen)
+###### § 98 (weggefallen)
 
-##### § 98a (weggefallen)
+###### § 98a (weggefallen)
 
-##### § 99 Betriebsgrundstücke
+###### § 99 Betriebsgrundstücke
 
 (1) Betriebsgrundstück im Sinne dieses Gesetzes ist der zu einem Gewerbebetrieb gehörige Grundbesitz, soweit er, losgelöst von seiner Zugehörigkeit zu dem Gewerbebetrieb,
 
@@ -334,9 +337,9 @@ b) der verbleibende Wert ist nach dem für die Gesellschaft maßgebenden Gewinnv
 
 (3) Betriebsgrundstücke im Sinne des Absatzes 1 Nr. 1 sind wie Grundvermögen, Betriebsgrundstücke im Sinne des Absatzes 1 Nr. 2 wie land- und forstwirtschaftliches Vermögen zu bewerten.
 
-##### (XXXX) §§ 100 bis 102 (weggefallen)
+###### (XXXX) §§ 100 bis 102 (weggefallen)
 
-##### § 103 Schulden und sonstige Abzüge
+###### § 103 Schulden und sonstige Abzüge
 
 (1) Schulden und sonstige Abzüge, die nach § 95 Abs. 1 zum Betriebsvermögen gehören, werden vorbehaltlich des Absatzes 3 berücksichtigt, soweit sie mit der Gesamtheit oder einzelnen Teilen des Betriebsvermögens im Sinne dieses Gesetzes in wirtschaftlichem Zusammenhang stehen.
 
@@ -344,23 +347,23 @@ b) der verbleibende Wert ist nach dem für die Gesellschaft maßgebenden Gewinnv
 
 (3) Rücklagen sind nur insoweit abzugsfähig, als ihr Abzug bei der Bewertung des Betriebsvermögens für Zwecke der Erbschaftsteuer durch Gesetz ausdrücklich zugelassen ist.
 
-##### § 104 (weggefallen)
+###### § 104 (weggefallen)
 
-##### (XXXX) §§ 105 bis 108 (weggefallen)
+###### (XXXX) §§ 105 bis 108 (weggefallen)
 
-##### § 109 Bewertung
+###### § 109 Bewertung
 
 (1) Das Betriebsvermögen von Gewerbebetrieben im Sinne des § 95 und das Betriebsvermögen von freiberuflich Tätigen im Sinne des § 96 ist jeweils mit dem gemeinen Wert anzusetzen. Für die Ermittlung des gemeinen Werts gilt § 11 Abs. 2 entsprechend.
 
 (2) Der Wert eines Anteils am Betriebsvermögen einer in § 97 genannten Körperschaft, Personenvereinigung oder Vermögensmasse ist mit dem gemeinen Wert anzusetzen. Für die Ermittlung des gemeinen Werts gilt § 11 Abs. 2 entsprechend.
 
-##### § 109a (weggefallen)
+###### § 109a (weggefallen)
 
 ## Zweiter Abschnitt Sondervorschriften und Ermächtigungen
 
-##### (XXXX) §§ 110 bis 120 (weggefallen)
+###### (XXXX) §§ 110 bis 120 (weggefallen)
 
-##### § 121 Inlandsvermögen
+###### § 121 Inlandsvermögen
 
 Zum Inlandsvermögen gehören:
 
@@ -382,55 +385,55 @@ Zum Inlandsvermögen gehören:
 
 9. Nutzungsrechte an einem der in den Nummern 1 bis 8 genannten Vermögensgegenstände.
 
-##### § 121a (weggefallen)
+###### § 121a (weggefallen)
 
-##### § 122 (weggefallen)
+###### § 122 (weggefallen)
 
-##### § 123 Ermächtigungen
+###### § 123 Ermächtigungen
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates die in § 12 Absatz 4 Satz 3 vorgesehene Rechtsverordnung zu erlassen.
 
-##### § 124 (weggefallen)
+###### § 124 (weggefallen)
 
 ## Dritter Abschnitt Vorschriften für die Bewertung von Vermögen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
 ## A. Land- und forstwirtschaftliches Vermögen
 
-##### (XXXX) §§ 125 bis 128 (weggefallen)
+###### (XXXX) §§ 125 bis 128 (weggefallen)
 
 ## B. Grundvermögen
 
-##### (XXXX) §§ 129 bis 133 (weggefallen)
+###### (XXXX) §§ 129 bis 133 (weggefallen)
 
 ## C. Betriebsvermögen
 
-##### (XXXX) §§ 134 bis 136 (weggefallen)
+###### (XXXX) §§ 134 bis 136 (weggefallen)
 
-##### § 137 (weggefallen)
+###### § 137 (weggefallen)
 
 ## Vierter Abschnitt Vorschriften für die Bewertung von Grundbesitz für die Grunderwerbsteuer ab 1. Januar 1997
 
 ## A. Allgemeines
 
-##### (XXXX) §§ 138 und 139 (weggefallen)
+###### (XXXX) §§ 138 und 139 (weggefallen)
 
 ## B. Land- und forstwirtschaftliches Vermögen
 
-##### (XXXX) §§ 140 bis 144 (weggefallen)
+###### (XXXX) §§ 140 bis 144 (weggefallen)
 
 ## C. Grundvermögen
 
 ## I. Unbebaute Grundstücke
 
-##### § 145 (weggefallen)
+###### § 145 (weggefallen)
 
 ## II. Bebaute Grundstücke
 
-##### (XXXX) §§ 146 bis 150 (weggefallen)
+###### (XXXX) §§ 146 bis 150 (weggefallen)
 
 ## Fünfter Abschnitt Gesonderte Feststellungen
 
-##### § 151 Gesonderte Feststellungen
+###### § 151 Gesonderte Feststellungen
 
 (1) Gesondert festzustellen (§ 179 der Abgabenordnung) sind
 
@@ -456,7 +459,7 @@ wenn die Werte für die Erbschaftsteuer oder eine andere Feststellung im Sinne d
 
 (5) Grundbesitzwerte (Absatz 1 Satz 1 Nr. 1) sind auch festzustellen, wenn sie für die Grunderwerbsteuer von Bedeutung sind. Absatz 1 Satz 2 gilt entsprechend. Absatz 2 ist nicht anzuwenden.
 
-##### § 152 Örtliche Zuständigkeit
+###### § 152 Örtliche Zuständigkeit
 
 Für die gesonderten Feststellungen ist örtlich zuständig:
 
@@ -468,7 +471,7 @@ Für die gesonderten Feststellungen ist örtlich zuständig:
 
 4. in den Fällen des § 151 Abs. 1 Satz 1 Nr. 4 das Finanzamt, von dessen Bezirk die Verwaltung des Vermögens ausgeht, oder, wenn diese im Inland nicht feststellbar ist, das Finanzamt, in dessen Bezirk sich der wertvollste Teil des Vermögens befindet.
 
-##### § 153 Erklärungspflicht, Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist
+###### § 153 Erklärungspflicht, Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist
 
 (1) Das Finanzamt kann von jedem, für dessen Besteuerung eine gesonderte Feststellung von Bedeutung ist, die Abgabe einer Feststellungserklärung verlangen. Die Frist zur Abgabe der Feststellungserklärung muss mindestens einen Monat betragen.
 
@@ -480,7 +483,7 @@ Für die gesonderten Feststellungen ist örtlich zuständig:
 
 (5) § 181 Abs. 1 und 5 der Abgabenordnung ist entsprechend anzuwenden.
 
-##### § 154 Beteiligte am Feststellungsverfahren
+###### § 154 Beteiligte am Feststellungsverfahren
 
 (1) Am Feststellungsverfahren sind beteiligt
 
@@ -496,11 +499,11 @@ Gegenüber mehreren Beteiligten nach Satz 1 erfolgt eine gesonderte und einheitl
 
 (3) Soweit der Gegenstand der Feststellung einer Erbengemeinschaft in Vertretung der Miterben zuzurechnen ist, ist § 183a der Abgabenordnung entsprechend anzuwenden. Bei der Bekanntgabe des Feststellungsbescheids ist darauf hinzuweisen, dass die Bekanntgabe mit Wirkung für und gegen alle Miterben erfolgt.
 
-##### § 155 Rechtsbehelfsbefugnis
+###### § 155 Rechtsbehelfsbefugnis
 
 Zur Einlegung von Rechtsbehelfen gegen den Feststellungsbescheid sind die Beteiligten im Sinne des § 154 Abs. 1 sowie diejenigen befugt, für deren Besteuerung nach dem Grunderwerbsteuergesetz der Feststellungsbescheid von Bedeutung ist. Soweit der Gegenstand der Feststellung einer Erbengemeinschaft in Vertretung der Miterben zuzurechnen ist, sind § 352 der Abgabenordnung und § 48 der Finanzgerichtsordnung entsprechend anzuwenden.
 
-##### § 156 Außenprüfung
+###### § 156 Außenprüfung
 
 Eine Außenprüfung zur Ermittlung der Besteuerungsgrundlagen ist bei jedem Beteiligten (§ 154 Abs. 1) zulässig.
 
@@ -508,7 +511,7 @@ Eine Außenprüfung zur Ermittlung der Besteuerungsgrundlagen ist bei jedem Bete
 
 ## A. Allgemeines
 
-##### § 157 Feststellung von Grundbesitzwerten, von Anteilswerten und von Betriebsvermögenswerten
+###### § 157 Feststellung von Grundbesitzwerten, von Anteilswerten und von Betriebsvermögenswerten
 
 (1) Grundbesitzwerte werden unter Berücksichtigung der tatsächlichen Verhältnisse und der Wertverhältnisse zum Bewertungsstichtag für inländischen Grundbesitz, und zwar für Betriebe der Land- und Forstwirtschaft, für Grundstücke und für Betriebsgrundstücke, festgestellt. § 229 gilt für die Grundbesitzbewertung sinngemäß.
 
@@ -524,7 +527,7 @@ Eine Außenprüfung zur Ermittlung der Besteuerungsgrundlagen ist bei jedem Bete
 
 ## I. Allgemeines
 
-##### § 158 Begriff des land- und forstwirtschaftlichen Vermögens
+###### § 158 Begriff des land- und forstwirtschaftlichen Vermögens
 
 (1) Land- und Forstwirtschaft ist die planmäßige Nutzung der natürlichen Kräfte des Bodens zur Erzeugung von Pflanzen und Tieren sowie die Verwertung der dadurch selbst gewonnenen Erzeugnisse. Zum land- und forstwirtschaftlichen Vermögen gehören alle Wirtschaftgüter, die einem Betrieb der Land- und Forstwirtschaft zu diesem Zweck auf Dauer zu dienen bestimmt sind.
 
@@ -564,7 +567,7 @@ Als normaler Bestand an umlaufenden Betriebsmitteln gilt ein solcher, der zur ge
 
 (5) Verbindlichkeiten gehören zum land- und forstwirtschaftlichen Vermögen, soweit sie nicht im unmittelbaren wirtschaftlichen Zusammenhang mit den in Absatz 4 genannten Wirtschaftsgütern stehen.
 
-##### § 159 Abgrenzung land- und forstwirtschaftlich genutzter Flächen zum Grundvermögen
+###### § 159 Abgrenzung land- und forstwirtschaftlich genutzter Flächen zum Grundvermögen
 
 (1) Land- und forstwirtschaftlich genutzte Flächen sind dem Grundvermögen zuzurechnen, wenn nach ihrer Lage, den am Bewertungsstichtag bestehenden Verwertungsmöglichkeiten oder den sonstigen Umständen anzunehmen ist, dass sie in absehbarer Zeit anderen als land- und forstwirtschaftlichen Zwecken, insbesondere als Bauland, Industrieland oder Land für Verkehrszwecke, dienen werden.
 
@@ -572,7 +575,7 @@ Als normaler Bestand an umlaufenden Betriebsmitteln gilt ein solcher, der zur ge
 
 (3) Flächen sind stets dem Grundvermögen zuzurechnen, wenn sie in einem Bebauungsplan als Bauland festgesetzt sind, ihre sofortige Bebauung möglich ist und die Bebauung innerhalb des Plangebiets in benachbarten Bereichen begonnen hat oder schon durchgeführt ist. Satz 1 gilt nicht für die Hofstelle und für andere Flächen in unmittelbarem räumlichen Zusammenhang mit der Hofstelle bis zu einer Größe von insgesamt 1 Hektar.
 
-##### § 160 Betrieb der Land- und Forstwirtschaft
+###### § 160 Betrieb der Land- und Forstwirtschaft
 
 (1) Ein Betrieb der Land- und Forstwirtschaft umfasst
 
@@ -624,13 +627,13 @@ Der Anbau von Hopfen, Tabak und Spargel gehört nur zu den Sondernutzungen, wenn
 
 (10) Einen Betrieb der Land- und Forstwirtschaft bildet auch die gemeinschaftliche Tierhaltung (§ 13b des Einkommensteuergesetzes) einschließlich der hiermit zusammenhängenden Wirtschaftsgüter.
 
-##### § 161 Bewertungsstichtag
+###### § 161 Bewertungsstichtag
 
 (1) Für die Größe des Betriebs, für den Umfang und den Zustand der Gebäude sowie für die stehenden Betriebsmittel sind die Verhältnisse am Bewertungsstichtag maßgebend.
 
 (2) Für die umlaufenden Betriebsmittel ist der Stand am Ende des Wirtschaftsjahres maßgebend, das dem Bewertungsstichtag vorangegangen ist.
 
-##### § 162 Bewertung des Wirtschaftsteils
+###### § 162 Bewertung des Wirtschaftsteils
 
 (1) Bei der Bewertung des Wirtschaftsteils ist der gemeine Wert zu Grunde zu legen. Dabei ist davon auszugehen, dass der Erwerber den Betrieb der Land- und Forstwirtschaft fortführt. Bei der Ermittlung des gemeinen Werts für den Wirtschaftsteil sind die land- und forstwirtschaftlichen Nutzungen, die Nebenbetriebe, das Abbau-, Geringst- und Unland jeweils gesondert mit ihrem Wirtschaftswert (§ 163) zu bewerten. Dabei darf ein Mindestwert nicht unterschritten werden (§ 164).
 
@@ -640,7 +643,7 @@ Der Anbau von Hopfen, Tabak und Spargel gehört nur zu den Sondernutzungen, wenn
 
 (4) Sind wesentliche Wirtschaftsgüter (§ 158 Abs. 3 Satz 1 Nr. 1 bis 3 und 5) dem Betrieb der Land- und Forstwirtschaft innerhalb eines Zeitraumes von 15 Jahren nicht mehr auf Dauer zu dienen bestimmt, erfolgt die Bewertung der Wirtschaftsgüter abweichend von den §§ 163 und 164 mit dem jeweiligen Liquidationswert nach § 166. Dies gilt nicht, wenn der Veräußerungserlös innerhalb von sechs Monaten ausschließlich im betrieblichen Interesse verwendet wird.
 
-##### § 163 Ermittlung der Wirtschaftswerte
+###### § 163 Ermittlung der Wirtschaftswerte
 
 (1) Bei der Ermittlung der jeweiligen Wirtschaftswerte ist von der nachhaltigen Ertragsfähigkeit land- und forstwirtschaftlicher Betriebe auszugehen. Ertragsfähigkeit ist der bei ordnungsmäßiger Bewirtschaftung gemeinhin und nachhaltig erzielbare Reingewinn. Dabei sind alle Umstände zu berücksichtigen, die bei einer Selbstbewirtschaftung den Wirtschaftserfolg beeinflussen.
 
@@ -700,7 +703,7 @@ Der nach den Sätzen 2 und 3 maßgebliche Reingewinn ergibt sich aus der Spalte 
 
 (14) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlagen 14 bis 18 zu diesem Gesetz dadurch zu ändern, dass es die darin aufgeführten Reingewinne turnusmäßig an die Ergebnisse der Erhebungen nach § 2 des Landwirtschaftsgesetzes anpasst.
 
-##### § 164 Mindestwert
+###### § 164 Mindestwert
 
 (1) Der Mindestwert des Wirtschaftsteils setzt sich aus dem Wert für den Grund und Boden sowie dem Wert der übrigen Wirtschaftsgüter zusammen und wird nach den Absätzen 2 bis 4 ermittelt.
 
@@ -716,7 +719,7 @@ Der nach den Sätzen 2 und 3 maßgebliche Reingewinn ergibt sich aus der Spalte 
 
 (7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlagen 14 bis 18 zu diesem Gesetz dadurch zu ändern, dass es die darin aufgeführten Pachtpreise und Werte für das Besatzkapital turnusmäßig an die Ergebnisse der Erhebungen nach § 2 des Landwirtschaftsgesetzes anpasst.
 
-##### § 165 Bewertung des Wirtschaftsteils mit dem Fortführungswert
+###### § 165 Bewertung des Wirtschaftsteils mit dem Fortführungswert
 
 (1) Der Wert des Wirtschaftsteils wird aus der Summe der nach § 163 zu ermittelnden Wirtschaftswerte gebildet.
 
@@ -724,7 +727,7 @@ Der nach den Sätzen 2 und 3 maßgebliche Reingewinn ergibt sich aus der Spalte 
 
 (3) Weist der Steuerpflichtige nach, dass der gemeine Wert des Wirtschaftsteils niedriger ist als der nach den Absätzen 1 und 2 ermittelte Wert, ist dieser Wert anzusetzen; § 166 ist zu beachten.
 
-##### § 166 Bewertung des Wirtschaftsteils mit dem Liquidationswert
+###### § 166 Bewertung des Wirtschaftsteils mit dem Liquidationswert
 
 (1) Im Falle des § 162 Abs. 3 oder Abs. 4 ist der Liquidationswert nach Absatz 2 zu ermitteln und tritt mit Wirkung für die Vergangenheit an die Stelle des bisherigen Wertansatzes.
 
@@ -734,7 +737,7 @@ Der nach den Sätzen 2 und 3 maßgebliche Reingewinn ergibt sich aus der Spalte 
 
 2. sind die übrigen Wirtschaftsgüter im Sinne des § 158 Abs. 3 Satz 1 Nr. 2 bis 5 mit ihrem gemeinen Wert zu bewerten. Zur Berücksichtigung der Liquidationskosten sind die ermittelten Werte um 10 Prozent zu mindern.
 
-##### § 167 Bewertung der Betriebswohnungen und des Wohnteils
+###### § 167 Bewertung der Betriebswohnungen und des Wohnteils
 
 (1) Die Bewertung der Betriebswohnungen und des Wohnteils erfolgt nach den Vorschriften, die für die Bewertung von Wohngrundstücken im Grundvermögen (§§ 182 bis 196) gelten.
 
@@ -744,7 +747,7 @@ Der nach den Sätzen 2 und 3 maßgebliche Reingewinn ergibt sich aus der Spalte 
 
 (4) Weist der Steuerpflichtige nach, dass der gemeine Wert des Wohnteils oder der Betriebswohnungen niedriger ist als der sich nach den Absätzen 1 bis 3 ergebende Wert, ist der gemeine Wert anzusetzen. Für den Nachweis des niedrigeren gemeinen Werts gelten grundsätzlich die auf Grund des § 199 Abs. 1 des Baugesetzbuchs erlassenen Vorschriften.
 
-##### § 168 Grundbesitzwert des Betriebs der Land- und Forstwirtschaft
+###### § 168 Grundbesitzwert des Betriebs der Land- und Forstwirtschaft
 
 (1) Der Grundbesitzwert eines Betriebs der Land- und Forstwirtschaft besteht aus
 
@@ -774,7 +777,7 @@ Der nach den Sätzen 2 und 3 maßgebliche Reingewinn ergibt sich aus der Spalte 
 
 ## a) Landwirtschaftliche Nutzung
 
-##### § 169 Tierbestände
+###### § 169 Tierbestände
 
 (1) Tierbestände gehören in vollem Umfang zur landwirtschaftlichen Nutzung, wenn im Wirtschaftsjahr
 
@@ -799,23 +802,23 @@ Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des Tierbestands,
 
 (5) Für die Umrechnung der Tierbestände in Vieheinheiten sowie für die Gruppen der mehr flächenabhängigen oder weniger flächenabhängigen Zweige des Tierbestands sind die in den Anlagen 19 und 20 aufgeführten Werte maßgebend. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlagen 19 und 20 zu diesem Gesetz dadurch zu ändern, dass der darin aufgeführte Umrechnungsschlüssel und die Gruppen der Zweige eines Tierbestands an geänderte wirtschaftliche oder technische Entwicklungen angepasst werden können.
 
-##### § 170 Umlaufende Betriebsmittel
+###### § 170 Umlaufende Betriebsmittel
 
 Bei landwirtschaftlichen Betrieben zählen die umlaufenden Betriebsmittel nur soweit zum normalen Bestand, als der Durchschnitt der letzten fünf Jahre nicht überschritten wird.
 
 ## b) Forstwirtschaftliche Nutzung
 
-##### § 171 Umlaufende Betriebsmittel
+###### § 171 Umlaufende Betriebsmittel
 
 Eingeschlagenes Holz gehört zum normalen Bestand an umlaufenden Betriebsmitteln, soweit es den jährlichen Nutzungssatz nicht übersteigt. Bei Betrieben, die nicht jährlich einschlagen (aussetzende Betriebe), tritt an die Stelle des jährlichen Nutzungssatzes ein den Betriebsverhältnissen entsprechender mehrjähriger Nutzungssatz.
 
-##### § 172 Abweichender Bewertungsstichtag
+###### § 172 Abweichender Bewertungsstichtag
 
 Bei der forstwirtschaftlichen Nutzung sind abweichend von § 161 Abs. 1 für den Umfang und den Zustand des Bestands an nicht eingeschlagenem Holz die Verhältnisse am Ende des Wirtschaftsjahres zu Grunde zu legen, das dem Bewertungsstichtag vorangegangen ist.
 
 ## c) Weinbauliche Nutzung
 
-##### § 173 Umlaufende Betriebsmittel
+###### § 173 Umlaufende Betriebsmittel
 
 (1) Bei ausbauenden Betrieben zählen die Vorräte an Weinen aus den Ernten der letzten fünf Jahre vor dem Bewertungsstichtag zum normalen Bestand an umlaufenden Betriebsmitteln.
 
@@ -823,7 +826,7 @@ Bei der forstwirtschaftlichen Nutzung sind abweichend von § 161 Abs. 1 für den
 
 ## d) Gärtnerische Nutzung
 
-##### § 174 Abweichende Bewertungsverhältnisse
+###### § 174 Abweichende Bewertungsverhältnisse
 
 (1) Die durch Anbau von Baumschulgewächsen genutzte Betriebsfläche wird nach § 161 Abs. 1 bestimmt. Dabei sind die zum 15. September feststellbaren Bewirtschaftungsverhältnisse zu Grunde zu legen, die dem Bewertungsstichtag vorangegangen sind.
 
@@ -833,7 +836,7 @@ Bei der forstwirtschaftlichen Nutzung sind abweichend von § 161 Abs. 1 für den
 
 ## e) Übrige land- und forstwirtschaftliche Nutzungen
 
-##### § 175 Übrige land- und forstwirtschaftliche Nutzungen
+###### § 175 Übrige land- und forstwirtschaftliche Nutzungen
 
 (1) Zu den übrigen land- und forstwirtschaftlichen Nutzungen gehören
 
@@ -865,7 +868,7 @@ Bei der forstwirtschaftlichen Nutzung sind abweichend von § 161 Abs. 1 für den
 
 ## I. Allgemeines
 
-##### § 176 Grundvermögen
+###### § 176 Grundvermögen
 
 (1) Zum Grundvermögen gehören
 
@@ -883,7 +886,7 @@ soweit es sich nicht um land- und forstwirtschaftliches Vermögen (§§ 158 und 
 
 2. die Maschinen und sonstigen Vorrichtungen aller Art, die zu einer Betriebsanlage gehören (Betriebsvorrichtungen), auch wenn sie wesentliche Bestandteile sind. Einzubeziehen sind jedoch die Verstärkungen von Decken und die nicht ausschließlich zu einer Betriebsanlage gehörenden Stützen und sonstigen Bauteile wie Mauervorlagen und Verstrebungen.
 
-##### § 177 Bewertung
+###### § 177 Bewertung
 
 (1) Den Bewertungen nach den §§ 179 und 182 bis 196 ist der gemeine Wert (§ 9) zu Grunde zu legen.
 
@@ -895,25 +898,25 @@ soweit es sich nicht um land- und forstwirtschaftliches Vermögen (§§ 158 und 
 
 ## II. Unbebaute Grundstücke
 
-##### § 178 Begriff der unbebauten Grundstücke
+###### § 178 Begriff der unbebauten Grundstücke
 
 (1) Unbebaute Grundstücke sind Grundstücke, auf denen sich keine benutzbaren Gebäude befinden. Die Benutzbarkeit beginnt im Zeitpunkt der Bezugsfertigkeit. Gebäude sind als bezugsfertig anzusehen, wenn den zukünftigen Bewohnern oder sonstigen Benutzern zugemutet werden kann, sie zu benutzen; die Abnahme durch die Bauaufsichtsbehörde ist nicht entscheidend.
 
 (2) Befinden sich auf dem Grundstück Gebäude, die auf Dauer keiner Nutzung zugeführt werden können, gilt das Grundstück als unbebaut. Als unbebaut gilt auch ein Grundstück, auf dem infolge von Zerstörung oder Verfall der Gebäude auf Dauer kein benutzbarer Raum mehr vorhanden ist.
 
-##### § 179 Bewertung der unbebauten Grundstücke
+###### § 179 Bewertung der unbebauten Grundstücke
 
-Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche und den Bodenrichtwerten (§ 196 des Baugesetzbuchs). Die Bodenrichtwerte sind von den Gutachterausschüssen nach dem Baugesetzbuch zu ermitteln und den Finanzämtern mitzuteilen. Bei der Wertermittlung ist stets der Bodenrichtwert anzusetzen, der vom Gutachterausschuss zuletzt vor dem Bewertungsstichtag zu ermitteln war. Wird von den Gutachterausschüssen kein Bodenrichtwert ermittelt, ist der Bodenwert aus den Werten vergleichbarer Flächen abzuleiten.
+Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche und den Bodenrichtwerten (§ 196 des Baugesetzbuchs). Die Bodenrichtwerte sind von den Gutachterausschüssen nach dem Baugesetzbuch zu ermitteln, zu veröffentlichen und nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch an die zuständigen Finanzbehörden zu übermitteln. Bei der Wertermittlung ist stets der Bodenrichtwert anzusetzen, der vom Gutachterausschuss zuletzt vor dem Bewertungsstichtag zu ermitteln war. Wird von den Gutachterausschüssen kein Bodenrichtwert ermittelt, ist der Bodenwert aus den Werten vergleichbarer Flächen abzuleiten.
 
 ## III. Bebaute Grundstücke
 
-##### § 180 Begriff der bebauten Grundstücke
+###### § 180 Begriff der bebauten Grundstücke
 
 (1) Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare Gebäude befinden. Wird ein Gebäude in Bauabschnitten errichtet, ist der fertiggestellte Teil als benutzbares Gebäude anzusehen.
 
 (2) Als Grundstück im Sinne des Absatzes 1 gilt auch ein Gebäude, das auf fremdem Grund und Boden errichtet oder in sonstigen Fällen einem anderen als dem Eigentümer des Grund und Bodens zuzurechnen ist, selbst wenn es wesentlicher Bestandteil des Grund und Bodens geworden ist.
 
-##### § 181 Grundstücksarten
+###### § 181 Grundstücksarten
 
 (1) Bei der Bewertung bebauter Grundstücke sind die folgenden Grundstücksarten zu unterscheiden:
 
@@ -945,7 +948,7 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (9) Eine Wohnung ist in der Regel die Zusammenfassung mehrerer Räume, die in ihrer Gesamtheit so beschaffen sein müssen, dass die Führung eines selbständigen Haushalts möglich ist. Die Zusammenfassung der Räume muss eine von anderen Wohnungen oder Räumen, insbesondere Wohnräumen, baulich getrennte, in sich abgeschlossene Wohneinheit bilden und einen selbständigen Zugang haben. Daneben ist es erforderlich, dass die für die Führung eines selbständigen Haushalts notwendigen Nebenräume (Küche, Bad oder Dusche, Toilette) vorhanden sind. Die Wohnfläche soll mindestens 20 Quadratmeter betragen.
 
-##### § 182 Bewertung der bebauten Grundstücke
+###### § 182 Bewertung der bebauten Grundstücke
 
 (1) Der Wert der bebauten Grundstücke ist nach dem Vergleichswertverfahren (Absatz 2 und § 183), dem Ertragswertverfahren (Absatz 3 und §§ 184 bis 188) oder dem Sachwertverfahren (Absatz 4 und §§ 189 bis 191) zu ermitteln.
 
@@ -971,7 +974,7 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 3. sonstige bebaute Grundstücke.
 
-##### § 183 Bewertung im Vergleichswertverfahren
+###### § 183 Bewertung im Vergleichswertverfahren
 
 (1) Bei Anwendung des Vergleichswertverfahrens sind Kaufpreise von Grundstücken heranzuziehen, die hinsichtlich der ihren Wert beeinflussenden Merkmale mit dem zu bewertenden Grundstück hinreichend übereinstimmen (Vergleichsgrundstücke). Grundlage sind vorrangig die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs mitgeteilten Vergleichspreise.
 
@@ -979,7 +982,7 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (3) (weggefallen)
 
-##### § 184 Bewertung im Ertragswertverfahren
+###### § 184 Bewertung im Ertragswertverfahren
 
 (1) Bei Anwendung des Ertragswertverfahrens ist der Wert der Gebäude (Gebäudeertragswert) getrennt von dem Bodenwert auf der Grundlage des Ertrags nach § 185 zu ermitteln.
 
@@ -989,7 +992,7 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (4) Der Wert der baulichen Außenanlagen und sonstigen Anlagen ist mit dem nach den Absätzen 1 bis 3 ermittelten Ertragswert abgegolten.
 
-##### § 185 Ermittlung des Gebäudeertragswerts
+###### § 185 Ermittlung des Gebäudeertragswerts
 
 (1) Bei der Ermittlung des Gebäudeertragswerts ist von dem Reinertrag des Grundstücks auszugehen. Dieser ergibt sich aus dem Rohertrag des Grundstücks (§ 186) abzüglich der Bewirtschaftungskosten (§ 187).
 
@@ -997,7 +1000,7 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 (3) Der Gebäudereinertrag ist mit dem sich aus der Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Maßgebend für den Vervielfältiger sind der Liegenschaftszinssatz und die Restnutzungsdauer des Gebäudes. Die Restnutzungsdauer wird grundsätzlich aus dem Unterschiedsbetrag zwischen der wirtschaftlichen Gesamtnutzungsdauer, die sich aus der Anlage 22 ergibt, und dem Alter des Gebäudes am Bewertungsstichtag ermittelt. Das Alter des Gebäudes ist durch Abzug des Jahres der Bezugsfertigkeit des Gebäudes vom Jahr des Bewertungsstichtags zu bestimmen. Sind nach Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die Restnutzungsdauer des Gebäudes wesentlich verlängert haben, ist von der entsprechend verlängerten Restnutzungsdauer auszugehen. Die Restnutzungsdauer eines noch nutzbaren Gebäudes beträgt vorbehaltlich des Satzes 7 mindestens 30 Prozent der Gesamtnutzungsdauer. Bei einer bestehenden Abbruchverpflichtung für das Gebäude ist die nach den Sätzen 3 bis 6 ermittelte Restnutzungsdauer auf den Unterschiedsbetrag zwischen der tatsächlichen Gesamtnutzungsdauer und dem Alter des Gebäudes am Bewertungsstichtag begrenzt.
 
-##### § 186 Rohertrag des Grundstücks
+###### § 186 Rohertrag des Grundstücks
 
 (1) Rohertrag ist das Entgelt, das für die Benutzung des bebauten Grundstücks nach den am Bewertungsstichtag geltenden vertraglichen Vereinbarungen für den Zeitraum von zwölf Monaten zu zahlen ist. Umlagen, die zur Deckung der Betriebskosten gezahlt werden, sind nicht anzusetzen.
 
@@ -1009,7 +1012,7 @@ Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer Fläche u
 
 ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Miete zu schätzen, die für Räume gleicher oder ähnlicher Art, Lage und Ausstattung regelmäßig gezahlt wird. Betriebskosten sind nicht einzubeziehen.
 
-##### § 187 Bewirtschaftungskosten
+###### § 187 Bewirtschaftungskosten
 
 (1) Bewirtschaftungskosten sind die bei gewöhnlicher Bewirtschaftung nachhaltig entstehenden Verwaltungskosten, Betriebskosten, Instandhaltungskosten und das Mietausfallwagnis; durch Umlagen gedeckte Betriebskosten bleiben unberücksichtigt.
 
@@ -1017,7 +1020,7 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 
 (3) Die Verwaltungskosten und Instandhaltungskosten für Wohnnutzung in Anlage 23 sind jährlich an den vom Statistischen Bundesamt festgestellten Verbraucherpreisindex für Deutschland anzupassen. Die Anpassung erfolgt mit dem Prozentsatz, um den sich der Verbraucherpreisindex für den Monat Oktober 2001 gegenüber demjenigen für den Monat Oktober des Jahres, das dem Bewertungsstichtag vorausgeht, erhöht oder verringert hat. Die indizierten Bewirtschaftungskosten sind für alle Bewertungsstichtage des Kalenderjahres anzuwenden. Das Bundesministerium der Finanzen veröffentlicht den maßgebenden Verbraucherpreisindex im Bundessteuerblatt.
 
-##### § 188 Liegenschaftszinssatz
+###### § 188 Liegenschaftszinssatz
 
 (1) Liegenschaftszinssätze sind Kapitalisierungszinssätze, mit denen Verkehrswerte von Grundstücken je nach Grundstücksart im Durchschnitt marktüblich verzinst werden.
 
@@ -1031,7 +1034,7 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 
 4. 6,0 Prozent für Geschäftsgrundstücke.
 
-##### § 189 Bewertung im Sachwertverfahren
+###### § 189 Bewertung im Sachwertverfahren
 
 (1) Bei Anwendung des Sachwertverfahrens ist der Wert der Gebäude (Gebäudesachwert) getrennt vom Bodenwert nach § 190 zu ermitteln.
 
@@ -1041,7 +1044,7 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 
 (4) Der Wert der baulichen Außenanlagen und sonstigen Anlagen ist grundsätzlich mit dem nach den Absätzen 1 bis 3 ermittelten Sachwert abgegolten. Dies gilt nicht bei besonders werthaltigen baulichen Außenanlagen und sonstigen Anlagen.
 
-##### § 190 Ermittlung des Gebäudesachwerts
+###### § 190 Ermittlung des Gebäudesachwerts
 
 (1) Bei der Ermittlung des Gebäudesachwerts ist von den Regelherstellungskosten des Gebäudes auszugehen. Regelherstellungskosten sind die durchschnittlichen Herstellungskosten je Flächeneinheit. Die Regelherstellungskosten sind in der Anlage 24 enthalten.
 
@@ -1055,17 +1058,17 @@ ist die übliche Miete anzusetzen. Die übliche Miete ist in Anlehnung an die Mi
 
 (6) Der Alterswertminderungsfaktor entspricht dem Verhältnis der Restnutzungsdauer des Gebäudes am Bewertungsstichtag zur Gesamtnutzungsdauer nach Anlage 22. Die Restnutzungsdauer wird grundsätzlich aus dem Unterschiedsbetrag zwischen der Gesamtnutzungsdauer, die sich aus der Anlage 22 ergibt, und dem Alter des Gebäudes am Bewertungsstichtag ermittelt. Das Alter des Gebäudes ist durch Abzug des Jahres der Bezugsfertigkeit des Gebäudes vom Jahr des Bewertungsstichtags zu bestimmen. Sind nach Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die Restnutzungsdauer des Gebäudes wesentlich verlängert haben, ist von der entsprechend verlängerten Restnutzungsdauer auszugehen. Die Restnutzungsdauer eines noch nutzbaren Gebäudes beträgt vorbehaltlich des Satzes 6 mindestens 30 Prozent der Gesamtnutzungsdauer. Bei einer bestehenden Abbruchverpflichtung für das Gebäude ist die nach den Sätzen 2 bis 5 ermittelte Restnutzungsdauer auf den Unterschiedsbetrag zwischen der tatsächlichen Gesamtnutzungsdauer und dem Alter des Gebäudes am Bewertungsstichtag begrenzt.
 
-##### § 191 Wertzahlen
+###### § 191 Wertzahlen
 
 Als Wertzahlen im Sinne des § 189 Absatz 3 sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Sachwertfaktoren nach Maßgabe des § 177 Absatz 2 und 3 anzuwenden. Soweit derartige Sachwertfaktoren nicht zur Verfügung stehen, sind die in Anlage 25 bestimmten Wertzahlen zu verwenden.
 
 ## IV. Sonderfälle
 
-##### § 192 Bewertung in Erbbaurechtsfällen
+###### § 192 Bewertung in Erbbaurechtsfällen
 
 Ist das Grundstück mit einem Erbbaurecht belastet, sind die Werte für die wirtschaftliche Einheit Erbbaurecht (§ 193) und für die wirtschaftliche Einheit des belasteten Grundstücks (§ 194) gesondert zu ermitteln. Mit der Bewertung des Erbbaurechts (§ 193) ist die Verpflichtung zur Zahlung des Erbbauzinses und mit der Bewertung des Erbbaurechtsgrundstücks (§ 194) ist das Recht auf den Erbbauzins abgegolten; die hiernach ermittelten Grundbesitzwerte dürfen nicht weniger als 0 Euro betragen.
 
-##### § 193 Bewertung des Erbbaurechts
+###### § 193 Bewertung des Erbbaurechts
 
 (1) Der Wert des Erbbaurechts ist durch Multiplikation des Werts des unbelasteten Grundstücks mit einem Erbbaurechtskoeffizienten zu ermitteln. Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Erbbaurechtskoeffizienten nach Maßgabe des § 177 Absatz 2 und 3. Der Wert des unbelasteten Grundstücks ist der Wert des Grundstücks, der nach den §§ 179, 182 bis 196 festzustellen wäre, wenn die Belastung mit dem Erbbaurecht nicht bestünde.
 
@@ -1095,7 +1098,7 @@ Der angemessene Verzinsungsbetrag des Bodenwerts des unbelasteten Grundstücks e
 
 (5) Zur Ermittlung des bei Ablauf des Erbbaurechts nicht zu entschädigenden Wertanteils der Gebäude oder des Gebäudes im Sinne des Absatzes 3 Satz 2 ist auf den Zeitpunkt des Ablaufs des Erbbaurechts die Differenz aus dem Wert des Grundstücks nach den §§ 179, 182 bis 196 und dem Bodenwert nach § 179 zu ermitteln. Hierbei ist die Restnutzungsdauer des Gebäudes bei Ablauf des Erbbaurechts zugrunde zu legen. Der so ermittelte Unterschiedsbetrag ist über die Restlaufzeit des Erbbaurechts nach Maßgabe der Anlage 26 auf den Bewertungsstichtag abzuzinsen. Für die Abzinsung sind die Zinssätze im Sinne des Absatzes 4 Satz 2 oder 3 anzuwenden. Liegt ein immerwährendes Erbbaurecht vor, ist der Abzinsungsfaktor 0. Der auf den Bewertungsstichtag abgezinste Unterschiedsbetrag ist mit dem nicht zu entschädigenden Wertanteil der jeweiligen Gebäude zu multiplizieren.
 
-##### § 194 Bewertung des Erbbaugrundstücks
+###### § 194 Bewertung des Erbbaugrundstücks
 
 (1) Der Wert des Erbbaugrundstücks ist durch Multiplikation des Bodenwerts des unbelasteten Grundstücks mit einem Erbbaugrundstückskoeffizienten zu ermitteln. Anzuwenden sind die von den Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs ermittelten Erbbaugrundstückskoeffizienten nach Maßgabe des § 177 Absatz 2 und 3. Der Bodenwert des unbelasteten Grundstücks ist der Wert des Grundstücks, der nach § 179 festzustellen wäre, wenn die Belastung mit dem Erbbaurecht nicht bestünde.
 
@@ -1113,7 +1116,7 @@ gebildet. Ein bei Ablauf des Erbbaurechts nicht zu entschädigender Wertanteil d
 
 (5) Der vertraglich vereinbarte jährliche Erbbauzins ist über die Restlaufzeit des Erbbaurechts mit dem sich aus Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die Zinssätze zu verwenden, die der Ermittlung des Erbbaugrundstücksfaktors im Sinne des Absatzes 2 Satz 2 zugrunde gelegt wurden. Soweit von den Gutachterausschüssen keine derartigen Zinssätze zur Verfügung stehen, gelten die Zinssätze nach § 193 Absatz 4 Satz 3. Liegt ein immerwährendes Erbbaurecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Satz 2 oder 3 anzuwendenden Zinssatzes.
 
-##### § 195 Gebäude auf fremdem Grund und Boden
+###### § 195 Gebäude auf fremdem Grund und Boden
 
 (1) In Fällen von Gebäuden auf fremdem Grund und Boden sind die Werte für die wirtschaftliche Einheit des Gebäudes auf fremdem Grund und Boden (Absätze 2 bis 4) und die wirtschaftliche Einheit des belasteten Grundstücks (Absätze 5 bis 7) gesondert zu ermitteln. Die ermittelten Grundbesitzwerte dürfen nicht weniger als 0 Euro betragen.
 
@@ -1141,19 +1144,19 @@ Ein bei Ablauf des Nutzungsrechts nicht zu entschädigender Wertanteil der Gebä
 
 (7) Das vertraglich vereinbarte jährliche Nutzungsentgelt ist über die Restlaufzeit des Nutzungsrechts mit dem sich aus der Anlage 21 ergebenden Vervielfältiger zu kapitalisieren. Für die Kapitalisierung sind die Zinssätze nach Absatz 3 Satz 2 oder 3 zugrunde zu legen. Liegt ein immerwährendes Nutzungsrecht vor, entspricht der Vervielfältiger dem Kehrwert des nach Absatz 3 Satz 2 oder 3 anzuwendenden Zinssatzes.
 
-##### § 196 Grundstücke im Zustand der Bebauung
+###### § 196 Grundstücke im Zustand der Bebauung
 
 (1) Ein Grundstück im Zustand der Bebauung liegt vor, wenn mit den Bauarbeiten begonnen wurde und Gebäude und Gebäudeteile noch nicht bezugsfertig sind. Der Zustand der Bebauung beginnt mit den Abgrabungen oder der Einbringung von Baustoffen, die zur planmäßigen Errichtung des Gebäudes führen.
 
 (2) Die Gebäude oder Gebäudeteile im Zustand der Bebauung sind mit den bereits am Bewertungsstichtag entstandenen Herstellungskosten dem Wert des bislang unbebauten oder bereits bebauten Grundstücks hinzuzurechnen.
 
-##### § 197 Gebäude und Gebäudeteile für den Zivilschutz
+###### § 197 Gebäude und Gebäudeteile für den Zivilschutz
 
 Gebäude, Teile von Gebäuden und Anlagen, die wegen der in § 1 des Zivilschutzgesetzes vom 25. März 1997 (BGBl. I S. 726), das zuletzt durch Artikel 2 des Gesetzes vom 27. April 2004 (BGBl. I S. 630) geändert worden ist, in der jeweils geltenden Fassung bezeichneten Zwecke geschaffen worden sind und im Frieden nicht oder nur gelegentlich oder geringfügig für andere Zwecke benutzt werden, bleiben bei der Ermittlung des Grundbesitzwerts außer Betracht.
 
 ## V. Nachweis des niedrigeren gemeinen Werts
 
-##### § 198 Nachweis des niedrigeren gemeinen Werts
+###### § 198 Nachweis des niedrigeren gemeinen Werts
 
 (1) Weist der Steuerpflichtige nach, dass der gemeine Wert der wirtschaftlichen Einheit am Bewertungsstichtag niedriger ist als der nach den §§ 179, 182 bis 196 ermittelte Wert, so ist dieser Wert anzusetzen. Für den Nachweis des niedrigeren gemeinen Werts gelten grundsätzlich die auf Grund des § 199 Abs. 1 des Baugesetzbuchs erlassenen Vorschriften.
 
@@ -1163,13 +1166,13 @@ Gebäude, Teile von Gebäuden und Anlagen, die wegen der in § 1 des Zivilschutz
 
 ## D. Nicht notierte Anteile an Kapitalgesellschaften und Betriebsvermögen
 
-##### § 199 Anwendung des vereinfachten Ertragswertverfahrens
+###### § 199 Anwendung des vereinfachten Ertragswertverfahrens
 
 (1) Ist der gemeine Wert von Anteilen an einer Kapitalgesellschaft nach § 11 Abs. 2 Satz 2 unter Berücksichtigung der Ertragsaussichten der Kapitalgesellschaft zu ermitteln, kann das vereinfachte Ertragswertverfahren (§ 200) angewendet werden, wenn dieses nicht zu offensichtlich unzutreffenden Ergebnissen führt.
 
 (2) Ist der gemeine Wert des Betriebsvermögens oder eines Anteils am Betriebsvermögen nach § 109 Abs. 1 und 2 in Verbindung mit § 11 Abs. 2 Satz 2 unter Berücksichtigung der Ertragsaussichten des Gewerbebetriebs oder der Gesellschaft zu ermitteln, kann das vereinfachte Ertragswertverfahren (§ 200) angewendet werden, wenn dieses nicht zu offensichtlich unzutreffenden Ergebnissen führt.
 
-##### § 200 Vereinfachtes Ertragswertverfahren
+###### § 200 Vereinfachtes Ertragswertverfahren
 
 (1) Zur Ermittlung des Ertragswerts ist vorbehaltlich der Absätze 2 bis 4 der zukünftig nachhaltig erzielbare Jahresertrag (§§ 201 und 202) mit dem Kapitalisierungsfaktor (§ 203) zu multiplizieren.
 
@@ -1179,7 +1182,7 @@ Gebäude, Teile von Gebäuden und Anlagen, die wegen der in § 1 des Zivilschutz
 
 (4) Innerhalb von zwei Jahren vor dem Bewertungsstichtag eingelegte Wirtschaftsgüter, die nicht unter die Absätze 2 und 3 fallen, und mit diesen im wirtschaftlichen Zusammenhang stehende Schulden werden neben dem Ertragswert mit dem eigenständig zu ermittelnden gemeinen Wert angesetzt.
 
-##### § 201 Ermittlung des Jahresertrags
+###### § 201 Ermittlung des Jahresertrags
 
 (1) Die Grundlage für die Bewertung bildet der zukünftig nachhaltig zu erzielende Jahresertrag. Für die Ermittlung dieses Jahresertrags bietet der in der Vergangenheit tatsächlich erzielte Durchschnittsertrag eine Beurteilungsgrundlage.
 
@@ -1187,7 +1190,7 @@ Gebäude, Teile von Gebäuden und Anlagen, die wegen der in § 1 des Zivilschutz
 
 (3) Hat sich im Dreijahreszeitraum der Charakter des Unternehmens nach dem Gesamtbild der Verhältnisse nachhaltig verändert oder ist das Unternehmen neu entstanden, ist von einem entsprechend verkürzten Ermittlungszeitraum auszugehen. Bei Unternehmen, die durch Umwandlung, durch Einbringung von Betrieben oder Teilbetrieben oder durch Umstrukturierungen entstanden sind, ist bei der Ermittlung des Durchschnittsertrags von den früheren Betriebsergebnissen des Gewerbebetriebs oder der Gesellschaft auszugehen. Soweit sich die Änderung der Rechtsform auf den Jahresertrag auswirkt, sind die früheren Betriebsergebnisse entsprechend zu korrigieren.
 
-##### § 202 Betriebsergebnis
+###### § 202 Betriebsergebnis
 
 (1) Zur Ermittlung des Betriebsergebnisses ist von dem Gewinn im Sinne des § 4 Abs. 1 Satz 1 des Einkommensteuergesetzes auszugehen (Ausgangswert); dabei bleiben bei einem Anteil am Betriebsvermögen Ergebnisse aus den Sonderbilanzen und Ergänzungsbilanzen unberücksichtigt. Der Ausgangswert ist noch wie folgt zu korrigieren:
 
@@ -1225,7 +1228,7 @@ f) Erträge, die im Zusammenhang stehen mit Vermögen im Sinne des § 200 Abs. 2
 
 (3) Zur Abgeltung des Ertragsteueraufwands ist ein positives Betriebsergebnis nach Absatz 1 oder Absatz 2 um 30 Prozent zu mindern.
 
-##### § 203 Kapitalisierungsfaktor
+###### § 203 Kapitalisierungsfaktor
 
 (1) Der in diesem Verfahren anzuwendende Kapitalisierungsfaktor beträgt 13,75.
 
@@ -1235,7 +1238,7 @@ f) Erträge, die im Zusammenhang stehen mit Vermögen im Sinne des § 200 Abs. 2
 
 ## A. Allgemeines
 
-##### § 218 Vermögensarten
+###### § 218 Vermögensarten
 
 Für Vermögen, das nach diesem Abschnitt zu bewerten ist, erfolgt abweichend von § 18 eine Unterscheidung in folgende Vermögensarten:
 
@@ -1245,7 +1248,7 @@ Für Vermögen, das nach diesem Abschnitt zu bewerten ist, erfolgt abweichend vo
 
 Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 2 werden dem land- und forstwirtschaftlichen Vermögen zugeordnet und sind wie land- und forstwirtschaftliches Vermögen zu bewerten. Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 1 werden dem Grundvermögen zugeordnet und sind wie Grundvermögen zu bewerten.
 
-##### § 219 Feststellung von Grundsteuerwerten
+###### § 219 Feststellung von Grundsteuerwerten
 
 (1) Grundsteuerwerte werden für inländischen Grundbesitz, und zwar für Betriebe der Land- und Forstwirtschaft (§§ 232 bis 234, 240) und für Grundstücke (§§ 243 und 244) gesondert festgestellt (§ 180 Absatz 1 Satz 1 Nummer 1 der Abgabenordnung).
 
@@ -1257,19 +1260,19 @@ Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 2 werden dem land- und f
 
 (3) Die Feststellungen nach den Absätzen 1 und 2 erfolgen nur, soweit sie für die Besteuerung von Bedeutung sind.
 
-##### § 220 Ermittlung der Grundsteuerwerte
+###### § 220 Ermittlung der Grundsteuerwerte
 
 (1) Die Grundsteuerwerte werden nach den Vorschriften dieses Abschnitts ermittelt. Bei der Ermittlung der Grundsteuerwerte ist § 163 der Abgabenordnung nicht anzuwenden; hiervon unberührt bleiben Übergangsregelungen, die die oberste Finanzbehörde eines Landes im Einvernehmen mit den obersten Finanzbehörden der übrigen Länder trifft.
 
 (2) Der niedrigere gemeine Wert ist als Grundsteuerwert anzusetzen, wenn der Steuerpflichtige nachweist, dass der nach den Vorschriften dieses Abschnitts ermittelte Grundsteuerwert erheblich von dem gemeinen Wert der wirtschaftlichen Einheit im Feststellungszeitpunkt abweicht. Davon ist auszugehen, wenn der Grundsteuerwert den nachgewiesenen gemeinen Wert um mindestens 40 Prozent übersteigt. § 198 Absatz 1 Satz 2 und Absatz 2 gilt entsprechend. Als Nachweis des niedrigeren gemeinen Werts kann auch ein im gewöhnlichen Geschäftsverkehr innerhalb eines Jahres vor oder nach dem Hauptfeststellungszeitpunkt zustande gekommener Kaufpreis über die zu bewertende wirtschaftliche Einheit dienen, wenn die maßgeblichen Verhältnisse hierfür gegenüber den Verhältnissen am Hauptfeststellungszeitpunkt unverändert sind. Nutzungsrechte und weitere grundstücksbezogene Rechte und Belastungen sind bei der Ermittlung des niedrigeren gemeinen Werts nur zu berücksichtigen, soweit sie nach Inhalt und Entstehung mit der Beschaffenheit der wirtschaftlichen Einheit zusammenhängen. Die §§ 227, 261 und 262 bleiben unberührt.
 
-##### § 221 Hauptfeststellung
+###### § 221 Hauptfeststellung
 
 (1) Die Grundsteuerwerte werden in Zeitabständen von je sieben Jahren allgemein festgestellt (Hauptfeststellung).
 
 (2) Der Hauptfeststellung werden die Verhältnisse zu Beginn des Kalenderjahres (Hauptfeststellungszeitpunkt) zugrunde gelegt.
 
-##### § 222 Fortschreibungen
+###### § 222 Fortschreibungen
 
 (1) Der Grundsteuerwert wird neu festgestellt (Wertfortschreibung), wenn der in Euro ermittelte und auf volle 100 Euro abgerundete Wert, der sich für den Beginn eines Kalenderjahres ergibt, von dem entsprechenden Wert des letzten Feststellungszeitpunkts nach oben oder unten um mehr als 15 000 Euro abweicht.
 
@@ -1283,7 +1286,7 @@ Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 2 werden dem land- und f
 
 2. in den Fällen des Absatzes 3 der Beginn des Kalenderjahres, in dem der Fehler dem Finanzamt bekannt wird, bei einer Erhöhung des Grundsteuerwerts jedoch frühestens der Beginn des Kalenderjahres, in dem der Feststellungsbescheid erteilt wird.
 
-##### § 223 Nachfeststellung
+###### § 223 Nachfeststellung
 
 (1) Für wirtschaftliche Einheiten, für die ein Grundsteuerwert festzustellen ist, wird der Grundsteuerwert nachträglich festgestellt (Nachfeststellung), wenn nach dem Hauptfeststellungszeitpunkt:
 
@@ -1297,7 +1300,7 @@ Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 2 werden dem land- und f
 
 2. in den Fällen des Absatzes 1 Nummer 2 der Beginn des Kalenderjahres, in dem der Grundsteuerwert erstmals der Besteuerung zugrunde gelegt wird.
 
-##### § 224 Aufhebung des Grundsteuerwerts
+###### § 224 Aufhebung des Grundsteuerwerts
 
 (1) Der Grundsteuerwert wird aufgehoben, wenn dem Finanzamt bekannt wird, dass:
 
@@ -1311,21 +1314,21 @@ Betriebsgrundstücke im Sinne des § 99 Absatz 1 Nummer 2 werden dem land- und f
 
 2. in den Fällen des Absatzes 1 Nummer 2 der Beginn des Kalenderjahres, in dem der Grundsteuerwert erstmals der Besteuerung nicht mehr zugrunde gelegt wird.
 
-##### § 225 Änderung von Feststellungsbescheiden
+###### § 225 Änderung von Feststellungsbescheiden
 
 Bescheide über Fortschreibungen oder über Nachfeststellungen von Grundsteuerwerten können schon vor dem maßgeblichen Feststellungszeitpunkt erteilt werden. Sie sind zu ändern oder aufzuheben, wenn sich bis zu diesem Zeitpunkt Änderungen ergeben, die zu einer abweichenden Feststellung führen.
 
-##### § 226 Nachholung einer Feststellung
+###### § 226 Nachholung einer Feststellung
 
 (1) Ist die Feststellungsfrist (§ 181 der Abgabenordnung) abgelaufen, kann eine Fortschreibung (§ 222) oder Nachfeststellung (§ 223) unter Zugrundelegung der Verhältnisse vom Fortschreibungs- oder Nachfeststellungszeitpunkt mit Wirkung für einen späteren Feststellungszeitpunkt vorgenommen werden, für den diese Frist noch nicht abgelaufen ist. § 181 Absatz 5 der Abgabenordnung bleibt hiervon unberührt.
 
 (2) Absatz 1 ist bei der Aufhebung des Grundsteuerwerts (§ 224) entsprechend anzuwenden.
 
-##### § 227 Wertverhältnisse bei Fortschreibungen und Nachfeststellungen
+###### § 227 Wertverhältnisse bei Fortschreibungen und Nachfeststellungen
 
 Bei Fortschreibungen und bei Nachfeststellungen der Grundsteuerwerte sind die Wertverhältnisse im Hauptfeststellungszeitpunkt zugrunde zu legen.
 
-##### § 228 Erklärungs- und Anzeigepflicht
+###### § 228 Erklärungs- und Anzeigepflicht
 
 (1) Die Steuerpflichtigen haben Erklärungen zur Feststellung der Grundsteuerwerte für den Hauptfeststellungszeitpunkt oder einen anderen Feststellungszeitpunkt abzugeben, wenn sie hierzu durch die Finanzbehörde aufgefordert werden (§ 149 Absatz 1 Satz 2 der Abgabenordnung). Fordert die Finanzbehörde zur Abgabe einer Erklärung auf, hat sie eine Frist zur Abgabe der Erklärung zu bestimmen, die mindestens einen Monat betragen soll. Die Aufforderung zur Abgabe einer Erklärung kann vom Bundesministerium der Finanzen im Einvernehmen mit den obersten Finanzbehörden der Länder durch öffentliche Bekanntmachung erfolgen.
 
@@ -1345,7 +1348,7 @@ Bei Fortschreibungen und bei Nachfeststellungen der Grundsteuerwerte sind die We
 
 (6) Die Erklärungen nach Absatz 1 und die Anzeigen nach Absatz 2 sind nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch zu übermitteln. Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung über die amtlich bestimmte Schnittstelle verzichten. Für die Entscheidung über den Antrag gilt § 150 Absatz 8 der Abgabenordnung.
 
-##### § 229 Auskünfte, Erhebungen und Mitteilungen
+###### § 229 Auskünfte, Erhebungen und Mitteilungen
 
 (1) Die Eigentümer von Grundbesitz haben der Finanzbehörde auf Anforderung alle Angaben zu machen, die sie für die Sammlung der Kauf-, Miet- und Pachtpreise braucht. Dabei haben sie zu versichern, dass sie die Angaben nach bestem Wissen und Gewissen gemacht haben.
 
@@ -1367,11 +1370,11 @@ In den Fällen des Satzes 1 Nummer 2 und 3 ist gleichzeitig der Tag des Eingangs
 
 (6) Die nach den Absätzen 3 oder 4 mitteilungspflichtigen Stellen übermitteln die Mitteilungen den Finanzbehörden nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle. Die Grundbuchämter und die für die Führung des Liegenschaftskatasters zuständigen Behörden übermitteln die bei ihnen geführten Daten laufend, mindestens alle drei Monate. Das Bundesministerium der Finanzen legt im Einvernehmen mit den obersten Finanzbehörden der Länder und den obersten Vermessungs- und Katasterbehörden der Länder die Einzelheiten der elektronischen Übermittlung und deren Beginn in einem Schreiben fest. Dieses Schreiben ist im Bundesanzeiger und im Bundessteuerblatt zu veröffentlichen.
 
-##### § 230 Abrundung
+###### § 230 Abrundung
 
 Die ermittelten Grundsteuerwerte werden auf volle 100 Euro nach unten abgerundet.
 
-##### § 231 Abgrenzung von in- und ausländischem Vermögen
+###### § 231 Abgrenzung von in- und ausländischem Vermögen
 
 (1) Für die Bewertung des inländischen nach diesem Abschnitt zu bewertenden Vermögens gelten die §§ 232 bis 262. Nach diesen Vorschriften sind auch die inländischen Teile einer wirtschaftlichen Einheit zu bewerten, die sich sowohl auf das Inland als auch auf das Ausland erstrecken.
 
@@ -1381,7 +1384,7 @@ Die ermittelten Grundsteuerwerte werden auf volle 100 Euro nach unten abgerundet
 
 ## I. Allgemeines
 
-##### § 232 Begriff des land- und forstwirtschaftlichen Vermögens
+###### § 232 Begriff des land- und forstwirtschaftlichen Vermögens
 
 (1) Land- und Forstwirtschaft ist die planmäßige Nutzung der natürlichen Kräfte des Bodens zur Erzeugung von Pflanzen und Tieren sowie die Verwertung der dadurch selbst gewonnenen Erzeugnisse. Zum land- und forstwirtschaftlichen Vermögen gehören alle Wirtschaftsgüter, die einem Betrieb der Land- und Forstwirtschaft dauernd zu dienen bestimmt sind.
 
@@ -1411,7 +1414,7 @@ Als normaler Bestand an umlaufenden Betriebsmitteln gilt ein Bestand, der zur ge
 
 4. Geldschulden und Pensionsverpflichtungen.
 
-##### § 233 Abgrenzung des land- und forstwirtschaftlichen Vermögens vom Grundvermögen in Sonderfällen
+###### § 233 Abgrenzung des land- und forstwirtschaftlichen Vermögens vom Grundvermögen in Sonderfällen
 
 (1) Dienen im Umgriff einer Windenergieanlage Flächen einem Betrieb der Land- und Forstwirtschaft, sind abweichend von § 232 Absatz 4 Nummer 1 die Standortflächen der Windenergieanlage und der dazugehörenden Betriebsvorrichtungen (abgegrenzte Standortfläche der Windenergieanlage) dem land- und forstwirtschaftlichen Vermögen zuzurechnen.
 
@@ -1419,7 +1422,7 @@ Als normaler Bestand an umlaufenden Betriebsmitteln gilt ein Bestand, der zur ge
 
 (3) Flächen sind stets dem Grundvermögen zuzurechnen, wenn sie in einem Bebauungsplan als Bauland festgesetzt sind, ihre sofortige Bebauung möglich ist und die Bebauung innerhalb des Plangebiets in benachbarten Bereichen begonnen hat oder schon durchgeführt ist. Satz 1 gilt nicht für die Hofstelle.
 
-##### § 234 Betrieb der Land- und Forstwirtschaft
+###### § 234 Betrieb der Land- und Forstwirtschaft
 
 (1) Ein Betrieb der Land- und Forstwirtschaft umfasst:
 
@@ -1467,13 +1470,13 @@ d) Hofstelle,
 
 (7) Als Nebenbetrieb gilt ein Betrieb, der dem Hauptbetrieb zu dienen bestimmt ist und nicht einen selbständigen gewerblichen Betrieb darstellt.
 
-##### § 235 Feststellungszeitpunkt
+###### § 235 Feststellungszeitpunkt
 
 (1) Für die Größe des Betriebs sowie für den Umfang und den Zustand der Gebäude sind die Verhältnisse im Feststellungszeitpunkt maßgebend.
 
 (2) Für die stehenden und umlaufenden Betriebsmittel ist der Stand am Ende des Wirtschaftsjahres maßgebend, das dem Feststellungszeitpunkt vorangegangen ist.
 
-##### § 236 Bewertungsgrundsätze
+###### § 236 Bewertungsgrundsätze
 
 (1) Der Bewertung eines Betriebs der Land- und Forstwirtschaft ist der Ertragswert zugrunde zu legen.
 
@@ -1483,7 +1486,7 @@ d) Hofstelle,
 
 (4) Der Ertragswert ist das 18,6fache der Summe der Reinerträge des Betriebs.
 
-##### § 237 Bewertung des Betriebs der Land- und Forstwirtschaft
+###### § 237 Bewertung des Betriebs der Land- und Forstwirtschaft
 
 (1) Bei der Ermittlung des Ertragswerts für einen Betrieb der Land- und Forstwirtschaft sind die land- und forstwirtschaftlichen Nutzungen, Nutzungsarten und die Nebenbetriebe (§ 234 Absatz 1) mit ihrem jeweiligen Reinertrag nach den Absätzen 2 bis 8 zu bewerten. Mit dem Ansatz des jeweiligen Reinertrags sind auch dem Eigentümer des Grund und Bodens nicht gehörende stehende und umlaufende Betriebsmittel, die der Bewirtschaftung des Betriebs dienen, abgegolten.
 
@@ -1501,7 +1504,7 @@ d) Hofstelle,
 
 (8) Der Reinertrag für die Hofflächen und die Nebenbetriebe ermittelt sich aus der Summe der Flächenwerte. Der Flächenwert ist das Produkt aus der jeweils als Hofstelle gesetzlich klassifizierten Eigentumsfläche des Betriebs und dem dreifachen Bewertungsfaktor gemäß Anlage 32.
 
-##### § 238 Zuschläge zum Reinertrag
+###### § 238 Zuschläge zum Reinertrag
 
 (1) Ein Zuschlag zum Reinertrag einer Nutzung oder Nutzungsart ist vorzunehmen,
 
@@ -1513,13 +1516,13 @@ d) Hofstelle,
 
 (2) Der Reinertrag einer Nutzung oder Nutzungsart ist um einen Zuschlag zu erhöhen, wenn die Eigentumsflächen des Betriebs zugleich der Stromerzeugung aus Windenergie dienen. Der Zuschlag ermittelt sich aus dem Produkt der abgegrenzten Standortfläche der Windenergieanlage und dem Bewertungsfaktor gemäß Anlage 33.
 
-##### § 239 Grundsteuerwert des Betriebs der Land- und Forstwirtschaft
+###### § 239 Grundsteuerwert des Betriebs der Land- und Forstwirtschaft
 
 (1) Die Summe der Reinerträge des Betriebs einschließlich der Zuschläge (§§ 237, 238) ist zur Ermittlung des Ertragswerts mit dem Faktor 18,6 zu kapitalisieren und ergibt den Grundsteuerwert des Betriebs der Land- und Forstwirtschaft.
 
 (2) Die Summe der Reinerträge einschließlich der Zuschläge (§§ 237, 238) eines Betriebs der Land- und Forstwirtschaft ist für jede Gemeinde gesondert zu ermitteln, wenn sich die wirtschaftliche Einheit über mehrere Gemeinden erstreckt. Der auf eine Gemeinde entfallende Anteil am Grundsteuerwert berechnet sich aus der jeweils für eine Gemeinde gesondert ermittelten Summe der Reinerträge im Verhältnis zur Gesamtsumme der Reinerträge des Betriebs der Land- und Forstwirtschaft.
 
-##### § 240 Kleingartenland und Dauerkleingartenland
+###### § 240 Kleingartenland und Dauerkleingartenland
 
 (1) Als Betrieb der Land- und Forstwirtschaft gelten auch Kleingartenland und Dauerkleingartenland im Sinne des Bundeskleingartengesetzes.
 
@@ -1533,7 +1536,7 @@ d) Hofstelle,
 
 ## a) Landwirtschaftliche Nutzung
 
-##### § 241 Tierbestände
+###### § 241 Tierbestände
 
 (1) Tierbestände gehören in vollem Umfang zur landwirtschaftlichen Nutzung, wenn im Wirtschaftsjahr für die ersten
  20 Hektar
@@ -1571,7 +1574,7 @@ Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des Tierbestands,
 
 ## b) Übrige land- und forstwirtschaftliche Nutzungen
 
-##### § 242 Übrige land- und forstwirtschaftliche Nutzungen
+###### § 242 Übrige land- und forstwirtschaftliche Nutzungen
 
 (1) Zu den übrigen land- und forstwirtschaftlichen Nutzungen gehören:
 
@@ -1605,7 +1608,7 @@ Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des Tierbestands,
 
 ## I. Allgemeines
 
-##### § 243 Begriff des Grundvermögens
+###### § 243 Begriff des Grundvermögens
 
 (1) Zum Grundvermögen gehören, soweit es sich nicht um land- und forstwirtschaftliches Vermögen (§§ 232 bis 242) handelt:
 
@@ -1625,7 +1628,7 @@ Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des Tierbestands,
 
 (3) Einzubeziehen sind jedoch die Verstärkungen von Decken und die nicht ausschließlich zu einer Betriebsanlage gehörenden Stützen und sonstigen Bauteile wie Mauervorlagen und Verstrebungen.
 
-##### § 244 Grundstück
+###### § 244 Grundstück
 
 (1) Jede wirtschaftliche Einheit des Grundvermögens bildet ein Grundstück im Sinne dieses Abschnitts.
 
@@ -1641,19 +1644,19 @@ Das Zuchtvieh einer Tierart gilt nur dann als besonderer Zweig des Tierbestands,
 
 4. jedes Wohnungserbbaurecht und Teilerbbaurecht zusammen mit dem anteiligen belasteten Grund und Boden.
 
-##### § 245 Gebäude, Gebäudeteile und Anlagen für den Zivilschutz
+###### § 245 Gebäude, Gebäudeteile und Anlagen für den Zivilschutz
 
 Gebäude, Gebäudeteile und Anlagen, die wegen der in § 1 des Zivilschutz- und Katastrophenhilfegesetzes bezeichneten Zwecke geschaffen worden sind und im Frieden nicht oder nur gelegentlich oder geringfügig für andere Zwecke benutzt werden, bleiben bei der Ermittlung des Grundsteuerwerts außer Betracht.
 
 ## II. Unbebaute Grundstücke
 
-##### § 246 Begriff der unbebauten Grundstücke
+###### § 246 Begriff der unbebauten Grundstücke
 
 (1) Unbebaute Grundstücke sind Grundstücke, auf denen sich keine benutzbaren Gebäude befinden. Die Benutzbarkeit beginnt zum Zeitpunkt der Bezugsfertigkeit. Gebäude sind als bezugsfertig anzusehen, wenn den zukünftigen Bewohnern oder sonstigen vorgesehenen Benutzern die bestimmungsgemäße Gebäudenutzung zugemutet werden kann. Nicht entscheidend für den Zeitpunkt der Bezugsfertigkeit ist die Abnahme durch die Bauaufsichtsbehörde.
 
 (2) Befinden sich auf dem Grundstück Gebäude, die auf Dauer keiner Nutzung zugeführt werden können, so gilt das Grundstück als unbebaut. Als unbebaut gilt auch ein Grundstück, auf dem infolge von Zerstörung oder Verfall der Gebäude auf Dauer kein benutzbarer Raum mehr vorhanden ist.
 
-##### § 247 Bewertung der unbebauten Grundstücke
+###### § 247 Bewertung der unbebauten Grundstücke
 
 (1) Der Grundsteuerwert unbebauter Grundstücke ermittelt sich regelmäßig durch Multiplikation ihrer Fläche mit dem jeweiligen Bodenrichtwert (§ 196 des Baugesetzbuchs). Soweit in den §§ 243 bis 262 sowie in den Anlagen 36 bis 43 nichts anderes bestimmt ist, werden Abweichungen zwischen den Grundstücksmerkmalen des Bodenrichtwertgrundstücks und des zu bewertenden Grundstücks mit Ausnahme unterschiedlicher
 
@@ -1669,11 +1672,11 @@ nicht berücksichtigt.
 
 ## III. Bebaute Grundstücke
 
-##### § 248 Begriff der bebauten Grundstücke
+###### § 248 Begriff der bebauten Grundstücke
 
 Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare Gebäude befinden. Wird ein Gebäude in Bauabschnitten errichtet, ist der bezugsfertige Teil als benutzbares Gebäude anzusehen.
 
-##### § 249 Grundstücksarten
+###### § 249 Grundstücksarten
 
 (1) Bei der Bewertung bebauter Grundstücke sind die folgenden Grundstücksarten zu unterscheiden:
 
@@ -1711,7 +1714,7 @@ Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare Gebäude befin
 
 (10) Eine Wohnung ist in der Regel die Zusammenfassung mehrerer Räume, die in ihrer Gesamtheit so beschaffen sein müssen, dass die Führung eines selbständigen Haushalts möglich ist. Die Zusammenfassung der Räume muss eine von anderen Wohnungen oder Räumen, insbesondere Wohnräumen, baulich getrennte, in sich abgeschlossene Wohneinheit bilden und einen selbständigen Zugang haben. Daneben ist erforderlich, dass die für die Führung eines selbständigen Haushalts notwendigen Nebenräume (Küche, Bad oder Dusche, Toilette) vorhanden sind. Die Wohnfläche soll mindestens 20 Quadratmeter betragen.
 
-##### § 250 Bewertung der bebauten Grundstücke
+###### § 250 Bewertung der bebauten Grundstücke
 
 (1) Der Grundsteuerwert bebauter Grundstücke ist nach dem Ertragswertverfahren (Absatz 2) oder dem Sachwertverfahren (Absatz 3) zu ermitteln.
 
@@ -1735,29 +1738,29 @@ Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare Gebäude befin
 
 4. sonstige bebaute Grundstücke.
 
-##### § 251 Mindestwert
+###### § 251 Mindestwert
 
 Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer sein als 75 Prozent des Werts, mit dem der Grund und Boden allein als unbebautes Grundstück zu bewerten wäre (§ 247). Bei der Bewertung von Ein- und Zweifamilienhäusern im Sinne des § 249 Absatz 2 und 3 ist bei der Ermittlung des Mindestwerts § 257 Absatz 1 Satz 2 anzuwenden.
 
-##### § 252 Bewertung im Ertragswertverfahren
+###### § 252 Bewertung im Ertragswertverfahren
 
 Im Ertragswertverfahren ermittelt sich der Grundsteuerwert aus der Summe des kapitalisierten Reinertrags nach § 253 (Barwert des Reinertrags) und des abgezinsten Bodenwerts nach § 257. Mit dem Grundsteuerwert sind die Werte für den Grund und Boden, die Gebäude, die baulichen Anlagen, insbesondere Außenanlagen, und die sonstigen Anlagen abgegolten.
 
-##### § 253 Ermittlung des kapitalisierten Reinertrags
+###### § 253 Ermittlung des kapitalisierten Reinertrags
 
 (1) Zur Ermittlung des kapitalisierten Reinertrags ist vom Reinertrag des Grundstücks auszugehen. Dieser ergibt sich aus dem Rohertrag des Grundstücks (§ 254) abzüglich der Bewirtschaftungskosten (§ 255).
 
 (2) Der Reinertrag des Grundstücks ist mit dem sich aus Anlage 37 ergebenden Vervielfältiger zu kapitalisieren. Maßgebend für den Vervielfältiger sind der Liegenschaftszinssatz nach § 256 und die Restnutzungsdauer des Gebäudes. Die Restnutzungsdauer ist grundsätzlich der Unterschiedsbetrag zwischen der wirtschaftlichen Gesamtnutzungsdauer, die sich aus Anlage 38 ergibt, und dem Alter des Gebäudes im Hauptfeststellungszeitpunkt. Sind nach der Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die wirtschaftliche Gesamtnutzungsdauer des Gebäudes wesentlich verlängert haben, ist von einer der Verlängerung entsprechenden Restnutzungsdauer auszugehen. Die Restnutzungsdauer eines noch nutzbaren Gebäudes beträgt mindestens 30 Prozent der wirtschaftlichen Gesamtnutzungsdauer. Bei einer bestehenden Abbruchverpflichtung für das Gebäude ist die Restnutzungsdauer abweichend von den Sätzen 3 bis 5 auf den Unterschiedsbetrag zwischen der tatsächlichen Gesamtnutzungsdauer und dem Alter des Gebäudes im Hauptfeststellungszeitpunkt begrenzt.
 
-##### § 254 Rohertrag des Grundstücks
+###### § 254 Rohertrag des Grundstücks
 
 Der jährliche Rohertrag des Grundstücks ergibt sich aus den in Anlage 39 nach Land, Gebäudeart, Wohnfläche und Baujahr des Gebäudes angegebenen monatlichen Nettokaltmieten je Quadratmeter Wohnfläche einschließlich der in Abhängigkeit der Mietniveaustufen festgelegten Zu- und Abschläge.
 
-##### § 255 Bewirtschaftungskosten
+###### § 255 Bewirtschaftungskosten
 
 Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und zulässiger Nutzung marktüblich entstehenden jährlichen Verwaltungskosten, Betriebskosten, Instandhaltungskosten und das Mietausfallwagnis berücksichtigt, die nicht durch Umlagen oder sonstige Kostenübernahmen gedeckt sind. Sie ergeben sich aus den pauschalierten Erfahrungssätzen nach Anlage 40.
 
-##### § 256 Liegenschaftszinssätze
+###### § 256 Liegenschaftszinssätze
 
 (1) Liegenschaftszinssätze sind die Zinssätze, mit denen der Wert von Grundstücken abhängig von der Grundstücksart durchschnittlich und marktüblich verzinst wird. Bei der Bewertung bebauter Grundstücke gelten die folgenden Zinssätze:
 
@@ -1773,7 +1776,7 @@ Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und 
 
 (3) Bei der Bewertung von Wohnungseigentum im Sinne des § 249 Absatz 5 verringert sich der Zinssatz nach Absatz 1 Satz 2 Nummer 2 um jeweils 0,1 Prozentpunkte für jede vollen 100 Euro, die der Bodenrichtwert oder der Bodenwert nach § 247 Absatz 3 je Quadratmeter den Betrag von 2 000 Euro je Quadratmeter übersteigt. Ab einem Bodenrichtwert oder Bodenwert nach § 247 Absatz 3 je Quadratmeter in Höhe von 3 000 Euro je Quadratmeter beträgt der Zinssatz für Wohnungseigentum einheitlich 2 Prozent.
 
-##### § 257 Ermittlung des abgezinsten Bodenwerts
+###### § 257 Ermittlung des abgezinsten Bodenwerts
 
 (1) Zur Ermittlung des abgezinsten Bodenwerts ist vom Bodenwert nach § 247 auszugehen. Bei der Bewertung von Ein- und Zweifamilienhäusern im Sinne des § 249 Absatz 2 und 3 sind zur Berücksichtigung abweichender Grundstücksgrößen beim Bodenwert die Umrechnungskoeffizienten nach Anlage 36 anzuwenden.
 
@@ -1781,7 +1784,7 @@ Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und 
 
 (3) Eine selbständig nutzbare Teilfläche ist ein Teil eines Grundstücks, der für die angemessene Nutzung der Gebäude nicht benötigt wird und selbständig genutzt oder verwertet werden kann.
 
-##### § 258 Bewertung im Sachwertverfahren
+###### § 258 Bewertung im Sachwertverfahren
 
 (1) Bei Anwendung des Sachwertverfahrens ist der Wert der Gebäude (Gebäudesachwert) getrennt vom Bodenwert zu ermitteln.
 
@@ -1789,7 +1792,7 @@ Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und 
 
 (3) Die Summe aus Bodenwert (§ 247) und Gebäudesachwert (§ 259) ergibt den vorläufigen Sachwert des Grundstücks. Dieser ist zur Ermittlung des Grundsteuerwerts im Sachwertverfahren mit der Wertzahl nach § 260 zu multiplizieren. Mit dem Grundsteuerwert sind die Werte für den Grund und Boden, die Gebäude, die baulichen Anlagen, insbesondere Außenanlagen, und die sonstigen Anlagen abgegolten.
 
-##### § 259 Ermittlung des Gebäudesachwerts
+###### § 259 Ermittlung des Gebäudesachwerts
 
 (1) Bei der Ermittlung des Gebäudesachwerts ist von den Normalherstellungskosten des Gebäudes in Anlage 42 auszugehen.
 
@@ -1799,23 +1802,23 @@ Als Bewirtschaftungskosten werden die bei ordnungsgemäßer Bewirtschaftung und 
 
 (4) Vom Gebäudenormalherstellungswert ist eine Alterswertminderung abzuziehen. Die Alterswertminderung ergibt sich durch Multiplikation des Gebäudenormalherstellungswerts mit dem Verhältnis des Alters des Gebäudes im Hauptfeststellungszeitpunkt zur wirtschaftlichen Gesamtnutzungsdauer nach Anlage 38. Sind nach Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die wirtschaftliche Gesamtnutzungsdauer des Gebäudes wesentlich verlängert haben, ist von einem der Verlängerung entsprechenden späteren Baujahr auszugehen. Der nach Abzug der Alterswertminderung verbleibende Gebäudewert ist mit mindestens 30 Prozent des Gebäudenormalherstellungswerts anzusetzen. Bei bestehender Abbruchverpflichtung für das Gebäude ist die Alterswertminderung abweichend von den Sätzen 2 bis 4 auf das Verhältnis des Alters des Gebäudes im Hauptfeststellungszeitpunkt zur tatsächlichen Gesamtnutzungsdauer begrenzt.
 
-##### § 260 Wertzahlen
+###### § 260 Wertzahlen
 
 Zur Ermittlung des Grundsteuerwerts ist der vorläufige Sachwert des Grundstücks im Sinne des § 258 Absatz 3 mit der sich aus Anlage 43 ergebenden Wertzahl zu multiplizieren.
 
 ## IV. Sonderfälle
 
-##### § 261 Erbbaurecht
+###### § 261 Erbbaurecht
 
 Bei Erbbaurechten ist für das Erbbaurecht und das Erbbaurechtsgrundstück ein Gesamtwert nach den §§ 243 bis 260 zu ermitteln, der festzustellen wäre, wenn die Belastung mit dem Erbbaurecht nicht bestünde. Der ermittelte Wert ist dem Erbbauberechtigten zuzurechnen. Für Wohnungserbbaurechte und Teilerbbaurechte gelten die Sätze 1 und 2 entsprechend.
 
-##### § 262 Gebäude auf fremdem Grund und Boden
+###### § 262 Gebäude auf fremdem Grund und Boden
 
 Bei einem Gebäude auf fremdem Grund und Boden ist für den Grund und Boden sowie für das Gebäude auf fremdem Grund und Boden ein Gesamtwert nach den §§ 243 bis 260 zu ermitteln. Der ermittelte Wert ist dem Eigentümer des Grund und Bodens zuzurechnen.
 
 ## V. Ermächtigungen
 
-##### § 263 Ermächtigungen
+###### § 263 Ermächtigungen
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die folgenden Anlagen zu ändern:
 
@@ -1831,11 +1834,11 @@ In der jeweiligen Rechtsverordnung kann das Bundesministerium der Finanzen zur S
 
 ## Dritter Teil Schlussbestimmungen
 
-##### § 264 Bekanntmachung
+###### § 264 Bekanntmachung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen in der jeweils geltenden Fassung satzweise nummeriert bekannt zu machen.
 
-##### § 265 Anwendungsvorschriften
+###### § 265 Anwendungsvorschriften
 
 (1) Dieses Gesetz in der Fassung des Artikels 7 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist auf Bewertungsstichtage nach dem 30. Juni 2011 anzuwenden.
 
@@ -1869,7 +1872,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 
 (16) Die Anlagen 21, 23 und 26 in der Fassung des Artikels 35 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) sind auf Bewertungsstichtage nach dem 31. Dezember 2024 anzuwenden.
 
-##### § 266 Erstmalige Anwendung des Siebenten Abschnitts des Zweiten Teils
+###### § 266 Erstmalige Anwendung des Siebenten Abschnitts des Zweiten Teils
 
 (1) Die erste Hauptfeststellung für die Grundsteuerwerte nach § 221 wird auf den 1. Januar 2022 für die Hauptveranlagung auf den 1. Januar 2025 durchgeführt.
 
@@ -1881,11 +1884,11 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 
 (5) Bestehende wirtschaftliche Einheiten, die für Zwecke der Einheitsbewertung unter Anwendung der §§ 26 oder 34 Absatz 4 bis 6 in der bis zum 31. Dezember 2024 gültigen Fassung gebildet wurden, können weiterhin für Zwecke der Feststellung von Grundsteuerwerten nach den Regelungen des Siebenten Abschnitts zugrunde gelegt werden.
 
-##### Anlage 1 bis 8 (weggefallen)
+###### Anlage 1 bis 8 (weggefallen)
 
-##### Anlage 9 (weggefallen)
+###### Anlage 9 (weggefallen)
 
-##### Anlage 9a (zu § 13)Kapitalwert einer wiederkehrenden, zeitlich beschränkten Nutzung oder Leistung im Jahresbetrag von einem Euro
+###### Anlage 9a (zu § 13)Kapitalwert einer wiederkehrenden, zeitlich beschränkten Nutzung oder Leistung im Jahresbetrag von einem Euro
 
 (Fundstelle: BGBl. I 1992, 1860 u. 1861;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -1895,9 +1898,9 @@ Der Kapitalwert ist unter Berücksichtigung von Zwischenzinsen und Zinseszinsen 
 Laufzeit
  in JahrenKapitalwert10,97421,89732,77243,60254,38865,13375,83986,50997,143107,745118,315128,856139,368149,8531510,3141610,7501711,1631811,5551911,9272012,2792112,6132212,9292313,2292413,5132513,7832614,0382714,2802814,5102914,7273014,9333115,1293215,3143315,4903415,6563515,8143615,9633716,1053816,2393916,3674016,4874116,6024216,7104316,8134416,9104517,0034617,0904717,1734817,2524917,3265017,3975117,4645217,5285317,5885417,6455517,6995617,7505717,7995817,8455917,8886017,9306117,9696218,0066318,0416418,0756518,1066618,1366718,1656818,1926918,2177018,2427118,2647218,2867318,3077418,3267518,3457618,3627718,3797818,3957918,4108018,4248118,4378218,4508318,4628418,4748518,4858618,4958718,5058818,5148918,5239018,5319118,5399218,5469318,5539418,5609518,5669618,5729718,5789818,5839918,58910018,59310118,598mehr als 10118,600
 
-##### (XXXX) Anlagen 10 bis 13 (weggefallen)
+###### (XXXX) Anlagen 10 bis 13 (weggefallen)
 
-##### Anlage 14 (zu § 163 Abs. 3, § 164 Abs. 2 und 4)Landwirtschaftliche Nutzung
+###### Anlage 14 (zu § 163 Abs. 3, § 164 Abs. 2 und 4)Landwirtschaftliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3043 - 3059)
 
@@ -3417,7 +3420,7 @@ Mittelbetriebe 40 bis 100 EGE–145228161
 
 Großbetriebe über 100 EGE64283142
 
-##### Anlage 15 (zu § 163 Abs. 4 und § 164 Abs. 2)Forstwirtschaftliche Nutzung
+###### Anlage 15 (zu § 163 Abs. 4 und § 164 Abs. 2)Forstwirtschaftliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3060;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -3454,7 +3457,7 @@ III. Ertragsklasse und schlechter 11
 
 übrige Fläche der forstwirtschaftlichen Nutzung 115,40
 
-##### Anlage 15a (zu § 164 Abs. 4)Forstwirtschaftliche Nutzung
+###### Anlage 15a (zu § 164 Abs. 4)Forstwirtschaftliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3061)
 
@@ -3490,7 +3493,7 @@ KieferII. EKL. 0,00 0,10 2,40 6,10 9,00 11,30 12,70 12,70 12,70 12,70
 
 KieferIII. EKL. und schlechter 0,00 0,00 1,10 5,20 8,80 11,20 12,70 12,70 12,70 12,70
 
-##### Anlage 16 (zu § 163 Abs. 5 und § 164 Abs. 2 und 4)Weinbauliche Nutzung
+###### Anlage 16 (zu § 163 Abs. 5 und § 164 Abs. 2 und 4)Weinbauliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -3506,7 +3509,7 @@ Fassweinerzeuger –759589 588
 
 Traubenerzeuger–1 252859 509
 
-##### Anlage 17 (zu § 163 Abs. 6 und § 164 Abs. 2 und 4)Gärtnerische Nutzung
+###### Anlage 17 (zu § 163 Abs. 6 und § 164 Abs. 2 und 4)Gärtnerische Nutzung
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -3528,7 +3531,7 @@ Baumschulen 894 2232 359
 
 Obstbau –379 325 426
 
-##### Anlage 18 (zu § 163 Abs. 7 und § 164 Abs. 2 und 4)Sondernutzungen
+###### Anlage 18 (zu § 163 Abs. 7 und § 164 Abs. 2 und 4)Sondernutzungen
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -3544,7 +3547,7 @@ Spargel–1 365657612
 
 Tabak –820492129
 
-##### Anlage 19 (zu § 169)Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
+###### Anlage 19 (zu § 169)Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
 
 (Fundstelle: BGBl. I 2011, 2621 - 2622)
 
@@ -3656,7 +3659,7 @@ Mastschweine0,16VE
 
 Jungzuchtschweine bis etwa 90 kg0,12VE
 
-##### Anlage 20 (zu § 169 Abs. 5)Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
+###### Anlage 20 (zu § 169 Abs. 5)Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
 
 (Fundstelle: BGBl. I 2008, 3065)
 
@@ -3664,7 +3667,7 @@ Jungzuchtschweine bis etwa 90 kg0,12VE
 
 2. Weniger flächenabhängige Zweige des Tierbestands Schweinezucht, Schweinemast, Hühnerzucht, Entenzucht, Gänsezucht, Putenzucht, Legehennenhaltung, Junghühnermast, Entenmast, Gänsemast, Putenmast.
 
-##### Anlage 21 (zu § 185 Absatz 3 Satz 1, § 193 Absatz 4 Satz 1, § 194 Absatz 5 Satz 1 und § 195 Absatz 3 Satz 1 und Absatz 7 Satz 1)Vervielfältiger
+###### Anlage 21 (zu § 185 Absatz 3 Satz 1, § 193 Absatz 4 Satz 1, § 194 Absatz 5 Satz 1 und § 195 Absatz 3 Satz 1 und Absatz 7 Satz 1)Vervielfältiger
 
 (Fundstelle: BGBl. 2024 I Nr. 387, S. 65 - 70)
 
@@ -4088,7 +4091,7 @@ n = Restnutzungsdauer / Restlaufzeit
 
 Das jeweilige Berechnungsergebnis ist kaufmännisch auf vier Nachkommastellen zu runden.
 
-##### Anlage 22 (zu § 185 Absatz 3 Satz 3, § 190 Absatz 6 Satz 1 und 2) Gesamtnutzungsdauer
+###### Anlage 22 (zu § 185 Absatz 3 Satz 3, § 190 Absatz 6 Satz 1 und 2) Gesamtnutzungsdauer
 
 (Fundstelle: BGBl. I 2015, 1846)
 
@@ -4136,7 +4139,7 @@ Reithallen, ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen, u. Ä.30Jah
 
 **Teileigentum** ist in Abhängigkeit von der baulichen Gestaltung den vorstehenden Gebäudearten zuzuordnen.
 
-##### Anlage 23 (zu § 187 Absatz 2 und 3)Bewirtschaftungskosten
+###### Anlage 23 (zu § 187 Absatz 2 und 3)Bewirtschaftungskosten
 
 (Fundstelle: BGBl. I 2022, 2317)
 
@@ -4144,7 +4147,7 @@ Reithallen, ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen, u. Ä.30Jah
 
 Die Anpassung der Basiswerte nach den Nummern I.1 und I.2 erfolgt jährlich mit dem Prozentsatz, um den sich der vom Statistischen Bundesamt festgestellte Verbraucherpreisindex für Deutschland für den Monat Oktober 2001 gegenüber demjenigen für den Monat Oktober des Jahres, das dem Bewertungsstichtag vorausgeht, erhöht oder verringert hat. Die Werte für die Instandhaltungskosten pro Quadratmeter sind auf eine Nachkommastelle und bei den Instandhaltungskosten pro Garage oder ähnlichem Einstellplatz sowie bei Verwaltungskosten kaufmännisch auf volle Euro zu runden.
 
-##### Anlage 24 (zu § 190 Absatz 1 Satz 3 und Absatz 2 und Anlage 23)Regelherstellungskosten
+###### Anlage 24 (zu § 190 Absatz 1 Satz 3 und Absatz 2 und Anlage 23)Regelherstellungskosten
 
 (Fundstelle: BGBl. I 2015, 1847 – 1862)
 
@@ -4378,7 +4381,7 @@ Paneelen**Fenster und**
 ➀➀Schüttwände aus Holz zwischen Stahlstützen, Trocknungsanlage für Getreide➉Reitbodenbewässerung (komfortable Ausführung)
 ➀➀Schüttwände aus Beton-Fertigteilen
 
-##### Anlage 25 (zu § 191 Satz 2)
+###### Anlage 25 (zu § 191 Satz 2)
 
 (Fundstelle: BGBl. I 2022, 2317 - 2318)
 
@@ -4398,7 +4401,7 @@ Vorläufiger Sachwert § 189 Absatz 3Bodenrichtwert oder abgeleiteter Bodenwert 
 
 Für vorläufige Sachwerte und Bodenrichtwerte oder abgeleitete Bodenwerte zwischen den angegebenen Intervallen sind die Wertzahlen durch lineare Interpolation zu bestimmen. Über den tabellarisch aufgeführten Bereich hinaus ist keine Extrapolation durchzuführen. Für Werte außerhalb des angegebenen Bereichs gilt der nächstgelegene vorläufige Sachwert oder Bodenrichtwert oder abgeleitete Bodenwert.
 
-##### Anlage 26 (zu § 193 Absatz 5 Satz 3, § 194 Absatz 4 Satz 1 sowie § 195 Absatz 4 Satz 3 und Absatz 6 Satz 1)Abzinsungsfaktoren
+###### Anlage 26 (zu § 193 Absatz 5 Satz 3, § 194 Absatz 4 Satz 1 sowie § 195 Absatz 4 Satz 3 und Absatz 6 Satz 1)Abzinsungsfaktoren
 
 (Fundstelle: BGBl. 2024 I Nr. 387, S. 71 - 76)
 
@@ -4822,7 +4825,7 @@ n = Restnutzungsdauer / Restlaufzeit
 
 Das jeweilige Berechnungsergebnis ist kaufmännisch auf vier Nachkommastellen zu runden.
 
-##### Anlage 27 (zu § 237 Absatz 2) Landwirtschaftliche Nutzung
+###### Anlage 27 (zu § 237 Absatz 2) Landwirtschaftliche Nutzung
 
 (Fundstelle: BGBl. I 2021, 2291)
 
@@ -4836,7 +4839,7 @@ Zuschläge fürBezugseinheitin EUR
 
 Verstärkte Tierhaltungje Vieheinheit über einem Besatz von 2,0 Vieheinheiten je Hektar selbst bewirtschafteter Fläche der landwirtschaftlichen Nutzung79,00
 
-##### Anlage 28 (zu § 237 Absatz 3) Forstwirtschaftliche Nutzung
+###### Anlage 28 (zu § 237 Absatz 3) Forstwirtschaftliche Nutzung
 
 (Fundstelle: BGBl. I 2021, 2292 – 2294)
 
@@ -5006,7 +5009,7 @@ Bewertungsfaktor für Wuchsgebietin EUR/ha
 
 82Bayerische Alpen135,61
 
-##### Anlage 29 (zu § 237 Absatz 4) Weinbauliche Nutzung
+###### Anlage 29 (zu § 237 Absatz 4) Weinbauliche Nutzung
 
 (Fundstelle: BGBl. I 2021, 2295)
 
@@ -5014,7 +5017,7 @@ Bewertungsfaktor fürFlächeneinheitin EUR
 
 Traubenerzeugungpro Ar11,70
 
-##### Anlage 30 (zu § 237 Absatz 5) Gärtnerische Nutzung
+###### Anlage 30 (zu § 237 Absatz 5) Gärtnerische Nutzung
 
 (Fundstelle: BGBl. I 2021, 2296)
 
@@ -5058,7 +5061,7 @@ Zuschläge fürFlächeneinheitin EUR
 
 Flächen unter Glas und Kunststoffenpro Ar65,15
 
-##### Anlage 31 (zu § 237 Absatz 6 und 7) Übrige land- und forstwirtschaftliche Nutzungen sowie Abbauland, Geringstland und Unland
+###### Anlage 31 (zu § 237 Absatz 6 und 7) Übrige land- und forstwirtschaftliche Nutzungen sowie Abbauland, Geringstland und Unland
 
 (Fundstelle: BGBl. I 2021, 2297)
 
@@ -5108,7 +5111,7 @@ Geringstlandpro Ar 0,38
 
 Unlandpro Ar 0,00
 
-##### Anlage 32 (zu § 237 Absatz 8) Nutzungsart Hofstelle
+###### Anlage 32 (zu § 237 Absatz 8) Nutzungsart Hofstelle
 
 (Fundstelle: BGBl. I 2021, 2298)
 
@@ -5122,7 +5125,7 @@ Wirtschaftsgebäude der weinbaulichen Nutzung bei Fass- und Flaschenweinerzeugun
 
 Wirtschaftsgebäude der Nebenbetriebepro Quadratmeter Bruttogrundfläche und Monat 1,23
 
-##### Anlage 33 (zu § 238 Absatz 2) Weitere den Ertragswert erhöhende Umstände
+###### Anlage 33 (zu § 238 Absatz 2) Weitere den Ertragswert erhöhende Umstände
 
 (Fundstelle: BGBl. I 2021, 2299)
 
@@ -5130,7 +5133,7 @@ Bewertungsfaktor fürFlächeneinheitin EUR
 
 Abgegrenzte Standortfläche der Windenergieanlagepro Ar59,58
 
-##### Anlage 34 (zu § 241 Absatz 5) Umrechnungsschlüssel für Tierbestände in Vieheinheiten (VE) nach dem Futterbedarf
+###### Anlage 34 (zu § 241 Absatz 5) Umrechnungsschlüssel für Tierbestände in Vieheinheiten (VE) nach dem Futterbedarf
 
 (Fundstelle: BGBl. I 2019, 1824 – 25)
 
@@ -5246,7 +5249,7 @@ Mastschweine0,16VE
 
 Jungzuchtschweine bis etwa 90 kg0,12VE
 
-##### Anlage 35 (zu § 241 Absatz 5) Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
+###### Anlage 35 (zu § 241 Absatz 5) Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
 
 (Fundstelle: BGBl. I 2019, 1826)
 
@@ -5254,7 +5257,7 @@ Jungzuchtschweine bis etwa 90 kg0,12VE
 
 2. Weniger flächenabhängige Zweige des Tierbestands: Schweinezucht, Schweinemast, Hühnerzucht, Entenzucht, Gänsezucht, Putenzucht, Legehennenhaltung, Junghühnermast, Entenmast, Gänsemast, Putenmast.
 
-##### Anlage 36 (zu den §§ 251 und 257 Absatz 1) Umrechnungskoeffizienten zur Berücksichtigung abweichender Grundstücksgrößen beim Bodenwert von Ein- und Zweifamilienhäusern
+###### Anlage 36 (zu den §§ 251 und 257 Absatz 1) Umrechnungskoeffizienten zur Berücksichtigung abweichender Grundstücksgrößen beim Bodenwert von Ein- und Zweifamilienhäusern
 
 (Fundstelle: BGBl. I 2019, 1827)
 
@@ -5334,7 +5337,7 @@ GrundstücksgrößeUmrechnungskoeffizient
 
 ≥ 2 000 m20,64
 
-##### Anlage 37 (zu § 253 Absatz 2) Vervielfältiger
+###### Anlage 37 (zu § 253 Absatz 2) Vervielfältiger
 
 (Fundstelle: BGBl. I 2019, 1828 — 1833)
 
@@ -5756,7 +5759,7 @@ n = Restnutzungsdauer
 
 p = Zinsfuß
 
-##### Anlage 38 (zu § 253 Absatz 2 und § 259 Absatz 4) Wirtschaftliche Gesamtnutzungsdauer
+###### Anlage 38 (zu § 253 Absatz 2 und § 259 Absatz 4) Wirtschaftliche Gesamtnutzungsdauer
 
 (Fundstelle: BGBl. I 2019, 1834)
 
@@ -5808,7 +5811,7 @@ Reithallen, ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen und Ähnlich
 
 Für nicht aufgeführte Gebäudearten ist die wirtschaftliche Gesamtnutzungsdauer aus der wirtschaftlichen Gesamtnutzungsdauer vergleichbarer Gebäudearten abzuleiten.
 
-##### Anlage 39 (zu § 254) Ermittlung des Rohertrags
+###### Anlage 39 (zu § 254) Ermittlung des Rohertrags
 
 (Fundstelle: BGBl. I 2021, 2932 – 2936;
  bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5821,20 +5824,20 @@ I. **Monatliche Nettokaltmieten in EUR/Quadratmeter Wohnfläche
  bis 1990****1991
  bis 2000****ab 2001**Baden-WürttembergEinfamilienhausunter 60 m27,136,887,018,739,40von 60 m2 bis unter 100 m26,246,416,627,587,51100 m2 und mehr5,536,106,376,617,78Zweifamilienhausunter 60 m27,638,168,158,568,89von 60 m2 bis unter 100 m25,606,066,116,557,60100 m2 und mehr5,105,385,456,207,31Mietwohngrundstückunter 60 m28,609,179,1110,1012,44von 60 m2 bis unter 100 m26,787,097,337,828,97100 m2 und mehr6,846,426,827,278,97BayernEinfamilienhausunter 60 m27,867,547,769,2810,64von 60 m2 bis unter 100 m26,897,047,348,078,50100 m2 und mehr6,096,697,067,038,80Zweifamilienhausunter 60 m26,917,357,417,488,25von 60 m2 bis unter 100 m25,065,455,575,727,07100 m2 und mehr4,614,854,965,426,79Mietwohngrundstückunter 60 m29,8210,4110,4411,1214,56von 60 m2 bis unter 100 m27,748,048,408,6110,50100 m2 und mehr7,807,297,818,0010,50BerlinEinfamilienhausunter 60 m29,047,797,2810,7014,45von 60 m2 bis unter 100 m27,927,256,899,2811,56100 m2 und mehr7,016,916,638,0911,96Zweifamilienhausunter 60 m28,958,557,839,7012,62von 60 m2 bis unter 100 m26,566,335,877,4310,79100 m2 und mehr5,975,645,237,0210,37Mietwohngrundstückunter 60 m28,478,077,349,6014,83von 60 m2 bis unter 100 m26,686,235,917,4410,70100 m2 und mehr6,735,655,506,9110,70BrandenburgEinfamilienhausunter 60 m28,347,207,2810,6612,20von 60 m2 bis unter 100 m27,316,716,889,269,75100 m2 und mehr6,476,396,628,0710,09Zweifamilienhausunter 60 m27,507,177,108,799,68von 60 m2 bis unter 100 m25,505,315,326,728,28100 m2 und mehr5,004,734,756,367,96Mietwohngrundstückunter 60 m27,457,117,009,1311,94von 60 m2 bis unter 100 m25,885,495,637,078,61100 m2 und mehr5,924,985,246,588,61BremenEinfamilienhausunter 60 m27,036,496,737,629,00von 60 m2 bis unter 100 m26,166,066,366,627,19100 m2 und mehr5,455,776,115,777,44Zweifamilienhausunter 60 m27,888,098,197,848,91von 60 m2 bis unter 100 m25,786,006,156,007,62100 m2 und mehr5,265,335,485,677,33Mietwohngrundstückunter 60 m28,088,268,338,3811,33von 60 m2 bis unter 100 m26,386,386,716,498,17100 m2 und mehr6,425,796,246,048,17HamburgEinfamilienhausunter 60 m28,697,017,529,5610,26von 60 m2 bis unter 100 m27,626,537,118,318,20100 m2 und mehr6,746,226,847,248,49Zweifamilienhausunter 60 m210,459,349,8210,5510,89von 60 m2 bis unter 100 m27,676,927,378,079,31100 m2 und mehr6,976,166,577,648,96Mietwohngrundstückunter 60 m29,188,198,579,7011,89von 60 m2 bis unter 100 m27,236,326,897,518,58100 m2 und mehr7,305,736,426,988,58HessenEinfamilienhausunter 60 m27,966,976,917,8310,02von 60 m2 bis unter 100 m26,976,506,546,808,00100 m2 und mehr6,176,186,295,938,29Zweifamilienhausunter 60 m27,457,237,026,728,27von 60 m2 bis unter 100 m25,465,365,265,157,08100 m2 und mehr4,974,774,704,876,81Mietwohngrundstückunter 60 m29,449,138,818,9013,01von 60 m2 bis unter 100 m27,457,057,106,899,39100 m2 und mehr7,506,396,606,409,39Mecklenburg-VorpommernEinfamilienhausunter 60 m27,025,755,508,128,77von 60 m2 bis unter 100 m26,155,375,207,057,01100 m2 und mehr5,445,115,016,147,26Zweifamilienhausunter 60 m27,486,806,357,928,24von 60 m2 bis unter 100 m25,485,054,776,077,05100 m2 und mehr4,994,494,255,746,78Mietwohngrundstückunter 60 m28,207,446,929,0911,22von 60 m2 bis unter 100 m26,485,745,577,048,10100 m2 und mehr6,525,215,186,558,10NiedersachsenEinfamilienhausunter 60 m26,626,366,317,728,40von 60 m2 bis unter 100 m25,805,935,976,706,71100 m2 und mehr5,135,645,745,846,95Zweifamilienhausunter 60 m26,787,217,007,237,58von 60 m2 bis unter 100 m24,985,345,255,536,48100 m2 und mehr4,524,764,685,246,24Mietwohngrundstückunter 60 m28,078,578,289,0011,22von 60 m2 bis unter 100 m26,366,626,676,988,10100 m2 und mehr6,426,016,206,488,10Nordrhein-WestfalenEinfamilienhausunter 60 m26,976,566,828,308,32von 60 m2 bis unter 100 m26,106,116,447,206,65100 m2 und mehr5,405,826,196,286,88Zweifamilienhausunter 60 m27,077,387,507,707,44von 60 m2 bis unter 100 m25,195,475,625,896,37100 m2 und mehr4,714,875,025,576,12Mietwohngrundstückunter 60 m27,838,138,238,9010,22von 60 m2 bis unter 100 m26,176,296,626,907,38100 m2 und mehr6,225,696,156,417,38Rheinland-PfalzEinfamilienhausunter 60 m27,126,816,888,139,32von 60 m2 bis unter 100 m26,236,366,507,067,45100 m2 und mehr5,526,056,256,157,72Zweifamilienhausunter 60 m27,307,777,667,648,44von 60 m2 bis unter 100 m25,355,765,755,857,22100 m2 und mehr4,875,135,135,536,94Mietwohngrundstückunter 60 m28,338,828,679,1111,95von 60 m2 bis unter 100 m26,576,816,987,068,62100 m2 und mehr6,626,186,496,578,62SaarlandEinfamilienhausunter 60 m26,076,186,138,399,03von 60 m2 bis unter 100 m25,325,765,797,297,21100 m2 und mehr4,715,485,576,357,47Zweifamilienhausunter 60 m26,337,136,938,008,30von 60 m2 bis unter 100 m24,635,285,196,137,09100 m2 und mehr4,224,714,635,806,82Mietwohngrundstückunter 60 m27,748,708,4110,2412,62von 60 m2 bis unter 100 m26,106,736,777,949,10100 m2 und mehr6,156,106,307,379,10SachsenEinfamilienhausunter 60 m26,706,215,718,238,97von 60 m2 bis unter 100 m25,875,795,397,157,17100 m2 und mehr5,195,525,196,237,43Zweifamilienhausunter 60 m25,926,095,476,677,00von 60 m2 bis unter 100 m24,344,514,115,115,99100 m2 und mehr3,944,013,674,835,75Mietwohngrundstückunter 60 m27,577,776,958,9311,12von 60 m2 bis unter 100 m25,986,015,606,928,02100 m2 und mehr6,025,445,206,428,02Sachsen-AnhaltEinfamilienhausunter 60 m26,235,785,537,437,79von 60 m2 bis unter 100 m25,455,395,226,456,23100 m2 und mehr4,835,145,025,626,45Zweifamilienhausunter 60 m26,196,375,966,756,83von 60 m2 bis unter 100 m24,544,724,475,175,85100 m2 und mehr4,134,203,984,895,62Mietwohngrundstückunter 60 m27,227,416,908,249,90von 60 m2 bis unter 100 m25,695,725,556,387,14100 m2 und mehr5,745,195,165,937,14Schleswig-HolsteinEinfamilienhausunter 60 m27,166,926,878,479,24von 60 m2 bis unter 100 m26,286,456,497,357,37100 m2 und mehr5,556,146,246,417,64Zweifamilienhausunter 60 m27,558,107,868,188,58von 60 m2 bis unter 100 m25,546,015,906,277,34100 m2 und mehr5,035,345,265,927,06Mietwohngrundstückunter 60 m27,858,398,108,8911,09von 60 m2 bis unter 100 m26,196,476,526,897,99100 m2 und mehr6,245,876,066,407,99ThüringenEinfamilienhausunter 60 m27,366,586,418,319,59von 60 m2 bis unter 100 m26,456,136,057,227,66100 m2 und mehr5,715,835,826,297,94Zweifamilienhausunter 60 m27,077,006,677,308,12von 60 m2 bis unter 100 m25,195,195,005,596,95100 m2 und mehr4,714,624,455,296,68Mietwohngrundstückunter 60 m27,707,617,228,3311,00von 60 m2 bis unter 100 m26,085,885,816,457,94100 m2 und mehr6,125,335,406,007,94
 
-II. **Mietniveaustufen** Zur Berücksichtigung von Mietniveauunterschieden zwischen Gemeinden eines Landes sind die Nettokaltmieten zu I. durch folgende Ab- oder Zuschläge anzupassen:
+II. **Mietniveaustufen** Zur Berücksichtigung von Mietniveauunterschieden zwischen Gemeinden eines Landes sind die Nettokaltmieten zu I. durch folgende Ab- oder Zuschläge anzupassen: 
 
 Mietniveaustufe 1– 20,0 %Mietniveaustufe 2– 10,0 %Mietniveaustufe 3 +/– 0 %Mietniveaustufe 4+ 10,0 %Mietniveaustufe 5+ 20,0 %Mietniveaustufe 6+ 30,0 %Mietniveaustufe 7+ 40,0 % Die gemeindebezogene Einordnung in die Mietniveaustufen und der dafür maßgebliche Gebietsstand ergibt sich aus der Rechtsverordnung zur Durchführung des § 254 des Bewertungsgesetzes in der jeweils aktuellen Fassung; nicht aufgeführte Gemeinden sind der Mietniveaustufe 3 zuzuordnen.
 
-##### Anlage 40 (zu § 255) Bewirtschaftungskosten
+###### Anlage 40 (zu § 255) Bewirtschaftungskosten
 
 (Fundstelle: BGBl. I 2019, 1840)
 
-Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung und Mietausfallwagnis in Prozent des Rohertrags des Grundstücks nach § 254
+Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung und Mietausfallwagnis in Prozent des Rohertrags des Grundstücks nach § 254 
 
 **Restnutzungsdauer****Grundstücksart****1****2****3****Ein- und
  Zweifamilienhäuser****Wohnungseigentum****Mietwohngrundstück**≥ 60 Jahre18232140 bis 59 Jahre21252320 bis 39 Jahre252927< 20 Jahre273129
 
-##### Anlage 41 (zu § 257 Absatz 2) Abzinsungsfaktoren
+###### Anlage 41 (zu § 257 Absatz 2) Abzinsungsfaktoren
 
 (Fundstelle: BGBl. I 2019, 1841 – 1846)
 
@@ -6256,7 +6259,7 @@ n = Restnutzungsdauer
 
 p = Zinsfuß
 
-##### Anlage 42 (zu § 259 Absatz 1) Normalherstellungskosten
+###### Anlage 42 (zu § 259 Absatz 1) Normalherstellungskosten
 
 (Fundstelle: BGBl. I 2019, 1847 – 1848)
 
@@ -6266,13 +6269,13 @@ p = Zinsfuß
 
 2. Nicht zur BGF gehören z. B. Flächen von Spitzböden und Kriechkellern, Flächen, die ausschließlich der Wartung, Inspektion und Instandsetzung von Baukonstruktionen und technischen Anlagen dienen, sowie Flächen unter konstruktiven Hohlräumen, z. B. über abgehängten Decken.
 
-**II.** **Normalherstellungskosten (NHK)** Normalherstellungskosten in Euro/m2 BGF auf der Grundlage der Normalherstellungskosten 2010 (NHK 2010), einschließlich Baunebenkosten und Umsatzsteuer für die jeweilige Gebäudeart (Kostenstand 2010) sowie eines pauschalen Zuschlages für bauliche Anlagen, insbesondere Außenanlagen, und sonstige Anlagen (3 %)
+**II.** **Normalherstellungskosten (NHK)** Normalherstellungskosten in Euro/m2 BGF auf der Grundlage der Normalherstellungskosten 2010 (NHK 2010), einschließlich Baunebenkosten und Umsatzsteuer für die jeweilige Gebäudeart (Kostenstand 2010) sowie eines pauschalen Zuschlages für bauliche Anlagen, insbesondere Außenanlagen, und sonstige Anlagen (3 %) 
 
 **Gebäudeart****Baujahrgruppe****vor 1995****1995 – 2004****ab 2005** 1Gemischt genutzte Grundstücke (Wohnhäuser mit Mischnutzung)  695  8861 118 2Banken und ähnliche Geschäftshäuser  736  9371 494 3Bürogebäude, Verwaltungsgebäude  8391 0711 736 4Gemeindezentren, Vereinsheime, Saalbauten, Veranstaltungsgebäude1 0041 2821 555 5Kindergärten (Kindertagesstätten), allgemeinbildende Schulen, berufsbildende Schulen, Hochschulen, Sonderschulen1 1641 4881 710 6Wohnheime, Internate, Alten-, Pflegeheime  8761 1181 370 7Krankenhäuser, Kliniken, Tageskliniken, Ärztehäuser1 3341 7052 075 8Beherbergungsstätten, Hotels, Verpflegungseinrichtungen1 1181 4271 859 9.1Sporthallen1 1331 4471 777 9.2Tennishallen  8141 0401 226 9.3Freizeitbäder, Kur- und Heilbäder1 9782 5243 07510.1Verbrauchermärkte  582  742  89610.2Kauf- und Warenhäuser1 0661 3601 63310.3Autohäuser ohne Werkstatt  757  9681 27711.1Betriebs- und Werkstätten eingeschossig oder mehrgeschossig ohne Hallenanteil; industrielle Produktionsgebäude, Massivbauweise  762  9731 20011.2Betriebs- und Werkstätten, mehrgeschossig, hoher Hallenanteil; industrielle Produktionsgebäude, überwiegend Skelettbauweise  536  680  94212.1Lagergebäude ohne Mischnutzung, Kaltlager  283  361  50512.2Lagergebäude mit bis zu 25 Prozent Mischnutzung  443  567  71112.3Lagergebäude mit mehr als 25 Prozent Mischnutzung  716  9171 12813Museen, Theater, Sakralbauten1 5141 8752 39514Reithallen, ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen und Ähnliches  26315Stallbauten  42216Hochgaragen, Tiefgaragen und Nutzfahrzeuggaragen  62317Einzelgaragen, Mehrfachgaragen  50018Carports und Ähnliches  196**19****Teileigentum**
  Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den vorstehenden Gebäudearten zuzuordnen.**20****Auffangklausel**
  Normalherstellungskosten für nicht aufgeführte Gebäudearten sind aus den Normalherstellungskosten vergleichbarer Gebäudearten abzuleiten.
 
-##### Anlage 43 (zu § 260) Wertzahlen für Teileigentum, Geschäftsgrundstücke, gemischt genutzte Grundstücke und sonstige bebaute Grundstücke nach § 249 Absatz 1 Nummer 5 bis 8
+###### Anlage 43 (zu § 260) Wertzahlen für Teileigentum, Geschäftsgrundstücke, gemischt genutzte Grundstücke und sonstige bebaute Grundstücke nach § 249 Absatz 1 Nummer 5 bis 8
 
 (Fundstelle: BGBl. I 2019, 1849)
 
@@ -6293,4 +6296,3 @@ bis500 000 EUR0,800,901,00
 3 000 000 EUR0,550,650,75
 
 über3 000 000 EUR0,500,600,70
-
