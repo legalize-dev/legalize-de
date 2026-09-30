@@ -4,18 +4,22 @@ identifier: "ERVV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2017-11-24"
-last_updated: "2026-04-04"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/ervv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR380300017"
 slug: "ervv"
 bgbl_reference: "BGBl I 2017, 3803"
-stand: "Zuletzt geändert durch Art. 6 G v. 22.12.2025 I Nr. 349"
+stand: "Zuletzt geändert durch Art. 2 G v. 22.6.2026 I Nr. 192"
 ---
 # Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund
 
@@ -41,15 +45,23 @@ verordnet die Bundesregierung:
 
 ## Kapitel 1 Allgemeine Vorschrift
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
-(1) Diese Verordnung gilt für die Übermittlung elektronischer Dokumente an die Gerichte der Länder und des Bundes sowie die Bearbeitung elektronischer Dokumente durch diese Gerichte nach § 130a der Zivilprozessordnung, § 46c des Arbeitsgerichtsgesetzes, § 65a des Sozialgerichtsgesetzes, § 55a der Verwaltungsgerichtsordnung und § 52a der Finanzgerichtsordnung. Sie gilt ferner nach Maßgabe des Kapitels 5 für die Übermittlung elektronischer Dokumente an Strafverfolgungsbehörden und Strafgerichte der Länder und des Bundes nach § 32a der Strafprozessordnung sowie die Bearbeitung elektronischer Dokumente.
+(1) Diese Verordnung gilt
+
+1. für die Übermittlung elektronischer Dokumente an die Gerichte der Länder und des Bundes nach § 130a der Zivilprozessordnung, § 46c des Arbeitsgerichtsgesetzes, § 65a des Sozialgerichtsgesetzes, § 55a der Verwaltungsgerichtsordnung und § 52a der Finanzgerichtsordnung sowie für die Eignung elektronischer Dokumente zur Bearbeitung durch die Gerichte,
+
+2. nach Maßgabe des Kapitels 5 für die Übermittlung elektronischer Dokumente an Strafverfolgungsbehörden und Strafgerichte der Länder und des Bundes nach § 32a der Strafprozessordnung sowie für die Eignung elektronischer Dokumente zur Bearbeitung durch Strafverfolgungsbehörden und Strafgerichte,
+
+3. nach Maßgabe des Kapitels 6 für die Übermittlung elektronischer Dokumente an die Notare nach den §§ 41a und 46 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit,
+
+*4.* *nach Maßgabe des Kapitels 7 für die Übermittlung elektronischer Dokumente an die Behörden und die Notare im Rahmen des elektronischen Notar-Verwaltungs-Austauschs.*
 
 (2) Besondere bundesrechtliche Vorschriften über die Übermittlung elektronischer Dokumente und strukturierter maschinenlesbarer Datensätze bleiben unberührt.
 
 ## Kapitel 2 Technische Rahmenbedingungen des elektronischen Rechtsverkehrs
 
-##### § 2 Anforderungen an elektronische Dokumente
+###### § 2 Anforderungen an elektronische Dokumente
 
 (1) Das elektronische Dokument ist im Dateiformat PDF zu übermitteln. Wenn bildliche Darstellungen im Dateiformat PDF nicht verlustfrei wiedergegeben werden können, darf das elektronische Dokument zusätzlich im Dateiformat TIFF übermittelt werden. Die Dateiformate PDF und TIFF sollen den nach § 5 Absatz 1 Nummer 1 bekanntgemachten Versionen entsprechen.
 
@@ -67,11 +79,11 @@ verordnet die Bundesregierung:
 
 5. sofern bekannt, das Aktenzeichen eines denselben Verfahrensgegenstand betreffenden Verfahrens und die Bezeichnung der die Akten führenden Stelle.
 
-##### § 3 Überschreitung der Höchstgrenzen
+###### § 3 Überschreitung der Höchstgrenzen
 
 Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten Höchstgrenzen für die Anzahl oder das Volumen elektronischer Dokumente nicht eingehalten werden können, kann die Übermittlung als Schriftsatz nach den allgemeinen Vorschriften erfolgen, möglichst unter Beifügung des Schriftsatzes und der Anlagen als elektronische Dokumente auf einem nach § 5 Absatz 1 Nummer 4 bekanntgemachten zulässigen physischen Datenträger.
 
-##### § 4 Übermittlung elektronischer Dokumente mit qualifizierter elektronischer Signatur
+###### § 4 Übermittlung elektronischer Dokumente mit qualifizierter elektronischer Signatur
 
 (1) Ein elektronisches Dokument, das mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen ist, darf wie folgt übermittelt werden:
 
@@ -81,7 +93,7 @@ Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten H�
 
 (2) Mehrere elektronische Dokumente dürfen nicht mit einer gemeinsamen qualifizierten elektronischen Signatur übermittelt werden.
 
-##### § 5 Bekanntmachung technischer Standards
+###### § 5 Bekanntmachung technischer Standards
 
 (1) Die Bundesregierung macht folgende technische Standards für an die Übermittlung und Eignung zur Bearbeitung elektronischer Dokumente im Bundesanzeiger und auf der Internetseite www.justiz.de bekannt:
 
@@ -101,7 +113,7 @@ Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten H�
 
 ## Kapitel 3 Besonderes elektronisches Behördenpostfach
 
-##### § 6 Besonderes elektronisches Behördenpostfach; Anforderungen
+###### § 6 Besonderes elektronisches Behördenpostfach; Anforderungen
 
 (1) Die Behörden sowie juristischen Personen des öffentlichen Rechts können zur Übermittlung elektronischer Dokumente auf einem sicheren Übermittlungsweg ein besonderes elektronisches Behördenpostfach verwenden,
 
@@ -123,7 +135,7 @@ Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten H�
 
 (3) Das Elektronische Gerichts- und Verwaltungspostfach eines Gerichts, einer Staatsanwaltschaft, einer Amtsanwaltschaft, einer Justizvollzugsanstalt oder einer Jugendarrestanstalt steht einem besonderen elektronischen Behördenpostfach gleich, soweit diese Stelle Aufgaben einer Behörde nach Absatz 1 wahrnimmt; § 7 findet keine Anwendung.
 
-##### § 7 Identifizierungsverfahren
+###### § 7 Identifizierungsverfahren
 
 (1) Die von den obersten Behörden des Bundes oder den Landesregierungen für ihren Bereich bestimmten öffentlich-rechtlichen Stellen prüfen die Identität der Behörden oder juristischen Personen des öffentlichen Rechts und bestätigen dies in einem sicheren elektronischen Verzeichnis. Die obersten Behörden des Bundes oder mehrere Landesregierungen können auch eine öffentlich-rechtliche Stelle gemeinsam für ihre Bereiche bestimmen.
 
@@ -133,7 +145,7 @@ Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten H�
 
 2. Name und Sitz des Postfachinhabers zutreffend bezeichnet sind.
 
-##### § 8 Zugang und Zugangsberechtigung; Verwaltung
+###### § 8 Zugang und Zugangsberechtigung; Verwaltung
 
 (1) Der Postfachinhaber bestimmt die natürlichen Personen, die Zugang zum besonderen elektronischen Behördenpostfach erhalten sollen, und stellt ihnen das Zertifikat und das Zertifikats-Passwort zur Verfügung.
 
@@ -145,7 +157,7 @@ Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten H�
 
 (5) Unbeschadet der Absätze 1, 3 und 4 kann die Verwaltung des besonderen elektronischen Behördenpostfachs behördenübergreifend automatisiert und an zentraler Stelle erfolgen.
 
-##### § 9 Änderung und Löschung
+###### § 9 Änderung und Löschung
 
 (1) Der Postfachinhaber hat Änderungen seines Namens oder Sitzes unverzüglich der nach § 7 Absatz 1 bestimmten Stelle anzuzeigen.
 
@@ -153,7 +165,7 @@ Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten H�
 
 ## Kapitel 4 Besonderes elektronisches Bürger- und Organisationenpostfach; Postfach- und Versanddienst eines Nutzerkontos
 
-##### § 10 Besonderes elektronisches Bürger- und Organisationenpostfach
+###### § 10 Besonderes elektronisches Bürger- und Organisationenpostfach
 
 (1) Natürliche Personen, juristische Personen sowie sonstige Vereinigungen können zur Übermittlung elektronischer Dokumente auf einem sicheren Übermittlungsweg ein besonderes elektronisches Bürger- und Organisationenpostfach verwenden,
 
@@ -177,7 +189,7 @@ Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten H�
 
 (3) Wird für eine rechtlich unselbständige Untergliederung einer juristischen Person oder sonstigen Vereinigung ein besonderes elektronisches Bürger- und Organisationenpostfach eingerichtet, so muss der Postfachinhaber so bezeichnet sein, dass eine Verwechslung mit der übergeordneten Organisationseinheit ausgeschlossen ist.
 
-##### § 11 Identifizierung und Authentisierung des Postfachinhabers
+###### § 11 Identifizierung und Authentisierung des Postfachinhabers
 
 (1) Die Länder oder mehrere Länder gemeinsam bestimmen jeweils für ihren Bereich eine öffentlich-rechtliche Stelle, die die Freischaltung eines besonderen elektronischen Bürger- und Organisationenpostfachs veranlasst.
 
@@ -203,13 +215,13 @@ Eine nach Satz 2 Nummer 5 angegebene geschäftliche Anschrift ist durch eine Bes
 
 3. ein nichtqualifiziertes Authentisierungszertifikat.
 
-##### § 12 Änderung von Angaben und Löschung des Postfachs
+###### § 12 Änderung von Angaben und Löschung des Postfachs
 
 (1) Bei Änderung seiner Daten hat der Postfachinhaber unverzüglich die Anpassung seines Postfachs bei der nach § 11 Absatz 1 bestimmten Stelle zu veranlassen. Das betrifft insbesondere die Änderung seines Namens oder seiner Anschrift, bei juristischen Personen oder sonstigen Vereinigungen auch bei der Änderung des Sitzes.
 
 (2) Der Postfachinhaber kann jederzeit die Löschung seines besonderen elektronischen Bürger- und Organisationenpostfachs veranlassen.
 
-##### § 13 Elektronische Kommunikation über den Postfach- und Versanddienst eines Nutzerkontos
+###### § 13 Elektronische Kommunikation über den Postfach- und Versanddienst eines Nutzerkontos
 
 (1) Zur Übermittlung elektronischer Dokumente auf einem sicheren Übermittlungsweg kann der Postfach- und Versanddienst eines Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes genutzt werden, wenn bei diesem Postfach- und Versanddienst
 
@@ -225,7 +237,7 @@ Eine nach Satz 2 Nummer 5 angegebene geschäftliche Anschrift ist durch eine Bes
 
 (3) Der Nutzer des Postfach- und Versanddienstes ist in ein sicheres elektronisches Verzeichnis einzutragen, soweit dies zum Betrieb des jeweiligen Postfach- und Versanddienstes erforderlich ist. In diesem Fall gilt § 10 Absatz 2 Nummer 1 und 2 entsprechend. Der Nutzer kann jederzeit die Löschung des Postfach- und Versanddienstes veranlassen.
 
-##### § 13a Datenverarbeitung
+###### § 13a Datenverarbeitung
 
 (1) Zur Auffindbarkeit und Adressierung eines Postfachinhabers dürfen folgende personenbezogene Daten im sicheren elektronischen Verzeichnis (§ 10 Absatz 1 Nummer 3 und § 13 Absatz 3 Satz 1) gespeichert und aus dem Verzeichnis abgerufen werden:
 
@@ -257,7 +269,7 @@ e) Verschlüsselungszertifikat.
 
 ## Kapitel 5 Elektronischer Rechtsverkehr mit Strafverfolgungsbehörden und Strafgerichten
 
-##### § 14 Schriftlich abzufassende, zu unterschreibende oder zu unterzeichnende Dokumente
+###### § 14 Schriftlich abzufassende, zu unterschreibende oder zu unterzeichnende Dokumente
 
 Die Kapitel 2 bis 4 gelten im Bereich des elektronischen Rechtsverkehrs mit Strafverfolgungsbehörden und Strafgerichten für schriftlich abzufassende, zu unterschreibende oder zu unterzeichnende Dokumente, die gemäß § 32a Absatz 3 der Strafprozessordnung elektronisch eingereicht werden, mit der Maßgabe, dass der Datensatz nach § 2 Absatz 3 mindestens folgende Angaben enthält:
 
@@ -271,13 +283,50 @@ Die Kapitel 2 bis 4 gelten im Bereich des elektronischen Rechtsverkehrs mit Stra
 
 5. sofern bekannt, das Aktenzeichen eines denselben Verfahrensgegenstand betreffenden Verfahrens und die Bezeichnung der die Akten führenden Stelle.
 
-##### § 15 Sonstige verfahrensbezogene elektronische Dokumente
+###### § 15 Sonstige verfahrensbezogene elektronische Dokumente
 
 (1) Sonstige verfahrensbezogene elektronische Dokumente, die an Strafverfolgungsbehörden oder Strafgerichte übermittelt werden, sollen den Anforderungen des § 2 entsprechen. Entsprechen sie diesen Anforderungen nicht und sind sie zur Bearbeitung durch die Behörde oder das Gericht aufgrund der dortigen technischen Ausstattung oder der dort einzuhaltenden Sicherheitsstandards nicht geeignet, so liegt ein wirksamer Eingang nicht vor. In der Mitteilung nach § 32a Absatz 6 Satz 1 der Strafprozessordnung ist auf die in § 2 geregelten technischen Rahmenbedingungen hinzuweisen.
 
 (2) Die Übermittlung kann auch auf anderen als den in § 32a Absatz 4 der Strafprozessordnung genannten Übermittlungswegen erfolgen, wenn ein solcher Übermittlungsweg für die Entgegennahme verfahrensbezogener elektronischer Dokumente generell und ausdrücklich eröffnet ist.
 
-##### Schlussformel
+###### Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
+## Kapitel 6 Elektronischer Rechtsverkehr zwischen Gerichten und Notaren zur Genehmigung notarieller Rechtsgeschäfte
+
+###### § 16 Übermittlung der Anträge an das Gericht
+
+(1) Das elektronische Dokument, mit dem ein Notar bei einem Gericht die Genehmigung eines Rechtsgeschäfts beantragt, ist als strukturierter maschinenlesbarer Datensatz im Dateiformat XML zu übermitteln, der den nach § 5 Absatz 1 Nummer 2 und 6 bekanntgemachten Definitions- oder Schemadateien und technischen Eigenschaften entspricht. Der Datensatz muss mindestens die folgenden Angaben enthalten:
+
+1. die Angaben nach § 2 Absatz 3,
+
+2. den Namen und den Amtssitz des Notars,
+
+3. die Urkundenverzeichnisnummer und das Datum der Urkunde und
+
+4. den Antrag auf Genehmigung.
+
+(2) Für die Übermittlung der Abschrift einer Urkunde durch den Notar an ein Gericht im Zusammenhang mit einem Antrag nach Absatz 1 gelten § 2 Absatz 1 und 2 sowie die §§ 3 bis 5 entsprechend.
+
+(3) Ist die Übermittlung der in den Absätzen 1 und 2 genannten Dokumente als elektronische Dokumente aus technischen Gründen vorübergehend nicht möglich, so sind sie in Papierform zu übermitteln. Auf Anforderung sind sie als elektronische Dokumente nachzureichen.
+
+###### § 17 Übermittlung der Genehmigungsbeschlüsse und Rechtskraftzeugnisse an den Notar
+
+(1) Für die als elektronische Dokumente übermittelten Genehmigungsbeschlüsse, Negativatteste und Rechtskraftzeugnisse nach den §§ 41a und 46 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit gelten die §§ 2 bis 5 mit der Maßgabe nach Absatz 2 entsprechend.
+
+(2) Der Datensatz nach § 2 Absatz 3 muss mindestens folgende Angaben enthalten:
+
+1. den Namen und den Amtssitz des Notars,
+
+2. die Urkundenverzeichnisnummer und das Datum der Urkunde,
+
+3. das ausstellende Gericht und die ausstellenden Personen,
+
+4. das Datum und das Aktenzeichen des Beschlusses,
+
+5. die Sachentscheidung und
+
+6. die Angabe, ob formelle Rechtskraft eingetreten ist.
+
+(3) Ist die Übermittlung der in Absatz 1 genannten Dokumente als elektronische Dokumente aus technischen Gründen vorübergehend nicht möglich, so sind sie in Papierform zu übermitteln. Auf Anforderung sind sie als elektronische Dokumente nachzureichen.
