@@ -4,25 +4,29 @@ identifier: "BIMSCHV-35"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2006-10-10"
-last_updated: "2026-04-04"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bimschv_35/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR221810006"
 slug: "bimschv_35"
 bgbl_reference: "BGBl I 2006, 2218"
 amtabk: "35. BImSchV"
-stand: "Zuletzt geändert durch Art. 85 V v. 31.8.2015 I 1474"
+stand: "Zuletzt geändert durch Art. 1 V v. 25.9.2026 I Nr. 278"
 ---
 # Fünfunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 
-##### § 1 Anwendungsbereich
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Anwendungsbereich
 
 (1) Diese Verordnung regelt Ausnahmen von Verkehrsverboten nach § 40 Abs. 1 des Bundes-Immissionsschutzgesetzes und die Zuordnung von Kraftfahrzeugen zu Schadstoffgruppen und bestimmt Anforderungen, welche bei einer Kennzeichnung von Fahrzeugen zu erfüllen sind. Die Verordnung gilt für Kraftfahrzeuge der Klassen M und N gemäß Anhang II A Nr. 1 und Nr. 2 der Richtlinie 70/156/EWG des Rates vom 6. Februar 1970 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Betriebserlaubnis für Kraftfahrzeuge und Kraftfahrzeuganhänger (ABl. EG Nr. L 42 S. 1), die zuletzt durch die Richtlinie 2005/64/EG des Europäischen Parlaments und des Rates vom 26. Oktober 2005 (ABl. EU Nr. L 310 S. 10) geändert worden ist.
 
 (2) Die zuständige Behörde, in unaufschiebbaren Fällen auch die Polizei, kann den Verkehr mit von Verkehrsverboten im Sinne des § 40 Abs. 1 des Bundes-Immissionsschutzgesetzes betroffenen Fahrzeugen von und zu bestimmten Einrichtungen zulassen, soweit dies im öffentlichen Interesse liegt, insbesondere wenn dies zur Versorgung der Bevölkerung mit lebensnotwendigen Gütern und Dienstleistungen notwendig ist, oder überwiegende und unaufschiebbare Interessen Einzelner dies erfordern, insbesondere wenn Fertigungs- und Produktionsprozesse auf andere Weise nicht aufrechterhalten werden können.
 
-##### § 2 Zuordnung von Kraftfahrzeugen zu Schadstoffgruppen
+###### § 2 Zuordnung von Kraftfahrzeugen zu Schadstoffgruppen
 
 (1) Kraftfahrzeuge, die mit einer Plakette nach Anhang 1 gekennzeichnet sind, sind von einem Verkehrsverbot im Sinne des § 40 Abs. 1 des Bundes-Immissionsschutzgesetzes befreit, soweit ein darauf bezogenes Verkehrszeichen dies vorsieht.
 
@@ -30,17 +34,17 @@ stand: "Zuletzt geändert durch Art. 85 V v. 31.8.2015 I 1474"
 
 (3) Kraftfahrzeuge, die in Anhang 3 aufgeführt sind, sind von Verkehrsverboten nach § 40 Abs. 1 des Bundes-Immissionsschutzgesetzes auch dann ausgenommen, wenn sie nicht gemäß Absatz 1 mit einer Plakette gekennzeichnet sind.
 
-##### § 3 Kennzeichnung
+###### § 3 Kennzeichnung
 
 (1) Zur Kennzeichnung der Kraftfahrzeuge nach den Schadstoffgruppen 2 bis 4 sind nicht wiederverwendbare lichtechte und fälschungserschwerende Plaketten nach dem Muster des Anhangs 1 zu verwenden. Die Kennzeichnung der Schadstoffgruppe erfolgt durch die auf der Plakette angegebene Nummer der Schadstoffgruppe und entsprechende Farbgestaltung. Die Farbe der Plakette ist für Kraftfahrzeuge der Schadstoffgruppe 2 rot, für Fahrzeuge der Schadstoffgruppe 3 gelb und für Kraftfahrzeuge der Schadstoffgruppe 4 grün.
 
 (2) In die Plakette ist von der zuständigen Ausgabestelle im dafür vorgesehenen Schriftfeld mit lichtechtem Stift das Kennzeichen des jeweiligen Fahrzeuges einzutragen. Zur Kennzeichnung eines Kraftfahrzeuges ist die Plakette deutlich sichtbar auf der Innenseite der Windschutzscheibe anzubringen. Die Plakette muss so beschaffen und angebracht sein, dass sie sich beim Ablösen von der Windschutzscheibe selbst zerstört.
 
-##### § 4 Ausgabe der Plaketten
+###### § 4 Ausgabe der Plaketten
 
 Ausgabestellen für die Plaketten sind die Zulassungsbehörden oder die nach Landesrecht sonst zuständigen Stellen sowie die nach § 47a Abs. 2 der Straßenverkehrs-Zulassungs-Ordnung für die Durchführung von Abgasuntersuchungen anerkannten Stellen. Dies gilt auch für Kraftfahrzeuge im Sinne des § 1 der Verordnung über internationalen Kraftfahrzeugverkehr in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9232-4, veröffentlichten bereinigten Fassung, die zuletzt durch Artikel 10 der Verordnung vom 25. April 2006 (BGBl. I S. 988) geändert worden ist.
 
-##### § 5 Nachweis der Schadstoffgruppe für im Inland zugelassene Fahrzeuge
+###### § 5 Nachweis der Schadstoffgruppe für im Inland zugelassene Fahrzeuge
 
 (1) Die Zuordnung eines Kraftfahrzeuges zu einer Schadstoffgruppe wird nachgewiesen
 
@@ -50,7 +54,7 @@ Ausgabestellen für die Plaketten sind die Zulassungsbehörden oder die nach Lan
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die Zuordnung der in den Fahrzeugpapieren eingetragenen Emissionsschlüsselnummern zu den einzelnen Schadstoffgruppen im Verkehrsblatt bekannt.
 
-##### § 6 Nachweis der Schadstoffgruppe für im Ausland zugelassene Fahrzeuge
+###### § 6 Nachweis der Schadstoffgruppe für im Ausland zugelassene Fahrzeuge
 
 (1) Bei Fahrzeugen, die im Ausland zugelassen sind und die unter die Regelungen des Autobahnmautgesetzes für schwere Nutzfahrzeuge in der Fassung der Bekanntmachung vom 2. Dezember 2004 (BGBl. I S. 3122) fallen, kann die Zuordnung zu einer Schadstoffgruppe durch Nachweise nach den §§ 8 und 9 der LKW-Maut-Verordnung vom 24. Juni 2003 (BGBl. I S. 1003) nachgewiesen werden.
 
@@ -108,11 +112,11 @@ e) wenn sie in den Anwendungsbereich der Richtlinie 70/220/EWG oder der Richtlin
 
 3. sie in den Anwendungsbereich der Richtlinie 70/220/EWG oder der Richtlinie 2005/55/EG in der jeweils zuletzt geänderten, im Amtsblatt der Europäischen Union veröffentlichten Fassung fallen.
 
-##### Anhang 1 Plakettenmuster (zu § 2 Abs. 1 und § 3 Abs. 1)
+###### Anhang 1 Plakettenmuster (zu § 2 Abs. 1 und § 3 Abs. 1)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 2220)
 
-Schadstoffgruppe
+ Schadstoffgruppe
 2Schadstoffgruppe
 3Schadstoffgruppe
 4Plaketten-Durchmesser: 80 mm, schwarz umrandet, Strichdicke der Umrandung 1,5 mm
@@ -124,7 +128,7 @@ Schriftfeld: 60 x 20 mm
 Schrift: schwarz RAL 9005, mit lichtechtem Stift(nicht darstellbare Plakette)(nicht darstellbare Plakette)(nicht darstellbare Plakette)Plakettenfarbe:verkehrsrot RAL 3020, lichtechtverkehrsgelb RAL 1023, lichtechtverkehrsgrün RAL 6024, lichtechtSchriftfeld:reinweiß RAL 9010, schwarz umrandetreinweiß RAL 9010, schwarz umrandetreinweiß RAL 9010, schwarz umrandetDie Ziffer der Schadstoffgruppe ist nach dem Schriftmuster der Anlage V Seite 3 der Straßenverkehrs-Zulassungs-Ordnung darzustellen.
 Die Farbtöne des Untergrundes, des Randes und der Beschriftung sind dem Farbregister RAL 840-HR, herausgegeben vom RAL Deutsches Institut für Gütesicherung und Kennzeichnung e.V., Siegburger Str. 39, 53757 St. Augustin, zu entnehmen.
 
-##### Anhang 2 Zuordnung der Kraftfahrzeuge zu den Schadstoffgruppen (zu § 2 Abs. 2)
+###### Anhang 2 Zuordnung der Kraftfahrzeuge zu den Schadstoffgruppen (zu § 2 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 2221 - 2224;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -261,10 +265,10 @@ p) in den Anwendungsbereich der Richtlinie 70/220/EWG oder der Richtlinie 2005/5
 
 (3) Kraftfahrzeuge mit Antrieb ohne Verbrennungsmotor (z. B. Elektromotor, Brennstoffzellenfahrzeuge) werden der Schadstoffgruppe 4 zugeordnet.
 
-##### Anhang 3 Ausnahmen von der Kennzeichnungspflicht nach § 2 Abs. 1 (zu § 2 Abs. 3)
+###### Anhang 3 Ausnahmen von der Kennzeichnungspflicht nach § 2 Abs. 1 (zu § 2 Abs. 3)
 
-Fundstelle des Originaltextes: BGBl. I 2006, 2225;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 2006, 2225;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Folgende Kraftfahrzeuge sind von Verkehrsverboten nach § 40 Abs. 1 des Bundes-Immissionsschutzgesetzes auch dann ausgenommen, wenn sie nicht gemäß § 2 Abs. 1 mit einer Plakette gekennzeichnet sind:
 
@@ -286,5 +290,6 @@ Folgende Kraftfahrzeuge sind von Verkehrsverboten nach § 40 Abs. 1 des Bundes-I
 
 9. zivile Kraftfahrzeuge, die im Auftrag der Bundeswehr genutzt werden, soweit es sich um unaufschiebbare Fahrten zur Erfüllung hoheitlicher Aufgaben der Bundeswehr handelt,
 
-10. Oldtimer (gemäß § 2 Nr. 22 der Fahrzeug-Zulassungsverordnung), die ein Kennzeichen nach § 9 Abs. 1 oder § 17 der Fahrzeug-Zulassungsverordnung führen, sowie Fahrzeuge, die in einem anderen Mitgliedstaat der Europäischen Union, einer anderen Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum oder der Türkei zugelassen sind, wenn sie gleichwertige Anforderungen erfüllen.
+10. Oldtimer (gemäß § 2 Nr. 22 der Fahrzeug-Zulassungsverordnung), die ein Kennzeichen nach § 9 Abs. 1 oder § 17 der Fahrzeug-Zulassungsverordnung führen, sowie Fahrzeuge, die in einem anderen Mitgliedstaat der Europäischen Union, einer anderen Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum oder der Türkei zugelassen sind, wenn sie gleichwertige Anforderungen erfüllen,
 
+11. Kraftfahrzeuge mit einer Kennzeichnung für elektrisch betriebene Fahrzeuge nach § 11 der Fahrzeug-Zulassungsverordnung.
