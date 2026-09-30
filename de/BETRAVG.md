@@ -4,19 +4,22 @@ identifier: "BETRAVG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1974-12-19"
-last_updated: "2026-04-04"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/betravg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR036100974"
 slug: "betravg"
 bgbl_reference: "BGBl I 1974, 3610"
-stand: "Zuletzt geändert durch Art. 14 G v. 20.12.2022 I 2759"
-hinweis: "Änderung durch Art. 1 G v. 16.1.2026 I Nr. 14 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Zuletzt geändert durch Art. 9 Abs. 2 G v. 25.9.2026 I Nr. 275"
 ---
 # Gesetz zur Verbesserung der betrieblichen Altersversorgung
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
@@ -25,7 +28,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 ## Erster Abschnitt Durchführung der betrieblichen
 Altersversorgung
 
-##### § 1 Zusage des Arbeitgebers auf betriebliche Altersversorgung
+###### § 1 Zusage des Arbeitgebers auf betriebliche Altersversorgung
 
 (1) Werden einem Arbeitnehmer Leistungen der Alters-, Invaliditäts- oder Hinterbliebenenversorgung aus Anlass seines Arbeitsverhältnisses vom Arbeitgeber zugesagt (betriebliche Altersversorgung), gelten die Vorschriften dieses Gesetzes. Die Durchführung der betrieblichen Altersversorgung kann unmittelbar über den Arbeitgeber oder über einen der in § 1b Abs. 2 bis 4 genannten Versorgungsträger erfolgen. Der Arbeitgeber steht für die Erfüllung der von ihm zugesagten Leistungen auch dann ein, wenn die Durchführung nicht unmittelbar über ihn erfolgt.
 
@@ -41,7 +44,7 @@ Altersversorgung
 
 4. der Arbeitnehmer Beiträge aus seinem Arbeitsentgelt zur Finanzierung von Leistungen der betrieblichen Altersversorgung an einen Pensionsfonds, eine Pensionskasse oder eine Direktversicherung leistet und die Zusage des Arbeitgebers auch die Leistungen aus diesen Beiträgen umfasst; die Regelungen für Entgeltumwandlung sind hierbei entsprechend anzuwenden, soweit die zugesagten Leistungen aus diesen Beiträgen im Wege der Kapitaldeckung finanziert werden.
 
-##### § 1a Anspruch auf betriebliche Altersversorgung durch Entgeltumwandlung
+###### § 1a Anspruch auf betriebliche Altersversorgung durch Entgeltumwandlung
 
 (1) Der Arbeitnehmer kann vom Arbeitgeber verlangen, dass von seinen künftigen Entgeltansprüchen bis zu 4 vom Hundert der jeweiligen Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung durch Entgeltumwandlung für seine betriebliche Altersversorgung verwendet werden. Die Durchführung des Anspruchs des Arbeitnehmers wird durch Vereinbarung geregelt. Ist der Arbeitgeber zu einer Durchführung über einen Pensionsfonds oder eine Pensionskasse (§ 1b Abs. 3) oder über eine Versorgungseinrichtung nach § 22 bereit, ist die betriebliche Altersversorgung dort durchzuführen; andernfalls kann der Arbeitnehmer verlangen, dass der Arbeitgeber für ihn eine Direktversicherung (§ 1b Abs. 2) abschließt. Soweit der Anspruch geltend gemacht wird, muss der Arbeitnehmer jährlich einen Betrag in Höhe von mindestens einem Hundertsechzigstel der Bezugsgröße nach § 18 Abs. 1 des Vierten Buches Sozialgesetzbuch für seine betriebliche Altersversorgung verwenden. Soweit der Arbeitnehmer Teile seines regelmäßigen Entgelts für betriebliche Altersversorgung verwendet, kann der Arbeitgeber verlangen, dass während eines laufenden Kalenderjahres gleich bleibende monatliche Beträge verwendet werden.
 
@@ -53,7 +56,7 @@ Altersversorgung
 
 (4) Falls der Arbeitnehmer bei fortbestehendem Arbeitsverhältnis kein Entgelt erhält, hat er das Recht, die Versicherung oder Versorgung mit eigenen Beiträgen fortzusetzen. Der Arbeitgeber steht auch für die Leistungen aus diesen Beiträgen ein. Die Regelungen über Entgeltumwandlung gelten entsprechend.
 
-##### § 1b Unverfallbarkeit und Durchführung der betrieblichen Altersversorgung
+###### § 1b Unverfallbarkeit und Durchführung der betrieblichen Altersversorgung
 
 (1) Einem Arbeitnehmer, dem Leistungen aus der betrieblichen Altersversorgung zugesagt worden sind, bleibt die Anwartschaft erhalten, wenn das Arbeitsverhältnis vor Eintritt des Versorgungsfalls, jedoch nach Vollendung des 21. Lebensjahres endet und die Versorgungszusage zu diesem Zeitpunkt mindestens drei Jahre bestanden hat (unverfallbare Anwartschaft). Ein Arbeitnehmer behält seine Anwartschaft auch dann, wenn er aufgrund einer Vorruhestandsregelung ausscheidet und ohne das vorherige Ausscheiden die Wartezeit und die sonstigen Voraussetzungen für den Bezug von Leistungen der betrieblichen Altersversorgung hätte erfüllen können. Eine Änderung der Versorgungszusage oder ihre Übernahme durch eine andere Person unterbricht nicht den Ablauf der Fristen nach Satz 1. Der Verpflichtung aus einer Versorgungszusage stehen Versorgungsverpflichtungen gleich, die auf betrieblicher Übung oder dem Grundsatz der Gleichbehandlung beruhen. Der Ablauf einer vorgesehenen Wartezeit wird durch die Beendigung des Arbeitsverhältnisses nach Erfüllung der Voraussetzungen der Sätze 1 und 2 nicht berührt. Wechselt ein Arbeitnehmer vom Geltungsbereich dieses Gesetzes in einen anderen Mitgliedstaat der Europäischen Union, bleibt die Anwartschaft in gleichem Umfange wie für Personen erhalten, die auch nach Beendigung eines Arbeitsverhältnisses innerhalb des Geltungsbereichs dieses Gesetzes verbleiben.
 
@@ -73,7 +76,7 @@ Altersversorgung
 
 Im Fall einer Direktversicherung ist dem Arbeitnehmer darüber hinaus mit Beginn der Entgeltumwandlung ein unwiderrufliches Bezugsrecht einzuräumen.
 
-##### § 2 Höhe der unverfallbaren Anwartschaft
+###### § 2 Höhe der unverfallbaren Anwartschaft
 
 (1) Bei Eintritt des Versorgungsfalles wegen Erreichens der Altersgrenze, wegen Invalidität oder Tod haben ein vorher ausgeschiedener Arbeitnehmer, dessen Anwartschaft nach § 1b fortbesteht, und seine Hinterbliebenen einen Anspruch mindestens in Höhe des Teiles der ohne das vorherige Ausscheiden zustehenden Leistung, der dem Verhältnis der Dauer der Betriebszugehörigkeit zu der Zeit vom Beginn der Betriebszugehörigkeit bis zum Erreichen der Regelaltersgrenze in der gesetzlichen Rentenversicherung entspricht; an die Stelle des Erreichens der Regelaltersgrenze tritt ein früherer Zeitpunkt, wenn dieser in der Versorgungsregelung als feste Altersgrenze vorgesehen ist, spätestens der Zeitpunkt der Vollendung des 65. Lebensjahres, falls der Arbeitnehmer ausscheidet und gleichzeitig eine Altersrente aus der gesetzlichen Rentenversicherung für besonders langjährig Versicherte in Anspruch nimmt. Der Mindestanspruch auf Leistungen wegen Invalidität oder Tod vor Erreichen der Altersgrenze ist jedoch nicht höher als der Betrag, den der Arbeitnehmer oder seine Hinterbliebenen erhalten hätten, wenn im Zeitpunkt des Ausscheidens der Versorgungsfall eingetreten wäre und die sonstigen Leistungsvoraussetzungen erfüllt gewesen wären.
 
@@ -103,7 +106,7 @@ Absatz 2 Satz 3 bis 7 gilt entsprechend.
 
 (6) An die Stelle der Ansprüche nach den Absätzen 2, 3, 3a und 5 tritt bei einer Beitragszusage mit Mindestleistung das dem Arbeitnehmer planmäßig zuzurechnende Versorgungskapital auf der Grundlage der bis zu seinem Ausscheiden geleisteten Beiträge (Beiträge und die bis zum Eintritt des Versorgungsfalls erzielten Erträge), mindestens die Summe der bis dahin zugesagten Beiträge, soweit sie nicht rechnungsmäßig für einen biometrischen Risikoausgleich verbraucht wurden.
 
-##### § 2a Berechnung und Wahrung des Teilanspruchs
+###### § 2a Berechnung und Wahrung des Teilanspruchs
 
 (1) Bei der Berechnung des Teilanspruchs eines mit unverfallbarer Anwartschaft ausgeschiedenen Arbeitnehmers nach § 2 sind die Versorgungsregelung und die Bemessungsgrundlagen im Zeitpunkt des Ausscheidens zugrunde zu legen; Veränderungen, die nach dem Ausscheiden eintreten, bleiben außer Betracht.
 
@@ -131,7 +134,7 @@ d) entsprechend dem Verbraucherpreisindex für Deutschland.
 
 (4) Versorgungsanwartschaften, die der Arbeitnehmer nach seinem Ausscheiden erwirbt, dürfen nicht zu einer Kürzung des Teilanspruchs führen.
 
-##### § 3 Abfindung
+###### § 3 Abfindung
 
 (1) Unverfallbare Anwartschaften im Falle der Beendigung des Arbeitsverhältnisses und laufende Leistungen dürfen nur unter den Voraussetzungen der folgenden Absätze abgefunden werden.
 
@@ -149,7 +152,7 @@ d) entsprechend dem Verbraucherpreisindex für Deutschland.
 
 (7) Mit der Genehmigung des Beschlusses zur Auflösung einer Pensionskasse nach § 199 Absatz 2 Satz 1 des Versicherungsaufsichtsgesetzes und der Auszahlung des gebildeten Kapitals an den Versorgungsberechtigten gilt die Anwartschaft oder laufende Leistung in dem Umfang, wie sie von der Pensionskasse durchgeführt worden ist, als abgefunden.
 
-##### § 4 Übertragung
+###### § 4 Übertragung
 
 (1) Unverfallbare Anwartschaften und laufende Leistungen dürfen nur unter den Voraussetzungen der folgenden Absätze übertragen werden.
 
@@ -173,7 +176,7 @@ Der Anspruch richtet sich gegen den Versorgungsträger, wenn die versicherungsf�
 
 (6) Mit der vollständigen Übertragung des Übertragungswerts erlischt die Zusage des ehemaligen Arbeitgebers.
 
-##### § 4a Auskunftspflichten
+###### § 4a Auskunftspflichten
 
 (1) Der Arbeitgeber oder der Versorgungsträger hat dem Arbeitnehmer auf dessen Verlangen mitzuteilen,
 
@@ -193,7 +196,7 @@ Der Anspruch richtet sich gegen den Versorgungsträger, wenn die versicherungsf�
 
 ## Zweiter Abschnitt Auszehrungsverbot
 
-##### § 5 Auszehrung und Anrechnung
+###### § 5 Auszehrung und Anrechnung
 
 (1) Die bei Eintritt des Versorgungsfalls festgesetzten Leistungen der betrieblichen Altersversorgung dürfen nicht mehr dadurch gemindert oder entzogen werden, daß Beträge, um die sich andere Versorgungsbezüge nach diesem Zeitpunkt durch Anpassung an die wirtschaftliche Entwicklung erhöhen, angerechnet oder bei der Begrenzung der Gesamtversorgung auf einen Höchstbetrag berücksichtigt werden.
 
@@ -201,13 +204,13 @@ Der Anspruch richtet sich gegen den Versorgungsträger, wenn die versicherungsf�
 
 ## Dritter Abschnitt Altersgrenze
 
-##### § 6 Vorzeitige Altersleistung
+###### § 6 Vorzeitige Altersleistung
 
 Einem Arbeitnehmer, der die Altersrente aus der gesetzlichen Rentenversicherung als Vollrente in Anspruch nimmt, sind auf sein Verlangen nach Erfüllung der Wartezeit und sonstiger Leistungsvoraussetzungen Leistungen der betrieblichen Altersversorgung zu gewähren. Wird die Altersrente aus der gesetzlichen Rentenversicherung auf einen Teilbetrag beschränkt, können die Leistungen der betrieblichen Altersversorgung eingestellt werden. Der ausgeschiedene Arbeitnehmer ist verpflichtet, eine Beschränkung der Altersrente aus der gesetzlichen Rentenversicherung dem Arbeitgeber oder sonstigen Versorgungsträger unverzüglich anzuzeigen.
 
 ## Vierter Abschnitt Insolvenzsicherung
 
-##### § 7 Umfang des Versicherungsschutzes
+###### § 7 Umfang des Versicherungsschutzes
 
 (1) Versorgungsempfänger, deren Ansprüche aus einer unmittelbaren Versorgungszusage des Arbeitgebers nicht erfüllt werden, weil über das Vermögen des Arbeitgebers oder über seinen Nachlaß das Insolvenzverfahren eröffnet worden ist, und ihre Hinterbliebenen haben gegen den Träger der Insolvenzsicherung einen Anspruch in Höhe der Leistung, die der Arbeitgeber aufgrund der Versorgungszusage zu erbringen hätte, wenn das Insolvenzverfahren nicht eröffnet worden wäre. Satz 1 gilt entsprechend,
 
@@ -259,17 +262,17 @@ Die Betriebszugehörigkeit wird bis zum Eintritt des Sicherungsfalls berücksich
 
 (6) Ist der Sicherungsfall durch kriegerische Ereignisse, innere Unruhen, Naturkatastrophen oder Kernenergie verursacht worden, kann der Träger der Insolvenzsicherung mit Zustimmung der Bundesanstalt für Finanzdienstleistungsaufsicht die Leistungen nach billigem Ermessen abweichend von den Absätzen 1 bis 5 festsetzen.
 
-##### § 8 Übertragung der Leistungspflicht
+###### § 8 Übertragung der Leistungspflicht
 
 (1) Ein Anspruch gegen den Träger der Insolvenzsicherung auf Leistungen nach § 7 besteht nicht, wenn ein Unternehmen der Lebensversicherung sich dem Träger der Insolvenzsicherung gegenüber verpflichtet, diese Leistungen zu erbringen, und die nach § 7 Berechtigten ein unmittelbares Recht erwerben, die Leistungen zu fordern.
 
 (2) An die Stelle des Anspruchs gegen den Träger der Insolvenzsicherung nach § 7 tritt auf Verlangen des Berechtigten die Versicherungsleistung aus einer auf sein Leben abgeschlossenen Rückdeckungsversicherung, wenn die Versorgungszusage auf die Leistungen der Rückdeckungsversicherung verweist. Das Wahlrecht des Berechtigten nach Satz 1 besteht nicht, sofern die Rückdeckungsversicherung in die Insolvenzmasse des Arbeitgebers fällt oder die Aufsichtsbehörde das Vermögen nach § 9 Absatz 3a oder 3b nicht auf den Träger der Insolvenzsicherung überträgt. Der Berechtigte hat das Recht, als Versicherungsnehmer in die Versicherung einzutreten und die Versicherung mit eigenen Beiträgen fortzusetzen; § 1b Absatz 5 Satz 1 Nummer 1 und § 2 Absatz 2 Satz 4 bis 6 gelten entsprechend. Der Träger der Insolvenzsicherung informiert den Berechtigten über sein Wahlrecht nach Satz 1 und über die damit verbundenen Folgen für den Insolvenzschutz. Das Wahlrecht erlischt sechs Monate nach Information durch den Träger der Insolvenzsicherung. Der Versicherer informiert den Träger der Insolvenzsicherung unverzüglich über den Versicherungsnehmerwechsel.
 
-##### § 8a Abfindung durch den Träger der Insolvenzsicherung
+###### § 8a Abfindung durch den Träger der Insolvenzsicherung
 
 Der Träger der Insolvenzsicherung kann eine Anwartschaft ohne Zustimmung des Arbeitnehmers abfinden, wenn der Monatsbetrag der aus der Anwartschaft resultierenden laufenden Leistung bei Erreichen der vorgesehenen Altersgrenze 1 vom Hundert, bei Kapitalleistungen zwölf Zehntel der monatlichen Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch nicht übersteigen würde oder wenn dem Arbeitnehmer die Beiträge zur gesetzlichen Rentenversicherung erstattet worden sind. Dies gilt entsprechend für die Abfindung einer laufenden Leistung. Die Abfindung ist darüber hinaus möglich, wenn sie an ein Unternehmen der Lebensversicherung gezahlt wird, bei dem der Versorgungsberechtigte im Rahmen einer Direktversicherung versichert ist. § 2 Abs. 2 Satz 4 bis 6 und § 3 Abs. 5 gelten entsprechend.
 
-##### § 9 Mitteilungspflicht, Forderungs- und Vermögensübergang
+###### § 9 Mitteilungspflicht, Forderungs- und Vermögensübergang
 
 (1) Der Träger der Insolvenzsicherung teilt dem Berechtigten die ihm nach § 7 oder § 8 zustehenden Ansprüche oder Anwartschaften schriftlich mit; mit Einwilligung des Berechtigten kann die Mitteilung über ein vom Träger der Insolvenzsicherung bereitgestelltes technisches Verfahren erfolgen. Unterbleibt die Mitteilung, so ist der Anspruch oder die Anwartschaft spätestens ein Jahr nach dem Sicherungsfall bei dem Träger der Insolvenzsicherung anzumelden; erfolgt die Anmeldung später, so beginnen die Leistungen frühestens mit dem Ersten des Monats der Anmeldung, es sei denn, daß der Berechtigte an der rechtzeitigen Anmeldung ohne sein Verschulden verhindert war.
 
@@ -285,7 +288,7 @@ Der Träger der Insolvenzsicherung kann eine Anwartschaft ohne Zustimmung des Ar
 
 (5) Dem Träger der Insolvenzsicherung steht gegen den Beschluß, durch den das Insolvenzverfahren eröffnet wird, die sofortige Beschwerde zu.
 
-##### § 10 Beitragspflicht und Beitragsbemessung; Beitragsbescheid
+###### § 10 Beitragspflicht und Beitragsbemessung; Beitragsbescheid
 
 (1) Die Mittel für die Durchführung der Insolvenzsicherung werden auf Grund öffentlich-rechtlicher Verpflichtung durch Beiträge aller Arbeitgeber aufgebracht, die Leistungen der betrieblichen Altersversorgung unmittelbar zugesagt haben, eine betriebliche Altersversorgung über eine Unterstützungskasse, eine Direktversicherung der in § 7 Abs. 1 Satz 2 und Absatz 2 Satz 1 Nr. 2 bezeichneten Art, einen Pensionsfonds oder eine Pensionskasse nach § 7 Absatz 1 Satz 2 Nummer 3 durchführen. Der Versorgungsträger kann die Beiträge für den Arbeitgeber übernehmen.
 
@@ -309,7 +312,7 @@ b) für lebenslang laufende Versorgungsleistungen 20 Prozent des nach Anlage 1 S
 
 (5) Der Träger der Insolvenzsicherung kann seine Beitragsbescheide vollständig durch automatische Einrichtungen erlassen, sofern weder ein Ermessen noch ein Beurteilungsspielraum besteht.
 
-##### § 10a Säumniszuschläge, Zinsen, Verjährung
+###### § 10a Säumniszuschläge, Zinsen, Verjährung
 
 (1) Für Beiträge, die wegen Verstoßes des Arbeitgebers gegen die Meldepflicht erst nach Fälligkeit erhoben werden, kann der Träger der Insolvenzsicherung für jeden angefangenen Monat vom Zeitpunkt der Fälligkeit an einen Säumniszuschlag in Höhe von bis zu eins vom Hundert der nacherhobenen Beiträge erheben.
 
@@ -319,7 +322,7 @@ b) für lebenslang laufende Versorgungsleistungen 20 Prozent des nach Anlage 1 S
 
 (4) Ansprüche auf Zahlung der Beiträge zur Insolvenzsicherung gemäß § 10 sowie Erstattungsansprüche nach Zahlung nicht geschuldeter Beiträge zur Insolvenzsicherung verjähren in sechs Jahren. Die Verjährungsfrist beginnt mit Ablauf des Kalenderjahres, in dem die Beitragspflicht entstanden oder der Erstattungsanspruch fällig geworden ist. Auf die Verjährung sind die Vorschriften des Bürgerlichen Gesetzbuchs anzuwenden.
 
-##### § 11 Melde-, Auskunfts- und Mitteilungspflichten
+###### § 11 Melde-, Auskunfts- und Mitteilungspflichten
 
 (1) Der Arbeitgeber hat dem Träger der Insolvenzsicherung eine betriebliche Altersversorgung nach § 1b Abs. 1 bis 4 für seine Arbeitnehmer innerhalb von 3 Monaten nach Erteilung der unmittelbaren Versorgungszusage, dem Abschluß einer Direktversicherung, der Errichtung einer Unterstützungskasse, eines Pensionsfonds oder einer Pensionskasse nach § 7 Absatz 1 Satz 2 Nummer 3 mitzuteilen. Der Arbeitgeber, der sonstige Träger der Versorgung, der Insolvenzverwalter und die nach § 7 Berechtigten sind verpflichtet, dem Träger der Insolvenzsicherung alle Auskünfte zu erteilen, die zur Durchführung der Vorschriften dieses Abschnitts erforderlich sind, sowie Unterlagen vorzulegen, aus denen die erforderlichen Angaben ersichtlich sind. Enthält die Auskunft des Arbeitgebers nach Satz 2 keine oder eine unrichtige Betriebsnummer, kann der Träger der Insolvenzsicherung diese von der Bundesagentur für Arbeit anfordern und verarbeiten, soweit dies für die Erfüllung seiner Aufgaben nach diesem Abschnitt erforderlich ist. Reichen die von dem nach § 7 Berechtigten vorgelegten Unterlagen für die Feststellung der Leistungen nicht aus, kann der Träger der Insolvenzsicherung die zur Feststellung der Leistungen erforderlichen Daten von den Trägern der gesetzlichen Rentenversicherung anfordern und verarbeiten, soweit dies für die Erfüllung seiner Aufgaben nach diesem Abschnitt erforderlich ist.
 
@@ -339,7 +342,7 @@ b) für lebenslang laufende Versorgungsleistungen 20 Prozent des nach Anlage 1 S
 
 (8) Zur Sicherung der vollständigen Erfassung der nach § 10 beitragspflichtigen Arbeitgeber können die Finanzämter dem Träger der Insolvenzsicherung mitteilen, welche Arbeitgeber für die Beitragspflicht in Betracht kommen. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zu bestimmen und Einzelheiten des Verfahrens zu regeln.
 
-##### § 12 Ordnungswidrigkeiten
+###### § 12 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -353,11 +356,11 @@ b) für lebenslang laufende Versorgungsleistungen 20 Prozent des nach Anlage 1 S
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt für Finanzdienstleistungsaufsicht.
 
-##### § 13
+###### § 13
 
 (weggefallen)
 
-##### § 14 Träger der Insolvenzsicherung
+###### § 14 Träger der Insolvenzsicherung
 
 (1) Träger der Insolvenzsicherung ist der Pensions-Sicherungs-Verein Versicherungsverein auf Gegenseitigkeit. Er ist zugleich Träger der Insolvenzsicherung von Versorgungszusagen Luxemburger Unternehmen nach Maßgabe des Abkommens vom 22. September 2000 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über Zusammenarbeit im Bereich der Insolvenzsicherung betrieblicher Altersversorgung.
 
@@ -395,13 +398,13 @@ In den Fällen der Nummern 2 und 3 geht das Vermögen des in Absatz 1 genannten 
 
 Die Kreditanstalt für Wiederaufbau verwaltet den Fonds im eigenen Namen. Für Verbindlichkeiten des Fonds haftet sie nur mit dem Vermögen des Fonds. Dieser haftet nicht für die sonstigen Verbindlichkeiten der Bank. § 11 Abs. 1 Satz 1 des Gesetzes über die Kreditanstalt für Wiederaufbau in der Fassung der Bekanntmachung vom 23. Juni 1969 (BGBl. I S. 573), das zuletzt durch Artikel 14 des Gesetzes vom 21. Juni 2002 (BGBl. I S. 2010) geändert worden ist, ist in der jeweils geltenden Fassung auch für den Fonds anzuwenden.
 
-##### § 15 Verschwiegenheitspflicht
+###### § 15 Verschwiegenheitspflicht
 
 Personen, die bei dem Träger der Insolvenzsicherung beschäftigt oder für ihn tätig sind, dürfen fremde Geheimnisse, insbesondere Betriebs- oder Geschäftsgeheimnisse, nicht unbefugt offenbaren oder verwerten. Sie sind nach dem Gesetz über die förmliche Verpflichtung nichtbeamteter Personen vom 2. März 1974 (Bundesgesetzbl. I S. 469, 547) von der Bundesanstalt für Finanzdienstleistungsaufsicht auf die gewissenhafte Erfüllung ihrer Obliegenheiten zu verpflichten.
 
 ## Fünfter Abschnitt Anpassung
 
-##### § 16 Anpassungsprüfungspflicht
+###### § 16 Anpassungsprüfungspflicht
 
 (1) Der Arbeitgeber hat alle drei Jahre eine Anpassung der laufenden Leistungen der betrieblichen Altersversorgung zu prüfen und hierüber nach billigem Ermessen zu entscheiden; dabei sind insbesondere die Belange des Versorgungsempfängers und die wirtschaftliche Lage des Arbeitgebers zu berücksichtigen.
 
@@ -429,7 +432,7 @@ im Prüfungszeitraum.
 
 ## Sechster Abschnitt Geltungsbereich
 
-##### § 17 Persönlicher Geltungsbereich
+###### § 17 Persönlicher Geltungsbereich
 
 (1) Arbeitnehmer im Sinne der §§ 1 bis 16 sind Arbeiter und Angestellte einschließlich der zu ihrer Berufsausbildung Beschäftigten; ein Berufsausbildungsverhältnis steht einem Arbeitsverhältnis gleich. Die §§ 1 bis 16 gelten entsprechend für Personen, die nicht Arbeitnehmer sind, wenn ihnen Leistungen der Alters-, Invaliditäts- oder Hinterbliebenenversorgung aus Anlaß ihrer Tätigkeit für ein Unternehmen zugesagt worden sind. Arbeitnehmer im Sinne von § 1a Abs. 1 sind nur Personen nach den Sätzen 1 und 2, soweit sie aufgrund der Beschäftigung oder Tätigkeit bei dem Arbeitgeber, gegen den sich der Anspruch nach § 1a richten würde, in der gesetzlichen Rentenversicherung pflichtversichert sind.
 
@@ -437,7 +440,7 @@ im Prüfungszeitraum.
 
 (3) Gesetzliche Regelungen über Leistungen der betrieblichen Altersversorgung werden unbeschadet des § 18 durch die §§ 1 bis 16 und 26 bis 30 nicht berührt.
 
-##### § 18 Sonderregelungen für den öffentlichen Dienst
+###### § 18 Sonderregelungen für den öffentlichen Dienst
 
 (1) Für Personen, die
 
@@ -493,7 +496,7 @@ f) ist eine anzurechnende Grundversorgung nach dem bei der Berechnung von Pensio
 
 (9) Bei Personen, die aus einem Arbeitsverhältnis ausscheiden, in dem sie nach § 5 Abs. 1 Satz 1 Nr. 2 des Sechsten Buches Sozialgesetzbuch versicherungsfrei waren, dürfen die Ansprüche nach § 2 Abs. 1 Satz 1 und 2 nicht hinter dem Rentenanspruch zurückbleiben, der sich ergeben hätte, wenn der Arbeitnehmer für die Zeit der versicherungsfreien Beschäftigung in der gesetzlichen Rentenversicherung nachversichert worden wäre; die Vergleichsberechnung ist im Versorgungsfall aufgrund einer Auskunft der Deutschen Rentenversicherung Bund vorzunehmen.
 
-##### § 18a Verjährung
+###### § 18a Verjährung
 
 Der Anspruch auf Leistungen aus der betrieblichen Altersversorgung verjährt in 30 Jahren. Ansprüche auf regelmäßig wiederkehrende Leistungen unterliegen der regelmäßigen Verjährungsfrist nach den Vorschriften des Bürgerlichen Gesetzbuchs.
 
@@ -501,7 +504,7 @@ Der Anspruch auf Leistungen aus der betrieblichen Altersversorgung verjährt in 
 
 ## Unterabschnitt 1 Tariföffnung; Optionssysteme
 
-##### § 19 Allgemeine Tariföffnungsklausel
+###### § 19 Allgemeine Tariföffnungsklausel
 
 (1) Von den §§ 1a, 2, 2a Absatz 1, 3 und 4, § 3, mit Ausnahme des § 3 Absatz 2 Satz 3, von den §§ 4, 5, 16, 18a Satz 1, §§ 27 und 28 kann in Tarifverträgen abgewichen werden.
 
@@ -509,7 +512,7 @@ Der Anspruch auf Leistungen aus der betrieblichen Altersversorgung verjährt in 
 
 (3) Im Übrigen kann von den Bestimmungen dieses Gesetzes nicht zuungunsten des Arbeitnehmers abgewichen werden.
 
-##### § 20 Tarifvertrag und Entgeltumwandlung; Optionssysteme
+###### § 20 Tarifvertrag und Entgeltumwandlung; Optionssysteme
 
 (1) Soweit Entgeltansprüche auf einem Tarifvertrag beruhen, kann für diese eine Entgeltumwandlung nur vorgenommen werden, soweit dies durch Tarifvertrag vorgesehen oder durch Tarifvertrag zugelassen ist.
 
@@ -529,7 +532,7 @@ Nichttarifgebundene Arbeitgeber können ein einschlägiges tarifvertragliches Op
 
 ## Unterabschnitt 2 Tarifvertrag und reine Beitragszusage
 
-##### § 21 Tarifvertragsparteien; Sozialpartnermodell
+###### § 21 Tarifvertragsparteien; Sozialpartnermodell
 
 (1) Sozialpartnermodell im Sinne dieses Gesetzes ist die tarifvertragliche Regelung einer betrieblichen Altersversorgung in Form der reinen Beitragszusage.
 
@@ -537,7 +540,7 @@ Nichttarifgebundene Arbeitgeber können ein einschlägiges tarifvertragliches Op
 
 (3) Wird eine reine Beitragszusage über eine Direktversicherung durchgeführt, kann eine gemeinsame Einrichtung nach § 4 des Tarifvertragsgesetzes als Versicherungsnehmer an die Stelle des Arbeitgebers treten.
 
-##### § 22 Arbeitnehmer und Versorgungseinrichtung
+###### § 22 Arbeitnehmer und Versorgungseinrichtung
 
 (1) Bei einer reinen Beitragszusage hat der Pensionsfonds, die Pensionskasse oder die Direktversicherung dem Versorgungsempfänger auf der Grundlage des planmäßig zuzurechnenden Versorgungskapitals laufende Leistungen der betrieblichen Altersversorgung zu erbringen. Die Höhe der Leistungen darf nicht garantiert werden.
 
@@ -561,13 +564,13 @@ Bei einem Wechsel der Versorgungseinrichtung gilt Satz 1 Nummer 1 Buchstabe b en
 
 (5) Für die Verjährung der Ansprüche gilt § 18a entsprechend.
 
-##### § 23 Zusatzbeiträge des Arbeitgebers
+###### § 23 Zusatzbeiträge des Arbeitgebers
 
 (1) Zur Absicherung der reinen Beitragszusage soll im Tarifvertrag ein Sicherungsbeitrag vereinbart werden.
 
 (2) Bei einer reinen Beitragszusage ist im Fall der Entgeltumwandlung im Tarifvertrag zu regeln, dass der Arbeitgeber 15 Prozent des umgewandelten Entgelts zusätzlich als Arbeitgeberzuschuss an die Versorgungseinrichtung weiterleiten muss, soweit der Arbeitgeber durch die Entgeltumwandlung Sozialversicherungsbeiträge einspart.
 
-##### § 24 Teilnahme Dritter an Sozialpartnermodellen
+###### § 24 Teilnahme Dritter an Sozialpartnermodellen
 
 (1) Arbeitgeber und Arbeitnehmer können die Anwendung eines einschlägigen Sozialpartnermodells vereinbaren.
 
@@ -581,33 +584,33 @@ Bei einem Wechsel der Versorgungseinrichtung gilt Satz 1 Nummer 1 Buchstabe b en
 
 (4) Die Teilnahme nach den Absätzen 1 bis 3 bedarf der Zustimmung der das Sozialpartnermodell tragenden Tarifvertragsparteien. Die Tarifvertragsparteien können Dritte an den Kosten, die ihnen im Zusammenhang mit der Durchführung und Steuerung des Sozialpartnermodells entstehen, angemessen beteiligen. Sie können die Kostenbeteiligung auch über die Beiträge und Leistungen der durchführenden Versorgungseinrichtung erheben lassen; an eine entsprechende Entscheidung ist die durchführende Versorgungseinrichtung bei der Kalkulation der Beiträge und Leistungen gebunden.
 
-##### § 25 Verordnungsermächtigung
+###### § 25 Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung Mindestanforderungen an die Verwendung der Beiträge nach § 1 Absatz 2 Nummer 2a festzulegen. Die Ermächtigung kann im Einvernehmen mit dem Bundesministerium der Finanzen auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen werden. Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht der Zustimmung des Bundesrates.
 
 ## Zweiter Teil Übergangs- und Schlußvorschriften
 
-##### § 26
+###### § 26
 
 Die §§ 1 bis 4 und 18 gelten nicht, wenn das Arbeitsverhältnis oder Dienstverhältnis vor dem Inkrafttreten des Gesetzes beendet worden ist.
 
-##### § 26a Übergangsvorschrift zu § 1a Absatz 1a
+###### § 26a Übergangsvorschrift zu § 1a Absatz 1a
 
 § 1a Absatz 1a gilt für individual- und kollektivrechtliche Entgeltumwandlungsvereinbarungen, die vor dem 1. Januar 2019 geschlossen worden sind, erst ab dem 1. Januar 2022.
 
-##### § 27
+###### § 27
 
 § 2 Abs. 2 Satz 2 Nr. 2 und 3 und Abs. 3 Satz 2 Nr. 1 und 2 gelten in Fällen, in denen vor dem Inkrafttreten des Gesetzes die Direktversicherung abgeschlossen worden ist oder die Versicherung des Arbeitnehmers bei einer Pensionskasse begonnen hat, mit der Maßgabe, daß die in diesen Vorschriften genannten Voraussetzungen spätestens für die Zeit nach Ablauf eines Jahres seit dem Inkrafttreten des Gesetzes erfüllt sein müssen.
 
-##### § 28
+###### § 28
 
 § 5 gilt für Fälle, in denen der Versorgungsfall vor dem Inkrafttreten des Gesetzes eingetreten ist, mit der Maßgabe, daß diese Vorschrift bei der Berechnung der nach dem Inkrafttreten des Gesetzes fällig werdenden Versorgungsleistungen anzuwenden ist.
 
-##### § 29
+###### § 29
 
 § 6 gilt für die Fälle, in denen das Altersruhegeld der gesetzlichen Rentenversicherung bereits vor dem Inkrafttreten des Gesetzes in Anspruch genommen worden ist, mit der Maßgabe, daß die Leistungen der betrieblichen Altersversorgung vom Inkrafttreten des Gesetzes an zu gewähren sind.
 
-##### § 30
+###### § 30
 
 (1) Ein Anspruch gegen den Träger der Insolvenzsicherung nach § 7 besteht nur, wenn der Sicherungsfall nach dem Inkrafttreten der §§ 7 bis 15 eingetreten ist; er kann erstmals nach dem Ablauf von sechs Monaten nach diesem Zeitpunkt geltend gemacht werden. Die Beitragspflicht des Arbeitgebers beginnt mit dem Inkrafttreten der §§ 7 bis 15.
 
@@ -619,15 +622,15 @@ Die §§ 1 bis 4 und 18 gelten nicht, wenn das Arbeitsverhältnis oder Dienstver
 
 (5) Das Bundesministerium für Arbeit und Soziales untersucht 2026, ob die Beitragsbemessung nach § 10 Absatz 3 Nummer 4 bei betrieblicher Altersversorgung, die von Pensionskassen durchgeführt wird, weiterhin sachgerecht ist, insbesondere, ob die Höhe des Beitrags dem vom Träger der Insolvenzsicherung zu tragenden Risiko entspricht. Das Bundesministerium für Arbeit und Soziales kann Dritte mit dieser Untersuchung beauftragen.
 
-##### § 30a Evaluierung
+###### § 30a Evaluierung
 
 Das Bundesministerium für Arbeit und Soziales wird 2027 untersuchen, ob die Verbreitung der betrieblichen Altersversorgung aufgrund der vorgesehenen Öffnung von Sozialpartnermodellen erkennbar gestiegen ist. Sollte sich die Zahl der Beschäftigten, die an einem Sozialpartnermodell teilnehmen, bis dahin gegenüber 2025 nicht verdoppelt haben, muss die Bundesregierung den gesetzgebenden Körperschaften bis zum 31. März 2028 geeignete Maßnahmen vorschlagen, damit allen Unternehmen und ihren Beschäftigten der Zugang zu einem Sozialpartnermodell eröffnet wird.
 
-##### § 30b
+###### § 30b
 
 § 4 Abs. 3 gilt nur für Zusagen, die nach dem 31. Dezember 2004 erteilt wurden.
 
-##### § 30c
+###### § 30c
 
 (1) § 16 Abs. 3 Nr. 1 gilt nur für laufende Leistungen, die auf Zusagen beruhen, die nach dem 31. Dezember 1998 erteilt werden.
 
@@ -639,7 +642,7 @@ Das Bundesministerium für Arbeit und Soziales wird 2027 untersuchen, ob die Ver
 
 (4) Für die Erfüllung der Anpassungsprüfungspflicht für Zeiträume vor dem 1. Januar 2003 gilt § 16 Abs. 2 Nr. 1 mit der Maßgabe, dass an die Stelle des Verbraucherpreisindexes für Deutschland der Preisindex für die Lebenshaltung von 4-Personen-Haushalten von Arbeitern und Angestellten mit mittlerem Einkommen tritt.
 
-##### § 30d Übergangsregelung zu § 18
+###### § 30d Übergangsregelung zu § 18
 
 (1) Ist der Versorgungsfall vor dem 1. Januar 2001 eingetreten oder ist der Arbeitnehmer vor dem 1. Januar 2001 aus dem Beschäftigungsverhältnis bei einem öffentlichen Arbeitgeber ausgeschieden und der Versorgungsfall nach dem 31. Dezember 2000 und vor dem 2. Januar 2002 eingetreten, sind für die Berechnung der Voll-Leistung die Regelungen der Zusatzversorgungseinrichtungen nach § 18 Abs. 1 Satz 1 Nr. 1 und 2 oder die Gesetze im Sinne des § 18 Abs. 1 Satz 1 Nr. 3 sowie die weiteren Berechnungsfaktoren jeweils in der am 31. Dezember 2000 und vor dem 2. Januar 2002 geltenden Fassung maßgebend; § 18 Abs. 2 Nr. 1 Buchstabe b bleibt unberührt. Die Steuerklasse III/O ist zugrunde zu legen. Ist der Versorgungsfall vor dem 1. Januar 2001 eingetreten, besteht der Anspruch auf Zusatzrente mindestens in der Höhe, wie er sich aus § 18 in der Fassung vom 16. Dezember 1997 (BGBl. I S. 2998) ergibt.
 
@@ -649,13 +652,13 @@ Das Bundesministerium für Arbeit und Soziales wird 2027 untersuchen, ob die Ver
 
 (3) Für Arbeitnehmer im Sinne des § 18 Abs. 1 Satz 1 Nr. 4, 5 und 6 in der bis zum 31. Dezember 1998 geltenden Fassung, für die bis zum 31. Dezember 1998 ein Anspruch auf Nachversicherung nach § 18 Abs. 6 entstanden ist, gilt Absatz 1 Satz 1 für die aufgrund der Nachversicherung zu ermittelnde Voll-Leistung entsprechend mit der Maßgabe, dass sich der nach § 2 zu ermittelnde Anspruch gegen den ehemaligen Arbeitgeber richtet. Für den nach § 2 zu ermittelnden Anspruch gilt § 18 Abs. 2 Nr. 1 Buchstabe b entsprechend; für die übrigen Bemessungsfaktoren ist auf die Rechtslage am 31. Dezember 2000 abzustellen. Leistungen der gesetzlichen Rentenversicherung, die auf einer Nachversicherung wegen Ausscheidens aus einem Dienstordnungsverhältnis beruhen, und Leistungen, die die zuständige Versorgungseinrichtung aufgrund von Nachversicherungen im Sinne des § 18 Abs. 6 in der am 31. Dezember 1998 geltenden Fassung gewährt, werden auf den Anspruch nach § 2 angerechnet. Hat das Arbeitsverhältnis im Sinne des § 18 Abs. 9 bereits am 31. Dezember 1998 bestanden, ist in die Vergleichsberechnung nach § 18 Abs. 9 auch die Zusatzrente nach § 18 in der bis zum 31. Dezember 1998 geltenden Fassung einzubeziehen.
 
-##### § 30e
+###### § 30e
 
 (1) § 1 Abs. 2 Nr. 4 zweiter Halbsatz gilt für Zusagen, die nach dem 31. Dezember 2002 erteilt werden.
 
 (2) § 1 Abs. 2 Nr. 4 zweiter Halbsatz findet auf Pensionskassen, deren Leistungen der betrieblichen Altersversorgung durch Beiträge der Arbeitnehmer und Arbeitgeber gemeinsam finanziert und die als beitragsorientierte Leistungszusage oder als Leistungszusage durchgeführt werden, mit der Maßgabe Anwendung, dass dem ausgeschiedenen Arbeitnehmer das Recht zur Fortführung mit eigenen Beiträgen nicht eingeräumt werden und eine Überschussverwendung gemäß § 1b Abs. 5 Nr. 1 nicht erfolgen muss. Wird dem ausgeschiedenen Arbeitnehmer ein Recht zur Fortführung nicht eingeräumt, gilt für die Höhe der unverfallbaren Anwartschaft § 2 Absatz 5 entsprechend. Für die Anpassung laufender Leistungen gelten die Regelungen nach § 16 Abs. 1 bis 4. Die Regelung in Absatz 1 bleibt unberührt.
 
-##### § 30f
+###### § 30f
 
 (1) Wenn Leistungen der betrieblichen Altersversorgung vor dem 1. Januar 2001 zugesagt worden sind, ist § 1b Abs. 1 mit der Maßgabe anzuwenden, dass die Anwartschaft erhalten bleibt, wenn das Arbeitsverhältnis vor Eintritt des Versorgungsfalles, jedoch nach Vollendung des 35. Lebensjahres endet und die Versorgungszusage zu diesem Zeitpunkt
 
@@ -669,7 +672,7 @@ bestanden hat; in diesen Fällen bleibt die Anwartschaft auch erhalten, wenn die
 
 (3) Wenn Leistungen der betrieblichen Altersversorgung vor dem 1. Januar 2018 und nach dem 31. Dezember 2008 zugesagt worden sind, ist § 1b Absatz 1 Satz 1 mit der Maßgabe anzuwenden, dass die Anwartschaft erhalten bleibt, wenn das Arbeitsverhältnis vor Eintritt des Versorgungsfalls, jedoch nach Vollendung des 25. Lebensjahres endet und die Versorgungszusage zu diesem Zeitpunkt fünf Jahre bestanden hat; in diesen Fällen bleibt die Anwartschaft auch erhalten, wenn die Zusage ab dem 1. Januar 2018 drei Jahre bestanden hat und bei Beendigung des Arbeitsverhältnisses das 21. Lebensjahr vollendet ist.
 
-##### § 30g
+###### § 30g
 
 (1) § 2a Absatz 2 gilt nicht für Beschäftigungszeiten vor dem 1. Januar 2018. Für Beschäftigungszeiten nach dem 31. Dezember 2017 gilt § 2a Absatz 2 nicht, wenn das Versorgungssystem vor dem 20. Mai 2014 für neue Arbeitnehmer geschlossen war.
 
@@ -677,11 +680,11 @@ bestanden hat; in diesen Fällen bleibt die Anwartschaft auch erhalten, wenn die
 
 (3) § 3 findet keine Anwendung auf laufende Leistungen, die vor dem 1. Januar 2005 erstmals gezahlt worden sind.
 
-##### § 30h
+###### § 30h
 
 § 20 Absatz 1 gilt für Entgeltumwandlungen, die auf Zusagen beruhen, die nach dem 29. Juni 2001 erteilt werden.
 
-##### § 30i
+###### § 30i
 
 (1) Der Barwert der bis zum 31. Dezember 2005 aufgrund eingetretener Insolvenzen zu sichernden Anwartschaften wird einmalig auf die beitragspflichtigen Arbeitgeber entsprechend § 10 Abs. 3 umgelegt und vom Träger der Insolvenzsicherung nach Maßgabe der Beträge zum Schluss des Wirtschaftsjahres, das im Jahr 2004 geendet hat, erhoben. Der Rechnungszinsfuß bei der Berechnung des Barwerts beträgt 3,67 vom Hundert.
 
@@ -691,21 +694,20 @@ bestanden hat; in diesen Fällen bleibt die Anwartschaft auch erhalten, wenn die
 
 (4) Insolvenzbedingte Zahlungsausfälle von ausstehenden Raten werden im Jahr der Insolvenz in die erforderlichen jährlichen Beiträge gemäß § 10 Abs. 2 eingerechnet.
 
-##### § 30j Übergangsregelung zu § 20 Absatz 2
+###### § 30j Übergangsregelung zu § 20 Absatz 2
 
 § 20 Absatz 2 gilt nicht für Optionssysteme, die auf der Grundlage von Betriebs- oder Dienstvereinbarungen vor dem 1. Juni 2017 eingeführt worden sind.
 
-##### § 31
+###### § 31
 
 Auf Sicherungsfälle, die vor dem 1. Januar 1999 eingetreten sind, ist dieses Gesetz in der bis zu diesem Zeitpunkt geltenden Fassung anzuwenden.
 
-##### § 32
+###### § 32
 
 Dieses Gesetz tritt vorbehaltlich des Satzes 2 am Tag nach seiner Verkündung in Kraft. Die §§ 7 bis 15 treten am 1. Januar 1975 in Kraft.
 
-##### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1024) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+###### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1024) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft: 
 ... 16.Gesetz zur Verbesserung der betrieblichen Altersversorgung vom 19. Dezember 1974 (BGBl. I S. 3610), zuletzt geändert durch Artikel 33 des Gesetzes vom 18. Dezember 1986 (BGBl. I S. 2261; 1990 I S. 1337),mit folgenden Maßgaben:a)Dieses Gesetz tritt am 1. Januar 1992 in Kraft. b)§§ 1 bis 18 finden auf Zusagen über Leistungen der betrieblichen Altersversorgung Anwendung, die nach dem 31. Dezember 1991 erteilt werden; die Nachversicherung gemäß § 18 Abs. 6 von Zeiten vor dem 1. Januar 1992 ist ausgeschlossen. c)§§ 26 bis 30 sind nicht anzuwenden.   ...
-
