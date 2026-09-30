@@ -4,26 +4,30 @@ identifier: "HINSCHG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2023-05-31"
-last_updated: "2026-04-04"
+last_updated: "2026-09-30"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/hinschg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR08C0B0023"
 slug: "hinschg"
 bgbl_reference: "BGBl I 2023, Nr. 140"
-stand: "Zuletzt geändert durch Art. 14 G v. 2.12.2025 I Nr. 301"
+stand: "Zuletzt geändert durch Art. 9 Abs. 1 G v. 25.9.2026 I Nr. 275"
 ---
 # Gesetz für einen besseren Schutz hinweisgebender Personen
 
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
 ## Abschnitt 1 Allgemeine Vorschriften
 
-##### § 1 Zielsetzung und persönlicher Anwendungsbereich
+###### § 1 Zielsetzung und persönlicher Anwendungsbereich
 
 (1) Dieses Gesetz regelt den Schutz von natürlichen Personen, die im Zusammenhang mit ihrer beruflichen Tätigkeit oder im Vorfeld einer beruflichen Tätigkeit Informationen über Verstöße erlangt haben und diese an die nach diesem Gesetz vorgesehenen Meldestellen melden oder offenlegen (hinweisgebende Personen).
 
 (2) Darüber hinaus werden Personen geschützt, die Gegenstand einer Meldung oder Offenlegung sind, sowie sonstige Personen, die von einer Meldung oder Offenlegung betroffen sind.
 
-##### § 2 Sachlicher Anwendungsbereich
+###### § 2 Sachlicher Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die Meldung (§ 3 Absatz 4) und die Offenlegung (§ 3 Absatz 5) von Informationen über
 
@@ -85,7 +89,9 @@ t) zur Rechnungslegung einschließlich der Buchführung von Unternehmen, die kap
 
 9. Verstöße gegen Vorschriften der Verordnung (EU) 2022/1925 des Europäischen Parlaments und des Rates vom 14. September 2022 über bestreitbare und faire Märkte im digitalen Sektor und zur Änderung der Richtlinien (EU) 2019/1937 und (EU) 2020/1828 (Gesetz über digitale Märkte) (ABl. L 265 vom 12.10.2022, S. 1),
 
-10. Äußerungen von Beamtinnen und Beamten, die einen Verstoß gegen die Pflicht zur Verfassungstreue darstellen.
+10. Verstöße gegen Vorschriften der Verordnung (EU) 2024/1689,
+
+11. Äußerungen von Beamtinnen und Beamten, die einen Verstoß gegen die Pflicht zur Verfassungstreue darstellen.
 
 (2) Dieses Gesetz gilt außerdem für die Meldung und Offenlegung von Informationen über
 
@@ -93,7 +99,7 @@ t) zur Rechnungslegung einschließlich der Buchführung von Unternehmen, die kap
 
 2. Verstöße gegen Binnenmarktvorschriften im Sinne des Artikels 26 Absatz 2 des Vertrags über die Arbeitsweise der Europäischen Union, einschließlich über Absatz 1 Nummer 8 hinausgehender Vorschriften der Europäischen Union über Wettbewerb und staatliche Beihilfen.
 
-##### § 3 Begriffsbestimmungen
+###### § 3 Begriffsbestimmungen
 
 (1) Für dieses Gesetz gelten die Begriffsbestimmungen der folgenden Absätze.
 
@@ -135,7 +141,7 @@ t) zur Rechnungslegung einschließlich der Buchführung von Unternehmen, die kap
 
 (10) Private Beschäftigungsgeber sind Beschäftigungsgeber mit Ausnahme juristischer Personen des öffentlichen Rechts und solcher Beschäftigungsgeber, die im Eigentum oder unter der Kontrolle einer juristischen Person des öffentlichen Rechts stehen.
 
-##### § 4 Verhältnis zu sonstigen Bestimmungen
+###### § 4 Verhältnis zu sonstigen Bestimmungen
 
 (1) Diesem Gesetz gehen spezifische Regelungen über die Mitteilung von Informationen über Verstöße in den folgenden Vorschriften vor:
 
@@ -171,7 +177,7 @@ Soweit die spezifischen Regelungen in Satz 1 keine Vorgaben machen, gelten die B
 
 (4) Die Regelungen des Strafprozessrechts werden von den Vorgaben dieses Gesetzes nicht berührt.
 
-##### § 5 Vorrang von Sicherheitsinteressen sowie Verschwiegenheits- und Geheimhaltungspflichten
+###### § 5 Vorrang von Sicherheitsinteressen sowie Verschwiegenheits- und Geheimhaltungspflichten
 
 (1) Eine Meldung oder Offenlegung fällt nicht in den Anwendungsbereich dieses Gesetzes, wenn sie folgende Informationen beinhaltet:
 
@@ -193,7 +199,7 @@ Soweit die spezifischen Regelungen in Satz 1 keine Vorgaben machen, gelten die B
 
 5. die Pflichten zur Wahrung der Verschwiegenheit durch Personen, die aufgrund eines Vertragsverhältnisses einschließlich der gemeinschaftlichen Berufsausübung, einer berufsvorbereitenden Tätigkeit oder einer sonstigen Hilfstätigkeit an der beruflichen Tätigkeit der in den Nummern 2, 3 und 4 genannten Berufsgeheimnisträger mitwirken.
 
-##### § 6 Verhältnis zu sonstigen Verschwiegenheits- und Geheimhaltungspflichten
+###### § 6 Verhältnis zu sonstigen Verschwiegenheits- und Geheimhaltungspflichten
 
 (1) Beinhaltet eine interne oder eine externe Meldung oder eine Offenlegung ein Geschäftsgeheimnis im Sinne des § 2 Nummer 1 des Gesetzes zum Schutz von Geschäftsgeheimnissen, so ist die Weitergabe des Geschäftsgeheimnisses an eine zuständige Meldestelle oder dessen Offenlegung erlaubt, sofern
 
@@ -221,7 +227,7 @@ Soweit die spezifischen Regelungen in Satz 1 keine Vorgaben machen, gelten die B
 
 ## Unterabschnitt 1 Grundsätze
 
-##### § 7 Wahlrecht zwischen interner und externer Meldung
+###### § 7 Wahlrecht zwischen interner und externer Meldung
 
 (1) Personen, die beabsichtigen, Informationen über einen Verstoß zu melden, können wählen, ob sie sich an eine interne Meldestelle (§ 12) oder eine externe Meldestelle (§§ 19 bis 24) wenden. Diese Personen sollten in den Fällen, in denen intern wirksam gegen den Verstoß vorgegangen werden kann und sie keine Repressalien befürchten, die Meldung an eine interne Meldestelle bevorzugen. Wenn einem intern gemeldeten Verstoß nicht abgeholfen wurde, bleibt es der hinweisgebenden Person unbenommen, sich an eine externe Meldestelle zu wenden.
 
@@ -229,7 +235,7 @@ Soweit die spezifischen Regelungen in Satz 1 keine Vorgaben machen, gelten die B
 
 (3) Beschäftigungsgeber, die nach § 12 Absatz 1 und 3 zur Einrichtung interner Meldestellen verpflichtet sind, sollen Anreize dafür schaffen, dass sich hinweisgebende Personen vor einer Meldung an eine externe Meldestelle zunächst an die jeweilige interne Meldestelle wenden. Diese Beschäftigungsgeber stellen für Beschäftigte klare und leicht zugängliche Informationen über die Nutzung des internen Meldeverfahrens bereit. Die Möglichkeit einer externen Meldung darf hierdurch nicht beschränkt oder erschwert werden.
 
-##### § 8 Vertraulichkeitsgebot
+###### § 8 Vertraulichkeitsgebot
 
 (1) Die Meldestellen haben die Vertraulichkeit der Identität der folgenden Personen zu wahren:
 
@@ -243,7 +249,7 @@ Die Identität der in Satz 1 genannten Personen darf ausschließlich den Persone
 
 (2) Das Gebot der Vertraulichkeit der Identität gilt unabhängig davon, ob die Meldestelle für die eingehende Meldung zuständig ist.
 
-##### § 9 Ausnahmen vom Vertraulichkeitsgebot
+###### § 9 Ausnahmen vom Vertraulichkeitsgebot
 
 (1) Die Identität einer hinweisgebenden Person, die vorsätzlich oder grob fahrlässig unrichtige Informationen über Verstöße meldet, wird nicht nach diesem Gesetz geschützt.
 
@@ -287,11 +293,11 @@ Die Einwilligung nach Satz 1 Nummer 2 muss für jede einzelne Weitergabe von Inf
 
 8. von dem Bundeskartellamt als externe Meldestelle nach § 22 an die zuständigen Fachabteilungen innerhalb des Bundeskartellamtes sowie in den Fällen des § 49 Absatz 2 Satz 2 und Absatz 4 und § 50d des Gesetzes gegen Wettbewerbsbeschränkungen an die jeweils zuständige Wettbewerbsbehörde.
 
-##### § 10 Verarbeitung personenbezogener Daten
+###### § 10 Verarbeitung personenbezogener Daten
 
 Die Meldestellen sind befugt, personenbezogene Daten zu verarbeiten, soweit dies zur Erfüllung ihrer in den §§ 13 und 24 bezeichneten Aufgaben erforderlich ist. Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ist die Verarbeitung besonderer Kategorien personenbezogener Daten durch eine Meldestelle zulässig, wenn dies zur Erfüllung ihrer Aufgaben erforderlich ist. In diesem Fall hat die Meldestelle spezifische und angemessene Maßnahmen zur Wahrung der Interessen der betroffenen Person vorzusehen; § 22 Absatz 2 Satz 2 des Bundesdatenschutzgesetzes ist entsprechend anzuwenden.
 
-##### § 11 Dokumentation der Meldungen
+###### § 11 Dokumentation der Meldungen
 
 (1) Die Personen, die in einer Meldestelle für die Entgegennahme von Meldungen zuständig sind, dokumentieren alle eingehenden Meldungen in dauerhaft abrufbarer Weise unter Beachtung des Vertraulichkeitsgebots (§ 8).
 
@@ -305,7 +311,7 @@ Die Meldestellen sind befugt, personenbezogene Daten zu verarbeiten, soweit dies
 
 ## Unterabschnitt 2 Interne Meldungen
 
-##### § 12 Pflicht zur Einrichtung interner Meldestellen
+###### § 12 Pflicht zur Einrichtung interner Meldestellen
 
 (1) Beschäftigungsgeber haben dafür zu sorgen, dass bei ihnen mindestens eine Stelle für interne Meldungen eingerichtet ist und betrieben wird, an die sich Beschäftigte wenden können (interne Meldestelle). Ist der Bund oder ein Land Beschäftigungsgeber, bestimmen die obersten Bundes- oder Landesbehörden Organisationseinheiten in Form von einzelnen oder mehreren Behörden, Verwaltungsstellen, Betrieben oder Gerichten. Die Pflicht nach Satz 1 gilt sodann für die Einrichtung und den Betrieb der internen Meldestelle bei den jeweiligen Organisationseinheiten. Für Gemeinden und Gemeindeverbände und solche Beschäftigungsgeber, die im Eigentum oder unter der Kontrolle von Gemeinden und Gemeindeverbänden stehen, gilt die Pflicht zur Einrichtung und zum Betrieb interner Meldestellen nach Maßgabe des jeweiligen Landesrechts.
 
@@ -333,25 +339,25 @@ Die Meldestellen sind befugt, personenbezogene Daten zu verarbeiten, soweit dies
 
 (4) Die nach Absatz 1 Satz 1 verpflichteten Beschäftigungsgeber erteilen der internen Meldestelle die notwendigen Befugnisse, um ihre Aufgaben wahrzunehmen, insbesondere, um Meldungen zu prüfen und Folgemaßnahmen zu ergreifen. Ist der Beschäftigungsgeber der Bund oder ein Land, gilt Satz 1 für die jeweiligen Organisationseinheiten entsprechend.
 
-##### § 13 Aufgaben der internen Meldestellen
+###### § 13 Aufgaben der internen Meldestellen
 
 (1) Die internen Meldestellen betreiben Meldekanäle nach § 16, führen das Verfahren nach § 17 und ergreifen Folgemaßnahmen nach § 18.
 
 (2) Die internen Meldestellen halten für Beschäftigte klare und leicht zugängliche Informationen über externe Meldeverfahren gemäß Unterabschnitt 3 und einschlägige Meldeverfahren von Organen, Einrichtungen oder sonstigen Stellen der Europäischen Union bereit.
 
-##### § 14 Organisationsformen interner Meldestellen
+###### § 14 Organisationsformen interner Meldestellen
 
 (1) Eine interne Meldestelle kann eingerichtet werden, indem eine bei dem jeweiligen Beschäftigungsgeber oder bei der jeweiligen Organisationseinheit beschäftigte Person, eine aus mehreren beschäftigten Personen bestehende Arbeitseinheit oder ein Dritter mit den Aufgaben einer internen Meldestelle betraut wird. Die Betrauung eines Dritten mit den Aufgaben einer internen Meldestelle entbindet den betrauenden Beschäftigungsgeber nicht von der Pflicht, selbst geeignete Maßnahmen zu ergreifen, um einen etwaigen Verstoß abzustellen. Ist der Beschäftigungsgeber der Bund oder ein Land, gilt Satz 2 für die jeweiligen Organisationseinheiten entsprechend.
 
 (2) Mehrere private Beschäftigungsgeber mit in der Regel 50 bis 249 Beschäftigten können für die Entgegennahme von Meldungen und für die weiteren nach diesem Gesetz vorgesehenen Maßnahmen eine gemeinsame Stelle einrichten und betreiben. Die Pflicht, Maßnahmen zu ergreifen, um den Verstoß abzustellen, und die Pflicht zur Rückmeldung an die hinweisgebende Person verbleiben bei dem einzelnen Beschäftigungsgeber.
 
-##### § 15 Unabhängige Tätigkeit; notwendige Fachkunde
+###### § 15 Unabhängige Tätigkeit; notwendige Fachkunde
 
 (1) Die mit den Aufgaben einer internen Meldestelle beauftragten Personen sind bei der Ausübung ihrer Tätigkeit unabhängig. Sie dürfen neben ihrer Tätigkeit für die interne Meldestelle andere Aufgaben und Pflichten wahrnehmen. Es ist dabei sicherzustellen, dass derartige Aufgaben und Pflichten nicht zu Interessenkonflikten führen.
 
 (2) Beschäftigungsgeber tragen dafür Sorge, dass die mit den Aufgaben einer internen Meldestelle beauftragten Personen über die notwendige Fachkunde verfügen. Ist der Beschäftigungsgeber der Bund oder ein Land, gilt Satz 1 für die jeweiligen Organisationseinheiten entsprechend.
 
-##### § 16 Meldekanäle für interne Meldestellen
+###### § 16 Meldekanäle für interne Meldestellen
 
 (1) Nach § 12 zur Einrichtung interner Meldestellen verpflichtete Beschäftigungsgeber richten für diese Meldekanäle ein, über die sich Beschäftigte und dem Beschäftigungsgeber überlassene Leiharbeitnehmerinnen und Leiharbeitnehmer an die internen Meldestellen wenden können, um Informationen über Verstöße zu melden. Ist der Beschäftigungsgeber der Bund oder ein Land, gilt Satz 1 für die jeweiligen Organisationseinheiten entsprechend. Der interne Meldekanal kann so gestaltet werden, dass er darüber hinaus auch natürlichen Personen offensteht, die im Rahmen ihrer beruflichen Tätigkeiten mit dem jeweiligen zur Einrichtung der internen Meldestelle verpflichteten Beschäftigungsgeber oder mit der jeweiligen Organisationseinheit in Kontakt stehen. Die interne Meldestelle sollte auch anonym eingehende Meldungen bearbeiten. Es besteht allerdings keine Verpflichtung, die Meldekanäle so zu gestalten, dass sie die Abgabe anonymer Meldungen ermöglichen.
 
@@ -359,7 +365,7 @@ Die Meldestellen sind befugt, personenbezogene Daten zu verarbeiten, soweit dies
 
 (3) Interne Meldekanäle müssen Meldungen in mündlicher oder in Textform ermöglichen. Mündliche Meldungen müssen per Telefon oder mittels einer anderen Art der Sprachübermittlung möglich sein. Auf Ersuchen der hinweisgebenden Person ist für eine Meldung innerhalb einer angemessenen Zeit eine persönliche Zusammenkunft mit einer für die Entgegennahme einer Meldung zuständigen Person der internen Meldestelle zu ermöglichen. Mit Einwilligung der hinweisgebenden Person kann die Zusammenkunft auch im Wege der Bild- und Tonübertragung erfolgen.
 
-##### § 17 Verfahren bei internen Meldungen
+###### § 17 Verfahren bei internen Meldungen
 
 (1) Die interne Meldestelle
 
@@ -377,7 +383,7 @@ Die Meldestellen sind befugt, personenbezogene Daten zu verarbeiten, soweit dies
 
 (2) Die interne Meldestelle gibt der hinweisgebenden Person innerhalb von drei Monaten nach der Bestätigung des Eingangs der Meldung oder, wenn der Eingang nicht bestätigt wurde, spätestens drei Monate und sieben Tage nach Eingang der Meldung eine Rückmeldung. Die Rückmeldung umfasst die Mitteilung geplanter sowie bereits ergriffener Folgemaßnahmen sowie die Gründe für diese. Eine Rückmeldung an die hinweisgebende Person darf nur insoweit erfolgen, als dadurch interne Nachforschungen oder Ermittlungen nicht berührt und die Rechte der Personen, die Gegenstand einer Meldung sind oder die in der Meldung genannt werden, nicht beeinträchtigt werden.
 
-##### § 18 Folgemaßnahmen der internen Meldestelle
+###### § 18 Folgemaßnahmen der internen Meldestelle
 
 Als Folgemaßnahmen kann die interne Meldestelle insbesondere
 
@@ -395,7 +401,7 @@ b) eine zuständige Behörde.
 
 ## Unterabschnitt 3 Externe Meldestellen
 
-##### § 19 Errichtung und Zuständigkeit einer externen Meldestelle des Bundes
+###### § 19 Errichtung und Zuständigkeit einer externen Meldestelle des Bundes
 
 (1) Der Bund errichtet beim Bundesamt für Justiz eine Stelle für externe Meldungen (externe Meldestelle des Bundes). Die externe Meldestelle des Bundes ist organisatorisch vom übrigen Zuständigkeitsbereich des Bundesamts für Justiz getrennt.
 
@@ -405,11 +411,11 @@ b) eine zuständige Behörde.
 
 (4) Die externe Meldestelle des Bundes ist zuständig, soweit nicht eine externe Meldestelle nach den §§ 20 bis 23 zuständig ist.
 
-##### § 20 Errichtung und Zuständigkeit externer Meldestellen der Länder
+###### § 20 Errichtung und Zuständigkeit externer Meldestellen der Länder
 
 Jedes Land kann eine eigene externe Meldestelle einrichten für Meldungen, die die jeweilige Landesverwaltung und die jeweiligen Kommunalverwaltungen betreffen.
 
-##### § 21 Bundesanstalt für Finanzdienstleistungsaufsicht als externe Meldestelle
+###### § 21 Bundesanstalt für Finanzdienstleistungsaufsicht als externe Meldestelle
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht ist zuständige externe Meldestelle für
 
@@ -423,19 +429,19 @@ b) nach § 2 Absatz 1 Nummer 3 Buchstabe r bis t.
 
 Für die über dieses Gesetz hinausgehende nähere Ausgestaltung der Organisation und des Verfahrens der Bundesanstalt für Finanzdienstleistungsaufsicht als externe Meldestelle gilt § 4d des Finanzdienstleistungsaufsichtsgesetzes.
 
-##### § 22 Bundeskartellamt als externe Meldestelle
+###### § 22 Bundeskartellamt als externe Meldestelle
 
 (1) Das Bundeskartellamt ist zuständige externe Meldestelle für Meldungen von Informationen über Verstöße nach § 2 Absatz 1 Nummer 8 und 9. § 7 Absatz 1 Satz 3 findet mit der Maßgabe Anwendung, dass sich die hinweisgebende Person jederzeit und unabhängig vom Ausgang des Verfahrens über die interne Meldung an das Bundeskartellamt wenden kann.
 
 (2) Die Befugnisse des Bundeskartellamts nach anderen Vorschriften bleiben unberührt.
 
-##### § 23 Weitere externe Meldestellen
+###### § 23 Weitere externe Meldestellen
 
 (1) Der Bund richtet eine weitere externe Meldestelle ein für externe Meldungen, die die externe Meldestelle des Bundes nach § 19 betreffen.
 
 (2) Für Meldungen, die eine externe Meldestelle nach den §§ 20 bis 22 betreffen, ist weitere externe Meldestelle die externe Meldestelle des Bundes nach § 19.
 
-##### § 24 Aufgaben der externen Meldestellen
+###### § 24 Aufgaben der externen Meldestellen
 
 (1) Die externen Meldestellen errichten und betreiben Meldekanäle nach § 27, prüfen die Stichhaltigkeit einer Meldung und führen das Verfahren nach § 28.
 
@@ -457,13 +463,13 @@ Für die über dieses Gesetz hinausgehende nähere Ausgestaltung der Organisatio
 
 (4) Die externen Meldestellen halten klare und leicht zugängliche Informationen über ihre jeweiligen Meldeverfahren bereit, auf die interne Meldestellen zugreifen oder verweisen können, um ihrer Pflicht nach § 13 Absatz 2 nachzukommen. Die externe Meldestelle des Bundes hält zudem klare und leicht zugängliche Informationen über die in § 13 Absatz 2 genannten Meldeverfahren bereit, auf die interne Meldestellen zugreifen oder verweisen können, um ihrer Pflicht nach § 13 Absatz 2 nachzukommen.
 
-##### § 25 Unabhängige Tätigkeit; Schulung
+###### § 25 Unabhängige Tätigkeit; Schulung
 
 (1) Die externen Meldestellen arbeiten im Rahmen ihrer Aufgaben und Befugnisse fachlich unabhängig und von den internen Meldestellen getrennt. Die Aufsicht über sie erstreckt sich auf die Beachtung von Gesetz und sonstigem Recht.
 
 (2) Die für die Bearbeitung von Meldungen zuständigen Personen werden regelmäßig für diese Aufgabe geschult. Sie dürfen neben ihrer Tätigkeit für eine externe Meldestelle andere Aufgaben und Pflichten wahrnehmen. Es ist dabei sicherzustellen, dass derartige Aufgaben und Pflichten nicht zu einem Interessenkonflikt führen.
 
-##### § 26 Berichtspflichten der externen Meldestellen
+###### § 26 Berichtspflichten der externen Meldestellen
 
 (1) Die externen Meldestellen berichten jährlich in zusammengefasster Form über die eingegangenen Meldungen. Der Bericht darf keine Rückschlüsse auf die beteiligten Personen oder Unternehmen zulassen. Er ist der Öffentlichkeit zugänglich zu machen.
 
@@ -481,7 +487,7 @@ Für die über dieses Gesetz hinausgehende nähere Ausgestaltung der Organisatio
 
 ## Unterabschnitt 4 Externe Meldungen
 
-##### § 27 Meldekanäle für externe Meldestellen
+###### § 27 Meldekanäle für externe Meldestellen
 
 (1) Für externe Meldestellen werden Meldekanäle eingerichtet, über die sich hinweisgebende Personen an die externen Meldestellen wenden können, um Informationen über Verstöße zu melden. § 16 Absatz 2 gilt entsprechend. Die externe Meldestelle sollte auch anonym eingehende Meldungen bearbeiten. Vorbehaltlich spezialgesetzlicher Regelungen besteht allerdings keine Verpflichtung, die Meldekanäle so zu gestalten, dass sie die Abgabe anonymer Meldungen ermöglichen.
 
@@ -489,7 +495,7 @@ Für die über dieses Gesetz hinausgehende nähere Ausgestaltung der Organisatio
 
 (3) Externe Meldekanäle müssen Meldungen in mündlicher und in Textform ermöglichen. Mündliche Meldungen müssen per Telefon oder mittels einer anderen Art der Sprachübermittlung möglich sein. Auf Ersuchen der hinweisgebenden Person ist für eine Meldung innerhalb einer angemessenen Zeit eine persönliche Zusammenkunft mit den für die Entgegennahme einer Meldung zuständigen Personen der externen Meldestelle zu ermöglichen. Mit Einwilligung der hinweisgebenden Person kann die Zusammenkunft auch im Wege der Bild- und Tonübertragung erfolgen.
 
-##### § 28 Verfahren bei externen Meldungen
+###### § 28 Verfahren bei externen Meldungen
 
 (1) Die externen Meldestellen bestätigen den Eingang einer Meldung umgehend, spätestens jedoch sieben Tage nach Eingang der Meldung. Eine Eingangsbestätigung erfolgt nicht, wenn die hinweisgebende Person darauf ausdrücklich verzichtet oder wenn hinreichender Grund zu der Annahme besteht, dass die Eingangsbestätigung den Schutz der Identität der hinweisgebenden Person beeinträchtigen würde. In für ein internes Meldeverfahren geeigneten Fällen weisen die externen Meldestellen zusammen mit der Eingangsbestätigung die hinweisgebende Person auf die Möglichkeit einer internen Meldung hin.
 
@@ -501,7 +507,7 @@ Für die über dieses Gesetz hinausgehende nähere Ausgestaltung der Organisatio
 
 (5) Meldungen über Verstöße von besonderer Schwere können vorrangig behandelt werden. Die Fristen des Absatzes 4 für eine Rückmeldung bleiben davon unberührt.
 
-##### § 29 Folgemaßnahmen der externen Meldestellen
+###### § 29 Folgemaßnahmen der externen Meldestellen
 
 (1) Die externen Meldestellen können nach pflichtgemäßem Ermessen Auskünfte von den betroffenen natürlichen Personen, von dem betroffenen Beschäftigungsgeber, von Dritten sowie von Behörden verlangen, soweit dies zur Überprüfung der Stichhaltigkeit der Meldung erforderlich ist. Für die Beantwortung des Auskunftsverlangens ist eine angemessene Frist zu gewähren. Für Auskunftsverlangen nach Satz 1 gelten das Zeugnisverweigerungsrecht nach den §§ 53 und 53a und das Auskunftsverweigerungsrecht nach § 55 der Strafprozessordnung entsprechend. Für die Beantwortung von Auskunftsverlangen wird auf Antrag eine Entschädigung entsprechend den Vorschriften des Justizvergütungs- und -entschädigungsgesetzes über die Entschädigung von Zeugen gewährt. § 23 Absatz 2 Satz 2 des Justizvergütungs- und -entschädigungsgesetzes gilt entsprechend.
 
@@ -515,11 +521,11 @@ Für die über dieses Gesetz hinausgehende nähere Ausgestaltung der Organisatio
 
 4. das Verfahren an eine zuständige Behörde zwecks weiterer Untersuchungen abgeben.
 
-##### § 30 Zusammenarbeit mit anderen öffentlichen Stellen
+###### § 30 Zusammenarbeit mit anderen öffentlichen Stellen
 
 Die externen Meldestellen sowie die sonstigen öffentlichen Stellen, die für die Aufklärung, Verhütung und Verfolgung von Verstößen im Anwendungsbereich dieses Gesetzes zuständig sind, arbeiten zur Durchführung dieses Gesetzes zusammen und unterstützen sich gegenseitig. Spezielle gesetzliche Regelungen zur Zusammenarbeit öffentlicher Stellen bleiben hiervon unberührt.
 
-##### § 31 Abschluss des Verfahrens
+###### § 31 Abschluss des Verfahrens
 
 (1) Hat eine externe Meldestelle die Stichhaltigkeit einer Meldung geprüft und das Verfahren nach § 28 geführt, schließt sie das Verfahren ab.
 
@@ -537,7 +543,7 @@ Die externen Meldestellen sowie die sonstigen öffentlichen Stellen, die für di
 
 ## Abschnitt 3 Offenlegung
 
-##### § 32 Offenlegen von Informationen
+###### § 32 Offenlegen von Informationen
 
 (1) Personen, die Informationen über Verstöße offenlegen, fallen unter die Schutzmaßnahmen dieses Gesetzes, wenn sie
 
@@ -559,7 +565,7 @@ c) Beweismittel unterdrückt oder vernichtet werden könnten, Absprachen zwische
 
 ## Abschnitt 4 Schutzmaßnahmen
 
-##### § 33 Voraussetzungen für den Schutz hinweisgebender Personen
+###### § 33 Voraussetzungen für den Schutz hinweisgebender Personen
 
 (1) Die §§ 35 bis 37 sind auf hinweisgebende Personen anwendbar, sofern
 
@@ -571,7 +577,7 @@ c) Beweismittel unterdrückt oder vernichtet werden könnten, Absprachen zwische
 
 (2) Die §§ 35 bis 37 sind unter den Voraussetzungen des Absatzes 1 auch anwendbar auf Personen, die zuständigen Organen, Einrichtungen oder sonstigen Stellen der Europäischen Union in den Anwendungsbereich dieses Gesetzes fallende Verstöße gegen das Unionsrecht melden.
 
-##### § 34 Weitere geschützte Personen
+###### § 34 Weitere geschützte Personen
 
 (1) Die §§ 35 bis 37 gelten entsprechend für natürliche Personen, die die hinweisgebende Person bei einer internen oder externen Meldung oder einer Offenlegung im beruflichen Zusammenhang vertraulich unterstützen, sofern die gemeldeten oder offengelegten Informationen
 
@@ -585,35 +591,35 @@ c) Beweismittel unterdrückt oder vernichtet werden könnten, Absprachen zwische
 
 2. juristische Personen, rechtsfähige Personengesellschaften und sonstige rechtsfähige Personenvereinigungen, die mit der hinweisgebenden Person infolge einer Beteiligung rechtlich verbunden sind oder für die die hinweisgebende Person tätig ist oder mit denen sie in einem beruflichen Kontext anderweitig in Verbindung steht.
 
-##### § 35 Ausschluss der Verantwortlichkeit
+###### § 35 Ausschluss der Verantwortlichkeit
 
 (1) Eine hinweisgebende Person kann nicht für die Beschaffung von oder den Zugriff auf Informationen, die sie gemeldet oder offengelegt hat, rechtlich verantwortlich gemacht werden, sofern die Beschaffung nicht als solche oder der Zugriff nicht als solcher eine eigenständige Straftat darstellt.
 
 (2) Eine hinweisgebende Person verletzt keine Offenlegungsbeschränkungen und kann nicht für die bei einer Meldung oder Offenlegung erfolgte Weitergabe von Informationen rechtlich verantwortlich gemacht werden, sofern sie hinreichenden Grund zu der Annahme hatte, dass die Weitergabe der Informationen erforderlich war, um einen Verstoß aufzudecken.
 
-##### § 36 Verbot von Repressalien; Beweislastumkehr
+###### § 36 Verbot von Repressalien; Beweislastumkehr
 
 (1) Gegen hinweisgebende Personen gerichtete Repressalien sind verboten. Das gilt auch für die Androhung und den Versuch, Repressalien auszuüben.
 
 (2) Erleidet eine hinweisgebende Person eine Benachteiligung im Zusammenhang mit ihrer beruflichen Tätigkeit und macht sie geltend, diese Benachteiligung infolge einer Meldung oder Offenlegung nach diesem Gesetz erlitten zu haben, so wird vermutet, dass diese Benachteiligung eine Repressalie für diese Meldung oder Offenlegung ist. In diesem Fall hat die Person, die die hinweisgebende Person benachteiligt hat, zu beweisen, dass die Benachteiligung auf hinreichend gerechtfertigten Gründen basierte oder dass sie nicht auf der Meldung oder Offenlegung beruhte.
 
-##### § 37 Schadensersatz nach Repressalien
+###### § 37 Schadensersatz nach Repressalien
 
 (1) Bei einem Verstoß gegen das Verbot von Repressalien ist der Verursacher verpflichtet, der hinweisgebenden Person den daraus entstehenden Schaden zu ersetzen.
 
 (2) Ein Verstoß gegen das Verbot von Repressalien begründet keinen Anspruch auf Begründung eines Beschäftigungsverhältnisses, eines Berufsausbildungsverhältnisses oder eines anderen Vertragsverhältnisses oder auf einen beruflichen Aufstieg.
 
-##### § 38 Schadensersatz nach einer Falschmeldung
+###### § 38 Schadensersatz nach einer Falschmeldung
 
 Die hinweisgebende Person ist zum Ersatz des Schadens verpflichtet, der aus einer vorsätzlichen oder grob fahrlässigen Meldung oder Offenlegung unrichtiger Informationen entstanden ist.
 
-##### § 39 Verbot abweichender Vereinbarungen
+###### § 39 Verbot abweichender Vereinbarungen
 
 Vereinbarungen, die die nach diesem Gesetz bestehenden Rechte hinweisgebender Personen oder sonst nach diesem Gesetz geschützter Personen einschränken, sind unwirksam.
 
 ## Abschnitt 5 Sanktionen
 
-##### § 40 Bußgeldvorschriften
+###### § 40 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer wissentlich entgegen § 32 Absatz 2 eine unrichtige Information offenlegt.
 
@@ -635,7 +641,7 @@ Vereinbarungen, die die nach diesem Gesetz bestehenden Rechte hinweisgebender Pe
 
 ## Abschnitt 6 Schlussvorschriften
 
-##### § 41 Verordnungsermächtigung
+###### § 41 Verordnungsermächtigung
 
 Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz, dem Bundesministerium der Finanzen, dem Bundesministerium des Innern und für Heimat, dem Bundesministerium für Arbeit und Soziales, dem Bundesministerium der Verteidigung, dem Bundesministerium für Gesundheit und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
 
@@ -643,9 +649,8 @@ Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung, die n
 
 2. eine weitere externe Meldestelle nach § 23 Absatz 1 zu bestimmen.
 
-##### § 42 Übergangsregelung
+###### § 42 Übergangsregelung
 
 (1) Abweichend von § 12 Absatz 1 müssen private Beschäftigungsgeber mit in der Regel 50 bis 249 Beschäftigten ihre internen Meldestellen erst ab dem 17. Dezember 2023 einrichten. Satz 1 gilt nicht für die in § 12 Absatz 3 genannten Beschäftigungsgeber.
 
 (2) § 40 Absatz 2 Nummer 2 ist erst ab dem 1. Dezember 2023 anzuwenden.
-
