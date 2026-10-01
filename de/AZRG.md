@@ -4,28 +4,32 @@ identifier: "AZRG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1994-09-02"
-last_updated: "2026-04-04"
+last_updated: "2026-10-01"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/azrg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR226500994"
 slug: "azrg"
 bgbl_reference: "BGBl I 1994, 2265"
-stand: "Zuletzt geändert durch Art. 12 G v. 8.5.2024 I Nr. 152"
+stand: "Zuletzt geändert durch Art. 16 G v 22.7.2026 I Nr. 222"
 ---
 # Gesetz über das Ausländerzentralregister
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-##### Inhaltsübersicht
+###### Inhaltsübersicht
 
-Kapitel 1Registerbehörde und Zweck des Registers § 1Registerbehörde, Bestandteile des Registers, Zweck des Registers Kapitel 2Allgemeiner Datenbestand des Registers Abschnitt 1 Anlaß der Speicherung, Inhalt § 2Anlaß der Speicherung § 3Allgemeiner Inhalt § 4Übermittlungssperren § 5Suchvermerke Abschnitt 2 Datenübermittlung an die Registerbehörde, Verantwortlichkeiten, Aufzeichnungspflicht § 6Übermittelnde Stellen, Inhalt der Datenübermittlung § 7Übermittlung und Veränderung von Daten im Wege der Direkteingabe § 8Verantwortung für den Registerinhalt, Datenpflege§ 8aDatenabgleich § 9Aufzeichnungspflicht bei Speicherung Abschnitt 3 Datenübermittlung durch die Registerbehörde, Dritte, an die Daten übermittelt werden Unterabschnitt 1 Datenübermittlung an öffentliche Stellen § 10Allgemeine Vorschriften für die Datenübermittlung § 11Zweckbestimmung, Weiterübermittlung von Daten § 12Gruppenauskunft § 13Aufzeichnungspflicht bei Datenübermittlung § 14Datenübermittlung an alle öffentlichen Stellen § 15Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Vollzugseinrichtungen, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz§ 15aAutomatisierte Datenübermittlung § 16Datenübermittlung an Gerichte § 17Datenübermittlung an das Zollkriminalamt§ 17aDatenübermittlung an die Zentralstelle für Finanztransaktionsuntersuchungen§ 17bDatenübermittlung an die Zentralstelle für Sanktionsdurchsetzung § 18Datenübermittlung an die Bundesagentur für Arbeit und die Behörden der Zollverwaltung § 18aDatenübermittlung an die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen§ 18bDatenübermittlung an die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen§ 18cDatenübermittlung an die für den öffentlichen Gesundheitsdienst zuständigen Behörden§ 18dDatenübermittlung an die Jugendämter, die Unterhaltsvorschussstellen und die Elterngeldstellen§ 18eDatenübermittlung an die Meldebehörden§ 18fDatenübermittlung an die Familienkasse Direktion der Bundesagentur für Arbeit und die Familienkassen§ 18gDatenübermittlung an die Träger der Deutschen Rentenversicherung § 19Datenübermittlung an die Staatsangehörigkeits- und Vertriebenenbehörden § 20Datenübermittlung an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst § 21Datenübermittlung an das Auswärtige Amt, die deutschen Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren und im beschleunigten Fachkräfteverfahren§ 21aDatenübermittlung an das Bundesverwaltungsamt im Rahmen des Registrier- und Asylverfahrens § 22Abruf im automatisierten Verfahren § 23Statistische Aufbereitung der Daten§ 23aDatenübermittlung an die Bundesagentur für Arbeit für Zwecke der Beschäftigungsstatistik § 24Planungsdaten§ 24aVerarbeiten personenbezogener Daten für wissenschaftliche Zwecke Unterabschnitt 2 Datenübermittlung an nichtöffentliche Stellen, Behörden anderer Staaten und über- oder zwischenstaatliche Stellen § 25Datenübermittlung an nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen § 26Datenübermittlung an Behörden anderer Staaten und an über- oder zwischenstaatliche Stellen§ 26aDatenübermittlung an die Europäische Kommission nach Artikel 27 der Richtlinie 2001/55/EG § 27Datenübermittlung an sonstige nichtöffentliche Stellen Kapitel 3Visadatei § 28Anlaß der Speicherung § 29Inhalt § 30Übermittelnde Stellen § 31Allgemeine Vorschriften für die Datenübermittlung § 32Dritte, an die Daten übermittelt werden § 33Abruf im automatisierten Verfahren Kapitel 4 Rechte der betroffenen Person § 34Auskunft an die betroffene Person; Datenschutzcockpit Kapitel 5 Berichtigung von Daten, Löschung von Daten und Einschränkung der Verarbeitung § 35Berichtigung § 36Löschung § 37Einschränkung der Verarbeitung § 38Unterrichtung beteiligter Stellen und der betroffenen Person Kapitel 6 Weitere Behörden § 39Aufsichtsbehörden Kapitel 7 Schlußvorschriften § 40Rechtsverordnungen § 41Verwaltungsvorschriften § 42Strafvorschriften § 43Aufhebung von Rechtsvorschriften § 44Bestimmungen zum Verwaltungsverfahren
+Kapitel 1Registerbehörde und Zweck des Registers § 1Registerbehörde, Bestandteile des Registers, Zweck des Registers Kapitel 2Allgemeiner Datenbestand des Registers Abschnitt 1 Anlaß der Speicherung, Inhalt § 2Anlaß der Speicherung § 3Allgemeiner Inhalt § 4Übermittlungssperren § 5Suchvermerke Abschnitt 2 Datenübermittlung an die Registerbehörde, Verantwortlichkeiten, Aufzeichnungspflicht § 6Übermittelnde Stellen, Inhalt der Datenübermittlung § 7Übermittlung und Veränderung von Daten im Wege der Direkteingabe § 8Verantwortung für den Registerinhalt, Datenpflege§ 8aDatenabgleich § 9Aufzeichnungspflicht bei Speicherung Abschnitt 3 Datenübermittlung durch die Registerbehörde, Dritte, an die Daten übermittelt werden Unterabschnitt 1 Datenübermittlung an öffentliche Stellen § 10Allgemeine Vorschriften für die Datenübermittlung § 11Zweckbestimmung, Weiterübermittlung von Daten § 12Gruppenauskunft § 13Aufzeichnungspflicht bei Datenübermittlung § 14Datenübermittlung an alle öffentlichen Stellen § 15Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Vollzugseinrichtungen, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz§ 15aAutomatisierte Datenübermittlung § 16Datenübermittlung an Gerichte § 17Datenübermittlung an das Zollkriminalamt§ 17aDatenübermittlung an die Zentralstelle für Finanztransaktionsuntersuchungen§ 17bDatenübermittlung an die Zentralstelle für Sanktionsdurchsetzung § 18Datenübermittlung an die Bundesagentur für Arbeit und die Behörden der Zollverwaltung § 18aDatenübermittlung an die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen§ 18bDatenübermittlung an die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen§ 18cDatenübermittlung an die für den öffentlichen Gesundheitsdienst zuständigen Behörden§ 18dDatenübermittlung an die Jugendämter, die Unterhaltsvorschussstellen und die Elterngeldstellen§ 18eDatenübermittlung an die Meldebehörden§ 18fDatenübermittlung an die Familienkasse Direktion und die Familienkassen der Bundesagentur für Arbeit§ 18gDatenübermittlung an die Träger der Deutschen Rentenversicherung § 19Datenübermittlung an die Staatsangehörigkeits- und Vertriebenenbehörden § 20Datenübermittlung an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst § 21Datenübermittlung an das Auswärtige Amt, die deutschen Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren und im beschleunigten Fachkräfteverfahren§ 21aDatenübermittlung an das Bundesverwaltungsamt im Rahmen des Registrier- und Asylverfahrens § 22Abruf im automatisierten Verfahren § 23Statistische Aufbereitung der Daten§ 23aDatenübermittlung an die Bundesagentur für Arbeit für Zwecke der Beschäftigungsstatistik § 24Planungsdaten§ 24aVerarbeiten personenbezogener Daten für wissenschaftliche Zwecke Unterabschnitt 2 Datenübermittlung an nichtöffentliche Stellen, Behörden anderer Staaten und über- oder zwischenstaatliche Stellen § 25Datenübermittlung an nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen § 26Datenübermittlung an Behörden anderer Staaten und an über- oder zwischenstaatliche Stellen§ 26aDatenübermittlung an die Europäische Kommission nach Artikel 27 der Richtlinie 2001/55/EG § 27Datenübermittlung an sonstige nichtöffentliche Stellen Kapitel 3Visadatei § 28Anlaß der Speicherung § 29Inhalt § 30Übermittelnde Stellen § 31Allgemeine Vorschriften für die Datenübermittlung § 32Dritte, an die Daten übermittelt werden § 33Abruf im automatisierten Verfahren Kapitel 4 Rechte der betroffenen Person § 34Auskunft an die betroffene Person; Datenschutzcockpit Kapitel 5 Berichtigung von Daten, Löschung von Daten und Einschränkung der Verarbeitung § 35Berichtigung § 36Löschung § 37Einschränkung der Verarbeitung § 38Unterrichtung beteiligter Stellen und der betroffenen Person Kapitel 6 Weitere Behörden § 39Aufsichtsbehörden Kapitel 7 Schlußvorschriften § 40Rechtsverordnungen § 41Verwaltungsvorschriften § 42Strafvorschriften § 43Aufhebung von Rechtsvorschriften § 44Bestimmungen zum Verwaltungsverfahren
 
 ## Kapitel 1 Registerbehörde und Zweck des Registers
 
-##### § 1 Registerbehörde, Bestandteile des Registers, Zweck des Registers
+###### § 1 Registerbehörde, Bestandteile des Registers, Zweck des Registers
 
 (1) Das Ausländerzentralregister wird vom Bundesamt für Migration und Flüchtlinge geführt (Registerbehörde). Das Bundesverwaltungsamt verarbeitet die gespeicherten Daten im Auftrag und nach Weisung des Bundesamtes für Migration und Flüchtlinge, soweit das Bundesamt für Migration und Flüchtlinge die Daten nicht selbst verarbeitet. Das Ausländerzentralregister besteht aus einem allgemeinen Datenbestand und einer gesondert geführten Visadatei.
 
@@ -37,7 +41,7 @@ Kapitel 1Registerbehörde und Zweck des Registers § 1Registerbehörde, Bestandt
 
 ## Abschnitt 1 Anlaß der Speicherung, Inhalt
 
-##### § 2 Anlaß der Speicherung
+###### § 2 Anlaß der Speicherung
 
 (1) Die Speicherung von Daten eines Ausländers ist zulässig, wenn er seinen Aufenthalt nicht nur vorübergehend im Geltungsbereich dieses Gesetzes hat.
 
@@ -111,7 +115,7 @@ Kapitel 1Registerbehörde und Zweck des Registers § 1Registerbehörde, Bestandt
 
 7. bei denen die Voraussetzungen des § 6 des Freizügigkeitsgesetzes/EU für den Verlust des Rechts auf Einreise und Aufenthalt gegeben sind, weil von ihnen eine terroristische Gefahr ausgeht.
 
-##### § 3 Allgemeiner Inhalt
+###### § 3 Allgemeiner Inhalt
 
 (1) Folgende Daten werden gespeichert:
 
@@ -121,9 +125,9 @@ Kapitel 1Registerbehörde und Zweck des Registers § 1Registerbehörde, Bestandt
 
 3. die Anlässe nach § 2 Absatz 1 bis 2c,
 
-4. Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach deutschem Recht, Geburtsdatum, Geburtsort, -land und -bezirk, Geschlechtseintrag, Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
+4. Familienname, Geburtsname, Vornamen, Familienname nach deutschem Recht, Geburtsdatum, Geburtsort, -land und -bezirk, Geschlechtsangabe, Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
 
-5. abweichende Namensschreibweisen, andere Namen, frühere Namen und frühere Geschlechtseinträge (frühere Personalien), Aliaspersonalien, Familienstand, Angaben zum Ausweispapier, letzter Wohnort im Herkunftsland, freiwillig gemachte Angaben zur Religionszugehörigkeit und Staatsangehörigkeiten des Ehegatten oder des Lebenspartners (weitere Personalien),
+5. abweichende Namensschreibweisen, andere Namen, frühere Namen, frühere Geschlechtsangaben, Aliaspersonalien, abweichende Vornamen und Geschlechtsangaben aus den vorgelegten Ausweisdokumenten des Herkunftsstaates, Familienstand, Angaben zu Ausweisdokumenten, letzter Wohnort im Herkunftsland, freiwillig gemachte Angaben zur Religionszugehörigkeit und zu Staatsangehörigkeiten des Ehegatten oder des Lebenspartners (weitere Personalien),
 
 5a. das Lichtbild,
 
@@ -209,9 +213,9 @@ Kapitel 1Registerbehörde und Zweck des Registers § 1Registerbehörde, Bestandt
 
 3. die Anlässe nach § 2 Absatz 3,
 
-4. Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach deutschem Recht, Geburtsdatum, Geburtsort und -bezirk, Geschlecht, Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
+4. die Grundpersonalien,
 
-5. abweichende Namensschreibweisen, andere Namen, frühere Namen und frühere Geschlechtseinträge (frühere Personalien), Aliaspersonalien, Familienstand, Angaben zum Ausweispapier, letzter Wohnort im Herkunftsland, freiwillig gemachte Angaben zur Religionszugehörigkeit und zu Staatsangehörigkeiten des Ehegatten oder des Lebenspartners (weitere Personalien),
+5. die weiteren Personalien,
 
 6. Angaben zum Zuzug oder Fortzug, zum aufenthaltsrechtlichen Status und das Sterbedatum,
 
@@ -219,7 +223,7 @@ Kapitel 1Registerbehörde und Zweck des Registers § 1Registerbehörde, Bestandt
 
 8. Dokumente nach § 6 Absatz 5.
 
-##### § 4 Übermittlungssperren
+###### § 4 Übermittlungssperren
 
 (1) Auf Antrag der betroffenen Person wird eine Übermittlungssperre gespeichert, wenn sie glaubhaft macht, daß durch eine Datenübermittlung an nichtöffentliche Stellen, an Behörden anderer Staaten oder an zwischenstaatliche Stellen ihre schutzwürdigen Interessen oder die einer anderen Person beeinträchtigt werden können. Der Antrag ist bei der Registerbehörde, der für das Asylverfahren zuständigen Organisationseinheit im Bundesamt für Migration und Flüchtlinge oder den Ausländerbehörden zu stellen. Diese entscheiden über den Antrag.
 
@@ -229,7 +233,7 @@ Kapitel 1Registerbehörde und Zweck des Registers § 1Registerbehörde, Bestandt
 
 (4) Werden die Daten ohne Anhörung der betroffenen Person oder gegen Willen der betroffenen Person übermittelt, sind die wesentlichen Gründe für die Entscheidung schriftlich oder elektronisch niederzulegen. Diese Aufzeichnungen müssen den Zweck der Datenübermittlung und den Dritten, an den Daten übermittelt worden sind, eindeutig erkennen lassen. Sie dienen der datenschutzrechtlichen Kontrolle. Die Registerbehörde hat sie gesondert aufzubewahren, durch geeignete Maßnahmen gegen unberechtigten Zugriff zu sichern und nach Fristablauf zu löschen, sofern sie nicht für ein bereits eingeleitetes Kontrollverfahren benötigt werden.
 
-##### § 5 Suchvermerke
+###### § 5 Suchvermerke
 
 (1) Auf Ersuchen einer öffentlichen Stelle wird zur Erfüllung ihrer Aufgaben ein Suchvermerk zur Feststellung des Aufenthalts eines Ausländers im Register gespeichert, wenn sich die betroffene Person zum Zeitpunkt der Anfrage nicht im Geltungsbereich dieses Gesetzes aufhält oder ihr Aufenthaltsort unbekannt ist.
 
@@ -250,7 +254,7 @@ Kapitel 1Registerbehörde und Zweck des Registers § 1Registerbehörde, Bestandt
 ## Abschnitt 2 Datenübermittlung an die Registerbehörde, Verantwortlichkeiten,
 Aufzeichnungspflicht
 
-##### § 6 Übermittelnde Stellen, Inhalt der Datenübermittlung
+###### § 6 Übermittelnde Stellen, Inhalt der Datenübermittlung
 
 (1) Folgende Stellen sind in den jeweils genannten Fällen zur unverzüglichen Übermittlung von Daten an die Registerbehörde verpflichtet:
 
@@ -292,7 +296,7 @@ Aufzeichnungspflicht
 
 3. die in Absatz 1 Nummer 1b bezeichneten Stellen die Daten nach § 3 Absatz 2 Nummer 9 bis 11,
 
-4. die in Absatz 1 Nummer 2 bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 6 und 8, Absatz 2 Nummer 1, 2 und 4 bis 8, Absatz *3e, 3f und 3g*,
+4. die in Absatz 1 Nummer 2 bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 6 und 8, Absatz 2 Nummer 1, 2 und 4 bis 8, Absatz 3c bis 3e,
 
 4a. die in Absatz 1 Nummer 4a bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 5d, Absatz 2 Nummer 1, 2 und 4 bis 8,
 
@@ -300,7 +304,7 @@ Aufzeichnungspflicht
 
 5a. die in Absatz 1 Nummer 4 bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b und zusätzlich das Bundeskriminalamt die Referenznummern nach § 3 Absatz 2 Nummer 1 in den Fällen des § 2 Absatz 1a Nummer 2 und 3, die Referenznummern nach § 3 Absatz 3a Nummer 1 in den Fällen des § 2 Absatz 2 Nummer 3 und die Referenznummern nach § 3 Absatz 3b in den Fällen des § 2 Absatz 2a,
 
-6. die Bundesagentur für Arbeit und die für die Grundsicherung für Arbeitsuchende zuständigen Stellen, die für die Ausführung des Achten Buches Sozialgesetzbuch nach Landesrecht zuständigen Stellen (Jugendämter), die für den Vollzug des Unterhaltsvorschussgesetzes zuständigen Stellen (Unterhaltsvorschussstellen) und die für die Ausführung des Zwölften Buches Sozialgesetzbuch zuständigen Stellen (Träger der Sozialhilfe) die Daten nach § 3 Absatz 1 Nummer 6a in den Fällen des § 2 Absatz 2 Nummer 3a, die Bundesagentur für Arbeit und die für die Grundsicherung für Arbeitsuchende zuständigen Stellen die Daten nach § 3 Absatz 3 in den Fällen des § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1, die für die Ausführung des Achten Buches Sozialgesetzbuch nach Landesrecht zuständigen Stellen (Jugendämter) die Daten nach § 3 Absatz 3c in den Fällen des § 2 Absatz 2 Nummer 3a sowie die Bundesagentur für Arbeit die Daten nach § 3 Absatz 1 Nummer 1, 3, 4 und 7 in den Fällen des § 2 Absatz 2c,
+6. die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen, die für die Ausführung des Achten Buches Sozialgesetzbuch nach Landesrecht zuständigen Stellen (Jugendämter), die für den Vollzug des Unterhaltsvorschussgesetzes zuständigen Stellen (Unterhaltsvorschussstellen) und die für die Ausführung des Zwölften Buches Sozialgesetzbuch zuständigen Stellen (Träger der Sozialhilfe) die Daten nach § 3 Absatz 1 Nummer 6a in den Fällen des § 2 Absatz 2 Nummer 3a, die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen die Daten nach § 3 Absatz 3 in den Fällen des § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1, die für die Ausführung des Achten Buches Sozialgesetzbuch nach Landesrecht zuständigen Stellen (Jugendämter) die Daten nach § 3 Absatz 2 Nummer 8 in den Fällen des § 2 Absatz 1a und 2 Nummer 1 und die Daten nach § 3 Absatz 3c in den Fällen des § 2 Absatz 2 Nummer 2 sowie die Bundesagentur für Arbeit die Daten nach § 3 Absatz 1 Nummer 1, 3, 4 und 7 in den Fällen des § 2 Absatz 2c,
 
 6a. die in Absatz 1 Nummer 8a bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 6a,
 
@@ -336,11 +340,11 @@ Aufzeichnungspflicht
 
 sind auch die der Speicherung zugrundeliegenden Dokumente durch die übermittelnde Stelle zu übermitteln; betrifft die Speicherung Entscheidungen des Bundesamtes für Migration und Flüchtlinge oder gerichtliche Entscheidungen in asylrechtlichen Verfahren, mit denen ein Schutzstatus nach dem Asylgesetz zuerkannt oder ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes festgestellt oder jeder der vorgenannten Schutzstatus abgelehnt wird, ohne dass damit eine Rückkehrentscheidung nach dem Asyl- oder Aufenthaltsgesetz einhergeht, ist nur der Tenor der jeweiligen Entscheidung zu übermitteln. Die Speicherung von Dokumenten nach Nummer 1 und von gerichtlichen Entscheidungen in asylrechtlichen Verfahren darf nur erfolgen, soweit besondere gesetzliche Verarbeitungsregelungen oder überwiegende schutzwürdige Interessen des Ausländers nicht entgegenstehen; Erkenntnisse aus dem Kernbereich privater Lebensgestaltung sind unkenntlich zu machen. Die Registerbehörde hat sicherzustellen, dass im automatisierten Verfahren Dokumente nur abgerufen werden können, wenn die abrufende Stelle das Vorliegen der Voraussetzungen des § 10 Absatz 6 zuvor bestätigt. Die Dokumente sind zu löschen, wenn die dazugehörigen gespeicherten Daten gelöscht werden.
 
-##### § 7 Übermittlung und Veränderung von Daten im Wege der Direkteingabe
+###### § 7 Übermittlung und Veränderung von Daten im Wege der Direkteingabe
 
 Die nach § 22 Abs. 1 zum Abruf von Daten im automatisierten Verfahren zugelassenen Stellen dürfen, sofern sie nicht lediglich zum Datenabruf berechtigt sind, der Registerbehörde die von ihnen zu übermittelnden Daten im Wege der Direkteingabe in das Register mit unmittelbarer Wirkung für dessen Datenbestand übermitteln. Sie sind verpflichtet, die von ihnen eingegebenen Daten, die unrichtig geworden sind oder deren Unrichtigkeit sich nachträglich herausgestellt hat, im Wege der Direkteingabe unverzüglich zu berichtigen oder zu aktualisieren. Bei einem Wechsel der Zuständigkeit gilt Satz 2 für die Stelle entsprechend, auf die die Zuständigkeit übergegangen ist, soweit sie zum automatisierten Verfahren zugelassen ist. Die Registerbehörde hat sicherzustellen, daß dabei nur die Eingabe der jeweils zur Übermittlung zugelassenen Daten technisch möglich ist und den übermittelnden Stellen nur die Daten zur Kenntnis gelangen, die für die Speicherung erforderlich sind. Die eingebende Stelle muß aus der Datei ersichtlich sein.
 
-##### § 8 Verantwortung für den Registerinhalt, Datenpflege
+###### § 8 Verantwortung für den Registerinhalt, Datenpflege
 
 (1) Die in § 6 bezeichneten öffentlichen Stellen sind gegenüber der Registerbehörde für die Zulässigkeit der Übermittlung sowie für die Richtigkeit und Aktualität nach Artikel 5 Absatz 1 Buchstabe d der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung der von ihnen übermittelten Daten verantwortlich. Sie haben die Registerbehörde unverzüglich zu unterrichten, wenn
 
@@ -356,7 +360,7 @@ Die nach § 22 Abs. 1 zum Abruf von Daten im automatisierten Verfahren zugelasse
 
 (4) Bei einem Wechsel der Zuständigkeit gelten die Absätze 1 und 3 für die Stelle entsprechend, auf die die Zuständigkeit übergegangen ist.
 
-##### § 8a Datenabgleich
+###### § 8a Datenabgleich
 
 (1) Die Registerbehörde kann einen Abgleich in automatisierter Form zwischen ihrem Datenbestand und dem entsprechenden Datenbestand der aktenführenden Behörde oder der öffentlichen Stelle, die Daten an die Registerbehörde übermittelt hat, veranlassen, wenn berechtigte Zweifel an der Richtigkeit und Aktualität des Datenbestandes vorliegen, welche die Veranlassung einer Überprüfung rechtfertigen.
 
@@ -366,7 +370,7 @@ Die nach § 22 Abs. 1 zum Abruf von Daten im automatisierten Verfahren zugelasse
 
 (4) Die in Absatz 1 genannten Stellen können sich zum Zweck der Datenpflege und des Datenabgleichs datenverarbeitender Systeme bedienen.
 
-##### § 9 Aufzeichnungspflicht bei Speicherung
+###### § 9 Aufzeichnungspflicht bei Speicherung
 
 (1) Die Registerbehörde hat als speichernde Stelle Aufzeichnungen zu fertigen, aus denen sich die übermittelten Daten, die übermittelnde Dienststelle, die für die Übermittlung verantwortliche Person und der Übermittlungszeitpunkt ergeben müssen.
 
@@ -377,7 +381,7 @@ werden
 
 ## Unterabschnitt 1 Datenübermittlung an öffentliche Stellen
 
-##### § 10 Allgemeine Vorschriften für die Datenübermittlung
+###### § 10 Allgemeine Vorschriften für die Datenübermittlung
 
 (1) Die Übermittlung von Daten an eine öffentliche Stelle ist nur zulässig, wenn die Kenntnis der Daten zur Erfüllung ihrer Aufgaben erforderlich ist. Bei einem Übermittlungsersuchen ist der Zweck anzugeben. Die Registerbehörde hat die Übermittlung zu versagen, wenn Anhaltspunkte dafür bestehen, daß die in Satz 1 bezeichnete Voraussetzung nicht vorliegt.
 
@@ -385,7 +389,7 @@ werden
 
 (2) Das Ersuchen muß, soweit vorhanden, die AZR-Nummer, anderenfalls alle verfügbaren Grundpersonalien der betroffenen Person enthalten. Bei Zweifeln an der Identität des Ausländers kann, außer bei Unionsbürgern, das Ersuchen auch nur mit Lichtbild, mit den Fingerabdruckdaten oder den zu den Fingerabdruckdaten gehörigen Referenznummern gestellt werden. Bei Zweifeln an der Echtheit von Ausweispapieren oder Aufenthaltstiteln oder wenn solche Papiere abhanden gekommen sind, kann das Ersuchen auch nur mit Angaben zum Ausweispapier oder zum Aufenthaltstitel gestellt werden. Ein Ersuchen zum Zweck der Erfüllung von Verpflichtungen zum Austausch von Zusatzinformationen nach Artikel 7 oder 8 der Verordnung (EU) 2018/1860 oder nach Artikel 8 der Verordnung (EU) 2018/1861 oder zum Zweck der Datenpflege der Zusatzinformationen kann auch nur mit der Schengen-ID-Nummer gestellt werden. Stimmen die in dem Übermittlungsersuchen bezeichneten Daten mit den gespeicherten Daten nicht überein, ist die Datenübermittlung unzulässig, es sei denn, Zweifel an der Identität bestehen nicht.
 
-(3) Kann die Registerbehörde die Identität nicht eindeutig feststellen, übermittelt sie zur Identitätsprüfung und -feststellung an die ersuchende Stelle neben Hinweisen auf aktenführende Ausländerbehörden die AZR-Nummer, die Grundpersonalien, die weiteren Personalien ähnlicher Personen mit Ausnahme der früheren Personalien, die nur auf besonderes Ersuchen übermittelt werden, und die Lichtbilder. Die Ausnahmen in Satz 1 gelten nicht für die Ausländerbehörden und die Aufnahmeeinrichtungen. Kann die Identität nicht allein an Hand dieser Daten festgestellt werden, dürfen den Strafverfolgungsbehörden darüber hinaus weitere Daten übermittelt werden, wenn zu erwarten ist, daß deren Kenntnis die Identitätsfeststellung ermöglicht. Die ersuchende Stelle hat alle Daten, die nicht zur betroffenen Person gehören, unverzüglich zu löschen und entsprechende Aufzeichnungen zu vernichten.
+(3) Kann die Registerbehörde die Identität nicht eindeutig feststellen, übermittelt sie zur Identitätsprüfung und -feststellung an die ersuchende Stelle neben Hinweisen auf die aktenführenden Ausländerbehörden die AZR-Nummer, die Grundpersonalien, die weiteren Personalien ähnlicher Personen mit Ausnahme der früheren Namen und der früheren Geschlechtsangaben sowie der abweichenden Vornamen und Geschlechtsangaben aus den vorgelegten Ausweisdokumenten des Herkunftsstaates, die nur auf besonderes Ersuchen übermittelt werden, und die Lichtbilder. Die Ausnahmen in Satz 1 gelten nicht für die Ausländerbehörden und die Aufnahmeeinrichtungen. Kann die Identität nicht allein an Hand dieser Daten festgestellt werden, dürfen den Strafverfolgungsbehörden darüber hinaus weitere Daten übermittelt werden, wenn zu erwarten ist, daß deren Kenntnis die Identitätsfeststellung ermöglicht. Die ersuchende Stelle hat alle Daten, die nicht zur betroffenen Person gehören, unverzüglich zu löschen und entsprechende Aufzeichnungen zu vernichten.
 
 (4) Die AZR-Nummer darf nur im Verkehr mit dem Register genutzt werden. Darüber hinaus darf die AZR-Nummer nur zum Zweck der eindeutigen Zuordnung und nur zusätzlich zu den Grundpersonalien genutzt werden für
 
@@ -394,6 +398,8 @@ werden
 2. die in § 73 Absatz 1 bis 3b des Aufenthaltsgesetzes bezeichneten Feststellungen und Prüfungen sowie sonstige Datenübermittlungen zwischen den in § 73 Absatz 1a Satz 1 und Absatz 2 Satz 1 des Aufenthaltsgesetzes genannten Behörden,
 
 3. Datenübermittlungen zwischen leistungsgewährenden Behörden untereinander nach dem Asylbewerberleistungsgesetz, dem Zweiten, dem Achten oder dem Zwölften Buch Sozialgesetzbuch sowie mit den Ausländer- und den im Übrigen zuständigen Landesbehörden jeweils, soweit für den Ausländer noch keine Versicherungsnummer nach dem Vierten Buch Sozialgesetzbuch bekannt ist,
+
+3a. Datenübermittlungen zwischen der Bundesagentur für Arbeit, den Ausländerbehörden und anderen öffentlichen Stellen im Visumverfahren in den Fällen des § 2 Absatz 2c,
 
 4. Datenübermittlungen von öffentlichen Stellen untereinander in den übrigen Fällen des § 2 Absatz 1a und 2 bis zur Erteilung einer Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt-EU.
 
@@ -405,7 +411,7 @@ werden
 
 (6) Die Registerbehörde übermittelt auf Ersuchen im Register gespeicherte Dokumente (§ 6 Absatz 5), sofern die Kenntnis des Dokuments oder die Ansicht des Ausweis- oder Identifikationsdokuments für die ersuchende Stelle unerlässlich ist, weitere Informationen nicht rechtzeitig von der aktenführenden Behörde zu erlangen sind und ihr die Daten, auf die sich die Dokumente beziehen, übermittelt werden dürfen. Handelt es sich bei dem gespeicherten Dokument um eine Entscheidung des Bundesamtes für Migration und Flüchtlinge, die mit einer Rückkehrentscheidung nach dem Asyl- oder Aufenthaltsgesetz oder einer Entscheidung zu einem Einreise- und Aufenthaltsverbot nach dem Aufenthaltsgesetz einhergeht oder um eine entsprechende gerichtliche Entscheidung in einem asylrechtlichen Verfahren, übermittelt die Registerbehörde dieses Dokument auf Ersuchen zur Durchsetzung der Rückkehrentscheidung oder des Einreise- und Aufenthaltsverbots nur an die Ausländerbehörden, die Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden sowie an sonstige Polizeivollzugsbehörden des Bundes und der Länder.
 
-##### § 11 Zweckbestimmung, Weiterübermittlung von Daten
+###### § 11 Zweckbestimmung, Weiterübermittlung von Daten
 
 (1) Die ersuchende Stelle darf die in § 3 Absatz 1 Nummer 7 in Verbindung mit § 2 Absatz 2 Nummer 7 und 7a sowie § 3 Absatz 4 Nummer 7 in Verbindung mit § 2 Absatz 3 Nummer 7 bezeichneten Daten, die im Rahmen von Gruppenauskünften (§ 12) übermittelten Daten und Dokumente (§ 6 Absatz 5) nur zu dem Zweck verwenden, zu dem sie ihr übermittelt worden sind. Sonstige Daten darf sie zu einem anderen Zweck verwenden, wenn sie ihr auch zu diesem Zweck hätten übermittelt werden dürfen. Die neue Zweckbestimmung ist der Registerbehörde mitzuteilen, soweit es sich bei den übermittelten Daten nicht lediglich um die Grunddaten von Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, handelt.
 
@@ -413,7 +419,7 @@ werden
 
 (2) Die ersuchende Stelle darf die ihr übermittelten Daten nach § 3 Absatz 1 Nummer 4 mit Ausnahme gesperrter Daten (§ 4) an eine andere öffentliche Stelle weiterübermitteln, wenn die Daten dieser Stelle zur Erfüllung ihrer Aufgaben und zu diesem Zweck aus dem Register unmittelbar hätten übermittelt werden dürfen. Weitere Daten mit Ausnahme von gesperrten Daten und von Dokumenten (§ 6 Absatz 5) dürfen unter den Voraussetzungen des Satzes 1 nur weiterübermittelt werden, wenn anderenfalls eine unvertretbare Verzögerung eintreten oder die Aufgabenerfüllung erheblich erschwert würde. Vor der Weiterübermittlung von Daten hat die ersuchende Stelle die Richtigkeit und Aktualität der Daten zu überprüfen. Für die Stelle, an die Daten weiterübermittelt worden sind, gelten die Sätze 1 bis 3 und Absatz 1 entsprechend. Die ersuchende Stelle hat der Registerbehörde den Empfang der Daten und den Verwendungszweck mitzuteilen, soweit es sich bei den übermittelten Daten nicht lediglich um die Grunddaten von Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, handelt. § 65 Absatz 1 des BND-Gesetzes bleibt unberührt.
 
-##### § 12 Gruppenauskunft
+###### § 12 Gruppenauskunft
 
 (1) Die Übermittlung von Daten einer Mehrzahl von Ausländern, die in einem Übermittlungsersuchen nicht mit vollständigen Grundpersonalien bezeichnet sind und die auf Grund im Register gespeicherter und im Übermittlungsersuchen angegebener gemeinsamer Merkmale zu einer Gruppe gehören (Gruppenauskunft), darf nur zur Erfüllung der gesetzlichen Aufgaben der in den §§ 15 bis 17 und 20 bezeichneten öffentlichen Stellen erfolgen. Sie ist zulässig, soweit sie
 
@@ -433,7 +439,7 @@ b) zur Verfolgung eines Verbrechens oder einer anderen erheblichen Straftat, von
 
 (3) Die Registerbehörde hat nach Erteilung einer Gruppenauskunft die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit und, soweit die Daten an eine öffentliche Stelle eines Landes übermittelt worden sind, den Datenschutzbeauftragten des Landes zu unterrichten.
 
-##### § 13 Aufzeichnungspflicht bei Datenübermittlung
+###### § 13 Aufzeichnungspflicht bei Datenübermittlung
 
 (1) Die Registerbehörde hat über die von ihr auf Grund der Übermittlungsersuchen vorgenommenen Abrufe, die Abrufe anderer Stellen und über die Mitteilungen nach § 11 Aufzeichnungen zu fertigen, aus denen der Zweck, die bei der Durchführung des Abrufs verwendeten Daten, die übermittelten Daten und Dokumente, der Tag und die Uhrzeit sowie die Bezeichnung der ersuchenden Stellen und die Angabe der abrufenden sowie der verantwortlichen Person hervorgehen müssen. Aus der Angabe zum Zweck der Abrufe muß die Erforderlichkeit der Datenübermittlung erkennbar sein. Bei einer Gruppenauskunft sind zusätzlich die Gruppenmerkmale aufzunehmen.
 
@@ -441,7 +447,7 @@ b) zur Verfolgung eines Verbrechens oder einer anderen erheblichen Straftat, von
 
 (3) Abweichend von Absatz 1 sind Abrufe der Verfassungsschutzbehörden des Bundes und der Länder, des Militärischen Abschirmdienstes und des Bundesnachrichtendienstes ausschließlich von diesen entsprechend § 6 Absatz 3 Satz 2 bis 5 des Bundesverfassungsschutzgesetzes zu protokollieren.
 
-##### § 14 Datenübermittlung an alle öffentlichen Stellen
+###### § 14 Datenübermittlung an alle öffentlichen Stellen
 
 (1) An alle öffentlichen Stellen werden zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen folgende Daten einschließlich der zugehörigen AZR-Nummer (Grunddaten) übermittelt:
 
@@ -459,9 +465,9 @@ b) zur Verfolgung eines Verbrechens oder einer anderen erheblichen Straftat, von
 
 7. bei Ausländern nach § 2 Absatz 1a und 2 nur zum Zweck, ob die AZR-Nummer nach § 10 Absatz 4 Satz 2 Nummer 4 an andere öffentliche Stellen übermittelt werden darf, zusätzlich die Erteilung einer Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt-EU.
 
-(2) Angaben zu früheren Personalien werden nur auf besonderes Ersuchen übermittelt. Dasselbe gilt für nicht gesperrte Suchvermerke, es sei denn, die öffentliche Stelle, auf deren Ersuchen der Suchvermerk gespeichert worden ist, hat ausdrücklich beantragt, daß auf jedes Ersuchen eine Übermittlung erfolgen soll. Die Sätze 1 und 2 gelten nicht für die Ausländerbehörden und Aufnahmeeinrichtungen.
+(2) Frühere Namen und frühere Geschlechtsangaben sowie abweichende Vornamen und Geschlechtsangaben aus den vorgelegten Ausweisdokumenten des Herkunftsstaates werden nur auf besonderes Ersuchen übermittelt. Dasselbe gilt für nicht gesperrte Suchvermerke, es sei denn, die öffentliche Stelle, auf deren Ersuchen der Suchvermerk gespeichert worden ist, hat ausdrücklich beantragt, daß auf jedes Ersuchen eine Übermittlung erfolgen soll. Die Sätze 1 und 2 gelten nicht für die Ausländerbehörden und Aufnahmeeinrichtungen.
 
-##### § 15 Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Vollzugseinrichtungen, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz
+###### § 15 Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Vollzugseinrichtungen, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz
 
 (1) Die Daten der betroffenen Person mit Ausnahme der Daten nach § 3 Absatz 3d werden auf Ersuchen übermittelt an:
 
@@ -487,7 +493,7 @@ In den Fällen des Satzes 1 Nummer 2 bis 5 wird bei Unionsbürgern, bei denen ei
 
 (4) Dem Bundeskriminalamt in seiner Funktion als SIRENE-Büro gemäß § 3 Absatz 2 des Bundeskriminalamtgesetzes werden auf Ersuchen und nur zur Erfüllung der Verpflichtungen zum Austausch von Zusatzinformationen nach Artikel 7 oder 8 der Verordnung (EU) 2018/1860 oder nach Artikel 8 der Verordnung (EU) 2018/1861 die Daten nach § 3 Absatz 3d übermittelt.
 
-##### § 15a Automatisierte Datenübermittlung
+###### § 15a Automatisierte Datenübermittlung
 
 (1) Die Registerbehörde übermittelt der zuständigen Ausländerbehörde neben den Grundpersonalien und der AZR-Nummer zum Zweck der eindeutigen Zuordnung die Angaben zum Fortzug der betroffenen Person unverzüglich nach deren Speicherung, es sei denn, die Angaben zum Fortzug wurden von der zuständigen Ausländerbehörde selbst an das Register übermittelt. In den Fällen des § 2 Absatz 1a und 2 Nummer 1 werden diese Angaben ebenfalls an das Bundesamt für Migration und Flüchtlinge übermittelt. Sofern sich der Ausländer noch im Leistungsbezug befindet, werden diese Angaben ebenfalls an die zuständige Leistungsbehörde übermittelt.
 
@@ -499,7 +505,7 @@ In den Fällen des Satzes 1 Nummer 2 bis 5 wird bei Unionsbürgern, bei denen ei
 
 (5) Die Registerbehörde übermittelt der mit der Förderung der Ausreisen und der Förderung der Reintegration betrauten Ausländerbehörde oder öffentlichen Stelle neben den Grundpersonalien und der AZR-Nummer zum Zweck der eindeutigen Zuordnung die Angaben zur Wiedereinreise der betroffenen Person unverzüglich nach deren Speicherung, es sei denn, die Angaben zur Förderung der freiwilligen Ausreise und Reintegration und die Angaben der Wiedereinreise der betroffenen Person wurden jeweils von derselben Ausländerbehörde oder öffentlichen Stelle an das Register übermittelt. Im Falle der Wiedereinreise einer Person, deren vormalige Ausreise aus dem Bundesgebiet durch eine Abschiebung durchgesetzt worden ist, übermittelt die Registerbehörde der vor der Ausreise gespeicherten aktenführenden Behörde neben den Grundpersonalien und der AZR-Nummer zum Zweck der eindeutigen Zuordnung die Angaben zur Wiedereinreise der betroffenen Person unverzüglich nach deren Speicherung, es sei denn, diese Behörde hat die Angaben zur Wiedereinreise selbst an das Register übermittelt.
 
-##### § 16 Datenübermittlung an Gerichte
+###### § 16 Datenübermittlung an Gerichte
 
 (1) An Gerichte werden zum Zwecke der Rechtspflege zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
@@ -511,7 +517,7 @@ In den Fällen des Satzes 1 Nummer 2 bis 5 wird bei Unionsbürgern, bei denen ei
 
 4. letzter Wohnort im Herkunftsland,
 
-5. Angaben zum Ausweispapier,
+5. Angaben zu Ausweisdokumenten,
 
 6. die gegenwärtige Anschrift im Bundesgebiet.
 
@@ -529,7 +535,7 @@ Die Erforderlichkeit der Übermittlung ist von der ersuchenden Stelle aktenkundi
 
 (3) Werden über die in den Absätzen 1 und 2 bezeichneten Daten hinaus weitere Daten zur Aufgabenerfüllung benötigt, ist deren Übermittlung auf erneutes Ersuchen zulässig. Absatz 2 Satz 2 gilt entsprechend. Ein Abruf im automatisierten Verfahren ist unzulässig.
 
-##### § 17 Datenübermittlung an das Zollkriminalamt
+###### § 17 Datenübermittlung an das Zollkriminalamt
 
 (1) An das Zollkriminalamt werden, soweit es die Zollfahndungsämter bei der Erledigung ihrer Aufgaben auf Grund der Abgabenordnung und anderer Gesetze unterstützt oder in Fällen von überörtlicher Bedeutung selbständig ermittelt, oder zur Erfüllung von Verpflichtungen aus völkerrechtlichen Verträgen, denen die gesetzgebenden Körperschaften gemäß Artikel 59 Abs. 2 des Grundgesetzes zugestimmt haben, zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
@@ -541,7 +547,7 @@ Die Erforderlichkeit der Übermittlung ist von der ersuchenden Stelle aktenkundi
 
 4. Ausschreibung zur Festnahme oder Aufenthaltsermittlung,
 
-5. Angaben zum Ausweispapier,
+5. Angaben zu Ausweisdokumenten,
 
 5a. die ausländische Personenidentitätsnummer,
 
@@ -575,9 +581,9 @@ Die Erforderlichkeit der Übermittlung ist von der ersuchenden Stelle aktenkundi
 
 5. Ablehnung oder Rücknahme der Feststellung der Aussiedler- oder Spätaussiedlereigenschaft.
 
-##### § 17a Datenübermittlung an die Zentralstelle für Finanztransaktionsuntersuchungen
+###### § 17a Datenübermittlung an die Zentralstelle für Finanztransaktionsuntersuchungen
 
-An die Zentralstelle für Finanztransaktionsuntersuchungen werden zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
+An die Zentralstelle für Finanztransaktionsuntersuchungen werden zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des Geldwäschegesetzes zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
 1. abweichende Namensschreibweisen,
 
@@ -585,7 +591,7 @@ An die Zentralstelle für Finanztransaktionsuntersuchungen werden zur Erfüllung
 
 3. Aliaspersonalien,
 
-4. Angaben zum Ausweispapier,
+4. Angaben zu Ausweisdokumenten,
 
 5. die ausländische Personenidentitätsnummer,
 
@@ -593,7 +599,7 @@ An die Zentralstelle für Finanztransaktionsuntersuchungen werden zur Erfüllung
 
 7. Daten nach § 3 Absatz 1 Nummer 7 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1, 3, 7, 7a und 12.
 
-##### § 17b Datenübermittlung an die Zentralstelle für Sanktionsdurchsetzung
+###### § 17b Datenübermittlung an die Zentralstelle für Sanktionsdurchsetzung
 
 An die Zentralstelle für Sanktionsdurchsetzung werden zur Erfüllung ihrer Aufgaben nach § 1 Absatz 1 des Sanktionsdurchsetzungsgesetzes zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und, soweit vorhanden, folgende Daten übermittelt:
 
@@ -603,9 +609,9 @@ An die Zentralstelle für Sanktionsdurchsetzung werden zur Erfüllung ihrer Aufg
 
 3. Aliaspersonalien und
 
-4. Angaben zum Ausweispapier.
+4. Angaben zu Ausweisdokumenten.
 
-##### § 18 Datenübermittlung an die Bundesagentur für Arbeit und die Behörden der Zollverwaltung
+###### § 18 Datenübermittlung an die Bundesagentur für Arbeit und die Behörden der Zollverwaltung
 
 (1) An die Bundesagentur für Arbeit werden für die Erfüllung ihrer Aufgaben nach dem Achten Abschnitt des Zweiten Kapitels des Aufenthaltsgesetzes, zur Überwachung der zeitlichen und zahlenmäßigen Beschränkungen der Beschäftigungen auf Grund von zwischenstaatlichen Regierungsvereinbarungen und Vermittlungsabsprachen und zur Erhebung und Erstattung von Gebühren neben den Grunddaten folgende Daten der betroffenen Person übermittelt:
 
@@ -617,7 +623,7 @@ Daten von Unionsbürgern, bei denen eine Feststellung des Nichtbestehens oder de
 
 (2) An die Behörden der Zollverwaltung werden zur Bekämpfung der illegalen Beschäftigung von Ausländern zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
-1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien, Angaben zum Ausweispapier und die ausländische Personenidentitätsnummer,
+1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien, Angaben zu Ausweisdokumenten und die ausländische Personenidentitätsnummer,
 
 2. Angaben zum aufenthaltsrechtlichen Status und zu den für oder gegen den Ausländer getroffenen aufenthaltsrechtlichen Entscheidungen,
 
@@ -641,13 +647,13 @@ Daten von Unionsbürgern, bei denen eine Feststellung des Nichtbestehens oder de
 
 5. Ablehnung oder Rücknahme der Feststellung der Aussiedler- oder Spätaussiedlereigenschaft.
 
-##### § 18a Datenübermittlung an die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen
+###### § 18a Datenübermittlung an die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen
 
 An die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen werden zur Prüfung, ob die Voraussetzungen für eine Inanspruchnahme von Leistungen vorliegen oder ob die erforderlichen Gesundheitsuntersuchungen und Impfungen durchgeführt wurden, zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
-1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zum Ausweispapier, die ausländische Personenidentitätsnummer, freiwillige Angaben zur Religionszugehörigkeit,
+1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zu Ausweisdokumenten, die ausländische Personenidentitätsnummer, freiwillige Angaben zur Religionszugehörigkeit,
 
-2. das Datum der Verpflichtungserklärung nach § 68 Absatz 1 des Aufenthaltsgesetzes und die Stelle, bei der sie vorliegt,
+*2.* das Datum der Verpflichtungserklärung nach § 68 Absatz 1 des Aufenthaltsgesetzes und die Stelle, bei der sie vorliegt,
 
 3. Familienstand,
 
@@ -681,11 +687,11 @@ An die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberle
 
 Den Trägern der Sozialhilfe und den für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen werden zum Zweck der weiteren Überprüfung der Identität und zur Prüfung der Leistungsvoraussetzungen auf Ersuchen zudem die zu den Fingerabdruckdaten zugehörigen Referenznummern übermittelt.
 
-##### § 18b Datenübermittlung an die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen
+###### § 18b Datenübermittlung an die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen
 
 (1) An die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen werden zur Erfüllung ihrer Aufgaben nach dem Zweiten und Dritten Buch Sozialgesetzbuch zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
-1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zum Ausweispapier, die ausländische Personenidentitätsnummer,
+1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zu Ausweisdokumenten, die ausländische Personenidentitätsnummer,
 
 2. Familienstand,
 
@@ -713,13 +719,13 @@ Den Trägern der Sozialhilfe und den für die Durchführung des Asylbewerberleis
 
 14. die zu den Fingerabdruckdaten zugehörigen Referenznummern.
 
-(2) An die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen werden zur Erfüllung ihrer Aufgabe nach § 68 Absatz 2 Satz 3 des Aufenthaltsgesetzes in Verbindung mit dem Zweiten Buch Sozialgesetzbuch zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen das Datum der Verpflichtungserklärung nach § 68 Absatz 1 des Aufenthaltsgesetzes und die Stelle, bei der sie vorliegt, übermittelt.
+(2) An die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen werden zur Geltendmachung eines Erstattungsanspruchs im Sinne des § 68 Absatz 2 Satz 4 des Aufenthaltsgesetzes in Verbindung mit dem Zweiten Buch Sozialgesetzbuch zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen das Datum der Verpflichtungserklärung nach § 68 Absatz 1 des Aufenthaltsgesetzes und die Stelle, bei der sie vorliegt, übermittelt.
 
-##### § 18c Datenübermittlung an die für den öffentlichen Gesundheitsdienst zuständigen Behörden
+###### § 18c Datenübermittlung an die für den öffentlichen Gesundheitsdienst zuständigen Behörden
 
 An die für den öffentlichen Gesundheitsdienst zuständigen Behörden werden zur Prüfung, ob die erforderlichen Gesundheitsuntersuchungen und Impfungen durchgeführt wurden, zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
-1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zum Ausweispapier,
+1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zu Ausweisdokumenten,
 
 2. die ausländische Personenidentitätsnummer,
 
@@ -735,11 +741,11 @@ An die für den öffentlichen Gesundheitsdienst zuständigen Behörden werden zu
 
 7. die Durchführung von Impfungen mit Art, Ort und Datum der jeweiligen Impfung.
 
-##### § 18d Datenübermittlung an die Jugendämter, die Unterhaltsvorschussstellen und die Elterngeldstellen
+###### § 18d Datenübermittlung an die Jugendämter, die Unterhaltsvorschussstellen und die Elterngeldstellen
 
 (1) An die Jugendämter werden zur Erfüllung ihrer Aufgaben nach dem Achten Buch Sozialgesetzbuch zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
-1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zum Ausweispapier,
+1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zu Ausweisdokumenten,
 
 2. die ausländische Personenidentitätsnummer,
 
@@ -765,7 +771,7 @@ An die für den öffentlichen Gesundheitsdienst zuständigen Behörden werden zu
 
 (2) An die Jugendämter und weiteren für den Vollzug des Unterhaltsvorschussgesetzes zuständigen Stellen (Unterhaltsvorschussstellen) werden zur Erfüllung ihrer Aufgaben nach dem Unterhaltsvorschussgesetz zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
-1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zum Ausweispapier,
+1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zu Ausweisdokumenten,
 
 2. Angaben zum aufenthaltsrechtlichen Status und zu den für oder gegen den Ausländer getroffenen aufenthaltsrechtlichen Entscheidungen,
 
@@ -775,13 +781,13 @@ An die für den öffentlichen Gesundheitsdienst zuständigen Behörden werden zu
 
 (3) An die für den Vollzug des Bundeselterngeld- und Elternzeitgesetzes zuständigen Stellen (Elterngeldstellen) werden zur Erfüllung ihrer Aufgaben nach dem Bundeselterngeld- und Elternzeitgesetz zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten sowie Angaben zum aufenthaltsrechtlichen Status und zu den für oder gegen den Ausländer getroffenen aufenthaltsrechtlichen Entscheidungen übermittelt.
 
-##### § 18e Datenübermittlung an die Meldebehörden
+###### § 18e Datenübermittlung an die Meldebehörden
 
 An die zuständige Meldebehörde werden zur Erfüllung ihrer Aufgaben in den Fällen des § 2 Absatz 1a und 2 Nummer 1 und 2 zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, unverzüglich nach der Unterbringung in einer Aufnahmeeinrichtung neben den Grundpersonalien die AZR-Nummer nur zum Zweck der eindeutigen Zuordnung, die gegenwärtige Anschrift im Bundesgebiet sowie Übermittlungssperren in einem automatisierten Verfahren übermittelt. Ebenso werden Änderungen dieser Daten übermittelt. Bei Änderung der gegenwärtigen Anschrift im Bundesgebiet ist auch die Anschrift vor Änderung zu übermitteln.
 
 (2) (weggefallen)
 
-##### § 18f Datenübermittlung an die Familienkasse Direktion und die Familienkassen der Bundesagentur für Arbeit
+###### § 18f Datenübermittlung an die Familienkasse Direktion und die Familienkassen der Bundesagentur für Arbeit
 
 (1) An die Familienkasse Direktion der Bundesagentur für Arbeit werden zur Erfüllung der Aufgaben nach Abschnitt X des Einkommensteuergesetzes und nach § 1 des Bundeskindergeldgesetzes in den Fällen, in denen bei einem Unionsbürger die Feststellung des Nichtbestehens oder des Verlustes des Rechts auf Einreise und Aufenthalt nach § 2 Absatz 4, § 5 Absatz 4 oder § 6 Absatz 1 des Freizügigkeitsgesetzes/EU gespeichert wird, die Grundpersonalien des Unionsbürgers, die Feststellung des Nichtbestehens oder des Verlustes des Rechts auf Einreise und Aufenthalt sowie die Daten nach § 3 Absatz 4 Nummer 1 in einem automatisierten Verfahren übermittelt.
 
@@ -789,13 +795,13 @@ An die zuständige Meldebehörde werden zur Erfüllung ihrer Aufgaben in den Fä
 
 (3) An die Familienkassen der Bundesagentur für Arbeit werden zur Erfüllung ihrer Aufgaben nach Abschnitt X des Einkommensteuergesetzes und nach § 1 des Bundeskindergeldgesetzes zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
-1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zum Ausweispapier,
+1. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien und Angaben zu Ausweisdokumenten,
 
 2. Angaben zum aufenthaltsrechtlichen Status und zu den für oder gegen den Ausländer getroffenen aufenthaltsrechtlichen Entscheidungen,
 
 3. begleitende minderjährige Kinder und Jugendliche, Elternteile, Ehegatten und Lebenspartner jeweils mit Familienname und Vornamen.
 
-##### § 18g Datenübermittlung an die Träger der Deutschen Rentenversicherung
+###### § 18g Datenübermittlung an die Träger der Deutschen Rentenversicherung
 
 An die Träger der Deutschen Rentenversicherung werden mit Einwilligung der betroffenen Person zur Prüfung rentenrechtlicher Zeiten nach den §§ 56 und 57 des Sechsten Buches Sozialgesetzbuch zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
@@ -803,7 +809,7 @@ An die Träger der Deutschen Rentenversicherung werden mit Einwilligung der betr
 
 2. Angaben zum aufenthaltsrechtlichen Status während des nach den §§ 56 und 57 des Sechsten Buches Sozialgesetzbuch maßgeblichen Zeitraums.
 
-##### § 19 Datenübermittlung an die Staatsangehörigkeits- und Vertriebenenbehörden
+###### § 19 Datenübermittlung an die Staatsangehörigkeits- und Vertriebenenbehörden
 
 An die zum Vollzug des Staatsangehörigkeitsrechts und an die nach dem Bundesvertriebenengesetz zuständigen Behörden (Staatsangehörigkeits- und Vertriebenenbehörden) werden zur Erfüllung ihrer Aufgaben nach dem Staatsangehörigkeitsgesetz und dem Bundesvertriebenengesetz auf Ersuchen die Grunddaten und folgende Daten übermittelt:
 
@@ -819,13 +825,13 @@ An die zum Vollzug des Staatsangehörigkeitsrechts und an die nach dem Bundesver
 
 An die Staatsangehörigkeitsbehörden werden darüber hinaus zur Erfüllung ihrer Aufgaben nach dem Staatsangehörigkeitsgesetz auf Ersuchen die Angaben zum Bezug von existenzsichernden Leistungen nach dem Asylbewerberleistungsgesetz, dem Unterhaltsvorschussgesetz, dem Zweiten, dem Achten oder dem Zwölften Buch Sozialgesetzbuch übermittelt. Zur Beratung über die Stellung eines Antrags auf Einbürgerung werden die in den Sätzen 1 und 2 genannten Daten mit Einwilligung der betroffenen Person auf Ersuchen an die Staatsangehörigkeitsbehörden übermittelt.
 
-##### § 20 Datenübermittlung an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst
+###### § 20 Datenübermittlung an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst
 
 (1) An die Verfassungsschutzbehörden des Bundes und der Länder, den Militärischen Abschirmdienst und den Bundesnachrichtendienst werden zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Daten übermittelt, die zur Erfüllung der ihnen durch Gesetz übertragenen Aufgaben erforderlich sind, sofern sie nicht aus allgemein zugänglichen Quellen, nur mit übermäßigem Aufwand oder nur durch eine die betroffene Person stärker belastende Maßnahme erhoben werden können. Die Regelungen über die Einsichtnahme in amtliche Register und über die Aufzeichnungspflicht für die in Satz 1 bezeichneten Stellen bleiben unberührt.
 
 (2) Die ersuchende Stelle hat Aufzeichnungen über das Ersuchen, den Zweck des Ersuchens und das Vorliegen der in Absatz 1 Satz 1 bezeichneten Voraussetzungen zu fertigen. Die Aufzeichnungen sind für die datenschutzrechtliche Kontrolle bestimmt. Sie sind gesondert aufzubewahren und durch geeignete Maßnahmen gegen unberechtigten Zugriff zu sichern. Sie sind am Ende des Kalenderjahres, das dem Jahr ihrer Erstellung folgt, zu vernichten, sofern sie nicht für ein bereits eingeleitetes Kontrollverfahren benötigt werden.
 
-##### § 21 Datenübermittlung an das Auswärtige Amt, die deutschen Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren und im beschleunigten Fachkräfteverfahren
+###### § 21 Datenübermittlung an das Auswärtige Amt, die deutschen Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren und im beschleunigten Fachkräfteverfahren
 
 (1) Im Rahmen des Visaverfahrens werden auf Anfrage des Auswärtigen Amts, der deutschen Auslandsvertretungen oder des Bundesamts für Auswärtige Angelegenheiten die hierfür erforderlichen Daten an die beteiligte Organisationseinheit im Bundesverwaltungsamt weitergegeben. Für die Weitergabe gelten die Übermittlungsregelungen dieses Gesetzes entsprechend.
 
@@ -839,17 +845,17 @@ An die Staatsangehörigkeitsbehörden werden darüber hinaus zur Erfüllung ihre
 
 (5) Ist zu der Person, auf die sich die Anfrage einer deutschen Auslandsvertretung, des Auswärtigen Amts oder des Bundesamts für Auswärtige Angelegenheiten bezieht, ein Suchvermerk gespeichert, übermittelt die beteiligte Organisationseinheit die nach Absatz 1 Satz 1 weitergegebenen Daten an die ersuchende Stelle.
 
-(6) Das Bundesministerium des Innern, für Bau und Heimat bestimmt im Einvernehmen mit dem Auswärtigen Amt, bei welchen Speicheranlässen nach § 2 Abs. 2 die beteiligte Organisationseinheit die vom Auswärtigen Amt, dem Bundesamt für Auswärtige Angelegenheiten oder der Auslandsvertretung übermittelten Daten an die Behörde, die diese Speicherung veranlasst hat, übermittelt.
+(6) Das Bundesministerium des Innern bestimmt im Einvernehmen mit dem Auswärtigen Amt, bei welchen Speicheranlässen nach § 2 Abs. 2 die beteiligte Organisationseinheit die vom Auswärtigen Amt, dem Bundesamt für Auswärtige Angelegenheiten oder der Auslandsvertretung übermittelten Daten an die Behörde, die diese Speicherung veranlasst hat, übermittelt.
 
 (7) Die infolge der Übermittlung nach den Absätzen 4 bis 6 erforderlichen weiteren Übermittlungen zwischen den dort genannten Behörden und der nach Absatz 1 Satz 1 anfragenden Behörde dürfen über die beteiligte Organisationseinheit des Bundesverwaltungsamtes erfolgen.
 
 (8) Die Registerbehörde übermittelt bei Speicheranlässen nach § 2 Absatz 2b zur Fortführung eines beschleunigten Fachkräfteverfahrens nach § 81a des Aufenthaltsgesetzes die Daten nach § 3 Absatz 1 Nummer 1 bis 4 und 7 in einem automatisierten Verfahren an die zuständige Auslandsvertretung. Die der Speicherung zugrundeliegenden Dokumente werden auf Ersuchen zusammen mit den Daten nach Satz 1 durch die Registerbehörde an das Auswärtige Amt, die deutschen Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten übermittelt, soweit sie jeweils zu deren Aufgabenerfüllung erforderlich sind. Zu diesem Zweck können das Auswärtige Amt, die deutschen Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten zum Abruf von Daten und Dokumenten der betroffenen Person im automatisierten Verfahren zugelassen werden. Für die Zulassung gilt § 22 Absatz 1 Satz 3 und Absatz 2 bis 4 entsprechend.
 
-##### § 21a Datenübermittlung an das Bundesverwaltungsamt im Rahmen des Registrier- und Asylverfahrens
+###### § 21a Datenübermittlung an das Bundesverwaltungsamt im Rahmen des Registrier- und Asylverfahrens
 
 Nach der Erhebung von Daten nach § 16 Absatz 1 Satz 1 des Asylgesetzes und § 49 des Aufenthaltsgesetzes und nach der Übermittlung von Daten gemäß Artikel 21 der Verordnung (EU) Nr. 604/2013 werden anlässlich von Speicherungen nach § 2 Absatz 1a, 2 Nummer 1 und 2 sowie Absatz 2a die zur Durchführung von Beteiligungen und Abgleichen nach § 73 Absatz 1a des Aufenthaltsgesetzes erforderlichen Daten unverzüglich an die beteiligte Organisationseinheit im Bundesverwaltungsamt weitergegeben. Für die Weitergabe gelten die Übermittlungsregelungen dieses Gesetzes entsprechend.
 
-##### § 22 Abruf im automatisierten Verfahren
+###### § 22 Abruf im automatisierten Verfahren
 
 (1) Folgende öffentliche Stellen nehmen zum Abruf von Daten der betroffenen Person am automatisierten Verfahren teil:
 
@@ -903,13 +909,13 @@ Nach der Erhebung von Daten nach § 16 Absatz 1 Satz 1 des Asylgesetzes und § 4
 
 Soweit der Datenabruf noch nicht im automatisierten Verfahren erfolgt, haben die genannten Behörden bis zum 1. August 2026 die notwendigen technischen und organisatorischen Voraussetzungen des Absatzes 2 zu schaffen und die Zulassung bei der Registerbehörde zu beantragen. Andere öffentliche Stellen können unter den Voraussetzungen des Absatzes 2 zum Abruf von Daten der betroffenen Person im automatisierten Verfahren zugelassen werden. Die Registerbehörde hat die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit unter Mitteilung der nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 zu treffenden Maßnahmen von der Zulassung zu unterrichten.
 
-(2) Das automatisierte Abrufverfahren darf nur eingerichtet werden, wenn die beteiligten Stellen die zur Datensicherung nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 erforderlichen technischen und organisatorischen Maßnahmen getroffen haben. § 20 Abs. 2 gilt entsprechend.
+(2) Das automatisierte Abrufverfahren darf nur eingerichtet werden, wenn die beteiligten Stellen die zur Datensicherung nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 erforderlichen technischen und organisatorischen Maßnahmen getroffen haben.
 
 (3) Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt die abrufende Stelle. Die Registerbehörde überprüft die Zulässigkeit der Abrufe durch geeignete Stichprobenverfahren sowie, wenn dazu Anlass besteht. Die abrufende Stelle hat ein Berechtigungskonzept vorzusehen, welches mit dem jeweiligen Datenschutzbeauftragten der abrufenden Stelle abzustimmen ist.
 
 (4) Die Registerbehörde hat sicherzustellen, daß im automatisierten Verfahren Daten nur abgerufen werden können, wenn die abrufende Stelle einen Verwendungszweck angibt, der ihr den Abruf dieser Daten erlaubt, sofern der Abruf nicht lediglich die Grunddaten nach § 14 Abs. 1 von Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, zum Gegenstand hat.
 
-##### § 23 Statistische Aufbereitung der Daten
+###### § 23 Statistische Aufbereitung der Daten
 
 (1) Das Statistische Bundesamt erstellt jährlich nach dem Stand vom 31. Dezember eine Bundesstatistik über die Ausländer, die sich während des Kalenderjahres nicht nur vorübergehend im Geltungsbereich dieses Gesetzes aufgehalten haben. Zur Erfüllung von Berichtspflichten nach dem Recht der Europäischen Union, die vom Statistischen Bundesamt zu bearbeiten sind, oder eines kurzfristig auftretenden Datenbedarfs für Zwecke der Vorbereitung und Begründung anstehender Entscheidungen oberster Bundesbehörden darf das Statistische Bundesamt die Erhebung auch zu anderen Stichtagen durchführen, wenn ein verbindlicher Rechtsakt der Europäischen Union dies vorsieht oder eine oberste Bundesbehörde hierum ersucht.
 
@@ -919,11 +925,13 @@ Soweit der Datenabruf noch nicht im automatisierten Verfahren erfolgt, haben die
 
 2. Ort, Land und Bezirk der Geburt,
 
-3. Geschlechtseintrag,
+3. Geschlechtsangabe,
 
 4. Staatsangehörigkeiten,
 
 5. Familienstand,
+
+5a. letzter Wohnort im Herkunftsland,
 
 6. Staatsangehörigkeiten des Ehegatten oder des Lebenspartners,
 
@@ -959,7 +967,7 @@ Absatz 2 Satz 2 gilt entsprechend.
 
 Absatz 2 Satz 2 gilt entsprechend. Die Hilfsmerkmale nach Nummer 1, 2 und 4 dürfen vom Statistischen Bundesamt und den statistischen Ämtern der Länder zusammen mit den Erhebungsmerkmalen gespeichert werden.
 
-##### § 23a Datenübermittlung an die Bundesagentur für Arbeit für Zwecke der Beschäftigungsstatistik
+###### § 23a Datenübermittlung an die Bundesagentur für Arbeit für Zwecke der Beschäftigungsstatistik
 
 Die Registerbehörde übermittelt der Bundesagentur für Arbeit zur Erfüllung der Aufgaben nach § 281 Absatz 1 Satz 3 des Dritten Buches Sozialgesetzbuch monatlich zu Ausländern, die keine Unionsbürger sind und sich nicht nur vorübergehend im Geltungsbereich dieses Gesetzes aufhalten, als Erhebungsmerkmale Angaben zum aufenthaltsrechtlichen Status sowie als Hilfsmerkmale folgende Daten:
 
@@ -967,7 +975,7 @@ Die Registerbehörde übermittelt der Bundesagentur für Arbeit zur Erfüllung d
 
 2. das Geschäftszeichen der Registerbehörde (AZR-Nummer),
 
-3. Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach deutschem Recht, Geburtsdatum, Geburtsort, -land und -bezirk, Geschlechtseintrag, Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
+3. Grundpersonalien,
 
 4. abweichende Namensschreibweisen, andere Namen, Aliaspersonalien,
 
@@ -977,13 +985,13 @@ Die Registerbehörde übermittelt der Bundesagentur für Arbeit zur Erfüllung d
 
 Die Hilfsmerkmale sind von den Erhebungsmerkmalen zum frühestmöglichen Zeitpunkt zu trennen und gesondert aufzubewahren oder gesondert zu speichern. Die Bundesagentur für Arbeit stellt der Registerbehörde und obersten Bundesbehörden auf Anfrage die statistischen Ergebnisse differenziert nach dem Aufenthaltsstatus der Ausländer, die keine Unionsbürger sind und sich nicht nur vorübergehend im Geltungsbereich dieses Gesetzes aufhalten, zur Verfügung.
 
-##### § 24 Planungsdaten
+###### § 24 Planungsdaten
 
 (1) Die Registerbehörde kann, soweit die mit der Durchführung ausländer- oder asylrechtlicher Vorschriften betrauten öffentlichen Stellen oder die obersten Behörden des Bundes und der Länder zur Erfüllung ihrer Aufgaben Planungsdaten benötigen, auf Ersuchen über die in § 23 Abs. 2 Satz 1 bezeichneten Daten hinaus die nach § 3 Absatz 1 Nummer 7 in Verbindung mit § 2 Absatz 2 Nummer 4 bis 10 sowie § 3 Absatz 4 Nummer 7 in Verbindung mit § 2 Absatz 3 Nummer 5 bis 7 gespeicherten Daten übermitteln. Das Ersuchen ist schriftlich zu begründen.
 
 (2) Die Daten dürfen nur für Planungszwecke genutzt werden.
 
-##### § 24a Verarbeiten personenbezogener Daten für wissenschaftliche Zwecke
+###### § 24a Verarbeiten personenbezogener Daten für wissenschaftliche Zwecke
 
 (1) Das Bundesamt für Migration und Flüchtlinge darf die nach § 3 Absatz 1 Nummer 1, 2, 4, 5, 5c, 5d, 6, 7a und 9, Absatz 2 Nummer 4, 5, 7 und 8, Absatz 3 und 4 Nummer 1, 2, 4, 5 und 6 gespeicherten Daten zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, verarbeiten, soweit
 
@@ -1009,7 +1017,7 @@ Bei der Abwägung nach Satz 1 Nummer 3 ist im Rahmen des öffentlichen Interesse
 
 3. die schutzwürdigen Interessen der betroffenen Personen nicht beeinträchtigt werden oder das öffentliche Interesse an der Durchführung des Forschungsvorhabens die schutzwürdigen Interessen der betroffenen Personen erheblich überwiegt und der Forschungszweck nicht auf andere Weise erreicht werden kann und
 
-4. das Bundesministerium des Innern, für Bau und Heimat der Übermittlung zustimmt.
+4. das Bundesministerium des Innern der Übermittlung zustimmt.
 
 Absatz 1 Satz 2, Absatz 2 Satz 2 und die Absätze 3 und 4 gelten entsprechend. Für die Übermittlung an Forschungseinrichtungen des Bundes und an Bundesbehörden zur Durchführung gemeinsamer Forschungsvorhaben gelten die Sätze 1 und 2 mit der Maßgabe, dass Befragungsdaten mit Einwilligung der Befragten auch mit Angaben zum Namen und zur Anschrift der Befragten übermittelt werden dürfen, wenn dies zur Erreichung des Forschungsziels erforderlich ist; die Erforderlichkeit ist gegenüber dem Bundesamt für Migration und Flüchtlinge schriftlich zu begründen. Die Daten sind zu anonymisieren, sobald dies nach dem Forschungszweck möglich ist. Der Dritte, an den die Daten übermittelt wurden, darf diese nur zum Zweck der Durchführung des Forschungsvorhabens verarbeiten.
 
@@ -1021,7 +1029,7 @@ Absatz 1 Satz 2, Absatz 2 Satz 2 und die Absätze 3 und 4 gelten entsprechend. F
 
 3. die schutzwürdigen Interessen der Betroffenen nicht beeinträchtigt werden oder das öffentliche Interesse an der Durchführung des Forschungsvorhabens die schutzwürdigen Interessen der Betroffenen erheblich überwiegt und der Forschungszweck nicht auf andere Weise erreicht werden kann und
 
-4. das Bundesministerium des Innern, für Bau und Heimat der Übermittlung zustimmt.
+4. das Bundesministerium des Innern der Übermittlung zustimmt.
 
 Absatz 1 Satz 2 und Absatz 3 gelten entsprechend. Eine Übermittlung ohne Einwilligung der betroffenen Person ist nicht zulässig. Angaben über den Namen und Vornamen, die Anschrift, die Telefonnummer sowie die für die Einleitung eines Vorhabens nach Satz 1 zwingend erforderlichen Strukturmerkmale der betroffenen Person können bei Ausländern nach § 2 Absatz 2 Nummer 2 bis 14 und bei Unionsbürgern, die nicht freizügigkeitsberechtigt sind, für Befragungen auch ohne Einwilligung übermittelt werden, wenn dies zur Einholung der Einwilligung nach Satz 3 erforderlich ist; die Erforderlichkeit ist gegenüber dem Bundesamt für Migration und Flüchtlinge schriftlich zu begründen. Die Begründung darf nur für Auskünfte an den Betroffenen nach § 34, für die Unterrichtung über die Berichtigung, Löschung oder Sperrung von Daten nach § 38 oder zur datenschutzrechtlichen Kontrolle der Zulässigkeit der Abrufe verwendet werden. Die Begründung ist durch geeignete Maßnahmen gegen unberechtigten Zugriff zu sichern und nach Fristablauf zu löschen, wenn sie nicht für ein bereits eingeleitetes Kontrollverfahren benötigt wird. Die übermittelten Daten nach Satz 1 sind zu anonymisieren, sobald dies nach dem Forschungszweck möglich ist. Die Forschungseinrichtung, an die Daten übermittelt wurden, darf diese nur zum Zweck der Durchführung des Forschungsvorhabens verarbeiten. Die Daten sind gegen unbefugte Kenntnisnahme durch Dritte zu schützen. Die Forschungseinrichtung hat dafür zu sorgen, dass die Verwendung der personenbezogenen Daten räumlich und organisatorisch getrennt von der Erfüllung solcher Verwaltungsaufgaben oder Geschäftszwecke erfolgt, für die diese Daten gleichfalls von Bedeutung sein können.
 
@@ -1032,7 +1040,7 @@ Absatz 1 Satz 2 und Absatz 3 gelten entsprechend. Eine Übermittlung ohne Einwil
 ## Unterabschnitt 2 Datenübermittlung an nichtöffentliche Stellen, Behörden
 anderer Staaten und über- oder zwischenstaatliche Stellen
 
-##### § 25 Datenübermittlung an nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen
+###### § 25 Datenübermittlung an nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen
 
 (1) An nichtöffentliche Stellen im Geltungsbereich dieses Gesetzes, die im Rahmen der Erfüllung ihrer humanitären oder sozialen Aufgaben nach Verschollenen zur Familienzusammenführung suchen oder Unterstützung in Vormundschafts- und Unterhaltsangelegenheiten leisten, kann die Registerbehörde zur Erfüllung dieser Aufgaben zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen die Grundpersonalien, das Lichtbild und folgende weitere Daten übermitteln:
 
@@ -1050,15 +1058,15 @@ anderer Staaten und über- oder zwischenstaatliche Stellen
 
 (4) Liegt dem Übermittlungsersuchen einer der in Absatz 1 bezeichneten Stellen das Begehren eines Dritten zugrunde, ihm den Aufenthaltsort des Betroffenen mitzuteilen, so darf diese Stelle die Daten nur mit Einwilligung des Betroffenen an den Dritten weiterübermitteln. Die Registerbehörde hat die ersuchende Stelle darauf hinzuweisen. Verweigert die betroffene Person die Einwilligung, hat die ersuchende Stelle die Daten der betroffenen Person unverzüglich zu vernichten.
 
-##### § 26 Datenübermittlung an Behörden anderer Staaten und an über- oder zwischenstaatliche Stellen
+###### § 26 Datenübermittlung an Behörden anderer Staaten und an über- oder zwischenstaatliche Stellen
 
 An Behörden von Staaten, die nach § 1 Absatz 6 Satz 2 des Bundesdatenschutzgesetzes als Drittstaaten gelten, und an über- oder zwischenstaatliche Stellen können personenbezogene Daten übermittelt werden. Bei der Übermittlung sind Kapitel V der Verordnung (EU) 2016/679 und § 14 Absatz 1 Nummer 1 bis 5 und Absatz 2 anzuwenden. Für eine Übermittlung an Behörden von Mitgliedstaaten der Europäischen Union und von Staaten im Sinne des § 1 Absatz 6 Satz 1 des Bundesdatenschutzgesetzes findet auch § 15 entsprechende Anwendung. Für die Datenübermittlung ist das Einvernehmen mit der Stelle herzustellen, die die Daten an die Registerbehörde übermittelt hat. Die Übermittlung von Daten von Unionsbürgern, bei denen eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts nicht vorliegt, ist nur zur Durchführung ausländer- oder asylrechtlicher Aufgaben zulässig. Die Übermittlung von Dokumenten nach § 6 Absatz 5 an Behörden und Stellen im Sinne des Satz 1 ist unzulässig. Im Falle einer Übermittlung der Dokumente nach § 6 Absatz 5 an Behörden nach Satz 3 ist die empfangende Stelle darauf hinzuweisen, dass die Dokumente nur zu dem Zweck verarbeitet werden dürfen, zu dem sie übermittelt worden sind und eine Weiterübermittlung der Dokumente an Behörden anderer Staaten nicht erfolgen darf.
 
-##### § 26a Datenübermittlung an die Europäische Kommission nach Artikel 27 der Richtlinie 2001/55/EG
+###### § 26a Datenübermittlung an die Europäische Kommission nach Artikel 27 der Richtlinie 2001/55/EG
 
 An die Europäische Kommission werden die Daten, die dem Umfang nach den Daten nach § 91a des Aufenthaltsgesetzes entsprechen, zur Aufgabenerfüllung nach Artikel 27 der Richtline 2001/55/EG übermittelt. § 26 Satz 4 ist nicht anzuwenden.
 
-##### § 27 Datenübermittlung an sonstige nichtöffentliche Stellen
+###### § 27 Datenübermittlung an sonstige nichtöffentliche Stellen
 
 (1) An sonstige nichtöffentliche Stellen können zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, auf Ersuchen Daten über die aktenführende Ausländerbehörde, zum Zuzug oder Fortzug oder über das Sterbedatum der betroffenen Person übermittelt werden, wenn die Nachfrage bei der zuletzt zuständigen Meldebehörde erfolglos geblieben ist und ein rechtliches Interesse an der Kenntnis des Aufenthaltsortes nachgewiesen wird. Der Nachweis kann nur erbracht werden durch die Vorlage
 
@@ -1078,11 +1086,11 @@ An die Europäische Kommission werden die Daten, die dem Umfang nach den Daten n
 
 ## Kapitel 3 Visadatei
 
-##### § 28 Anlaß der Speicherung
+###### § 28 Anlaß der Speicherung
 
 Die Speicherung von Daten eines Ausländers ist zulässig, wenn er ein Visum beantragt. Darüber hinaus ist es zulässig, Daten von natürlichen oder juristischen Personen zu den gespeicherten Daten des Ausländers hinzuzuspeichern, die eine Verpflichtungserklärung nach § 66 Absatz 2 des Aufenthaltsgesetzes oder § 68 Absatz 1 des Aufenthaltsgesetzes abgegeben haben.
 
-##### § 29 Inhalt
+###### § 29 Inhalt
 
 (1) Folgende Daten werden gespeichert:
 
@@ -1116,13 +1124,13 @@ Die Speicherung von Daten eines Ausländers ist zulässig, wenn er ein Visum bea
 
 (3) (weggefallen)
 
-##### § 30 Übermittelnde Stellen
+###### § 30 Übermittelnde Stellen
 
-(1) Die deutschen Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten, die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betrauten Behörden und die Ausländerbehörden sind zur Übermittlung der Daten nach § 29 Absatz 1 Nummer 2 bis 12 und Absatz 2 an die Registerbehörde verpflichtet. Die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen, die für die Ausführung des Achten Buches Sozialgesetzbuch nach Landesrecht zuständigen Stellen (Jugendämter), die für den Vollzug des Unterhaltsvorschussgesetzes zuständigen Stellen (Unterhaltsvorschussstellen), die für die Ausführung des Zwölften Buches Sozialgesetzbuch zuständigen Stellen (Träger der Sozialhilfe) und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen sind zur Übermittlung der Angabe verpflichtet, ob im Falle früherer Aufwendung öffentlicher Mittel die Inanspruchnahme des Verpflichtungsgebers erfolglos war (§ 29 Absatz 1 Nummer 10).
+(1) Die deutschen Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten, die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betrauten Behörden und die Ausländerbehörden sind zur Übermittlung der Daten nach § 29 Absatz 1 Nummer 2 bis 12 und Absatz 2 an die Registerbehörde verpflichtet. Die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen, die für die Ausführung des Achten Buches Sozialgesetzbuch nach Landesrecht zuständigen Stellen (Jugendämter), die für die Ausführung des Zwölften Buches Sozialgesetzbuch zuständigen Stellen (Träger der Sozialhilfe) und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen sind zur Übermittlung der Angabe verpflichtet, ob im Falle früherer Aufwendung öffentlicher Mittel die Inanspruchnahme des Verpflichtungsgebers erfolglos war (§ 29 Absatz 1 Nummer 10).
 
 (2) Die in Absatz 1 bezeichneten Stellen dürfen die Daten im Wege der Direkteingabe in das Register übermitteln. § 7 gilt entsprechend.
 
-##### § 31 Allgemeine Vorschriften für die Datenübermittlung
+###### § 31 Allgemeine Vorschriften für die Datenübermittlung
 
 (1) Das Ersuchen um Übermittlung von Daten muss, soweit vorhanden, die Visadatei-Nummer oder Visumaktenzeichen oder Nummer des Visums, anderenfalls alle verfügbaren Grundpersonalien der betroffenen Person enthalten. Bei Zweifeln an der Identität des Ausländers kann das Ersuchen auch nur mit Lichtbild gestellt werden. Bei Zweifeln an der Echtheit von Ausweispapieren oder Aufenthaltstiteln oder wenn solche Papiere abhanden gekommen sind, kann das Ersuchen auch nur mit Angaben zum Ausweispapier oder zum Aufenthaltstitel gestellt werden. Stimmen die im Übermittlungsersuchen bezeichneten Personalien mit den gespeicherten Daten nicht überein, ist die Datenübermittlung unzulässig, es sei denn, Zweifel an der Identität bestehen nicht. Kann die Registerbehörde die Identität nicht eindeutig feststellen, sind zur Identitätsprüfung und -feststellung die Daten ähnlicher Personen nach § 29 Abs. 1 zu übermitteln. Die ersuchende Stelle hat alle Daten, die nicht zur betroffenen Person gehören, unverzüglich zu löschen und entsprechende Aufzeichnungen zu vernichten.
 
@@ -1130,7 +1138,7 @@ Die Speicherung von Daten eines Ausländers ist zulässig, wenn er ein Visum bea
 
 (3) Im übrigen gelten die §§ 8, 9, 10 Abs. 1 sowie die §§ 11, 12 und 13 entsprechend.
 
-##### § 32 Dritte, an die Daten übermittelt werden
+###### § 32 Dritte, an die Daten übermittelt werden
 
 (1) Auf Ersuchen werden die Daten an folgende öffentliche Stellen zur Erfüllung ihrer Aufgaben übermittelt:
 
@@ -1146,7 +1154,7 @@ Die Speicherung von Daten eines Ausländers ist zulässig, wenn er ein Visum bea
 
 6. die Ausländerbehörden und Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes,
 
-7. die Träger der Sozialhilfe, die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen,
+7. die Träger der Sozialhilfe, die Bundesagentur für Arbeit und die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen, die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen und die Jugendämter,
 
 8. die in § 20 Abs. 1 bezeichneten öffentlichen Stellen,
 
@@ -1154,23 +1162,25 @@ Die Speicherung von Daten eines Ausländers ist zulässig, wenn er ein Visum bea
 
 10. die Bundesagentur für Arbeit und die Behörden der Zollverwaltung,
 
-11. die obersten Bundes- und Landesbehörden, die mit der Durchführung ausländer- und asylrechtlicher Vorschriften als eigener Aufgabe betraut sind, soweit nicht § 21 anzuwenden ist,
+11. die obersten Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind, soweit nicht § 21 anzuwenden ist,
 
 12. die Zentralstelle für Finanztransaktionsuntersuchungen,
 
-13. die Zentralstelle für Sanktionsdurchsetzung.
+13. die Zentralstelle für Sanktionsdurchsetzung,
+
+14. die deutschen Auslandsvertretungen und das Bundesamt für Auswärtige Angelegenheiten.
 
 (2) § 21 Abs. 1 bis 3 und die Übermittlungsregelungen dieses Gesetzes gelten entsprechend.
 
 (3) Eine Datenübermittlung an nichtöffentliche Stellen ist unzulässig.
 
-##### § 33 Abruf im automatisierten Verfahren
+###### § 33 Abruf im automatisierten Verfahren
 
 Die in § 32 bezeichneten Stellen können zum Abruf von Daten im automatisierten Verfahren zugelassen werden. § 22 Absatz 1 Satz 2 bis 4 und Absatz 2 bis 4 gilt entsprechend.
 
 ## Kapitel 4 Rechte der betroffenen Person
 
-##### § 34 Auskunft an die betroffene Person; Datenschutzcockpit
+###### § 34 Auskunft an die betroffene Person; Datenschutzcockpit
 
 (1) In dem Antrag auf Auskunft nach Artikel 15 der Verordnung (EU) 2016/679 muss die betroffene Person ihre Grundpersonalien angeben.
 
@@ -1190,9 +1200,9 @@ und deswegen das Interesse der betroffenen Person an der Auskunftserteilung zur�
 
 (5) Wird der betroffenen Person keine Auskunft erteilt, ist sie auf sein oder ihr Verlangen die oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit zu erteilen, soweit nicht die Daten der betroffenen Person von einer der in § 20 Abs. 1 bezeichneten öffentlichen Stelle übermittelt worden sind und die jeweils zuständige oberste Bundesbehörde im Einzelfall feststellt, daß dadurch die Sicherheit des Bundes oder eines Landes gefährdet würde. Die Mitteilung der oder des Bundesbeauftragten an die betroffene Person darf keine Rückschlüsse auf den Erkenntnisstand der speichernden Stelle zulassen, sofern diese nicht einer weitergehenden Auskunft zustimmt.
 
-(6) Die Registerbehörde ist verpflichtet, sämtliche Datenübermittlungen nach diesem Gesetz an das Register und aus dem Register gemäß den §§ 9, 13 zu protokollieren und der betroffenen Person digital über eine zentrale Stelle transparent zu machen (AZR-Datenschutzcockpit). Dazu stellt die Registerbehörde eine IT-Komponente zur Verfügung, mit der sich natürliche Personen Auskünfte zu den sie betreffenden Datenübermittlungen nach diesem Gesetz von öffentlichen Stellen an das Register und vom Register an öffentliche Stellen anzeigen lassen können. Diese Daten werden im AZR-Datenschutzcockpit nur für die Dauer des jeweiligen Nutzungsvorgangs gespeichert; nach Beendigung des Nutzungsvorgangs sind sie unverzüglich zu löschen. Die Absätze 2 bis 5 gelten entsprechend. § 10 des Onlinezugangsgesetzes bleibt unberührt für Datenübermittlungen nach dem Identifikationsnummerngesetz. Sobald das Bundesministerium des Innern und für Heimat im Bundesanzeiger bekannt gibt, dass die technischen und rechtlichen Voraussetzungen für eine Anzeige der Datenübermittlungen nach diesem Gesetz im Datenschutzcockpit nach § 10 des Onlinezugangsgesetzes vorliegen, sollen das Datenschutzcockpit nach dem Onlinezugangsgesetz und das Datenschutzcockpit nach diesem Gesetz in der Weise zusammengeführt werden, dass das AZR-Datenschutzcockpit im Datenschutzcockpit nach dem Onlinezugangsgesetz aufgeht. § 9 Absatz 2 und 3 des Identifikationsnummerngesetzes gilt ab diesem Zeitpunkt entsprechend. Das Nähere zum Zugang, zu den technischen Verfahren, den technischen Formaten der Datensätze und den Übertragungswegen legt das Bundesministerium des Innern und für Heimat durch Rechtsverordnung fest.
+(6) Die Registerbehörde ist verpflichtet, sämtliche Datenübermittlungen nach diesem Gesetz an das Register und aus dem Register gemäß den §§ 9, 13 zu protokollieren und der betroffenen Person digital über eine zentrale Stelle transparent zu machen (AZR-Datenschutzcockpit). Dazu stellt die Registerbehörde eine IT-Komponente zur Verfügung, mit der sich natürliche Personen Auskünfte zu den sie betreffenden Datenübermittlungen nach diesem Gesetz von öffentlichen Stellen an das Register und vom Register an öffentliche Stellen anzeigen lassen können. Diese Daten werden im AZR-Datenschutzcockpit nur für die Dauer des jeweiligen Nutzungsvorgangs gespeichert; nach Beendigung des Nutzungsvorgangs sind sie unverzüglich zu löschen. Die Absätze 2 bis 5 gelten entsprechend. § 10 des Onlinezugangsgesetzes bleibt unberührt für Datenübermittlungen nach dem Identifikationsnummerngesetz. Sobald das Bundesministerium des Innern im Bundesanzeiger bekannt gibt, dass die technischen und rechtlichen Voraussetzungen für eine Anzeige der Datenübermittlungen nach diesem Gesetz im Datenschutzcockpit nach § 10 des Onlinezugangsgesetzes vorliegen, sollen das Datenschutzcockpit nach dem Onlinezugangsgesetz und das Datenschutzcockpit nach diesem Gesetz in der Weise zusammengeführt werden, dass das AZR-Datenschutzcockpit im Datenschutzcockpit nach dem Onlinezugangsgesetz aufgeht. § 9 Absatz 2 und 3 des Identifikationsnummerngesetzes gilt ab diesem Zeitpunkt entsprechend. Das Nähere zum Zugang, zu den technischen Verfahren, den technischen Formaten der Datensätze und den Übertragungswegen legt das Bundesministerium des Innern durch Rechtsverordnung fest.
 
-##### § 34a Datenschutzrechtliche Kontrolle
+###### § 34a Datenschutzrechtliche Kontrolle
 
 (1) Die Kontrolle der Durchführung des Datenschutzes obliegt nach § 9 Absatz 1 des Bundesdatenschutzgesetzes der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit. Die von den Ländern in das Ausländerzentralregister eingegebenen Datensätze können auch von den jeweiligen Landesbeauftragten für den Datenschutz im Zusammenhang mit der Wahrnehmung ihrer Prüfungsaufgaben in den Ländern kontrolliert werden, soweit die Länder nach § 8 Absatz 1 verantwortlich sind. Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit arbeitet insoweit mit den Landesbeauftragten für den Datenschutz zusammen.
 
@@ -1200,11 +1210,11 @@ und deswegen das Interesse der betroffenen Person an der Auskunftserteilung zur�
 
 ## Kapitel 5 Berichtigung von Daten, Löschung von Daten und Einschränkung der Verarbeitung
 
-##### § 35 Berichtigung
+###### § 35 Berichtigung
 
 Die Registerbehörde hat die nach den §§ 3 bis 5 und 29 gespeicherten Daten nach Artikel 5 Absatz 1 Buchstabe d der Verordnung (EU) 2016/679 zu berichtigen, wenn sie unrichtig sind.
 
-##### § 36 Löschung
+###### § 36 Löschung
 
 (1) Die Registerbehörde hat Daten spätestens mit Fristablauf zu löschen. Bei der Datenübermittlung teilt die übermittelnde Stelle für sie geltende Löschungsfristen mit. Die Registerbehörde hat die jeweils kürzere Frist zu beachten. Eine Löschung hat unverzüglich zu erfolgen, wenn die Speicherung der Daten unzulässig war. Eine Löschung erfolgt ferner, wenn die Registerbehörde eine Mitteilung nach § 8 Absatz 1 Satz 2 Nummer 2 erhält.
 
@@ -1212,29 +1222,29 @@ Die Registerbehörde hat die nach den §§ 3 bis 5 und 29 gespeicherten Daten na
 
 (3) Sobald die Ausländerbehörden Kenntnis vom Erwerb der deutschen Staatsangehörigkeit oder von der Feststellung der Eigenschaft als Deutscher im Sinne des Artikels 116 des Grundgesetzes eines Ausländers erhalten haben, teilen sie dies der Registerbehörde mit.
 
-##### § 37 Einschränkung der Verarbeitung
+###### § 37 Einschränkung der Verarbeitung
 
 (1) Ergänzend zu Artikel 18 der Verordnung (EU) 2016/679 schränkt die Registerbehörde die Verarbeitung personenbezogener Daten ein, wenn die Daten nur zu Zwecken der Datensicherung oder Datenschutzkontrolle gespeichert sind.
 
 (2) In der Verarbeitung eingeschränkte Daten sind mit einem Sperrvermerk zu versehen. Sie dürfen außer zur Prüfung der Richtigkeit ohne Einwilligung der betroffenen Person nicht verarbeitet werden. In der Verarbeitung eingeschränkte Daten dürfen unter Hinweis auf den Sperrvermerk außerdem verwendet werden, soweit dies für Zwecke der Strafverfolgung erforderlich ist.
 
-##### § 38 Unterrichtung beteiligter Stellen
+###### § 38 Unterrichtung beteiligter Stellen
 
-(1) Die Registerbehörde hat im Fall einer Berichtigung, Löschung oder Einschränkung der Verarbeitung nach den §§ 35 bis 37 den Empfänger der betreffenden Daten zu unterrichten, wenn dies zur Wahrung überwiegender schutzwürdiger Interessen der betroffenen Person erforderlich ist. Sie hat auch diejenige Stelle zu unterrichten, die ihr diese Daten übermittelt hat.
+(1) Die Registerbehörde hat im Fall einer Berichtigung, Löschung oder Einschränkung der Verarbeitung nach den §§ 35 bis 37 den Empfänger der betreffenden Daten zu unterrichten, wenn dies zur Wahrung überwiegender schutzwürdiger Interessen der betroffenen Person erforderlich ist. Sie hat auch diejenige Stelle zu unterrichten, die ihr diese Daten übermittelt hat. Satz 2 gilt nicht, wenn die Berichtigung, Löschung oder Einschränkung der Verarbeitung von der übermittelnden Stelle selbst vorgenommen worden ist.
 
 (2) Absatz 1 gilt nicht für Löschungen bei Fristablauf.
 
 ## Kapitel 6 Weitere Behörden
 
-##### § 39 Aufsichtsbehörden
+###### § 39 Aufsichtsbehörden
 
 Auf Aufsichtsbehörden sind die für die beaufsichtigten Behörden jeweils geltenden Vorschriften dieses Gesetzes entsprechend anzuwenden, soweit dies für die Ausübung ihrer Aufsichtsfunktion erforderlich ist. Ein Abruf von Daten im automatisierten Verfahren ist unzulässig.
 
 ## Kapitel 7 Schlußvorschriften
 
-##### § 40 Rechtsverordnungen
+###### § 40 Rechtsverordnungen
 
-Das Bundesministerium des Innern, für Bau und Heimat bestimmt mit Zustimmung des Bundesrates durch Rechtsverordnung
+Das Bundesministerium des Innern bestimmt mit Zustimmung des Bundesrates durch Rechtsverordnung
 
 1. Näheres zu den Daten, die
 
@@ -1244,7 +1254,7 @@ b) an und durch die Registerbehörde übermittelt oder innerhalb der Registerbeh
 
 2. Näheres zu den Voraussetzungen und zum Verfahren
 
-a) der Übermittlung von Daten an und durch die Registerbehörde, insbesondere der Direkteingabe von Daten und des Datenabrufs im automatisierten Verfahren, sowie der Weitergabe innerhalb der Registerbehörde,
+a) der Übermittlung von Daten an und durch die Registerbehörde, insbesondere der Direkteingabe von Daten, des Datenabrufs und der Datenübermittlung im automatisierten Verfahren, sowie der Weitergabe innerhalb der Registerbehörde,
 
 b) der Identitätsprüfung nach § 10 Abs. 3, § 21 Abs. 3 und § 31 Abs. 1,
 
@@ -1262,13 +1272,13 @@ f) bei Dokumenten nach § 6 Absatz 5;
 
 5. Regelungen über die elektronische Registerführung und die elektronische Datenübermittlung zwischen der Registerbehörde und den mit der Durchführung ausländer- und asylrechtlicher Vorschriften beauftragten Behörden und anderen öffentlichen Stellen, die sich auf die technischen Grundsätze des Aufbaus der verwendeten Standards und das Verfahren der Datenübermittlung beziehen.
 
-##### § 41 Verwaltungsvorschriften
+###### § 41 Verwaltungsvorschriften
 
 (1) Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften zu diesem Gesetz und zu den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen erlassen. Bei bundeseigener Verwaltung bedürfen die allgemeinen Verwaltungsvorschriften nicht der Zustimmung des Bundesrates.
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat benennt in einer Dienstvorschrift die Daten, die von der Registerbehörde nach § 20 Abs. 1 übermittelt werden. Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlaß der Dienstvorschrift anzuhören.
+(2) Das Bundesministerium des Innern benennt in einer Dienstvorschrift die Daten, die von der Registerbehörde nach § 20 Abs. 1 übermittelt werden. Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlaß der Dienstvorschrift anzuhören.
 
-##### § 42 Strafvorschriften
+###### § 42 Strafvorschriften
 
 (1) Wer unbefugt personenbezogene Daten, die nicht offenkundig sind,
 
@@ -1290,11 +1300,10 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 (4) (weggefallen)
 
-##### § 43 Aufhebung von Rechtsvorschriften
+###### § 43 Aufhebung von Rechtsvorschriften
 
 -
 
-##### § 44 Bestimmungen zum Verwaltungsverfahren
+###### § 44 Bestimmungen zum Verwaltungsverfahren
 
 Von den in diesem Gesetz getroffenen Regelungen des Verwaltungsverfahrens der Länder kann mit Ausnahme von § 5 Abs. 4 Satz 1, § 10 Abs. 3 Satz 3 und § 11 Abs. 1 nicht durch Landesrecht abgewichen werden.
-
