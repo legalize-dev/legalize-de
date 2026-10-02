@@ -4,18 +4,22 @@ identifier: "VERPFLG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1974-03-02"
-last_updated: "2026-04-04"
+last_updated: "2026-10-02"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/verpflg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR005470974"
 slug: "verpflg"
 bgbl_reference: "BGBl I 1974, 469, 547"
-stand: "Geändert durch § 1 Nr. 4 G v. 15.8.1974 I 1942"
+stand: "Zuletzt geändert durch Art. 1 G v. 30.9.2026 I Nr. 285"
 ---
 # Gesetz über die förmliche Verpflichtung nichtbeamteter Personen
 
-##### § 1
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1
 
 (1) Auf die gewissenhafte Erfüllung seiner Obliegenheiten soll verpflichtet werden, wer, ohne Amtsträger (§ 11 Abs. 1 Nr. 2 des Strafgesetzbuches) zu sein,
 
@@ -25,9 +29,9 @@ stand: "Geändert durch § 1 Nr. 4 G v. 15.8.1974 I 1942"
 
 3. als Sachverständiger öffentlich bestellt ist.
 
-(2) Die Verpflichtung wird mündlich vorgenommen. Dabei ist auf die strafrechtlichen Folgen einer Pflichtverletzung hinzuweisen.
+(2) Die Verpflichtung wird mündlich in Anwesenheit der zu verpflichtenden Person vorgenommen. Sie kann auch im Wege der zeitgleichen Bild- und Tonübertragung vorgenommen werden. Bei der Verpflichtung ist auf die strafrechtlichen Folgen einer Pflichtverletzung hinzuweisen.
 
-(3) Über die Verpflichtung wird eine Niederschrift aufgenommen, die der Verpflichtete mit unterzeichnet. Er erhält eine Abschrift der Niederschrift; davon kann abgesehen werden, wenn dies im Interesse der inneren oder äußeren Sicherheit der Bundesrepublik Deutschland geboten ist.
+(3) Über die Verpflichtung wird eine Niederschrift aufgenommen, die die verpflichtete Person mitunterzeichnet und von der ihr eine Abschrift überlassen wird. Wird die Verpflichtung im Wege der zeitgleichen Bild- und Tonübertragung vorgenommen, ist dies in der Niederschrift zu vermerken. Die Niederschrift kann auch als elektronisches Dokument aufgenommen werden. Die elektronische Niederschrift muss von der verpflichteten Person entweder mit ihrer qualifizierten elektronischen Signatur versehen oder auf einem zur elektronischen Erfassung der Unterschrift geeigneten Hilfsmittel unterzeichnet werden. Die zuständige Stelle hat die elektronische Niederschrift mit einer qualifizierten elektronischen Signatur zu versehen und diese Niederschrift oder eine Abschrift der verpflichteten Person zu überlassen. Wird bei einer Verpflichtung im Wege der zeitgleichen Bild- und Tonübertragung die Niederschrift in Papierform aufgenommen, hat die zuständige Stelle der verpflichteten Person eine unterzeichnete Abschrift der Niederschrift zu übermitteln, die die verpflichtete Person unverzüglich unterzeichnet und an die zuständige Stelle zurücksendet. Von der Überlassung oder Übermittlung der Niederschrift oder Abschrift kann abgesehen werden, wenn dies im Interesse der inneren oder äußeren Sicherheit der Bundesrepublik Deutschland geboten ist.
 
 (4) Welche Stelle für die Verpflichtung zuständig ist, bestimmt
 
@@ -35,7 +39,7 @@ stand: "Geändert durch § 1 Nr. 4 G v. 15.8.1974 I 1942"
 
 2. in allen übrigen Fällen diejenige Behörde, die von der Landesregierung durch Rechtsverordnung bestimmt wird.
 
-##### § 2
+###### § 2
 
 (1) Wer, ohne Amtsträger zu sein, auf Grund des § 1 der Verordnung gegen Bestechung und Geheimnisverrat nichtbeamteter Personen in der Fassung der Bekanntmachung vom 22. Mai 1943 (Reichsgesetzbl. I S. 351) förmlich verpflichtet worden ist, steht einem nach § 1 Verpflichteten gleich.
 
@@ -47,11 +51,8 @@ stand: "Geändert durch § 1 Nr. 4 G v. 15.8.1974 I 1942"
 
 zur gewissenhaften Erfüllung seiner Obliegenheiten verpflichtet worden ist, steht einem nach § 1 Verpflichteten gleich, wenn die Voraussetzungen des § 1 Abs. 2 erfüllt sind.
 
-##### § 3
+###### § 3 (weggefallen)
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
-
-##### § 4
+###### § 4
 
 Dieses Gesetz tritt am 1. Januar 1975 in Kraft. § 1 Abs. 4 tritt am Tage nach der Verkündung in Kraft.
-
