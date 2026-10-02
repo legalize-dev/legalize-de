@@ -4,24 +4,27 @@ identifier: "BMVI-WS-BGEBV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2021-10-28"
-last_updated: "2026-04-04"
+last_updated: "2026-10-02"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/bmvi-ws-bgebv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR474400021"
 slug: "bmvi-ws-bgebv"
 bgbl_reference: "BGBl I 2021, 4744"
 amtabk: "WSBGebV"
-stand: "Zuletzt geändert durch Art. 1 V v. 25.3.2025 I Nr. 100"
-hinweis: "Änderung durch Art. 3 V v. 17.12.2025 I Nr. 381 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Zuletzt geändert durch Art. 4 V v. 7.9.2026 I Nr. 257, Nr. 284"
 ---
 # Besondere Gebührenverordnung des Bundesministeriums für Verkehr für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Verwaltung der Wasserstraßen und der Schifffahrtsverwaltung
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium für Verkehr und digitale Infrastruktur:
 
-##### § 1 Erhebung von Gebühren und Auslagen
+###### § 1 Erhebung von Gebühren und Auslagen
 
 Im Zuständigkeitsbereich des Bundesministeriums für Verkehr für die Wasserstraßen und die Schifffahrt werden Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen erhoben, die auf Grund der folgenden Vorschriften erbracht werden:
 
@@ -125,7 +128,7 @@ Im Zuständigkeitsbereich des Bundesministeriums für Verkehr für die Wasserstr
 
 50. Seesicherheits-Untersuchungs-Gesetz (SUG),
 
-51. Flaggenrechtsgesetz (FlaggRG),
+51. Flaggenrechtsgesetz (FlRG),
 
 52. Flaggenrechtsverordnung (FlRV),
 
@@ -151,31 +154,35 @@ Im Zuständigkeitsbereich des Bundesministeriums für Verkehr für die Wasserstr
 
 63. Seeversicherungsnachweisgesetz (SeeVersNachwG),
 
-64. Öl-Pflichtversicherungsbescheinigungs-Verordnung (ÖlPflichtVersBeschV),
+64. HNS-Gesetz (HNSG),
 
-65. Seeversicherungsnachweisverordnung (SeeVersNachwV),
+65. Öl-Pflichtversicherungsbescheinigungs-Verordnung (ÖlPflichtVersBeschV),
 
-66. Schiffssicherheitsgesetz (SchSG),
+66. Seeversicherungsnachweisverordnung (SeeVersNachwV),
 
-67. Schiffsbesetzungsverordnung (SchBesV),
+67. HNS-Pflichtversicherungsbescheinigungsverordnung (HNSPflichtVersBeschV),
 
-68. MARPOL-Gesetz (IntMeerSchÜbk1973G),
+68. Schiffssicherheitsgesetz (SchSG),
 
-69. Ballastwasser-Gesetz (BallastWG),
+69. Schiffsbesetzungsverordnung (SchBesV),
 
-70. Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des Rates vom 20. November 2013 über das Recycling von Schiffen und zur Änderung der Verordnung (EG) Nr. 1013/2006 und der Richtlinie 2009/16/EG (ABl. L 330 vom 10.12.2013, S. 1) in der jeweils geltenden Fassung,
+70. MARPOL-Gesetz (IntMeerSchÜbk1973G),
 
-71. Seearbeitsgesetz (SeeArbG),
+71. Ballastwasser-Gesetz (BallastWG),
 
-72. Maritime-Medizin-Verordnung (MariMedV),
+72. Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des Rates vom 20. November 2013 über das Recycling von Schiffen und zur Änderung der Verordnung (EG) Nr. 1013/2006 und der Richtlinie 2009/16/EG (ABl. L 330 vom 10.12.2013, S. 1) in der jeweils geltenden Fassung,
 
-73. See-Unterkunftsverordnung (SeeUnterkunftsV)
+73. Seearbeitsgesetz (SeeArbG),
 
-74. EU-Fahrgastrechte-Schifffahrt-Gesetz (EU-FahrgRSchG),
+74. Maritime-Medizin-Verordnung (MariMedV),
 
-75. Sportseeschifferscheinverordnung (SportSeeSchV).
+75. See-Unterkunftsverordnung (SeeUnterkunftsV)
 
-##### § 2 Höhe der Gebühren und Auslagen
+76. EU-Fahrgastrechte-Schifffahrt-Gesetz (EU-FahrgRSchG),
+
+77. Sportseeschifferscheinverordnung (SportSeeSchV).
+
+###### § 2 Höhe der Gebühren und Auslagen
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren- und Auslagenverzeichnis der Anlage. Das Gebühren- und Auslagenverzeichnis regelt ferner die Tatbestände für eine Gebühren- und Auslagenbefreiung.
 
@@ -183,11 +190,11 @@ Im Zuständigkeitsbereich des Bundesministeriums für Verkehr für die Wasserstr
 
 (3) Auslagen, die nicht im Gebühren- und Auslagenverzeichnis aufgeführt sind, sind mit der Gebühr abgegolten.
 
-##### § 3 Zeitgebühr
+###### § 3 Zeitgebühr
 
 Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt ist, gelten für den Zeitaufwand von Verwaltungsbeschäftigten in der Bundesverwaltung die in der Anlage 1 Teil A der Allgemeinen Gebührenverordnung bestimmten allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung.
 
-##### § 4 Übergangsvorschrift
+###### § 4 Übergangsvorschrift
 
 (1) Für die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht vollständig erbracht worden sind, sind die bis zum Ablauf des 30. September 2021 geltenden gebührenrechtlichen Regelungen weiter anzuwenden. Gleiches gilt für eine gebührenpflichtige Leistung, die bis zum Ablauf des 30. September 2021 vollständig erbracht worden ist.
 
@@ -197,11 +204,11 @@ Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt ist, gelten
 
 (4) Für die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen nach Abschnitt 4 der Anlage, die vor dem 1. Oktober 2024 beantragt oder begonnen, aber noch nicht vollständig erbracht worden ist, ist diese Verordnung anzuwenden.
 
-##### § 5 Inkrafttreten
+###### § 5 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 2021 in Kraft.
 
-##### Anlage (zu § 2)Gebühren- und Auslagenverzeichnis
+###### Anlage (zu § 2)Gebühren- und Auslagenverzeichnis
 
 (Fundstelle: BGBl. I 2021, 4746 - 4778;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -255,7 +262,7 @@ nachteilige Wirkungen auf Rechte beim Aus- und Neubau, die nicht verhütet werde
 
 14Strom- und schifffahrtspolizeiliche Genehmigung für das Einbringen fester Stoffe§ 31 Absatz 1 Nummer 1 WaStrG211 – 2 110
 
-15Strom- und schifffahrtspolizeiliche Genehmigung für die Entnahme und das anschließende Einbringen fester Stoffe§ 31 Absatz 1 Nummer 1 WaStrG1 055 – 2 813
+15Strom- und schifffahrtspolizeiliche Genehmigung für die Entnahme und das anschließende Einbringen fester Stoffe§ 31 Absatz 1 Nummer 1 WaStrG351 – 2 813
 
 16Strom- und schifffahrtspolizeiliche Genehmigung für eine Wasserinjektionsbaggerung§ 31 Absatz 1 Nummer 1 WaStrG351 – 2 110
 
@@ -275,7 +282,7 @@ nachteilige Wirkungen auf Rechte beim Aus- und Neubau, die nicht verhütet werde
 
 24Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Bootshebeanlage§ 31 Absatz 1 Nummer 2 WaStrG1 055 – 5 626
 
-25Strom- und schifffahrtspolizeiliche Genehmigung für den Neubau oder die Grundsanierung einer Brücke§ 31 Absatz 1 Nummer 2 WaStrG3 516 – 14 066
+25Strom- und schifffahrtspolizeiliche Genehmigung für den Neubau, die Grundsanierung und den Rückbau einer Brücke§ 31 Absatz 1 Nummer 2 WaStrG2 110 – 14 066
 
 26Strom- und schifffahrtspolizeiliche Genehmigung für Unterhaltungsarbeiten an einer Brücke§ 31 Absatz 1 Nummer 2 WaStrG703 – 5 626
 
@@ -309,9 +316,9 @@ nachteilige Wirkungen auf Rechte beim Aus- und Neubau, die nicht verhütet werde
 
 41Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Seilbahn§ 31 Absatz 1 Nummer 2 WaStrG1 688 – 5 626
 
-42Genehmigung zum Setzen oder Betreiben eines Schifffahrtszeichens§ 34 Absatz 2 Satz 2 WaStrG246 – 844
+42Genehmigung zum Setzen oder Betreiben eines Schifffahrtszeichens§ 34 Absatz 2 Satz 2 WaStrG246 – 2 813
 
-43Nachträgliche Entscheidungen zu Genehmigungen§ 31 Absatz 2 Nummer 1, Absatz 2 Nummer 2, § 34 Absatz 2 Satz 2 WaStrG140 – 2 813
+43Nachträgliche Entscheidungen zu Genehmigungen§ 31 Absatz 1 Nummer 1, Absatz 1 Nummer 2, § 34 Absatz 2 Satz 2 WaStrG140 – 2 813
 
 44Schriftliche Einzelgenehmigung für die Benutzung von Betriebsanlagen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes§ 3 Absatz 1 Nummer 1 WaStrBAV § 2 Absatz 1 StrandSchutzwerkSicherungsV § 2 Absatz 1 DünenSchV § 12 Schleusenbetriebsverordnung70,30 – 562
 
@@ -605,9 +612,9 @@ NummerGegenstandAbgekürzte RechtsgrundlageGebühr in Euro
 
 3. Individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Kennzeichnung von Kleinfahrzeugen
 
-301Zuteilung des amtlichen Kennzeichens einschließlich Ausstellung des Ausweises§ 8 Absatz 1 Satz 1, Absatz 2 KlFzKV-BinSch29,70
+301Zuteilung des amtlichen Kennzeichens einschließlich Ausstellung des Ausweises§ 8 Absatz 1 Satz 1, Absatz 2KlFzKV-BinSch29,70
 
-302Zuteilung des Wechselkennzeichens einschließlich Ausstellung des Ausweises§ 8 Absatz 1 Satz 2, Absatz 2 KlFzKV-BinSch29,70
+302Zuteilung des Wechselkennzeichens einschließlich Ausstellung des Ausweises§ 8 Absatz 1 Satz 2, Absatz 2KlFzKV-BinSch29,70
 
 303Ausstellung einer Ersatzausfertigung oder Änderung in den Eintragungen des Ausweises§ 8 Absatz 4 Satz 1, § 9 Absatz 1 Nummer 1 und 2 KlFzKV-BinSch14,85
 
@@ -882,7 +889,7 @@ NummerGegenstandRechtsgrundlageGebühr in Euro
 
 36Prüfung des Schiffsführers
 
-Theoretische Prüfunga)§ 9 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 Ems LV § 9 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 Weser/Jade-LV § 10 Absatz 3 Nummer 2 Ems LV § 10 Absatz 3 Nummer 2 Weser/Jade-LV § 9 Absatz 1 Satz 1 Nummer 2, § 10 Absatz 3 Nummer 2 Elbe-LV § 11 Absatz 1 Nummer 1 und 2, § 12 Absatz 1 Nummer 1, 2 und 3, § 13 Absatz 1 und § 14 Absatz 3 NOK-LV§ 9 Absatz 1 Nummer 2, § 10 Absatz 1 Nummer 4, § 11 Absatz 1 Nummer 4 und § 12 Absatz 3 Nummer 2 WIROST-LVa) 720
+Theoretische Prüfunga)§ 9 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 Ems LV § 9 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 Weser/Jade-LV § 10 Absatz 3 Nummer 2 Ems LV § 10 Absatz 3 Nummer 2 Weser/Jade-LV § 9 Absatz 1 Satz 1 Nummer 2, § 10 Absatz 3 Nummer 2 Elbe-LV § 11 Absatz 1 Nummer 1 und 2, § 12 Absatz 1 Nummer 1, 2 und 3, § 13 Absatz 1 und § 14 Absatz 3NOK-LV§ 9 Absatz 1 Nummer 2, § 10 Absatz 1 Nummer 4, § 11 Absatz 1 Nummer 4 und § 12 Absatz 3 Nummer 2 WIROST-LVa) 720
 
 Praktische Prüfungb)§ 12 Absatz 1 Nummer 3 NOK-LV § 13 Absatz 1 Nummer 3 und Absatz 2 NOK-LVb) 1 784
 
@@ -936,9 +943,9 @@ Vorbemerkungen
 
 5. Bei den Gebührennummern 148 - 151 werden Gebühren nur erhoben, wenn Nichtkonformitäten festgestellt wurden.
 
-NummerGegenstandAbgekürzte RechtsgrundlageGebühr in Euro1Ausstellung von Flaggenzertifikaten einschließlich Verlängerung, Ersatzausstellung und Änderung§ 3 Buchstabe d FlaggRG
- i. V. m. §§ 14ff. FlRV1072Ausstellung von Flaggenscheinen für Probe- und Überführungsfahrten inklusive erneuter Ausstellung§ 10 FlaggRG1233Ausstellung von Flaggenscheinen für Eigentümer oder Ausrüster§ 11 FlaggRG2724Ausstellung von Bescheinigungen für beauftragte Personen§ 2 Absatz 1 Nummer 3 FlaggRG
-§ 5b Absatz 1 FlRV965Genehmigung zur Führung einer anderen Nationalflagge für Fahrzeuge mit einer Bruttoraumzahl (BRZ) bis einschließlich 10 000 oder bis einschließlich 10 000 Bruttoregistertonnen (BRT) für mehr als ein Jahr§ 7 FlaggRG, §§ 20, 20a FlRV1 7226Genehmigung zur Führung einer anderen Nationalflagge für Fahrzeuge mit einer BRZ von mehr als 10 000 oder mehr als 10 000 BRT und für mehr als ein Jahr§ 7 FlaggRG, §§ 20, 20a FlRV12 2827Genehmigung zur Führung einer anderen Nationalflagge für Fahrzeuge mit einer BRZ bis einschließlich 10 000 oder bis einschließlich 10 000 BRT für höchstens ein Jahr§ 7 FlaggRG, §§ 20, 20a FlRV1 0028Genehmigung zur Führung einer anderen Nationalflagge für Fahrzeuge mit einer BRZ von mehr als 10 000 oder mehr als 10 000 BRT für höchstens ein Jahr§ 7 FlaggRG, §§ 20, 20a FlRV6 2829Bescheinigung über die Erledigung der Genehmigung zum Führen einer anderen Nationalflagge§ 7 FlaggRG, §§ 20, 20a FlRV5910Eintragung in das internationale Seeschifffahrtsregister§ 12 FlaggRG, §§ 23, 27 FlRV12811Genehmigung zur Führung einer anderen Nationalflagge im Zusammenhang mit dem Widerruf oder der Rücknahme einer bestehenden Ausflaggungsgenehmigung ohne Änderung des Zeitraums§ 7 FlaggRG, §§ 20, 20a FlRV25212Erteilung einer Bescheinigung für Seeleute
+NummerGegenstandAbgekürzte RechtsgrundlageGebühr in Euro1Ausstellung von Flaggenzertifikaten einschließlich Verlängerung, Ersatzausstellung und Änderung§ 3 Absatz 1 Nummer 4 FlRG
+ i. V. m. §§ 14ff. FlRV1072Ausstellung von Flaggenscheinen für Probe- und Überführungsfahrten inklusive erneuter Ausstellung§ 10 FlRG1233Ausstellung von Flaggenscheinen für Eigentümer oder Ausrüster§ 11 FlRG2724Ausstellung von Bescheinigungen für beauftragte Personen§ 2 Absatz 4 FlRG
+§ 5b Absatz 1 FlRV965Genehmigung zur Führung einer anderen Nationalflagge für Fahrzeuge mit einer Bruttoraumzahl (BRZ) bis einschließlich 10 000 oder bis einschließlich 10 000 Bruttoregistertonnen (BRT) für mehr als ein Jahr§ 7 FlRG, §§ 20, 20a FlRV1 7226Genehmigung zur Führung einer anderen Nationalflagge für Fahrzeuge mit einer BRZ von mehr als 10 000 oder mehr als 10 000 BRT und für mehr als ein Jahr§ 7 FlRG, §§ 20, 20a FlRV12 2827Genehmigung zur Führung einer anderen Nationalflagge für Fahrzeuge mit einer BRZ bis einschließlich 10 000 oder bis einschließlich 10 000 BRT für höchstens ein Jahr§ 7 FlRG, §§ 20, 20a FlRV1 0028Genehmigung zur Führung einer anderen Nationalflagge für Fahrzeuge mit einer BRZ von mehr als 10 000 oder mehr als 10 000 BRT für höchstens ein Jahr§ 7 FlRG, §§ 20, 20a FlRV6 2829Bescheinigung über die Erledigung der Genehmigung zum Führen einer anderen Nationalflagge§ 7 FlRG, §§ 20, 20a FlRV5910Eintragung in das internationale Seeschifffahrtsregister§ 12 Absatz 2 FlRG, § 23 FlRV12811Genehmigung zur Führung einer anderen Nationalflagge im Zusammenhang mit dem Widerruf oder der Rücknahme einer bestehenden Ausflaggungsgenehmigung ohne Änderung des Zeitraums§ 7 FlRG, §§ 20, 20a FlRV25212Erteilung einer Bescheinigung für Seeleute
  Erteilung des Bescheids über die Voraussetzungen§§ 24, 25 oder den Teilen 2 bis 7 See-BV
  § 30 Absatz 3 See-BV25 – 29813Abnahme einer Prüfung§ 31 Absatz 1 Satz 3 SeeBV
  § 40 Absatz 1 Satz 3, § 53 Absatz 2 Satz 1 Nummer 3 See-BV39 – 11914Zulassung eines Lehrgangs§ 20 Absatz 3 Satz 1 See-BV
@@ -980,11 +987,11 @@ NummerGegenstandAbgekürzte RechtsgrundlageGebühr in Euro1Ausstellung von Flagg
  Zeitaufwand22Vermessung nach vereinfachten Verfahren (z. B. Sportfahrzeuge, Fischereifahrzeuge < 15 m)§ 9 Absatz 3 Nummer 1
  i. V. m. Anlage 2 SchSV121 – 21923Ausstellung eines Schiffsmessbriefes oder einer Bescheinigung§ 9 Absatz 3 Nummer 1
  i. V. m. Anlage 2 SchSV61 – 21924Einfache Prüfung von Ausrüstungsgeräten mit geringem Aufwand
- (Gerätekategorie A)§ 6 SchAusrV, § 8b SeeStrOV499 – 99925Prüfung von Ausrüstungsgeräten
- mit geringem Aufwand (Gerätekategorie B)§ 6 SchAusrV, § 8b SeeStrOV1 299 – 2 79826Einfache Prüfung von Ausrüstungsgeräten mit mittlerem Aufwand (Gerätekategorie C)§ 6 SchAusrV, § 8b SeeStrOV2 996 – 6 49327Prüfung von Ausrüstungsgeräten
- mit mittlerem Aufwand (Gerätekategorie D)§ 6 SchAusrV, § 8b SeeStrOV5 993 – 11 98828Prüfung von Ausrüstungsgeräten
- mit hohem Aufwand (Gerätekategorie E)§ 6 SchAusrV, § 8b SeeStrOV8 990 – 18 98129Prüfung von Ausrüstungsgeräten
- mit sehr hohem Aufwand (Gerätekategorie F)§ 6 SchAusrV, § 8b SeeStrOV14 984 – 29 97030Gesonderte Ausstellung von Urkunden und Bescheinigungen§ 3 Absatz 3 Satz 2 SchSV38631Planprüfung der Aufstellung/Anbringung der Navigations- und Funkausrüstung
+ (Gerätekategorie A)§ 3 Absatz 3 Nummer 2 SchSV, § 4 Absatz 1 Nummer 1, § 29 Absatz 5 SchAusrV, § 8b SeeStrOV499 – 99925Prüfung von Ausrüstungsgeräten
+ mit geringem Aufwand (Gerätekategorie B)§ 3 Absatz 3 Nummer 2 SchSV, § 4 Absatz 1 Nummer 1, § 29 Absatz 5 SchAusrV, § 8b SeeStrOV1 299 – 2 79826Einfache Prüfung von Ausrüstungsgeräten mit mittlerem Aufwand (Gerätekategorie C)§ 3 Absatz 3 Nummer 2 SchSV, § 4 Absatz 1 Nummer 1, § 29 Absatz 5 SchAusrV, § 8b SeeStrOV2 996 – 6 49327Prüfung von Ausrüstungsgeräten
+ mit mittlerem Aufwand (Gerätekategorie D)§ 3 Absatz 3 Nummer 2 SchSV, § 4 Absatz 1 Nummer 1, § 29 Absatz 5 SchAusrV, § 8b SeeStrOV5 993 – 11 98828Prüfung von Ausrüstungsgeräten
+ mit hohem Aufwand (Gerätekategorie E)§ 3 Absatz 3 Nummer 2 SchSV, § 4 Absatz 1 Nummer 1, § 29 Absatz 5 SchAusrV, § 8b SeeStrOV8 990 – 18 98129Prüfung von Ausrüstungsgeräten
+ mit sehr hohem Aufwand (Gerätekategorie F)§ 3 Absatz 3 Nummer 2 SchSV, § 4 Absatz 1 Nummer 1, § 29 Absatz 5 SchAusrV, § 8b SeeStrOV14 984 – 29 97030Gesonderte Ausstellung von Urkunden und Bescheinigungen§ 3 Absatz 3 Satz 2 SchSV38631Planprüfung der Aufstellung/Anbringung der Navigations- und Funkausrüstung
  Erteilung einer Ausnahmegenehmigung oder Befreiung§ 7 Absatz 1 SchSVnach
  Zeitaufwand32Prüfung der Aufstellung/Anbringung und Funktion der Navigations- und Funkausrüstung
  Erteilung einer Ausnahmegenehmigung oder Befreiung§ 7 Absatz 1 SchSVnach
@@ -1061,15 +1068,17 @@ WindSeeG in der bis zum 31.12.2022 geltenden Fassung§ 57 Absatz 2 WindSeeG6 42
  i. V. m. § 9 Absatz 8 EEG808122Festlegung des Untersuchungsrahmens für die Durchführung des Monitorings zu den bau- und betriebsbedingten Auswirkungen der Anlagen auf die Meeresumwelt nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung§ 57 Absatz 2 WindSeeG2 163123Anordnungen anlässlich der Prüfung der gewonnenen Daten aus der Durchführung des Monitorings zu den bau- und betriebsbedingten Auswirkungen der Anlagen auf die Meeresumwelt nach dem
 WindSeeG in der bis zum 31.12.2022 geltenden Fassung§ 57 Absatz 2 WindSeeG8 452124Anordnungen nach erhöhtem Prüfungsaufwand im Vollzugsverfahren nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung§ 57 Absatz 2 WindSeeG22 789 – 69 041125Anordnungen, Gebote oder Verbote gegenüber verantwortlichen Personen zur Durchsetzung der in § 55 WindSeeG genannten Pflichten nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung§ 57 Absatz 2 WindSeeG1 974 – 15 073126Untersagung der Errichtung, des Betriebs, der wesentlichen Änderung oder der Beseitigung der Einrichtungen nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung§ 57 Absatz 3 bis 5 WindSeeG11 713 – 21 602127Anordnung der Beseitigung von Einrichtungen nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung§ 57 Absatz 3 und 4 WindSeeG11 713 – 21 602128Erteilung der Erlaubnis, die Anlage durch eine Person betreiben zu lassen, die die Gewähr für den ordnungsgemäßen Betrieb der Anlage bietet nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung§ 57 Absatz 5, § 56 WindSeeG310129Freigabe der Beseitigung einer Einrichtung nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung§ 58 Absatz 1 WindSeeG11 713 – 21 602130Feststellung über das Vorliegen der Anforderungen an (neue) verantwortliche Personen im Rahmen von deren Bestellung nach dem
 WindSeeG in der bis zum 31.12.2022 geltenden Fassung§ 56 Absatz 4 WindSeeG433131Vollziehung der Übertragung des Planfeststellungsbeschlusses oder der Plangenehmigung auf einen anderen Inhaber/Betreiber nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung§ 56 Absatz 5 WindSeeG123132Aufnahme, Änderung oder Ergänzung von Nebenbestimmungen eines Planfeststellungsbeschlusses, einer Plangenehmigung, einer Anordnung oder eines sonstigen Bescheides nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung§§ 35, 36 VwVfG
- i. V. m. § 74 Absatz 2 VwVfG6 488 – 14 752133Ausstellung einer Haftungsbescheinigung§ 2 Absatz 2 und 4 ÖlSG
- § 5 Absatz 2, 6, § 8 Absatz 2 SeeVersNachwG
+ i. V. m. § 74 Absatz 2 VwVfG6 488 – 14 752133Ausstellung einer Haftungs- oder Pflichtversicherungsbescheinigung§ 2 Absatz 2 und § 4 Absatz 1 ÖlSG
+ § 5 Absatz 2 sowie § 8 Absatz 2 SeeVersNachwG
+ § 2 Absatz 2 und § 6 HNSG
  § 4 Absatz 1 ÖlPflichtVersBeschV
- § 4 Absatz 1 und 2 SeeVersnachwV118134Genehmigung von Plänen zur Gefahrenabwehr auf dem Schiff§ 7 Absatz 2 SeeEigensichV218 – 1 042135Genehmigung von Änderungen von Plänen zur Gefahrenabwehr auf dem Schiff§ 7 Absatz 4 Satz 2 SeeEigensichV50 – 999136Genehmigung eines Zusatzes zum Plan zur Gefahrenabwehr auf dem Schiff im Hinblick auf den Einsatz von privatem Wachpersonal§ 7 Absatz 2a SeeEigensichV322137Ausstellung des internationalen oder vorläufigen internationalen Zeugnisses über die Gefahrenabwehr an Bord (ISSC)§ 8 Absatz 1 SeeEigensichV176138Durchführung von Zwischen- oder zusätzlichen Überprüfungen für das ISSC§ 8 Absatz 3 SeeEigensichV123139Ausstellung des Dokuments zur lückenlosen Stammdatendokumentation§ 13 Absatz 2 FlaggRG120140Befreiung von der Meldepflicht§ 10 Absatz 6 SeeEigensichV
+ § 4 Absatz 1 und 2 SeeVersNachwV
+ § 3 Absatz 1 HNSPflichtVersBeschV118134Genehmigung von Plänen zur Gefahrenabwehr auf dem Schiff§ 7 Absatz 2 SeeEigensichV218 – 1 042135Genehmigung von Änderungen von Plänen zur Gefahrenabwehr auf dem Schiff§ 7 Absatz 4 Satz 2 SeeEigensichV50 – 999136Genehmigung eines Zusatzes zum Plan zur Gefahrenabwehr auf dem Schiff im Hinblick auf den Einsatz von privatem Wachpersonal§ 7 Absatz 2a SeeEigensichV322137Ausstellung des internationalen oder vorläufigen internationalen Zeugnisses über die Gefahrenabwehr an Bord (ISSC)§ 8 Absatz 1 SeeEigensichV176138Durchführung von Zwischen- oder zusätzlichen Überprüfungen für das ISSC§ 8 Absatz 3 SeeEigensichV123139Ausstellung des Dokuments zur lückenlosen Stammdatendokumentation§ 13 Absatz 1 FlRG, § 30a FlRV120140Befreiung von der Meldepflicht§ 10 Absatz 6 SeeEigensichV
  i. V. m. Artikel 7 Verordnung (EG) Nr. 725/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Erhöhung der Gefahrenabwehr auf Schiffen und Hafenanlagen, die zuletzt durch
  die Verordnung (EG) Nr. 219/2009 (ABl. L 87 vom 31.3.2009, S. 109) geändert worden ist.395141Anerkennung eines Unternehmens als anerkannte Stelle zur Gefahrenabwehr§ 3 Absatz 2 SeeEigensichV5 103142Befreiungen nach Regel 4 Teil A, Kapitel I i. V. m. Kapitel XI SOLAS§ 4, Anlage A.I.11.1, 11.2 SchSG
  i. V. m. Regel 4 Teil A, Kapitel I
  i. V. m. Kapitel XI SOLAS132143Anlassbezogene Sonderbescheinigungen§ 4, Anlage A.I.11.1, 11.2 SchSG
- i. V. m. SOLAS Kapitel XI-1, XI-2149 – 329144Zustimmung zu einer Sicherheitserklärung, bei der Beteiligte über einen längeren Zeitraum unter unveränderten Bedingungen zusammenwirken§ 9 Absatz 3 Satz 2 SeeEigensichV250145Besichtigungen an Bord für das ISSC§ 8 SeeEigensichV750 – 2 198146Anerkennung einer juristischen Person als benannte Konformitätsbewertungsstelle§ 3 Absatz 3a Satz 1 SchAusrV4 195 – 14 985147Prüfung der Erfüllung der Anforderungen an eine Konformitätsbewertungsstelle§ 4 Absatz 1 SchAusrV1 998 – 6 993148Prüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung§ 6 Absatz 2 SchAusrV85,35 – 449149Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung§ 6 Absatz 2 SchAusrV899 – 1 898150Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung und der Inanspruchnahme externer Prüflaboratorien, Sachverständiger oder Gutachter§ 6 Absatz 2 SchAusrV1 298 – 2 697151Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung mit Laborleistungen des BSH§ 6 Absatz 2 SchAusrV900 – 1 900152Anordnung von Maßnahmen bei Nichtkonformitäten§ 7 Absatz 1 und 2 SchAusrV85 – 600153Änderung des Eignungsumfanges der Konformitätsbewertungsstelle§ 3 Absatz 3a Satz 3 SchAusrV200 – 3 000154Befreiung vom Befahrungsverbot§ 9 Absatz 2 Satz 3 SeeUmwVerhV578155Zulassung einer Ausnahme von der Verpflichtung des Ziehens einer Probe§ 15 Absatz 3 SeeUmwVerhV446156Gestattung eines nicht technischen emissionsmindernden Verfahrens§ 13 Absatz 5 SeeUmwVerhVnach
+ i. V. m. SOLAS Kapitel XI-1, XI-2149 – 329144Zustimmung zu einer Sicherheitserklärung, bei der Beteiligte über einen längeren Zeitraum unter unveränderten Bedingungen zusammenwirken§ 9 Absatz 3 Satz 2 SeeEigensichV250145Besichtigungen an Bord für das ISSC§ 8 SeeEigensichV750 – 2 198146Anerkennung einer juristischen Person als benannte Konformitätsbewertungsstelle§ 19 Absatz 1 SchAusrV4 195 – 14 985147Prüfung der Erfüllung der Anforderungen an eine Konformitätsbewertungsstelle§ 23 Absatz 3 SchAusrV1 998 – 6 993148Prüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung§ 29 Absatz 5 SchAusrV85,35 – 449149Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung§ 29 Absatz 5 SchAusrV899 – 1 898150Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung und der Inanspruchnahme externer Prüflaboratorien, Sachverständiger oder Gutachter§ 29 Absatz 5 SchAusrV1 298 – 2 697151Überprüfung der in Verkehr zu bringenden oder in Verkehr gebrachten Ausrüstung mit technischer Prüfung mit Laborleistungen des BSH§ 29 Absatz 5 SchAusrV900 – 1 900152Anordnung von Maßnahmen bei Nichtkonformitäten§ 29 Absatz 2 und 3 SchAusrV85 – 600153Änderung des Eignungsumfanges der Konformitätsbewertungsstelle§ 19 Absatz 1, § 20 Absatz 1 SchAusrV200 – 3 000154Befreiung vom Befahrungsverbot§ 9 Absatz 2 Satz 3 SeeUmwVerhV578155Zulassung einer Ausnahme von der Verpflichtung des Ziehens einer Probe§ 15 Absatz 3 SeeUmwVerhV446156Gestattung eines nicht technischen emissionsmindernden Verfahrens§ 13 Absatz 5 SeeUmwVerhVnach
  Zeitaufwand157Erlaubnis zur Einleitung von Ballastwasser§ 18 Absatz 1 Satz 1 Nummer 3 SeeUmwVerhV137 – 515158Erteilung einer Ausnahme vom Verbot der Einleitung von Ballastwasser§ 18 Absatz 2 SeeUmwVerhVnach
  Zeitaufwand159Befreiung von der Ballastwasser-Behandlung§ 18 Absatz 3 SeeUmwVerhV6 450 – 13 410160Fertigung eines feststellenden Verwaltungsaktsnach
  Zeitaufwand
@@ -1271,7 +1280,7 @@ F. Sonstige individuell zurechenbare öffentliche Leistungen auf dem Gebiet der 
 
 2558Genehmigung des bordeigenen Notfallplanes für Ölverschmutzungen (SOPEP) nach MARPOL Anlage I Regel 37 oder des bordeigenen Notfallplanes für Meeresverschmutzungen durch schädliche flüssige Stoffe (SMPEP) nach MARPOL Anlage II Regel 17 bzw. des bordeigenen Notfallplans für Meeresverschmutzungen nach MARPOL Anlage I Regel 37 Absatz 3 und Anlage II Regel 17 Absatz 3§ 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. § 1 Absatz 2, § 10 Absatz 2 und Anlage Abschnitt A. II. SchSG i. V. m. § 5 Absatz 1 SchSV i. V. m. dem MARPOL-Gesetz (in der Fassung der Bekanntmachung vom 18. September 1998 (BGBl. 1998 II S. 2546), in der jeweils gültigen Fassung) i. V. m. den Verordnungen über Änderungen Internationaler Vorschriften über Umweltschutz im Seeverkehr i. V. m. Regel 37 der Anlage I des MARPOL-Übereinkommens bzw. Regel 17 der Anlage II des MARPOL-Übereinkommens bzw. Regel 37 Absatz 3 der Anlage I und Regel 17 Absatz 3 der Anlage II des MARPOL-Übereinkommens65
 
-2580Genehmigung der Einleitrate von unbehandeltem Abwasser nach MARPOL Anlage IV Regel 11 Absatz 1.1§ 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. § 1 Absatz 2, § 10 Absatz 2 und Anlage Abschnitt A. II. SchSG i. V. m. dem § 5 Absatz 1 SchSV i. V. m. dem IntMeerSchÜbk1973G i. V. m. den Verordnungen über Änderungen Internationaler Vorschriften über Umweltschutz im Seeverkehr i. V. m. Regel 11 Absatz 1.1 der Anlage IV des MARPOL-Übereinkommens131
+2580Genehmigung der Einleitrate von unbehandeltem Abwasser nach MARPOL Anlage IV Regel 11 Absatz 1.1§ 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. § 1 Absatz 2, § 10 Absatz 2 und Anlage Abschnitt A. II. SchSG i. V. m. dem § 5 Absatz 1 SchSV i. V. m. demIntMeerSchÜbk1973G i. V. m. den Verordnungen über Änderungen Internationaler Vorschriften über Umweltschutz im Seeverkehr i. V. m. Regel 11 Absatz 1.1 der Anlage IV des MARPOL-Übereinkommens131
 
 2590Befreiung nach MARPOL Anlage VI Regel 3 Absatz 2§ 1 Nummer 4, § 6 Absatz 1 SeeAufgG i. V. m. dem IntMeerSchÜbk1973G i. V. m. den Verordnungen über Änderungen Internationaler Vorschriften über Umweltschutz im Seeverkehr i. V. m. Regel 3 Absatz 2 der Anlage VI des MARPOL-Übereinkommensnach Zeitaufwand
 
@@ -1356,6 +1365,8 @@ C. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet der Besetzung
 3201Erteilung des Schiffsbesatzungszeugnisses§ 8 Absatz 1 SchBesV59,85
 
 3202Zulassung von Lehrgängen nach STCW 95 Regel A-VI/1, A-VI/2,A-VI/3 und nach Anlage 1a, Teil 3, Kapitel 11 SchSV§ 3 Absatz 4 SeeBV i. V. m. STCW 95 Regel A-VI/1, A-VI/2, A-VI/3 sowie Anlage 1a, Teil 3, Kapitel 11,Regel 3 SchSVnach Zeitaufwand
+
+3203Genehmigung für Abweichungen von den Nationalitätenvorgaben zur Schiffsbesetzung inkl. Verlängerung um maximal 54 Monate§ 4 SchBesV§ 5 SchBesV219
 
 IV. Besichtigungen, Audits, Inspektionen, Beurteilungen und Planprüfung
 
@@ -1508,4 +1519,3 @@ NummerGegenstandRechtsgrundlageGebühr in Euro
 34Umschreibung SRC§ 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV43,45
 
 35Umschreibung LRC§ 13 Absatz 4ai. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV45,40
-
