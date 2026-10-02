@@ -4,9 +4,10 @@ identifier: "POSTAUFGÜBERLG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2025-12-22"
-last_updated: "2026-04-04"
+last_updated: "2026-10-02"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/postaufg_berlg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR1590B0025"
 slug: "postaufg_berlg"
@@ -14,7 +15,10 @@ bgbl_reference: "BGBl. I 2025, Nr. 345"
 ---
 # Gesetz zur Überleitung öffentlicher Aufgaben bei Umwandlungsmaßnahmen der Deutsche Post AG
 
-##### § 1 Verordnungsermächtigung zur Übertragung durch Rechtsvorschriften zugewiesener öffentlicher Aufgaben, Rechte, Pflichten, Befugnisse und Zuständigkeiten
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Verordnungsermächtigung zur Übertragung durch Rechtsvorschriften zugewiesener öffentlicher Aufgaben, Rechte, Pflichten, Befugnisse und Zuständigkeiten
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nach Anhörung der vertretungsberechtigten Organe der Deutsche Post AG, die öffentlichen Aufgaben, Rechte, Pflichten, Befugnisse und Zuständigkeiten, die der Deutsche Post AG (Vorgängerunternehmen) durch Gesetz oder Rechtsverordnung des Bundes zugewiesen sind, nach Maßgabe der Absätze 2 und 3 auf eine andere inländische Kapitalgesellschaft, auf welche im Rahmen einer Maßnahme nach dem Umwandlungsgesetz Vermögenswerte der Deutsche Post AG übergehen (Nachfolgeunternehmen), zu übertragen, soweit diese öffentlichen Aufgaben, Rechte, Pflichten, Befugnisse und Zuständigkeiten nicht bereits nach § 38 des Postpersonalrechtsgesetzes vom 14. September 1994 (BGBl. I S. 2325, 2353), das zuletzt durch Artikel 4 des Gesetzes vom 20. Dezember 2023 (BGBl. 2023 I Nr. 389) geändert worden ist, übertragen werden können. Das Bundesministerium der Finanzen wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates in Rechtsverordnungen die Bezeichnung „Deutsche Post AG“ oder „Deutschen Post AG“ anzupassen, sofern und soweit dies zum Zwecke der Rechtsklarheit und Rechtssicherheit erforderlich ist. Dies gilt entsprechend für weitere Anpassungen, wenn die Bezeichnung „Deutsche Post AG“ oder „Deutschen Post AG“ bereits angepasst wurde.
 
@@ -46,11 +50,11 @@ c) § 6 Absatz 3 in Verbindung mit § 4 Absatz 1 Satz 2 Nummer 3 der Sozialhilfe
 
 (4) Zur Prüfung der Voraussetzungen nach Absatz 3 Nummer 1 steht der Bundesregierung ein Recht auf uneingeschränkte Information durch den Vorstand und den Aufsichtsrat des Vorgängerunternehmens zu.
 
-##### § 2 Zeitpunkt des Übergangs der öffentlichen Aufgaben, Rechte, Pflichten, Befugnisse und Zuständigkeiten
+###### § 2 Zeitpunkt des Übergangs der öffentlichen Aufgaben, Rechte, Pflichten, Befugnisse und Zuständigkeiten
 
 Der Verordnungsgeber gewährleistet eine zeitlich lückenlose Zuweisung der übertragenen öffentlichen Aufgaben, Rechte, Pflichten, Befugnisse und Zuständigkeiten. Die Rechtsverordnung nach § 1 Absatz 1 ist vor dem Tag zu erlassen, an dem die Maßnahme nach dem Umwandlungsgesetz wirksam wird. Die Aufgabenübertragung nach § 1 Absatz 1 und 2 soll ab dem Tag des Wirksamwerdens der Maßnahme nach dem Umwandlungsgesetz wirksam werden. Dies gilt auch für die Bestimmung des Nachfolgeunternehmens als Postnachfolgeunternehmen und die Entlassung des Vorgängerunternehmens Deutsche Post AG aus dem Status eines Postnachfolgeunternehmens nach § 1 Absatz 3 Nummer 2. Die Bundesregierung gibt das Wirksamwerden der Aufgabenübertragung, der Bestimmung des Nachfolgeunternehmens zum Postnachfolgeunternehmen und der Entlassung der Deutsche Post AG aus dem Status eines Postnachfolgeunternehmens sowie den Tag des Wirksamwerdens der Maßnahme nach dem Umwandlungsgesetz im Bundesanzeiger bekannt.
 
-##### § 3 Rechtsfolgen; Verordnungsermächtigung
+###### § 3 Rechtsfolgen; Verordnungsermächtigung
 
 (1) Mit dem Wirksamwerden der Aufgabenübertragung nach § 1 Absatz 1 und 2 tritt das Nachfolgeunternehmen in die durch Rechtsverordnung übertragenen öffentlichen Aufgaben, Rechte, Pflichten, Befugnisse und Zuständigkeiten des Vorgängerunternehmens ein, soweit diese Nachfolge nicht schon nach den Vorschriften des Umwandlungsgesetzes eintritt.
 
@@ -104,7 +108,7 @@ Der Verordnungsgeber gewährleistet eine zeitlich lückenlose Zuweisung der übe
 
 (6) Verwaltungsakte, die auf Grundlage der in Absatz 2 genannten Gesetze und Rechtsverordnungen im Zusammenhang mit übertragenen öffentlichen Aufgaben, Rechten, Pflichten, Befugnissen oder Zuständigkeiten gegenüber der Deutsche Post AG erlassen wurden und zu dem in Absatz 1 genannten Zeitpunkt nicht gemäß § 43 Absatz 2 des Verwaltungsverfahrensgesetzes zurückgenommen oder erledigt sind, gelten mit der Maßgabe fort, dass sie als gegenüber dem Nachfolgeunternehmen erlassen gelten. Dies gilt nicht, soweit die in Satz 1 genannten Verwaltungsakte aufgrund anderer Vorschriften gegenüber dem Nachfolgeunternehmen gelten oder soweit die Fortgeltung gegenüber dem Nachfolgeunternehmen von der jeweils zuständigen Behörde geregelt wird.
 
-##### § 4 Postrechtliche Rechte und Pflichten; regulierungsbehördliche Verwaltungsakte
+###### § 4 Postrechtliche Rechte und Pflichten; regulierungsbehördliche Verwaltungsakte
 
 (1) Für den Fall, dass die Bundesregierung von der Verordnungsermächtigung nach § 1 Absatz 1 Gebrauch macht, gehen die folgenden Rechte und Pflichten nach dem Postgesetz vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) zum Zeitpunkt des Wirksamwerdens der Aufgabenübertragung nach § 1 Absatz 1 und 2 von dem Vorgängerunternehmen auf das Nachfolgeunternehmen über:
 
@@ -117,4 +121,3 @@ Der Verordnungsgeber gewährleistet eine zeitlich lückenlose Zuweisung der übe
 (2) Mit dem Übergang des Rechts nach Absatz 1 Nummer 1 ist das Nachfolgeunternehmen anstelle des Vorgängerunternehmens in das Verzeichnis nach § 4 Absatz 1 des Postgesetzes einzutragen. § 4 Absatz 2 bis 4 und 6 findet in diesem Fall keine Anwendung. § 6 Absatz 1 Satz 2 des Postgesetzes ist entsprechend anzuwenden. Bis zum Vollzug der Eintragung gilt das Nachfolgeunternehmen als eingetragen nach § 4 Absatz 1 des Postgesetzes. Mit dem Übergang der Pflicht nach Absatz 1 Nummer 3 gehen auch die Hoheitsbefugnisse im Sinne des § 61 Satz 2 des Postgesetzes auf das Nachfolgeunternehmen als beliehenem Unternehmer über.
 
 (3) Verwaltungsakte, die auf Grundlage des Postgesetzes, einer aufgrund des Postgesetzes erlassenen Rechtsverordnung oder aufgrund der Benannte Betreiber-Zulassungsverordnung vom 1. Juli 2019 (BGBl. I S. 904), die durch Artikel 36 des Gesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236, Nr. 331) geändert worden ist, gegenüber dem Vorgängerunternehmen erlassen worden sind oder diesem gegenüber fortgelten und zum Zeitpunkt des Wirksamwerdens der Aufgabenübertragung nach § 1 Absatz 1 und 2 nicht erledigt (§ 43 Absatz 2 des Verwaltungsverfahrensgesetzes) oder aufgehoben worden sind, gelten mit der Maßgabe fort, dass sie auch als gegenüber dem Nachfolgeunternehmen erlassen gelten. Satz 1 gilt für Feststellungen nach § 112 Absatz 6 des Postgesetzes, die gegenüber dem Vorgängerunternehmen fortgelten, entsprechend.
-
