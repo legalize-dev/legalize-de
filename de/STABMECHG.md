@@ -4,22 +4,26 @@ identifier: "STABMECHG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2010-05-22"
-last_updated: "2026-04-04"
+last_updated: "2026-10-06"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/stabmechg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR062700010"
 slug: "stabmechg"
 bgbl_reference: "BGBl I 2010, 627"
-stand: "Zuletzt geändert durch Art. 10 G v. 22.12.2023 I Nr. 412"
+stand: "Zuletzt geändert durch Art. 8 G v. 25.9.2026 I Nr. 275"
 ---
 # Gesetz zur Übernahme von Gewährleistungen im Rahmen eines europäischen Stabilisierungsmechanismus
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-##### § 1 Gewährleistungsermächtigung
+###### § 1 Gewährleistungsermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, für Finanzierungsgeschäfte, die die Europäische Finanzstabilisierungsfazilität zur Durchführung von unter der Voraussetzung der Absätze 2 und 3 gewährten Notmaßnahmen zugunsten eines Mitgliedstaates des Euro-Währungsgebietes tätigt, Gewährleistungen bis zur Höhe von insgesamt 211,0459 Milliarden Euro zu übernehmen. Notmaßnahmen im Sinne von Satz 1 sind Darlehen der Europäischen Finanzstabilisierungsfazilität an den betroffenen Mitgliedstaat, einschließlich solcher, die der Mitgliedstaat zur Rekapitalisierung von Finanzinstituten verwendet, vorsorgliche Maßnahmen sowie Ankäufe von Staatsanleihen dieses Mitgliedstaates am Primärmarkt oder Sekundärmarkt. Gewährleistungen nach Satz 1 können nur bis zum 30. Juni 2013 übernommen werden. Zu diesem Zeitpunkt verfällt die Ermächtigung für den nicht ausgenutzten Teil des Gewährleistungsrahmens. Eine Gewährleistung ist auf den Höchstbetrag dieser Ermächtigung in der Höhe anzurechnen, in der der Bund daraus in Anspruch genommen werden kann. Zinsen und Kosten sind auf den Ermächtigungsrahmen nicht anzurechnen.
 
@@ -31,13 +35,13 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (5) Der Gewährleistungsrahmen nach Absatz 1 kann unter den Voraussetzungen des § 37 Absatz 1 Satz 2 der Bundeshaushaltsordnung mit Einwilligung des Haushaltsausschusses des Deutschen Bundestages um bis zu 20 Prozent der in Absatz 1 genannten Summe überschritten werden.
 
-##### § 2 Haushalts- und Stabilitätsverantwortung
+###### § 2 Haushalts- und Stabilitätsverantwortung
 
 (1) Der Deutsche Bundestag nimmt in Angelegenheiten der Europäischen Finanzstabilisierungsfazilität zur Durchführung von Notmaßnahmen zugunsten eines Mitgliedstaates des Euro-Währungsgebietes seine Haushaltsverantwortung und seine Verantwortung für die Fortentwicklung der Stabilität der Währungsunion insbesondere nach Maßgabe der folgenden Bestimmungen wahr.
 
 (2) Der Deutsche Bundestag berät und beschließt über Vorlagen nach diesem Gesetz in angemessener Frist. Dabei berücksichtigt er die für die Beschlussfassung auf der Ebene des Euro-Währungsgebietes maßgeblichen Fristvorgaben.
 
-##### § 3 Parlamentsvorbehalt für Entscheidungen in der Europäischen Finanzstabilisierungsfazilität
+###### § 3 Parlamentsvorbehalt für Entscheidungen in der Europäischen Finanzstabilisierungsfazilität
 
 (1) Die Bundesregierung darf in Angelegenheiten der Europäischen Finanzstabilisierungsfazilität einem Beschlussvorschlag, der die haushaltspolitische Gesamtverantwortung des Deutschen Bundestages berührt, durch ihren Vertreter nur zustimmen oder sich bei einer Beschlussfassung enthalten, nachdem der Deutsche Bundestag hierzu einen zustimmenden Beschluss gefasst hat. Ohne einen solchen Beschluss des Deutschen Bundestages muss der deutsche Vertreter den Beschlussvorschlag ablehnen.
 
@@ -45,7 +49,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 1. beim Abschluss einer Vereinbarung über eine Notmaßnahme der Europäischen Finanzstabilisierungsfazilität auf Antrag eines Mitgliedstaates des Euro-Währungsgebietes,
 
-2. bei einer wesentlichen Änderung einer Vereinbarung über eine Notmaßnahme, einer Änderung ihrer Instrumente und Bedingungen und bei einer Änderung, die Auswirkungen auf die Höhe des deutschen Gewährleistungsrahmens hat,
+2. bei einer wesentlichen Änderung einer Vereinbarung über eine Notmaßnahme, ihrer Instrumente oder Bedingungen, sofern diese Änderung Auswirkungen auf die Höhe des deutschen Gewährleistungsrahmens hat,
 
 3. bei Änderungen des Rahmenvertrags der Europäischen Finanzstabilisierungsfazilität,
 
@@ -55,7 +59,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (3) Soweit ein Aufkauf von Staatsanleihen auf dem Sekundärmarkt geplant ist, kann die Bundesregierung die besondere Vertraulichkeit der Angelegenheit geltend machen. In diesem Fall werden die in Absatz 1 bezeichneten Beteiligungsrechte des Deutschen Bundestages von einem Sondergremium wahrgenommen, welches sich aus ordentlichen Mitgliedern des Haushaltsausschusses zusammensetzt und vom Haushaltsausschuss für eine Legislaturperiode mit der Mehrheit seiner Mitglieder benannt wird. Die Anzahl der Mitglieder und eine gleich große Anzahl von Stellvertretern ist die kleinstmögliche, bei der jede Fraktion zumindest ein Mitglied benennen kann, die Mehrheitsverhältnisse gewahrt werden und bei der die Zusammensetzung des Plenums widergespiegelt wird. Das Sondergremium kann der Annahme der besonderen Vertraulichkeit widersprechen. Im Falle des Widerspruchs nimmt der Deutsche Bundestag die in Absatz 1 bezeichneten Beteiligungsrechte wahr. Das Sondergremium berichtet dem Deutschen Bundestag über Inhalt und Ergebnis seiner Beratungen unverzüglich nach Fortfall der besonderen Vertraulichkeit.
 
-##### § 4 Beteiligung des Haushaltsausschusses des Deutschen Bundestages
+###### § 4 Beteiligung des Haushaltsausschusses des Deutschen Bundestages
 
 (1) In allen die Haushaltsverantwortung des Deutschen Bundestages berührenden Angelegenheiten der Europäischen Finanzstabilisierungsfazilität, in denen eine Entscheidung des Deutschen Bundestages gemäß § 3 nicht vorgesehen ist, wird der Haushaltsausschuss beteiligt. Er hat das Recht zur Stellungnahme. Der Haushaltsausschuss des Deutschen Bundestages überwacht die Vorbereitung und den Vollzug der Vereinbarungen über Notmaßnahmen.
 
@@ -67,7 +71,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (5) Ein Antrag oder eine Vorlage der Bundesregierung gilt als dem Haushaltsausschuss überwiesen im Sinne der Geschäftsordnung des Deutschen Bundestages. § 70 der Geschäftsordnung gilt entsprechend, wobei das Verlangen eines Viertels der Mitglieder des Haushaltsausschusses von mindestens zwei Fraktionen im Ausschuss unterstützt werden muss.
 
-##### § 5 Unterrichtung durch die Bundesregierung
+###### § 5 Unterrichtung durch die Bundesregierung
 
 (1) Die Bundesregierung hat den Deutschen Bundestag in Angelegenheiten dieses Gesetzes umfassend, zum frühestmöglichen Zeitpunkt, fortlaufend und in der Regel schriftlich zu unterrichten. Die Bundesregierung unterrichtet den Bundesrat schriftlich. Einzelheiten bleiben einer Vereinbarung zwischen Bund und Ländern vorbehalten.
 
@@ -83,7 +87,6 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (7) Die Unterrichtungsrechte nach den Absätzen 1 bis 6 können in Fällen besonderer Vertraulichkeit nach § 3 Absatz 3 auf die beteiligten Mitglieder des Haushaltsausschusses beschränkt werden, solange die Gründe für die besondere Vertraulichkeit bestehen. Nach Fortfall dieser Gründe holt die Bundesregierung die Unterrichtung des Deutschen Bundestages unverzüglich nach.
 
-##### § 6 Inkrafttreten
+###### § 6 Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
-
