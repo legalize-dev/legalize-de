@@ -4,28 +4,32 @@ identifier: "PFLVG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1965-04-05"
-last_updated: "2026-04-04"
+last_updated: "2026-10-06"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/pflvg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR102130965"
 slug: "pflvg"
 bgbl_reference: "BGBl I 1965, 213"
-stand: "Zuletzt geändert durch Art. 1 G v. 11.4.2024 I Nr. 119"
+stand: "Zuletzt geändert durch Art. 9 Abs. 4 G v. 25.9.2026 I Nr. 275"
 ---
 # Gesetz über die Pflichtversicherung für Kraftfahrzeughalter
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 ## Abschnitt 1 Pflichtversicherung
 
-##### § 1 Versicherungspflicht
+###### § 1 Versicherungspflicht
 
 Der Halter eines Fahrzeugs im Sinne des § 1a Absatz 1 Nummer 1, das seinen regelmäßigen Standort im Sinne des § 1a Absatz 1 Nummer 2 oder seinen gewöhnlichen Standort im Sinne des § 1a Absatz 2 Satz 1 im Inland hat, ist verpflichtet, für sich, den Eigentümer und den Fahrer sowie weitere Personen nach Maßgabe des § 4 Absatz 3 Nummer 4 bis 7 eine Haftpflichtversicherung zur Deckung der durch den Gebrauch des Fahrzeugs im Sinne des § 1a Absatz 3 verursachten Personenschäden, Sachschäden oder sonstigen Vermögensschäden nach den folgenden Vorschriften abzuschließen und aufrechtzuerhalten.
 
-##### § 1a Begriffsbestimmungen
+###### § 1a Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes bezeichnet
 
@@ -67,7 +71,7 @@ Für die Zwecke der Schadenregulierung gemäß Artikel 10 der Richtlinie 2009/10
 
 3. der Tatsache, ob es sich in Bewegung befindet oder nicht.
 
-##### § 2 Ausnahmen von der Versicherungspflicht für bestimmte Halter
+###### § 2 Ausnahmen von der Versicherungspflicht für bestimmte Halter
 
 (1) § 1 gilt nicht für
 
@@ -83,7 +87,7 @@ Für die Zwecke der Schadenregulierung gemäß Artikel 10 der Richtlinie 2009/10
 
 (2) Die nach Absatz 1 Nrn. 1 bis 5 von der Versicherungspflicht befreiten Fahrzeughalter haben, sofern nicht auf Grund einer von ihnen abgeschlossenen und den Vorschriften dieses Gesetzes entsprechenden Versicherung Haftpflichtversicherungsschutz gewährt wird, bei Schäden der in § 1 bezeichneten Art für den Fahrer und die übrigen Personen, die durch eine auf Grund dieses Gesetzes abgeschlossene Haftpflichtversicherung Deckung erhalten würden, in gleicher Weise und in gleichem Umfang einzutreten wie ein Versicherer bei Bestehen einer solchen Haftpflichtversicherung. Die Verpflichtung beschränkt sich auf den Betrag der festgesetzten Mindestversicherungssummen. Wird ein Personen- oder Sachschaden verursacht, haftet der Fahrzeughalter im Verhältnis zu einem Dritten auch, wenn der Fahrer den Eintritt der Tatsache, für die er dem Dritten verantwortlich ist, vorsätzlich und widerrechtlich herbeigeführt hat. § 12 Absatz 1 Satz 2 bis 4 gilt in diesem Fall entsprechend. Die Vorschriften der §§ 100 bis 124 des Versicherungsvertragsgesetzes sowie der §§ 3 und 5a Absatz 2 sowie die Kraftfahrzeug-Pflichtversicherungsverordnung sind sinngemäß anzuwenden. Erfüllt der Fahrzeughalter Verpflichtungen nach Satz 1, so kann er in sinngemäßer Anwendung der §§ 116 und 124 des Versicherungsvertragsgesetzes Ersatz der aufgewendeten Beträge verlangen, wenn bei Bestehen einer Versicherung der Versicherer gegenüber dem Fahrer oder der sonstigen mitversicherten Person leistungsfrei gewesen wäre; im übrigen ist der Rückgriff des Halters gegenüber diesen Personen ausgeschlossen.
 
-##### § 2a Ausnahmen von der Versicherungspflicht für bestimmte Fahrzeuge und deren Gebrauch
+###### § 2a Ausnahmen von der Versicherungspflicht für bestimmte Fahrzeuge und deren Gebrauch
 
 (1) § 1 gilt nicht für die Halter folgender Fahrzeuge:
 
@@ -101,11 +105,11 @@ Für die Zwecke der Schadenregulierung gemäß Artikel 10 der Richtlinie 2009/10
 
 (3) § 1 gilt auch nicht für den Gebrauch eines Fahrzeugs bei einer Motorsportveranstaltung oder Motorsportaktivität, einschließlich Rennen, Wettbewerben, Trainings, Tests und Demonstrationen, in einem hierfür abgegrenzten Gebiet mit Zugangsbeschränkungen, wenn die durch diesen Gebrauch des Fahrzeugs verursachten Personenschäden, Sachschäden oder sonstigen Vermögensschäden durch einen Versicherungsschutz nach Maßgabe des § 5d gedeckt sind.
 
-##### § 3 Fortbestehen der Leistungspflicht gegenüber Dritten
+###### § 3 Fortbestehen der Leistungspflicht gegenüber Dritten
 
 Ist der Versicherer gegenüber dem Versicherungsnehmer nicht zur Leistung verpflichtet, weil das Fahrzeug den Bau- und Betriebsvorschriften der Straßenverkehrs-Zulassungs-Ordnung nicht entsprach oder von einem unberechtigten Fahrer oder von einem Fahrer ohne die vorgeschriebene Fahrerlaubnis geführt wurde, kann der Versicherer den Dritten abweichend von § 117 Abs. 3 Satz 2 des Versicherungsvertragsgesetzes nicht auf die Möglichkeit verweisen, Ersatz seines Schadens von einem anderen Schadensversicherer oder von einem Sozialversicherungsträger zu erlangen. Soweit der Dritte jedoch von einem nach § 2 Absatz 1 von der Versicherungspflicht befreiten Fahrzeughalter Ersatz seines Schadens erlangen kann, entfällt die Leistungspflicht des Versicherers.
 
-##### § 3a Verfahren der Schadenregulierung
+###### § 3a Verfahren der Schadenregulierung
 
 (1) Macht der Dritte den Anspruch nach § 115 Absatz 1 des Versicherungsvertragsgesetzes geltend, so hat der Versicherer oder der Schadenregulierungsbeauftragte dem Dritten unverzüglich, spätestens innerhalb von drei Monaten,
 
@@ -117,7 +121,7 @@ Die Frist beginnt mit Zugang des Antrags bei dem Versicherer oder dem Schadenreg
 
 (2) Wird das Schadensersatzangebot (Absatz 1 Satz 1 Nummer 1) nicht binnen drei Monaten vorgelegt, so ist der Anspruch des Dritten mit dem sich nach § 288 Absatz 1 Satz 2 des Bürgerlichen Gesetzbuchs ergebenden Zinssatz zu verzinsen. Weitergehende Ansprüche des Dritten bleiben unberührt.
 
-##### § 4 Mindestumfang des Versicherungsschutzes; Verordnungsermächtigungen
+###### § 4 Mindestumfang des Versicherungsschutzes; Verordnungsermächtigungen
 
 (1) Um einen dem Zweck dieses Gesetzes gerecht werdenden Schutz sicherzustellen, bestimmt das Bundesministerium der Justiz unter Beachtung unionsrechtlicher Verpflichtungen sowie des Europäischen Übereinkommens über die obligatorische Haftpflichtversicherung für Kraftfahrzeuge vom 20. April 1959 (BGBl. 1965 II S. 281) im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Digitales und Verkehr durch Rechtsverordnung ohne Zustimmung des Bundesrates den Umfang des zur Erfüllung der Versicherungspflicht nach § 1 notwendigen Versicherungsschutzes. Das gilt auch für den Fall, dass durch Gesetz oder unionsrechtliche Verpflichtung eine Versicherungspflicht zur Deckung der beim Transport gefährlicher Güter durch Fahrzeuge verursachten Schäden begründet wird.
 
@@ -147,7 +151,7 @@ Ergeben sich auf Grund der Platzzahl des Personenfahrzeugs, auf das sich die Ver
 
 (4) Mitversicherten Personen ist das Recht auf selbständige Geltendmachung ihrer Ansprüche einzuräumen.
 
-##### § 5 Zugelassene Versicherer, Pflicht der Versicherer zum Vertragsschluss
+###### § 5 Zugelassene Versicherer, Pflicht der Versicherer zum Vertragsschluss
 
 (1) Die Versicherung nach § 1 kann nur bei einem im Inland zum Betrieb der Kraftfahrzeug-Haftpflichtversicherung befugten Versicherungsunternehmen genommen werden.
 
@@ -171,7 +175,7 @@ Ergeben sich auf Grund der Platzzahl des Personenfahrzeugs, auf das sich die Ver
 
 (8) (weggefallen)
 
-##### § 5a Dauer des Versicherungsverhältnisses, Kündigungsfiktion
+###### § 5a Dauer des Versicherungsverhältnisses, Kündigungsfiktion
 
 (1) Das Versicherungsverhältnis endet,
 
@@ -183,13 +187,13 @@ Es verlängert sich um jeweils ein Jahr, wenn es nicht spätestens einen Monat v
 
 (2) Schließt der Erwerber eines veräußerten Fahrzeugs eine neue Kraftfahrzeug-Haftpflichtversicherung ab, ohne das auf ihn übergegangene Versicherungsverhältnis zu kündigen, so gilt dieses mit Beginn des neuen Versicherungsverhältnisses als gekündigt.
 
-##### § 5b Versicherungsbestätigung; Angaben über den bestellten Vertreter
+###### § 5b Versicherungsbestätigung; Angaben über den bestellten Vertreter
 
 (1) Das Versicherungsunternehmen hat dem Versicherungsnehmer bei Beginn des Versicherungsschutzes eine Versicherungsbestätigung zu übermitteln. Das Versicherungsunternehmen kann die Übermittlung der Versicherungsbestätigung von der Zahlung der einmaligen oder der ersten Prämie abhängig machen.
 
 (2) Ist die Versicherung mit einem Versicherungsunternehmen ohne Sitz im Inland im Dienstleistungsverkehr abgeschlossen, so haben der Versicherungsschein und die Versicherungsbestätigung auch Angaben über den Namen und die Anschrift des gemäß § 8 Absatz 3 Satz 1 bestellten Vertreters zu enthalten.
 
-##### § 5c Bescheinigung über den Schadenverlauf
+###### § 5c Bescheinigung über den Schadenverlauf
 
 (1) Das Versicherungsunternehmen hat dem Versicherungsnehmer zu folgenden Zeitpunkten eine Bescheinigung über den Schadenverlauf auszustellen:
 
@@ -201,7 +205,7 @@ Es verlängert sich um jeweils ein Jahr, wenn es nicht spätestens einen Monat v
 
 (3) Das Versicherungsunternehmen hat bei der Festsetzung der Prämien einschließlich der Anwendung etwaiger Rabatte eine in einem anderen Staat des Europäischen Wirtschaftsraums ausgestellte Bescheinigung genauso wie eine im Inland ausgestellte Bescheinigung zu behandeln. Das Versicherungsunternehmen darf Versicherungsnehmer bei der Berücksichtigung der von anderen Versicherungsunternehmen oder von anderen in Artikel 16 Absatz 2 der Richtlinie 2009/103/EG genannten Stellen ausgestellten Bescheinigungen nicht aufgrund ihrer Staatsangehörigkeit oder allein aufgrund ihres früheren Wohnsitzstaates innerhalb des Europäischen Wirtschaftsraums in diskriminierender Weise behandeln oder einen Prämienaufschlag verlangen.
 
-##### § 5d Mindestumfang des Versicherungsschutzes bei Motorsportveranstaltungen; Verordnungsermächtigung
+###### § 5d Mindestumfang des Versicherungsschutzes bei Motorsportveranstaltungen; Verordnungsermächtigung
 
 (1) Der alternative Versicherungsschutz für den Gebrauch eines Fahrzeugs bei einer Motorsportveranstaltung oder Motorsportaktivität, einschließlich Rennen, Wettbewerben, Trainings, Tests und Demonstrationen, in einem hierfür abgegrenzten Gebiet mit Zugangsbeschränkungen kann aufgrund einer vom Halter, Eigentümer oder Fahrer des Fahrzeugs, vom Veranstalter oder einer anderen Partei abgeschlossenen Haftpflichtversicherung bestehen und muss den Mindestanforderungen nach den Absätzen 2 bis 4 genügen.
 
@@ -223,7 +227,7 @@ Es verlängert sich um jeweils ein Jahr, wenn es nicht spätestens einen Monat v
 
 2. die Mindesthöhen der Versicherungssummen an diejenigen für eine Haftpflichtversicherung nach § 1 anzugleichen.
 
-##### § 6 Verbot des Gebrauchs unversicherter Fahrzeuge
+###### § 6 Verbot des Gebrauchs unversicherter Fahrzeuge
 
 (1) Es ist verboten, ein Fahrzeug zu gebrauchen, für das die nach § 1 erforderliche Haftpflichtversicherung nicht besteht.
 
@@ -241,7 +245,7 @@ Es verlängert sich um jeweils ein Jahr, wenn es nicht spätestens einen Monat v
 
 (4) Es ist verboten, einen nach den Absätzen 1 bis 3 verbotenen Gebrauch zu gestatten.
 
-##### § 7 Durchführungsregelungen; Verordnungsermächtigung
+###### § 7 Durchführungsregelungen; Verordnungsermächtigung
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt, zur Durchführung des Ersten Abschnitts dieses Gesetzes im Einvernehmen mit dem Bundesministerium der Justiz und dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
@@ -255,7 +259,7 @@ Das Bundesministerium für Digitales und Verkehr wird ermächtigt, zur Durchfüh
 
 ## Abschnitt 2 Pflichten der Versicherungsunternehmen, Auskunftsstelle und Statistik
 
-##### § 8 Pflicht der Versicherungsunternehmen zur Beitragszahlung und zur Bestellung eines Vertreters
+###### § 8 Pflicht der Versicherungsunternehmen zur Beitragszahlung und zur Bestellung eines Vertreters
 
 (1) Versicherungsunternehmen, die zum Betrieb der Kraftfahrzeug-Haftpflichtversicherung für Fahrzeuge mit regelmäßigem oder gewöhnlichem Standort im Inland befugt sind, sind verpflichtet, die satzungsmäßigen Leistungen und Beiträge an das Deutsche Büro Grüne Karte, an den Entschädigungsfonds nach § 24 Absatz 1 Nummer 1 und an die nach § 24 Absatz 1 Nummer 2 errichtete Entschädigungsstelle oder an eine andere jeweils mit der Erfüllung dieser Aufgaben betraute juristische Person zu erbringen. Sie teilen hierzu dem Deutschen Büro Grüne Karte, dem Entschädigungsfonds und der Entschädigungsstelle bezüglich der von ihnen in der Bundesrepublik Deutschland nach diesem Gesetz getätigten Kraftfahrzeug-Haftpflichtversicherungen die gebuchten Prämienbeträge und die Anzahl der versicherten Risiken mit.
 
@@ -263,7 +267,7 @@ Das Bundesministerium für Digitales und Verkehr wird ermächtigt, zur Durchfüh
 
 (3) Versicherungsunternehmen, die im Dienstleistungsverkehr die Kraftfahrzeug-Haftpflichtversicherung für Fahrzeuge mit regelmäßigem oder gewöhnlichem Standort im Inland betreiben, sind verpflichtet, einen im Inland ansässigen oder niedergelassenen Vertreter zu bestellen, der den Anforderungen nach § 59 des Versicherungsaufsichtsgesetzes zu genügen hat. Ansprüche aus Kraftfahrzeug-Haftpflichtfällen gegen das Versicherungsunternehmen können auch gegen den nach Satz 1 bestellten Vertreter gerichtlich und außergerichtlich mit Wirkung für und gegen das Versicherungsunternehmen geltend gemacht werden. Der nach Satz 1 bestellte Vertreter ist auch verpflichtet, Auskunft über das Bestehen oder die Gültigkeit von diesem Gesetz unterliegenden Haftpflichtversicherungsverträgen bei dem Versicherungsunternehmen zu erteilen.
 
-##### § 8a Auskunftsstelle
+###### § 8a Auskunftsstelle
 
 (1) Es wird eine Auskunftsstelle eingerichtet, die Geschädigten, deren Versicherern, dem Deutschen Büro Grüne Karte und dem Entschädigungsfonds nach § 24 Absatz 1 Nummer 1 oder einer anderen jeweils mit der Erfüllung dieser Aufgaben betrauten juristischen Person unter den Voraussetzungen des Satzes 2 auf Anforderung folgende Angaben übermittelt, soweit dies zur Geltendmachung von Schadenersatzansprüchen im Zusammenhang mit der Teilnahme am Straßenverkehr erforderlich ist:
 
@@ -283,7 +287,7 @@ Geschädigte sind berechtigt, sich an die Auskunftsstelle zu wenden, wenn sie ih
 
 (4) Versicherungsunternehmen, denen im Inland die Erlaubnis zum Betrieb der Kraftfahrzeug-Haftpflichtversicherung für Fahrzeuge erteilt ist, haben der Auskunftsstelle nach Absatz 3 sowie den in den anderen Staaten des Europäischen Wirtschaftsraums nach Artikel 23 Absatz 1 der Richtlinie 2009/103/EG errichteten oder anerkannten Auskunftsstellen die Namen und Anschriften der nach § 163 des Versicherungsaufsichtsgesetzes bestellten Schadenregulierungsbeauftragten sowie jede Änderung dieser Angaben mitzuteilen.
 
-##### § 8b Allgemeine Übersicht zur Berücksichtigung von Bescheinigungen über den Schadenverlauf
+###### § 8b Allgemeine Übersicht zur Berücksichtigung von Bescheinigungen über den Schadenverlauf
 
 Das Versicherungsunternehmen hat eine allgemeine Übersicht über seine Politik der Berücksichtigung von Bescheinigungen über den Schadenverlauf gemäß Artikel 16 der Richtlinie 2009/103/EG bei der Berechnung der Prämien verfügbar zu machen. Das Versicherungsunternehmen hat diese Information sowie jede Änderung dieser Information unverzüglich
 
@@ -291,7 +295,7 @@ Das Versicherungsunternehmen hat eine allgemeine Übersicht über seine Politik 
 
 2. der zuständigen Aufsichtsbehörde mitzuteilen.
 
-##### § 9 Gemeinschaftsstatistik über den Schadenverlauf
+###### § 9 Gemeinschaftsstatistik über den Schadenverlauf
 
 (1) Es wird eine jährliche Gemeinschaftsstatistik über den Schadenverlauf in der Kraftfahrzeug-Haftpflichtversicherung geführt. Sie muß Angaben enthalten über die Art und Anzahl der versicherten Risiken, die Anzahl der gemeldeten Schäden, die Erstattungsleistungen und Rückstellungen (Schadenaufwand), die Schadenhäufigkeit, den Schadendurchschnitt und den Schadenbedarf.
 
@@ -299,13 +303,13 @@ Das Versicherungsunternehmen hat eine allgemeine Übersicht über seine Politik 
 
 (3) Die Ergebnisse der Statistik sind von der Bundesanstalt für Finanzdienstleistungsaufsicht jährlich zu veröffentlichen.
 
-##### § 10 Mitteilung der Daten für die Gemeinschaftsstatistik
+###### § 10 Mitteilung der Daten für die Gemeinschaftsstatistik
 
 (1) Versicherungsunternehmen mit Sitz im Inland, die die Kraftfahrzeug-Haftpflichtversicherung nach diesem Gesetz betreiben, übermitteln der Aufsichtsbehörde die für die Führung der Statistik nach § 9 erforderlichen Daten.
 
 (2) Soweit Versicherungsunternehmen mit Sitz im Inland in anderen Staaten des Europäischen Wirtschaftsraums die Kraftfahrzeug-Haftpflichtversicherung betreiben, sind der Aufsichtsbehörde die in § 9 Abs. 1 Satz 2 genannten Angaben auch für jeden dieser Staaten gesondert mitzuteilen.
 
-##### § 11 Verordnungsermächtigung zur Gemeinschaftsstatistik
+###### § 11 Verordnungsermächtigung zur Gemeinschaftsstatistik
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung Vorschriften zu erlassen über den Inhalt, die Form und die Gliederung der nach § 9 zu führenden Kraftfahrzeug-Haftpflichtversicherungsstatistik sowie über die Fristen, den Inhalt, die Form und die Stückzahl der von den Versicherungsunternehmen einzureichenden Mitteilungen.
 
@@ -313,7 +317,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bun
 
 ## Unterabschnitt 1 Entschädigungsfonds für Schäden aus Fahrzeugunfällen
 
-##### § 12 Leistungspflicht des Entschädigungsfonds
+###### § 12 Leistungspflicht des Entschädigungsfonds
 
 (1) Wird durch den Gebrauch eines Fahrzeugs im Inland ein Personen- oder Sachschaden verursacht, so kann derjenige, dem wegen dieser Schäden Ersatzansprüche gegen eine in § 4 Absatz 3 genannte Person zustehen, diese Ersatzansprüche auch gegen den „Entschädigungsfonds für Schäden aus Fahrzeugunfällen“ (Entschädigungsfonds) geltend machen,
 
@@ -363,7 +367,7 @@ d) Einrichtungen des Verkehrs auf Binnenwasserstraßen,
 
 3. wenn und soweit deutsche Staatsangehörige von der Ersatzleistung durch diese Stelle ausgeschlossen sind.
 
-##### § 13 Aufwendungsersatz; Forderungsübergang
+###### § 13 Aufwendungsersatz; Forderungsübergang
 
 (1) Der Entschädigungsfonds kann von den Personen, für deren Schadensersatzverpflichtungen er nach § 12 Absatz 1 einzutreten hat, wie ein Beauftragter Ersatz seiner Aufwendungen verlangen.
 
@@ -377,7 +381,7 @@ d) Einrichtungen des Verkehrs auf Binnenwasserstraßen,
 
 Der Übergang der Ersatzansprüche kann nicht zum Nachteil des Ersatzberechtigten geltend gemacht werden. Gibt der Ersatzberechtigte seinen Ersatzanspruch oder ein zur Sicherung des Anspruchs dienendes Recht auf, so entfällt die Leistungspflicht des Entschädigungsfonds insoweit, als er aus dem Anspruch oder dem Recht hätte Ersatz erlangen können.
 
-##### § 14 Erstattungspflicht des Entschädigungsfonds, Forderungsübergang und Rückgriff
+###### § 14 Erstattungspflicht des Entschädigungsfonds, Forderungsübergang und Rückgriff
 
 (1) Der Entschädigungsfonds ist verpflichtet, einem Entschädigungsfonds im Sinne des Artikels 10 Absatz 1 der Richtlinie 2009/103/EG eines anderen Staates des Europäischen Wirtschaftsraums denjenigen Betrag zu erstatten, den dieser als Entschädigung wegen eines Personen- oder Sachschadens zahlt, der auf dem Gebiet dieses Staates durch ein Fahrzeug verursacht wurde, dessen Halter nach § 2a Absatz 1 oder 2 von der Versicherungspflicht befreit ist.
 
@@ -387,7 +391,7 @@ Der Übergang der Ersatzansprüche kann nicht zum Nachteil des Ersatzberechtigte
 
 ## Unterabschnitt 2 Entschädigungsstelle für Schäden aus Auslandsunfällen
 
-##### § 15 Leistungspflicht der Entschädigungsstelle
+###### § 15 Leistungspflicht der Entschädigungsstelle
 
 (1) Wird durch den Gebrauch eines Fahrzeugs im Ausland ein Personen- oder Sachschaden verursacht, so kann derjenige, der seinen Wohnsitz im Inland hat und dem wegen dieser Schäden Ersatzansprüche gegen den Haftpflichtversicherer des schädigenden Fahrzeugs zustehen, diese vorbehaltlich des Absatzes 4 gegen die "Entschädigungsstelle für Schäden aus Auslandsunfällen" (Entschädigungsstelle) geltend machen,
 
@@ -421,13 +425,13 @@ Ein Antrag auf Erstattung ist nicht zulässig, wenn der Geschädigte unmittelbar
 
 (5) Handelt es sich bei dem Fahrzeug nicht um ein Fahrzeug im Sinne des Artikels 1 Nummer 1 der Richtlinie 2009/103/EG, so ist die Entschädigungsstelle nur dann nach den Absätzen 1 bis 4 verpflichtet, wenn der Rückgriff gegenüber der Entschädigungsstelle im Staat des Europäischen Wirtschaftsraums der Niederlassung des Versicherungsunternehmens, die die Versicherungspolice ausgestellt hat, gewährleistet ist.
 
-##### § 16 Forderungsübergang auf die Entschädigungsstelle
+###### § 16 Forderungsübergang auf die Entschädigungsstelle
 
 Soweit die Entschädigungsstelle nach § 15 dem Ersatzberechtigten den Schaden ersetzt, gehen die Ansprüche des Ersatzberechtigten gegen den Haftpflichtversicherer des Fahrzeugs und andere Ersatzpflichtige auf die Entschädigungsstelle über. Der Übergang kann nicht zum Nachteil des Ersatzberechtigten geltend gemacht werden. Soweit eine Entschädigungsstelle im Sinne des Artikels 24 der Richtlinie 2009/103/EG einer anderen Entschädigungsstelle einen als Entschädigung gezahlten Betrag erstattet, gehen die auf die zuletzt genannte Entschädigungsstelle übergegangenen Ansprüche des Geschädigten gegen den Haftpflichtversicherer des Fahrzeugs und andere Ersatzpflichtige auf die zuerst genannte Entschädigungsstelle über. Ein nach Artikel 24 Absatz 2 Unterabsatz 2 der Richtlinie 2009/103/EG vorgesehener Forderungsübergang unterliegt den Rechtsvorschriften des Staates des Europäischen Wirtschaftsraums, dessen Entschädigungsstelle der Entschädigungsstelle des Wohnsitzstaates des Geschädigten Erstattung geleistet hat.
 
 ## Unterabschnitt 3 Insolvenzfonds für Schäden aus Fahrzeugunfällen
 
-##### § 17 Leistungspflicht des Insolvenzfonds
+###### § 17 Leistungspflicht des Insolvenzfonds
 
 (1) Ansprüche gegen den Versicherer auf Ersatz eines durch den Gebrauch eines Fahrzeugs verursachten Personen- oder Sachschadens können unter den weiteren Voraussetzungen des Absatzes 2, 3 oder 4 und des § 18 gegen den Insolvenzfonds für Schäden aus Fahrzeugunfällen (Insolvenzfonds) geltend gemacht werden, wenn
 
@@ -463,7 +467,7 @@ Der Insolvenzfonds erbringt in diesem Fall Leistungen an ausländische Staatsang
 
 2. der Unfall sich im Inland ereignet hat.
 
-##### § 18 Umfang der Leistungspflicht des Insolvenzfonds
+###### § 18 Umfang der Leistungspflicht des Insolvenzfonds
 
 (1) Der Ersatzberechtigte kann seine Ansprüche gegen den Insolvenzfonds nur geltend machen, soweit er glaubhaft macht, dass er weder von einem anderen Schadensversicherer noch vom Deutschen Büro Grüne Karte Ersatz seines Schadens zu erlangen vermag. Die Leistungspflicht des Insolvenzfonds entfällt, soweit
 
@@ -485,7 +489,7 @@ Die Sätze 1 und 2 sind nicht anzuwenden, soweit ihre Anwendung dazu führen wü
 
 (5) Im Übrigen bestimmen sich die Voraussetzungen und der Umfang der Leistungspflicht des Insolvenzfonds sowie die Pflichten des Ersatzberechtigten gegenüber dem Insolvenzfonds nach den Vorschriften, die für das Verhältnis zwischen dem Versicherer und dem Ersatzberechtigten gelten.
 
-##### § 19 Aufwendungsersatz; Forderungsübergang
+###### § 19 Aufwendungsersatz; Forderungsübergang
 
 (1) Der Insolvenzfonds kann von den Personen, für deren Schadensersatzverpflichtungen er nach § 17 einzutreten hat, wie ein Beauftragter Ersatz seiner Aufwendungen verlangen, wobei Ersatzansprüche des Insolvenzfonds gegenüber dem Versicherungsnehmer und mitversicherten Personen auf den Betrag beschränkt sind, den der Versicherungsnehmer oder die mitversicherte Person auch im Verhältnis zum Versicherer zu tragen hätte.
 
@@ -497,7 +501,7 @@ Die Sätze 1 und 2 sind nicht anzuwenden, soweit ihre Anwendung dazu führen wü
 
 (5) Befriedigt ein Versicherungsnehmer oder eine mitversicherte Person berechtigte Ansprüche eines Geschädigten über den nach Absatz 1 im Verhältnis zum Insolvenzfonds zu tragenden Betrag hinaus, so kann der Versicherungsnehmer oder die mitversicherte Person insoweit beim Insolvenzfonds Rückgriff nehmen. Die Ansprüche des Geschädigten gegen den Insolvenzfonds gehen insoweit auf den Versicherungsnehmer oder die mitversicherte Person über.
 
-##### § 20 Informationspflichten und Zusammenarbeit im Insolvenzfall
+###### § 20 Informationspflichten und Zusammenarbeit im Insolvenzfall
 
 (1) Beantragt die Versicherungsaufsichtsbehörde die Eröffnung eines Insolvenzverfahrens über ein Versicherungsunternehmen mit Sitz im Inland, so hat sie diesen Antrag unverzüglich bekanntzumachen und dem Insolvenzfonds zu übermitteln. Dasselbe gilt, wenn die zuständige Aufsichtsbehörde Maßnahmen zur Eröffnung eines Liquidationsverfahrens über ein solches Versicherungsunternehmen ergreift. Wird über ein Versicherungsunternehmen mit Sitz im Inland das Insolvenzverfahren eröffnet, so hat das Insolvenzgericht den Eröffnungsbeschluss unverzüglich dem Insolvenzfonds zu übermitteln.
 
@@ -541,7 +545,7 @@ Diese Zusammenarbeit umfasst die Anforderung, Entgegennahme und Übermittlung vo
 
 (5) Die in Absatz 4 Satz 1 Nummer 1 und 2 genannten Stellen und Personen sowie die zuständigen deutschen Behörden sind verpflichtet, dem Insolvenzfonds die für die Erfüllung seiner Aufgaben erforderlichen Auskünfte zu erteilen, die benötigten Unterlagen zu überlassen und ihn bei der Abwicklung zu unterstützen. Das Versicherungsunternehmen, das Gegenstand eines Insolvenz- oder Liquidationsverfahrens ist, oder sein Verwalter oder Liquidator ist insbesondere verpflichtet, den Insolvenzfonds zu unterrichten, wenn es für einen Anspruch, der auch beim Insolvenzfonds eingegangen ist, Entschädigung leistet oder die Eintrittspflicht bestreitet. Ist der Anspruch bei einer nach Artikel 10a Absatz 1 oder Artikel 25a Absatz 1 der Richtlinie 2009/103/EG zugelassenen oder eingerichteten Stelle eines anderen Staates des Europäischen Wirtschaftsraum eingegangen, so bestehen die Pflichten nach den Sätzen 1 und 2 gegenüber dieser Stelle.
 
-##### § 21 Rückgriff unter den Insolvenzfonds
+###### § 21 Rückgriff unter den Insolvenzfonds
 
 (1) Ist der Herkunftsstaat des Versicherers die Bundesrepublik Deutschland und hat eine nach Artikel 10a Absatz 1 oder Artikel 25a Absatz 1 der Richtlinie 2009/103/EG eingerichtete oder zugelassene Stelle in einem anderen Staat des Europäischen Wirtschaftsraums einem Geschädigten mit Wohnsitz in diesem Staat Entschädigung gezahlt, so ist der Insolvenzfonds verpflichtet, dieser Stelle den als Entschädigung gezahlten Betrag nach Maßgabe des Absatzes 2 zu erstatten. Der Insolvenzfonds leistet die Zahlung innerhalb einer angemessenen Frist von höchstens sechs Monaten, nachdem er einen entsprechenden Antrag auf Erstattung erhalten hat, wenn nicht zwischen dem Insolvenzfonds und dieser Stelle schriftlich etwas anderes vereinbart ist.
 
@@ -551,7 +555,7 @@ Diese Zusammenarbeit umfasst die Anforderung, Entgegennahme und Übermittlung vo
 
 (4) Handelt es sich bei dem versicherten Fahrzeug nicht um ein Fahrzeug im Sinne des Artikels 1 Nummer 1 der Richtlinie 2009/103/EG, so richtet sich der Rückgriff zwischen dem Insolvenzfonds und den anderen nach Artikel 10a Absatz 1 oder Artikel 25a Absatz 1 der Richtlinie 2009/103/EG eingerichteten oder zugelassenen Stellen allein nach den zwischen diesen Stellen getroffenen Vereinbarungen.
 
-##### § 22 Rückgriffsrecht des Deutschen Büros Grüne Karte
+###### § 22 Rückgriffsrecht des Deutschen Büros Grüne Karte
 
 (1) Soweit das Deutsche Büro Grüne Karte dem nationalen Versicherungsbüro eines anderen Staates des Europäischen Wirtschaftsraums die Kosten der Schadenregulierung für einen Unfall erstattet hat, der in diesem Staat von einem Fahrzeug mit gewöhnlichen Standort im Inland verursacht wurde, kann das Deutsche Büro Grüne Karte seinerseits vom Insolvenzfonds die Erstattung des gezahlten Betrages verlangen, wenn das Fahrzeug bei einem Versicherungsunternehmen mit Sitz im Inland versichert ist und das Versicherungsunternehmen Gegenstand eines Insolvenzverfahrens oder eines Liquidationsverfahrens im Sinne des Artikels 268 Absatz 1 Buchstabe d der Richtlinie 2009/138/EG ist.
 
@@ -559,7 +563,7 @@ Diese Zusammenarbeit umfasst die Anforderung, Entgegennahme und Übermittlung vo
 
 ## Unterabschnitt 4 Wahrnehmung der Aufgaben von Entschädigungsfonds, Entschädigungsstelle und Insolvenzfonds
 
-##### § 23 Wahrnehmung der Aufgaben durch eine Anstalt; Verordnungsermächtigung
+###### § 23 Wahrnehmung der Aufgaben durch eine Anstalt; Verordnungsermächtigung
 
 (1) Die nach § 13 Absatz 1 Satz 1 und 2 in der bis zum 17. April 2024 geltenden Fassung errichtete Anstalt nimmt die ihr nach diesem Gesetz oder aufgrund dieses Gesetzes übertragenen Aufgaben wahr und untersteht der Aufsicht des Bundesministeriums der Justiz. Das Nähere über die Anstalt bestimmt die Satzung, die von der Bundesregierung durch Rechtsverordnung ohne Zustimmung des Bundesrates erlassen wird.
 
@@ -577,7 +581,7 @@ b) die nach § 2 Absatz 1 Nummer 1 bis 4 von der Versicherungspflicht befreiten 
 
 Das Nähere über die Beitragspflicht bestimmt das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr, dem Bundesministerium für Wirtschaft und Klimaschutz und dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates.
 
-##### § 24 Wahrnehmung der Aufgaben durch die Verkehrsopferhilfe
+###### § 24 Wahrnehmung der Aufgaben durch die Verkehrsopferhilfe
 
 (1) Dem rechtsfähigen Verein „Verkehrsopferhilfe eingetragener Verein“ in Berlin (Verkehrsopferhilfe) sind mit seiner Zustimmung zugewiesen:
 
@@ -593,7 +597,7 @@ Das Nähere über die Beitragspflicht bestimmt das Bundesministerium der Justiz 
 
 (4) Die Verkehrsopferhilfe hat an deutlich sichtbarer Stelle auf ihrer Internetseite und einem Geschädigten auf dessen Verlangen die wesentlichen Informationen über die verschiedenen Wege der Beantragung von Schadensersatz auf Papier oder in Textform bereitzustellen, sofern einzelne der in den Absätzen 1 und 2 genannten Aufgabenbereiche durch Rechtsverordnung gemäß § 28 Absatz 1 oder 2 einer anderen juristischen Person übertragen worden sind.
 
-##### § 25 Aufsicht; Genehmigung der Satzung der Verkehrsopferhilfe
+###### § 25 Aufsicht; Genehmigung der Satzung der Verkehrsopferhilfe
 
 (1) Die Verkehrsopferhilfe untersteht der Rechtsaufsicht des Bundesministeriums der Justiz, soweit sie die übertragenen Aufgaben und Befugnisse wahrnimmt.
 
@@ -601,7 +605,7 @@ Das Nähere über die Beitragspflicht bestimmt das Bundesministerium der Justiz 
 
 (3) Die Verkehrsopferhilfe hat dem Bundesministerium der Justiz als Grundlage für die Genehmigung einer Änderung ihrer Satzung, die die Regelungen über die satzungsmäßigen Leistungen zur Finanzierung der Aufgaben von Entschädigungsfonds, Entschädigungsstelle und Insolvenzfonds betrifft, ein Gutachten eines Wirtschaftsprüfers oder einer Wirtschaftsprüfungsgesellschaft vorzulegen, das bestätigt, dass die in den zur Genehmigung vorgelegten Satzungsänderungen getroffenen Regelungen über die satzungsmäßigen Leistungen und deren Erhebung und den diesen Satzungsänderungen zugrunde gelegten Annahmen eine den Anforderungen an die Finanzierung nach § 27 entsprechende Finanzierung gewährleisten. Gemeinsam mit dem Jahresbericht für das vorangegangene Kalenderjahr hat die Verkehrsopferhilfe dem Bundesministerium der Justiz jährlich zum 30. Juni ein Gutachten eines Wirtschaftsprüfers oder einer Wirtschaftsprüfungsgesellschaft vorzulegen, das bestätigt, dass die nach ihrer Satzung erhobenen satzungsmäßigen Leistungen den Anforderungen an die Finanzierung nach § 27 entsprechen. Für die Prüfung nach Satz 1 und 2 sind § 319 Absatz 2 bis 4, § 319b Absatz 1, § 320 Absatz 2 und § 323 des Handelsgesetzbuchs entsprechend anzuwenden.
 
-##### § 26 Stelle zur gütlichen Einigung; Verordnungsermächtigung
+###### § 26 Stelle zur gütlichen Einigung; Verordnungsermächtigung
 
 Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr, dem Bundesministerium für Wirtschaft und Klimaschutz und dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen,
 
@@ -611,13 +615,13 @@ Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bunde
 
 3. dass Ansprüche gegen den Entschädigungsfonds im Wege der Klage erst geltend gemacht werden können, nachdem ein Verfahren vor der Stelle nach Nummer 1 vorausgegangen ist, sofern nicht seit der Anrufung der Stelle mehr als drei Monate verstrichen sind.
 
-##### § 27 Finanzierung
+###### § 27 Finanzierung
 
 (1) Die Verkehrsopferhilfe hat in ihrer Satzung Leistungen durch ihre Mitglieder und die weiteren nach § 8 Absatz 1 und 2 verpflichteten Unternehmen in Form von Beiträgen, Vorschüssen, Umlagen, Sonderbeiträgen und sonstigen Leistungen sowie ausreichende Sicherheitsleistungen für zukünftige Beiträge, Umlagen oder Sonderbeiträge so vorzusehen, dass die Verkehrsopferhilfe jederzeit über ausreichende liquide Mittel zur Erfüllung ihrer Aufgaben nach diesem Gesetz und ihrer Satzung, insbesondere zur Deckung bereits entstandener sowie zukünftiger und potentieller Entschädigungsleistungen, sowie der dafür erforderlichen Verwaltungskosten verfügt.
 
 (2) Die Mittel aus Leistungen der nach § 8 Absatz 1 verpflichteten Unternehmen dürfen nur für die Erfüllung der Aufgaben des Entschädigungsfonds einschließlich der Aufgaben des Entschädigungsfonds nach § 12 Absatz 1 Satz 1 Nummer 4 in der bis zum 17. April 2024 geltenden Fassung und der Entschädigungsstelle sowie die dafür erforderlichen Aufwendungen verwendet werden. Die Mittel der nach § 8 Absatz 2 verpflichteten Unternehmen dürfen nur für die Erfüllung der Aufgaben des Insolvenzfonds sowie die dafür erforderlichen Aufwendungen verwendet werden. Verwaltungskosten, die für die Erfüllung mehrerer Aufgaben anfallen, können nach einem sachgerechten und nachvollziehbaren Schlüssel aufgeteilt werden.
 
-##### § 28 Übertragung der Wahrnehmung der Aufgaben auf eine andere juristische Person; Verordnungsermächtigungen
+###### § 28 Übertragung der Wahrnehmung der Aufgaben auf eine andere juristische Person; Verordnungsermächtigungen
 
 (1) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Aufgaben und Befugnisse des Entschädigungsfonds, der Entschädigungsstelle, der Verhandlungsstelle oder des Insolvenzfonds der in § 23 genannten Anstalt zu übertragen, soweit die Wahrnehmung der Aufgaben und Befugnisse des Entschädigungsfonds, der Entschädigungsstelle, der Verhandlungsstelle oder des Insolvenzfonds durch die Verkehrsopferhilfe nicht gewährleistet ist oder diese nicht mehr zur Wahrnehmung der Aufgaben bereit ist.
 
@@ -629,13 +633,13 @@ Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bunde
 
 (3) § 24 Absatz 3 und 4 gilt auch für die Anstalt nach § 23 entsprechend, wenn und soweit ihr durch Rechtsverordnung nach Absatz 1 Aufgaben und Befugnisse zugewiesen werden. § 24 Absatz 3 und 4 und die §§ 25 bis 27 gelten für jede andere juristische Person entsprechend, wenn und soweit dieser juristischen Person durch Rechtsverordnung nach Absatz 2 Aufgaben und Befugnisse zugewiesen werden.
 
-##### § 29 Steuerbefreiung
+###### § 29 Steuerbefreiung
 
 Der Entschädigungsfonds, die Entschädigungsstelle, die Verhandlungsstelle und der Insolvenzfonds sind von der Körperschaftsteuer, der Gewerbesteuer und der Vermögensteuer befreit.
 
 ## Abschnitt 4 Strafvorschriften, Übergangs- und Schlussvorschriften
 
-##### § 30 Strafvorschriften
+###### § 30 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
@@ -653,11 +657,11 @@ Der Entschädigungsfonds, die Entschädigungsstelle, die Verhandlungsstelle und 
 
 (4) Fahrzeuge, auf die sich eine Straftat nach Absatz 1 bezieht, können eingezogen werden, wenn sie dem Täter oder Teilnehmer zur Zeit der Entscheidung gehören.
 
-##### § 31 Tarifumstellung bei Bestandsübertragung
+###### § 31 Tarifumstellung bei Bestandsübertragung
 
 Wird zur Vermeidung einer Insolvenz ein Bestand an Kraftfahrzeug-Haftpflichtversicherungsverträgen mit Genehmigung der Aufsichtsbehörden auf einen anderen Versicherer übertragen, so kann der übernehmende Versicherer die Anwendung des für sein Unternehmen geltenden Tarifs (Prämie und Tarifbestimmungen) und seiner Versicherungsbedingungen vom Beginn der nächsten Versicherungsperiode an erklären, wenn er dem Versicherungsnehmer die Tarifänderung unter Kenntlichmachung der Unterschiede des alten und neuen Tarifs spätestens einen Monat vor Inkrafttreten der Änderung mitteilt und ihn schriftlich über sein Kündigungsrecht belehrt.
 
-##### § 32 Anwendungsbestimmung; Übergangsregelung
+###### § 32 Anwendungsbestimmung; Übergangsregelung
 
 (1) Dieses Gesetz in der ab dem 17. April 2024 geltenden Fassung ist nicht vor dem 23. Dezember 2023 anzuwenden, soweit in den nachfolgenden Absätzen nichts anderes geregelt ist.
 
@@ -681,7 +685,7 @@ Wird zur Vermeidung einer Insolvenz ein Bestand an Kraftfahrzeug-Haftpflichtvers
 
 (7) Die §§ 17 bis 22 sind im Übrigen ab dem Tag der in Artikel 10a Absatz 13 Unterabsatz 1 und Artikel 25a Absatz 13 Unterabsatz 1 der Richtlinie 2009/103/EG genannten Vereinbarungen oder ab dem Zeitpunkt der Anwendung der in Artikel 10a Absatz 13 Unterabsatz 4 und Artikel 25a Absatz 13 Unterabsatz 4 der Richtlinie 2009/103/EG genannten delegierten Rechtsakte der Europäischen Kommission anzuwenden, frühestens jedoch ab dem 23. Dezember 2023. Bis zum Tag der Anwendung nach Satz 1 sind auf Ansprüche Geschädigter für den Fall, dass die Versicherungsaufsichtsbehörde den Antrag auf Eröffnung eines Insolvenzverfahrens über das Vermögen eines leistungspflichtigen Versicherers stellt oder, sofern der Versicherer seinen Sitz in einem anderen Staat des Europäischen Wirtschaftsraums hat, von der zuständigen Aufsichtsbehörde eine vergleichbare Maßnahme ergriffen wird, weiterhin die bis einschließlich 16. April 2024 geltenden Vorschriften anzuwenden.
 
-##### § 33 Anpassung an Änderungen der Fahrzeug-Zulassungsverordnung; Verordnungsermächtigung
+###### § 33 Anpassung an Änderungen der Fahrzeug-Zulassungsverordnung; Verordnungsermächtigung
 
 Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch Rechtsverordnung mit Zustimmung des Bundesrates die Verweise auf Vorschriften der Fahrzeug-Zulassungsverordnung in diesem Gesetz an geänderte Vorschriften der Fahrzeug-Zulassungsverordnung anzupassen, soweit
 
@@ -689,7 +693,7 @@ Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bunde
 
 2. die Vorschriften der Fahrzeug-Zulassungsverordnung, auf die durch dieses Gesetz verwiesen wird, durch eine Verordnung nach Nummer 1 durch inhaltsgleiche Regelungen zur Definition von Kraftfahrzeugen und Anhängern sowie den Anforderungen an deren Zulassung zur Inbetriebnahme auf öffentlichen Straßen ersetzt werden.
 
-##### Anlage zu § 4 Abs. 2
+###### Anlage zu § 4 Abs. 2
 
 (Fundstelle: BGBl. I 1965, 221;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -717,4 +721,3 @@ aa)25 000 Eurofür Personenschäden,bb)250 Eurofür reine Vermögensschäden.
 3. Bei Anhängern entspricht die Mindesthöhe der Versicherungssumme für Schäden, die nicht mit dem Betrieb des Kraftfahrzeugs im Sinne des § 7 des Straßenverkehrsgesetzes im Zusammenhang stehen, und für die den Insassen des Anhängers zugefügten Schäden den in Nummer 1, bei Personenanhängern mit mehr als neun Plätzen den in Nummern 1 und 2 genannten Beträgen.
 
 4. Zu welcher dieser Gruppen das Fahrzeug gehört, richtet sich nach der Eintragung im Kraftfahrzeug- oder Anhängerbrief.
-
