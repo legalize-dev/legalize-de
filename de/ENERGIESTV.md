@@ -4,24 +4,28 @@ identifier: "ENERGIESTV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2006-07-31"
-last_updated: "2026-04-04"
+last_updated: "2026-10-06"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/energiestv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR175310006"
 slug: "energiestv"
 bgbl_reference: "BGBl I 2006, 1753"
-stand: "Zuletzt geändert durch Art. 7 G v. 22.12.2025 I Nr. 341"
+stand: "Zuletzt geändert durch Art. 12 G v. 25.9.2026 I Nr. 275"
 ---
 # Verordnung zur Durchführung des Energiesteuergesetzes
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
 
-**Allgemeines** § 1Begriffsbestimmungen§ 1aZuständiges Hauptzollamt**Zu den §§ 1 bis 3, 53 bis 53a und 55 des Gesetzes**§ 1bErgänzende Begriffsbestimmungen zum Gesetz§ 1cSteuertarif für schwefelhaltige Energieerzeugnisse **Zu § 2 Abs. 3 und 4, § 27 Abs. 1, § 48 Abs. 1, § 52 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes** § 2Ordnungsgemäße Kennzeichnung§ 3Antrag auf Zulassung von Kennzeichnungseinrichtungen§ 4Zulassung von Kennzeichnungseinrichtungen§ 5Antrag auf Bewilligung des Kennzeichnungsbetriebs§ 6Bewilligung des Kennzeichnungsbetriebs§ 7Pflichten des Inhabers des Kennzeichnungsbetriebs§ 8Andere Energieerzeugnisse als Gasöle§ 8aÜberprüfung und Erlöschen der Zulassung und der Bewilligung **Zu § 3 Absatz 1 Satz 1 Nummer 1 und 2, § 37 Absatz 2 Satz 3 sowie zu den §§ 53 und 53a des Gesetzes** § 9Anlagenbegriff**Zu den §§ 3 und 53a des Gesetzes**§ 10Nutzungsgradermittlung**Zu § 3 Absatz 1 Satz 1 Nummer 2 und Absatz 5 des Gesetzes**§ 11Pflichten des Anlagenbetreibers**Zu § 3a des Gesetzes** § 11aGüterumschlag in Seehäfen **Zu § 3b des Gesetzes**§ 11bVerfahren bei offenen Rückforderungsanordnungen§ 11cVerfahren bei Unternehmen in Schwierigkeiten**Zu § 6 des Gesetzes** § 12Antrag auf Herstellererlaubnis§ 13Einrichtung des Herstellungsbetriebs§ 14Erteilung, Überprüfung und Erlöschen der Herstellererlaubnis§ 15Pflichten des Herstellers, Steueraufsicht **Zu § 7 des Gesetzes** § 16Antrag auf Lagererlaubnis§ 17Einrichtung des Lagers§ 18Erteilung, Überprüfung und Erlöschen der Lagererlaubnis§ 19Pflichten des Lagerinhabers, Steueraufsicht§ 20Lagerbehandlung§ 21Zugelassener Einlagerer, Erlaubnis und Pflichten§ 22Lager ohne Lagerstätten **Zu § 8 des Gesetzes** § 23Entfernung und Entnahme von Energieerzeugnissen **Zu den §§ 8, 9, 9a, 14, 16, 18c, 22 und 23 des Gesetzes** § 23aSteueranmeldung **Zu den §§ 8, 9, 9a, 14, 15, 16, 17, 18, 18a, 20, 21, 22, 23, 30, 33, 34, 36, 37, 39, 40, 42, 43 und 44 des Gesetzes und § 61 Absatz 4**§ 23bÜberprüfung der Steueranmeldung**Zu § 9 des Gesetzes** § 24Herstellung außerhalb eines Herstellungsbetriebs **Zu den §§ 6 bis 9, 23, 24, 30 bis 32 und 38 des Gesetzes** § 25Anzeichen für eine Gefährdung der Steuer **Zu § 9a des Gesetzes** § 26Registrierter Empfänger **Zu § 9b des Gesetzes** § 27Registrierter Versender **Zu den §§ 9c und 9d Absatz 2 des Gesetzes** § 28Begünstigte, Freistellungsbescheinigung **Zu den §§ 9d bis 13 des Gesetzes** § 28aTeilnahme am EDV-gestützten Beförderungs- und Kontrollsystem§ 28bErstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes§ 28cUnbestimmter Empfänger§ 29Art und Höhe der Sicherheitsleistung§ 30Annullierung des elektronischen Verwaltungsdokuments§ 31Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse bei Verwendung des elektronischen Verwaltungsdokuments§ 32Aufteilung von Warensendungen während der Beförderung§ 33Beförderung aus anderen Mitgliedstaaten und Beendigung von Beförderungen unter Steueraussetzung§ 34Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments§ 35Beförderung im Steuergebiet ohne elektronisches Verwaltungsdokument§ 36Beginn der Beförderung im Ausfallverfahren§ 36aAnnullierung im Ausfallverfahren§ 36bÄnderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse im Ausfallverfahren§ 36c Aufteilung im Ausfallverfahren§ 36dEingangs- und Ausfuhrmeldung im Ausfallverfahren§ 37Ersatznachweise für die Beendigung der Beförderung **Zu § 14 des Gesetzes** § 37aUnregelmäßigkeiten während der Beförderung unter Steueraussetzung **Zu den §§ 15, 15a, 15b und 15c des Gesetzes** § 38Zertifizierter Empfänger§ 38aZertifizierter Versender§ 38bTeilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren§ 38cErstellen des vereinfachten elektronischen Verwaltungsdokuments§ 38dÄnderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments§ 38eEingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments§ 38fBeförderung im Ausfallverfahren§ 38gErsatznachweise für die Beendigung der Beförderung§ 39(weggefallen)§ 40(weggefallen) **Zu den §§ 17, 18b, 21 und 46 des Gesetzes** § 41Hauptbehälter **Zu § 18 des Gesetzes** § 42Versandhandel**Zu § 18c des Gesetzes**§ 42aUnregelmäßigkeiten während der Beförderung von Energieerzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten **Zu § 19b des Gesetzes** § 43Einfuhr von Energieerzeugnissen aus Drittländern und Drittgebieten§ 44(weggefallen)§ 45(weggefallen) **Zu den §§ 21, 65 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes** § 46Verkehrs-, Verbringungs- und Verwendungsbeschränkungen§ 47Vermischungen in Kennzeichnungs- und anderen Betrieben§ 48Vermischungen bei der Abgabe aus Transportmitteln§ 49Spülvorgänge und sonstige Vermischungen, Steueranmeldung§ 49aAbgabe von sonstigen Energieerzeugnissen, Steueranmeldung§ 49bNachweise für die Vorversteuerung **Zu § 23 des Gesetzes** § 49aAbgabe von sonstigen Energieerzeugnissen§ 50Anzeige§ 51Pflichten, Steueraufsicht **Zu den §§ 24 bis 30 des Gesetzes** § 52Antrag auf Erlaubnis als Verwender oder Verteiler§ 53Erteilung der Erlaubnis§ 54Überprüfung und Erlöschen der Erlaubnis§ 55Allgemeine Erlaubnis§ 56Pflichten des Erlaubnisinhabers, Steueraufsicht§ 57Bezug und Abgabe von steuerfreien Energieerzeugnissen **Zu § 25 des Gesetzes** § 58Verwendung zu anderen Zwecken **Zu § 26 des Gesetzes** § 59Eigenverbrauch **Zu den §§ 17 und 27 des Gesetzes** § 60Schiff- und Luftfahrt§ 61Versteuerung von Energieerzeugnissen in Wasserfahrzeugen **Zu § 31 des Gesetzes** § 62Anmeldung des Kohlebetriebs§ 63Einrichtung des Kohlebetriebs§ 64Pflichten des Betriebsinhabers§ 65Antrag auf Erlaubnis für Kohlebetriebe und Kohlelieferer§ 66Erteilung, Überprüfung und Erlöschen der Erlaubnis§ 67Pflichten des Erlaubnisinhabers§ 68Bezug und Lagerung von unversteuerter Kohle§ 69Lieferung von unversteuerter Kohle **Zu § 34 des Gesetzes** § 70Verbringen von Kohle in das Steuergebiet **Zu § 35 des Gesetzes** § 71Einfuhr von Kohle **Zu § 37 des Gesetzes**§ 72Antrag auf Erlaubnis als Kohleverwender§ 73Erteilung, Überprüfung und Erlöschen der Erlaubnis§ 74Allgemeine Erlaubnis§ 75Pflichten des Erlaubnisinhabers§ 76Bezug und Lagerung von steuerfreier Kohle§ 77Eigenverbrauch **Zu § 38 des Gesetzes** § 78Anmeldung für Lieferer, Entnehmer und Bezieher von Erdgas§ 79Pflichten **Zu § 39 des Gesetzes** § 80Vorauszahlungen **Zu § 40 des Gesetzes** § 81Nicht leitungsgebundenes Verbringen **Zu § 41 des Gesetzes** § 82Nicht leitungsgebundene Einfuhr **Zu § 44 des Gesetzes** § 83Antrag auf Erlaubnis als Erdgasverwender oder als Erdgasverteiler§ 84Erteilung, Überprüfung und Erlöschen der Erlaubnis§ 84aAllgemeine Erlaubnis§ 85Pflichten des Erlaubnisinhabers§ 86Eigenverbrauch **Zu § 46 des Gesetzes** § 87Steuerentlastung beim Verbringen aus dem Steuergebiet **Zu § 47 des Gesetzes** § 88Steuerentlastung bei Aufnahme in Steuerlager§ 89Steuerentlastung für Kohlenwasserstoffanteile§ 90Steuerentlastung bei steuerfreien Zwecken§ 91Steuerentlastung für Kohle§ 91aSteuerentlastung für Erdgas bei Einspeisung **Zu § 47a des Gesetzes**§ 91bSteuerentlastung für den Eigenverbrauch**Zu § 48 des Gesetzes** § 92Steuerentlastung bei Spülvorgängen und versehentlichen Vermischungen **Zu § 49 des Gesetzes** § 93Steuerentlastung für zum Verheizen verwendete Energieerzeugnisse§ 94(weggefallen) **Zu § 51 des Gesetzes** § 95Steuerentlastung für bestimmte Prozesse und Verfahren **Zu § 52 des Gesetzes** § 96Steuerentlastung für die Schifffahrt§ 97Steuerentlastung für die Luftfahrt **Zu den §§ 53 und 53a des Gesetzes** § 98Steuerentlastung für die Stromerzeugung und die gekoppelte Erzeugung von Kraft und Wärme, Allgemeines**Zu § 53 des Gesetzes**§ 99Steuerentlastung für die Stromerzeugung**Zu § 53a des Gesetzes**§ 99aSteuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme§ 99b(weggefallen)§ 99c(weggefallen)§ 99d(weggefallen) **Zu § 54 des Gesetzes** § 100Steuerentlastung für Unternehmen§ 100aVerwendung von Wärme durch andere Unternehmen **Zu § 55 des Gesetzes (weggefallen)** § 101(weggefallen) **Zu § 56 des Gesetzes** § 102Steuerentlastung für den öffentlichen Personennahverkehr, Allgemeines§ 102aSteuerentlastung für den öffentlichen Personennahverkehr mit Schienenbahnen§ 102bSteuerentlastung für den öffentlichen Personennahverkehr mit Kraftfahrzeugen **Zu § 57 des Gesetzes** § 103Steuerentlastung für Betriebe der Land- und Forstwirtschaft **Zu § 58 des Gesetzes**§ 103aSteuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)**Zu § 58a des Gesetzes**§ 103bSteuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)**Zu § 59 des Gesetzes** § 104Steuervergütung für Diplomatenbenzin und -dieselkraftstoff **Zu § 66 Abs. 1 Nr. 2 des Gesetzes (weggefallen)** § 105(weggefallen)**Zu § 66 Absatz 1 Nummer 18 des Gesetzes (weggefallen)**§ 105a(weggefallen) **Zu den §§ 61 und 66 Abs. 1 Nr. 16 des Gesetzes** § 106Steueraufsicht, Pflichten§ 107Hinweispflichten bei Abgabe von Energieerzeugnissen **Zu den §§ 65 und 66 Abs. 1 Nr. 16 des Gesetzes** § 108Kontrollen, Sicherstellung **Zu § 66 Abs. 1 Nr. 17 des Gesetzes** § 109Vermischungen von versteuerten Energieerzeugnissen§ 109a(weggefallen)§ 109b(weggefallen) **Zu § 66 Abs. 1 Nr. 13 des Gesetzes** § 110Normen **Zu § 156 Absatz 1 der Abgabenordnung**§ 110aKleinbetragsregelung**Zu § 381 Abs. 1 der Abgabenordnung** § 111Ordnungswidrigkeiten**Schlussbestimmungen**§ 112Übergangsregelung
+###### Inhaltsübersicht
+
+**Allgemeines** § 1Begriffsbestimmungen§ 1aZuständiges Hauptzollamt**Zu den §§ 1 bis 3, 53 bis 53a und 55 des Gesetzes**§ 1bErgänzende Begriffsbestimmungen zum Gesetz§ 1cSteuertarif für schwefelhaltige Energieerzeugnisse **Zu § 2 Abs. 3 und 4, § 27 Abs. 1, § 48 Abs. 1, § 52 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes** § 2Ordnungsgemäße Kennzeichnung§ 3Antrag auf Zulassung von Kennzeichnungseinrichtungen§ 4Zulassung von Kennzeichnungseinrichtungen§ 5Antrag auf Bewilligung des Kennzeichnungsbetriebs§ 6Bewilligung des Kennzeichnungsbetriebs§ 7Pflichten des Inhabers des Kennzeichnungsbetriebs§ 8Andere Energieerzeugnisse als Gasöle§ 8aÜberprüfung und Erlöschen der Zulassung und der Bewilligung **Zu § 3 Absatz 1 Satz 1 Nummer 1 und 2, § 37 Absatz 2 Satz 3 sowie zu den §§ 53 und 53a des Gesetzes** § 9Anlagenbegriff**Zu den §§ 3 und 53a des Gesetzes**§ 10Nutzungsgradermittlung**Zu § 3 Absatz 1 Satz 1 Nummer 2 und Absatz 5 des Gesetzes**§ 11Pflichten des Anlagenbetreibers**Zu § 3a des Gesetzes** § 11aGüterumschlag in Seehäfen **Zu § 3b des Gesetzes**§ 11bVerfahren bei offenen Rückforderungsanordnungen§ 11cVerfahren bei Unternehmen in Schwierigkeiten**Zu § 6 des Gesetzes** § 12Antrag auf Herstellererlaubnis§ 13Einrichtung des Herstellungsbetriebs§ 14Erteilung, Überprüfung und Erlöschen der Herstellererlaubnis§ 15Pflichten des Herstellers, Steueraufsicht **Zu § 7 des Gesetzes** § 16Antrag auf Lagererlaubnis§ 17Einrichtung des Lagers§ 18Erteilung, Überprüfung und Erlöschen der Lagererlaubnis§ 19Pflichten des Lagerinhabers, Steueraufsicht§ 20Lagerbehandlung§ 21Zugelassener Einlagerer, Erlaubnis und Pflichten§ 22Lager ohne Lagerstätten **Zu § 8 des Gesetzes** § 23Entfernung und Entnahme von Energieerzeugnissen **Zu den §§ 8, 9, 9a, 14, 16, 18c, 22 und 23 des Gesetzes** § 23aSteueranmeldung **Zu den §§ 8, 9, 9a, 14, 15, 16, 17, 18, 18a, 20, 21, 22, 23, 30, 33, 34, 36, 37, 39, 40, 42, 43 und 44 des Gesetzes und § 61 Absatz 4**§ 23bÜberprüfung der Steueranmeldung**Zu § 9 des Gesetzes** § 24Herstellung außerhalb eines Herstellungsbetriebs **Zu den §§ 6 bis 9, 23, 24, 30 bis 32 und 38 des Gesetzes** § 25Anzeichen für eine Gefährdung der Steuer **Zu § 9a des Gesetzes** § 26Registrierter Empfänger **Zu § 9b des Gesetzes** § 27Registrierter Versender **Zu den §§ 9c und 9d Absatz 2 des Gesetzes** § 28Begünstigte, Freistellungsbescheinigung **Zu den §§ 9d bis 13 des Gesetzes** § 28aTeilnahme am EDV-gestützten Beförderungs- und Kontrollsystem§ 28bErstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes§ 28cUnbestimmter Empfänger§ 29Art und Höhe der Sicherheitsleistung§ 30Annullierung des elektronischen Verwaltungsdokuments§ 31Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse bei Verwendung des elektronischen Verwaltungsdokuments§ 32Aufteilung von Warensendungen während der Beförderung§ 33Beförderung aus anderen Mitgliedstaaten und Beendigung von Beförderungen unter Steueraussetzung§ 34Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments§ 35Beförderung im Steuergebiet ohne elektronisches Verwaltungsdokument§ 36Beginn der Beförderung im Ausfallverfahren§ 36aAnnullierung im Ausfallverfahren§ 36bÄnderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse im Ausfallverfahren§ 36c Aufteilung im Ausfallverfahren§ 36dEingangs- und Ausfuhrmeldung im Ausfallverfahren§ 37Ersatznachweise für die Beendigung der Beförderung **Zu § 14 des Gesetzes** § 37aUnregelmäßigkeiten während der Beförderung unter Steueraussetzung **Zu den §§ 15, 15a, 15b und 15c des Gesetzes** § 38Zertifizierter Empfänger§ 38aZertifizierter Versender§ 38bTeilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren§ 38cErstellen des vereinfachten elektronischen Verwaltungsdokuments§ 38dÄnderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments§ 38eEingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments§ 38fBeförderung im Ausfallverfahren§ 38gErsatznachweise für die Beendigung der Beförderung§ 39(weggefallen)§ 40(weggefallen) **Zu den §§ 17, 18b, 21 und 46 des Gesetzes** § 41Hauptbehälter **Zu § 18 des Gesetzes** § 42Versandhandel**Zu § 18c des Gesetzes**§ 42aUnregelmäßigkeiten während der Beförderung von Energieerzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten **Zu § 19b des Gesetzes** § 43Einfuhr von Energieerzeugnissen aus Drittländern und Drittgebieten§ 44(weggefallen)§ 45(weggefallen) **Zu den §§ 21, 65 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes** § 46Verkehrs-, Verbringungs- und Verwendungsbeschränkungen§ 47Vermischungen in Kennzeichnungs- und anderen Betrieben§ 48Vermischungen bei der Abgabe aus Transportmitteln§ 49Spülvorgänge und sonstige Vermischungen, Steueranmeldung§ 49aAbgabe von sonstigen Energieerzeugnissen, Steueranmeldung§ 49bNachweise für die Vorversteuerung **Zu § 23 des Gesetzes** § 49aAbgabe von sonstigen Energieerzeugnissen§ 50Anzeige§ 51Pflichten, Steueraufsicht **Zu den §§ 24 bis 30 des Gesetzes** § 52Antrag auf Erlaubnis als Verwender oder Verteiler§ 53Erteilung der Erlaubnis§ 54Überprüfung und Erlöschen der Erlaubnis§ 55Allgemeine Erlaubnis§ 56Pflichten des Erlaubnisinhabers, Steueraufsicht§ 57Bezug und Abgabe von steuerfreien Energieerzeugnissen **Zu § 25 des Gesetzes** § 58Verwendung zu anderen Zwecken **Zu § 26 des Gesetzes** § 59Eigenverbrauch **Zu den §§ 17 und 27 des Gesetzes** § 60Schiff- und Luftfahrt§ 61Versteuerung von Energieerzeugnissen in Wasserfahrzeugen **Zu § 31 des Gesetzes** § 62Anmeldung des Kohlebetriebs§ 63Einrichtung des Kohlebetriebs§ 64Pflichten des Betriebsinhabers§ 65Antrag auf Erlaubnis für Kohlebetriebe und Kohlelieferer§ 66Erteilung, Überprüfung und Erlöschen der Erlaubnis§ 67Pflichten des Erlaubnisinhabers§ 68Bezug und Lagerung von unversteuerter Kohle§ 69Lieferung von unversteuerter Kohle **Zu § 34 des Gesetzes** § 70Verbringen von Kohle in das Steuergebiet **Zu § 35 des Gesetzes** § 71Einfuhr von Kohle **Zu § 37 des Gesetzes**§ 72Antrag auf Erlaubnis als Kohleverwender§ 73Erteilung, Überprüfung und Erlöschen der Erlaubnis§ 74Allgemeine Erlaubnis§ 75Pflichten des Erlaubnisinhabers§ 76Bezug und Lagerung von steuerfreier Kohle§ 77Eigenverbrauch **Zu § 38 des Gesetzes** § 78Anmeldung für Lieferer, Entnehmer und Bezieher von Erdgas§ 79Pflichten **Zu § 39 des Gesetzes** § 80Vorauszahlungen **Zu § 40 des Gesetzes** § 81Nicht leitungsgebundenes Verbringen **Zu § 41 des Gesetzes** § 82Nicht leitungsgebundene Einfuhr **Zu § 44 des Gesetzes** § 83Antrag auf Erlaubnis als Erdgasverwender oder als Erdgasverteiler§ 84Erteilung, Überprüfung und Erlöschen der Erlaubnis§ 84aAllgemeine Erlaubnis§ 85Pflichten des Erlaubnisinhabers§ 86Eigenverbrauch **Zu § 46 des Gesetzes** § 87Steuerentlastung beim Verbringen aus dem Steuergebiet **Zu § 47 des Gesetzes** § 88Steuerentlastung bei Aufnahme in Steuerlager§ 89Steuerentlastung für Kohlenwasserstoffanteile§ 90Steuerentlastung bei steuerfreien Zwecken§ 91Steuerentlastung für Kohle§ 91aSteuerentlastung für Erdgas bei Einspeisung **Zu § 47a des Gesetzes**§ 91bSteuerentlastung für den Eigenverbrauch**Zu § 48 des Gesetzes** § 92Steuerentlastung bei Spülvorgängen und versehentlichen Vermischungen **Zu § 49 des Gesetzes** § 93Steuerentlastung für zum Verheizen verwendete Energieerzeugnisse§ 94(weggefallen) **Zu § 51 des Gesetzes** § 95Steuerentlastung für bestimmte Prozesse und Verfahren **Zu § 52 des Gesetzes** § 96Steuerentlastung für die Schifffahrt§ 97Steuerentlastung für die Luftfahrt **Zu den §§ 53 und 53a des Gesetzes** § 98Steuerentlastung für die Stromerzeugung und die gekoppelte Erzeugung von Kraft und Wärme, Allgemeines**Zu § 53 des Gesetzes**§ 99Steuerentlastung für die Stromerzeugung**Zu § 53a des Gesetzes**§ 99aSteuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme§ 99b(weggefallen)§ 99c(weggefallen)§ 99d(weggefallen) **Zu § 54 des Gesetzes** § 100Steuerentlastung für Unternehmen§ 100aVerwendung von Wärme durch andere Unternehmen **Zu § 55 des Gesetzes (weggefallen)** § 101(weggefallen) **Zu § 56 des Gesetzes** § 102Steuerentlastung für den öffentlichen Personennahverkehr, Allgemeines§ 102aSteuerentlastung für den öffentlichen Personennahverkehr mit Schienenbahnen§ 102bSteuerentlastung für den öffentlichen Personennahverkehr mit Kraftfahrzeugen **Zu § 57 des Gesetzes** § 103Steuerentlastung für Betriebe der Land- und Forstwirtschaft **Zu § 58 des Gesetzes**§ 103aSteuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)**Zu § 58a des Gesetzes**§ 103bSteuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)**Zu § 59 des Gesetzes** § 104Steuervergütung für Diplomatenbenzin und -dieselkraftstoff **Zu § 66 Abs. 1 Nr. 2 des Gesetzes (weggefallen)** § 105(weggefallen)**Zu § 66 Absatz 1 Nummer 18 des Gesetzes (weggefallen)**§ 105a(weggefallen) **Zu den §§ 61 und 66 Abs. 1 Nr. 16 des Gesetzes** § 106Steueraufsicht, Pflichten§ 107Hinweispflichten bei Abgabe von Energieerzeugnissen **Zu den §§ 65 und 66 Abs. 1 Nr. 16 des Gesetzes** § 108Kontrollen, Sicherstellung **Zu § 66 Abs. 1 Nr. 17 des Gesetzes** § 109Vermischungen von versteuerten Energieerzeugnissen§ 109aZeitlich begrenzte Fassungen einzelner Verordnungsvorschriften§ 109b(weggefallen) **Zu § 66 Abs. 1 Nr. 13 des Gesetzes** § 110Normen **Zu § 156 Absatz 1 der Abgabenordnung**§ 110aKleinbetragsregelung**Zu § 381 Abs. 1 der Abgabenordnung** § 111Ordnungswidrigkeiten**Schlussbestimmungen**§ 112Übergangsregelung
 
 ## - Allgemeines
 
-##### § 1 Begriffsbestimmungen
+###### § 1 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -65,13 +69,13 @@ Im Sinne dieser Verordnung ist oder sind:
 
 Die Begriffsbestimmung nach Satz 1 Nummer 1 gilt für § 21 Absatz 1 Satz 1 und § 65 Absatz 1 Satz 1 Nummer 2 und 3 des Gesetzes entsprechend und die Begriffsbestimmung nach Satz 1 Nummer 15 gilt für § 4 Nummer 3 des Gesetzes entsprechend.
 
-##### § 1a Zuständiges Hauptzollamt
+###### § 1a Zuständiges Hauptzollamt
 
 Soweit in dieser Verordnung oder in der Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist für den Anwendungsbereich dieser Verordnung das Hauptzollamt örtlich zuständig, von dessen Bezirk aus die in den einzelnen Vorschriften jeweils bezeichnete Person ihr Unternehmen betreibt oder, falls sie kein Unternehmen betreibt, in dessen Bezirk sie ihren Wohnsitz hat. Für Unternehmen, die von einem Ort außerhalb des Steuergebiets betrieben werden, oder für Personen ohne Wohnsitz im Steuergebiet ist das Hauptzollamt örtlich zuständig, in dessen Bezirk sie erstmalig steuerlich in Erscheinung treten.
 
 ## - Zu den §§ 1 bis 3, 53 bis 53a und 55 des Gesetzes
 
-##### § 1b Ergänzende Begriffsbestimmungen zum Gesetz
+###### § 1b Ergänzende Begriffsbestimmungen zum Gesetz
 
 (1) Als andere Waren im Sinn des § 1 Absatz 3 Satz 1 Nummer 2 des Gesetzes, die ganz oder teilweise aus Kohlenwasserstoffen bestehen, gelten nicht:
 
@@ -109,14 +113,14 @@ b) rechnerisch auf der Grundlage von Analysen repräsentativer, durch mengenprop
 
 (8) (weggefallen)
 
-##### § 1c Steuertarif für schwefelhaltige Energieerzeugnisse
+###### § 1c Steuertarif für schwefelhaltige Energieerzeugnisse
 
 Energieerzeugnisse nach § 2 Absatz 4 Satz 2 des Gesetzes werden bei einem Schwefelgehalt von mehr als 50 Milligramm je Kilogramm abweichend von § 2 Absatz 3 Satz 1 Nummer 1 Buchstabe a des Gesetzes ausschließlich nach dem Steuersatz des § 2 Absatz 3 Satz 1 Nummer 1 Buchstabe b des Gesetzes versteuert.
 
 ## - Zu § 2 Abs. 3 und 4, § 27 Abs. 1, § 48 Abs. 1, 
 § 52 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes
 
-##### § 2 Ordnungsgemäße Kennzeichnung
+###### § 2 Ordnungsgemäße Kennzeichnung
 
 (1) Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur sind dann ordnungsgemäß gekennzeichnet im Sinne von § 2 Abs. 3 Satz 1 Nr. 1, § 27 Abs. 1 Satz 2, § 48 Abs. 1 Satz 1 und § 52 Abs. 1 Satz 2 des Gesetzes, wenn sie im Steuergebiet vor der erstmaligen Abgabe in einem Kennzeichnungsbetrieb unter Verwendung von zugelassenen Kennzeichnungseinrichtungen mit 4,1 g N-Ethyl-1-(4-phenylazophenylazo)naphthyl-2-amin oder 5,3 g N-Ethylhexyl-1-(tolylazotolylazo)naphthyl-2-amin oder 6,1 g N-Tridecyl-1-(tolylazotolylazo)naphthyl-2-amin oder einem in der Farbwirkung äquivalenten Gemisch aus diesen Farbstoffen (Rotfarbstoffe) und 12,5 g ACCUTRACETM PLUS (Markierstoff – entspricht einem Gehalt von 9,5 g Butoxybenzol) auf 1 000 Liter bei 15 Grad Celsius gleichmäßig vermischt (gekennzeichnet) wurden.
 
@@ -124,7 +128,7 @@ Energieerzeugnisse nach § 2 Absatz 4 Satz 2 des Gesetzes werden bei einem Schwe
 
 (3) Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur, die aus einem anderen Mitgliedstaat in das Steuergebiet verbracht werden und neben der nach Absatz 2 Satz 1 vorgeschriebenen Menge ACCUTRACETM PLUS andere als in Absatz 1 genannte Kennzeichnungsstoffe enthalten, gelten vorbehaltlich gegenteiliger Feststellung als ordnungsgemäß gekennzeichnet, wenn diese Kennzeichnungsstoffe in gleicher Weise (Rotfärbung) und mit vergleichbarer Zuverlässigkeit wie die in Absatz 1 genannten Kennzeichnungsstoffe das Erkennen als gekennzeichnetes Energieerzeugnis und die Unterscheidung von anderen Energieerzeugnissen ermöglichen. Die Generalzolldirektion bestimmt im Verwaltungswege, welche der in den anderen Mitgliedstaaten zugelassenen Kennzeichnungsverfahren die Voraussetzungen erfüllen und veröffentlicht das Ergebnis auf www.zoll.de. Weitere Voraussetzung ist, dass eine Bescheinigung in einer Amtssprache der Europäischen Union der für den Lieferer zuständigen Verbrauchsteuerverwaltung, des Herstellers oder des ausländischen Kennzeichners darüber vorgelegt wird, dass das Gasöl nach dem Recht des anderen Mitgliedstaats ordnungsgemäß gekennzeichnet ist.
 
-##### § 3 Antrag auf Zulassung von Kennzeichnungseinrichtungen
+###### § 3 Antrag auf Zulassung von Kennzeichnungseinrichtungen
 
 (1) Die Zulassung von vollständigen Kennzeichnungseinrichtungen eines Herstellers sowie neuer wesentlicher Bauteile ist bei dem Hauptzollamt schriftlich zu beantragen, das für den Hersteller zuständig ist. Die Zulassung von Kennzeichnungseinrichtungen aus Teilen verschiedener Hersteller sowie der Umbau bestehender Einrichtungen ist bei dem Hauptzollamt schriftlich zu beantragen, das für die Bewilligung des Kennzeichnungsbetriebs zuständig ist.
 
@@ -136,7 +140,7 @@ Energieerzeugnisse nach § 2 Absatz 4 Satz 2 des Gesetzes werden bei einem Schwe
 
 (3) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen für die Zulassung erforderlich erscheinen.
 
-##### § 4 Zulassung von Kennzeichnungseinrichtungen
+###### § 4 Zulassung von Kennzeichnungseinrichtungen
 
 (1) Das Hauptzollamt lässt Kennzeichnungseinrichtungen unter Widerrufsvorbehalt schriftlich oder elektronisch zu, wenn sie den folgenden Anforderungen entsprechen:
 
@@ -162,7 +166,7 @@ Die Zulassung kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung
 
 (4) Für die Zulassung von wesentlichen Bauteilen gelten die Absätze 1 bis 3 sinngemäß.
 
-##### § 5 Antrag auf Bewilligung des Kennzeichnungsbetriebs
+###### § 5 Antrag auf Bewilligung des Kennzeichnungsbetriebs
 
 (1) Inhaber von Betrieben, in denen Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur gekennzeichnet werden sollen, haben die Bewilligung spätestens sechs Wochen vor der beabsichtigten Aufnahme der Kennzeichnung beim Hauptzollamt schriftlich zu beantragen.
 
@@ -184,7 +188,7 @@ Die Zulassung kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung
 
 (3) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen für die Erteilung der Bewilligung erforderlich erscheinen. Das Hauptzollamt kann auf einzelne Anforderungen verzichten, wenn sie zur Darstellung des Ablaufs der Kennzeichnung nicht erforderlich sind oder wenn im Fall des Absatzes 2 Nr. 5 ein Gesamtplan schon vorliegt.
 
-##### § 6 Bewilligung des Kennzeichnungsbetriebs
+###### § 6 Bewilligung des Kennzeichnungsbetriebs
 
 (1) Das Hauptzollamt bewilligt Inhabern von Steuerlagern, die Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur unter Steueraussetzung beziehen und lagern dürfen, und Dienstleistungsbetrieben, die unter Steueraussetzung stehendes Gasöl Dritter für diese lagern, unter Widerrufsvorbehalt schriftlich oder elektronisch die Kennzeichnung, wenn die folgenden Voraussetzungen erfüllt sind:
 
@@ -202,7 +206,7 @@ Die Bewilligung ist zu widerrufen, wenn eine der in Satz 1 Nr. 1 bis 5 genannten
 
 (2) Das Hauptzollamt kann die Bewilligung der Kennzeichnung mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung versehen, die eine Gefährdung der Steuerbelange ausschließen sollen.
 
-##### § 7 Pflichten des Inhabers des Kennzeichnungsbetriebs
+###### § 7 Pflichten des Inhabers des Kennzeichnungsbetriebs
 
 (1) Der Inhaber des Kennzeichnungsbetriebs hat eine ordnungsgemäße Kennzeichnung im Sinne von § 2 Abs. 1 vorzunehmen und zu überwachen. Die in § 2 Abs. 1 genannten Mengen an Kennzeichnungsstoffen dürfen dabei höchstens um 20 Prozent überschritten werden. Er hat dem Hauptzollamt unverzüglich anzuzeigen, wenn der zulässige Höchstgehalt überschritten wird. Das Hauptzollamt kann Ausnahmen von Satz 1 und 2 zulassen, wenn eine Gefährdung der Steuerbelange nicht zu befürchten ist oder wenn das leichte Heizöl unmittelbar an Verwender geliefert wird.
 
@@ -218,13 +222,13 @@ zu erfassen.
 
 (4) Der Inhaber des Kennzeichnungsbetriebs hat Änderungen an Anlagen oder im technischen Ablauf dem Hauptzollamt vor ihrer Durchführung schriftlich anzuzeigen. Er darf geänderte Anlagen erst benutzen oder geänderte technische Abläufe erst anwenden, wenn das Hauptzollamt zugestimmt hat. Das Hauptzollamt kann hiervon Ausnahmen zulassen, wenn die Änderungen aus betrieblichen Unterlagen jederzeit erkennbar sind und die Steuerbelange nicht beeinträchtigt werden.
 
-##### § 8 Andere Energieerzeugnisse als Gasöle
+###### § 8 Andere Energieerzeugnisse als Gasöle
 
 (1) Für andere Energieerzeugnisse als Gasöle, die nach § 2 Abs. 4 des Gesetzes einer ordnungsgemäßen Kennzeichnung bedürfen, gelten die §§ 2 bis 7 sinngemäß. Werden Energieerzeugnisse trotz des Verzichts auf eine Kennzeichnung (§ 2 Absatz 4 Satz 7 des Gesetzes) gekennzeichnet, sind sie ordnungsgemäß zu kennzeichnen; die §§ 2 bis 7 gelten sinngemäß.
 
 (2) Auf Antrag kann das Hauptzollamt zulassen, dass Heizöladditive der Position 3811 der Kombinierten Nomenklatur abweichend von § 2 Abs. 3 Satz 1 und Abs. 4 des Gesetzes nicht gekennzeichnet werden, wenn nach den Umständen eine Verwendung der Additive als Kraftstoff oder zur Herstellung oder Verbesserung von Kraftstoff nicht anzunehmen ist. Die Zulassung kann mit Nebenbestimmungen (§ 120 der Abgabenordnung) versehen werden.
 
-##### § 8a Überprüfung und Erlöschen der Zulassung und der Bewilligung
+###### § 8a Überprüfung und Erlöschen der Zulassung und der Bewilligung
 
 (1) Das Hauptzollamt überprüft unbeschadet anlassbezogener Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der Zulassung nach den §§ 4 und 8 und aus der Bewilligung nach § 6 eingehalten werden. Zudem überprüft es regelmäßig, ob der Inhaber der Zulassung oder der Bewilligung die Bedingungen und Voraussetzungen für die Zulassung oder Bewilligung weiterhin erfüllt. Die regelmäßigen Überprüfungsmaßnahmen werden innerhalb von drei Jahren nach der letzten Überprüfungsmaßnahme oder der Neuerteilung durchgeführt.
 
@@ -278,13 +282,13 @@ eine neue Zulassung oder Bewilligung, gilt die Zulassung oder Bewilligung des Re
 
 ## - Zu § 3 Absatz 1 Satz 1 Nummer 1 und 2, § 37 Absatz 2 Satz 3 sowie zu den §§ 53 und 53a des Gesetzes
 
-##### § 9 Anlagenbegriff
+###### § 9 Anlagenbegriff
 
 § 12b der Stromsteuer-Durchführungsverordnung gilt mit der Maßgabe sinngemäß, dass nur diejenigen technischen Komponenten berücksichtigt werden, in denen Energieerzeugnisse im Sinne des Energiesteuergesetzes eingesetzt werden oder eingesetzt werden können.
 
 ## - Zu den §§ 3 und 53a des Gesetzes
 
-##### § 10 Nutzungsgradermittlung
+###### § 10 Nutzungsgradermittlung
 
 (1) Zur Ermittlung des Nutzungsgrads sind zu messen:
 
@@ -302,7 +306,7 @@ Das zuständige Hauptzollamt kann auf Antrag andere Ermittlungsmethoden zulassen
 
 ## - Zu § 3 Absatz 1 Satz 1 Nummer 2 und Absatz 5 des Gesetzes
 
-##### § 11 Pflichten des Anlagenbetreibers
+###### § 11 Pflichten des Anlagenbetreibers
 
 (1) Der Betreiber einer Anlage nach § 3 Absatz 1 Satz 1 Nummer 2 des Gesetzes hat den Jahresnutzungsgrad der Anlage jährlich bis zum 31. März für das vorangegangene Kalenderjahr nachzuweisen. Der Nachweis ist dem zuständigen Hauptzollamt vorzulegen.
 
@@ -332,7 +336,7 @@ Der Betreiber hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wen
 
 ## - Zu § 3a des Gesetzes
 
-##### § 11a Güterumschlag in Seehäfen
+###### § 11a Güterumschlag in Seehäfen
 
 (1) Seehäfen im Sinn des § 3a Absatz 1 des Gesetzes sind Häfen oder Teile von Hafengebieten mit Güterumschlag, die an Wasserflächen liegen oder angrenzen, die vom Geltungsbereich der Seeschiffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung vom 22. Oktober 1998 (BGBl. I S. 3209; 1999 I S. 193), die zuletzt durch Artikel 1 der Verordnung vom 7. April 2010 (BGBl. I S. 399) geändert worden ist, in der jeweils geltenden Fassung erfasst werden.
 
@@ -366,7 +370,7 @@ Der Betreiber hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wen
 
 ## - Zu § 3b des Gesetzes
 
-##### § 11b Verfahren bei offenen Rückforderungsanordnungen
+###### § 11b Verfahren bei offenen Rückforderungsanordnungen
 
 (1) Die unverzügliche Mitteilung nach § 3b Absatz 1 Satz 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Bei Steuerbefreiungen und Steuerermäßigungen nach § 3b Absatz 1 Satz 1 des Gesetzes entsteht für die verwendeten Energieerzeugnisse die Steuer vorbehaltlich § 21 des Gesetzes nach dem gemäß § 2 des Gesetzes jeweils zutreffenden Steuersatz. Besteht die Steuerbegünstigung in einer Steuerermäßigung, gilt Satz 2 nur für den ermäßigten Teil der Steuer. Der Steuerschuldner hat für Energieerzeugnisse, für die die Steuer entstanden ist, bis zum 15. Tag des folgenden Monats eine Steuererklärung nach amtlich vorgeschriebenem Vordruck abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer für andere Energieerzeugnisse als für Kohle und Erdgas, die in einem Monat entstanden ist, ist am zehnten Tag des zweiten auf die Entstehung folgenden Monats fällig. Die Steuer für Kohle und Erdgas ist am 25. Tag des Monats fällig, der auf den Monat der Entstehung der Steuer folgt. Wird die Mitteilung nach Satz 1 nicht oder nicht rechtzeitig abgegeben, ist die Steueranmeldung unverzüglich abzugeben und die Steuer sofort fällig.
 
@@ -376,7 +380,7 @@ Der Betreiber hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wen
 
 (4) Zur Umsetzung von § 3b Absatz 1 des Gesetzes können Verwaltungsakte mit einer Nebenbestimmung nach § 120 der Abgabenordnung versehen werden.
 
-##### § 11c Verfahren bei Unternehmen in Schwierigkeiten
+###### § 11c Verfahren bei Unternehmen in Schwierigkeiten
 
 (1) Die unverzügliche Mitteilung nach § 3b Absatz 2 Satz 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Bei Steuerbefreiungen und Steuerermäßigungen nach § 3b Absatz 2 Satz 1 des Gesetzes entsteht für die im entsprechenden Zeitraum verwendeten Energieerzeugnisse die Steuer vorbehaltlich § 21 des Gesetzes nach dem gemäß § 2 des Gesetzes jeweils zutreffenden Steuersatz. Besteht die Steuerbegünstigung in einer Steuerermäßigung, gilt Satz 2 nur für den ermäßigten Teil der Steuer. § 11b Absatz 1 Satz 4 bis 7 gilt entsprechend. Sofern der Zeitraum der Schwierigkeiten zwölf Monate nicht überschritten hat, kann auf Antrag eine Steuerentlastung entsprechend § 11b Absatz 2 gewährt werden.
 
@@ -386,7 +390,7 @@ Der Betreiber hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wen
 
 ## - Zu § 6 des Gesetzes
 
-##### § 12 Antrag auf Herstellererlaubnis
+###### § 12 Antrag auf Herstellererlaubnis
 
 (1) Wer Energieerzeugnisse unter Steueraussetzung herstellen will, hat die Erlaubnis nach § 6 Absatz 3 Satz 1 des Gesetzes vor Eröffnung des Betriebs nach amtlich vorgeschriebenem Vordruck beim Hauptzollamt zu beantragen. Dem Antrag sind beizufügen:
 
@@ -410,7 +414,7 @@ d) die Nebenerzeugnisse und Abfälle;
 
 (3) Beabsichtigt der Inhaber des Herstellungsbetriebs weitere Herstellungsbetriebe zu betreiben, beantragt er in entsprechender Anwendung der Absätze 1 und 2 eine Erweiterung der Erlaubnis.
 
-##### § 13 Einrichtung des Herstellungsbetriebs
+###### § 13 Einrichtung des Herstellungsbetriebs
 
 (1) Der Herstellungsbetrieb muss so eingerichtet sein, dass die mit der Steueraufsicht betrauten Amtsträger den Gang der Herstellung und den Verbleib der Erzeugnisse im Betrieb verfolgen können. Das Hauptzollamt kann besondere Anforderungen stellen, die im Interesse der Steueraufsicht erforderlich erscheinen.
 
@@ -420,7 +424,7 @@ d) die Nebenerzeugnisse und Abfälle;
 
 (4) Der Inhaber des Herstellungsbetriebs darf Energieerzeugnisse nur in den angemeldeten Betriebsanlagen herstellen, nur in den zugelassenen Lagerstätten lagern und nur an den zugelassenen Zapfstellen entnehmen.
 
-##### § 14 Erteilung, Überprüfung und Erlöschen der Herstellererlaubnis
+###### § 14 Erteilung, Überprüfung und Erlöschen der Herstellererlaubnis
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis. Es kann die Erlaubnis schon vor Abschluss einer Prüfung des Antrags erteilen, wenn Sicherheit in Höhe der Steuer geleistet ist, die voraussichtlich entstehen wird. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden. In den Fällen des § 12 Absatz 3 wird die Erlaubnis erweitert.
 
@@ -478,7 +482,7 @@ eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die Antragste
 
 (7) Das Hauptzollamt kann beim Erlöschen der Erlaubnis eine angemessene Frist für die Räumung des Herstellungsbetriebs gewähren, wenn keine Anzeichen für eine Gefährdung der Steuer erkennbar sind. Energieerzeugnisse, die sich zum Zeitpunkt des Erlöschens der Erlaubnis im Betrieb befinden, gelten als zum Zeitpunkt des Erlöschens in den steuerrechtlich freien Verkehr entnommen (§ 8 Absatz 1 Satz 1 des Gesetzes).
 
-##### § 15 Pflichten des Herstellers, Steueraufsicht
+###### § 15 Pflichten des Herstellers, Steueraufsicht
 
 (1) Der Inhaber des Herstellungsbetriebs hat ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
 
@@ -504,7 +508,7 @@ eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die Antragste
 
 ## - Zu § 7 des Gesetzes
 
-##### § 16 Antrag auf Lagererlaubnis
+###### § 16 Antrag auf Lagererlaubnis
 
 (1) Wer Energieerzeugnisse nach § 7 Absatz 2 Satz 1 des Gesetzes unter Steueraussetzung lagern oder Energieerzeugnisse nach § 7 Absatz 6 des Gesetzes unter Steueraussetzung abgeben will, hat die jeweilige Erlaubnis nach amtlich vorgeschriebenem Vordruck beim zuständigen Hauptzollamt zu beantragen. Dem Antrag sind beizufügen:
 
@@ -518,7 +522,7 @@ eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die Antragste
 
 (3) Beabsichtigt der Inhaber eines Lagers weitere Lager zu betreiben, so hat er in entsprechender Anwendung der Absätze 1 und 2 eine Erweiterung der Erlaubnis zu beantragen. In den Fällen, in denen bereits eine Erlaubnis nach § 7 Absatz 2 des Gesetzes erteilt wurde und die Erlaubnis auf Lagerstätten nach § 7 Absatz 6 des Gesetzes erweitert werden soll, hat er abweichend von Satz 1 eine formlose Erklärung entsprechenden Inhalts an das Hauptzollamt abzugeben. Das Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich ist.
 
-##### § 17 Einrichtung des Lagers
+###### § 17 Einrichtung des Lagers
 
 (1) Die Lagerstätten eines Lagers für Energieerzeugnisse müssen so beschaffen sein, dass Energieerzeugnisse verschiedener Art voneinander getrennt und übersichtlich gelagert werden können.
 
@@ -530,7 +534,7 @@ eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die Antragste
 
 (5) Für Lagerstätten nach § 7 Absatz 6 des Gesetzes ist Absatz 1 nicht anzuwenden. Absatz 2 gilt mit der Maßgabe, dass lediglich die Zapfstellen zur Entnahme von Energieerzeugnissen mit geeichten Messeinrichtungen versehen sein müssen.
 
-##### § 18 Erteilung, Überprüfung und Erlöschen der Lagererlaubnis
+###### § 18 Erteilung, Überprüfung und Erlöschen der Lagererlaubnis
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis. Es kann die Erlaubnis schon vor Abschluss einer Prüfung des Antrags erteilen, wenn Sicherheit in Höhe der Steuer geleistet ist, die voraussichtlich entstehen wird. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden. In den Fällen des § 16 Absatz 3 wird die Erlaubnis erweitert.
 
@@ -544,7 +548,7 @@ eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die Antragste
 
 (2) Für die Überprüfung der Erlaubnis gilt § 14 Absatz 1b entsprechend. Für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 bis 7 entsprechend.
 
-##### § 19 Pflichten des Lagerinhabers, Steueraufsicht
+###### § 19 Pflichten des Lagerinhabers, Steueraufsicht
 
 (1) Der Inhaber des Lagers hat ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
 
@@ -566,7 +570,7 @@ eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die Antragste
 
 (10) (weggefallen)
 
-##### § 20 Lagerbehandlung
+###### § 20 Lagerbehandlung
 
 (1) Energieerzeugnisse dürfen im Lager miteinander oder mit anderen Stoffen gemischt werden, wenn das Gemisch ein Energieerzeugnis im Sinn des § 4 des Gesetzes ist.
 
@@ -582,7 +586,7 @@ c) der Entgasung von Transportmitteln,
 
 dürfen im Lager verflüssigt werden. Der Lagerinhaber hat über die aufgefangenen Dämpfe und die verflüssigten Mengen Aufzeichnungen zu führen; die verflüssigten Mengen sind als Zugang im Lagerbuch zu führen.
 
-##### § 21 Zugelassener Einlagerer, Erlaubnis und Pflichten
+###### § 21 Zugelassener Einlagerer, Erlaubnis und Pflichten
 
 (1) Die Erlaubnis nach § 7 Abs. 4 Satz 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck bei dem Hauptzollamt zu beantragen, das die Erlaubnis für das Lager erteilt hat. Mit dem Antrag ist die schriftliche Zustimmung des Inhabers des Lagers zur Einlagerung vorzulegen. Der Antragsteller hat sich schriftlich damit einverstanden zu erklären, dass dem Inhaber des Lagers im Rahmen der Durchführung von Besteuerung, Außenprüfung und Steueraufsicht Sachverhalte, die für die ordnungsgemäße Besteuerung des Einlagerers erforderlich sind, bekannt werden. Im Übrigen gilt § 16 Absatz 1 Satz 2 und Absatz 2 sinngemäß; auf bereits beim Hauptzollamt vorliegende Unterlagen kann Bezug genommen werden. Das Hauptzollamt erteilt die Erlaubnis schriftlich oder elektronisch.
 
@@ -590,13 +594,13 @@ dürfen im Lager verflüssigt werden. Der Lagerinhaber hat über die aufgefangen
 
 (3) Der Einlagerer hat über die von ihm oder auf seine Veranlassung eingelagerten und aus dem Lager entnommenen Energieerzeugnisse Aufzeichnungen zu führen. Der Einlagerer hat auf Verlangen des Hauptzollamts weitere Aufzeichnungen zu führen. Mit Zustimmung des Hauptzollamts können die Aufzeichnungen auch vom Inhaber des Lagers geführt werden. § 19 Absatz 1 und 8 gilt entsprechend.
 
-##### § 22 Lager ohne Lagerstätten
+###### § 22 Lager ohne Lagerstätten
 
 Für den Antrag, die Erteilung, die Überprüfung und das Erlöschen der Erlaubnis für ein Lager ohne Lagerstätten (§ 7 Abs. 5 des Gesetzes) gelten die §§ 16 und 18, für die Pflichten des Inhabers des Lagers gilt § 19 sinngemäß.
 
 ## - Zu § 8 des Gesetzes
 
-##### § 23 Entfernung und Entnahme von Energieerzeugnissen
+###### § 23 Entfernung und Entnahme von Energieerzeugnissen
 
 (1) Energieerzeugnisse gelten als aus dem Steuerlager entfernt oder als innerhalb des Steuerlagers entnommen, sobald sie aus den zugelassenen Lagerstätten entnommen sind.
 
@@ -616,19 +620,19 @@ entnommen und anschließend wieder unmittelbar in das Steuerlager aufgenommen we
 
 ## - Zu den §§ 8, 9, 9a, 14, 16, 18c, 22 und 23 des Gesetzes
 
-##### § 23a Steueranmeldung
+###### § 23a Steueranmeldung
 
 Die Steueranmeldungen nach § 8 Absatz 3 und 4, § 9 Absatz 2, § 9a Absatz 5, § 14 Absatz 7 Satz 1, § 16 Absatz 3, § 18c, § 22 Absatz 2 Satz 3 und § 23 Absatz 6 des Gesetzes sind nach amtlich vorgeschriebenem Vordruck abzugeben.
 
 ## - Zu den §§ 8, 9, 9a, 14, 15, 16, 17, 18, 18a, 20, 21, 22, 23, 30, 33, 34, 36, 37, 39, 40, 42, 43 und 44 des Gesetzes und § 61 Absatz 4
 
-##### § 23b Überprüfung von Steueranmeldungen
+###### § 23b Überprüfung von Steueranmeldungen
 
 Das Hauptzollamt überprüft die Steueranmeldungen. Art und Umfang der Überprüfung richten sich nach den Umständen des Einzelfalls sowie nach einheitlichen Prüfungskriterien, die von der Generalzolldirektion zur Sicherstellung der Gleichmäßigkeit, Gesetzesmäßigkeit und Verhältnismäßigkeit der Besteuerung durch eine Verfahrensanweisung vorgegeben werden. Das Hauptzollamt kann von dem Steuerschuldner weitere Angaben oder zusätzliche Unterlagen verlangen. Für die einheitlichen Prüfungskriterien gilt § 88 Absatz 3 Satz 3 der Abgabenordnung entsprechend.
 
 ## - Zu § 9 des Gesetzes
 
-##### § 24 Herstellung außerhalb eines Herstellungsbetriebs
+###### § 24 Herstellung außerhalb eines Herstellungsbetriebs
 
 (1) Die Anzeige nach § 9 Absatz 1a des Gesetzes ist schriftlich bei dem für den Hersteller zuständigen Hauptzollamt zu erstatten.
 
@@ -636,7 +640,7 @@ Das Hauptzollamt überprüft die Steueranmeldungen. Art und Umfang der Überprü
 
 ## - Zu den §§ 6 bis 9, 23, 24, 30 bis 32 und 38 des Gesetzes
 
-##### § 25 Anzeichen für eine Gefährdung der Steuer
+###### § 25 Anzeichen für eine Gefährdung der Steuer
 
 Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2, § 8 Absatz 7, auch in Verbindung mit § 9 Absatz 2, § 23 Absatz 5, § 24 Absatz 5, § 30 Absatz 2 Satz 6, § 31 Absatz 4, § 32 Absatz 3 und § 38 Absatz 6 des Gesetzes ist insbesondere anzusehen, wenn Antragsteller oder Steuerpflichtige
 
@@ -660,7 +664,7 @@ Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2
 
 ## - Zu § 9a des Gesetzes
 
-##### § 26 Registrierter Empfänger
+###### § 26 Registrierter Empfänger
 
 (1) Wer als registrierter Empfänger Energieerzeugnisse unter Steueraussetzung nicht nur gelegentlich empfangen will (§ 9a Absatz 1 Satz 1 Nummer 1 des Gesetzes), hat die Erlaubnis nach § 9a Absatz 2 Satz 1 des Gesetzes im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind beizufügen:
 
@@ -690,7 +694,7 @@ Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2
 
 ## - Zu § 9b des Gesetzes
 
-##### § 27 Registrierter Versender
+###### § 27 Registrierter Versender
 
 (1) Wer als registrierter Versender Energieerzeugnisse vom Ort der Einfuhr unter Steueraussetzung versenden will (§ 9b Absatz 1 des Gesetzes), hat die Erlaubnis nach § 9b Absatz 2 Satz 1 des Gesetzes im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind beizufügen:
 
@@ -716,7 +720,7 @@ Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2
 
 ## - Zu den §§ 9c und 9d Absatz 2 des Gesetzes
 
-##### § 28 Begünstigte, Freistellungsbescheinigung
+###### § 28 Begünstigte, Freistellungsbescheinigung
 
 (1) Ein Begünstigter, der Energieerzeugnisse unter Steueraussetzung empfangen will, hat vor Beginn der Beförderung eine Freistellungsbescheinigung nach der Verordnung (EG) Nr. 31/96 der Kommission vom 10. Januar 1996 über die Verbrauchsteuerfreistellungsbescheinigung (ABl. L 8 vom 11.1.1996, S. 11) in der jeweils geltenden Fassung in Verbindung mit Artikel 12 der Systemrichtlinie in drei Exemplaren auszufertigen und dem zuständigen Hauptzollamt zur Bestätigung in Feld 6 vorzulegen. Der Begünstigte hat die mit Bestätigungsvermerk des Hauptzollamts versehene erste und zweite Ausfertigung dem Versender auszuhändigen. Die dritte Ausfertigung verbleibt beim Hauptzollamt. Die zweite Ausfertigung hat der Beförderer während der Beförderung der Energieerzeugnisse mitzuführen. Die erste Ausfertigung hat der Versender im Steuergebiet zu seinen steuerlichen Aufzeichnungen zu nehmen. Nach der Übernahme der Energieerzeugnisse verbleibt die zweite Ausfertigung der Freistellungsbescheinigung beim Begünstigten.
 
@@ -736,11 +740,11 @@ Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7 Absatz 2
 
 ## - Zu den §§ 9d bis 13 des Gesetzes
 
-##### § 28a Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
+###### § 28a Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
 
 Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und nach welchen Rahmenbedingungen Personen, die für Beförderungen unter Steueraussetzung das elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem austauschen. Um auf diese Weise elektronisch Nachrichten austauschen zu können, bedarf es der vorherigen Anmeldung bei einer von der Generalzolldirektion in der Verfahrensanweisung bekannt gegebenen Stelle. Des Weiteren legt die Generalzolldirektion in der Verfahrensanweisung für den Fall, dass das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht, die Voraussetzungen und Rahmenbedingungen für die Inanspruchnahme des Ausfallverfahrens fest. Die Verfahrensanweisung wird von der Generalzolldirektion im Internet unter www.zoll.de veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister sind verpflichtet, die in der Verfahrensanweisung festgelegten Voraussetzungen und Rahmenbedingungen einzuhalten.
 
-##### § 28b Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes
+###### § 28b Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes
 
 (1) Sollen Energieerzeugnisse unter Steueraussetzung aus einem Steuerlager im Steuergebiet oder vom Ort der Einfuhr im Steuergebiet
 
@@ -760,7 +764,7 @@ hat der Versender dem für ihn zuständigen Hauptzollamt vor Beginn der Beförde
 
 (5) Ist der Empfänger im Fall des Absatzes 1 Nummer 1 ein Steuerlagerinhaber, leitet das für diesen zuständige Hauptzollamt das elektronische Verwaltungsdokument an ihn weiter. Dies gilt auch für Beförderungen über das Gebiet eines anderen Mitgliedstaats. Ein elektronisches Verwaltungsdokument, das von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurde, wird vom zuständigen Hauptzollamt an den Empfänger im Steuergebiet weitergeleitet, wenn dieser ein Steuerlagerinhaber oder ein registrierter Empfänger ist.
 
-##### § 28c Unbestimmter Empfänger
+###### § 28c Unbestimmter Empfänger
 
 (1) Stehen in den Fällen des § 10 Absatz 1 des Gesetzes oder des § 11 Absatz 1 des Gesetzes zu Beginn einer Beförderung im Seeverkehr oder auf Binnenwasserstraßen der Empfänger und der Bestimmungsort noch nicht endgültig fest, kann das Hauptzollamt auf Antrag des Versenders unter Widerrufsvorbehalt zulassen, diese Angaben im Entwurf des elektronischen Verwaltungsdokuments wegzulassen.
 
@@ -768,7 +772,7 @@ hat der Versender dem für ihn zuständigen Hauptzollamt vor Beginn der Beförde
 
 (3) Für die Datenübermittlung mittels des EDV-gestützten Beförderungs- und Kontrollsystems gilt § 31 entsprechend.
 
-##### § 29 Art und Höhe der Sicherheitsleistung
+###### § 29 Art und Höhe der Sicherheitsleistung
 
 (1) Die Sicherheit für die Beförderung von Energieerzeugnissen unter Steueraussetzung kann für mehrere Verfahren als Gesamtbürgschaft oder für jedes Verfahren einzeln als Einzelbürgschaft oder als Barsicherheit geleistet werden.
 
@@ -776,7 +780,7 @@ hat der Versender dem für ihn zuständigen Hauptzollamt vor Beginn der Beförde
 
 (3) Das zuständige Hauptzollamt bestimmt die Bürgschaftssumme und die Höhe der Barsicherheit insbesondere unter Berücksichtigung der Steuer, die bei der Überführung der Energieerzeugnisse in den steuerrechtlich freien Verkehr entstehen würde. Die Angemessenheit der Bürgschaftssumme ist im Fall der Gesamtbürgschaft regelmäßig zu überprüfen.
 
-##### § 30 Annullierung des elektronischen Verwaltungsdokuments
+###### § 30 Annullierung des elektronischen Verwaltungsdokuments
 
 (1) Der Versender kann das elektronische Verwaltungsdokument annullieren, solange die Beförderung der Energieerzeugnisse noch nicht begonnen hat.
 
@@ -786,7 +790,7 @@ hat der Versender dem für ihn zuständigen Hauptzollamt vor Beginn der Beförde
 
 (4) Ist ein elektronisches Verwaltungsdokument für die Beförderung von Energieerzeugnissen unter Steueraussetzung annulliert worden, die für einen Empfänger im Steuergebiet bestimmt waren, der entweder ein Steuerlagerinhaber oder ein registrierter Empfänger ist, leitet das für den Empfänger zuständige Hauptzollamt die eingehende Annullierungsmeldung an diesen weiter.
 
-##### § 31 Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse bei Verwendung des elektronischen Verwaltungsdokuments
+###### § 31 Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse bei Verwendung des elektronischen Verwaltungsdokuments
 
 (1) Während der Beförderung der Energieerzeugnisse unter Steueraussetzung kann der Versender den Bestimmungsort oder den Empfänger der Energieerzeugnisse ändern und einen anderen zulässigen Bestimmungsort oder einen anderen Empfänger (§ 10 Absatz 1 Nummer 1, § 11 Absatz 1 Nummer 1 Buchstabe a und b, § 13 Absatz 1 des Gesetzes) angeben. Satz 1 gilt auch für Energieerzeugnisse, die nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt werden.
 
@@ -800,7 +804,7 @@ hat der Versender dem für ihn zuständigen Hauptzollamt vor Beginn der Beförde
 
 (6) Wird durch eine Aktualisierung eines elektronischen Verwaltungsdokuments das darin angegebene Steuerlager des Empfängers geändert, so leitet das für den Empfänger zuständige Hauptzollamt die Änderungsmeldung an diesen weiter.
 
-##### § 32 Aufteilung von Warensendungen während der Beförderung
+###### § 32 Aufteilung von Warensendungen während der Beförderung
 
 (1) Während der Beförderung von Energieerzeugnissen unter Steueraussetzung im Steuergebiet (§ 10 des Gesetzes) kann der Versender die Energieerzeugnisse im Steuergebiet in zwei oder mehrere Warensendungen aufteilen, wenn
 
@@ -822,7 +826,7 @@ Um Energieerzeugnisse aufteilen zu können, hat der Versender dem für ihn zust�
 
 (6) Eine Aufteilung von Energieerzeugnissen nach den Absätzen 1 bis 4 ist jeweils erst ab dem Zeitpunkt möglich, zu dem das EDV-gestützte Beförderungs- und Kontrollsystem dies zulässt.
 
-##### § 33 Beförderung aus anderen Mitgliedstaaten und Beendigung von Beförderungen unter Steueraussetzung
+###### § 33 Beförderung aus anderen Mitgliedstaaten und Beendigung von Beförderungen unter Steueraussetzung
 
 (1) Werden Energieerzeugnisse unter Steueraussetzung aus anderen Mitgliedstaaten zu einem Empfänger im Steuergebiet oder durch das Steuergebiet befördert, hat der Beförderer während der Beförderung den eindeutigen Referenzcode mitzuführen und auf Verlangen mitzuteilen. Das Hauptzollamt kann die Vorlage eines Ausdrucks des elektronischen Verwaltungsdokuments oder jedes anderen Handelspapiers für die Energieerzeugnisse verlangen.
 
@@ -846,7 +850,7 @@ Werden die Energieerzeugnisse außerhalb des Steuergebiets in Besitz genommen, i
 
 (7) Für Lager ohne Lagerstätten (§ 7 Absatz 5 des Gesetzes) gilt die Inbesitznahme der Energieerzeugnisse durch den empfangenden Steuerlagerinhaber als Aufnahme in das Steuerlager und die Inbesitznahme durch denjenigen, an den die Energieerzeugnisse abgegeben werden, als Entfernung aus dem Steuerlager. Werden die Energieerzeugnisse außerhalb des Steuergebiets in Besitz genommen, ist die Aufnahme durch Inbesitznahme jedoch erst bewirkt, wenn der Steuerlagerinhaber erstmals im Steuergebiet Besitz an den Energieerzeugnissen ausübt.
 
-##### § 34 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments
+###### § 34 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments
 
 (1) Nach der Aufnahme der Energieerzeugnisse, auch von Teilmengen, an einem Bestimmungsort, der in § 10 Absatz 1 oder § 11 Absatz 1 Nummer 2 Buchstabe a und b des Gesetzes genannt ist, hat der Empfänger dem für ihn zuständigen Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung mit dem in Artikel 7 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
 
@@ -868,7 +872,7 @@ Satz 1 gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übermittelt d
 
 (7) Dürfen die Energieerzeugnisse das Zollgebiet der Europäischen Union nicht verlassen, so erstellt das Hauptzollamt eine Meldung auf der Grundlage der von der Ausgangszollstelle übermittelten Informationen. Das Hauptzollamt erstellt auch eine Meldung, wenn Teilmengen das Zollgebiet der Europäischen Union nicht verlassen dürfen. Das Hauptzollamt übermittelt die Meldung über die nicht erfolgte Ausfuhr an den Steuerlagerinhaber als Versender im Steuergebiet oder an den registrierten Versender im Steuergebiet. Meldungen über die nicht erfolgte Ausfuhr, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden durch das Hauptzollamt an den Versender im Steuergebiet weitergeleitet. Nach Eingang der Meldung über die nicht erfolgte Ausfuhr annulliert der Versender das elektronische Verwaltungsdokument, wenn die Beförderung noch nicht begonnen hat. Hat die Beförderung bereits begonnen, ändert der Versender den Bestimmungsort oder den Empfänger der Energieerzeugnisse.
 
-##### § 35 Beförderung im Steuergebiet ohne elektronisches Verwaltungsdokument
+###### § 35 Beförderung im Steuergebiet ohne elektronisches Verwaltungsdokument
 
 Auf Antrag des Versenders kann das Hauptzollamt, wenn die Steuerbelange dadurch nicht gefährdet sind, anstelle des EDV-gestützten Beförderungs- und Kontrollsystems andere geeignete Verfahren zulassen für Beförderungen
 
@@ -882,7 +886,7 @@ Auf Antrag des Versenders kann das Hauptzollamt, wenn die Steuerbelange dadurch 
 
 Dies gilt nicht, wenn die Energieerzeugnisse über das Gebiet eines anderen Mitgliedstaats befördert werden.
 
-##### § 36 Beginn der Beförderung im Ausfallverfahren
+###### § 36 Beginn der Beförderung im Ausfallverfahren
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender abweichend von § 28b nur dann eine Beförderung von Energieerzeugnissen unter Steueraussetzung beginnen, wenn ein Ausfalldokument nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 1 der EMCS-Durchführungsverordnung verwendet wird.
 
@@ -900,7 +904,7 @@ Dies gilt nicht, wenn die Energieerzeugnisse über das Gebiet eines anderen Mitg
 
 (7) Der mit dem elektronischen Verwaltungsdokument übermittelte eindeutige Referenzcode ist vom Versender unverzüglich auf der ersten Ausfertigung des Ausfalldokuments in dem dafür vorgesehenen Feld einzutragen. Ist die Beförderung noch nicht beendet, ist der Referenzcode dem Beförderer der Energieerzeugnisse unverzüglich mitzuteilen und von diesem auf der dritten Ausfertigung des Ausfalldokuments in dem dafür vorgesehenen Feld einzutragen, wenn ihm kein Ausdruck des elektronischen Verwaltungsdokuments übermittelt wurde. Die mit dem Referenzcode versehene dritte Ausfertigung des Ausfalldokuments gilt als Nachweis im Sinn des § 28b Absatz 3 Satz 1. Für die Eingangs- und Ausfuhrmeldung ist § 34 anzuwenden.
 
-##### § 36a Annullierung im Ausfallverfahren
+###### § 36a Annullierung im Ausfallverfahren
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender das elektronische Verwaltungsdokument abweichend von § 30 oder das Ausfalldokument nach amtlich vorgeschriebenem Vordruck annullieren (Annullierungsdokument), solange die Beförderung der Energieerzeugnisse noch nicht begonnen hat.
 
@@ -908,7 +912,7 @@ Dies gilt nicht, wenn die Energieerzeugnisse über das Gebiet eines anderen Mitg
 
 (3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt dem Versender das elektronische Verwaltungsdokument vor, hat er dem für ihn zuständigen Hauptzollamt unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf einer elektronischen Annullierungsmeldung nach § 30 Absatz 2 zu übermitteln. § 30 Absatz 3 und 4 gilt entsprechend.
 
-##### § 36b Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse im Ausfallverfahren
+###### § 36b Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse im Ausfallverfahren
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender den Bestimmungsort oder den Empfänger der Energieerzeugnisse während der Beförderung der Energieerzeugnisse abweichend von § 31 nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 2 der EMCS-Durchführungsverordnung ändern (Änderungsdokument). Satz 1 gilt auch für Energieerzeugnisse, die nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt werden.
 
@@ -918,7 +922,7 @@ Dies gilt nicht, wenn die Energieerzeugnisse über das Gebiet eines anderen Mitg
 
 (4) Für die Unterrichtung über den Ausfall des EDV-gestützten Beförderungs- und Kontrollsystems, die Anzeigepflicht bei jeder Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse sowie die Vorlage der zweiten Ausfertigung des Änderungsdokuments gilt § 36 Absatz 2 und 4 Satz 1 und 2 entsprechend.
 
-##### § 36c Aufteilung im Ausfallverfahren
+###### § 36c Aufteilung im Ausfallverfahren
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender während der Beförderung von Energieerzeugnissen unter Steueraussetzung die Energieerzeugnisse nach Maßgabe des § 32 Absatz 1 bis 3 in zwei oder mehrere Warensendungen aufteilen. Für die Aufteilung im Ausfallverfahren ist abweichend von § 32 das Ausfalldokument nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 2 der EMCS-Durchführungsverordnung zu verwenden.
 
@@ -930,7 +934,7 @@ Dies gilt nicht, wenn die Energieerzeugnisse über das Gebiet eines anderen Mitg
 
 (5) § 32 Absatz 5 gilt entsprechend.
 
-##### § 36d Eingangs- und Ausfuhrmeldung im Ausfallverfahren
+###### § 36d Eingangs- und Ausfuhrmeldung im Ausfallverfahren
 
 (1) Kann der Empfänger die Eingangsmeldung nach § 34 Absatz 1 nach Beendigung einer Beförderung unter Steueraussetzung nicht innerhalb der dort festgelegten Frist übermitteln, weil entweder das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder ihm das elektronische Verwaltungsdokument oder die Änderungsmeldung nach § 31 Absatz 6 nicht zugeleitet wurde, hat er dem für ihn zuständigen Hauptzollamt ein Eingangsdokument nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 3 der EMCS-Durchführungsverordnung vorzulegen, mit dem er den Empfang der Energieerzeugnisse bestätigt. Für die Frist zur Vorlage des Eingangsdokuments und deren Verlängerung gilt § 34 Absatz 1 entsprechend.
 
@@ -944,7 +948,7 @@ Dies gilt nicht, wenn die Energieerzeugnisse über das Gebiet eines anderen Mitg
 
 (5) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt das elektronische Verwaltungsdokument vor, erstellt das zuständige Hauptzollamt eine Ausfuhrmeldung nach § 34 Absatz 5 Satz 1 oder eine Meldung nach § 34 Absatz 7. § 34 Absatz 5 Satz 2 und 3 gilt entsprechend.
 
-##### § 37 Ersatznachweise für die Beendigung der Beförderung
+###### § 37 Ersatznachweise für die Beendigung der Beförderung
 
 (1) Liegt kein Nachweis nach § 34 Absatz 6 vor, bestätigt das für den Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen Bezirk sich die Ausgangszollstelle befindet, in den Fällen, in denen keine Eingangs- oder Ausfuhrmeldung nach § 36c vorliegt, die Beendigung der Beförderung unter Steueraussetzung, wenn durch einen Ersatznachweis hinreichend belegt ist, dass die Energieerzeugnisse
 
@@ -956,7 +960,7 @@ Dies gilt nicht, wenn die Energieerzeugnisse über das Gebiet eines anderen Mitg
 
 ## - Zu § 14 des Gesetzes
 
-##### § 37a Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
+###### § 37a Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
 
 (1) Sind Energieerzeugnisse während der Beförderung unter Steueraussetzung infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig zerstört oder vollständig oder teilweise unwiederbringlich verloren gegangen, hat der Beförderer dies dem Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen nachzuweisen.
 
@@ -976,7 +980,7 @@ Für die Fristen zur Abgabe der Steueranmeldung und für die Fälligkeit der Ste
 
 ## - Zu den §§ 15, 15a, 15b und 15c des Gesetzes
 
-##### § 38 Zertifizierter Empfänger
+###### § 38 Zertifizierter Empfänger
 
 (1) Wer als zertifizierter Empfänger Energieerzeugnisse im Sinn des § 4 des Gesetzes im steuerrechtlich freien Verkehr nicht nur gelegentlich empfangen will, hat die Erlaubnis nach § 15a Absatz 2 Satz 1 des Gesetzes im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Das Verbringen oder Verbringenlassen außerhalb des Steuergebiets in Empfang genommener Energieerzeugnisse in das Steuergebiet nach § 15 Satz 3 des Gesetzes steht dem Empfang nach Satz 1 gleich. Dem Antrag sind beizufügen:
 
@@ -1016,7 +1020,7 @@ Absatz 3 Satz 2 und § 29 gelten entsprechend. Beabsichtigt der Erlaubnisinhaber
 
 (11) Wer als zertifizierter Empfänger im Einzelfall Energieerzeugnisse im Sinn des § 4 des Gesetzes im steuerrechtlich freien Verkehr empfangen will, hat die Erlaubnis nach § 15a Absatz 2 Satz 1 des Gesetzes im Voraus beim Hauptzollamt unter Angabe von Menge und Art sowie des zertifizierten Versenders der Energieerzeugnisse nach amtlich vorgeschriebenem Vordruck zu beantragen. Das Verbringen oder Verbringenlassen außerhalb des Steuergebiets in Empfang genommener Energieerzeugnisse in das Steuergebiet nach § 15 Absatz 1 Satz 3 des Gesetzes steht dem Empfang nach Satz 1 gleich. Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Für die Erteilung der Erlaubnis gilt Absatz 3 entsprechend mit der Maßgabe, dass die Erlaubnis auf die beantragte Menge, den angegebenen Versender sowie auf eine Beförderung und auf einen bestimmten Zeitraum zu beschränken ist. Der zertifizierte Empfänger im Einzelfall hat auf Verlangen des Hauptzollamts Aufzeichnungen über die zu gewerblichen Zwecken empfangenen Energieerzeugnisse zu führen. Eine Erlaubnis als zertifizierter Empfänger im Einzelfall kann auch Privatpersonen erteilt werden, die Energieerzeugnisse empfangen wollen, deren Beförderung nicht unter § 16 oder § 18 des Gesetzes fällt.
 
-##### § 38a Zertifizierter Versender
+###### § 38a Zertifizierter Versender
 
 (1) Wer als zertifizierter Versender Energieerzeugnisse im Sinn des § 4 des Gesetzes im steuerrechtlich freien Verkehr nicht nur gelegentlich versenden will, hat die Erlaubnis nach § 15b Absatz 2 Satz 1 des Gesetzes im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind beizufügen:
 
@@ -1050,7 +1054,7 @@ Absatz 3 Satz 2 gilt entsprechend. Beabsichtigt er einen weiteren Versandort als
 
 (10) Wer als zertifizierter Versender im Einzelfall Energieerzeugnisse im Sinn des § 4 des Gesetzes im steuerrechtlich freien Verkehr versenden will, hat die Erlaubnis nach § 15b Absatz 2 Satz 1 des Gesetzes im Voraus beim Hauptzollamt unter Angabe von Menge und Art sowie des zertifizierten Empfängers der Energieerzeugnisse nach amtlich vorgeschriebenem Vordruck zu beantragen. Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Für die Erteilung der Erlaubnis gilt Absatz 3 entsprechend mit der Maßgabe, dass die Erlaubnis auf die beantragte Menge, den angegebenen Empfänger sowie auf eine Beförderung und auf einen bestimmten Zeitraum zu beschränken ist. Eine Erlaubnis als zertifizierter Versender im Einzelfall kann auch Privatpersonen erteilt werden, die Energieerzeugnisse versenden wollen, deren Beförderung nicht unter § 16 oder § 18 des Gesetzes fällt.
 
-##### § 38b Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren
+###### § 38b Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren
 
 (1) Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und nach welchen Rahmenbedingungen Personen, die für Beförderungen von Energieerzeugnissen im steuerrechtlich freien Verkehr das vereinfachte elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem (§ 15c Absatz 1 des Gesetzes) austauschen. Des Weiteren legt die Generalzolldirektion in der Verfahrensanweisung für den Fall, dass das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht, die Voraussetzungen und Rahmenbedingungen für die Inanspruchnahme des Ausfallverfahrens fest. Im Übrigen gilt § 28a.
 
@@ -1058,7 +1062,7 @@ Absatz 3 Satz 2 gilt entsprechend. Beabsichtigt er einen weiteren Versandort als
 
 (3) Für die Beförderung von Energieerzeugnissen des steuerrechtlich freien Verkehrs kann das Hauptzollamt auf Antrag und im Benehmen mit den zuständigen Steuerbehörden der betroffenen Mitgliedstaaten ein vereinfachtes Verfahren für die Beförderung, auch unter Verzicht auf die Verwendung eines vereinfachten elektronischen Verwaltungsdokuments, zulassen. Die Zulassung erfolgt mit der jeweiligen Erlaubnis.
 
-##### § 38c Erstellen des vereinfachten elektronischen Verwaltungsdokuments
+###### § 38c Erstellen des vereinfachten elektronischen Verwaltungsdokuments
 
 (1) Sollen Energieerzeugnisse im Sinn des § 4 des Gesetzes im steuerrechtlich freien Verkehr nach diesem Abschnitt aus dem Steuergebiet befördert werden
 
@@ -1076,7 +1080,7 @@ so hat der zertifizierte Versender dem Hauptzollamt vor Beginn der Beförderung 
 
 (5) Das Hauptzollamt leitet im Fall des Absatzes 1 Nummer 2 das vereinfachte elektronische Verwaltungsdokument an den zertifizierten Empfänger weiter. Ein vereinfachtes elektronisches Verwaltungsdokument, das von den zuständigen Behörden eines anderen Mitgliedstaats dem Hauptzollamt übermittelt wurde, wird vom Hauptzollamt an den zertifizierten Empfänger im Steuergebiet weitergeleitet.
 
-##### § 38d Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+###### § 38d Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
 
 (1) Während der Beförderung von Energieerzeugnissen im Sinn des § 4 des Gesetzes im steuerrechtlich freien Verkehr kann der zertifizierte Versender den Bestimmungsort ändern, und zwar
 
@@ -1088,7 +1092,7 @@ Die Änderung in den Abgangsort ist auch möglich, wenn der zertifizierte Empfä
 
 (2) Für die Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse gilt § 31 Absatz 2, 3 und 6 entsprechend.
 
-##### § 38e Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+###### § 38e Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
 
 (1) Nach Aufnahme der Energieerzeugnisse im Sinn des § 4 des Gesetzes, auch von Teilmengen, an einem vom Erlaubnisumfang erfassten Bestimmungsort hat der zertifizierte Empfänger dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung mit dem in dem delegierten Rechtsakt nach Artikel 43 Absatz 1 Systemrichtlinie in seiner jeweils gültigen Fassung vorgeschriebenem Datensatz zu übermitteln. Das Verbringen oder Verbringenlassen von Energieerzeugnissen in das Steuergebiet steht der Aufnahme nach Satz 1 gleich, sofern die Energieerzeugnisse nach § 15 Absatz 1 Satz 3 des Gesetzes außerhalb des Steuergebiets in Empfang genommen wurden. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
 
@@ -1104,11 +1108,11 @@ Die Änderung in den Abgangsort ist auch möglich, wenn der zertifizierte Empfä
 
 (4) Unbeschadet des § 42a gilt die Eingangsmeldung als Nachweis dafür, dass die Beförderung der Energieerzeugnisse beendet wurde.
 
-##### § 38f Beförderung im Ausfallverfahren
+###### § 38f Beförderung im Ausfallverfahren
 
 Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung und kann das vereinfachte elektronische Verwaltungsdokument somit nicht angewendet werden, gelten für das Ausfallverfahren die §§ 36, 36b bis 36d entsprechend. In diesem Fall sind Ausfalldokumente nach amtlich vorgeschriebenem Vordruck zu verwenden.
 
-##### § 38g Ersatznachweise für die Beendigung der Beförderung
+###### § 38g Ersatznachweise für die Beendigung der Beförderung
 
 (1) Liegt bei einer Lieferung zu gewerblichen Zwecken in das Steuergebiet kein Nachweis nach § 38e Absatz 4 oder § 38f in Verbindung mit § 38d Absatz 1 vor, bestätigt das für den zertifizierten Empfänger zuständige Hauptzollamt durch einen Sichtvermerk die Beendigung der Beförderung, wenn durch einen Ersatznachweis hinreichend belegt ist, dass die Energieerzeugnisse den angegebenen Bestimmungsort erreicht haben.
 
@@ -1120,13 +1124,13 @@ Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung 
 
 3. die Energieerzeugnisse von der Verbrauchsteuer befreit sind.
 
-##### § 39 (weggefallen)
+###### § 39 (weggefallen)
 
-##### § 40 (weggefallen)
+###### § 40 (weggefallen)
 
 ## - Zu den §§ 17, 18b, 21 und 46 des Gesetzes
 
-##### § 41 Hauptbehälter
+###### § 41 Hauptbehälter
 
 Hauptbehälter im Sinn des § 18b Absatz 2 Nummer 3, § 21 Absatz 1 Satz 3 Nummer 1 und § 46 Absatz 1 Satz 2 des Gesetzes sind:
 
@@ -1138,7 +1142,7 @@ Besteht ein Hauptbehälter aus mehr als einem Kraftstoffbehälter, ist ein Abspe
 
 ## - Zu § 18 des Gesetzes
 
-##### § 42 Versandhandel
+###### § 42 Versandhandel
 
 (1) Wer als Versandhändler Energieerzeugnisse im Sinn des § 4 des Gesetzes an Privatpersonen im Steuergebiet liefern will, hat die Erlaubnis im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen.
 
@@ -1164,25 +1168,25 @@ Für die Sicherheitsleistung gilt § 29 entsprechend. Das Hauptzollamt kann auf 
 
 ## - Zu § 18c des Gesetzes
 
-##### § 42a Unregelmäßigkeiten während der Beförderung von Energieerzeugnissen des steuerrechtlich freien Verkehrs
+###### § 42a Unregelmäßigkeiten während der Beförderung von Energieerzeugnissen des steuerrechtlich freien Verkehrs
 
 Für Fälle vollständiger Zerstörung oder unwiederbringlichen Gesamt- oder Teilverlusts von Energieerzeugnissen gilt § 37a entsprechend. Bei hinreichendem Nachweis oder allgemein zugelassenen Mengenabweichungen kann die Sicherheit vollständig oder teilweise freigegeben werden.
 
 ## - Zu den §§ 19 bis 19b des Gesetzes
 
-##### § 43 Einfuhr von Energieerzeugnissen aus Drittländern und Drittgebieten
+###### § 43 Einfuhr von Energieerzeugnissen aus Drittländern und Drittgebieten
 
 Energieerzeugnisse aus Drittländern und Drittgebieten sind in den Fällen des § 19b Absatz 3 des Gesetzes nach den Zollvorschriften mit den für die Besteuerung maßgeblichen Merkmalen anzumelden. Die Steuererklärung ist in der Zollanmeldung oder nach amtlich vorgeschriebenem Vordruck abzugeben.
 
 ## - (weggefallen)
 
-##### § 44 (weggefallen)
+###### § 44 (weggefallen)
 
-##### § 45 (weggefallen)
+###### § 45 (weggefallen)
 
 ## - Zu den §§ 21, 65 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes
 
-##### § 46 Verkehrs-, Verbringungs- und Verwendungsbeschränkungen
+###### § 46 Verkehrs-, Verbringungs- und Verwendungsbeschränkungen
 
 (1) Energieerzeugnisse, die zugelassene Kennzeichnungsstoffe enthalten, dürfen nicht mit anderen Energieerzeugnissen gemischt sowie nicht als Kraftstoff bereitgehalten, abgegeben, mitgeführt oder verwendet werden, es sei denn, die Vermischung erfolgt zu den in § 25 Absatz 1 des Gesetzes genannten Zwecken oder ist nach § 47 Abs. 2 oder Abs. 3, § 48 Abs. 1 oder § 49 zulässig oder das Bereithalten, Abgeben, Mitführen oder die Verwendung als Kraftstoff erfolgt zu den in § 2 Abs. 3 Satz 1, § 26 oder § 27 Abs. 1 des Gesetzes genannten Zwecken oder ist nach § 47 Abs. 5, § 48 Abs. 5, § 61 oder Absatz 2 Satz 2 zulässig. Die Kennzeichnungsstoffe dürfen nicht entfernt oder in ihrer Wirksamkeit beeinträchtigt werden. Dies gilt nicht für die Aufarbeitung in Herstellungsbetrieben.
 
@@ -1200,7 +1204,7 @@ das Hauptzollamt kann in besonderen Einzelfällen Ausnahmen zulassen. Abweichend
 
 3. in Spezialcontainern, Arbeitsmaschinen und -geräten sowie Kühl- und Klimaanlagen in dem Land, in dem der Besitzer seinen Firmensitz hat, erlaubt ist und sie nach ihrem Arbeitseinsatz regelmäßig dorthin zurückkehren.
 
-##### § 47 Vermischungen in Kennzeichnungs- und anderen Betrieben
+###### § 47 Vermischungen in Kennzeichnungs- und anderen Betrieben
 
 (1) Werden aus Kennzeichnungs- oder anderen Betrieben leichtes Heizöl und nicht gekennzeichnete Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur in wechselnder Folge abgegeben, sind Vermischungen nicht zulässig, wenn sie durch zumutbaren Aufwand vermieden werden können.
 
@@ -1212,7 +1216,7 @@ das Hauptzollamt kann in besonderen Einzelfällen Ausnahmen zulassen. Abweichend
 
 (5) Gemische, die bei zulässigen Vermischungen nach den Absätzen 2 und 3 entstanden sind und in denen der Anteil der für die jeweilige Abgabe nicht bestimmten Energieerzeugnisart aus leichtem Heizöl besteht, dürfen als Kraftstoff bereitgehalten, abgegeben, mitgeführt und verwendet werden.
 
-##### § 48 Vermischungen bei der Abgabe aus Transportmitteln
+###### § 48 Vermischungen bei der Abgabe aus Transportmitteln
 
 (1) Wer leichtes Heizöl, nicht gekennzeichnete Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur und ihnen gleichgestellte Energieerzeugnisse nach § 2 Abs. 4 des Gesetzes aus verschiedenen Kammern eines Transportmittels in wechselnder Folge oder nach Beladung eines Transportmittels mit dem jeweils anderen Energieerzeugnis abgibt, darf das Energieerzeugnis, das in den Rohrleitungen, in den Armaturen und im Abgabeschlauch oder in einzelnen dieser Teile des Transportmittels von der vorhergehenden Abgabe verblieben ist (Restmenge), nur beimischen, wenn
 
@@ -1236,7 +1240,7 @@ Das Beimischen der Restmenge zu dem bereits abgegebenen Energieerzeugnis ist nic
 
 (5) Gemische, die bei zulässigen Vermischungen nach Absatz 1 entstanden sind und in denen der Anteil der Restmenge aus leichtem Heizöl besteht, dürfen als Kraftstoff bereitgehalten, abgegeben, mitgeführt und verwendet werden.
 
-##### § 49 Spülvorgänge und sonstige Vermischungen
+###### § 49 Spülvorgänge und sonstige Vermischungen
 
 (1) Auf Antrag kann das Hauptzollamt zulassen, dass in Betrieben bei der Reinigung von Transportmitteln, Lagerbehältern und Rohrleitungen leichtes Heizöl und nicht gekennzeichnete Energieerzeugnisse in der notwendigen Menge miteinander vermischt werden. Die Generalzolldirektion legt im Verwaltungswege fest, mit welchen Auflagen und Nebenbestimmungen im Sinne des § 120 der Abgabenordnung die Zulassung zu versehen ist. Der Inhaber des Betriebs hat über die vermischten Energieerzeugnisse Aufzeichnungen zu führen. § 7 Absatz 2 Satz 6 und 7 und § 14 Absatz 1b gelten entsprechend.
 
@@ -1250,7 +1254,7 @@ Das Beimischen der Restmenge zu dem bereits abgegebenen Energieerzeugnis ist nic
 
 ## - Zu § 23 des Gesetzes
 
-##### § 49a Abgabe von sonstigen Energieerzeugnissen, Steueranmeldung
+###### § 49a Abgabe von sonstigen Energieerzeugnissen, Steueranmeldung
 
 (1) Andere als in § 4 des Gesetzes genannte Energieerzeugnisse gelten als erstmals im Steuergebiet als Kraft- oder Heizstoff oder als Zusatz oder Verlängerungsmittel von Kraft- oder Heizstoffen abgegeben, wenn der Abgebende einen nach außen hin objektiv erkennbaren Willen offenbart, ein Energieerzeugnis zu den genannten Zwecken abzugeben.
 
@@ -1264,11 +1268,11 @@ und nicht nach § 26 oder § 28 des Energiesteuergesetzes von der Steuer befreit
 
 (3) Der Steuerschuldner hat die Steuererklärung nach Absatz 2 bis zum 15. Januar des folgenden Jahres abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer, die in einem Kalenderjahr entstanden ist, ist am 10. Februar des auf die Entstehung folgenden Kalenderjahres fällig.
 
-##### § 49b Nachweise für die Vorversteuerung
+###### § 49b Nachweise für die Vorversteuerung
 
 Der Steuerschuldner hat den Nachweis nach § 23 Absatz 1b des Gesetzes durch geeignete Unterlagen zu führen. Geeignete Unterlagen sind insbesondere Zahlungsbelege, Frachtbriefe, Ladescheine, Lieferscheine oder Löschberichte. Auf Verlangen des Hauptzollamts hat der Steuerschuldner weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens erforderlich erscheint.
 
-##### § 50 Anzeige
+###### § 50 Anzeige
 
 (1) Die Anzeige nach § 23 Absatz 4 Satz 1 des Gesetzes ist schriftlich bei dem für den Anzeigepflichtigen zuständigen Hauptzollamt zu erstatten.
 
@@ -1286,7 +1290,7 @@ Der Steuerschuldner hat den Nachweis nach § 23 Absatz 1b des Gesetzes durch gee
 
 (4) Eine Anzeige ist in den Fällen des § 23 Abs. 2 Nr. 1 und 2 des Gesetzes nicht erforderlich.
 
-##### § 51 Pflichten, Steueraufsicht
+###### § 51 Pflichten, Steueraufsicht
 
 (1) Der Anzeigepflichtige hat ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
 
@@ -1310,7 +1314,7 @@ Die Aufzeichnungen müssen so beschaffen sein, dass es einem sachverständigen D
 
 ## - Zu den §§ 24 bis 30 des Gesetzes
 
-##### § 52 Antrag auf Erlaubnis als Verwender oder Verteiler
+###### § 52 Antrag auf Erlaubnis als Verwender oder Verteiler
 
 (1) Die Erlaubnis als Verwender nach § 24 Absatz 2 Satz 1 des Gesetzes und die Erlaubnis als Verteiler nach § 24 Absatz 2 Satz 2 des Gesetzes sind, soweit sie nicht allgemein erteilt sind (§ 55), bei dem für den Verwender oder den Verteiler zuständigen Hauptzollamt schriftlich zu beantragen. In den Fällen des § 27 Absatz 1 Nummer 1 und Absatz 2 Nummer 1 des Gesetzes ist der Antrag nach amtlich vorgeschriebenem Vordruck abzugeben.
 
@@ -1342,11 +1346,11 @@ d) die Lufttüchtigkeitszeugnisse der Luftfahrzeuge,
 
 (4) Wer als Erlaubnisinhaber steuerfreie Energieerzeugnisse aus dem Steuergebiet verbringen will, hat die Erlaubnis nach § 24 Abs. 4 des Gesetzes, soweit sie nicht allgemein erteilt ist, schriftlich bei dem für ihn zuständigen Hauptzollamt zu beantragen.
 
-##### § 53 Erteilung der Erlaubnis
+###### § 53 Erteilung der Erlaubnis
 
 Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis nach § 52 Abs. 1 oder Abs. 4 (förmliche Einzelerlaubnis) und stellt einen Erlaubnisschein als Nachweis der Bezugsberechtigung aus. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
 
-##### § 54 Überprüfung und Erlöschen der Erlaubnis
+###### § 54 Überprüfung und Erlöschen der Erlaubnis
 
 (1) Das Hauptzollamt überprüft unbeschadet anlassbezogener Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der Erlaubnis eingehalten werden. Zudem überprüft es regelmäßig, ob der Erlaubnisinhaber die Bedingungen und Voraussetzungen für die Erlaubnis weiterhin erfüllt. Die regelmäßigen Überprüfungsmaßnahmen werden innerhalb von drei Jahren nach der letzten Überprüfungsmaßnahme oder der Neuerteilung durchgeführt.
 
@@ -1404,11 +1408,11 @@ eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die Antragste
 
 4. die Liquidatoren, der Insolvenzverwalter und im Fall der Eigenverwaltung der Erlaubnisinhaber jeweils die Eröffnung des Insolvenzverfahrens oder die Abweisung des Antrags auf dessen Eröffnung.
 
-##### § 55 Allgemeine Erlaubnis
+###### § 55 Allgemeine Erlaubnis
 
 Unter Verzicht auf eine förmliche Einzelerlaubnis werden nach Maßgabe der Anlage 1 zu dieser Verordnung die Verwendung und die Verteilung von steuerfreien Energieerzeugnissen sowie das Verbringen von steuerfreien Energieerzeugnissen aus dem Steuergebiet allgemein erlaubt.
 
-##### § 56 Pflichten des Erlaubnisinhabers, Steueraufsicht
+###### § 56 Pflichten des Erlaubnisinhabers, Steueraufsicht
 
 (1) Die Lagerstätte für steuerfreie Energieerzeugnisse ist möglichst in einem besonderen Raum unterzubringen. Sie bedarf der Zulassung durch das Hauptzollamt.
 
@@ -1450,7 +1454,7 @@ hat. Das Hauptzollamt kann Ausnahmen zulassen.
 
 2. die Bestände amtlich festzustellen sind.
 
-##### § 57 Bezug und Abgabe von steuerfreien Energieerzeugnissen
+###### § 57 Bezug und Abgabe von steuerfreien Energieerzeugnissen
 
 (1) Werden steuerfreie Energieerzeugnisse aus einem Steuerlager an einen Erlaubnisinhaber abgegeben, hat der Inhaber des abgebenden Steuerlagers die einzelnen Lieferungen durch Empfangsbestätigungen des Empfängers oder mit Zulassung des Hauptzollamts durch betriebliche Versandpapiere nachzuweisen, die den Namen und die Anschrift des Empfängers sowie Art, Menge und steuerlichen Zustand der Energieerzeugnisse und den Zeitpunkt der Lieferung enthalten.
 
@@ -1496,7 +1500,7 @@ Die Absätze 1 bis 3 gelten sinngemäß.
 
 ## - Zu § 25 des Gesetzes
 
-##### § 58 Verwendung zu anderen Zwecken
+###### § 58 Verwendung zu anderen Zwecken
 
 (1) Die Verwendung von Schmierstoffen zur Herstellung von Zweitaktergemischen ist keine Verwendung im Sinne des § 25 Abs. 1 Satz 1 Nr. 2 des Gesetzes.
 
@@ -1504,7 +1508,7 @@ Die Absätze 1 bis 3 gelten sinngemäß.
 
 ## - Zu § 26 des Gesetzes
 
-##### § 59 Eigenverbrauch
+###### § 59 Eigenverbrauch
 
 Teile des Herstellungs-, Gasgewinnungs- oder sonstigen Betriebs, in denen nach § 26 des Gesetzes Energieerzeugnisse steuerfrei verwendet werden können, sind
 
@@ -1526,7 +1530,7 @@ Die in den Betriebsteilen nach Satz 1 verwendeten Energieerzeugnisse sind nur in
 
 ## - Zu den §§ 17 und 27 des Gesetzes
 
-##### § 60 Schiff- und Luftfahrt
+###### § 60 Schiff- und Luftfahrt
 
 (1) Als Schifffahrt im Sinn des § 27 Absatz 1 des Gesetzes gelten nicht
 
@@ -1578,7 +1582,7 @@ Die in den Betriebsteilen nach Satz 1 verwendeten Energieerzeugnisse sind nur in
 
 (8) Die Verwendung von steuerfreien Energieerzeugnissen in den Fällen des § 27 Abs. 2 Nr. 2 und 3 und Abs. 3 des Gesetzes wird nur erlaubt, wenn die Energieerzeugnisse in Instandhaltungs-, Entwicklungs- und Herstellungsbetrieben verwendet werden, die vom Luftfahrt-Bundesamt, von der zuständigen Europäischen Agentur für Flugsicherheit oder vom Bundesamt für Wehrtechnik und Beschaffung genehmigt worden sind.
 
-##### § 61 Versteuerung von Energieerzeugnissen in Wasserfahrzeugen
+###### § 61 Versteuerung von Energieerzeugnissen in Wasserfahrzeugen
 
 (1) Inhaber von Erlaubnissen zur steuerfreien Verwendung von Energieerzeugnissen nach § 27 Absatz 1 des Gesetzes dürfen die Energieerzeugnisse unter Versteuerung nach dem jeweils zutreffenden Steuersatz des § 2 des Gesetzes
 
@@ -1596,7 +1600,7 @@ Der Erlaubnisinhaber hat dem zuständigen Hauptzollamt die Verwendung der Energi
 
 ## - Zu § 31 des Gesetzes
 
-##### § 62 Anmeldung des Kohlebetriebs
+###### § 62 Anmeldung des Kohlebetriebs
 
 (1) Wer Kohle gewinnen oder bearbeiten will, hat die Anmeldung nach § 31 Absatz 3 des Gesetzes vor der Eröffnung des Betriebs schriftlich beim Hauptzollamt abzugeben.
 
@@ -1614,11 +1618,11 @@ Der Erlaubnisinhaber hat dem zuständigen Hauptzollamt die Verwendung der Energi
 
 (4) Das Hauptzollamt bestätigt schriftlich oder elektronisch die Anmeldung des Kohlebetriebs.
 
-##### § 63 Einrichtung des Kohlebetriebs
+###### § 63 Einrichtung des Kohlebetriebs
 
 Der Kohlebetrieb muss so eingerichtet sein, dass die mit der Steueraufsicht betrauten Amtsträger den Gang der Gewinnung und Bearbeitung und den Verbleib der Erzeugnisse im Betrieb verfolgen können. Das Hauptzollamt kann besondere Anforderungen stellen, die im Interesse der Steueraufsicht erforderlich erscheinen.
 
-##### § 64 Pflichten des Betriebsinhabers
+###### § 64 Pflichten des Betriebsinhabers
 
 (1) Der Inhaber des Kohlebetriebs hat ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
 
@@ -1638,7 +1642,7 @@ Die Aufzeichnungen müssen so beschaffen sein, dass es einem sachverständigen D
 
 (5) Der Inhaber des Kohlebetriebs hat dem Hauptzollamt Änderungen der nach § 62 Abs. 2 angegebenen Verhältnisse, Überschuldung, drohende oder eingetretene Zahlungsunfähigkeit, Zahlungseinstellung und Stellung des Antrags auf Eröffnung eines Insolvenzverfahrens unverzüglich schriftlich anzuzeigen.
 
-##### § 65 Antrag auf Erlaubnis für Kohlebetriebe und Kohlelieferer
+###### § 65 Antrag auf Erlaubnis für Kohlebetriebe und Kohlelieferer
 
 (1) Wer als Inhaber eines Kohlebetriebs oder als Kohlelieferer Kohle unversteuert beziehen will, hat die Erlaubnis nach § 31 Absatz 4 des Gesetzes schriftlich beim Hauptzollamt zu beantragen.
 
@@ -1656,13 +1660,13 @@ Die Aufzeichnungen müssen so beschaffen sein, dass es einem sachverständigen D
 
 (3) Der Antragsteller hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wenn sie zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Angaben verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden.
 
-##### § 66 Erteilung, Überprüfung und Erlöschen der Erlaubnis
+###### § 66 Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis nach § 31 Abs. 4 des Gesetzes und stellt einen Erlaubnisschein als Nachweis der Bezugsberechtigung aus. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
 
 (2) Für die Überprüfung der Erlaubnis gilt § 14 Absatz 1b entsprechend. Für das Erlöschen der Erlaubnis gilt § 14 Absatz 2 bis 7 entsprechend.
 
-##### § 67 Pflichten des Erlaubnisinhabers
+###### § 67 Pflichten des Erlaubnisinhabers
 
 (1) Der Erlaubnisinhaber hat ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
 
@@ -1692,13 +1696,13 @@ Die Aufzeichnungen müssen so beschaffen sein, dass es einem sachverständigen D
 
 (8) Geht der Erlaubnisschein verloren, hat der Erlaubnisinhaber dies dem Hauptzollamt unverzüglich anzuzeigen. Das Hauptzollamt stellt auf Antrag einen neuen Erlaubnisschein aus, es sei denn, die Erlaubnis ist zu widerrufen.
 
-##### § 68 Bezug und Lagerung von unversteuerter Kohle
+###### § 68 Bezug und Lagerung von unversteuerter Kohle
 
 (1) Der Erlaubnisinhaber hat unversteuerte Kohle, die er in Besitz genommen hat, unverzüglich in seinen Aufzeichnungen zu erfassen. Mit der Inbesitznahme gilt die Kohle als in seinen Betrieb aufgenommen.
 
 (2) Der Erlaubnisinhaber darf versteuerte und unversteuerte Kohle als Gemisch lagern. Das Gemisch wird in diesem Fall so behandelt, als ob die Kohle getrennt gehalten worden wäre. Aus dem Gemisch entnommene Kohle wird je nach Wahl des Erlaubnisinhabers als aus einem der Gemischanteile stammend behandelt.
 
-##### § 69 Lieferung von unversteuerter Kohle
+###### § 69 Lieferung von unversteuerter Kohle
 
 (1) Wird Kohle unversteuert an den Inhaber einer Erlaubnis nach § 31 Abs. 4 oder § 37 Abs. 1 des Gesetzes geliefert, hat der Kohlelieferer die einzelnen Lieferungen durch betriebliche Versandpapiere nachzuweisen, die den Namen und die Anschrift des Empfängers sowie Art, Menge und Zeitpunkt der Lieferung enthalten.
 
@@ -1712,7 +1716,7 @@ Die Aufzeichnungen müssen so beschaffen sein, dass es einem sachverständigen D
 
 ## - Zu § 34 des Gesetzes
 
-##### § 70 Verbringen von Kohle in das Steuergebiet
+###### § 70 Verbringen von Kohle in das Steuergebiet
 
 Wird Kohle aus einem anderen Mitgliedstaat in das Steuergebiet verbracht, finden sinngemäß Anwendung
 
@@ -1722,7 +1726,7 @@ Wird Kohle aus einem anderen Mitgliedstaat in das Steuergebiet verbracht, finden
 
 ## - Zu § 35 des Gesetzes
 
-##### § 71 Einfuhr von Kohle
+###### § 71 Einfuhr von Kohle
 
 (1) Kohle aus Drittländern und Drittgebieten ist in den Fällen des § 35 des Gesetzes in Verbindung mit § 19b Absatz 3 des Gesetzes nach den Zollvorschriften mit den für die Besteuerung maßgeblichen Merkmalen anzumelden. Die Steuererklärung ist in der Zollanmeldung oder nach amtlich vorgeschriebenem Vordruck abzugeben.
 
@@ -1730,7 +1734,7 @@ Wird Kohle aus einem anderen Mitgliedstaat in das Steuergebiet verbracht, finden
 
 ## - Zu § 37 des Gesetzes
 
-##### § 72 Antrag auf Erlaubnis als Kohleverwender
+###### § 72 Antrag auf Erlaubnis als Kohleverwender
 
 (1) Wer Kohle steuerfrei verwenden will, hat die Erlaubnis nach § 37 Absatz 1 des Gesetzes, soweit sie nicht allgemein erteilt ist (§ 74), schriftlich beim Hauptzollamt zu beantragen.
 
@@ -1750,7 +1754,7 @@ Wird Kohle aus einem anderen Mitgliedstaat in das Steuergebiet verbracht, finden
 
 (3) Der Antragsteller hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wenn sie zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Angaben verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden.
 
-##### § 73 Erteilung, Überprüfung und Erlöschen der Erlaubnis
+###### § 73 Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis nach § 37 Abs. 1 des Gesetzes (förmliche Einzelerlaubnis) und stellt einen Erlaubnisschein als Nachweis der Bezugsberechtigung aus. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
 
@@ -1760,11 +1764,11 @@ Wird Kohle aus einem anderen Mitgliedstaat in das Steuergebiet verbracht, finden
 
 (4) Wird die Erlaubnis nach Absatz 3 Satz 1 oder Satz 2 widerrufen, gilt die auf Grund der Erlaubnis seit 1. Januar des Kalenderjahres, in dem die Beschreibung nach § 75 Abs. 2a vorzulegen war, steuerfrei bezogene Kohle als entgegen der Zweckbestimmung verwendet (§ 37 Abs. 3 des Gesetzes). Abweichend von § 37 Abs. 3 des Gesetzes bestimmt das Hauptzollamt die Frist für die Abgabe der Steueranmeldung und den Zeitpunkt der Fälligkeit der Steuer.
 
-##### § 74 Allgemeine Erlaubnis
+###### § 74 Allgemeine Erlaubnis
 
 Unter Verzicht auf eine förmliche Einzelerlaubnis wird nach Maßgabe der Anlage 1 zu dieser Verordnung die steuerfreie Verwendung von Kohle allgemein erlaubt.
 
-##### § 75 Pflichten des Erlaubnisinhabers
+###### § 75 Pflichten des Erlaubnisinhabers
 
 (1) Der Erlaubnisinhaber hat ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
 
@@ -1798,7 +1802,7 @@ Die Aufzeichnungen müssen so beschaffen sein, dass es einem sachverständigen D
 
 2. die Bestände aufzunehmen sind.
 
-##### § 76 Bezug und Lagerung von steuerfreier Kohle
+###### § 76 Bezug und Lagerung von steuerfreier Kohle
 
 (1) Der Erlaubnisinhaber hat steuerfreie Kohle, die er in Besitz genommen hat, unverzüglich in seinen Aufzeichnungen zu erfassen. Mit der Inbesitznahme gilt die Kohle als in seinen Betrieb aufgenommen.
 
@@ -1808,13 +1812,13 @@ Die Aufzeichnungen müssen so beschaffen sein, dass es einem sachverständigen D
 
 (4) Die Absätze 1 und 2 gelten nicht für Inhaber einer allgemeinen Erlaubnis.
 
-##### § 77 Eigenverbrauch
+###### § 77 Eigenverbrauch
 
 Für die Teile des Kohlebetriebs, in denen Kohle nach § 37 Abs. 2 Satz 1 Nr. 2 des Gesetzes steuerfrei zur Aufrechterhaltung des Betriebs verwendet werden kann, gilt § 59 sinngemäß.
 
 ## - Zu § 38 des Gesetzes
 
-##### § 78 Anmeldung für Lieferer, Entnehmer und Bezieher von Erdgas
+###### § 78 Anmeldung für Lieferer, Entnehmer und Bezieher von Erdgas
 
 (1) Die Anmeldung nach § 38 Absatz 3 des Gesetzes ist schriftlich bei dem für den Anmeldepflichtigen zuständigen Hauptzollamt abzugeben.
 
@@ -1832,7 +1836,7 @@ Für die Teile des Kohlebetriebs, in denen Kohle nach § 37 Abs. 2 Satz 1 Nr. 2 
 
 (4) Das Hauptzollamt erteilt Lieferern von Erdgas einen schriftlichen oder elektronischen Nachweis über die erfolgte Anmeldung.
 
-##### § 79 Pflichten
+###### § 79 Pflichten
 
 (1) Der Anmeldepflichtige nach § 38 Abs. 3 des Gesetzes hat ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
 
@@ -1858,7 +1862,7 @@ Das zuständige Hauptzollamt kann Anordnungen zu den Aufzeichnungen treffen und 
 
 ## - Zu § 39 des Gesetzes
 
-##### § 80 Vorauszahlungen
+###### § 80 Vorauszahlungen
 
 (1) Die Festsetzung der Vorauszahlungen erfolgt durch Vorauszahlungsbescheid. Die Mitteilungen der Schätzungen nach § 39 Absatz 5 des Energiesteuergesetzes sind schriftlich nach amtlich vorgeschriebenem Vordruck vorzunehmen. Ist eine Steuer bislang noch nicht oder erstmals entstanden, ist die voraussichtliche Jahressteuerschuld für das Veranlagungsjahr maßgebend. Kann die voraussichtliche Jahressteuerschuld nicht auf zwölf monatliche Vorauszahlungen festgesetzt werden, so sind die fehlenden monatlichen Vorauszahlungen für die erste monatliche Vorauszahlung festzusetzen.
 
@@ -1888,7 +1892,7 @@ b) die nach § 100 Absatz 3 erforderliche Beschreibung der wirtschaftlichen Tät
 
 ## - Zu § 40 des Gesetzes
 
-##### § 81 Nicht leitungsgebundenes Verbringen
+###### § 81 Nicht leitungsgebundenes Verbringen
 
 Wird Erdgas nicht leitungsgebunden aus einem anderen Mitgliedstaat in das Steuergebiet verbracht, finden sinngemäß Anwendung
 
@@ -1898,13 +1902,13 @@ Wird Erdgas nicht leitungsgebunden aus einem anderen Mitgliedstaat in das Steuer
 
 ## - Zu § 41 des Gesetzes
 
-##### § 82 Nicht leitungsgebundene Einfuhr
+###### § 82 Nicht leitungsgebundene Einfuhr
 
 Erdgas aus Drittländern und Drittgebieten ist in den Fällen des § 41 Absatz 1 des Gesetzes in Verbindung mit § 19b Absatz 3 des Gesetzes nach den Zollvorschriften mit den für die Besteuerung maßgeblichen Merkmalen anzumelden. Die Steuererklärung ist in der Zollanmeldung oder nach amtlich vorgeschriebenem Vordruck abzugeben.
 
 ## - Zu § 44 des Gesetzes
 
-##### § 83 Antrag auf Erlaubnis als Erdgasverwender oder als Erdgasverteiler
+###### § 83 Antrag auf Erlaubnis als Erdgasverwender oder als Erdgasverteiler
 
 (1) Die Erlaubnis als Verwender nach § 44 Absatz 1 Satz 2 des Gesetzes und die Erlaubnis als Verteiler nach § 44 Absatz 1 Satz 3 des Gesetzes sind, soweit sie nicht allgemein erteilt sind (§ 84a), bei dem für den Verwender oder den Verteiler zuständigen Hauptzollamt zu beantragen.
 
@@ -1924,17 +1928,17 @@ Erdgas aus Drittländern und Drittgebieten ist in den Fällen des § 41 Absatz 1
 
 (4) Wer als Erlaubnisinhaber verflüssigtes Erdgas steuerfrei aus dem Steuergebiet verbringen oder ausführen will, hat die Erlaubnis nach § 44 Absatz 1a des Gesetzes, soweit sie nicht allgemein erteilt ist (§ 84a), schriftlich bei dem für ihn zuständigen Hauptzollamt zu beantragen.
 
-##### § 84 Erteilung, Überprüfung und Erlöschen der Erlaubnis
+###### § 84 Erteilung, Überprüfung und Erlöschen der Erlaubnis
 
 (1) Das Hauptzollamt erteilt die Erlaubnis nach § 44 Absatz 1 und 1a des Gesetzes schriftlich oder elektronisch (förmliche Einzelerlaubnis) und stellt auf Antrag als Nachweis der Bezugsberechtigung einen Erlaubnisschein aus. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der Abgabenordnung verbunden werden.
 
 (2) Für die Überprüfung und das Erlöschen der Erlaubnis gilt § 54 sinngemäß.
 
-##### § 84a Allgemeine Erlaubnis
+###### § 84a Allgemeine Erlaubnis
 
 Unter Verzicht auf eine förmliche Einzelerlaubnis werden nach Maßgabe der Anlage 1 zu dieser Verordnung die Verwendung von steuerfreiem Erdgas sowie das Verbringen und die Ausfuhr von steuerfreiem Erdgas aus dem Steuergebiet allgemein erlaubt.
 
-##### § 85 Pflichten des Erlaubnisinhabers
+###### § 85 Pflichten des Erlaubnisinhabers
 
 (1) Der Erlaubnisinhaber hat ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
 
@@ -1974,13 +1978,13 @@ Das Hauptzollamt kann Ausnahmen zulassen.
 
 2. die Bestände an verflüssigtem Erdgas amtlich festzustellen sind.
 
-##### § 86 Eigenverbrauch
+###### § 86 Eigenverbrauch
 
 Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes), in denen Energieerzeugnisse steuerfrei nach § 44 Absatz 2 des Gesetzes verwendet werden können, gilt § 59 sinngemäß.
 
 ## - Zu § 46 des Gesetzes
 
-##### § 87 Steuerentlastung beim Verbringen aus dem Steuergebiet
+###### § 87 Steuerentlastung beim Verbringen aus dem Steuergebiet
 
 (1) Die Steuerentlastung nach § 46 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts aus dem Steuergebiet verbracht oder ausgeführt worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -1992,7 +1996,7 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes), in denen
 
 ## - Zu § 47 des Gesetzes
 
-##### § 88 Steuerentlastung bei Aufnahme in Steuerlager
+###### § 88 Steuerentlastung bei Aufnahme in Steuerlager
 
 (1) Die Steuerentlastung nach § 47 Abs. 1 Nr. 1 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts in das Steuerlager aufgenommen worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2000,7 +2004,7 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes), in denen
 
 (3) Der Entlastungsberechtigte hat auf Verlangen des Hauptzollamts über die einzelnen Mengen an versteuerten, nicht gebrauchten Energieerzeugnissen, die in das Steuerlager aufgenommen werden, besondere Aufzeichnungen zu führen.
 
-##### § 89 Steuerentlastung für Kohlenwasserstoffanteile
+###### § 89 Steuerentlastung für Kohlenwasserstoffanteile
 
 (1) Die Steuerentlastung nach § 47 Abs. 1 Nr. 2 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Gemische zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet oder aus denen innerhalb eines Entlastungsabschnitts Energieerzeugnisse im Sinn des § 4 des Gesetzes hergestellt worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2016,7 +2020,7 @@ Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Na
 
 (4) Die Generalzolldirektion kann zur steuerlichen Vereinfachung im Verwaltungswege pauschale Sätze für die in den gasförmigen Gemischen enthaltenen Kohlenwasserstoffanteile festlegen und veröffentlicht das Ergebnis auf www.zoll.de.
 
-##### § 90 Steuerentlastung bei steuerfreien Zwecken
+###### § 90 Steuerentlastung bei steuerfreien Zwecken
 
 (1) Die Steuerentlastung nach § 47 Absatz 1 Nummer 3 und 4 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2026,7 +2030,7 @@ Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Na
 
 (4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Art, die Menge, die Herkunft und der genaue Verwendungszweck der Energieerzeugnisse ergeben müssen. Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig Jahresabschlüsse aufzustellen.
 
-##### § 91 Steuerentlastung für Kohle
+###### § 91 Steuerentlastung für Kohle
 
 (1) Die Steuerentlastung nach § 47 Abs. 1 Nr. 5 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für Kohle zu beantragen, die innerhalb eines Entlastungsabschnitts in den Kohlebetrieb aufgenommen oder verwendet worden ist. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2042,7 +2046,7 @@ Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Na
 
 Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig Jahresabschlüsse aufzustellen.
 
-##### § 91a Steuerentlastung für Erdgas bei Einspeisung
+###### § 91a Steuerentlastung für Erdgas bei Einspeisung
 
 (1) Die Steuerentlastung nach § 47 Absatz 1 Nummer 6 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für Erdgas zu beantragen, das innerhalb eines Entlastungsabschnitts in ein Leitungsnetz für unversteuertes Erdgas eingespeist worden ist. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2052,7 +2056,7 @@ Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Na
 
 ## - Zu § 47a des Gesetzes
 
-##### § 91b Steuerentlastung für den Eigenverbrauch
+###### § 91b Steuerentlastung für den Eigenverbrauch
 
 (1) Die Steuerentlastung nach § 47a des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen (Steueranmeldung). Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2064,7 +2068,7 @@ Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Na
 
 ## - Zu § 48 des Gesetzes
 
-##### § 92 Steuerentlastung bei Spülvorgängen und versehentlichen Vermischungen
+###### § 92 Steuerentlastung bei Spülvorgängen und versehentlichen Vermischungen
 
 (1) Bewilligte Spülvorgänge im Sinne des § 48 Abs. 1 Satz 1 Nr. 1 des Gesetzes sind die vom Hauptzollamt nach § 49 Abs. 1 zugelassenen Vermischungen von leichtem Heizöl und Gasölen der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur.
 
@@ -2076,7 +2080,7 @@ Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Na
 
 ## - Zu § 49 des Gesetzes
 
-##### § 93 Steuerentlastung für zum Verheizen verwendete Energieerzeugnisse
+###### § 93 Steuerentlastung für zum Verheizen verwendete Energieerzeugnisse
 
 (1) Die Steuerentlastung nach § 49 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet oder abgegeben worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2096,11 +2100,11 @@ Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Na
 
 (4) § 107 Abs. 2 gilt im Fall des § 49 Abs. 2 des Gesetzes sinngemäß.
 
-##### § 94 (weggefallen)
+###### § 94 (weggefallen)
 
 ## - Zu § 51 des Gesetzes
 
-##### § 95 Steuerentlastung für bestimmte Prozesse und Verfahren
+###### § 95 Steuerentlastung für bestimmte Prozesse und Verfahren
 
 (1) Die Steuerentlastung nach § 51 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2116,7 +2120,7 @@ Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Na
 
 ## - Zu § 52 des Gesetzes
 
-##### § 96 Steuerentlastung für die Schifffahrt
+###### § 96 Steuerentlastung für die Schifffahrt
 
 (1) Abweichend von § 52 Abs. 1 Satz 2 des Gesetzes wird eine Steuerentlastung auch für nicht gekennzeichnete Energieerzeugnisse der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur gewährt, wenn das Wasserfahrzeug sowohl zu steuerfreien Zwecken nach § 27 Abs. 1 Satz 1 Nr. 1 oder Nr. 2 des Gesetzes als auch zu nicht steuerfreien Zwecken eingesetzt wird oder wenn glaubhaft gemacht wird, dass eine Betankung unvermeidlich war und ordnungsgemäß gekennzeichnete Energieerzeugnisse der Unterpositionen 2710 19 41 bis 2710 19 49 der Kombinierten Nomenklatur kurzfristig nicht verfügbar waren.
 
@@ -2146,7 +2150,7 @@ Das zuständige Hauptzollamt kann auf Antrag unter Auflagen von den Pflichten na
 
 (5) Werden versteuerte Energieerzeugnisse für die Herstellung oder im Rahmen von Instandhaltungsmaßnahmen von Wasserfahrzeugen bezogen, kann das zuständige Hauptzollamt andere als die in Absatz 4 genannten Nachweise zulassen, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Absatz 4 Satz 2 gilt sinngemäß.
 
-##### § 97 Steuerentlastung für die Luftfahrt
+###### § 97 Steuerentlastung für die Luftfahrt
 
 (1) Die Steuerentlastung nach § 52 des Gesetzes für Energieerzeugnisse, die zu den in § 27 Abs. 2 oder Abs. 3 des Gesetzes genannten Zwecken verwendet worden sind, ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle innerhalb eines Entlastungsabschnitts verwendeten Energieerzeugnisse zu beantragen. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2176,7 +2180,7 @@ Das zuständige Hauptzollamt kann auf Antrag unter Auflagen von den Pflichten na
 
 ## - Zu den §§ 53 und 53a des Gesetzes
 
-##### § 98 Steuerentlastung für die Stromerzeugung und die gekoppelte Erzeugung von Kraft und Wärme, Allgemeines
+###### § 98 Steuerentlastung für die Stromerzeugung und die gekoppelte Erzeugung von Kraft und Wärme, Allgemeines
 
 (1) Zur Ermittlung der entlastungsfähigen Mengen sind die zur Stromerzeugung oder zur gekoppelten Erzeugung von Kraft und Wärme eingesetzten Energieerzeugnisse und die weiteren eingesetzten Brennstoffe und Hilfsenergie zu messen. Das zuständige Hauptzollamt kann auf Antrag andere Ermittlungsmethoden zulassen, wenn die steuerlichen Belange nicht beeinträchtigt werden.
 
@@ -2186,7 +2190,7 @@ Das zuständige Hauptzollamt kann auf Antrag unter Auflagen von den Pflichten na
 
 ## - Zu § 53 des Gesetzes
 
-##### § 99 Steuerentlastung für die Stromerzeugung
+###### § 99 Steuerentlastung für die Stromerzeugung
 
 (1) Die Steuerentlastung nach § 53 des Gesetzes ist für jede Anlage (§ 9) bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2200,7 +2204,7 @@ Das zuständige Hauptzollamt kann auf Antrag unter Auflagen von den Pflichten na
 
 ## - Zu § 53a des Gesetzes
 
-##### § 99a Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme
+###### § 99a Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme
 
 (1) Die Steuerentlastung nach § 53a des Gesetzes ist für jede Anlage (§ 9) bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen (Steueranmeldung). Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2228,15 +2232,15 @@ Wird als Entlastungsabschnitt das Kalenderjahr zugrunde gelegt, ist der Jahresnu
 
 (6) Eine Entlastung wird nur für diejenigen Energieerzeugnisse gewährt, die innerhalb des KWK-Prozesses verwendet worden sind. Für Energieerzeugnisse, die in den in § 3 Absatz 4 Satz 2 des Gesetzes genannten technischen Einrichtungen verwendet worden sind, wird keine Steuerentlastung gewährt.
 
-##### § 99b (weggefallen)
+###### § 99b (weggefallen)
 
-##### § 99c (weggefallen)
+###### § 99c (weggefallen)
 
-##### § 99d (weggefallen)
+###### § 99d (weggefallen)
 
 ## - Zu § 54 des Gesetzes
 
-##### § 100 Steuerentlastung für Unternehmen
+###### § 100 Steuerentlastung für Unternehmen
 
 (1) Die Steuerentlastung nach § 54 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird. Abweichend von § 3 Absatz 4 der Verbrauch-und-Luftverkehrsteuerdaten-Übermittlungs-Verordnung vom 14. August 2020 (BGBl. I S. 1960, 1961), die durch Artikel 11 des Gesetzes vom 24. Oktober 2022 (BGBl. I S. 1838) geändert worden ist, ist der Antrag ab 1. Januar 2025 nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung an das zuständige Hauptzollamt zu übermitteln (elektronische Datenübermittlung).
 
@@ -2266,7 +2270,7 @@ b) die Wärmemengen, die durch dieses andere Unternehmen jeweils verwendet worde
 
 Abweichend von Satz 1 sind belegmäßige Nachweise anstelle des buchmäßigen Nachweises ausreichend, wenn die Steuerbelange dadurch nicht beeinträchtigt werden. Satz 2 gilt nicht für Antragsteller, die nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher zu führen und rechtzeitig Jahresabschlüsse aufzustellen.
 
-##### § 100a Verwendung von Wärme durch andere Unternehmen
+###### § 100a Verwendung von Wärme durch andere Unternehmen
 
 (1) Soweit eine Steuerentlastung für die Erzeugung von Wärme, die durch ein anderes Unternehmen des Produzierenden Gewerbes oder der Land- und Forstwirtschaft im Sinn des § 2 Nummer 3 oder Nummer 5 des Stromsteuergesetzes verwendet worden ist, beantragt wird, sind dem Antrag nach § 100 Absatz 1 zusätzlich beizufügen:
 
@@ -2292,11 +2296,11 @@ Die Vorlage einer Selbsterklärung nach Satz 1 Nummer 1 ist nicht erforderlich, 
 
 ## - (weggefallen)
 
-##### § 101 (weggefallen)
+###### § 101 (weggefallen)
 
 ## - Zu § 56 des Gesetzes
 
-##### § 102 Steuerentlastung für den öffentlichen Personennahverkehr, Allgemeines
+###### § 102 Steuerentlastung für den öffentlichen Personennahverkehr, Allgemeines
 
 (1) Die Steuerentlastung nach § 56 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2346,7 +2350,7 @@ Keine notwendigen Fahrten im Sinn des Satzes 1 sind Fahrten
 
 Dabei ist es unerheblich, ob diese Fahrten mit Kraftfahrzeugen oder Schienenfahrzeugen durchgeführt werden. Beförderungen von Personal und Material für unternehmenseigene Zwecke sind insbesondere Fahrten für den Streckenunterhalt und zur Sicherung des Fahrbetriebs.
 
-##### § 102a Steuerentlastung für den öffentlichen Personennahverkehr mit Schienenbahnen
+###### § 102a Steuerentlastung für den öffentlichen Personennahverkehr mit Schienenbahnen
 
 (1) Der erstmalige Antrag auf Steuerentlastung muss – soweit zutreffend – folgende Angaben enthalten:
 
@@ -2376,7 +2380,7 @@ Dabei ist es unerheblich, ob diese Fahrten mit Kraftfahrzeugen oder Schienenfahr
 
 Der nach Satz 1 zu führende buchmäßige Nachweis ist entsprechend dem jeweiligen Entlastungsabschnitt (§ 102 Absatz 2) abzuschließen. Werden betriebliche Aufzeichnungen geführt, die den Nachweis des begünstigten Kraftstoffverbrauchs für jeden Entlastungsabschnitt auf andere Weise erbringen, so können diese Aufzeichnungen auf Antrag vom zuständigen Hauptzollamt als buchmäßiger Nachweis zugelassen werden.
 
-##### § 102b Steuerentlastung für den öffentlichen Personennahverkehr mit Kraftfahrzeugen
+###### § 102b Steuerentlastung für den öffentlichen Personennahverkehr mit Kraftfahrzeugen
 
 (1) Der erstmalige Antrag auf Steuerentlastung muss – soweit zutreffend – folgende Angaben enthalten:
 
@@ -2450,7 +2454,7 @@ Der nach Satz 1 und 2 zu führende buchmäßige Nachweis ist entsprechend dem je
 
 ## - Zu § 57 des Gesetzes
 
-##### § 103 Steuerentlastung für Betriebe der Land- und Forstwirtschaft
+###### § 103 Steuerentlastung für Betriebe der Land- und Forstwirtschaft
 
 (1) Der Antrag nach § 57 des Energiesteuergesetzes ist bei dem für den Betrieb des Antragstellers zuständigen Hauptzollamt zu stellen. Hat der Inhaber eines Betriebs nach § 57 Absatz 2 des Energiesteuergesetzes seinen Wohnsitz nicht im Steuergebiet und führt er im Steuergebiet Arbeiten im Sinne des § 57 Absatz 1 des Energiesteuergesetzes aus, so ist der Antrag bei dem Hauptzollamt zu stellen, das für die Steuerentlastung nach § 57 des Energiesteuergesetzes in der Gemeinde, in der die Arbeiten überwiegend ausgeführt werden, zuständig ist.
 
@@ -2478,7 +2482,7 @@ Bei Folgeanträgen hat der Antragsteller die in Satz 4 genannten Unterlagen ledi
 
 ## - Zu § 58 des Gesetzes
 
-##### § 103a Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)
+###### § 103a Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)
 
 (1) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts geliefert worden sind. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
@@ -2490,7 +2494,7 @@ Bei Folgeanträgen hat der Antragsteller die in Satz 4 genannten Unterlagen ledi
 
 ## - Zu § 58a des Gesetzes
 
-##### § 103b Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik(GSVP)
+###### § 103b Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik(GSVP)
 
 (1) Energieerzeugnisse, die für zivile Missionen im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik bezogen werden, sind nicht entlastungsfähig. Energieerzeugnisse, die für den Gebrauch oder Verbrauch durch Zivilpersonal bezogen werden, sind nur dann entlastungsfähig, wenn sie durch das zivile Begleitpersonal von Streitkräften verwendet werden. Dieses muss Aufgaben ausführen, die unmittelbar mit einer Verteidigungsanstrengung im Rahmen mit der Gemeinsamen Sicherheits- und Verteidigungspolitik außerhalb ihres Mitgliedstaates zusammenhängen. Aufgaben, zu deren Erfüllung ausschließlich Zivilpersonal oder zivile Fähigkeiten eingesetzt werden, sind nicht als Verteidigungsanstrengungen zu betrachten.
 
@@ -2510,7 +2514,7 @@ Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 ## - Zu § 59 des Gesetzes
 
-##### § 104 Steuervergütung für Diplomatenbenzin und -dieselkraftstoff
+###### § 104 Steuervergütung für Diplomatenbenzin und -dieselkraftstoff
 
 (1) Die Steuervergütung nach § 59 des Gesetzes ist bei dem Hauptzollamt, das für den Dienstsitz der ausländischen Vertretung zuständig ist, nach amtlich vorgeschriebenem Vordruck für die innerhalb eines Vergütungsabschnitts bezogenen Mengen an Benzin und Dieselkraftstoff zu beantragen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird. Die Steuervergütung wird nicht gewährt für Benzin und Dieselkraftstoffe, die in Fahrzeugen verwendet worden sind, die für eine ausländische Vertretung oder andere Begünstigte zugelassen, jedoch nicht begünstigten Dritten zur ständigen Benutzung überlassen worden sind. Eine entsprechende Erklärung ist mit jedem Antrag abzugeben.
 
@@ -2530,19 +2534,19 @@ Die unterschriftsberechtigte Person ist in der Regel der Leiter der ausländisch
 
 ## Zu § 66 Abs. 1 Nr. 2 des Gesetzes (weggefallen)
 
-##### § 105 (weggefallen)
+###### § 105 (weggefallen)
 
 ## - (weggefallen)
 
-##### § 105a (weggefallen)
+###### § 105a (weggefallen)
 
 ## - Zu den §§ 61 und 66 Abs. 1 Nr. 16 des Gesetzes
 
-##### § 106 Steueraufsicht, Pflichten
+###### § 106 Steueraufsicht, Pflichten
 
 Wer der Steueraufsicht unterliegt (§ 61 des Gesetzes), hat auf Verlangen des Hauptzollamts über den Bezug, den Vertrieb, den Transport, die Lagerung und die Verwendung von Energieerzeugnissen besondere Aufzeichnungen zu führen, aus denen jeweils Art, Kennzeichnung und Menge der Energieerzeugnisse, der Lieferer, der Empfänger und die Reihenfolge der Lieferungen hervorgehen, wenn diese Angaben aus den betrieblichen Unterlagen nicht ersichtlich sind. Darüber hinaus kann das Hauptzollamt weitere Überwachungsmaßnahmen anordnen, wenn sie zur Sicherung der Steuerbelange erforderlich erscheinen.
 
-##### § 107 Hinweispflichten bei Abgabe von Energieerzeugnissen
+###### § 107 Hinweispflichten bei Abgabe von Energieerzeugnissen
 
 (1) Wer Energieerzeugnisse nach § 1 Abs. 2 Nr. 1, 4, 6 oder § 1 Abs. 3 des Gesetzes, für die die Steuer nach den Steuersätzen des § 2 Abs. 1 des Gesetzes entstanden ist, im Steuergebiet an Dritte abgibt, hat die für den Empfänger bestimmten Belege (Rechnungen, Lieferscheine, Lieferverträge oder dergleichen) mit einem Hinweis zu versehen, dass es sich bei den abgegebenen Waren um Energieerzeugnisse im Sinne des Energiesteuergesetzes handelt.
 
@@ -2554,13 +2558,13 @@ Der Hinweis kann bei der Abgabe von Flüssiggasen in Kleinflaschen oder Kartusch
 
 ## - Zu den §§ 65 und 66 Abs. 1 Nr. 16 des Gesetzes
 
-##### § 108 Kontrollen, Sicherstellung
+###### § 108 Kontrollen, Sicherstellung
 
 In Fahrzeugen mitgeführte oder in Behältern von Antriebsanlagen enthaltene Energieerzeugnisse hat der Fahrzeugführer oder der für den Betrieb der Antriebsanlage Verantwortliche zur Sicherstellung nach § 65 des Gesetzes aus den Behältern abzulassen, wenn die mit der Steueraufsicht betrauten Amtsträger dies verlangen. Über die Sicherstellung ist eine Bescheinigung zu erteilen. Die Amtsträger können die Energieerzeugnisse in den Behältern sicherstellen oder von einer Sicherstellung absehen, wenn ein unverzüglicher Austausch der Energieerzeugnisse den öffentlichen Verkehr stören würde. Sie können auch zulassen, dass der Fahrzeugführer die Energieerzeugnisse bis zum Erreichen der nächsten Gelegenheit zum Ablassen, jedoch längstens 24 Stunden, weiterverwendet. In diesem Fall hat der Fahrzeugführer das Fahrzeug nach dem Ablassen der nicht verwendeten Energieerzeugnisse unverzüglich einer von den Amtsträgern bestimmten Zollstelle zur erneuten Prüfung vorzuführen. Den Rest der Energieerzeugnisse hat der Fahrzeugführer auf Verlangen der Amtsträger bei der Zollstelle oder einer von ihr bestimmten Stelle abzuliefern. Eine zugelassene Weiterverwendung gilt nicht als Verwendung im Sinne des § 21 Abs. 1 Satz 1 des Gesetzes.
 
 ## - Zu § 66 Abs. 1 Nr. 17 des Gesetzes
 
-##### § 109 Vermischungen von versteuerten Energieerzeugnissen
+###### § 109 Vermischungen von versteuerten Energieerzeugnissen
 
 (1) Werden Energieerzeugnisse, die nach verschiedenen Steuersätzen des § 2 Abs. 1 des Gesetzes, auch in Verbindung mit § 2 Abs. 4 des Gesetzes, versteuert worden sind, vor der Abgabe in Haupt- oder Reservebehälter von Motoren miteinander gemischt, entsteht für die niedriger belasteten Anteile eine Steuer, wenn das Gemisch ein Benzin nach § 2 Abs. 1 Nr. 1 oder Nr. 2 des Gesetzes oder ein Kraftstoff nach § 2 Abs. 4 des Gesetzes ist, der nach seiner Beschaffenheit dem Benzin entspricht. Dies gilt nicht für niedriger belastete Anteile, die eine Menge von 300 Litern nicht übersteigen, wenn sie in Transportmitteln, beim Entleeren von Transportmitteln, beim Spülen von Tankstellenbehältern, bei der Herstellung von Zweitaktergemischen oder durch Endverwender vermischt werden.
 
@@ -2597,13 +2601,31 @@ a)für 1 000 l Energieerzeugnisse nach
 
 (5) Wer Energieerzeugnisse nach Absatz 1 Satz 1 mischen will, hat dies dem zuständigen Hauptzollamt drei Wochen vorher schriftlich anzumelden. § 12 Absatz 1 Satz 2 und Absatz 2 sowie die §§ 13 und 15 Absatz 1, 2 und 4 bis 11 gelten sinngemäß.
 
-##### § 109a (weggefallen)
+###### § 109a Zeitlich begrenzte Fassungen einzelner Verordnungsvorschriften
 
-##### § 109b (weggefallen)
+(1) § 109 Absatz 2 Nummer 1 Buchstabe c ist vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1. Oktober 2026 bis zum 31. Dezember 2026 mit der Maßgabe anzuwenden, dass die Steuer für 1 000 l Energieerzeugnisse nach § 2 Absatz 1 Nummer 4 Buchstabe b des Energiesteuergesetzes 339,80 Euro beträgt, falls das Gemisch ein Benzin nach § 2 Absatz 1 Nummer 1 Buchstabe a des Energiesteuergesetzes oder ein entsprechender Kraftstoff nach § 2 Absatz 4 des Energiesteuergesetzes ist.
+
+(2) § 109 Absatz 2 Nummer 2
+
+1. Buchstabe a ist vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1. Oktober 2026 bis zum 31. Dezember 2026 mit der Maßgabe anzuwenden, dass die Steuer für 1 000 l Energieerzeugnisse nach § 2 Absatz 1 Nummer 4 Buchstabe a des Energiesteuergesetzes 28,40 Euro,
+
+2. Buchstabe c ist vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1. Oktober 2026 bis zum 31. Dezember 2026 mit der Maßgabe anzuwenden, dass die Steuer für 1 000 l Energieerzeugnisse nach § 2 Absatz 1 Nummer 6 des Energiesteuergesetzes 28,40 Euro
+
+beträgt, falls das Gemisch ein Benzin nach § 2 Absatz 1 Nummer 1 Buchstabe b des Energiesteuergesetzes oder ein entsprechender Kraftstoff nach § 2 Absatz 4 des Energiesteuergesetzes ist.
+
+(3) § 109 Absatz 2 Nummer 3
+
+1. Buchstabe b ist vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1. Oktober 2026 bis zum 31. Dezember 2026 mit der Maßgabe anzuwenden, dass die Steuer für 1 000 l Energieerzeugnisse nach § 2 Absatz 1 Nummer 1 Buchstabe b des Energiesteuergesetzes 206,90 Euro,
+
+2. Buchstabe e ist vom 1. Mai 2026 bis zum 30. Juni 2026 und vom 1. Oktober 2026 bis zum 31. Dezember 2026 mit der Maßgabe anzuwenden, dass die Steuer für 1 000 l Energieerzeugnisse nach § 2 Absatz 1 Nummer 4 Buchstabe b des Energiesteuergesetzes 391,00 Euro
+
+beträgt, falls das Gemisch ein Benzin nach § 2 Absatz 1 Nummer 2 des Energiesteuergesetzes oder ein entsprechender Kraftstoff nach § 2 Absatz 4 des Energiesteuergesetzes ist.
+
+###### § 109b (weggefallen)
 
 ## - Zu § 66 Abs. 1 Nr. 13 des Gesetzes
 
-##### § 110 Normen
+###### § 110 Normen
 
 Es gelten
 
@@ -2651,7 +2673,7 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 ## - Zu § 156 Absatz 1 der Abgabenordnung
 
-##### § 110a Kleinbetragsregelung
+###### § 110a Kleinbetragsregelung
 
 (1) Eine angemeldete oder festgesetzte Steuer oder Steuerentlastung wird vom zuständigen Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt, wenn die Abweichung von der angemeldeten oder festgesetzten Steuer oder Steuerentlastung mindestens 25 Euro beträgt.
 
@@ -2659,7 +2681,7 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 ## - Zu § 381 Abs. 1 der Abgabenordnung
 
-##### § 111 Ordnungswidrigkeiten
+###### § 111 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 381 Abs. 1 Nr. 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 
@@ -2741,7 +2763,7 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 ## - Schlussbestimmungen
 
-##### § 112 Übergangsregelung
+###### § 112 Übergangsregelung
 
 (1) Für Beförderungen von Energieerzeugnissen des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten mit einem vereinfachten Begleitdokument, die vor dem 13. Februar 2023 begonnen worden sind, gilt diese Verordnung in der am 12. Februar 2023 geltenden Fassung bis zum 31. Dezember 2023 fort.
 
@@ -2751,7 +2773,7 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 (3) Für Anträge auf eine Steuerentlastung nach § 55 des Gesetzes in der am 31. Dezember 2012 geltenden Fassung ist § 101 in der bis zu diesem Zeitpunkt geltenden Fassung weiter anzuwenden.
 
-##### Anlage 1 (zu den §§ 55, 74 und 84a)Verzicht auf förmliche Einzelerlaubnis
+###### Anlage 1 (zu den §§ 55, 74 und 84a)Verzicht auf förmliche Einzelerlaubnis
 
 (Fundstelle: BGBl. I 2011, 1902 - 1904;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -2836,7 +2858,7 @@ b)Verteiler, Verwender
 
 b)Verteiler, Verwender
 
-##### Anlage 2 (zu § 110 Satz 1 Nr. 7)Verfahren zur Bestimmung des Rotfarbstoffgehalts in leichtem Heizöl oder in Gemischen von leichtem Heizöl mit nicht gekennzeichnetem Gasöl mittels Hochdruckflüssigkeitschromatographie (HPLC-Verfahren)
+###### Anlage 2 (zu § 110 Satz 1 Nr. 7)Verfahren zur Bestimmung des Rotfarbstoffgehalts in leichtem Heizöl oder in Gemischen von leichtem Heizöl mit nicht gekennzeichnetem Gasöl mittels Hochdruckflüssigkeitschromatographie (HPLC-Verfahren)
 
 (Fundstelle: BGBl. I 2006, 1796 - 1797; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -2846,15 +2868,15 @@ Wiederholbarkeit
 mg/lVergleichbarkeit
 mg/l0,10,2
 
-##### Anlage 3 (weggefallen)
+###### Anlage 3 (weggefallen)
 
-##### Anlage 4 (zu § 110 Satz 1 Nr. 9) Verfahren zur Bestimmung des Färbeäquivalents von Kennzeichnungsstoffen
+###### Anlage 4 (zu § 110 Satz 1 Nr. 9) Verfahren zur Bestimmung des Färbeäquivalents von Kennzeichnungsstoffen
 
 (Fundstelle: BGBl. I 2006, 1801)
 
 Das Färbeäquivalent von Gemischen der in § 2 Abs. 1 genannten Rotfarbstoffe ist spektralphotometrisch durch Vergleich der Extinktionen in Toluol zu ermitteln. Äquivalenz liegt vor, wenn sich die Extinktionskurve des Farbstoffgemisches und die Extinktionskurve von 5 g N-Ethyl-1-(4-phenylazophenylazo)-naphthyl-2-amin (Standard-Farbstoff) unter gleichen Messbedingungen im Maximum decken.
 
-##### Anlage 5 (zu § 110 Satz 1 Nummer 11)Bestimmung von n-Butylphenylether in Gasöl, Kerosin und steuerlich begünstigten Mineralölen mittels zweidimensionaler Gaschromatographie mit massenselektivem Detektor
+###### Anlage 5 (zu § 110 Satz 1 Nummer 11)Bestimmung von n-Butylphenylether in Gasöl, Kerosin und steuerlich begünstigten Mineralölen mittels zweidimensionaler Gaschromatographie mit massenselektivem Detektor
 
 (Fundstelle: BGBl. 2025 I Nr. 340, 24 – 33)
 
@@ -3009,4 +3031,3 @@ Y' = Verhältnis der Fläche des zu quantifizierenden Ions des BPE (m/z = 94) zu
  ≈ 8.00 mg/lBPE)7,920,171,158,070,220,81Probe 11
  (B7 + BPE from JRC-GEEL
  ≈ 11.70 mg/l BPE)11,650,281,2011,690,250,87 Tabelle 5: Robuster Mittelwert, Wiederhol- und Vergleichbarkeit – mit und ohne ISTD
-
