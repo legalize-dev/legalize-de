@@ -4,28 +4,32 @@ identifier: "NOKBEFABGV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "1993-09-28"
-last_updated: "2026-04-04"
+last_updated: "2026-10-07"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/nokbefabgv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR518500993"
 slug: "nokbefabgv"
 bgbl_reference: "BAnz 1993, Nr 185, 9285"
-stand: "Zuletzt geändert durch Art. 1 V v. 28.6.2023 I Nr. 171"
+stand: "Zuletzt geändert durch Art. 6 V v. 7.9.2026 I Nr. 257"
 ---
 # Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 13 Abs. 2 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 21. Januar 1987 (BGBl. I S. 541) verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium der Finanzen und nach Anhörung der Küstenländer:
 
-##### § 1
+###### § 1
 
 (1) Für Wasserfahrzeuge, die den Nord-Ostsee-Kanal befahren, sind Befahrungsabgaben nach der Anlage 1 zu dieser Verordnung zu entrichten. Die Befahrungsabgaben werden von der Generaldirektion Wasserstraßen und Schifffahrt erhoben und eingezogen.
 
 (2) Die automatischen Einrichtungen für die Abgabenerhebung im Schleusengebiet für Fahrzeuge, die Sport- und Freizeitzwecken dienen (Sportfahrzeuge), werden durch das Wasserstraßen- und Schifffahrtsamt Nord-Ostsee-Kanal betrieben. Diesem obliegt auch die Kontrolle der Zahlungsnachweise für Sportfahrzeuge.
 
-##### § 2
+###### § 2
 
 Zur Zahlung der Befahrungsabgaben sind verpflichtet:
 
@@ -35,7 +39,7 @@ Zur Zahlung der Befahrungsabgaben sind verpflichtet:
 
 Mehrere Zahlungspflichtige haften als Gesamtschuldner.
 
-##### § 3
+###### § 3
 
 (1) Die Zahlungspflicht für die Befahrungsabgaben entsteht mit dem Antritt der Reise durch den Nord-Ostsee-Kanal.
 
@@ -45,11 +49,11 @@ Mehrere Zahlungspflichtige haften als Gesamtschuldner.
 
 (4) Auf Antrag werden zur Abgeltung der Befahrungsabgaben für Sportfahrzeuge, die den Kanal gemäß § 51 Absatz 2 der Seeschifffahrtsstraßenordnung unbeschränkt nutzen dürfen, Pauschalen festgesetzt. Die Pauschale ist vor Antritt der ersten Fahrt zu entrichten. Als Nachweis händigt das zuständige Wasserstraßen- und Schifffahrtsamt der zahlungspflichtigen Person eine aktualisierte Kopie des Fahrtausweises nach § 51 Absatz 2 Seeschifffahrtsstraßenordnung aus.
 
-##### § 4
+###### § 4
 
 Hinsichtlich der Verjährung der Befahrungsabgaben sind die §§ 18 und 19 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154), das zuletzt durch Artikel 2 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3019) geändert worden ist, mit der Maßgabe anzuwenden, dass die Verjährungsfrist drei Jahre beträgt.
 
-##### § 5
+###### § 5
 
 (1) Bei der Bemessung der Befahrensabgaben werden zugrundegelegt:
 
@@ -67,7 +71,7 @@ Hinsichtlich der Verjährung der Befahrungsabgaben sind die §§ 18 und 19 des B
 
 (2) Eine nicht auf volle Euro errechnete Befahrungsabgabe wird auf den nächstliegenden Euro auf- oder abgerundet; 0,50 Euro werden aufgerundet. Für die Abwicklung des bargeldlosen Zahlungsverkehrs kann die Generaldirektion Wasserstraßen und Schifffahrt eine Verwaltungsgebühr in Höhe der dadurch entstandenen Kosten erheben.
 
-##### § 6
+###### § 6
 
 (1) Von der Zahlung der Befahrungsabgaben sind befreit:
 
@@ -81,7 +85,7 @@ Hinsichtlich der Verjährung der Befahrungsabgaben sind die §§ 18 und 19 des B
 
 (2) Weitere Befreiungen und Ermäßigungen kann die Generaldirektion Wasserstraßen und Schifffahrt im Einzelfall zulassen, wenn das öffentliche Interesse es erfordert.
 
-##### § 7
+###### § 7
 
 (1) Für Fahrzeuge im Durchgangsverkehr über 3 000 BRZ, die ausschließlich unter Ballast fahren, ermäßigt sich die Befahrungsabgabe nach Nummer 1.1 des Abgabenverzeichnisses um 30%.
 
@@ -89,11 +93,11 @@ Hinsichtlich der Verjährung der Befahrungsabgaben sind die §§ 18 und 19 des B
 
 (3) Abweichend von Absatz 2 kann bei Vorliegen der Voraussetzungen auf Antrag die Ermäßigung auch nach Ablauf des Kalenderjahres erfolgen. Der Antrag ist bis zum 31. März des folgenden Jahres bei der Generaldirektion Wasserstraßen und Schifffahrt zu stellen.
 
-##### § 8
+###### § 8
 
-§ 1 Satz 1 in Verbindung mit der Anlage ist bis zum 30. Juni 2026 mit der Maßgabe anzuwenden, dass die Befahrungsabgaben nur in Höhe von 50 Prozent der in der Anlage genannten Beträge zu entrichten sind. Dies gilt nur für Fahrzeuge, die der Pflicht zur Annahme eines Bordlotsen gemäß § 6 Absatz 3 der NOK-Lotsverordnung unterliegen.
+§ 1 Satz 1 in Verbindung mit der Anlage ist bis zum 31. Dezember 2030 mit der Maßgabe anzuwenden, dass die Befahrungsabgaben nur in Höhe von 50 Prozent der in der Anlage genannten Beträge zu entrichten sind. Dies gilt nur für Fahrzeuge, die der Pflicht zur Annahme eines Bordlotsen gemäß § 6 Absatz 3 der NOK-Lotsverordnung unterliegen.
 
-##### Anlage 1 (zu § 1 Absatz 1)Befahrungsabgabenverzeichnis
+###### Anlage 1 (zu § 1 Absatz 1)Befahrungsabgabenverzeichnis
 
 (Fundstelle: BGBl. 2023 I Nr. 127, 5 – 10)
 
@@ -117,11 +121,11 @@ Hinsichtlich der Verjährung der Befahrungsabgaben sind die §§ 18 und 19 des B
 
 4. Der Rabatt gemäß § 7 Absatz 2 dieser Verordnung beträgt für Fahrzeuge im Durchgangsverkehr, die innerhalb eines Kalenderjahres durchführen ab 11 bis 20 Fahrten20 %ab 21 bis 40 Fahrten30 %ab 41 bis 60 Fahrten40 %ab 61 Fahrten50 % auf die nach Nummer 1.1 zu zahlenden Befahrungsabgaben. Das Gleiche gilt für Fahrzeuge, die je Fahrt jeweils mindestens 10 durchgehende Teilstrecken befahren. Die Rabatte werden nur gewährt, wenn vorher alle fälligen Befahrungsabgaben beglichen worden sind.
 
-##### Anlage 2 (zu § 7 Absatz 2)Nachweis für die Gewährung von Sofortrabatt
+###### Anlage 2 (zu § 7 Absatz 2)Nachweis für die Gewährung von Sofortrabatt
 
 (Fundstelle: BGBl. 2023 I Nr. 127, 10 – 12)
 
-Der Rabatt gemäß § 7 Absatz 2 der Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal (NOK) beträgt für Fahrzeuge im Durchgangs- und Teilstreckenverkehr
+Der Rabatt gemäß § 7 Absatz 2 der Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal (NOK) beträgt für Fahrzeuge im Durchgangs- und Teilstreckenverkehr 
 
 ab 11 bis 20 Fahrten20 %ab 21 bis 40 Fahrten30 %ab 41 bis 60 Fahrten40 %ab 61 Fahrten50 % auf die zu zahlende Befahrungsabgabe.
 
@@ -137,7 +141,6 @@ IMO-Nummer:
 
 Unterscheidungssignal:
 
-Nation:
+Nation: 
 
 Lfd. Nr.PassagedatumAnmelde-/Rechnungs-Nr.Bestätigung der Anmeldestelle NOK1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.32.33.34.35.36.37.38.39.40.41.42.43.44.45.46.47.48.49.50.51.52.53.54.55.56.57.58.59.60.61.62.63.64.65.66.67.
-
