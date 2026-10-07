@@ -4,19 +4,23 @@ identifier: "SCHBESV-2013"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2013-07-18"
-last_updated: "2026-04-04"
+last_updated: "2026-10-07"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/schbesv_2013/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR257500013"
 slug: "schbesv_2013"
 bgbl_reference: "BGBl I 2013, 2575"
 amtabk: "SchBesV"
-stand: "Zuletzt geändert durch Art. 1 V v. 23.6.2021 I 1849"
+stand: "Zuletzt geändert durch Art. 1 V v. 7.9.2026 I Nr. 257"
 ---
 # Schiffsbesetzungsverordnung
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet auf Grund
 
@@ -24,7 +28,7 @@ Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet auf Grund
 
 – des § 113 Absatz 1 Satz 1 Nummer 2 in Verbindung mit Satz 2 Nummer 1 des Seearbeitsgesetzes vom 23. April 2013 (BGBl. I S. 868) im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-##### § 1 Anwendungsbereich und Begriffsbestimmungen
+###### § 1 Anwendungsbereich und Begriffsbestimmungen
 
 (1) Diese Verordnung gilt für die Besetzung der Kauffahrteischiffe, die die Bundesflagge führen (Schiffe).
 
@@ -38,7 +42,7 @@ Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet auf Grund
 
 Soweit nach dieser Verordnung einem Unionsbürger Rechte oder Pflichten zustehen oder zugewiesen sind oder Vorschriften auf das Erfordernis der Unionsbürgerschaft abstellen, steht ein Staatsangehöriger eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, der nicht Mitgliedstaat der Europäischen Union ist, einem Unionsbürger gleich.
 
-##### § 2 Verpflichtungen des Reeders
+###### § 2 Verpflichtungen des Reeders
 
 (1) Der Reeder hat das Schiff nach Anzahl, Befähigung und Eignung der Besatzungsmitglieder so zu besetzen, dass
 
@@ -64,7 +68,7 @@ Bei der Besetzung des Schiffes sind ferner die betrieblichen Voraussetzungen, in
 
 3. das Schiffsbesatzungszeugnis an Bord mitgeführt wird.
 
-##### § 3 Verpflichtungen des Kapitäns
+###### § 3 Verpflichtungen des Kapitäns
 
 Der Kapitän hat im Rahmen seiner Befugnisse an Bord des Schiffes dafür zu sorgen, dass
 
@@ -80,19 +84,61 @@ b) der Berufsgenossenschaft, der Bundespolizei, der Zollverwaltung und den Wasse
 
 4. ein Abdruck des Schiffsbesatzungszeugnisses an geeigneter Stelle an Bord ausgehängt wird.
 
-##### § 4 Kapitän
+###### § 4 Kapitän
 
-Unabhängig von der Bruttoraumzahl des Schiffes muss der Kapitän Unionsbürger sein.
+(1) Unabhängig von der Bruttoraumzahl des Schiffes muss der Kapitän
 
-##### § 5 Schiffsoffiziere, Schiffsmechaniker, wachbefähigte Besatzungsmitglieder
+1. Unionsbürger sein oder
 
-(1) Auf Schiffen mit einer Bruttoraumzahl von über 500 muss von den Offizieren des nautischen oder technischen Schiffsdienstes mindestens einer Unionsbürger sein. Auf Schiffen mit einer Bruttoraumzahl von über 8 000 muss ein weiterer Schiffsoffizier nach Satz 1 Unionsbürger sein.
+2. Drittstaatsangehöriger sein mit einem Befähigungszeugnis zum Kapitän, das vom Bundesamt für Seeschifffahrt und Hydrographie nach § 29 oder § 33 der Seeleute-Befähigungsverordnung erteilt oder nach § 20 der Seeleute-Befähigungsverordnung anerkannt wurde.
 
-(2) Auf Schiffen mit einer Bruttoraumzahl von über 1 600 und einer Antriebsleistung ab 750 Kilowatt muss ein Schiffsmechaniker nach der See-Berufsausbildungsverordnung in dieser Funktion tätig sein. Schiffsmechanikern nach Satz 1 gleichgestellt sind Auszubildende nach der See-Berufsausbildungsverordnung im zweiten und dritten Ausbildungsjahr.
+(2) Der Reeder darf ein Schiff mit einem Kapitän besetzen, der die Voraussetzungen des Absatzes 1 nicht erfüllt, wenn
 
-(3) Auf Schiffen mit einer Bruttoraumzahl von über 1 600 muss von den wachbefähigten Besatzungsmitgliedern mindestens einer Unionsbürger sein. Auf Schiffen mit einer Bruttoraumzahl von bis zu 3 000 kann der nach Absatz 2 vorgeschriebene Schiffsmechaniker durch ein weiteres wachbefähigtes Besatzungsmitglied nach Satz 1 ersetzt werden.
+1. auf dem inländischen seemännischen Arbeitsmarkt kein Kapitän nach Maßgabe des Absatzes 1 verfügbar ist und
 
-##### § 6 Schiffsarzt, Gesundheits- und Krankenpflegepersonal
+2. er gegenüber der Berufsgenossenschaft versichert, dass er kein Besatzungsmitglied, das die Voraussetzungen des Absatzes 1 erfüllt, zum Kapitän befördern kann und
+
+3. er innerhalb von sechs Monaten nach Erteilung der Genehmigung nach Absatz 4 für jeden Kapitän, der die Voraussetzungen des Absatzes 1 nicht erfüllt, zusätzliche Stellen folgender Art bereitstellt:
+
+a) zwei Ausbildungsplätze aus den nachfolgenden Ausbildungszweigen:
+
+aa) Schiffsmechanikerinnen und Schiffsmechanikern,
+
+bb) nautische Offiziersassistentinnen und Offiziersassistenten,
+
+cc) technische Offiziersassistentinnen und Offiziersassistenten,
+
+dd) elektrotechnische Offiziersassistentinnen und Offiziersassistenten oder
+
+b) zwei Stellen für Schiffsoffiziere, deren erfolgreich absolvierte Berufseingangsprüfung nach § 10 Absatz 1 der Seeleute-Befähigungsverordnung höchstens fünf Jahre zurückliegt (Junioroffiziere), oder
+
+c) einen Ausbildungsplatz nach Buchstabe a und eine Stelle nach Buchstabe b.
+
+(3) Absatz 2 gilt für Reeder mit Schiffen ausschließlich mit einer Bruttoraumzahl von unter 500 mit der Maßgabe, dass nur ein Ausbildungsplatz nach Nummer 3 Buchstabe a oder nur eine Stelle für einen Junioroffizier nach Nummer 3 Buchstabe b bereitgestellt werden muss.
+
+(4) Die Besetzung nach Absatz 2 oder Absatz 3 bedarf der Genehmigung der Berufsgenossenschaft.
+
+(5) Bei Vorliegen der Voraussetzungen des Absatzes 2 oder Absatzes 3 erteilt die Berufsgenossenschaft dem Reeder auf dessen Antrag für einen Zeitraum von höchstens sechs Monaten die Genehmigung, ein oder mehrere Schiffe mit einem oder mehreren Kapitänen, die nicht die Voraussetzungen des Absatzes 1 erfüllen, besetzen zu dürfen.
+
+(6) Auf Antrag des Reeders verlängert die Berufsgenossenschaft die Genehmigung nach Absatz 5 für einen Zeitraum von höchstens 54 weiteren Monaten, wenn
+
+1. die Voraussetzungen des Absatzes 2 oder Absatzes 3 vorliegen und
+
+2. die nach Absatz 2 oder Absatz 3 bereitgestellten Ausbildungsplätze beziehungsweise Stellen für Junioroffiziere dauerhaft besetzt sind.
+
+(7) Die Berufsgenossenschaft kann die Genehmigung widerrufen, wenn nicht mehr alle Voraussetzungen des Absatzes 2 oder Absatzes 3 vorliegen. Im Übrigen bleiben die verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten unberührt. Wird ein Ausbildungsverhältnis nach Absatz 2 Nummer 3 Buchstabe a vorzeitig beendet oder eine Stelle für Jungoffiziere nach Absatz 2 Nummer 3 Buchstabe b nicht mehr besetzt, hat der Reeder unverzüglich die Berufsgenossenschaft zu informieren.
+
+###### § 5 Schiffsoffiziere, Schiffsmechaniker, wachbefähigte Besatzungsmitglieder
+
+(1) Auf Schiffen mit einer Bruttoraumzahl von über 500 muss mindestens einer der Schiffsoffiziere die Voraussetzungen des § 4 Absatz 1 erfüllen. Auf Schiffen mit einer Bruttoraumzahl von über 8 000 müssen mindestens zwei Schiffsoffiziere die Voraussetzungen des § 4 Absatz 1 erfüllen. In den Fällen des § 4 Absatz 1 Nummer 2 tritt an Stelle des Befähigungszeugnisses zum Kapitän das Befähigungszeugnis zum Offizier.
+
+(2) § 4 Absatz 2 Nummer 1 und 3 sowie Absatz 4 bis 7 gilt entsprechend für die Besetzung mit Schiffsoffizieren, die entgegen Absatz 1 nicht die Voraussetzungen des § 4 Absatz 1 erfüllen.
+
+(3) Auf Schiffen mit einer Bruttoraumzahl von über 1 600 und einer Antriebsleistung ab 750 Kilowatt muss ein Schiffsmechaniker nach der See-Berufsausbildungsverordnung in dieser Funktion tätig sein. Schiffsmechanikern nach Satz 1 gleichgestellt sind Auszubildene nach der See-Berufsausbildungsverordnung im zweiten und dritten Ausbildungsjahr.
+
+(4) Auf Schiffen mit einer Bruttoraumzahl von über 1 600 muss von den wachbefähigten Besatzungsmitgliedern mindestens einer Unionsbürger sein. Auf Schiffen mit einer Bruttoraumzahl von bis zu 3 000 kann der nach Absatz 3 vorgeschriebene Schiffsmechaniker durch ein weiteres wachbefähigtes Besatzungsmitglied nach Satz 1 ersetzt werden.
+
+###### § 6 Schiffsarzt, Gesundheits- und Krankenpflegepersonal
 
 (1) Auf Schiffen mit einer Fahrtdauer von mehr als drei Tagen und mit 100 oder mehr Personen an Bord muss ein den seearbeitsrechtlichen Anforderungen entsprechender Schiffsarzt vorhanden sein, der für die ärztliche Betreuung an Bord zuständig ist. Satz 1 gilt nicht, soweit das Schiff ausschließlich über eine Zulassung für die nationale Fahrt verfügt. Im Falle einer Probefahrt gilt Satz 1 unabhängig von der Fahrtdauer.
 
@@ -100,7 +146,7 @@ Unabhängig von der Bruttoraumzahl des Schiffes muss der Kapitän Unionsbürger 
 
 (3) Auf Schiffen mit Schiffsarzt muss ein Gesundheits- und Krankenpfleger oder ein Pflegefachmann oder eine Pflegefachfrau an Bord vorhanden sein. Auf Schiffen mit mehr als 500 Personen müssen zwei, mit mehr als 800 Personen drei und mit mehr als 1 200 Personen vier Gesundheits- und Krankenpfleger oder Pflegefachmänner oder Pflegefachfrauen an Bord vorhanden sein. Bei Probefahrten können sie durch die entsprechende Anzahl von Rettungssanitätern oder Rettungshelfern ersetzt werden.
 
-##### § 7 Schiffskoch
+###### § 7 Schiffskoch
 
 (1) Auf jedem Schiff muss ein Schiffskoch vorhanden und für die Zubereitung von Speisen ausgebildet und qualifiziert sein. Für diese Tätigkeit können Besatzungsmitglieder eingesetzt werden, die
 
@@ -116,7 +162,7 @@ Besatzungsmitglieder unter 18 Jahren dürfen nicht als Schiffskoch eingesetzt we
 
 (2) Auf Schiffen mit weniger als zehn vorgeschriebenen Besatzungsmitgliedern kann der Reeder auf den Einsatz eines Schiffskochs nach Absatz 1 verzichten, wenn das für die Zubereitung von Speisen verantwortliche Besatzungsmitglied eine Ausbildung oder Unterweisung in den Bereichen Nahrungsmittel- und persönliche Hygiene sowie Handhabung und Lagerung von Verpflegung an Bord erhalten hat.
 
-##### § 8 Schiffsbesatzungszeugnis
+###### § 8 Schiffsbesatzungszeugnis
 
 (1) Die Berufsgenossenschaft erteilt auf Antrag des Reeders ein Schiffsbesatzungszeugnis nach dem vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt veröffentlichten Muster, wenn die Voraussetzungen des § 2 Absatz 1 und 2 und der §§ 4 bis 7 vorliegen. Das Schiffsbesatzungszeugnis kann, auch nachträglich, mit Nebenbestimmungen versehen werden. Fischereifahrzeuge im Sinne des § 9b benötigen kein Schiffsbesatzungszeugnis.
 
@@ -124,13 +170,13 @@ Besatzungsmitglieder unter 18 Jahren dürfen nicht als Schiffskoch eingesetzt we
 
 (3) Der Reeder ist verpflichtet, Änderungen der für die Erteilung des Schiffsbesatzungszeugnisses maßgeblichen Voraussetzungen der Berufsgenossenschaft unverzüglich anzuzeigen und ein den geänderten Voraussetzungen entsprechendes Schiffsbesatzungszeugnis zu beantragen. Erteilt die Berufsgenossenschaft in diesem Fall ein neues Schiffsbesatzungszeugnis, so zieht sie das bisherige Schiffsbesatzungszeugnis ein.
 
-##### § 9 Überwachung
+###### § 9 Überwachung
 
 (1) Die Berufsgenossenschaft überwacht die Einhaltung der Vorschriften dieser Verordnung und führt die dazu erforderlichen Überprüfungen durch. Hierbei kann sie sich der Vollzugshilfe der Wasserschutzpolizeien der Länder nach Maßgabe der Vereinbarungen zwischen dem Bund und den Ländern über die Ausübung der schifffahrtspolizeilichen Vollzugsaufgaben sowie der Bundespolizei und der Zollverwaltung bedienen.
 
 (2) Fehlt es an einem gültigen Schiffsbesatzungszeugnis oder ist ein Schiff nicht entsprechend dem Schiffsbesatzungszeugnis besetzt, hat die Berufsgenossenschaft das Auslaufen oder die Weiterfahrt zu verbieten oder nur unter Bedingungen oder Auflagen zu gestatten, durch welche die Sicherheit des Schiffes und der an Bord befindlichen Personen gewährleistet wird. Von einem Auslauf- oder Weiterfahrtverbot, das in Häfen ausgesprochen wird, unterrichtet die Berufsgenossenschaft unverzüglich die zuständige Hafenbehörde.
 
-##### § 9a Gewährleistung eines sicheren Wachdienstes
+###### § 9a Gewährleistung eines sicheren Wachdienstes
 
 (1) Der Reeder und der Kapitän haben dafür zu sorgen, dass alle zum Wachdienst eingeteilten Besatzungsmitglieder die im Internationalen Übereinkommen vom 7. Juli 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (BGBl. 1982 II S. 297, 298) in der jeweils geltenden Fassung (STCW-Übereinkommen) enthaltenen Vorschriften, Grundsätze und Anleitungen kennen und beachten, damit sichergestellt ist, dass jederzeit in einer den herrschenden Umständen und Verhältnissen angemessenen Weise sicher und ohne zeitliche Unterbrechung Wachen gegangen werden.
 
@@ -146,11 +192,11 @@ Besatzungsmitglieder unter 18 Jahren dürfen nicht als Schiffskoch eingesetzt we
 
 Satz 1 Nummer 1 gilt nicht auf Fischereifahrzeugen in der Küstenfischerei und in der Kleinen Hochseefischerei.
 
-##### § 9b Offene oder teilgedeckte Fischereifahrzeuge in der eingeschränkten passiven Küstenfischerei
+###### § 9b Offene oder teilgedeckte Fischereifahrzeuge in der eingeschränkten passiven Küstenfischerei
 
 Im Falle eines offenen oder teilgedeckten Fischereifahrzeug in der eingeschränkten passiven Küstenfischerei, für das ein entsprechendes Sicherheitszeugnis der Berufsgenossenschaft erteilt ist, ist das Fahrzeug den Anforderungen des § 2 Absatz 1 Satz 1 genügend besetzt, wenn der Schiffsführer Inhaber eines gültigen Sportbootführerscheins mit dem Geltungsbereich Seeschifffahrtsstraßen nach § 4 der Sportbootführerscheinverordnung ist und über ein gültiges Seediensttauglichkeitszeugnis für den Decksdienst verfügt.
 
-##### § 10 Ausnahmen
+###### § 10 Ausnahmen
 
 (1) Die Berufsgenossenschaft kann auf Antrag des Reeders für ein bestimmtes Schiff weitere Schiffsbesatzungszeugnisse erteilen, wenn die betrieblichen Voraussetzungen dies rechtfertigen oder erfordern. Im Falle des Satzes 1 gilt § 8 Absatz 3 Satz 2 nicht.
 
@@ -158,7 +204,7 @@ Im Falle eines offenen oder teilgedeckten Fischereifahrzeug in der eingeschränk
 
 (3) In Notfällen kann die Berufsgenossenschaft eine Ausnahmegenehmigung erteilen, nach der abweichend von § 7 Absatz 1 ein anderes Besatzungsmitglied während einer bestimmten begrenzten Zeit bis zum nächsten leicht erreichbaren Anlaufhafen oder längstens in einem Zeitraum von bis zu einem Monat die Aufgaben des Schiffskochs wahrnehmen darf. In diesen Fällen muss das Besatzungsmitglied in den Bereichen Lebensmittelhygiene und persönlicher Hygiene sowie Handhabung und Lagerung von Verpflegung an Bord in dem Umfang ausgebildet oder unterwiesen werden, der für die Wahrnehmung der Aufgaben erforderlich ist.
 
-##### § 11 Ordnungswidrigkeiten
+###### § 11 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -172,18 +218,26 @@ Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 2 des Seeaufgabengesetzes hand
 
 5. einer vollziehbaren Anordnung oder einer vollziehbaren Auflage nach § 9 Absatz 2 Satz 1 zuwiderhandelt.
 
-##### § 12 Übergangsvorschriften, Anwendungsbestimmungen, Evaluierung
+###### § 12 Übergangsvorschriften, Anwendungsbestimmungen, Evaluierung
 
 (1) Die Wirksamkeit eines vor Inkrafttreten dieser Verordnung erteilten Schiffsbesatzungszeugnisses wird durch das Inkrafttreten dieser Verordnung nicht berührt.
 
-(2) Bis zum Ablauf des 30. Juni 2027 ist § 5 in folgender Fassung anzuwenden:§ 5
-SchiffsoffiziereAuf Schiffen mit einer Bruttoraumzahl von über 8 000 muss von den Offizieren des nautischen oder technischen Bereichs mindestens einer Unionsbürger sein.
+(2) Bis zum Ablauf des 30. Juni 2027 ist § 5 in folgender Fassung anzuwenden:
+
+§ 5
+
+Schiffsoffiziere
+
+(1) Auf Schiffen mit einer Bruttoraumzahl von über 8 000 muss von den Offizieren des nautischen oder technischen Bereichs mindestens einer die Voraussetzungen des § 4 Absatz 1 erfüllen. In den Fällen des § 4 Absatz 1 Nummer 2 tritt an Stelle des Befähigungszeugnisses zum Kapitän das Befähigungszeugnis zum Offizier.
+
+(2) § 4 Absatz 2 Nummer 1 und 3 sowie Absatz 4 bis 7 gilt entsprechend für die Besetzung mit Schiffsoffizieren, die entgegen Absatz 1 nicht die Voraussetzungen des § 4 Absatz 1 erfüllen.
 
 (3) § 8 Absatz 1 in der am 25. Juni 2021 geltenden Fassung ist bis zu dem Tag weiter anzuwenden, an dem eine Verordnung zur Änderung der Seeleute-Befähigungsverordnung in Kraft tritt, mit der ein Befähigungszeugnis zum Kapitän nationale Fahrt BRZ 100 (Kapitän NK 100) vorgesehen wird. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt den Tag nach Satz 1 im Bundesgesetzblatt bekannt.
 
-##### § 13 Inkrafttreten, Außerkrafttreten
+(4) Das Bundesministerium für Verkehr evaluiert die Auswirkungen des § 4 Absatz 1 Nummer 2 und Absatz 2 bis 7, des § 5 Absatz 2 sowie des § 12 Absatz 2 auf die Beschäftigung von deutschen Seeleuten und die Ausbildung auf Schiffen unter deutscher Flagge. Der Evaluationszeitraum beginnt am 11. September 2026 und beträgt fünf Jahre.
+
+###### § 13 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. August 2013 in Kraft.
 
 (2) Gleichzeitig tritt die Schiffsbesetzungsverordnung vom 26. August 1998 (BGBl. I S. 2577), die zuletzt durch Artikel 524 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, außer Kraft.
-
