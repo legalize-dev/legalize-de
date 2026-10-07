@@ -4,18 +4,22 @@ identifier: "SEE-BV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2014-05-08"
-last_updated: "2026-04-04"
+last_updated: "2026-10-07"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/see-bv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR046000014"
 slug: "see-bv"
 bgbl_reference: "BGBl I 2014, 460"
-stand: "Zuletzt geändert durch Art. 4 V v. 25.3.2025 I Nr. 100"
+stand: "Zuletzt geändert durch Art. 2 V v. 7.9.2026 I Nr. 257"
 ---
 # Verordnung über die Befähigungen der Seeleute in der Seeschifffahrt
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur verordnet, jeweils in Verbindung mit § 1 Absatz 2 des Zuständigkeitsänderungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310),
 
@@ -23,13 +27,13 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur verordnet, jeweils
 
 – auf Grund des § 12 Absatz 2 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 26. Juli 2002 (BGBl. I S. 2876), der durch Artikel 2 Absatz 163 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, in Verbindung mit § 23 Absatz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-##### Inhaltsübersicht
+###### Inhaltsübersicht
 
 ## Teil 1 Allgemeine Bestimmungen
 
 ## Abschnitt 1 Anwendungsbereich, Begriffsbestimmungen, Zuständigkeiten
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 Diese Verordnung regelt
 
@@ -41,7 +45,7 @@ Diese Verordnung regelt
 
 soweit dies nicht auf Grund anderer Vorschriften besonders geregelt ist.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 (1) „STCW-Übereinkommen“ bedeutet das Internationale Übereinkommen vom 7. Juli 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (BGBl. 1982 II S. 297, 298) in der jeweils geltenden Fassung.
 
@@ -107,7 +111,7 @@ Im Falle des Satzes 1 Nummer 20 verläuft bei Fahrzeugen, die mit Kielfall entwo
 
 (7) Für die Zwecke dieser Verordnung werden zur Bezeichnung der Befähigungszeugnisse und Befähigungsnachweise im nautischen Schiffsdienst, Seefunkdienst, technischen und elektrotechnischen Schiffsdienst, im Gesamtschiffsbetrieb, Schiffssicherheitsdienst und in der Gefahrenabwehr, im Schiffsdienst für besondere Schiffstypen, ausgenommen dem Schiffsdienst auf Fahrgastschiffen, die in Anlage 1 genannten Abkürzungen verwendet.
 
-##### § 3 Zuständigkeiten
+###### § 3 Zuständigkeiten
 
 (1) Das Bundesamt ist im Rahmen dieser Verordnung zuständig
 
@@ -145,13 +149,13 @@ Das Bundesamt kann bei der Überwachung der Durchführung der praktischen Ausbil
 
 Sie untersteht hierbei der Fachaufsicht des Bundesministeriums für Verkehr und digitale Infrastruktur. Die Feststellung und Veröffentlichung nach Nummer 1 bedarf des Einvernehmens des Bundesamtes.
 
-##### § 4 Muster für Bescheinigungen
+###### § 4 Muster für Bescheinigungen
 
 Die Muster der nach dieser Verordnung vorgeschriebenen Befähigungszeugnisse, Befähigungsnachweise, Anerkennungsvermerke und des Nachweises über eine berufliche Tätigkeit in der Seeschifffahrt werden vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt bekannt gemacht.
 
 ## Abschnitt 2 Erwerb und Erteilung von Bescheinigungen
 
-##### § 5 Allgemeine Voraussetzungen für den Erwerb von Bescheinigungen
+###### § 5 Allgemeine Voraussetzungen für den Erwerb von Bescheinigungen
 
 (1) Wer ein Befähigungszeugnis, einen Befähigungsnachweis oder einen Qualifikationsnachweis erwerben will, hat
 
@@ -189,7 +193,7 @@ nachweisen.
 
 (3) Absatz 1 Satz 1 Nummer 1 und 2 ist auf die Erteilung von Anerkennungsvermerken und Gleichwertigkeitsbescheinigungen entsprechend anzuwenden. Für die Erteilung von Seeleute-Ausweisen ist Absatz 1 Satz 1 Nummer 1 entsprechend anzuwenden.
 
-##### § 6 Mindestalter
+###### § 6 Mindestalter
 
 (1) Unbeschadet der Vorschriften des Seearbeitsgesetzes beträgt das Mindestalter von Bewerbern um ein Befähigungszeugnis oder einen Befähigungsnachweis 18 Jahre. Bewerber um ein Befähigungszeugnis zum Kapitän müssen mindestens 20 Jahre alt sein.
 
@@ -215,7 +219,7 @@ Satz 1 gilt entsprechend für den Erwerb eines Seeleute-Ausweises.
 
 (3) In den Fällen des Absatzes 2 können die Befähigungen auch schon vor dem 16. Geburtstag erworben und erforderliche Prüfungen auch vor diesem Zeitpunkt abgelegt werden. Befähigungsnachweise dürfen jedoch erst zu dem in Absatz 2 genannten Zeitpunkt erteilt werden.
 
-##### § 7 Persönliche Eignung
+###### § 7 Persönliche Eignung
 
 (1) Die persönliche Eignung für den Erwerb oder die Gültigkeitsverlängerung eines Befähigungszeugnisses oder Befähigungsnachweises besitzt, wer
 
@@ -251,7 +255,7 @@ b) medizinisch-psychologisches Gutachten
 
 (6) Sind Tatsachen bekannt, die Bedenken gegen das Vorliegen der Seediensttauglichkeit eines Inhabers eines Seediensttauglichkeitszeugnisses begründen, soll das Bundesamt den Seeärztlichen Dienst der Berufsgenossenschaft informieren.
 
-##### § 8 Befristungen
+###### § 8 Befristungen
 
 (1) Befristet erteilt und in der Gültigkeitsdauer verlängert werden
 
@@ -277,7 +281,7 @@ b) medizinisch-psychologisches Gutachten
 
 Die Befristung endet im Falle der Erteilung oder Gültigkeitsverlängerung von Befähigungszeugnissen für den nautischen Schiffsdienst mit dem Datum der Befristung der Erlaubnis für die Ausübung des Seefunkdienstes. Es ist auf das zeitlich erste Ereignis abzustellen. Liegt das Ereignis nicht länger als sechs Monate zurück, ist für den Fristbeginn das Datum der Ausstellung der jeweiligen Bescheinigung maßgeblich.
 
-##### § 9 Einschränkungen
+###### § 9 Einschränkungen
 
 (1) Das Bundesamt erteilt ein Befähigungszeugnis und verlängert dieses in seiner Gültigkeitsdauer mit den sich aus § 13 Absatz 1 des Seearbeitsgesetzes, dieser Verordnung und den sich aus den Regeln der Anlage zum STCW-Übereinkommen ergebenden Einschränkungen, soweit zutreffend, hinsichtlich der Schiffsgröße, der Antriebsleistung, des Fahrtgebietes, der nautischen oder der technischen Ausrüstung.
 
@@ -287,7 +291,7 @@ Die Befristung endet im Falle der Erteilung oder Gültigkeitsverlängerung von B
 
 ## Unterabschnitt 1 Berufseingangsprüfungen für Kapitäne und Schiffsoffiziere
 
-##### § 10 Berufseingangsprüfungen und berufsrechtliche Akkreditierung
+###### § 10 Berufseingangsprüfungen und berufsrechtliche Akkreditierung
 
 (1) Bewerber um ein Befähigungszeugnis
 
@@ -329,7 +333,7 @@ nachweist.
 
 (5) Die berufsrechtliche Akkreditierung kann für die Dauer von höchstens fünf Jahren erteilt werden. Sie kann, auch nachträglich, mit Nebenbestimmungen versehen werden. Die berufsrechtliche Akkreditierung kann verlängert werden, wenn dies mindestens sechs Monate vor Ablauf der Gültigkeitsdauer beantragt wurde und die Voraussetzungen für die berufsrechtliche Akkreditierung weiterhin vorliegen.
 
-##### § 11 Qualitätsnormen für Ausbildung und Prüfungsleistungen
+###### § 11 Qualitätsnormen für Ausbildung und Prüfungsleistungen
 
 (1) Die jeweiligen Anforderungen zur Gewährleistung des Schutzes des menschlichen Lebens auf See und der Meeresumwelt hinsichtlich der Ausbildung und Befähigung nach dem STCW-Übereinkommen gelten für die dem STCW-Übereinkommen entsprechende Erteilung von Befähigungszeugnissen im Sinne des § 2 Absatz 2 des Seeaufgabengesetzes als erfüllt, wenn keine Beanstandungen durch das Bundesamt entgegenstehen und die Einhaltung der folgenden Vorschriften der Anlage zu dem STCW-Übereinkommen gewährleistet ist:
 
@@ -347,7 +351,7 @@ nachweist.
 
 (3) Zur Prüfung der Anforderungen des Absatzes 1 Nummer 1, 2, 4 und 5 und des Absatzes 2 ist dem Bundesamt im Hinblick auf den Erlass und die Änderung von Studien- und Prüfungsordnungen sowie von Lehrplänen Gelegenheit zur Stellungnahme zu gewähren. Es ist befugt, Anmerkungen im Interesse einer vollständigen Umsetzung der jeweiligen Anforderungen des STCW-Übereinkommens abzugeben. Die Anforderungen des Absatzes 1 Nummer 1, 2, 4 und 5 und des Absatzes 2 gelten als erfüllt, wenn sie mit dem Bundesamt abgestimmt sind.
 
-##### § 12 Qualitätssicherung
+###### § 12 Qualitätssicherung
 
 (1) Zusätzlich zu den Anforderungen nach § 11 stellen die nach Landesrecht eingerichteten Ausbildungsstätten sicher, dass in Bezug auf alle Tätigkeiten im Zusammenhang mit der seefahrtbezogenen Ausbildung nach den Vorgaben dieser Verordnung
 
@@ -361,19 +365,19 @@ nachweist.
 
 (3) Dem Bundesamt wird von den nach Landesrecht eingerichteten seefahrtbezogenen Ausbildungsstätten Gelegenheit gegeben, an den Berufseingangsprüfungen als Beobachter teilzunehmen. Vertreter des Bundesamtes dürfen nicht dem Prüfungsausschuss angehören, sollen jedoch das Recht eingeräumt bekommen, Prüfungsfragen anzuregen und in schriftliche Prüfungsleistungen Einsicht zu nehmen. Anregungen des Bundesamtes sind im Rahmen der Umsetzung von Absatz 1 zu berücksichtigen.
 
-##### § 13 (weggefallen)
+###### § 13 (weggefallen)
 
-##### § 14 Aufhebung der Anerkennung als Berufseingangsprüfungen
+###### § 14 Aufhebung der Anerkennung als Berufseingangsprüfungen
 
 Liegen dem Bundesministerium für Verkehr und digitale Infrastruktur oder dem Bundesamt begründete Beanstandungen darüber vor oder wird die Bundesrepublik Deutschland davon unterrichtet, dass ein anderer Staat oder die Internationale Seeschifffahrts-Organisation die Anforderungen der §§ 10 bis 12 nicht für erfüllt halten, so kann die Anerkennung einer Abschlussprüfung als Berufseingangsprüfung aufgehoben werden. Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes gelten entsprechend.
 
 ## Unterabschnitt 2 Zulassung von Lehrgängen
 
-##### § 15 Anforderungen an Lehrgänge
+###### § 15 Anforderungen an Lehrgänge
 
 Lehrgänge im Sinne des § 5 Absatz 1 Satz 1 Nummer 3 Buchstabe b bedürfen der Zulassung. Die Lehrgänge einschließlich vorgeschriebener Prüfungen müssen geeignet sein, für die jeweilige Befähigung die Kenntnisse, das Verständnis und die Fachkunde zu vermitteln und deren Erwerb nachzuweisen.
 
-##### § 16 Zulassung von Lehrgängen
+###### § 16 Zulassung von Lehrgängen
 
 (1) Die Zulassung eines Lehrgangs ist schriftlich oder elektronisch bei der jeweils zuständigen Behörde zu beantragen. Der Antrag muss folgende Angaben enthalten:
 
@@ -409,7 +413,7 @@ d) Darstellung des Verfahrens zur Bewertung der Befähigungen der Teilnehmer ein
 
 Die Anforderungen an die Qualitätssicherung nach § 12 Absatz 1 und 2 gelten entsprechend.
 
-(2) Sofern die eingereichten Unterlagen vollständig und geeignet sind, eine den Anforderungen entsprechende Ausbildung zu belegen, kann für die Dauer von höchstens sechs Monaten eine vorläufige Zulassung erteilt werden. Innerhalb der Laufzeit der vorläufigen Zulassung überprüft die jeweils zuständige Behörde den Lehrgang bei der Ausbildungseinrichtung. Der erste Termin zur Durchführung des vorläufig zugelassenen Lehrgangs wird in Abstimmung mit dem Bundesamt vereinbart. Entspricht er den Anforderungen, wird die Zulassung für die Dauer von höchstens drei Jahren erteilt. Sie kann, auch nachträglich, mit Nebenbestimmungen versehen werden.
+(2) Sofern die eingereichten Unterlagen vollständig und geeignet sind, eine den Anforderungen entsprechende Ausbildung zu belegen, kann für die Dauer von höchstens sechs Monaten eine vorläufige Zulassung erteilt werden. Innerhalb der Laufzeit der vorläufigen Zulassung überprüft die jeweils zuständige Behörde den Lehrgang bei der Ausbildungseinrichtung. Der erste Termin zur Durchführung des vorläufig zugelassenen Lehrgangs ist mit der jeweils zuständigen Behörde zu vereinbaren. Entspricht der Lehrgang den Anforderungen, so wird die Zulassung für die Dauer von höchstens fünf Jahren erteilt. Sie kann, auch nachträglich, mit Nebenbestimmungen versehen werden.
 
 (3) Änderungen zulassungsrelevanter Sachverhalte sind der jeweils zuständigen Behörde unverzüglich anzuzeigen.
 
@@ -425,7 +429,7 @@ erwirkt hat. Die Zulassung ist zu widerrufen, wenn der Anbieter nicht mehr über
 
 (6) Für die Zulassung von Modulen im Rahmen der berufsrechtlichen Akkreditierung nach § 10, die zur Ausstellung von Befähigungsnachweisen, Qualifikationsnachweisen oder Teilnahmebescheinigungen führen sollen, gelten die Absätze 1, 3, 4 und 5 entsprechend. Innerhalb der Laufzeit der Zulassung kann das Bundesamt das Modul bei der nach Landesrecht eingerichteten Ausbildungsstätte überprüfen. Die Dauer der Zulassung des Moduls richtet sich nach der Dauer der zugrundeliegenden berufsrechtlichen Akkreditierung.
 
-##### § 17 Teilnehmerverzeichnis
+###### § 17 Teilnehmerverzeichnis
 
 (1) Der Anbieter hat ein Verzeichnis der Teilnehmer zu führen, die einen Lehrgang innerhalb der letzten sechs Jahre erfolgreich abgeschlossen haben.
 
@@ -443,17 +447,17 @@ aufzunehmen.
 
 ## Unterabschnitt 3 Seefahrtzeiten und Tätigkeiten
 
-##### § 18 Seefahrtzeiten und Schiffe
+###### § 18 Seefahrtzeiten und Schiffe
 
 Seefahrtzeiten müssen geeignet sein, die für die jeweilige Befähigung erforderlichen Kenntnisse, das Verständnis und die Fachkunde zu erwerben und fortlaufend anzuwenden. Sie sind auf Schiffen, die in den Anwendungsbereich des STCW-Übereinkommens nach dessen Artikel III fallen, oder auf Fischereifahrzeugen abzuleisten.
 
-##### § 19 Zugelassene Tätigkeiten
+###### § 19 Zugelassene Tätigkeiten
 
 Tätigkeiten, die als geeignet für den Fortbestand der Befähigung im Sinne des § 53 zugelassen werden sollen, müssen Kenntnisse, Verständnis und Fachkunde erfordern, die dem jeweiligen Befähigungszeugnis zugrunde liegen. Das Bundesamt veröffentlicht eine Liste der zugelassenen Tätigkeiten.
 
 ## Abschnitt 4 Ausländische Zeugnisse und Nachweise
 
-##### § 20 Befähigungszeugnisse und Befähigungsnachweise anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+###### § 20 Befähigungszeugnisse und Befähigungsnachweise anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Ein Befähigungszeugnis im Sinne des Artikels 4 der Richtlinie (EU) 2022/993 des Europäischen Parlaments und des Rates vom 8. Juni 2022 über Mindestanforderungen für die Ausbildung von Seeleuten (ABl. L 169 vom 27.6.2022, S. 45) eines anderen Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum wird auf Antrag vom Bundesamt anerkannt. Satz 1 gilt auch für Befähigungsnachweise zum Kapitän oder Schiffsoffizier auf Tankschiffen nach den Abschnitten A-V/1-1 und A-V/1-2 des STCW-Codes.
 
@@ -465,35 +469,35 @@ Tätigkeiten, die als geeignet für den Fortbestand der Befähigung im Sinne des
 
 (5) Das Bundesamt kann andere als die in Absatz 1 bezeichneten Befähigungszeugnisse und berufliche Bescheinigungen für den Schiffsdienst eines anderen Mitgliedstaates der Europäischen Union oder Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum auf Antrag anerkennen oder Gleichwertigkeitsbescheinigungen ausstellen, wenn nachgewiesen wird, dass der Inhaber des Befähigungszeugnisses über gleichwertige Kenntnisse verfügt, wie sie von dem Inhaber einer vergleichbaren deutschen seemännischen Qualifikation verlangt werden. Ein Anpassungslehrgang oder angemessene berufliche Erfahrungen können im Einzelfall verlangt werden.
 
-##### § 21 Befähigungszeugnisse und Befähigungsnachweise aus Drittstaaten
+###### § 21 Befähigungszeugnisse und Befähigungsnachweise aus Drittstaaten
 
 Ein Befähigungszeugnis aus anderen als den in § 20 bezeichneten Staaten kann auf Antrag anerkannt werden, soweit dies mit dem jeweiligen Drittstaat im Sinne der Regel I/10 Absatz 1.2 der Anlage zum STCW-Übereinkommen vereinbart ist. § 20 Absatz 2 bis 5 ist entsprechend anzuwenden. Satz 1 gilt auch für Befähigungsnachweise zum Kapitän oder Schiffsoffizier auf Tankschiffen nach den Abschnitten A-V/1-1 und A-V/1-2 des STCW-Codes.
 
-##### § 22 Ausländische Befähigungsnachweise, Qualifikationsnachweise
+###### § 22 Ausländische Befähigungsnachweise, Qualifikationsnachweise
 
 Ein Befähigungsnachweis oder ein Qualifikationsnachweis einer Vertragspartei des STCW-Übereinkommens gilt als der entsprechende Befähigungsnachweis oder Qualifikationsnachweis nach dieser Verordnung, ohne dass es eines Verfahrens nach § 20 oder § 21 bedarf. Satz 1 gilt nicht für Befähigungsnachweise zum Kapitän oder Schiffsoffizier auf Tankschiffen nach den Abschnitten A-V/1-1 und A-V/1-2 des STCW-Codes.
 
 ## Abschnitt 5 Sonstige allgemeine Bestimmungen
 
-##### § 23 Täuschungen und sonstige rechtswidrige Praktiken im Zusammenhang mit Bescheinigungen
+###### § 23 Täuschungen und sonstige rechtswidrige Praktiken im Zusammenhang mit Bescheinigungen
 
 Das Bundesamt wird im Rahmen der Führung des Seeleute-Befähigungs-Verzeichnisses nach § 9f des Seeaufgabengesetzes als zuständige Stelle im Sinne des Artikels 9 der Richtlinie (EU) 2022/993 tätig. Ihm obliegen die für die Aufdeckung und Bekämpfung von Täuschungen oder sonstigen rechtswidrigen Praktiken im Zusammenhang mit der Erteilung und Gültigkeitsverlängerung von Bescheinigungen erforderlichen Maßnahmen. Dies umfasst auch den Informationsaustausch mit den zuständigen ausländischen Stellen im Sinne des Artikels 9 Absatz 2 der Richtlinie (EU) 2022/993 unter Beachtung der Vorschriften des § 9f Absatz 4 und 5 des Seeaufgabengesetzes.
 
-##### § 24 Genehmigungen bei Abweichungen vom Ausbildungsgang und dem Erwerb von Bescheinigungen
+###### § 24 Genehmigungen bei Abweichungen vom Ausbildungsgang und dem Erwerb von Bescheinigungen
 
 (1) Das Bundesamt kann Abweichungen von den Vorschriften im Hinblick auf den Erwerb von Befähigungszeugnissen und Befähigungsnachweisen auf Antrag genehmigen, wenn durch andere Ausbildungen und Tätigkeiten, insbesondere in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, des Fischereischutzes und der Seefischereiaufsicht des Bundes, der Bundeswehr, der Bundespolizei und bei den Wasserschutzpolizeien der Länder, Befähigungen erworben worden sind, die den Bestimmungen dieser Verordnung entsprechen. Diese Regelung ist in Fällen des § 43 Absatz 2 Nummer 1 nicht anzuwenden.
 
 (2) In Verbindung mit dem Erwerb von Befähigungszeugnissen für Kapitäne und Offiziere muss die Teilnahme an einer Berufseingangsprüfung nachgewiesen werden. Für den Erwerb von Befähigungszeugnissen für den Dienst auf Führungsebene im Rahmen der in Absatz 1 Satz 1 genannten Tätigkeiten sind Seefahrtzeiten mit einem gültigen Befähigungszeugnis nach dieser Verordnung in entsprechender Dienststellung nachzuweisen, ausgenommen sind Anerkennungen von Abweichungen, die unter eigens für den Zweck des Absatzes 1 Satz 1 getroffene Vereinbarungen zwischen dem Bundesamt und dort genannten Institutionen fallen.
 
-##### § 25 Ausnahmegenehmigungen
+###### § 25 Ausnahmegenehmigungen
 
 Das Bundesamt kann, wenn Personen, Sachwerte und die Umwelt nicht gefährdet werden, auf Antrag eine Ausnahme nach Maßgabe des Artikels VIII des STCW-Übereinkommens oder des Artikels 17 der Richtlinie (EU) 2022/993 genehmigen, die es einem bestimmten Schiffsoffizier gestattet, auf einem bestimmten Kauffahrteischiff, das die Bundesflagge führt, während einer bestimmten Zeit, längstens für sechs Monate, Aufgaben wahrzunehmen, für die kein entsprechendes Befähigungszeugnis vorhanden ist. Für die Aufgaben des Kapitäns oder des Leiters der Maschinenanlage darf keine Ausnahme genehmigt werden, ausgenommen in Fällen höherer Gewalt, und auch dann nur für möglichst kurze Zeit.
 
-##### § 26 Mitführungspflicht
+###### § 26 Mitführungspflicht
 
 Inhaber von Bescheinigungen sind verpflichtet, diese in Urschrift oder als ein in der Beweiskraft dieser Urschrift gleichgestelltes elektronisches Dokument an Bord mitzuführen, soweit die Bescheinigungen für die zugewiesenen Aufgaben maßgeblich sind.
 
-##### § 27 Ersatzausstellungen, inhaltsgleiche Bescheinigungen und Umtausch
+###### § 27 Ersatzausstellungen, inhaltsgleiche Bescheinigungen und Umtausch
 
 (1) Wer den Verlust oder die Unbrauchbarkeit einer ihm nach dieser Verordnung erteilten Bescheinigung oder eine Namensänderung glaubhaft macht, erhält auf Antrag eine Ersatzausfertigung.
 
@@ -507,7 +511,7 @@ Inhaber von Bescheinigungen sind verpflichtet, diese in Urschrift oder als ein i
 
 ## Abschnitt 1 Nautischer Schiffsdienst ausgenommen Fischereifahrzeuge
 
-##### § 28 Anforderungen an Seefahrtzeiten
+###### § 28 Anforderungen an Seefahrtzeiten
 
 (1) Seefahrtzeiten sind für den Erwerb der Befähigungszeugnisse nach § 29 Absatz 1 auf Kauffahrteischiffen mit einer Bruttoraumzahl von 500 oder mehr oder auf Kauffahrteischiffen außerhalb der küstennahen Fahrt abzuleisten.
 
@@ -519,7 +523,7 @@ Inhaber von Bescheinigungen sind verpflichtet, diese in Urschrift oder als ein i
 
 (5) Die Absätze 1 bis 4 gelten für den Nachweis des Fortbestandes der beruflichen Befähigung nach § 53 entsprechend.
 
-##### § 29 Befähigungszeugnisse und Befähigungsnachweise
+###### § 29 Befähigungszeugnisse und Befähigungsnachweise
 
 (1) Für den nautischen Schiffsdienst werden auf Antrag Befähigungszeugnisse erteilt über die Befähigung zum
 
@@ -551,7 +555,7 @@ wird auf Antrag das Befähigungszeugnis zum Kapitän NK 100 im Sinne der Regel I
 
 2. Befähigung zum Vollmatrosen im Decksbereich NVM.
 
-##### § 30 Voraussetzungen für den Erwerb der Befähigungszeugnisse
+###### § 30 Voraussetzungen für den Erwerb der Befähigungszeugnisse
 
 (1) Für den Erwerb des Zeugnisses über die Befähigung zum Nautischen Wachoffizier NWO hat der Bewerber
 
@@ -599,7 +603,7 @@ nachzuweisen. Der Bewerber hat in den Fällen des Satzes 1 Nummer 1 Buchstabe b 
 
 nachzuweisen.
 
-##### § 31 Voraussetzungen für den Erwerb der Befähigungsnachweise
+###### § 31 Voraussetzungen für den Erwerb der Befähigungsnachweise
 
 (1) Für den Erwerb des Befähigungsnachweises Wachbefähigung Brücke NWB hat der Bewerber nachzuweisen
 
@@ -621,11 +625,11 @@ Die Seefahrtzeit und Ausbildung nach Satz 1 Nummer 1 muss sich auf die Aufgaben 
 
 ## Abschnitt 2 Nautischer Schiffsdienst auf Fischereifahrzeugen
 
-##### § 32 Anforderungen an Seefahrtzeiten
+###### § 32 Anforderungen an Seefahrtzeiten
 
 Seefahrtzeiten im Sinne dieses Abschnittes müssen auf Fischereifahrzeugen von mindestens zwölf Metern Länge abgeleistet werden. Satz 1 gilt nicht für den Erwerb des Befähigungszeugnisses zum Kapitän BKü.
 
-##### § 33 Befähigungszeugnisse
+###### § 33 Befähigungszeugnisse
 
 (1) Für den nautischen Schiffsdienst auf Fischereifahrzeugen von 24 oder mehr Metern Länge werden auf Antrag erteilt
 
@@ -647,7 +651,7 @@ b) Nautischer Wachoffizier BKW mit der Befugnis zum Wachoffizier in der Kleinen 
 
 (4) Ein Inhaber des Befähigungszeugnisses zum Kapitän BKü, der seine Abschlussprüfung an einer nach Landesrecht eingerichteten Ausbildungsstätten bestanden hat und dessen Zeugnis über die Abschlussprüfung mindestens ausreichende Leistungen in der Schiffsbetriebstechnik aufweist, erhält auf Antrag folgenden Zusatz auf dem Befähigungszeugnis BKü: „Berechtigt auch zum Leiten von Antriebsanlagen mit einer Leistung bis einschließlich 300 Kilowatt auf Fischereifahrzeugen in der Küstenfischerei“.
 
-##### § 34 Voraussetzungen für den Erwerb der Befähigungszeugnisse
+###### § 34 Voraussetzungen für den Erwerb der Befähigungszeugnisse
 
 (1) Für den Erwerb des Zeugnisses über die Befähigung zum Nautischen Wachoffizier BGW hat der Bewerber nachzuweisen
 
@@ -671,7 +675,7 @@ nach den Anforderungen der Anlage 5 an einer nach Landesrecht eingerichteten Aus
 
 ## Abschnitt 3 Seefunkdienst
 
-##### § 35 Befähigungszeugnisse zum GMDSS-Funker
+###### § 35 Befähigungszeugnisse zum GMDSS-Funker
 
 Für die Ausübung des Seefunkdienstes bei Seefunkstellen auf Kauffahrteischiffen, die am Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS) teilnehmen, werden nach Maßgabe des Abschnittes A-IV/2 des STCW-Codes auf Antrag als Befähigungszeugnisse über die Befähigung zum GMDSS-Funker erteilt
 
@@ -679,13 +683,13 @@ Für die Ausübung des Seefunkdienstes bei Seefunkstellen auf Kauffahrteischiffe
 
 2. das Beschränkt gültige Betriebszeugnis ROC für die Ausübung des Seefunkdienstes bei Sprech-Seefunkstellen für UKW und Funkeinrichtungen des GMDSS für UKW.
 
-##### § 36 Voraussetzungen für den Erwerb der Befähigungszeugnisse zum GMDSS-Funker
+###### § 36 Voraussetzungen für den Erwerb der Befähigungszeugnisse zum GMDSS-Funker
 
 Für den Erwerb des Befähigungszeugnisses zum GMDSS-Funker hat der Bewerber den Abschluss eines nautischen Ausbildungsganges nach Maßgabe der §§ 30 oder 34 an nach Landesrecht eingerichteten Ausbildungsstätten nachzuweisen. Die Anforderungen nach Satz 1 können gleichfalls durch die erfolgreiche Teilnahme an einem zugelassenen Lehrgang nach den Anforderungen des Abschnittes A-IV/2 des STCW-Codes nachgewiesen werden.
 
 ## Teil 3 Befähigungen für den technischen Bereich
 
-##### § 37 Anforderungen an Seefahrtzeiten
+###### § 37 Anforderungen an Seefahrtzeiten
 
 (1) Seefahrtzeiten im Sinne dieses Teils sind auf Kauffahrteischiffen mit einer Antriebsleistung von 750 Kilowatt oder mehr abzuleisten.
 
@@ -695,7 +699,7 @@ Für den Erwerb des Befähigungszeugnisses zum GMDSS-Funker hat der Bewerber den
 
 ## Abschnitt 1 Technischer Schiffsdienst
 
-##### § 38 Befähigungszeugnisse und Befähigungsnachweise
+###### § 38 Befähigungszeugnisse und Befähigungsnachweise
 
 (1) Für den technischen Schiffsdienst in einem besetzten Maschinenraum oder im Bereitschaftsdienst in zeitweise unbesetzten Maschinenräumen für Antriebsanlagen jeder Leistung werden auf Antrag Befähigungszeugnisse erteilt über die Befähigung zum
 
@@ -715,7 +719,7 @@ Das Befähigungszeugnis zum Zweiten technischen Schiffsoffizier schließt die Be
 
 2. Befähigung zum Vollmatrosen im Maschinenbereich TVM.
 
-##### § 39 Voraussetzungen für den Erwerb der Befähigungszeugnisse
+###### § 39 Voraussetzungen für den Erwerb der Befähigungszeugnisse
 
 (1) Für den Erwerb des Zeugnisses über die Befähigung zum Technischen Wachoffizier TWO hat der Bewerber
 
@@ -753,7 +757,7 @@ d) Besitz des Zeugnisses über die Abschlussprüfung zum berufsqualifizierenden 
 
 2. den Abschluss einer Ausbildung nach den Anforderungen der Anlage 7 von in der Regel einem halben Schulhalbjahr an einer nach Landesrecht eingerichteten Ausbildungsstätte.
 
-##### § 40 Voraussetzungen für den Erwerb der Befähigungsnachweise
+###### § 40 Voraussetzungen für den Erwerb der Befähigungsnachweise
 
 (1) Für den Erwerb des Befähigungsnachweises Wachbefähigung Maschine TWB hat der Bewerber nachzuweisen
 
@@ -775,11 +779,11 @@ Die Seefahrtzeit und Ausbildung nach Satz 1 müssen sich auf die Aufgaben im Mas
 
 ## Abschnitt 2 Elektrotechnischer Schiffsdienst
 
-##### § 41 Befähigungszeugnis und Befähigungsnachweis
+###### § 41 Befähigungszeugnis und Befähigungsnachweis
 
 Für den elektrotechnischen Schiffsdienst auf Schiffen mit einer Antriebsleistung von 750 Kilowatt oder mehr werden auf Antrag das Befähigungszeugnis über die Befähigung zum Elektrotechnischen Schiffsoffizier ETO und der Befähigungsnachweis über die Befähigung zum Schiffselektriker ESE erteilt.
 
-##### § 42 Voraussetzungen für den Erwerb des Befähigungszeugnisses und Befähigungsnachweises
+###### § 42 Voraussetzungen für den Erwerb des Befähigungszeugnisses und Befähigungsnachweises
 
 (1) Für den Erwerb des Zeugnisses über die Befähigung zum Elektrotechnischen Schiffsoffizier ETO hat der Bewerber
 
@@ -813,7 +817,7 @@ nachzuweisen.
 
 ## Teil 4 Befähigungen im Gesamtschiffsbetrieb
 
-##### § 43 Befähigungsnachweis zum Schiffsmechaniker
+###### § 43 Befähigungsnachweis zum Schiffsmechaniker
 
 (1) Für den Schiffsdienst auf der Unterstützungsebene im Gesamtschiffsbetrieb wird nach Maßgabe des Abschnittes A-VII/2 in Verbindung mit Abschnitt A-II/5 und Abschnitt A-III/5 des STCW-Codes auf Antrag der Befähigungsnachweis über die Befähigung zum Schiffsmechaniker GSM nach der See-Berufsausbildungsverordnung erteilt.
 
@@ -831,7 +835,7 @@ nachzuweisen.
 
 ## Teil 5 Befähigungen im Schiffssicherheitsdienst und in der Gefahrenabwehr
 
-##### § 44 Befähigungsnachweis hinsichtlich der grundlegenden Anforderungen an die Sicherheit an Bord (Sicherheitsgrundausbildung)
+###### § 44 Befähigungsnachweis hinsichtlich der grundlegenden Anforderungen an die Sicherheit an Bord (Sicherheitsgrundausbildung)
 
 (1) Für Seeleute, die in irgendeiner Funktion an Bord des Schiffes als Teil der Schiffsbesatzung im Rahmen der Betriebsführung des Schiffes dauernd oder vorübergehend mit zugewiesenen Aufgaben in den Bereichen Sicherheit oder Verschmutzungsverhütung beschäftigt sind, wird auf Antrag der Befähigungsnachweis über eine Sicherheitsgrundausbildung SGA erteilt. Unbeschadet der Verpflichtung des Kapitäns nach § 23 des Seearbeitsgesetzes zur Sicherheitsunterweisung für alle Personen an Bord, die keine Fahrgäste sind, muss ein Besatzungsmitglied, dem Aufgaben im Hinblick auf die Gewährleistung der Schiffssicherheit und der Verhinderung von Umweltverschmutzung an Bord zugewiesen werden sollen, Inhaber des Befähigungsnachweises über den Abschluss der Sicherheitsgrundausbildung sein.
 
@@ -847,7 +851,7 @@ nachzuweisen.
 
 (3) Für den Dienst auf Fischereifahrzeugen kann auf Antrag für Inhaber eines Befähigungszeugnisses nach § 33 ein Befähigungsnachweis nach Absatz 1 ohne Bezugnahme auf die Regel VI/1 der Anlage zum STCW-Übereinkommen erteilt werden.
 
-##### § 45 Befähigungsnachweise zum Führen von Überlebensfahrzeugen und Bereitschaftsbooten sowie schnellen Bereitschaftsbooten
+###### § 45 Befähigungsnachweise zum Führen von Überlebensfahrzeugen und Bereitschaftsbooten sowie schnellen Bereitschaftsbooten
 
 (1) Für den Schiffsdienst auf Überlebensfahrzeugen und Bereitschaftsbooten wird auf Antrag der Befähigungsnachweis über die Befähigung zum Führen von Überlebensfahrzeugen und Bereitschaftsbooten SÜB erteilt.
 
@@ -867,13 +871,13 @@ Die Ausbildung nach Satz 1 Nummer 2 muss auch die Fachkunde im sicheren Umgang m
 
 2. die Teilnahme an einem zugelassenen Lehrgang nach den Anforderungen des Abschnittes A-VI/2 Absatz 7 bis 10 des STCW-Codes.
 
-##### § 46 Befähigungsnachweis zur Leitung von Brandbekämpfungsmaßnahmen
+###### § 46 Befähigungsnachweis zur Leitung von Brandbekämpfungsmaßnahmen
 
 (1) Auf Antrag wird der Befähigungsnachweis zur Leitung von Brandbekämpfungsmaßnahmen SLB erteilt.
 
 (2) Für den Erwerb des Befähigungsnachweises nach Absatz 1 hat der Bewerber den Abschluss eines zugelassenen Lehrgangs nach den Anforderungen des Abschnittes A-VI/3 Absatz 1 bis 4 des STCW-Codes unter besonderer Berücksichtigung von Organisation, Planung und Taktik bei der Durchführung von Brandbekämpfungsmaßnahmen nachzuweisen.
 
-##### § 47 Befähigungsnachweis von Beauftragten für die Gefahrenabwehr auf dem Schiff (Gefahrenabwehrbeauftragter)
+###### § 47 Befähigungsnachweis von Beauftragten für die Gefahrenabwehr auf dem Schiff (Gefahrenabwehrbeauftragter)
 
 Für den Dienst als Beauftragter für die Gefahrenabwehr auf dem Schiff wird auf Antrag der Befähigungsnachweis Gefahrenabwehrbeauftragter SSO erteilt. Für den Erwerb des Befähigungsnachweises nach Satz 1 hat der Bewerber nachzuweisen
 
@@ -883,7 +887,7 @@ Für den Dienst als Beauftragter für die Gefahrenabwehr auf dem Schiff wird auf
 
 3. den Abschluss eines zugelassenen Lehrgangs nach den Anforderungen des Abschnittes A-VI/5 des STCW-Codes.
 
-##### § 48 Befähigungsnachweise für Besatzungsmitglieder in der Gefahrenabwehr auf dem Schiff (Grundausbildung in der Gefahrenabwehr)
+###### § 48 Befähigungsnachweise für Besatzungsmitglieder in der Gefahrenabwehr auf dem Schiff (Grundausbildung in der Gefahrenabwehr)
 
 (1) Für Seeleute wird auf Antrag der Befähigungsnachweis über eine Grundausbildung in der Gefahrenabwehr auf dem Schiff SRT erteilt. Unbeschadet der Verpflichtung des Kapitäns nach § 23 des Seearbeitsgesetzes zur Sicherheitsunterweisung müssen alle Personen, die keine Fahrgäste sind, eine Einführungsunterweisung an Bord nach Abschnitt A-VI/6 Absatz 1 des STCW-Codes durch den Beauftragten für die Gefahrenabwehr auf dem Schiff oder ein anderes qualifiziertes Besatzungsmitglied erhalten, damit sie befähigt sind,
 
@@ -903,7 +907,7 @@ Für den Dienst als Beauftragter für die Gefahrenabwehr auf dem Schiff wird auf
 
 ## Abschnitt 1 Befähigungen für den Schiffsdienst auf Tankschiffen
 
-##### § 49 Befähigungsnachweise für den Schiffsdienst auf Öltankschiffen und Chemikalientankschiffen
+###### § 49 Befähigungsnachweise für den Schiffsdienst auf Öltankschiffen und Chemikalientankschiffen
 
 (1) Für Schiffsoffiziere und andere Besatzungsmitglieder, denen spezifische Aufgaben und Verantwortlichkeiten im Zusammenhang mit der Ladung oder den Ladungseinrichtungen auf Öltankschiffen und Chemikalientankschiffen zugewiesen sind, wird auf Antrag der Befähigungsnachweis über eine Grundausbildung im Umschlag der Ladung von Öltankschiffen und Chemikalientankschiffen ÖL-CHEM-G erteilt.
 
@@ -937,7 +941,7 @@ b) den Abschluss einer vom Bundesamt zugelassenen verkürzten Ausbildung als üb
 
 2. den Abschluss eines zugelassenen Lehrgangs CHEM-F nach den Anforderungen des Abschnitts A-V/1-1 Absatz 3 des STCW-Codes.
 
-##### § 50 Befähigungsnachweise für den Schiffsdienst auf Flüssiggastankschiffen
+###### § 50 Befähigungsnachweise für den Schiffsdienst auf Flüssiggastankschiffen
 
 (1) Für Schiffsoffiziere und andere Besatzungsmitglieder, denen spezifische Aufgaben und Verantwortlichkeiten im Zusammenhang mit der Ladung oder den Ladungseinrichtungen auf Flüssiggastankschiffen zugewiesen sind, wird auf Antrag der Befähigungsnachweis über eine Grundausbildung im Umschlag der Ladung von Flüssiggastankschiffen GAS-G erteilt.
 
@@ -961,7 +965,7 @@ b) den Abschluss einer vom Bundesamt zugelassenen verkürzten Ausbildung als üb
 
 ## Abschnitt 2 Befähigungen für den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen
 
-##### § 50a Befähigungsnachweise für den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen
+###### § 50a Befähigungsnachweise für den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen
 
 (1) Für Kapitäne, Schiffsoffiziere und jedes weitere Besatzungsmitglied, die für spezifische Sicherheitsaufgaben im Zusammenhang mit der sorgfältigen Behandlung und der Verwendung von Brennstoffen sowie mit den diesbezüglichen Notfallmaßnahmen an Bord von Schiffen, die dem IGF-Code unterliegen, verantwortlich sind, wird auf Antrag der Befähigungsnachweis über eine Grundausbildung für den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen, IGF-G erteilt.
 
@@ -997,7 +1001,7 @@ nachzuweisen.
 
 ## Abschnitt 3 Befähigungen für den Schiffsdienst auf Schiffen, die in Polargewässern verkehren
 
-##### § 50b Befähigungsnachweise für den Schiffsdienst auf Schiffen, die in Polargewässern verkehren
+###### § 50b Befähigungsnachweise für den Schiffsdienst auf Schiffen, die in Polargewässern verkehren
 
 (1) Für Kapitäne und nautische Schiffsoffiziere, die im Wachdienst auf Schiffen, die in Polargewässern verkehren, eingesetzt sind, wird auf Antrag der Befähigungsnachweis über eine Grundausbildung für den Schiffsdienst auf Schiffen, die in Polargewässern verkehren, PLR-G erteilt.
 
@@ -1015,7 +1019,7 @@ nachzuweisen.
 
 ## Abschnitt 4 Befähigungen für den Schiffsdienst auf Fahrgastschiffen
 
-##### § 51 Qualifikationsnachweise für den Schiffsdienst auf Fahrgastschiffen
+###### § 51 Qualifikationsnachweise für den Schiffsdienst auf Fahrgastschiffen
 
 (1) Für jedes Besatzungsmitglied eines Fahrgastschiffes, das Fahrgästen in Fahrgasträumen unmittelbare Dienste leistet, wird der Qualifikationsnachweis über die Befähigung über eine Fahrgastsicherheitsausbildung nach den Anforderungen von Abschnitt A-V/2 Absatz 2 des STCW-Codes erteilt. Unbeschadet der Verpflichtung des Kapitäns nach § 23 des Seearbeitsgesetzes zur Sicherheitsunterweisung müssen alle Mitglieder des Personals eines Fahrgastschiffes eine Einführungsunterweisung an Bord nach Abschnitt A-V/2 Absatz 1 des STCW-Codes erhalten, damit sie befähigt sind, einen persönlichen Beitrag zur Umsetzung von Notfallplänen, Anweisungen für den Notfall und Notfallverfahren sowie zu einer wirksamen Verständigung mit den Fahrgästen in einer Notfallsituation zu leisten.
 
@@ -1031,7 +1035,7 @@ nachzuweisen.
 
 ## Teil 7 Aufrechterhaltung der Befähigung
 
-##### § 52 Allgemeine Voraussetzungen für die Gültigkeitsverlängerung von Bescheinigungen
+###### § 52 Allgemeine Voraussetzungen für die Gültigkeitsverlängerung von Bescheinigungen
 
 (1) Die Gültigkeitsdauer einer befristeten Bescheinigung kann auf Antrag verlängert werden. Zur Verlängerung der Gültigkeitsdauer wird eine neue Bescheinigung ausgestellt. Die Verlängerung der Gültigkeitsdauer von Bescheinigungen setzt voraus, dass der Bewerber seine Identität und seine persönliche Eignung nach § 7 nachweist sowie einen gültigen Befähigungsnachweis nach § 44 erbringt. Der Nachweis nach § 44 ist nicht erforderlich für die Verlängerung der Gültigkeitsdauer eines Befähigungszeugnisses für GMDSS-Funker oder eines Befähigungsnachweises für den Schiffsdienst auf Schiffen, die in Polargewässern verkehren.
 
@@ -1041,7 +1045,7 @@ nachzuweisen.
 
 2. Befähigungsnachweise für den nautischen, technischen und elektrotechnischen Schiffsdienst und im Gesamtschiffsbetrieb sowie für die Gefahrenabwehr auf dem Schiff.
 
-##### § 53 Gültigkeitsverlängerung von Befähigungszeugnissen
+###### § 53 Gültigkeitsverlängerung von Befähigungszeugnissen
 
 (1) Ein Kapitän oder ein Schiffsoffizier muss zur Verlängerung der Gültigkeitsdauer seines Befähigungszeugnisses den Fortbestand der Befähigung nachweisen durch
 
@@ -1083,7 +1087,7 @@ Im Falle des Absatzes 1 Satz 1 Nummer 1 Buchstabe c können die eineinhalb Monat
 
 (7) Inhaber eines Befähigungszeugnisses nach § 29 Absatz 2 müssen entsprechend der Regel I/11 Absatz 5 der Anlage zum STCW-Übereinkommen eine ausreichende Befähigung für die Bedienung von ARPA-Anlagen durch den Abschluss eines zugelassenen Lehrgangs nachweisen, wenn das Befähigungszeugnis zum NWO 500 erstmals vor dem 1. Januar 2015 erteilt worden ist. Hierzu gehört insbesondere die Ausbildung an einem ARPA-Simulator, der die Standards nach Abschnitt A-I/12 des STCW-Codes erfüllt. Wird die Befähigung nicht nachgewiesen, so ist das Befähigungszeugnis mit einer Einschränkung nach § 9 Absatz 1 zu erteilen.
 
-##### § 54 Gültigkeitsverlängerung von Befähigungsnachweisen
+###### § 54 Gültigkeitsverlängerung von Befähigungsnachweisen
 
 (1) Inhaber eines Befähigungsnachweises für den Schiffssicherheitsdienst müssen zur Aufrechterhaltung der jeweiligen Befähigung in zeitlichen Abständen von nicht mehr als fünf Jahren die fortdauernde Erfüllung der Anforderungen der entsprechenden Abschnitte des STCW-Codes durch den Abschluss eines oder mehrerer zugelassenen Lehrgänge und entsprechende Qualifikationsnachweise belegen. Die Berufsgenossenschaft kann bei der Zulassung Fortbildungsmaßnahmen an Bord und einschlägige Berufserfahrung in dem in den Abschnitten A-VI/1, A-VI/2 und A-VI/3 des STCW-Codes angegebenen Umfang berücksichtigen.
 
@@ -1109,11 +1113,11 @@ Im Falle des Absatzes 1 Satz 1 Nummer 1 Buchstabe c können die eineinhalb Monat
 
 2. eine Seefahrtzeit von mindestens zwei Monaten im Verlauf der vorangegangenen fünf Jahre im Decksbereich, auf der Führungsebene oder bei der Wahrnehmung des Wachdienstes auf der Betriebsebene, in denen Befugnisse entsprechend des Befähigungsnachweises ausgeübt wurden.
 
-##### § 55 (weggefallen)
+###### § 55 (weggefallen)
 
 ## Teil 8 Entzug, Ruhen und Sicherstellung von Befähigungszeugnissen
 
-##### § 56 Entzug von Befähigungszeugnissen
+###### § 56 Entzug von Befähigungszeugnissen
 
 (1) Ein Befähigungszeugnis ist zu entziehen, wenn der Inhaber unzuverlässig im Sinne des § 7 oder seedienstuntauglich ist.
 
@@ -1129,7 +1133,7 @@ Im Falle des Absatzes 1 Satz 1 Nummer 1 Buchstabe c können die eineinhalb Monat
 
 (7) Die Absätze 1 bis 6 gelten entsprechend für den Entzug von Vermerken über die Anerkennung ausländischer Befähigungszeugnisse.
 
-##### § 57 Ruhen von Befähigungszeugnissen
+###### § 57 Ruhen von Befähigungszeugnissen
 
 (1) Das Bundesamt kann für eine bestimmte Zeit das Ruhen eines Befähigungszeugnisses anordnen, wenn bei dem Inhaber die Voraussetzungen für eine Entziehung noch nicht vorliegen, aber Zweifel an seiner Zuverlässigkeit bestehen. Werden diese Zweifel vor Ablauf der angeordneten Zeit ausgeräumt, ist die Anordnung aufzuheben. Solange und soweit das Ruhen des Befähigungszeugnisses angeordnet ist, darf der Inhaber von der dem Befähigungszeugnis zugrunde liegenden Erlaubnis keinen Gebrauch machen.
 
@@ -1141,11 +1145,11 @@ Im Falle des Absatzes 1 Satz 1 Nummer 1 Buchstabe c können die eineinhalb Monat
 
 (5) Soweit ein Vermerk über die Anerkennung eines ausländischen Befähigungszeugnisses erteilt worden ist, ist Absatz 4 Satz 1 entsprechend anwendbar.
 
-##### § 58 Vollzug
+###### § 58 Vollzug
 
 Das Bundesamt kann auf Antrag des Zeugnisinhabers einen späteren Beginn des Entzugs oder des Ruhens anordnen. Der spätere Zeitpunkt darf nicht mehr als vier Wochen von dem ursprünglich angeordneten Zeitpunkt abweichen.
 
-##### § 59 Vorläufige Sicherstellung von Befähigungszeugnissen
+###### § 59 Vorläufige Sicherstellung von Befähigungszeugnissen
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass ein Befähigungszeugnis entzogen oder sein Ruhen angeordnet wird, so kann die vorläufige Sicherstellung des Befähigungszeugnisses angeordnet werden.
 
@@ -1155,17 +1159,17 @@ Das Bundesamt kann auf Antrag des Zeugnisinhabers einen späteren Beginn des Ent
 
 (4) Soweit ein Vermerk über die Anerkennung eines ausländischen Befähigungszeugnisses erteilt worden ist, sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
-##### § 60 Vollzugshilfe
+###### § 60 Vollzugshilfe
 
 Das Bundesamt bedient sich der Hilfe der Landespolizei, einschließlich der Wasserschutzpolizei, sowie der Bundespolizei und der Zollverwaltung nach Maßgabe der Vereinbarungen zwischen dem Bund und den Ländern über die Ausübung der schifffahrtspolizeilichen Vollzugsaufgaben, der zwischen dem Bund und den Küstenländern geschlossenen Zusatzvereinbarung zur Vereinbarung über die Ausübung der schifffahrtspolizeilichen Vollzugsaufgaben und der Seeschifffahrtsaufgaben-Übertragungsverordnung vom 23. Juni 1982 (BGBl. I S. 733).
 
-##### § 61 Verhältnis zu anderen Rechtsvorschriften
+###### § 61 Verhältnis zu anderen Rechtsvorschriften
 
 Zuständigkeiten und Befugnisse nach Maßgabe des Seefischereigesetzes und anderen Rechtsvorschriften zur Entziehung von Berechtigungen, Beschränkung von Berechtigungen oder Sicherstellung und Beschlagnahme der entsprechenden Urkunden bleiben durch die §§ 56 bis 59 unberührt.
 
 ## Teil 9 Nachweis einer beruflichen Tätigkeit in der Seeschifffahrt
 
-##### § 62 Nachweis einer beruflichen Tätigkeit in der Seeschifffahrt (Seeleute-Ausweis)
+###### § 62 Nachweis einer beruflichen Tätigkeit in der Seeschifffahrt (Seeleute-Ausweis)
 
 (1) Seeleute können auf Antrag nach Maßgabe der Absätze 2 und 3 einen Nachweis einer beruflichen Tätigkeit in der Seeschifffahrt mit der Bezeichnung „Seeleute-Ausweis“ erhalten. Dieser Nachweis gilt nur in Verbindung mit einem gültigen Reisepass oder Personalausweis und ist weder Passersatz noch amtlicher Identitätsnachweis. Der Nachweis darf zusätzlich die Bezeichnung „seafarer´s card“ enthalten.
 
@@ -1201,7 +1205,7 @@ Die Begriffe des Satzes 1 können zusätzlich in englischer Übersetzung verwend
 
 ## Teil 10 Datenschutz
 
-##### § 63 Umgang mit personenbezogenen Daten
+###### § 63 Umgang mit personenbezogenen Daten
 
 (1) Die nach dieser Verordnung zuständigen Verwaltungsbehörden sind im Rahmen ihrer jeweiligen Zuständigkeit befugt, zum Zweck der Prüfung der Voraussetzungen für den Erwerb von Bescheinigungen oder der Verlängerung deren Gültigkeit erforderlichen personenbezogenen Daten zu erheben, zu speichern und zu verwenden. Sie sind nach dem Abschluss der Prüfung nach Satz 1 jeweils unverzüglich zu löschen, soweit sie nicht in dem Seeleute-Befähigungs-Verzeichnis nach § 9f des Seeaufgabengesetzes gespeichert werden oder nach anderen Rechtsvorschriften längere Aufbewahrungsfristen bestehen.
 
@@ -1211,19 +1215,27 @@ Die Begriffe des Satzes 1 können zusätzlich in englischer Übersetzung verwend
 
 ## Teil 11 Schlussbestimmungen
 
-##### § 64 Übergangsbestimmungen
+###### § 64 Übergangsbestimmungen
 
 (1) Berufe der Metall- oder Elektroindustrie, die vor dem 1. Juni 2014 zugelassen waren, erfüllen die Anforderungen an die Ausbildung in der Metallbearbeitung nach Anlage 6.
 
 (2) Soweit durch diese Rechtsverordnung die Gültigkeitsdauer von Befähigungszeugnissen und Befähigungsnachweisen zeitlich befristet ist, gilt diese Befristung mit dem Inkrafttreten dieser Verordnung gleichfalls für entsprechende Zeugnisse und Nachweise, die nach den bisher geltenden Vorschriften erteilt worden sind.
 
-(3) Inhaber eines Befähigungszeugnisses zum Schiffsführer NSF sowie Inhaber eines Sportküstenschifferscheins, die ein gültiges Seediensttauglichkeitszeugnis für den Decksdienst sowie ein beschränkt gültiges Funkbetriebszeugnis (SRC) nachweisen können, gelten bis zum Ablauf des 31. Dezember 2023 als befähigt im Sinne des § 30 Absatz 6.
+(3) Inhaber eines Sportküstenschifferscheins, Sportseeschifferscheins oder Sporthochseeschifferscheins gelten bis zum Ablauf des 31. Dezember 2028 als für die gewerbsmäßige Nutzung eines nach dem 30. November 2024 neu zugelassenen Fahrzeugs befähigt im Sinne des § 30 Absatz 6, wenn sie Folgendes besitzen:
+
+1. ein gültiges Seediensttauglichkeitszeugnis für den Decksdienst nach § 12 des Seearbeitsgesetzes,
+
+2. ein beschränkt gültiges Funkbetriebszeugnis nach der Anlage 3 der Schiffssicherheitsverordnung und
+
+3. einen gültigen Befähigungsnachweis über eine Sicherheitsgrundausbildung nach § 44 oder im Fall der bereits abgelaufenen Gültigkeit einen Qualifikationsnachweis über einen Auffrischungslehrgang.
+
+Personen nach Satz 1 müssen nachweisen, dass sie an einer nach Landesrecht eingerichteten Ausbildungsstätte für einen zugelassenen Lehrgang zum Erwerb des Befähigungszeugnisses NK 100 angemeldet sind.
 
 (4) Befähigungsnachweise über eine Grundausbildung oder Fortbildung für den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen, die vor dem Inkrafttreten der Ersten Verordnung zur Änderung der Seeleute-Befähigungsverordnung erteilt worden sind, sind bis längstens fünf Jahre nach Ausstellung gültig.
 
-##### § 65 Änderung der Gebührenverordnung für Amtshandlungen des Bundesamtes für Seeschifffahrt und Hydrographie
+###### § 65 Änderung der Gebührenverordnung für Amtshandlungen des Bundesamtes für Seeschifffahrt und Hydrographie
 
-##### § 66 Inkrafttreten, Außerkrafttreten
+###### § 66 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Juni 2014 in Kraft.
 
@@ -1233,7 +1245,7 @@ Die Begriffe des Satzes 1 können zusätzlich in englischer Übersetzung verwend
 
 2. die Seemannsamtsverordnung vom 21. Oktober 1981 (BGBl. I S. 1146), die zuletzt durch Artikel 4 der Verordnung vom 27. Oktober 2006 (BGBl. I S. 2403) geändert worden ist.
 
-##### Anlage 1 (zu § 2)Abkürzungen
+###### Anlage 1 (zu § 2)Abkürzungen
 
 (Fundstelle: BGBl. I 2014, 482; 
  bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -1334,7 +1346,7 @@ PLR-GGrundausbildung Schiffe in Polargewässern
 
 PLR-FFortbildung Schiffe in Polargewässern
 
-##### Anlage 2 (zu § 5)Zulassung von Lehrgängen im deutschen Seeschifffahrtsrecht
+###### Anlage 2 (zu § 5)Zulassung von Lehrgängen im deutschen Seeschifffahrtsrecht
 
 (Fundstelle: BGBl. I 2014, 483; 
  bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -1371,7 +1383,7 @@ PLR-FFortbildung Schiffe in Polargewässern
 
 5.11 Sozialrecht.
 
-##### Anlage 3 (zu § 30)Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb des Befähigungszeugnisses zum Kapitän NK 100
+###### Anlage 3 (zu § 30)Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb des Befähigungszeugnisses zum Kapitän NK 100
 
 (Fundstelle: BGBl. I 2021, 3253 - 3256)
 
@@ -1455,7 +1467,7 @@ Die nach § 30 Absatz 6 Nummer 2 notwendigen Kompetenzen müssen die Bewerber be
 
 3.4.1 Antriebsanlagen bis 300 Kilowatt; Bedienung und Systemüberwachung Beschreibung schiffstechnischer Anlagen Funktion von Antriebssystemen und elektrischen Anlagen Anlagenteile, wie z. B. Kraftstofffilter, Schmierölfilter, Luftfilter, Ölpeilstäbe, Stevenrohrabdichtung erkennen und Verschleißteile aus technischen Unterlagen zuordnen Verständnis der Betriebshandbücher der schiffstechnischen Anlagen Verständnis der notwendigen schiffstechnischen Unterlagen Betrieb, Kontrolle und Fehlersuche sowie Fehlerbeseitigung Typenschilder und Kennzeichnungen Systeme für den Betrieb von Motoren einschließlich des Bilgensystems Verschleißteile wechseln, zuordnen und Ersatz bestellen Kontrolle der Füllstände, Beurteilung der Verbräuche und Ableitung von Maßnahmen Durchführung von Betriebsbeobachtungen, Ablesung der Betriebswerte und Ableitung von Maßnahmen Reaktion auf Alarme und Ableitung von Maßnahmen
 
-##### Anlage 4 (zu den §§ 31, 40 und 53)Prüfungsordnung des Bundesamtes
+###### Anlage 4 (zu den §§ 31, 40 und 53)Prüfungsordnung des Bundesamtes
 
 (Fundstelle: BGBl. I 2021, 3257 - 3258)
 
@@ -1549,7 +1561,7 @@ Die nach § 30 Absatz 6 Nummer 2 notwendigen Kompetenzen müssen die Bewerber be
 
 9.3 Als Täuschungsversuche oder Täuschungshandlungen gelten insbesondere die Kommunikation mit anderen Bewerbern im Prüfungsraum, die Mitnahme von Prüfungsanlagen und Aufzeichnungsbögen aus dem Prüfungsraum, sowie das Mitbringen nicht erlaubter Arbeitsmittel und Geräte in den Prüfungsraum. Hierzu zählen insbesondere alle Arten von elektronischen Geräten (wie Mobiltelefone, Tablets und Smartwatches) sowie Bücher und jegliche Art von Notizzetteln oder Ähnliches.
 
-##### Anlage 5 (zu § 34)Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb der Befähigungszeugnisse für den nautischen Schiffsdienst auf Fischereifahrzeugen
+###### Anlage 5 (zu § 34)Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb der Befähigungszeugnisse für den nautischen Schiffsdienst auf Fischereifahrzeugen
 
 (Fundstelle: BGBl. I 2014, 488-493)
 
@@ -1614,7 +1626,7 @@ XVergiftungenXMedizinische Probleme bei SeenotTropenkrankheitenXXUnfallmeldungen
 
 X
 
-##### Anlage 6 (zu den §§ 39, 40)Anforderungen an die Ausbildung in der Metallbearbeitung
+###### Anlage 6 (zu den §§ 39, 40)Anforderungen an die Ausbildung in der Metallbearbeitung
 
 (Fundstelle: BGBl. I 2021, 3264 - 3267)
 
@@ -1890,7 +1902,7 @@ Metallbearbeitung in einer Lehrwerkstatt bzw. überbetrieblichen Ausbildungsstä
 
 12.10 Aufzählen der Arten von Schraubensicherungsmitteln (Kleber, Lack)
 
-##### Anlage 6a (zu § 42) Anforderungen an die Ausbildung in der Elektrofertigung und Metallbearbeitung
+###### Anlage 6a (zu § 42) Anforderungen an die Ausbildung in der Elektrofertigung und Metallbearbeitung
 
 (Fundstelle: BGBl. I 2021, 3268 - 3270; 
  bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -2071,7 +2083,7 @@ Elektrofertigung in einer Lehrwerkstatt oder überbetrieblichen Ausbildungsstät
 
 7.2 Routinemäßige Funktionsprüfungen und Wartungsarbeiten an den Leistungsschaltern der Schalttafel
 
-##### Anlage 7 (zu § 39)Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb des Befähigungszeugnisses zum Schiffsmaschinisten
+###### Anlage 7 (zu § 39)Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb des Befähigungszeugnisses zum Schiffsmaschinisten
 
 (Fundstelle: BGBl. I 2014, 495)
 
@@ -2086,4 +2098,3 @@ Für den Erwerb des Befähigungszeugnisses zum Schiffsmaschinisten auf Kauffahrt
 4. Elektrotechnik, Leittechnik,
 
 5. Überwachung des technischen Schiffsbetriebes.
-
