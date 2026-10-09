@@ -4,24 +4,28 @@ identifier: "JUSCHG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2002-07-23"
-last_updated: "2026-04-04"
+last_updated: "2026-10-09"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/juschg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR273000002"
 slug: "juschg"
 bgbl_reference: "BGBl I 2002, 2730"
-stand: "Zuletzt geändert durch Art. 12 G v. 6.5.2024 I Nr. 149"
+stand: "Zuletzt geändert durch Art. 4 G v. 6.10.2026 I Nr. 589"
 ---
 # Jugendschutzgesetz
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 ## Abschnitt 1 Allgemeines
 
-##### § 1 Begriffsbestimmungen
+###### § 1 Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes
 
@@ -45,13 +49,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (6) Diensteanbieter im Sinne dieses Gesetzes sind Diensteanbieter nach dem Digitale-Dienste-Gesetz in der jeweils geltenden Fassung.
 
-##### § 2 Prüfungs- und Nachweispflicht
+###### § 2 Prüfungs- und Nachweispflicht
 
 (1) Soweit es nach diesem Gesetz auf die Begleitung durch eine erziehungsbeauftragte Person ankommt, haben die in § 1 Abs. 1 Nr. 4 genannten Personen ihre Berechtigung auf Verlangen darzulegen. Veranstalter und Gewerbetreibende haben in Zweifelsfällen die Berechtigung zu überprüfen.
 
 (2) Personen, bei denen nach diesem Gesetz Altersgrenzen zu beachten sind, haben ihr Lebensalter auf Verlangen in geeigneter Weise nachzuweisen. Veranstalter und Gewerbetreibende haben in Zweifelsfällen das Lebensalter zu überprüfen.
 
-##### § 3 Bekanntmachung der Vorschriften
+###### § 3 Bekanntmachung der Vorschriften
 
 (1) Veranstalter und Gewerbetreibende haben die nach den §§ 4 bis 13 für ihre Betriebseinrichtungen und Veranstaltungen geltenden Vorschriften sowie bei öffentlichen Filmveranstaltungen die Alterseinstufung von Filmen oder die Anbieterkennzeichnung nach § 14 Abs. 7 durch deutlich sichtbaren und gut lesbaren Aushang bekannt zu machen.
 
@@ -59,7 +63,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ## Abschnitt 2 Jugendschutz in der Öffentlichkeit
 
-##### § 4 Gaststätten
+###### § 4 Gaststätten
 
 (1) Der Aufenthalt in Gaststätten darf Kindern und Jugendlichen unter 16 Jahren nur gestattet werden, wenn eine personensorgeberechtigte oder erziehungsbeauftragte Person sie begleitet oder wenn sie in der Zeit zwischen 5 Uhr und 23 Uhr eine Mahlzeit oder ein Getränk einnehmen. Jugendlichen ab 16 Jahren darf der Aufenthalt in Gaststätten ohne Begleitung einer personensorgeberechtigten oder erziehungsbeauftragten Person in der Zeit von 24 Uhr und 5 Uhr morgens nicht gestattet werden.
 
@@ -69,7 +73,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (4) Die zuständige Behörde kann Ausnahmen von Absatz 1 genehmigen.
 
-##### § 5 Tanzveranstaltungen
+###### § 5 Tanzveranstaltungen
 
 (1) Die Anwesenheit bei öffentlichen Tanzveranstaltungen ohne Begleitung einer personensorgeberechtigten oder erziehungsbeauftragten Person darf Kindern und Jugendlichen unter 16 Jahren nicht und Jugendlichen ab 16 Jahren längstens bis 24 Uhr gestattet werden.
 
@@ -77,17 +81,17 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Die zuständige Behörde kann Ausnahmen genehmigen.
 
-##### § 6 Spielhallen, Glücksspiele
+###### § 6 Spielhallen, Glücksspiele
 
 (1) Die Anwesenheit in öffentlichen Spielhallen oder ähnlichen vorwiegend dem Spielbetrieb dienenden Räumen darf Kindern und Jugendlichen nicht gestattet werden.
 
 (2) Die Teilnahme an Spielen mit Gewinnmöglichkeit in der Öffentlichkeit darf Kindern und Jugendlichen nur auf Volksfesten, Schützenfesten, Jahrmärkten, Spezialmärkten oder ähnlichen Veranstaltungen und nur unter der Voraussetzung gestattet werden, dass der Gewinn in Waren von geringem Wert besteht.
 
-##### § 7 Jugendgefährdende Veranstaltungen und Betriebe
+###### § 7 Jugendgefährdende Veranstaltungen und Betriebe
 
 Geht von einer öffentlichen Veranstaltung oder einem Gewerbebetrieb eine Gefährdung für das körperliche, geistige oder seelische Wohl von Kindern oder Jugendlichen aus, so kann die zuständige Behörde anordnen, dass der Veranstalter oder Gewerbetreibende Kindern und Jugendlichen die Anwesenheit nicht gestatten darf. Die Anordnung kann Altersbegrenzungen, Zeitbegrenzungen oder andere Auflagen enthalten, wenn dadurch die Gefährdung ausgeschlossen oder wesentlich gemindert wird.
 
-##### § 8 Jugendgefährdende Orte
+###### § 8 Jugendgefährdende Orte
 
 Hält sich ein Kind oder eine jugendliche Person an einem Ort auf, an dem ihm oder ihr eine unmittelbare Gefahr für das körperliche, geistige oder seelische Wohl droht, so hat die zuständige Behörde oder Stelle die zur Abwendung der Gefahr erforderlichen Maßnahmen zu treffen. Wenn nötig, hat sie das Kind oder die jugendliche Person
 
@@ -97,7 +101,7 @@ Hält sich ein Kind oder eine jugendliche Person an einem Ort auf, an dem ihm od
 
 In schwierigen Fällen hat die zuständige Behörde oder Stelle das Jugendamt über den jugendgefährdenden Ort zu unterrichten.
 
-##### § 9 Alkoholische Getränke
+###### § 9 Alkoholische Getränke
 
 (1) In Gaststätten, Verkaufsstellen oder sonst in der Öffentlichkeit dürfen
 
@@ -119,7 +123,7 @@ weder abgegeben noch darf ihnen der Verzehr gestattet werden.
 
 (4) Alkoholhaltige Süßgetränke im Sinne des § 1 Abs. 2 und 3 des Alkopopsteuergesetzes dürfen gewerbsmäßig nur mit dem Hinweis "Abgabe an Personen unter 18 Jahren verboten, § 9 Jugendschutzgesetz" in den Verkehr gebracht werden. Dieser Hinweis ist auf der Fertigpackung in der gleichen Schriftart und in der gleichen Größe und Farbe wie die Marken- oder Phantasienamen oder, soweit nicht vorhanden, wie die Verkehrsbezeichnung zu halten und bei Flaschen auf dem Frontetikett anzubringen.
 
-##### § 10 Rauchen in der Öffentlichkeit, Tabakwaren
+###### § 10 Rauchen in der Öffentlichkeit, Tabakwaren
 
 (1) In Gaststätten, Verkaufsstellen oder sonst in der Öffentlichkeit dürfen Tabakwaren und andere nikotinhaltige Erzeugnisse und deren Behältnisse an Kinder oder Jugendliche weder abgegeben noch darf ihnen das Rauchen oder der Konsum nikotinhaltiger Produkte gestattet werden.
 
@@ -135,7 +139,7 @@ weder abgegeben noch darf ihnen der Verzehr gestattet werden.
 
 ## Abschnitt 3 Jugendschutz im Bereich der Medien
 
-##### § 10a Schutzziele des Kinder- und Jugendmedienschutzes
+###### § 10a Schutzziele des Kinder- und Jugendmedienschutzes
 
 Zum Schutz im Bereich der Medien gehören
 
@@ -147,7 +151,7 @@ Zum Schutz im Bereich der Medien gehören
 
 4. die Förderung von Orientierung für Kinder, Jugendliche, personensorgeberechtigte Personen sowie pädagogische Fachkräfte bei der Mediennutzung und Medienerziehung; die Vorschriften des Achten Buches Sozialgesetzbuch bleiben unberührt.
 
-##### § 10b Entwicklungsbeeinträchtigende Medien
+###### § 10b Entwicklungsbeeinträchtigende Medien
 
 (1) Zu den entwicklungsbeeinträchtigenden Medien nach § 10a Nummer 1 zählen insbesondere übermäßig ängstigende, Gewalt befürwortende oder das sozialethische Wertebild beeinträchtigende Medien.
 
@@ -155,7 +159,7 @@ Zum Schutz im Bereich der Medien gehören
 
 (3) Insbesondere sind nach konkreter Gefahrenprognose als erheblich einzustufende Risiken für die persönliche Integrität von Kindern und Jugendlichen, die im Rahmen der Nutzung des Mediums auftreten können, unter Einbeziehung etwaiger Vorsorgemaßnahmen im Sinne des § 24a Absatz 1 und 2 angemessen zu berücksichtigen. Hierzu zählen insbesondere Risiken durch Kommunikations- und Kontaktfunktionen, durch Kauffunktionen, durch glücksspielähnliche Mechanismen, durch Mechanismen zur Förderung eines exzessiven Mediennutzungsverhaltens, durch die Weitergabe von Bestands- und Nutzungsdaten ohne Einwilligung an Dritte sowie durch nicht altersgerechte Kaufappelle insbesondere durch werbende Verweise auf andere Medien.
 
-##### § 11 Filmveranstaltungen
+###### § 11 Filmveranstaltungen
 
 (1) Die Anwesenheit bei öffentlichen Filmveranstaltungen darf Kindern und Jugendlichen nur gestattet werden, wenn die Filme von der obersten Landesbehörde oder einer Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens nach § 14 Abs. 6 zur Vorführung vor ihnen freigegeben worden sind oder wenn es sich um Informations-, Instruktions- und Lehrfilme handelt, die vom Anbieter mit "Infoprogramm" oder "Lehrprogramm" gekennzeichnet sind.
 
@@ -181,7 +185,7 @@ Zum Schutz im Bereich der Medien gehören
 
 2. nicht nach den Vorschriften dieses Gesetzes gekennzeichnet sind.
 
-##### § 12 Bildträger mit Filmen oder Spielen
+###### § 12 Bildträger mit Filmen oder Spielen
 
 (1) Zur Weitergabe geeignete, für die Wiedergabe auf oder das Spiel an Bildschirmgeräten mit Filmen oder Spielen programmierte Datenträger (Bildträger) dürfen einem Kind oder einer jugendlichen Person in der Öffentlichkeit nur zugänglich gemacht werden, wenn die Programme von der obersten Landesbehörde oder einer Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens nach § 14 Abs. 6 für ihre Altersstufe freigegeben und gekennzeichnet worden sind oder wenn es sich um Informations-, Instruktions- und Lehrprogramme handelt, die vom Anbieter mit "Infoprogramm" oder "Lehrprogramm" gekennzeichnet sind.
 
@@ -211,7 +215,7 @@ nur aufgestellt werden, wenn ausschließlich nach § 14 Abs. 2 Nr. 1 bis 4 geken
 
 (5) Bildträger, die Auszüge von Filme und Spielprogrammen enthalten, dürfen abweichend von den Absätzen 1 und 3 im Verbund mit periodischen Druckschriften nur vertrieben werden, wenn sie mit einem Hinweis des Anbieters versehen sind, der deutlich macht, dass eine Organisation der freiwilligen Selbstkontrolle festgestellt hat, dass diese Auszüge keine Jugendbeeinträchtigungen enthalten. Der Hinweis ist sowohl auf der periodischen Druckschrift als auch auf dem Bildträger vor dem Vertrieb mit einem deutlich sichtbaren Zeichen anzubringen. Absatz 2 Satz 1 bis 3 gilt entsprechend. Die Berechtigung nach Satz 1 kann die oberste Landesbehörde für einzelne Anbieter ausschließen.
 
-##### § 13 Bildschirmspielgeräte
+###### § 13 Bildschirmspielgeräte
 
 (1) Das Spielen an elektronischen Bildschirmspielgeräten ohne Gewinnmöglichkeit, die öffentlich aufgestellt sind, darf Kindern und Jugendlichen ohne Begleitung einer personensorgeberechtigten oder erziehungsbeauftragten Person nur gestattet werden, wenn die Programme von der obersten Landesbehörde oder einer Organisation der freiwilligen Selbstkontrolle im Rahmen des Verfahrens nach § 14 Abs. 6 für ihre Altersstufe freigegeben und gekennzeichnet worden sind oder wenn es sich um Informations-, Instruktions- oder Lehrprogramme handelt, die vom Anbieter mit "Infoprogramm" oder "Lehrprogramm" gekennzeichnet sind.
 
@@ -227,7 +231,7 @@ nur aufgestellt werden, wenn ihre Programme für Kinder ab sechs Jahren freigege
 
 (3) Auf das Anbringen der Kennzeichnungen auf Bildschirmspielgeräten findet § 12 Abs. 2 Satz 1 bis 3 entsprechende Anwendung.
 
-##### § 14 Kennzeichnung von Filmen und Spielprogrammen
+###### § 14 Kennzeichnung von Filmen und Spielprogrammen
 
 (1) Filme und Spielprogramme dürfen nicht für Kinder und Jugendliche freigegeben werden, wenn sie für Kinder und Jugendliche in der jeweiligen Altersstufe entwicklungsbeeinträchtigend sind.
 
@@ -265,7 +269,7 @@ nur aufgestellt werden, wenn ihre Programme für Kinder ab sechs Jahren freigege
 
 (10) Die oberste Landesbehörde kann Näheres über die Ausgestaltung und Anbringung der Kennzeichnung nach § 14a Absatz 1 mit den Einrichtungen der freiwilligen Selbstkontrolle vereinbaren.
 
-##### § 14a Kennzeichnung bei Film- und Spielplattformen
+###### § 14a Kennzeichnung bei Film- und Spielplattformen
 
 (1) Film- und Spielplattformen sind Diensteanbieter, die Filme oder Spielprogramme in einem Gesamtangebot zusammenfassen und mit Gewinnerzielungsabsicht als eigene Inhalte zum individuellen Abruf zu einem von den Nutzerinnen und Nutzern gewählten Zeitpunkt bereithalten. Film- und Spielplattformen nach Satz 1 dürfen einen Film oder ein Spielprogramm nur bereithalten, wenn sie gemäß den Altersstufen des § 14 Absatz 2 mit einer entsprechenden deutlich wahrnehmbaren Kennzeichnung versehen sind, die
 
@@ -281,7 +285,13 @@ vorgenommen wurde. Die §§ 10b und 14 Absatz 2a gelten entsprechend.
 
 (3) Die Vorschrift findet auch auf Diensteanbieter Anwendung, deren Sitzland nicht Deutschland ist. Die §§ 2 und 3 des Digitale-Dienste-Gesetzes bleiben unberührt.
 
-##### § 15 Jugendgefährdende Medien
+###### § 14b Experimentierklausel für die Nutzung von automatisierten Bewertungssystemen
+
+(1) Mit Genehmigung der Bundeszentrale für Kinder- und Jugendmedienschutz kann eine Einrichtung der freiwilligen Selbstkontrolle in dem gemeinsamen Verfahren für die Freigabe und Kennzeichnung der Filme sowie Spielprogramme mit den obersten Landesbehörden nach § 14 Absatz 6, ein automatisiertes Bewertungssystem nach § 14a Absatz 1 Satz 2 Nummer 3 zum Zwecke der Erprobung einsetzen.
+
+(2) Genehmigungen, die nach Absatz 1 erteilt werden, sind angemessen zu befristen, jedoch nicht länger als für die Dauer von zwei Jahren. Die Dauer der Erprobung ist im Einzelfall so festzusetzen, dass der Erprobungszweck erfüllt und ausreichend regulatorische Erkenntnisse gesammelt werden können. Die Genehmigung kann einmalig um maximal weitere zwei Jahre verlängert werden, wenn die Voraussetzungen der Erteilung der Genehmigung weiter fortbesteht und der bisherige Verlauf der Erprobung einer Verlängerung nicht entgegensteht.
+
+###### § 15 Jugendgefährdende Medien
 
 (1) Medien, deren Aufnahme in die Liste jugendgefährdender Medien nach § 24 Abs. 3 Satz 1 bekannt gemacht ist, dürfen als Trägermedien nicht
 
@@ -323,19 +333,19 @@ vorgenommen wurde. Die §§ 10b und 14 Absatz 2a gelten entsprechend.
 
 (6) Soweit die Lieferung erfolgen darf, haben Gewerbetreibende vor Abgabe an den Handel die Händler auf die Vertriebsbeschränkungen des Absatzes 1 Nr. 1 bis 6 hinzuweisen.
 
-##### § 16 Landesrecht
+###### § 16 Landesrecht
 
 Die Länder können im Bereich der digitalen Dienste über dieses Gesetz hinausgehende Regelungen zum Jugendschutz treffen. Die an die Inhalte von digitalen Diensten zu richtenden besonderen Anforderungen ergeben sich aus dem Jugendmedienschutz-Staatsvertrag.
 
 ## Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz
 
-##### § 17 Zuständige Bundesbehörde und Leitung
+###### § 17 Zuständige Bundesbehörde und Leitung
 
 (1) Zuständig für die Durchführung der Aufgaben, die nach diesem Gesetz in bundeseigener Verwaltung ausgeführt werden, ist die Bundesprüfstelle für jugendgefährdende Medien als selbstständige Bundesoberbehörde; sie erhält die Bezeichnung „Bundeszentrale für Kinder- und Jugendmedienschutz“ (Bundeszentrale) und untersteht dem Bundesministerium für Familie, Senioren, Frauen und Jugend.
 
 (2) Die Bundeszentrale wird von einer Direktorin oder einem Direktor geleitet (Behördenleitung).
 
-##### § 17a Aufgaben
+###### § 17a Aufgaben
 
 (1) Die Bundeszentrale unterhält eine Prüfstelle für jugendgefährdende Medien, die über die Aufnahme von Medien in die Liste jugendgefährdender Medien nach § 18 und über Streichungen aus dieser Liste entscheidet.
 
@@ -349,11 +359,11 @@ Die Länder können im Bereich der digitalen Dienste über dieses Gesetz hinausg
 
 (3) Die Bundeszentrale kann zur Erfüllung ihrer Aufgabe aus Absatz 2 Maßnahmen, die von überregionaler Bedeutung sind, fördern oder selbst durchführen.
 
-##### § 17b Beirat
+###### § 17b Beirat
 
 Die Bundeszentrale richtet einen Beirat ein, der sie bei der Erfüllung der Aufgaben nach § 17a Absatz 2 Satz 1 berät. Dem Beirat gehören bis zu zwölf Personen an, die sich in besonderer Weise für die Verwirklichung der Rechte und den Schutz von Kindern und Jugendlichen einsetzen. Vertretungen der Interessen von Kindern und Jugendlichen stehen drei Plätze zu. Hiervon sind zwei Sitze mit Personen zu besetzen, die zum Zeitpunkt ihrer Berufung höchstens 17 Jahre alt sind und von auf Bundesebene tätigen Vertretungen der Interessen von Kindern und Jugendlichen vorgeschlagen wurden. Die Berufung von Beiratsmitgliedern erfolgt durch die Bundeszentrale für eine Dauer von jeweils drei Jahren. Das Nähere regelt eine Geschäftsordnung.
 
-##### § 18 Liste jugendgefährdender Medien
+###### § 18 Liste jugendgefährdender Medien
 
 (1) Medien, die geeignet sind, die Entwicklung von Kindern oder Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeit zu gefährden, sind von der Bundeszentrale nach Entscheidung der Prüfstelle für jugendgefährdende Medien in eine Liste (Liste jugendgefährdender Medien) aufzunehmen. Dazu zählen vor allem unsittliche, verrohend wirkende, zu Gewalttätigkeit, Verbrechen oder Rassenhass anreizende Medien sowie Medien, in denen
 
@@ -383,7 +393,7 @@ Die Bundeszentrale richtet einen Beirat ein, der sie bei der Erfüllung der Aufg
 
 (8) Auf Filme und Spielprogramme, die nach § 14 Abs. 2 Nr. 1 bis 5, auch in Verbindung mit § 14 Absatz 9 gekennzeichnet sind, findet Absatz 1 keine Anwendung. Absatz 1 ist außerdem nicht anzuwenden, wenn die zentrale Aufsichtsstelle der Länder für den Jugendmedienschutz über den digitalen Dienst zuvor eine Entscheidung dahin gehend getroffen hat, dass die Voraussetzungen für die Aufnahme in die Liste jugendgefährdender Medien nach Absatz 1 nicht vorliegen. Hat eine anerkannte Einrichtung der Selbstkontrolle den digitalen Dienst zuvor bewertet, so findet Absatz 1 nur dann Anwendung, wenn die zentrale Aufsichtsstelle der Länder für den Jugendmedienschutz die Voraussetzungen für die Aufnahme in die Liste jugendgefährdender Medien nach Absatz 1 für gegeben hält oder eine Entscheidung der zentralen Aufsichtsstelle der Länder für den Jugendmedienschutz nicht vorliegt.
 
-##### § 19 Personelle Besetzung der Prüfstelle für jugendgefährdende Medien
+###### § 19 Personelle Besetzung der Prüfstelle für jugendgefährdende Medien
 
 (1) Die Prüfstelle für jugendgefährdende Medien besteht aus
 
@@ -423,7 +433,7 @@ auf Vorschlag der genannten Gruppen zu entnehmen. Dem Buchhandel und der Verlege
 
 (6) Zur Anordnung der Aufnahme in die Liste bedarf es einer Mehrheit von zwei Dritteln der an der Entscheidung mitwirkenden Mitglieder der Prüfstelle für jugendgefährdende Medien. In der Besetzung des Absatzes 5 Satz 2 ist für die Listenaufnahme eine Mindestzahl von sieben Stimmen erforderlich.
 
-##### § 20 Vorschlagsberechtigte Verbände
+###### § 20 Vorschlagsberechtigte Verbände
 
 (1) Das Vorschlagsrecht nach § 19 Abs. 2 wird innerhalb der nachfolgenden Kreise durch folgende Organisationen für je eine Beisitzerin oder einen Beisitzer und eine Stellvertreterin oder einen Stellvertreter ausgeübt:
 
@@ -447,7 +457,7 @@ Für jede Organisation, die ihr Vorschlagsrecht ausübt, ist eine Beisitzerin od
 
 (2) Für die in § 19 Abs. 2 genannten Gruppen können Beisitzerinnen oder Beisitzer und stellvertretende Beisitzerinnen und Beisitzer auch durch namentlich nicht bestimmte Organisationen vorgeschlagen werden. Das Bundesministerium für Familie, Senioren, Frauen und Jugend fordert im Januar jedes Jahres im Bundesanzeiger dazu auf, innerhalb von sechs Wochen derartige Vorschläge einzureichen. Aus den fristgerecht eingegangenen Vorschlägen hat es je Gruppe je eine zusätzliche Beisitzerin oder einen zusätzlichen Beisitzer und eine stellvertretende Beisitzerin oder einen stellvertretenden Beisitzer zu ernennen. Vorschläge von Organisationen, die kein eigenes verbandliches Gewicht besitzen oder eine dauerhafte Tätigkeit nicht erwarten lassen, sind nicht zu berücksichtigen. Zwischen den Vorschlägen mehrerer Interessenten entscheidet das Los, sofern diese sich nicht auf einen Vorschlag einigen; Absatz 1 Satz 3 gilt entsprechend. Sofern es unter Berücksichtigung der Geschäftsbelastung der Prüfstelle für jugendgefährdende Medien erforderlich erscheint und sofern die Vorschläge der innerhalb einer Gruppe namentlich bestimmten Organisationen zahlenmäßig nicht ausreichen, kann das Bundesministerium für Familie, Senioren, Frauen und Jugend auch mehrere Beisitzerinnen oder Beisitzer und stellvertretende Beisitzerinnen oder Beisitzer ernennen; Satz 5 gilt entsprechend.
 
-##### § 21 Verfahren der Prüfstelle für jugendgefährdende Medien
+###### § 21 Verfahren der Prüfstelle für jugendgefährdende Medien
 
 (1) Die Prüfstelle für jugendgefährdende Medien wird in der Regel auf Antrag tätig.
 
@@ -511,11 +521,11 @@ zuzustellen. Sie hat die sich aus der Entscheidung ergebenden Verbreitungs- und 
 
 (10) (weggefallen)
 
-##### § 22 Aufnahme periodisch erscheinender Medien in die Liste jugendgefährdender Medien
+###### § 22 Aufnahme periodisch erscheinender Medien in die Liste jugendgefährdender Medien
 
 Periodisch erscheinende Medien können auf die Dauer von drei bis zwölf Monaten in die Liste jugendgefährdender Medien aufgenommen werden, wenn innerhalb von zwölf Monaten mehr als zwei ihrer Folgen in die Liste aufgenommen worden sind. Dies gilt nicht für Tageszeitungen und politische Zeitschriften sowie für deren digitale Ausgaben.
 
-##### § 23 Vereinfachtes Verfahren
+###### § 23 Vereinfachtes Verfahren
 
 (1) In einem vereinfachten Verfahren kann die Prüfstelle für jugendgefährdende Medien über die Aufnahme von Medien in die Liste jugendgefährdender Medien entscheiden, wenn
 
@@ -535,7 +545,7 @@ Im vereinfachten Verfahren treffen die oder der Vorsitzende und zwei weitere Mit
 
 (6) Die vorläufige Anordnung ist mit der abschließenden Entscheidung der Prüfstelle für jugendgefährdende Medien, jedoch spätestens nach Ablauf eines Monats, aus der Liste zu streichen. Die Frist des Satzes 1 kann vor ihrem Ablauf um höchstens einen Monat verlängert werden. Absatz 1 gilt entsprechend. Soweit die vorläufige Anordnung im Bundesanzeiger bekannt zu machen ist, gilt dies auch für die Verlängerung.
 
-##### § 24 Führung der Liste jugendgefährdender Medien
+###### § 24 Führung der Liste jugendgefährdender Medien
 
 (1) Die Bundeszentrale führt die Liste jugendgefährdender Medien nach § 17a Absatz 1.
 
@@ -549,7 +559,7 @@ Im vereinfachten Verfahren treffen die oder der Vorsitzende und zwei weitere Mit
 
 (5) In Bezug auf die vor Ablauf des 30. April 2021 in die Liste jugendgefährdender Medien aufgenommenen Trägermedien und digitalen Dienste gelten § 18 Absatz 2 und § 24 Absatz 2 in der bis zu diesem Tag geltenden Fassung fort. Die Trägermedien, deren Aufnahme in die Liste jugendgefährdender Medien bis zum 30. April 2021 bekannt gemacht worden ist, können unter Benennung der Listenteile A oder B in eine gemeinsame Listenstruktur mit der ab diesem Tag zu führenden Liste überführt werden.
 
-##### § 24a Vorsorgemaßnahmen
+###### § 24a Vorsorgemaßnahmen
 
 (1) Die Bundeszentrale für Kinder- und Jugendmedienschutz ist gemäß § 12 Absatz 2 Satz 1 des Digitale-Dienste-Gesetzes zuständige Behörde für die Durchsetzung des Artikels 28 Absatz 1 der Verordnung (EU) 2022/2065 des Europäischen Parlaments und des Rates vom 19. Oktober 2022 über einen Binnenmarkt für digitale Dienste und zur Änderung der Richtlinie 2000/31/EG (Gesetz über digitale Dienste) (ABl. L 277 vom 27.10.2022, S. 1; L 310 vom 1.12.2022, S. 17), wonach Anbieter von Online-Plattformen, die für Minderjährige zugänglich sind, geeignete und verhältnismäßige Maßnahmen ergreifen müssen, um ein hohes Maß an Privatsphäre, Sicherheit und Schutz von Kindern und Jugendlichen innerhalb ihres Dienstes zu gewährleisten (Vorsorgemaßnahmen).
 
@@ -579,7 +589,7 @@ d) die Nutzung anonym oder unter Pseudonym erfolgt.
 
 (4) Die §§ 2 und 3 des Digitale-Dienste-Gesetzes sowie die Bestimmungen der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) bleiben unberührt.
 
-##### § 24b Befugnisse und Verfahren
+###### § 24b Befugnisse und Verfahren
 
 (1) Im Rahmen ihrer Zuständigkeit nach § 12 Absatz 2 Satz 1 des Digitale-Dienste-Gesetzes verfügt die Bundeszentrale unter Berücksichtigung der ergänzenden Vorschriften des Digitale-Dienste-Gesetzes über die in der Verordnung (EU) 2022/2065 vorgesehenen Befugnisse.
 
@@ -589,7 +599,7 @@ d) die Nutzung anonym oder unter Pseudonym erfolgt.
 
 (4) Kommt der Anbieter der Aufforderung nach Absatz 3 Satz 2 innerhalb der gesetzten Frist nicht oder nur unzureichend nach, kann die Bundeszentrale die erforderlichen Vorsorgemaßnahmen nach Artikel 28 Absatz 1 der Verordnung (EU) 2022/2065 unter erneuter angemessener Fristsetzung selbst anordnen. Vor der Anordnung gibt die Bundeszentrale der zentralen Aufsichtsstelle der Länder für den Jugendmedienschutz Gelegenheit zur Stellungnahme.
 
-##### § 25 Rechtsweg
+###### § 25 Rechtsweg
 
 (1) Für Klagen gegen eine Entscheidung der Prüfstelle für jugendgefährdende Medien, ein Medium in die Liste jugendgefährdender Medien aufzunehmen oder einen Antrag auf Streichung aus der Liste abzulehnen, ist der Verwaltungsrechtsweg gegeben.
 
@@ -601,13 +611,13 @@ d) die Nutzung anonym oder unter Pseudonym erfolgt.
 
 ## Abschnitt 5 Verordnungsermächtigung
 
-##### § 26 Verordnungsermächtigung
+###### § 26 Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Näheres über den Sitz und das Verfahren der Prüfstelle für jugendgefährdende Medien und die Führung der Liste jugendgefährdender Medien zu regeln.
 
 ## Abschnitt 6 Ahndung von Verstößen
 
-##### § 27 Strafvorschriften
+###### § 27 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
@@ -637,7 +647,7 @@ fahrlässig begangen, so ist die Strafe Freiheitsstrafe bis zu sechs Monaten ode
 
 (4) Absatz 1 Nummer 1 und 2 und Absatz 3 Nummer 1 sind nicht anzuwenden, wenn eine personensorgeberechtigte Person oder eine Person, die im Einverständnis mit einer personensorgeberechtigten Person handelt, das Medium einem Kind oder einer jugendlichen Person anbietet, überlässt, zugänglich macht oder vorführt. Dies gilt nicht, wenn die personensorgeberechtigte Person durch das Erteilen des Einverständnisses, das Anbieten, Überlassen, Zugänglichmachen oder Vorführen ihre Erziehungspflicht gröblich verletzt.
 
-##### § 28 Bußgeldvorschriften
+###### § 28 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Veranstalter oder Gewerbetreibender vorsätzlich oder fahrlässig
 
@@ -715,21 +725,20 @@ fahrlässig begangen, so ist die Strafe Freiheitsstrafe bis zu sechs Monaten ode
 
 ## Abschnitt 7 Schlussvorschriften
 
-##### § 29 Übergangsvorschriften
+###### § 29 Übergangsvorschriften
 
 Auf die nach bisherigem Recht mit "Nicht freigegeben unter achtzehn Jahren" gekennzeichneten Filmprogramme für Bildträger findet § 18 Abs. 8 Satz 1 mit der Maßgabe Anwendung, dass an die Stelle der Angabe "§ 14 Abs. 2 Nr. 1 bis 5" die Angabe "§ 14 Abs. 2 Nr. 1 bis 4" tritt.
 
-##### § 29a Weitere Übergangsregelung
+###### § 29a Weitere Übergangsregelung
 
 Beisitzerinnen und Beisitzer der Bundesprüfstelle für jugendgefährdende Medien und ihre Vertreterinnen und Vertreter, die sich am 1. Mai 2021 im Amt befinden, können unabhängig von ihrer bisherigen Mitgliedschaft in der Bundesprüfstelle noch höchstens zweimal als Beisitzerin oder Beisitzer oder als Vertreterin oder Vertreter berufen werden.
 
-##### § 29b Bericht und Evaluierung
+###### § 29b Bericht und Evaluierung
 
 Dieses Gesetz wird fünf Jahre nach Inkrafttreten evaluiert, um zu untersuchen, inwiefern die in § 10a niedergelegten Schutzziele erreicht wurden. Die Bundesregierung unterrichtet den Deutschen Bundestag über das Ergebnis der Evaluation. In der Folge wird alle zwei Jahre dem Beirat Bericht erstattet über die weitere Entwicklung bei dem Erreichen der Schutzziele des § 10a. Alle vier Jahre ist dieser Bericht von der Bundesregierung dem Deutschen Bundestag vorzulegen.
 
-##### § 30 Inkrafttreten, Außerkrafttreten
+###### § 30 Inkrafttreten, Außerkrafttreten
 
 (1) Dieses Gesetz tritt an dem Tag in Kraft, an dem der Staatsvertrag der Länder über den Schutz der Menschenwürde und den Jugendschutz in Rundfunk und Telemedien in Kraft tritt. Gleichzeitig treten das Gesetz zum Schutze der Jugend in der Öffentlichkeit vom 25. Februar 1985 (BGBl. I S. 425), zuletzt geändert durch Artikel 8a des Gesetzes vom 15. Dezember 2001 (BGBl. I S. 3762) und das Gesetz über die Verbreitung jugendgefährdender Schriften und Medieninhalte in der Fassung der Bekanntmachung vom 12. Juli 1985 (BGBl. I S. 1502), zuletzt geändert durch Artikel 8b des Gesetzes vom 15. Dezember 2001 (BGBl. I S. 3762) außer Kraft. Das Bundesministerium für Familie, Senioren, Frauen und Jugend gibt das Datum des Inkrafttretens dieses Gesetzes im Bundesgesetzblatt bekannt.
 
 (2) Abweichend von Absatz 1 Satz 1 treten § 10 Abs. 2 und § 28 Abs. 1 Nr. 13 am 1. Januar 2007 in Kraft.
-
