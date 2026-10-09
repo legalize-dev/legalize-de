@@ -4,23 +4,26 @@ identifier: "SAG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2014-12-10"
-last_updated: "2026-04-04"
+last_updated: "2026-10-09"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/sag/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR209110014"
 slug: "sag"
 bgbl_reference: "BGBl I 2014, 2091"
-stand: "Zuletzt geändert durch Art. 32 G v. 4.2.2026 I Nr. 33"
-hinweis: "Änderung durch Art. 6 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+stand: "Zuletzt geändert durch Art. 5 G v. 25.9.2026 I Nr. 275"
 ---
 # Gesetz zur Sanierung und Abwicklung von Instituten und Finanzgruppen
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ## Teil 1 Allgemeine Vorschriften
 
-##### § 1 Anwendungsbereich; Verhältnis zur SRM-Verordnung; Umsetzung von Beschlüssen des Ausschusses
+###### § 1 Anwendungsbereich; Verhältnis zur SRM-Verordnung; Umsetzung von Beschlüssen des Ausschusses
 
 (1) Dieses Gesetz gilt für folgende Unternehmen, soweit nicht die Verordnung (EU) Nr. 806/2014 des Europäischen Parlaments und des Rates vom 15. Juli 2014 zur Festlegung einheitlicher Vorschriften und eines einheitlichen Verfahrens für die Abwicklung von Kreditinstituten und bestimmten Wertpapierfirmen im Rahmen eines einheitlichen Abwicklungsmechanismus und eines einheitlichen Abwicklungsfonds sowie zur Änderung der Verordnung (EU) Nr. 1093/2010 (ABl. L 225 vom 30.7.2014, S. 1; ABl. L 101 vom 18.4.2015, S. 62), die zuletzt durch die Verordnung (EU) 2021/23 des Europäischen Parlaments und des Rates vom 16. Dezember 2020 über einen Rahmen für die Sanierung und Abwicklung zentraler Gegenparteien und zur Änderung der Verordnungen (EU) Nr. 1095/2010, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 806/2014 und (EU) 2015/2365 sowie der Richtlinien 2002/47/EG, 2004/25/EG, 2007/36/EG, 2014/59/EU und (EU) 2017/1132 (ABl. L 22 vom 22.1.2021, S. 1) geändert worden ist, maßgeblich ist:
 
@@ -44,7 +47,7 @@ Für inländische Unternehmen, die gemäß Artikel 14 der Verordnung (EU) Nr. 64
 
 (6) Die Aufsichtsbehörde und die Abwicklungsbehörde arbeiten für die Zwecke dieses Gesetzes gemäß der Verordnung (EU) Nr. 1093/2010 in der Fassung vom 8. Oktober 2025 mit der Europäischen Bankenaufsichtsbehörde und gegebenenfalls mit der EFTA-Überwachungsbehörde zusammen. Verweise in diesem Gesetz auf die Befugnisse der Europäischen Bankenaufsichtsbehörde nach Artikel 19 der Verordnung (EU) Nr. 1093/2010 gelten für die Aufsichts- oder Abwicklungsbehörden der EFTA-Staaten nach Artikel 2 Buchstabe b des Abkommens über den Europäischen Wirtschaftsraum als Verweise auf die Befugnisse der EFTA-Überwachungsbehörde.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 (1) Institute im Sinne dieses Gesetzes sind CRR-Kreditinstitute und Wertpapierinstitute, die vom Anwendungsbereich dieses Gesetzes gemäß § 1 erfasst sind.
 
@@ -272,13 +275,13 @@ c) Aufrechnungen im Sinne von Artikel 2 Buchstabe k der Richtlinie 98/26/EG des 
 
 13. Eigenmittel im Sinne des Artikels 4 Absatz 1 Nummer 118 der Verordnung (EU) Nr. 575/2013.
 
-##### § 3 Abwicklungsbehörde; Aufsichtsbehörde
+###### § 3 Abwicklungsbehörde; Aufsichtsbehörde
 
 (1) Abwicklungsbehörde ist die Bundesanstalt für Finanzdienstleistungsaufsicht.
 
 (2) Aufsichtsbehörde ist die Aufsichtsbehörde im Sinne des § 1 Absatz 5 des Kreditwesengesetzes.
 
-##### § 4 Vertraulichkeit von Informationen; personenbezogene Daten; Informationsansprüche
+###### § 4 Vertraulichkeit von Informationen; personenbezogene Daten; Informationsansprüche
 
 (1) Die §§ 5 bis 10 gelten für die Weitergabe von
 
@@ -296,7 +299,7 @@ c) Aufrechnungen im Sinne von Artikel 2 Buchstabe k der Richtlinie 98/26/EG des 
 
 (6) Soweit Institute, Unternehmen oder inländische Unionszweigstellen gemäß § 1 personenbezogene Daten für Zwecke nach diesem Gesetz oder nach der Verordnung (EU) 806/2014 übermitteln, bestehen die Pflicht zur Information der betroffenen Person nach Artikel 13 Absatz 3 und Artikel 14 Absatz 4 der Verordnung (EU) 2016 /679 und das Recht auf Auskunft der betroffenen Person nach Artikel 15 der Verordnung (EU) 2016/679 nicht.
 
-##### § 5 Verschwiegenheitspflicht
+###### § 5 Verschwiegenheitspflicht
 
 (1) Die bei der Abwicklungsbehörde, bei der Aufsichtsbehörde, bei dem Bundesministerium der Finanzen und bei anderen nationalen Behörden beschäftigten Personen dürfen die ihnen bei ihrer Tätigkeit im Rahmen dieses Gesetzes bekanntgewordenen Informationen im Sinne des § 4 Absatz 1 nicht unbefugt offenbaren oder verwerten. Dies gilt auch, wenn die Bediensteten der vorbezeichneten Behörden nicht mehr im Dienst sind oder ihre Tätigkeit im Rahmen dieses Gesetzes beendet haben. Gleiches gilt für andere Personen, welche im Wege dienstlicher Berichterstattung Kenntnis von den in Satz 1 bezeichneten Informationen erhalten.
 
@@ -324,13 +327,13 @@ c) Aufrechnungen im Sinne von Artikel 2 Buchstabe k der Richtlinie 98/26/EG des 
 
 (5) Bei Verletzung der Verschwiegenheitspflicht gelten die allgemeinen Haftungs- und Schadensersatzregeln. Hinsichtlich der Inanspruchnahme eines Beschäftigten der Abwicklungsbehörde, Aufsichtsbehörde oder einer im Rahmen des Gesetzes tätigen national zuständigen Behörde gelten die Regelungen des § 181.
 
-##### § 6 Zulässiger Informationsaustausch zwischen Behörden im Rahmen dieses Gesetzes
+###### § 6 Zulässiger Informationsaustausch zwischen Behörden im Rahmen dieses Gesetzes
 
 (1) Zwischen der Abwicklungsbehörde und der Aufsichtsbehörde findet im Rahmen gegenseitiger Unterstützung, Beratung und Abstimmung ein ungehinderter Informationsaustausch statt. Soweit dies für die Erfüllung ihrer Aufgaben erforderlich ist, können sie voneinander Informationen anfordern und haben sie einander Beobachtungen und Feststellungen mitzuteilen. Die Sätze 1 und 2 gelten auch im Verhältnis zwischen Abwicklungsbehörde und Deutscher Bundesbank, soweit Informationen betroffen sind, welche bei der laufenden Überwachung der Institute durch die Deutsche Bundesbank entstanden oder zur laufenden Überwachung der Institute durch die Deutsche Bundesbank erforderlich sind. Die Sätze 1 und 2 gelten auch im Verhältnis zwischen der Abwicklungsbehörde und dem Bundesministerium der Finanzen, soweit Informationen betroffen sind, die zur Erfüllung der dem Bundesministerium der Finanzen obliegenden Aufgaben erforderlich sind.
 
 (2) Die in § 5 Absatz 1 und 2 genannten Behörden, Personen oder Stellen sind befugt, sich gegenseitig Informationen zu übermitteln, sofern der Erhalt der Information zur Erfüllung der nach diesem Gesetz obliegenden Aufgaben nötig ist.
 
-##### § 7 Weitergabe von Informationen an sonstige Stellen
+###### § 7 Weitergabe von Informationen an sonstige Stellen
 
 (1) Die Abwicklungsbehörde und die Aufsichtsbehörde sind ferner berechtigt, die ihnen im Zusammenhang mit diesem Gesetz vorliegenden Informationen folgenden Behörden, Personen oder Stellen zur Verfügung zu stellen:
 
@@ -374,7 +377,7 @@ b) mit der Geldwäscheprävention,
 
 (3) Bei Weitergabe von Informationen nach Absatz 1 und 2 liegt kein unbefugtes Offenbaren oder Verwerten im Sinne von § 9 Absatz 1 Satz 1 des Kreditwesengesetzes vor.
 
-##### § 8 Vertraulichkeit gegenüber Drittstaaten
+###### § 8 Vertraulichkeit gegenüber Drittstaaten
 
 (1) Die Abwicklungsbehörde und die im Rahmen dieses Gesetzes tätigen national zuständigen Behörden dürfen Informationen im Sinne des § 4 Absatz 1 nur dann an Drittstaatsbehörden weitergeben, wenn die folgenden Voraussetzungen erfüllt sind:
 
@@ -392,17 +395,17 @@ b) mit der Geldwäscheprävention,
 
 Eine aus einem anderen Mitgliedstaat stammende Information ist dann als vertraulich zu betrachten, wenn sie Geheimhaltungsvorschriften gemäß Unionsrecht unterfällt oder nach dem Recht des jeweiligen Mitgliedstaates der Verschwiegenheitspflicht unterliegt.
 
-##### § 9 Vorabprüfung auf Vertraulichkeit bei sonstiger Weitergabe von Informationen
+###### § 9 Vorabprüfung auf Vertraulichkeit bei sonstiger Weitergabe von Informationen
 
 Vor der Weitergabe von Informationen außerhalb der Offenbarungsbefugnisse der §§ 5 bis 8 ist sicherzustellen, dass sich darunter keine Informationen im Sinne des § 4 Absatz 1 befinden. Im Rahmen dieser Prüfung sind die Auswirkungen einer Weitergabe auf wirtschaftliche Interessen Betroffener nach § 4 Absatz 1 Nummer 1 und auf öffentliche Interessen nach § 4 Absatz 1 Nummer 2 zu berücksichtigen. Die Auswirkungen einer Weitergabe von Inhalten und Details der Sanierungs- und Abwicklungspläne nach den §§ 12 bis 21 und 40 bis 48 und von Ergebnissen einer Bewertung nach den §§ 57 bis 60 sind dabei gesondert zu untersuchen.
 
-##### § 10 Sonstige Vorschriften
+###### § 10 Sonstige Vorschriften
 
 (1) Hinsichtlich der Weitergabe von Informationen für die Zwecke von Straf- oder Zivilverfahren gelten die Regelungen des § 9 des Kreditwesengesetzes entsprechend.
 
 (2) Hinsichtlich einer Inanspruchnahme eines Beschäftigten einer im Rahmen dieses Gesetzes tätigen national zuständigen Behörde, die auf der Verletzung der Verschwiegenheit im Sinne dieses Gesetzes beruht, gelten die Regelungen des § 181.
 
-##### § 11 Zugang zu Informationen
+###### § 11 Zugang zu Informationen
 
 Zum Schutz einer effektiven Sanierungs- und Abwicklungsplanung und einer effektiven Anwendung der Abwicklungsinstrumente wird ein Zugang zu den Informationen, die der Aufsichts- oder Abwicklungsbehörde im Zusammenhang mit der Sanierungsplanung nach den §§ 12 bis 21 oder der Abwicklungsplanung nach den §§ 40 bis 48 übermittelt wurden oder im Zusammenhang mit der Bewertung gemäß § 69 oder dem Vermarktungsprozess gemäß § 126 bei der Aufsichts- oder Abwicklungsbehörde entstanden sind, nicht gewährt.
 
@@ -410,7 +413,7 @@ Zum Schutz einer effektiven Sanierungs- und Abwicklungsplanung und einer effekti
 
 ## Kapitel 1 Sanierungsplanung
 
-##### § 12 Sanierungsplanung
+###### § 12 Sanierungsplanung
 
 (1) Institute, die nicht nach § 20 Absatz 1 befreit sind, haben einen Sanierungsplan zu erstellen. In dem Sanierungsplan hat das Institut darzulegen, mit welchen von dem Institut zu treffenden Maßnahmen die finanzielle Stabilität gesichert oder wiederhergestellt werden kann, falls sich seine Vermögens-, Finanz- oder Ertragsentwicklung wesentlich verschlechtert und diese Verschlechterung zu einer Bestandsgefährdung führen kann (Krisenfall).
 
@@ -422,7 +425,7 @@ Zum Schutz einer effektiven Sanierungs- und Abwicklungsplanung und einer effekti
 
 (5) Die Absätze 3 und 4 finden auf das übergeordnete Unternehmen einer Gruppe entsprechende Anwendung.
 
-##### § 13 Ausgestaltung von Sanierungsplänen
+###### § 13 Ausgestaltung von Sanierungsplänen
 
 (1) Die Ausgestaltung des Sanierungsplans ist abhängig von Größe, Komplexität und Vernetzung des Instituts oder der Gruppe sowie von Art, Umfang und Komplexität des Geschäftsmodells und des damit einhergehenden Risikos.
 
@@ -468,7 +471,7 @@ Der Sanierungsplan muss die Erfüllung der in Satz 1 Nummer 1 und 2 genannten An
 
 (6) Die Aufsichtsbehörde kann im Benehmen mit der Abwicklungsbehörde von Instituten oder dem übergeordneten Unternehmen einer Gruppe die Führung detaillierter Aufzeichnungen in einer zentralen Datenbank über Finanzkontrakte verlangen, bei denen das betreffende Institut Vertragspartei ist.
 
-##### § 14 Besondere Anforderungen an die Ausgestaltung von Gruppensanierungsplänen; Einzelsanierungsplan
+###### § 14 Besondere Anforderungen an die Ausgestaltung von Gruppensanierungsplänen; Einzelsanierungsplan
 
 (1) Ein übergeordnetes Unternehmen, das ein EU-Mutterunternehmen ist und für das die Aufsichtsbehörde gleichzeitig die konsolidierende Aufsichtsbehörde ist, hat einen Gruppensanierungsplan zu erstellen.
 
@@ -490,13 +493,13 @@ d) bedeutender Zweigniederlassungen;
 
 (3) Nach Maßgabe von § 17 Absatz 2 bis 4 und § 18 kann die Aufsichtsbehörde die Erstellung eines Einzelsanierungsplans in Bezug auf ein inländisches Institut verlangen, das nachgeordnetes Unternehmen eines EU-Mutterunternehmens in einem anderen Mitgliedstaat ist. Anstelle und unter den Voraussetzungen eines Verlangens nach Satz 1 kann die Aufsichtsbehörde die Erstellung eines Sanierungsplans durch ein inländisches übergeordnetes Unternehmen verlangen, welcher sich auch auf alle ihm nachgeordneten Unternehmen bezieht.
 
-##### § 15 Prüfung und Bewertung von Sanierungsplänen
+###### § 15 Prüfung und Bewertung von Sanierungsplänen
 
 (1) Die Aufsichtsbehörde legt der Abwicklungsbehörde den Sanierungsplan vor. Die Abwicklungsbehörde kann den Sanierungsplan prüfen, um dort vorgesehene Maßnahmen zu identifizieren, welche sich nachteilig auf die Abwicklungsfähigkeit des Instituts oder der Gruppe auswirken könnten. Die Abwicklungsbehörde kann der Aufsichtsbehörde diesbezüglich Empfehlungen geben.
 
 (2) Die Aufsichtsbehörde prüft und bewertet in Abstimmung mit der Deutschen Bundesbank, inwieweit der Sanierungsplan die Anforderungen der §§ 13 und 14 erfüllt. Bei der Bewertung des Sanierungsplans wird die Aufsichtsbehörde auch die Angemessenheit der Kapital- und Refinanzierungsstruktur im Verhältnis zur Komplexität der Organisationsstruktur und des Risikoprofils des Instituts oder der Gruppe beurteilen.
 
-##### § 16 Maßnahmen bei Mängeln von Sanierungsplänen
+###### § 16 Maßnahmen bei Mängeln von Sanierungsplänen
 
 (1) Gelangt die Aufsichtsbehörde zu der Einschätzung, dass der Sanierungsplan nicht den Anforderungen der §§ 13 und 14 entspricht oder dass seiner Umsetzung wesentliche Hindernisse entgegenstehen, so teilt sie dem betreffenden Institut oder dem übergeordneten Unternehmen einer Gruppe ihre Bewertungsergebnisse mit und fordert das Institut oder das übergeordnete Unternehmen auf, innerhalb von zwei Monaten einen überarbeiteten Sanierungsplan vorzulegen. Auf Antrag kann die Aufsichtsbehörde diese Frist um bis zu einen Monat verlängern.
 
@@ -530,7 +533,7 @@ Die Befugnis der Aufsichtsbehörde, Maßnahmen nach dem Kreditwesengesetz und de
 
 (8) Wird der Sanierungsplan gemäß § 20 Absatz 4 von einem institutsbezogenen Sicherungssystem erstellt, stehen der Aufsichtsbehörde die in den Absätzen 1 und 2 genannten Befugnisse gegenüber dem institutsbezogenen Sicherungssystem zu.
 
-##### § 17 Verfahren bei Gruppensanierungsplänen und Mängeln von Gruppensanierungsplänen, wenn die Aufsichtsbehörde zugleich konsolidierende Aufsichtsbehörde ist
+###### § 17 Verfahren bei Gruppensanierungsplänen und Mängeln von Gruppensanierungsplänen, wenn die Aufsichtsbehörde zugleich konsolidierende Aufsichtsbehörde ist
 
 (1) Ist die Aufsichtsbehörde zugleich die konsolidierende Aufsichtsbehörde, übermittelt sie die Gruppensanierungspläne an
 
@@ -558,7 +561,7 @@ Die Aufsichtsbehörde kann die Europäische Bankenaufsichtsbehörde gemäß Arti
 
 (4) Die Aufsichtsbehörde trifft ihre Entscheidung im Einklang mit dem Beschluss der Europäischen Bankenaufsichtsbehörde nach Artikel 19 Absatz 3 der Verordnung (EU) Nr. 1093/2010, sofern bis zum Ablauf der Viermonatsfrist eine der betroffenen Aufsichtsbehörden gemäß Artikel 19 der Verordnung (EU) Nr. 1093/2010 die Europäische Bankenaufsichtsbehörde mit einer der Angelegenheiten, die in Absatz 2 Satz 1 Nummer 1 oder, soweit Maßnahmen nach § 16 Absatz 5 Satz 1 Nummer 1, 2 und 4 betroffen sind, in Absatz 2 Satz 1 Nummer 3 genannt sind, befasst. Fasst die Europäische Bankenaufsichtsbehörde innerhalb eines Monats keinen Beschluss, so gilt Absatz 3 entsprechend.
 
-##### § 18 Verfahren bei Gruppensanierungsplänen und Mängeln von Gruppensanierungsplänen, wenn die Aufsichtsbehörde nicht konsolidierende Aufsichtsbehörde ist
+###### § 18 Verfahren bei Gruppensanierungsplänen und Mängeln von Gruppensanierungsplänen, wenn die Aufsichtsbehörde nicht konsolidierende Aufsichtsbehörde ist
 
 (1) Erhält die Aufsichtsbehörde von der konsolidierenden Aufsichtsbehörde einen Gruppensanierungsplan, bemüht sie sich, nach Abstimmung mit den im relevanten Aufsichtskollegium vertretenen Aufsichtsbehörden und mit den Aufsichtsbehörden der bedeutenden Zweigniederlassungen, soweit bedeutende Zweigniederlassungen vom Gruppensanierungsplan betroffen sind, innerhalb von vier Monaten mit der konsolidierenden Aufsichtsbehörde und den anderen betroffenen Aufsichtsbehörden eine gemeinsame Entscheidung zu treffen über
 
@@ -580,7 +583,7 @@ Die Aufsichtsbehörde kann die Europäische Bankenaufsichtsbehörde gemäß Arti
 
 (4) Soweit eine gemeinsame Entscheidung gemäß Absatz 1 nicht zustande kommt, legt die Aufsichtsbehörde die durch die konsolidierende Aufsichtsbehörde oder die anderen betroffenen Aufsichtsbehörden im Rahmen ihrer jeweiligen Zuständigkeit getroffenen Entscheidungen als bindend zugrunde.
 
-##### § 19 Vereinfachte Anforderungen
+###### § 19 Vereinfachte Anforderungen
 
 (1) Die Aufsichtsbehörde kann die Anforderungen nach den §§ 12 bis 18 in Abstimmung mit der Deutschen Bundesbank beschränken in Bezug auf
 
@@ -602,7 +605,7 @@ Hinsichtlich der Kriterien, die einer Beurteilung der Auswirkungen nach Satz 1 N
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen zu erlassen zur Einreichung der Sanierungspläne, für die vereinfachte Anforderungen gemäß Absatz 1 festgelegt wurden und die gemäß § 12 Absatz 3 Satz 3 bei der Aufsichtsbehörde und der Deutschen Bundesbank einzureichen sind. Dies umfasst insbesondere Bestimmungen zu Inhalt, Art, Umfang und Form der Angaben in den Sanierungsplänen, zur Häufigkeit ihrer Einreichung und zu den zulässigen Datenträgern, Datenformaten, Übertragungswegen und Adressaten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
 
-##### § 20 Befreiung von Instituten, die institutsbezogenen Sicherungssystemen angehören
+###### § 20 Befreiung von Instituten, die institutsbezogenen Sicherungssystemen angehören
 
 (1) Die Aufsichtsbehörde kann ein Institut, das einem institutsbezogenen Sicherungssystem angehört, in Abstimmung mit der Deutschen Bundesbank auf Antrag von den Anforderungen der §§ 12 bis 18 dieses Gesetzes befreien. Satz 1 gilt nicht für die Pflicht zur Erstellung eines Einzelsanierungsplans, wenn
 
@@ -622,11 +625,11 @@ Satz 2 gilt entsprechend für die Befreiung von der Pflicht zur Erstellung eines
 
 (4) Das institutsbezogene Sicherungssystem hat die Anforderungen der §§ 12 bis 18 für die dem institutsbezogenen Sicherungssystem angehörigen Institute, die von der Befreiung betroffen sind, gegebenenfalls nach Maßgabe des § 19 zu erfüllen.
 
-##### § 21 Vertraulichkeitspflicht der Institute und gruppenangehörigen Unternehmen
+###### § 21 Vertraulichkeitspflicht der Institute und gruppenangehörigen Unternehmen
 
 Institute und gruppenangehörige Unternehmen sind verpflichtet, Sanierungspläne und Gruppensanierungspläne vertraulich zu behandeln; sie dürfen die Sanierungspläne oder Gruppensanierungspläne nur an diejenigen Dritten weitergeben, die an der Erstellung und Umsetzung des Sanierungsplans oder Gruppensanierungsplans beteiligt sind.
 
-##### § 21a Verordnungsermächtigung
+###### § 21a Verordnungsermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen zu erlassen über
 
@@ -648,7 +651,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 ## Kapitel 2 Gruppeninterne finanzielle Unterstützung
 
-##### § 22 Vereinbarung über gruppeninterne finanzielle Unterstützung
+###### § 22 Vereinbarung über gruppeninterne finanzielle Unterstützung
 
 (1) Eine Vereinbarung über gruppeninterne finanzielle Unterstützung im Sinne dieses Gesetzes ist eine Vereinbarung über die einseitige oder wechselseitige Gewährung gruppeninterner finanzieller Unterstützung, die abgeschlossen wird
 
@@ -660,7 +663,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (3) Auf Verträge, welche nicht auf den Zweck des Absatzes 1 Nummer 2 gerichtet sind, insbesondere Verträge des normalen Geschäftsgangs, finden die Regelungen der §§ 22 bis 35 keine Anwendung. Die Befugnis der Aufsichtsbehörde gemäß § 46 Absatz 1 Satz 2 in Verbindung mit Satz 1 des Kreditwesengesetzes bleibt für Zahlungen, die weder auf der Grundlage einer Vereinbarung über gruppeninterne finanzielle Unterstützung nach Absatz 1 erfolgen noch die Voraussetzungen für die Gewährung finanzieller Unterstützung nach Absatz 2 erfüllen, unberührt.
 
-##### § 23 Zulässigkeit und Inhalt einer Vereinbarung über gruppeninterne finanzielle Unterstützung
+###### § 23 Zulässigkeit und Inhalt einer Vereinbarung über gruppeninterne finanzielle Unterstützung
 
 (1) Die Partei einer Vereinbarung über gruppeninterne finanzielle Unterstützung darf weder von anderen gruppenangehörigen Unternehmen einschließlich dem übergeordneten Unternehmen noch von Dritten zum Abschluss bestimmt werden.
 
@@ -690,15 +693,15 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 5. bei der Berechnung der Gegenleistung für die Gewährung finanzieller Unterstützung muss nicht jede Auswirkung auf Marktpreise berücksichtigt werden, die voraussichtlich vorübergehend ist und sich aus Umständen außerhalb der Gruppe ergibt.
 
-##### § 24 Abtretungsverbot
+###### § 24 Abtretungsverbot
 
 Forderungen und andere Rechte aus einer Vereinbarung über gruppeninterne finanzielle Unterstützung können nicht abgetreten werden. Dritte können keine Rechte aus einer Vereinbarung über gruppeninterne finanzielle Unterstützung herleiten.
 
-##### § 25 Genehmigungserfordernis
+###### § 25 Genehmigungserfordernis
 
 Eine Vereinbarung über gruppeninterne finanzielle Unterstützung darf nur mit vorheriger Genehmigung der zuständigen Aufsichtsbehörde auf Antrag des übergeordneten Unternehmens der Gruppe abgeschlossen werden.
 
-##### § 26 Genehmigungsverfahren bei übergeordnetem Unternehmen mit Sitz im Inland
+###### § 26 Genehmigungsverfahren bei übergeordnetem Unternehmen mit Sitz im Inland
 
 (1) Hat das übergeordnete Unternehmen seinen Sitz im Inland, hat es den Antrag auf Genehmigung des geplanten Abschlusses der Vereinbarung über gruppeninterne finanzielle Unterstützung bei der Aufsichtsbehörde zu stellen. Dem Antrag ist die geplante Vereinbarung beizufügen.
 
@@ -712,23 +715,23 @@ Eine Vereinbarung über gruppeninterne finanzielle Unterstützung darf nur mit v
 
 (6) Die Aufsichtsbehörde gibt dem Antrag des übergeordneten Unternehmens auf Genehmigung des Abschlusses der Vereinbarung statt, wenn nach Durchführung des Genehmigungsverfahrens nach Maßgabe der Absätze 3 bis 5 entschieden wird, dass die Vereinbarung über gruppeninterne finanzielle Unterstützung die Anforderungen des § 23 Absatz 5 erfüllt. Liegen die Voraussetzungen für eine Genehmigung nicht vor, lehnt die Aufsichtsbehörde den Antrag ab. Dem übergeordneten Unternehmen ist die schriftliche Begründung einer einvernehmlichen Entscheidung nach Absatz 3 Satz 4 zu übermitteln.
 
-##### § 27 Genehmigungsverfahren bei übergeordnetem Unternehmen mit Sitz in einem anderen Mitgliedstaat
+###### § 27 Genehmigungsverfahren bei übergeordnetem Unternehmen mit Sitz in einem anderen Mitgliedstaat
 
 (1) Leitet die zuständige Aufsichtsbehörde mit Sitz in einem Mitgliedstaat an die Aufsichtsbehörde den Antrag eines übergeordneten Unternehmens mit Sitz in einem anderen Mitgliedstaat weiter, eine Vereinbarung über gruppeninterne finanzielle Unterstützung zu genehmigen, an der ein nachgeordnetes Unternehmen, das von der Aufsichtsbehörde beaufsichtigt wird, Partei zu werden beabsichtigt, hat die Aufsichtsbehörde innerhalb einer Frist von vier Monaten auf eine einvernehmliche Entscheidung aller betroffenen Aufsichtsbehörden hinzuwirken, ob die Vereinbarung über gruppeninterne finanzielle Unterstützung die Anforderungen von § 23 Absatz 5 erfüllt. Dabei hat die Aufsichtsbehörde die potentiellen Auswirkungen der Durchführung der Vereinbarung in allen Mitgliedstaaten, in denen die Gruppe tätig ist, einschließlich der steuerlichen Konsequenzen zu berücksichtigen.
 
 (2) Die Aufsichtsbehörde kann bis zum Ablauf der viermonatigen Frist nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1093/2010 die Europäische Bankenaufsichtsbehörde um Hilfe ersuchen.
 
-##### § 28 Weiterleitung an die Abwicklungsbehörde
+###### § 28 Weiterleitung an die Abwicklungsbehörde
 
 Die Aufsichtsbehörde leitet eine gemäß § 26 oder § 27 genehmigte Vereinbarung über gruppeninterne finanzielle Unterstützung an die Abwicklungsbehörde weiter.
 
-##### § 29 Einholung der Zustimmung der Anteilsinhaber; Berichtspflichten gegenüber den Anteilsinhabern
+###### § 29 Einholung der Zustimmung der Anteilsinhaber; Berichtspflichten gegenüber den Anteilsinhabern
 
 (1) Eine Vereinbarung über gruppeninterne finanzielle Unterstützung wird nur im Verhältnis derjenigen Parteien wirksam, deren Anteilsinhaber der Vereinbarung zustimmen. Falls die Anteilsinhaber ihre Entscheidungen auf Grund der Rechtsform des Instituts oder des Finanzinstituts in einer Versammlung treffen, tritt die Zustimmung der Versammlung an die Stelle der Zustimmung der Anteilsinhaber.
 
 (2) Die Geschäftsleitung jedes Unternehmens, das Partei einer Vereinbarung über gruppeninterne finanzielle Unterstützung ist, erstattet den Anteilsinhabern mindestens jährlich Bericht über den Stand der Durchführung der Vereinbarung und die Umsetzung aller auf der Grundlage der Vereinbarung getroffenen Entscheidungen.
 
-##### § 30 Voraussetzungen für die Gewährung gruppeninterner finanzieller Unterstützung; Verordnungsermächtigung
+###### § 30 Voraussetzungen für die Gewährung gruppeninterner finanzieller Unterstützung; Verordnungsermächtigung
 
 (1) Eine finanzielle Unterstützung in Durchführung einer Vereinbarung über gruppeninterne finanzielle Unterstützung darf von einem Unternehmen der Gruppe nach Maßgabe der §§ 31 und 32 nur unter folgenden Voraussetzungen gewährt werden:
 
@@ -762,13 +765,13 @@ b) wird durch die Gewährung der finanziellen Unterstützung nicht dazu veranlas
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die in Absatz 1 Nummer 2, 4, 6 und 7 genannten Voraussetzungen zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht mit der Maßgabe übertragen, dass vor Erlass der Rechtsverordnung nach Satz 1 die Abwicklungsbehörde anzuhören ist.
 
-##### § 31 Beschlüsse über Gewährung und Annahme einer finanziellen Unterstützung
+###### § 31 Beschlüsse über Gewährung und Annahme einer finanziellen Unterstützung
 
 (1) Die Geschäftsleitung entscheidet über die beabsichtigte Gewährung einer gruppeninternen finanziellen Unterstützung nach Maßgabe der Vereinbarung über gruppeninterne finanzielle Unterstützung und der Entscheidung der Aufsichtsbehörde gemäß § 33 Absatz 1. Die Gründe für die Gewährung sind von der Geschäftsleitung zu dokumentieren.
 
 (2) Die Geschäftsleitung entscheidet über die Annahme einer gruppeninternen finanziellen Unterstützung.
 
-##### § 32 Anzeige der beabsichtigten Gewährung gruppeninterner finanzieller Unterstützung
+###### § 32 Anzeige der beabsichtigten Gewährung gruppeninterner finanzieller Unterstützung
 
 (1) Hat die Geschäftsleitung eines gruppenangehörigen Unternehmens mit Sitz im Inland die Absicht, gruppeninterne finanzielle Unterstützung zu gewähren, so hat sie dies vor der Gewährung folgenden Behörden schriftlich anzuzeigen:
 
@@ -792,7 +795,7 @@ b) wird durch die Gewährung der finanziellen Unterstützung nicht dazu veranlas
 
 (3) Ist die Aufsichtsbehörde zugleich die konsolidierende Aufsichtsbehörde des Unternehmens, das die Absicht der Gewährung finanzieller Unterstützung anzeigt, informiert sie die übrigen Mitglieder des Aufsichtskollegiums sowie die Mitglieder des Abwicklungskollegiums unverzüglich über die angezeigte Absicht.
 
-##### § 33 Entscheidung der Aufsichtsbehörde über die Gewährung gruppeninterner finanzieller Unterstützung durch ein Unternehmen mit Sitz im Inland
+###### § 33 Entscheidung der Aufsichtsbehörde über die Gewährung gruppeninterner finanzieller Unterstützung durch ein Unternehmen mit Sitz im Inland
 
 (1) Die Aufsichtsbehörde kann der Gewährung der finanziellen Unterstützung innerhalb von fünf Werktagen nach Eingang der vollständigen Anzeige gemäß § 32 Absatz 1 zustimmen oder diese untersagen oder beschränken, wenn die Voraussetzungen für die Gewährung einer finanziellen Unterstützung gemäß § 30 im Zeitpunkt der Gewährung nicht erfüllt sind. Die Entscheidung, die finanzielle Unterstützung zu untersagen oder zu beschränken, ist zu begründen.
 
@@ -800,13 +803,13 @@ b) wird durch die Gewährung der finanziellen Unterstützung nicht dazu veranlas
 
 (3) Macht die Aufsichtsbehörde nach Zugang einer ordnungsgemäßen Anzeige nach § 32 Absatz 1 nicht innerhalb der in Absatz 1 Satz 1 bestimmten Frist von ihrer Befugnis zur Untersagung oder Beschränkung der Gewährung finanzieller Unterstützungsleistung Gebrauch oder stimmt sie der Gewährung innerhalb der in Absatz 1 Satz 1 bestimmten Frist zu, kann die Vereinbarung gemäß den angezeigten Angaben vollzogen werden.
 
-##### § 34 Beteiligung der Aufsichtsbehörde bei der Entscheidung über die Gewährung gruppeninterner finanzieller Unterstützung durch ein Unternehmen mit Sitz in einem anderen Mitgliedstaat
+###### § 34 Beteiligung der Aufsichtsbehörde bei der Entscheidung über die Gewährung gruppeninterner finanzieller Unterstützung durch ein Unternehmen mit Sitz in einem anderen Mitgliedstaat
 
 (1) Untersagt oder beschränkt eine Aufsichtsbehörde mit Sitz in einem anderen Mitgliedstaat die Gewährung finanzieller Unterstützung an ein Unternehmen der Gruppe mit Sitz im Inland, das von der Aufsichtsbehörde beaufsichtigt wird, oder an ein Unternehmen innerhalb einer Gruppe, die der konsolidierenden Aufsicht der Aufsichtsbehörde unterliegt, und hat die Aufsichtsbehörde Einwände gegen die Untersagung oder Beschränkung der Gewährung finanzieller Unterstützung, kann die Aufsichtsbehörde innerhalb von zwei Kalendertagen nach Mitteilung der Entscheidung durch die betroffene Aufsichtsbehörde die Europäische Bankenaufsichtsbehörde mit der Angelegenheit befassen und ihre Unterstützung gemäß Artikel 31 der Verordnung (EU) Nr. 1093/2010 beantragen.
 
 (2) Untersagt oder beschränkt eine Aufsichtsbehörde mit Sitz in einem anderen Mitgliedstaat die Gewährung finanzieller Unterstützung an ein gruppenangehöriges Unternehmen mit Sitz im Inland, das von der Aufsichtsbehörde beaufsichtigt wird und dessen Gruppensanierungsplan gemäß Artikel 7 Absatz 5 der Richtlinie 2014/59/EU Angaben zu getroffenen Vereinbarungen über gruppeninterne finanzielle Unterstützung enthält, so kann die Aufsichtsbehörde bei der konsolidierenden Aufsichtsbehörde beantragen, eine Neubewertung des Gruppensanierungsplans gemäß Artikel 8 der Richtlinie 2014/59/EU einzuleiten oder, wenn der Sanierungsplan auf Ebene des Einzelunternehmens erstellt wird, von diesem die Übersendung eines aktualisierten Sanierungsplans verlangen.
 
-##### § 35 Offenlegungspflichten
+###### § 35 Offenlegungspflichten
 
 (1) Jedes Unternehmen einer Gruppe hat offenzulegen, ob es Partei einer Vereinbarung über gruppeninterne finanzielle Unterstützung ist. Jede Partei einer Vereinbarung über gruppeninterne finanzielle Unterstützung hat darüber hinaus die allgemeinen Bedingungen der Vereinbarung sowie die Namen der beteiligten Unternehmen der Gruppe offenzulegen. Die nach den Sätzen 1 und 2 offenzulegenden Angaben sind mindestens einmal jährlich zu aktualisieren.
 
@@ -814,7 +817,7 @@ b) wird durch die Gewährung der finanziellen Unterstützung nicht dazu veranlas
 
 ## Kapitel 3 Frühzeitiges Eingreifen
 
-##### § 36 Frühinterventionsmaßnahmen; Verordnungsermächtigung
+###### § 36 Frühinterventionsmaßnahmen; Verordnungsermächtigung
 
 (1) Verschlechtert sich die Finanzlage eines Instituts, insbesondere auf Grund seiner Liquiditätssituation, auf Grund seiner Fremdkapitalquote oder auf Grund von Kreditausfällen oder Klumpenrisiken, signifikant und verstößt ein Institut hierdurch gegen die Anforderungen der Verordnung (EU) Nr. 575/2013, gegen Vorschriften des Kreditwesengesetzes oder einen der Artikel 3 bis 7, 14 bis 17 und 24, 25 und 26 der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84), kann die Aufsichtsbehörde, unbeschadet ihrer Befugnisse nach dem Kreditwesengesetz, gegenüber dem Institut Maßnahmen anordnen, die geeignet und erforderlich sind, um die signifikant verschlechterte wirtschaftliche Situation des Instituts zu verbessern. Gleiches gilt, wenn dem Institut nach einer Bewertung der maßgeblichen Umstände, einschließlich der Eigenmittelanforderungen des Instituts zuzüglich 1,5 Prozentpunkten, in naher Zukunft eine Verschlechterung seiner Finanzlage nach Satz 1 droht. Insbesondere kann die Aufsichtsbehörde
 
@@ -858,13 +861,13 @@ Der Beschluss der Hauptversammlung zu einer entsprechenden Änderung der Satzung
 
 (8) Die Absätze 1 bis 7 sind auf übergeordnete Unternehmen im Sinne des § 10a des Kreditwesengesetzes sowie auf Institute, die nach Artikel 22 der Verordnung (EU) Nr. 575/2013 zur Teilkonsolidierung verpflichtet sind, entsprechend anzuwenden, wenn auf konsolidierter Ebene gegen die Anforderungen des Absatzes 1 Satz 1 verstoßen wird oder ein solcher Verstoß in naher Zukunft droht.
 
-##### § 37 Abberufung der Geschäftsleitung
+###### § 37 Abberufung der Geschäftsleitung
 
 (1) Sind die Maßnahmen nach § 36 nicht ausreichend, die signifikante Verschlechterung der wirtschaftlichen Situation des Instituts zu verbessern und die Verstöße gegen die in § 36 Absatz 1 genannten Rechtsvorschriften zu beseitigen, kann die Aufsichtsbehörde gegenüber dem Institut die Abberufung einzelner oder aller Geschäftsleiter oder Mitglieder des Aufsichts- oder Verwaltungsorgans anordnen. Die Bestellung der neuen Geschäftsleiter oder Mitglieder des Aufsichts- oder Verwaltungsorgans durch das Institut bedarf der Zustimmung der Aufsichtsbehörde.
 
 (2) Befugnisse der Aufsichtsbehörde nach dem Kreditwesengesetz bleiben unberührt.
 
-##### § 38 Vorläufiger Verwalter
+###### § 38 Vorläufiger Verwalter
 
 (1) Wäre eine Maßnahme nach § 37 nicht ausreichend, die signifikant verschlechterte wirtschaftliche Situation des Instituts zu verbessern, kann die Aufsichtsbehörde einen Verwalter für das Institut bestellen, der vorübergehend entweder die Geschäftsleitung und das Aufsichts- oder Verwaltungsorgan des Instituts ablöst oder mit ihnen zusammenarbeitet (vorläufiger Verwalter). Der vorläufige Verwalter muss über die für die Ausübung seiner Funktionen erforderlichen Qualifikationen, Fähigkeiten und Kenntnisse verfügen. Bei ihm dürfen keine Interessenkonflikte gegeben sein. Insbesondere muss er von Gläubigern und dem Institut unabhängig sein. Die Aufgaben und Befugnisse des vorläufigen Verwalters sind von der Aufsichtsbehörde festzulegen, wobei die Befugnis zur Einberufung einer Versammlung der Anteilsinhaber und die Festlegung der Tagesordnung nur mit vorheriger Zustimmung der Aufsichtsbehörde ausgeübt werden darf. Die Übertragung von Aufgaben und Befugnissen eines Geschäftsleiters und des Aufsichts- oder Verwaltungsorgans auf einen vorläufigen Verwalter sowie die Aufhebung der Übertragung sind von Amts wegen im Register einzutragen.
 
@@ -876,7 +879,7 @@ Der Beschluss der Hauptversammlung zu einer entsprechenden Änderung der Satzung
 
 (5) § 45c des Kreditwesengesetzes bleibt unberührt.
 
-##### § 39 Koordinierung der Frühinterventionsmaßnahmen und Bestellung eines vorläufigen Verwalters bei Gruppen
+###### § 39 Koordinierung der Frühinterventionsmaßnahmen und Bestellung eines vorläufigen Verwalters bei Gruppen
 
 (1) Liegen bei einem EU-Mutterunternehmen, für das die Aufsichtsbehörde die konsolidierende Aufsichtsbehörde ist, die Voraussetzungen der §§ 36 oder 38 vor, so unterrichtet die konsolidierende Aufsichtsbehörde die Europäische Bankenaufsichtsbehörde und konsultiert die anderen Aufsichtsbehörden innerhalb des Aufsichtskollegiums. Im Anschluss an die Unterrichtung und Konsultation entscheidet die konsolidierende Aufsichtsbehörde unter Berücksichtigung der Auswirkungen auf die Unternehmen der Gruppe in den anderen Mitgliedstaaten, ob in Bezug auf das EU-Mutterunternehmen eine Maßnahme nach den §§ 36 oder 38 angeordnet werden soll. Ihre Entscheidung teilt sie den anderen Aufsichtsbehörden innerhalb des Aufsichtskollegiums und der Europäischen Bankenaufsichtsbehörde mit.
 
@@ -898,7 +901,7 @@ Ferner kann sie gemäß Artikel 19 Absatz 3 der Verordnung (EU) Nr. 1093/2010 di
 
 ## Kapitel 1 Abwicklungsplanung
 
-##### § 40 Erstellung und Aktualisierung von Abwicklungsplänen
+###### § 40 Erstellung und Aktualisierung von Abwicklungsplänen
 
 (1) Die Abwicklungsbehörde erstellt für jedes Institut, das nicht Teil einer Gruppe ist, die einer Beaufsichtigung auf konsolidierter Basis unterliegt, einen Abwicklungsplan. Die Abwicklungsbehörde stimmt sich bei der Erstellung des Abwicklungsplans mit der Aufsichtsbehörde ab. Gleiches gilt für die Abwicklungsbehörden der Mitgliedstaaten und Drittstaaten, in denen sich bedeutende Zweigniederlassungen befinden, soweit Belange der bedeutenden Zweigniederlassung betroffen sind.
 
@@ -964,7 +967,7 @@ Sofern möglich und angezeigt, sollen die Angaben im Abwicklungsplan mengen- und
 
 (5) Die Abwicklungsbehörde übermittelt den Abwicklungsplan und eventuelle Änderungen an die Aufsichtsbehörde. Die zusammenfassende Darstellung der Hauptbestandteile des Plans nach Absatz 3 Nummer 1 soll dem Institut offengelegt werden.
 
-##### § 41 Vereinfachte Anforderungen; Verordnungsermächtigung
+###### § 41 Vereinfachte Anforderungen; Verordnungsermächtigung
 
 (1) Die Abwicklungsbehörde kann die Anforderungen nach den §§ 40 bis 48 und 57 und 58 beschränken in Bezug auf
 
@@ -988,7 +991,7 @@ Sofern möglich und angezeigt, sollen die Angaben im Abwicklungsplan mengen- und
 
 (5) Die Abwicklungsbehörde unterrichtet die Europäische Bankenaufsichtsbehörde darüber, wie sie Artikel 4 Absatz 1 und 8 bis 10 der Richtlinie 2014/59/EU umsetzt und anwendet.
 
-##### § 42 Mitwirkung des Instituts; Verordnungsermächtigung
+###### § 42 Mitwirkung des Instituts; Verordnungsermächtigung
 
 (1) Die Abwicklungsbehörde kann vorbehaltlich der Regelungen in Absatz 2 verlangen, dass das Institut die Abwicklungsbehörde bei der Erstellung und Aktualisierung des Abwicklungsplans umfassend unterstützt. Insbesondere kann die Abwicklungsbehörde verlangen, dass das Institut ihr alle zur Erstellung und Umsetzung des Abwicklungsplans erforderlichen Informationen und Analysen übermittelt. Die Abwicklungsbehörde kann Instituten Anzeige- und Meldepflichten auferlegen, die für die Erstellung und Aktualisierung des Abwicklungsplans erforderlich sind. § 40 Absatz 4 Satz 3 gilt entsprechend für das Institut. In den Fällen der Sätze 1 und 2 sowie im Rahmen von Anzeige- und Meldepflichten nach Satz 3 beachtet die Abwicklungsbehörde technische Regulierungsstandards, die nach Artikel 11 Absatz 3 der Richtlinie 2014/59/EU erlassen werden.
 
@@ -1008,13 +1011,13 @@ Die Abwicklungsbehörde kann für verschiedene Arten von Finanzkontrakten jeweil
 
 (5) Die Abwicklungsbehörde ist nicht verpflichtet, dem betroffenen Institut die infolge der Anwendung dieser Vorschrift entstandenen Kosten und Aufwendungen zu ersetzen.
 
-##### § 42a Elektronische Kommunikation; Verordnungsermächtigung
+###### § 42a Elektronische Kommunikation; Verordnungsermächtigung
 
 (1) Unternehmen sind verpflichtet, der Abwicklungsbehörde Informationen und Analysen nach § 42 Absatz 1 Satz 2, Anzeigen und Meldungen auf Grund von durch die Abwicklungsbehörde auferlegter Pflichten nach § 42 Absatz 1 Satz 3 sowie sonstige Informationen, Dokumente und Meldungen, die der Abwicklungsbehörde nach den Vorschriften dieses Gesetzes vorzulegen sind, elektronisch über das von der Abwicklungsbehörde bereitgestellte elektronische Kommunikationsverfahren zu übermitteln, es sei denn, die Abwicklungsbehörde bestimmt einen anderen Übermittlungsweg. Unternehmen sind verpflichtet, einen Zugang für die elektronische Übermittlung der in Satz 1 aufgeführten Informationen, Analysen, Meldungen und Dokumente sowie für die Bekanntgabe und Zustellung von Verwaltungsakten in dem bereitgestellten elektronischen Kommunikationsverfahren zu eröffnen und zu nutzen.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zum Zugang zur elektronischen Kommunikation und zur Durchführung und Nutzung der elektronischen Kommunikation zu treffen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
-##### § 43 Zentrale Verwahrung und Verwaltung von Finanzkontrakten
+###### § 43 Zentrale Verwahrung und Verwaltung von Finanzkontrakten
 
 (1) Die Aufsichtsbehörde oder die Abwicklungsbehörde kann verlangen, dass Institute und gruppenangehörige Unternehmen sowie das übergeordnete Unternehmen einer Gruppe für die gesamte Gruppe sämtliche Finanzkontrakte zentral verwahren und angemessen verwalten. Die Verwaltung kann zentral für die gruppenangehörigen Unternehmen durch ein Institut im Inland erfolgen. Die Verwaltung der Finanzkontrakte muss insbesondere so ausgestaltet sein, dass
 
@@ -1036,11 +1039,11 @@ Das Institut, die gruppenangehörigen Unternehmen sowie das übergeordnete Unter
 
 (4) § 42 Absatz 5 ist entsprechend anzuwenden.
 
-##### § 44 Information der Abwicklungsbehörde über Vermögenswerte und Verbindlichkeiten
+###### § 44 Information der Abwicklungsbehörde über Vermögenswerte und Verbindlichkeiten
 
 Die Abwicklungsbehörde trifft geeignete Vorkehrungen, um zu gewährleisten, dass sie stets so aktuell und umfassend wie möglich über Vermögenswerte und Verbindlichkeiten des Instituts oder des gruppenangehörigen Unternehmens informiert ist. Institute und gruppenangehörige Unternehmen haben der Abwicklungsbehörde diese Informationen regelmäßig zur Verfügung zu stellen. § 42 Absatz 5 ist entsprechend anzuwenden.
 
-##### § 45 Mitwirkung Dritter; Verordnungsermächtigung
+###### § 45 Mitwirkung Dritter; Verordnungsermächtigung
 
 (1) Die folgenden Unternehmen haben der Abwicklungsbehörde, der Aufsichtsbehörde und der Deutschen Bundesbank Art und Ausmaß der Vernetzung im Sinne des § 40 Absatz 3 Nummer 12 mit Instituten mitzuteilen:
 
@@ -1068,7 +1071,7 @@ Die Abwicklungsbehörde kann den in Satz 1 genannten Unternehmen weitere Anzeige
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über Art und Umfang der Mitteilungspflichten nach Absatz 1 sowie deren Zeitpunkt und Form, die zulässigen Datenträger, Übertragungswege und Datenformate und die Verpflichtung zur Erstattung von Sammelanzeigen und die Einreichung von Sammelaufstellungen, soweit dies zur Erfüllung der Aufgaben der Abwicklungsbehörde erforderlich ist, insbesondere, um einheitliche Unterlagen zur Erstellung und Aktualisierung des Abwicklungsplans zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht mit der Maßgabe übertragen, dass die Rechtsverordnung im Benehmen mit der Abwicklungsbehörde ergeht.
 
-##### § 46 Gruppenabwicklungspläne; Mitwirkung der EU-Mutterunternehmen und Dritter
+###### § 46 Gruppenabwicklungspläne; Mitwirkung der EU-Mutterunternehmen und Dritter
 
 (1) Ist die Abwicklungsbehörde gemäß § 155 die für die Gruppenabwicklung zuständige Behörde, erstellt sie den Gruppenabwicklungsplan. Die Abwicklungsbehörde arbeitet dabei mit den in Absatz 6 Satz 1 Nummer 5 genannten Abwicklungsbehörden in Abwicklungskollegien zusammen und stimmt sich mit den jeweils zuständigen Aufsichtsbehörden ab. Wenn die Anforderungen des § 8 erfüllt sind, kann die Abwicklungsbehörde bei der Erstellung des Gruppenabwicklungsplans Abwicklungsbehörden aus Drittstaaten einbeziehen, in denen die Gruppe Tochterunternehmen, Finanzholdinggesellschaften oder bedeutende Zweigniederlassungen hat. Der Gruppenabwicklungsplan soll keine unverhältnismäßigen Auswirkungen auf einen Mitgliedstaat haben.
 
@@ -1144,7 +1147,7 @@ Die Informationen und Analysen, die nach Satz 1 Nummer 2, 3 und 4 an die dort ge
 
 (8) § 40 Absatz 5 ist entsprechend anzuwenden, wobei im Rahmen der entsprechenden Anwendung von § 40 Absatz 5 Satz 2 die Offenlegung gegenüber dem EU-Mutterunternehmen erfolgt.
 
-##### § 47 Verfahren für Gruppenabwicklungspläne, wenn die Abwicklungsbehörde die für die Gruppenabwicklung zuständige Behörde ist
+###### § 47 Verfahren für Gruppenabwicklungspläne, wenn die Abwicklungsbehörde die für die Gruppenabwicklung zuständige Behörde ist
 
 (1) Ist die Abwicklungsbehörde für die Gruppenabwicklung zuständig, so entscheidet sie gemeinsam mit den für die Tochterunternehmen zuständigen Abwicklungsbehörden über den Gruppenabwicklungsplan. Besteht eine Gruppe aus mehr als einer Abwicklungsgruppe, wird die in § 46 Absatz 3 Satz 1 Nummer 1 zweiter Halbsatz genannte Planung der Abwicklungsmaßnahmen in die gemeinsame Entscheidung nach Satz 1 aufgenommen.
 
@@ -1156,7 +1159,7 @@ Die Informationen und Analysen, die nach Satz 1 Nummer 2, 3 und 4 an die dort ge
 
 (5) Die Abwicklungsbehörde trifft ihre Entscheidung im Einklang mit dem Beschluss der Europäischen Bankenaufsichtsbehörde nach Artikel 19 Absatz 3 der Verordnung (EU) Nr. 1093/2010, sofern bis zum Ablauf der Viermonatsfrist eine der betroffenen Abwicklungsbehörden die Europäische Bankenaufsichtsbehörde gemäß Artikel 19 der Verordnung (EU) Nr. 1093/2010 mit der Angelegenheit befasst. Fasst die Europäische Bankenaufsichtsbehörde innerhalb eines Monats keinen Beschluss, so gilt Absatz 3 entsprechend.
 
-##### § 48 Verfahren für Gruppenabwicklungspläne, wenn die Abwicklungsbehörde nicht die für die Gruppenabwicklung zuständige Behörde ist
+###### § 48 Verfahren für Gruppenabwicklungspläne, wenn die Abwicklungsbehörde nicht die für die Gruppenabwicklung zuständige Behörde ist
 
 (1) Ist die Abwicklungsbehörde nicht die für die Gruppenabwicklung zuständige Behörde, sondern die zuständige Abwicklungsbehörde für ein Tochterunternehmen, bemüht sie sich nach Erhalt der in § 46 Absatz 5 genannten Informationen und Analysen von der für die Gruppenabwicklung zuständigen Behörde, zusammen mit anderen Abwicklungsbehörden und nach Abstimmung mit der Aufsichtsbehörde eine gemeinsame Entscheidung über einen Gruppenabwicklungsplan für die ihrer Zuständigkeit unterliegenden Unternehmen der Gruppe zu treffen.
 
@@ -1170,7 +1173,7 @@ Die Informationen und Analysen, die nach Satz 1 Nummer 2, 3 und 4 an die dort ge
 
 ## Abschnitt 1 Mindestbetrag berücksichtigungsfähiger Verbindlichkeiten
 
-##### § 49 Anwendung und Berechnung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
+###### § 49 Anwendung und Berechnung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
 
 (1) Institute und gruppenangehörige Unternehmen haben auf Verlangen der Abwicklungsbehörde die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten gemäß Absatz 2 und den §§ 49a bis 51 einzuhalten.
 
@@ -1188,13 +1191,13 @@ Die Informationen und Analysen, die nach Satz 1 Nummer 2, 3 und 4 an die dort ge
 
 Die Bezugnahme auf die zusätzliche Eigenmittelanforderung nach § 6c Absatz 1 des Kreditwesengesetzes gilt für Wertpapierinstitute, die nicht die Anforderungen nach Artikel 1 Absatz 2 oder Absatz 5 der Verordnung (EU) 2019/2033 erfüllen, als Bezugnahme auf die entsprechende Regelung in § 50 des Wertpapierinstitutsgesetzes.
 
-##### § 49a Ausnahme von der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
+###### § 49a Ausnahme von der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
 
 (1) Durch gedeckte Schuldverschreibungen finanzierte Hypothekenkreditinstitute, die keine Einlagen entgegennehmen dürfen, sind von einer Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten ausgenommen, sofern das jeweilige Hypothekenkreditinstitut im Wege eines Insolvenzverfahrens oder durch Maßnahmen gemäß § 107 Absatz 1 abgewickelt wird und dadurch sichergestellt ist, dass die von den Gläubigern dieser Hypothekenkreditinstitute und von den Inhabern der gedeckten Schuldverschreibungen getragenen Verluste den Abwicklungszielen entsprechen.
 
 (2) Hypothekenkreditinstitute im Sinne des Absatzes 1 werden auch nicht in die Konsolidierung nach § 49e Absatz 1 einbezogen.
 
-##### § 49b Berücksichtigungsfähige Verbindlichkeiten für Abwicklungseinheiten
+###### § 49b Berücksichtigungsfähige Verbindlichkeiten für Abwicklungseinheiten
 
 (1) Verbindlichkeiten dürfen im Betrag der Eigenmittel und berücksichtigungsfähigen Verbindlichkeiten von Abwicklungseinheiten nur dann enthalten sein, wenn sie die in den Artikeln 72a, 72b und 72c der Verordnung (EU) Nr. 575/2013 genannten Voraussetzungen mit Ausnahme der in Artikel 72b Absatz 2 Buchstabe d genannten Voraussetzungen erfüllen. Soweit gemäß den §§ 49 bis 54 Artikel 92a oder 92b der Verordnung (EU) Nr. 575/2013 Anwendung findet, sind berücksichtigungsfähige Verbindlichkeiten solche im Sinne des Artikels 72k und des Teils 2 Titel I Kapitel 5a der Verordnung (EU) Nr. 575/2013.
 
@@ -1268,7 +1271,7 @@ Für die Zwecke der Prozentsätze nach den Sätzen 1 und 2 rundet die Abwicklung
 
 6. die Auswirkungen etwaiger Umstrukturierungskosten auf die Rekapitalisierung der Abwicklungseinheit.
 
-##### § 49c Festlegung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
+###### § 49c Festlegung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
 
 (1) Die Anforderung nach § 49 Absatz 1 wird von der Abwicklungsbehörde nach Anhörung der Aufsichtsbehörde anhand folgender Kriterien bestimmt:
 
@@ -1364,7 +1367,7 @@ Für die Zwecke des § 49 Absatz 2 Nummer 1 wird die in § 49 Absatz 1 genannte 
 
 (12) Für die Zwecke der Absätze 3 und 7 sind für die Kapitalanforderungen die Übergangsbestimmungen maßgeblich, die in Teil 10 Titel I Kapitel 1, 2 und 4 der Verordnung (EU) Nr. 575/2013 und in den nationalen Rechtsvorschriften zur Ausübung der Optionen, die den Aufsichtsbehörden im Rahmen dieser Verordnung zur Verfügung stehen, festgelegt sind.
 
-##### § 49d Festlegung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten für Abwicklungseinheiten von global systemrelevanten Instituten und in der Union ansässige bedeutende Tochterunternehmen von global systemrelevanten Nicht-EU-Instituten
+###### § 49d Festlegung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten für Abwicklungseinheiten von global systemrelevanten Instituten und in der Union ansässige bedeutende Tochterunternehmen von global systemrelevanten Nicht-EU-Instituten
 
 (1) Die in § 49 Absatz 1 genannte Anforderung an eine Abwicklungseinheit, bei der es sich um ein global systemrelevantes Institut oder einen Teil eines global systemrelevanten Instituts handelt, besteht aus
 
@@ -1388,7 +1391,7 @@ Für die Zwecke des § 49 Absatz 2 Nummer 1 wird die in § 49 Absatz 1 genannte 
 
 (5) Zusammen mit der Entscheidung der Abwicklungsbehörde, gemäß Absatz 1 Nummer 2 oder Absatz 2 Nummer 2 eine zusätzliche Anforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten vorzuschreiben, ist eine Begründung einschließlich einer vollständigen Bewertung der in Absatz 3 genannten Elemente vorzulegen. Die Entscheidung wird unverzüglich durch die Abwicklungsbehörde überprüft, um Änderungen in Bezug auf die für die Abwicklungsgruppe oder das bedeutende Unions-Tochterunternehmen eines global systemrelevanten Nicht-EU-Instituts geltende Höhe einer nach § 6c Absatz 1 des Kreditwesengesetzes festgesetzten Anforderung Rechnung zu tragen.
 
-##### § 49e Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Abwicklungseinheiten
+###### § 49e Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Abwicklungseinheiten
 
 (1) Abwicklungseinheiten kommen den in den §§ 49b bis 49d festgelegten Anforderungen auf konsolidierter Basis auf Ebene der Abwicklungsgruppe nach.
 
@@ -1396,7 +1399,7 @@ Für die Zwecke des § 49 Absatz 2 Nummer 1 wird die in § 49 Absatz 1 genannte 
 
 (3) Im Fall von Abwicklungsgruppen, die gemäß § 2 Absatz 3 Nummer 3b Buchstabe b bestimmt wurden, entscheidet die Abwicklungsbehörde nach Maßgabe wechselseitiger Sicherungs- und Einstandsvereinbarungen und der bevorzugten Abwicklungsstrategie, welche Unternehmen der Abwicklungsgruppe den Anforderungen nach § 49c Absatz 3 bis 5 sowie § 49d Absatz 1 nachkommen müssen, um zu gewährleisten, dass die Abwicklungsgruppe als Ganzes den Anforderungen nach den Absätzen 1 und 2 nachkommt und wie diese Unternehmen dies im Einklang mit dem Abwicklungsplan erfüllen sollen.
 
-##### § 49f Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Unternehmen, die selbst keine Abwicklungseinheit sind
+###### § 49f Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Unternehmen, die selbst keine Abwicklungseinheit sind
 
 (1) Institute, die Tochterunternehmen einer Abwicklungseinheit oder eines Mutterunternehmens mit Sitz in einem Drittstaat aber selbst keine Abwicklungseinheiten sind, kommen den Anforderungen gemäß § 49c auf Einzelbasis nach. Nach Anhörung der Aufsichtsbehörde kann die Abwicklungsbehörde entscheiden, die Anforderung an ein gruppenangehöriges Unternehmen zu stellen, das ein Tochterunternehmen einer Abwicklungseinheit aber selbst keine Abwicklungseinheit ist. Abweichend von Satz 1 kommen EU-Mutterunternehmen, die selbst keine Abwicklungseinheiten, aber Tochterunternehmen von Mutterunternehmen mit Sitz in einem Drittstaat sind, den Anforderungen gemäß den §§ 49c und 49d auf konsolidierter Basis nach. In Abwicklungsgruppen, die nach § 2 Absatz 3 Nummer 3b Buchstabe b bestimmt wurden, kommen folgende Unternehmen den Anforderungen nach § 49c Absatz 7 bis 9 auf Einzelbasis nach:
 
@@ -1518,7 +1521,7 @@ b) an Unternehmen begeben und von diesen erworben werden, die nicht derselben Ab
 
 Für die Zwecke des Satzes 1 Nummer 7 stellt die Abwicklungseinheit auf Verlangen der Abwicklungsbehörde ein unabhängiges, schriftliches und mit einer Begründung versehenes Rechtsgutachten bereit oder weist auf andere Weise glaubhaft nach, dass keinerlei rechtliche, regulatorische oder operative Hindernisse für die Übertragung der Sicherheit von der Abwicklungseinheit an das betreffende Tochterunternehmen bestehen.
 
-##### § 49g Ausnahmen für eine Zentralorganisation und CRR-Kreditinstitute, die einer Zentralorganisation ständig zugeordnet sind
+###### § 49g Ausnahmen für eine Zentralorganisation und CRR-Kreditinstitute, die einer Zentralorganisation ständig zugeordnet sind
 
 Die Abwicklungsbehörde kann die Zentralorganisation oder ein CRR-Kreditinstitut, das einer Zentralorganisation ständig zugeordnet ist, von der Anwendung des § 49f teilweise oder ganz ausnehmen, wenn
 
@@ -1540,7 +1543,7 @@ c) Teil derselben Abwicklungsgruppe sind,
 
 6. kein wesentliches tatsächliches oder rechtliches Hindernis für die unverzügliche Übertragung von Eigenmitteln oder die Rückzahlung von Verbindlichkeiten zwischen der Zentralorganisation und den ihr ständig zugeordneten CRR-Kreditinstituten im Fall der Abwicklung vorhanden oder abzusehen ist.
 
-##### § 49h Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Liquidationseinheiten
+###### § 49h Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Liquidationseinheiten
 
 (1) Die Abwicklungsbehörde legt die in § 49 Absatz 1 genannte Anforderung nicht für Liquidationseinheiten fest.
 
@@ -1558,7 +1561,7 @@ c) Teil derselben Abwicklungsgruppe sind,
 
 (5) Abweichend von Absatz 4 bringt ein Institut oder gruppenangehöriges Unternehmen, das selbst keine Abwicklungseinheit, sondern Tochterunternehmen einer Abwicklungseinheit oder eines Drittlandunternehmens ist, das eine Abwicklungseinheit wäre, wenn es in der Union niedergelassen wäre, seine Positionen in Eigenmittelinstrumenten in Tochterinstituten, die derselben Abwicklungsgruppe angehören und bei denen es sich um Liquidationseinheiten handelt, für die die Abwicklungsbehörde die Anforderung nach § 49 Absatz 1 nicht festgelegt hat, in Abzug, wenn der Gesamtbetrag dieser Positionen 7 Prozent des Gesamtbetrags seiner Eigenmittel und Verbindlichkeiten, die die in § 49f Absatz 2 festgelegten Kriterien für die Berücksichtigungsfähigkeit erfüllen, entspricht oder übersteigt. Die Bestimmung der Beträge erfolgt jährlich zum 31. Dezember als Durchschnitt der letzten zwölf Monate.
 
-##### § 50 Gemeinsame Entscheidung über die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
+###### § 50 Gemeinsame Entscheidung über die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
 
 (1) Die für die Abwicklungseinheit zuständige Abwicklungsbehörde, die für die Gruppenabwicklung zuständige Abwicklungsbehörde, sofern diese nicht identisch sind, und die für die Tochterunternehmen einer Abwicklungsgruppe, die den Anforderungen nach § 49f auf Einzelbasis unterliegen, zuständigen Abwicklungsbehörden streben eine gemeinsame Entscheidung an über
 
@@ -1610,7 +1613,7 @@ Die Abwicklungsbehörde der Abwicklungseinheit oder die für die Gruppenabwicklu
 
 (7) Die Abwicklungsbehörden verlangen und überprüfen in Abstimmung mit den jeweils zuständigen Aufsichtsbehörden, dass und ob Unternehmen die Anforderung nach § 49 Absatz 1 einhalten, und treffen etwaige Entscheidungen parallel zur Ausarbeitung und Fortschreibung von Abwicklungsplänen.
 
-##### § 51 Berichterstattung und Offenlegung der Anforderung
+###### § 51 Berichterstattung und Offenlegung der Anforderung
 
 (1) Die Unternehmen, die der Anforderung nach § 49 Absatz 1 unterliegen, melden der Abwicklungsbehörde und der Aufsichtsbehörde
 
@@ -1644,17 +1647,17 @@ Die Angaben nach Satz 1 sind erstmalig zum 1. Januar 2024 offenzulegen. Abweiche
 
 (5) Wurden Abwicklungsmaßnahmen durchgeführt oder wurde die Abschreibungs- oder Umwandlungsbefugnis nach den §§ 65, 77 Absatz 2 und § 89 ausgeübt, so gelten die Offenlegungspflichten nach Absatz 3 ab dem in § 54 genannten Stichtag für die Erfüllung der Anforderungen nach § 49e oder § 49f.
 
-##### § 52 Berichterstattung der Abwicklungsbehörde an die Europäische Bankenaufsichtsbehörde
+###### § 52 Berichterstattung der Abwicklungsbehörde an die Europäische Bankenaufsichtsbehörde
 
 Für jedes in ihre Zuständigkeit fallende Unternehmen unterrichtet die Abwicklungsbehörde die Europäische Bankenaufsichtsbehörde über die nach § 49e oder § 49f festgelegten Mindestanforderungen an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten, einschließlich der nach § 49f Absatz 1a getroffenen Entscheidungen.
 
-##### § 53 Verstöße gegen die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
+###### § 53 Verstöße gegen die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
 
 (1) Bei einem Verstoß gegen die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten nach § 49e oder § 49f können die Aufsichtsbehörde und die Abwicklungsbehörde im Rahmen ihrer jeweiligen Zuständigkeit von ihren Befugnissen nach den §§ 36, 58, 58a, 59, 60, 172 und 174 oder § 45 des Kreditwesengesetzes Gebrauch machen. Die Abwicklungsbehörde oder die Aufsichtsbehörde kann im Rahmen ihrer jeweiligen Zuständigkeit auch gemäß den §§ 62 bis 64, 77 Absatz 6 eine Bewertung vornehmen, ob die Voraussetzungen des § 62 Absatz 1 Satz 1 Nummer 1 vorliegen.
 
 (2) Die Abwicklungsbehörden und die Aufsichtsbehörden informieren sich über die Ausübung ihrer jeweiligen Befugnisse gemäß Absatz 1.
 
-##### § 54 Übergangsregelungen und Regelungen nach Abwicklung
+###### § 54 Übergangsregelungen und Regelungen nach Abwicklung
 
 (1) Die Abwicklungsbehörde legt für Institute oder gruppenangehörige Unternehmen abweichend von § 49 Absatz 1 angemessene Übergangszeiträume fest, um die Anforderungen nach § 49e oder § 49f oder eine Anforderung, die sich auf Grund der Anwendung von § 49b Absatz 4, 5 oder 7 ergibt, zu erfüllen. Die Übergangsfrist für Institute und gruppenangehörige Unternehmen zur Erfüllung der Anforderungen im Sinne des Satzes 1 endet am 1. Januar 2024.
 
@@ -1688,7 +1691,7 @@ Wenn die Bedingung nach Satz 1 Nummer 3 nicht erfüllt ist, hat die Abwicklungsb
 
 (9) Die Abwicklungsbehörde kann den nach Absatz 1 Satz 1 oder nach Absatz 6 festgelegten Übergangszeitraum nachträglich ändern.
 
-##### § 55 Vertragliche Anerkennung des Instruments der Gläubigerbeteiligung und des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente in Drittstaaten
+###### § 55 Vertragliche Anerkennung des Instruments der Gläubigerbeteiligung und des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente in Drittstaaten
 
 (1) Institute und gruppenangehörige Unternehmen sind verpflichtet, in den Vertragsbestimmungen von Verbindlichkeiten, die dem Recht eines Drittstaats unterliegen, zu vereinbaren, dass der Gläubiger oder die Partei der die Verbindlichkeit begründenden Vereinbarung
 
@@ -1738,7 +1741,7 @@ so bewertet die Abwicklungsbehörde umgehend die Auswirkungen auf die Abwicklung
 
 ## Abschnitt 2 Genehmigtes Kapital und andere Instrumente harten Kernkapitals
 
-##### § 56 Beseitigung der verfahrenstechnischen Hindernisse für das Instrument der Gläubigerbeteiligung
+###### § 56 Beseitigung der verfahrenstechnischen Hindernisse für das Instrument der Gläubigerbeteiligung
 
 (1) Die Abwicklungsbehörde kann im Benehmen mit der Aufsichtsbehörde anordnen, dass Institute oder gruppenangehörige Unternehmen jederzeit in ausreichendem Umfang genehmigtes Grundkapital, genehmigtes Stammkapital oder andere Instrumente des harten Kernkapitals vorzuhalten oder eine bedingte Kapitalerhöhung durchzuführen haben, um die praktische Durchführbarkeit der Umwandlung von Verbindlichkeiten in Anteile oder andere Instrumente des harten Kernkapitals durch die Ausgabe neuer Anteile oder anderer Instrumente des harten Kernkapitals zu gewährleisten. § 202 Absatz 3 Satz 1 des Aktiengesetzes und § 55a Absatz 1 Satz 2 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung sind nicht anzuwenden auf genehmigtes Kapital, das in Vollzug einer Anordnung nach Satz 1 geschaffen wird. Genehmigtes Kapital, das in Vollzug einer Anordnung nach Satz 1 geschaffen wird, wird nicht auf sonstiges genehmigtes Kapital angerechnet. Sollten trotz einer Anordnung gemäß Satz 1 nicht in ausreichendem Umfang genehmigtes Grundkapital, genehmigtes Stammkapital oder andere Instrumente des harten Kernkapitals vorhanden sein, steht dies der Wirksamkeit einer Abwicklungsanordnung nicht entgegen.
 
@@ -1752,7 +1755,7 @@ so bewertet die Abwicklungsbehörde umgehend die Auswirkungen auf die Abwicklung
 
 ## Kapitel 3 Abwicklungsfähigkeit
 
-##### § 57 Bewertung der Abwicklungsfähigkeit von Instituten
+###### § 57 Bewertung der Abwicklungsfähigkeit von Instituten
 
 (1) Die Abwicklungsbehörde bewertet, inwieweit ein Institut, das keiner Gruppe angehört, die einer Beaufsichtigung auf konsolidierter Basis unterliegt, abwicklungsfähig ist. Die Abwicklungsbehörde stimmt sich bei ihrer Bewertung mit der Aufsichtsbehörde und den Abwicklungsbehörden der Mitgliedstaaten und der Drittstaaten ab, in denen sich bedeutende Zweigniederlassungen befinden, soweit Belange dieser bedeutenden Zweigniederlassungen betroffen sind.
 
@@ -1772,7 +1775,7 @@ so bewertet die Abwicklungsbehörde umgehend die Auswirkungen auf die Abwicklung
 
 (6) § 42 findet entsprechende Anwendung.
 
-##### § 58 Bewertung der Abwicklungsfähigkeit von Gruppen
+###### § 58 Bewertung der Abwicklungsfähigkeit von Gruppen
 
 (1) Wenn die Abwicklungsbehörde gemäß § 155 für die Gruppenabwicklung zuständig ist, bewertet sie die Abwicklungsfähigkeit der entsprechenden Gruppe. Die Abwicklungsbehörde führt die Bewertung innerhalb eines Abwicklungskollegiums nach Abstimmung mit der konsolidierenden Aufsichtsbehörde, den für die Tochterunternehmen zuständigen Abwicklungsbehörden und den Abwicklungsbehörden der Mitgliedstaaten und Drittstaaten, in denen sich bedeutende Zweigniederlassungen befinden, soweit Belange dieser bedeutenden Zweigniederlassungen betroffen sind, durch.
 
@@ -1800,7 +1803,7 @@ so bewertet die Abwicklungsbehörde umgehend die Auswirkungen auf die Abwicklung
 
 (6) § 47 Absatz 2 findet entsprechende Anwendung.
 
-##### § 58a Befugnis zur Untersagung bestimmter Ausschüttungen
+###### § 58a Befugnis zur Untersagung bestimmter Ausschüttungen
 
 (1) Die Abwicklungsbehörde hat die Befugnis, einem Unternehmen zu untersagen, Ausschüttungen vorzunehmen, die den nach Absatz 4 berechneten maximal ausschüttungsfähigen Betrag in Bezug auf die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten übersteigen, wenn das Unternehmen die kombinierte Kapitalpufferanforderung unter Einbeziehung der in § 10i Absatz 1a Nummer 1 bis 3 des Kreditwesengesetzes genannten Anforderungen zwar erfüllt, jedoch nicht erfüllt, wenn sie zusätzlich zu den Anforderungen nach den §§ 49c und 49d betrachtet wird, sofern diese nach § 49 Absatz 2 Nummer 1 berechnet werden. Im Fall einer Untersagung darf die Ausschüttung nicht erfolgen durch
 
@@ -1864,7 +1867,7 @@ Kommt die Abwicklungsbehörde bei ihrer Beurteilung zu dem Ergebnis, dass sie vo
  Kapitalpufferanforderungx (Qn – 1)4Quartilobergrenze =Kombinierte
  Kapitalpufferanforderungx Qn4wobei Qn = die Ordinalzahl des betreffenden Quartils.
 
-##### § 59 Abbau und Beseitigung von Abwicklungshindernissen bei Instituten; Verordnungsermächtigung
+###### § 59 Abbau und Beseitigung von Abwicklungshindernissen bei Instituten; Verordnungsermächtigung
 
 (1) Stellt die Abwicklungsbehörde bei ihrer Bewertung nach den §§ 57 und 58 fest, dass der Abwicklungsfähigkeit des Unternehmens wesentliche Abwicklungshindernisse entgegenstehen, so teilt sie dies dem betreffenden Unternehmen und den nach § 57 Absatz 1 beteiligten Behörden schriftlich unter Hinweis auf die Frist nach Absatz 2 mit.
 
@@ -1924,7 +1927,7 @@ Der Zeitplan für die Durchführung der gemäß Absatz 2 Satz 2 vorgeschlagenen 
 
 (11) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen für den Abschluss oder die Änderung von Vereinbarungen über eine gruppeninterne finanzielle Unterstützung, den Abschluss von Dienstleistungsvereinbarungen über die Sicherstellung kritischer Funktionen, die Begrenzung der maximalen individuellen und aggregierten Risikopositionen, die Erfüllung zusätzlicher, für Zwecke der Abwicklungsmaßnahmen relevanter Informationen, die Veräußerung von Vermögensgegenständen, die Einschränkung oder die Erstellung der Entwicklung bestehender oder geplanter Geschäftsaktivitäten oder des Vertriebs neuer oder existierender Produkte, die Änderung der rechtlichen oder operativen Strukturen des Unternehmens oder eines unmittelbar oder mittelbar seiner Kontrolle unterstehenden Unternehmens der Gruppe, die Errichtung einer EU-Mutterfinanzholdinggesellschaft oder gemischten EU-Mutterfinanzholdinggesellschaft oder einer EU-Finanzholdinggesellschaft, die Vorlage eines Plans, mit dem die Einhaltung der in § 49e oder § 49f genannten Anforderungen erreicht werden soll, die Begebung berücksichtigungsfähiger Verbindlichkeiten, die Änderung des Fälligkeitsprofils der Eigenmittelinstrumente und die Errichtung einer getrennten Finanzholdinggesellschaft durch die gemischte Holdinggesellschaft zur Kontrolle des Unternehmens im Sinne der in Absatz 6 genannten Voraussetzungen, unter denen die Maßnahmen jeweils angeordnet werden können, zu treffen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Abwicklungsbehörde übertragen.
 
-##### § 60 Abbau und Beseitigung von Abwicklungshindernissen bei Gruppen
+###### § 60 Abbau und Beseitigung von Abwicklungshindernissen bei Gruppen
 
 (1) Gemeinsam mit den für die Tochterunternehmen zuständigen Abwicklungsbehörden und nach Anhörung des Aufsichtskollegiums und der Abwicklungsbehörden der Mitgliedstaaten, in denen sich bedeutende Zweigniederlassungen befinden, soweit das Abwicklungshindernis für die bedeutende Zweigniederlassung von Belang ist, prüft die für die Gruppenabwicklung zuständige Behörde die Bewertung der Abwicklungsfähigkeit von Gruppen nach § 58 innerhalb des Abwicklungskollegiums und unternimmt alle geeigneten Schritte, um zu einer gemeinsamen Entscheidung über die Anwendung der nach § 59 Absatz 4 ermittelten Maßnahmen auf alle Abwicklungseinheiten und ihre Tochterunternehmen zu gelangen, die Unternehmen im Sinne von § 1 und Teil der Gruppe sind.
 
@@ -1962,7 +1965,7 @@ Bei der Entscheidung sollen die möglichen Auswirkungen solcher Maßnahmen in de
 
 (9) Kommt keine gemeinsame Entscheidung zustande, entscheidet die Abwicklungsbehörde als für die Tochterunternehmen, die keine Abwicklungseinheiten sind, zuständige Abwicklungsbehörde selbst über die geeigneten Maßnahmen, die von den Tochterunternehmen auf Einzelunternehmensebene gemäß § 59 Absatz 4 zu treffen sind. Die Entscheidung muss umfassend begründet werden und den Standpunkten und Vorbehalten der anderen Abwicklungsbehörden Rechnung tragen. Die Entscheidung wird dem betreffenden Tochterunternehmen und der Abwicklungseinheit derselben Abwicklungsgruppe, der Abwicklungsbehörde der Abwicklungseinheit und, sofern es sich dabei nicht um dieselbe Behörde handelt, der für die Gruppenabwicklung zuständigen Behörde übermittelt. Hat eine Abwicklungsbehörde bis zum Ablauf des in Absatz 6 genannten maßgeblichen Zeitraums die Europäische Bankenaufsichtsbehörde gemäß Artikel 19 der Verordnung (EU) Nr. 1093/2010 mit einer in § 59 Absatz 6 Nummer 7, 8 und 10 genannten Angelegenheit befasst, so stellt die für das Tochterunternehmen zuständige Abwicklungsbehörde ihre Entscheidung in Erwartung eines etwaigen Beschlusses der Europäischen Bankenaufsichtsbehörde gemäß Artikel 19 Absatz 3 der genannten Verordnung zurück und folgt in ihrer anschließenden Entscheidung dem Beschluss der Europäischen Bankenaufsichtsbehörde. Der in Absatz 6 genannte maßgebliche Zeitraum ist als Schlichtungsphase im Sinne der Verordnung (EU) Nr. 1093/2010 zu betrachten. Nach Ablauf des in Absatz 6 genannten maßgeblichen Zeitraums oder nach Erreichen einer gemeinsamen Entscheidung kann die Europäische Bankenaufsichtsbehörde nicht mehr mit der Angelegenheit befasst werden. Fasst die Europäische Bankenaufsichtsbehörde innerhalb eines Monats keinen Beschluss, gilt die Entscheidung der für das Tochterunternehmen zuständigen Abwicklungsbehörde.
 
-##### § 60a Vertragliche Anerkennung von Befugnissen zur vorübergehenden Aussetzung von Beendigungsrechten
+###### § 60a Vertragliche Anerkennung von Befugnissen zur vorübergehenden Aussetzung von Beendigungsrechten
 
 (1) Institute und gruppenangehörige Unternehmen sind verpflichtet, in Finanzkontrakte, die dem Recht eines Drittstaats unterliegen, eine vertragliche Bestimmung aufzunehmen, durch welche die Gegenpartei anerkennt, dass die Befugnisse zur vorübergehenden Aussetzung von Beendigungsrechten und sonstigen vertraglichen Rechten nach den §§ 66a, 82 bis 84 und 169 Absatz 5 Nummer 3 und 4 auf die Verbindlichkeit des Instituts oder gruppenangehörigen Unternehmens angewendet werden können, und sich mit einer in Ausübung der Befugnisse nach den §§ 66a und 82 bis 84 ergehenden Aussetzung von Beendigungsrechten und sonstigen vertraglichen Rechten im Sinne des § 144 Absatz 3 einverstanden erklärt.
 
@@ -1990,7 +1993,7 @@ Bei der Entscheidung sollen die möglichen Auswirkungen solcher Maßnahmen in de
 
 ## Kapitel 4 Gründung von Brückeninstituten und Vermögensverwaltungsgesellschaften
 
-##### § 61 Gründung von Brückeninstituten und Vermögensverwaltungsgesellschaften
+###### § 61 Gründung von Brückeninstituten und Vermögensverwaltungsgesellschaften
 
 (1) Die Abwicklungsbehörde oder der Restrukturierungsfonds gemäß § 1 des Restrukturierungsfondsgesetzes kann, auch ohne konkreten Anlass, juristische Personen gründen, die
 
@@ -2006,7 +2009,7 @@ Bei der Entscheidung sollen die möglichen Auswirkungen solcher Maßnahmen in de
 
 ## Kapitel 1 Abwicklungsbefugnis, Voraussetzungen und weitere Befugnisse
 
-##### § 62 Abwicklungsvoraussetzungen in Bezug auf Institute
+###### § 62 Abwicklungsvoraussetzungen in Bezug auf Institute
 
 (1) Die Abwicklungsvoraussetzungen in Bezug auf ein Institut liegen vor, wenn
 
@@ -2032,7 +2035,7 @@ Keine Voraussetzung für den Erlass von Abwicklungsmaßnahmen ist
 
 (2) Die Aufsichtsbehörde stellt nach Anhörung der Abwicklungsbehörde oder die Abwicklungsbehörde stellt nach Anhörung der Aufsichtsbehörde die Bestandsgefährdung des Instituts fest. Zu diesem Zweck stellen sich die Abwicklungsbehörde und die Aufsichtsbehörde auf Anforderung gegenseitig unverzüglich alle Informationen zur Verfügung, die für diese Feststellung erforderlich sind.
 
-##### § 63 Bestandsgefährdung; Verordnungsermächtigung
+###### § 63 Bestandsgefährdung; Verordnungsermächtigung
 
 (1) Eine Bestandsgefährdung eines Instituts liegt vor, wenn
 
@@ -2060,7 +2063,7 @@ Die Regelungen gemäß den Nummern 1, 2 und 3 gelten nur für präventive, zeitl
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen bezüglich der Umstände zu treffen, unter denen eine Bestandsgefährdung nach den Absätzen 1 und 2 vorliegt. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Abwicklungsbehörde mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Bundesanstalt für Finanzdienstleistungsaufsicht und der Deutschen Bundesbank ergeht.
 
-##### § 64 Abwicklungsvoraussetzungen in Bezug auf Finanzinstitute und Holdinggesellschaften
+###### § 64 Abwicklungsvoraussetzungen in Bezug auf Finanzinstitute und Holdinggesellschaften
 
 (1) Die Abwicklungsvoraussetzungen in Bezug auf ein Finanzinstitut, das nachgeordnetes Unternehmen eines auf konsolidierter Basis beaufsichtigten übergeordneten Unternehmens ist, liegen vor, wenn die in § 62 Absatz 1 genannten Voraussetzungen sowohl in Bezug auf das Finanzinstitut als auch in Bezug auf das übergeordnete Unternehmen erfüllt sind. § 62 Absatz 2 gilt entsprechend.
 
@@ -2080,7 +2083,7 @@ Die Regelungen gemäß den Nummern 1, 2 und 3 gelten nur für präventive, zeitl
 
 (5) Die Abwicklungsbehörde kann Abwicklungsmaßnahmen in Bezug auf eine Zentralorganisation und alle ihr ständig zugeordneten Kreditinstitute, die Teil derselben Abwicklungsgruppe sind, ergreifen, wenn diese Abwicklungsgruppe als Ganzes die Voraussetzungen nach § 62 Absatz 1 erfüllt.
 
-##### § 65 Voraussetzungen für die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten
+###### § 65 Voraussetzungen für die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten
 
 (1) Außer in den Fällen des § 89 kann die Abwicklungsbehörde das Instrument der Beteiligung der Inhaber relevanter Kapitalinstrumente gemäß § 89 auch in Bezug auf relevante Kapitalinstrumente und auf berücksichtigungsfähige Verbindlichkeiten nach Absatz 4 anwenden, die
 
@@ -2098,7 +2101,7 @@ Die Regelungen gemäß den Nummern 1, 2 und 3 gelten nur für präventive, zeitl
 
 (4) Berücksichtigungsfähige Verbindlichkeiten dürfen nach Absatz 1 herabgeschrieben oder umgewandelt werden, sofern diese die in § 49f Absatz 2 Nummer 1 genannten Voraussetzungen erfüllen, mit Ausnahme der Voraussetzung in Bezug auf die Restlaufzeit der Verbindlichkeiten nach Maßgabe des Artikels 72c Absatz 1 der Verordnung (EU) Nr. 575/2013. § 68 Absatz 1 Nummer 1 findet Anwendung.
 
-##### § 66 Feststellung der Voraussetzungen für die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten bei gruppenangehörigen Unternehmen
+###### § 66 Feststellung der Voraussetzungen für die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten bei gruppenangehörigen Unternehmen
 
 (1) Beabsichtigt die Abwicklungsbehörde in Bezug auf ein Tochterunternehmen, das relevante Kapitalinstrumente ausgibt, die auf Einzelbasis und auf konsolidierter Basis zur Erfüllung der Eigenmittelanforderungen anerkannt sind oder das berücksichtigungsfähige Verbindlichkeiten nach § 65 Absatz 4 zur Erfüllung der Anforderung nach § 49f auf Einzelbasis ausgibt, die Feststellung der in § 62 Absatz 1 Satz 1 Nummer 1 und 3 genannten Voraussetzungen, sofern die Beteiligung der Inhaber relevanter Kapitalinstrumente gemäß § 89 zur Erreichung der Abwicklungsziele ausreichen würde, oder die Feststellung nach § 65 Absatz 1 Nummer 3, so teilt sie diese Absicht nach Anhörung der für die betreffende Abwicklungseinheit zuständigen Abwicklungsbehörde innerhalb von 24 Stunden der konsolidierenden Aufsichtsbehörde mit. Ist die konsolidierende Aufsichtsbehörde nicht für die Feststellung hinsichtlich des übergeordneten Unternehmens zuständig, so teilt die Abwicklungsbehörde ihre Absicht auch der für die Feststellung zuständigen Behörde des Mitgliedstaats mit. Die Abwicklungsbehörde teilt ihre Absicht nach Anhörung der Abwicklungsbehörde, die für die betreffende Abwicklungseinheit zuständig ist, innerhalb von 24 Stunden auch den Abwicklungsbehörden mit, die für andere Unternehmen innerhalb derselben Abwicklungsgruppe zuständig sind, die direkt oder indirekt in § 49f Absatz 2 genannte Verbindlichkeiten von dem Unternehmen, das § 49f Absatz 1 unterliegt, erworben haben.
 
@@ -2116,7 +2119,7 @@ Die Regelungen gemäß den Nummern 1, 2 und 3 gelten nur für präventive, zeitl
 
 (8) Die Abwicklungsbehörde trifft im Einklang mit diesem Paragraphen eine Entscheidung zur Beteiligung von Inhabern relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten nach § 65 Absatz 4 und setzt sie unter gebührender Berücksichtigung der Dringlichkeit der Umstände umgehend um.
 
-##### § 66a Befugnis zur Aussetzung vertraglicher Pflichten bei Bestandsgefährdung
+###### § 66a Befugnis zur Aussetzung vertraglicher Pflichten bei Bestandsgefährdung
 
 (1) Die Abwicklungsbehörde kann anordnen, dass alle oder einzelne Zahlungs- oder Lieferverpflichtungen eines Instituts oder gruppenangehörigen Unternehmens aus Verträgen, bei denen es Vertragspartei ist, ausgesetzt werden, wenn
 
@@ -2160,7 +2163,7 @@ Vor der Ausübung der Befugnis hört die Abwicklungsbehörde die Aufsichtsbehör
 
 (13) Wenn die Abwicklungsbehörde die Aussetzung anordnet, kann sie für den Zeitraum der Aussetzung von ihren Befugnissen zur Beschränkung von Sicherungsrechten entsprechend § 83 und zur vorübergehenden Aussetzung von Beendigungsrechten entsprechend § 84 Gebrauch machen.
 
-##### § 67 Abwicklungsziele
+###### § 67 Abwicklungsziele
 
 (1) Abwicklungsziele sind
 
@@ -2176,7 +2179,7 @@ Vor der Ausübung der Befugnis hört die Abwicklungsbehörde die Aufsichtsbehör
 
 (2) Vorbehaltlich anderer Bestimmungen dieses Gesetzes sind die Abwicklungsziele gleichrangig; es obliegt der Abwicklungsbehörde, entsprechend der Art und den Umständen des jeweiligen Falls eine angemessene Abwägung vorzunehmen.
 
-##### § 68 Allgemeine Grundsätze für eine Abwicklung
+###### § 68 Allgemeine Grundsätze für eine Abwicklung
 
 (1) Die Abwicklungsbehörde verfolgt bei Abwicklungsmaßnahmen die Grundsätze, dass
 
@@ -2196,7 +2199,7 @@ Vor der Ausübung der Befugnis hört die Abwicklungsbehörde die Aufsichtsbehör
 
 (3) Bei Abwicklungsmaßnahmen wird die Abwicklungsbehörde den Betriebsrat des Instituts oder gruppenangehörigen Unternehmens informieren, soweit dies ohne Beeinträchtigung der Abwicklungsziele möglich ist.
 
-##### § 69 Bewertung; gerichtliche Überprüfung
+###### § 69 Bewertung; gerichtliche Überprüfung
 
 (1) Bevor eine Abwicklungsanordnung erlassen wird,
 
@@ -2206,7 +2209,7 @@ Vor der Ausübung der Befugnis hört die Abwicklungsbehörde die Aufsichtsbehör
 
 (2) Eine Bewertung nach den §§ 69 bis 75 kann nur im Rahmen der gerichtlichen Überprüfung einer Abwicklungsmaßnahme oder der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente gerichtlich überprüft werden.
 
-##### § 70 Sachverständiger Prüfer
+###### § 70 Sachverständiger Prüfer
 
 (1) Der sachverständige Prüfer (Prüfer) muss unabhängig sein von
 
@@ -2220,7 +2223,7 @@ Die für die Durchführung einer abschließenden Bewertung erforderliche Unabhä
 
 (2) Der Prüfer wird von der Abwicklungsbehörde bestellt. Er erhält eine angemessene Vergütung, deren Höhe von der Abwicklungsbehörde festgesetzt wird, und bekommt seine notwendigen Auslagen ersetzt. Die Anforderungen an die Unabhängigkeit des Prüfers bestimmen sich nach den Artikeln 37 bis 41 der Verordnung (EU) 2016/1075.
 
-##### § 71 Zwecke der Bewertung
+###### § 71 Zwecke der Bewertung
 
 Die Bewertung dient der Abwicklungsbehörde als Beurteilungsgrundlage für die folgenden Zwecke:
 
@@ -2240,7 +2243,7 @@ Die Bewertung dient der Abwicklungsbehörde als Beurteilungsgrundlage für die f
 
 8. in allen Fällen der Sicherstellung, dass jegliche Verluste in Bezug auf Vermögenswerte des Instituts oder des gruppenangehörigen Unternehmens zum Zeitpunkt der Anwendung der Abwicklungsinstrumente vollständig erfasst werden.
 
-##### § 72 Grundsätze der Bewertung
+###### § 72 Grundsätze der Bewertung
 
 (1) Die Bewertung hat sich auf vorsichtige Annahmen zu stützen, insbesondere auch in Bezug auf Ausfallwahrscheinlichkeiten und Verlustquoten hinsichtlich der Vermögenswerte des Instituts.
 
@@ -2252,7 +2255,7 @@ Die Bewertung dient der Abwicklungsbehörde als Beurteilungsgrundlage für die f
 
 2. der Restrukturierungsfonds im Sinne des § 1 des Restrukturierungsfondsgesetzes Zinsen und Gebühren für die Garantien und Darlehen berechnen kann, die dem in Abwicklung befindlichen Institut oder gruppenangehörigen Unternehmen nach den §§ 6 bis 6b des Restrukturierungsfondsgesetzes gewährt werden.
 
-##### § 73 Umfang der Bewertung; Prüfungsbericht und ergänzende Bestandteile
+###### § 73 Umfang der Bewertung; Prüfungsbericht und ergänzende Bestandteile
 
 (1) Die Bewertung hat unter Berücksichtigung ihres Zwecks nach § 71 und der Grundsätze der Bewertung nach § 72 für alle Verbindlichkeiten die Rangstellung sowie die voraussichtlichen Befriedigungsquoten in einem Insolvenzverfahren anzugeben, das zum Zeitpunkt der Vornahme der ersten Abwicklungsmaßnahme oder der ersten Beteiligung der Inhaber relevanter Kapitalinstrumente eröffnet worden wäre. Die Durchführung der Bewertung des hypothetischen Insolvenzverfahrens gemäß § 146 erfolgt unabhängig von der Bewertung nach § 69.
 
@@ -2268,7 +2271,7 @@ Die Bewertung dient der Abwicklungsbehörde als Beurteilungsgrundlage für die f
 
 (4) Die Abwicklungsbehörde kann den Prüfungsbericht einschließlich der ergänzenden Bestandteile dem übernehmenden Rechtsträger und dem in Abwicklung befindlichen Institut oder gruppenangehörigen Unternehmen übermitteln, wenn dies mit den Abwicklungszielen vereinbar ist. Ein Rechtsanspruch auf Übermittlung des Prüfungsberichts besteht nicht.
 
-##### § 74 Vorläufige Bewertung
+###### § 74 Vorläufige Bewertung
 
 (1) Ist die Durchführung einer Bewertung, die sämtliche Anforderungen der §§ 70 bis 73 erfüllt, nicht oder nicht rechtzeitig vor der Anwendung einer Abwicklungsanordnung möglich, so kann die Abwicklungsbehörde eine vorläufige Bewertung der Vermögenswerte und Verbindlichkeiten des Instituts oder des gruppenangehörigen Unternehmens vornehmen.
 
@@ -2278,7 +2281,7 @@ Die Bewertung dient der Abwicklungsbehörde als Beurteilungsgrundlage für die f
 
 (4) Die vorläufige Bewertung ist für die Abwicklungsbehörde eine zulässige Grundlage zum Ergreifen von Abwicklungsmaßnahmen, einschließlich der Übernahme der Kontrolle über das in Abwicklung befindliche Institut oder gruppenangehörige Unternehmen und des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente.
 
-##### § 75 Abschließende Bewertung
+###### § 75 Abschließende Bewertung
 
 (1) Eine Bewertung, die nicht sämtliche Anforderungen der §§ 70 bis 73 erfüllt, gilt so lange als vorläufige Bewertung, bis ein sachverständiger und unabhängiger Prüfer nach § 70 eine abschließende Bewertung vorgenommen hat, die sämtliche Anforderungen der §§ 70 bis 73 erfüllt. Die Abwicklungsbehörde hat die abschließende Bewertung unverzüglich zu veranlassen.
 
@@ -2296,7 +2299,7 @@ Die Bewertung dient der Abwicklungsbehörde als Beurteilungsgrundlage für die f
 
 2. das Brückeninstitut oder die Vermögensverwaltungsgesellschaft anweisen, eine zusätzliche angemessene Zahlung als weitere Gegenleistung in Bezug auf die Vermögenswerte, Rechte oder Verbindlichkeiten an das in Abwicklung befindliche Institut oder gruppenangehörige Unternehmen oder in Bezug auf Anteile oder Eigentumstitel an die Inhaber der Anteile oder anderen Eigentumstitel zu entrichten.
 
-##### § 76 Verordnungsermächtigung
+###### § 76 Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen unter Berücksichtigung der technischen Regulierungsstandards gemäß Artikel 36 Absatz 14, 15 und 16 der Richtlinie 2014/59/EU zu erlassen über
 
@@ -2308,7 +2311,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die
 
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Abwicklungsbehörde übertragen.
 
-##### § 77 Anordnung von Abwicklungsmaßnahmen
+###### § 77 Anordnung von Abwicklungsmaßnahmen
 
 (1) Die Abwicklungsbehörde kann bei Vorliegen der Abwicklungsvoraussetzungen nach Maßgabe dieses Gesetzes alle zur Erreichung der Abwicklungsziele erforderlichen Maßnahmen treffen, insbesondere kann sie
 
@@ -2344,7 +2347,7 @@ e) das Instrument der Übertragung auf eine Vermögensverwaltungsgesellschaft na
 
 (9) Wird die Kontrolle im Sinne des § 29 Absatz 2 des Wertpapiererwerbs- und Übernahmegesetzes über eine Zielgesellschaft auf Grund der Anwendung von Abwicklungsmaßnahmen erlangt, so befreit die Bundesanstalt den jeweils die Kontrolle erwerbenden Rechtsträger auf Antrag der Abwicklungsbehörde von der Pflicht zur Veröffentlichung nach § 35 Absatz 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes und zur Abgabe eines Angebots nach § 35 Absatz 2 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes. Im Befreiungsverfahren kommen die §§ 10 bis 12 der Verordnung über den Inhalt der Angebotsunterlage, die Gegenleistung bei Übernahmeangeboten und Pflichtangeboten und die Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots vom 27. Dezember 2001 (BGBl. I S. 4263) entsprechend zur Anwendung.
 
-##### § 78 Allgemeine Befugnisse der Abwicklungsbehörde; Prüfungen vor Ort
+###### § 78 Allgemeine Befugnisse der Abwicklungsbehörde; Prüfungen vor Ort
 
 (1) Wenn die Abwicklungsvoraussetzungen vorliegen, kann die Abwicklungsbehörde
 
@@ -2364,7 +2367,7 @@ e) das Instrument der Übertragung auf eine Vermögensverwaltungsgesellschaft na
 
 (4) Über die Durchsuchung ist eine Niederschrift zu fertigen. Sie muss die verantwortliche Dienststelle, den Grund, die Zeit und den Ort der Durchsuchung und ihr Ergebnis enthalten sowie, falls keine richterliche Anordnung ergangen ist, auch die Tatsachen, welche die Annahme einer Gefahr im Verzug begründet haben.
 
-##### § 79 Unterstützende Maßnahmen
+###### § 79 Unterstützende Maßnahmen
 
 (1) Die Abwicklungsbehörde kann Maßnahmen nach den Absätzen 2 bis 7 anordnen, wenn dies erforderlich ist, um Abwicklungsanordnungen wirksam anzuwenden oder die Abwicklungsziele zu erreichen.
 
@@ -2394,7 +2397,7 @@ e) das Instrument der Übertragung auf eine Vermögensverwaltungsgesellschaft na
 
 2. vorbehaltlich der §§ 82 bis 84 und 144 das Recht einer Vertragspartei, von ihren vertraglich vorgesehenen Rechten Gebrauch zu machen, einschließlich von ihrem Recht auf Kündigung, sofern ein vertragliches Kündigungsrecht für den Fall einer bestimmten Handlung oder Unterlassung des in Abwicklung befindlichen Instituts oder gruppenangehörigen Unternehmens vor der entsprechenden Übertragung oder des übernehmenden Rechtsträgers nach der Übertragung vereinbart ist.
 
-##### § 80 Bereitstellung von Diensten und Einrichtungen
+###### § 80 Bereitstellung von Diensten und Einrichtungen
 
 (1) Die Abwicklungsbehörde kann bei Vorliegen der Abwicklungsvoraussetzungen gegenüber dem in Abwicklung befindlichen Institut oder gruppenangehörigen Unternehmen oder gegenüber einem anderen Unternehmen der Gruppe, dem das in Abwicklung befindliche Institut oder gruppenangehörige Unternehmen angehört, anordnen, Informationen, Dienstleistungen, Einrichtungen sowie Mitarbeiter und Mitarbeiterinnen bereitzustellen, die ein übernehmender Rechtsträger für den effektiven Betrieb des auf ihn übertragenen Geschäfts benötigt.
 
@@ -2408,7 +2411,7 @@ e) das Instrument der Übertragung auf eine Vermögensverwaltungsgesellschaft na
 
 (6) Wird über das Vermögen des Instituts oder des gruppenangehörigen Unternehmens ein Insolvenzverfahren eröffnet, bestehen die aus einer Anordnung nach Absatz 1 folgenden Verpflichtungen gegenüber dem Insolvenzverwalter fort. Die Anordnung kann auch gegenüber dem Insolvenzverwalter erfolgen. Die Absätze 2 bis 5 gelten entsprechend.
 
-##### § 81 Befugnis in Bezug auf in Drittstaaten belegene Gegenstände
+###### § 81 Befugnis in Bezug auf in Drittstaaten belegene Gegenstände
 
 (1) Erstreckt sich eine Abwicklungsmaßnahme auch auf Gegenstände oder Verbindlichkeiten, die in einem Drittstaat belegen sind oder die dem Recht eines Drittstaats unterliegen, kann die Abwicklungsbehörde bei Vorliegen der Abwicklungsvoraussetzungen oder der Voraussetzungen nach § 65 anordnen, dass
 
@@ -2420,7 +2423,7 @@ e) das Instrument der Übertragung auf eine Vermögensverwaltungsgesellschaft na
 
 (2) Wenn nach Einschätzung der Abwicklungsbehörde die in Absatz 1 vorgesehenen Maßnahmen mit hoher Wahrscheinlichkeit nicht geeignet sind, eine nach dem Recht des Drittstaats wirksame Übertragung, Herabschreibung, Umwandlung oder sonstige Abwicklungsmaßnahme herbeizuführen, obwohl die Geschäftsleiter, Sonderverwalter im Sinne des § 45c des Kreditwesengesetzes, vorläufigen Verwalter im Sinne des § 38, Sonderverwalter im Sinne des § 87 oder anderen Personen, die die Kontrolle über das in Abwicklung befindliche Institut oder gruppenangehörige Unternehmen ausüben, die nach Absatz 1 vorgesehenen Maßnahmen ergreifen, verzichtet die Abwicklungsbehörde insoweit auf die Übertragung, Herabschreibung, Umwandlung oder sonstige Abwicklungsmaßnahme. Hat die Abwicklungsbehörde die Übertragung, Herabschreibung, Umwandlung oder sonstige Abwicklungsmaßnahme bereits angeordnet, so hebt sie diese rückwirkend auf.
 
-##### § 82 Befugnis zur Aussetzung vertraglicher Pflichten
+###### § 82 Befugnis zur Aussetzung vertraglicher Pflichten
 
 (1) Die Abwicklungsbehörde kann anordnen, dass alle oder einzelne Zahlungs- oder Lieferverpflichtungen eines in Abwicklung befindlichen Instituts oder gruppenangehörigen Unternehmens aus Verträgen, bei denen es Vertragspartei ist, ausgesetzt werden für den Zeitraum von der öffentlichen Bekanntgabe dieser Aussetzung gemäß § 137 Absatz 1 bis zum Ablauf des auf diese Bekanntgabe folgenden Geschäftstages. Bei der Anordnung der Aussetzung berücksichtigt die Abwicklungsbehörde die möglichen Auswirkungen auf das ordnungsgemäße Funktionieren der Finanzmärkte. Bei der Festlegung des Umfangs einer Aussetzung berücksichtigt die Abwicklungsbehörde die Umstände des Einzelfalls. Dabei bewertet die Abwicklungsbehörde insbesondere, ob die Erstreckung der Aussetzung auf entschädigungsfähige Einlagen, insbesondere auf gedeckte Einlagen, die von natürlichen Personen, Kleinstunternehmen sowie kleinen und mittleren Unternehmen gehalten werden, angemessen ist. Im Fall einer Erstreckung der Aussetzung auf entschädigungsfähige Einlagen hat die Abwicklungsbehörde für jeden Tag der Aussetzung einen angemessenen Betrag festzusetzen, der von der Aussetzung ausgenommen ist. Die Anordnung nach Satz 1 kann nicht bezüglich eines Instituts oder gruppenangehörigen Unternehmens ausgeübt werden, sofern von der Anordnung nach § 66a Gebrauch gemacht wurde.
 
@@ -2432,13 +2435,13 @@ e) das Instrument der Übertragung auf eine Vermögensverwaltungsgesellschaft na
 
 (5) Hat die Abwicklungsbehörde eine Abwicklungsmaßnahme angeordnet, sind die §§ 46 und 46g des Kreditwesengesetzes in Bezug auf das betroffene Institut nur mit Zustimmung der Abwicklungsbehörde anzuwenden.
 
-##### § 83 Befugnis zur zeitweiligen Untersagung der Durchsetzung von Sicherungsrechten
+###### § 83 Befugnis zur zeitweiligen Untersagung der Durchsetzung von Sicherungsrechten
 
 (1) Bei Vorliegen der Abwicklungsvoraussetzungen kann die Abwicklungsbehörde den Gläubigern eines in Abwicklung befindlichen Instituts oder gruppenangehörigen Unternehmens, deren Forderungen besichert sind, die Durchsetzung von Sicherungsrechten untersagen für den Zeitraum von der öffentlichen Bekanntgabe dieser Beschränkung gemäß § 137 Absatz 1 bis zum Ablauf des auf diese Bekanntgabe folgenden Geschäftstages. Bei der Untersagung berücksichtigt die Abwicklungsbehörde die möglichen Auswirkungen auf das ordnungsgemäße Funktionieren der Finanzmärkte. Die Untersagung kann nicht bezüglich eines Instituts oder gruppenangehörigen Unternehmens ausgeübt werden, sofern von der Anordnung nach § 66a Gebrauch gemacht wurde.
 
 (2) Von einer zeitweiligen Untersagung der Durchsetzung von Sicherungsrechten sind Sicherungsrechte ausgenommen, die das in Abwicklung befindliche Institut oder gruppenangehörige Unternehmen gegenüber Systemen im Sinne des § 1 Absatz 16 des Kreditwesengesetzes oder Systembetreibern im Sinne des § 1 Absatz 16a des Kreditwesengesetzes, zentralen Gegenparteien im Sinne des § 1 Absatz 31 des Kreditwesengesetzes, die gemäß Artikel 14 der Verordnung (EU) Nr. 648/2012 in der Union zugelassen sind, sowie von der Europäischen Wertpapier- und Marktaufsichtsbehörde gemäß Artikel 25 der genannten Verordnung anerkannten zentralen Gegenparteien aus Drittstaaten und Zentralbanken an seinen Vermögenswerten bestellt hat.
 
-##### § 84 Befugnis zur vorübergehenden Aussetzung von Beendigungsrechten
+###### § 84 Befugnis zur vorübergehenden Aussetzung von Beendigungsrechten
 
 (1) Bei Vorliegen der Abwicklungsvoraussetzungen kann die Abwicklungsbehörde das Recht einer Partei, einen Vertrag mit einem in Abwicklung befindlichen Institut oder gruppenangehörigen Unternehmen zu beenden, aussetzen für den Zeitraum ab der öffentlichen Bekanntgabe dieser Aussetzung gemäß § 137 Absatz 1 bis zum Ablauf des auf diese Bekanntgabe folgenden Geschäftstages.
 
@@ -2478,7 +2481,7 @@ b) die Abwicklungsbehörde kann einen anderweitigen Schutz der Ansprüche der an
 
 (7) Die Absätze 1 bis 6 gelten entsprechend für sämtliche Beendigungstatbestände, die sich aus einem Vertrag mit einem in Abwicklung befindlichen Institut oder gruppenangehörigen Unternehmen ergeben. Die Aussetzung kann nicht erfolgen, wenn bezüglich des Instituts oder des gruppenangehörigen Unternehmens bereits von der Anordnung nach § 66a Gebrauch gemacht wurde.
 
-##### § 85 Streichung des Gesamtbetrags variabler Vergütungen und zurückbehaltener variabler Vergütungen
+###### § 85 Streichung des Gesamtbetrags variabler Vergütungen und zurückbehaltener variabler Vergütungen
 
 (1) Die Abwicklungsbehörde kann bei Vorliegen der Abwicklungsvoraussetzungen gegenüber dem Institut oder gruppenangehörigen Unternehmen anordnen, dass das Institut oder das gruppenangehörige Unternehmen den Jahresgesamtbetrag, der für die variable Vergütung aller Geschäftsleiter und Geschäftsleiterinnen sowie Mitarbeiter und Mitarbeiterinnen vorgesehen ist (Gesamtbetrag der variablen Vergütungen), auf einen bestimmten Anteil des Jahresergebnisses beschränkt oder vollständig streicht. Von der Beschränkung nach Satz 1 ausgenommen sind variable Vergütungsbestandteile, die vereinbart sind
 
@@ -2488,7 +2491,7 @@ b) die Abwicklungsbehörde kann einen anderweitigen Schutz der Ansprüche der an
 
 (2) Die Abwicklungsbehörde kann bei Vorliegen der Abwicklungsvoraussetzungen gegenüber dem Institut oder dem gruppenangehörigen Unternehmen anordnen, dass das Institut oder gruppenangehörige Unternehmen sämtliche bereits zurückbehaltene variable Vergütungen von Geschäftsleitern und Geschäftsleiterinnen sowie von Mitarbeitern und Mitarbeiterinnen im Sinne des § 25a Absatz 5 Satz 3 des Kreditwesengesetzes und des § 20 Absatz 1 und 2 der Institutsvergütungsverordnung reduziert oder streicht.
 
-##### § 86 Kontrollbefugnisse
+###### § 86 Kontrollbefugnisse
 
 (1) Bei Vorliegen der Abwicklungsvoraussetzungen kann die Abwicklungsbehörde zur Vornahme einer Abwicklungsmaßnahme direkt oder über einen Sonderverwalter im Sinne des § 87 die Kontrolle über das in Abwicklung befindliche Institut und gruppenangehörige Unternehmen übernehmen, um
 
@@ -2498,7 +2501,7 @@ b) die Abwicklungsbehörde kann einen anderweitigen Schutz der Ansprüche der an
 
 (2) Die Abwicklungsbehörde und der Sonderverwalter gelten nicht als Geschäftsleiter im Sinne des § 25c des Kreditwesengesetzes und nicht als Aufsichts- oder Verwaltungsorgan im Sinne des § 25d des Kreditwesengesetzes.
 
-##### § 87 Sonderverwaltung; gemeinsamer Sonderverwalter für gruppenangehörige Unternehmen
+###### § 87 Sonderverwaltung; gemeinsamer Sonderverwalter für gruppenangehörige Unternehmen
 
 (1) Hat die Abwicklungsbehörde gegenüber einem Institut eine Abwicklungsanordnung erlassen, kann sie die Geschäftsleitung und das Aufsichts- oder Verwaltungsorgan dieses Instituts für einen Zeitraum von bis zu einem Jahr durch einen geeigneten Sonderverwalter ersetzen. Der Zeitraum kann ausnahmsweise auf insgesamt bis zu zwei Jahre verlängert werden, wenn die Voraussetzungen für die Bestellung eines Sonderverwalters fortbestehen. Die Abwicklungsbehörde kann den Sonderverwalter jederzeit ohne Angabe von Gründen abberufen.
 
@@ -2506,7 +2509,7 @@ b) die Abwicklungsbehörde kann einen anderweitigen Schutz der Ansprüche der an
 
 (3) Mit der Bestellung eines Sonderverwalters nach Absatz 1 endet eine bestehende Bestellung eines vorläufigen Verwalters für dieses Institut nach § 38 oder eines Sonderverwalters nach § 45c des Kreditwesengesetzes.
 
-##### § 88 Rechte, Aufgaben und Befugnisse des Sonderverwalters
+###### § 88 Rechte, Aufgaben und Befugnisse des Sonderverwalters
 
 (1) Die Abwicklungsbehörde kann dem Sonderverwalter nach § 87 die in § 45c Absatz 2 des Kreditwesengesetzes genannten Aufgaben und Befugnisse und die Rechte der Anteilsinhaber sowie die Aufgaben und Befugnisse des Verwaltungs- sowie des Aufsichtsorgans des Instituts übertragen. Im Rahmen seiner Tätigkeit ist der Sonderverwalter insbesondere dazu befugt, zur Durchführung der von der Abwicklungsbehörde angeordneten Abwicklungsmaßnahmen Kapitalerhöhungen und sonstige Maßnahmen durchzuführen, die die Eigentümerstruktur des Instituts verändern, und das Institut an ein organisatorisch und finanziell solides Drittinstitut unter Beachtung der für eine solche Abwicklungsmaßnahme geltenden Vorgaben nach den §§ 107 ff. zu veräußern.
 
@@ -2522,7 +2525,7 @@ b) die Abwicklungsbehörde kann einen anderweitigen Schutz der Ansprüche der an
 
 ## Abschnitt 1 Beteiligung der Anteilsinhaber und Gläubiger
 
-##### § 89 Instrument der Beteiligung der Inhaber relevanter Kapitalinstrumente
+###### § 89 Instrument der Beteiligung der Inhaber relevanter Kapitalinstrumente
 
 (1) Liegen bei einem Institut oder einem gruppenangehörigen Unternehmen die Abwicklungsvoraussetzungen gemäß § 62 oder § 64 vor, so hat die Abwicklungsbehörde nach Maßgabe der nachfolgenden Bestimmungen anzuordnen, dass relevante Kapitalinstrumente des Instituts oder des gruppenangehörigen Unternehmens in Anteile oder andere Instrumente des harten Kernkapitals am Institut oder am gruppenangehörigen Unternehmen umgewandelt werden oder im Fall des § 96 Absatz 1 Nummer 1 auch der Nennwert oder der ausstehende Restbetrag von relevanten Kapitalinstrumenten des Instituts oder des gruppenangehörigen Unternehmens ganz oder teilweise herabgeschrieben wird; im Fall des § 96 Absatz 7 kann eine Herabschreibung ohne Durchführung einer Umwandlung erfolgen. Eine Umwandlung oder Herabschreibung nach Satz 1 hat sich bei Vorliegen der Voraussetzungen des § 65 Absatz 1 auch auf berücksichtigungsfähige Verbindlichkeiten im Sinne des § 65 Absatz 4 zu erstrecken.
 
@@ -2530,7 +2533,7 @@ b) die Abwicklungsbehörde kann einen anderweitigen Schutz der Ansprüche der an
 
 (3) Bei einer Maßnahme nach Absatz 1 in Bezug auf eine Abwicklungseinheit oder in Ausnahmefällen und abweichend vom Abwicklungsplan in Bezug auf ein Unternehmen, das keine Abwicklungseinheit ist, wird der Betrag, der auf Ebene eines solchen Unternehmens gemäß § 96 verringert, herabgeschrieben oder umgewandelt wird, auf die Schwellenwerte angerechnet, die gemäß § 7a Absatz 3 des Restrukturierungsfondsgesetzes für das betreffende Unternehmen gelten.
 
-##### § 90 Instrument der Gläubigerbeteiligung
+###### § 90 Instrument der Gläubigerbeteiligung
 
 Liegen bei einem Institut oder einem gruppenangehörigen Unternehmen die Abwicklungsvoraussetzungen gemäß § 62 oder § 64 vor, so kann die Abwicklungsbehörde nach Maßgabe der nachfolgenden Bestimmungen anordnen, dass
 
@@ -2544,7 +2547,7 @@ c) einem Brückeninstitut, auf das Vermögenswerte, Rechte oder Verbindlichkeite
 
 2. im Fall des § 96 Absatz 1 Nummer 1 auch der Nennwert oder der ausstehende Restbetrag von bail-in-fähigen Verbindlichkeiten des Instituts oder des gruppenangehörigen Unternehmens ganz oder teilweise herabgeschrieben wird; im Fall des § 96 Absatz 7 kann eine Herabschreibung ohne Durchführung einer Umwandlung erfolgen.
 
-##### § 91 Bail-in-fähige Verbindlichkeiten
+###### § 91 Bail-in-fähige Verbindlichkeiten
 
 (1) Das Instrument der Gläubigerbeteiligung ist auf alle Verbindlichkeiten eines Instituts oder eines gruppenangehörigen Unternehmens anzuwenden, die weder gemäß Absatz 2 vom Anwendungsbereich des Instruments der Gläubigerbeteiligung ausgenommen sind noch relevante Kapitalinstrumente sind (bail-in-fähige Verbindlichkeiten).
 
@@ -2576,7 +2579,7 @@ c) Einlagensicherungssystemen auf Grund von Beitragspflichten;
 
 8. Verbindlichkeiten gegenüber Instituten oder gruppenangehörigen Unternehmen, die Teil derselben Abwicklungsgruppe, selbst aber keine Abwicklungseinheiten sind, unabhängig von ihrer Laufzeit; dies gilt nicht, wenn diese Verbindlichkeiten im Rahmen des regulären Insolvenzverfahrens einen gleichen oder einen niedrigeren Rang einnehmen als Verbindlichkeiten gemäß § 46f Absatz 6 und 9 des Kreditwesengesetzes; in diesem Fall bewertet die Abwicklungsbehörde des betreffenden Tochterunternehmens, das keine Abwicklungseinheit ist, ob der Betrag der Posten, die die Anforderungen des § 49f Absatz 2 erfüllen, ausreicht, um die Durchführung der bevorzugten Abwicklungsstrategie zu unterstützen.
 
-##### § 92 Ausschluss der Anwendung des Instruments der Gläubigerbeteiligung im Einzelfall
+###### § 92 Ausschluss der Anwendung des Instruments der Gläubigerbeteiligung im Einzelfall
 
 (1) Die Abwicklungsbehörde kann im Einzelfall bestimmte bail-in-fähige Verbindlichkeiten oder bestimmte Kategorien berücksichtigungsfähiger Verbindlichkeiten ganz oder teilweise aus dem Anwendungsbereich des Instruments der Gläubigerbeteiligung ausschließen, sofern
 
@@ -2600,7 +2603,7 @@ c) Einlagensicherungssystemen auf Grund von Beitragspflichten;
 
 (3) Bevor die Abwicklungsbehörde von der Möglichkeit eines Ausschlusses gemäß Absatz 1 Gebrauch macht, meldet sie den beabsichtigten Ausschluss der Kommission. Für den Fall, dass der beabsichtigte Ausschluss entweder einen Ausgleichsbeitrag des Restrukturierungsfonds oder eine Finanzierung aus einer alternativen Finanzierungsquelle gemäß § 94 erfordert und die Anforderungen dieses Paragraphen in Verbindung mit delegierten Rechtsakten der Kommission nach Artikel 44 Absatz 11 der Richtlinie 2014/59/EU nicht erfüllt sind, gibt die Abwicklungsbehörde der Kommission die Gelegenheit, binnen 24 Stunden den beabsichtigten Ausschluss zu untersagen oder eine Modifizierung des beabsichtigten Ausschlusses vorzuschlagen. Die Abwicklungsbehörde kann ihr Einverständnis zu einer längeren Frist geben.
 
-##### § 93 Anwendung des Instruments der Gläubigerbeteiligung in Bezug auf Verbindlichkeiten aus Derivaten
+###### § 93 Anwendung des Instruments der Gläubigerbeteiligung in Bezug auf Verbindlichkeiten aus Derivaten
 
 (1) In Bezug auf Verbindlichkeiten aus Derivaten ist das Instrument der Gläubigerbeteiligung nur nach oder gleichzeitig mit der Glattstellung der Derivate anwendbar.
 
@@ -2618,7 +2621,7 @@ c) Einlagensicherungssystemen auf Grund von Beitragspflichten;
 
 (5) Die Absätze 1 bis 4 gelten entsprechend für Verbindlichkeiten aus Finanzleistungen im Sinne des § 104 Absatz 1 der Insolvenzordnung, die in einem Rahmenvertrag nach § 104 Absatz 3 der Insolvenzordnung zusammengefasst sind.
 
-##### § 94 Ausgleichsbeiträge des Restrukturierungsfonds
+###### § 94 Ausgleichsbeiträge des Restrukturierungsfonds
 
 (1) Für die nach § 92 ganz oder teilweise ausgeschlossenen Verbindlichkeiten kann nach Maßgabe des § 7a des Restrukturierungsfondsgesetzes ein Ausgleichsbeitrag des Restrukturierungsfonds erbracht werden.
 
@@ -2628,7 +2631,7 @@ c) Einlagensicherungssystemen auf Grund von Beitragspflichten;
 
 2. alle unbesicherten bail-in-fähigen Verbindlichkeiten mit Ausnahme von entschädigungsfähigen Einlagen, die nicht gemäß § 92 ausgeschlossen worden sind, vollständig abgeschrieben oder umgewandelt worden sind.
 
-##### § 95 Zwecke des Instruments der Gläubigerbeteiligung
+###### § 95 Zwecke des Instruments der Gläubigerbeteiligung
 
 Das Instrument der Gläubigerbeteiligung kann für folgende Zwecke eingesetzt werden:
 
@@ -2644,7 +2647,7 @@ a) auf ein Brückeninstitut mit dem Ziel, Kapital für das Brückeninstitut bere
 
 b) im Rahmen des Instruments der Unternehmensveräußerung oder des Instruments der Übertragung auf eine Vermögensverwaltungsgesellschaft.
 
-##### § 96 Festlegung des Betrags der herabzuschreibenden oder umzuwandelnden relevanten Kapitalinstrumente und Verbindlichkeiten
+###### § 96 Festlegung des Betrags der herabzuschreibenden oder umzuwandelnden relevanten Kapitalinstrumente und Verbindlichkeiten
 
 (1) Vor der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente oder des Instruments der Gläubigerbeteiligung legt die Abwicklungsbehörde auf Grundlage der gemäß § 69 vorgenommenen Bewertung folgende Beträge fest:
 
@@ -2678,7 +2681,7 @@ Etwaige Kapitalzuführungen durch den Restrukturierungsfonds an das Brückeninst
 
 (7) Für den Fall, dass eine Umwandlung von relevanten Kapitalinstrumenten und berücksichtigungsfähigen Verbindlichkeiten nach § 65 Absatz 4 oder bail-in-fähigen Verbindlichkeiten im Sinne des Absatzes 1 Nummer 2 auf Grund der Rechtsform des Instituts oder gruppenangehörigen Unternehmens nicht möglich und ein Rechtsformwechsel gemäß § 77 Absatz 3 unverhältnismäßig ist, kann bei der Festlegung der Beträge zugrunde gelegt werden, dass eine Wandlung im Sinne des Absatzes 1 Nummer 2 nicht stattfindet und die Herabschreibung nach Absatz 1 Nummer 1 auch zu den in Absatz 1 Nummer 2 Buchstabe a oder b aufgeführten Zwecken erfolgt. Die Festlegung ist ebenfalls nach Maßgabe des Satzes 1 vorzunehmen, wenn das Landesrecht anstelle eines Rechtsformwechsels nach § 77 Absatz 3 Satz 2 ein Alternativmodell vorsieht.
 
-##### § 97 Haftungskaskade
+###### § 97 Haftungskaskade
 
 (1) Anteile, andere Instrumente des harten Kernkapitals, relevante Kapitalinstrumente und berücksichtigungsfähige Verbindlichkeiten nach § 65 Absatz 4 sowie bail-in-fähige Verbindlichkeiten werden in folgender Reihenfolge zur Haftung herangezogen:
 
@@ -2694,7 +2697,7 @@ Dabei wird eine der in Satz 1 Nummer 2 bis 4 genannten Kategorien erst herangezo
 
 (2) Bei der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente oder des Instruments der Gläubigerbeteiligung weist die Abwicklungsbehörde die Verluste, die in dem betreffenden nach § 96 Absatz 1 festgelegten Betrag ausgedrückt sind, unter Beachtung der Haftungskaskade gleichmäßig den Anteilen oder anderen Instrumenten des harten Kernkapitals, des zusätzlichen Kernkapitals oder des Ergänzungskapitals sowie den berücksichtigungsfähigen Verbindlichkeiten nach § 65 Absatz 4 und bail-in-fähigen Verbindlichkeiten gleichen Ranges zu. Zu diesem Zweck schreibt sie den Nennwert dieser Anteile und den Nennwert oder den noch ausstehenden Restbetrag der anderen Kapitalinstrumente und berücksichtigungsfähigen Verbindlichkeiten nach § 65 Absatz 4 oder dieser bail-in-fähigen Verbindlichkeiten im gleichen Umfang proportional zu ihrem Nennwert herab oder wandelt sie diese im gleichen Umfang proportional zu ihrem Nennwert um. Satz 1 gilt nicht, wenn eine andere Verlustverteilung innerhalb von Verbindlichkeiten des gleichen Ranges gemäß § 92 Absatz 1 zulässig ist.
 
-##### § 98 Umwandlungssatz; Verordnungsermächtigung
+###### § 98 Umwandlungssatz; Verordnungsermächtigung
 
 (1) Der Faktor, zu dem ein relevantes Kapitalinstrument oder eine berücksichtigungsfähige Verbindlichkeit nach § 65 Absatz 4 oder eine bail-in-fähige Verbindlichkeit im Rahmen der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente oder des Instruments der Gläubigerbeteiligung umgewandelt wird (Umwandlungssatz), muss wertangemessen sein.
 
@@ -2702,7 +2705,7 @@ Dabei wird eine der in Satz 1 Nummer 2 bis 4 genannten Kategorien erst herangezo
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen darüber zu erlassen, wie betroffene Gläubiger durch den Umwandlungssatz angemessen entschädigt werden können, insbesondere auch darüber, wie der Priorität vorrangiger Verbindlichkeiten nach geltendem Insolvenzrecht durch den Umwandlungssatz Rechnung getragen werden kann. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Abwicklungsbehörde übertragen.
 
-##### § 99 Weitere Wirkungen der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung
+###### § 99 Weitere Wirkungen der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung
 
 (1) Schreibt die Abwicklungsbehörde den Nennwert oder den geschuldeten Restbetrag eines relevanten Kapitalinstruments oder einer berücksichtigungsfähigen Verbindlichkeit nach § 65 Absatz 4 oder bail-in-fähigen Verbindlichkeit unter Ausübung der in § 89 Absatz 1 oder § 90 Nummer 2 genannten Befugnisse auf null herab, gelten die betreffende Verbindlichkeit und etwaige daraus resultierende Verpflichtungen oder Ansprüche gegenüber dem Institut oder gruppenangehörigen Unternehmen sowie deren Rechtsnachfolgern als erfüllt.
 
@@ -2724,7 +2727,7 @@ Dabei wird eine der in Satz 1 Nummer 2 bis 4 genannten Kategorien erst herangezo
 
 (8) Die Rechte der Inhaber relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten nach § 65 Absatz 4 oder der Gläubiger gegen Mitschuldner, Bürgen und sonstige Dritte, die für Verbindlichkeiten des Instituts oder gruppenangehörigen Unternehmens haften, werden durch die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente oder des Instruments der Gläubigerbeteiligung nicht berührt. Das Institut oder gruppenangehörige Unternehmen sowie deren Rechtsnachfolger werden jedoch durch die Anwendung der in Satz 1 genannten Instrumente gegenüber dem Mitschuldner, dem Bürgen, dem sonstigen Dritten oder anderen Rückgriffsberechtigten in gleicher Weise befreit wie gegenüber dem Inhaber relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten nach § 65 Absatz 4 oder dem Gläubiger.
 
-##### § 100 Behandlung der Anteilsinhaber und der Inhaber von Instrumenten des harten Kernkapitals bei der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung
+###### § 100 Behandlung der Anteilsinhaber und der Inhaber von Instrumenten des harten Kernkapitals bei der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung
 
 (1) Im Fall des § 96 Absatz 2 wird die Beteiligung der Anteilsinhaber durch die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente oder des Instruments der Gläubigerbeteiligung entsprechend dem Umwandlungssatz verwässert. Anderenfalls verlieren die Anteilsinhaber ihre Rechtsposition vollständig.
 
@@ -2746,7 +2749,7 @@ Dabei wird eine der in Satz 1 Nummer 2 bis 4 genannten Kategorien erst herangezo
 
 (7) Nach Absatz 5 Nummer 2 auf die Abwicklungsbehörde übergegangene Stimmrechte gehen mit Ablauf der Untersagungsfrist oder mit Zustimmung der Aufsichtsbehörde vollständig auf den Erwerber über.
 
-##### § 101 Abwicklungsbefugnisse bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung
+###### § 101 Abwicklungsbefugnisse bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung
 
 Bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung kann die Abwicklungsbehörde nach Maßgabe von § 96 Absatz 1 und 2 und § 97 alle erforderlichen Anordnungen treffen. Die Abwicklungsbehörde kann insbesondere
 
@@ -2766,7 +2769,7 @@ Bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinst
 
 8. Kapital des Instituts oder gruppenangehörigen Unternehmens erhöhen, auch unter Ausschluss von Bezugsrechten und gegen Sacheinlagen.
 
-##### § 102 Erfordernis der Erstellung eines Restrukturierungsplans
+###### § 102 Erfordernis der Erstellung eines Restrukturierungsplans
 
 (1) Wird das Instrument der Gläubigerbeteiligung zur Rekapitalisierung eines Instituts oder gruppenangehörigen Unternehmens gemäß § 95 Nummer 1 angewandt, so hat die Geschäftsleitung des betroffenen Instituts oder gruppenangehörigen Unternehmens innerhalb eines Monats, nachdem das Instrument der Gläubigerbeteiligung durch die Abwicklungsbehörde angewandt geworden ist, einen Restrukturierungsplan zu erstellen, der die in § 103 festgelegten Anforderungen erfüllt, und ihn der Abwicklungsbehörde zur Genehmigung vorzulegen.
 
@@ -2776,7 +2779,7 @@ Bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinst
 
 (4) Wird das Instrument der Gläubigerbeteiligung gemäß § 95 Nummer 1 auf zwei oder mehr als zwei Unternehmen einer Gruppe angewendet, so muss der Restrukturierungsplan vom EU-Mutterinstitut erstellt werden und sämtliche Institute der Gruppe abdecken; § 14 gilt entsprechend. Der Restrukturierungsplan ist bei der für die Abwicklung auf Gruppenebene zuständigen Behörde einzureichen. Ist die Abwicklungsbehörde die gemäß § 155 für die Gruppenabwicklung zuständige Behörde, leitet sie den Restrukturierungsplan an die für die anderen Gruppenunternehmen zuständigen Abwicklungsbehörden und die Europäische Bankenaufsichtsbehörde weiter.
 
-##### § 103 Anforderungen an den Restrukturierungsplan
+###### § 103 Anforderungen an den Restrukturierungsplan
 
 (1) Im Restrukturierungsplan ist festzulegen, wie innerhalb eines angemessenen Zeitrahmens die vollständige oder teilweise Fortführung der Geschäftstätigkeit des Instituts oder des gruppenangehörigen Unternehmens sichergestellt werden kann. Der Restrukturierungsplan berücksichtigt unter anderem die aktuelle Lage und die künftigen Aussichten auf den Finanzmärkten und enthält Annahmen für den besten wie für den schlechtesten Fall. Dabei sind auch Kombinationen von Ereignissen zu berücksichtigen, anhand derer institutsspezifische Gefährdungspotenziale identifiziert werden können. Die im Restrukturierungsplan enthaltenen Maßnahmen sollen auf realistischen Annahmen hinsichtlich der Wirtschafts- und Finanzmarktbedingungen, unter denen das Institut oder gruppenangehörige Unternehmen tätig sein wird, beruhen. Annahmen, die in dem Restrukturierungsplan getroffen wurden, sind mit sektorweiten Referenzwerten zu vergleichen.
 
@@ -2802,7 +2805,7 @@ Bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinst
 
 (4) Sind die Vorschriften der Europäischen Union oder des Abkommens über den Europäischen Wirtschaftsraum für staatliche Beihilfen anwendbar, so muss der Restrukturierungsplan mit dem Umstrukturierungsplan, den das Institut oder gruppenangehörige Unternehmen der Kommission oder gegebenenfalls der EFTA-Überwachungsbehörde gemäß den Vorschriften des Unionsrechts oder des Abkommens über den Europäischen Wirtschaftsraum für staatliche Beihilfen vorlegen muss, vereinbar sein.
 
-##### § 104 Bewertung und Genehmigung des Restrukturierungsplans
+###### § 104 Bewertung und Genehmigung des Restrukturierungsplans
 
 (1) Die Abwicklungsbehörde bewertet im Benehmen mit der Aufsichtsbehörde innerhalb eines Monats nach Vorlage des Restrukturierungsplans die Wahrscheinlichkeit, dass die Fortführung der Geschäftstätigkeit des Instituts oder gruppenangehörigen Unternehmens bei Umsetzung des Restrukturierungsplans sichergestellt werden kann. Die Abwicklungsbehörde genehmigt den Restrukturierungsplan, wenn sich die Abwicklungsbehörde und die Aufsichtsbehörde im Rahmen ihrer Bewertung davon überzeugt haben, dass die Umsetzung des Restrukturierungsplans die Fortführung der Geschäftstätigkeit des Instituts oder des gruppenangehörigen Unternehmens mit überwiegender Wahrscheinlichkeit sicherstellt.
 
@@ -2810,13 +2813,13 @@ Bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinst
 
 (3) Die Geschäftsleitung oder der gemäß § 87 bestellte Sonderverwalter des Instituts oder gruppenangehörigen Unternehmens legt der Abwicklungsbehörde innerhalb von zwei Wochen nach Erhalt einer Mitteilung nach Absatz 2 einen geänderten Restrukturierungsplan zur Genehmigung vor. Innerhalb einer Woche bewertet die Abwicklungsbehörde den geänderten Restrukturierungsplan und genehmigt diesen oder teilt der Geschäftsleitung oder dem gemäß § 87 bestellten Sonderverwalter des Instituts oder des gruppenangehörigen Unternehmens mit, ob der geänderte Restrukturierungsplan weiterer Änderungen bedarf.
 
-##### § 105 Umsetzung des Restrukturierungsplans; spätere Überarbeitungen
+###### § 105 Umsetzung des Restrukturierungsplans; spätere Überarbeitungen
 
 (1) Die Geschäftsleitung des Instituts oder gruppenangehörigen Unternehmens oder die als Sonderverwalter gemäß § 87 bestellte Person setzt den genehmigten Restrukturierungsplan um und erstattet der Abwicklungsbehörde mindestens alle sechs Monate über die Fortschritte bei der Umsetzung Bericht.
 
 (2) Auf Anforderung der Abwicklungsbehörde hat die Geschäftsleitung des Instituts oder gruppenangehörigen Unternehmens oder die als Sonderverwalter gemäß § 87 bestellte Person den Plan zu überarbeiten, falls dies nach Ansicht der Abwicklungsbehörde im Benehmen mit der Aufsichtsbehörde zur Erreichung des in § 104 Absatz 1 genannten Ziels erforderlich ist, und der Abwicklungsbehörde zur Genehmigung vorzulegen. Absatz 1 gilt für die Umsetzung des geänderten Plans entsprechend.
 
-##### § 106 Zulassung zum Handel und Einbeziehung in den Handel von neu ausgegebenen Wertpapieren
+###### § 106 Zulassung zum Handel und Einbeziehung in den Handel von neu ausgegebenen Wertpapieren
 
 (1) Wertpapiere, die zum Zweck der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente oder des Instruments der Gläubigerbeteiligung emittiert worden sind, sind an jeder inländischen Börse zum Handel im regulierten Markt zugelassen, wenn Wertpapiere dieser Art bereits vor Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente oder des Instruments der Gläubigerbeteiligung an einer inländischen Börse zum Handel im regulierten Markt zugelassen waren.
 
@@ -2832,7 +2835,7 @@ Bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinst
 
 ## Unterabschnitt 1 Allgemeine Vorschriften
 
-##### § 107 Übertragung
+###### § 107 Übertragung
 
 (1) Liegen die Abwicklungsvoraussetzungen gemäß § 62 oder § 64 vor, kann die Abwicklungsbehörde nach Maßgabe der §§ 108 bis 137 in der Abwicklungsanordnung anordnen, dass
 
@@ -2848,17 +2851,17 @@ b) ein Brückeninstitut (Instrument der Übertragung auf ein Brückeninstitut),
 
 (3) Anteilsinhaber und Gläubiger des übertragenden Rechtsträgers sowie sonstige Dritte, deren Vermögenswerte, Verbindlichkeiten oder Rechtsverhältnisse nicht nach dieser Vorschrift übertragen werden, haben keinerlei Rechte in Bezug auf die Übertragungsgegenstände. Ein Anspruch auf Übertragung besteht nicht.
 
-##### § 108 Mehrfache Anwendung
+###### § 108 Mehrfache Anwendung
 
 Liegen die Abwicklungsvoraussetzungen gemäß § 62 oder § 64 vor, können das Instrument der Unternehmensveräußerung, das Instrument der Übertragung auf ein Brückeninstitut und das Instrument der Übertragung auf eine Vermögensverwaltungsgesellschaft auch mehr als einmal ausgeübt werden.
 
-##### § 109 Einwilligung des übernehmenden Rechtsträgers
+###### § 109 Einwilligung des übernehmenden Rechtsträgers
 
 (1) Eine Übertragung nach § 107 bedarf der Einwilligung des übernehmenden Rechtsträgers. Die Einwilligung muss auf einen Entwurf der Abwicklungsanordnung Bezug nehmen, der der erlassenen Abwicklungsanordnung inhaltlich entspricht. Im Fall des § 107 Absatz 1 Nummer 1 Buchstabe a bedarf die Einwilligung der öffentlichen Beurkundung; der Entwurf der Abwicklungsanordnung ist der Einwilligung als Anlage beizufügen. Das Vorliegen der Einwilligung ist in der Abwicklungsanordnung zu dokumentieren.
 
 (2) Soll in der Abwicklungsanordnung vorgesehen werden, dass dem Institut oder dem gruppenangehörigen Unternehmen als Gegenleistung für die Übertragung Anteile an dem übernehmenden Rechtsträger einzuräumen sind und ist hierfür ein Beschluss der Anteilsinhaberversammlung beim übernehmenden Rechtsträger erforderlich, darf die Abwicklungsanordnung erst erlassen werden, wenn die erforderlichen Beschlüsse der Anteilsinhaberversammlung gefasst sind und nicht mehr mit der Rechtsfolge einer möglichen Rückabwicklung angefochten werden können.
 
-##### § 110 Auswahl der Übertragungsgegenstände
+###### § 110 Auswahl der Übertragungsgegenstände
 
 (1) Unbeschadet der Befugnisse der Abwicklungsbehörde gemäß den §§ 82, 83 und 144 können die Übertragungsgegenstände nur zusammen mit den bestellten Sicherheiten übertragen werden und können Sicherheiten nur zusammen mit den Übertragungsgegenständen, für welche die Sicherheiten bestellt sind, übertragen werden.
 
@@ -2878,7 +2881,7 @@ Liegen die Abwicklungsvoraussetzungen gemäß § 62 oder § 64 vor, können das 
 
 (4) Bei Systemen im Sinne des § 1 Absatz 16 des Kreditwesengesetzes berechtigt eine Übertragung von Übertragungsgegenständen nicht zu einem Widerruf von Übertragungsaufträgen im Sinne des Artikels 5 der Richtlinie 98/26/EG; die Übertragung lässt die rechtliche Verbindlichkeit von Übertragungsaufträgen und Aufrechnungen gemäß den Artikeln 3 und 5 der Richtlinie 98/26/EG, die Verwendung von Guthaben, Wertpapieren oder Kreditfazilitäten im Sinne von Artikel 4 der Richtlinie 98/26/EG und den Schutz dinglicher Sicherheiten im Sinne von Artikel 9 der Richtlinie 98/26/EG unberührt.
 
-##### § 111 Bewertung von Angeboten; Gegenleistung; Ausgleichsverbindlichkeit
+###### § 111 Bewertung von Angeboten; Gegenleistung; Ausgleichsverbindlichkeit
 
 (1) Im Fall des § 107 Absatz 1 Nummer 1 Buchstabe a dient der Wert der Übertragungsgegenstände auf der Grundlage der Bewertung nach § 69 der Abwicklungsbehörde als Grundlage für die Bewertung der Angebote, die im Rahmen eines Vermarktungsprozesses nach § 126 Absatz 1 und 2 oder bei Verzicht auf einen Vermarktungsprozess nach Maßgabe von § 126 Absatz 3 außerhalb eines solchen Vermarktungsprozesses eingehen.
 
@@ -2892,7 +2895,7 @@ Liegen die Abwicklungsvoraussetzungen gemäß § 62 oder § 64 vor, können das 
 
 (6) Die Verpflichtung zur Gegenleistung und die Ausgleichsverbindlichkeit entstehen mit Bekanntgabe der Abwicklungsanordnung. Fälligkeit und insolvenzrechtlicher Rang der Ausgleichsverbindlichkeit richten sich nach Fälligkeit und Rang der von der Übertragung erfassten Verbindlichkeiten.
 
-##### § 112 Drittvergleich
+###### § 112 Drittvergleich
 
 (1) Eine Übertragung nach § 107 muss einem Drittvergleich standhalten. Hierbei sind zu berücksichtigen:
 
@@ -2904,7 +2907,7 @@ Liegen die Abwicklungsvoraussetzungen gemäß § 62 oder § 64 vor, können das 
 
 (2) Eine Übertragung, für die eine gleichwertige Gegenleistung in das Vermögen des übertragenden Rechtsträgers gelangt, erfüllt die Kriterien des Absatzes 1 Nummer 1 und 3 in jedem Fall und ohne dass es einer weiteren Prüfung bedarf. Eine Gegenleistung oder Ausgleichsverbindlichkeit, die auf der Grundlage von § 111 und, soweit einschlägig, im Rahmen eines Vermarktungsprozesses ermittelt wird, hält einem Drittvergleich im Sinne von Absatz 1 stand.
 
-##### § 113 Wirkungen der Abwicklungsanordnung bei Übertragung
+###### § 113 Wirkungen der Abwicklungsanordnung bei Übertragung
 
 (1) Eine Übertragung nach § 107 vollzieht sich ausschließlich nach Maßgabe dieses Gesetzes in Verbindung mit der nach Maßgabe dieses Gesetzes erlassenen Abwicklungsanordnung; § 36a des Pfandbriefgesetzes bleibt unberührt.
 
@@ -2928,13 +2931,13 @@ c) ist die Einhaltung außerhalb dieses Gesetzes geregelter oder vertraglich ver
 
 (4) Anteilsinhaberähnliche Rechte ohne Stimmrecht, Umtauschrechte sowie Instrumente, die auf Anteile referenzieren oder eine Wandlung oder einen Umtausch vorsehen, werden im Zweifel an die durch die Übertragung geschaffene Lage angepasst.
 
-##### § 114 Wirksamwerden der Übertragung
+###### § 114 Wirksamwerden der Übertragung
 
 (1) Die Übertragung wird mit der Bekanntgabe der Abwicklungsanordnung nach § 137 wirksam.
 
 (2) Mit Wirksamwerden der Übertragung gehen die von der Abwicklungsanordnung erfassten Übertragungsgegenstände auf den übernehmenden Rechtsträger über.
 
-##### § 115 Eintragung der Übertragung
+###### § 115 Eintragung der Übertragung
 
 (1) Ist Übertragungsgegenstand ein Teil oder die Gesamtheit des Vermögens eines in Abwicklung befindlichen Instituts oder gruppenangehörigen Unternehmens einschließlich seiner Verbindlichkeiten, haben der übertragende und der übernehmende Rechtsträger die Übertragung unverzüglich zur Eintragung in das Register ihres jeweiligen Sitzes anzumelden. Den Anmeldungen ist neben der Schlussbilanz eine Ausfertigung der Abwicklungsanordnung beizufügen. In den Fällen des § 107 Absatz 1 Nummer 1 Buchstabe a ist auch die notariell beurkundete Einwilligungserklärung des übernehmenden Rechtsträgers nach § 109 Absatz 1 Satz 3 beizufügen.
 
@@ -2944,13 +2947,13 @@ c) ist die Einhaltung außerhalb dieses Gesetzes geregelter oder vertraglich ver
 
 (4) Unterlässt oder verzögert der übertragende oder der übernehmende Rechtsträger die nach Absatz 1 gebotene Anmeldung zur Eintragung in ein Register, kann die Abwicklungsbehörde die Anmeldung für den Eintragungsverpflichteten vornehmen. In diesem Fall kann die Anmeldung nicht ohne Zustimmung durch die Abwicklungsbehörde zurückgenommen werden.
 
-##### § 116 Insolvenzantragspflicht; Haftung des übernehmenden Rechtsträgers
+###### § 116 Insolvenzantragspflicht; Haftung des übernehmenden Rechtsträgers
 
 (1) Werden die in § 107 Absatz 1 Nummer 1 genannten Abwicklungsinstrumente angewendet, stellt die Abwicklungsbehörde bei Vorliegen eines Insolvenzgrundes unverzüglich einen Antrag auf Eröffnung des Insolvenzverfahrens über das verbleibende Vermögen des übertragenden Rechtsträgers. § 46b Absatz 1 Satz 4 des Kreditwesengesetzes gilt mit der Maßgabe entsprechend, dass die Abwicklungsbehörde an die Stelle der Bundesanstalt tritt. Liegt im Fall des Satzes 1 kein Insolvenzgrund vor, veranlasst die Abwicklungsbehörde die Liquidation des übertragenden Rechtsträgers.
 
 (2) In allen Fällen des § 107 gehören Übertragungsgegenstände in einem Insolvenzverfahren über das Vermögen des übertragenden Rechtsträgers nicht zur Insolvenzmasse. Der übernehmende Rechtsträger haftet nicht für von der Übertragung nicht erfasste Verbindlichkeiten des übertragenden Rechtsträgers.
 
-##### § 117 Übertragungsgegenstände, die ausländischem Recht unterliegen
+###### § 117 Übertragungsgegenstände, die ausländischem Recht unterliegen
 
 (1) Unterliegen Übertragungsgegenstände ausländischem Recht und werden danach die Rechtswirkungen der Abwicklungsanordnung nicht oder nicht vollständig anerkannt, ist der übertragende Rechtsträger verpflichtet, darauf hinzuwirken, dass sämtliche Maßnahmen getroffen werden, die nach dem ausländischen Recht für den Rechtsübergang auf den übernehmenden Rechtsträger erforderlich sind.
 
@@ -2966,7 +2969,7 @@ c) ist die Einhaltung außerhalb dieses Gesetzes geregelter oder vertraglich ver
 
 (4) Bestehen Zweifel daran, ob die Rechtswirkungen der Abwicklungsanordnung nach ausländischem Recht anerkannt werden, sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
-##### § 118 Erforderliche Erlaubnisse, Zulassungen und Genehmigungen; aufsichtliche Anforderungen; Mitgliedschaft in und Zugang zu Finanzmarktinfrastrukturen
+###### § 118 Erforderliche Erlaubnisse, Zulassungen und Genehmigungen; aufsichtliche Anforderungen; Mitgliedschaft in und Zugang zu Finanzmarktinfrastrukturen
 
 (1) Führt die Übertragung von Übertragungsgegenständen nach § 107 auf den übernehmenden Rechtsträger dazu, dass dieser erlaubnis-, zulassungs- oder genehmigungspflichtige Geschäfte oder Tätigkeiten betreiben wird, bedarf der übernehmende Rechtsträger der erforderlichen Erlaubnisse, Zulassungen und Genehmigungen.
 
@@ -2974,7 +2977,7 @@ c) ist die Einhaltung außerhalb dieses Gesetzes geregelter oder vertraglich ver
 
 (3) Der übernehmende Rechtsträger kann als Rechtsnachfolger des in Abwicklung befindlichen Instituts alle Rechte, die zuvor von dem in Abwicklung befindlichen Institut in Bezug auf die Übertragungsgegenstände ausgeübt wurden, weiter ausüben. Satz 1 gilt auch für das Recht auf Mitgliedschaft in und den Zugang zu Finanzmarktinfrastrukturen, Anlegerentschädigungseinrichtungen und Einlagensicherungssystemen, wenn der übernehmende Rechtsträger die entsprechenden Zugangsvoraussetzungen oder Voraussetzungen einer Mitgliedschaft erfüllt. Der Zugang zu den in Satz 2 genannten Finanzmarktinfrastrukturen, Anlegerentschädigungseinrichtungen und Einlagensicherungssystemen darf jedoch nicht mit der Begründung verweigert werden, dass der übernehmende Rechtsträger kein von einer Ratingagentur erteiltes Rating besitzt oder dass sein Rating nicht den Ratingniveaus entspricht, die für die Gewährung eines solchen Zugangs erforderlich sind. Erfüllt der übernehmende Rechtsträger nicht die Voraussetzungen für den Zugang zu solchen Finanzmarktinfrastrukturen, zu einer Anlegerentschädigungseinrichtung oder zu einem Einlagensicherungssystem, so kann der übernehmende Rechtsträger die in Satz 2 genannten Rechte auf Anordnung der Abwicklungsbehörde für eine von dieser bestimmten Frist ausüben. Diese Frist soll 24 Monate nicht überschreiten, sie kann jedoch auf Antrag des übernehmenden Rechtsträgers von der Abwicklungsbehörde auch über diesen Zeitraum hinaus verlängert werden.
 
-##### § 119 Inländische Erlaubnis-, Zulassungs- und Genehmigungsverfahren
+###### § 119 Inländische Erlaubnis-, Zulassungs- und Genehmigungsverfahren
 
 (1) Die Abwicklungsbehörde informiert die Aufsichtsbehörde und die weiteren betroffenen Behörden im Inland, wenn ihr bekannt ist, dass der übernehmende Rechtsträger noch nicht über die erforderlichen Erlaubnisse, Zulassungen oder Genehmigungen verfügt.
 
@@ -2982,7 +2985,7 @@ c) ist die Einhaltung außerhalb dieses Gesetzes geregelter oder vertraglich ver
 
 (3) Bis zur endgültigen Erteilung der erforderlichen Erlaubnis, Zulassung oder Genehmigung oder bis zu der Feststellung, dass eine solche Erlaubnis, Zulassung oder Genehmigung doch nicht erforderlich ist, gilt die dem übertragenden Rechtsträger erteilte Erlaubnis, Zulassung oder Genehmigung als dem übernehmenden Rechtsträger erteilt. Bedarf der übernehmende Rechtsträger einer Erlaubnis nach § 32 des Kreditwesengesetzes, gibt die Aufsichtsbehörde nach Prüfung des Antrags abweichend von Satz 1 dem übernehmenden Rechtsträger den Zeitraum bekannt, innerhalb dessen er Geschäfte entsprechend Satz 1 betreiben darf, wenn die Aufsichtsbehörde beabsichtigt, die Erlaubnis zu erteilen.
 
-##### § 120 Besondere Vorschriften für das Verfahren nach § 2c des Kreditwesengesetzes
+###### § 120 Besondere Vorschriften für das Verfahren nach § 2c des Kreditwesengesetzes
 
 (1) Wenn eine Übertragung von Anteilen nach § 107 zum Erwerb oder zur Erhöhung einer bedeutenden Beteiligung führt, nimmt die Aufsichtsbehörde abweichend von § 2c des Kreditwesengesetzes die danach erforderliche Beurteilung so rechtzeitig vor, dass die Anwendung des entsprechenden Abwicklungsinstruments nicht verzögert wird und das Erreichen der mit der Abwicklungsmaßnahme angestrebten Abwicklungsziele nicht verhindert wird. Die Aufsichtsbehörde erhält von der Abwicklungsbehörde alle vorhandenen Unterlagen und Bewertungen zur Beurteilung und kann auf die Vorlage weiterer Unterlagen durch den Erwerber verzichten. Sie kommt zu einer positiven Beurteilung, wenn keine offensichtlichen Gründe vorliegen, die Übertragung zu untersagen.
 
@@ -2990,7 +2993,7 @@ c) ist die Einhaltung außerhalb dieses Gesetzes geregelter oder vertraglich ver
 
 (3) Die Befugnisse der Aufsichtsbehörde nach § 2c Absatz 2 des Kreditwesengesetzes bleiben unberührt. Untersagt die Aufsichtsbehörde die Ausübung der Stimmrechte, so kann die Abwicklungsbehörde von dem übernehmenden Rechtsträger verlangen, die nach § 107 übertragene Beteiligung innerhalb einer von der Abwicklungsbehörde festgelegten Veräußerungsfrist unter Berücksichtigung der herrschenden Marktbedingungen zu veräußern.
 
-##### § 121 Erlaubnisverfahren in anderen Mitgliedstaaten und Drittstaaten
+###### § 121 Erlaubnisverfahren in anderen Mitgliedstaaten und Drittstaaten
 
 (1) Erfordert die Anwendung eines der Abwicklungsinstrumente nach § 107 nach Einschätzung der Abwicklungsbehörde die Durchführung eines nicht inländischen Zulassungs-, Erlaubnis- oder Genehmigungsverfahrens, insbesondere eines Wettbewerbs- oder Beihilfeverfahrens, so
 
@@ -3004,7 +3007,7 @@ c) ist die Einhaltung außerhalb dieses Gesetzes geregelter oder vertraglich ver
 
 (3) Ergeht vor dem beabsichtigten Erlass der Abwicklungsanordnung ein ablehnender Bescheid, soll die Abwicklungsanordnung nicht erlassen werden. Ergeht der ablehnende Bescheid nach Erlass der Abwicklungsanordnung, ist § 100 Absatz 6 entsprechend anzuwenden.
 
-##### § 122 Mitwirkung der Abwicklungsbehörde bei Erlaubnis-, Zulassungs- oder Genehmigungsverfahren einer ausländischen Behörde
+###### § 122 Mitwirkung der Abwicklungsbehörde bei Erlaubnis-, Zulassungs- oder Genehmigungsverfahren einer ausländischen Behörde
 
 (1) Wird ein Rechtsakt, der einer Abwicklungsanordnung vergleichbar ist, von einer ausländischen Abwicklungsbehörde erlassen und erfordert die Wirksamkeit des ausländischen Rechtsakts, dass Erlaubnisse, Zulassungen oder Genehmigungen im Inland erteilt werden, so koordiniert die Abwicklungsbehörde nach Information durch die ausländische Abwicklungsbehörde oder durch ein inländisches Institut oder gruppenangehöriges Unternehmen oder auf eigene Initiative als einheitliche Stelle im Sinne des § 71a des Verwaltungsverfahrensgesetzes die Verfahren zur Erteilung solcher Erlaubnisse, Zulassungen oder Genehmigungen. Die §§ 71a bis 71e des Verwaltungsverfahrensgesetzes sind anzuwenden; die Abwicklungsbehörde ist als einheitliche Stelle befugt, die dort genannten oder sonst einschlägigen Fristen und Eingangsfiktionen zu verkürzen oder zu bestimmen.
 
@@ -3012,13 +3015,13 @@ c) ist die Einhaltung außerhalb dieses Gesetzes geregelter oder vertraglich ver
 
 (3) Koordiniert die Abwicklungsbehörde das Verfahren nach Absatz 1, so kann eine inländische Behörde die entsprechende Erlaubnis, Zulassung oder Genehmigung nur mit Zustimmung der Abwicklungsbehörde versagen. Entscheidet eine inländische Behörde nicht innerhalb der von der Abwicklungsbehörde gesetzten Frist, gilt die entsprechende Erlaubnis, Zulassung oder Genehmigung als erteilt. Sie kann nur mit Zustimmung der Abwicklungsbehörde zurückgenommen oder widerrufen werden.
 
-##### § 123 Gegenseitige Unterstützung der betroffenen Rechtsträger
+###### § 123 Gegenseitige Unterstützung der betroffenen Rechtsträger
 
 (1) Verbleiben bei dem übertragenden Rechtsträger Gegenstände, auf deren Nutzung oder Mitnutzung der übernehmende Rechtsträger angewiesen ist, um die auf ihn übertragenen Unternehmensteile fortführen zu können, hat der übertragende Rechtsträger dem übernehmenden Rechtsträger die Nutzung oder Mitnutzung gegen ein angemessenes Entgelt zu gestatten, bis der übernehmende Rechtsträger die betroffenen Gegenstände ersetzen kann. Ansprüche nach Satz 1 oder aus einem auf Grund der Verpflichtung nach Satz 1 geschlossenen Vertrag bleiben von einem über das Vermögen des Instituts oder gruppenangehörigen Unternehmens eröffneten Insolvenzverfahren unberührt; der Vertragsschluss und die Erfüllungshandlungen sind nicht anfechtbar.
 
 (2) Werden auf den übernehmenden Rechtsträger Gegenstände übertragen, auf deren Nutzung oder Mitnutzung der übertragende Rechtsträger angewiesen ist, um die bei ihm verbliebenen Unternehmensteile geordnet fortführen oder liquidieren zu können, hat der übernehmende Rechtsträger dem übertragenden Rechtsträger die Nutzung oder Mitnutzung gegen ein angemessenes Entgelt zu gestatten, bis der übertragende Rechtsträger die betroffenen Gegenstände ersetzen kann.
 
-##### § 124 Maßnahmen beim übertragenden Rechtsträger
+###### § 124 Maßnahmen beim übertragenden Rechtsträger
 
 (1) Besteht die Gegenleistung nach § 111 Absatz 2 und 5 in Anteilen am übernehmenden Rechtsträger, so wird das Stimmrecht des übertragenden Rechtsträgers ausgesetzt und geht auf die Abwicklungsbehörde über, bis die Abwicklungsbehörde gemäß § 128 Absatz 4 Satz 1 festgestellt hat, dass der übernehmende Rechtsträger seine Eigenschaft als Brückeninstitut verloren hat, oder anderweitig das Erreichen des jeweiligen Maßnahmenziels beim übernehmenden Rechtsträger festgestellt hat. Im Fall eines Insolvenzverfahrens über das Vermögen des in Abwicklung befindlichen Instituts gilt die Regelung nach Satz 1 auch gegenüber dem Insolvenzverwalter. Die Abwicklungsbehörde ist nicht verpflichtet, solche Stimmrechte wahrzunehmen. Sie haftet nicht für die Wahrnehmung oder Nichtwahrnehmung solcher Stimmrechte.
 
@@ -3030,7 +3033,7 @@ c) ist die Einhaltung außerhalb dieses Gesetzes geregelter oder vertraglich ver
 
 (5) Droht ein Antrag auf Eröffnung eines Insolvenzverfahrens über das Vermögen des übertragenden Rechtsträgers abgewiesen zu werden, weil das Vermögen des übertragenden Rechtsträgers voraussichtlich nicht ausreicht, um die Kosten des Verfahrens zu decken, ist der übernehmende Rechtsträger verpflichtet, den für die Eröffnung des Verfahrens erforderlichen Kostenvorschuss zu leisten.
 
-##### § 125 Maßnahmen beim übernehmenden Rechtsträger
+###### § 125 Maßnahmen beim übernehmenden Rechtsträger
 
 (1) Der übernehmende Rechtsträger hat der Abwicklungsbehörde auf Verlangen unverzüglich Auskunft über alle Umstände zu geben, die für die Beurteilung, ob das jeweilige Maßnahmenziel erfüllt ist, erforderlich sind. Soweit dies zur Überprüfung von Angaben nach Satz 1 erforderlich ist, kann die Abwicklungsbehörde die Vorlage von Unterlagen und die Überlassung von Kopien verlangen.
 
@@ -3060,7 +3063,7 @@ Absatz 2 Satz 3 gilt entsprechend. Den Unterstützungsleistungen durch den Restr
 
 ## Unterabschnitt 2 Besondere Vorschriften für das Instrument der Unternehmensveräußerung
 
-##### § 126 Vermarktungsprozess; Verordnungsermächtigung
+###### § 126 Vermarktungsprozess; Verordnungsermächtigung
 
 (1) Beabsichtigt die Abwicklungsbehörde, im Rahmen einer Abwicklungsanordnung vom Instrument der Unternehmensveräußerung Gebrauch zu machen, leitet sie rechtzeitig vor Erlass der Abwicklungsanordnung einen Vermarktungsprozess ein. Der Vermarktungsprozess bezieht sich auf die Übertragungsgegenstände, welche die Abwicklungsbehörde zu übertragen beabsichtigt. Die Abwicklungsbehörde kann die Übertragungsgegenstände einzeln oder mehrere Übertragungsgegenstände gemeinsam vermarkten.
 
@@ -3084,7 +3087,7 @@ Vorbehaltlich des Satzes 1 Nummer 2 kann die Abwicklungsbehörde gezielt an best
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über die Umstände, unter denen die Abwicklungsbehörde nach Absatz 3 von der Durchführung eines Vermarktungsprozesses absehen kann. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Abwicklungsbehörde übertragen.
 
-##### § 127 Rückübertragungen
+###### § 127 Rückübertragungen
 
 (1) Die Abwicklungsbehörde kann innerhalb von vier Monaten nach dem Wirksamwerden der Übertragung nach § 114 anordnen, dass Gegenstände an die vorherigen Anteilsinhaber oder den übertragenden Rechtsträger zurückübertragen werden (Rückübertragungsanordnung), sofern der übernehmende Rechtsträger in die Rückübertragung einwilligt.
 
@@ -3096,7 +3099,7 @@ Vorbehaltlich des Satzes 1 Nummer 2 kann die Abwicklungsbehörde gezielt an best
 
 ## Unterabschnitt 3 Besondere Vorschriften für das Instrument der Übertragung auf ein Brückeninstitut
 
-##### § 128 Verfassung des Brückeninstituts
+###### § 128 Verfassung des Brückeninstituts
 
 (1) Brückeninstitut kann nur ein Rechtsträger sein,
 
@@ -3136,7 +3139,7 @@ Die Abwicklungsbehörde kann die Frist nach Satz 1 Nummer 3 auch mehrfach jeweil
 
 (5) Stellt die Abwicklungsbehörde nach Absatz 4 Satz 1 Nummer 2 oder 3 fest, dass ein Rechtsträger seine Eigenschaft als Brückeninstitut verliert, stellt die Abwicklungsbehörde bei Vorliegen eines Insolvenzgrundes unverzüglich einen Antrag auf Eröffnung des Insolvenzverfahrens über das verbleibende Vermögen des Brückeninstituts. § 46b Absatz 1 Satz 4 des Kreditwesengesetzes gilt mit der Maßgabe, dass an die Stelle der Bundesanstalt die Abwicklungsbehörde tritt. Liegt im Fall des Satzes 1 kein Insolvenzgrund vor, veranlasst die Abwicklungsbehörde die Liquidation des Brückeninstituts.
 
-##### § 129 Vermarktung oder Liquidation des Brückeninstituts
+###### § 129 Vermarktung oder Liquidation des Brückeninstituts
 
 (1) Sollen die Anteile an dem Brückeninstitut an einen oder mehrere andere Rechtsträger oder sollen die an das Brückeninstitut übertragenen Übertragungsgegenstände an einen oder mehrere andere Rechtsträger veräußert werden, so findet ein Vermarktungsprozess statt, auf den § 126 Absatz 2 Satz 1 Nummer 1, 2 und 5 entsprechend anzuwenden ist. Eine Veräußerung muss einem Drittvergleich unter Berücksichtigung der Umstände des Einzelfalls standhalten und mit den wettbewerbs- und beihilferechtlichen Regelungen vereinbar sein.
 
@@ -3148,13 +3151,13 @@ Die Abwicklungsbehörde kann die Frist nach Satz 1 Nummer 3 auch mehrfach jeweil
 
 (5) Die Geschäftsleiter des Brückeninstituts haften für Vorsatz und grobe Fahrlässigkeit. § 31 des Bürgerlichen Gesetzbuchs ist auf das Brückeninstitut nicht anzuwenden.
 
-##### § 130 Vermögenslage des Brückeninstituts
+###### § 130 Vermögenslage des Brückeninstituts
 
 (1) Wird das Instrument der Übertragung auf ein Brückeninstitut angewendet, stellt die Abwicklungsbehörde sicher, dass der Gesamtwert der auf das Brückeninstitut übertragenen Verbindlichkeiten nicht den Gesamtwert der Rechte und Vermögenswerte übersteigt, die von dem in Abwicklung befindlichen Institut oder gruppenangehörigen Unternehmen übertragen werden oder aus anderen Quellen stammen.
 
 (2) Maßgeblich für die Beurteilung nach Absatz 1 ist der Zeitpunkt des Erlasses der Abwicklungsanordnung.
 
-##### § 131 Rück- und Weiterübertragungen
+###### § 131 Rück- und Weiterübertragungen
 
 (1) Die Abwicklungsbehörde kann anordnen, dass Gegenstände an die vorherigen Anteilsinhaber oder den übertragenden Rechtsträger zurückübertragen werden, wenn
 
@@ -3168,7 +3171,7 @@ In der Abwicklungsanordnung ist die Möglichkeit einer Rückübertragungsanordnu
 
 ## Unterabschnitt 4 Besondere Vorschriften für das Instrument der Übertragung auf eine Vermögensverwaltungsgesellschaft
 
-##### § 132 Zusätzliche Anwendungsvoraussetzungen; Verordnungsermächtigung
+###### § 132 Zusätzliche Anwendungsvoraussetzungen; Verordnungsermächtigung
 
 (1) Die Abwicklungsbehörde kann das Instrument der Übertragung auf eine Vermögensverwaltungsgesellschaft nur anwenden, wenn
 
@@ -3180,7 +3183,7 @@ In der Abwicklungsanordnung ist die Möglichkeit einer Rückübertragungsanordnu
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen darüber zu erlassen, unter welchen Umständen eine Verwertung der Übertragungsgegenstände im Rahmen eines Insolvenzverfahrens negative Auswirkungen auf einen oder mehrere Finanzmärkte im Sinne des Absatzes 1 Nummer 1 haben könnte. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Abwicklungsbehörde übertragen.
 
-##### § 133 Verfassung der Vermögensverwaltungsgesellschaft
+###### § 133 Verfassung der Vermögensverwaltungsgesellschaft
 
 (1) Vermögensverwaltungsgesellschaft kann nur ein Rechtsträger sein,
 
@@ -3202,11 +3205,11 @@ In der Abwicklungsanordnung ist die Möglichkeit einer Rückübertragungsanordnu
 
 (5) Die Geschäftsleiter der Vermögensverwaltungsgesellschaft haften für Vorsatz und grobe Fahrlässigkeit. § 31 des Bürgerlichen Gesetzbuchs ist auf die Vermögensverwaltungsgesellschaft nicht anzuwenden.
 
-##### § 134 Besondere Vorschriften für die Gegenleistung
+###### § 134 Besondere Vorschriften für die Gegenleistung
 
 Werden alle oder einzelne Vermögenswerte, Verbindlichkeiten und Rechtsverhältnisse eines Brückeninstituts auf eine Vermögensverwaltungsgesellschaft übertragen, so richtet sich die Gegenleistung, die dem Brückeninstitut von der Vermögensverwaltungsgesellschaft geschuldet wird, nach der Gegenleistung, die das Brückeninstitut nach Maßgabe von § 111 Absatz 2 geleistet hat oder zu leisten hat; diese soll nicht unterschritten werden.
 
-##### § 135 Rückübertragung
+###### § 135 Rückübertragung
 
 § 131 Absatz 1 ist auf die Rückübertragung von Übertragungsgegenständen, die vom übertragenden Rechtsträger auf die Vermögensverwaltungsgesellschaft übertragen wurden, entsprechend anzuwenden.
 
@@ -3214,7 +3217,7 @@ Werden alle oder einzelne Vermögenswerte, Verbindlichkeiten und Rechtsverhältn
 
 ## Unterabschnitt 1 Bestimmungen für den Erlass einer Abwicklungsanordnung; sonstige Verfahrensvorschriften; Rechtswirkungen
 
-##### § 136 Inhalt der Abwicklungsanordnung
+###### § 136 Inhalt der Abwicklungsanordnung
 
 (1) Die Abwicklungsanordnung muss mindestens die folgenden Angaben enthalten:
 
@@ -3264,7 +3267,7 @@ Besteht die Gegenleistung aus Schuldtiteln des übernehmenden Rechtsträgers, gi
 
 (4) Wenn die Abwicklungsanordnung gesellschaftsrechtliche Maßnahmen enthält, die eintragungspflichtig sind, sind diese im Verwaltungsakt gesondert aufzuführen. Soweit in § 115 Absatz 2 und 4 nichts Abweichendes geregelt ist, ist die Abwicklungsbehörde berechtigt, die erforderlichen Eintragungen beim Registergericht zu beantragen. Die Eintragung ist für die Wirksamkeit der Maßnahmen nicht konstitutiv.
 
-##### § 137 Erlass und Bekanntgabe der Abwicklungsanordnung
+###### § 137 Erlass und Bekanntgabe der Abwicklungsanordnung
 
 (1) Die Abwicklungsanordnung ergeht als Allgemeinverfügung. Einer gesonderten Bekanntgabe an die Beteiligten bedarf es genauso wenig wie einer gesonderten Zuleitung an den zuständigen Betriebsrat.
 
@@ -3272,7 +3275,7 @@ Besteht die Gegenleistung aus Schuldtiteln des übernehmenden Rechtsträgers, gi
 
 (3) Die Veröffentlichung enthält auch Angaben zur Einwilligungserklärung des übernehmenden Rechtsträgers und zu den Kapitalerhöhungsbeschlüssen nach § 109.
 
-##### § 138 Mitteilungspflichten bei einer Bestandsgefährdung
+###### § 138 Mitteilungspflichten bei einer Bestandsgefährdung
 
 (1) Im Fall einer Bestandsgefährdung im Sinne des § 63 eines Instituts oder eines gruppenangehörigen Unternehmens informiert die Geschäftsleitung des Instituts oder des übergeordneten Unternehmens der Gruppe sowie des bestandsgefährdeten gruppenangehörigen Unternehmens unverzüglich die Aufsichtsbehörde und die Abwicklungsbehörde.
 
@@ -3298,13 +3301,13 @@ Besteht die Gegenleistung aus Schuldtiteln des übernehmenden Rechtsträgers, gi
 
 (4) Besteht die Gefahr, dass bei einer Informationsweitergabe an eine Stelle im Sinne des Absatzes 3 Satz 2 die Abwicklungsziele verfehlt werden könnten, kann die Abwicklungsbehörde von einer Information dieser Stelle absehen oder anonymisierte oder aggregierte Angaben zum bestandsgefährdeten Institut oder zu bestandsgefährdeten gruppenangehörigen Unternehmen machen. Unbenommen der Regelungen der §§ 167 bis 171 gilt Satz 1 gegenüber Aufsichtsbehörden und Abwicklungsbehörden in einem Drittstaat entsprechend, sofern es sich nicht um den Drittstaat handelt, in dem das konsolidierungspflichtige übergeordnete Unternehmen seinen Sitz hat.
 
-##### § 139 Entscheidung der Abwicklungsbehörde
+###### § 139 Entscheidung der Abwicklungsbehörde
 
 (1) Erhält die Abwicklungsbehörde von einer anderen Stelle Kenntnis von einer möglichen Bestandsgefährdung, prüft sie unverzüglich, ob die Voraussetzungen einer Bestandsgefährdung vorliegen. Erhält die Abwicklungsbehörde die Kenntnis von einer möglichen Bestandsgefährdung von einer Stelle im Sinne des § 138 Absatz 3 Satz 2 Nummer 1 bis 4, ist diese Stelle verpflichtet, der Abwicklungsbehörde umfassend und unverzüglich alle Auskünfte zu der möglichen Bestandsgefährdung zu erteilen.
 
 (2) Die Abwicklungsbehörde dokumentiert das Ergebnis und die wesentlichen Erwägungen zu der Prüfung im Sinne des Absatzes 1 sowie das geplante weitere Vorgehen.
 
-##### § 140 Verfahrenspflichten der Abwicklungsbehörde
+###### § 140 Verfahrenspflichten der Abwicklungsbehörde
 
 (1) Vor der Vornahme einer Abwicklungsmaßnahme informiert die Abwicklungsbehörde
 
@@ -3340,11 +3343,11 @@ Die Abwicklungsbehörde erlässt Abwicklungsmaßnahmen mit unmittelbaren finanzi
 
 (6) Die Abwicklungsbehörde veröffentlicht auf ihrer Internetseite und im Bundesanzeiger, dass die Abwicklungsmaßnahmen beendet sind.
 
-##### § 141 Insolvenzfestigkeit von Abwicklungsmaßnahmen, Anfechtbarkeit
+###### § 141 Insolvenzfestigkeit von Abwicklungsmaßnahmen, Anfechtbarkeit
 
 Ein Insolvenzverfahren über das Vermögen des Instituts oder des gruppenangehörigen Unternehmens lässt die Anwendung eines Abwicklungsinstruments und die Ausübung von Abwicklungsbefugnissen und deren jeweilige Rechtswirkungen unberührt; eine Anfechtung ist weder innerhalb noch außerhalb eines solchen Insolvenzverfahrens möglich.
 
-##### § 142 Abzugsmöglichkeit
+###### § 142 Abzugsmöglichkeit
 
 Die Abwicklungsbehörde kann anordnen, dass Gebühren und Auslagen nach dem Bundesgebührengesetz sowie Kostenerstattungen nach § 15 Absatz 1 Satz 1 Nummer 11 des Finanzdienstleistungsaufsichtsgesetzes vorweg durch Abzug von den folgenden Positionen beglichen werden:
 
@@ -3352,11 +3355,11 @@ Die Abwicklungsbehörde kann anordnen, dass Gebühren und Auslagen nach dem Bund
 
 2. von Erlösen im Zusammenhang mit der Abwicklung eines Brückeninstituts oder einer Vermögensverwaltungsgesellschaft.
 
-##### § 143 Schadensersatzansprüche gegen Organmitglieder und ehemalige Organmitglieder
+###### § 143 Schadensersatzansprüche gegen Organmitglieder und ehemalige Organmitglieder
 
 Die Abwicklungsbehörde soll bei dem Institut oder dem gruppenangehörigen Unternehmen einen Sonderprüfer einsetzen, um zu prüfen, ob Schadensersatzansprüche gegen Organmitglieder oder ehemalige Organmitglieder wegen der Verletzung von Sorgfaltspflichten bestehen. § 45c Absatz 6 des Kreditwesengesetzes sowie die §§ 144 und 145 des Aktiengesetzes gelten entsprechend.
 
-##### § 144 Ausschluss bestimmter vertraglicher Bedingungen bei frühzeitigem Eingreifen und bei der Abwicklung
+###### § 144 Ausschluss bestimmter vertraglicher Bedingungen bei frühzeitigem Eingreifen und bei der Abwicklung
 
 (1) Eine Krisenpräventionsmaßnahme oder eine Krisenmanagementmaßnahme, einschließlich eines unmittelbar mit der Anwendung einer solchen Maßnahme verbundenen Ereignisses, gelten in Bezug auf das Institut oder die Gruppe und alle gruppenangehörigen Unternehmen nicht als Verwertungs- oder Beendigungsfall im Sinne der Richtlinie 2002/47/EG des Europäischen Parlaments und des Rates oder als Insolvenzverfahren im Sinne der Richtlinie 98/26/EG des Europäischen Parlaments und des Rates, wenn die Hauptleistungspflichten aus dem Vertrag, einschließlich Zahlungs- und Leistungsverpflichtungen, und die Pflicht zur Stellung von Sicherheiten weiterhin erfüllt werden. Eine Aussetzung oder Beschränkung gemäß den §§ 66a und 82 bis 84 stellt keine Nichterfüllung von vertraglichen Hauptleistungspflichten dar.
 
@@ -3378,7 +3381,7 @@ Dies gilt nur, wenn die Hauptleistungspflichten aus dem Vertrag, einschließlich
 
 ## Unterabschnitt 2 Inanspruchnahme von Einlagensicherungssystemen
 
-##### § 145 Inanspruchnahme von Einlagensicherungssystemen im Rahmen einer Abwicklung
+###### § 145 Inanspruchnahme von Einlagensicherungssystemen im Rahmen einer Abwicklung
 
 (1) Für den Fall, dass für ein Institut oder für ein gruppenangehöriges Unternehmen eine Abwicklungsmaßnahme durchgeführt wird und dadurch sichergestellt wird, dass die Einleger dieses Instituts oder dieses gruppenangehörigen Unternehmens weiterhin auf ihre Einlagen zugreifen können, haftet das Einlagensicherungssystem, dem das Institut oder das gruppenangehörige Unternehmen angehört,
 
@@ -3398,7 +3401,7 @@ Dies gilt nur, wenn die Hauptleistungspflichten aus dem Vertrag, einschließlich
 
 ## Unterabschnitt 3 Ausgleichszahlung für benachteiligte Anteilsinhaber, Gläubiger und Einlagensicherungssysteme; Schutzbestimmungen
 
-##### § 146 Vergleich mit dem Ausgang eines hypothetischen Insolvenzverfahrens; Verordnungsermächtigung
+###### § 146 Vergleich mit dem Ausgang eines hypothetischen Insolvenzverfahrens; Verordnungsermächtigung
 
 (1) Die Abwicklungsbehörde hat unverzüglich nach Durchführung einer oder mehrerer Abwicklungsmaßnahmen durch einen unabhängigen, sachverständigen Prüfer ermitteln zu lassen, ob und in welchem Umfang Anteilsinhaber und Gläubiger durch die Anordnung und Durchführung der Abwicklungsmaßnahmen im Vergleich zu der Situation, die sich bei Eröffnung und Durchführung eines Insolvenzverfahrens über das Vermögen des Instituts eingestellt hätte, benachteiligt worden sind. Diese Bewertung erfolgt inhaltlich getrennt von der Bewertung nach § 69.
 
@@ -3424,17 +3427,17 @@ Dies gilt nur, wenn die Hauptleistungspflichten aus dem Vertrag, einschließlich
 
 (6) Für den Zeitraum bis zum Inkrafttreten der technischen Regulierungsstandards gemäß Artikel 74 Absatz 4 der Richtlinie 2014/59/EU wird das Bundesministerium der Finanzen ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die Methode der Bewertung nach den Absätzen 1 bis 3 zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Abwicklungsbehörde übertragen.
 
-##### § 147 Schutzbestimmungen für Anteilsinhaber und Gläubiger
+###### § 147 Schutzbestimmungen für Anteilsinhaber und Gläubiger
 
 Führt die Bewertung gemäß § 146 zu dem Ergebnis, dass die von einem Anteilsinhaber, Gläubiger oder Einlagensicherungssystem im Sinne des § 145 Absatz 1 infolge einer Abwicklungsmaßnahme erlittenen Verluste die Verluste übersteigen, welche sie bei Unterbleiben der Maßnahme im Rahmen eines Insolvenzverfahrens erlitten hätten, steht ihnen gegen den Restrukturierungsfonds ein Anspruch auf Ausgleich in Höhe des Differenzbetrags nach Maßgabe von § 8 des Restrukturierungsfondsgesetzes zu. Entsprechendes gilt für Eingriffe in Verträge nach § 79 Absatz 5.
 
-##### § 148 Schutzbestimmungen für Sozialpläne
+###### § 148 Schutzbestimmungen für Sozialpläne
 
 Ansprüche aus einem Sozialplan, der nach dem Zeitpunkt des § 138 Absatz 3 Satz 1 aufgestellt wird, sind vom Anwendungsbereich des Instruments der Gläubigerbeteiligung ausgenommen, soweit sie im hypothetischen Insolvenzfall mit überwiegender Wahrscheinlichkeit in einem Sozialplan nach § 123 Absatz 1 der Insolvenzordnung enthalten gewesen und als Masseverbindlichkeiten nach § 123 Absatz 2 der Insolvenzordnung beglichen worden wären.
 
 ## Unterabschnitt 4 Rechtsformwechsel
 
-##### § 149 Anordnung eines Rechtsformwechsels
+###### § 149 Anordnung eines Rechtsformwechsels
 
 (1) Die Anordnung eines Formwechsels muss folgende Bestimmungen enthalten:
 
@@ -3474,15 +3477,15 @@ Die Befugnisse nach diesem Gesetz zur Beschränkung von Anteilen oder von sonsti
 
 ## Unterabschnitt 5 (weggefallen)
 
-##### (XXXX) §§ 150 bis 152 (weggefallen)
+###### (XXXX) §§ 150 bis 152 (weggefallen)
 
 ## Teil 5 Sondervorschriften für zentrale Gegenparteien
 
-##### § 152a Anwendungsbereich
+###### § 152a Anwendungsbereich
 
 Die Vorschriften dieses Teils finden ausschließlich Anwendung auf zentrale Gegenparteien, die ein Unternehmen im Sinne des Artikels 2 Nummer 1 der Verordnung (EU) Nr. 648/2012 sind und ihren Sitz im Inland haben.
 
-##### § 152b Zuständigkeit
+###### § 152b Zuständigkeit
 
 (1) Die Bundesanstalt ist zuständige Abwicklungsbehörde im Sinne von Artikel 3 Absatz 1 der Verordnung (EU) 2021/23.
 
@@ -3492,23 +3495,23 @@ Die Vorschriften dieses Teils finden ausschließlich Anwendung auf zentrale Gege
 
 (4) Bei Abwicklungsmaßnahmen wird die Abwicklungsbehörde den Betriebsrat der zentralen Gegenpartei informieren, soweit dies ohne Beeinträchtigung der Abwicklungsziele möglich ist.
 
-##### § 152c Unabhängiger Prüfer
+###### § 152c Unabhängiger Prüfer
 
 (1) Die für die Durchführung einer abschließenden Bewertung erforderliche Unabhängigkeit des Prüfers wird nicht dadurch ausgeschlossen, dass der Prüfer bereits an der vorläufigen Bewertung der Vermögenswerte und Verbindlichkeiten der zentralen Gegenpartei durch die Abwicklungsbehörde beteiligt war.
 
 (2) Der Prüfer wird von der Abwicklungsbehörde bestellt. Er erhält eine angemessene Vergütung, deren Höhe von der Abwicklungsbehörde festgesetzt wird, und seine notwendigen Auslagen ersetzt. Die Anforderungen an die Unabhängigkeit des Prüfers bestimmen sich nach den Artikeln 37 bis 41 der Verordnung (EU) 2016/1075.
 
-##### § 152d Abwicklungsinstrumente, Anordnungsbefugnis
+###### § 152d Abwicklungsinstrumente, Anordnungsbefugnis
 
 (1) Die Abwicklungsbehörde kann von der zentralen Gegenpartei verlangen, die Positionszuweisungs- und Verlustzuweisungsinstrumente nach den Artikeln 29 bis 31 der Verordnung (EU) 2021/23 in ihre Betriebsvorschriften aufzunehmen.
 
 (2) Die Bundesanstalt kann gegenüber einer zentralen Gegenpartei im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die Einhaltung der Verordnung (EU) 2021/23 sicherzustellen.
 
-##### § 152e Ausgleich des Differenzbetrags
+###### § 152e Ausgleich des Differenzbetrags
 
 Der Ausgleich des Differenzbetrags nach Artikel 62 der Verordnung (EU) 2021/23 steht den Anteilseignern, den Clearingmitgliedern und den anderen Gläubigern gegenüber der Abwicklungsbehörde zu.
 
-##### § 152f Inhalt der Abwicklungsanordnung
+###### § 152f Inhalt der Abwicklungsanordnung
 
 (1) Die Abwicklungsanordnung muss mindestens enthalten:
 
@@ -3538,11 +3541,11 @@ d) die Angabe der betroffenen Eigentumstitel und Schuldtitel oder anderer unbesi
 
 (2) § 136 Absatz 2 bis 4 findet entsprechende Anwendung.
 
-##### § 152g Verfahrensvorschriften, Einlagensicherung, Sozialpläne
+###### § 152g Verfahrensvorschriften, Einlagensicherung, Sozialpläne
 
 Liegen die Abwicklungsvoraussetzungen vor, kann die Abwicklungsbehörde die Abwicklungsanordnung durch Allgemeinverfügung treffen. § 10 Absatz 1, die §§ 11, 77 Absatz 9, § 137 Absatz 1 Satz 2, Absatz 2 und 3 sowie die §§ 139 bis 143, 145, 148, 151, 152 finden entsprechende Anwendung.
 
-##### § 152h Rechtsschutz
+###### § 152h Rechtsschutz
 
 (1) Ein Widerspruchsverfahren gegen eine Abwicklungsmaßnahme nach Artikel 27 Absatz 1, den Artikeln 48 bis 59 der Verordnung (EU) 2021/23 wird nicht durchgeführt. Eine Anfechtungsklage gegen Abwicklungsmaßnahmen der Abwicklungsbehörde einschließlich der Androhung und Festsetzung von Zwangsmitteln nach diesem Gesetz hat keine aufschiebende Wirkung.
 
@@ -3550,7 +3553,7 @@ Liegen die Abwicklungsvoraussetzungen vor, kann die Abwicklungsbehörde die Abwi
 
 (3) § 179 Absatz 2 bis 4 gilt entsprechend.
 
-##### § 152i Verordnungsermächtigung
+###### § 152i Verordnungsermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen zu erlassen über
 
@@ -3566,7 +3569,7 @@ Liegen die Abwicklungsvoraussetzungen vor, kann die Abwicklungsbehörde die Abwi
 
 (2) Das Bundesministerium der Finanzen kann die Ermächtigung nach Absatz 1 durch Rechtsverordnung auf die Aufsichtsbehörde und auf die Abwicklungsbehörde übertragen.
 
-##### § 152j Besondere Befugnisse nach der Verordnung (EU) 2021/23
+###### § 152j Besondere Befugnisse nach der Verordnung (EU) 2021/23
 
 (1) Die Bundesanstalt überwacht die Einhaltung der Verbote und Gebote der in den Titeln III bis V enthaltenen Artikel der Verordnung (EU) 2021/23. Sie kann Anordnungen treffen, die zur Durchsetzung der in Satz 1 genannten Verbote geeignet und erforderlich sind. Insbesondere kann sie ein vorübergehendes Verbot für die Mitglieder der Geschäftsleitung der zentralen Gegenpartei oder für eine andere verantwortliche natürliche Person, in einer zentralen Gegenpartei Aufgaben wahrzunehmen, verhängen, wenn
 
@@ -3590,7 +3593,7 @@ Liegen die Abwicklungsvoraussetzungen vor, kann die Abwicklungsbehörde die Abwi
 
 ## Kapitel 1 Anerkennung von Maßnahmen der Behörden anderer Mitgliedstaaten
 
-##### § 153 Wirksamkeit von Krisenmanagementmaßnahmen oder Krisenpräventionsmaßnahmen anderer Mitgliedstaaten
+###### § 153 Wirksamkeit von Krisenmanagementmaßnahmen oder Krisenpräventionsmaßnahmen anderer Mitgliedstaaten
 
 (1) Überträgt eine Abwicklungsbehörde in einem anderen Mitgliedstaat in Anwendung eines Abwicklungsinstruments im Sinne der Richtlinie 2014/59/EU Anteile oder andere Eigentumstitel oder Vermögenswerte, Rechte oder Verbindlichkeiten und betrifft die Übertragung in der Bundesrepublik Deutschland belegene Vermögenswerte oder deutschem Recht unterfallende Rechte oder Verbindlichkeiten, wirkt eine solche Übertragung wie eine Übertragung durch die Abwicklungsbehörde selbst.
 
@@ -3604,7 +3607,7 @@ Liegen die Abwicklungsvoraussetzungen vor, kann die Abwicklungsbehörde die Abwi
 
 ## Abschnitt 1 Grenzüberschreitende Entscheidungsfindung und Information; Abwicklungskollegien
 
-##### § 154 Allgemeine Grundsätze für Entscheidungsfindungen, an denen eine Behörde oder mehrere Behörden anderer Mitgliedstaaten beteiligt sind
+###### § 154 Allgemeine Grundsätze für Entscheidungsfindungen, an denen eine Behörde oder mehrere Behörden anderer Mitgliedstaaten beteiligt sind
 
 Wenn die Abwicklungsbehörde oder andere nach diesem Gesetz zuständige Behörden Entscheidungen treffen oder Maßnahmen nach diesem Gesetz einleiten, die Auswirkungen in einem oder mehreren anderen Mitgliedstaaten haben können, müssen sie
 
@@ -3632,11 +3635,11 @@ b) die Stabilität des betroffenen Mitgliedstaats;
 
 10. durch Koordinierung und Zusammenarbeit nach Möglichkeit ein Ergebnis erzielen, durch das sich die Gesamtkosten der Abwicklung verringern.
 
-##### § 155 Zuständigkeit der Abwicklungsbehörde
+###### § 155 Zuständigkeit der Abwicklungsbehörde
 
 Die Abwicklungsbehörde ist für die Gruppenabwicklung eines Instituts oder eines übergeordneten Unternehmens zuständig, wenn die Aufsichtsbehörde die konsolidierende Aufsichtsbehörde ist, oder, sofern die Europäische Zentralbank die konsolidierende Aufsichtsbehörde ist, die Aufsichtsbehörde ohne Anwendung der Verordnung (EU) Nr. 1024/2013 die konsolidierende Aufsichtsbehörde wäre.
 
-##### § 156 Abwicklungskollegium
+###### § 156 Abwicklungskollegium
 
 (1) Ist die Abwicklungsbehörde für die Gruppenabwicklung eines Instituts oder übergeordneten Unternehmens zuständig, richtet sie vorbehaltlich des § 159 ein Abwicklungskollegium ein, das die in den §§ 46, 47, 49 bis 50, 58, 60 und 161 bis 166 genannten Aufgaben wahrnimmt und die Zusammenarbeit und Koordinierung mit Abwicklungsbehörden in Drittstaaten sicherstellt. Das Abwicklungskollegium dient
 
@@ -3664,7 +3667,7 @@ Das Abwicklungskollegium berücksichtigt die Anpassungen der Übergangsregelunge
 
 (3) Die Abwicklungsbehörde ist nicht verpflichtet, ein Abwicklungskollegium einzurichten, wenn bereits eine andere Gruppe oder ein anderes Kollegium die in Absatz 1 und in den §§ 157 und 158 genannten Funktionen und Aufgaben wahrnimmt und alle in Absatz 1 und in den §§ 157 und 158 festgelegten Bedingungen und Verfahren, einschließlich derjenigen betreffend die Mitgliedschaft in und die Beteiligung an Abwicklungskollegien, erfüllt und einhält. In diesem Fall sind sämtliche in diesem Gesetz enthaltenen Bezugnahmen auf ein Abwicklungskollegium als Bezugnahmen auf diese andere Gruppe oder dieses andere Kollegium zu verstehen.
 
-##### § 157 Mitglieder des Abwicklungskollegiums und weitere Teilnehmer
+###### § 157 Mitglieder des Abwicklungskollegiums und weitere Teilnehmer
 
 (1) Die folgenden Behörden sind stimmberechtigte Mitglieder des Abwicklungskollegiums:
 
@@ -3696,7 +3699,7 @@ Das Abwicklungskollegium berücksichtigt die Anpassungen der Übergangsregelunge
 
 (3) Die Abwicklungsbehörden der Drittstaaten, in denen ein in der Europäischen Union niedergelassenes EU-Mutterunternehmen ein Tochterunternehmen oder eine bedeutende Zweigniederlassung hat, können auf ihr Ersuchen als Beobachter zur Teilnahme am betreffenden Abwicklungskollegium eingeladen werden, sofern diese Abwicklungsbehörden Verschwiegenheitspflichten unterliegen, die nach Auffassung der Abwicklungsbehörde den in den §§ 4 bis 10 und 21 festgelegten Anforderungen vergleichbar sind.
 
-##### § 158 Organisation des Abwicklungskollegiums
+###### § 158 Organisation des Abwicklungskollegiums
 
 (1) Die Abwicklungsbehörde führt den Vorsitz im Abwicklungskollegium. In dieser Eigenschaft muss sie
 
@@ -3716,7 +3719,7 @@ Das Abwicklungskollegium berücksichtigt die Anpassungen der Übergangsregelunge
 
 (3) Die Mitglieder des Abwicklungskollegiums arbeiten eng zusammen.
 
-##### § 159 Europäische Abwicklungskollegien
+###### § 159 Europäische Abwicklungskollegien
 
 (1) Hat ein Institut mit Sitz in einem Drittstaat oder ein Drittstaatsmutterunternehmen
 
@@ -3736,7 +3739,7 @@ richtet die Abwicklungsbehörde mit den Abwicklungsbehörden der anderen Mitglie
 
 (5) Vorbehaltlich der Absätze 3 und 4 gilt § 156 entsprechend.
 
-##### § 160 Informationsaustausch mit Behörden und Ministerien anderer Mitgliedstaaten
+###### § 160 Informationsaustausch mit Behörden und Ministerien anderer Mitgliedstaaten
 
 (1) Vorbehaltlich der §§ 4 bis 10 übermitteln die Abwicklungsbehörde und die Aufsichtsbehörde den Abwicklungsbehörden und Aufsichtsbehörden in anderen Mitgliedstaaten auf Antrag alle Informationen, die für die Wahrnehmung der diesen durch die Richtlinie 2014/59/EU übertragenen Funktionen zweckdienlich sind. Insbesondere stellt die Abwicklungsbehörde den Abwicklungsbehörden in anderen Mitgliedstaaten alle einschlägigen Informationen rechtzeitig zur Verfügung, um ihnen die Ausübung der in § 156 Absatz 1 Satz 2 Nummer 2 bis 9 genannten Aufgaben zu erleichtern. Ist die Abwicklungsbehörde die für die Gruppenabwicklung zuständige Behörde, koordiniert die Abwicklungsbehörde den Austausch aller relevanten Informationen zwischen den Abwicklungsbehörden.
 
@@ -3746,7 +3749,7 @@ richtet die Abwicklungsbehörde mit den Abwicklungsbehörden der anderen Mitglie
 
 ## Abschnitt 2 Gruppenabwicklung im Fall eines Tochterunternehmens, das nicht EU-Mutterunternehmen ist
 
-##### § 161 Übermittlung von Informationen über die Abwicklungsvoraussetzungen
+###### § 161 Übermittlung von Informationen über die Abwicklungsvoraussetzungen
 
 Gelangt die Abwicklungsbehörde zu der Einschätzung, dass ein Institut oder gruppenangehöriges Unternehmen, das Mitglied einer Gruppe ist, die Voraussetzungen des § 62 oder § 64 erfüllt, und ist dieses Institut oder gruppenangehörige Unternehmen kein EU-Mutterunternehmen, so übermittelt die Abwicklungsbehörde unverzüglich folgende Informationen an die für die Gruppenabwicklung zuständige Behörde, an die konsolidierende Aufsichtsbehörde sowie an die Mitglieder des für die betreffende Gruppe zuständigen Abwicklungskollegiums:
 
@@ -3754,7 +3757,7 @@ Gelangt die Abwicklungsbehörde zu der Einschätzung, dass ein Institut oder gru
 
 2. Angaben zu den Abwicklungsmaßnahmen oder zu einem möglichen Insolvenzverfahren, die die Abwicklungsbehörde im Fall des betreffenden Instituts oder gruppenangehörigen Unternehmens für zweckmäßig erachtet.
 
-##### § 162 Vorgehen, wenn die Abwicklungsbehörde nicht die für die Gruppenabwicklung zuständige Behörde ist
+###### § 162 Vorgehen, wenn die Abwicklungsbehörde nicht die für die Gruppenabwicklung zuständige Behörde ist
 
 (1) Ist die Abwicklungsbehörde nicht die für die Gruppenabwicklung zuständige Behörde, so kann sie die nach § 161 Nummer 2 mitgeteilten Abwicklungsmaßnahmen treffen oder den Antrag auf Eröffnung eines Insolvenzverfahrens über das Vermögen des betreffenden Instituts oder gruppenangehörigen Unternehmens stellen, wenn
 
@@ -3764,7 +3767,7 @@ Gelangt die Abwicklungsbehörde zu der Einschätzung, dass ein Institut oder gru
 
 (2) Ist die Abwicklungsbehörde mit einem Gruppenabwicklungskonzept im Sinne des § 164, das von der für die Gruppenabwicklung zuständigen Behörde vorgeschlagen wurde, nicht einverstanden oder ist sie der Auffassung, dass sie aus Gründen der Finanzstabilität andere Abwicklungsmaßnahmen oder Maßnahmen als die in dem Gruppenabwicklungskonzept vorgeschlagenen in Bezug auf ein Institut oder ein Unternehmen im Sinne des § 161 ergreifen muss, muss sie detailliert begründen, warum sie nicht mit dem Gruppenabwicklungskonzept einverstanden ist, die für die Gruppenabwicklung zuständige Behörde und die Abwicklungsbehörden anderer Mitgliedstaaten die von dem Gruppenabwicklungskonzept erfasst sind, über die Gründe unterrichten und ihnen mitteilen, welche Maßnahmen sie ergreifen wird. Bei der Begründung, warum sie nicht einverstanden ist, hat sie den potentiellen Auswirkungen auf die Finanzstabilität der betreffenden Mitgliedstaaten sowie der potentiellen Wirkung der Maßnahmen auf andere Teile der Gruppe in angemessener Weise Rechnung zu tragen.
 
-##### § 163 Vorgehen, wenn die Abwicklungsbehörde die für die Gruppenabwicklung zuständige Behörde ist
+###### § 163 Vorgehen, wenn die Abwicklungsbehörde die für die Gruppenabwicklung zuständige Behörde ist
 
 (1) Ist die Abwicklungsbehörde die für die Gruppenabwicklung zuständige Behörde und erhält sie eine dem § 161 entsprechende Mitteilung einer Abwicklungsbehörde eines anderen Mitgliedstaats, so bewertet sie nach Anhörung der anderen Mitglieder des jeweiligen Abwicklungskollegiums die Folgen, welche die mitgeteilten Abwicklungsmaßnahmen, der beabsichtigte Antrag auf Eröffnung eines Insolvenzverfahrens oder die anderen mitgeteilten Insolvenzmaßnahmen der Abwicklungsbehörden anderer Mitgliedstaaten auf die Gruppe und auf Unternehmen der Gruppe haben könnten. Sie bewertet insbesondere, ob die ihr mitgeteilten Abwicklungsmaßnahmen oder Insolvenzmaßnahmen erwarten lassen, dass die Bedingungen oder Voraussetzungen für die Abwicklung in Bezug auf ein Institut oder Unternehmen der Gruppe in einem anderen Mitgliedstaat als dem Staat der mitteilenden Abwicklungsbehörde erfüllt werden.
 
@@ -3772,7 +3775,7 @@ Gelangt die Abwicklungsbehörde zu der Einschätzung, dass ein Institut oder gru
 
 (3) Gelangt die Abwicklungsbehörde nach Anhörung der anderen Mitglieder des Abwicklungskollegiums zu der Einschätzung, dass die ihr mitgeteilten Abwicklungsmaßnahmen und Insolvenzmaßnahmen erwarten lassen, dass die Voraussetzungen gemäß § 62 oder § 64 in Bezug auf ein Institut oder Unternehmen der Gruppe in einem anderen Mitgliedstaat erfüllt werden, unterbreitet sie dem Abwicklungskollegium innerhalb von 24 Stunden nach Erhalt der dem § 161 entsprechenden Mitteilung einen Vorschlag für ein Gruppenabwicklungskonzept. Der 24-Stunden-Zeitraum kann mit Zustimmung der mitteilenden Abwicklungsbehörde verlängert werden.
 
-##### § 164 Gruppenabwicklungskonzept
+###### § 164 Gruppenabwicklungskonzept
 
 (1) In einem Gruppenabwicklungskonzept
 
@@ -3788,13 +3791,13 @@ Gelangt die Abwicklungsbehörde zu der Einschätzung, dass ein Institut oder gru
 
 (4) Wird ein Gruppenabwicklungskonzept nicht umgesetzt oder weicht eine Abwicklungsbehörde zu einem späteren Zeitpunkt von dem Gruppenabwicklungskonzept ab und trifft die Abwicklungsbehörde Abwicklungsmaßnahmen in Bezug auf ein Institut oder Unternehmen im Sinne des Absatzes 1, so hat sie mit den betreffenden Abwicklungsbehörden aus anderen Mitgliedstaaten innerhalb des Abwicklungskollegiums eng zusammenzuarbeiten, um eine koordinierte Abwicklungsstrategie für alle von einem Ausfall betroffenen oder bedrohten Institute und Unternehmen der Gruppe zu entwickeln. Sie hat die Mitglieder des Abwicklungskollegiums regelmäßig und umfassend über die getroffenen Abwicklungsmaßnahmen und die laufenden Fortschritte zu unterrichten.
 
-##### § 165 Unverzügliche Durchführung der Maßnahmen
+###### § 165 Unverzügliche Durchführung der Maßnahmen
 
 Die Abwicklungsbehörde führt alle Maßnahmen gemäß den §§ 161 bis 164 unverzüglich und unter gebührender Berücksichtigung der gebotenen Dringlichkeit durch.
 
 ## Abschnitt 3 Gruppenabwicklung im Fall eines EU-Mutterunternehmens
 
-##### § 166 Gruppenabwicklung im Fall eines EU-Mutterunternehmens
+###### § 166 Gruppenabwicklung im Fall eines EU-Mutterunternehmens
 
 (1) Gelangt die Abwicklungsbehörde zu der Einschätzung, dass ein übergeordnetes Unternehmen, welches gleichzeitig ein EU-Mutterunternehmen ist, die Voraussetzungen des § 62 oder des § 64 erfüllt, übermittelt sie unverzüglich die in § 161 genannten Informationen zu diesem übergeordneten Unternehmen an die anderen Mitglieder des für die betreffende Gruppe zuständigen Abwicklungskollegiums. Die Abwicklungsmaßnahmen oder Insolvenzmaßnahmen gemäß § 161 Nummer 2 können auch die Umsetzung eines gemäß § 164 ausgearbeiteten Gruppenabwicklungskonzepts umfassen, wenn
 
@@ -3816,7 +3819,7 @@ Die Abwicklungsbehörde führt alle Maßnahmen gemäß den §§ 161 bis 164 unve
 
 ## Kapitel 3 Beziehungen zu Drittstaaten
 
-##### § 167 Vereinbarungen mit Drittstaaten
+###### § 167 Vereinbarungen mit Drittstaaten
 
 (1) In Vereinbarungen mit Drittstaaten kann die Art und Weise der Zusammenarbeit zwischen der Abwicklungsbehörde und der Aufsichtsbehörde und den jeweiligen Drittstaatsbehörden insbesondere zum Zweck des Informationsaustauschs im Zusammenhang mit der Sanierungs- und Abwicklungsplanung in Bezug auf Institute, Finanzinstitute, Mutterunternehmen und Drittstaatsinstitute in folgenden Fällen festgelegt werden:
 
@@ -3834,7 +3837,7 @@ Die Abwicklungsbehörde führt alle Maßnahmen gemäß den §§ 161 bis 164 unve
 
 (4) Die in Absatz 1 genannten Vereinbarungen werden auf unbestimmte Zeit geschlossen und treten außer Kraft, sobald der Europäische Rat anhand von Vorschlägen der Kommission Übereinkünfte entsprechend den Vorgaben des Artikels 93 der Richtlinie 2014/59/EU geschlossen hat.
 
-##### § 168 Zusammenarbeit mit Drittstaatsbehörden
+###### § 168 Zusammenarbeit mit Drittstaatsbehörden
 
 (1) Die Bestimmungen dieses Paragraphen gelten in Bezug auf die Zusammenarbeit mit einem Drittstaat, sofern und solange keine Übereinkunft gemäß § 167 Absatz 4 mit dem betreffenden Drittstaat in Kraft getreten ist.
 
@@ -3880,7 +3883,7 @@ Die in diesem Absatz genannten Kooperationsvereinbarungen dürfen keine Bestimmu
 
 (5) Die Abwicklungsbehörde unterrichtet die Europäische Bankenaufsichtsbehörde über Kooperationsvereinbarungen, die die Abwicklungsbehörde oder Aufsichtsbehörde geschlossen hat.
 
-##### § 169 Anerkennung und Durchsetzung von Drittstaatsabwicklungsverfahren
+###### § 169 Anerkennung und Durchsetzung von Drittstaatsabwicklungsverfahren
 
 (1) Die Bestimmungen dieses Paragraphen gelten in Bezug auf Drittstaatsabwicklungsverfahren, sofern und solange keine Übereinkunft gemäß § 167 Absatz 4 mit dem betreffenden Drittstaat in Kraft getreten ist. Sie gelten ferner nach dem Inkrafttreten einer Übereinkunft gemäß § 167 Absatz 4 mit einem Drittstaat, sofern in der Übereinkunft die Anerkennung und Durchsetzung der Drittstaatsabwicklungsverfahren nicht geregelt wird.
 
@@ -3920,7 +3923,7 @@ b) die vertraglichen Rechte der in Absatz 3 genannten Parteien und anderer grupp
 
 (8) Vorbehaltlich der vorherigen Prüfung der Vereinbarkeit mit deutschem Recht sowie mit bestehenden zwischenstaatlichen Vereinbarungen mit dem jeweiligen Drittstaat erkennt die Abwicklungsbehörde, außer in den in § 170 genannten Fällen, Drittstaatsabwicklungsverfahren an, soweit diese Regelungen vorsehen, die für die Erreichung eines oder mehrerer Abwicklungsziele erforderlich sind. Die Anerkennung des Drittstaatsabwicklungsverfahrens berührt in diesem Fall nicht das Abwicklungsverfahren nach deutschem Recht.
 
-##### § 170 Recht auf Verweigerung der Anerkennung oder Durchsetzung von Drittstaatsabwicklungsverfahren
+###### § 170 Recht auf Verweigerung der Anerkennung oder Durchsetzung von Drittstaatsabwicklungsverfahren
 
 Nach Konsultation der betroffenen Abwicklungsbehörden der anderen Mitgliedstaaten des europäischen Abwicklungskollegiums gemäß § 159 kann die Abwicklungsbehörde die Anerkennung oder Durchsetzung der Drittstaatsabwicklungsverfahren verweigern, wenn sie der Auffassung ist, dass
 
@@ -3934,7 +3937,7 @@ Nach Konsultation der betroffenen Abwicklungsbehörden der anderen Mitgliedstaat
 
 5. die Auswirkungen dieser Anerkennung oder Durchsetzung im Widerspruch zu nationalem Recht oder nach Auslegung im Sinne dieses Gesetzes im Widerspruch zu geschlossenen bilateralen Abkommen stehen würden.
 
-##### § 171 Abwicklung von inländischen Unionszweigstellen
+###### § 171 Abwicklung von inländischen Unionszweigstellen
 
 (1) Wenn eine inländische Unionszweigstelle entweder keinem Drittstaatsabwicklungsverfahren unterliegt oder wenn die inländische Unionszweigstelle einem Drittstaatsabwicklungsverfahren unterliegt und gleichzeitig einer der Umstände gemäß § 170 vorliegt, kann die Abwicklungsbehörde in Bezug auf diese Unionszweigstelle eine Abwicklungsmaßnahme treffen, wenn sie der Auffassung ist, dass die Abwicklungsmaßnahme im öffentlichen Interesse erforderlich ist und wenn gleichzeitig mindestens eine der folgenden Voraussetzungen erfüllt ist:
 
@@ -3948,7 +3951,7 @@ Nach Konsultation der betroffenen Abwicklungsbehörden der anderen Mitgliedstaat
 
 ## Teil 7 Bußgeldvorschriften
 
-##### § 172 Bußgeldvorschriften
+###### § 172 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3994,7 +3997,7 @@ geahndet werden. § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten i
 
 (4) Der Jahresnettoumsatz im Sinne des Absatzes 3 Satz 2 Nummer 1 ist der Gesamtbetrag der in § 34 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis e der Kreditinstituts-Rechnungslegungsverordnung in der jeweils geltenden Fassung genannten Erträge einschließlich der Bruttoerträge bestehend aus Zinserträgen und ähnlichen Erträgen, Erträgen aus Aktien, anderen Anteilsrechten und nicht festverzinslichen beziehungsweise festverzinslichen Wertpapieren sowie Erträgen aus Provisionen und Gebühren wie in Artikel 316 der Verordnung (EU) Nr. 575/2013 ausgeführt, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern. Handelt es sich bei dem Unternehmen um ein Tochterunternehmen, ist auf den Jahresnettoumsatz abzustellen, der im vorangegangenen Geschäftsjahr im konsolidierten Abschluss des Mutterunternehmens an der Spitze der Gruppe ausgewiesen ist.
 
-##### § 172a Bußgeldvorschriften zur Verordnung (EU) 2021/23
+###### § 172a Bußgeldvorschriften zur Verordnung (EU) 2021/23
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2021/23 des Europäischen Parlaments und des Rates vom 16. Dezember 2020 über einen Rahmen für die Sanierung und Abwicklung zentraler Gegenparteien und zur Änderung der Verordnungen (EU) Nr. 1095/2010, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 806/2014 und (EU) 2015/2365 sowie der Richtlinien 2002/47/EG, 2004/25/EG, 2007/36/EG, 2014/59/EU und (EU) 2017/1132 (ABl. L 22 vom 22.1.2021, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -4016,11 +4019,11 @@ geahndet werden. § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten i
 
 (5) Handelt es sich im Falle von Absatz 3 bei der juristischen Person oder Personenvereinigung um das Tochterunternehmen eines Mutterunternehmens im Sinne von Artikel 2 Nummer 13 der Verordnung (EU) 2021/23, so bezeichnet Gesamtumsatz den Umsatz, der im vorangegangenen Geschäftsjahr im konsolidierten Abschluss des obersten Mutterunternehmens ausgewiesen ist.
 
-##### § 173 Zuständige Verwaltungsbehörde
+###### § 173 Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des § 172 Absatz 1 Nummer 1 bis 4 und 8 sowie des § 172a Absatz 1 Nummer 1 bis 3 die Aufsichtsbehörde, im Übrigen die Abwicklungsbehörde.
 
-##### § 174 Vorübergehendes Tätigkeitsverbot; Bekanntmachung von Maßnahmen
+###### § 174 Vorübergehendes Tätigkeitsverbot; Bekanntmachung von Maßnahmen
 
 (1) Bei wiederholter oder fortgesetzter Begehung von Ordnungswidrigkeiten nach § 172 Absatz 1 kann die Aufsichtsbehörde dem Täter die Wahrnehmung von Aufgaben in Instituten oder gruppenangehörigen Unternehmen vorübergehend untersagen.
 
@@ -4042,7 +4045,7 @@ Abweichend von Satz 1 kann die Abwicklungsbehörde in den Fällen von Satz 1 Num
 
 (6) Die Abwicklungsbehörde und die Aufsichtsbehörde informieren die Europäische Bankenaufsichtsbehörde über alle bestandskräftig gewordenen Maßnahmen und unanfechtbar gewordenen Bußgeldentscheidungen; Absatz 4 gilt entsprechend. Die Europäische Bankenaufsichtsbehörde ist befugt, die übermittelten bestandskräftig gewordenen Maßnahmen und eine unanfechtbar gewordene Bußgeldentscheidung zentral in einer Datenbank zu verwalten und zum Zweck des Informationsaustausches anderen Aufsichtsbehörden und Abwicklungsbehörden eines Mitgliedstaats zugänglich zu machen.
 
-##### § 175 Beteiligung der Abwicklungsbehörde und Mitteilungen in Strafsachen
+###### § 175 Beteiligung der Abwicklungsbehörde und Mitteilungen in Strafsachen
 
 (1) Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde hat in Strafverfahren gegen Inhaber oder Geschäftsleiter von Instituten, gruppenangehörigen Unternehmen oder Mitglieder der Verwaltungs- oder Aufsichtsorgane von Instituten oder gruppenangehörigen Unternehmen sowie gegen Inhaber bedeutender Beteiligungen an Instituten oder gruppenangehörigen Unternehmen oder deren gesetzliche Vertreter oder persönlich haftende Gesellschafter wegen Verletzung ihrer Berufspflichten oder anderer Straftaten bei oder im Zusammenhang mit der Ausübung eines Gewerbes oder dem Betrieb einer sonstigen wirtschaftlichen Unternehmung im Fall der Erhebung der öffentlichen Klage der Abwicklungsbehörde
 
@@ -4062,7 +4065,7 @@ zu übermitteln; ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, i
 
 ## Kapitel 1 Maßnahmen des Ausschusses
 
-##### § 176 Unterstützung bei Untersuchungen; Zwangsmaßnahmen
+###### § 176 Unterstützung bei Untersuchungen; Zwangsmaßnahmen
 
 (1) Beschließt der Ausschuss, seine Untersuchungsbefugnisse nach den Artikeln 34 bis 36 der Verordnung (EU) Nr. 806/2014 mit Hilfe der Abwicklungsbehörde auszuüben, ist die Abwicklungsbehörde befugt, die zur Unterstützung des Ausschusses erforderlichen Maßnahmen zu treffen, insbesondere
 
@@ -4074,11 +4077,11 @@ zu übermitteln; ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, i
 
 (2) Die Abwicklungsbehörde ist in den Fällen von Artikel 35 Absatz 2 Unterabsatz 2 und Artikel 36 Absatz 5 der Verordnung (EU) Nr. 806/2014 zuständig für die Androhung und Festsetzung der erforderlichen Zwangsmittel sowie für die Durchführung des Verwaltungszwangs. Das Verwaltungsvollstreckungsgesetz gilt entsprechend.
 
-##### § 177 Prüfungen vor Ort nach der SRM-Verordnung
+###### § 177 Prüfungen vor Ort nach der SRM-Verordnung
 
 Für Prüfungen vor Ort nach Artikel 36 der Verordnung (EU) Nr. 806/2014 durch die dort genannten Bediensteten und Personen gilt § 78 Absatz 2 bis 4 entsprechend. Der Umfang der Prüfung durch das Amtsgericht richtet sich nach Artikel 37 Absatz 2 der Verordnung (EU) Nr. 806/2014.
 
-##### § 178 Vollstreckung der vom Ausschuss verhängten Geldbußen und Zwangsgelder
+###### § 178 Vollstreckung der vom Ausschuss verhängten Geldbußen und Zwangsgelder
 
 (1) Für die Vollstreckung der durch den Ausschuss nach den Artikeln 38 und 39 der Verordnung (EU) Nr. 806/2014 verhängten Geldbußen und Zwangsgelder gilt vorbehaltlich der Absätze 2 und 3 das Verwaltungs-Vollstreckungsgesetz.
 
@@ -4088,7 +4091,7 @@ Für Prüfungen vor Ort nach Artikel 36 der Verordnung (EU) Nr. 806/2014 durch d
 
 ## Kapitel 2 Untersuchungsbefugnisse der Abwicklungsbehörde
 
-##### § 178a Auskunfts- und Vorlageverlangen
+###### § 178a Auskunfts- und Vorlageverlangen
 
 (1) Die Abwicklungsbehörde kann von den in § 1 Absatz 1 genannten Unternehmen und zentralen Gegenparteien, von den Mitgliedern der Organe und den Beschäftigten dieser Unternehmen oder zentralen Gegenparteien oder von Dritten, an die Funktionen oder Tätigkeiten dieser Unternehmen oder zentralen Gegenparteien ausgelagert wurden, Auskünfte und die Vorlage von Unterlagen verlangen, die zur Wahrnehmung der Aufgaben der Abwicklungsbehörde nach diesem Gesetz erforderlich sind. Die Abwicklungsbehörde kann auch verlangen, dass die Unterlagen nach Satz 1 in Kopie zur Verfügung gestellt werden.
 
@@ -4096,7 +4099,7 @@ Für Prüfungen vor Ort nach Artikel 36 der Verordnung (EU) Nr. 806/2014 durch d
 
 (3) Die Abwicklungsbehörde ist nicht verpflichtet, den betroffenen Personen die infolge der Anwendung dieser Vorschrift entstandenen Kosten und Aufwendungen zu erstatten.
 
-##### § 178b Vornahme von Prüfungen und Prüfungen vor Ort
+###### § 178b Vornahme von Prüfungen und Prüfungen vor Ort
 
 (1) Die Abwicklungsbehörde kann zum Zweck der Bewertung der Abwicklungsfähigkeit, auch ohne besonderen Anlass, bei den in § 1 Absatz 1 genannten Unternehmen und zentralen Gegenparteien sowie Dritten, an die Funktionen oder Tätigkeiten dieser Unternehmen oder zentralen Gegenparteien ausgelagert wurden, alle erforderlichen Prüfungen vornehmen oder einen Dritten mit der Durchführung dieser Prüfungen beauftragen.
 
@@ -4114,7 +4117,7 @@ Für Prüfungen vor Ort nach Artikel 36 der Verordnung (EU) Nr. 806/2014 durch d
 
 ## Teil 9 Rechtsbehelf und Ausschluss anderer Maßnahmen
 
-##### § 179 Rechtsschutz
+###### § 179 Rechtsschutz
 
 (1) Ein Widerspruchsverfahren gegen eine Abwicklungsmaßnahme wird nicht durchgeführt. Eine Anfechtungsklage gegen Abwicklungsmaßnahmen der Abwicklungsbehörde einschließlich der Androhung und Festsetzung von Zwangsmitteln nach diesem Gesetz hat keine aufschiebende Wirkung.
 
@@ -4132,15 +4135,14 @@ Für Prüfungen vor Ort nach Artikel 36 der Verordnung (EU) Nr. 806/2014 durch d
 
 (4) Soweit die Beseitigung der Vollzugsfolgen nach Absatz 3 Satz 2 ausgeschlossen ist, steht den Betroffenen ein Anspruch auf Ausgleich der durch die Abwicklungsmaßnahme entstandenen Nachteile zu.
 
-##### § 179a Besondere Vorschriften für das Verwaltungsverfahren
+###### § 179a Besondere Vorschriften für das Verwaltungsverfahren
 
 Vor dem Erlass einer Maßnahme nach den §§ 66a, 77 bis 90, 101, 107, 153 oder nach § 169 ist die Abwicklungsbehörde zur Durchführung einer Anhörung nach § 28 des Verwaltungsverfahrensgesetzes nicht verpflichtet.
 
-##### § 180 Unterbrechung von gerichtlichen Verfahren in Zivilsachen
+###### § 180 Unterbrechung von gerichtlichen Verfahren in Zivilsachen
 
 Im Fall des Erlasses einer Abwicklungsmaßnahme der Abwicklungsbehörde gegen ein Institut oder ein gruppenangehöriges Unternehmen mit Sitz im Inland wird ein Verfahren in Zivilsachen, an dem das Institut oder das gruppenangehörige Unternehmen mit Sitz im Inland als Partei oder als Streitgenosse oder Dritter im Sinne des Buches 1 Abschnitt 2 Titel 2 und 3 der Zivilprozessordnung beteiligt ist, unterbrochen, bis die Abwicklungsbehörde die Beendigung der Abwicklungsmaßnahme gemäß § 140 Absatz 6 veröffentlicht hat.
 
-##### § 181 Haftungsbeschränkung
+###### § 181 Haftungsbeschränkung
 
 Abweichend von § 75 Absatz 1 Satz 1 des Bundesbeamtengesetzes haben Beamtinnen und Beamte, deren Behörden Aufgaben nach diesem Gesetz wahrzunehmen haben, einen Schaden, den sie bei der Wahrnehmung von Aufgaben, die ihrer Behörde nach diesem Gesetz obliegen, verursacht haben, nur dann zu ersetzen, wenn sie die ihnen obliegenden Pflichten vorsätzlich verletzt haben. Satz 1 gilt entsprechend für Amtsträger, die keine Beamtinnen oder Beamten sind, einschließlich der Tarifbeschäftigten.
-
