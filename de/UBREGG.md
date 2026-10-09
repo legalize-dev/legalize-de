@@ -4,18 +4,22 @@ identifier: "UBREGG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2021-07-09"
-last_updated: "2026-04-04"
+last_updated: "2026-10-09"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/ubregg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR250610021"
 slug: "ubregg"
 bgbl_reference: "BGBl I 2021, 2506"
-stand: "Zuletzt geändert durch Art. 11 G v. 22.12.2025 I Nr. 354"
+stand: "Zuletzt geändert durch Art. 5 G v. 6.10.2026 I Nr. 289"
 ---
 # Gesetz zur Errichtung und Führung eines Registers über Unternehmensbasisdaten und zur Einführung einer bundeseinheitlichen Wirtschaftsnummer für Unternehmen
 
-##### § 1 Errichtung, Betrieb und Zweck des Registers über Unternehmensbasisdaten
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Errichtung, Betrieb und Zweck des Registers über Unternehmensbasisdaten
 
 (1) Beim Statistischen Bundesamt (Registerbehörde) wird ein Register über Unternehmensbasisdaten (Basisregister) errichtet und betrieben. Das Basisregister ist räumlich, organisatorisch und personell von den Bereichen, die Aufgaben der Bundesstatistik wahrnehmen, getrennt.
 
@@ -27,7 +31,7 @@ stand: "Zuletzt geändert durch Art. 11 G v. 22.12.2025 I Nr. 354"
 
 (3) Unternehmensbasisdaten im Sinne dieses Gesetzes sind Stammdaten, Identifikationsnummern und Metadaten.
 
-##### § 2 Bundeseinheitliche Wirtschaftsnummer für Unternehmen
+###### § 2 Bundeseinheitliche Wirtschaftsnummer für Unternehmen
 
 (1) Einem Unternehmen nach § 3 Absatz 1 wird im Basisregister eine bundeseinheitliche Wirtschaftsnummer für Unternehmen zugeordnet. Als bundeseinheitliche Wirtschaftsnummer für Unternehmen dient die Wirtschafts-Identifikationsnummer nach § 139c der Abgabenordnung.
 
@@ -35,7 +39,7 @@ stand: "Zuletzt geändert durch Art. 11 G v. 22.12.2025 I Nr. 354"
 
 (3) Die öffentlichen Stellen nach § 4 Absatz 1 und § 5 Absatz 1 dürfen die bundeseinheitliche Wirtschaftsnummer für Unternehmen in ihren Registern oder sonstigen Datenbeständen speichern, verwenden und an öffentliche Stellen weitergeben, soweit dies für ihre eigene Aufgabenerfüllung und die Aufgabenerfüllung der empfangenden öffentlichen Stelle erforderlich ist. Die bundeseinheitliche Wirtschaftsnummer für Unternehmen ist bei jeder Übermittlung an das und aus dem Basisregister anzugeben, wenn sie vergeben und durch das Basisregister an die Quellregister übermittelt wurde.
 
-##### § 3 Inhalt des Basisregisters
+###### § 3 Inhalt des Basisregisters
 
 (1) Folgende in den Registern oder sonstigen Datenbeständen der öffentlichen Stellen nach § 4 Absatz 1 und der Global Legal Entity Identifier Foundation gespeicherte Einheiten werden im Basisregister als Unternehmen geführt:
 
@@ -115,7 +119,7 @@ Jede einzelne wirtschaftliche Tätigkeit natürlicher Personen nach Satz 1 Numme
 
 (5) Die Registerbehörde hat fünf Jahre, nachdem das Unternehmen in keinem Register nach § 4 Absatz 1 und 3 mehr geführt oder als gelöscht geführt wird, die Unternehmensbasisdaten zu löschen.
 
-##### § 4 Datenübermittlung an die Registerbehörde
+###### § 4 Datenübermittlung an die Registerbehörde
 
 (1) Zum Zweck des Aufbaus und zur Führung des Basisregisters werden der Registerbehörde von folgenden öffentlichen Stellen folgende Daten übermittelt:
 
@@ -129,7 +133,7 @@ Jede einzelne wirtschaftliche Tätigkeit natürlicher Personen nach Satz 1 Numme
 
 (3) Zum Aufbau und zur Pflege des Basisregisters darf die Registerbehörde von der Global Legal Entity Identifier Foundation Daten zu den Merkmalen nach § 3 Absatz 2, 3 und 4 Nummer 1 bis 3 sowie die Rechtsträgerkennung (LEI) nach § 3 Absatz 3 Nummer 10 verwenden, soweit diese bei der Global Legal Entity Identifier Foundation gespeichert sind.
 
-##### § 5 Datenübermittlung durch die Registerbehörde
+###### § 5 Datenübermittlung durch die Registerbehörde
 
 (1) Die Registerbehörde darf an folgende öffentliche Stellen zu folgenden Zwecken für die Anlässe nach Absatz 2 Unternehmensbasisdaten übermitteln:
 
@@ -183,11 +187,11 @@ Die öffentlichen Stellen nach Satz 1 sind berechtigt, von der Registerbehörde 
 
 (4) Unternehmensbasisdaten eines Unternehmens im Sinne von § 3 Absatz 1 dürfen zur Verwendung in dessen Organisationskonto abweichend von Absatz 1 Satz 1 Nummer 10 und Absatz 3 nur mit vorheriger Einwilligung des Unternehmens übermittelt und abgerufen werden.
 
-##### § 6 Datenschutzrechtliche Verantwortlichkeit
+###### § 6 Datenschutzrechtliche Verantwortlichkeit
 
 Die Registerbehörde ist ab dem Zeitpunkt der Datenübermittlung nach § 4 Verantwortliche im Sinne des Artikels 4 Nummer 7 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1).
 
-##### § 7 Protokollierung
+###### § 7 Protokollierung
 
 (1) Die Datenübermittlungen durch die Registerbehörde werden bei der Registerbehörde protokolliert.
 
@@ -197,7 +201,7 @@ Die Registerbehörde ist ab dem Zeitpunkt der Datenübermittlung nach § 4 Veran
 
 (4) Die Protokolldaten sind von der Registerbehörde zwei Jahre aufzubewahren und danach unverzüglich zu löschen. Ist eine längere Aufbewahrung erforderlich, so sind die Gründe der Erforderlichkeit von der Registerbehörde zu dokumentieren. Abweichende gesetzliche Regelungen bleiben unberührt.
 
-##### § 8 Qualitätssicherung
+###### § 8 Qualitätssicherung
 
 (1) Die Registerbehörde ist für die Qualitätssicherung der Unternehmensbasisdaten hinsichtlich ihrer Vollständigkeit, Richtigkeit, Konsistenz und Aktualität verantwortlich.
 
@@ -205,13 +209,13 @@ Die Registerbehörde ist ab dem Zeitpunkt der Datenübermittlung nach § 4 Veran
 
 (3) Die Entscheidung über die Korrektur eines Datums in ihren Registern oder sonstigen Datenbeständen treffen die öffentlichen Stellen nach § 4 Absatz 1.
 
-##### § 9 Informationssicherheit
+###### § 9 Informationssicherheit
 
 (1) Es sind geeignete technische und organisatorische Maßnahmen der Datensicherheit für den Betrieb des Basisregisters, die Datenübermittlungen an und durch die Registerbehörde sowie für die Protokollierung zu treffen.
 
 (2) Die Einzelheiten nach Absatz 1 sind durch die Rechtsverordnung nach § 10 Satz 1 Nummer 2 festzulegen.
 
-##### § 10 Rechtsverordnungsermächtigung
+###### § 10 Rechtsverordnungsermächtigung
 
 Das Bundesministerium der Finanzen, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium der Justiz und für Verbraucherschutz werden ermächtigt, durch gemeinsame Rechtsverordnung mit Zustimmung des Bundesrates Folgendes zu regeln:
 
@@ -231,7 +235,7 @@ Das Bundesministerium der Finanzen, das Bundesministerium für Wirtschaft und En
 
 Die Maßnahmen zur Sicherstellung der Datensicherheit nach Satz 1 Nummer 2 sowie deren Überprüfung sind im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik zu erarbeiten.
 
-##### § 11 Evaluierung
+###### § 11 Evaluierung
 
 Das Bundesministerium für Wirtschaft und Energie berichtet dem Deutschen Bundestag im fünften Kalenderjahr nach Inkrafttreten dieses Gesetzes über die Wirksamkeit der in diesem Gesetz enthaltenen Maßnahmen für die Erreichung der in § 1 Absatz 2 und § 2 Absatz 2 genannten Zwecke. Der Bericht wird zudem dem Bundesrat übermittelt. Dieser Bericht soll insbesondere Erkenntnisse darstellen, ob
 
@@ -239,3 +243,24 @@ Das Bundesministerium für Wirtschaft und Energie berichtet dem Deutschen Bundes
 
 2. durch das registerübergreifende Identitätsmanagement zu Unternehmen anhand der bundeseinheitlichen Wirtschaftsnummer nach § 2 eine ausschließlich zentrale Speicherung von Unternehmensbasisdaten bei der Registerbehörde umgesetzt werden kann.
 
+###### § 12 Experimentierklausel
+
+(1) Das Bundesministerium für Wirtschaft und Energie kann im Rahmen der in § 1 Absatz 2 genannten Zwecke Abweichungen von § 3 Absatz 1 bis 4, § 4 Absatz 1 und 2 sowie § 5 dieses Gesetzes zulassen für die Erprobung
+
+1. des Anschlusses des Basisregisters an das Nationale Once-Only-Technical-System im Sinne des Vertrages über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) – Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG – NOOTS-Staatsvertrag vom 24. März 2025 (BGBl. 2025 I Nr. 325, S. 3; 2026 I Nr. 35) sowie
+
+2. der Übermittlung von Unternehmensbasisdaten an die Deutsche Bundesbank, zur Sicherstellung der Vollständigkeit, Richtigkeit, Aktualität und Konsistenz von Unternehmensdaten in den Meldungen im statistischen Meldewesen der Mitglieder des Europäischen Systems der Zentralbanken, insbesondere im Rahmen der Standardisierung und Integration europäischer Berichtsanforderungen.
+
+Soweit eine Abweichung nach Satz 1 den Anschluss weiterer öffentlicher Stellen an das Basisregister oder die Übermittlung von Daten dieser Stellen an das Basisregister zur Folge haben soll, die nicht in den Zuständigkeitsbereich des Bundesministeriums für Wirtschaft und Energie fallen, kann das Bundesministerium für Wirtschaft und Energie die Abweichung nur im Einvernehmen mit dem betroffenen zuständigen Ressort zulassen.
+
+(2) Über die in Absatz 1 genannten Anwendungsfälle hinaus kann das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium der Finanzen zur Erprobung des Anschlusses weiterer öffentlicher Stellen und der Aufnahme weiterer Einheiten und Merkmale in das Basisregister Abweichungen von § 3 Absatz 1 bis 4, § 4 Absatz 1 und 2 sowie § 5 dieses Gesetzes zulassen. Soweit die Übermittlung der Deutschen Gesetzlichen Unfallversicherung e. V. gemäß § 4 Absatz 1 Nummer 2 um weitere Einheiten oder Merkmale erweitert wird, ist auch Einvernehmen mit dem Bundesministerium für Arbeit und Soziales herzustellen.
+
+(3) Abweichungen, die nach den Absätzen 1 oder 2 zugelassen werden, sind angemessen zu befristen, jedoch nicht länger als für die Dauer von drei Jahren. Die Dauer der Erprobung ist im Einzelfall so festzusetzen, dass der Erprobungszweck erfüllt und ausreichend regulatorische Erkenntnisse gesammelt werden können. Die Zulassung der Abweichungen kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium der Finanzen zwei Mal jeweils um weitere zwei Jahre verlängert werden, wenn die Voraussetzungen der Erteilung der Zulassung weiter fortbestehen und der bisherige Verlauf der Erprobung einer Verlängerung nicht entgegensteht.
+
+(4) Im Rahmen der nach den Absätzen 1 oder 2 zugelassenen Abweichungen dürfen zusätzlich zu den Stellen, die in § 4 Absatz 1 und 2, § 5 sowie in der nach § 10 Satz 1 Nummer 6 und 7 erlassenen Verordnung genannt werden, weitere öffentliche Stellen als datenübermittelnde oder datenabrufende Stellen an das Basisregister angeschlossen werden. Weiterhin dürfen zusätzlich zu den Einheiten und Daten, die in § 3 Absatz 1 bis 3 sowie in der nach § 10 Satz 1 Nummer 6 und 7 erlassenen Verordnung genannt werden, weitere Einheiten als Unternehmen im Basisregister geführt und weitere Daten zu diesen gespeichert werden.
+
+(5) Soweit dies für die Erprobung nach den Absätzen 1 bis 4 erforderlich ist, dürfen Daten einschließlich personenbezogener Daten an das Basisregister übermittelt, vom Basisregister erhoben, gespeichert sowie an datenabrufende öffentliche Stellen übermittelt werden.
+
+(6) Das Bundesministerium für Wirtschaft und Energie veröffentlicht vor deren Wirksamwerden die nach den Absätzen 1 oder 2 zugelassenen Abweichungen einschließlich des Zwecks der Erprobung, der weiteren an das Basisregister angeschlossenen Stellen, der weiteren im Basisregister geführten Einheiten, der dazu gespeicherten Daten und der Befristung der Abweichungen auf seiner Webseite.
+
+(7) Die Erprobung soll nach Ablauf ihrer jeweiligen Befristung im Auftrag des Bundesministeriums für Wirtschaft und Energie evaluiert werden. Die Evaluierung soll innerhalb von zwei Jahren erfolgen.
