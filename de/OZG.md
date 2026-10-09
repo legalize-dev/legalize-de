@@ -4,18 +4,23 @@ identifier: "OZG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2017-08-14"
-last_updated: "2026-04-04"
+last_updated: "2026-10-09"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/ozg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR313800017"
 slug: "ozg"
 bgbl_reference: "BGBl I 2017, 3122, 3138"
 stand: "Zuletzt geändert durch Art. 1 G v. 19.7.2024 I Nr. 245"
+hinweis: "Änderung durch Art. 3 G v. 6.10.2026 I Nr. 289 ist berücksichtigt"
 ---
 # Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen
 
-##### § 1 Anwendungsbereich
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für Verwaltungsleistungen der öffentlichen Stellen
 
@@ -25,7 +30,7 @@ stand: "Zuletzt geändert durch Art. 1 G v. 19.7.2024 I Nr. 245"
 
 (2) Für die Tätigkeit der Gerichtsverwaltungen und der Behörden der Justizverwaltung einschließlich der ihrer Aufsicht unterliegenden Körperschaften des öffentlichen Rechts gilt dieses Gesetz nur, soweit die Tätigkeit der Nachprüfung durch die Gerichte der Verwaltungsgerichtsbarkeit oder der Nachprüfung durch die in verwaltungsrechtlichen Anwalts-, Patentanwalts- und Notarsachen zuständigen Gerichte unterliegt.
 
-##### § 1a Portalverbund für digitale Verwaltungsleistungen
+###### § 1a Portalverbund für digitale Verwaltungsleistungen
 
 (1) Bund und Länder sind verpflichtet, ihre Verwaltungsleistungen auch elektronisch über Verwaltungsportale anzubieten. Davon abweichend sollen Verwaltungsleistungen, die der Ausführung von Bundesgesetzen dienen und ausschließlich Nutzer im Sinne des § 2 Absatz 4 Nummer 2 betreffen, spätestens mit Ablauf des fünften auf die Verkündung des Gesetzes vom 19. Juli 2024 (BGBl. 2024 I Nr. 245) folgenden Kalenderjahres ausschließlich elektronisch angeboten werden. Von dem ausschließlich elektronischen Angebot einer Verwaltungsleistung nach Satz 2 kann bei berechtigtem Interesse des Nutzers abgewichen werden. Erfolgt ein ausschließlich elektronisches Angebot bereits vor Ablauf des Zeitraums nach Satz 2, so ist darüber an geeigneter Stelle mit angemessenem Vorlauf elektronisch zu informieren.
 
@@ -35,7 +40,9 @@ stand: "Zuletzt geändert durch Art. 1 G v. 19.7.2024 I Nr. 245"
 
 (4) Der Bund stellt im Verwaltungsportal des Bundes für die Suche nach elektronischen Verwaltungsleistungen im Portalverbund einen Suchdienst bereit. Auf Grundlage einer Verwaltungsvereinbarung mit dem Bundesministerium des Innern und für Heimat können Länder diesen Suchdienst auch für ihre Verwaltungsportale mitnutzen.
 
-##### § 2 Begriffsbestimmungen
+(5) Bund und Länder verknüpfen ihre Verwaltungsportale nach § 72a Absatz 2 VwVfG bis spätestens zum 31. Dezember 2027 zu einem gemeinsamen Verwaltungsportal. Die IT-Komponenten für das Verwaltungsportal des Bundes inklusive der dazugehörigen Datenplattform legt das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium für Digitalisierung und Staatsmodernisierung fest. Die IT-Komponenten für das Verwaltungsportal der Länder inklusive der dazugehörigen Datenplattform legt das Bundesministerium für Digitalisierung und Staatsmodernisierung im Einvernehmen mit dem IT-Planungsrat durch Rechtsverordnung mit Zustimmung des Bundesrates fest.
+
+###### § 2 Begriffsbestimmungen
 
 (1) Der „Portalverbund“ ist eine technische Verknüpfung der Verwaltungsportale von Bund und Ländern, über den der Zugang zu Verwaltungsleistungen auf unterschiedlichen Portalen angeboten wird.
 
@@ -61,7 +68,7 @@ stand: "Zuletzt geändert durch Art. 1 G v. 19.7.2024 I Nr. 245"
 
 (9) Behörde im Sinne dieses Gesetzes ist jede Stelle, die Aufgaben der öffentlichen Verwaltung wahrnimmt.
 
-##### § 3 Nutzerkonten, Identifizierung und Authentifizierung; Verordnungsermächtigung
+###### § 3 Nutzerkonten, Identifizierung und Authentifizierung; Verordnungsermächtigung
 
 (1) Die Identifizierung und Authentifizierung der Nutzer im Sinne des § 2 Absatz 4 Nummer 1 für die Inanspruchnahme elektronischer Verwaltungsleistungen im Portalverbund erfolgt, soweit nicht durch Bundesgesetz etwas anderes bestimmt ist, über ein zentrales Bürgerkonto, das der Bund bereitstellt. Die Verwendung des Bürgerkontos ist für die Nutzer freiwillig. Das Bundesministerium des Innern und für Heimat wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu bestimmen, welche öffentliche Stelle des Bundes das Bürgerkonto bereitstellt.
 
@@ -81,13 +88,13 @@ b) für elektronische Verwaltungsleistungen, für die das Vertrauensniveau „ho
 
 (5) Über den Nachweis der Identität nach Absatz 4 hinausgehende Anforderungen an die Identifizierung einer Person, die zur Durchführung eines Verwaltungsverfahrens erforderlich sind, bleiben unberührt.
 
-##### § 3a Beratungsangebot im Portalverbund
+###### § 3a Beratungsangebot im Portalverbund
 
 (1) Bund und Länder stellen für Nutzer im Portalverbund eine allgemeine fachunabhängige, barrierearme Beratung für die Abwicklung ihrer über Verwaltungsportale angebotenen, elektronischen Verwaltungsleistungen bereit und bestimmen dafür öffentliche Stellen. Diese öffentlichen Stellen unterstützen Nutzer bei der Abwicklung von Verwaltungsleistungen im Portalverbund.
 
 (2) Die beteiligten Stellen dürfen die von der betroffenen Person übermittelten, zur Aufgabenerfüllung nach Absatz 1 erforderlichen personenbezogenen Daten verarbeiten. Soweit hierzu die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) erforderlich ist, dürfen die beteiligten Stellen sie auf Veranlassung des Nutzers verarbeiten. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
 
-##### § 4 Elektronische Abwicklung von Verwaltungsverfahren; Verordnungsermächtigung
+###### § 4 Elektronische Abwicklung von Verwaltungsverfahren; Verordnungsermächtigung
 
 (1) Für die elektronische Abwicklung von Verwaltungsverfahren, die der Durchführung unmittelbar geltender Rechtsakte der Europäischen Union, für die dem Bund die Gesetzgebungskompetenz zusteht, oder der Ausführung von Bundesgesetzen dienen, wird die Bundesregierung ermächtigt, im Benehmen mit dem IT-Planungsrat durch Rechtsverordnung ohne Zustimmung des Bundesrates die Verwendung bestimmter IT-Komponenten nach § 2 Absatz 6 verbindlich vorzugeben. In der Rechtsverordnung kann auch die Verwendung von IT-Komponenten geregelt werden, die das jeweils zuständige Bundesministerium bereitstellt. Die Länder können von den in der Rechtsverordnung getroffenen Regelungen durch Landesrecht abweichen, soweit sie für den Betrieb im Portalverbund geeignete IT-Komponenten bereitstellen.
 
@@ -95,11 +102,11 @@ b) für elektronische Verwaltungsleistungen, für die das Vertrauensniveau „ho
 
 (3) Bei der Bereitstellung der IT-Komponenten im Sinne des Absatzes 1 sollen offene Standards und offene Schnittstellen verwendet werden und soll Open-Source-Software vorrangig vor solcher Software eingesetzt werden, deren Quellcode nicht öffentlich zugänglich ist oder deren Lizenz die Verwendung, Weitergabe und Veränderung einschränkt.
 
-##### § 5 IT-Sicherheit; Verordnungsermächtigung
+###### § 5 IT-Sicherheit; Verordnungsermächtigung
 
 Für die im Portalverbund und für die zur Anbindung an den Portalverbund genutzten IT-Komponenten werden die zur Gewährleistung der IT-Sicherheit erforderlichen Standards durch Rechtsverordnung des Bundesministeriums des Innern und für Heimat ohne Zustimmung des Bundesrates festgelegt. Die Einhaltung der Standards der IT-Sicherheit ist für alle Stellen verbindlich, die entsprechende IT-Komponenten nutzen. Von den in der Rechtsverordnung getroffenen Regelungen kann durch Landesrecht nicht abgewichen werden. § 4 Absatz 2 gilt entsprechend.
 
-##### § 6 Standards; Verordnungsermächtigungen
+###### § 6 Standards; Verordnungsermächtigungen
 
 (1) Für die informationstechnischen Systeme, die für den übergreifenden informationstechnischen Zugang zu den Verwaltungsleistungen von Bund und Ländern genutzt werden, legt das Bundesministerium des Innern und für Heimat im Einvernehmen mit dem IT-Planungsrat bis zum Ablauf des zweiten auf die Verkündung des Gesetzes vom 19. Juli 2024 (BGBl. 2024 I Nr. 245) folgenden Kalenderjahres durch Rechtsverordnung ohne Zustimmung des Bundesrates die erforderlichen
 
@@ -123,13 +130,13 @@ fest.
 
 übertragen.
 
-##### § 7 Nutzerfreundlichkeit und Barrierefreiheit
+###### § 7 Nutzerfreundlichkeit und Barrierefreiheit
 
 (1) Bund und Länder stellen durch geeignete Maßnahmen die Nutzerfreundlichkeit sowie eine einfache und intuitive Bedienbarkeit des übergreifenden Zugangs zu elektronischen Verwaltungsleistungen, einschließlich der für diesen Zugang relevanten IT-Komponenten, sicher. Nutzer sollen in die Entwicklung neuer elektronischer Angebote einbezogen werden.
 
 (2) Der übergreifende Zugang zu elektronischen Verwaltungsleistungen, einschließlich der für diesen Zugang relevanten IT-Komponenten, ist nach Maßgabe der Barrierefreie-Informationstechnik-Verordnung so zu gestalten, dass sie barrierefrei nutzbar sind.
 
-##### § 8 Rechtsgrundlagen der Datenverarbeitung in Nutzerkonten und zu Identifizierungszwecken
+###### § 8 Rechtsgrundlagen der Datenverarbeitung in Nutzerkonten und zu Identifizierungszwecken
 
 (1) Zur Feststellung der Identität des Nutzers eines Bürgerkontos dürfen, soweit dies erforderlich ist, folgende Daten verarbeitet werden:
 
@@ -195,7 +202,7 @@ Ist ein Mitglied des Vertretungsorgans oder der gesetzliche Vertreter eine juris
 
 (10) Für die Verarbeitung personenbezogener Daten im Nutzerkonto nach den Absätzen 1 bis 9 ist die für das Nutzerkonto jeweils zuständige Stelle nach Artikel 4 Nummer 7 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) ausschließlich verantwortlich. Teilen sich mehrere Stellen die Zuständigkeit für ein Nutzerkonto, sind diese nach Artikel 26 der Verordnung (EU) 2016/679 gemeinsam verantwortlich.
 
-##### § 8a Rechtsgrundlagen der Datenverarbeitung in einem länderübergreifenden Onlinedienst
+###### § 8a Rechtsgrundlagen der Datenverarbeitung in einem länderübergreifenden Onlinedienst
 
 (1) Die einen länderübergreifenden Onlinedienst betreibende Behörde darf die für die Zwecke der Unterstützung bei der Inanspruchnahme einer elektronischen Verwaltungsleistung, der Offenlegung der Daten aus dem Online-Formular an die jeweils zuständige Behörde sowie der Übermittlung von elektronischen Dokumenten zu Verwaltungsvorgängen an den Nutzer erforderlichen personenbezogenen Daten verarbeiten. Dies gilt auch für die Verarbeitung von besonderen Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679, soweit diese für das an den länderübergreifenden Onlinedienst angeschlossene Verwaltungsverfahren erforderlich sind. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
 
@@ -205,13 +212,13 @@ Ist ein Mitglied des Vertretungsorgans oder der gesetzliche Vertreter eine juris
 
 (4) Verantwortlicher im Sinne von Artikel 4 Nummer 7 der Verordnung (EU) 2016/679 für die Verarbeitung personenbezogener Daten im länderübergreifenden Onlinedienst nach den Absätzen 1 bis 3 ist ausschließlich die den länderübergreifenden Onlinedienst betreibende Behörde. Die datenschutzrechtliche Verantwortlichkeit der Behörde, an die zum Zwecke der Durchführung des Verwaltungsverfahrens personenbezogene Daten übermittelt werden, bleibt unberührt.
 
-##### § 9 Bekanntgabe des Verwaltungsaktes
+###### § 9 Bekanntgabe des Verwaltungsaktes
 
 (1) Mit Einwilligung des Nutzers kann ein elektronischer Verwaltungsakt dadurch bekannt gegeben werden, dass er vom Nutzer oder seinem Bevollmächtigten über öffentlich zugängliche Netze von dessen Postfach nach § 2 Absatz 7, das Bestandteil eines Nutzerkontos nach § 2 Absatz 5 ist, abgerufen wird. Die Einwilligung nach Satz 1 gilt als erteilt, sofern der Nutzer nicht im Rahmen der Inanspruchnahme einer elektronischen Verwaltungsleistung eine elektronische Bekanntgabe über ein Postfach im Sinne des § 2 Absatz 7 ausschließt. Die Behörde hat zu gewährleisten, dass der Abruf nur nach Authentifizierung der berechtigten Person möglich ist und dass der elektronische Verwaltungsakt von dieser gespeichert werden kann. Der Verwaltungsakt gilt am vierten Tag nach der Bereitstellung zum Abruf als bekannt gegeben. Im Zweifel hat die Behörde für den Eintritt der Fiktionswirkung die Bereitstellung und den Zeitpunkt der Bereitstellung nachzuweisen. Der Nutzer oder sein Bevollmächtigter wird spätestens am Tag der Bereitstellung zum Abruf über die zu diesem Zweck von ihm angegebene Adresse über die Möglichkeit des Abrufs benachrichtigt. Erfolgt der Abruf vor einer erneuten Bekanntgabe des Verwaltungsaktes, bleibt der Tag des ersten Abrufs für den Zugang maßgeblich.
 
 (2) Die Bundesregierung berichtet dem Deutschen Bundestag und dem Bundesrat bis spätestens 10. Dezember 2025 über die Erfahrungen in der Praxis mit der Bekanntgabe des Verwaltungsaktes über das Postfach.
 
-##### § 9a Grundsätze der elektronischen Abwicklung über Verwaltungsportale; Schriftformersatz
+###### § 9a Grundsätze der elektronischen Abwicklung über Verwaltungsportale; Schriftformersatz
 
 (1) Die Abwicklung einer elektronischen Verwaltungsleistung, die der Durchführung unmittelbar geltender Rechtsakte der Europäischen Union, für die dem Bund die Gesetzgebungskompetenz zusteht, oder der Ausführung von Bundesgesetzen dient, über ein Verwaltungsportal nach § 2 Absatz 2 erfolgt nach Maßgabe der Absätze 2 bis 4, soweit nicht durch Bundesgesetz etwas anderes bestimmt ist.
 
@@ -225,7 +232,7 @@ Ist ein Mitglied des Vertretungsorgans oder der gesetzliche Vertreter eine juris
 
 (6) Eine durch Rechtsvorschrift angeordnete Schriftform kann bei elektronischen Verwaltungsakten oder sonstigen elektronischen Dokumenten der Behörde, die an das Postfach eines Nutzerkontos übermittelt werden, auch dadurch ersetzt werden, dass diese mit dem qualifizierten elektronischen Siegel der Behörde versehen werden.
 
-##### § 10 Datenschutzcockpit; Verordnungsermächtigung
+###### § 10 Datenschutzcockpit; Verordnungsermächtigung
 
 (1) Ein „Datenschutzcockpit“ ist eine IT-Komponente, mit der sich natürliche Personen Auskünfte zu Datenübermittlungen zwischen öffentlichen Stellen anzeigen lassen können. Erfasst werden bis zum Vorliegen der technischen und rechtlichen Voraussetzungen für eine Erfassung weiterer Datenübermittlungen zunächst diejenigen Datenübermittlungen, bei denen eine Identifikationsnummer nach § 5 des Identifikationsnummerngesetzes zum Einsatz kommt.
 
@@ -249,7 +256,7 @@ Der Nutzer legt fest, in welchem Umfang das Datenschutzcockpit Protokolldaten ei
 
 (5) Das Datenschutzcockpit wird von einer öffentlichen Stelle errichtet und betrieben, die durch Rechtsverordnung des Bundesministeriums des Innern und für Heimat im Benehmen mit dem IT-Planungsrat mit Zustimmung des Bundesrates bestimmt wird. Das Nähere zu den technischen Verfahren, den technischen Formaten der Datensätze und den Übertragungswegen legt das Bundesministerium des Innern und für Heimat im Benehmen mit dem IT-Planungsrat mit Zustimmung des Bundesrates durch Rechtsverordnung fest.
 
-##### § 11 Monitoring und Evaluierung; Ermittlung der Erfüllungsaufwände
+###### § 11 Monitoring und Evaluierung; Ermittlung der Erfüllungsaufwände
 
 Die für die Verwaltungsdigitalisierung zuständigen Ministerien der Länder und des Bundes
 
@@ -259,7 +266,7 @@ Die für die Verwaltungsdigitalisierung zuständigen Ministerien der Länder und
 
 Die Evaluationsberichte werden elektronisch veröffentlicht.
 
-##### § 12 Übergangsregelungen zu § 3; Verordnungsermächtigungen
+###### § 12 Übergangsregelungen zu § 3; Verordnungsermächtigungen
 
 (1) Für einen Übergangszeitraum von drei Jahren kann die Identifizierung und Authentifizierung sowie die bidirektionale Kommunikation der Nutzer im Sinne des § 2 Absatz 4 Nummer 1 für elektronische Verwaltungsleistungen im Portalverbund auch über die bisherigen Nutzerkonten und Postfächer der Länder oder eines Fachportals erfolgen. Die Frist nach Satz 1 beginnt an dem Tag, an dem das Bundesministerium des Innern und für Heimat im Einvernehmen mit dem IT-Planungsrat im Bundesgesetzblatt bekanntgibt, dass die Voraussetzungen für eine automatisierte Migration der Länderkonten auf das zentrale Bürgerkonto vorliegen. Das durch den Bund nach § 3 Absatz 1 Satz 1 bereitgestellte zentrale Bürgerkonto soll zu einer DeutschlandID weiterentwickelt werden.
 
@@ -277,3 +284,16 @@ Die Evaluationsberichte werden elektronisch veröffentlicht.
 
 (5) Wird der Nachweis der Identität nach § 3 Absatz 4 Nummer 1 Buchstabe b erbracht, so kann die spätere Authentisierung des Nutzers auch durch Authentisierungsmittel nach § 10 Absatz 3a des Personalausweisgesetzes erfolgen.
 
+###### § 13 Experimentierklausel für den Probebetrieb der Europäischen Brieftasche für die Digitale Identität
+
+(1) Diese Vorschrift dient der Erprobung von Abweichungen von § 2 Absatz 5 und 7 sowie den §§ 3, 7, 8, 8a und 9 dieses Gesetzes im Interesse einer Bereitstellung der Europäischen Brieftasche für die Digitale Identität nach Artikel 3 Nummer 42 der Verordnung (EU) Nr. 910/2014.
+
+(2) Für einen Probebetrieb der Europäischen Brieftasche für die Digitale Identität nach Artikel 3 Nummer 42 der Verordnung (EU) Nr. 910/2014 kann das Bundesministerium für Digitales und Staatsmodernisierung Abweichungen nach Absatz 1 zulassen. Abweichungen sind nur zuzulassen im Einklang mit den unmittelbar geltenden Anforderungen des Unionsrechts; dies gilt auch für die erstmalige Einrichtung einer Europäischen Brieftasche für die Digitale Identität im Hinblick auf die nach Artikel 5a Absatz 11 der Verordnung (EU) Nr. 910/2014 vorausgesetzte Sicherheitsstufe „hoch“. Vor einer Entscheidung über die Zulassung von Abweichungen nimmt das Bundesministerium für Digitales und Staatsmodernisierung eine Risikoabwägung vor. Die Entscheidung über die Zulassung von Abweichungen wird mit ihrer Bekanntgabe im Bundesanzeiger wirksam.
+
+(3) Abweichungen sind angemessen zu befristen, jedoch nicht länger als für die Dauer von zwei Jahren. Bei der Festlegung der Dauer der Befristung ist das Interesse, aussagekräftige Erkenntnisse aus der jeweiligen Erprobung der Abweichung zu gewinnen, zu berücksichtigen.
+
+(4) Im Rahmen des Probebetriebs können, sowohl vollständig unabhängig von der Europäischen Brieftasche für die Digitale Identität nach Artikel 3 Nummer 42 der Verordnung (EU) Nr. 910/2014 als auch im Zusammenwirken mit dieser, neben der Europäischen Brieftasche für die Digitale Identität weitere den jeweils erforderlichen Vertrauensniveaus entsprechende Authentifizierungs- und Identifizierungsmittel getestet werden, insbesondere für die unmittelbare Inanspruchnahme von elektronischen Verwaltungsleistungen und zur Einrichtung der Europäischen Brieftasche für die Digitale Identität.
+
+(5) Die Teilnahme von Nutzern an dem Probebetrieb ist freiwillig. Vor ihrer Teilnahme müssen die Nutzer auf die wesentlichen Rahmenbedingungen und etwaige Risiken des Probebetriebs durch den Anbieter der Europäischen Brieftasche für die Digitale Identität gemäß der Vorgabe des Bundesministeriums für Digitales und Staatsmodernisierung hingewiesen werden.
+
+(6) Abweichungen sollen nach Ablauf ihrer jeweiligen Befristung anhand wissenschaftlicher Methoden im Auftrag des Bundesministeriums für Digitales und Staatsmodernisierung evaluiert werden. Die Evaluierung soll innerhalb von zwei Jahren erfolgen.
