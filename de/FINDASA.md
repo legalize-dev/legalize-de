@@ -4,26 +4,30 @@ identifier: "FINDASA"
 country: "de"
 rank: "satzung"
 publication_date: "2002-04-29"
-last_updated: "2026-04-04"
+last_updated: "2026-10-12"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/findasa/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR150000002"
 slug: "findasa"
 bgbl_reference: "BGBl I 2002, 1500"
-stand: "Zuletzt geändert durch Art. 61 G v. 4.2.2026 I Nr. 33"
+stand: "Zuletzt geändert durch Art. 7 G v. 25.9.2026 I Nr. 275"
 ---
 # Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
 
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
 ## Erster Abschnitt Aufbau und Geschäftsführung
 
-##### § 1 Bezeichnung, Aufbau und Organisation der Bundesanstalt
+###### § 1 Bezeichnung, Aufbau und Organisation der Bundesanstalt
 
-(1) Die Bundesanstalt trägt die Bezeichnung "Bundesanstalt für Finanzdienstleistungsaufsicht" (Bundesanstalt). Im Geschäftsverkehr kann zusätzlich die Abkürzung "BaFin" verwendet werden.
+(1) Die Bundesanstalt trägt die Bezeichnung "Bundesanstalt für Finanzdienstleistungsaufsicht" (Bundesanstalt).
 
 (2) Zur Wahrnehmung der gesetzlichen Aufgaben der Bundesanstalt werden Geschäftsbereiche eingerichtet. Die Geschäftsbereiche bestehen aus Abteilungen und Referaten. Die Referate können zu Gruppen zusammengefasst werden. Darüber hinaus können Einheiten für geschäftsbereichsübergreifende Aufgaben dem Präsidenten oder der Präsidentin unmittelbar zugeordnet werden. Die sich daraus ergebende Aufbauorganisation wird vom Präsidenten oder der Präsidentin mit Zustimmung des Bundesministeriums der Finanzen (Bundesministerium) festgelegt.
 
-##### § 1a Geschäftsbereich Abwicklung
+###### § 1a Geschäftsbereich Abwicklung
 
 (1) Die Aufgaben der Abwicklungsbehörde im Sinne des § 3 Absatz 1 des Sanierungs- und Abwicklungsgesetzes werden operativ unabhängig von den laufenden Aufsichtsaufgaben der Bundesanstalt wahrgenommen. Soweit der Geschäftsbereich Abwicklung auch andere Aufgaben als die der Abwicklungsbehörde nach dem Sanierungs- und Abwicklungsgesetz wahrnimmt, erfolgt dies organisatorisch getrennt von den Abwicklungsaufgaben.
 
@@ -33,7 +37,7 @@ stand: "Zuletzt geändert durch Art. 61 G v. 4.2.2026 I Nr. 33"
 
 (4) Die Bundesanstalt stellt die enge Zusammenarbeit und den wechselseitigen Informationsaustausch zwischen dem Geschäftsbereich Abwicklung und allen übrigen Geschäftsbereichen zur wirksamen und effizienten Vorbereitung und Durchführung von Abwicklungsentscheidungen und -maßnahmen sicher. Die Bundesanstalt stellt insbesondere sicher, dass die mit der Abwicklungstätigkeit betraute Organisationseinheit Zugriff auf sämtliche Informationen hat, die den mit Aufsichtstätigkeiten betrauten Organisationseinheiten zur Verfügung stehen.
 
-##### § 2 Rechte und Pflichten der Organe der Bundesanstalt
+###### § 2 Rechte und Pflichten der Organe der Bundesanstalt
 
 (1) Das Direktorium leitet die Bundesanstalt gesamtverantwortlich und unbeschadet der Weisungsrechte des Bundesministeriums.
 
@@ -55,7 +59,7 @@ stand: "Zuletzt geändert durch Art. 61 G v. 4.2.2026 I Nr. 33"
 
 (6) Der Präsident oder die Präsidentin veröffentlicht regelmäßig Informationen zur Arbeit der Bundesanstalt.
 
-##### § 2a Beauftragter oder Beauftragte für den Anleger- und Verbraucherschutz
+###### § 2a Beauftragter oder Beauftragte für den Anleger- und Verbraucherschutz
 
 (1) Der Leiter der Abteilung Verbraucherschutz nimmt die Funktion des oder der Beauftragten für den Anleger- und Verbraucherschutz wahr.
 
@@ -65,7 +69,7 @@ stand: "Zuletzt geändert durch Art. 61 G v. 4.2.2026 I Nr. 33"
 
 ## Zweiter Abschnitt Verwaltungsrat
 
-##### § 3 Bestellung und Abberufung der Mitglieder des Verwaltungsrats
+###### § 3 Bestellung und Abberufung der Mitglieder des Verwaltungsrats
 
 (1) Mitglied des Verwaltungsrats soll nur jemand werden, der die erforderliche Sachkunde für die Wahrnehmung dieser Aufgabe bietet. Die Mitglieder werden nach § 7 des Finanzdienstleistungsaufsichtsgesetzes durch das Bundesministerium bestellt und abberufen. Die in Absatz 6 genannten Verbände der Kredit- und Versicherungswirtschaft sowie der Kapitalverwaltungsgesellschaften sind vor der Bestellung der Mitglieder nach § 7 Absatz 3 Satz 1 Nummer 2 Buchstabe d des Finanzdienstleistungsaufsichtsgesetzes anzuhören. Der Vorsitzende des Verwaltungsrats und sein Stellvertreter werden auf die Dauer von fünf Jahren bestellt. Die Bestellung der übrigen Mitglieder und ihrer Stellvertreter erfolgt jeweils auf die Dauer von vier Jahren, soweit in § 7 Abs. 6 des Finanzdienstleistungsaufsichtsgesetzes nichts anderes bestimmt ist; ihre Wiederbestellung ist in beiden Fällen möglich. Bestellung und Abberufung sind in den Veröffentlichungen der Bundesanstalt anzuzeigen.
 
@@ -87,7 +91,7 @@ stand: "Zuletzt geändert durch Art. 61 G v. 4.2.2026 I Nr. 33"
 
 Das Anhörungs- und Vorschlagsrecht gilt, solange sich die gesetzlich festgelegte Sitzverteilung des Verwaltungsrats nicht ändert.
 
-##### § 4 Befugnisse des Verwaltungsrats
+###### § 4 Befugnisse des Verwaltungsrats
 
 (1) Der Verwaltungsrat überwacht und unterstützt die Geschäftsführung der Bundesanstalt. Er ist insbesondere berufen
 
@@ -109,11 +113,11 @@ Das Anhörungs- und Vorschlagsrecht gilt, solange sich die gesetzlich festgelegt
 
 (3) Der Verwaltungsrat oder ein einzelnes Mitglied des Verwaltungsrats kann einen Bericht des Präsidenten oder der Präsidentin über die Angelegenheiten der Bundesanstalt an den Verwaltungsrat verlangen. Lehnt der Präsident oder die Präsidentin eine Berichterstattung auf Verlangen eines einzelnen Verwaltungsratsmitglieds ab, kann diese nur verlangt werden, wenn zwei weitere Mitglieder des Verwaltungsrats das Verlangen unterstützen.
 
-##### § 5 Vertretung des Verwaltungsrats
+###### § 5 Vertretung des Verwaltungsrats
 
 Der Verwaltungsrat wird durch den Vorsitzenden und bei dessen Verhinderung durch dessen Stellvertreter vertreten. Im Übrigen ist nur Vertretung durch den jeweiligen nach § 3 Absatz 4 Satz 5 berufenen Vertreter möglich.
 
-##### § 6 Sitzungen des Verwaltungsrats
+###### § 6 Sitzungen des Verwaltungsrats
 
 (1) Der Verwaltungsrat tritt nach Bedarf zusammen, jedoch mindestens einmal jährlich. Die Sitzungen sind nicht öffentlich.
 
@@ -129,13 +133,13 @@ Der Verwaltungsrat wird durch den Vorsitzenden und bei dessen Verhinderung durch
 
 (7) Im Fall des § 4 Abs. 1 Satz 2 Nr. 1 hat der Verwaltungsrat binnen zwei Monaten nach Vorlage zu beschließen. Ergeht innerhalb der Frist kein Beschluss, gilt der vom Direktorium vorgelegte Haushaltsplan als festgestellt.
 
-##### § 7 Verfahren
+###### § 7 Verfahren
 
 Eine Beschlussfassung des Verwaltungsrats im schriftlichen Verfahren oder in Verfahren der Telekommunikation ist zulässig. Das Nähere regelt die Geschäftsordnung.
 
-##### § 8 (weggefallen)
+###### § 8 (weggefallen)
 
-##### § 8a Verbraucherbeirat
+###### § 8a Verbraucherbeirat
 
 (1) Die zwölf Mitglieder des Verbraucherbeirats werden von der Bundesanstalt im Einvernehmen mit dem Bundesministerium und im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz aus den in § 8a Absatz 2 Satz 3 des Finanzdienstleistungsaufsichtsgesetzes genannten Gruppen bestellt. Die Mitglieder sollen über besondere berufliche Erfahrung und Kenntnisse auf dem Gebiet des finanziellen Verbraucherschutzes verfügen, jedoch nicht der Bundesanstalt angehören. Eine gleichzeitige Mitgliedschaft in anderen Beiräten der Bundesanstalt ist möglich.
 
@@ -155,7 +159,7 @@ Eine Beschlussfassung des Verwaltungsrats im schriftlichen Verfahren oder in Ver
 
 ## Dritter Abschnitt Haushaltsführung
 
-##### § 9 Haushaltsplan
+###### § 9 Haushaltsplan
 
 (1) Der Haushaltsplan ist nach den Grundsätzen der §§ 105 bis 112 der Bundeshaushaltsordnung aufzustellen.
 
@@ -171,7 +175,7 @@ Fristverlängerung ist jeweils auf Antrag des Präsidenten oder der Präsidentin
 
 (4) (weggefallen)
 
-##### § 10 Haushalt
+###### § 10 Haushalt
 
 (1) Das Haushaltsjahr der Bundesanstalt ist das Kalenderjahr.
 
@@ -182,11 +186,10 @@ Fristverlängerung ist jeweils auf Antrag des Präsidenten oder der Präsidentin
 ## Vierter Abschnitt Übergang von Rechten und Pflichten,
 Veröffentlichung
 
-##### § 11 Übergang von Rechten und Pflichten
+###### § 11 Übergang von Rechten und Pflichten
 
 Die vom Bundesministerium mit den Bundesaufsichtsämtern für das Kreditwesen und für das Versicherungswesen insbesondere zur Liegenschaftsverwaltung, zum IT-Service-Center und Personaltausch getroffenen Verwaltungsvereinbarungen gehen auf die Bundesanstalt mit denselben Rechten und Pflichten über, soweit nichts anderes bestimmt wird. Sie sind dem Verwaltungsrat zur Kenntnis zu geben.
 
-##### § 12 Veröffentlichung der Satzung
+###### § 12 Veröffentlichung der Satzung
 
 Die Satzung und Änderungen an der Satzung sind in den Veröffentlichungen der Bundesanstalt bekannt zu machen.
-
