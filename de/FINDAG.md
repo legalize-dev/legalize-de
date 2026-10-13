@@ -4,25 +4,28 @@ identifier: "FINDAG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2002-04-22"
-last_updated: "2026-04-04"
+last_updated: "2026-10-13"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/findag/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR131010002"
 slug: "findag"
 bgbl_reference: "BGBl I 2002, 1310"
-stand: "Zuletzt geändert durch Art. 40 G v. 4.2.2026 I Nr. 33"
-hinweis: "Änderung durch Art. 16 G v. 25.3.2026 I Nr. 81 ist berücksichtigt"
+stand: "Zuletzt geändert durch Art. 6 G v. 25.9.2026 I Nr. 275"
 ---
 # Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 Erster Abschnitt Errichtung, Aufsicht, Aufgaben§ 1Errichtung§ 2Rechts- und Fachaufsicht§ 3(weggefallen)§ 4Aufgaben und Zusammenarbeit§ 4aMeinungsverschiedenheiten bei der laufenden Überwachung§ 4bBeschwerden§ 4cAktenvorlage und Auskunftspflicht in verwaltungsgerichtlichen Verfahren§ 4dMeldung von Verstößen; Verordnungsermächtigung§ 4eVorschriften über die Verarbeitung personenbezogener Daten§ 4fElektronische Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Abruf§ 4gElektronische Zustellung durch Bereitstellung zum Abruf§ 4hBekanntgabe und Zustellung im Ausland§ 4iAbsehen von einer Anhörung§ 4jAnträge und Informationen in englischer SpracheZweiter Abschnitt Organisation§ 5Organe, Satzung§ 6Leitung§ 7Verwaltungsrat§ 8(weggefallen)§ 8aVerbraucherbeiratDritter Abschnitt Personal§ 9Rechtsstellung der Mitglieder des Direktoriums; Verordnungsermächtigung§ 9aBeamte; Verordnungsermächtigung§ 10Angestellte, Arbeiter und Auszubildende; Verordnungsermächtigung§ 10aStellenzulage§ 10bPersonalgewinnungszuschlag§ 11Verschwiegenheitspflicht§ 11aRegelungen zur Integrität; VerordnungsermächtigungVierter Abschnitt Haushaltsplan, Rechnungslegung, Deckung des Verwaltungsaufwands§ 12Haushaltsplan, Rechnungslegung§ 13Deckung der Kosten der AufsichtFünfter Abschnitt Gebühren und Umlage, Zwangsmittel, Bekanntgabe von Allgemeinverfügungen§ 14(weggefallen)§ 15Gesonderte Erstattung; Verordnungsermächtigung§ 16Umlage§ 16aUmlagefähige Kosten; Umlagejahr§ 16bKostenermittlung nach Aufgabenbereichen und Gruppen§ 16cFehlbeträge, nicht eingegangene Beträge und Überschüsse der Vorjahre§ 16dUmlagebetrag, Umlagepflicht und Verteilungsschlüssel§ 16eKostenermittlung und Umlagepflicht im Aufgabenbereich Banken und sonstige Finanzdienstleistungen§ 16fBemessungsgrundlagen der Umlage im Aufgabenbereich Banken und sonstige Finanzdienstleistungen§ 16gMindestumlagebeträge im Aufgabenbereich Banken und sonstige Finanzdienstleistungen§ 16hAufgabenbereich Versicherungen§ 16iKostenermittlung und Umlagepflicht im Aufgabenbereich Wertpapierhandel§ 16jBemessungsgrundlagen der Umlage im Aufgabenbereich Wertpapierhandel§ 16kAufgabenbereich Abwicklung§ 16lAufgabenbereich Bilanzkontrolle§ 16mEntstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit; Verpflichtung zur elektronischen Kommunikation; Verordnungsermächtigung§ 16nFestsetzung und Fälligkeit von Umlagevorauszahlungen§ 16oDifferenz zwischen Umlagebetrag und Vorauszahlung§ 16pStundung; Erlass§ 16qSäumniszuschläge; Beitreibung§ 16rFestsetzungsverjährung§ 16sZahlungsverjährung§ 16tErstattung überzahlter Umlagebeträge§ 17Zwangsmittel; Bekanntgabe von AllgemeinverfügungenSechster Abschnitt Finanzierung gesonderter Aufgaben§ 17aFinanzierung gesonderter Aufgaben§ 17b(weggefallen)§ 17cGesonderte Erstattung bei gesonderten Prüfungen§ 17dGesonderte UmlageSiebenter Abschnitt Übergangs- und Schlussbestimmungen§ 18Übergangsbestimmungen§ 18aTeilintegration der Bundesanstalt für Finanzmarktstabilisierung; Rechtsnachfolge; Verordnungsermächtigung§ 18bÜbernahme der Beschäftigten des Deutsche Prüfstelle für Rechnungslegung DPR e. V.§ 19Überleitung/Übernahme von Beschäftigten§ 20Verteilung der Versorgungskosten§ 21Übergang von Rechten und Pflichten§ 22Übergangsvorschriften zum Gesetz zur Stärkung der deutschen Finanzaufsicht§ 23Übergangsbestimmungen zur Umlageerhebung§ 24Übergangsbestimmungen zu Kosten, Haushalt und Umlageerhebung für den Aufgabenbereich Bilanzkontrolle
 
 ## Erster Abschnitt Errichtung, Aufsicht, Aufgaben
 
-##### § 1 Errichtung
+###### § 1 Errichtung
 
 (1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird durch Zusammenlegung des Bundesaufsichtsamtes für das Kreditwesen, des Bundesaufsichtsamtes für das Versicherungswesen und des Bundesaufsichtsamtes für den Wertpapierhandel eine bundesunmittelbare, rechtsfähige Anstalt des öffentlichen Rechts zum 1. Mai 2002 errichtet. Sie trägt die Bezeichnung "Bundesanstalt für Finanzdienstleistungsaufsicht" (Bundesanstalt).
 
@@ -32,15 +35,15 @@ Erster Abschnitt Errichtung, Aufsicht, Aufgaben§ 1Errichtung§ 2Rechts- und Fac
 
 (4) Die Bundesanstalt ist in Verfahren vor den ordentlichen Gerichten von der Zahlung der Gerichtskosten befreit.
 
-##### § 2 Rechts- und Fachaufsicht
+###### § 2 Rechts- und Fachaufsicht
 
 Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen (Bundesministerium).
 
-##### § 3 (weggefallen)
+###### § 3 (weggefallen)
 
 —
 
-##### § 4 Aufgaben und Zusammenarbeit
+###### § 4 Aufgaben und Zusammenarbeit
 
 (1) Die Bundesanstalt übernimmt die dem Bundesaufsichtsamt für das Kreditwesen, dem Bundesaufsichtsamt für das Versicherungswesen und dem Bundesaufsichtsamt für den Wertpapierhandel übertragenen Aufgaben. Sie nimmt darüber hinaus die ihr nach anderen Bestimmungen übertragenen Aufgaben einschließlich der Beratungstätigkeit im Zusammenhang mit dem Aufbau und der Unterstützung ausländischer Aufsichtssysteme wahr. Die Bundesanstalt wird im Wege der Organleihe für das Bundesministerium der Finanzen im Rahmen der ihm nach den Vorschriften der Anstaltssatzung obliegenden Aufsicht über die Versorgungsanstalt des Bundes und der Länder tätig. Das Nähere einschließlich des Beginns der Organleihe wird im Einvernehmen mit dem Bundesministerium des Innern in einer Verwaltungsvereinbarung zwischen dem Bundesministerium der Finanzen und der Bundesanstalt geregelt. Die Bundesanstalt nimmt außerdem die Aufgaben der Abwicklungsbehörde nach § 3 Absatz 1 des Sanierungs- und Abwicklungsgesetzes sowie die ihr auf Grundlage des Restrukturierungsfondsgesetzes übertragenen Aufgaben wahr.
 
@@ -74,11 +77,11 @@ zusammen.
 
 (4) Die Bundesanstalt nimmt ihre Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
-##### § 4a Meinungsverschiedenheiten bei der laufenden Überwachung
+###### § 4a Meinungsverschiedenheiten bei der laufenden Überwachung
 
 Meinungsverschiedenheiten von erheblicher Bedeutung zwischen der Bundesanstalt und der Deutschen Bundesbank im Rahmen der laufenden Überwachung nach dem Kreditwesengesetz und dem Zahlungsdiensteaufsichtsgesetz sollen einvernehmlich beigelegt werden. Kann ein Einvernehmen nicht hergestellt werden, entscheidet das Bundesministerium im Benehmen mit der Deutschen Bundesbank.
 
-##### § 4b Beschwerden
+###### § 4b Beschwerden
 
 (1) Kunden von solchen Instituten und Unternehmen, die der Aufsicht der Bundesanstalt unterliegen, und Stellen nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes können wegen behaupteter Verstöße gegen Bestimmungen, deren Einhaltung die Bundesanstalt überwacht, Beschwerde bei der Bundesanstalt einlegen, sofern im jeweiligen Aufsichtsgesetz kein spezielles Beschwerdeverfahren vorgesehen ist.
 
@@ -88,17 +91,17 @@ Meinungsverschiedenheiten von erheblicher Bedeutung zwischen der Bundesanstalt u
 
 (4) Die Bundesanstalt kann bei Beschwerden im Rahmen der bestehenden aufsichtsrechtlichen Auskunftsansprüche das von der Beschwerde betroffene Institut oder Unternehmen zur Stellungnahme auffordern und dieses um Mitteilung bitten, ob es mit der Übermittlung der Stellungnahme oder von Teilen der Stellungnahme an den Beschwerdeführer einverstanden ist.
 
-##### § 4c Aktenvorlage und Auskunftspflicht in verwaltungsgerichtlichen Verfahren
+###### § 4c Aktenvorlage und Auskunftspflicht in verwaltungsgerichtlichen Verfahren
 
 Für die Vorlage von Urkunden oder Akten, die Übermittlung elektronischer Dokumente oder die Erteilung von Auskünften durch die Bundesanstalt in verwaltungsgerichtlichen Verfahren ist § 99 der Verwaltungsgerichtsordnung mit der Maßgabe anzuwenden, dass an die Stelle der obersten Aufsichtsbehörde die Bundesanstalt tritt.
 
-##### § 4d Meldung von Verstößen; Verordnungsermächtigung
+###### § 4d Meldung von Verstößen; Verordnungsermächtigung
 
 (1) Die Bundesanstalt errichtet ein System zur Annahme von Meldungen über potentielle oder tatsächliche Verstöße gegen Gesetze, Rechtsverordnungen, Allgemeinverfügungen und sonstige Vorschriften sowie Verordnungen und Richtlinien der Europäischen Union, bei denen es die Aufgabe der Bundesanstalt ist, deren Einhaltung durch die von ihr beaufsichtigten Unternehmen und Personen sicherzustellen oder Verstöße dagegen zu ahnden. Die Meldungen können auch anonym abgegeben werden. Sie können in englischer Sprache erfolgen.
 
 (2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über Inhalt, Art, Umfang und Form der Meldung von Verstößen, für die die Bundesanstalt nach Absatz 1 und § 21 des Hinweisgeberschutzgesetzes zuständig ist, einschließlich der von Absatz 1 erfassten Rechtsverordnungen, Allgemeinverfügungen und sonstigen Vorschriften sowie Verordnungen und Richtlinien der Europäischen Union, erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-##### § 4e Vorschriften über die Verarbeitung personenbezogener Daten
+###### § 4e Vorschriften über die Verarbeitung personenbezogener Daten
 
 (1) Die Bundesanstalt ist befugt, personenbezogene Daten zu verarbeiteten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Verarbeitet die Bundesanstalt im Zuge einer aufsichtsrechtlichen Maßnahme im Rahmen ihrer gesetzlichen Zuständigkeit nach den maßgeblichen Aufsichtsgesetzen personenbezogene Daten, stehen den betroffenen Personen die Rechte nach den Artikeln 15 bis 18 und 20 bis 22 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung nicht zu, soweit die Erfüllung dieser Rechte der betroffenen Personen Folgendes gefährden würde:
 
@@ -118,7 +121,7 @@ Unter diesen Voraussetzungen ist die Bundesanstalt auch von den Pflichten nach d
 
 (4) Soweit Personen, Institute und Unternehmen personenbezogene Daten für aufsichtsrechtliche Zwecke an die Bundesanstalt, die Personen und Einrichtungen, deren sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, oder die Deutsche Bundesbank übermitteln oder diese von dort von Personen, Instituten und Unternehmen erhoben werden, bestehen die Pflichten dieser Personen, Institute und Unternehmen zur Information der betroffenen Person nach Artikel 13 Absatz 3 und Artikel 14 Absatz 4 der Verordnung (EU) 2016/679 und das Recht auf Auskunft der betroffenen Person nach Artikel 15 der Verordnung (EU) 2016/679 nicht.
 
-##### § 4f Elektronische Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Abruf
+###### § 4f Elektronische Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Abruf
 
 (1) Die Bundesanstalt kann abweichend von § 41 des Verwaltungsverfahrensgesetzes einen Verwaltungsakt auch dadurch bekannt geben, dass er zum Abruf über öffentlich zugängliche Netze bereitgestellt wird, sofern der Adressat der Bekanntgabe den elektronischen Zugang freiwillig eröffnet hat oder durch Rechtsvorschrift hierzu verpflichtet ist. Die Bundesanstalt hat ein sicheres Verfahren zu verwenden, das den Abruf nur nach Authentifizierung der berechtigten Person ermöglicht und die Vertraulichkeit und Integrität des Datensatzes gewährleistet.
 
@@ -126,13 +129,13 @@ Unter diesen Voraussetzungen ist die Bundesanstalt auch von den Pflichten nach d
 
 (3) Abweichend von § 37 Absatz 2 Satz 3 des Verwaltungsverfahrensgesetzes kann eine schriftliche Bestätigung des Verwaltungsaktes nur verlangt werden, wenn auf Grund besonderer Umstände des Einzelfalls ein zwingendes rechtliches Klarstellungs- oder Beweissicherungsinteresse besteht.
 
-##### § 4g Elektronische Zustellung durch Bereitstellung zum Abruf
+###### § 4g Elektronische Zustellung durch Bereitstellung zum Abruf
 
 (1) Die Bundesanstalt kann abweichend von § 5 des Verwaltungszustellungsgesetzes an Empfänger, die durch Rechtsvorschrift zur Nutzung eines elektronischen Kommunikationsverfahrens verpflichtet sind, auch dadurch zustellen, dass ein elektronisches Dokument über das elektronische Kommunikationsverfahren zum Abruf bereitgestellt wird. Die Bundesanstalt hat ein sicheres Verfahren zu verwenden, das den Abruf nur nach Authentifizierung der berechtigten Person ermöglicht und die Vertraulichkeit und Integrität des bereitgestellten elektronischen Dokuments gewährleistet. Das elektronische Dokument ist im Betreff als Zustellungssache zu kennzeichnen. § 4f Absatz 3 gilt entsprechend.
 
 (2) Die Zustellung nach Absatz 1 gilt mit Abruf oder spätestens am fünften Kalendertag nach der Bereitstellung des elektronischen Dokuments zum Abruf als bewirkt. Zum Nachweis der Zustellung genügt eine elektronische Protokollierung des Abrufs im elektronischen Kommunikationsverfahren oder ein Vermerk in den Akten, zu welchem Zeitpunkt das Dokument zum Abruf bereitgestellt wurde. Für die elektronische Protokollierung des Abrufs im elektronischen Kommunikationsverfahren nach Satz 2 gilt § 437 der Zivilprozessordnung entsprechend.
 
-##### § 4h Bekanntgabe und Zustellung im Ausland
+###### § 4h Bekanntgabe und Zustellung im Ausland
 
 (1) Die Bundesanstalt kann abweichend von § 41 des Verwaltungsverfahrensgesetzes Verwaltungsakte, die gegenüber einer Person mit Wohnsitz oder einem Unternehmen mit Sitz außerhalb des Geltungsbereichs dieses Gesetzes ergehen, und für die kein Bevollmächtigter mit Sitz im Inland benannt wurde, durch öffentliche Bekanntmachung im Bundesanzeiger bekanntgeben. In diesem Fall gilt ein Verwaltungsakt am Tage nach der Bekanntmachung als bekannt gegeben.
 
@@ -140,11 +143,11 @@ Unter diesen Voraussetzungen ist die Bundesanstalt auch von den Pflichten nach d
 
 (3) Die Absätze 1 und 2 gelten entsprechend für eine Anhörung nach § 28 des Verwaltungsverfahrensgesetzes.
 
-##### § 4i Absehen von einer Anhörung
+###### § 4i Absehen von einer Anhörung
 
 Die Bundesanstalt kann innerhalb ihrer gesetzlichen Befugnisse die Erteilung von Auskünften und die Vorlage von Unterlagen verlangen, ohne dass dem Adressaten zuvor nach § 28 Absatz 1 des Verwaltungsverfahrensgesetzes Gelegenheit gegeben werden muss, sich zu den für die Entscheidung erheblichen Tatsachen zu äußern.
 
-##### § 4j Anträge und Informationen in englischer Sprache
+###### § 4j Anträge und Informationen in englischer Sprache
 
 (1) Anträge an die Bundesanstalt können auch ganz oder teilweise in englischer Sprache gestellt werden. Die Bundesanstalt kann jederzeit bei Bedarf die Vorlage einer Übersetzung oder in begründeten Fällen einer beglaubigten oder von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer angefertigten Übersetzung verlangen. § 23 Absatz 2 Satz 3 und 4 des Verwaltungsverfahrensgesetzes bleibt unberührt. Sofern die Bundesanstalt eine Übersetzung verlangt, ist allein die deutschsprachige Fassung des Antrags rechtlich maßgeblich.
 
@@ -158,7 +161,7 @@ Die Bundesanstalt kann innerhalb ihrer gesetzlichen Befugnisse die Erteilung von
 
 ## Zweiter Abschnitt Organisation
 
-##### § 5 Organe, Satzung
+###### § 5 Organe, Satzung
 
 (1) Organe der Bundesanstalt sind das Direktorium, der Präsident oder die Präsidentin und der Verwaltungsrat.
 
@@ -176,7 +179,7 @@ Die Bundesanstalt kann innerhalb ihrer gesetzlichen Befugnisse die Erteilung von
 
 5. die Haushaltsführung sowie die Rechnungslegung der Bundesanstalt.
 
-##### § 6 Leitung
+###### § 6 Leitung
 
 (1) Die Bundesanstalt wird durch das Direktorium gesamtverantwortlich geleitet. Das Direktorium besteht aus einem Präsidenten oder einer Präsidentin sowie Exekutivdirektoren und Exekutivdirektorinnen, von denen einer oder eine im Benehmen mit dem Präsidenten oder der Präsidentin durch das Bundesministerium zum Vizepräsidenten oder zur Vizepräsidentin als ständiger Vertreter oder ständige Vertreterin des Präsidenten oder der Präsidentin ernannt werden kann. Das Direktorium beschließt ein Organisationsstatut, welches die Zuständigkeiten und Aufgaben innerhalb des Direktoriums festlegt. Das Organisationsstatut sowie dessen Änderungen sind dem Bundesministerium zur Genehmigung vorzulegen.
 
@@ -186,7 +189,7 @@ Die Bundesanstalt kann innerhalb ihrer gesetzlichen Befugnisse die Erteilung von
 
 (4) Der Präsident oder die Präsidentin vertritt die Bundesanstalt gerichtlich und außergerichtlich.
 
-##### § 7 Verwaltungsrat
+###### § 7 Verwaltungsrat
 
 (1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Der Verwaltungsrat überwacht die Geschäftsführung der Bundesanstalt und unterstützt diese bei der Erfüllung ihrer Aufgaben. Der Präsident oder die Präsidentin hat den Verwaltungsrat regelmäßig über die Geschäftsführung der Bundesanstalt zu unterrichten. Die Exekutivdirektoren und Exekutivdirektorinnen haben über ihre Aufgabenbereiche zu berichten.
 
@@ -218,9 +221,9 @@ Die Deutsche Bundesbank kann mit einem Vertreter ohne Stimmrecht an den Sitzunge
 
 (8) Scheidet ein Mitglied aus, so ist unverzüglich an seine Stelle ein neues Mitglied zu berufen. Bis zur Ernennung eines neuen Mitglieds und bei einer vorübergehenden Verhinderung des Mitglieds übernimmt der ernannte Stellvertreter die Aufgaben. Die Absätze 1 bis 8 finden auf die stellvertretenden Mitglieder entsprechende Anwendung.
 
-##### § 8 (weggefallen)
+###### § 8 (weggefallen)
 
-##### § 8a Verbraucherbeirat
+###### § 8a Verbraucherbeirat
 
 (1) Bei der Bundesanstalt wird ein Verbraucherbeirat gebildet. Er berät die Bundesanstalt aus Verbrauchersicht bei der Erfüllung ihrer Aufsichtsaufgaben.
 
@@ -230,7 +233,7 @@ Die Deutsche Bundesbank kann mit einem Vertreter ohne Stimmrecht an den Sitzunge
 
 ## Dritter Abschnitt Personal
 
-##### § 9 Rechtsstellung der Mitglieder des Direktoriums; Verordnungsermächtigung
+###### § 9 Rechtsstellung der Mitglieder des Direktoriums; Verordnungsermächtigung
 
 (1) Die Mitglieder des Direktoriums stehen in einem öffentlich-rechtlichen Amtsverhältnis zum Bund. Sie müssen besondere fachliche Eignung besitzen und werden auf Vorschlag der Bundesregierung durch den Bundespräsidenten ernannt. Der Vorschlag der Bundesregierung erfolgt aufgrund von objektiven Auswahlkriterien, die das Bundesministerium der Finanzen veröffentlicht. Die Mitglieder des Direktoriums werden in der Regel für fünf Jahre bestellt. Wiederbestellung ist zulässig. Kein Mitglied des Direktoriums kann länger als 14 Jahre im Amt bleiben. Die maximale Gesamtdauer der Amtszeit beträgt 14 Jahre.
 
@@ -256,7 +259,7 @@ Die Deutsche Bundesbank kann mit einem Vertreter ohne Stimmrecht an den Sitzunge
 
 (9) Die Absätze 7 und 8 gelten für Richter oder Richterinnen und für Berufssoldaten oder Berufssoldatinnen entsprechend.
 
-##### § 9a Beamte; Verordnungsermächtigung
+###### § 9a Beamte; Verordnungsermächtigung
 
 (1) Der Bundesanstalt wird das Recht verliehen, Beamte zu haben.
 
@@ -270,7 +273,7 @@ Die Deutsche Bundesbank kann mit einem Vertreter ohne Stimmrecht an den Sitzunge
 
 (6) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, festlegen, welche Karenzzeit bei welcher Art von beabsichtigter Anschlussbeschäftigung durch die Bundesanstalt vorzusehen ist, wobei insbesondere nach beaufsichtigten Instituten, Unternehmen, die Dienstleistungen für beaufsichtigte Institute erbringen, und Unternehmen, die an die zuständige Behörde gerichtete Lobbying- oder Interessenvertretungstätigkeiten erbringen, differenziert werden kann.
 
-##### § 10 Angestellte, Arbeiter und Auszubildende; Verordnungsermächtigung
+###### § 10 Angestellte, Arbeiter und Auszubildende; Verordnungsermächtigung
 
 (1) Auf die Angestellten, Arbeiter und Auszubildenden der Bundesanstalt sind die für Arbeitnehmer und Auszubildende des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
@@ -280,21 +283,21 @@ Die Deutsche Bundesbank kann mit einem Vertreter ohne Stimmrecht an den Sitzunge
 
 (4) Die Angestellten, Arbeiter und Auszubildenden sind verpflichtet, der Bundesanstalt spätestens mit der Kündigungserklärung mitzuteilen, ob sie beabsichtigen, eine Erwerbstätigkeit oder sonstige Beschäftigung außerhalb des öffentlichen Dienstes, die mit ihrer dienstlichen Tätigkeit in den letzten fünf Jahren vor Beendigung des Beschäftigungsverhältnisses im Zusammenhang steht, aufzunehmen. Nachträgliche Änderungen sind mitzuteilen. Die Anzeigepflicht nach Satz 2 endet sechs Monate nach Beendigung des Arbeitsverhältnisses.
 
-##### § 10a Stellenzulage
+###### § 10a Stellenzulage
 
 (1) Die bei der Bundesanstalt verwendeten Beamten erhalten eine nicht ruhegehaltfähige Stellenzulage in Höhe von 80 Prozent der Zulage nach Vorbemerkung Nummer 7 der Anlage I (Bundesbesoldungsordnungen A und B) des Bundesbesoldungsgesetzes.
 
 (2) Die Bundesanstalt kann den Tarifbeschäftigten der Bundesanstalt mit Zustimmung des Bundesministeriums der Finanzen und des Bundesministerium des Innern außertariflich eine entsprechende Zulage gewähren.
 
-##### § 10b Personalgewinnungs- und Personalbindungsprämie
+###### § 10b Personalgewinnungs- und Personalbindungsprämie
 
 Die Bundesanstalt kann auf Anordnung des Präsidenten oder der Präsidentin mit Zustimmung des Verwaltungsrats von § 43 Absatz 8 des Bundesbesoldungsgesetzes abweichen.
 
-##### § 11 Verschwiegenheitspflicht
+###### § 11 Verschwiegenheitspflicht
 
 Die Verschwiegenheitspflicht der Beschäftigten der Bundesanstalt in Bezug auf Tatsachen, die ihnen bei ihrer Tätigkeit bekannt geworden sind, bestimmt sich nach den aufsichtsrechtlichen Bestimmungen, auf Grund deren der einzelne Beschäftigte tätig geworden ist. Satz 1 gilt für die Mitglieder des Verwaltungsrats und der Beiräte hinsichtlich der ihnen bei Wahrnehmung ihrer Aufgaben bekannt gewordenen Tatsachen entsprechend.
 
-##### § 11a Regelungen zur Integrität; Verordnungsermächtigung
+###### § 11a Regelungen zur Integrität; Verordnungsermächtigung
 
 (1) Beschäftigte der Bundesanstalt dürfen weder für eigene oder fremde Rechnung noch für einen anderen private Finanzgeschäfte in Finanzinstrumenten im Sinne des § 2 Absatz 4 des Wertpapierhandelsgesetzes tätigen, die
 
@@ -316,7 +319,15 @@ oder die sich auf Finanzinstrumente nach den Nummern 1 bis 3 beziehen. Satz 1 gi
 
 (3) Die Bundesanstalt muss über angemessene interne Kontrollverfahren verfügen, die geeignet sind, Verstößen der bei der Bundesanstalt Beschäftigten gegen die Verbote nach den Absätzen 1 und 1a oder Artikel 14 der Verordnung (EU) Nr. 596/2014 oder gegen die Verbote nach Artikel 89 der Verordnung (EU) 2023/1114 entgegenzuwirken.
 
-(4) Beschäftigte sind verpflichtet, Geschäfte in Finanzinstrumenten im Sinne des Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 596/2014 und Handlungen und Geschäfte im Sinne des Artikels 2 Absatz 1 Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 596/2014, die sie für eigene oder fremde Rechnung oder für einen anderen abgeschlossen haben, unverzüglich der Bundesanstalt oder der von ihr beauftragten Person schriftlich oder elektronisch anzuzeigen. Das Bundesministerium kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, festlegen, welche privaten Finanzgeschäfte in Kryptowerten im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114 die Beschäftigten der Bundesanstalt oder der von der Bundesanstalt beauftragten Person unverzüglich anzuzeigen haben. In der Rechtsverordnung kann vorgesehen werden, dass der Bundesanstalt oder der von ihr beauftragten Person die Befugnis eingeräumt wird, durch Richtlinien nähere Konkretisierungen zu erlassen. Das Bundesministerium kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen. Die Bundesanstalt oder die von ihr beauftragte Person kann Richtlinien zur Ausgestaltung der Anzeigepflicht, auch unter Einbeziehung der Vorgesetzten, erlassen. Die Bundesanstalt oder die von ihr beauftragte Person kann von den Beschäftigten die Erteilung von Auskünften und die Vorlage von Unterlagen über Geschäfte in Finanzinstrumenten im Sinne des Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 596/2014 und Handlungen und Geschäfte im Sinne des Artikels 2 Absatz 1 Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 596/2014 sowie über private Finanzgeschäfte gemäß Absatz 1 verlangen, die sie für eigene oder fremde Rechnung oder für einen anderen abgeschlossen haben. § 6 Absatz 15 des Wertpapierhandelsgesetzes ist anzuwenden. Die Bundesanstalt oder die von ihr beauftragte Person kann von den Beschäftigten die Erteilung von Auskünften und die Vorlage von Unterlagen über ihre privaten Finanzgeschäfte in Kryptowerten nach Absatz 1a verlangen, die diese für eigene oder fremde Rechnung oder für einen anderen abgeschlossen haben, soweit dies für die Prüfung der Bundesanstalt oder der von ihr beauftragten Person auf Interessenkonflikte notwendig ist.
+(4) Die Beschäftigten sind verpflichtet, der Bundesanstalt oder der von ihr beauftragten Person solche Geschäfte in Finanzinstrumenten im Sinne des Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 596/2014 sowie solche Handlungen und Geschäfte im Sinne des Artikels 2 Absatz 1 Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 596/2014, die sie für eigene oder fremde Rechnung oder für einen anderen abgeschlossen haben, unverzüglich schriftlich oder elektronisch anzuzeigen. Für private Finanzgeschäfte, die durch Wertpapierdienstleister für Beschäftigte im Rahmen einer Finanzportfolioverwaltung gemäß § 2 Absatz 8 Satz 1 Nummer 7 des Wertpapierhandelsgesetzes abgeschlossen werden, gilt die Pflicht aus Satz 1 nicht. Das Bundesministerium kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, festlegen,
+
+1. welche privaten Finanzgeschäfte in Kryptowerten im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114 die Beschäftigten der Bundesanstalt oder der von ihr beauftragten Person unverzüglich anzuzeigen haben und
+
+2. welche Ausnahmen von der Anzeigepflicht für solche Beschäftigten zugelassen sind, die aufgrund von Elternzeit, Abordnung, Freistellung oder Sonderurlaub keine Zugangsmöglichkeit zu den Liegenschaften und den informationstechnischen Systemen der Bundesanstalt haben, wobei Ausnahmen von der Anzeigepflicht frühestens drei Monate, in der Regel sechs Monate nach dem Entfallen der Zugangsmöglichkeit zulässig sind.
+
+In der Rechtsverordnung kann vorgesehen werden, dass der Bundesanstalt oder der von ihr beauftragten Person die Befugnis eingeräumt wird, durch Richtlinien Konkretisierungen zu Satz 1 bis 3 vorzunehmen. Das Bundesministerium kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen. Die Bundesanstalt oder die von ihr beauftragte Person kann Richtlinien zur Ausgestaltung der Anzeigepflicht, auch unter Einbeziehung der Vorgesetzten, erlassen.
+
+(4a) Die Bundesanstalt oder die von ihr beauftragte Person kann von den Beschäftigten die Erteilung von Auskünften und die Vorlage von Unterlagen über solche Geschäfte in Finanzinstrumenten im Sinne des Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 596/2014, über solche Handlungen und Geschäfte im Sinne des Artikels 2 Absatz 1 Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 596/2014 sowie über solche privaten Finanzgeschäfte gemäß Absatz 1 verlangen, die sie für eigene oder fremde Rechnung oder für einen anderen abgeschlossen haben. § 6 Absatz 15 des Wertpapierhandelsgesetzes ist anzuwenden. Die Bundesanstalt oder die von ihr beauftragte Person kann von den Beschäftigten die Erteilung von Auskünften und die Vorlage von Unterlagen über solche ihrer privaten Finanzgeschäfte in Kryptowerten nach Absatz 1a verlangen, die diese für eigene oder fremde Rechnung oder für einen anderen abgeschlossen haben, soweit dies für die Prüfung der Bundesanstalt oder der von ihr beauftragten Person auf Interessenkonflikte notwendig ist.
 
 (5) Die Bundesanstalt muss angemessene interne Vorkehrungen treffen, die geeignet sind, Interessenkonflikten der Beschäftigten bei ihren dienstlichen Tätigkeiten mit ihren privaten Interessen im Hinblick auf ihre privaten Finanzgeschäfte entgegenzuwirken. Die Beschäftigten der Bundesanstalt sind zur Erteilung von Auskünften und zur Vorlage von Unterlagen über Finanzinstrumente nach Absatz 1 und Kryptowerte nach Absatz 1a und weitere Anlageprodukte nach Absatz 6 Satz 3 Nummer 1 verpflichtet, soweit diese Pflichten nicht bereits in Absatz 4 enthalten sind und es für die Prüfung der Bundesanstalt oder der von ihr beauftragten Person auf Interessenkonflikte notwendig ist. Das Bundesministerium kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, festlegen, dass Beschäftigte der Bundesanstalt verpflichtet werden, bei Aufnahme ihrer Tätigkeit und danach jährlich eine Interessenerklärung abzugeben, die Angaben zu den Finanzinstrumenten nach Absatz 1 und Kryptowerten nach Absatz 1a und weiteren Anlageprodukten nach Absatz 6 Satz 3 Nummer 1 enthält, die Anlass zu Bedenken wegen eines Interessenkonflikts geben könnten. Der Bundesanstalt oder der von ihr beauftragten Person wird die Befugnis eingeräumt, durch Richtlinien Konkretisierungen zu den in der Rechtsverordnung vorgenommenen Bestimmungen vorzunehmen. § 6 Absatz 15 des Wertpapierhandelsgesetzes ist anzuwenden.
 
@@ -333,7 +344,7 @@ In der Rechtsverordnung kann vorgesehen werden, dass der Bundesanstalt oder der 
 ## Vierter Abschnitt Haushaltsplan, Rechnungslegung,
 Deckung des Verwaltungsaufwands
 
-##### § 12 Haushaltsplan, Rechnungslegung
+###### § 12 Haushaltsplan, Rechnungslegung
 
 (1) Die Bundesanstalt weist die in ihrem Verwaltungsbereich voraussichtlich zu erwartenden Einnahmen und zu leistenden Ausgaben in einem Haushaltsplan einschließlich eines Stellenplans aus. Haushaltsjahr ist das Kalenderjahr. Auf Zahlungen, die Buchführung und die Rechnungslegung sind die für die bundesunmittelbaren juristischen Personen geltenden Bestimmungen der Bundeshaushaltsordnung anzuwenden.
 
@@ -347,7 +358,7 @@ Deckung des Verwaltungsaufwands
 
 (5) Die Prüfung der Rechnung und der Haushalts- und Wirtschaftsführung ist unbeschadet einer Prüfung des Bundesrechnungshofs nach § 111 der Bundeshaushaltsordnung von der in der Satzung bestimmten Stelle vorzunehmen. Die Ergebnisse der Prüfung sind dem Präsidenten oder der Präsidentin, dem Verwaltungsrat und dem Bundesministerium sowie dem Bundesrechnungshof zuzuleiten.
 
-##### § 13 Deckung der Kosten der Aufsicht
+###### § 13 Deckung der Kosten der Aufsicht
 
 (1) Die Bundesanstalt deckt ihre Kosten, einschließlich der Kosten, mit denen die Deutsche Bundesbank die Bundesanstalt nach § 15 Abs. 2 belastet, aus eigenen Einnahmen nach Maßgabe der §§ 15 und 16 sowie des Bundesgebührengesetzes und der Besonderen Gebührenverordnung des Bundesministeriums der Finanzen nach § 22 Absatz 4 des Bundesgebührengesetzes und aus den sonstigen eigenen Einnahmen, soweit in den §§ 17a bis 17d nichts anderes bestimmt ist. Bußgelder bleiben unberücksichtigt.
 
@@ -357,9 +368,9 @@ Deckung des Verwaltungsaufwands
 
 ## Fünfter Abschnitt Gebühren und Umlage, Zwangsmittel
 
-##### § 14 (weggefallen)
+###### § 14 (weggefallen)
 
-##### § 15 Gesonderte Erstattung; Verordnungsermächtigung
+###### § 15 Gesonderte Erstattung; Verordnungsermächtigung
 
 (1) Die Kosten, die der Bundesanstalt entstehen
 
@@ -447,7 +458,13 @@ d) eine aufgrund des § 20 Absatz 3 auch in Verbindung mit Maßnahmen nach Absat
 
 e) eine aufgrund des § 10 Absatz 3 auch in Verbindung mit Maßnahmen nach § 10 Absatz 4 vorgenommene Durchsuchung,
 
-sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 sowie 13 von dem Betroffenen, im Fall der Nummer 1a von der Kreditanstalt für Wiederaufbau, in den Fällen der Nummer 3 von dem zur Zusammenfassung verpflichteten Unternehmen, in den Fällen der Nummer 5 von dem registerführenden Unternehmen, in den Fällen der Nummer 6 von den in § 22n Absatz 5 Satz 2 und 3 des Kreditwesengesetzes genannten Unternehmen, in den Fällen der Nummer 8 von den betroffenen Einrichtungen und in den Fällen der Nummer 12 durch die Unternehmen im Sinne des § 106 des Wertpapierhandelsgesetzes der Bundesanstalt gesondert zu erstatten. Zu den Kosten nach Satz 1 gehören auch die Kosten, mit denen die Bundesanstalt von der Deutschen Bundesbank und anderen Behörden, die im Rahmen solcher Maßnahmen für die Bundesanstalt oder im Rahmen des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im Auftrag der Europäischen Zentralbank tätig werden, belastet wird, sowie die Kosten für den Einsatz eigener Mitarbeiter.
+14. durch
+
+a) eine vor Ort oder aus der Ferne nach § 11 des Gesetzes zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz in Verbindung mit Artikel 14 Absatz 1 und 4 Buchstabe d der Verordnung (EU) 2019/1020 vorgenommene Prüfungshandlung auch in Verbindung mit Maßnahmen nach § 11 des KI-Marktüberwachungs-und-Innovationsförderungs-Gesetzes in Verbindung mit Artikel 14 Absatz 1 und 4 Buchstabe e der Verordnung (EU) 2019/1020,
+
+b) eine Maßnahme nach § 11 des KI-Marktüberwachungs-und-Innovationsförderungs-Gesetzes in Verbindung mit Artikel 14 Absatz 1 und 4 Buchstabe h der Verordnung (EU) 2019/1020,
+
+sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 sowie 13 und 14 von dem Betroffenen, im Fall der Nummer 1a von der Kreditanstalt für Wiederaufbau, in den Fällen der Nummer 3 von dem zur Zusammenfassung verpflichteten Unternehmen, in den Fällen der Nummer 5 von dem registerführenden Unternehmen, in den Fällen der Nummer 6 von den in § 22n Absatz 5 Satz 2 und 3 des Kreditwesengesetzes genannten Unternehmen, in den Fällen der Nummer 8 von den betroffenen Einrichtungen und in den Fällen der Nummer 12 durch die Unternehmen im Sinne des § 106 des Wertpapierhandelsgesetzes der Bundesanstalt gesondert zu erstatten. Zu den Kosten nach Satz 1 gehören auch die Kosten, mit denen die Bundesanstalt von der Deutschen Bundesbank und anderen Behörden, die im Rahmen solcher Maßnahmen für die Bundesanstalt oder im Rahmen des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im Auftrag der Europäischen Zentralbank tätig werden, belastet wird, oder die der Bundesanstalt durch die Heranziehung dritter Personen als Verwaltungshelfer nach § 11 Absatz 2 des KI-Marktüberwachungs-und-Innovationsförderungs-Gesetzes entstehen, sowie die Kosten für den Einsatz eigener Mitarbeiter.
 
 (2) Die Bundesanstalt hat der Deutschen Bundesbank und den anderen Behörden, die im Rahmen des Absatzes 1 für sie oder im Rahmen des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im Auftrag der Europäischen Zentralbank tätig werden, den Personal- und Sachaufwand zu ersetzen. Die Höhe des Erstattungsbetrags, insbesondere die Stundensätze für den Einsatz von Mitarbeitern dieser Behörden, bestimmen sich nach Erstattungsrichtlinien, die das Bundesministerium erlässt.
 
@@ -465,11 +482,11 @@ sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 sowie 13 von dem Bet
 
 (9) Das Bundesministerium wird ermächtigt, Einzelheiten der gesonderten Erstattung durch eine Rechtsverordnung zu bestimmen. Soweit die Rechtsverordnung Regelungen zu den Kostenpauschalen nach Absatz 8 enthält, ist zwischen einzelnen Maßnahmen und Tätigkeiten zu unterscheiden.
 
-##### § 16 Umlage
+###### § 16 Umlage
 
 Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte Erstattungen nach § 15 oder sonstige Einnahmen gedeckt werden, sind sie unter Berücksichtigung von Fehlbeträgen, nicht eingegangenen Beträgen und Überschüssen der Vorjahre anteilig auf die Kredit- und Finanzdienstleistungsinstitute, Wertpapierinstitute, Zahlungs- und E-Geld-Institute, die Kreditanstalt für Wiederaufbau, die Kapitalverwaltungsgesellschaften, extern verwalteten OGAW-Investmentaktiengesellschaften, Versicherungsunternehmen, Wertpapierdienstleistungsunternehmen und Emittenten mit Sitz im Inland, deren Wertpapiere an einer inländischen Börse zum Handel zugelassen oder in den Freiverkehr einbezogen sind, die Abwicklungsanstalten sowie die Bilanzkontrollemittenten nach Maßgabe der §§ 16a bis 16s umzulegen.
 
-##### § 16a Umlagefähige Kosten; Umlagejahr
+###### § 16a Umlagefähige Kosten; Umlagejahr
 
 (1) Die Bundesanstalt hat als Kosten im Sinne des § 16 die Ausgaben eines Haushaltsjahres zu ermitteln. Zu den Kosten gehören auch die Zuführungen zu einer Investitionsrücklage gemäß § 12 Absatz 4 Satz 2 und die Zuführungen zu der Pensionsrücklage nach § 19 Absatz 2.
 
@@ -477,7 +494,7 @@ Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte Erstattung
 
 (3) Das Haushaltsjahr ist das Umlagejahr im Sinne dieses Gesetzes.
 
-##### § 16b Kostenermittlung nach Aufgabenbereichen und Gruppen
+###### § 16b Kostenermittlung nach Aufgabenbereichen und Gruppen
 
 (1) Die Kosten sind für die folgenden Aufgabenbereiche, die jeweils nach den maßgeblichen Aufsichtsgesetzen in die Zuständigkeit der Bundesanstalt fallen, getrennt zu ermitteln:
 
@@ -493,23 +510,31 @@ Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte Erstattung
 
 Innerhalb des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen sowie des Aufgabenbereichs Wertpapierhandel hat eine gesonderte Ermittlung nach Gruppen gemäß den §§ 16e und 16i zu erfolgen.
 
-(2) Kosten, die zwei Aufgabenbereichen nach Absatz 1 Satz 1 gemeinsam zugerechnet werden können, sind jeweils gesondert zu erfassen. Sie sind auf die betroffenen Aufgabenbereiche entsprechend dem Verhältnis aufzuteilen, das zwischen den Kosten besteht, die den Aufgabenbereichen unmittelbar zuzurechnen sind. Die so ermittelten Kostenanteile sind jeweils den Kosten hinzuzurechnen, die auf die Aufgabenbereiche unmittelbar entfallen.
+(1a) Die Kosten, die der Bundesanstalt aus ihrer Zuständigkeit nach dem KI-Marktüberwachungs-und-Innovationsförderungs-Gesetz entstehen, sind den Aufgabenbereichen nach Absatz 1 wie folgt zuzurechnen:
 
-(3) Die übrigen Kosten, die weder einem Aufgabenbereich nach Absatz 1 Satz 1 unmittelbar noch nach Absatz 2 zwei Aufgabenbereichen gemeinsam zugeordnet werden können (Gemeinkosten), sind ebenfalls gesondert zu erfassen. Sie sind auf alle Aufgabenbereiche entsprechend dem Verhältnis aufzuteilen, das zwischen den Kosten besteht, die den Aufgabenbereichen nach Durchführung der in Absatz 2 vorgegebenen Verteilung zuzurechnen sind.
+1. soweit es sich um Kosten in Bezug auf das Kredit-, Finanzdienstleistungs-, Wertpapierinstituts-, Zahlungsdienste-, Krypto- oder das inländische Investmentwesen handelt, dem Aufgabenbereich „Banken und sonstige Finanzdienstleistungen“,
+
+2. soweit es sich um Kosten des Versicherungswesens handelt, dem Aufgabenbereich „Versicherungen“.
+
+Innerhalb des Aufgabenbereichs „Banken und sonstige Finanzdienstleistungen“ erfolgt eine gesonderte Ermittlung nach Gruppen entsprechend § 16e.
+
+(2) Kosten, die zwei Aufgabenbereichen nach Absatz 1 Satz 1 oder nach Absatz 1a Satz 1 gemeinsam zugerechnet werden können, sind jeweils gesondert zu erfassen. Sie sind auf die betroffenen Aufgabenbereiche entsprechend dem Verhältnis aufzuteilen, das zwischen den Kosten besteht, die den Aufgabenbereichen unmittelbar zuzurechnen sind. Die so ermittelten Kostenanteile sind jeweils den Kosten hinzuzurechnen, die auf die Aufgabenbereiche unmittelbar entfallen.
+
+(3) Die übrigen Kosten, die weder einem Aufgabenbereich nach Absatz 1 Satz 1 oder nach Absatz 1a Satz 1 unmittelbar noch nach Absatz 2 zwei Aufgabenbereichen gemeinsam zugeordnet werden können (Gemeinkosten), sind ebenfalls gesondert zu erfassen. Sie sind auf alle Aufgabenbereiche entsprechend dem Verhältnis aufzuteilen, das zwischen den Kosten besteht, die den Aufgabenbereichen nach Durchführung der in Absatz 2 vorgegebenen Verteilung zuzurechnen sind.
 
 (4) Die Einnahmen im Sinne des § 16 sind von den Kosten des Aufgabenbereichs abzusetzen, dem sie jeweils unmittelbar zuzurechnen sind. Einnahmen, die zwei Aufgabenbereichen gemeinsam zugerechnet werden können, sind entsprechend dem Verhältnis der Kosten, die den Aufgabenbereichen unmittelbar zuzurechnen sind, abzuziehen. Einnahmen, die keinem Aufgabenbereich unmittelbar zugerechnet werden können, sind vor Verteilung der Gemeinkosten nach Absatz 3 von diesen abzuziehen.
 
-##### § 16c Fehlbeträge, nicht eingegangene Beträge und Überschüsse der Vorjahre
+###### § 16c Fehlbeträge, nicht eingegangene Beträge und Überschüsse der Vorjahre
 
 (1) Nach Ermittlung und Verteilung der Kosten für das Umlagejahr nach Maßgabe des § 16b sind die zu berücksichtigenden Fehlbeträge, nicht eingegangenen Beträge und Überschüsse, die dem Umlagejahr 2009 und späteren Umlagejahren zuzuordnen sind, den Aufgabenbereichen zuzuordnen. Den Kosten der Aufgabenbereiche sind die Fehlbeträge und nicht eingegangenen Beträge jeweils entsprechend ihrer Zuordnung nach Satz 1 hinzuzurechnen; Überschüsse sind jeweils entsprechend ihrer Zuordnung nach Satz 1 von diesen Kosten abzuziehen. Stichtag für die Berücksichtigung der in den Sätzen 1 und 2 genannten Beträge und Überschüsse ist der 30. Juni des Jahres, das dem Umlagejahr folgt, für das die Kosten ermittelt wurden. Nach diesem Stichtag anfallende Fehlbeträge, nicht eingegangene Beträge und Überschüsse werden als Fehlbeträge, nicht eingegangene Beträge und Überschüsse bei der Festsetzung der Umlagebeträge in den nächstfolgenden Jahren berücksichtigt.
 
 (2) Fehlbeträge und nicht eingegangene Beträge, die den Umlagejahren 2002 bis 2008 zuzuordnen sind und nicht nach § 16 Absatz 1 in der bis zum 25. März 2009 geltenden Fassung umgelegt wurden oder werden, sind mit den Überschüssen, die den Umlagejahren 2002 bis 2008 zuzuordnen sind und nicht nach § 6 Absatz 1 Satz 6 der Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz in der bis zum 25. März 2009 geltenden Fassung umgelegt wurden oder werden, zu verrechnen. Übersteigen die nach Satz 1 zu verrechnenden Überschüsse die zu verrechnenden Fehlbeträge und nicht eingegangenen Beträge, ist der übersteigende Betrag bei der Festsetzung der Umlage für das Umlagejahr 2009 oder für spätere Umlagejahre vor Verteilung der Gemeinkosten von diesen abzuziehen. Übersteigen die nach Satz 1 zu verrechnenden Fehlbeträge und nicht eingegangenen Beträge die zu verrechnenden Überschüsse, ist der übersteigende Betrag bei der Festsetzung der Umlage für das Umlagejahr 2013 oder für spätere Umlagejahre vor Verteilung der Gemeinkosten zu diesen hinzuzurechnen.
 
-##### § 16d Umlagebetrag, Umlagepflicht und Verteilungsschlüssel
+###### § 16d Umlagebetrag, Umlagepflicht und Verteilungsschlüssel
 
 Umlagebetrag ist der Anteil an den umlagefähigen Kosten, der innerhalb eines Aufgabenbereichs oder einer Gruppe für einen Umlagepflichtigen ermittelt wird. Ein Umlagepflichtiger kann mehreren Aufgabenbereichen oder Gruppen innerhalb eines Aufgabenbereichs zugeordnet sein. Die Umlagepflicht und die Verteilung der Kosten innerhalb eines Aufgabenbereichs bestimmen sich nach Maßgabe der §§ 16e bis 16l.
 
-##### § 16e Kostenermittlung und Umlagepflicht im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
+###### § 16e Kostenermittlung und Umlagepflicht im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
 
 (1) Innerhalb des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen hat eine gesonderte Ermittlung der Kosten nach folgenden Gruppen zu erfolgen:
 
@@ -545,7 +570,7 @@ Die Kosten des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen, die 
 
 (4) Die Umlagepflicht nach Absatz 2 entsteht mit Erteilung oder der Fiktion der Erlaubnis oder der Zulassung, mit der Registrierung oder im Fall einer Abwicklungsanstalt mit deren Errichtung. Sie endet in dem Jahr des Erlöschens der Erlaubnis, der Registrierung oder der Auflösung der Abwicklungsanstalt. Ändert sich im Laufe eines Umlagejahres der Erlaubnisumfang oder wird von der Aufsichtsbehörde im Sinne des § 1 Absatz 5 des Kreditwesengesetzes eine Erlaubnis zum Betreiben eines anderen Geschäfts erteilt, wird der Umlagepflichtige nach Maßgabe der Regelungen zur Umlage herangezogen, die für das Geschäft gelten, auf das sich die zuletzt im Umlagejahr bestehende Erlaubnis bezieht. Die Umlagepflicht der Kreditanstalt für Wiederaufbau beginnt am 1. Januar 2015 und endet mit Ende der Beaufsichtigung durch die Bundesanstalt.
 
-##### § 16f Bemessungsgrundlagen der Umlage im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
+###### § 16f Bemessungsgrundlagen der Umlage im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
 
 (1) Der Umlagebetrag für die Umlagepflichtigen im Aufgabenbereich Banken und sonstige Finanzdienstleistungen ist zu bemessen:
 
@@ -581,7 +606,7 @@ Satz 1 Nummer 1 Buchstabe c gilt für die von der Bundesanstalt beaufsichtigten 
 
 (5) Liegen die Bilanz oder die Daten nach Absatz 4 am 1. Juli nicht vor, schätzt die Bundesanstalt die Bilanzsumme und setzt den Umlagebetrag anhand der geschätzten Daten fest. Die Bundesanstalt kann auf Antrag eine angemessene Nachfrist von bis zu einem Monat zur Einreichung der in Absatz 4 genannten Unterlagen gewähren. Bei der Schätzung hat die Bundesanstalt im Regelfall die Bilanzdaten des Umlagepflichtigen aus vorangegangenen Geschäftsjahren zugrunde zu legen. Liegen keinerlei Daten im Sinne des Satzes 3 und auch keine entsprechenden Daten für die nachfolgenden Geschäftsjahre vor, hat die Schätzung auf der Grundlage des arithmetischen Mittels der vorliegenden Bilanzdaten der anderen Umlagepflichtigen derselben nach § 16g Absatz 1 Nummer 1 Buchstabe a bis d oder Nummer 2 bestimmten Gruppe zu erfolgen.
 
-##### § 16g Mindestumlagebeträge im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
+###### § 16g Mindestumlagebeträge im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
 
 (1) Der von jedem Umlagepflichtigen des Aufgabenbereichs Banken und sonstige Finanzdienstleistungen zu entrichtende Umlagebetrag beträgt
 
@@ -611,7 +636,7 @@ c) 4 500 Euro für
 
 aa) Finanzdienstleistungsinstitute mit einer Erlaubnis nach
 
-aaa) § 1 Absatz 1a Satz 2 Nummer 6 oder 11 des Kreditwesengesetzes, wenn die Erlaubnis nicht die Befugnis umfasst, sich Eigentum oder Besitz an Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen, oder
+aaa) § 1 Absatz 1a Satz 2 Nummer 6, 8 oder 11 des Kreditwesengesetzes, wenn die Erlaubnis nicht die Befugnis umfasst, sich Eigentum oder Besitz an Geldern, Wertpapieren oder Kryptowerten von Kunden zu verschaffen, oder
 
 bbb) § 1 Absatz 1a Satz 3 des Kreditwesengesetzes,
 
@@ -659,7 +684,7 @@ e) die Hälfte des Mindestbetrages der Buchstaben b bis d für die dort genannte
 
 12. ab einer Bilanzsumme von 100 Millionen Euro auf 189 000 Euro.
 
-##### § 16h Aufgabenbereich Versicherungen
+###### § 16h Aufgabenbereich Versicherungen
 
 (1) Umlagepflichtig im Aufgabenbereich Versicherungen ist die Gesamtheit der inländischen Versicherungsunternehmen und Pensionsfonds sowie der inländischen Niederlassungen ausländischer Versicherungsunternehmen und Pensionsfonds, welche ihren Sitz außerhalb der Mitgliedstaaten der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum haben. § 16e Absatz 4 Satz 1 und 2 gilt entsprechend.
 
@@ -669,7 +694,7 @@ e) die Hälfte des Mindestbetrages der Buchstaben b bis d für die dort genannte
 
 (4) Der von jedem Umlagepflichtigen des Aufgabenbereichs Versicherungen zu entrichtende Umlagebetrag beträgt mindestens 1 225 Euro.
 
-##### § 16i Kostenermittlung und Umlagepflicht im Aufgabenbereich Wertpapierhandel
+###### § 16i Kostenermittlung und Umlagepflicht im Aufgabenbereich Wertpapierhandel
 
 (1) Innerhalb des Aufgabenbereichs Wertpapierhandel hat eine gesonderte Ermittlung der Kosten nach folgenden Gruppen zu erfolgen:
 
@@ -685,7 +710,7 @@ Der Bund und die Länder sind keine Emittenten im Sinne von Satz 1 Nummer 2. Die
 
 (3) Fehlbeträge, nicht eingegangene Beträge und Überschüsse der Umlageabrechnungen für die Jahre 2009 bis 2012 in den in § 6 Absatz 2 Satz 1 Nummer 3 Buchstabe a bis c der Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz in der bis zum 31. Dezember 2012 geltenden Fassung genannten Gruppen des Aufgabenbereichs Wertpapierhandel gelten ab der Abrechnung für das Umlagejahr 2013 als Fehlbeträge, nicht eingegangene Beträge und Überschüsse der Gruppe Wertpapierdienstleistungsunternehmen und Anlageverwalter.
 
-##### § 16j Bemessungsgrundlagen der Umlage im Aufgabenbereich Wertpapierhandel
+###### § 16j Bemessungsgrundlagen der Umlage im Aufgabenbereich Wertpapierhandel
 
 (1) Für die Umlagepflichtigen in der Gruppe Wertpapierdienstleistungsunternehmen und Anlageverwalter ist der Umlagebetrag nach dem Verhältnis der Nettoerträge des einzelnen Umlagepflichtigen zum Gesamtbetrag der Nettoerträge aller Umlagepflichtigen der Gruppe nach Maßgabe des Satzes 2 zu bemessen. Die Nettoerträge setzen sich wie folgt zusammen:
 
@@ -757,13 +782,13 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates näher zu bestimmen, auf welchem Wege und in welcher Form der Antrag und die Nachweise nach Absatz 2 sowie die Umsätze nach Absatz 5 der Bundesanstalt zu übermitteln sind und wie sich die Umsätze nach Absatz 5 bestimmen. Das Bundesministerium kann die Ermächtigung zum Erlass der Rechtsverordnung nach Satz 1 auf die Bundesanstalt übertragen.
 
-##### § 16k Aufgabenbereich Abwicklung
+###### § 16k Aufgabenbereich Abwicklung
 
 (1) Die Umlagepflicht besteht für Institute im Sinne des § 2 des Restrukturierungsfondsgesetzes ab dem Zeitpunkt der Erteilung oder der Fiktion der Erlaubnis nach dem Kreditwesengesetz oder dem Wertpapierinstitutsgesetz und endet, wenn die Erlaubnis des Instituts erlischt oder aufgehoben wird.
 
 (2) Umlagepflichtige Institute, bei denen die Berechnung der Jahresbeiträge gemäß § 12 Absatz 2 des Restrukturierungsfondsgesetzes für das Umlagejahr unter Berücksichtigung des Artikels 10 der Delegierten Verordnung (EU) 2015/63 erfolgte sowie die in § 1 Absatz 1 und 2 der Restrukturierungsfondsverordnung genannten Institute zahlen einen Pauschalbetrag in Höhe von 325 Euro. Für die übrigen umlagepflichtigen Institute wird der Umlagebetrag nach einem jährlich zu ermittelnden Verteilungsschlüssel bemessen. Der Verteilungsschlüssel in einem Umlagejahr bestimmt sich für diese Institute nach dem Verhältnis der Höhe der Bilanzsumme, die in entsprechender Anwendung der Bestimmungen des Artikels 5 der Delegierten Verordnung (EU) 2015/63 angepasst wurde, zur Gesamtsumme der Bilanzsummen, die in entsprechender Anwendung der Bestimmungen des Artikels 5 der Delegierten Verordnung (EU) 2015/63 angepasst wurden, aller übrigen umlagepflichtigen Institute. Maßgebend für die Berechnung des Verteilungsschlüssels ist jeweils die in entsprechender Anwendung des Artikels 5 der Delegierten Verordnung (EU) 2015/63 angepasste Bilanzsumme, die im Umlagejahr der Berechnung der Jahresbeiträge nach § 12 Absatz 2 des Restrukturierungsfondsgesetzes zugrunde lag. Soweit für ein umlagepflichtiges Institut im Umlagejahr keine Jahresbeiträge nach § 12 Absatz 2 des Restrukturierungsfondsgesetzes zu berechnen waren und die Daten zur Berechnung der Bilanzsumme, die in entsprechender Anwendung der Bestimmung des Artikels 5 der Delegierten Verordnung (EU) 2015/63 angepasst wurde, nicht vorliegen, wird für das jeweilige Institut ein Pauschalbetrag in Höhe von 325 Euro erhoben. § 16f Absatz 1 Nummer 1 Satz 2, Absatz 2, 4 und 5 ist entsprechend anzuwenden. Der Umlagebetrag für jedes umlagepflichtige Institut beträgt mindestens 325 Euro.
 
-##### § 16l Aufgabenbereich Bilanzkontrolle
+###### § 16l Aufgabenbereich Bilanzkontrolle
 
 (1) Umlagepflichtig für den Aufgabenbereich Bilanzkontrolle als Bilanzkontrollemittenten sind Emittenten von am 1. Juli des Umlagejahres zugelassenen Wertpapieren im Sinne des § 2 Absatz 1 des Wertpapierhandelsgesetzes, für die die Bundesrepublik Deutschland nach § 2 Absatz 13 des Wertpapierhandelsgesetzes der Herkunftsstaat ist; unberücksichtigt bleiben hierbei Anteile und Aktien an offenen Investmentvermögen im Sinne des § 1 Absatz 4 des Kapitalanlagegesetzbuchs.
 
@@ -773,7 +798,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (4) Die inländischen Börsen haben der Bundesanstalt zur Festsetzung der Umlage und der Umlagevorauszahlung über die Börsenumsätze Auskünfte zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt kann von den Unternehmen Auskünfte und die Vorlage von Unterlagen verlangen, soweit dies zur Festsetzung der Umlage und der Umlagevorauszahlung erforderlich ist. Die nach Satz 1 vorzulegenden Unterlagen umfassen Bestätigungen der gemeldeten Umsätze je Wertpapier durch einen Wirtschaftsprüfer, eine Wirtschaftsprüfungsgesellschaft, einen vereidigten Buchprüfer oder eine Buchprüfungsgesellschaft. Die entsprechenden Unterlagen sind nach Aufforderung durch die Bundesanstalt binnen drei Monaten vorzulegen.
 
-##### § 16m Entstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit; Verpflichtung zur elektronischen Kommunikation; Verordnungsermächtigung
+###### § 16m Entstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit; Verpflichtung zur elektronischen Kommunikation; Verordnungsermächtigung
 
 (1) Die Umlageforderung entsteht mit Ablauf des Umlagejahres, für das die Umlagepflicht besteht.
 
@@ -791,7 +816,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (8) Die Bundesanstalt kann anordnen, dass eine Ermächtigung zum Einzug des Umlagebetrages von einem Konto des Umlagepflichtigen oder eines Dritten bei einem Geldinstitut erteilt wird. Besteht eine Verpflichtung nach Satz 1, hat der betroffene Umlagepflichtige unter Nutzung eines durch die Bundesanstalt bereitgestellten elektronischen Kommunikationsverfahrens die Daten zur Erteilung des SEPA-Lastschrift-Mandats für den Einzug des Umlagebetrages in der von der Bundesanstalt vorgegebenen Form zu übermitteln und bei Änderungen zu aktualisieren.
 
-##### § 16n Festsetzung und Fälligkeit von Umlagevorauszahlungen
+###### § 16n Festsetzung und Fälligkeit von Umlagevorauszahlungen
 
 (1) Die Bundesanstalt hat innerhalb eines Jahres eine Vorauszahlung auf den Umlagebetrag eines Umlagejahres festzusetzen, nachdem der für dieses Umlagejahr festgestellte Haushaltsplan vom Bundesministerium der Finanzen genehmigt ist. Der Festsetzung sind die Ausgaben zugrunde zu legen, die in dem Haushaltsplan für dieses Umlagejahr veranschlagt sind. § 16m Absatz 3 bis 5 und 7 gilt entsprechend.
 
@@ -805,7 +830,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (6) § 16m Absatz 6 ist entsprechend anzuwenden.
 
-##### § 16o Differenz zwischen Umlagebetrag und Vorauszahlung
+###### § 16o Differenz zwischen Umlagebetrag und Vorauszahlung
 
 (1) Entsteht nach der Anrechnung der gezahlten Umlagevorauszahlungsbeträge auf den festgesetzten Umlagebetrag ein Fehlbetrag, so ist dieser nach Bekanntgabe des festgesetzten Umlagebetrages zu einem Zeitpunkt zu entrichten, der von der Bundesanstalt bestimmt wird.
 
@@ -813,13 +838,13 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (3) Ansprüche auf Erstattung von Überzahlungen im Sinne des Absatzes 2 erlöschen durch Verjährung, wenn sie nicht bis zum Ablauf des fünften Kalenderjahres nach dem Kalenderjahr geltend gemacht werden, in dem die Festsetzung des Umlagebetrages oder die Aufhebung des Vorauszahlungsbescheides unanfechtbar geworden ist.
 
-##### § 16p Stundung; Erlass
+###### § 16p Stundung; Erlass
 
 (1) Die Bundesanstalt kann anordnen, dass Anträge der Umlagepflichtigen auf Stundung oder Erlass von Gebühren-, Umlage- oder sonstigen Forderungen unter Nutzung eines durch die Bundesanstalt bereitgestellten elektronischen Kommunikationsverfahrens und in einer durch die Bundesanstalt vorgegebenen Form zu stellen sind.
 
 (2) Die Bundesanstalt kann mit Zustimmung des Bundesministeriums der Finanzen und des Bundesrechnungshofes ergänzend zu den Allgemeinen Verwaltungsvorschriften zu § 59 Absatz 1 Satz 1 Nummer 1 und 3 der Bundeshaushaltsordnung regeln, bis zu welchem Betrag Stundungs- und Erlassanträge von Umlagepflichtigen, die unter Aufsicht der Bundesanstalt stehen, wegen ihrer geringen Höhe nicht berücksichtigt werden.
 
-##### § 16q Säumniszuschläge; Beitreibung
+###### § 16q Säumniszuschläge; Beitreibung
 
 (1) Werden die Umlagebeträge und Umlagevorauszahlungsbeträge nicht bis zum Ablauf des Fälligkeitstages entrichtet, ist für jeden angefangenen Monat der Säumnis ein Säumniszuschlag von 1 Prozent des abgerundeten rückständigen Betrages zu entrichten. Der Säumniszuschlag wird nur erhoben, wenn der rückständige Betrag 50 Euro übersteigt und die Säumnis länger als drei Tage beträgt. Wird die Festsetzung einer Umlage aufgehoben oder geändert, bleiben die bis dahin verwirkten Säumniszuschläge unberührt.
 
@@ -837,7 +862,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (5) Nicht fristgerecht entrichtete Umlage- und Umlagevorauszahlungsbeträge werden nach den Vorschriften des Verwaltungs-Vollstreckungsgesetzes durch die Bundesanstalt beigetrieben. Vollstreckungsbehörde ist das für den Sitz oder die Niederlassung des Vollstreckungsschuldners zuständige Hauptzollamt.
 
-##### § 16r Festsetzungsverjährung
+###### § 16r Festsetzungsverjährung
 
 (1) Die Festsetzung des Umlagebetrages ist nicht mehr zulässig, wenn die Festsetzungsfrist abgelaufen ist (Festsetzungsverjährung). Die Festsetzungsfrist beträgt vier Jahre; sie beginnt mit Ablauf des Umlagejahres.
 
@@ -845,7 +870,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (3) Wird die Festsetzung angefochten, läuft die Festsetzungsfrist erst sechs Monate nach dem Zeitpunkt ab, an dem die Festsetzung unanfechtbar geworden ist; dies gilt auch, wenn der Rechtsbehelf erst nach Ablauf der Festsetzungsfrist eingelegt wird. Der Ablauf der Festsetzungsfrist ist hinsichtlich des gesamten Anspruchs gehemmt. Satz 1 gilt entsprechend für vor Ablauf der Festsetzungsfrist gestellte Anträge auf Aufhebung oder Änderung der Festsetzung.
 
-##### § 16s Zahlungsverjährung
+###### § 16s Zahlungsverjährung
 
 (1) Der Anspruch auf Zahlung des festgesetzten Umlagebetrages verjährt nach fünf Jahren (Zahlungsverjährung). Die Verjährungsfrist beginnt mit dem Ablauf des Kalenderjahres, in dem der Anspruch erstmals fällig geworden ist.
 
@@ -895,7 +920,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (6) Wird die Festsetzung des Umlagebetrages angefochten, erlöschen die Zahlungsansprüche aus ihr nicht vor Ablauf von sechs Monaten, nachdem die Festsetzung unanfechtbar geworden ist oder sich das Verfahren auf andere Weise erledigt hat. Die Frist nach Satz 1 kann durch verjährungsunterbrechende Maßnahmen nach Absatz 3 unterbrochen werden.
 
-##### § 16t Erstattung überzahlter Umlagebeträge
+###### § 16t Erstattung überzahlter Umlagebeträge
 
 (1) Zu Unrecht erhobene Umlagebeträge und sonstige Überzahlungen auf Umlagebeträge, die nicht auf der Erhebung einer Vorauszahlung beruhen, sind nach Kenntniserlangung durch die Bundesanstalt zu erstatten.
 
@@ -903,7 +928,7 @@ Die Abzugsposten nach Satz 1 sind von der Bundesanstalt nur zu berücksichtigen,
 
 (3) Ansprüche auf Erstattung von zu Unrecht erhobenen Umlagebeträgen und von sonstigen Überzahlungen im Sinne des Absatzes 1 erlöschen durch Verjährung, wenn sie nicht bis zum Ablauf des fünften Kalenderjahres geltend gemacht werden, das auf die Entstehung des Anspruchs folgt.
 
-##### § 17 Zwangsmittel; Bekanntgabe von Allgemeinverfügungen
+###### § 17 Zwangsmittel; Bekanntgabe von Allgemeinverfügungen
 
 (1) Die Bundesanstalt kann ihre Verfügungen, die sie innerhalb ihrer gesetzlichen Befugnisse trifft, mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-Vollstreckungsgesetzes durchsetzen. Dabei kann sie die Zwangsmittel für jeden Fall der Nichtbefolgung androhen. Sie kann auch Zwangsmittel gegen juristische Personen des öffentlichen Rechts anwenden. Die Höhe des Zwangsgelds beträgt bis zu 2 500 000 Euro.
 
@@ -925,17 +950,17 @@ Ein besonders begründeter Fall im Sinne des Satzes 4 kann darüber hinaus insbe
 
 ## Sechster Abschnitt Finanzierung gesonderter Aufgaben
 
-##### § 17a Finanzierung gesonderter Aufgaben
+###### § 17a Finanzierung gesonderter Aufgaben
 
 Die Bundesanstalt weist die in ihrem Verwaltungsbereich voraussichtlich zu erwartenden Einnahmen und zu leistenden Ausgaben für Aufgaben nach Abschnitt 16 des Wertpapierhandelsgesetzes und nach diesem Abschnitt in einem gesonderten Teil des Haushaltsplans einschließlich eines gesonderten Stellenplans aus. Die Summe der Einnahmen und Ausgaben der Prüfstelle sind in diesem Teil des Haushaltsplans zu berücksichtigen und ebenfalls gesondert auszuweisen. Dieser Teil des Haushaltsplans wird unter Berücksichtigung des nach § 342d Satz 2 des Handelsgesetzbuchs genehmigten Wirtschaftsplans der Prüfstelle vom Verwaltungsrat gesondert festgestellt. Die Kosten für die in Satz 1 genannten Aufgaben werden entsprechend gesondert erfasst und einem eigenen Buchungskreislauf zugeordnet. Im Übrigen sind § 12 Abs. 1, 3 bis 5 und § 13 Abs. 2 Satz 1 und 2 entsprechend anzuwenden.
 
-##### § 17b (weggefallen)
+###### § 17b (weggefallen)
 
-##### § 17c Gesonderte Erstattung bei gesonderten Prüfungen
+###### § 17c Gesonderte Erstattung bei gesonderten Prüfungen
 
 Die Kosten, die der Bundesanstalt durch die Wahrnehmung der Aufgaben nach § 108 Absatz 1 Satz 2 Nummer 1 des Wertpapierhandelsgesetzes entstehen, sind ihr von den Unternehmen im Sinne des § 106 des Wertpapierhandelsgesetzes gesondert zu erstatten und ihr auf Verlangen vorzuschießen. Eine gesonderte Erstattung von Kosten, die durch die Wahrnehmung der Aufgaben nach § 108 Absatz 1 Satz 2 Nummer 1 des Wertpapierhandelsgesetzes entstehen, findet nicht statt, wenn das Prüfungsergebnis der Bundesanstalt vom Prüfungsergebnis der Prüfstelle zu Gunsten des betroffenen Unternehmens abweicht. Zu den Kosten nach Satz 1 gehören auch die Kosten, mit denen die Bundesanstalt von der Prüfstelle im Rahmen ihrer Tätigkeit nach § 107 Absatz 4 des Wertpapierhandelsgesetzes oder von anderen Stellen, die im Rahmen solcher Maßnahmen für die Bundesanstalt tätig werden, belastet wird, sowie die Kosten für den Einsatz eigener Mitarbeiter. Das Bundesministerium wird ermächtigt, Einzelheiten der gesonderten Erstattung durch eine Rechtsverordnung zu bestimmen. Das Bundesministerium kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-##### § 17d Gesonderte Umlage
+###### § 17d Gesonderte Umlage
 
 (1) Soweit die nach § 17a Satz 4 gesondert erfassten Kosten und die Kosten, die zur Erfüllung der Aufgaben der Prüfstelle nach § 342b des Handelsgesetzbuchs erforderlich waren, nicht durch Gebühren, gesonderte Erstattung oder sonstige Einnahmen gedeckt werden, sind sie von der Bundesanstalt einschließlich der Fehlbeträge und der nicht eingegangenen Beträge des Vorjahres auf die zum Stichtag nach Satz 2 umlagepflichtigen Unternehmen nach einem geeigneten Verteilungsschlüssel unter Zugrundelegung ihrer inländischen Börsenumsätze anteilig umzulegen und nach den Vorschriften des Verwaltungs-Vollstreckungsgesetzes beizutreiben. Umlagepflichtige Unternehmen im Sinne des Satzes 1 sind Emittenten von zugelassenen Wertpapieren im Sinne des § 2 Absatz 1 des Wertpapierhandelsgesetzes, für die die Bundesrepublik Deutschland nach § 2 Absatz 13 des Wertpapierhandelsgesetzes der Herkunftsstaat ist; unberücksichtigt bleiben hierbei Anteile und Aktien an offenen Investmentvermögen im Sinne des § 1 Absatz 4 des Kapitalanlagegesetzbuchs. Für die Umlage können Mindest- und Höchstbeträge festgelegt werden. Im Hinblick auf die Umlage nach Satz 1 kann die Bundesanstalt Vorauszahlungen auf der Grundlage der Kosten festsetzen, die nach dem Haushaltsplan voraussichtlich für das Umlagejahr zu erwarten sind.
 
@@ -949,7 +974,7 @@ Die Kosten, die der Bundesanstalt durch die Wahrnehmung der Aufgaben nach § 108
 
 ## Siebenter Abschnitt Übergangs- und Schlussbestimmungen
 
-##### § 18 Übergangsbestimmungen
+###### § 18 Übergangsbestimmungen
 
 (1) Bei dem Bundesaufsichtsamt für das Kreditwesen, dem Bundesaufsichtsamt für das Versicherungswesen und dem Bundesaufsichtsamt für den Wertpapierhandel anhängige Verwaltungsverfahren werden ab dem 1. Mai 2002 von der Bundesanstalt fortgeführt. In anhängigen Gerichtsverfahren, in denen die Bundesrepublik Deutschland, vertreten durch den Präsidenten des jeweiligen Bundesaufsichtsamtes, Partei oder Beteiligte ist, ist die Bundesanstalt mit Inkrafttreten dieses Gesetzes Partei oder Beteiligte.
 
@@ -965,7 +990,7 @@ Die Kosten, die der Bundesanstalt durch die Wahrnehmung der Aufgaben nach § 108
 
 (7) Die am 9. Dezember 2011 im Amt befindlichen Mitglieder des Direktoriums verbleiben im Amt. Auf diese sind bis zu einer Berufung in ein öffentlich-rechtliches Amtsverhältnis die Vorschriften des § 9 in der vor dem 9. Dezember 2011 geltenden Fassung weiter anzuwenden. Weiterhin sind auf diese die Vorschriften der Anlage I des Bundesbesoldungsgesetzes in der vor dem 9. Dezember 2011 geltenden Fassung bis zur Übertragung eines anderen Amtes anzuwenden.
 
-##### § 18a Teilintegration der Bundesanstalt für Finanzmarktstabilisierung; Rechtsnachfolge; Verordnungsermächtigung
+###### § 18a Teilintegration der Bundesanstalt für Finanzmarktstabilisierung; Rechtsnachfolge; Verordnungsermächtigung
 
 (1) Die Bundesanstalt übernimmt zum 1. Januar 2018 alle Rechte und Pflichten, Verträge und sonstigen Rechtsverhältnisse der Bundesanstalt für Finanzmarktstabilisierung, soweit diese die auf die Bundesanstalt nach § 4 Absatz 1 Satz 5 oder nach anderen Bestimmungen zum 1. Januar 2018 übergegangenen Aufgaben betreffen, und tritt hinsichtlich der übergehenden Rechte und Pflichten in allen Verwaltungs- und Gerichtsverfahren, an denen die Bundesanstalt für Finanzmarktstabilisierung beteiligt ist, an deren Stelle. Die Regelungen der Absätze 2 bis 7 bleiben unberührt.
 
@@ -989,7 +1014,7 @@ Die Kosten, die der Bundesanstalt durch die Wahrnehmung der Aufgaben nach § 108
 
 (7) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung nähere Bestimmungen zu den Einzelheiten der Rechtsnachfolge zu erlassen.
 
-##### § 18b Übernahme der Beschäftigten des Deutsche Prüfstelle für Rechnungslegung DPR e. V.
+###### § 18b Übernahme der Beschäftigten des Deutsche Prüfstelle für Rechnungslegung DPR e. V.
 
 (1) Die Bundesanstalt tritt zum 1. Januar 2022 und nach Maßgabe der folgenden Absätze in die Rechte und Pflichten aus den Arbeitsverhältnissen ein, die zu diesem Zeitpunkt zwischen dem Deutsche Prüfstelle für Rechnungslegung DPR e. V. und den übergehenden Beschäftigten bestehen und bereits zum 1. Mai 2021 bestanden haben.
 
@@ -1027,7 +1052,7 @@ Nicht als übergehende Beschäftigte im Sinne des Absatzes 1 sowie des Satzes 1 
 
 (7) Die Bundesanstalt kann bis längstens 31. Dezember 2022 Büroräume in Berlin anmieten und einrichten.
 
-##### § 19 Überleitung/Übernahme von Beschäftigten
+###### § 19 Überleitung/Übernahme von Beschäftigten
 
 (1) Die Beamten der Bundesaufsichtsämter für das Kreditwesen, für das Versicherungswesen und für den Wertpapierhandel sind mit Wirkung zum 1. Mai 2002 Beamte der Bundesanstalt. § 130 Abs. 1 des Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 654) findet entsprechend Anwendung.
 
@@ -1035,7 +1060,7 @@ Nicht als übergehende Beschäftigte im Sinne des Absatzes 1 sowie des Satzes 1 
 
 (3) Die bei den in Absatz 1 genannten Bundesaufsichtsämtern beschäftigten Angestellten, Arbeiter und Auszubildenden sind mit Wirkung zum 1. Mai 2002 in den Dienst der Bundesanstalt übernommen. Die Bundesanstalt tritt unbeschadet des § 10 Abs. 1 in die Rechte und Pflichten aus den im Zeitpunkt der Übernahme bestehenden Arbeits- und Ausbildungsverhältnisse ein.
 
-##### § 20 Verteilung der Versorgungskosten
+###### § 20 Verteilung der Versorgungskosten
 
 (1) Die Bundesanstalt trägt die Versorgungsbezüge für die bei ihr zurückgelegten Dienstzeiten der übernommenen Beamten der Bundesaufsichtsämter für das Kreditwesen, für das Versicherungswesen und für den Wertpapierhandel.
 
@@ -1043,13 +1068,13 @@ Nicht als übergehende Beschäftigte im Sinne des Absatzes 1 sowie des Satzes 1 
 
 (3) Für die vorhandenen Versorgungsempfänger der Bundesaufsichtsämter für das Kreditwesen, für das Versicherungswesen und für den Wertpapierhandel werden die Versorgungsbezüge vom Bund getragen.
 
-##### § 21 Übergang von Rechten und Pflichten
+###### § 21 Übergang von Rechten und Pflichten
 
 (1) Rechte und Pflichten, die die Bundesaufsichtsämter für das Kreditwesen, für das Versicherungswesen und für den Wertpapierhandel mit Wirkung für und gegen die Bundesrepublik Deutschland begründet haben, gehen auf die Bundesanstalt über.
 
 (2) Das von den Bundesaufsichtsämtern zum Zeitpunkt der Errichtung der Bundesanstalt genutzte bewegliche Verwaltungsvermögen der Bundesrepublik Deutschland wird der Bundesanstalt zur unentgeltlichen Nutzung überlassen.
 
-##### § 22 Übergangsvorschriften zum Gesetz zur Stärkung der deutschen Finanzaufsicht
+###### § 22 Übergangsvorschriften zum Gesetz zur Stärkung der deutschen Finanzaufsicht
 
 (1) § 4c gilt nicht in Verwaltungsgerichtsverfahren, die vor dem 1. Januar 2013 anhängig geworden sind oder für die die Klagefrist vor diesem Tag begonnen hat, sowie nicht in Verfahren über Rechtsmittel gegen gerichtliche Entscheidungen, die vor dem 1. Januar 2013 bekannt gegeben oder verkündet oder von Amts wegen anstelle einer Verkündung zugestellt worden sind.
 
@@ -1057,7 +1082,7 @@ Nicht als übergehende Beschäftigte im Sinne des Absatzes 1 sowie des Satzes 1 
 
 (3) § 10a Absatz 1 ist erstmals anzuwenden auf die laufenden Dienstbezüge, die für einen nach dem 31. Dezember 2012 endenden Zahlungszeitraum gezahlt werden.
 
-##### § 23 Übergangsbestimmungen zur Umlageerhebung
+###### § 23 Übergangsbestimmungen zur Umlageerhebung
 
 (1) Die §§ 16 bis 16k und 16m bis 16q in der ab dem 1. Januar 2013 geltenden Fassung sind erstmals auf die Umlageerhebung für das Umlagejahr 2013 anzuwenden. Auf die Erhebung der Vorauszahlung für das Umlagejahr 2013, auf die Umlageerhebung für das Umlagejahr 2012 und die Abrechnung früherer Umlagejahre sind § 16, die auf der Grundlage des § 16 Absatz 2 erlassene Rechtsverordnung sowie die §§ 5, 6, 8 und 13 der Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz und § 8a Absatz 6 und § 8b Absatz 2 Satz 1 des Stabilisierungsfondsgesetzes jeweils in der bis zum 31. Dezember 2012 geltenden Fassung weiter anzuwenden.
 
@@ -1111,13 +1136,13 @@ b) den im Anhang des Beschlusses der Europäischen Zentralbank aufgeführten deu
 
 (14) § 16e Absatz 1 und § 16f Absatz 1 in der ab dem 10. November 2021 geltenden Fassung sind erstmals auf die Umlageabrechnung 2021 und die Umlagevorauszahlung 2022 anzuwenden.
 
-(15) § 16e Absatz 1 und 4, § 16f Absatz 2 Satz 1 Nummer 1 und Absatz 4 Satz 2 sowie § 16g Absatz 1 Nummer 1 Buchstabe d sind erstmals auf das Umlagejahr 2024 anzuwenden.
+(15) § 16e Absatz 1 und 4, § 16f Absatz 2 Satz 1 Nummer 1 und Absatz 4 Satz 2 sowie § 16g Absatz 1 Nummer 1 Buchstabe d in der ab dem 30. Dezember 2023 geltenden Fassung sind erstmals auf das Umlagejahr 2024 anzuwenden.
 
 (16) § 16e Absatz 1 und 4, § 16f Absatz 2 Satz 1 Nummer 1 Buchstabe c und die §§ 16g, 16h, 16j, 16k und 16l sind in der ab dem 1. Juli 2024 geltenden Fassung erstmals auf das Umlagejahr 2024 anzuwenden.
 
 (17) Die §§ 16e bis 16g in der ab dem 31. März 2026 geltenden Fassung sind erstmals für die Umlageabrechnung 2025 anzuwenden. Fehlbeträge, nicht eingegangene Beträge und Überschüsse der Vorjahre, die nach § 16c Absatz 1 der für das Umlagejahr 2024 geltenden Fassung den Kosten der Gruppe der Schwarmfinanzierungsdienstleister in dem Umlagejahren 2025 oder später zuzuordnen gewesen wären, sind bei den Umlageabrechnungen ab dem Umlagejahr 2025 der Gruppe Kredit- und Finanzdienstleistungsinstitute im Aufgabenbereich Banken und sonstige Finanzdienstleistungen zuzuordnen.
 
-##### § 24 Übergangsbestimmungen zu Kosten, Haushalt und Umlageerhebung für den Aufgabenbereich Bilanzkontrolle
+###### § 24 Übergangsbestimmungen zu Kosten, Haushalt und Umlageerhebung für den Aufgabenbereich Bilanzkontrolle
 
 (1) § 17a und § 17d sowie die Vorschriften der Bilanzkontrollkosten-Umlageverordnung sind letztmals auf die Umlageerhebung und Haushaltsführung für das Umlagejahr 2021 anzuwenden. § 17c ist letztmals für im Jahr 2021 entstandene Kosten von Prüfungen anzuwenden.
 
@@ -1134,4 +1159,3 @@ b) den im Anhang des Beschlusses der Europäischen Zentralbank aufgeführten deu
 (7) Die §§ 16 bis 16m und 16o bis 16s in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf das Umlagejahr 2022 anzuwenden. Fehlbeträge, nicht eingegangene Beträge und Überschüsse, die nach dem 31. Dezember 2021 entstehen und die den Aufgaben nach § 17a Satz 1 in Verbindung mit § 17d Absatz 1 Satz 1 in der für das Umlagejahr 2021 geltenden Fassung zuzuordnen gewesen wären und noch keine Berücksichtigung nach § 8 Absatz 2 der Bilanzkontrollkosten-Umlageverordnung gefunden haben, gelten als Fehlbeträge, nicht eingegangene Beträge und Überschüsse im Sinne von § 16c Absatz 1 in der ab dem 1. Juli 2021 geltenden Fassung. Sie sind dem Aufgabenbereich Bilanzkontrolle der Bundesanstalt zuzuordnen.
 
 (8) § 16n in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf die Erhebung der Vorauszahlung für das Jahr 2024 anzuwenden. Für die Vorauszahlungen der Umlagejahre 2022 und 2023 ist § 16n in der ab dem 1. Juli 2021 geltenden Fassung mit der Maßgabe anzuwenden, dass in die Verteilungsverhältnisse im Sinne des § 16n Absatz 3 Satz 2 der Teil des jeweils zuletzt nach § 17d in Verbindung mit den insofern einschlägigen Vorschriften der Bilanzkontrollkosten-Umlageverordnung abgerechneten Umlagejahres einzubeziehen ist. Vorauszahlungspflichtig im Aufgabenbereich Bilanzkontrolle für die Umlagejahre 2022 und 2023 ist, wer im letzten abgerechneten Jahr umlagepflichtig im Sinne des § 17d Absatz 1 Satz 2 war und im Jahr der Festsetzung der Vorauszahlung entweder umlagepflichtig im Sinne des § 17d Absatz 1 Satz 2 oder im Aufgabenbereich Bilanzkontrolle ist.
-
