@@ -4,22 +4,27 @@ identifier: "REIFKENNZV-2021"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2021-07-05"
-last_updated: "2026-04-04"
+last_updated: "2026-10-14"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/reifkennzv_2021/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR243910021"
 slug: "reifkennzv_2021"
 bgbl_reference: "BGBl I 2021, 2439"
 amtabk: "ReifKennzV"
+stand: "Geändert durch Art. 4 V v. 8.10.2026 I Nr. 292"
 ---
 # Verordnung zur Durchführung der Verordnung (EU) 2020/740 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere Parameter
 
-##### § 1 Anwendungsbereich
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Anwendungsbereich
 
 Diese Verordnung dient der Durchführung der Verordnung (EU) 2020/740 des Europäischen Parlaments und des Rates vom 25. Mai 2020 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere Parameter, zur Änderung der Verordnung (EU) 2017/1369 und zur Aufhebung der Verordnung (EG) 1222/2009 (ABl. L 177 vom 5.6.2020, S. 1; L 241 vom 27.7.2020, S. 46).
 
-##### § 2 Ordnungswidrigkeiten
+###### § 2 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 5 des Energieverbrauchskennzeichnungsgesetzes handelt, wer gegen die Verordnung (EU) 2020/740 des Europäischen Parlaments und des Rates vom 25. Mai 2020 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere Parameter, zur Änderung der Verordnung (EU) 2017/1369 und zur Aufhebung der Verordnung (EG) Nr. 1222/2009 (ABl. L 177 vom 5.6.2020, S. 1; L 241 vom 27.7.2020, S. 46) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -44,4 +49,3 @@ Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 5 des Energieverbrauchskennzei
 10. entgegen Artikel 6 Absatz 4 nicht sicherstellt, dass der Endnutzer eine dort genannte Kopie erhält, oder
 
 11. entgegen Artikel 7 eine Reifenkennzeichnung oder technisches Werbematerial nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
-
