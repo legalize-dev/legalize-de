@@ -1,14 +1,13 @@
 ---
-title: "Verordnung über das Berufsbild und über die Prüfungsanforderungen im
-praktischen und im fachtheoretischen Teil der Meisterprüfung für das
-Drucker-(Buchdrucker-)Handwerk"
+title: "Verordnung über das Berufsbild und über die Prüfungsanforderungen im\npraktischen und im fachtheoretischen Teil der Meisterprüfung für das\nDrucker-(Buchdrucker-)Handwerk"
 identifier: "DRUCKMSTRV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "1984-08-16"
-last_updated: "2026-04-04"
+last_updated: "2026-10-14"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/druckmstrv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR011480984"
 slug: "druckmstrv"
@@ -19,13 +18,16 @@ stand: "Geändert durch Art. 2 Abs. 4 V v. 18.1.2022 I 39"
 praktischen und im fachtheoretischen Teil der Meisterprüfung für das
 Drucker-(Buchdrucker-)Handwerk
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
 ## 1. Abschnitt Berufsbild
 
-##### § 1 Berufsbild
+###### § 1 Berufsbild
 
 (1) Dem Drucker-(Buchdrucker-)Handwerk sind folgende Tätigkeiten zuzurechnen: 
 Herstellung von Druck-Erzeugnissen, insbesondere Anfertigung von Druckformen und Drucken sowie Weiterverarbeitung von Drucken, in handwerksüblichen Verfahren.
@@ -179,7 +181,7 @@ d) Kenntnisse über Arbeitsplatzgestaltung.
 ## 2. Abschnitt Prüfungsanforderungen in den Teilen
 I und II der Meisterprüfung
 
-##### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+###### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
@@ -187,7 +189,7 @@ I und II der Meisterprüfung
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
-##### § 3 Meisterprüfungsarbeit
+###### § 3 Meisterprüfungsarbeit
 
 (1) Als Meisterprüfungsarbeit kommt insbesondere nachstehende Arbeit in Betracht: 
 Anfertigen eines Druck-Erzeugnisses im Format DIN A2, bestehend aus vier Seiten DIN A4 Text und Bilder, davon zwei Seiten mehrfarbig und zwei Seiten einfarbig.
@@ -195,7 +197,7 @@ Anfertigen eines Druck-Erzeugnisses im Format DIN A2, bestehend aus vier Seiten 
 (2) Mit der Meisterprüfungsarbeit sind abzuliefern: 
 15 Fortdruckbogen von jeder Farbe, 15 Fortdruckbogen vom Zusammendruck, Andruckskala, Standbogen und, soweit erforderlich, Platten oder Montagen.
 
-##### § 4 Arbeitsprobe
+###### § 4 Arbeitsprobe
 
 (1) Als Arbeitsprobe sind drei der nachstehenden Arbeiten, davon in jedem Fall die nach den Nummern 1 und 2, auszuführen:
 
@@ -209,7 +211,7 @@ Anfertigen eines Druck-Erzeugnisses im Format DIN A2, bestehend aus vier Seiten 
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
-##### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+###### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
@@ -285,25 +287,28 @@ b) Korrekturlesen einschließlich Angabe der Korrekturzeichen nach DIN 16511;
 
 ## 3. Abschnitt Übergangs- und Schlußvorschriften
 
-##### § 6
+###### § 6
 
 -
 
-##### § 7 Weitere Anforderungen
+###### § 7 Weitere Anforderungen
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
-##### § 8 (weggefallen)
+###### § 8 (weggefallen)
 
-##### § 9 Inkrafttreten
+###### § 8a Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
+
+###### § 9 Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. Januar 1985 in Kraft.
 
 (2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.
 
-##### Schlußformel
+###### Schlußformel
 
 *Der Bundesminister für Wirtschaft*
-
