@@ -1,14 +1,13 @@
 ---
-title: "Verordnung über das Berufsbild und über die Prüfungsanforderungen im
-praktischen und im fachtheoretischen Teil der Meisterprüfung für das
-Schriftsetzer-(Buchdrucker-)Handwerk"
+title: "Verordnung über das Berufsbild und über die Prüfungsanforderungen im\npraktischen und im fachtheoretischen Teil der Meisterprüfung für das\nSchriftsetzer-(Buchdrucker-)Handwerk"
 identifier: "SCHRISEMSTRV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "1995-06-13"
-last_updated: "2026-04-04"
+last_updated: "2026-10-14"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/schrisemstrv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR079900995"
 slug: "schrisemstrv"
@@ -19,13 +18,16 @@ stand: "Geändert durch Art. 2 Abs. 20 V v. 18.1.2022 I 39"
 praktischen und im fachtheoretischen Teil der Meisterprüfung für das
 Schriftsetzer-(Buchdrucker-)Handwerk
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S.1), der zuletzt durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
 ## 1. Abschnitt Berufsbild
 
-##### § 1 Berufsbild
+###### § 1 Berufsbild
 
 (1) Dem Schriftsetzer-(Buchdrucker-)Handwerk sind folgende Tätigkeiten zuzurechnen: 
 Entwurf, Gestaltung, Herstellung und Korrektur von Vorlagen, Satz und Formen für Druckerzeugnisse.
@@ -195,7 +197,7 @@ c) Kenntnisse über Arbeitsplatzgestaltung.
 ## 2. Abschnitt Prüfungsanforderungen in den Teilen I und II der
 Meisterprüfung
 
-##### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+###### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
@@ -203,7 +205,7 @@ Meisterprüfung
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
-##### § 3 Meisterprüfungsarbeit
+###### § 3 Meisterprüfungsarbeit
 
 (1) Als Meisterprüfungsarbeit sind zwei der nachstehend genannten Arbeiten, davon in jedem Fall die nach Nummer 1, anzufertigen:
 
@@ -217,7 +219,7 @@ Meisterprüfung
 
 (3) Die Entwurfsskizzen sind bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.
 
-##### § 4 Arbeitsprobe
+###### § 4 Arbeitsprobe
 
 (1) Als Arbeitsprobe sind zwei der nachstehend genannten Arbeiten auszuführen:
 
@@ -229,7 +231,7 @@ Meisterprüfung
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
-##### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+###### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
@@ -289,19 +291,22 @@ m) berufsbezogene Vorschriften der Arbeitssicherheit und des Arbeitsschutzes;
 
 ## 3. Abschnitt Übergangs- und Schlußvorschriften
 
-##### § 6 Übergangsvorschrift
+###### § 6 Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
-##### § 7 Weitere Anforderungen
+###### § 7 Weitere Anforderungen
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
-##### § 8 Inkrafttreten
+###### § 7a Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
+
+###### § 8 Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. Oktober 1995 in Kraft.
 
 (2) Die aufgrund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.
-
