@@ -4,20 +4,24 @@ identifier: "BINSCHG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1956-02-15"
-last_updated: "2026-04-04"
+last_updated: "2026-10-14"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/binschg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR203170956"
 slug: "binschg"
 bgbl_reference: "BGBl II 1956, 317"
 amtabk: "BinSchAufgG"
 stand: "Geändert durch Art. 14 G v. 22.12.2023 I Nr. 409"
-neufassung: "Neugefasst durch Bek. v. 20.3.2023 I Nr. 82, Nr. 126;"
+neufassung: "Neugefasst durch Bek. v. 20.3.2023 I Nr. 82; 2023 I Nr. 126;"
 ---
 # Gesetz über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt
 
-##### § 1 Aufgaben des Bundes, Zuständigkeiten
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Aufgaben des Bundes, Zuständigkeiten
 
 (1) Dem Bund obliegen auf dem Gebiet der Binnenschifffahrt, soweit nicht in diesem Gesetz oder auf Grund dieses Gesetzes etwas anderes bestimmt ist,
 
@@ -37,7 +41,7 @@ neufassung: "Neugefasst durch Bek. v. 20.3.2023 I Nr. 82, Nr. 126;"
 
 (2) Zuständig für die Verwaltungsaufgaben, die dem Bund obliegen, sind die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, soweit nicht in diesem Gesetz oder auf Grund dieses Gesetzes etwas anderes bestimmt ist. Sie können im Rahmen des Absatzes 1 Nummer 2 und 5 nach pflichtgemäßem Ermessen die notwendigen Maßnahmen zur Abwehr von Gefahren und schädlichen Umwelteinwirkungen sowie zur Beseitigung von Störungen auf den Bundeswasserstraßen treffen. Die in Rechtsverordnungen nach § 3 Absatz 1 Nummer 4 für die funktechnische Sicherheit betreffende Aufgaben als zuständig bestimmte Behörde bedient sich der Hilfe der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur).
 
-##### § 2 Erlaubnis zur Fahrt
+###### § 2 Erlaubnis zur Fahrt
 
 (1) Das Befahren der Bundeswasserstraßen ist erlaubnispflichtig, wenn das Wasserfahrzeug
 
@@ -69,7 +73,7 @@ unmittelbar oder mittelbar über die willensbestimmende Mehrheit der Anteile, de
 
 (4) Die Erlaubnispflicht wird durch rechtsgeschäftliche, firmenrechtliche oder andere Gestaltungen oder Scheintatbestände, die zur Umgehung geeignet sind, nicht berührt.
 
-##### § 3 Rechtsverordnungen
+###### § 3 Rechtsverordnungen
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, im Rahmen des § 1 Absatz 1 Nummer 1 bis 5 oder 7 Rechtsverordnungen zu erlassen über
 
@@ -167,7 +171,7 @@ a) Wasserfahrzeuge, Schwimmkörper und schwimmende Anlagen der Bundeswehr,
 
 b) überwachungsbedürftige Anlagen im Sinne des § 2 Nummer 30 des Produktsicherheitsgesetzes; die Ermächtigung erstreckt sich jedoch auf die Arten von Druckbehältern und Druckgasbehältern, für die eine Verordnung für solche Anlagen nicht erlassen ist.
 
-##### § 3a Übertragung von und Beleihung mit Aufgaben
+###### § 3a Übertragung von und Beleihung mit Aufgaben
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung juristische Personen des privaten Rechts mit der Untersuchung von Sportfahrzeugen, ihrer technischen Zulassung zum Verkehr, der Zuteilung von Kennzeichen und Identitätsnachweisen, ihrer Registrierung sowie mit der Abnahme von Prüfungen und der Erteilung von Befähigungsnachweisen für die Führung von Sportfahrzeugen zu beauftragen. Die juristischen Personen müssen einwilligen und nach Satzung und Verhalten hinreichend Gewähr für die Erfüllung der Aufgaben bieten. Im Rahmen des Auftrags unterstehen die juristischen Personen der Fachaufsicht des Bundesministeriums für Digitales und Verkehr.
 
@@ -183,21 +187,21 @@ b) überwachungsbedürftige Anlagen im Sinne des § 2 Nummer 30 des Produktsiche
 
 Absatz 1 Satz 2 gilt entsprechend.
 
-##### § 3b Binnenlotsen
+###### § 3b Binnenlotsen
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung im Benehmen mit den beteiligten Ländern und nach Anhörung der beteiligten Verbände der Binnenschifffahrt sowie von Vertretern der beteiligten Lotsen die Entgelte für die Leistungen der Binnenlotsen in angemessener Höhe festzusetzen.
 
 (2) Soweit und solange eine Festsetzung der Lotsentgelte nach Absatz 1 in Kraft ist, dürfen andere als die festgesetzten Entgelte weder versprochen, noch gefordert, noch angenommen werden.
 
-##### § 3c Angleichung der Wettbewerbsbedingungen
+###### § 3c Angleichung der Wettbewerbsbedingungen
 
 Mit dem Ziel bester Verkehrsbedienung hat die Bundesregierung darauf hinzuwirken, dass die Wettbewerbsbedingungen der Verkehrsträger angeglichen werden und dass durch einen lauteren Wettbewerb der Verkehrsträger eine volkswirtschaftlich sinnvolle Aufgabenteilung ermöglicht wird.
 
-##### § 3d Berufszulassung von Unternehmern
+###### § 3d Berufszulassung von Unternehmern
 
 Das Bundesministerium für Digitales und Verkehr kann zur Umsetzung der Richtlinie 87/540/EWG des Rates vom 9. November 1987 über den Zugang zum Beruf des Unternehmers im innerstaatlichen und grenzüberschreitenden Binnenschiffsgüterverkehr und über die gegenseitige Anerkennung der Diplome, Prüfungszeugnisse und sonstigen Befähigungsnachweise für diesen Beruf (ABl. EG 1987 Nr. L 322 S. 20) durch Verordnung ohne Zustimmung des Bundesrates die erforderlichen Vorschriften erlassen. Hierbei kann es auch bestimmen, welche über den Bereich eines Landes hinausgehenden staatlichen Aufgaben der Binnenschifffahrt von der Generaldirektion Wasserstraßen und Schifffahrt wahrgenommen werden.
 
-##### § 3e Übertragungsermächtigung
+###### § 3e Übertragungsermächtigung
 
 (1) Die Ermächtigungen nach § 3 Absatz 1, auch in Verbindung mit Absatz 2 und 6, und Absatz 4, auch in Verbindung mit Absatz 6, und § 3b Absatz 1 können durch Rechtsverordnung auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen werden. § 3 Absatz 3 und 7 gilt für Rechtsverordnungen der Generaldirektion Wasserstraßen und Schifffahrt entsprechend. Zum Erlass der Rechtsverordnung nach Satz 1 werden ermächtigt
 
@@ -207,7 +211,7 @@ Das Bundesministerium für Digitales und Verkehr kann zur Umsetzung der Richtlin
 
 (2) Beteiligungspflichten in Form des Benehmens oder der Anhörung, die in einer übertragbaren Ermächtigung vorgesehen sind, gehen mit deren Übertragung auf die Generaldirektion Wasserstraßen und Schifffahrt über, soweit die übertragende Rechtsverordnung nichts anderes bestimmt.
 
-##### § 4 Zulassung von Ärzten
+###### § 4 Zulassung von Ärzten
 
 (1) Soweit durch Rechtsvorschrift die Untersuchung und Feststellung der medizinischen Tauglichkeit durch einen zugelassenen Arzt vorgeschrieben ist, ist der Arzt durch die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation (Berufsgenossenschaft) hierfür zuzulassen, wenn er
 
@@ -227,7 +231,7 @@ erwirkt hat. Die Zulassung ist zu widerrufen, wenn der Arzt nicht mehr über die
 
 (4) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung nähere Einzelheiten zu den Voraussetzungen und dem Verfahren der Zulassung von Ärzten zur Untersuchung und Feststellung der medizinischen Tauglichkeit zu regeln.
 
-##### § 4a Überwachung von Ärzten
+###### § 4a Überwachung von Ärzten
 
 (1) Ein zugelassener Arzt unterliegt der Überwachung durch die Berufsgenossenschaft. Die Ärzte der Berufsgenossenschaft und deren berufsmäßig tätige Gehilfen können hierfür
 
@@ -243,11 +247,11 @@ erwirkt hat. Die Zulassung ist zu widerrufen, wenn der Arzt nicht mehr über die
 
 (4) Die Berufsgenossenschaft kann die Überwachung von fachkundigen Dritten durchführen lassen. Die Absätze 1 und 2 sind entsprechend anzuwenden.
 
-##### § 5 Hamburger Hafen
+###### § 5 Hamburger Hafen
 
 Auf den im Bereich des Hamburger Hafens liegenden Teilen der Bundeswasserstraße Elbe ist der Bund im Rahmen des § 1 Absatz 1 Nummer 2, 4 und 5 nicht für Maßnahmen zuständig, die das Verhalten im Verkehr betreffen. Seine Maßnahmen erstrecken sich im Übrigen nicht auf Wasserfahrzeuge, Schwimmkörper und schwimmende Anlagen, die ausschließlich zur Verwendung im Hamburger Hafen bestimmt sind, auf die Führung und Besetzung solcher Fahrzeuge sowie auf Hafenlotsen.
 
-##### § 6 Überwachungsbefugnis
+###### § 6 Überwachungsbefugnis
 
 (1) Zur Durchführung der Aufgaben nach § 1 Absatz 1 können die damit betrauten Personen Wasserfahrzeuge, Schwimmkörper und schwimmende Anlagen und deren Betriebs- und Geschäftsräume sowie die zur Herstellung von Wasserfahrzeugen und Schwimmkörpern sowie von Anlagen, Ausrüstungsgegenständen, Bauteilen, Instrumenten und Geräten für den Schiffsbetrieb dienenden Betriebs- und Geschäftsräume betreten und Prüfungen vornehmen. Außerhalb der Betriebs- und Geschäftszeiten und hinsichtlich der Räume, die zugleich Wohnzwecken dienen, dürfen diese Befugnisse nur zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung ausgeübt werden; insoweit wird das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) eingeschränkt.
 
@@ -257,7 +261,7 @@ Auf den im Bereich des Hamburger Hafens liegenden Teilen der Bundeswasserstraße
 
 (3) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-##### § 6a Überwachungsbefugnis im Rahmen von Binnenschifffahrtsabkommen
+###### § 6a Überwachungsbefugnis im Rahmen von Binnenschifffahrtsabkommen
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt überwacht die Einhaltung der auf Grund der Einführungsgesetze zu den bilateralen Binnenschifffahrtsabkommen durch Rechtsverordnung festgesetzten Mindest-/Höchstfrachten und der Nebenbedingungen für den Wechselverkehr.
 
@@ -273,11 +277,11 @@ Auf den im Bereich des Hamburger Hafens liegenden Teilen der Bundeswasserstraße
 
 (3) Die in Absatz 2 Nummer 1 genannten und die in deren Geschäftsbereich tätigen Personen haben der Generaldirektion Wasserstraßen und Schifffahrt oder ihren Beauftragten bei der Durchführung der Überwachungsmaßnahmen die erforderlichen Hilfsmittel zu stellen und die nötigen Hilfsdienste zu leisten.
 
-##### § 6b Verwaltungszwang
+###### § 6b Verwaltungszwang
 
 Die Generaldirektion Wasserstraßen und Schifffahrt kann die Durchführung der im Rahmen ihrer Überwachungsaufgaben nach § 6a erforderlichen Verwaltungsmaßnahmen nach den für die Durchsetzung von Verwaltungsmaßnahmen allgemein geltenden Bestimmungen erzwingen.
 
-##### § 7 Bußgeldvorschriften
+###### § 7 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Rechtsverordnung nach den §§ 3 und 3d oder einer auf Grund einer solchen Rechtsverordnung ergangenen vollziehbaren Anordnung, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, zuwiderhandelt.
 
@@ -295,7 +299,7 @@ Die Generaldirektion Wasserstraßen und Schifffahrt kann die Durchführung der i
 
 (5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
-##### § 8 Verarbeitung von Daten im Binnenschiffsverkehr
+###### § 8 Verarbeitung von Daten im Binnenschiffsverkehr
 
 (1) Die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes dürfen, soweit dies zum Betrieb von Binnenschifffahrtsinformationsdiensten, insbesondere für Verkehrsinformationen und zum Verkehrsmanagement, erforderlich ist, folgende Daten verarbeiten:
 
@@ -417,7 +421,7 @@ durch die zuständigen Organe und Einrichtungen der Europäischen Union, über- 
 
 (13) Die Absätze 1 bis 12 sind nicht auf Seeschifffahrtsstraßen anzuwenden.
 
-##### § 9 Binnenschiffsbestandsdatei
+###### § 9 Binnenschiffsbestandsdatei
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine zentrale Binnenschiffsbestandsdatei über Wasserfahrzeuge einschließlich Schwimmkörper und schwimmender Anlagen sowie über deren Eigentümer und Ausrüster
 
@@ -497,7 +501,7 @@ in automatisierter Form an die Europäische Kommission zur Einstellung in die do
 
 (8) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind zu löschen, soweit sie für die Aufgaben nach Absatz 1 nicht mehr erforderlich sind, spätestens jedoch fünf Jahre, nachdem das Wasserfahrzeug entweder untergegangen und als endgültig verloren anzusehen oder nachdem es ausbesserungsunfähig geworden ist.
 
-##### § 10 Amtliche Mitteilung
+###### § 10 Amtliche Mitteilung
 
 Die Amtsgerichte, bei denen ein Binnenschiffsregister geführt wird, teilen Tatsachen, die
 
@@ -507,7 +511,7 @@ Die Amtsgerichte, bei denen ein Binnenschiffsregister geführt wird, teilen Tats
 
 der Datei führenden Stelle nach § 9 Absatz 1 mit.
 
-##### § 11 Ordnungswidrigkeitendatei
+###### § 11 Ordnungswidrigkeitendatei
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine Datei über die von ihr verfolgten Ordnungswidrigkeiten in der Schifffahrt zur
 
@@ -579,7 +583,7 @@ Die Übermittlung ist nur zulässig, wenn die betroffene Person kein überwiegen
 
 (8) Bis zur Errichtung der Datei nach Absatz 1 dürfen die Daten nach Absatz 2 von der Generaldirektion Wasserstraßen und Schifffahrt erhoben und in den bestehenden regionalen Dateien gespeichert und genutzt werden.
 
-##### § 12 Verzeichnis über Kleinfahrzeuge
+###### § 12 Verzeichnis über Kleinfahrzeuge
 
 (1) Jedes Wasserstraßen- und Schifffahrtsamt führt ein Verzeichnis über Wasserfahrzeuge mit einer Länge von weniger als 20 Meter (Kleinfahrzeuge), für die von ihm ein Kennzeichen zugeteilt wurde, zur
 
@@ -639,7 +643,7 @@ Die Übermittlung ist nur zulässig, wenn die betroffene Person kein überwiegen
 
 (8) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind zu löschen, soweit sie für die Aufgaben nach Absatz 1 nicht mehr erforderlich sind, spätestens jedoch zwei Jahre, nachdem das Kleinfahrzeug abgemeldet worden ist.
 
-##### § 13 Datei über Befähigungsnachweise und Schifferdienstbücher
+###### § 13 Datei über Befähigungsnachweise und Schifferdienstbücher
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine Datei
 
@@ -709,11 +713,10 @@ Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verwendet
 
 3. wenn das letzte Befähigungszeugnis oder der letzte sonstige Befähigungsnachweis eines Inhabers seit mehr als fünf Jahren nicht mehr gültig ist und kein Entzug oder keine Aussetzung eines weiteren Befähigungszeugnisses oder eines weiteren sonstigen Befähigungsnachweises angeordnet wurde oder – im Fall von Sportbootführerscheinen – beim Tod des Inhabers.
 
-##### § 14 Erlass von Rechtsverordnungen
+###### § 14 Erlass von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz bedürfen nicht der Zustimmung des Bundesrates.
 
-##### § 15 Überleitung des Verzeichnisses für Sportbootführerscheine
+###### § 15 Überleitung des Verzeichnisses für Sportbootführerscheine
 
 Die nach § 3a Absatz 1 Beliehenen haben in einem mit der Generaldirektion Wasserstraßen und Schifffahrt abgestimmten Dateiformat das gesamte von ihnen verwaltete gemeinsame Verzeichnis der Inhaber einer Fahrererlaubnis für die Sportschifffahrt mit dem Geltungsbereich Binnenschifffahrtsstraßen bis zum 31. Dezember 2023 an die Generaldirektion Wasserstraßen und Schifffahrt zu übermitteln. Nach vollständiger Übertragung ist das gemeinsame Verzeichnis der Inhaber einer Fahrerlaubnis von den nach § 3a Absatz 1 Beliehenen unverzüglich zu löschen. Die Generaldirektion Wasserstraßen und Schifffahrt ist befugt, die nach Satz 1 übermittelten Daten zu erheben und in der Datei nach § 13 dieses Gesetzes oder nach § 9g des Seeaufgabengesetzes zu speichern und zu den in § 13 dieses Gesetzes oder § 9g des Seeaufgabengesetzes genannten Zwecken zu verwenden.
-
