@@ -1,14 +1,13 @@
 ---
-title: "Verordnung über das Berufsbild und über die Prüfungsanforderungen im
-praktischen und im fachtheoretischen Teil der Meisterprüfung für das
-Flexografen-Handwerk"
+title: "Verordnung über das Berufsbild und über die Prüfungsanforderungen im\npraktischen und im fachtheoretischen Teil der Meisterprüfung für das\nFlexografen-Handwerk"
 identifier: "FLEXMSTRV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "1994-08-01"
-last_updated: "2026-04-04"
+last_updated: "2026-10-15"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/flexmstrv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR201400994"
 slug: "flexmstrv"
@@ -19,13 +18,16 @@ stand: "Geändert durch Art. 2 Abs. 16 V v. 18.1.2022 I 39"
 praktischen und im fachtheoretischen Teil der Meisterprüfung für das
 Flexografen-Handwerk
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Wissenschaft:
 
 ## 1. Abschnitt Berufsbild
 
-##### § 1 Berufsbild
+###### § 1 Berufsbild
 
 (1) Dem Flexografen-Handwerk sind folgende Tätigkeiten zuzurechnen:
 
@@ -96,7 +98,7 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 ## 2. Abschnitt Prüfungsanforderungen in den Teilen
 I und II der Meisterprüfung
 
-##### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+###### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
@@ -104,7 +106,7 @@ I und II der Meisterprüfung
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
-##### § 3 Meisterprüfungsarbeit
+###### § 3 Meisterprüfungsarbeit
 
 (1) Als Meisterprüfungsarbeit sind vier der nachstehend genannten Arbeiten, davon in jedem Falle die nach Nummer 1 und eine weitere in freier Gestaltung, auszuführen:
 
@@ -126,7 +128,7 @@ I und II der Meisterprüfung
 
 (3) Die Entwurfsskizzen, die Prägeformabzüge, die Ab- und Nachformungen, die Negativfilme und Auswaschplatten sind bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.
 
-##### § 4 Arbeitsprobe
+###### § 4 Arbeitsprobe
 
 (1) Als Arbeitsprobe sind vier der nachstehend genannten Arbeiten auszuführen:
 
@@ -144,7 +146,7 @@ I und II der Meisterprüfung
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
-##### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+###### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
@@ -204,19 +206,22 @@ c) Stempel, Stempelwaren und Stempelzubehör;
 
 ## 3. Abschnitt Übergangs- und Schlußvorschriften
 
-##### § 6 Übergangsvorschrift
+###### § 6 Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
-##### § 7 Weitere Anforderungen
+###### § 7 Weitere Anforderungen
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung.
 
-##### § 8 Inkrafttreten
+###### § 7a Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
+
+###### § 8 Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. September 1994 in Kraft.
 
 (2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.
-
