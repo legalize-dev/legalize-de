@@ -4,19 +4,24 @@ identifier: "UVPG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1990-02-12"
-last_updated: "2026-04-04"
+last_updated: "2026-10-20"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/uvpg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR102050990"
 slug: "uvpg"
 bgbl_reference: "BGBl I 1990, 205"
 stand: "zuletzt geändert durch Art. 4 G v. 22.12.2025 I Nr. 348"
 neufassung: "Neugefasst durch Bek. v. 18.3.2021 I 540"
+hinweis: "Änderung durch Art. 5 G v. 13.10.2026 I Nr. 304 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Gesetz über die Umweltverträglichkeitsprüfung
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 Teil 1
 
@@ -32,7 +37,7 @@ Abschnitt 1
 Voraussetzungen
  für eine Umweltverträglichkeitsprüfung
 
-§  4Umweltverträglichkeitsprüfung§  5Feststellung der UVP-Pflicht§  6Unbedingte UVP-Pflicht bei Neuvorhaben§  7Vorprüfung bei Neuvorhaben§  8UVP-Pflicht bei Störfallrisiko§  9UVP-Pflicht bei Änderungsvorhaben§ 10UVP-Pflicht bei kumulierenden Vorhaben§ 11UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das Zulassungsverfahren für das frühere Vorhaben abgeschlossen ist§ 12UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das frühere Vorhaben noch im Zulassungsverfahren ist§ 13Ausnahme von der UVP-Pflicht bei kumulierenden Vorhaben§ 14Entwicklungs- und Erprobungsvorhaben§ 14aBesondere Änderungen zur Modernisierung und Digitalisierung von Schienenwegen§ 14bAnwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577§ 14cErsatzneubauten mit baulicher Erweiterung im Vorgriff auf einen späteren Ausbau§ 14dBau von Radwegen an BundesstraßenAbschnitt 2
+§  4Umweltverträglichkeitsprüfung§  5Feststellung der UVP-Pflicht§  6Unbedingte UVP-Pflicht bei Neuvorhaben§  7Vorprüfung bei Neuvorhaben§  8UVP-Pflicht bei Störfallrisiko§  9UVP-Pflicht bei Änderungsvorhaben§ 10UVP-Pflicht bei kumulierenden Vorhaben§ 11UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das Zulassungsverfahren für das frühere Vorhaben abgeschlossen ist§ 12UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das frühere Vorhaben noch im Zulassungsverfahren ist§ 13Ausnahme von der UVP-Pflicht bei kumulierenden Vorhaben§ 14Entwicklungs- und Erprobungsvorhaben§ 14aBesondere Änderungen zur Modernisierung und Digitalisierung von Schienenwegen§ 14bAnwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577§ 14cErsatzneubauten mit baulicher Erweiterung im Vorgriff auf einen späteren Ausbau§ 14dBau von Radwegen an Bundesstraßen§ 14eAusnahmen von der Umweltverträglichkeitsprüfung für Verteidigung sowie für Verkehrs- und EnergieinfrastrukturAbschnitt 2
 
 Verfahrensschritte
  der Umweltverträglichkeitsprüfung
@@ -91,7 +96,7 @@ Schlussvorschriften
 
 ## Teil 1 Allgemeine Vorschriften für die Umweltprüfungen
 
-##### § 1 Anwendungsbereich
+###### § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für
 
@@ -103,13 +108,13 @@ Schlussvorschriften
 
 4. die grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung bei UVP-pflichtigen Vorhaben im Ausland nach den §§ 58 und 59 und bei SUP-pflichtigen Plänen und Programmen eines anderen Staates nach den §§ 62 und 63.
 
-(2) Bei Vorhaben oder Teilen von Vorhaben, die ausschließlich Zwecken der Verteidigung dienen, kann das Bundesministerium der Verteidigung oder eine von ihm benannte Stelle im Einzelfall entscheiden, dieses Gesetz ganz oder teilweise nicht anzuwenden, soweit sich die Anwendung nach Einschätzung des Bundesministeriums der Verteidigung oder der von ihm benannten Stelle nachteilig auf die Erfüllung dieser Zwecke auswirken würde, insbesondere wegen Eilbedürftigkeit des Vorhabens oder aus Gründen der Geheimhaltung. Zwecke der Verteidigung schließen auch zwischenstaatliche Verpflichtungen ein. Bei der Entscheidung ist der Schutz vor erheblichen nachteiligen Umweltauswirkungen zu berücksichtigen. Sonstige Rechtsvorschriften, die das Zulassungsverfahren betreffen, bleiben unberührt. Wird eine Entscheidung nach Satz 1 getroffen, unterrichtet das Bundesministerium der Verteidigung hierüber das für Umwelt zuständige Ministerium des betroffenen Landes unverzüglich sowie das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz spätestens bis zum Ablauf des 31. März des Folgejahres.
+(2) Bei Vorhaben oder Teilen von Vorhaben, die ausschließlich Zwecken der Verteidigung dienen, kann das Bundesministerium der Verteidigung oder eine von ihm benannte Stelle im Einzelfall entscheiden, dieses Gesetz ganz oder teilweise nicht anzuwenden, soweit sich die Anwendung nach Einschätzung des Bundesministeriums der Verteidigung oder der von ihm benannten Stelle nachteilig auf die Erfüllung dieser Zwecke auswirken würde, insbesondere wegen Eilbedürftigkeit des Vorhabens oder aus Gründen der Geheimhaltung. Zwecke der Verteidigung schließen auch zwischenstaatliche Verpflichtungen ein. Bei der Entscheidung ist der Schutz vor erheblichen nachteiligen Umweltauswirkungen zu berücksichtigen. Sonstige Rechtsvorschriften, die das Zulassungsverfahren betreffen, bleiben unberührt. Wird eine Entscheidung nach Satz 1 getroffen, unterrichtet das Bundesministerium der Verteidigung hierüber das für Umwelt zuständige Ministerium des betroffenen Landes unverzüglich sowie das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit spätestens bis zum Ablauf des 31. März des Folgejahres. Widerspruch und Anfechtungsklage gegen eine Entscheidung nach § 1 Absatz 2 Satz 1 haben keine aufschiebende Wirkung.
 
 (3) Bei Vorhaben oder Teilen von Vorhaben, die ausschließlich der Bewältigung von Katastrophenfällen dienen, kann die zuständige Behörde im Einzelfall entscheiden, dieses Gesetz ganz oder teilweise nicht anzuwenden, soweit sich die Anwendung nach Einschätzung der zuständigen Behörde negativ auf die Erfüllung dieses Zwecks auswirken würde. Bei der Entscheidung ist der Schutz vor erheblichen nachteiligen Umweltauswirkungen zu berücksichtigen. Sonstige Rechtsvorschriften, die das Zulassungsverfahren betreffen, bleiben unberührt.
 
 (4) Dieses Gesetz findet Anwendung, soweit Rechtsvorschriften des Bundes oder der Länder die Umweltverträglichkeitsprüfung nicht näher bestimmen oder die wesentlichen Anforderungen dieses Gesetzes nicht beachten. Rechtsvorschriften mit weitergehenden Anforderungen bleiben unberührt.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 (1) Schutzgüter im Sinne dieses Gesetzes sind
 
@@ -173,7 +178,7 @@ Ausgenommen sind Pläne und Programme, die ausschließlich Zwecken der Verteidig
 
 (11) Einwirkungsbereich im Sinne dieses Gesetzes ist das geographische Gebiet, in dem Umweltauswirkungen auftreten, die für die Zulassung eines Vorhabens relevant sind.
 
-##### § 3 Grundsätze für Umweltprüfungen
+###### § 3 Grundsätze für Umweltprüfungen
 
 Umweltprüfungen umfassen die Ermittlung, Beschreibung und Bewertung der erheblichen Auswirkungen eines Vorhabens oder eines Plans oder Programms auf die Schutzgüter. Sie dienen einer wirksamen Umweltvorsorge nach Maßgabe der geltenden Gesetze und werden nach einheitlichen Grundsätzen sowie unter Beteiligung der Öffentlichkeit durchgeführt.
 
@@ -181,13 +186,13 @@ Umweltprüfungen umfassen die Ermittlung, Beschreibung und Bewertung der erhebli
 
 ## Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung
 
-##### § 4 Umweltverträglichkeitsprüfung
+###### § 4 Umweltverträglichkeitsprüfung
 
 Die Umweltverträglichkeitsprüfung ist unselbständiger Teil verwaltungsbehördlicher Verfahren, die Zulassungsentscheidungen dienen.
 
-##### § 5 Feststellung der UVP-Pflicht
+###### § 5 Feststellung der UVP-Pflicht
 
-(1) Die zuständige Behörde stellt auf der Grundlage geeigneter Angaben des Vorhabenträgers sowie eigener Informationen unverzüglich fest, dass nach den §§ 6 bis 14b für das Vorhaben eine Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung (UVP-Pflicht) besteht oder nicht. Die Feststellung trifft die Behörde
+(1) Die zuständige Behörde stellt auf der Grundlage geeigneter Angaben des Vorhabenträgers sowie eigener Informationen unverzüglich fest, dass nach den §§ 6 bis 14e für das Vorhaben eine Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung (UVP-Pflicht) besteht oder nicht. Die Feststellung trifft die Behörde
 
 1. auf Antrag des Vorhabenträgers oder
 
@@ -199,11 +204,11 @@ Die Umweltverträglichkeitsprüfung ist unselbständiger Teil verwaltungsbehörd
 
 (3) Die Feststellung ist nicht selbständig anfechtbar. Beruht die Feststellung auf einer Vorprüfung, so ist die Einschätzung der zuständigen Behörde in einem gerichtlichen Verfahren betreffend die Zulassungsentscheidung nur daraufhin zu überprüfen, ob die Vorprüfung entsprechend den Vorgaben des § 7 durchgeführt worden ist und ob das Ergebnis nachvollziehbar ist.
 
-##### § 6 Unbedingte UVP-Pflicht bei Neuvorhaben
+###### § 6 Unbedingte UVP-Pflicht bei Neuvorhaben
 
 Für ein Neuvorhaben, das in Anlage 1 Spalte 1 mit dem Buchstaben „X“ gekennzeichnet ist, besteht die UVP-Pflicht, wenn die zur Bestimmung der Art des Vorhabens genannten Merkmale vorliegen. Sofern Größen- oder Leistungswerte angegeben sind, besteht die UVP-Pflicht, wenn die Werte erreicht oder überschritten werden.
 
-##### § 7 Vorprüfung bei Neuvorhaben
+###### § 7 Vorprüfung bei Neuvorhaben
 
 (1) Bei einem Neuvorhaben, das in Anlage 1 Spalte 2 mit dem Buchstaben „A“ gekennzeichnet ist, führt die zuständige Behörde eine allgemeine Vorprüfung zur Feststellung der UVP-Pflicht durch. Die allgemeine Vorprüfung wird als überschlägige Prüfung unter Berücksichtigung der in Anlage 3 aufgeführten Kriterien durchgeführt. Die UVP-Pflicht besteht, wenn das Neuvorhaben nach Einschätzung der zuständigen Behörde erhebliche nachteilige Umweltauswirkungen haben kann, die nach § 25 Absatz 2 bei der Zulassungsentscheidung zu berücksichtigen wären.
 
@@ -219,11 +224,11 @@ Für ein Neuvorhaben, das in Anlage 1 Spalte 1 mit dem Buchstaben „X“ gekenn
 
 (7) Die zuständige Behörde dokumentiert die Durchführung und das Ergebnis der allgemeinen und der standortbezogenen Vorprüfung.
 
-##### § 8 UVP-Pflicht bei Störfallrisiko
+###### § 8 UVP-Pflicht bei Störfallrisiko
 
 Sofern die allgemeine Vorprüfung ergibt, dass aufgrund der Verwirklichung eines Vorhabens, das zugleich benachbartes Schutzobjekt im Sinne des § 3 Absatz 5d des Bundes-Immissionsschutzgesetzes ist, innerhalb des angemessenen Sicherheitsabstandes zu Betriebsbereichen im Sinne des § 3 Absatz 5a des Bundes-Immissionsschutzgesetzes die Möglichkeit besteht, dass ein Störfall im Sinne des § 2 Nummer 7 der Störfall-Verordnung eintritt, sich die Eintrittswahrscheinlichkeit eines solchen Störfalls vergrößert oder sich die Folgen eines solchen Störfalls verschlimmern können, ist davon auszugehen, dass das Vorhaben erhebliche nachteilige Umweltauswirkungen haben kann.
 
-##### § 9 UVP-Pflicht bei Änderungsvorhaben
+###### § 9 UVP-Pflicht bei Änderungsvorhaben
 
 (1) Wird ein Vorhaben geändert, für das eine Umweltverträglichkeitsprüfung durchgeführt worden ist, so besteht für das Änderungsvorhaben die UVP-Pflicht, wenn
 
@@ -253,7 +258,7 @@ Die UVP-Pflicht besteht, wenn die Vorprüfung ergibt, dass die Änderung erhebli
 
 (5) Der in den jeweiligen Anwendungsbereich der Richtlinien 85/337/EWG und 97/11/EG fallende, aber vor Ablauf der jeweiligen Umsetzungsfristen erreichte Bestand bleibt hinsichtlich des Erreichens oder Überschreitens der Größen- oder Leistungswerte und der Prüfwerte unberücksichtigt.
 
-##### § 10 UVP-Pflicht bei kumulierenden Vorhaben
+###### § 10 UVP-Pflicht bei kumulierenden Vorhaben
 
 (1) Für kumulierende Vorhaben besteht die UVP-Pflicht, wenn die kumulierenden Vorhaben zusammen die maßgeblichen Größen- oder Leistungswerte nach § 6 erreichen oder überschreiten.
 
@@ -273,7 +278,7 @@ Technische und sonstige Anlagen müssen zusätzlich mit gemeinsamen betriebliche
 
 (6) Der in den jeweiligen Anwendungsbereich der Richtlinien 85/337/EWG und 97/11/EG fallende, aber vor Ablauf der jeweiligen Umsetzungsfristen erreichte Bestand bleibt hinsichtlich des Erreichens oder Überschreitens der Größen- oder Leistungswerte und der Prüfwerte unberücksichtigt.
 
-##### § 11 UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das Zulassungsverfahren für das frühere Vorhaben abgeschlossen ist
+###### § 11 UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das Zulassungsverfahren für das frühere Vorhaben abgeschlossen ist
 
 (1) Hinzutretende kumulierende Vorhaben liegen vor, wenn zu einem beantragten oder bestehenden Vorhaben (früheren Vorhaben) nachträglich ein kumulierendes Vorhaben hinzutritt.
 
@@ -301,7 +306,7 @@ Für die Vorprüfung gilt § 7 entsprechend.
 
 (6) Der in den jeweiligen Anwendungsbereich der Richtlinien 85/337/EWG und 97/11/EG fallende, aber vor Ablauf der jeweiligen Umsetzungsfristen erreichte Bestand bleibt hinsichtlich des Erreichens oder Überschreitens der Größen- oder Leistungswerte und der Prüfwerte unberücksichtigt.
 
-##### § 12 UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das frühere Vorhaben noch im Zulassungsverfahren ist
+###### § 12 UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das frühere Vorhaben noch im Zulassungsverfahren ist
 
 (1) Wenn für das frühere Vorhaben zum Zeitpunkt der Antragstellung für das hinzutretende kumulierende Vorhaben noch keine Zulassungsentscheidung getroffen worden ist, so besteht für den Fall, dass für das frühere Vorhaben allein die UVP-Pflicht besteht, für das hinzutretende kumulierende Vorhaben die UVP-Pflicht, wenn
 
@@ -337,71 +342,97 @@ Für die Vorprüfung gilt § 7 entsprechend. Bei einem Vorhaben, das einer Betri
 
 (6) Der in den jeweiligen Anwendungsbereich der Richtlinien 85/337/EWG und 97/11/EG fallende, aber vor Ablauf der jeweiligen Umsetzungsfristen erreichte Bestand bleibt hinsichtlich des Erreichens oder Überschreitens der Größen- oder Leistungswerte und der Prüfwerte unberücksichtigt.
 
-##### § 13 Ausnahme von der UVP-Pflicht bei kumulierenden Vorhaben
+###### § 13 Ausnahme von der UVP-Pflicht bei kumulierenden Vorhaben
 
 Für die in Anlage 1 Nummer 18.5, 18.7 und 18.8 aufgeführten Industriezonen und Städtebauprojekte gelten die §§ 10 bis 12 nicht.
 
-##### § 14 Entwicklungs- und Erprobungsvorhaben
+###### § 14 Entwicklungs- und Erprobungsvorhaben
 
 (1) Sofern ein in Anlage 1 Spalte 1 mit einem „X“ gekennzeichnetes Vorhaben ein Entwicklungs- und Erprobungsvorhaben ist und nicht länger als zwei Jahre durchgeführt wird, besteht für dieses Vorhaben eine UVP-Pflicht abweichend von § 6 nur, wenn sie durch die allgemeine Vorprüfung festgestellt wird. Für die Vorprüfung gilt § 7 Absatz 1 und 3 bis 7 entsprechend. Bei der allgemeinen Vorprüfung ist die Durchführungsdauer besonders zu berücksichtigen.
 
 (2) Ein Entwicklungs- und Erprobungsvorhaben ist ein Vorhaben, das ausschließlich oder überwiegend der Entwicklung und Erprobung neuer Verfahren oder Erzeugnisse dient.
 
-##### § 14a Besondere Änderungen zur Modernisierung und Digitalisierung von Schienenwegen
+###### § 14a Besondere Änderungen zur Modernisierung und Digitalisierung von Schienenwegen
 
-(1) Keiner Umweltverträglichkeitsprüfung bedarf die Änderung eines Schienenwegs oder einer sonstigen Bahnbetriebsanlage nach den Nummern 14.7, 14.8 und 14.11 der Anlage 1, soweit sie lediglich aus den folgenden Einzelmaßnahmen besteht:
+(1) Keiner Umweltprüfung bedürfen folgende Änderungen von Vorhaben nach den Nummern 14.7, 14.8, 14.11 oder 19.13 der Anlage 1:
 
-1. der Ausstattung einer bestehenden Bahnstrecke im Zuge des Wiederaufbaus nach einer Naturkatastrophe mit einer Oberleitung einschließlich dafür notwendiger räumlich begrenzter baulicher Anpassungen, insbesondere von Tunneln mit geringer Länge oder von Kreuzungsbauwerken,
+1. die Ausstattung einer bestehenden Bahnstrecke im Zuge des Wiederaufbaus nach einer Naturkatastrophe, Havarie oder einem Extremwetterereignis mit einer Oberleitung oder Stromschiene einschließlich dafür notwendiger Anlagen für den elektrischen Zugbetrieb, ausgenommen Bahnstromfernleitungen, einschließlich räumlich begrenzter baulicher Anpassungen, insbesondere von Tunneln mit geringer Länge oder von Kreuzungsbauwerken,
 
-2. den im Rahmen der Digitalisierung einer Bahnstrecke erforderlichen Baumaßnahmen, insbesondere der Ausstattung einer Bahnstrecke mit Signal- und Sicherungstechnik des Standards European Rail Traffic Management System (ERTMS),
+2. die Ausstattung einer bestehenden Bahnstrecke mit einer Oberleitung oder Stromschiene auf einer Länge bis 180 Kilometer einschließlich dafür notwendiger Anlagen für den elektrischen Zugbetrieb, und einschließlich räumlich begrenzter baulicher Anpassungen, insbesondere von Tunneln mit geringer Länge oder von Kreuzungsbauwerken,
 
-3. dem barrierefreien Umbau oder der Erhöhung oder Verlängerung eines Bahnsteigs,
+3. die im Rahmen der Digitalisierung einer Bahnstrecke erforderlichen Baumaßnahmen,
 
-4. der technischen Sicherung eines Bahnübergangs,
+4. die Herstellung von Überleitstellen für Gleiswechselbetriebe,
 
-5. der Erneuerung eines Eisenbahnübergangs,
+5. die Herstellung von Gleisanschlüssen sowie Zuführungs- und Industriestammgleisen,
 
-6. der Erneuerung und Änderung eines Durchlasses sowie
+6. die Errichtung von Lärmschutzwänden,
 
-7. der Herstellung von Überleitstellen für Gleiswechselbetriebe.
+7. die Errichtung von Kreuzungsgleisen, Überholgleisen und Rangiergleisen einschließlich dadurch notwendiger, räumlicher begrenzter baulicher Anpassungen,
+
+8. der Einbau von Weichen und damit zusammenhängende räumlich begrenzte Gleislageänderungen,
+
+9. die Errichtung von Anlagen der Leit- und Sicherungstechnik an einer Bahnstrecke, insbesondere Signale,
+
+10. die Änderung der in Absatz 1 Nummer 1 bis 9 und in Absatz 2 Nummer 1 genannten Anlagen und Anlagenbestandteile, bei Rückbau von Weichen auch die Herstellung erforderlicher Lückenschlüsse,
+
+11. die Erweiterung einer intermodalen Umschlaganlage oder eines Terminals nach Nummer 14.8 der Anlage 1 mit einer zusätzlichen Flächeninanspruchnahme für die Anlage mit weniger als 5 000 Quadratmetern oder jede Verringerung der Flächeninanspruchnahme für die Anlage sowie sonstige Änderungen ohne Auswirkungen auf die Flächeninanspruchnahme.
 
 (2) Eine standortbezogene Vorprüfung entsprechend § 7 Absatz 2 wird zur Feststellung der UVP-Pflicht durchgeführt für
 
-1. die Ausstattung einer bestehenden Bahnstrecke mit einer Oberleitung auf einer Länge von weniger als 15 Kilometern einschließlich dafür notwendiger räumlich begrenzter baulicher Anpassungen, insbesondere von Tunneln mit geringer Länge oder von Kreuzungsbauwerken,
+1. die Ausstattung einer bestehenden Bahnstrecke mit einer Oberleitung oder Stromschiene mit einer Länge von mehr als 180 Kilometern, einschließlich dafür notwendiger Anlagen für den elektrischen Zugbetrieb, ausgenommen Bahnstromfernleitungen, und einschließlich räumlich begrenzter baulicher Anpassungen, insbesondere von Tunneln mit geringer Länge oder von Kreuzungsbauwerken,
 
-2. die Errichtung einer Lärmschutzwand zur Lärmsanierung,
+2. die Erweiterung einer intermodalen Umschlaganlage oder eines Terminals nach Nummer 14.8 der Anlage 1 mit einer zusätzlichen Flächeninanspruchnahme für die Anlage ab 5 000 Quadratmeter,
 
-3. die Erweiterung einer Bahnbetriebsanlage mit einer Flächeninanspruchnahme von weniger als 5 000 Quadratmetern.
+3. die Änderung und Erweiterung einer Bahnstromfernleitung.
 
-(3) Eine allgemeine Vorprüfung entsprechend § 7 Absatz 1 wird zur Feststellung der UVP-Pflicht durchgeführt für
-
-1. die Ausstattung einer bestehenden Bahnstrecke mit einer Oberleitung, soweit nicht durch Absatz 2 Nummer 1 erfasst,
-
-2. die Erweiterung einer Bahnbetriebsanlage nach Nummer 14.8.3.1 der Anlage 1 mit einer Flächeninanspruchnahme von 5 000 Quadratmetern oder mehr,
-
-3. die sonstige Änderung eines Schienenwegs oder einer sonstigen Bahnbetriebsanlage nach den Nummern 14.7 und 14.8 der Anlage 1, soweit nicht von den Absätzen 1 und 2 erfasst.
-
-##### § 14b Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577
+###### § 14b Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577
 
 (1) Bei Städtebauprojekten für Anlagen zur Nutzung solarer Strahlungsenergie im bisherigen Außenbereich im Sinne des § 35 des Baugesetzbuchs nach Anlage 1 Nummer 18.7 ist von der Durchführung einer Umweltverträglichkeitsprüfung abzusehen, wenn die Anlage zur Nutzung solarer Strahlungsenergie in einem Gebiet liegt, für das in einem Plan Anlagen zur Nutzung solarer Strahlungsenergie vorgesehen sind, und wenn bei Aufstellung dieses Plans eine Strategische Umweltprüfung durchgeführt wurde.
 
 (2) Absatz 1 ist auf bereits laufende und nach dem 29. März 2023 begonnene Zulassungsverfahren nur anzuwenden, wenn der Antragsteller dies gegenüber der zuständigen Behörde verlangt und den Antrag bis zum Ablauf des 30. Juni 2025 stellt. Satz 1 ist für das gesamte Zulassungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum Ablauf des 30. Juni 2025 abgeschlossen wird.
 
-##### § 14c Ersatzneubauten mit baulicher Erweiterung im Vorgriff auf einen späteren Ausbau
+###### § 14c Ersatzneubauten mit baulicher Erweiterung im Vorgriff auf einen späteren Ausbau
 
-(1) Keiner Umweltverträglichkeitsprüfung bedürfen unselbständige Teile von Ausbaumaßnahmen, die im Verlauf von Bundesautobahnen oder Bundesstraßen eine durchgehende Länge von bis zu 1 500 Metern haben, soweit deren vorgezogene Durchführung zur unterhaltungsbedingten Erneuerung von Brückenbauwerken erforderlich ist. Als unselbstständige Teile von Ausbaumaßnahmen im Sinne des Satzes 1 gelten vorgezogene Abschnitte eines Streckenausbaus, wenn der unselbständige Teil der Ausbaumaßnahme keine unmittelbare verkehrliche Kapazitätserweiterung bewirkt.
+(1) Keiner Umweltverträglichkeitsprüfung bedürfen unselbständige Teile von Ausbaumaßnahmen im Verlauf von Bundesautobahnen oder Bundesstraßen, deren vorgezogene Durchführung zur unterhaltungsbedingten Erneuerung von Brückenbauwerken erforderlich sind. Als unselbstständige Teile von Ausbaumaßnahmen im Sinne des Satzes 1 gelten vorgezogene Abschnitte eines Streckenausbaus, wenn der unselbständige Teil der Ausbaumaßnahme keine unmittelbare verkehrliche Kapazitätserweiterung bewirkt.
 
 (2) Eine allgemeine Vorprüfung entsprechend § 7 Absatz 1 ist in den Fällen des Absatzes 1 zur Feststellung der UVP-Pflicht durchzuführen, wenn durch die vorgezogene Baumaßnahme ein Natura 2000-Gebiet betroffen sein kann.
 
-##### § 14d Bau von Radwegen an Bundesstraßen
+###### § 14d Bau von Radwegen an Bundesstraßen
 
 (1) Keiner Umweltverträglichkeitsprüfung bedarf die Änderung einer Bundesstraße durch den Bau eines straßenbegleitenden Radweges mit einer durchgehenden Länge von bis zu zehn Kilometern.
 
 (2) Eine allgemeine Vorprüfung entsprechend § 7 Absatz 1 wird in den Fällen des Absatzes 1 zur Feststellung der UVP-Pflicht durchgeführt, wenn durch die Baumaßnahme ein Natura 2000-Gebiet betroffen sein kann.
 
+###### § 14e Ausnahmen von der Umweltverträglichkeitsprüfung für Verteidigung sowie für Verkehrs- und Energieinfrastruktur
+
+(1) Die Zulassungsbehörde hat für Vorhaben oder Teile von Vorhaben, die der Herstellung oder Lagerung von Produkten zur Landesverteidigung, insbesondere von Rüstungsgütern, Munition, Sprengstoffen und deren Vorprodukten, dienen und deren Erforderlichkeit für die Einsatzfähigkeit und Versorgungssicherheit der Bundeswehr durch eine Erklärung des Bundesministeriums der Verteidigung bestätigt wird, nach Maßgabe der Absätze 4 bis 8 die Anforderungen dieses Gesetzes im Einzelfall nicht anzuwenden, wenn sich eine derartige Anwendung nach der Einschätzung des Bundesministeriums der Verteidigung nachteilig auf die Zwecke der Landes- und Bündnisverteidigung auswirken würde, jedoch unter der Voraussetzung, dass die Ziele dieses Gesetzes verwirklicht werden.
+
+(2) Das Bundesministerium für Verkehr oder eine von ihm benannte Stelle kann in Ausnahmefällen ein bestimmtes Vorhaben nach Anlage 1 Nummer 14 nach Maßgabe der Absätze 4 bis 8 von den Anforderungen dieses Gesetzes ausnehmen, wenn sich deren Anwendung nachteilig auf den Zweck des Vorhabens auswirken würde, insbesondere wegen Eilbedürftigkeit des Vorhabens, jedoch unter der Voraussetzung, dass die Ziele dieses Gesetzes verwirklicht werden.
+
+(3) Das Bundesministerium für Wirtschaft und Energie oder eine von ihm benannte Stelle kann in Ausnahmefällen ein bestimmtes Vorhaben im Sinne der Anlage 1 Nummer 1 und 19 nach Maßgabe der Absätze 4 bis 8 von den Anforderungen dieses Gesetzes ausnehmen, wenn sich deren Anwendung nachteilig auf den Zweck des Vorhabens auswirken würden, insbesondere wegen Eilbedürftigkeit des Vorhabens, jedoch unter der Voraussetzung, dass die Ziele dieses Gesetzes verwirklicht werden.
+
+(4) Die Absätze 1 bis 3 gelten vorbehaltlich der §§ 54 bis 59.
+
+(5) Bei einer Entscheidung nach den Absätzen 1 bis 3 prüft die zuständige Behörde, ob eine andere Form der Prüfung von Umweltauswirkungen angemessen ist. Wird nach den Absätzen 1 bis 3 keine Umweltverträglichkeitsprüfung durchgeführt, entfallen auch die entsprechenden, in fachrechtlichen Vorschriften geregelten Pflichten der Antragsteller und Aufgaben der Behörden.
+
+(6) Die Zulassungsbehörde informiert die betroffene Öffentlichkeit über:
+
+1. die Zulassungsentscheidung einschließlich Begründung,
+
+2. die Unterlagen, mit denen die wesentlichen Auswirkungen des Vorhabens auf die Umwelt dargestellt werden,
+
+3. die Gründe für die Gewährung der Ausnahme nach den Absätzen 1 bis 3.
+
+Ausgenommen hiervon sind Informationen, bei deren Bekanntgabe mittelbare oder unmittelbare nachteilige Auswirkungen auf die internationalen Beziehungen oder die Verteidigung drohen. Diese sind in den Unterlagen zu kennzeichnen und getrennt vorzulegen. Ihr Inhalt muss, soweit es ohne Preisgabe dieser Informationen geschehen kann, so ausführlich dargestellt sein, dass es Dritten möglich ist, zu beurteilen, ob und in welchem Umfang sie von den Auswirkungen der Anlage betroffen werden können. Hiervon sind Informationen ausgenommen, die in einer Gesamtschau dazu geeignet sind, Auskunft über Produktionsart und -umfang sowie über Mitarbeitende zu vermitteln.
+
+(7) Das nach den Absätzen 1 bis 3 jeweils zuständige Bundesministerium unterrichtet vor der Entscheidung über die Zulassung des Vorhabens die Europäische Kommission über die Gründe für die Gewährung der Ausnahme nach den Absätzen 1, 2 oder 3 und übermittelt ihr die Informationen, die der betroffenen Öffentlichkeit nach Absatz 6 zur Verfügung gestellt werden. Trifft eine benannte Stelle die Entscheidung nach den Absätzen 1 bis 3, stimmt diese sich zum Zwecke der Unterrichtung der Europäischen Kommission mit dem nach den Absätzen 1 bis 3 zuständigen Bundesministerium ab.
+
+(8) Entscheidungen nach den Absätzen 1 bis 3 sind nicht selbstständig anfechtbar. Widerspruch und Anfechtungsklage gegen die Zulassungsentscheidung für ein Vorhaben, das nach Absatz 1 bis 3 von den sonstigen Anforderungen dieses Gesetzes ausgenommen wurde, haben keine aufschiebende Wirkung.
+
 ## Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung
 
-##### § 15 Unterrichtung über den Untersuchungsrahmen
+###### § 15 Unterrichtung über den Untersuchungsrahmen
 
 (1) Auf Antrag des Vorhabenträgers oder wenn die zuständige Behörde es für zweckmäßig hält, unterrichtet und berät die zuständige Behörde den Vorhabenträger entsprechend dem Planungsstand des Vorhabens frühzeitig über Inhalt, Umfang und Detailtiefe der Angaben, die der Vorhabenträger voraussichtlich in den UVP-Bericht aufnehmen muss (Untersuchungsrahmen). Die Unterrichtung und Beratung kann sich auch auf weitere Gesichtspunkte des Verfahrens, insbesondere auf dessen zeitlichen Ablauf, auf die zu beteiligenden Behörden oder auf die Einholung von Sachverständigengutachten erstrecken. Verfügen die zuständige Behörde oder die zu beteiligenden Behörden über Informationen, die für die Erarbeitung des UVP-Berichts zweckdienlich sind, so stellen sie diese Informationen dem Vorhabenträger zur Verfügung.
 
@@ -423,7 +454,7 @@ Das Ergebnis der Besprechung wird von der zuständigen Behörde dokumentiert.
 
 (5) Die zuständige Behörde berät den Vorhabenträger auch nach der Unterrichtung über den Untersuchungsrahmen, soweit dies für eine zügige und sachgerechte Durchführung des Verfahrens zweckmäßig ist.
 
-##### § 16 UVP-Bericht
+###### § 16 UVP-Bericht
 
 (1) Der Vorhabenträger hat der zuständigen Behörde einen Bericht zu den voraussichtlichen Umweltauswirkungen des Vorhabens (UVP-Bericht) vorzulegen, der zumindest folgende Angaben enthält:
 
@@ -463,19 +494,19 @@ Bei einem Vorhaben nach § 1 Absatz 1, das einzeln oder im Zusammenwirken mit an
 
 (9) Der Vorhabenträger hat den UVP-Bericht auch elektronisch vorzulegen.
 
-##### § 17 Beteiligung anderer Behörden
+###### § 17 Beteiligung anderer Behörden
 
 (1) Die zuständige Behörde unterrichtet die Behörden, deren umweltbezogener Aufgabenbereich durch das Vorhaben berührt wird, einschließlich der von dem Vorhaben betroffenen Gemeinden und Landkreise sowie der sonstigen im Landesrecht vorgesehenen Gebietskörperschaften, über das Vorhaben und übermittelt ihnen den UVP-Bericht.
 
-(2) Die zuständige Behörde holt die Stellungnahmen der unterrichteten Behörden ein. Für die Stellungnahmen gilt § 73 Absatz 3a des Verwaltungsverfahrensgesetzes entsprechend.
+(2) Die zuständige Behörde holt die Stellungnahmen der unterrichteten Behörden ein. Für die Stellungnahmen gilt § 73a Absatz 2 und 3 des Verwaltungsverfahrensgesetzes entsprechend.
 
-##### § 18 Beteiligung der Öffentlichkeit
+###### § 18 Beteiligung der Öffentlichkeit
 
-(1) Die zuständige Behörde beteiligt die Öffentlichkeit zu den Umweltauswirkungen des Vorhabens. Der betroffenen Öffentlichkeit wird im Rahmen der Beteiligung Gelegenheit zur Äußerung gegeben. Dabei sollen nach dem Umwelt-Rechtsbehelfsgesetz anerkannte Vereinigungen die zuständige Behörde in einer dem Umweltschutz dienenden Weise unterstützen. Das Beteiligungsverfahren muss den Anforderungen des § 73 Absatz 3 Satz 1 und 2 und Absatz 5 bis 7 des Verwaltungsverfahrensgesetzes entsprechen.
+(1) Die zuständige Behörde beteiligt die Öffentlichkeit zu den Umweltauswirkungen des Vorhabens. Der betroffenen Öffentlichkeit wird im Rahmen der Beteiligung Gelegenheit zur Äußerung gegeben. Dabei sollen nach dem Umwelt-Rechtsbehelfsgesetz anerkannte Vereinigungen die zuständige Behörde in einer dem Umweltschutz dienenden Weise unterstützen. Das Beteiligungsverfahren muss den Anforderungen des § 72a Absatz 2 bis 4, des § 73 Absatz 1 Satz 1 und 2, Absatz 2 Satz 1 und 2, Absatz 3 und des § 73b des Verwaltungsverfahrensgesetzes entsprechen. § 73 Absatz 2 Satz 4 des Verwaltungsverfahrensgesetzes, auch in Verbindung mit § 73c Absatz 1 Satz 2 des Verwaltungsverfahrensgesetzes, ist nicht anzuwenden.
 
-(2) In einem vorgelagerten Verfahren oder in einem Planfeststellungsverfahren über einen Wege- und Gewässerplan mit landschaftspflegerischem Begleitplan nach § 41 des Flurbereinigungsgesetzes kann die zuständige Behörde abweichend von Absatz 1 und abweichend von § 73 Absatz 6 des Verwaltungsverfahrensgesetzes auf die Durchführung eines Erörterungstermins verzichten. Auf eine Benachrichtigung nach § 73 Absatz 5 Satz 3 des Verwaltungsverfahrensgesetzes kann in einem vorgelagerten Verfahren verzichtet werden.
+(2) In einem vorgelagerten Verfahren oder in einem Planfeststellungsverfahren über einen Wege- und Gewässerplan mit landschaftspflegerischem Begleitplan nach § 41 des Flurbereinigungsgesetzes kann die zuständige Behörde auf die Durchführung eines Erörterungstermins verzichten.
 
-##### § 19 Unterrichtung der Öffentlichkeit
+###### § 19 Unterrichtung der Öffentlichkeit
 
 (1) Bei der Bekanntmachung zu Beginn des Beteiligungsverfahrens unterrichtet die zuständige Behörde die Öffentlichkeit
 
@@ -505,41 +536,33 @@ In Verfahren nach § 18 Absatz 2 und § 1 der Atomrechtlichen Verfahrensverordnu
 
 (3) Weitere Informationen, die für die Zulassungsentscheidung von Bedeutung sein können und die der zuständigen Behörde erst nach Beginn des Beteiligungsverfahrens vorliegen, sind der Öffentlichkeit nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen zugänglich zu machen.
 
-##### § 20 Zentrale Internetportale; Verordnungsermächtigung
+###### § 20 Zentrale Internetportale; Verordnungsermächtigung
 
-(1) Für die Zugänglichmachung des Inhalts der Bekanntmachung nach § 19 Absatz 1 und der nach § 19 Absatz 2 auszulegenden Unterlagen im Internet richten Bund und Länder zentrale Internetportale ein. Die Zugänglichmachung erfolgt im zentralen Internetportal des Bundes, wenn die Zulassungsbehörde eine Bundesbehörde ist. Für den Aufbau und Betrieb des zentralen Internetportals des Bundes ist das Umweltbundesamt zuständig.
+(1) Für die Veröffentlichung des Inhalts der Bekanntmachung nach § 19 Absatz 1 und der nach § 19 Absatz 2 auszulegenden Unterlagen im Internet richten Bund und Länder zentrale Internetportale ein. Die Veröffentlichung erfolgt im zentralen Internetportal des Bundes, wenn die Zulassungsbehörde eine Bundesbehörde ist. Für den Aufbau und Betrieb des zentralen Internetportals des Bundes ist das Umweltbundesamt zuständig.
 
-(2) Die zuständige Behörde macht den Inhalt der Bekanntmachung nach § 19 Absatz 1 und die in § 19 Absatz 2 Satz 1 Nummer 1 und 2 genannten Unterlagen über das einschlägige zentrale Internetportal zugänglich.
+(2) Die zuständige Behörde veröffentlicht den Inhalt der Bekanntmachung nach § 19 Absatz 1 und die in § 19 Absatz 2 Satz 1 Nummer 1 und 2 genannten Unterlagen über das einschlägige zentrale Internetportal.
 
 (3) Der Inhalt der zentralen Internetportale kann auch für die Zwecke der Berichterstattung nach § 73 verwendet werden.
 
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Folgendes zu regeln:
 
-1. die Art und Weise der Zugänglichmachung nach den Absätzen 1 und 2 sowie
+1. die Art und Weise der Veröffentlichung nach den Absätzen 1 und 2 sowie
 
 2. die Dauer der Speicherung der Unterlagen.
 
 (5) Alle in das zentrale Internetportal einzustellenden Unterlagen sind elektronisch vorzulegen.
 
-##### § 21 Äußerungen und Einwendungen der Öffentlichkeit
+###### § 21 Äußerungen und Einwendungen der Öffentlichkeit
 
-(1) Die betroffene Öffentlichkeit kann sich im Rahmen der Beteiligung schriftlich oder zur Niederschrift bei der zuständigen Behörde äußern.
+Die Frist zur Abgabe von Äußerungen ist zugleich die Einwendungsfrist im Sinne des § 73 des Verwaltungsverfahrensgesetzes. Mit Ablauf der Äußerungsfrist sind für das Verfahren über die Zulässigkeit des Vorhabens alle Äußerungen, die nicht auf besonderen privatrechtlichen Titeln beruhen, ausgeschlossen. Hierauf weist die zuständige Behörde in der Bekanntmachung der Auslegung oder bei der Bekanntgabe der Äußerungsfrist hin.
 
-(2) Die Äußerungsfrist endet einen Monat nach Ablauf der Frist für die Auslegung der Unterlagen.
+###### § 22 Erneute Beteiligung der Öffentlichkeit bei Änderungen im Laufe des Verfahrens
 
-(3) Bei Vorhaben, für die Unterlagen in erheblichem Umfang eingereicht worden sind, kann die zuständige Behörde eine längere Äußerungsfrist festlegen. Die Äußerungsfrist darf die nach § 73 Absatz 3a Satz 1 des Verwaltungsverfahrensgesetzes zu setzende Frist nicht überschreiten.
-
-(4) Mit Ablauf der Äußerungsfrist sind für das Verfahren über die Zulässigkeit des Vorhabens alle Äußerungen, die nicht auf besonderen privatrechtlichen Titeln beruhen, ausgeschlossen. Hierauf weist die zuständige Behörde in der Bekanntmachung der Auslegung oder bei der Bekanntgabe der Äußerungsfrist hin.
-
-(5) Die Äußerungsfrist gilt auch für solche Einwendungen, die sich nicht auf die Umweltauswirkungen des Vorhabens beziehen.
-
-##### § 22 Erneute Beteiligung der Öffentlichkeit bei Änderungen im Laufe des Verfahrens
-
-(1) Ändert der Vorhabenträger im Laufe des Verfahrens die Unterlagen, die nach § 19 Absatz 2 auszulegen sind, so ist eine erneute Beteiligung der Öffentlichkeit erforderlich. Die Äußerungsfrist nach § 21 Absatz 2 und 3 kann angemessen verkürzt werden. Die Öffentlichkeitsbeteiligung ist auf die Änderungen zu beschränken. Hierauf weist die zuständige Behörde in der Bekanntmachung hin.
+(1) Ändert der Vorhabenträger im Laufe des Verfahrens die Unterlagen, die nach § 19 Absatz 2 auszulegen sind, so ist eine erneute Beteiligung der Öffentlichkeit erforderlich. Die Äußerungsfrist nach § 18 Absatz 1 Satz 4 kann angemessen verkürzt werden. Die Öffentlichkeitsbeteiligung ist auf die Änderungen zu beschränken. Hierauf weist die zuständige Behörde in der Bekanntmachung hin.
 
 (2) Die zuständige Behörde soll von einer erneuten Beteiligung der Öffentlichkeit absehen, wenn zusätzliche erhebliche oder andere erhebliche Umweltauswirkungen nicht zu besorgen sind. Dies ist insbesondere dann der Fall, wenn solche Umweltauswirkungen durch die vom Vorhabenträger vorgesehenen Vorkehrungen ausgeschlossen werden.
 
-##### § 23 Geheimhaltung und Datenschutz sowie Schutz der Rechte am geistigen Eigentum
+###### § 23 Geheimhaltung und Datenschutz sowie Schutz der Rechte am geistigen Eigentum
 
 (1) Die Rechtsvorschriften über Geheimhaltung und Datenschutz sowie über die Rechte am geistigen Eigentum bleiben unberührt. Insbesondere sind Urkunden, Akten und elektronische Dokumente geheim zu halten, wenn das Bekanntwerden ihres Inhalts dem Wohl des Bundes oder eines Landes Nachteile bereiten würde oder wenn die Vorgänge nach einem Gesetz oder ihrem Wesen nach geheim gehalten werden müssen.
 
@@ -547,7 +570,7 @@ In Verfahren nach § 18 Absatz 2 und § 1 der Atomrechtlichen Verfahrensverordnu
 
 (3) Geheimhaltungsbedürftige Unterlagen sind bei der Auslegung durch die Inhaltsdarstellung zu ersetzen.
 
-##### § 24 Zusammenfassende Darstellung
+###### § 24 Zusammenfassende Darstellung
 
 (1) Die zuständige Behörde erarbeitet eine zusammenfassende Darstellung
 
@@ -559,11 +582,11 @@ In Verfahren nach § 18 Absatz 2 und § 1 der Atomrechtlichen Verfahrensverordnu
 
 4. der Ersatzmaßnahmen bei Eingriffen in Natur und Landschaft.
 
-Die Erarbeitung erfolgt auf der Grundlage des UVP-Berichts, der behördlichen Stellungnahmen nach § 17 Absatz 2 und § 55 Absatz 4 sowie der Äußerungen der betroffenen Öffentlichkeit nach den §§ 21 und 56. Die Ergebnisse eigener Ermittlungen sind einzubeziehen.
+Die Erarbeitung erfolgt auf der Grundlage des UVP-Berichts, der behördlichen Stellungnahmen nach § 17 Absatz 2 und § 55 Absatz 4 sowie der Äußerungen der betroffenen Öffentlichkeit nach § 18 Absatz 1 Satz 4 und § 56. Die Ergebnisse eigener Ermittlungen sind einzubeziehen.
 
 (2) Die zusammenfassende Darstellung soll möglichst innerhalb eines Monats nach dem Abschluss der Erörterung im Beteiligungsverfahren erarbeitet werden.
 
-##### § 25 Begründete Bewertung der Umweltauswirkungen und Berücksichtigung des Ergebnisses bei der Entscheidung
+###### § 25 Begründete Bewertung der Umweltauswirkungen und Berücksichtigung des Ergebnisses bei der Entscheidung
 
 (1) Auf der Grundlage der zusammenfassenden Darstellung bewertet die zuständige Behörde die Umweltauswirkungen des Vorhabens im Hinblick auf eine wirksame Umweltvorsorge im Sinne des § 3 nach Maßgabe der geltenden Gesetze. Die Bewertung ist zu begründen.
 
@@ -571,7 +594,7 @@ Die Erarbeitung erfolgt auf der Grundlage des UVP-Berichts, der behördlichen St
 
 (3) Bei der Entscheidung über die Zulassung des Vorhabens müssen die zusammenfassende Darstellung und die begründete Bewertung nach Einschätzung der zuständigen Behörde hinreichend aktuell sein.
 
-##### § 26 Inhalt des Bescheids über die Zulassung oder Ablehnung des Vorhabens
+###### § 26 Inhalt des Bescheids über die Zulassung oder Ablehnung des Vorhabens
 
 (1) Der Bescheid zur Zulassung des Vorhabens muss zumindest die folgenden Angaben enthalten:
 
@@ -593,13 +616,13 @@ d) eine Erläuterung, wie die begründete Bewertung, insbesondere die Angaben de
 
 (3) Im Übrigen richtet sich der Inhalt des Bescheids nach den einschlägigen fachrechtlichen Vorschriften.
 
-##### § 27 Bekanntmachung der Entscheidung und Auslegung des Bescheids
+###### § 27 Bekanntmachung der Entscheidung und Auslegung des Bescheids
 
-(1) Die zuständige Behörde hat in entsprechender Anwendung des § 74 Absatz 5 Satz 2 des Verwaltungsverfahrensgesetzes die Entscheidung zur Zulassung oder Ablehnung des Vorhabens öffentlich bekannt zu machen sowie in entsprechender Anwendung des § 74 Absatz 4 Satz 2 des Verwaltungsverfahrensgesetzes den Bescheid zur Einsicht auszulegen. § 20 gilt hierfür entsprechend. Soweit der Bescheid geheimhaltungsbedürftige Angaben im Sinne von § 23 Absatz 2 enthält, sind die entsprechenden Stellen unkenntlich zu machen.
+(1) Die zuständige Behörde hat in entsprechender Anwendung des § 74 Absatz 5 Satz 2 des Verwaltungsverfahrensgesetzes die Entscheidung zur Zulassung oder Ablehnung des Vorhabens öffentlich bekannt zu machen sowie in entsprechender Anwendung des § 74 Absatz 4 Satz 1 des Verwaltungsverfahrensgesetzes den Bescheid zur Einsicht auszulegen. § 20 gilt hierfür entsprechend. Soweit der Bescheid geheimhaltungsbedürftige Angaben im Sinne von § 23 Absatz 2 enthält, sind die entsprechenden Stellen unkenntlich zu machen.
 
 (2) Abweichend von Absatz 1 Satz 1 kann in einem Verfahren nach § 18 Absatz 2 die Öffentlichkeit in einem geeigneten Publikationsorgan über das Ergebnis des Verfahrens unterrichtet werden und das Ergebnis des Verfahrens mit Begründung und einer Information über Rechtsbehelfe kann entsprechend dem in § 19 Absatz 2 Satz 2 geregelten Verfahren öffentlich ausgelegt werden.
 
-##### § 28 Überwachung
+###### § 28 Überwachung
 
 (1) Soweit bundes- oder landesrechtliche Regelungen keine Überwachungsmaßnahmen vorsehen, ergreift die zuständige Behörde die geeigneten Überwachungsmaßnahmen, um die Einhaltung der umweltbezogenen Bestimmungen des Zulassungsbescheids nach § 26 zu überprüfen. Dies gilt insbesondere für
 
@@ -613,19 +636,19 @@ Die zuständige Behörde kann dem Vorhabenträger Überwachungsmaßnahmen nach d
 
 ## Abschnitt 3 Teilzulassungen, Zulassung eines Vorhabens durch mehrere Behörden, verbundene Prüfverfahren
 
-##### § 29 Umweltverträglichkeitsprüfung bei Teilzulassungen
+###### § 29 Umweltverträglichkeitsprüfung bei Teilzulassungen
 
 (1) In Verfahren zur Vorbereitung eines Vorbescheids und zur Erteilung einer ersten Teilgenehmigung oder einer sonstigen ersten Teilzulassung hat sich die Umweltverträglichkeitsprüfung vorläufig auf die nach dem jeweiligen Planungsstand erkennbaren Umweltauswirkungen des Gesamtvorhabens zu erstrecken und abschließend auf die Umweltauswirkungen, die Gegenstand der Teilzulassung sind. Dem jeweiligen Umfang der Umweltverträglichkeitsprüfung ist bei der Unterrichtung über den Untersuchungsrahmen und beim UVP-Bericht Rechnung zu tragen.
 
 (2) Bei weiteren Teilzulassungen soll die Umweltverträglichkeitsprüfung auf zusätzliche erhebliche oder andere erhebliche Umweltauswirkungen des Vorhabens beschränkt werden. Absatz 1 gilt entsprechend.
 
-##### § 30 Erneute Öffentlichkeitsbeteiligung bei Teilzulassungen
+###### § 30 Erneute Öffentlichkeitsbeteiligung bei Teilzulassungen
 
 (1) Ist für ein Vorhaben bereits eine Teilzulassung nach § 29 erteilt worden, so ist im Verfahren zur Erteilung der Zulassung oder weiterer Teilzulassungen eine erneute Beteiligung der Öffentlichkeit erforderlich. Sie ist jedoch auf den Gegenstand der weiteren Teilzulassung zu beschränken. Hierauf weist die zuständige Behörde in der Bekanntmachung hin.
 
 (2) Die zuständige Behörde kann von einer erneuten Beteiligung der Öffentlichkeit absehen, soweit zusätzliche erhebliche oder andere erhebliche Umweltauswirkungen nicht zu besorgen sind. Dies ist insbesondere dann der Fall, wenn solche Umweltauswirkungen durch die vom Vorhabenträger vorgesehenen Vorkehrungen ausgeschlossen werden.
 
-##### § 31 Zulassung eines Vorhabens durch mehrere Behörden; federführende Behörde
+###### § 31 Zulassung eines Vorhabens durch mehrere Behörden; federführende Behörde
 
 (1) Bedarf ein Vorhaben der Zulassung durch mehrere Landesbehörden, so bestimmen die Länder eine federführende Behörde.
 
@@ -649,7 +672,7 @@ Die Länder können der federführenden Behörde weitere verfahrensrechtliche Zu
 
 (4) Wird über die Zulässigkeit eines Vorhabens im Rahmen mehrerer Verfahren entschieden, so wird eine gemeinsame zusammenfassende Darstellung nach § 24 für das gesamte Vorhaben erstellt. Auf der Grundlage der zusammenfassenden Darstellung nehmen die Zulassungsbehörden eine Gesamtbewertung der Umweltauswirkungen des Vorhabens vor und berücksichtigen nach § 25 Absatz 2 die Gesamtbewertung bei den Zulassungsentscheidungen. Die federführende Behörde stellt das Zusammenwirken der Zulassungsbehörden sicher.
 
-##### § 32 Verbundene Prüfverfahren
+###### § 32 Verbundene Prüfverfahren
 
 Für ein Vorhaben, das einzeln oder im Zusammenwirken mit anderen Vorhaben, Projekten oder Plänen geeignet ist, ein Natura 2000-Gebiet erheblich zu beeinträchtigen, wird die Verträglichkeitsprüfung nach § 34 Absatz 1 des Bundesnaturschutzgesetzes im Verfahren zur Zulassungsentscheidung des Vorhabens vorgenommen. Die Umweltverträglichkeitsprüfung kann mit der Prüfung nach Satz 1 und mit anderen Prüfungen zur Ermittlung oder Bewertung von Umweltauswirkungen verbunden werden.
 
@@ -657,17 +680,17 @@ Für ein Vorhaben, das einzeln oder im Zusammenwirken mit anderen Vorhaben, Proj
 
 ## Abschnitt 1 Voraussetzungen für eine Strategische Umweltprüfung
 
-##### § 33 Strategische Umweltprüfung
+###### § 33 Strategische Umweltprüfung
 
 Die Strategische Umweltprüfung (SUP) ist unselbständiger Teil behördlicher Verfahren zur Aufstellung oder Änderung von Plänen und Programmen.
 
-##### § 34 Feststellung der SUP-Pflicht
+###### § 34 Feststellung der SUP-Pflicht
 
 (1) Die zuständige Behörde stellt frühzeitig fest, ob nach den §§ 35 bis 37 eine Verpflichtung zur Durchführung einer Strategischen Umweltprüfung (SUP-Pflicht) besteht.
 
 (2) Die Feststellung der SUP-Pflicht ist, sofern eine Vorprüfung des Einzelfalls nach § 35 Absatz 2 oder § 37 vorgenommen worden ist, der Öffentlichkeit nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen zugänglich zu machen; soll eine Strategische Umweltprüfung unterbleiben, ist dies einschließlich der dafür wesentlichen Gründe bekannt zu geben. Die Feststellung ist nicht selbständig anfechtbar.
 
-##### § 35 SUP-Pflicht in bestimmten Plan- oder Programmbereichen und im Einzelfall
+###### § 35 SUP-Pflicht in bestimmten Plan- oder Programmbereichen und im Einzelfall
 
 (1) Eine Strategische Umweltprüfung ist durchzuführen bei Plänen und Programmen, die
 
@@ -681,21 +704,21 @@ Die Strategische Umweltprüfung (SUP) ist unselbständiger Teil behördlicher Ve
 
 (4) Hängt die Durchführung einer Strategischen Umweltprüfung von einer Vorprüfung des Einzelfalls ab, hat die zuständige Behörde aufgrund einer überschlägigen Prüfung unter Berücksichtigung der in Anlage 6 aufgeführten Kriterien einzuschätzen, ob der Plan oder das Programm voraussichtlich erhebliche Umweltauswirkungen hat, die im weiteren Aufstellungsverfahren nach § 43 Absatz 2 zu berücksichtigen wären. Bei der Vorprüfung nach Satz 1 ist zu berücksichtigen, inwieweit Umweltauswirkungen durch Vermeidungs- und Verminderungsmaßnahmen offensichtlich ausgeschlossen werden. Die in § 41 genannten Behörden sind bei der Vorprüfung nach Satz 1 zu beteiligen. Die Durchführung und das Ergebnis der Vorprüfung sind zu dokumentieren.
 
-##### § 36 SUP-Pflicht aufgrund einer Verträglichkeitsprüfung
+###### § 36 SUP-Pflicht aufgrund einer Verträglichkeitsprüfung
 
 Eine Strategische Umweltprüfung ist durchzuführen bei Plänen und Programmen, die einer Verträglichkeitsprüfung nach § 36 Satz 1 Nummer 2 des Bundesnaturschutzgesetzes unterliegen.
 
-##### § 37 Ausnahmen von der SUP-Pflicht
+###### § 37 Ausnahmen von der SUP-Pflicht
 
 Werden Pläne und Programme nach § 35 Absatz 1 und § 36 nur geringfügig geändert oder legen sie die Nutzung kleiner Gebiete auf lokaler Ebene fest, so ist eine Strategische Umweltprüfung nur dann durchzuführen, wenn eine Vorprüfung des Einzelfalls im Sinne von § 35 Absatz 4 ergibt, dass der Plan oder das Programm voraussichtlich erhebliche Umweltauswirkungen hat. Die §§ 13 und 13a des Baugesetzbuchs sowie § 8 Absatz 2 des Raumordnungsgesetzes bleiben unberührt.
 
 ## Abschnitt 2 Verfahrensschritte der Strategischen Umweltprüfung
 
-##### § 38 Vorrang anderer Rechtsvorschriften bei der SUP
+###### § 38 Vorrang anderer Rechtsvorschriften bei der SUP
 
 Unbeschadet des § 52 finden die Vorschriften dieses Abschnitts Anwendung, soweit Rechtsvorschriften des Bundes und der Länder die Strategische Umweltprüfung nicht näher bestimmen oder in ihren Anforderungen diesem Gesetz nicht entsprechen. Rechtsvorschriften mit weitergehenden Anforderungen bleiben unberührt.
 
-##### § 39 Festlegung des Untersuchungsrahmens
+###### § 39 Festlegung des Untersuchungsrahmens
 
 (1) Die für die Strategische Umweltprüfung zuständige Behörde legt den Untersuchungsrahmen der Strategischen Umweltprüfung einschließlich des Umfangs und Detaillierungsgrads der in den Umweltbericht nach § 40 aufzunehmenden Angaben fest.
 
@@ -705,7 +728,7 @@ Unbeschadet des § 52 finden die Vorschriften dieses Abschnitts Anwendung, sowei
 
 (4) Die Behörden, deren umwelt- und gesundheitsbezogener Aufgabenbereich durch den Plan oder das Programm berührt wird, werden bei der Festlegung des Untersuchungsrahmens der Strategischen Umweltprüfung sowie des Umfangs und Detaillierungsgrads der in den Umweltbericht aufzunehmenden Angaben beteiligt. Die zuständige Behörde gibt auf der Grundlage geeigneter Informationen den zu beteiligenden Behörden Gelegenheit zu einer Besprechung oder zur Stellungnahme über die nach Absatz 1 zu treffenden Festlegungen. Sachverständige, betroffene Gemeinden, nach § 60 Absatz 1 zu beteiligende Behörden, nach § 3 des Umwelt-Rechtsbehelfsgesetzes anerkannte Umweltvereinigungen sowie sonstige Dritte können hinzugezogen werden. Verfügen die zu beteiligenden Behörden über Informationen, die für den Umweltbericht zweckdienlich sind, übermitteln sie diese der zuständigen Behörde.
 
-##### § 40 Umweltbericht
+###### § 40 Umweltbericht
 
 (1) Die zuständige Behörde erstellt frühzeitig einen Umweltbericht. Dabei werden die voraussichtlichen erheblichen Umweltauswirkungen der Durchführung des Plans oder Programms sowie vernünftiger Alternativen ermittelt, beschrieben und bewertet.
 
@@ -735,25 +758,25 @@ Die Angaben nach Satz 1 sollen entsprechend der Art des Plans oder Programms Dri
 
 (4) Angaben, die der zuständigen Behörde aus anderen Verfahren oder Tätigkeiten vorliegen, können in den Umweltbericht aufgenommen werden, wenn sie für den vorgesehenen Zweck geeignet und hinreichend aktuell sind.
 
-##### § 41 Beteiligung anderer Behörden
+###### § 41 Beteiligung anderer Behörden
 
 Die zuständige Behörde übermittelt den Behörden, deren umwelt- und gesundheitsbezogener Aufgabenbereich durch den Plan oder das Programm berührt wird, den Entwurf des Plans oder Programms sowie den Umweltbericht und holt die Stellungnahmen dieser Behörden ein. Die zuständige Behörde setzt für die Abgabe der Stellungnahmen eine angemessene Frist von mindestens einem Monat.
 
-##### § 42 Beteiligung der Öffentlichkeit
+###### § 42 Beteiligung der Öffentlichkeit
 
-(1) Für die Öffentlichkeitsbeteiligung gelten § 18 Absatz 1 sowie die §§ 19, 21 Absatz 1 und § 22 entsprechend, soweit nachfolgend nichts anderes bestimmt wird.
+(1) Für die Öffentlichkeitsbeteiligung gelten § 18 Absatz 1 sowie die §§ 19, 22 entsprechend, soweit nachfolgend nichts anderes bestimmt wird.
 
 (2) Der Entwurf des Plans oder Programms, der Umweltbericht sowie weitere Unterlagen, deren Einbeziehung die zuständige Behörde für zweckmäßig hält, werden frühzeitig für eine angemessene Dauer von mindestens einem Monat öffentlich ausgelegt. Auslegungsorte sind unter Berücksichtigung von Art und Inhalt des Plans oder Programms von der zuständigen Behörde so festzulegen, dass eine wirksame Beteiligung der betroffenen Öffentlichkeit gewährleistet ist.
 
 (3) Die betroffene Öffentlichkeit kann sich zu dem Entwurf des Plans oder Programms und zu dem Umweltbericht äußern. Die zuständige Behörde bestimmt für die Äußerung eine angemessene Frist von mindestens einem Monat nach Ende der Auslegungsfrist. Mit Ablauf der Äußerungsfrist sind alle Äußerungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen. Hierauf ist in der Bekanntmachung der Auslegung oder bei der Bekanntgabe der Äußerungsfrist hinzuweisen. Ein Erörterungstermin ist durchzuführen, soweit Rechtsvorschriften des Bundes dies für bestimmte Pläne und Programme vorsehen.
 
-##### § 43 Abschließende Bewertung und Berücksichtigung
+###### § 43 Abschließende Bewertung und Berücksichtigung
 
 (1) Nach Abschluss der Behörden- und Öffentlichkeitsbeteiligung überprüft die zuständige Behörde die Darstellungen und Bewertungen des Umweltberichts unter Berücksichtigung der ihr nach den §§ 41, 42, 60 Absatz 1 und § 61 Absatz 1 übermittelten Stellungnahmen und Äußerungen. Bei der Überprüfung gelten die in § 40 Absatz 3 bestimmten Maßstäbe.
 
 (2) Das Ergebnis der Überprüfung nach Absatz 1 ist im Verfahren zur Aufstellung oder Änderung des Plans oder Programms zu berücksichtigen.
 
-##### § 44 Bekanntgabe der Entscheidung über die Annahme oder Ablehnung des Plans oder Programms
+###### § 44 Bekanntgabe der Entscheidung über die Annahme oder Ablehnung des Plans oder Programms
 
 (1) Die Annahme eines Plans oder Programms ist öffentlich bekannt zu machen. Die Ablehnung eines Plans oder Programms kann öffentlich bekannt gemacht werden.
 
@@ -767,7 +790,7 @@ Die zuständige Behörde übermittelt den Behörden, deren umwelt- und gesundhei
 
 4. eine Rechtsbehelfsbelehrung, soweit über die Annahme des Plans oder Programms nicht durch Gesetz entschieden wird.
 
-##### § 45 Überwachung
+###### § 45 Überwachung
 
 (1) Die erheblichen Umweltauswirkungen, die sich aus der Durchführung des Plans oder Programms ergeben, sind zu überwachen, um insbesondere frühzeitig unvorhergesehene nachteilige Auswirkungen zu ermitteln und geeignete Abhilfemaßnahmen ergreifen zu können. Die erforderlichen Überwachungsmaßnahmen sind mit der Annahme des Plans oder Programms auf der Grundlage der Angaben im Umweltbericht festzulegen.
 
@@ -779,31 +802,31 @@ Die zuständige Behörde übermittelt den Behörden, deren umwelt- und gesundhei
 
 (5) Zur Erfüllung der Anforderungen nach Absatz 1 können bestehende Überwachungsmechanismen, Daten- und Informationsquellen genutzt werden. § 40 Absatz 4 gilt entsprechend.
 
-##### § 46 Verbundene Prüfverfahren
+###### § 46 Verbundene Prüfverfahren
 
 Für einen Plan nach § 35 oder § 36, der einzeln oder im Zusammenwirken mit anderen Vorhaben, Projekten oder Plänen geeignet ist, ein Natura 2000-Gebiet erheblich zu beeinträchtigen, ist die Verträglichkeitsprüfung nach § 34 Absatz 1 des Bundesnaturschutzgesetzes im Verfahren zur Aufstellung oder Änderung des Plans vorzunehmen. Die Strategische Umweltprüfung kann mit der Prüfung nach Satz 1 und mit anderen Prüfungen zur Ermittlung oder Bewertung von Umweltauswirkungen verbunden werden.
 
 ## Teil 4 Besondere Verfahrensvorschriften für bestimmte Umweltprüfungen
 
-##### § 47 Linienbestimmung und Genehmigung von Flugplätzen
+###### § 47 Linienbestimmung und Genehmigung von Flugplätzen
 
-(1) Für die Linienbestimmung nach § 16 Absatz 1 des Bundesfernstraßengesetzes und für die Linienbestimmung nach § 13 Absatz 1 des Bundeswasserstraßengesetzes sowie im Verfahren zur Genehmigung von Flugplätzen nach § 6 Absatz 1 des Luftverkehrsgesetzes wird bei Vorhaben die Umweltverträglichkeit nach dem jeweiligen Planungsstand des Vorhabens geprüft. In die Prüfung der Umweltverträglichkeit sind bei der Linienbestimmung alle ernsthaft in Betracht kommenden Trassenvarianten einzubeziehen.
+(1) Für die Linienbestimmung nach § 13 Absatz 1 des Bundeswasserstraßengesetzes sowie im Verfahren zur Genehmigung von Flugplätzen nach § 6 Absatz 1 des Luftverkehrsgesetzes wird bei Vorhaben die Umweltverträglichkeit nach dem jeweiligen Planungsstand des Vorhabens geprüft. In die Prüfung der Umweltverträglichkeit sind bei der Linienbestimmung alle ernsthaft in Betracht kommenden Trassenvarianten einzubeziehen.
 
 (2) (weggefallen)
 
 (3) Im nachfolgenden Zulassungsverfahren kann die Prüfung der Umweltverträglichkeit auf zusätzliche erhebliche oder andere erhebliche Umweltauswirkungen des Vorhabens beschränkt werden.
 
-(4) Die Linienbestimmung nach § 16 Absatz 1 des Bundesfernstraßengesetzes und die Linienbestimmung nach § 13 Absatz 1 des Bundeswasserstraßengesetzes kann nur im Rahmen des Rechtsbehelfsverfahrens gegen die nachfolgende Zulassungsentscheidung überprüft werden.
+(4) Die Linienbestimmung nach § 13 Absatz 1 des Bundeswasserstraßengesetzes kann nur im Rahmen des Rechtsbehelfsverfahrens gegen die nachfolgende Zulassungsentscheidung überprüft werden.
 
-##### § 48 Raumordnungspläne
+###### § 48 Raumordnungspläne
 
-Besteht für die Aufstellung eines Raumordnungsplans nach diesem Gesetz die SUP-Pflicht, so wird die Strategische Umweltprüfung einschließlich der Überwachung nach dem Raumordnungsgesetz durchgeführt. Auf einen Raumordnungsplan nach Anlage 5 Nummer 1.5 oder 1.6, der Flächen für die Windenergienutzung oder für den Abbau von Rohstoffen ausweist, ist § 1 Absatz 1 Satz 1 Nummer 4 des Umwelt-Rechtsbehelfsgesetzes nicht anzuwenden.
+Besteht für die Aufstellung eines Raumordnungsplans nach diesem Gesetz die SUP-Pflicht, so wird die Strategische Umweltprüfung einschließlich der Überwachung nach dem Raumordnungsgesetz durchgeführt. Auf einen Raumordnungsplan nach Anlage 5 Nummer 1.5 oder 1.6, der Flächen für die Windenergienutzung oder für den Abbau von Rohstoffen ausweist sowie auf einen Plan, der Beschleunigungsgebiete für die Windenergie an Land nach § 28 des Raumordnungsgesetzes ausweist, ist § 1 Absatz 1a Satz 1 Nummer 2 des Umwelt-Rechtsbehelfsgesetzes nicht anzuwenden.
 
-##### § 49 Umweltverträglichkeitsprüfung bei Vorhaben mit Raumverträglichkeitsprüfung
+###### § 49 Umweltverträglichkeitsprüfung bei Vorhaben mit Raumverträglichkeitsprüfung
 
 In der Raumverträglichkeitsprüfung erfolgt die Prüfung der Umweltauswirkungen nur nach Maßgabe des Raumordnungsgesetzes. Die Umweltverträglichkeitsprüfung im nachfolgenden behördlichen Verfahren, das der Zulassungsentscheidung dient, umfasst eine vertiefte Prüfung der in der Raumverträglichkeitsprüfung nur überschlägig geprüften Umweltauswirkungen.
 
-##### § 50 Bauleitpläne
+###### § 50 Bauleitpläne
 
 (1) Werden Bebauungspläne im Sinne des § 2 Absatz 6 Nummer 3, insbesondere bei Vorhaben nach Anlage 1 Nummer 18.1 bis 18.9, aufgestellt, geändert oder ergänzt, so wird die Umweltverträglichkeitsprüfung einschließlich der Vorprüfung nach den §§ 1 und 2 Absatz 1 und 2 sowie nach den §§ 3 bis 13 im Aufstellungsverfahren als Umweltprüfung sowie die Überwachung nach den Vorschriften des Baugesetzbuchs durchgeführt. Eine nach diesem Gesetz vorgeschriebene Vorprüfung entfällt, wenn für den aufzustellenden Bebauungsplan eine Umweltprüfung nach den Vorschriften des Baugesetzbuchs durchgeführt wird.
 
@@ -811,21 +834,21 @@ In der Raumverträglichkeitsprüfung erfolgt die Prüfung der Umweltauswirkungen
 
 (3) Wird die Umweltverträglichkeitsprüfung in einem Aufstellungsverfahren für einen Bebauungsplan und in einem nachfolgenden Zulassungsverfahren durchgeführt, soll die Umweltverträglichkeitsprüfung im nachfolgenden Zulassungsverfahren auf zusätzliche oder andere erhebliche Umweltauswirkungen des Vorhabens beschränkt werden.
 
-##### § 51 Bergrechtliche Verfahren
+###### § 51 Bergrechtliche Verfahren
 
 Bei bergbaulichen Vorhaben, die in der Anlage 1 aufgeführt sind und dem Bergrecht unterliegen, werden die Umweltverträglichkeitsprüfung und die Überwachung des Vorhabens nach den Vorschriften des Bundesberggesetzes durchgeführt. Teil 2 Abschnitt 2 und 3 in Verbindung mit Anlage 4 findet nur Anwendung, soweit das Bundesberggesetz dies anordnet.
 
-##### § 52 Landschaftsplanungen
+###### § 52 Landschaftsplanungen
 
 Bei Landschaftsplanungen richten sich die Erforderlichkeit und die Durchführung einer Strategischen Umweltprüfung nach Landesrecht.
 
-##### § 53 Verkehrswegeplanungen auf Bundesebene
+###### § 53 Verkehrswegeplanungen auf Bundesebene
 
 (1) Bei Bedarfsplänen nach Nummer 1.1 der Anlage 5 ist eine Strategische Umweltprüfung nur für solche erheblichen Umweltauswirkungen erforderlich, die nicht bereits Gegenstand einer Strategischen Umweltprüfung im Verfahren zur Aufstellung oder Änderung von anderen Plänen und Programmen nach Nummer 1.1 der Anlage 5 waren.
 
-(2) Bei der Verkehrswegeplanung auf Bundesebene nach Nummer 1.1 der Anlage 5 werden bei der Erstellung des Umweltberichts in Betracht kommende vernünftige Alternativen, die die Ziele und den geographischen Anwendungsbereich des Plans oder Programms berücksichtigen, insbesondere alternative Verkehrsnetze und alternative Verkehrsträger ermittelt, beschrieben und bewertet. Auf die Verkehrswegeplanung auf Bundesebene ist § 1 Absatz 1 Satz 1 Nummer 4 des Umwelt-Rechtsbehelfsgesetzes nicht anzuwenden.
+(2) Bei der Verkehrswegeplanung auf Bundesebene nach Nummer 1.1 der Anlage 5 werden bei der Erstellung des Umweltberichts in Betracht kommende vernünftige Alternativen, die die Ziele und den geographischen Anwendungsbereich des Plans oder Programms berücksichtigen, insbesondere alternative Verkehrsnetze und alternative Verkehrsträger ermittelt, beschrieben und bewertet. Auf die Verkehrswegeplanung auf Bundesebene sind § 1 Absatz 1 Satz 1 Nummer 5 und § 1 Absatz 1a Satz 1 Nummer 2 des Umwelt-Rechtsbehelfsgesetzes nicht anzuwenden.
 
-(3) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz durch Rechtsverordnung ohne Zustimmung des Bundesrates für das Verfahren der Durchführung der Strategischen Umweltprüfung bei Plänen und Programmen nach Nummer 1.1 der Anlage 5 besondere Bestimmungen zur praktikablen und effizienten Durchführung zu erlassen über
+(3) Das Bundesministerium für Verkehr wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates für das Verfahren der Durchführung der Strategischen Umweltprüfung bei Plänen und Programmen nach Nummer 1.1 der Anlage 5 besondere Bestimmungen zur praktikablen und effizienten Durchführung zu erlassen über
 
 1. die Einzelheiten des Verfahrens zur Festlegung des Untersuchungsrahmens nach § 39 im Hinblick auf Besonderheiten der Verkehrswegeplanung,
 
@@ -837,13 +860,13 @@ Bei Landschaftsplanungen richten sich die Erforderlichkeit und die Durchführung
 
 5. die Form, den Zeitpunkt und die Berücksichtigung von Ergebnissen der Überwachung nach § 45.
 
-(4) Das Bundesministerium für Digitales und Verkehr wird ferner ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass die Länder zur Anmeldung von Verkehrsprojekten für Pläne und Programme nach Nummer 1.1 der Anlage 5 bestimmte vorbereitende Prüfungen vorzunehmen und deren Ergebnisse oder sonstigen Angaben beizubringen haben, die für die Durchführung der Strategischen Umweltprüfung notwendig sind.
+(4) Das Bundesministerium für Verkehr wird ferner ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass die Länder zur Anmeldung von Verkehrsprojekten für Pläne und Programme nach Nummer 1.1 der Anlage 5 bestimmte vorbereitende Prüfungen vorzunehmen und deren Ergebnisse oder sonstigen Angaben beizubringen haben, die für die Durchführung der Strategischen Umweltprüfung notwendig sind.
 
 ## Teil 5 Grenzüberschreitende Umweltprüfungen
 
 ## Abschnitt 1 Grenzüberschreitende Umweltverträglichkeitsprüfung
 
-##### § 54 Benachrichtigung eines anderen Staates
+###### § 54 Benachrichtigung eines anderen Staates
 
 (1) Wenn ein Vorhaben, für das eine UVP-Pflicht besteht, erhebliche grenzüberschreitende Umweltauswirkungen haben kann, benachrichtigt die zuständige deutsche Behörde frühzeitig die von dem anderen Staat benannte Behörde durch Übersendung geeigneter Unterlagen über das Vorhaben. Wenn der andere Staat keine Behörde benannt hat, so wird die oberste für Umweltangelegenheiten zuständige Behörde des anderen Staates benachrichtigt.
 
@@ -857,7 +880,7 @@ Bei Landschaftsplanungen richten sich die Erforderlichkeit und die Durchführung
 
 (6) Wenn ein Vorhaben, für das die UVP-Pflicht besteht, grenzüberschreitende Umweltauswirkungen haben kann und der andere Staat eine Beteiligung nicht wünscht, kann sich die betroffene Öffentlichkeit des anderen Staates am inländischen Beteiligungsverfahren nach Maßgabe der §§ 18 bis 22 beteiligen.
 
-##### § 55 Grenzüberschreitende Behördenbeteiligung bei inländischen Vorhaben
+###### § 55 Grenzüberschreitende Behördenbeteiligung bei inländischen Vorhaben
 
 (1) Die zuständige deutsche Behörde übermittelt der benannten Behörde des anderen Staates sowie weiteren von dieser angegebenen Behörden, soweit die Angaben nicht in der Benachrichtigung enthalten waren,
 
@@ -885,7 +908,7 @@ Die zuständige Behörde kann verlangen, dass ihr der Vorhabenträger eine Über
 
 (7) Die beteiligten Behörden des anderen Staates können ihre Mitteilungen und Stellungnahmen in einer ihrer Amtssprachen übermitteln.
 
-##### § 56 Grenzüberschreitende Öffentlichkeitsbeteiligung bei inländischen Vorhaben
+###### § 56 Grenzüberschreitende Öffentlichkeitsbeteiligung bei inländischen Vorhaben
 
 (1) Bei der grenzüberschreitenden Öffentlichkeitsbeteiligung kann sich die Öffentlichkeit des anderen Staates am Verfahren nach den §§ 18 bis 22 beteiligen.
 
@@ -905,7 +928,7 @@ c) dass im Verfahren zur Beteiligung der Öffentlichkeit mit Ablauf der festgele
 
 (4) Die Öffentlichkeit des anderen Staates kann ihre Äußerungen in einer ihrer Amtssprachen übermitteln.
 
-##### § 57 Übermittlung des Bescheids
+###### § 57 Übermittlung des Bescheids
 
 (1) Die zuständige deutsche Behörde übermittelt der benannten Behörde des anderen Staates sowie denjenigen Behörden des anderen Staates, die Stellungnahmen abgegeben haben, in deutscher Sprache den Zulassungsbescheid. Zusätzlich übermittelt sie in einer Amtssprache des anderen Staates
 
@@ -923,7 +946,7 @@ b) auf welche Art und Weise die Stellungnahmen der Behörden und die Äußerunge
 
 2. der Bescheid einschließlich der übersetzten Teile zugänglich gemacht wird.
 
-##### § 58 Grenzüberschreitende Behördenbeteiligung bei ausländischen Vorhaben
+###### § 58 Grenzüberschreitende Behördenbeteiligung bei ausländischen Vorhaben
 
 (1) Erhält die zuständige Behörde die Benachrichtigung eines anderen Staates über ein geplantes Vorhaben, für das in dem anderen Staat eine Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung besteht und das erhebliche Umweltauswirkungen in Deutschland haben kann, so ersucht die zuständige deutsche Behörde, soweit entsprechende Angaben der Benachrichtigung nicht bereits beigefügt sind, die zuständige Behörde des anderen Staates um Unterlagen über das Vorhaben, insbesondere um eine Beschreibung des Vorhabens und um Angaben über dessen Umweltauswirkungen in Deutschland. Die zuständige deutsche Behörde soll die zuständige Behörde des anderen Staates ersuchen, ihr in deutscher Sprache die Angaben des § 55 Absatz 2 zu übermitteln.
 
@@ -937,7 +960,7 @@ b) auf welche Art und Weise die Stellungnahmen der Behörden und die Äußerunge
 
 (6) Für Konsultationen mit dem anderen Staat gilt § 55 Absatz 5 entsprechend.
 
-##### § 59 Grenzüberschreitende Öffentlichkeitsbeteiligung bei ausländischen Vorhaben
+###### § 59 Grenzüberschreitende Öffentlichkeitsbeteiligung bei ausländischen Vorhaben
 
 (1) Auf der Grundlage der von dem anderen Staat zu diesem Zweck übermittelten Unterlagen macht die zuständige deutsche Behörde das Vorhaben in geeigneter Weise in den voraussichtlich betroffenen Gebieten der Öffentlichkeit bekannt.
 
@@ -951,7 +974,7 @@ b) auf welche Art und Weise die Stellungnahmen der Behörden und die Äußerunge
 
 ## Abschnitt 2 Grenzüberschreitende Strategische Umweltprüfung
 
-##### § 60 Grenzüberschreitende Behördenbeteiligung bei inländischen Plänen und Programmen
+###### § 60 Grenzüberschreitende Behördenbeteiligung bei inländischen Plänen und Programmen
 
 (1) Für die grenzüberschreitende Behördenbeteiligung bei Strategischen Umweltprüfungen gelten die Vorschriften über die Benachrichtigung eines anderen Staates nach § 54 und für die grenzüberschreitende Behördenbeteiligung nach § 55 entsprechend. Bei der Benachrichtigung der zuständigen Behörde eines anderen Staates ist ein Exemplar des Plan- oder Programmentwurfs und des Umweltberichts zu übermitteln.
 
@@ -965,7 +988,7 @@ b) auf welche Art und Weise die Stellungnahmen der Behörden und die Äußerunge
 
 (3) Die zuständige deutsche Behörde setzt eine angemessene Frist, innerhalb derer die zuständige Behörde des anderen Staates Gelegenheit zur Stellungnahme hat.
 
-##### § 61 Grenzüberschreitende Öffentlichkeitsbeteiligung bei inländischen Plänen und Programmen
+###### § 61 Grenzüberschreitende Öffentlichkeitsbeteiligung bei inländischen Plänen und Programmen
 
 (1) Für die grenzüberschreitende Öffentlichkeitsbeteiligung bei Strategischen Umweltprüfungen gilt § 56 entsprechend. Die in dem anderen Staat betroffene Öffentlichkeit kann sich am Verfahren nach § 42 beteiligen.
 
@@ -983,11 +1006,11 @@ b) die Stellungnahmen der Behörden und die Äußerungen der betroffenen Öffent
 
 4. sonstige Unterlagen, die für das Verfahren der grenzüberschreitenden Strategischen Umweltprüfung wesentlich sind.
 
-##### § 62 Grenzüberschreitende Behördenbeteiligung bei ausländischen Plänen und Programmen
+###### § 62 Grenzüberschreitende Behördenbeteiligung bei ausländischen Plänen und Programmen
 
 Für die Beteiligung der deutschen Behörden bei Plänen und Programmen eines anderen Staates gelten die Vorschriften für die grenzüberschreitende Behördenbeteiligung bei ausländischen Vorhaben nach § 58 und für die Konsultation mit dem anderen Staat nach § 55 Absatz 5 entsprechend.
 
-##### § 63 Grenzüberschreitende Öffentlichkeitsbeteiligung bei ausländischen Plänen und Programmen
+###### § 63 Grenzüberschreitende Öffentlichkeitsbeteiligung bei ausländischen Plänen und Programmen
 
 (1) Für die Beteiligung der deutschen Öffentlichkeit bei Plänen und Programmen eines anderen Staates gilt § 59 Absatz 1 bis 3 und 5 entsprechend.
 
@@ -995,21 +1018,21 @@ Für die Beteiligung der deutschen Behörden bei Plänen und Programmen eines an
 
 ## Abschnitt 3 Gemeinsame Vorschriften
 
-##### § 64 Völkerrechtliche Verpflichtungen
+###### § 64 Völkerrechtliche Verpflichtungen
 
 Weitergehende Regelungen zur Umsetzung völkerrechtlicher Verpflichtungen von Bund und Ländern bleiben unberührt.
 
 ## Teil 6 Vorschriften für bestimmte Leitungsanlagen (Anlage 1 Nummer 19)
 
-##### § 65 Planfeststellung; Plangenehmigung
+###### § 65 Planfeststellung; Plangenehmigung
 
 (1) Vorhaben, die in der Anlage 1 unter den Nummern 19.3 bis 19.9 aufgeführt sind, sowie die Änderung solcher Vorhaben bedürfen der Planfeststellung durch die zuständige Behörde, sofern dafür nach den §§ 6 bis 14 eine Verpflichtung zur Durchführung einer Umweltverträglichkeitsprüfung besteht.
 
-(2) Sofern keine Verpflichtung zur Durchführung einer Umweltverträglichkeitsprüfung besteht, bedarf das Vorhaben der Plangenehmigung. Die Plangenehmigung entfällt in Fällen von unwesentlicher Bedeutung. Diese liegen vor, wenn die Prüfwerte nach § 7 Absatz 1 und 2 für Größe und Leistung, die die Vorprüfung eröffnen, nicht erreicht werden oder die Voraussetzungen des § 74 Absatz 7 Satz 2 des Verwaltungsverfahrensgesetzes erfüllt sind; die §§ 10 bis 12 gelten entsprechend. Die Sätze 2 und 3 gelten nicht für Errichtung, Betrieb und Änderung von Rohrleitungsanlagen zum Befördern wassergefährdender Stoffe sowie für die Änderung ihres Betriebs, ausgenommen Änderungen von unwesentlicher Bedeutung.
+(2) Sofern keine Verpflichtung zur Durchführung einer Umweltverträglichkeitsprüfung besteht, bedarf das Vorhaben der Plangenehmigung. Die Plangenehmigung entfällt in Fällen von unwesentlicher Bedeutung. Diese liegen vor, wenn die Prüfwerte nach § 7 Absatz 1 und 2 für Größe und Leistung, die die Vorprüfung eröffnen, nicht erreicht werden oder die Voraussetzungen des § 74b des Verwaltungsverfahrensgesetzes erfüllt sind; die §§ 10 bis 12 gelten entsprechend. Die Sätze 2 und 3 gelten nicht für Errichtung, Betrieb und Änderung von Rohrleitungsanlagen zum Befördern wassergefährdender Stoffe sowie für die Änderung ihres Betriebs, ausgenommen Änderungen von unwesentlicher Bedeutung.
 
 (3) Für Vorhaben, die in der Anlage 1 Nummer 19.7 oder 19.8 aufgeführt sind und die zugleich die Errichtung, den Betrieb oder die Änderung von Wärmeleitungen betreffen, ist anstelle der Absätze 1 und 2 sowie anstelle der §§ 66 bis 69 der § 8 des Geothermie-Beschleunigungsgesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 348, S. 2) anzuwenden.
 
-##### § 66 Entscheidung; Nebenbestimmungen; Verordnungsermächtigung
+###### § 66 Entscheidung; Nebenbestimmungen; Verordnungsermächtigung
 
 (1) Der Planfeststellungsbeschluss darf nur ergehen, wenn
 
@@ -1079,7 +1102,7 @@ d) jederzeit Anlagen zu betreten sowie Grundstücke, die nicht unmittelbar zugeh
 
 6. die Befugnis für behördliche Anordnungen im Einzelfall.
 
-In der Rechtsverordnung können Vorschriften über die Einsetzung technischer Kommissionen getroffen werden. Die Kommissionen sollen die Bundesregierung oder das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz in technischen Fragen beraten. Sie schlagen dem Stand der Technik entsprechende Regeln (technische Regeln) unter Berücksichtigung der für andere Schutzziele vorhandenen Regeln und, soweit dessen Zuständigkeiten berührt sind, in Abstimmung mit der Kommission für Anlagensicherheit nach § 51a Absatz 1 des Bundes-Immissionsschutzgesetzes vor. In die Kommissionen sind Vertreter der beteiligten Bundesbehörden und Landesbehörden, der Sachverständigen, Sachverständigenorganisationen und zugelassenen Überwachungsstellen, der Wissenschaft sowie der Hersteller und Betreiber von Leitungsanlagen zu berufen. Technische Regeln können vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz im Bundesanzeiger veröffentlicht werden. In der Rechtsverordnung können auch die Stoffe, die geeignet sind, die Wasserbeschaffenheit nachteilig zu verändern (wassergefährdende Stoffe im Sinne von Nummer 19.3 der Anlage 1), bestimmt werden. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird durch Satz 1 Nummer 2a Buchstabe c eingeschränkt.
+In der Rechtsverordnung können Vorschriften über die Einsetzung technischer Kommissionen getroffen werden. Die Kommissionen sollen die Bundesregierung oder das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit in technischen Fragen beraten. Sie schlagen dem Stand der Technik entsprechende Regeln (technische Regeln) unter Berücksichtigung der für andere Schutzziele vorhandenen Regeln und, soweit dessen Zuständigkeiten berührt sind, in Abstimmung mit der Kommission für Anlagensicherheit nach § 51a Absatz 1 des Bundes-Immissionsschutzgesetzes vor. In die Kommissionen sind Vertreter der beteiligten Bundesbehörden und Landesbehörden, der Sachverständigen, Sachverständigenorganisationen und zugelassenen Überwachungsstellen, der Wissenschaft sowie der Hersteller und Betreiber von Leitungsanlagen zu berufen. Technische Regeln können vom Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit im Bundesanzeiger veröffentlicht werden. In der Rechtsverordnung können auch die Stoffe, die geeignet sind, die Wasserbeschaffenheit nachteilig zu verändern (wassergefährdende Stoffe im Sinne von Nummer 19.3 der Anlage 1), bestimmt werden. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird durch Satz 1 Nummer 2a Buchstabe c eingeschränkt.
 
 (7) Die Bundesregierung wird ermächtigt, für Rohrleitungsanlagen, die keiner Planfeststellung oder Plangenehmigung bedürfen, nach Anhörung der beteiligten Kreise im Sinne von § 23 Absatz 2 des Wasserhaushaltsgesetzes durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -1089,11 +1112,11 @@ In der Rechtsverordnung können Vorschriften über die Einsetzung technischer Ko
 
 (8) Für Anlagen, die militärischen Zwecken dienen, obliegen dem Bundesministerium der Verteidigung und den von ihm benannten Stellen die Aufgaben des Vollzugs und der Überwachung.
 
-##### § 67 Verfahren; Verordnungsermächtigung
+###### § 67 Verfahren; Verordnungsermächtigung
 
 Für die Durchführung des Planfeststellungsverfahrens und des Plangenehmigungsverfahrens gelten die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Einzelheiten des Planfeststellungsverfahrens, insbesondere zu Art und Umfang der Antragsunterlagen, zu regeln.
 
-##### § 67a Zulassung des vorzeitigen Baubeginns
+###### § 67a Zulassung des vorzeitigen Baubeginns
 
 (1) In einem Planfeststellungs- oder Plangenehmigungsverfahren für ein Vorhaben nach § 65 Absatz 1 in Verbindung mit der Anlage 1 Nummer 19.7 kann die für die Feststellung des Plans oder für die Erteilung der Plangenehmigung zuständige Behörde vorläufig zulassen, dass bereits vor Feststellung des Plans oder der Erteilung der Plangenehmigung in Teilen mit der Errichtung oder Änderung der Rohrleitungsanlage einschließlich der Vorarbeiten begonnen wird, wenn
 
@@ -1119,13 +1142,13 @@ Ausnahmsweise können irreversible Maßnahmen zugelassen werden, wenn sie nur wi
 
 (4) Widerspruch und Anfechtungsklage gegen die Zulassung des vorzeitigen Baubeginns haben keine aufschiebende Wirkung.
 
-##### § 68 Überwachung
+###### § 68 Überwachung
 
 (1) Die zuständige Behörde hat durch geeignete Maßnahmen zu überwachen, dass Vorhaben, die in Anlage 1 unter den Nummern 19.3 bis 19.9 aufgeführt sind, im Einklang mit den umweltbezogenen Bestimmungen des Zulassungsbescheids nach § 65 durchgeführt werden. Bei UVP-pflichtigen Vorhaben gilt dies insbesondere für die im Planfeststellungsbescheid festgelegten Merkmale des Vorhabens und des Standorts, für die Maßnahmen, mit denen erhebliche nachteilige Umweltauswirkungen ausgeschlossen, vermindert oder ausgeglichen werden sollen, sowie für die Ersatzmaßnahmen bei Eingriffen in Natur und Landschaft.
 
 (2) Die Überwachung nach Absatz 1 kann dem Vorhabenträger aufgegeben werden, soweit dies nach landesrechtlichen Vorschriften vorgesehen ist.
 
-##### § 69 Bußgeldvorschriften
+###### § 69 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1143,7 +1166,7 @@ b) § 66 Absatz 6 Satz 1 Nummer 2, auch in Verbindung mit Absatz 7 Nummer 2, ode
 
 ## Teil 7 Schlussvorschriften
 
-##### § 70 Ermächtigung zum Erlass von Verwaltungsvorschriften
+###### § 70 Ermächtigung zum Erlass von Verwaltungsvorschriften
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften erlassen, insbesondere über
 
@@ -1159,15 +1182,15 @@ Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvo
 
 6. Grundsätze für die Überwachung nach den §§ 28, 45 und 68.
 
-##### § 71 Bestimmungen zum Verwaltungsverfahren
+###### § 71 Bestimmungen zum Verwaltungsverfahren
 
 Von den Regelungen des Verwaltungsverfahrens, die in diesem Gesetz und aufgrund dieses Gesetzes getroffen werden, kann durch Landesrecht nur in dem Umfang abgewichen werden, der in § 1 Absatz 4 und § 38 bestimmt ist.
 
-##### § 72 Vermeidung von Interessenkonflikten
+###### § 72 Vermeidung von Interessenkonflikten
 
 Ist die zuständige Behörde bei der Umweltverträglichkeitsprüfung zugleich Vorhabenträger, so ist die Unabhängigkeit des Behördenhandelns bei der Wahrnehmung der Aufgaben nach diesem Gesetz durch geeignete organisatorische Maßnahmen sicherzustellen, insbesondere durch eine angemessene funktionale Trennung.
 
-##### § 73 Berichterstattung an die Europäische Kommission
+###### § 73 Berichterstattung an die Europäische Kommission
 
 (1) Zur Vorbereitung der Berichterstattung an die Europäische Kommission teilen die zuständigen Behörden des Bundes und der Länder dem für Umweltschutz zuständigen Bundesministerium erstmals am 31. März 2023 und sodann alle sechs Jahre für ihren Zuständigkeitsbereich folgende Angaben mit:
 
@@ -1185,7 +1208,7 @@ a) aller im Betrachtungszeitraum durchgeführten Umweltverträglichkeitsprüfung
 
 b) der Umweltverträglichkeitsprüfungen, die im Betrachtungszeitraum für Vorhaben kleiner und mittlerer Unternehmen durchgeführt worden sind.
 
-##### § 74 Übergangsvorschrift
+###### § 74 Übergangsvorschrift
 
 (1) Für Vorhaben, für die das Verfahren zur Feststellung der UVP-Pflicht im Einzelfall nach § 3c oder nach § 3e Absatz 1 Nummer 2 in der Fassung dieses Gesetzes, die vor dem 16. Mai 2017 galt, vor dem 16. Mai 2017 eingeleitet wurde, sind die Vorschriften des Teils 2 Abschnitt 1 über die Vorprüfung des Einzelfalls in der bis dahin geltenden Fassung weiter anzuwenden.
 
@@ -1219,7 +1242,9 @@ b) der Umweltverträglichkeitsprüfungen, die im Betrachtungszeitraum für Vorha
 
 (13) Für Verfahren nach § 4, die der Entscheidung über die Zulässigkeit von Vorhaben nach Nummer 17.3 der Anlage 1 dienen, ist dieses Gesetz nur anzuwenden, wenn das Verfahren nach dem 1. August 2013 eingeleitet worden ist.
 
-##### Anlage 1 Liste „UVP-pflichtige Vorhaben“
+(14) Für Verfahren gemäß § 18 Absatz 1 Satz 1 bis 3 des Allgemeinen Eisenbahngesetzes sind die Nummern 14.7, 14.8 und 19.13 der Anlage 1 sowie die §§ 14a und 21 Absatz 3 dieses Gesetzes in der Fassung bis einschließlich 28. Juli 2026 anwendbar, wenn das Verfahren vor dem 1. Dezember 2026 eingeleitet wurde.
+
+###### Anlage 1 Liste „UVP-pflichtige Vorhaben“
 
 (Fundstelle: BGBl. I 2021, 565 – 582;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1244,13 +1269,13 @@ Nr.VorhabenSp. 1Sp. 2
 
 1.1Errichtung und Betrieb einer Anlage zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas durch den Einsatz von Brennstoffen in einer Verbrennungseinrichtung (wie Kraftwerk, Heizkraftwerk, Heizwerk, Gasturbine, Verbrennungsmotoranlage, sonstige Feuerungsanlage), einschließlich des jeweils zugehörigen Dampfkessels, mit einer Feuerungswärmeleistung von
 
-1.1.1mehr als 200 MW,X
+1.1.1mehr als 300 MW,X
 
-1.1.250 MW bis 200 MW;A
+1.1.250 MW bis 300 MW;A
 
 1.2Errichtung und Betrieb einer Anlage zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas in einer Verbrennungseinrichtung (wie Kraftwerk, Heizkraftwerk, Heizwerk, Gasturbinenanlage, Verbrennungsmotoranlage, sonstige Feuerungsanlage), einschließlich des jeweils zugehörigen Dampfkessels, ausgenommen Verbrennungsmotoranlagen für Bohranlagen und Notstromaggregate, durch den Einsatz von
 
-1.2.1Kohle, Koks einschließlich Petrolkoks, Kohlebriketts, Torfbriketts, Brenntorf, naturbelassenem Holz, emulgiertem Naturbitumen, Heizölen, ausgenommen Heizöl EL, mit einer Feuerungswärmeleistung von 1 MW bis weniger als 50 MW,S
+1.2.1Kohle, Koks einschließlich Petrolkoks, Kohlebriketts, Torfbriketts, Brenntorf, naturbelassenem Holz sowie in der eigenen Produktionsanlage anfallendem Holz mit Ausnahme von Holz, das infolge einer Behandlung mit Holzschutzmitteln oder infolge einer Beschichtung halogenorganische Verbindungen oder Schwermetalle enthält, emulgiertem Naturbitumen, Heizölen, ausgenommen Heizöl EL, mit einer Feuerungswärmeleistung von 1 MW bis weniger als 50 MW,S
 
 1.2.2gasförmigen Brennstoffen (insbesondere Koksofengas, Grubengas, Stahlgas, Raffineriegas, Synthesegas, Erdölgas aus der Tertiärförderung von Erdöl, Klärgas, Biogas), ausgenommen naturbelassenem Erdgas, Flüssiggas, Gasen der öffentlichen Gasversorgung oder Wasserstoff, mit einer Feuerungswärmeleistung von
 
@@ -1274,19 +1299,19 @@ Nr.VorhabenSp. 1Sp. 2
 
 1.4Errichtung und Betrieb einer Verbrennungsmotoranlage oder Gasturbinenanlage zum Antrieb von Arbeitsmaschinen für den Einsatz von
 
-1.4.1Heizöl EL, Dieselkraftstoff, Methanol, Ethanol, naturbelassenen Pflanzenölen, Pflanzenölmethylestern Koksofengas, Grubengas, Stahlgas, Raffineriegas, Synthesegas, Erdölgas aus der Tertiärförderung von Erdöl, Klärgas, Biogas, naturbelassenem Erdgas, Flüssiggas, Gasen der öffentlichen Gasversorgung oder Wasserstoff mit einer Feuerungswärmeleistung von
+1.4.1Heizöl EL, Dieselkraftstoffen, Methanol, Ethanol, naturbelassenen Pflanzenölen, Pflanzenölmethylestern Koksofengas, Grubengas, Stahlgas, Raffineriegas, Synthesegas, Erdölgas aus der Tertiärförderung von Erdöl, Klärgas, Biogas, naturbelassenem Erdgas, Flüssiggas, Gasen der öffentlichen Gasversorgung oder Wasserstoff mit einer Feuerungswärmeleistung von
 
-1.4.1.1mehr als 200 MW,X
+1.4.1.1mehr als 300 MW,X
 
-1.4.1.250 MW bis 200 MW,A
+1.4.1.250 MW bis 300 MW,A
 
-1.4.1.31 MW bis weniger als 50 MW, ausgenommen Verbrennungsmotoranlagen für Bohranlagen,S
+1.4.1.31 MW bis weniger als 50 MW, ausgenommen Verbrennungsmotoranlagen für Bohranlagen und zum Notbetrieb,S
 
 1.4.2anderen als in Nummer 1.4.1 genannten Brennstoffen mit einer Feuerungswärmeleistung von
 
-1.4.2.1mehr als 200 MW,X
+1.4.2.1mehr als 300 MW,X
 
-1.4.2.250 MW bis 200 MW,A
+1.4.2.250 MW bis 300 MW,A
 
 1.4.2.31 MW bis weniger als 50 MW;S
 
@@ -1302,11 +1327,11 @@ Nr.VorhabenSp. 1Sp. 2
 
 1.7Errichtung und Betrieb einer Anlage zum Brikettieren von Braun- oder Steinkohle;X
 
-1.8Errichtung und Betrieb einer Anlage zur Trockendestillation von Steinkohle oder Braunkohle (z. B. Kokerei, Gaswerk, Schwelerei) mit einem Durchsatz von
+1.8Errichtung und Betrieb einer Anlage zur Erzeugung von Koks aus Steinkohle oder Braunkohle mit einem Durchsatz von
 
 1.8.1500 t oder mehr je Tag,X
 
-1.8.2weniger als 500 t je Tag, ausgenommen Holzkohlenmeiler;A
+1.8.2weniger als 500 t je Tag;A
 
 1.9Errichtung und Betrieb einer Anlage zur Vergasung oder Verflüssigung von Kohle oder bituminösem Schiefer mit einem Durchsatz von
 
@@ -1322,35 +1347,29 @@ Nr.VorhabenSp. 1Sp. 2
 
 1.10.3mit einer Abscheidungsleistung von weniger als 1,5 Mio. t pro Jahr;A
 
-1.11Errichtung und Betrieb einer Anlage zur
-
-1.11.1Erzeugung von Biogas, soweit nicht durch Nummer 8.4 erfasst, mit einer Produktionskapazität von
-
-1.11.1.12 Mio. Normkubikmetern oder mehr Rohgas je Jahr,A
-
-1.11.1.21,2 Mio. bis weniger als 2 Mio. Normkubikmetern Rohgas je Jahr,S
-
-1.11.2Aufbereitung von Biogas mit einer Verarbeitungskapazität von
-
-1.11.2.12 Mio. Normkubikmetern oder mehr Rohgas je Jahr,A
-
-1.11.2.21,2 Mio. bis weniger als 2 Mio. Normkubikmetern Rohgas je Jahr;S
+1.11(weggefallen)
 
 2.Steine und Erden, Glas, Keramik, Baustoffe:
 
 2.1Errichtung und Betrieb eines Steinbruchs mit einer Abbaufläche von
 
-2.1.125 ha oder mehr,X
+2.1.1mehr als 25 ha,X
 
-2.1.210 ha bis weniger als 25 ha,A
+2.1.210 ha bis 25 ha,A
 
 2.1.3weniger als 10 ha, soweit Sprengstoffe verwendet werden;S
 
-2.2Errichtung und Betrieb einer Anlage zur Herstellung von Zementklinkern oder Zementen mit einer Produktionskapazität von
+2.2Errichtung und Betrieb einer Anlage zur Herstellung von Zementklinkern oder Zementen
 
-2.2.11 000 t oder mehr je Tag,X
+2.2.1mit einer Produktionskapazität von 500 t oder mehr je Tag, soweit in Drehrohröfen hergestellt,A
 
-2.2.2weniger als 1 000 t je Tag;A
+2.2.2mit einer Produktionskapazität von 50 t oder mehr je Tag, soweit in anderen als Drehrohröfen hergestellt,A
+
+2.2.3mit einer Produktionskapazität von weniger als 500 t je Tag, soweit in Drehrohröfen hergestellt,S
+
+2.2.4mit einer Produktionskapazität von weniger als 50 t je Tag, soweit in anderen als Drehrohröfen hergestellt,S
+
+2.2.5ohne verbundenen Brennprozess (reine Mahlanlagen);S
 
 2.3Errichtung und Betrieb einer Anlage zur Gewinnung von Asbest;X
 
@@ -1368,37 +1387,45 @@ Nr.VorhabenSp. 1Sp. 2
 
 2.5Errichtung und Betrieb einer Anlage zur Herstellung von Glas, auch soweit es aus Altglas hergestellt wird, einschließlich Anlagen zur Herstellung von Glasfasern mit einer Schmelzkapazität von
 
-2.5.1200 000 t oder mehr je Jahr oder bei Flachglasanlagen, die nach dem Floatglasverfahren betrieben werden, 100 000 t oder mehr je Jahr,X
+2.5.120 t oder mehr je Tag,A
 
-2.5.220 t je Tag bis weniger als in der vorstehenden Nummer angegeben,A
+2.5.2100 kg bis weniger als 20 t je Tag, ausgenommen Anlagen zur Herstellung von Glasfasern, die für medizinische oder fernmeldetechnische Zwecke bestimmt sind;S
 
-2.5.3100 kg bis weniger als 20 t je Tag, ausgenommen Anlagen zur Herstellung von Glasfasern, die für medizinische oder fernmeldetechnische Zwecke bestimmt sind;S
+2.5.3(weggefallen)
 
 2.6Errichtung und Betrieb einer Anlage zum Brennen keramischer Erzeugnisse (einschließlich Anlagen zum Blähen von Ton) mit einer Produktionskapazität von
 
 2.6.175 t oder mehr je Tag,A
 
-2.6.2weniger als 75 t je Tag, soweit der Rauminhalt der Brennanlage 4 m3 oder mehr beträgt oder die Besatzdichte mehr als 100 kg je Kubikmeter Rauminhalt der Brennanlage beträgt, ausgenommen elektrisch beheizte Brennöfen, die diskontinuierlich und ohne Abluftführung betrieben werden;S
+2.6.22 t bis weniger als 75 t je Tag, soweit der Rauminhalt der Brennanlage 4 m3 oder mehr beträgt oder die Besatzdichte mehr als 100 kg je Kubikmeter Rauminhalt der Brennanlage beträgt, ausgenommen elektrisch beheizte Brennöfen, die diskontinuierlich und ohne Abluftführung betrieben werden;S
 
 2.7Errichtung und Betrieb einer Anlage zum Schmelzen mineralischer Stoffe, einschließlich Anlagen zur Herstellung von Mineralfasern;A
 
 3.Stahl, Eisen und sonstige Metalle einschließlich Verarbeitung:
 
-3.1Errichtung und Betrieb einer Anlage zum Rösten (Erhitzen unter Luftzufuhr zur Überführung in Oxide) oder Sintern (Stückigmachen von feinkörnigen Stoffen durch Erhitzen) von Erzen;X
+3.1Errichtung und Betrieb einer Anlage zum Rösten (Erhitzen unter Luftzufuhr zur Überführung in Oxide) oder Sintern (Stückigmachen von feinkörnigen Stoffen durch Erhitzen) von Erzen;A
 
 3.2Errichtung und Betrieb eines integrierten Hüttenwerkes (Anlage zur Herstellung oder zum Erschmelzen von Roheisen und zur Weiterverarbeitung zu Rohstahl, bei der sich Gewinnungs- und Weiterverarbeitungseinheiten nebeneinander befinden und in funktioneller Hinsicht miteinander verbunden sind);X
 
-3.3Errichtung und Betrieb einer Anlage zur Herstellung oder zum Erschmelzen von Roheisen oder Stahl einschließlich Stranggießen, auch soweit Konzentrate oder sekundäre Rohstoffe eingesetzt werden, mit einer Schmelzkapazität von
+3.3Errichtung und Betrieb einer Anlage zur Herstellung von
 
-3.3.12,5 t Roheisen oder Stahl je Stunde oder mehr,A
+3.3.1Roheisen oder Stahl einschließlich Stranggießen, auch soweit Konzentrate oder sekundäre Rohstoffe eingesetzt werden, mit einer Schmelzkapazität von
 
-3.3.2weniger als 2,5 t Stahl je Stunde;S
+3.3.1.12,5 t oder mehr je Stunde,A
+
+3.3.1.2weniger als 2,5 t je Stunde,S
+
+3.3.2direkt reduziertem Eisen mit einer Produktionskapazität von
+
+3.3.2.12,5 t oder mehr je Stunde,A
+
+3.3.2.2weniger als 2,5 t je Stunde;S
 
 3.4Errichtung und Betrieb einer Anlage zur Herstellung von Nichteisenrohmetallen aus Erzen, Konzentraten oder sekundären Rohstoffen durch metallurgische, chemische oder elektrolytische Verfahren;X
 
 3.5Errichtung und Betrieb einer Anlage zum Schmelzen, zum Legieren oder zur Raffination von Nichteisenmetallen mit einer Schmelzkapazität von
 
-3.5.1100 000 t oder mehr je Jahr,X
+3.5.1100 000 t oder mehr je Jahr,A
 
 3.5.24 t oder mehr je Tag bei Blei und Cadmium oder von 20 t oder mehr je Tag bei sonstigen Nichteisenmetallen, jeweils bis weniger als 100 000 t je Jahr,A
 
@@ -1408,17 +1435,17 @@ Nr.VorhabenSp. 1Sp. 2
 
 3.7Errichtung und Betrieb einer Eisen-, Temper- oder Stahlgießerei mit einer Verarbeitungskapazität an Flüssigmetall von
 
-3.7.1200 000 t oder mehr je Jahr,X
+3.7.1200 000 t oder mehr je Jahr,A
 
 3.7.220 t oder mehr je Tag,A
 
 3.7.32 t bis weniger als 20 t je Tag;S
 
-3.8Errichtung und Betrieb einer Anlage zum Aufbringen von metallischen Schutzschichten auf Metalloberflächen mit Hilfe von schmelzflüssigen Bädern mit einer Verarbeitungskapazität von
+3.8Errichtung und Betrieb einer Anlage zum Aufbringen von metallischen Schutzschichten auf Eisenmetalloberflächen mit Hilfe von schmelzflüssigen Bädern mit einer Verarbeitungskapazität von
 
-3.8.1100 000 t Rohgut oder mehr je Jahr,X
+3.8.1(weggefallen)
 
-3.8.22 t Rohgut je Stunde bis weniger als 100 000 t Rohgut je Jahr,A
+3.8.22 t Rohgut je Stunde oder mehr,A
 
 3.8.3500 kg bis weniger als 2 t Rohgut je Stunde, ausgenommen Anlagen zum kontinuierlichen Verzinken nach dem Sendzimirverfahren;S
 
@@ -1436,9 +1463,9 @@ Nr.VorhabenSp. 1Sp. 2
 
 3.11Errichtung und Betrieb einer Anlage zur Sprengverformung oder zum Plattieren mit Sprengstoffen bei einem Einsatz von 10 kg Sprengstoff oder mehr je Schuss;A
 
-3.12Errichtung und Betrieb einer Schiffswerft
-
 3.12.1zum Bau von Seeschiffen mit einer Größe von 100 000 Bruttoregistertonnen,X
+
+3.12Errichtung und Betrieb einer Schiffswerft zur Herstellung oder Reparatur von Schiffskörpern oder Schiffssektionen aus Metall mit einer Länge von 20 m oder mehr;A
 
 3.12.2zur Herstellung oder Reparatur von Schiffskörpern oder Schiffssektionen aus Metall mit einer Länge von 20 m oder mehr, soweit nicht ein Fall der vorstehenden Nummer vorliegt;A
 
@@ -1466,7 +1493,7 @@ Nr.VorhabenSp. 1Sp. 2
 
 6.1Errichtung und Betrieb einer Anlage zur Gewinnung von Zellstoff aus Holz, Stroh oder ähnlichen Faserstoffen;X
 
-6.2Errichtung und Betrieb einer Anlage zur Herstellung von Papier oder Pappe mit einer Produktionskapazität von
+6.2Errichtung und Betrieb einer Anlage zur Herstellung von Papier, Karton oder Pappe, mit Ausnahme von Anlagen zur Weiterverarbeitung von Papier zu Wellpappe, mit einer Produktionskapazität von
 
 6.2.1200 t oder mehr je Tag,X
 
@@ -1558,29 +1585,29 @@ Nr.VorhabenSp. 1Sp. 2
 
 7.12(weggefallen)
 
-7.13Errichtung und Betrieb einer Anlage zum Schlachten von Tieren mit einer Kapazität von
+7.13Errichtung und Betrieb einer Anlage zum Schlachten von Tieren mit einer Produktionskapazität von
 
-7.13.150 t Lebendgewicht oder mehr je Tag,A
+7.13.150 t Schlachtkörper oder mehr je Tag,A
 
-7.13.20,5 t bis weniger als 50 t Lebendgewicht je Tag bei Geflügel oder 4 t bis weniger als 50 t Lebendgewicht je Tag bei sonstigen Tieren;S
+7.13.24 t je Woche bis weniger als 50 t Schlachtkörper je Tag bei Geflügel oder 20 t je Woche bis weniger als 50 t Schlachtkörper je Tag bei sonstigen Tieren;S
 
 7.14Errichtung und Betrieb einer Anlage zur Erzeugung von Speisefetten aus tierischen Rohstoffen, ausgenommen Milch, mit einer Produktionskapazität von
 
 7.14.175 t Fertigerzeugnissen oder mehr je Tag,A
 
-7.14.2weniger als 75 t Fertigerzeugnissen je Tag, ausgenommen Anlagen zur Erzeugung von Speisefetten aus selbstgewonnenen tierischen Fetten in Fleischereien mit einer Kapazität von bis zu 200 kg Speisefett je Woche;S
+7.14.2weniger als 75 t Fertigerzeugnissen je Tag, ausgenommen Anlagen mit einer Kapazität von weniger als 200 kg Speisefett je Woche;S
 
 7.15Errichtung und Betrieb einer Anlage zum Schmelzen von tierischen Fetten mit einer Produktionskapazität von
 
 7.15.175 t Fertigerzeugnissen oder mehr je Tag,A
 
-7.15.2weniger als 75 t Fertigerzeugnissen je Tag, ausgenommen Anlagen zur Verarbeitung von selbstgewonnenen tierischen Fetten zu Speisefetten in Fleischereien mit einer Kapazität von bis zu 200 kg Speisefett je Woche;S
+7.15.2weniger als 75 t Fertigerzeugnissen je Tag, ausgenommen Anlagen mit einer Kapazität von weniger als 200 kg Speisefett je Woche;S
 
-7.16Errichtung und Betrieb einer Anlage zur Herstellung von Fleischkonserven mit einer Produktionskapazität von
+7.16Errichtung und Betrieb einer Anlage zur Herstellung von Nahrungs- oder Futtermittelkonserven aus tierischen Rohstoffen, allein, ausgenommen bei Verarbeitung von ausschließlich Milch, oder mit pflanzlichen Rohstoffen, mit einer Produktionskapazität von
 
-7.16.175 t Konserven oder mehr je Tag,A
+7.16.1P t Konserven oder mehr je Tag gemäß Mischungsregel in Anhang 1 der Verordnung über genehmigungsbedürftige Anlagen,A
 
-7.16.21 t bis weniger als 75 t Konserven je Tag;S
+7.16.21 t bis weniger als P t Konserven gemäß Mischungsregel in Anhang 1 der Verordnung über genehmigungsbedürftige Anlagen;S
 
 7.17Errichtung und Betrieb einer Anlage zur Herstellung von Gemüsekonserven mit einer Produktionskapazität von
 
@@ -1588,31 +1615,31 @@ Nr.VorhabenSp. 1Sp. 2
 
 7.17.2300 t Konserven oder mehr je Tag, wenn die Anlage an mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb ist,A
 
-7.17.310 t bis weniger als den in den Nummern 7.17.1 oder 7.17.2 angegebenen Kapazitäten für Tonnen Konserven je Tag und unter den dort genannten Voraussetzungen im Übrigen, ausgenommen Anlagen zum Sterilisieren oder Pasteurisieren dieser Nahrungsmittel in geschlossenen Behältnissen;S
+7.17.310 t bis weniger als den in den Nummern 7.17.1 oder 7.17.2 angegebenen Kapazitäten für Tonnen Konserven je Tag und unter den dort genannten Voraussetzungen im Übrigen, ausgenommen Anlagen zum Sterilisieren oder Pasteurisieren dieser Nahrungsmittel in geschlossenen Behältnissen ohne vorgelagerte Prozesse, die Erwärmung beinhalten;S
 
-7.18Errichtung und Betrieb einer Anlage zur Herstellung von Futtermittelerzeugnissen aus tierischen Rohstoffen, soweit in einer solchen Anlage eine fabrikmäßige Herstellung von Tierfutter durch Erwärmen der Bestandteile tierischer Herkunft erfolgt,A
+7.18(weggefallen)
 
-7.19Errichtung und Betrieb einer Anlage zur Beseitigung oder Verwertung von Tierkörpern oder tierischen Abfällen mit einer Verarbeitungskapazität von
+7.19Errichtung und Betrieb einer Anlage zur Beseitigung oder Verwertung von Tierkörpern oder tierischen Nebenprodukten mit einer Verarbeitungskapazität von
 
 7.19.110 t oder mehr je Tag,A
 
 7.19.2weniger als 10 t je Tag;S
 
-7.20Errichtung und Betrieb einer Anlage zum Gerben einschließlich Nachgerben von Tierhäuten oder Tierfellen mit einer Verarbeitungskapazität von
+7.20Errichtung und Betrieb einer Anlage zum Gerben einschließlich Nachgerben von Tierhäuten oder Tierfellen mit einer Produktionskapazität von
 
 7.20.112 t Fertigerzeugnissen oder mehr je Tag,A
 
-7.20.2weniger als 12 t Fertigerzeugnissen je Tag, ausgenommen Anlagen, in denen weniger Tierhäute oder Tierfelle behandelt werden als beim Schlachten von weniger als 4 t sonstigen Tieren nach Nummer 7.13.2 anfallen;S
+7.20.2weniger als 12 t Fertigerzeugnissen je Tag, ausgenommen Anlagen, in denen je Woche weniger Tierhäute oder Tierfelle behandelt werden können als beim Schlachten von weniger als 20 Tonnen sonstiger Tiere je Woche nach Nummer 7.13.2 anfallen;S
 
-7.21Errichtung und Betrieb einer Anlage zur Herstellung von Fischmehl oder Fischöl;X
+7.21Errichtung und Betrieb einer Anlage zur Herstellung von Fischmehl oder Fischöl;A
 
-7.22Errichtung und Betrieb einer Anlage zur Herstellung von Braumalz (Mälzerei) mit einer Produktionskapazität von
+7.22Errichtung und Betrieb einer Anlage zur Herstellung von Darrmalz (Mälzerei) mit einer Produktionskapazität von
 
 7.22.1600 t Darrmalz oder mehr je Tag, wenn die Anlage an nicht mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb ist,A
 
 7.22.2300 t Darrmalz oder mehr je Tag, wenn die Anlage an mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb ist,A
 
-7.22.3weniger als den in den Nummern 7.22.1 oder 7.22.2 angegebenen Kapazitäten für Tonnen Darrmalz je Tag und unter den dort genannten Voraussetzungen im Übrigen;S
+7.22.310 t bis weniger als den in den Nummern 7.22.1 oder 7.22.2 angegebenen Kapazitäten für Tonnen Darrmalz je Tag und unter den dort genannten Voraussetzungen im Übrigen;S
 
 7.23Errichtung und Betrieb einer Anlage zur Herstellung von Stärkemehlen mit einer Produktionskapazität von
 
@@ -1638,13 +1665,13 @@ Nr.VorhabenSp. 1Sp. 2
 
 7.26.23 000 hl Bier oder mehr je Tag, wenn die Brauerei an mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb ist,A
 
-7.26.3200 hl bis weniger als den in den Nummern 7.26.1 oder 7.26.2 angegebenen Kapazitäten für Hektoliter Bier je Tag und unter den dort genannten Voraussetzungen im Übrigen;S
+7.26.3200 hl als Vierteljahresdurchschnittswert bis weniger als den in den Nummern 7.26.1 oder 7.26.2 angegebenen Kapazitäten für Hektoliter Bier je Tag und unter den dort genannten Voraussetzungen im Übrigen;S
 
-7.27Errichtung und Betrieb einer Anlage zur Herstellung von Süßwaren oder Sirup aus tierischen Rohstoffen, ausgenommen Milch, mit einer Produktionskapazität von
+7.27Errichtung und Betrieb einer Anlage zur Herstellung von Süßwaren oder Sirup aus tierischen Rohstoffen, allein, ausgenommen bei Verarbeitung von ausschließlich Milch, oder mit pflanzlichen Rohstoffen, mit einer Produktionskapazität von
 
-7.27.175 t Süßwaren oder Sirup oder mehr je Tag,A
+7.27.1P t oder mehr je Tag gemäß Mischungsregel in Anhang 1 der Verordnung über genehmigungsbedürftige Anlagen,A
 
-7.27.250 kg bis weniger als 75 t Süßwaren oder Sirup je Tag bei Herstellung von Lakritz;S
+7.27.250 kg bis weniger als P t Süßwaren oder Sirup je Tag bei der Herstellung von Lakritz gemäß Mischungsregel in Anhang 1 der Verordnung über genehmigungsbedürftige Anlagen;S
 
 7.28Errichtung und Betrieb einer Anlage zur Herstellung von Süßwaren oder Sirup aus pflanzlichen Rohstoffen mit einer Produktionskapazität von
 
@@ -1670,9 +1697,11 @@ Nr.VorhabenSp. 1Sp. 2
 
 8.1.1.2bei nicht gefährlichen Abfällen mit einer Durchsatzkapazität von 3 t Abfällen oder mehr je Stunde,X
 
-8.1.1.3bei nicht gefährlichen Abfällen mit einer Durchsatzkapazität von weniger als 3 t Abfällen je Stunde,A
+8.1.1.3bei nicht gefährlichen Abfällen mit einer Durchsatzkapazität von weniger als 3 t Abfällen je Stunde, ausgenommen die Verbrennung von Altholz der Altholzkategorien A I und A II nach der Altholzverordnung vom 15. August 2002 (BGBl. I S. 3302), die zuletzt durch Artikel 120 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, welches keine Schwermetalle infolge einer Behandlung oder Beschichtung enthält,A
 
-8.1.2Verbrennen von Altöl oder Deponiegas in einer Verbrennungsmotoranlage mit einer Feuerungswärmeleistung von
+8.1.1.4bei nicht gefährlichen Abfällen mit einer Durchsatzkapazität von weniger als 3 t Abfällen je Stunde, soweit ausschließlich Altholz der Altholzkategorien A I und A II nach der Altholzverordnung verbrannt wird und dieses keine Schwermetalle infolge einer Behandlung oder Beschichtung enthält und die Feuerungswärmeleistung 1 Megawatt oder mehr beträgt,S
+
+8.1.2Verbrennen von Deponiegas in einer Verbrennungsmotoranlage mit einer Feuerungswärmeleistung von
 
 8.1.2.150 MW oder mehr,A
 
@@ -1682,11 +1711,7 @@ Nr.VorhabenSp. 1Sp. 2
 
 8.1.3Abfackeln von Deponiegas oder anderen gasförmigen Stoffen, ausgenommen über Notfackeln, die für den nicht bestimmungsgemäßen Betrieb erforderlich sind;S
 
-8.2Errichtung und Betrieb einer Anlage zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas in einer Verbrennungseinrichtung (wie Kraftwerk, Heizkraftwerk, Heizwerk, sonstige Feuerungsanlage), einschließlich zugehöriger Dampfkessel, durch den Einsatz von –gestrichenem, lackiertem oder beschichtetem Holz oder–Sperrholz, Spanplatten, Faserplatten oder sonst verleimtem Holzsowie daraus anfallenden Resten, soweit keine Holzschutzmittel aufgetragen oder infolge einer Behandlung enthalten sind oder Beschichtungen keine halogenorganischen Verbindungen oder Schwermetalle enthalten, mit einer Feuerungswärmeleistung von
-
-8.2.150 MW oder mehr,X
-
-8.2.21 MW bis weniger als 50 MW;S
+8.2(weggefallen)
 
 8.3Errichtung und Betrieb einer Anlage zur biologischen Behandlung von gefährlichen Abfällen mit einer Durchsatzkapazität an Einsatzstoffen von
 
@@ -1704,9 +1729,9 @@ Nr.VorhabenSp. 1Sp. 2
 
 8.4.2Gülle, soweit die Behandlung ausschließlich durch anaerobe Vergärung (Biogaserzeugung) erfolgt, mit einer Durchsatzkapazität von
 
-8.4.2.150 t oder mehr je Tag,A
+8.4.2.1100 t oder mehr je Tag,A
 
-8.4.2.2weniger als 50 t je Tag, soweit die Produktionskapazität von Rohgas 1,2 Mio. Normkubikmeter je Jahr oder mehr beträgt;S
+8.4.2.2weniger als 100 t je Tag, soweit die Produktionskapazität von Rohgas 1,2 Mio. Normkubikmeter je Jahr oder mehr beträgt;S
 
 8.5Errichtung und Betrieb einer Anlage zur chemischen Behandlung, insbesondere zur chemischen Emulsionsspaltung, Fällung, Flockung, Neutralisation oder Oxidation, von gefährlichen Abfällen;X
 
@@ -1734,19 +1759,17 @@ Nr.VorhabenSp. 1Sp. 2
 
 8.8(weggefallen)
 
-8.9Errichtung und Betrieb einer Anlage zur Lagerung von Abfällen über einen Zeitraum von jeweils mehr als einem Jahr, bei
+8.9Errichtung und Betrieb einer Anlage zur Lagerung über einen Zeitraum von jeweils mehr als einem Jahr von
 
-8.9.1gefährlichen Abfällen mit
+8.9.1gefährlichen Abfällen im Sinne des Kreislaufwirtschaftsgesetzes,X
 
-8.9.1.1einer Aufnahmekapazität von 10 t je Tag oder mehr oder einer Gesamtlagerkapazität von 150 t oder mehr,X
+8.9.2von nicht gefährlichen Abfällen im Sinne des Kreislaufwirtschaftsgesetzes, mit Ausnahme von Inertabfällen, mit einer Aufnahmekapazität von
 
-8.9.1.2geringeren Kapazitäten als in Nummer 8.9.1.1 angegeben,A
+8.9.2.110 t oder mehr je Tag oder mit einer Gesamtkapazität von 25 000 t oder mehr,A
 
-8.9.2nicht gefährlichen Abfällen mit
+8.9.2.2weniger als 10 t je Tag und mit einer Gesamtkapazität von weniger als 25 000 t,S
 
-8.9.2.1einer Aufnahmekapazität von 10 t je Tag oder mehr oder einer Gesamtlagerkapazität von 150 t oder mehr,A
-
-8.9.2.2geringeren Kapazitäten als in Nummer 8.9.2.1 angegeben;S
+8.9.3von Inertabfällen im Sinne des Kreislaufwirtschaftsgesetzes;A
 
 9.Lagerung von Stoffen und Gemischen:
 
@@ -1794,9 +1817,17 @@ Nr.VorhabenSp. 1Sp. 2
 
 10.Sonstige Industrieanlagen:
 
-10.1Errichtung und Betrieb einer Anlage zur Herstellung, Bearbeitung oder Verarbeitung von explosionsgefährlichen Stoffen im Sinne des Sprengstoffgesetzes, die zur Verwendung als Sprengstoffe, Zündstoffe, Treibstoffe, pyrotechnische Sätze oder zur Herstellung dieser Stoffe bestimmt sind; hierzu gehört auch eine Anlage zum Laden, Entladen oder Delaborieren von Munition oder sonstigen Sprengkörpern, ausgenommen Anlagen im handwerklichen Umfang oder zur Herstellung von Zündhölzern sowie ortsbewegliche Mischladegeräte;X
+10.1Errichtung und Betrieb einer Anlage, zur Herstellung, Bearbeitung oder Verarbeitung von explosionsgefährlichen Stoffen im Sinne des Sprengstoffgesetzes, die zur Verwendung als Sprengstoffe, Zündstoffe, Treibstoffe, pyrotechnische Sätze oder zur Herstellung dieser Stoffe bestimmt sind; hierzu gehört auch eine Anlage zum Laden, Entladen oder Delaborieren von Munition oder sonstigen Sprengkörpern, ausgenommen Anlagen im handwerklichen Umfang oder zur Herstellung von Zündhölzern sowie ortsbewegliche Mischladegeräte, soweit nicht von Nummer 4.1 erfasst, mit einer Kapazität von
 
-10.2Errichtung und Betrieb einer Anlage zur Wiedergewinnung oder Vernichtung von explosionsgefährlichen Stoffen im Sinne des Sprengstoffgesetzes;X
+10.1.110 t und mehr Nettoexplosivstoffmasse je Jahr,X
+
+10.1.2weniger als 10 t Nettoexplosivstoffmasse je Jahr;A
+
+10.2Errichtung und Betrieb einer Anlage zur Wiedergewinnung oder Vernichtung von explosionsgefährlichen Stoffen im Sinne des Sprengstoffgesetzes mit einer Kapazität von
+
+10.2.110 t Nettoexplosivstoffmasse oder mehr je Jahr,X
+
+10.2.2weniger als 10 t Nettoexplosivstoffmasse je Jahr;A
 
 10.3Errichtung und Betrieb einer Anlage zum Vulkanisieren von Natur- oder Synthesekautschuk unter Verwendung von Schwefel oder Schwefelverbindungen mit einem Einsatz von
 
@@ -1816,13 +1847,13 @@ Nr.VorhabenSp. 1Sp. 2
 
 10.5.110 MW oder mehr,A
 
-10.5.2300 KW bis weniger als 10 MW;S
+10.5.21 MW bis weniger als 10 MW;S
 
 10.6Errichtung und Betrieb eines Prüfstandes für oder mit Gasturbinen oder Triebwerken mit einer Feuerungswärmeleistung von insgesamt
 
-10.6.1mehr als 200 MW,X
+10.6.1(weggefallen)
 
-10.6.2100 MW bis 200 MW,A
+10.6.2100 MW oder mehr,A
 
 10.6.3weniger als 100 MW;S
 
@@ -1940,7 +1971,7 @@ Nr.VorhabenSp. 1Sp. 2
 
 13.17Landgewinnung am Meer, soweit nicht durch Landesrecht etwas anderes bestimmt ist;A
 
-13.18sonstige der Art nach nicht von den Nummern 13.1 bis 13.17 erfasste Ausbaumaßnahmen im Sinne des Wasserhaushaltsgesetzes
+13.18Sonstige der Art nach nicht von den Nummern 13.1 bis 13.17 erfasste Ausbaumaßnahmen im Sinne des Wasserhaushaltsgesetzes oder des Bundeswasserstraßengesetzes;
 
 13.18.1soweit die Ausbaumaßnahmen nicht von Nummer 13.18.2 erfasst sind,A
 
@@ -1968,25 +1999,25 @@ Nr.VorhabenSp. 1Sp. 2
 
 14.6Bau einer sonstigen Bundesstraße;A
 
-14.7Bau eines Schienenwegs von Eisenbahnen mit den dazugehörigen Betriebsanlagen sowie Bahnstromfernleitungen auf dem Gelände der Betriebsanlage oder entlang des Schienenwegs;X
+14.7Bau eines Schienenweges von Eisenbahnen;X
 
-14.8Soweit der Bau nicht Teil des Baus eines Schienenwegs nach Nummer 14.7 oder einer Bahnstromfernleitung nach Nummer 19.13 ist;
+14.8Bau einer intermodalen Umschlaganlage oder eines Terminals für Eisenbahnen mit einer Fläche von 1 ha oder mehr;A
 
-14.8.1Bau von Gleisanschlüssen mit einer Länge bis 2 000 mS
+14.8.1(weggefallen)
 
-14.8.2Bau von Zuführungs- und Industriestammgleisen mit einer Länge bis 3 000 mS
+14.8.2(weggefallen)
 
-14.8.3Bau einer sonstigen Betriebsanlage von Eisenbahnen, insbesondere einer intermodalen Umschlaganlage oder eines Terminals für Eisenbahnen, wenn diese eine Fläche
+14.8.3(weggefallen)
 
-14.8.3.1von 5 000 m2 oder mehr in Anspruch nimmt,A
+14.8.3.1(weggefallen)
 
-14.8.3.2von 2 000 m2 bis weniger als 5 000 m2 in Anspruch nimmt;S
+14.8.3.2(weggefallen)
 
 14.9Bau einer Magnetschwebebahnstrecke mit den dazugehörenden Betriebsanlagen;X
 
 14.10Bau einer anderen Bahnstrecke für den öffentlichen spurgeführten Verkehr mit den dazugehörenden Betriebsanlagen;A
 
-14.11Bau einer Bahnstrecke für Straßenbahnen, Stadtschnellbahnen in Hochlage, Untergrundbahnen oder Hängebahnen im Sinne des Personenbeförderungsgesetzes, jeweils mit den dazugehörenden Betriebsanlagen;A
+14.11Bau einer Bahnstrecke für Straßenbahnen, Stadtschnellbahnen in Hochlage, Untergrundbahnen oder Hängebahnen im Sinne des Personenbeförderungsgesetzes, sofern diese nicht in weit überwiegenden Maß in vollversiegelten Flächen erfolgt und in der Gesamtbilanz zugleich eine Entsiegelung damit einhergeht.A
 
 14.12Bau eines Flugplatzes im Sinne der Begriffsbestimmungen des Abkommens von Chicago von 1944 zur Errichtung der Internationalen Zivilluftfahrt-Organisation (Anhang 14) mit einer Start- und Landebahngrundlänge von
 
@@ -2182,13 +2213,13 @@ Nr.VorhabenSp. 1Sp. 2
 
 19.12.4einer Länge von weniger als 5 km und einem Durchmesser von mehr als 300 mm;S
 
-19.13Errichtung und Betrieb einer Bahnstromfernleitung mit einer Nennspannung von 110 kV bis weniger als 220 kV, soweit nicht von Nummer 14.7 erfasst,
+19.13Errichtung einer Bahnstromfernleitung mit einer Nennspannung von 110 kVA
 
 19.13.1mit einer Länge von 15 km oder mehrA
 
 19.13.2mit einer Länge von weniger als 15 kmS
 
-##### Anlage 2 Angaben des Vorhabenträgers zur Vorbereitung der Vorprüfung
+###### Anlage 2 Angaben des Vorhabenträgers zur Vorbereitung der Vorprüfung
 
 (Fundstelle: BGBl. I 2021, 583)
 
@@ -2214,7 +2245,7 @@ bb) der Nutzung der natürlichen Ressourcen, insbesondere Fläche, Boden, Wasser
 
 4. Wird eine standortbezogene Vorprüfung durchgeführt, können sich die Angaben des Vorhabenträgers in der ersten Stufe auf solche Angaben beschränken, die sich auf das Vorliegen besonderer örtlicher Gegebenheiten gemäß den in Anlage 3 Nummer 2.3 aufgeführten Schutzkriterien beziehen.
 
-##### Anlage 3 Kriterien für die Vorprüfung im Rahmen einer Umweltverträglichkeitsprüfung
+###### Anlage 3 Kriterien für die Vorprüfung im Rahmen einer Umweltverträglichkeitsprüfung
 
 (Fundstelle: BGBl. I 2021, 584 – 585)
 
@@ -2292,7 +2323,7 @@ Die möglichen erheblichen Auswirkungen eines Vorhabens auf die Schutzgüter sin
 
 3.7der Möglichkeit, die Auswirkungen wirksam zu vermindern.
 
-##### Anlage 4 Angaben des UVP-Berichts für die Umweltverträglichkeitsprüfung
+###### Anlage 4 Angaben des UVP-Berichts für die Umweltverträglichkeitsprüfung
 
 (Fundstelle: BGBl. I 2021, 586 – 587)
 
@@ -2364,7 +2395,7 @@ ii) die Anfälligkeit des Vorhabens für die Risiken von schweren Unfällen oder
 
 12. Eine Referenzliste der Quellen, die für die im UVP-Bericht enthaltenen Angaben herangezogen wurden.
 
-##### Anlage 5 Liste „SUP-pflichtiger Pläne und Programme“
+###### Anlage 5 Liste „SUP-pflichtiger Pläne und Programme“
 
 (Fundstelle: BGBl. I 2021, 588 – 589;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2447,7 +2478,7 @@ Nr.Plan oder Programm
 
 2.14Entscheidungen über die Ausweisung als Gebiet zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet nach § 26 des Wärmeplanungsgesetzes
 
-##### Anlage 6 Kriterien für die Vorprüfung des Einzelfalls im Rahmen einer Strategischen Umweltprüfung
+###### Anlage 6 Kriterien für die Vorprüfung des Einzelfalls im Rahmen einer Strategischen Umweltprüfung
 
 (Fundstelle: BGBl. I 2021, 590)
 
@@ -2478,4 +2509,3 @@ Nachstehende Kriterien sind anzuwenden, soweit auf Anlage 6 Bezug genommen wird.
 2.5die Bedeutung und die Sensibilität des voraussichtlich betroffenen Gebiets aufgrund der besonderen natürlichen Merkmale, des kulturellen Erbes, der Intensität der Bodennutzung des Gebiets jeweils unter Berücksichtigung der Überschreitung von Umweltqualitätsnormen und Grenzwerten;
 
 2.6Gebiete nach Nummer 2.3 der Anlage 3.
-
