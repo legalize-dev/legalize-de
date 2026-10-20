@@ -4,9 +4,10 @@ identifier: "ENFG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2022-07-20"
-last_updated: "2026-04-04"
+last_updated: "2026-10-20"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/enfg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR127200022"
 slug: "enfg"
@@ -15,7 +16,10 @@ stand: "Zuletzt geändert durch Art. 25 G v. 18.12.2025 I Nr. 347"
 ---
 # Gesetz zur Finanzierung der Energiewende im Stromsektor durch Zahlungen des Bundes und Erhebung von Umlagen
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 Teil 1Allgemeine Bestimmungen§  1Zweck des Gesetzes§  2Begriffsbestimmungen§  3SorgfaltsmaßstabTeil 2Ermittlung der Finanzierungsbedarfe§  4Ermittlung und Mitteilung der Finanzierungsbedarfe§  5BeweislastTeil 3Ausgleich durch Zahlungen des Bundes§  6Ausgleichsanspruch§  7Abschlagszahlungen§  8Ausgleich der Anschlussförderung der Güllekleinanlagen§  9Öffentlich-rechtliche VerträgeTeil 4Ausgleich durch Erhebung von
  Umlagen und weiterer AusgleichsmechanismusAbschnitt 1Ermittlung und Erhebung
@@ -27,7 +31,7 @@ Teil 1Allgemeine Bestimmungen§  1Zweck des Gesetzes§  2Begriffsbestimmungen�
 
 ## Teil 1 Allgemeine Bestimmungen
 
-##### § 1 Zweck des Gesetzes
+###### § 1 Zweck des Gesetzes
 
 (1) Dieses Gesetz dient der Finanzierung der nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz sowie im Zusammenhang mit der Offshore-Netzanbindung entstehenden Ausgaben der Netzbetreiber. Zu diesem Zweck regelt dieses Gesetz
 
@@ -43,7 +47,7 @@ Teil 1Allgemeine Bestimmungen§  1Zweck des Gesetzes§  2Begriffsbestimmungen�
 
 (2) Dieses Gesetz dient zudem der vorübergehenden anteiligen Finanzierung der Übertragungsnetzkosten für das Jahr 2023, soweit das Bankkonto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes keine ausreichenden Mittel zur Deckung des Finanzierungsbedarfs aufweisen sollte. Dazu regelt dieses Gesetz, dass die auf dem Bankkonto nach § 47 für die Finanzierung der Aufgaben nach dem Erneuerbare-Energien-Gesetz zur Verfügung stehenden Mittel bis zu einem Betrag, den die Bundesrepublik Deutschland auf Grund des Bescheides vom 9. Oktober 2020 als Zuschuss zur Absenkung der EEG-Umlage geleistet hat, auch für die vorübergehende anteilige Finanzierung der Übertragungsnetzkosten für das Jahr 2023 verwendet werden dürfen.
 
-##### § 2 Begriffsbestimmungen
+###### § 2 Begriffsbestimmungen
 
 Im Sinn dieses Gesetzes sind oder ist
 
@@ -117,13 +121,13 @@ b) der außerhalb des Bundesgebiets erzeugt worden ist und die Vorgaben des Arti
 
 22. „wirtschaftlich durchführbare Maßnahme“ jede Maßnahme, die bei der Wirtschaftlichkeitsbetrachtung im Rahmen des Energiemanagementsystems nach höchstens 90 Prozent der vorgesehenen Nutzungsdauer einen positiven Kapitalwert aufweist, der unter Zugrundelegung der DIN EN 17463, Ausgabe Dezember 2021, ermittelt worden ist.
 
-##### § 3 Sorgfaltsmaßstab
+###### § 3 Sorgfaltsmaßstab
 
 Die Netzbetreiber müssen bei der Wahrnehmung der Aufgaben nach diesem Gesetz die Sorgfalt eines ordentlichen und gewissenhaften Kaufmanns anwenden.
 
 ## Teil 2 Ermittlung der Finanzierungsbedarfe
 
-##### § 4 Ermittlung und Mitteilung der Finanzierungsbedarfe
+###### § 4 Ermittlung und Mitteilung der Finanzierungsbedarfe
 
 Die Übertragungsnetzbetreiber ermitteln und teilen bis zum 30. September eines Kalenderjahres mit:
 
@@ -135,13 +139,13 @@ Die Übertragungsnetzbetreiber ermitteln und teilen bis zum 30. September eines 
 
 4. der Bundesnetzagentur den EEG-Finanzierungsbedarf, den KWKG-Finanzierungsbedarf und die Offshore-Anbindungskosten für das jeweils folgende Kalenderjahr.
 
-##### § 5 Beweislast
+###### § 5 Beweislast
 
 Ist die Notwendigkeit oder die Höhe einzelner Positionen bei der Ermittlung des EEG-Finanzierungsbedarfs, der voraussichtlichen oder tatsächlichen Höhe des Anspruchs nach § 6 Absatz 1 Satz 1 oder 2, des KWKG-Finanzierungsbedarfs oder der Offshore-Anbindungskosten streitig, trifft die Beweislast die Übertragungsnetzbetreiber. Soweit in die Ermittlung dieser Finanzierungsbedarfe sowie der voraussichtlichen oder tatsächlichen Höhe des Anspruchs nach § 6 Absatz 1 Satz 1 oder 2 auch Daten und Prognosen unabhängiger Dritter einfließen, ist Satz 1 nicht anzuwenden, wenn diese Daten und Prognosen unverändert übernommen wurden und die Übertragungsnetzbetreiber keine Kenntnis von der Unrichtigkeit oder Unvollständigkeit dieser Daten oder Prognosen haben oder haben mussten.
 
 ## Teil 3 Ausgleich durch Zahlungen des Bundes
 
-##### § 6 Ausgleichsanspruch
+###### § 6 Ausgleichsanspruch
 
 (1) Wenn der Saldo des EEG-Kontos zum Ablauf des 31. Dezember eines jeden Kalenderjahres negativ ist, haben die Übertragungsnetzbetreiber gegen die Bundesrepublik Deutschland einen Anspruch auf Ausgleich in Höhe des Betrages, der dem negativen Saldo entspricht. Wenn der Saldo des EEG-Kontos zum Ablauf des 31. Dezember eines jeden Kalenderjahres positiv ist, hat die Bundesrepublik Deutschland einen Anspruch gegen die Übertragungsnetzbetreiber auf Ausgleich in Höhe des Betrages, der dem positiven Saldo entspricht, höchstens jedoch in Höhe der Summe der Zahlungen, die die Bundesrepublik Deutschland zur Deckung des EEG-Finanzierungsbedarfs nach diesem Gesetz oder vor dem 1. Januar 2023 zur Absenkung der EEG-Umlage nach § 3 Absatz 3 Nummer 3a der Erneuerbare-Energien-Verordnung in der am 31. Dezember 2022 geltenden Fassung an die Übertragungsnetzbetreiber geleistet hat und die noch nicht zurückgezahlt wurde. Von dem Anspruch nach Satz 1 sind die Kosten für die Anschlussförderung von Güllekleinanlagen nach Abschnitt 3a der Erneuerbare-Energien-Verordnung ausgenommen; diese Kosten werden nach Maßgabe des § 8 ausgeglichen.
 
@@ -151,7 +155,7 @@ Ist die Notwendigkeit oder die Höhe einzelner Positionen bei der Ermittlung des
 
 (4) Die Bundesrepublik Deutschland kann auch vor Fälligkeit die Aufrechnung ihrer Forderung gegen die Übertragungsnetzbetreiber aus Absatz 1 Satz 2 gegen Forderungen der Übertragungsnetzbetreiber gegen die Bundesrepublik Deutschland aus § 7 Absatz 1 im laufenden Kalenderjahr erklären. Die Aufrechnung kann erklärt werden, sobald dem Bundesministerium für Wirtschaft und Energie die Mitteilung der Bundesnetzagentur nach Absatz 2 Satz 2 zugegangen ist und soweit darin die Forderung von der Bundesnetzagentur nicht beanstandet wurde. Die Aufrechnung durch die Übertragungsnetzbetreiber sowie die Aufrechnung weiterer gegenseitiger Forderungen aufgrund dieses Gesetzes ist nur zulässig, wenn und soweit sie in dem öffentlich-rechtlichen Vertrag nach § 9 Absatz 1 Satz 2 Nummer 1 nach dem Ablauf des 22. Dezember 2025 ausdrücklich vereinbart wird.
 
-##### § 7 Abschlagszahlungen
+###### § 7 Abschlagszahlungen
 
 (1) Auf den zu erwartenden Anspruch nach § 6 Absatz 1 Satz 1 oder 2 können bereits während des anspruchsgegenständlichen Kalenderjahres angemessene Abschlagszahlungen verlangt werden. Abschlagszahlungen können auch einen negativen Wert annehmen. Auch unterjährige Wechsel zwischen positiven und negativen Abschlagszahlungen sind möglich.
 
@@ -161,11 +165,11 @@ Ist die Notwendigkeit oder die Höhe einzelner Positionen bei der Ermittlung des
 
 (4) Für die Zwecke des Absatzes 3 übermitteln die Übertragungsnetzbetreiber dem Bundesministerium für Wirtschaft und Energie und der Bundesnetzagentur regelmäßig eine Simulation über die voraussichtliche Entwicklung des Saldos des EEG-Kontos bis zum Ende des laufenden Kalenderjahres.
 
-##### § 8 Ausgleich der Anschlussförderung der Güllekleinanlagen
+###### § 8 Ausgleich der Anschlussförderung der Güllekleinanlagen
 
 Die Übertragungsnetzbetreiber haben gegen die Bundesrepublik Deutschland einen Anspruch auf Ausgleich der Kosten für die Anschlussförderung von Güllekleinanlagen nach Abschnitt 3a der Erneuerbare-Energien-Verordnung für ein Kalenderjahr. Der Anspruch wird am 31. Dezember des jeweils folgenden Kalenderjahres fällig. § 6 Absatz 3 Satz 2 und 3 sind entsprechend anzuwenden.
 
-##### § 9 Öffentlich-rechtliche Verträge
+###### § 9 Öffentlich-rechtliche Verträge
 
 (1) Nähere Bestimmungen zu den Zahlungen der Bundesrepublik Deutschland nach den §§ 6 bis 8 werden in öffentlich-rechtlichen Verträgen zwischen den Übertragungsnetzbetreibern und der Bundesrepublik Deutschland geregelt. Die Bundesrepublik Deutschland wird vertreten
 
@@ -181,23 +185,23 @@ Die Verträge bedürfen des Einvernehmens mit dem Bundesministerium der Finanzen
 
 ## Abschnitt 1 Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus
 
-##### § 10 Ermittlung von Umlagen
+###### § 10 Ermittlung von Umlagen
 
 (1) Die Netzbetreiber sind berechtigt, den KWKG-Finanzierungsbedarf und die Offshore-Anbindungskosten durch die Erhebung von Umlagen auszugleichen.
 
 (2) Die Umlagen werden von den Übertragungsnetzbetreibern für das jeweils folgende Kalenderjahr transparent und getrennt aus den jeweiligen Finanzierungsbedarfen und den umlagefähigen Netzentnahmemengen, gewichtet nach der jeweils in Anwendung der Abschnitte 1 bis 4 dieses Teils anzuwendenden Höhe der Umlage, in Cent pro Kilowattstunde ermittelt. Umlagen können keinen negativen Wert annehmen.
 
-##### § 11 Veröffentlichung von Umlagen
+###### § 11 Veröffentlichung von Umlagen
 
 Die Übertragungsnetzbetreiber veröffentlichen auf ihrer gemeinsamen Internetseite bis zum 25. Oktober eines Kalenderjahres die Höhe der nach diesem Gesetz zu erhebenden Umlagen für das jeweils folgende Kalenderjahr.
 
-##### § 12 Erhebung von Umlagen
+###### § 12 Erhebung von Umlagen
 
 (1) Die Netzbetreiber sind berechtigt, die nach § 11 veröffentlichten Umlagen bei der Berechnung der Netzentgelte als jeweils eigenständigen Aufschlag auf die Netzentnahme in Ansatz zu bringen.
 
 (2) Abweichend von Absatz 1 sind zur Erhebung der nach den §§ 30 bis 36 begrenzten Umlagen auf die Netzentnahme ausschließlich die Übertragungsnetzbetreiber berechtigt, die die Umlagen als eigenständige Umlagen auf die Netzentnahme erheben. Die Übertragungsnetzbetreiber sind ferner zur Erhebung der Umlagen als eigenständige Umlagen auf die Netzentnahme berechtigt
 
-1. für die Strommengen, die von einer den §§ 30 bis 36 begrenzten Abnahmestelle an eine nicht nach den §§ 30 bis 36 begrenzte Abnahmestelle weitergeleitet werden, oder
+1. für die Strommengen, die von einer nach den §§ 30 bis 36 begrenzten Abnahmestelle an eine nicht nach den §§ 30 bis 36 begrenzte Abnahmestelle weitergeleitet werden, oder
 
 2. für die Strommengen an Abnahmestellen, für die für das betreffende Kalenderjahr ein Antrag auf Begrenzung nach den §§ 30 bis 36 gestellt worden ist.
 
@@ -205,7 +209,7 @@ Die Erhebung der Umlagen erfolgt in den Fällen der Sätze 1 und 2 Nummer 1 gege
 
 (3) Schienenbahnen und Verkehrsunternehmen mit elektrisch betriebenen Bussen im Linienverkehr, deren nach § 37 oder § 38 begrenzte Verbrauchsstellen sich in den Netzen mehrerer Netzbetreiber befinden, können durch Erklärung gegenüber den Übertragungsnetzbetreibern bestimmen, dass die Erhebung der Umlagen an den betroffenen Abnahmestellen durch die Übertragungsnetzbetreiber nach Absatz 2 erfolgt. Die Erklärung muss spätestens bis zum 30. Juni eines Jahres erfolgen. Die Erhebung der Umlagen durch die Übertragungsnetzbetreiber erfolgt ab dem auf die Erklärung folgenden Kalenderjahr. Den betroffenen Verteilernetzbetreibern muss eine Abschrift der Erklärung unverzüglich von der Schienenbahn oder dem Verkehrsunternehmen übermittelt werden.
 
-##### § 13 Ausgleich von Finanzierungsbedarfen zwischen Verteilernetzbetreibern und Übertragungsnetzbetreibern
+###### § 13 Ausgleich von Finanzierungsbedarfen zwischen Verteilernetzbetreibern und Übertragungsnetzbetreibern
 
 (1) Die Übertragungsnetzbetreiber müssen ihren nachgelagerten Verteilernetzbetreibern erstatten:
 
@@ -223,7 +227,7 @@ Als geleistete Zahlungen im Sinn des Satzes 1 gelten auch Forderungen eines Anla
 
 (4) Ist die Notwendigkeit oder die Höhe einzelner Positionen nach Absatz 1 oder Absatz 2 streitig, trifft die Beweislast die Verteilernetzbetreiber.
 
-##### § 14 Ausgleich zwischen Übertragungsnetzbetreibern und Verteilernetzbetreibern
+###### § 14 Ausgleich zwischen Übertragungsnetzbetreibern und Verteilernetzbetreibern
 
 Die Übertragungsnetzbetreiber haben einen finanziellen Anspruch auf Belastungsausgleich gegen die ihnen unmittelbar oder mittelbar nachgelagerten Netzbetreiber in Höhe von deren Einnahmen aus:
 
@@ -237,11 +241,11 @@ Die Übertragungsnetzbetreiber haben einen finanziellen Anspruch auf Belastungsa
 
 Als vereinnahmte Umlagen und sonstige Einnahmen im Sinn des Satzes 1 gelten auch Forderungen auf Zahlung von Umlagen, die durch Aufrechnung erloschen sind.
 
-##### § 15 Ausgleich zwischen Übertragungsnetzbetreibern
+###### § 15 Ausgleich zwischen Übertragungsnetzbetreibern
 
 Die Übertragungsnetzbetreiber und Betreiber von Übertragungsnetzen im Sinn von § 3 Nummer 16 des Energiewirtschaftsgesetzes haben untereinander einen finanziellen Anspruch auf Belastungsausgleich, wenn sie jeweils bezogen auf die im Bereich ihrer Regelzone erhobenen Umlagen und die nach den öffentlich-rechtlichen Verträgen nach § 9 jeweils erhaltenen Zahlungen der Bundesrepublik Deutschland höhere Zahlungen nach den in § 13 Absatz 1 Satz 1 genannten Bestimmungen oder nach § 13 oder höhere Offshore-Anbindungskosten zu leisten hatten, als es dem Durchschnitt aller Übertragungsnetzbetreiber entspricht.
 
-##### § 16 Abschlagszahlungen
+###### § 16 Abschlagszahlungen
 
 (1) Auf die Zahlungen nach diesem Teil kann der berechtigte Netzbetreiber monatlich für den jeweils vorangegangenen Kalendermonat Abschläge in angemessenem Umfang verlangen.
 
@@ -249,17 +253,17 @@ Die Übertragungsnetzbetreiber und Betreiber von Übertragungsnetzen im Sinn von
 
 (3) In den Fällen des § 12 Absatz 2 richtet sich die Höhe der Abschlagszahlungen nach den von den stromkostenintensiven Unternehmen prognostizierten und dem Bundesamt für Wirtschaft und Ausfuhrkontrolle im Rahmen des Antragsverfahrens nach Abschnitt 4 dieses Teils mitgeteilten Daten.
 
-##### § 17 Forderungseinwände und Aufrechnung
+###### § 17 Forderungseinwände und Aufrechnung
 
 Einwände gegen Forderungen nach diesem Teil berechtigen zum Zahlungsaufschub oder zur Zahlungsverweigerung unbeschadet des § 18 Absatz 1 nur, soweit die ernsthafte Möglichkeit eines offensichtlichen Fehlers besteht. Eine Aufrechnung gegen Forderungen nach diesem Teil ist nur zwischen Netzbetreibern zulässig.
 
-##### § 18 Rückforderung, Verzugszinsen
+###### § 18 Rückforderung, Verzugszinsen
 
 (1) Zahlt ein Übertragungsnetzbetreiber einem Verteilernetzbetreiber mehr als nach den in § 13 Absatz 1 Satz 1 Nummer 1 bis 3 genannten Bestimmungen vorgeschrieben, muss er den Mehrbetrag zurückfordern. Ist die Zahlung in Übereinstimmung mit dem Ergebnis eines Verfahrens der Clearingstelle nach § 81 Absatz 5 des Erneuerbare-Energien-Gesetzes oder § 32a Absatz 5 des Kraft-Wärme-Kopplungsgesetzes erfolgt und beruht die Rückforderung auf der Anwendung einer nach der Zahlung in anderer Sache ergangenen höchstrichterlichen Entscheidung, ist der Verteilernetzbetreiber berechtigt, insoweit die Einrede der Übereinstimmung der Berechnung der Zahlung mit einer Entscheidung der Clearingstelle für Zahlungen zu erheben, die bis zum Tag der höchstrichterlichen Entscheidung geleistet worden sind. Der Rückforderungsanspruch verjährt mit Ablauf des zweiten auf die die Zahlung begründende Stromerzeugung folgenden Kalenderjahres; die Pflicht nach Satz 1 erlischt insoweit.
 
 (2) Verteilernetzbetreiber und Netznutzer, die ihrer Pflicht zur Zahlung nach diesem Gesetz nicht rechtzeitig nachgekommen sind, müssen diese Geldschuld nach § 352 Absatz 2 des Handelsgesetzbuchs ab Eintritt der Fälligkeit verzinsen. Satz 1 ist entsprechend anzuwenden, wenn die Fälligkeit nicht eintreten konnte, weil der Verteilernetzbetreiber oder der Netznutzer seinen Mitteilungspflichten nach Teil 5 nicht oder nicht rechtzeitig nachgekommen ist; ausschließlich zum Zweck der Verzinsung ist in diesem Fall die Geldschuld für die Zahlung spätestens am 1. Januar des Kalenderjahres als fällig zu betrachten, das auf das Kalenderjahr folgt, in dem die Mitteilungspflicht zu erfüllen gewesen wäre.
 
-##### § 19 Jahresendabrechnung
+###### § 19 Jahresendabrechnung
 
 (1) Die Jahresendabrechnungen der nach diesem Teil zu leistenden Zahlungen erfolgen für das jeweils vorangegangene Kalenderjahr
 
@@ -277,7 +281,7 @@ Einwände gegen Forderungen nach diesem Teil berechtigen zum Zahlungsaufschub od
 
 (3) Für die Differenz zwischen den nach § 56 des Erneuerbare-Energien-Gesetzes von den Verteilernetzbetreibern an den jeweils vorgelagerten Übertragungsnetzbetreiber weitergegebenen Strommengen und den in der Endabrechnung nach § 50 Nummer 2 ausgewiesenen Strommengen sind zwischen den Verteilernetzbetreibern und dem jeweils vorgelagerten Übertragungsnetzbetreiber bis zum Ablauf des 15. September des auf die Einspeisung folgenden Kalenderjahres für jeden Energieträger Ausgleichszahlungen zu leisten. Die Höhe der Ausgleichszahlungen ist für jede der in Anlage 1 Nummer 4 zum Erneuerbare-Energien-Gesetz unterschiedenen Energieträgergruppen separat als Produkt aus der für den jeweiligen Energieträger oder die Energieträgergruppe ermittelten Differenz nach Satz 1 und aus dem für diesen Energieträger oder diese Energieträgergruppe ermittelten, energieträgerspezifischen Jahresmarktwert des jeweiligen Leistungsjahres nach Maßgabe der Anlage 1 Nummer 4 zum Erneuerbare-Energie-Gesetz zu ermitteln.
 
-##### § 20 Nachträgliche Korrekturen
+###### § 20 Nachträgliche Korrekturen
 
 (1) Bei der jeweils nächsten Abrechnung sind Änderungen der abzurechnenden Strommenge oder der Zahlungsansprüche zu berücksichtigen, die sich aus folgenden Gründen ergeben:
 
@@ -299,7 +303,7 @@ Einwände gegen Forderungen nach diesem Teil berechtigen zum Zahlungsaufschub od
 
 ## Abschnitt 2 Erhebung von Umlagen in Sonderfällen
 
-##### § 21 Umlageerhebung bei Stromspeichern und Verlustenergie
+###### § 21 Umlageerhebung bei Stromspeichern und Verlustenergie
 
 (1) Für die Netzentnahme von Strom, der in einem Kalenderjahr zum Zweck der Zwischenspeicherung in einem elektrischen, chemischen, mechanischen oder physikalischen Stromspeicher verbraucht wird, verringert sich der Anspruch auf Zahlung der Umlagen in dem Umfang auf null, in dem Strom, der in dem Stromspeicher in diesem Kalenderjahr erzeugt wird, in ein Netz eingespeist wird. Werden in dem Stromspeicher Strommengen, für die unterschiedlich hohe Ansprüche auf Zahlung von Umlagen bestehen, verbraucht, entfällt die Pflicht zur Zahlung der Umlagen in dem Verhältnis des Verbrauchs der unterschiedlichen Strommengen zueinander.
 
@@ -339,7 +343,7 @@ Die Strommenge, die im Sinn des Absatzes 1 Satz 1 in dem Stromspeicher erzeugt i
 
 (7) § 53 Absatz 2 ist mit der Maßgabe anzuwenden, dass die Mitteilungspflicht nach § 52 Absatz 1 bis zum 31. Mai des Jahres zu erfüllen ist, das auf das Kalenderjahr folgt, in dem diese Mitteilungspflicht zu erfüllen gewesen wäre.
 
-##### § 22 Umlageerhebung bei elektrisch angetriebenen Wärmepumpen
+###### § 22 Umlageerhebung bei elektrisch angetriebenen Wärmepumpen
 
 (1) Der Anspruch auf Zahlung der Umlagen verringert sich auf null für die Netzentnahme von Strom, der in einer elektrisch angetriebenen Wärmepumpe verbraucht wird, wenn die Wärmepumpe über einen eigenen Zählpunkt mit dem Netz verbunden ist.
 
@@ -349,7 +353,7 @@ Die Strommenge, die im Sinn des Absatzes 1 Satz 1 in dem Stromspeicher erzeugt i
 
 2. gegen die offene Rückforderungsansprüche aufgrund eines Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem europäischen Binnenmarkt bestehen.
 
-##### § 23 Umlageerhebung bei Anlagen zur Verstromung von Kuppelgasen
+###### § 23 Umlageerhebung bei Anlagen zur Verstromung von Kuppelgasen
 
 (1) Der Anspruch auf Zahlung der Umlagen verringert sich auf 15 Prozent für Unternehmen oder selbständige Teile eines Unternehmens für den selbst verbrauchten Stromanteil über 1 Gigawattstunde, der in einer Anlage erzeugt wird, die ausschließlich Strom mit Gichtgas, Konvertergas oder Kokereigas (Kuppelgase) erzeugt, wenn das Unternehmen
 
@@ -367,13 +371,13 @@ Ausschließlich für die Zwecke des Satzes 1 ist Erdgas in dem Umfang als Kuppel
 
 2. gegen die offene Rückforderungsansprüche aufgrund eines Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem europäischen Binnenmarkt bestehen.
 
-##### § 24
+###### § 24
 
 (weggefallen)
 
 ## Abschnitt 3 Herstellung von Grünem Wasserstoff
 
-##### § 25 Umlagebefreiung bei der Herstellung von Grünem Wasserstoff
+###### § 25 Umlagebefreiung bei der Herstellung von Grünem Wasserstoff
 
 (1) Der Anspruch auf Zahlung der Umlagen verringert sich auf null für die Netzentnahme von Strom, der zur Herstellung von Grünem Wasserstoff unabhängig von dessen Verwendungszweck in einer Einrichtung zur Herstellung von Grünem Wasserstoff verbraucht wird, die über einen eigenen Zählpunkt mit dem Netz verbunden ist. Satz 1 ist nicht in einem Kalenderjahr anzuwenden, in dem der Strom von einem Unternehmen oder einem selbständigen Teil eines Unternehmens verbraucht wird und die Umlagen für dieses Unternehmen oder diesen selbständigen Teil eines Unternehmens nach Abschnitt 4 dieses Gesetzes begrenzt sind.
 
@@ -385,17 +389,17 @@ Ausschließlich für die Zwecke des Satzes 1 ist Erdgas in dem Umfang als Kuppel
 
 2. gegen die offene Rückforderungsansprüche aufgrund eines Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem europäischen Binnenmarkt bestehen.
 
-##### § 26 Anforderungen an Grünen Wasserstoff
+###### § 26 Anforderungen an Grünen Wasserstoff
 
 Die Anforderungen an Grünen Wasserstoff werden in einer Rechtsverordnung nach § 93 des Erneuerbare-Energien-Gesetzes festgelegt.
 
-##### § 27 (weggefallen)
+###### § 27 (weggefallen)
 
 ## Abschnitt 4 Besondere Ausgleichsregelung
 
 ## Unterabschnitt 1 Allgemeine Bestimmungen
 
-##### § 28 Zweck des Abschnitts
+###### § 28 Zweck des Abschnitts
 
 Zweck dieses Abschnitts ist die Begrenzung der Höhe der zu zahlenden Umlagen
 
@@ -407,7 +411,7 @@ Zweck dieses Abschnitts ist die Begrenzung der Höhe der zu zahlenden Umlagen
 
 soweit die Begrenzung mit dem Interesse der Gesamtheit der Stromverbraucher vereinbar ist.
 
-##### § 29 Antrag
+###### § 29 Antrag
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle begrenzt die Umlagen auf Antrag abnahmestellenbezogen
 
@@ -445,7 +449,7 @@ Die Bestätigung nach Satz 1 muss ferner eine Selbstverpflichtung des Antragstel
 
 ## Unterabschnitt 2 Stromkostenintensive Unternehmen
 
-##### § 30 Voraussetzungen der Begrenzung
+###### § 30 Voraussetzungen der Begrenzung
 
 Bei einem Unternehmen, das einer Branche nach Anlage 2 zuzuordnen ist, werden die Umlagen begrenzt, wenn
 
@@ -467,7 +471,7 @@ b) mindestens 30 Prozent seines Stromverbrauchs durch ungeförderten Strom aus e
 
 c) Investitionen in Höhe von 50 Prozent des nach diesem Gesetz für das zweite dem Antragsjahr vorangegangene Jahr gewährten Begrenzungsbetrags für Maßnahmen zur erheblichen Dekarbonisierung des Produktionsprozesses in entsprechender Anwendung von Buchstabe a Doppelbuchstabe cc getätigt hat; soweit das Unternehmen einem Sektor angehört, für den die Delegierte Verordnung (EU) 2019/331 in der Fassung vom 30. Januar 2024 Produkt-Benchmarks festlegt, müssen die Maßnahmen die Treibhausgasemissionen der von diesem Unternehmen hergestellten Produkte auf einen Wert verringern, der deutlich unterhalb des für diese Produkte jeweils festgelegten Produkt-Benchmarkwertes liegt.
 
-##### § 31 Umfang der Begrenzung
+###### § 31 Umfang der Begrenzung
 
 Die Umlagen werden an den Abnahmestellen, an denen das Unternehmen einer Branche nach Anlage 2 zuzuordnen ist, für den Strom, den das Unternehmen dort im Begrenzungszeitraum selbst verbraucht, wie folgt begrenzt:
 
@@ -495,7 +499,7 @@ bb) im Übrigen 1 Prozent der Bruttowertschöpfung.
 
 4. Die Begrenzung nach den Nummern 2 und 3 erfolgt nur so weit, dass die von dem Unternehmen zu zahlenden Umlagen für den Stromanteil über 1 Gigawattstunde den Wert von 0,05 Cent pro Kilowattstunde an den Abnahmestellen nicht unterschreiten; der Selbstbehalt nach Nummer 1 bleibt unberührt.
 
-##### § 32 Nachweisführung
+###### § 32 Nachweisführung
 
 Die Nachweisführung erfolgt
 
@@ -533,15 +537,15 @@ d) für Buchstabe b durch einen Nachweis nach Nummer 1 Buchstabe e und
 
 e) für Buchstabe c durch eine Eigenerklärung, dass das Unternehmen Investitionen in dem erforderlichen Umfang getätigt hat und dass diese Investitionen nicht oder nicht in dem geltend gemachten Umfang zur Erfüllung der Voraussetzungen einer anderen Beihilfe als der Begrenzung nach § 29 geltend gemacht werden, verbunden mit der Aufstellung der durchgeführten Maßnahmen einschließlich des jeweiligen Investitionsvolumens sowie der durch die Durchführung der Maßnahmen verringerten Treibhausgasemissionen und im Fall einer erheblichen Unterbrechung des Produktionsablaufs durch die umzusetzenden Maßnahmen zusätzlich mit der Auftragsbestätigung des beauftragten Dritten; der Inhalt dieser Eigenerklärung bedarf der Bestätigung einer prüfungsbefugten Stelle.
 
-##### § 33 Nachweisführung auf Basis eines gewillkürten Rumpfgeschäftsjahres
+###### § 33 Nachweisführung auf Basis eines gewillkürten Rumpfgeschäftsjahres
 
 Unternehmen, die bis zum 30. April des Antragsjahres noch über kein abgeschlossenes handelsrechtliches Geschäftsjahr verfügen oder zum Zeitpunkt des Endes des letzten abgeschlossenen Geschäftsjahres keiner Branche nach Anlage 2 zuzuordnen sind, können abweichend von § 32 Nummer 1 den Antrag auf Basis eines gewillkürten Rumpfgeschäftsjahres stellen, das mit der erstmaligen Stromabnahme zu Produktionszwecken in einer Branche nach Anlage 2 beginnt und vor Ablauf der Antragsfrist endet. Die Begrenzungsentscheidung ergeht unter Vorbehalt des Widerrufs. Nach Vollendung des ersten abgeschlossenen Geschäftsjahres erfolgt eine nachträgliche Überprüfung der Antragsvoraussetzungen und des Begrenzungsumfangs durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle anhand der Daten des abgeschlossenen Geschäftsjahres. § 32 ist im Übrigen entsprechend anzuwenden.
 
-##### § 34 Selbständige Teile eines Unternehmens
+###### § 34 Selbständige Teile eines Unternehmens
 
 Die §§ 30 bis 33 sind für selbständige Teile eines Unternehmens, das einer Branche nach Anlage 2 zuzuordnen ist, entsprechend anzuwenden, wobei für die Begrenzung nach § 31 Nummer 3 die Bruttowertschöpfung des Unternehmens maßgeblich ist.
 
-##### § 35 Begriffsbestimmungen des Unterabschnitts, Branchenzuordnung
+###### § 35 Begriffsbestimmungen des Unterabschnitts, Branchenzuordnung
 
 (1) Im Sinn dieses Unterabschnitts ist
 
@@ -555,7 +559,7 @@ Die §§ 30 bis 33 sind für selbständige Teile eines Unternehmens, das einer B
 
 ## Unterabschnitt 3 Herstellung von Wasserstoff
 
-##### § 36 Herstellung von Wasserstoff in stromkostenintensiven Unternehmen
+###### § 36 Herstellung von Wasserstoff in stromkostenintensiven Unternehmen
 
 (1) Bei Unternehmen, die der Branche mit dem WZ-2008-Code 2011 nach Anlage 2 zuzuordnen sind und bei denen die elektrochemische Herstellung von Wasserstoff den größten Beitrag zur gesamten Bruttowertschöpfung des Unternehmens leistet, werden die Umlagen unabhängig vom Verwendungszweck des hergestellten Wasserstoffs nach Unterabschnitt 2 mit der Maßgabe begrenzt, dass § 30 Nummer 1 und § 31 Nummer 1 nicht anzuwenden sind und die Zugehörigkeit der Abnahmestelle zu einer Branche nach Anlage 2 abweichend von § 31 nicht erforderlich ist.
 
@@ -585,7 +589,7 @@ Nach Vollendung des ersten abgeschlossenen Geschäftsjahres erfolgt eine nachtr�
 
 ## Unterabschnitt 4 Verkehr
 
-##### § 37 Schienenbahnen
+###### § 37 Schienenbahnen
 
 (1) Bei einer Schienenbahn erfolgt die Begrenzung der Umlagen nur, wenn sie nachweist, dass im letzten abgeschlossenen Geschäftsjahr die an der betreffenden Abnahmestelle selbst verbrauchte Strommenge unmittelbar für den Fahrbetrieb im Schienenbahnverkehr verbraucht wurde und mehr als 1 Gigawattstunde unter Ausschluss der rückgespeisten Energie betrug.
 
@@ -617,7 +621,7 @@ Die Begrenzungsentscheidung ergeht unter Vorbehalt der Nachprüfung. Sie kann au
 
 2. „Aufnahme des Fahrbetriebs“ der erstmalige Verbrauch von Strom zu Fahrbetriebszwecken.
 
-##### § 38 Verkehrsunternehmen mit elektrisch betriebenen Bussen im Linienverkehr
+###### § 38 Verkehrsunternehmen mit elektrisch betriebenen Bussen im Linienverkehr
 
 (1) Bei einem Verkehrsunternehmen mit elektrisch betriebenen Bussen im Linienverkehr werden die Umlagen auf 20 Prozent begrenzt, wenn es nachweist, dass im letzten abgeschlossenen Geschäftsjahr die an der betreffenden Abnahmestelle selbst verbrauchte Strommenge unmittelbar für den Fahrbetrieb elektrisch betriebener Busse im Linienverkehr verbraucht wurde und unter Ausschluss der in das Netz rückgespeisten Energie mindestens 100 Megawattstunden betrug. Die Begrenzung nach Satz 1 erfolgt nur, soweit diese Begrenzung und alle sonstigen Beihilfen, die dem Unternehmen aufgrund der Verordnung (EU) 2023/2831 in der Fassung vom 13. Dezember 2023 in dem Antragsjahr und in den beiden dem Antragsjahr vorangegangenen Steuerjahren gewährt worden sind, den Betrag von 300 000 Euro nicht überschreiten. Als dem Unternehmen gewährte Beihilfen im Sinn dieses Absatzes gelten alle Beihilfen, die dem Unternehmen im Sinn des Artikels 2 der Verordnung (EU) 2023/2831 in der Fassung vom 13. Dezember 2023 gewährt werden.
 
@@ -661,7 +665,7 @@ Die Begrenzungsentscheidung ergeht unter Vorbehalt der Nachprüfung. Sie kann au
 
 6. „Verkehrsunternehmen mit elektrisch betriebenen Bussen im Linienverkehr“ Unternehmen, die in einem genehmigten Linienverkehr Busse einsetzen.
 
-##### § 39 Landstromanlagen
+###### § 39 Landstromanlagen
 
 (1) Bei einer Landstromanlage erfolgt die Begrenzung der Umlagen auf 20 Prozent, wenn sie nachweist, dass
 
@@ -683,7 +687,7 @@ Die Begrenzungsentscheidung ergeht unter Vorbehalt der Nachprüfung. Sie kann au
 
 ## Unterabschnitt 5 Verfahren
 
-##### § 40 Antragstellung und Entscheidungswirkung
+###### § 40 Antragstellung und Entscheidungswirkung
 
 (1) Der Antrag nach § 29 ist jeweils bis zum 30. Juni eines Jahres für das folgende Kalenderjahr zu stellen. Abweichend von Satz 1 können bis zum 30. September eines Jahres für das folgende Kalenderjahr gestellt werden:
 
@@ -709,23 +713,23 @@ Anträge nach § 36 für die Begrenzung im Jahr der erstmaligen Stromentnahme zu
 
 (6) Ergeht die Begrenzungsentscheidung nach § 31 Nummer 4, sind die begrenzten Umlagen jeweils ihrer Höhe nach auszuweisen; die Höhen sind dabei so festzusetzen, dass das Verhältnis der begrenzten Umlagen dem Verhältnis der unbegrenzten Umlagen im Begrenzungsjahr entspricht.
 
-##### § 41 Übertragung von Begrenzungsbescheiden
+###### § 41 Übertragung von Begrenzungsbescheiden
 
 (1) Wenn die wirtschaftliche und organisatorische Einheit einer begrenzten Abnahmestelle nahezu vollständig auf ein anderes Unternehmen übergeht, überträgt auf Antrag beider Unternehmen das Bundesamt für Wirtschaft und Ausfuhrkontrolle den Begrenzungsbescheid auf das die Abnahmestelle übernehmende Unternehmen. Eine Übertragung des Begrenzungsbescheides kann nur im Umfang der Begrenzung nach § 31 Nummer 2 erfolgen. Bereits erfolgte Zahlungen auf den Selbstbehalt nach § 31 Nummer 1 werden auf die Zahlungsverpflichtung des Bescheidempfängers angerechnet. Die Pflicht des übernehmenden Unternehmens zur Zahlung der Umlagen besteht nur dann, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle den Antrag auf Übertragung des Begrenzungsbescheides ablehnt. In diesem Fall beginnt die Zahlungspflicht der Umlagen ab dem Zeitpunkt der Rechtswirksamkeit der Übernahme der Abnahmestelle.
 
 (2) Absatz 1 ist auf Antragsteller, die keine Unternehmen sind, entsprechend anzuwenden.
 
-##### § 42 Rücknahme der Entscheidung
+###### § 42 Rücknahme der Entscheidung
 
 Die Entscheidung nach § 29 ist mit Wirkung auch für die Vergangenheit zurückzunehmen, wenn bekannt wird, dass bei ihrer Erteilung die Voraussetzungen nach diesem Gesetz nicht vorlagen.
 
-##### § 43 Auskunfts- und Betretungsrecht, Datenabgleich
+###### § 43 Auskunfts- und Betretungsrecht, Datenabgleich
 
 (1) Zum Zweck der Prüfung der gesetzlichen Voraussetzungen sind die Bediensteten des Bundesamtes für Wirtschaft und Ausfuhrkontrolle und dessen Beauftragte befugt, von den für die Begünstigten handelnden natürlichen Personen für die Prüfung erforderliche Auskünfte zu verlangen, innerhalb der üblichen Geschäftszeiten die geschäftlichen Unterlagen einzusehen und zu prüfen sowie Betriebs- und Geschäftsräume sowie die dazugehörigen Grundstücke der begünstigten Personen während der üblichen Geschäftszeiten zu betreten. Die für die Begünstigten handelnden natürlichen Personen müssen die verlangten Auskünfte erteilen und die Unterlagen zur Einsichtnahme vorlegen. Zur Auskunft Verpflichtete können die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichnete Angehörige der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 (2) Soweit die gesetzlichen Voraussetzungen Verfahren anderer Behörden betreffen, ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle zum Abgleich antragsrelevanter Daten berechtigt; die betroffenen Behörden sind zur Mitwirkung verpflichtet.
 
-##### § 44 Evaluierung, Weitergabe von Daten
+###### § 44 Evaluierung, Weitergabe von Daten
 
 (1) Das Bundesministerium für Wirtschaft und Energie und das Bundesamt für Wirtschaft und Ausfuhrkontrolle evaluieren laufend die §§ 29 bis 43. Sie können sich hierbei von Dritten unterstützen lassen.
 
@@ -747,7 +751,7 @@ Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann die Art der Auskunftsert
 
 ## Abschnitt 5 Abgrenzung, Messung und Schätzung von Strommengen
 
-##### § 45 Geringfügige Stromverbräuche Dritter
+###### § 45 Geringfügige Stromverbräuche Dritter
 
 Stromverbräuche einer anderen Person sind den Stromverbräuchen des Letztverbrauchers zuzurechnen, wenn sie
 
@@ -761,7 +765,7 @@ a) in den Räumlichkeiten, auf dem Grundstück oder dem Betriebsgelände des Let
 
 b) im Fall einer gewerblichen Nutzung zur Erbringung einer Leistung der anderen Person gegenüber dem Letztverbraucher oder des Letztverbrauchers gegenüber der anderen Person.
 
-##### § 46 Messung und Schätzung
+###### § 46 Messung und Schätzung
 
 (1) Strommengen, für die Umlagen zu zahlen sind, sind durch mess- und eichrechtskonforme Messeinrichtungen zu erfassen. Wenn für Strommengen nur anteilige oder keine Umlagen zu zahlen sind, sind diese Strommengen von Strommengen, die einer Pflicht zur Zahlung einer Umlage in anderer Höhe unterliegen, durch mess- und eichrechtskonforme Messeinrichtungen abzugrenzen.
 
@@ -805,7 +809,7 @@ Sind die nach Satz 1 Nummer 3 und 4 zu tätigenden Angaben nach den Umständen d
 
 ## Abschnitt 1 Kontoführung und gesonderte Buchführung
 
-##### § 47 Kontoführung und gesonderte Buchführung der Übertragungsnetzbetreiber
+###### § 47 Kontoführung und gesonderte Buchführung der Übertragungsnetzbetreiber
 
 (1) Die Übertragungsnetzbetreiber müssen jeweils ein separates Bankkonto für die Aufgaben nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz einschließlich der Zahlungen nach diesem Gesetz führen. Sämtliche zahlungswirksamen Einnahmen und Ausgaben nach Anlage 1 und den Teilen 3 und 4 sind über dieses Bankkonto abzuwickeln.
 
@@ -813,17 +817,17 @@ Sind die nach Satz 1 Nummer 3 und 4 zu tätigenden Angaben nach den Umständen d
 
 (3) Die Übertragungsnetzbetreiber dürfen die Mittel auf ihrem separaten Bankkonto für die Aufgaben nach dem Erneuerbare-Energien-Gesetz nach Absatz 1 Satz 1, die die Bundesrepublik Deutschland auf Grund des Bescheides vom 9. Oktober 2020 als Zuschuss zur Absenkung der EEG-Umlage geleistet hat, auf das Konto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes umbuchen und zum Zweck der Vorfinanzierung des Zuschusses zur anteiligen Finanzierung der Übertragungsnetzkosten des Kalenderjahres 2023 nach Maßgabe des § 24b des Energiewirtschaftsgesetzes verwenden. Die Übertragungsnetzbetreiber müssen diese auf das separate Bankkonto für die Aufgaben nach dem Erneuerbare-Energien-Gesetz nach Absatz 1 Satz 1 zurückbuchen, sobald sie für die Vorfinanzierung nach Satz 1 nicht mehr erforderlich sind oder für Zwecke des Erneuerbare-Energien-Gesetzes benötigt werden.
 
-##### § 48 Kontoführung und gesonderte Buchführung der Verteilernetzbetreiber
+###### § 48 Kontoführung und gesonderte Buchführung der Verteilernetzbetreiber
 
 Die Verteilernetzbetreiber müssen für Zahlungen nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz sowie für die auszugleichenden Offshore-Anbindungskosten einschließlich der Zahlungen nach diesem Gesetz jeweils separate Konten führen. Sämtliche zahlungswirksamen Einnahmen und Ausgaben nach Satz 1 sind über diese Konten abzuwickeln. § 47 Absatz 2 Satz 1 und 2 ist entsprechend anzuwenden.
 
 ## Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten
 
-##### § 49 Grundsatz
+###### § 49 Grundsatz
 
 Betreiber von Stromerzeugungsanlagen, Netzbetreiber, Letztverbraucher, Netznutzer und Elektrizitätsversorgungsunternehmen müssen einander die für den Ausgleich nach Teil 4 erforderlichen Angaben, insbesondere die in den §§ 50 bis 52 genannten Angaben, unverzüglich zur Verfügung stellen, soweit in den nachfolgenden Bestimmungen keine abweichenden Fristen bestimmt sind. § 20 ist entsprechend anzuwenden.
 
-##### § 50 Verteilernetzbetreiber
+###### § 50 Verteilernetzbetreiber
 
 Verteilernetzbetreiber müssen ihrem vorgelagerten Übertragungsnetzbetreiber übermitteln:
 
@@ -881,7 +885,7 @@ e) die prognostizierten umlagenpflichtigen Netzentnahmen aus ihrem Netz, für di
 
 f) die sonstigen für die Prognose der Umlagenhöhen und der monatlichen Abschlagszahlungen erforderlichen Angaben.
 
-##### § 51 Übertragungsnetzbetreiber
+###### § 51 Übertragungsnetzbetreiber
 
 (1) Die Übertragungsnetzbetreiber müssen auf ihrer gemeinsamen Internetseite veröffentlichen:
 
@@ -931,7 +935,7 @@ Für die Bestimmung der installierten Leistung nach Satz 1 Nummer 1 sind mehrere
 
 (8) Die nach den Absätzen 1 bis 3 veröffentlichten Angaben dürfen zu kommerziellen und nichtkommerziellen Zwecken verwendet werden.
 
-##### § 52 Netznutzer
+###### § 52 Netznutzer
 
 (1) Netznutzer, die für eine Netzentnahme eine Verringerung der Umlagen nach diesem Gesetz in Anspruch nehmen wollen, müssen dem zur Erhebung der Umlagen berechtigten Netzbetreiber unverzüglich folgende Angaben mitteilen:
 
@@ -965,7 +969,7 @@ Satz 1 ist nicht anzuwenden, wenn die Angaben bereits übermittelt worden sind o
 
 3. die Tatsache, dass für das betreffende Kalenderjahr die Umlagen für Strom, der von dem Betreiber der Einrichtung selbst verbraucht wurde, nicht nach Teil 4 Abschnitt 4 dieses Gesetzes begrenzt sind.
 
-##### § 53 Verstoß gegen Mitteilungspflichten
+###### § 53 Verstoß gegen Mitteilungspflichten
 
 (1) Der nach Teil 4 verringerte Anspruch auf Zahlung der Umlagen erhöht sich auf 100 Prozent, soweit die folgenden Mitteilungspflichten nicht oder nicht rechtzeitig erfüllt worden sind:
 
@@ -983,11 +987,11 @@ Satz 1 ist nicht anzuwenden, wenn die Angaben bereits übermittelt worden sind o
 
 Der Fristablauf nach Satz 1 verschiebt sich, soweit für die Mitteilung nach § 52 Absatz 2 eine spätere Frist als der 31. März vorgesehen ist, auf das Datum der späteren Frist.
 
-##### § 54 Elektronische Übermittlung
+###### § 54 Elektronische Übermittlung
 
 Die nach diesem Abschnitt mitzuteilenden Angaben müssen elektronisch übermittelt werden und einen sachkundigen Dritten in die Lage versetzen, ohne weitere Informationen die Richtigkeit und Vollständigkeit der übermittelten Angaben nachvollziehen zu können. Wenn derjenige, demgegenüber die Mitteilungs- und Informationspflichten nach diesem Abschnitt zu erfüllen sind, Formularvorlagen zu Form und Inhalt der nach diesem Abschnitt an sie zu übermittelnden Angaben bereitstellt, müssen die Angaben unter Verwendung dieser Formularvorlagen übermittelt werden.
 
-##### § 55 Testierung
+###### § 55 Testierung
 
 (1) Die zusammengefassten Endabrechnungen der Verteilernetzbetreiber nach § 50 Nummer 2 und die Endabrechnung unter den Übertragungsnetzbetreibern nach § 19 Absatz 1 Nummer 1 müssen durch einen Prüfer geprüft werden. Im Übrigen können die Netzbetreiber verlangen, dass die Endabrechnungen nach § 19 sowie die hierzu erforderlichen Mitteilungen nach den §§ 49 bis 52 bei Vorlage durch einen Prüfer geprüft werden. Bei der Prüfung sind zu berücksichtigen:
 
@@ -1001,7 +1005,7 @@ Die nach diesem Abschnitt mitzuteilenden Angaben müssen elektronisch übermitte
 
 (3) Für Prüfungen nach diesem Paragrafen sind § 319 Absatz 2 bis 4, § 319b Absatz 1, § 320 Absatz 2 und § 323 des Handelsgesetzbuchs entsprechend anzuwenden.
 
-##### § 56 Beihilfetransparenzpflichten
+###### § 56 Beihilfetransparenzpflichten
 
 (1) Letztverbraucher, bei denen die Verringerung und Begrenzung aller Umlagen nach Teil 4 bezogen auf das letzte Kalenderjahr 100 000 Euro oder mehr beträgt, müssen dem Übertragungsnetzbetreiber bis zum 31. Juli eines Kalenderjahres folgende Angaben mitteilen:
 
@@ -1027,7 +1031,7 @@ Die nach diesem Abschnitt mitzuteilenden Angaben müssen elektronisch übermitte
 
 (6) Wenn Letztverbraucher in einem Kalenderjahr die nach Absatz 1 geforderten Angaben im Rahmen des Antragsverfahrens nach Teil 4 Abschnitt 4 an das Bundesamt für Wirtschaft und Ausfuhrkontrolle übermittelt haben, sind sie von der Mitteilungspflicht nach Absatz 1 befreit.
 
-##### § 57 Bundesamt für Wirtschaft und Ausfuhrkontrolle
+###### § 57 Bundesamt für Wirtschaft und Ausfuhrkontrolle
 
 Für die Ermittlung der Umlagen muss das Bundesamt für Wirtschaft und Ausfuhrkontrolle den Übertragungsnetzbetreibern die folgenden Daten mitteilen:
 
@@ -1041,11 +1045,11 @@ b) die zur Auszahlung für das folgende Kalenderjahr prognostizierte Fördersumm
 
 Bei der Meldung nach Satz 1 Nummer 1 hat das Bundesamt für Wirtschaft und Ausfuhrkontrolle Anträge, die aufgrund der Begrenzung der Zuschlagssumme nach § 26 Absatz 3 des Kraft-Wärme-Kopplungsgesetzes nicht berücksichtigt wurden, in der Zuschlagssumme für das jeweils nächste Kalenderjahr zu berücksichtigen.
 
-##### § 58 Behörden der Zollverwaltung
+###### § 58 Behörden der Zollverwaltung
 
 Die Behörden der Zollverwaltung sind verpflichtet, dem Bundesamt für Wirtschaft und Ausfuhrkontrolle auf Ersuchen die für die Berechnung der Bruttowertschöpfung erforderlichen Informationen mitzuteilen.
 
-##### § 59 Information der Bundesnetzagentur
+###### § 59 Information der Bundesnetzagentur
 
 (1) Die Übertragungsnetzbetreiber müssen der Bundesnetzagentur bis zum 31. März eines Kalenderjahres für die nach § 47 zu führenden Bankkonten folgende Daten übermitteln:
 
@@ -1065,7 +1069,7 @@ Die Behörden der Zollverwaltung sind verpflichtet, dem Bundesamt für Wirtschaf
 
 (5) Die Übertragungsnetzbetreiber müssen die Angaben nach § 51 Absatz 1 Nummer 4 und Absatz 2 bis zum 25. Oktober der Bundesnetzagentur übermitteln.
 
-##### § 60 Vorausschau des EEG-Finanzierungsbedarfs
+###### § 60 Vorausschau des EEG-Finanzierungsbedarfs
 
 (1) Die Übertragungsnetzbetreiber müssen bis zum 25. Oktober eines Kalenderjahres eine Vorausschau für die zu leistenden Zahlungen für den Ausbau der erneuerbaren Energien in den folgenden fünf Kalenderjahren erstellen und veröffentlichen. Diese Vorausschau muss mindestens eine Prognose der Entwicklung
 
@@ -1077,13 +1081,13 @@ enthalten.
 
 (2) § 74 Absatz 2 und 3 des Erneuerbare-Energien-Gesetzes ist entsprechend anzuwenden.
 
-##### § 61 Schätzungsbefugnis
+###### § 61 Schätzungsbefugnis
 
 Werden erforderliche Angaben nach diesem Teil nicht oder nicht fristgerecht den Übertragungsnetzbetreibern mitgeteilt oder bestehen begründete Zweifel an ihrer Richtigkeit, dürfen die Übertragungsnetzbetreiber die Daten für die Ermittlung und Erhebung der Umlagen schätzen. Die Schätzung entbindet die Mitteilungsverpflichteten nicht von ihrer Mitteilungspflicht. Satz 1 ist entsprechend auf Verteilernetzbetreiber anzuwenden, soweit die Mitteilung nach diesem Teil ihnen gegenüber erfolgen muss. Die Schätzung hat in sachgerechter und in einer für einen nicht sachverständigen Dritten jederzeit nachvollziehbaren und nachprüfbaren Weise zu erfolgen. Sie hat in früheren Kalenderjahren mitgeteilte Daten angemessen zu berücksichtigen und Sicherheitszuschläge oder Sicherheitsabschläge zugunsten der Umlagenkonten vorsehen.
 
 ## Teil 6 Rechtsschutz und behördliches Verfahren
 
-##### § 62 Aufsicht durch die Bundesnetzagentur
+###### § 62 Aufsicht durch die Bundesnetzagentur
 
 (1) Die Bundesnetzagentur hat die Aufgabe, zu überwachen, dass
 
@@ -1127,13 +1131,13 @@ d) zu den Bedingungen für eine Anwendung von § 21 Absatz 4a für den Fall, das
 
 (3) Für die Wahrnehmung der Aufgaben der Bundesnetzagentur nach diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen sind die Bestimmungen des Teils 8 des Energiewirtschaftsgesetzes mit Ausnahme von § 69 Absatz 1 Satz 2 und Absatz 10, der §§ 91 und 95 bis 101 sowie des Abschnitts 6 entsprechend anzuwenden. Die Befugnisse nach Satz 1 gelten gegenüber Personen, die keine Unternehmen sind, entsprechend.
 
-##### § 62a Benachrichtigung und Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten
+###### § 62a Benachrichtigung und Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten
 
 (1) Der Bundesgerichtshof muss die Bundesnetzagentur über alle bürgerlichen Rechtsstreitigkeiten, die sich aus diesem Gesetz ergeben, unterrichten. Er muss der Bundesnetzagentur auf Verlangen Abschriften von allen Schriftsätzen, Protokollen, Verfügungen und Entscheidungen übersenden.
 
 (2) Der Präsident oder die Präsidentin der Bundesnetzagentur kann, wenn er oder sie es zur Wahrung des öffentlichen Interesses als angemessen erachtet, aus den Mitgliedern der Regulierungsbehörde eine Vertretung bestellen, die befugt ist, dem Bundesgerichtshof schriftliche Erklärungen abzugeben, auf Tatsachen und Beweismittel hinzuweisen, den Terminen beizuwohnen, in ihnen Ausführungen zu machen und Fragen an Parteien, Zeugen und Sachverständige zu richten. Schriftliche Erklärungen der vertretenden Personen sind den Parteien von dem Bundesgerichtshof mitzuteilen.
 
-##### § 63 Bußgeldvorschriften
+###### § 63 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1151,15 +1155,15 @@ d) zu den Bedingungen für eine Anwendung von § 21 Absatz 4a für den Fall, das
 
 ## Teil 7 Verordnungsermächtigungen, Schlussbestimmungen
 
-##### § 64 Verordnungsermächtigung zur Ermittlung des Finanzierungsbedarfs
+###### § 64 Verordnungsermächtigung zur Ermittlung des Finanzierungsbedarfs
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Positionen, die als Einnahmen oder Ausgaben nach Anlage 1 gelten, und den anzuwendenden Zinssatz zu bestimmen.
 
-##### § 65 Verordnungsermächtigung zur Besonderen Ausgleichsregelung
+###### § 65 Verordnungsermächtigung zur Besonderen Ausgleichsregelung
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Branchen in die Anlage 2 aufzunehmen oder aus dieser herauszunehmen, sobald und soweit dies für die Angleichung an Beschlüsse der Europäischen Kommission erforderlich ist.
 
-##### § 66 Allgemeine Übergangsbestimmungen
+###### § 66 Allgemeine Übergangsbestimmungen
 
 (1) Soweit sich aus den nachfolgenden Bestimmungen nichts anderes ergibt, sind die Bestimmungen des Erneuerbare-Energien-Gesetzes, des Kraft-Wärme-Kopplungsgesetzes, des Energiewirtschaftsgesetzes, der Erneuerbare-Energien-Verordnung und der Erneuerbare-Energien-Ausführungsverordnung in den am 31. Dezember 2022 geltenden Fassungen anzuwenden für Strom, der vor dem 1. Januar 2023
 
@@ -1185,7 +1189,7 @@ Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechts
 
 (10) Zum Ablauf des 22. Dezember 2025 bereits bestehende Regelungen des öffentlich-rechtlichen Vertrags nach § 9 Absatz 1 Satz 2 Nummer 1 zur Aufrechnung, sind ab dem 23. Dezember 2025 nicht mehr anzuwenden.
 
-##### § 67 Übergangs- und Härtefallbestimmungen zur Besonderen Ausgleichsregelung
+###### § 67 Übergangs- und Härtefallbestimmungen zur Besonderen Ausgleichsregelung
 
 (1) Abweichend von § 66 Absatz 1 sind die Bestimmungen des Erneuerbare-Energien-Gesetzes, des Kraft-Wärme-Kopplungsgesetzes und § 17f des Energiewirtschaftsgesetzes in der am 31. Dezember 2022 geltenden Fassung auch anzuwenden auf Strom, der nach dem 31. Dezember 2022 und vor dem 1. Januar 2024 an eine vom Bundesamt für Wirtschaft und Ausfuhrkontrolle nach den §§ 63 bis 68 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung begrenzte Abnahmestelle geliefert oder verbraucht wurde. Satz 1 ist für die Begrenzung der KWKG-Umlage nach § 27c des Kraft-Wärme-Kopplungsgesetzes und der Offshore-Netzumlage nach § 17f Absatz 5 Satz 2 des Energiewirtschaftsgesetzes in den am 31. Dezember 2022 geltenden Fassungen für Schienenbahnen entsprechend anzuwenden mit der Maßgabe, dass die Abnahmestelle nicht vom Bundesamt für Wirtschaft und Ausfuhrkontrolle begrenzt sein muss.
 
@@ -1219,7 +1223,7 @@ Bei Unternehmen, die ihren Stromverbrauch in besonderer Weise aus erneuerbaren E
 
 2. die in einem vor dem 1. Januar 2023 eingeführten Energiemanagementsystem, bei dem die wirtschaftliche Durchführbarkeit einer Maßnahme auf Basis der Amortisationszeitmethode bewertet wurde, mit einer Amortisationsdauer von weniger als 60 Prozent der vorgesehenen Nutzungsdauer ausgewiesen ist.
 
-##### Anlage 1 (zu § 2)Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs
+###### Anlage 1 (zu § 2)Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs
 
 (Fundstelle: BGBl. I 2022, 1296 - 1299 
  bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1356,7 +1360,7 @@ Bei Unternehmen, die ihren Stromverbrauch in besonderer Weise aus erneuerbaren E
 
 12. **Verzinsung** Differenzbeträge zwischen Einnahmen und Ausgaben sowie Differenzbeträge zwischen der jeweiligen Umlage in der vereinnahmten Höhe und der zulässigen Höhe sind ab dem Zeitpunkt ihrer Vereinnahmung zu verzinsen. Der Zinssatz beträgt für den Kalendermonat 0,3 Prozentpunkte über dem Monatsdurchschnitt des Euro-Interbank-Offered-Rate-Satzes (Euribor) für die Beschaffung von Einmonatsgeld von ersten Adressen in den Teilnehmerstaaten der Europäischen Währungsunion mit einer Laufzeit von einem Monat. Soweit der tatsächliche Zinssatz den Zinssatz nach Satz 2 übersteigt, sind auch diese Zinseinnahmen als Einnahmen nach Nummer 2.4 anzusehen.
 
-##### Anlage 2 (zu § 31)Stromkosten- oder handelsintensive Branchen
+###### Anlage 2 (zu § 31)Stromkosten- oder handelsintensive Branchen
 
 (Fundstelle: BGBl. I 2022, 1300 - 1303)
 
@@ -1599,4 +1603,3 @@ WZ-2008-CodeWZ 2008 – Bezeichnung(a. n. g. = anderweitig nicht genannt)
 2592Herstellung von Verpackungen und Verschlüssen aus Eisen, Stahl und NE-Metall
 
 2932Herstellung von sonstigen Teilen und sonstigem Zubehör für Kraftwagen
-
