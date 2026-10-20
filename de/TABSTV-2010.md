@@ -4,23 +4,27 @@ identifier: "TABSTV-2010"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2009-10-05"
-last_updated: "2026-04-04"
+last_updated: "2026-10-20"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/tabstv_2010/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR326300009"
 slug: "tabstv_2010"
 bgbl_reference: "BGBl I 2009, 3262, 3263"
 amtabk: "TabStV"
-stand: "Zuletzt geändert durch Art. 1 V v. 17.6.2024 I Nr. 204"
+stand: "Zuletzt geändert durch Art. 2 G v. 19.10.2026 I Nr. 309"
 ---
 # Verordnung zur Durchführung des Tabaksteuergesetzes
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ## Abschnitt 1 Allgemeines
 
-##### § 1 Begriffsbestimmungen
+###### § 1 Begriffsbestimmungen
 
 Im Sinn dieser Verordnung ist
 
@@ -42,7 +46,7 @@ Im Sinn dieser Verordnung ist
 
 9. Delegierte Verordnung zum Unionszollkodex: die Delegierte Verordnung (EU) 2015/2446 der Kommission vom 28. Juli 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates mit Einzelheiten zur Präzisierung von Bestimmungen des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 1; L 87 vom 2.4.2016, S. 35; L 264 vom 30.9.2016, S. 44; L 101 vom 13.4.2017, S. 164), die zuletzt durch die Delegierte Verordnung (EU) 2021/234 (ABl. L 63 vom 23.2.2021, S. 1) geändert worden ist, in der jeweils geltenden Fassung.
 
-##### § 1a Hauptzollamt; örtliche Zuständigkeit
+###### § 1a Hauptzollamt; örtliche Zuständigkeit
 
 Soweit in dieser Verordnung oder in der Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist für den Anwendungsbereich dieser Verordnung
 
@@ -52,11 +56,11 @@ Soweit in dieser Verordnung oder in der Hauptzollamtszuständigkeitsverordnung n
 
 ## Abschnitt 2 Zu den §§ 1 und 4 Nummer 12 des Gesetzes
 
-##### § 2 Stückgewicht
+###### § 2 Stückgewicht
 
 Das Durchschnittsgewicht kann durch mehrmaliges Abwiegen ermittelt werden. Beträgt die Menge von Zigarren oder Zigarillos weniger als 1 000 Stück, ist das Durchschnittsgewicht durch Abwiegen dieser Menge zu ermitteln. Das Gewicht von Filtern, Mundstücken, Halmen und dergleichen sowie von Ringen und Umschließungen kann an geringeren Mengen festgestellt und auf 1 000 Stück hochgerechnet werden.
 
-##### § 3 Steuerzeichen
+###### § 3 Steuerzeichen
 
 (1) Steuerzeichen werden von der Bundesdruckerei hergestellt, soweit nicht das Hauptzollamt Bielefeld oder eine andere Druckerei damit beauftragt wird.
 
@@ -64,7 +68,7 @@ Das Durchschnittsgewicht kann durch mehrmaliges Abwiegen ermittelt werden. Betr�
 
 ## Abschnitt 3 Zu den §§ 5, 6 und 15 Absatz 3 des Gesetzes
 
-##### § 4 Steuerlager, Anforderungen an die Einrichtung
+###### § 4 Steuerlager, Anforderungen an die Einrichtung
 
 (1) Das Steuerlager nach § 5 des Gesetzes umfasst die Gesamtheit der baulich zueinander gehörenden Räume, in denen sich die Einrichtungen zur Herstellung, zur Be- oder Verarbeitung, zur Lagerung von Tabakwaren sowie für die in Absatz 3 Satz 2 genannten Handlungen befinden, ebenso die Lagerorte für Roh- und Ausgangsstoffe, Halb- und Fertigerzeugnisse, die Ladeeinrichtungen, die Werkstätten zum Instandhalten des Betriebs und die Verwaltung. Ferner gehören dazu die Räume, Flächen und ortsfesten Transportanlagen, die jene Räume miteinander verbinden, sowie die daran angrenzenden Flächen, soweit diese für betriebliche Zwecke genutzt werden.
 
@@ -90,7 +94,7 @@ Das Durchschnittsgewicht kann durch mehrmaliges Abwiegen ermittelt werden. Betr�
 
 (6) Die Arbeitsstätte einer Heimarbeiterin oder eines Heimarbeiters gilt als Steuerlager des Auftraggebers, in dem Tabakwaren hergestellt werden, wenn die Heimarbeiterin oder der Heimarbeiter Tabakwaren nicht auf eigene Rechnung herstellt und für nur einen Hersteller tätig ist.
 
-##### § 5 Antrag auf Erlaubnis als Steuerlagerinhaber
+###### § 5 Antrag auf Erlaubnis als Steuerlagerinhaber
 
 (1) Der Antrag auf Erlaubnis als Steuerlagerinhaber nach § 6 des Gesetzes ist vor dem geplanten Betriebsbeginn eines Steuerlagers beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu stellen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
 
@@ -106,23 +110,23 @@ Das Durchschnittsgewicht kann durch mehrmaliges Abwiegen ermittelt werden. Betr�
 
 (5) Für die Arbeitsstätte einer Heimarbeiterin oder eines Heimarbeiters gilt die Erlaubnis als erteilt, wenn die Heimarbeiterin oder der Heimarbeiter in die Liste aufgenommen ist, die der Auftraggeber nach § 6 des Heimarbeitsgesetzes zu führen hat.
 
-##### § 6 Erteilung der Erlaubnis
+###### § 6 Erteilung der Erlaubnis
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis in dem vom Antragsteller beantragten zulässigen Umfang. Dabei sind die Räume, Flächen und Einrichtungen des Steuerlagers oder der Steuerlager sowie die nach § 4 Absatz 3 zulässigen Handlungen zu bestimmen. Mit der Erlaubnis werden für den Steuerlagerinhaber und für jedes Steuerlager Verbrauchsteuernummern vergeben. Vor der Erteilung der Erlaubnis ist Sicherheit zu leisten (§ 7), soweit Anzeichen für eine Gefährdung der Steuer erkennbar sind. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden.
 
 (2) In den Fällen des § 5 Absatz 4 wird die Erlaubnis erweitert. Absatz 1 bleibt unberührt.
 
-##### § 7 Sicherheitsleistung
+###### § 7 Sicherheitsleistung
 
 (1) Das Hauptzollamt legt die Höhe der Sicherheitsleistung unter Berücksichtigung des § 6 Absatz 1 Satz 5 und 6 des Gesetzes fest. Es überprüft regelmäßig die Höhe der Sicherheitsleistung und passt diese gegebenenfalls an.
 
 (2) Sind Steuerbelange gefährdet, kann das Hauptzollamt eine Sicherheitsleistung bis zur Höhe des Steuerwerts des tatsächlichen Bestands im Steuerlager oder bis zur Höhe der entstandenen, aber noch nicht entrichteten Steuer verlangen; § 221 der Abgabenordnung bleibt unberührt.
 
-##### § 7a Überprüfung der Erlaubnis
+###### § 7a Überprüfung der Erlaubnis
 
 Das Hauptzollamt überprüft unbeschadet anlassbezogener Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der Erlaubnis nach § 6 eingehalten werden. Zudem überprüft es regelmäßig, ob der Erlaubnisinhaber die Bedingungen und Voraussetzungen für die Erlaubnis weiterhin erfüllt. Die regelmäßigen Überprüfungsmaßnahmen werden innerhalb von drei Jahren nach der letzten Überprüfungsmaßnahme oder der Neuerteilung durchgeführt.
 
-##### § 8 Änderung von Verhältnissen
+###### § 8 Änderung von Verhältnissen
 
 (1) Der Steuerlagerinhaber hat dem Hauptzollamt jede Änderung der nach § 5 Absatz 1, 2 Satz 1 und Absatz 3 Satz 1 angegebenen Verhältnisse vor der Änderung schriftlich anzuzeigen. Zu den anzuzeigenden Änderungen gehören auch
 
@@ -158,7 +162,7 @@ Das Hauptzollamt überprüft unbeschadet anlassbezogener Überprüfungsmaßnahme
 
 3. die Eröffnung des Insolvenzverfahrens oder die Abweisung der Eröffnung des Insolvenzverfahrens vom Insolvenzverwalter oder, im Falle der angeordneten Eigenverwaltung, vom Erlaubnisinhaber; der gerichtliche Beschluss ist beizufügen.
 
-##### § 9 Erlöschen und Fortbestand der Erlaubnis
+###### § 9 Erlöschen und Fortbestand der Erlaubnis
 
 (1) Die Erlaubnis nach § 6 erlischt unbeschadet des § 124 Absatz 2 der Abgabenordnung durch
 
@@ -220,7 +224,7 @@ c) im Übrigen die Erben,
 
 Die Steuer ist sofort fällig. Das Hauptzollamt kann für die Räumung des Steuerlagers eine Frist gewähren. Die Erlaubnis gilt für die Zwecke der Räumung bis zum Fristablauf weiter.
 
-##### § 10 Belegheft, Buchführung
+###### § 10 Belegheft, Buchführung
 
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
 
@@ -228,11 +232,11 @@ Die Steuer ist sofort fällig. Das Hauptzollamt kann für die Räumung des Steue
 
 (3) Der Steuerlagerinhaber hat die Zu- und Abgänge unverzüglich aufzuzeichnen. Das Hauptzollamt kann zulassen, dass insbesondere die Überführungen in den steuerrechtlich freien Verkehr in der Lagerbuchführung für längstens einen Kalendermonat zusammengefasst aufgezeichnet werden.
 
-##### § 11 Vollständige Zerstörung und unwiederbringlicher Gesamt- oder Teilverlust
+###### § 11 Vollständige Zerstörung und unwiederbringlicher Gesamt- oder Teilverlust
 
 Sind Tabakwaren im Steuerlager unbeabsichtigt vollständig zerstört worden oder vollständig oder teilweise unwiederbringlich verloren gegangen, hat der Steuerlagerinhaber dies dem Hauptzollamt unverzüglich anzuzeigen und anhand betrieblicher Unterlagen nachzuweisen. Das Hauptzollamt kann Vereinfachungen zulassen und Anordnungen zur Nachweisführung treffen.
 
-##### § 12 Bestandsaufnahme im Steuerlager
+###### § 12 Bestandsaufnahme im Steuerlager
 
 (1) Der Steuerlagerinhaber hat einmal jährlich im Steuerlager eine Bestandsaufnahme durchzuführen und beim Hauptzollamt innerhalb eines Monats nach ihrem Abschluss den Soll- und Istbestand sowie das Ergebnis nach amtlich vorgeschriebenem Vordruck (Bestandsanmeldung) anzumelden und dabei zu Mengenabweichungen Stellung zu nehmen. Das Hauptzollamt kann zulassen, dass der Steuerlagerinhaber die Bestandsanmeldung in anderer Form abgibt, wenn Steuerbelange nicht beeinträchtigt werden. Der Steuerlagerinhaber hat den Beginn der Bestandsaufnahme dem Hauptzollamt spätestens drei Wochen im Voraus anzuzeigen.
 
@@ -242,7 +246,7 @@ Sind Tabakwaren im Steuerlager unbeabsichtigt vollständig zerstört worden oder
 
 ## Abschnitt 4 Zu § 7 des Gesetzes
 
-##### § 13 Registrierter Empfänger
+###### § 13 Registrierter Empfänger
 
 (1) Die Erlaubnis als registrierter Empfänger nach § 7 Absatz 2 des Gesetzes ist nur Personen zu erteilen, die Tabakwaren mit vorschriftsmäßigen Steuerzeichen empfangen wollen, es sei denn, der Empfang erfolgt im Rahmen einer steuerfreien Verwendung.
 
@@ -268,7 +272,7 @@ Für das Sortenverzeichnis gilt § 5 Absatz 2 entsprechend.
 
 ## Abschnitt 5 Zu § 8 des Gesetzes
 
-##### § 14 Registrierter Versender
+###### § 14 Registrierter Versender
 
 (1) Wer als registrierter Versender nach § 8 Absatz 1 des Gesetzes Tabakwaren vom Ort der Einfuhr unter Steueraussetzung versenden will, hat die Erlaubnis im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
 
@@ -290,7 +294,7 @@ Für das Sortenverzeichnis gilt § 5 Absatz 2 entsprechend.
 
 ## Abschnitt 6 Zu den §§ 9 und 35 Absatz 1 Nummer 1 des Gesetzes
 
-##### § 15 Begünstigte, Ausstellen der Freistellungsbescheinigung
+###### § 15 Begünstigte, Ausstellen der Freistellungsbescheinigung
 
 (1) Ein Begünstigter, der Tabakwaren unter Steueraussetzung empfangen will, hat vor Beginn der Beförderung eine Freistellungsbescheinigung nach der Verordnung (EG) Nr. 31/96 der Kommission vom 10. Januar 1996 über die Verbrauchsteuerfreistellungsbescheinigung (ABl. L 8 vom 11.1.1996, S. 11) in der jeweils geltenden Fassung in Verbindung mit Artikel 12 der Systemrichtlinie in drei Exemplaren auszufertigen und dem zuständigen Hauptzollamt zur Bestätigung in Feld 6 vorzulegen. Der Begünstigte hat die mit Bestätigungsvermerk des zuständigen Hauptzollamts versehene erste und zweite Ausfertigung dem Versender auszuhändigen. Die dritte Ausfertigung verbleibt beim zuständigen Hauptzollamt. Nach der Übernahme der Tabakwaren verbleibt die zweite Ausfertigung der Freistellungsbescheinigung beim Begünstigten. Die Tabakwaren sind unverzüglich nach der Bestätigung nach Satz 1 zu beziehen.
 
@@ -310,11 +314,11 @@ Für das Sortenverzeichnis gilt § 5 Absatz 2 entsprechend.
 
 ## Abschnitt 7 Zu den §§ 10 bis 13 des Gesetzes
 
-##### § 16 Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren
+###### § 16 Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren
 
 Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und nach welchen Rahmenbedingungen Personen, die für Beförderungen unter Steueraussetzung das elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem nach § 10 Absatz 1 des Gesetzes austauschen. Um auf diese Weise elektronisch Nachrichten austauschen zu können, bedarf es der vorherigen Anmeldung bei einer von der Generalzolldirektion in der Verfahrensanweisung bekannt gegebenen Stelle. Des Weiteren legt die Generalzolldirektion in der Verfahrensanweisung für den Fall, dass das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht, die Voraussetzungen und Rahmenbedingungen für die Inanspruchnahme des Ausfallverfahrens fest. Die Verfahrensanweisung wird von der Generalzolldirektion im Internet unter www.zoll.de veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister sind verpflichtet, die in der Verfahrensanweisung festgelegten Voraussetzungen und Rahmenbedingungen einzuhalten.
 
-##### § 17 Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes
+###### § 17 Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes
 
 (1) Sollen Tabakwaren unter Steueraussetzung befördert werden aus einem Steuerlager im Steuergebiet oder vom Ort der Einfuhr im Steuergebiet
 
@@ -334,11 +338,11 @@ hat der Versender dem Hauptzollamt vor Beginn der Beförderung unter Verwendung 
 
 (5) Ist der Empfänger im Fall des Absatzes 1 Nummer 1 ein Steuerlagerinhaber, leitet das Hauptzollamt das elektronische Verwaltungsdokument an ihn weiter. Dies gilt auch für Beförderungen, die über einen anderen Mitgliedstaat erfolgen. Ein elektronisches Verwaltungsdokument, das von den Behörden eines anderen Mitgliedstaats übermittelt wurde, wird vom Hauptzollamt an den Empfänger im Steuergebiet weitergeleitet, wenn dieser ein Steuerlagerinhaber oder ein registrierter Empfänger ist.
 
-##### § 18 Mitführen der Freistellungsbescheinigung
+###### § 18 Mitführen der Freistellungsbescheinigung
 
 Werden Tabakwaren unter Steueraussetzung zu Begünstigten befördert, hat der Beförderer während der Beförderung eine dem Versender nach § 15 Absatz 1 Satz 2 ausgehändigte Ausfertigung oder eine von den zuständigen Behörden eines anderen Mitgliedstaats bestätigte zweite Ausfertigung der Freistellungsbescheinigung mitzuführen. Die jeweils erste Ausfertigung nimmt der Versender zu seinen Aufzeichnungen.
 
-##### § 19 Art und Höhe der Sicherheitsleistung
+###### § 19 Art und Höhe der Sicherheitsleistung
 
 (1) Die Sicherheit für Beförderungen von Tabakwaren unter Steueraussetzung kann für mehrere Verfahren als Gesamtbürgschaft oder für jedes Verfahren einzeln als Einzelbürgschaft oder als Barsicherheit geleistet werden.
 
@@ -346,7 +350,7 @@ Werden Tabakwaren unter Steueraussetzung zu Begünstigten befördert, hat der Be
 
 (3) Das zuständige Hauptzollamt bestimmt die Höhe der Bürgschaftssumme und die Höhe der Barsicherheit insbesondere unter Berücksichtigung der Steuer, die bei der Überführung der Tabakwaren in den steuerrechtlich freien Verkehr im Steuergebiet entstehen würde. Die Angemessenheit der Bürgschaftssumme ist im Fall der Gesamtbürgschaft regelmäßig zu überprüfen.
 
-##### § 20 Annullierung des elektronischen Verwaltungsdokuments
+###### § 20 Annullierung des elektronischen Verwaltungsdokuments
 
 (1) Der Versender kann das elektronische Verwaltungsdokument annullieren, solange die Beförderung der Tabakwaren noch nicht begonnen hat.
 
@@ -356,7 +360,7 @@ Werden Tabakwaren unter Steueraussetzung zu Begünstigten befördert, hat der Be
 
 (4) Ist ein elektronisches Verwaltungsdokument für die Beförderung von Tabakwaren unter Steueraussetzung annulliert worden, die für einen Empfänger im Steuergebiet bestimmt waren, der entweder ein Steuerlagerinhaber oder ein registrierter Empfänger ist, leitet das für den Empfänger zuständige Hauptzollamt die eingehende Annullierungsmeldung an diesen weiter.
 
-##### § 21 Änderung des Bestimmungsorts oder des Empfängers von Tabakwaren bei Verwendung des elektronischen Verwaltungsdokuments
+###### § 21 Änderung des Bestimmungsorts oder des Empfängers von Tabakwaren bei Verwendung des elektronischen Verwaltungsdokuments
 
 (1) Während der Beförderung der Tabakwaren unter Steueraussetzung kann der Versender den Bestimmungsort oder den Empfänger der Tabakwaren ändern und einen anderen zulässigen Bestimmungsort oder einen anderen Empfänger angeben (§ 11 Absatz 1, § 12 Absatz 1 Nummer 1, § 13 Absatz 1 des Gesetzes). Satz 1 gilt auch für Tabakwaren, die nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt werden.
 
@@ -370,7 +374,7 @@ Werden Tabakwaren unter Steueraussetzung zu Begünstigten befördert, hat der Be
 
 (6) Wird durch eine Aktualisierung eines elektronischen Verwaltungsdokuments das darin angegebene Steuerlager des Empfängers geändert, so leitet das für den Empfänger zuständige Hauptzollamt die Änderungsmeldung an diesen weiter.
 
-##### § 22 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments, Streckengeschäft
+###### § 22 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments, Streckengeschäft
 
 (1) Nach der Aufnahme der Tabakwaren, auch von Teilmengen, an einem Bestimmungsort, der in § 11 Absatz 1 Nummer 1 und § 12 Absatz 1 Nummer 2 Buchstabe a und b des Gesetzes genannt ist, hat der Empfänger dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung mit dem in Artikel 7 Absatz 1 der EMCS-Durchführungsverordnung vorgeschriebenen Datensatz zu übermitteln. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
 
@@ -394,7 +398,7 @@ Satz 1 gilt auch bei der Ausfuhr von Teilmengen. Das Hauptzollamt übermittelt d
 
 (8) Dürfen Tabakwaren das Zollgebiet der Europäischen Union nicht verlassen, so erstellt das Hauptzollamt eine Meldung auf der Grundlage der von der Ausgangszollstelle übermittelten Informationen. Das Hauptzollamt erstellt auch eine Meldung, wenn Teilmengen das Zollgebiet der Europäischen Union nicht verlassen dürfen. Das Hauptzollamt übermittelt die Meldung über die nicht erfolgte Ausfuhr an den Steuerlagerinhaber als Versender im Steuergebiet oder an den registrierten Versender im Steuergebiet. Meldungen über die nicht erfolgte Ausfuhr, die von den zuständigen Behörden eines anderen Mitgliedstaats übermittelt wurden, werden durch das Hauptzollamt an den Versender im Steuergebiet weitergeleitet. Nach Eingang der Meldung über die nicht erfolgte Ausfuhr annulliert der Versender das elektronische Verwaltungsdokument, wenn die Beförderung noch nicht begonnen hat. Hat die Beförderung bereits begonnen, ändert der Versender den Bestimmungsort oder den Empfänger der Tabakwaren.
 
-##### § 23 Beförderungen im Steuergebiet in Sonderfällen
+###### § 23 Beförderungen im Steuergebiet in Sonderfällen
 
 (1) Bei Beförderungen von Tabakwaren unter Steueraussetzung zwischen Steuerlagern eines Steuerlagerinhabers im Steuergebiet oder, wenn der Steuerlagerinhaber gleichzeitig registrierter Versender ist, zwischen Orten der Einfuhr im Steuergebiet und den Steuerlagern dieses Steuerlagerinhabers im Steuergebiet kann das Hauptzollamt auf Antrag des Steuerlagerinhabers anstelle des Verfahrens mit elektronischem Verwaltungsdokument andere geeignete Verfahren zulassen, wenn Steuerbelange nicht gefährdet sind.
 
@@ -411,7 +415,7 @@ Für das Erstellen des Entwurfs des zusammengefassten elektronischen Verwaltungs
 
 (3) (weggefallen)
 
-##### § 24 Beförderungen im Steuergebiet in Betriebe von Verwendern
+###### § 24 Beförderungen im Steuergebiet in Betriebe von Verwendern
 
 (1) Für Beförderungen von Tabakwaren unter Steueraussetzung in Betriebe von Verwendern nach § 31 Absatz 1 des Gesetzes hat der Versender im Steuergebiet das Begleitdokument zu verwenden. Anstelle des Begleitdokuments kann der Versender ein Handelsdokument verwenden, das alle in dem Begleitdokument enthaltenen Angaben aufweist. Er hat das Handelsdokument mit der Aufschrift „Begleitdokument für
 die Beförderung verbrauchsteuer-
@@ -429,7 +433,7 @@ Waren unter Steueraussetzung im Steuergebiet“verwendet werden.
 
 (6) Versender und Verwender haben auf Verlangen des Hauptzollamts die Tabakwaren unverändert vorzuführen. Dabei kann das Hauptzollamt bei zu versendenden Tabakwaren Verschlussmaßnahmen anordnen.
 
-##### § 25 Beginn der Beförderung im Ausfallverfahren
+###### § 25 Beginn der Beförderung im Ausfallverfahren
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender abweichend von § 17 nur dann eine Beförderung von Tabakwaren unter Steueraussetzung beginnen, wenn ein Ausfalldokument nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 der EMCS-Durchführungsverordnung verwendet wird.
 
@@ -447,7 +451,7 @@ Waren unter Steueraussetzung im Steuergebiet“verwendet werden.
 
 (7) Der mit dem elektronischen Verwaltungsdokument übermittelte eindeutige Referenzcode ist vom Versender unverzüglich auf der ersten Ausfertigung des Ausfalldokuments in dem dafür vorgesehenen Feld einzutragen. Ist die Beförderung noch nicht beendet, ist der Referenzcode dem Beförderer der Tabakwaren mitzuteilen und von diesem auf der dritten Ausfertigung des Ausfalldokuments in dem dafür vorgesehenen Feld einzutragen, wenn ihm kein Ausdruck des elektronischen Verwaltungsdokuments übermittelt wurde. Die mit dem Referenzcode versehene dritte Ausfertigung des Ausfalldokuments gilt als Nachweis im Sinn des § 17 Absatz 3 Satz 1. Für die Eingangs- und Ausfuhrmeldung ist § 22 anzuwenden.
 
-##### § 26 Annullierung im Ausfallverfahren
+###### § 26 Annullierung im Ausfallverfahren
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender das elektronische Verwaltungsdokument abweichend von § 20 oder das Ausfalldokument nach amtlich vorgeschriebenem Vordruck annullieren (Annullierungsdokument), solange die Beförderung der Tabakwaren noch nicht begonnen hat.
 
@@ -455,7 +459,7 @@ Waren unter Steueraussetzung im Steuergebiet“verwendet werden.
 
 (3) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt dem Versender das elektronische Verwaltungsdokument vor, hat er dem zuständigen Hauptzollamt unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems den Entwurf einer elektronischen Annullierungsmeldung nach § 20 Absatz 2 zu übermitteln. § 20 Absatz 3 und 4 gilt entsprechend.
 
-##### § 27 Änderung des Bestimmungsorts oder des Empfängers von Tabakwaren im Ausfallverfahren
+###### § 27 Änderung des Bestimmungsorts oder des Empfängers von Tabakwaren im Ausfallverfahren
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung, kann der Versender den Bestimmungsort oder den Empfänger der Tabakwaren während der Beförderung der Tabakwaren abweichend von § 21 nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 2 der EMCS-Durchführungsverordnung ändern (Änderungsdokument). Satz 1 gilt auch für Tabakwaren, die nicht vom Empfänger aufgenommen oder übernommen oder nicht ausgeführt werden.
 
@@ -465,7 +469,7 @@ Waren unter Steueraussetzung im Steuergebiet“verwendet werden.
 
 (4) Für die Unterrichtung über den Ausfall des EDV-gestützten Beförderungs- und Kontrollsystems, die Anzeigepflicht bei jeder Änderung des Bestimmungsorts oder des Empfängers der Tabakwaren sowie die Vorlage der zweiten Ausfertigung des Änderungsdokuments gilt § 25 Absatz 2 und § 25 Absatz 4 Satz 1 und 2 entsprechend.
 
-##### § 28 Eingangs- und Ausfuhrmeldung im Ausfallverfahren
+###### § 28 Eingangs- und Ausfuhrmeldung im Ausfallverfahren
 
 (1) Kann der Empfänger die Eingangsmeldung nach § 22 Absatz 1 nach Beendigung einer Beförderung von Tabakwaren unter Steueraussetzung nicht innerhalb der dort festgelegten Frist übermitteln, weil das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht oder ihm das elektronische Verwaltungsdokument oder die Änderungsmeldung nach § 21 Absatz 6 nicht zugeleitet wurde, hat er dem für ihn zuständigen Hauptzollamt ein Eingangsdokument nach amtlich vorgeschriebenem Vordruck gemäß Artikel 8 Absatz 3 der EMCS-Durchführungsverordnung vorzulegen, mit dem er den Empfang der Tabakwaren bestätigt. Für die Frist zur Vorlage des Eingangsdokuments und deren Verlängerung gilt § 22 Absatz 1 entsprechend.
 
@@ -479,7 +483,7 @@ Waren unter Steueraussetzung im Steuergebiet“verwendet werden.
 
 (5) Steht das EDV-gestützte Beförderungs- und Kontrollsystem wieder zur Verfügung und liegt das elektronische Verwaltungsdokument vor, erstellt das Hauptzollamt eine Ausfuhrmeldung nach § 22 Absatz 5 Satz 1 oder eine Meldung nach § 21 Absatz 8. § 22 Absatz 5 Satz 2 und 3 gilt entsprechend.
 
-##### § 29 Ersatznachweise für die Beendigung der Beförderung
+###### § 29 Ersatznachweise für die Beendigung der Beförderung
 
 (1) Liegt kein Nachweis nach § 22 Absatz 6 vor, bestätigt das für den Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen Bezirk sich die Ausgangszollstelle befindet, in den Fällen, in denen keine Eingangs- oder Ausfuhrmeldung nach § 28 vorliegt, die Beendigung der Beförderung unter Steueraussetzung, wenn durch einen Ersatznachweis hinreichend belegt ist, dass die Tabakwaren
 
@@ -491,7 +495,7 @@ Waren unter Steueraussetzung im Steuergebiet“verwendet werden.
 
 ## Abschnitt 8 Zu den §§ 14 und 15 Absatz 3 des Gesetzes
 
-##### § 30 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
+###### § 30 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
 
 (1) Geht der Rückschein in den Fällen des § 24 Absatz 3 Satz 3 und Absatz 4 Satz 4 nicht binnen zwei Monaten beim Versender ein, ist dies vom Versender unverzüglich dem Hauptzollamt anzuzeigen.
 
@@ -501,7 +505,7 @@ Waren unter Steueraussetzung im Steuergebiet“verwendet werden.
 
 ## Abschnitt 9 Zu § 16 des Gesetzes
 
-##### § 31 Verpackungszwang, Kleinverkaufspackungen
+###### § 31 Verpackungszwang, Kleinverkaufspackungen
 
 (1) Eingeführte oder aus anderen Mitgliedstaaten in das Steuergebiet beförderte Tabakwaren, die weder zum Handel noch zur gewerblichen Verwendung bestimmt sind, sind vom Verpackungszwang befreit.
 
@@ -525,7 +529,7 @@ Waren unter Steueraussetzung im Steuergebiet“verwendet werden.
 
 ## Abschnitt 10 Zu § 17 des Gesetzes
 
-##### § 32 Bezug der Steuerzeichen
+###### § 32 Bezug der Steuerzeichen
 
 (1) Steuerzeichen sind beim Hauptzollamt Bielefeld zu beziehen. Steuerzeichen für Tabakwaren, die im Steuergebiet hergestellt werden, die aus anderen Mitgliedstaaten in das Steuergebiet befördert werden oder aus Drittländern oder Drittgebieten eingeführt werden, sind mit jeweils gesonderter Steueranmeldung zu beziehen.
 
@@ -551,7 +555,7 @@ Wird der Steuertarif geändert, ist dem Hauptzollamt Bielefeld mindestens vier W
 
 (8) Für die Buchführung über die Zu- und Abgänge von Steuerzeichen gilt § 10 und für die Bestandsaufnahme von Steuerzeichen § 12 entsprechend.
 
-##### § 33 Berechnung des Steuerwerts und der Steuer
+###### § 33 Berechnung des Steuerwerts und der Steuer
 
 (1) Der Steuerwert des einzelnen Steuerzeichens wird aus der Steuer für eine Zigarette, eine Zigarre, ein Zigarillo oder 1 Kilogramm Rauchtabak und aus der Mengenangabe auf dem Steuerzeichen berechnet. Für erhitzten Tabak wird der Steuerwert des einzelnen Steuerzeichens aus der Steuer nach § 2 Absatz 1 Nummer 4 und 5 des Gesetzes und aus den Mengenangaben auf dem Steuerzeichen berechnet. Bei Substituten für Tabakwaren wird der Steuerwert des einzelnen Steuerzeichens aus der Steuer für einen Milliliter und der auf dem Steuerzeichen angegebenen Mengenangabe berechnet. Dabei wird die Steuer in Cent eingesetzt, und zwar für die Zigarette bis auf fünf, für die Zigarre und das Zigarillo bis auf vier Dezimalstellen und für das Kilogramm Rauchtabak bis auf eine Dezimalstelle. Bei Substituten für Tabakwaren wird die Steuer in Cent eingesetzt. Der Steuerwert wird in Cent bei Zigaretten und erhitztem Tabak bis auf vier, bei Zigarren, Zigarillos, Rauchtabak und Substituten für Tabakwaren bis auf drei Dezimalstellen berechnet.
 
@@ -559,7 +563,7 @@ Wird der Steuertarif geändert, ist dem Hauptzollamt Bielefeld mindestens vier W
 
 (3) Für die Berechnung der Steuer, die nicht durch Verwendung von Steuerzeichen zu entrichten ist oder nicht entrichtet worden ist, gilt Absatz 1 Satz 4 entsprechend.
 
-##### § 34 Verwendung der Steuerzeichen
+###### § 34 Verwendung der Steuerzeichen
 
 (1) Hersteller oder Einführer, die Steuerlagerinhaber sind, dürfen die Steuerzeichen nur in dem Steuerlager verwenden, für das sie diese bezogen haben. Das Hauptzollamt Bielefeld kann auf Antrag zulassen, dass in einzelnen besonders gelagerten Fällen Steuerzeichen auch in einem anderen Steuerlager des Steuerlagerinhabers verwendet werden können. Außerhalb des Steuerlagers dürfen noch nicht angebrachte Steuerzeichen entwertet und mit anderen Angaben versehen und Steuerzeichenbogen geschnitten werden. Der Steuerlagerinhaber hat die nach § 32 Absatz 1 Satz 2 bezogenen Steuerzeichen nur für den dort genannten Zweck zu verwenden.
 
@@ -569,7 +573,7 @@ Wird der Steuertarif geändert, ist dem Hauptzollamt Bielefeld mindestens vier W
 
 (4) Das Hauptzollamt Bielefeld kann Steuerlagerinhaber für Tabakwaren, die sie aus dem steuerrechtlich freien Verkehr anderer Mitgliedstaaten zu Prüfzwecken in das Steuergebiet befördern wollen, von der Steuerzeichenverwendung befreien.
 
-##### § 35 Entwerten und Anbringen der Steuerzeichen
+###### § 35 Entwerten und Anbringen der Steuerzeichen
 
 (1) Hersteller, Einführer und dem Hersteller gleichgestellte Personen nach § 17 Absatz 2 des Gesetzes haben die Steuerzeichen durch Angabe der zweiten bis vierten Stelle der vom Hauptzollamt Bielefeld zugeteilten Beziehernummer oder einer zusätzlich vergebenen vierstelligen Nummer in einem Leerfeld licht- und wasserbeständig zu entwerten (Entwertungsvermerk).
 
@@ -579,7 +583,7 @@ Wird der Steuertarif geändert, ist dem Hauptzollamt Bielefeld mindestens vier W
 
 (4) Die Verwendung von Kleinverkaufspackungen mit mehr als einer Öffnungsstelle ist für Tabakwaren, die für den Vertrieb im Steuergebiet bestimmt sind, unzulässig.
 
-##### § 36 Steuererklärung
+###### § 36 Steuererklärung
 
 (1) Die Steuererklärung nach § 17 Absatz 3 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
 
@@ -587,7 +591,7 @@ Wird der Steuertarif geändert, ist dem Hauptzollamt Bielefeld mindestens vier W
 
 ## Abschnitt 11 Zu den §§ 19 bis 21 und 33 des Gesetzes
 
-##### § 37 Gewerbliche Einfuhr
+###### § 37 Gewerbliche Einfuhr
 
 (1) Der Einführer hat die gewerbliche Einfuhr von Tabakwaren aus Drittländern oder Drittgebieten spätestens drei Wochen vor der erstmaligen Einfuhr beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck anzuzeigen. Für einen Einführer, der sein Unternehmen an einem Ort außerhalb des Steuergebiets betreibt, oder für einen Einführer, der außerhalb des Steuergebiets wohnt, ist das Hauptzollamt Bielefeld zuständig. Für das Sortenverzeichnis gilt § 5 Absatz 3 entsprechend.
 
@@ -595,13 +599,13 @@ Wird der Steuertarif geändert, ist dem Hauptzollamt Bielefeld mindestens vier W
 
 (3) Das Hauptzollamt überprüft unbeschadet anlassbezogener Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus den Absätzen 1 und 2 erfüllt werden. Die regelmäßigen Überprüfungsmaßnahmen werden innerhalb von drei Jahren nach der letzten Überprüfungsmaßnahme oder der Anmeldung durchgeführt.
 
-##### § 38 Anmeldung
+###### § 38 Anmeldung
 
 Tabakwaren aus Drittländern oder Drittgebieten sind in den Fällen der Einfuhr nach den Zollvorschriften mit den für die Besteuerung wesentlichen Merkmalen und nach dem Steuertarif anzumelden. Die Steuererklärung ist in der Zollanmeldung abzugeben.
 
 ## Abschnitt 12 Zu § 22 des Gesetzes
 
-##### § 39 Beförderungen zu privaten Zwecken
+###### § 39 Beförderungen zu privaten Zwecken
 
 (1) Werden mehr als 800 Zigaretten, 800 Stück erhitzter Tabak, 200 Zigarren, 400 Zigarillos oder ein Kilogramm Rauchtabak nach § 22 des Gesetzes zu privaten Zwecken in das Steuergebiet befördert, wird widerleglich vermutet, dass die Tabakwaren zu gewerblichen Zwecken in das Steuergebiet geliefert werden (§§ 23 bis 23c des Gesetzes).
 
@@ -609,7 +613,7 @@ Tabakwaren aus Drittländern oder Drittgebieten sind in den Fällen der Einfuhr 
 
 ## Abschnitt 13 Zu den §§ 23 und 35 Absatz 1 Nummer 3 Buchstabe a des Gesetzes
 
-##### § 40 Zertifizierter Empfänger
+###### § 40 Zertifizierter Empfänger
 
 (1) Wer als zertifizierter Empfänger nach § 23a Absatz 1 Satz 1 Nummer 1 des Gesetzes Tabakwaren des steuerrechtlich freien Verkehrs nicht nur gelegentlich empfangen will, hat die Erlaubnis im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
 
@@ -641,7 +645,7 @@ Absatz 3 Satz 2 und 4 gilt entsprechend. Beabsichtigt der Erlaubnisinhaber zusä
 
 (8) Wer als zertifizierter Empfänger im Einzelfall nach § 23a Absatz 1 Satz 1 Nummer 2 des Gesetzes Tabakwaren des steuerrechtlich freien Verkehrs empfangen will, hat die Erlaubnis im Voraus beim Hauptzollamt unter Angabe von Menge und Art sowie des zertifizierten Versenders der Tabakwaren nach amtlich vorgeschriebenem Vordruck zu beantragen. Satz 1 gilt auch für das Verbringen oder Verbringenlassen von Tabakwaren in das Steuergebiet, wenn diese nach § 23 Absatz 1 Satz 3 des Gesetzes außerhalb des Steuergebiets in Empfang genommen wurden. Das Hauptzollamt kann weitere Angaben oder Aufzeichnungen über die im Rahmen der Lieferung zu gewerblichen Zwecken empfangenen Tabakwaren verlangen, wenn diese Angaben oder diese Aufzeichnungen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Für die Erlaubnis gilt Absatz 3 Satz 1 und 2 entsprechend mit der Maßgabe, dass die Erlaubnis auf die beantragte Menge, den angegebenen Versender sowie auf eine Beförderung und auf einen bestimmten Zeitraum zu beschränken ist. Vor der Erteilung der Erlaubnis ist Sicherheit nach § 23a Absatz 4 des Gesetzes für die entstehende Steuer zu leisten.
 
-##### § 40a Zertifizierter Versender
+###### § 40a Zertifizierter Versender
 
 (1) Wer als zertifizierter Versender nach § 23b Absatz 1 Satz 1 Nummer 1 des Gesetzes Tabakwaren des steuerrechtlich freien Verkehrs nicht nur gelegentlich versenden will, hat die Erlaubnis im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
 
@@ -669,7 +673,7 @@ Absatz 3 Satz 2 gilt entsprechend. Beabsichtigt der Erlaubnisinhaber zusätzlich
 
 (8) Wer als zertifizierter Versender im Einzelfall nach § 23b Absatz 1 Satz 1 Nummer 2 des Gesetzes Tabakwaren des steuerrechtlich freien Verkehrs versenden will, hat die Erlaubnis im Voraus beim Hauptzollamt unter Angabe von Menge und Art sowie des zertifizierten Empfängers der Tabakwaren nach amtlich vorgeschriebenem Vordruck zu beantragen. Das Hauptzollamt kann weitere Angaben oder Aufzeichnungen über die im Rahmen der Lieferung zu gewerblichen Zwecken in andere Mitgliedstaaten versandten Tabakwaren verlangen, wenn diese Angaben oder diese Aufzeichnungen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Für die Erlaubnis gilt Absatz 3 Satz 1 und 2 entsprechend mit der Maßgabe, dass die Erlaubnis auf die beantragte Menge, den angegebenen Empfänger sowie auf eine Beförderung und auf einen bestimmten Zeitraum zu beschränken ist. Eine Erlaubnis als zertifizierter Versender im Einzelfall kann auch Privatpersonen erteilt werden, die Tabakwaren versenden wollen, deren Beförderung nicht unter § 39 oder unter § 23d des Gesetzes fällt.
 
-##### § 40b Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren
+###### § 40b Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren
 
 (1) Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und nach welchen Rahmenbedingungen Personen, die für Beförderungen von Tabakwaren des steuerrechtlich freien Verkehrs das vereinfachte elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem nach § 23c Absatz 1 des Gesetzes austauschen. Des Weiteren legt die Generalzolldirektion in der Verfahrensanweisung für den Fall, dass das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung steht, die Voraussetzungen und Rahmenbedingungen für die Inanspruchnahme des Ausfallverfahrens fest. Im Übrigen gilt § 16.
 
@@ -677,7 +681,7 @@ Absatz 3 Satz 2 gilt entsprechend. Beabsichtigt der Erlaubnisinhaber zusätzlich
 
 (3) Für die Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs kann das Hauptzollamt auf Antrag und im Benehmen mit den zuständigen Steuerbehörden der betroffenen Mitgliedstaaten ein vereinfachtes Verfahren für die Beförderung, auch unter Verzicht auf die Verwendung eines vereinfachten elektronischen Verwaltungsdokuments, zulassen. Die Zulassung erfolgt im Rahmen der jeweiligen Erlaubnis.
 
-##### § 40c Erstellen des vereinfachten elektronischen Verwaltungsdokuments
+###### § 40c Erstellen des vereinfachten elektronischen Verwaltungsdokuments
 
 (1) Sollen Tabakwaren des steuerrechtlich freien Verkehrs nach diesem Abschnitt aus dem Steuergebiet befördert werden
 
@@ -695,7 +699,7 @@ so hat der zertifizierte Versender dem Hauptzollamt vor Beginn der Beförderung 
 
 (5) Das Hauptzollamt leitet im Fall des Absatzes 1 Nummer 2 das vereinfachte elektronische Verwaltungsdokument an den zertifizierten Empfänger weiter. Wird dem Hauptzollamt von den zuständigen Behörden eines anderen Mitgliedstaats ein vereinfachtes elektronisches Verwaltungsdokument übermittelt, so wird es vom Hauptzollamt an den zertifizierten Empfänger im Steuergebiet weitergeleitet.
 
-##### § 40d Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+###### § 40d Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
 
 (1) Während der Beförderung der Tabakwaren kann der zertifizierte Versender den Bestimmungsort ändern, und zwar
 
@@ -707,7 +711,7 @@ Die Änderung in den Abgangsort ist auch möglich, wenn der zertifizierte Empfä
 
 (2) Für die Änderung des Bestimmungsorts oder des Empfängers von Tabakwaren gilt § 21 Absatz 2, 3 und 6 entsprechend.
 
-##### § 40e Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+###### § 40e Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
 
 (1) Nach der Aufnahme der Tabakwaren, auch von Teilmengen, an einem vom Erlaubnisumfang erfassten Bestimmungsort hat der zertifizierte Empfänger dem Hauptzollamt unter Verwendung des EDV-gestützten Beförderungs- und Kontrollsystems unverzüglich, spätestens jedoch fünf Werktage nach Beendigung der Beförderung, eine Eingangsmeldung nach amtlich vorgeschriebenem Datensatz zu übermitteln. Das Verbringen oder Verbringenlassen von Tabakwaren in das Steuergebiet steht der Aufnahme nach Satz 1 gleich, sofern die Tabakwaren nach § 23 Absatz 1 Satz 4 des Gesetzes außerhalb des Steuergebiets in Empfang genommen wurden. Das Hauptzollamt kann zur Vermeidung unbilliger Härten auf Antrag des Empfängers die Frist nach Satz 1 verlängern.
 
@@ -723,11 +727,11 @@ Die Änderung in den Abgangsort ist auch möglich, wenn der zertifizierte Empfä
 
 (4) Unbeschadet des § 40h gilt die Eingangsmeldung als Nachweis dafür, dass die Beförderung der Tabakwaren beendet wurde.
 
-##### § 40f Beförderung im Ausfallverfahren
+###### § 40f Beförderung im Ausfallverfahren
 
 Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung und kann das vereinfachte elektronische Verwaltungsdokument somit nicht angewendet werden, gelten für das Ausfallverfahren die §§ 25, 27 und 28 entsprechend. In diesem Fall sind Ausfalldokumente nach amtlich vorgeschriebenem Vordruck zu verwenden.
 
-##### § 40g Ersatznachweise für die Beendigung der Beförderung
+###### § 40g Ersatznachweise für die Beendigung der Beförderung
 
 (1) Liegt bei einer Lieferung zu gewerblichen Zwecken in das Steuergebiet kein Nachweis nach § 40e Absatz 4 oder § 40f in Verbindung mit § 28 Absatz 1 vor, so bestätigt das für den zertifizierten Empfänger zuständige Hauptzollamt durch einen Sichtvermerk die Beendigung der Beförderung, wenn durch einen Ersatznachweis hinreichend belegt ist, dass die Tabakwaren den angegebenen Bestimmungsort erreicht haben.
 
@@ -739,13 +743,13 @@ Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur Verfügung 
 
 3. die Tabakwaren von der Verbrauchsteuer befreit sind.
 
-##### § 40h Unregelmäßigkeiten während der Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs
+###### § 40h Unregelmäßigkeiten während der Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs
 
 Für Fälle vollständiger Zerstörung oder unwiederbringlichen Gesamt- oder Teilverlusts von Tabakwaren gelten die §§ 11 und 30 entsprechend.
 
 ## Abschnitt 13a Zu § 23g des Gesetzes
 
-##### § 40i Steuererklärung; Kleinbetragsregelung
+###### § 40i Steuererklärung; Kleinbetragsregelung
 
 (1) Die Steuererklärung nach § 23g Absatz 1 bis 3 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
 
@@ -753,19 +757,19 @@ Für Fälle vollständiger Zerstörung oder unwiederbringlichen Gesamt- oder Tei
 
 ## Abschnitt 14 Zu § 24 des Gesetzes
 
-##### § 41 Beipack
+###### § 41 Beipack
 
 Packungen mit Zigarren oder Zigarillos sowie Packungen mit Zigarren und Zigarillos dürfen Zigarrenspitzen von geringem Wert enthalten.
 
 ## Abschnitt 15 Zu § 26 des Gesetzes
 
-##### § 42 Zugaben
+###### § 42 Zugaben
 
 Der Händler darf der Verbraucherin oder dem Verbraucher bei der Abgabe von Zigarren oder Zigarillos Zigarrenspitzen von geringem Wert dazugeben.
 
 ## Abschnitt 16 Zu § 28 des Gesetzes
 
-##### § 43 Steuererklärung bei Abgabe über Kleinverkaufspreis
+###### § 43 Steuererklärung bei Abgabe über Kleinverkaufspreis
 
 (1) Die Steuererklärung nach § 28 Absatz 1 Satz 4 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
 
@@ -773,7 +777,7 @@ Der Händler darf der Verbraucherin oder dem Verbraucher bei der Abgabe von Ziga
 
 ## Abschnitt 17 Zu § 30 des Gesetzes
 
-##### § 44 Steuerfreie Deputate
+###### § 44 Steuerfreie Deputate
 
 (1) Deputatberechtigt sind die Arbeitnehmerinnen und Arbeitnehmer, die
 
@@ -801,7 +805,7 @@ Der Händler darf der Verbraucherin oder dem Verbraucher bei der Abgabe von Ziga
 
 2. in einem angemessenen Verhältnis zu den vom Steuerlagerinhaber hergestellten oder versteuerten Mengen an gleichartigen Tabakwaren stehen.
 
-(4) Der Steuerlagerinhaber, der Tabakwaren herstellt, hat Packungen mit Tabakwaren, die als steuerfreies Deputat abgegeben werden, durch die Wörter
+(4) Der Steuerlagerinhaber, der Tabakwaren herstellt, hat Packungen mit Tabakwaren, die als steuerfreies Deputat abgegeben werden, durch die Wörter 
 
 „Steuerfreies Deputat!
  Abgabe gegen Entgelt unzulässig!“
@@ -812,7 +816,7 @@ deutlich zu kennzeichnen. Außerdem müssen Name und Sitz des Herstellers angege
 
 ## Abschnitt 18 Zu § 31 des Gesetzes
 
-##### § 45 Antrag auf Erlaubnis zur steuerfreien Verwendung
+###### § 45 Antrag auf Erlaubnis zur steuerfreien Verwendung
 
 (1) Der Antrag auf Erlaubnis zur steuerfreien Verwendung von Tabakwaren nach § 31 Absatz 1 des Gesetzes ist vor Beginn der Verwendung beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu stellen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
 
@@ -824,7 +828,7 @@ Die Erlaubnis zur steuerfreien Verwendung kann im Rahmen einer Erlaubnis als Ste
 
 (2) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann auf Anforderungen nach Absatz 1 verzichten, wenn Steuerbelange dadurch nicht beeinträchtigt werden.
 
-##### § 46 Erteilung der Erlaubnis
+###### § 46 Erteilung der Erlaubnis
 
 (1) Das Hauptzollamt erteilt dem Verwender schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis zur steuerfreien Verwendung der Tabakwaren mit den für die Steueraufsicht erforderlichen Auflagen. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der Abgabenordnung versehen werden.
 
@@ -832,7 +836,7 @@ Die Erlaubnis zur steuerfreien Verwendung kann im Rahmen einer Erlaubnis als Ste
 
 (3) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen, das Erlöschen der Erlaubnis, das Belegheft und die Buchführung sowie die Bestandsaufnahme gelten die §§ 7a, 8, 9, 10 und 12 entsprechend.
 
-##### § 47 Abgabe von Tabakwaren, zweckwidrige Verwendung
+###### § 47 Abgabe von Tabakwaren, zweckwidrige Verwendung
 
 (1) Das Hauptzollamt kann dem Verwender auf Antrag gestatten, in Ausnahmefällen Tabakwaren im Rahmen der steuerfreien Verwendung an Steuerlagerinhaber oder an andere Verwender abzugeben. Der Verwender hat den Tabakwaren bei der Abgabe Handelspapiere beizufügen, die mit der Aufschrift „Unversteuerte Tabakwaren“versehen sind. Für die vollständige Zerstörung und den unwiederbringlichen Verlust gilt § 11, für die Vernichtung gilt § 51 entsprechend.
 
@@ -840,7 +844,7 @@ Die Erlaubnis zur steuerfreien Verwendung kann im Rahmen einer Erlaubnis als Ste
 
 ## Abschnitt 19 Zu § 32 des Gesetzes
 
-##### § 48 Erlass- und Erstattungsverfahren
+###### § 48 Erlass- und Erstattungsverfahren
 
 (1) In den Fällen des § 32 Absatz 1 oder 2, jeweils in Verbindung mit Absatz 3 des Gesetzes, und § 32 Absatz 4 des Gesetzes hat der Antragsteller den Erlass und die Erstattung der durch Verwendung von Steuerzeichen entrichteten Steuer und der Steuerzeichenschuld beim Hauptzollamt Bielefeld nach amtlich vorgeschriebenem Vordruck zu beantragen. Dabei ist der zu erlassende oder zu erstattende Betrag selbst zu berechnen (Erlass-/Erstattungsanmeldung). Für die Erlass-/Erstattungsanmeldung gelten die in der Abgabenordnung vorgesehenen Regelungen für Steueranmeldungen sinngemäß.
 
@@ -854,7 +858,7 @@ Die Erlaubnis zur steuerfreien Verwendung kann im Rahmen einer Erlaubnis als Ste
 
 (6) In den Fällen des § 32 Absatz 2 des Gesetzes gelten hinsichtlich der Nachweisführung die §§ 22 und 29 entsprechend. Die Frist nach § 32 Absatz 2 Satz 3 des Gesetzes beginnt mit der schriftlichen Bekanntgabe der Feststellung der Unwirksamkeit gegenüber dem Steuerschuldner.
 
-##### § 49 Erlass- und Erstattungsgebühren
+###### § 49 Erlass- und Erstattungsgebühren
 
 (1) Die Gebühr nach § 32 Absatz 5 des Gesetzes beträgt für jeden vollen Steuerzeichenbogen oder die entsprechende Anzahl gleicher Steuerzeichen und für jede Teilmenge eines Bogens:
 
@@ -866,11 +870,11 @@ Die Erlaubnis zur steuerfreien Verwendung kann im Rahmen einer Erlaubnis als Ste
 
 ## Abschnitt 20 Zu § 33 des Gesetzes
 
-##### § 50 Ausnahmen von der Anmeldepflicht
+###### § 50 Ausnahmen von der Anmeldepflicht
 
 Von der Anmeldepflicht nach § 33 Absatz 2 des Gesetzes ist der Handel mit Tabakwaren ausgenommen. Dies gilt nicht für die gewerbliche Einfuhr (§ 37).
 
-##### § 51 Aufreißen, Vernichten, Vergällen, Ungültigmachen
+###### § 51 Aufreißen, Vernichten, Vergällen, Ungültigmachen
 
 (1) Der Steuerlagerinhaber hat das Aufreißen von Zigarren, Zigarillos und Zigaretten im Steuerlager sowie das Vernichten und Vergällen von Tabakwaren beim Hauptzollamt jeweils mindestens eine Woche im Voraus unter Angabe des Zeitpunkts, des Orts und der Menge anzumelden. Das Hauptzollamt kann unter Widerrufsvorbehalt kürzere Anmeldefristen zulassen, auf die Anmeldung der Menge sowie auf die jeweilige Anmeldung des Aufreißens, Vernichtens und Vergällens von Tabakwaren verzichten, wenn dadurch jeweils Steuerbelange nicht gefährdet werden.
 
@@ -878,7 +882,7 @@ Von der Anmeldepflicht nach § 33 Absatz 2 des Gesetzes ist der Handel mit Tabak
 
 ## Abschnitt 21 Zu § 212 Absatz 1 Nummer 8 der Abgabenordnung
 
-##### § 52 Probenentnahme im Rahmen der Steueraufsicht
+###### § 52 Probenentnahme im Rahmen der Steueraufsicht
 
 Die mit der Steueraufsicht betrauten Amtsträger können zu Untersuchungszwecken unentgeltlich Proben entnehmen von:
 
@@ -892,17 +896,17 @@ Auf Verlangen ist eine Entnahmebestätigung auszustellen. Auf Verlangen des Haup
 
 ## Abschnitt 22 Zu § 156 Absatz 1 der Abgabenordnung
 
-##### § 53 Kleinbetragsregelung
+###### § 53 Kleinbetragsregelung
 
 Eine angemeldete oder festgesetzte Steuer oder Steuerzeichenschuld wird vom Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt, wenn die Abweichung mindestens 25 Euro beträgt. Satz 1 gilt für den Erlass und die Erstattung der Steuer oder der Steuerzeichenschuld entsprechend.
 
 ## Abschnitt 23 Zu § 35 Absatz 1 Nummer 4 des Gesetzes
 
-##### (XXXX) §§ 54 bis 59 (weggefallen)
+###### (XXXX) §§ 54 bis 59 (weggefallen)
 
 ## Abschnitt 24 Zu § 381 Absatz 1 der Abgabenordnung
 
-##### § 60 Ordnungswidrigkeiten
+###### § 60 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 
@@ -962,7 +966,8 @@ g) § 40a Absatz 4 Satz 1, auch in Verbindung mit § 40a Absatz 5 Satz 3,
 
 ## Abschnitt 25 Schlussbestimmungen
 
-##### § 61 Übergangsregelungen
+###### § 61 Übergangsregelungen
 
-Für Beförderungen von Tabakwaren des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten, die vor dem 13. Februar 2023 begonnen worden sind, gilt diese Verordnung in der am 12. Februar 2023 geltenden Fassung bis zum 31. Dezember 2023 fort.
+(1) Für Zigaretten, Feinschnitt, erhitzten Tabak und Substitute für Tabakwaren gilt abweichend von *§ 32 Absatz 3 Nummer 3* bis zum 31. Dezember 2026, dass Steuerzeichen mindestens fünf Wochen vor Bedarf zu bestellen sind, wenn der Steuertarif geändert wird und neue Steuerzeichen eingeführt werden oder wenn bei Tabakwaren umfassende Änderungen der Kleinverkaufspreise vorgenommen werden.
 
+(2) Bis zum 31. Dezember 2026 kann für Zigaretten, Feinschnitt, erhitzten Tabak und Substitute für Tabakwaren die Mitteilung nach § 32 Absatz 3 Satz 2 spätestens mit der Bestellung erfolgen.
