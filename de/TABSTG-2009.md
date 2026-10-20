@@ -4,23 +4,27 @@ identifier: "TABSTG-2009"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2009-07-15"
-last_updated: "2026-04-04"
+last_updated: "2026-10-20"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/tabstg_2009/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR187010009"
 slug: "tabstg_2009"
 bgbl_reference: "BGBl I 2009, 1870"
 amtabk: "TabStG"
-stand: "Zuletzt geändert durch Art. 1 G v. 24.10.2022 I 1838"
+stand: "Zuletzt geändert durch Art. 1 G v. 19.10.2026 I Nr. 309"
 ---
 # Tabaksteuergesetz
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 ## Abschnitt 1 Allgemeine Bestimmungen
 
-##### § 1 Steuergebiet, Steuergegenstand
+###### § 1 Steuergebiet, Steuergegenstand
 
 (1) Tabakwaren, erhitzter Tabak, Wasserpfeifentabak und Substitute für Tabakwaren unterliegen im Steuergebiet der Tabaksteuer. Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne das Gebiet von Büsingen und ohne die Insel Helgoland. Die Tabaksteuer ist eine Verbrauchsteuer im Sinn der Abgabenordnung.
 
@@ -64,75 +68,79 @@ c) Tabakstränge, die durch einen einfachen nichtindustriellen Vorgang mit einem
 
 (9) Das Bundesministerium der Finanzen wird ermächtigt, zur Verfahrensvereinfachung sowie zur Sicherung der Gleichmäßigkeit der Besteuerung durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten zur Feststellung des Stückgewichts nach Absatz 3 festzulegen.
 
-##### § 1a Erhitzter Tabak, Wasserpfeifentabak
+###### § 1a Erhitzter Tabak, Wasserpfeifentabak
 
 Soweit nicht anders bestimmt, gelten die Vorschriften dieses Gesetzes für Rauchtabak sowie die dazu ergangenen Durchführungsbestimmungen auch für erhitzten Tabak und Wasserpfeifentabak.
 
-##### § 1b Substitute für Tabakwaren
+###### § 1b Substitute für Tabakwaren
 
 Soweit nicht anders bestimmt, gelten die Vorschriften dieses Gesetzes für Tabakwaren sowie die dazu ergangenen Durchführungsbestimmungen auch für Substitute für Tabakwaren. Für die Beförderung von Substituten für Tabakwaren unter Steueraussetzung im und aus dem Steuergebiet, sowie für die Beförderung von Substituten für Tabakwaren des zollrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten mit Ausnahme des Versandhandels gelten die diesbezüglichen Vorschriften für die Kaffeesteuer nach dem Kaffeesteuergesetz sowie den dazu ergangenen Durchführungsbestimmungen sinngemäß.
 
-##### § 2 Steuertarif
+###### § 2 Steuertarif
 
 (1) Die Steuer beträgt:
 
-1. für Zigaretten
+1. für Zigaretten:
 
-a) vorbehaltlich der Buchstaben b bis e 12,28 Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens jedoch den Betrag, der sich aus Absatz 2 ergibt;
+a) vorbehaltlich der Buchstaben b bis e 18,57 Cent je Stück und 21,05 Prozent des Kleinverkaufspreises, mindestens jedoch den Betrag, der sich aus Absatz 2 ergibt;
 
-b) für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 10,88 Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens jedoch 22,276 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
+b) für den Zeitraum vom 1. Januar 2027 bis zum 31. Dezember 2027 14,34 Cent je Stück und 21,05 Prozent des Kleinverkaufspreises, mindestens jedoch 29,492 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
 
-c) für den Zeitraum vom 1. Januar 2023 bis zum 31. Dezember 2024 11,15 Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens jedoch 22,888 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
+c) für den Zeitraum vom 1. Januar 2028 bis zum 31. Dezember 2028 15,63 Cent je Stück und 21,05 Prozent des Kleinverkaufspreises, mindestens jedoch 32,146 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
 
-d) für den Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025 11,71 Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens jedoch 24,163 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
+d) für den Zeitraum vom 1. Januar 2029 bis zum 31. Dezember 2029 17,04 Cent je Stück und 21,05 Prozent des Kleinverkaufspreises, mindestens jedoch 35,042 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
 
-e) für den Zeitraum vom 1. Januar 2026 bis zum 14. Februar 2027 12,28 Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens jedoch 25,106 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
+e) für den Zeitraum vom 1. Januar 2030 bis zum 14. Februar 2031 18,57 Cent je Stück und 21,05 Prozent des Kleinverkaufspreises, mindestens jedoch 38,192 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette;
 
 2. für Zigarren und Zigarillos
 
-a) vorbehaltlich Buchstabe b 1,4 Cent je Stück und 1,47 Prozent des Kleinverkaufspreises, mindestens jedoch 7,504 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
+a) vorbehaltlich der Buchstaben b bis e 2,85 Cent je Stück und 3,83 Prozent des Kleinverkaufspreises, mindestens jedoch 13,964 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
 
-b) für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 1,4 Cent je Stück und 1,47 Prozent des Kleinverkaufspreises, mindestens jedoch 6,632 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
+b) für den Zeitraum vom 1. Januar 2027 bis zum 28. Februar 2027 1,4 Cent je Stück und 1,47 Prozent des Kleinverkaufspreises, mindestens jedoch 7,504 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
+
+c) für den Zeitraum vom 1. März 2027 bis zum 31. Dezember 2027 2,14 Cent je Stück und 3,83 Prozent des Kleinverkaufspreises, mindestens jedoch 10,059 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
+
+d) für den Zeitraum vom 1. Januar 2028 bis zum 31. Dezember 2028 2,35 Cent je Stück und 3,83 Prozent des Kleinverkaufspreises, mindestens jedoch 11,258 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
+
+e) für den Zeitraum vom 1. Januar 2029 bis zum 31. Dezember 2029 2,59 Cent je Stück und 3,83 Prozent des Kleinverkaufspreises, mindestens jedoch 12,488 Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre oder des zu versteuernden Zigarillos;
 
 3. für Feinschnitt
 
-a) vorbehaltlich der Buchstaben b bis e 61,58 Euro je Kilogramm und 17,40 Prozent des Kleinverkaufspreises, mindestens jedoch den Betrag, der sich aus Absatz 3 ergibt;
+a) vorbehaltlich der Buchstaben b bis e 121,71 Euro je Kilogramm und 17,97 Prozent des Kleinverkaufspreises, mindestens jedoch den Betrag, der sich aus Absatz 3 ergibt;
 
-b) für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 49,65 Euro je Kilogramm und 16,00 Prozent des Kleinverkaufspreises, mindestens jedoch 102,65 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
+b) für den Zeitraum vom 1. Januar 2027 bis zum 31. Dezember 2027 75,80 Euro je Kilogramm und 17,97 Prozent des Kleinverkaufspreises, mindestens jedoch 155,34 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
 
-c) für den Zeitraum vom 1. Januar 2023 bis zum 31. Dezember 2024 54,39 Euro je Kilogramm und 17,00 Prozent des Kleinverkaufspreises, mindestens jedoch 111,78 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
+c) für den Zeitraum vom 1. Januar 2028 bis zum 31. Dezember 2028 88,76 Euro je Kilogramm und 17,97 Prozent des Kleinverkaufspreises, mindestens jedoch 181,90 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
 
-d) für den Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025 57,85 Euro je Kilogramm und 17,20 Prozent des Kleinverkaufspreises, mindestens jedoch 121,51 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
+d) für den Zeitraum vom 1. Januar 2029 bis zum 31. Dezember 2029 103,94 Euro je Kilogramm und 17,97 Prozent des Kleinverkaufspreises, mindestens jedoch 213,01 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
 
-e) für den Zeitraum vom 1. Januar 2026 bis zum 14. Februar 2027 61,58 Euro je Kilogramm und 17,40 Prozent des Kleinverkaufspreises, mindestens jedoch 128,83 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
+e) für den Zeitraum vom 1. Januar 2030 bis zum 14. Februar 2031 121,71 Euro je Kilogramm und 17,97 Prozent des Kleinverkaufspreises, mindestens jedoch 249,43 Euro je Kilogramm abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu versteuernden Feinschnitts;
 
 4. für Pfeifentabak
 
-a) vorbehaltlich Buchstabe b 15,66 Euro je Kilogramm und 13,13 Prozent des Kleinverkaufspreises, mindestens jedoch 26,00 Euro je Kilogramm;
+a) vorbehaltlich der Buchstaben b bis e 41,23 Euro je Kilogramm und 14,83 Prozent des Kleinverkaufspreises, mindestens jedoch 71,50 Euro je Kilogramm;
 
-b) für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 15,66 Euro je Kilogramm und 13,13 Prozent des Kleinverkaufspreises, mindestens jedoch 24,00 Euro je Kilogramm;
+b) für den Zeitraum vom 1. Januar 2027 bis zum 28. Februar 2027 15,66 Euro je Kilogramm und 13,13 Prozent des Kleinverkaufspreises, mindestens jedoch 26 Euro je Kilogramm;
+
+c) für den Zeitraum vom 1. März 2027 bis zum 31. Dezember 2027 21,11 Euro je Kilogramm und 14,83 Prozent des Kleinverkaufspreises, mindestens jedoch 37 Euro je Kilogramm;
+
+d) für den Zeitraum vom 1. Januar 2028 bis zum 31. Dezember 2028 26,39 Euro je Kilogramm und 14,83 Prozent des Kleinverkaufspreises, mindestens jedoch 48 Euro je Kilogramm;
+
+e) für den Zeitraum vom 1. Januar 2029 bis zum 31. Dezember 2029 32,99 Euro je Kilogramm und 14,83 Prozent des Kleinverkaufspreises, mindestens jedoch 59,50 Euro je Kilogramm;
 
 5. für erhitzten Tabak die Steuer nach Nummer 4 zuzüglich einer Zusatzsteuer, die sich bemisst aus 80 Prozent des Steuerbetrags nach Nummer 1 abzüglich des Steuerbetrags nach Nummer 4. Für die Berechnung nach Nummer 1 entspricht hierbei der jeweils stückweise und einzeln portionierte Rauchtabak einer Zigarette;
 
-6. für Wasserpfeifentabak die Steuer nach Nummer 4 zuzüglich folgender Zusatzsteuer
-
-a) für den Zeitraum 1. Januar 2022 bis 31. Dezember 2022 15,00 Euro je Kilogramm;
-
-b) für den Zeitraum 1. Januar 2023 bis 31. Dezember 2024 19,00 Euro je Kilogramm;
-
-c) für den Zeitraum 1. Januar 2025 bis 31. Dezember 2025 21,00 Euro je Kilogramm;
-
-d) ab 1. Januar 2026 23,00 Euro je Kilogramm;
+6. für Wasserpfeifentabak die Steuer nach Nummer 4 zuzüglich einer Zusatzsteuer in Höhe von 23 Euro je Kilogramm;
 
 7. für Substitute für Tabakwaren
 
-a) für den Zeitraum 1. Juli 2022 bis 31. Dezember 2023 0,16 Euro je Milliliter;
+a) für den Zeitraum 1. Januar 2027 bis 31. Dezember 2027 0,38 Euro je Milliliter;
 
-b) für den Zeitraum 1. Januar 2024 bis 31. Dezember 2024 0,20 Euro je Milliliter;
+b) für den Zeitraum 1. Januar 2028 bis 31. Dezember 2028 0,40 Euro je Milliliter;
 
-c) für den Zeitraum 1. Januar 2025 bis 31. Dezember 2025 0,26 Euro je Milliliter;
+c) für den Zeitraum 1. Januar 2029 bis 31. Dezember 2029 0,42 Euro je Milliliter;
 
-d) ab 1. Januar 2026 0,32 Euro je Milliliter.
+d) ab 1. Januar 2030 0,44 Euro je Milliliter.
 
 (2) Die Steuer für Zigaretten entspricht mindestens dem Betrag (Mindeststeuersatz), der sich errechnet aus 100 Prozent der Gesamtsteuerbelastung durch die Tabaksteuer und die Umsatzsteuer auf den gewichteten durchschnittlichen Kleinverkaufspreis für Zigaretten abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette, mindestens jedoch der Betrag, der sich aus Absatz 1 Nummer 1 Buchstabe e ergibt. Zur Ermittlung der Steuerbelastung ist der am 1. Januar eines Jahres geltende Steuersatz maßgebend.
 
@@ -144,13 +152,13 @@ d) ab 1. Januar 2026 0,32 Euro je Milliliter.
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Durchführung der Richtlinie 2011/64/EU des Rates vom 21. Juni 2011 über die Struktur und die Sätze der Verbrauchsteuern auf Tabakwaren (ABl. L 176 vom 5.7.2011, S. 24) in der jeweils geltenden Fassung die Tabaksteuer auf Zigaretten sowie auf Feinschnitt durch Änderung des Absatzes 1 Nummer 1 und 3 zu erhöhen, wenn die in den Artikeln 10 und 14 dieser Richtlinie genannten Bestimmungen für die globale Verbrauchsteuer nicht mehr eingehalten werden. Dabei ist die erhöhte Tabaksteuer auf Zigaretten so festzusetzen, dass der Betrag des Stücksteueranteils gleich dem Betrag aus dem wertabhängigen Tabaksteueranteil und der Umsatzsteuer ist. Die so errechneten Steueranteile werden anschließend auf zwei Stellen nach dem Komma gerundet.
 
-(6) Vorbehaltlich der Bestimmungen für die globale Verbrauchsteuer nach Absatz 5 Satz 1 wird das Bundesministerium der Finanzen ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Vermeidung einer allein umsatzsteuerbedingten Tabaksteuermehrbelastung im Fall der Erhöhung der Umsatzsteuer den wertabhängigen Tabaksteueranteil der Steuersätze in Absatz 1 durch Multiplikation mit dem Quotienten
+(6) Vorbehaltlich der Bestimmungen für die globale Verbrauchsteuer nach Absatz 5 Satz 1 wird das Bundesministerium der Finanzen ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Vermeidung einer allein umsatzsteuerbedingten Tabaksteuermehrbelastung im Fall der Erhöhung der Umsatzsteuer den wertabhängigen Tabaksteueranteil der Steuersätze in Absatz 1 durch Multiplikation mit dem Quotienten 
 
 100 + Prozentpunkte alte Umsatzsteuer100 + Prozentpunkte neue Umsatzsteuer
 
 zu ändern. Dabei kann das Bundesministerium der Finanzen den Quotienten auf fünf Dezimalstellen runden und den neuen Tabaksteueranteil auf zwei Dezimalstellen aufrunden.
 
-##### § 3 Bemessungsgrundlagen
+###### § 3 Bemessungsgrundlagen
 
 (1) Kleinverkaufspreis ist der Preis, den der Hersteller oder Einführer als Einzelhandelspreis für Zigarren, Zigarillos und Zigaretten je Stück, für erhitzten Tabak je Stück und je Kilogramm, sowie für Rauchtabak je Kilogramm bestimmt. Wird nur ein Packungspreis bestimmt, gilt als Kleinverkaufspreis der Preis, der sich aus dem Packungspreis und dem Packungsinhalt je Stück oder Kilogramm ergibt.
 
@@ -168,7 +176,7 @@ zu ändern. Dabei kann das Bundesministerium der Finanzen den Quotienten auf fü
 
 (8) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Erleichterung der Steuererhebung durch Steuerzeichenverwendung für die Staffelung der Kleinverkaufspreise der verschiedenen Tabakwaren Mindestabstände festzulegen.
 
-##### § 4 Sonstige Begriffsbestimmungen
+###### § 4 Sonstige Begriffsbestimmungen
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -216,13 +224,13 @@ b) nicht der zollamtlichen Überwachung nach Artikel 134 des Unionszollkodex ode
 
 ## Abschnitt 2 Steueraussetzung und Besteuerung
 
-##### § 5 Steuerlager
+###### § 5 Steuerlager
 
 (1) Steuerlager sind Orte, an und von denen Tabakwaren unter Steueraussetzung hergestellt, bearbeitet oder verarbeitet, gelagert, empfangen oder versandt werden dürfen.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung zu bestimmen, welche Räume, Flächen, Anlagen und Betriebsteile zum Steuerlager gehören.
 
-##### § 6 Steuerlagerinhaber
+###### § 6 Steuerlagerinhaber
 
 (1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen und die – soweit sie nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind – ordnungsmäßig kaufmännische Bücher führen und rechtzeitig Jahresabschlüsse aufstellen. Personen, die Tabakwaren lagern, aber nicht herstellen, müssen zum Bezug von Steuerzeichen berechtigt sein oder ausschließlich unversteuerte Tabakwaren abgeben. Sind Anzeichen für eine Gefährdung der Steuer erkennbar, ist die Erlaubnis von einer Sicherheit abhängig. Diese berechnet sich nach der Höhe des Steuerwerts der voraussichtlich im Jahresdurchschnitt in den steuerrechtlich freien Verkehr überführten Mengen, und zwar
 
@@ -242,7 +250,7 @@ b) nicht der zollamtlichen Überwachung nach Artikel 134 des Unionszollkodex ode
 
 3. bei Gefährdung der Steuerbelange Sicherheit bis zur Höhe des Steuerwerts des tatsächlichen Steuerlagerbestands zu verlangen oder das Steuerlager unter amtlichen Verschluss zu nehmen.
 
-##### § 7 Registrierte Empfänger
+###### § 7 Registrierte Empfänger
 
 (1) Registrierte Empfänger sind Personen, die Tabakwaren unter Steueraussetzung
 
@@ -264,7 +272,7 @@ In den Fällen des Absatzes 1 Nummer 2 ist die Erlaubnis von einer Sicherheit in
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den Absätzen 1 bis 3, insbesondere zum Verfahren der Erlaubnis und zur Sicherheitsleistung zu erlassen.
 
-##### § 8 Registrierte Versender
+###### § 8 Registrierte Versender
 
 (1) Registrierte Versender sind Personen, die Tabakwaren vom Ort der Einfuhr unter Steueraussetzung versenden dürfen.
 
@@ -274,7 +282,7 @@ In den Fällen des Absatzes 1 Nummer 2 ist die Erlaubnis von einer Sicherheit in
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den Absätzen 1 bis 3, insbesondere zum Verfahren der Erlaubnis und zur Sicherheitsleistung zu erlassen und dabei zur Vorbeugung des Steuermissbrauchs und zur Sicherung des Steueraufkommens vorzusehen, den Versand vom Ort der Einfuhr nur dann zuzulassen, wenn steuerliche Belange dem nicht entgegenstehen.
 
-##### § 9 Begünstigte
+###### § 9 Begünstigte
 
 (1) Begünstigte, die Tabakwaren unter Steueraussetzung im Steuergebiet empfangen dürfen, sind vorbehaltlich des Absatzes 2
 
@@ -308,7 +316,7 @@ und eine Freistellungsbescheinigung (Artikel 12 der Systemrichtlinie) vorliegen.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren für den Empfang unter Steueraussetzung mit Freistellungsbescheinigung für Begünstigte nach Absatz 1 näher zu regeln und zur Verfahrensvereinfachung bei Beförderungen unter Steueraussetzung im Steuergebiet anstelle einer Freistellungsbescheinigung andere geeignete Dokumente zuzulassen.
 
-##### § 10 Beförderungen (Allgemeines)
+###### § 10 Beförderungen (Allgemeines)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder in den dazu ergangenen Rechtsverordnungen keine Ausnahmen vorgesehen sind, nur dann als unter Steueraussetzung durchgeführt, wenn sie mit einem elektronischen Verwaltungsdokument nach Artikel 20 der Systemrichtlinie erfolgen.
 
@@ -324,7 +332,7 @@ und eine Freistellungsbescheinigung (Artikel 12 der Systemrichtlinie) vorliegen.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren der Beförderung unter Steueraussetzung entsprechend den Artikeln 20 bis 31 der Systemrichtlinie und den dazu ergangenen Verordnungen sowie das Verfahren der Übermittlung des elektronischen Verwaltungsdokuments und den dazu erforderlichen Datenaustausch zu regeln und dabei das Verfahren abweichend von Absatz 1 zu bestimmen.
 
-##### § 11 Beförderungen im Steuergebiet
+###### § 11 Beförderungen im Steuergebiet
 
 (1) Tabakwaren dürfen unter Steueraussetzung, auch über Drittländer oder Drittgebiete, befördert werden aus Steuerlagern im Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr im Steuergebiet
 
@@ -356,7 +364,7 @@ aufzunehmen oder
 
 2. zur Verfahrensvereinfachung zuzulassen, dass Tabakwaren, die Steuerlagerinhaber oder Verwender (§ 31 Absatz 1) in Besitz genommen haben, als in ihr Steuerlager oder ihren Betrieb aufgenommen gelten, soweit Steuerbelange dadurch nicht beeinträchtigt werden.
 
-##### § 12 Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
+###### § 12 Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
 
 (1) Tabakwaren dürfen unter Steueraussetzung, auch über Drittländer oder Drittgebiete, befördert werden
 
@@ -408,7 +416,7 @@ im Steuergebiet aufzunehmen oder
 
 2. für häufig und regelmäßig stattfindende Beförderungen von Tabakwaren in einem Verfahren der Steueraussetzung zwischen den Gebieten von zwei oder mehr Mitgliedstaaten Vereinfachungen durch bilaterale Vereinbarungen mit den betroffenen Mitgliedstaaten vorsehen.
 
-##### § 13 Ausfuhr
+###### § 13 Ausfuhr
 
 (1) Tabakwaren dürfen unter Steueraussetzung aus Steuerlagern im Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr im Steuergebiet zu einem Ort befördert werden, an dem die Tabakwaren
 
@@ -430,7 +438,7 @@ Satz 1 gilt auch, wenn die Tabakwaren über Drittländer oder Drittgebiete befö
 
 (5) Für den Ausgang von Tabakwaren in eines der in Artikel 4 Absatz 2 der Systemrichtlinie aufgeführten Gebiete sind die in den zollrechtlichen Vorschriften der Union vorgesehenen Formalitäten für den Ausgang von Waren aus dem Zollgebiet der Union entsprechend anzuwenden.
 
-##### § 14 Unregelmäßigkeiten während der Beförderung
+###### § 14 Unregelmäßigkeiten während der Beförderung
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter Steueraussetzung eintretender Fall, mit Ausnahme der in § 15 Absatz 3 geregelten Fälle, auf Grund dessen die Beförderung oder ein Teil der Beförderung nicht ordnungsgemäß beendet werden kann.
 
@@ -452,7 +460,7 @@ Hatte die Person, die Sicherheit geleistet hat (§ 12 Absatz 2 und § 13 Absatz 
 
 (7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 2 bis 6 zu erlassen.
 
-##### § 15 Steuerentstehung, Steuerschuldner
+###### § 15 Steuerentstehung, Steuerschuldner
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung der Tabakwaren in den steuerrechtlich freien Verkehr, es sei denn, es schließt sich eine Steuerbefreiung an.
 
@@ -506,7 +514,7 @@ Werden Tabakwaren aus einem Steuerlager an Personen abgegeben, die nicht im Besi
 
 (9) Das Bundesministerium der Finanzen wird ermächtigt durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den Absätzen 3 und 5 zu erlassen, insbesondere zu den Anforderungen an den Nachweis.
 
-##### § 16 Verpackungszwang
+###### § 16 Verpackungszwang
 
 (1) Tabakwaren dürfen nur in geschlossenen, verkaufsfertigen Kleinverkaufspackungen in den steuerrechtlich freien Verkehr überführt werden.
 
@@ -516,7 +524,7 @@ Werden Tabakwaren aus einem Steuerlager an Personen abgegeben, die nicht im Besi
 
 2. zur Erleichterung der Steuererhebung durch Steuerzeichenverwendung den Inhalt der Kleinverkaufspackungen auf bestimmte Mengen zu begrenzen.
 
-##### § 17 Verwendung von Steuerzeichen, Steueranmeldung, Steuererklärung
+###### § 17 Verwendung von Steuerzeichen, Steueranmeldung, Steuererklärung
 
 (1) Für Tabakwaren ist die Steuer durch Verwendung von Steuerzeichen zu entrichten. Die Verwendung umfasst das Entwerten und das Anbringen der Steuerzeichen an den Kleinverkaufspackungen. Die Steuerzeichen müssen verwendet sein, wenn die Steuer entsteht.
 
@@ -532,7 +540,7 @@ Werden Tabakwaren aus einem Steuerlager an Personen abgegeben, die nicht im Besi
 
 3. zur Vereinfachung der Verwaltung oder aus wirtschaftlichen Gründen Ausnahmen von der Entrichtung der Steuer durch Steuerzeichenverwendung zuzulassen, zu bestimmen, dass in einzelnen besonders gelagerten Fällen zur Vermeidung unbilliger Härten Ausnahmen im Verwaltungsweg gemacht werden dürfen, und die Besteuerung zu regeln.
 
-##### § 18 Fälligkeit
+###### § 18 Fälligkeit
 
 (1) Die Steuerzeichenschuld ist spätestens zu begleichen
 
@@ -554,11 +562,11 @@ b) für Zigaretten, Rauchtabak und Substitute für Tabakwaren am 27. Tag des nä
 
 ## Abschnitt 3 Einfuhr oder unrechtmäßiger Eingang von Tabakwaren aus Drittländern oder Drittgebieten
 
-##### § 19 (weggefallen)
+###### § 19 (weggefallen)
 
-##### § 20 (weggefallen)
+###### § 20 (weggefallen)
 
-##### § 21 Steuerentstehung, Steuerschuldner
+###### § 21 Steuerentstehung, Steuerschuldner
 
 (1) Die Steuer entsteht vorbehaltlich des Satzes 2 zum Zeitpunkt der Überführung der Tabakwaren in den steuerrechtlich freien Verkehr durch die Einfuhr oder durch den unrechtmäßigen Eingang. Die Steuer entsteht nicht, wenn
 
@@ -588,7 +596,7 @@ b) für Zigaretten, Rauchtabak und Substitute für Tabakwaren am 27. Tag des nä
 
 ## Abschnitt 4 Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten
 
-##### § 22 Erwerb durch Privatpersonen
+###### § 22 Erwerb durch Privatpersonen
 
 (1) Tabakwaren, die eine Privatperson für ihren Eigenbedarf in anderen Mitgliedstaaten im steuerrechtlich freien Verkehr erwirbt und selbst in das Steuergebiet befördert (private Zwecke), sind steuerfrei.
 
@@ -604,7 +612,7 @@ b) für Zigaretten, Rauchtabak und Substitute für Tabakwaren am 27. Tag des nä
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens vorzuschreiben, bei welcher Menge an Tabakwaren nach Absatz 1 widerleglich vermutet wird, dass diese nicht für den Eigenbedarf der Privatperson bestimmt sind.
 
-##### § 23 Lieferung zu gewerblichen Zwecken
+###### § 23 Lieferung zu gewerblichen Zwecken
 
 (1) Im Sinn dieses Abschnitts werden Tabakwaren zu gewerblichen Zwecken geliefert, wenn sie
 
@@ -616,7 +624,7 @@ Eine Lieferung zu gewerblichen Zwecken ist nur möglich, wenn die Tabakwaren vom
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens Vorschriften zu Absatz 1 zu erlassen.
 
-##### § 23a Zertifizierte Empfänger
+###### § 23a Zertifizierte Empfänger
 
 (1) Zertifizierte Empfänger sind Personen, die Tabakwaren, die aus dem steuerrechtlich freien Verkehr eines anderen Mitgliedstaats zu gewerblichen Zwecken geliefert wurden, in ihrem Betrieb im Steuergebiet oder an einem anderen Ort im Steuergebiet
 
@@ -658,7 +666,7 @@ empfangen dürfen. Satz 1 gilt auch für
 
 (8) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens Vorschriften zu den Absätzen 1, 2 bis 5 und 7, insbesondere zu dem Erlaubnisverfahren, der Sicherheitsleistung sowie zu Erleichterungen zu erlassen.
 
-##### § 23b Zertifizierte Versender
+###### § 23b Zertifizierte Versender
 
 (1) Zertifizierte Versender sind Personen, die Tabakwaren des steuerrechtlich freien Verkehrs zu gewerblichen Zwecken aus ihrem Betrieb im Steuergebiet oder von einem anderen Ort im Steuergebiet in einen anderen Mitgliedstaat
 
@@ -694,7 +702,7 @@ Die Sätze 2 und 3 gelten nicht für die Erlaubnis, die einer Einrichtung des ö
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens Vorschriften zu den Absätzen 1, 2 und 4, insbesondere zu dem Erlaubnisverfahren sowie zu Erleichterungen zu erlassen.
 
-##### § 23c Beförderungen
+###### § 23c Beförderungen
 
 (1) Tabakwaren des steuerrechtlich freien Verkehrs gelten, soweit in diesem Gesetz oder in den dazu ergangenen Rechtsverordnungen keine Ausnahmen vorgesehen sind, nur dann als ordnungsgemäß zu gewerblichen Zwecken nach diesem Abschnitt geliefert, wenn die Beförderung mit einem vereinfachten elektronischen Verwaltungsdokument nach Artikel 36 der Systemrichtlinie erfolgt.
 
@@ -730,7 +738,7 @@ Dabei kann das Bundesministerium der Finanzen
 
 3. durch Vereinbarungen mit anderen Mitgliedstaaten ein vom Regelverfahren abweichendes vereinfachtes Verfahren zulassen; dabei können auch Ausnahmen von der verpflichtenden Verwendung eines vereinfachten elektronischen Verwaltungsdokuments vorgesehen werden.
 
-##### § 23d Versandhandel
+###### § 23d Versandhandel
 
 (1) Versandhandel betreibt, wer in Ausübung einer selbstständigen wirtschaftlichen Tätigkeit Tabakwaren des steuerrechtlich freien Verkehrs aus dem Steuergebiet an Privatpersonen in anderen Mitgliedstaaten liefert und den Versand der Tabakwaren an den Erwerber selbst durchführt oder durch andere durchführen lässt (Versandhändler). Als Privatpersonen gelten alle Erwerber, die sich gegenüber dem Versandhändler nicht als solche Abnehmer ausweisen, deren innergemeinschaftliche Erwerbe nach den Vorschriften des Umsatzsteuergesetzes der Umsatzsteuer unterliegen.
 
@@ -738,7 +746,7 @@ Dabei kann das Bundesministerium der Finanzen
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu Absatz 2 zu erlassen.
 
-##### § 23e Unregelmäßigkeiten während der Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs
+###### § 23e Unregelmäßigkeiten während der Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs
 
 (1) Als Unregelmäßigkeit gilt, mit Ausnahme der in § 23f Absatz 2 Satz 1 Nummer 2 geregelten Fälle, ein während der Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs eintretender Fall,
 
@@ -752,7 +760,7 @@ Dabei kann das Bundesministerium der Finanzen
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1 und 2 zu erlassen.
 
-##### § 23f Steuerentstehung, Steuerschuldner
+###### § 23f Steuerentstehung, Steuerschuldner
 
 (1) Die Steuer entsteht vorbehaltlich des Absatzes 2
 
@@ -788,7 +796,7 @@ Für Satz 1 Nummer 2 gilt § 15 Absatz 3 entsprechend.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den Absätzen 1 bis 3 zu erlassen.
 
-##### § 23g Steuererklärung, Fälligkeit
+###### § 23g Steuererklärung, Fälligkeit
 
 (1) Die Steuerschuldner nach § 23f Absatz 3 Satz 1 Nummer 1 haben im Fall des nicht nur gelegentlichen Empfangs für Tabakwaren, für die in einem Monat die Steuer entstanden ist, eine Steuererklärung abzugeben. Die Steuererklärung ist spätestens am zehnten Tag des auf die Steuerentstehung folgenden Monats abzugeben. Die Steuer ist am fünften Tag des zweiten auf die Steuerentstehung folgenden Monats fällig.
 
@@ -800,19 +808,19 @@ Für Satz 1 Nummer 2 gilt § 15 Absatz 3 entsprechend.
 
 ## Abschnitt 5 Bestimmungen zu den Kleinverkaufspackungen und zu den Kleinverkaufspreisen
 
-##### § 24 Beipackverbot
+###### § 24 Beipackverbot
 
 (1) Den Kleinverkaufspackungen, die in den steuerrechtlich freien Verkehr überführt werden, dürfen keine anderen Gegenstände als die Tabakwaren beigepackt werden. Andere Gegenstände dürfen den Packungen auch nicht außen beigepackt werden, es sei denn, die Gegenstände sind für Wiederverkäufer bestimmt. Das gilt unabhängig davon, ob die Gegenstände entgeltlich oder unentgeltlich an Verbraucher abgegeben werden sollen. Das Beipacken von Wechselgeld ist zulässig.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates den Beipack branchenüblichen Zubehörs von geringem Wert zuzulassen.
 
-##### § 25 Packungen im Handel, Stückverkauf
+###### § 25 Packungen im Handel, Stückverkauf
 
 (1) Der Händler muss die Kleinverkaufspackungen verschlossen halten und die Steuerzeichen an den Packungen unversehrt erhalten. Er darf die Packungen jedoch öffnen, um den Inhalt zu prüfen, vorzuzeigen oder, mit Ausnahme des Inhalts von Packungen mit Zigaretten und Feinschnitt, unentgeltlich als Proben oder zu Werbezwecken an Verbraucher zu verteilen. Packungen mit Zigarren oder Zigarillos darf er außerdem zum Stückverkauf an Verbraucher öffnen. Er darf die Packungen nur so öffnen, dass die Steuerzeichen durchtrennt oder eingerissen werden. Der Stückverkauf von Zigarren oder Zigarillos ist nur zulässig, wenn der Preis für die abgegebene Menge, der sich aus dem Kleinverkaufspreis ergibt, nicht auf Bruchteile eines Cents lautet. Ein Stückverkauf von Zigaretten ist unzulässig.
 
 (2) (weggefallen)
 
-##### § 26 Verbot der Abgabe unter Kleinverkaufspreis
+###### § 26 Verbot der Abgabe unter Kleinverkaufspreis
 
 (1) Der auf dem Steuerzeichen angegebene Packungspreis oder der sich daraus ergebende Kleinverkaufspreis darf vom Händler bei Abgabe von Tabakwaren an Verbraucher, außer bei unentgeltlicher Abgabe als Proben oder zu Werbezwecken, nicht unterschritten werden. Der Händler darf auch keinen Rabatt gewähren. Dem Rabatt stehen Rückvergütungen aller Art gleich, die auf der Grundlage des Umsatzes gewährt werden. Der Händler darf bei der Abgabe an Verbraucher auch keine Gegenstände zugeben und die Abgabe nicht mit dem Verkauf anderer Gegenstände koppeln.
 
@@ -822,7 +830,7 @@ Für Satz 1 Nummer 2 gilt § 15 Absatz 3 entsprechend.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Zugabe branchenüblichen Zubehörs von geringem Wert zuzulassen.
 
-##### § 27 Preisnachlässe und -ermäßigungen
+###### § 27 Preisnachlässe und -ermäßigungen
 
 Von dem Verbot des § 26 Absatz 1 sind ausgenommen
 
@@ -838,7 +846,7 @@ c) weil sich der Wert der Tabakwaren gemindert hat.
 
 Die Preisermäßigung bedarf der Genehmigung des Bundesministeriums der Finanzen oder der von ihm bestimmten Stellen.
 
-##### § 28 Verbot der Abgabe über Kleinverkaufspreis
+###### § 28 Verbot der Abgabe über Kleinverkaufspreis
 
 (1) Der auf dem Steuerzeichen angegebene Packungspreis oder der sich daraus ergebende Kleinverkaufspreis darf vom Händler bei der Abgabe von Tabakwaren nicht überschritten werden. Wird der Preis überschritten, entsteht damit die Steuer in Höhe des Unterschiedes der Steuerbelastung vor und nach der Preiserhöhung. Steuerschuldner ist der Händler. Er hat unverzüglich eine Steuererklärung abzugeben. Die Steuer ist sofort fällig.
 
@@ -846,7 +854,7 @@ Die Preisermäßigung bedarf der Genehmigung des Bundesministeriums der Finanzen
 
 ## Abschnitt 6 Steuervergünstigungen
 
-##### § 30 Steuerbefreiungen
+###### § 30 Steuerbefreiungen
 
 (1) Von der Steuer und vom Verpackungszwang sind befreit
 
@@ -880,7 +888,7 @@ g) im Steuerlager zur Herstellung von Erzeugnissen verwendet werden, die nicht d
 
 2. das Verfahren für die Steuerbefreiung nach Absatz 1 und die Einzelheiten zur Steuererklärung zu regeln.
 
-##### § 31 Verwender
+###### § 31 Verwender
 
 (1) Wer Tabakwaren in den Fällen des § 30 Absatz 1 Nummer 1 Buchstabe e und f steuerfrei verwenden will, bedarf einer Erlaubnis. Sie wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen.
 
@@ -894,7 +902,7 @@ g) im Steuerlager zur Herstellung von Erzeugnissen verwendet werden, die nicht d
 
 2. zur Verwaltungs- und Verfahrensvereinfachung die steuerfreie Verwendung unter Verzicht auf Einzelerlaubnisse allgemein zuzulassen.
 
-##### § 32 Erlass, Erstattung der Steuer und der Steuerzeichenschuld
+###### § 32 Erlass, Erstattung der Steuer und der Steuerzeichenschuld
 
 (1) Die Steuer wird auf Antrag erlassen oder erstattet, wenn Tabakwaren in ein Steuerlager aufgenommen werden oder unter Steueraufsicht aus dem Steuergebiet in einen anderen Mitgliedstaat befördert oder ausgeführt werden. Einführern und registrierten Empfängern, die nicht Steuerlagerinhaber sind, wird die Steuer auch erlassen oder erstattet, wenn von ihnen eingeführte oder in Empfang genommene Tabakwaren unter Steueraufsicht vernichtet oder vergällt werden.
 
@@ -926,7 +934,7 @@ Die Unwirksamkeit des Steueraussetzungsverfahrens darf nicht vorsätzlich oder l
 
 ## Abschnitt 7 Steueraufsicht, Geschäftsstatistik, Besondere Ermächtigungen
 
-##### § 33 Steueraufsicht
+###### § 33 Steueraufsicht
 
 (1) Unbeschadet des § 209 Absatz 1 und 2 der Abgabenordnung unterliegen der Steueraufsicht:
 
@@ -942,13 +950,13 @@ Die Unwirksamkeit des Steueraussetzungsverfahrens darf nicht vorsätzlich oder l
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften über den Zeitpunkt, die Form und den Inhalt der Anmeldung nach Absatz 2 zu erlassen und zur Vereinfachung der Verwaltung Ausnahmen von der Anmeldepflicht zuzulassen.
 
-##### § 34 Geschäftsstatistik
+###### § 34 Geschäftsstatistik
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen stellen die Hauptzollämter für statistische Zwecke Erhebungen an und teilen die Ergebnisse dem Statistischen Bundesamt zur Auswertung mit.
 
 (2) Die Bundesfinanzbehörden können auch bereits aufbereitete Daten dem Statistischen Bundesamt zur Darstellung und Veröffentlichung für allgemeine Zwecke übermitteln.
 
-##### § 35 Besondere Ermächtigungen
+###### § 35 Besondere Ermächtigungen
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -1006,7 +1014,7 @@ g) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen E
 
 ## Abschnitt 8 Schlussbestimmungen
 
-##### § 36 Ordnungswidrigkeiten
+###### § 36 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 
@@ -1034,7 +1042,7 @@ g) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen E
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 3 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-##### § 37 Schwarzhandel mit Zigaretten
+###### § 37 Schwarzhandel mit Zigaretten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig Zigaretten in Verpackungen erwirbt, an denen ein gültiges Steuerzeichen nicht angebracht ist, soweit der einzelnen Tat nicht mehr als 1 000 Zigaretten zugrunde liegen. Die §§ 369 bis 374 der Abgabenordnung finden keine Anwendung.
 
@@ -1046,7 +1054,7 @@ g) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen E
 
 (5) Die Befugnis nach § 56 des Gesetzes über Ordnungswidrigkeiten steht auch Beamten des Polizeidienstes und den hierzu ermächtigten Beamten des Zollfahndungsdienstes zu, die eine Ordnungswidrigkeit nach Absatz 1 entdecken oder im ersten Zugriff verfolgen und sich ausweisen.
 
-##### § 38 Übergangsvorschriften
+###### § 38 Übergangsvorschriften
 
 (1) Für Beförderungen von Tabakwaren des steuerrechtlich freien Verkehrs, die vor dem 13. Februar 2023 begonnen worden sind, gilt dieses Gesetz in der am 12. Februar 2023 geltenden Fassung bis zum 31. Dezember 2023 fort.
 
@@ -1054,7 +1062,8 @@ g) den Umfang und die Form der für dieses Verfahren erforderlichen besonderen E
 
 (3) Steuerzeichen zur Versteuerung nach § 2 in der nach Inkrafttreten einer Änderung des Steuertarifs geltenden Fassung (neue Steuerzeichen) können zwei Monate vor Inkrafttreten der Änderung bezogen werden.
 
-(4) Die Tabaksteuer, die durch Verwendung von neuen Steuerzeichen nach Absatz 3 entrichtet wird, entsteht in der nach dem Inkrafttreten der Änderung des Steuertarifs (§ 2) geltenden Höhe.
+(3a) Für Zigaretten, Feinschnitt, erhitzten Tabak und Substitute für Tabakwaren gilt abweichend von Absatz 3 bis zum 31. Dezember 2026, dass Steuerzeichen zur Versteuerung nach § 2 in der nach Inkrafttreten einer Änderung des Steuertarifs geltenden Fassung (neue Steuerzeichen) fünf Wochen vor Inkrafttreten der Änderung bezogen werden können.
+
+(4) Die Tabaksteuer, die durch Verwendung von neuen Steuerzeichen nach den Absätzen 3 und 3a entrichtet wird, entsteht in der nach dem Inkrafttreten der Änderung des Steuertarifs (§ 2) geltenden Höhe.
 
 (5) (weggefallen)
-
