@@ -4,9 +4,10 @@ identifier: "EVPGV"
 country: "de"
 rank: "rechtsverordnung"
 publication_date: "2013-08-14"
-last_updated: "2026-04-04"
+last_updated: "2026-10-21"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/evpgv/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR322110013"
 slug: "evpgv"
@@ -15,7 +16,10 @@ stand: "Zuletzt geändert durch Art. 4 V v. 5.5.2021 I 942"
 ---
 # Verordnung zur Durchführung des Gesetzes über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte
 
-##### § 1 Voraussetzungen für das Inverkehrbringen oder die Inbetriebnahme von energieverbrauchsrelevanten Produkten
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### § 1 Voraussetzungen für das Inverkehrbringen oder die Inbetriebnahme von energieverbrauchsrelevanten Produkten
 
 Ein Hersteller, Bevollmächtigter oder Importeur darf folgende Produkte nur in Verkehr bringen oder, sofern sie noch nicht in Verkehr gebracht wurden, nur in Betrieb nehmen, wenn die jeweils nachfolgend genannten Anforderungen an die umweltgerechte Gestaltung (Ökodesign-Anforderungen) und sonstigen Voraussetzungen für das Inverkehrbringen oder die Inbetriebnahme der Produkte erfüllt sind:
 
@@ -77,7 +81,10 @@ Ein Hersteller, Bevollmächtigter oder Importeur darf folgende Produkte nur in V
 
 29. einen Server oder ein Datenspeicherprodukt im Sinne der Verordnung (EU) 2019/424 der Kommission vom 15. März 2019 zur Festlegung von Ökodesign-Anforderungen an Server und Datenspeicherprodukte gemäß der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates und zur Änderung der Verordnung (EU) Nr. 617/2013 der Kommission (ABl. L 74 vom 18.3.2019, S. 46), wenn die Anforderungen in Artikel 3 in Verbindung mit Anhang II sowie die Anforderungen in Artikel 6 der Verordnung (EU) 2019/424 erfüllt sind.
 
-##### § 2 Ordnungswidrigkeiten
+###### § 2 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 13 Absatz 1 Nummer 5 Buchstabe a des Energieverbrauchsrelevante-Produkte-Gesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 1 ein dort genanntes energieverbrauchsrelevantes Produkt in Verkehr bringt oder in Betrieb nimmt.
 
+###### § 3 Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
