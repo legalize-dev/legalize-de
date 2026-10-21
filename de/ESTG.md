@@ -4,25 +4,29 @@ identifier: "ESTG"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "1934-10-16"
-last_updated: "2026-04-04"
+last_updated: "2026-10-21"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/estg/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR010050934"
 slug: "estg"
 bgbl_reference: "RGBl I 1934, 1005"
-stand: "zuletzt geändert durch Art. 29 G v. 4.2.2026 I Nr. 33"
+stand: "zuletzt geändert durch Art. 1 G v. 15.10.2026 I Nr. 307"
 neufassung: "Neugefasst durch Bek. v. 8.10.2009 I 3366, 3862;"
 ---
 # Einkommensteuergesetz
 
-##### Inhaltsübersicht
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Inhaltsübersicht
 
 Inhaltsübersicht (zu § 7c) Kursivdruck: § 7c tritt gem. Art. 39 Abs. 7 G v. 12.12.2019 I 2451 bedingt zukünftig in Kraft
 
 ## I. Steuerpflicht
 
-##### § 1 Steuerpflicht
+###### § 1 Steuerpflicht
 
 (1) 1 Natürliche Personen, die im Inland einen Wohnsitz oder ihren gewöhnlichen Aufenthalt haben, sind unbeschränkt einkommensteuerpflichtig. 2 Zum Inland im Sinne dieses Gesetzes gehört auch der der Bundesrepublik Deutschland zustehende Anteil
 
@@ -52,7 +56,7 @@ sowie zu ihrem Haushalt gehörende Angehörige, die die deutsche Staatsangehöri
 
 (4) Natürliche Personen, die im Inland weder einen Wohnsitz noch ihren gewöhnlichen Aufenthalt haben, sind vorbehaltlich der Absätze 2 und 3 und des § 1a beschränkt einkommensteuerpflichtig, wenn sie inländische Einkünfte im Sinne des § 49 haben.
 
-##### § 1a
+###### § 1a
 
 (1) Für Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines Staates, auf den das Abkommen über den Europäischen Wirtschaftsraum anwendbar ist, die nach § 1 Absatz 1 unbeschränkt einkommensteuerpflichtig sind oder die nach § 1 Absatz 3 als unbeschränkt einkommensteuerpflichtig zu behandeln sind, gilt bei Anwendung von § 10 Absatz 1a und § 26 Absatz 1 Satz 1 Folgendes:
 
@@ -74,7 +78,7 @@ b) die Besteuerung der nach § 10 Absatz 1a zu berücksichtigenden Leistung oder
 
 ## 1. Sachliche Voraussetzungen für die Besteuerung
 
-##### § 2 Umfang der Besteuerung, Begriffsbestimmungen
+###### § 2 Umfang der Besteuerung, Begriffsbestimmungen
 
 (1) 1 Der Einkommensteuer unterliegen
 
@@ -118,7 +122,7 @@ die der Steuerpflichtige während seiner unbeschränkten Einkommensteuerpflicht 
 
 (8) Die Regelungen dieses Gesetzes zu Ehegatten und Ehen sind auch auf Lebenspartner und Lebenspartnerschaften anzuwenden.
 
-##### § 2a Negative Einkünfte mit Bezug zu Drittstaaten
+###### § 2a Negative Einkünfte mit Bezug zu Drittstaaten
 
 (1) 1 Negative Einkünfte
 
@@ -172,7 +176,7 @@ dürfen nur mit positiven Einkünften der jeweils selben Art und, mit Ausnahme d
 
 ## 2. Steuerfreie Einnahmen
 
-##### § 3
+###### § 3
 
 Steuerfrei sind
 
@@ -508,9 +512,9 @@ ee) der Zuschuss auf 25 Prozent der Anschaffungskosten begrenzt ist.
 
 72. die Einnahmen und Entnahmen im Zusammenhang mit dem Betrieb von auf, an oder in Gebäuden (einschließlich Nebengebäuden) vorhandenen Photovoltaikanlagen, wenn die installierte Bruttoleistung laut Marktstammdatenregister bis zu 30 Kilowatt (peak) je Wohn- oder Gewerbeeinheit und insgesamt höchstens 100 Kilowatt (peak) pro Steuerpflichtigem oder Mitunternehmerschaft beträgt. 2Werden Einkünfte nach § 2 Absatz 1 Satz 1 Nummer 2 erzielt und sind die aus dieser Tätigkeit erzielten Einnahmen insgesamt steuerfrei nach Satz 1, ist kein Gewinn zu ermitteln. 3In den Fällen des Satzes 2 ist § 15 Absatz 3 Nummer 1 nicht anzuwenden;
 
-73. Prämienzahlungen der Stiftung Deutsche Sporthilfe, die für Platzierungen bei Olympischen oder Paralympischen Spielen gewährt werden.
+73. Prämienzahlungen der Stiftung Deutsche Sporthilfe sowie vergleichbarer gemeinnütziger Organisationen der Länder oder Leistungen unmittelbar aus Haushaltsmitteln der Länder, die für Platzierungen bei Olympischen oder Paralympischen Spielen gewährt werden.
 
-##### § 3a Sanierungserträge
+###### § 3a Sanierungserträge
 
 (1) 1Betriebsvermögensmehrungen oder Betriebseinnahmen aus einem Schuldenerlass zum Zwecke einer unternehmensbezogenen Sanierung im Sinne des Absatzes 2 (Sanierungsertrag) sind steuerfrei. 2Sind Betriebsvermögensmehrungen oder Betriebseinnahmen aus einem Schuldenerlass nach Satz 1 steuerfrei, sind steuerliche Wahlrechte in dem Jahr, in dem ein Sanierungsertrag erzielt wird (Sanierungsjahr) und im Folgejahr im zu sanierenden Unternehmen gewinnmindernd auszuüben. 3Insbesondere ist der niedrigere Teilwert, der nach § 6 Absatz 1 Nummer 1 Satz 2 und Nummer 2 Satz 2 angesetzt werden kann, im Sanierungsjahr und im Folgejahr anzusetzen.
 
@@ -570,7 +574,7 @@ b) EBITDA-Vortrag nach § 4h Absatz 1 Satz 3. 2Die Minderung des EBITDA-Vortrags
 
 (5) 1Erträge aus einer nach den §§ 286 ff. der Insolvenzordnung erteilten Restschuldbefreiung, einem Schuldenerlass auf Grund eines außergerichtlichen Schuldenbereinigungsplans zur Vermeidung eines Verbraucherinsolvenzverfahrens nach den §§ 304 ff. der Insolvenzordnung oder auf Grund eines Schuldenbereinigungsplans, dem in einem Verbraucherinsolvenzverfahren zugestimmt wurde oder wenn diese Zustimmung durch das Gericht ersetzt wurde, sind, soweit es sich um Betriebsvermögensmehrungen oder Betriebseinnahmen handelt, ebenfalls steuerfrei, auch wenn die Voraussetzungen einer unternehmensbezogenen Sanierung im Sinne des Absatzes 2 nicht vorliegen. 2Absatz 1 Satz 2 und die Absätze 3 und 3a gelten entsprechend.
 
-##### § 3b Steuerfreiheit von Zuschlägen für Sonntags-, Feiertags- oder Nachtarbeit
+###### § 3b Steuerfreiheit von Zuschlägen für Sonntags-, Feiertags- oder Nachtarbeit
 
 (1) Steuerfrei sind Zuschläge, die für tatsächlich geleistete Sonntags-, Feiertags- oder Nachtarbeit neben dem Grundlohn gezahlt werden, soweit sie
 
@@ -592,7 +596,7 @@ des Grundlohns nicht übersteigen.
 
 2. als Sonntagsarbeit und Feiertagsarbeit gilt auch die Arbeit in der Zeit von 0 Uhr bis 4 Uhr des auf den Sonntag oder Feiertag folgenden Tages.
 
-##### § 3c Anteilige Abzüge
+###### § 3c Anteilige Abzüge
 
 (1) Ausgaben dürfen, soweit sie mit steuerfreien Einnahmen in unmittelbarem wirtschaftlichen Zusammenhang stehen, nicht als Betriebsausgaben oder Werbungskosten abgezogen werden; Absatz 2 bleibt unberührt.
 
@@ -604,7 +608,7 @@ des Grundlohns nicht übersteigen.
 
 ## 3. Gewinn
 
-##### § 4 Gewinnbegriff im Allgemeinen
+###### § 4 Gewinnbegriff im Allgemeinen
 
 (1) 1 Gewinn ist der Unterschiedsbetrag zwischen dem Betriebsvermögen am Schluss des Wirtschaftsjahres und dem Betriebsvermögen am Schluss des vorangegangenen Wirtschaftsjahres, vermehrt um den Wert der Entnahmen und vermindert um den Wert der Einlagen. 2 Entnahmen sind alle Wirtschaftsgüter (Barentnahmen, Waren, Erzeugnisse, Nutzungen und Leistungen), die der Steuerpflichtige dem Betrieb für sich, für seinen Haushalt oder für andere betriebsfremde Zwecke im Laufe des Wirtschaftsjahres entnommen hat. 3 Einer Entnahme für betriebsfremde Zwecke steht der Ausschluss oder die Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung oder der Nutzung eines Wirtschaftsguts gleich; dies gilt auf Antrag auch in den Fällen, in denen die Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung eines Wirtschaftsguts entfällt und in einem anderen Staat eine Besteuerung auf Grund des Ausschlusses oder der Beschränkung des Besteuerungsrechts dieses Staates hinsichtlich des Gewinns aus der Veräußerung des Wirtschaftsguts erfolgt. 4 Ein Ausschluss oder eine Beschränkung des Besteuerungsrechts hinsichtlich des Gewinns aus der Veräußerung eines Wirtschaftsguts liegt insbesondere vor, wenn ein bisher einer inländischen Betriebsstätte des Steuerpflichtigen zuzuordnendes Wirtschaftsgut einer ausländischen Betriebsstätte zuzuordnen ist. 5 Satz 3 gilt nicht für Anteile an einer Europäischen Gesellschaft oder Europäischen Genossenschaft in den Fällen
 
@@ -674,7 +678,7 @@ des Grundlohns nicht übersteigen.
 
 (10) § 9 Absatz 1 Satz 3 Nummer 5b ist entsprechend anzuwenden.
 
-##### § 4a Gewinnermittlungszeitraum, Wirtschaftsjahr
+###### § 4a Gewinnermittlungszeitraum, Wirtschaftsjahr
 
 (1) 1 Bei Land- und Forstwirten und bei Gewerbetreibenden ist der Gewinn nach dem Wirtschaftsjahr zu ermitteln. 2 Wirtschaftsjahr ist
 
@@ -690,17 +694,17 @@ des Grundlohns nicht übersteigen.
 
 2. bei Gewerbetreibenden gilt der Gewinn des Wirtschaftsjahres als in dem Kalenderjahr bezogen, in dem das Wirtschaftsjahr endet.
 
-##### § 4b Direktversicherung
+###### § 4b Direktversicherung
 
 1Der Versicherungsanspruch aus einer Direktversicherung, die von einem Steuerpflichtigen aus betrieblichem Anlass abgeschlossen wird, ist dem Betriebsvermögen des Steuerpflichtigen nicht zuzurechnen, soweit am Schluss des Wirtschaftsjahres hinsichtlich der Leistungen des Versicherers die Person, auf deren Leben die Lebensversicherung abgeschlossen ist, oder ihre Hinterbliebenen bezugsberechtigt sind. 2Das gilt auch, wenn der Steuerpflichtige die Ansprüche aus dem Versicherungsvertrag abgetreten oder beliehen hat, sofern er sich der bezugsberechtigten Person gegenüber schriftlich verpflichtet, sie bei Eintritt des Versicherungsfalls so zu stellen, als ob die Abtretung oder Beleihung nicht erfolgt wäre.
 
-##### § 4c Zuwendungen an Pensionskassen
+###### § 4c Zuwendungen an Pensionskassen
 
 (1) 1Zuwendungen an eine Pensionskasse dürfen von dem Unternehmen, das die Zuwendungen leistet (Trägerunternehmen), als Betriebsausgaben abgezogen werden, soweit sie auf einer in der Satzung oder im Geschäftsplan der Kasse festgelegten Verpflichtung oder auf einer Anordnung der Versicherungsaufsichtsbehörde beruhen oder der Abdeckung von Fehlbeträgen bei der Kasse dienen. 2Soweit die allgemeinen Versicherungsbedingungen und die fachlichen Geschäftsunterlagen im Sinne des § 219 Absatz 3 Nummer 1 Buchstabe b des Versicherungsaufsichtsgesetzes nicht zum Geschäftsplan gehören, gelten diese als Teil des Geschäftsplans.
 
 (2) Zuwendungen im Sinne des Absatzes 1 dürfen als Betriebsausgaben nicht abgezogen werden, soweit die Leistungen der Kasse, wenn sie vom Trägerunternehmen unmittelbar erbracht würden, bei diesem nicht betrieblich veranlasst wären.
 
-##### § 4d Zuwendungen an Unterstützungskassen
+###### § 4d Zuwendungen an Unterstützungskassen
 
 (1) 1 Zuwendungen an eine Unterstützungskasse dürfen von dem Unternehmen, das die Zuwendungen leistet (Trägerunternehmen), als Betriebsausgaben abgezogen werden, soweit die Leistungen der Kasse, wenn sie vom Trägerunternehmen unmittelbar erbracht würden, bei diesem betrieblich veranlasst wären und sie die folgenden Beträge nicht übersteigen:
 
@@ -732,7 +736,7 @@ d) den Betrag, den die Kasse einem Leistungsanwärter im Sinne des Buchstabens b
 
 (3) 1Abweichend von Absatz 1 Satz 1 Nummer 1 Satz 1 Buchstabe d und Absatz 2 können auf Antrag die insgesamt erforderlichen Zuwendungen an die Unterstützungskasse für den Betrag, den die Kasse an einen Pensionsfonds zahlt, der eine ihr obliegende Versorgungsverpflichtung ganz oder teilweise übernommen hat, nicht im Wirtschaftsjahr der Zuwendung, sondern erst in den dem Wirtschaftsjahr der Zuwendung folgenden zehn Wirtschaftsjahren gleichmäßig verteilt als Betriebsausgaben abgezogen werden. 2Der Antrag ist unwiderruflich; der jeweilige Rechtsnachfolger ist an den Antrag gebunden.
 
-##### § 4e Beiträge an Pensionsfonds
+###### § 4e Beiträge an Pensionsfonds
 
 (1) Beiträge an einen Pensionsfonds im Sinne des § 236 des Versicherungsaufsichtsgesetzes dürfen von dem Unternehmen, das die Beiträge leistet (Trägerunternehmen), als Betriebsausgaben abgezogen werden, soweit sie auf einer festgelegten Verpflichtung beruhen oder der Abdeckung von Fehlbeträgen bei dem Fonds dienen.
 
@@ -740,13 +744,13 @@ d) den Betrag, den die Kasse einem Leistungsanwärter im Sinne des Buchstabens b
 
 (3) 1Der Steuerpflichtige kann auf Antrag die insgesamt erforderlichen Leistungen an einen Pensionsfonds zur teilweisen oder vollständigen Übernahme einer bestehenden Versorgungsverpflichtung oder Versorgungsanwartschaft durch den Pensionsfonds erst in den dem Wirtschaftsjahr der Übertragung folgenden zehn Wirtschaftsjahren gleichmäßig verteilt als Betriebsausgaben abziehen. 2Der Antrag ist unwiderruflich; der jeweilige Rechtsnachfolger ist an den Antrag gebunden. 3Ist eine Pensionsrückstellung nach § 6a gewinnerhöhend aufzulösen, ist Satz 1 mit der Maßgabe anzuwenden, dass die Leistungen an den Pensionsfonds im Wirtschaftsjahr der Übertragung in Höhe der aufgelösten Rückstellung als Betriebsausgaben abgezogen werden können; der die aufgelöste Rückstellung übersteigende Betrag ist in den dem Wirtschaftsjahr der Übertragung folgenden zehn Wirtschaftsjahren gleichmäßig verteilt als Betriebsausgaben abzuziehen. 4Satz 3 gilt entsprechend, wenn es im Zuge der Leistungen des Arbeitgebers an den Pensionsfonds zu Vermögensübertragungen einer Unterstützungskasse an den Arbeitgeber kommt.
 
-##### § 4f Verpflichtungsübernahmen, Schuldbeitritte und Erfüllungsübernahmen
+###### § 4f Verpflichtungsübernahmen, Schuldbeitritte und Erfüllungsübernahmen
 
 (1) 1Werden Verpflichtungen übertragen, die beim ursprünglich Verpflichteten Ansatzverboten, -beschränkungen oder Bewertungsvorbehalten unterlegen haben, ist der sich aus diesem Vorgang ergebende Aufwand im Wirtschaftsjahr der Schuldübernahme und den nachfolgenden 14 Jahren gleichmäßig verteilt als Betriebsausgabe abziehbar. 2Ist auf Grund der Übertragung einer Verpflichtung ein Passivposten gewinnerhöhend aufzulösen, ist Satz 1 mit der Maßgabe anzuwenden, dass der sich ergebende Aufwand im Wirtschaftsjahr der Schuldübernahme in Höhe des aufgelösten Passivpostens als Betriebsausgabe abzuziehen ist; der den aufgelösten Passivposten übersteigende Betrag ist in dem Wirtschaftsjahr der Schuldübernahme und den nachfolgenden 14 Wirtschaftsjahren gleichmäßig verteilt als Betriebsausgabe abzuziehen. 3Eine Verteilung des sich ergebenden Aufwands unterbleibt, wenn die Schuldübernahme im Rahmen einer Veräußerung oder Aufgabe des ganzen Betriebes oder des gesamten Mitunternehmeranteils im Sinne der §§ 14, 16 Absatz 1, 3 und 3a sowie des § 18 Absatz 3 erfolgt; dies gilt auch, wenn ein Arbeitnehmer unter Mitnahme seiner erworbenen Pensionsansprüche zu einem neuen Arbeitgeber wechselt oder wenn der Betrieb am Schluss des vorangehenden Wirtschaftsjahres die Gewinngrenze des § 7g Absatz 1 Satz 2 Nummer 1 nicht überschreitet. 4Erfolgt die Schuldübernahme in dem Fall einer Teilbetriebsveräußerung oder -aufgabe im Sinne der §§ 14, 16 Absatz 1, 3 und 3a sowie des § 18 Absatz 3, ist ein Veräußerungs- oder Aufgabeverlust um den Aufwand im Sinne des Satzes 1 zu vermindern, soweit dieser den Verlust begründet oder erhöht hat. 5Entsprechendes gilt für den einen aufgelösten Passivposten übersteigenden Betrag im Sinne des Satzes 2. 6Für den hinzugerechneten Aufwand gelten Satz 2 zweiter Halbsatz und Satz 3 entsprechend. 7Der jeweilige Rechtsnachfolger des ursprünglichen Verpflichteten ist an die Aufwandsverteilung nach den Sätzen 1 bis 6 gebunden.
 
 (2) Wurde für Verpflichtungen im Sinne des Absatzes 1 ein Schuldbeitritt oder eine Erfüllungsübernahme mit ganzer oder teilweiser Schuldfreistellung vereinbart, gilt für die vom Freistellungsberechtigten an den Freistellungsverpflichteten erbrachten Leistungen Absatz 1 Satz 1, 2 und 7 entsprechend.
 
-##### § 4g Bildung eines Ausgleichspostens bei Entnahme nach § 4 Absatz 1 Satz 3
+###### § 4g Bildung eines Ausgleichspostens bei Entnahme nach § 4 Absatz 1 Satz 3
 
 (1) 1Der Steuerpflichtige kann in Höhe des Unterschiedsbetrags zwischen dem Buchwert und dem nach § 6 Absatz 1 Nummer 4 Satz 1 zweiter Halbsatz anzusetzenden Wert eines Wirtschaftsguts auf Antrag einen Ausgleichsposten bilden, soweit das Besteuerungsrecht der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung des Wirtschaftsguts zugunsten eines Staates im Sinne des § 36 Absatz 5 Satz 1 beschränkt oder ausgeschlossen wird (§ 4 Absatz 1 Satz 3). 2Der Ausgleichsposten ist für jedes Wirtschaftsgut getrennt auszuweisen. 3Der Antrag ist unwiderruflich. 4Die Sätze 1 bis 3 gelten in den Fällen des Umwandlungssteuergesetzes entsprechend.
 
@@ -760,7 +764,7 @@ d) den Betrag, den die Kasse einem Leistungsanwärter im Sinne des Buchstabens b
 
 (6) Absatz 2 Satz 2 ist mit der Maßgabe anzuwenden, dass allein der Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union nicht dazu führt, dass ein als entnommen geltendes Wirtschaftsgut als aus der Besteuerungshoheit der Mitgliedstaaten der Europäischen Union ausgeschieden gilt.
 
-##### § 4h Betriebsausgabenabzug für Zinsaufwendungen (Zinsschranke)
+###### § 4h Betriebsausgabenabzug für Zinsaufwendungen (Zinsschranke)
 
 (1) 1Zinsaufwendungen eines Betriebs sind abziehbar in Höhe des Zinsertrags, darüber hinaus nur bis zur Höhe des verrechenbaren EBITDA. 2Das verrechenbare EBITDA ist 30 Prozent des um die Zinsaufwendungen und um die nach § 6 Absatz 2 Satz 1 abzuziehenden, nach § 6 Absatz 2a Satz 2 gewinnmindernd aufzulösenden und nach § 7 abgesetzten Beträge erhöhten und um die Zinserträge verminderten maßgeblichen Gewinns. 3Soweit das verrechenbare EBITDA die um die Zinserträge geminderten Zinsaufwendungen des Betriebs (Nettozinsaufwendungen) übersteigt, ist es in die folgenden fünf Wirtschaftsjahre vorzutragen (EBITDA-Vortrag); ein EBITDA-Vortrag entsteht nicht in Wirtschaftsjahren, in denen die Zinsaufwendungen die Zinserträge nicht übersteigen oder Absatz 2 die Anwendung von Satz 1 ausschließt. 4Zinsaufwendungen, die nach Satz 1 nicht abgezogen werden können, sind bis zur Höhe der EBITDA-Vorträge aus vorangegangenen Wirtschaftsjahren abziehbar und mindern die EBITDA-Vorträge in ihrer zeitlichen Reihenfolge. 5Danach verbleibende nicht abziehbare Zinsaufwendungen sind in die folgenden Wirtschaftsjahre vorzutragen (Zinsvortrag). 6Sie erhöhen die Zinsaufwendungen dieser Wirtschaftsjahre, nicht aber den maßgeblichen Gewinn. 7Absatz 2 findet keine Anwendung, soweit Zinsaufwendungen aufgrund eines Zinsvortrags erhöht wurden.
 
@@ -782,13 +786,13 @@ c) der Betrieb zu einem Konzern gehört und seine Eigenkapitalquote am Schluss d
 
 (6) 1Zinsaufwendungen oder Zinserträge aus Darlehen, die zur Finanzierung langfristiger öffentlicher Infrastrukturprojekte verwendet und auf Grund von allgemeinen Förderbedingungen vergeben werden, stellen keine Zinsaufwendungen oder Zinserträge im Sinne des Absatzes 3 Satz 2 und 3 dar, sofern es sich um mittelbar oder unmittelbar aus öffentlichen Haushalten gewährte Mittel der Europäischen Union, von Bund, Ländern, Gemeinden oder Mittel anderer öffentlich-rechtlicher Körperschaften oder einer nach § 5 Absatz 1 Nummer 2, 17 oder 18 des Körperschaftsteuergesetzes steuerbefreiten Einrichtung handelt. 2Satz 1 gilt nur, sofern sämtliche geschaffenen Vermögenswerte in einem Mitgliedstaat der Europäischen Union belegen sind, der Projektbetreiber in einem Mitgliedstaat der Europäischen Union ansässig ist und die Einkünfte aus dem Infrastrukturprojekt in einem Mitgliedstaat der Europäischen Union der Besteuerung unterliegen. 3Bei der Ermittlung des verrechenbaren EBITDA im Sinne des Absatzes 1 Satz 2 bleiben Aufwendungen und Erträge, die auf das Infrastrukturprojekt im Sinne des Satzes 1 entfallen, außer Ansatz.
 
-##### § 4i Sonderbetriebsausgabenabzug bei Vorgängen mit Auslandsbezug
+###### § 4i Sonderbetriebsausgabenabzug bei Vorgängen mit Auslandsbezug
 
 1Aufwendungen dürfen nicht als Sonderbetriebsausgaben abgezogen werden, soweit sie auch die Steuerbemessungsgrundlage in einem anderen Staat mindern. 2Satz 1 gilt nicht, soweit diese Aufwendungen Erträge desselben Steuerpflichtigen mindern, die bei ihm sowohl der inländischen Besteuerung unterliegen als auch nachweislich der tatsächlichen Besteuerung in dem anderen Staat.
 
-##### § 4j (weggefallen)
+###### § 4j (weggefallen)
 
-##### § 4k Betriebsausgabenabzug bei Besteuerungsinkongruenzen
+###### § 4k Betriebsausgabenabzug bei Besteuerungsinkongruenzen
 
 (1) 1Aufwendungen für die Nutzung oder im Zusammenhang mit der Übertragung von Kapitalvermögen sind insoweit nicht als Betriebsausgaben abziehbar, als die den Aufwendungen entsprechenden Erträge auf Grund einer vom deutschen Recht abweichenden steuerlichen Qualifikation oder Zurechnung des Kapitalvermögens nicht oder niedriger als bei dem deutschen Recht entsprechender Qualifikation oder Zurechnung besteuert werden. 2Satz 1 gilt nicht, soweit die Besteuerungsinkongruenz voraussichtlich in einem künftigen Besteuerungszeitraum beseitigt wird und die Zahlungsbedingungen einem Fremdvergleich standhalten.
 
@@ -810,7 +814,7 @@ c) der Betrieb zu einem Konzern gehört und seine Eigenkapitalquote am Schluss d
 
 (7) Die Absätze 1 bis 6 sind ungeachtet der Vorschriften eines Abkommens zur Vermeidung der Doppelbesteuerung anzuwenden.
 
-##### § 5 Gewinn bei Kaufleuten und bei bestimmten anderen Gewerbetreibenden
+###### § 5 Gewinn bei Kaufleuten und bei bestimmten anderen Gewerbetreibenden
 
 (1) 1Bei Gewerbetreibenden, die auf Grund gesetzlicher Vorschriften verpflichtet sind, Bücher zu führen und regelmäßig Abschlüsse zu machen, oder die ohne eine solche Verpflichtung Bücher führen und regelmäßig Abschlüsse machen, ist für den Schluss des Wirtschaftsjahres das Betriebsvermögen anzusetzen (§ 4 Absatz 1 Satz 1), das nach den handelsrechtlichen Grundsätzen ordnungsmäßiger Buchführung auszuweisen ist, es sei denn, im Rahmen der Ausübung eines steuerlichen Wahlrechts wird oder wurde ein anderer Ansatz gewählt. 2Voraussetzung für die Ausübung steuerlicher Wahlrechte ist, dass die Wirtschaftsgüter, die nicht mit dem handelsrechtlich maßgeblichen Wert in der steuerlichen Gewinnermittlung ausgewiesen werden, in besondere, laufend zu führende Verzeichnisse aufgenommen werden. 3In den Verzeichnissen sind der Tag der Anschaffung oder Herstellung, die Anschaffungs- oder Herstellungskosten, die Vorschrift des ausgeübten steuerlichen Wahlrechts und die vorgenommenen Abschreibungen nachzuweisen.
 
@@ -850,7 +854,7 @@ c) der Betrieb zu einem Konzern gehört und seine Eigenkapitalquote am Schluss d
 
 (7) 1Übernommene Verpflichtungen, die beim ursprünglich Verpflichteten Ansatzverboten, -beschränkungen oder Bewertungsvorbehalten unterlegen haben, sind zu den auf die Übernahme folgenden Abschlussstichtagen bei dem Übernehmer und dessen Rechtsnachfolger so zu bilanzieren, wie sie beim ursprünglich Verpflichteten ohne Übernahme zu bilanzieren wären. 2Dies gilt in Fällen des Schuldbeitritts oder der Erfüllungsübernahme mit vollständiger oder teilweiser Schuldfreistellung für die sich aus diesem Rechtsgeschäft ergebenden Verpflichtungen sinngemäß. 3Satz 1 ist für den Erwerb eines Mitunternehmeranteils entsprechend anzuwenden. 4Wird eine Pensionsverpflichtung unter gleichzeitiger Übernahme von Vermögenswerten gegenüber einem Arbeitnehmer übernommen, der bisher in einem anderen Unternehmen tätig war, ist Satz 1 mit der Maßgabe anzuwenden, dass bei der Ermittlung des Teilwertes der Verpflichtung der Jahresbetrag nach § 6a Absatz 3 Satz 2 Nummer 1 so zu bemessen ist, dass zu Beginn des Wirtschaftsjahres der Übernahme der Barwert der Jahresbeträge zusammen mit den übernommenen Vermögenswerten gleich dem Barwert der künftigen Pensionsleistungen ist; dabei darf sich kein negativer Jahresbetrag ergeben. 5Für einen Gewinn, der sich aus der Anwendung der Sätze 1 bis 3 ergibt, kann jeweils in Höhe von vierzehn Fünfzehntel eine gewinnmindernde Rücklage gebildet werden, die in den folgenden 14 Wirtschaftsjahren jeweils mit mindestens einem Vierzehntel gewinnerhöhend aufzulösen ist (Auflösungszeitraum). 6Besteht eine Verpflichtung, für die eine Rücklage gebildet wurde, bereits vor Ablauf des maßgebenden Auflösungszeitraums nicht mehr, ist die insoweit verbleibende Rücklage erhöhend aufzulösen.
 
-##### § 5a Gewinnermittlung bei Handelsschiffen im internationalen Verkehr
+###### § 5a Gewinnermittlung bei Handelsschiffen im internationalen Verkehr
 
 (1) 1Anstelle der Ermittlung des Gewinns nach § 4 Absatz 1 oder § 5 ist bei einem Gewerbebetrieb mit Geschäftsleitung im Inland der Gewinn, soweit er auf den Betrieb von Handelsschiffen im internationalen Verkehr entfällt, auf unwiderruflichen Antrag des Steuerpflichtigen nach der in seinem Betrieb geführten Tonnage zu ermitteln, wenn die Bereederung dieser Handelsschiffe im Inland durchgeführt wird. 2Der im Wirtschaftsjahr erzielte Gewinn beträgt pro Tag des Betriebs für jedes im internationalen Verkehr betriebene Handelsschiff für jeweils volle 100 Nettotonnen (Nettoraumzahl) 0,92 Eurobei einer Tonnage bis zu 1 000 Nettotonnen,0,69 Eurofür die 1 000 Nettotonnen übersteigende Tonnage bis zu 10 000 Nettotonnen,0,46 Eurofür die 10 000 Nettotonnen übersteigende Tonnage bis zu 25 000 Nettotonnen,0,23 Eurofür die 25 000 Nettotonnen übersteigende Tonnage.
 
@@ -874,13 +878,13 @@ c) der Betrieb zu einem Konzern gehört und seine Eigenkapitalquote am Schluss d
 
 (6) 1In der Bilanz zum Schluss des Wirtschaftsjahres, in dem Absatz 1 letztmalig angewendet wird, ist für jedes Wirtschaftsgut, das unmittelbar dem Betrieb von Handelsschiffen im internationalen Verkehr dient, der Teilwert anzusetzen. 2Für Wirtschaftsgüter des abnutzbaren Anlagevermögens sind den weiteren Absetzungen für Abnutzung unverändert die ursprünglichen Anschaffungs- oder Herstellungskosten zugrunde zu legen.
 
-##### § 5b Elektronische Übermittlung von Bilanzen sowie Gewinn- und Verlustrechnungen
+###### § 5b Elektronische Übermittlung von Bilanzen sowie Gewinn- und Verlustrechnungen
 
 (1) 1Wird der Gewinn nach § 4 Absatz 1, § 5 oder § 5a ermittelt, so ist der Inhalt der Bilanz, der Gewinn- und Verlustrechnung jeweils einschließlich der unverdichteten Kontennachweise mit Kontensalden sowie der Anlagenspiegel und das diesem zugrundeliegende Anlagenverzeichnis nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. 2Enthält die Bilanz Ansätze oder Beträge, die den steuerlichen Vorschriften nicht entsprechen, so sind diese Ansätze oder Beträge durch Zusätze oder Anmerkungen den steuerlichen Vorschriften anzupassen und nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. 3Der Steuerpflichtige kann auch eine den steuerlichen Vorschriften entsprechende Bilanz nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung übermitteln; Satz 1 gilt insoweit entsprechend. 4Im Fall der Eröffnung des Betriebs sind die Sätze 1 bis 3 entsprechend anzuwenden; dies gilt auch für solche Bilanzen, die für andere steuerliche Zwecke zu erstellen sind. 5Liegt ein Anhang, ein Lagebericht, ein Prüfungsbericht oder ein Verzeichnis nach § 5 Absatz 1 Satz 2 vor, so sind diese nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. 6Bei der Gewinnermittlung nach § 5a ist das besondere Verzeichnis nach § 5a Absatz 4 nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln.
 
 (2) 1Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten. 2§ 150 Absatz 8 der Abgabenordnung gilt entsprechend.
 
-##### § 6 Bewertung
+###### § 6 Bewertung
 
 (1) Für die Bewertung der einzelnen Wirtschaftsgüter, die nach § 4 Absatz 1 oder nach § 5 als Betriebsvermögen anzusetzen sind, gilt das Folgende:
 
@@ -994,7 +998,7 @@ c) ein Wirtschaftsgut im Sinne des § 20 Absatz 2 oder im Sinne des § 2 Absatz 
 
 2. die Bewertungsvorschriften des Absatzes 1 Nummer 1a und der Nummern 4 bis 7 entsprechend anzuwenden.
 
-##### § 6a Pensionsrückstellung
+###### § 6a Pensionsrückstellung
 
 (1) Für eine Pensionsverpflichtung darf eine Rückstellung (Pensionsrückstellung) nur gebildet werden, wenn und soweit
 
@@ -1030,7 +1034,7 @@ d) erstmals vor dem 1. Januar 2001 zugesagten Pensionsleistungen das 30. Lebensj
 
 (5) Die Absätze 3 und 4 gelten entsprechend, wenn der Pensionsberechtigte zu dem Pensionsverpflichteten in einem anderen Rechtsverhältnis als einem Dienstverhältnis steht.
 
-##### § 6b Übertragung stiller Reserven bei der Veräußerung bestimmter Anlagegüter
+###### § 6b Übertragung stiller Reserven bei der Veräußerung bestimmter Anlagegüter
 
 (1) 1 Steuerpflichtige, die
 
@@ -1090,13 +1094,13 @@ veräußern, können im Wirtschaftsjahr der Veräußerung von den Anschaffungs- 
 
 (10) 1Steuerpflichtige, die keine Körperschaften, Personenvereinigungen oder Vermögensmassen sind, können Gewinne aus der Veräußerung von Anteilen an Kapitalgesellschaften bis zu einem Betrag von 2 000 000 Euro auf die im Wirtschaftsjahr der Veräußerung oder in den folgenden zwei Wirtschaftsjahren angeschafften Anteile an Kapitalgesellschaften oder angeschafften oder hergestellten abnutzbaren beweglichen Wirtschaftsgüter oder auf die im Wirtschaftsjahr der Veräußerung oder in den folgenden vier Wirtschaftsjahren angeschafften oder hergestellten Gebäude nach Maßgabe der Sätze 2 bis 10 übertragen. 2Wird der Gewinn im Jahr der Veräußerung auf Gebäude oder abnutzbare bewegliche Wirtschaftsgüter übertragen, so kann ein Betrag bis zur Höhe des bei der Veräußerung entstandenen und nicht nach § 3 Nummer 40 Satz 1 Buchstabe a und b in Verbindung mit § 3c Absatz 2 steuerbefreiten Betrags von den Anschaffungs- oder Herstellungskosten für Gebäude oder abnutzbare bewegliche Wirtschaftsgüter abgezogen werden. 3Wird der Gewinn im Jahr der Veräußerung auf Anteile an Kapitalgesellschaften übertragen, mindern sich die Anschaffungskosten der Anteile an Kapitalgesellschaften in Höhe des Veräußerungsgewinns einschließlich des nach § 3 Nummer 40 Satz 1 Buchstabe a und b in Verbindung mit § 3c Absatz 2 steuerbefreiten Betrags. 4Absatz 2, Absatz 4 Satz 1 Nummer 1, 2, 3, 5 und Satz 2 sowie Absatz 6 sind sinngemäß anzuwenden. 5Soweit Steuerpflichtige den Abzug nach den Sätzen 1 bis 4 nicht vorgenommen haben, können sie eine Rücklage nach Maßgabe des Satzes 1 einschließlich des nach § 3 Nummer 40 Satz 1 Buchstabe a und b in Verbindung mit § 3c Absatz 2 steuerbefreiten Betrags bilden. 6Bei der Auflösung der Rücklage gelten die Sätze 2 und 3 sinngemäß. 7Im Fall des Satzes 2 ist die Rücklage in gleicher Höhe um den nach § 3 Nummer 40 Satz 1 Buchstabe a und b in Verbindung mit § 3c Absatz 2 steuerbefreiten Betrag aufzulösen. 8Ist eine Rücklage am Schluss des vierten auf ihre Bildung folgenden Wirtschaftsjahres noch vorhanden, so ist sie in diesem Zeitpunkt gewinnerhöhend aufzulösen. 9Soweit der Abzug nach Satz 6 nicht vorgenommen wurde, ist der Gewinn des Wirtschaftsjahres, in dem die Rücklage aufgelöst wird, für jedes volle Wirtschaftsjahr, in dem die Rücklage bestanden hat, um 6 Prozent des nicht nach § 3 Nummer 40 Satz 1 Buchstabe a und b in Verbindung mit § 3c Absatz 2 steuerbefreiten aufgelösten Rücklagenbetrags zu erhöhen. 10Für die zum Gesamthandsvermögen von Personengesellschaften oder Gemeinschaften gehörenden Anteile an Kapitalgesellschaften gelten die Sätze 1 bis 9 nur, soweit an den Personengesellschaften und Gemeinschaften keine Körperschaften, Personenvereinigungen oder Vermögensmassen beteiligt sind.
 
-##### § 6c Übertragung stiller Reserven bei der Veräußerung bestimmter Anlagegüter bei der Ermittlung des Gewinns nach § 4 Absatz 3 oder nach Durchschnittssätzen
+###### § 6c Übertragung stiller Reserven bei der Veräußerung bestimmter Anlagegüter bei der Ermittlung des Gewinns nach § 4 Absatz 3 oder nach Durchschnittssätzen
 
 (1) 1§ 6b mit Ausnahme des § 6b Absatz 4 Nummer 1 ist entsprechend anzuwenden, wenn der Gewinn nach § 4 Absatz 3 oder die Einkünfte aus Land- und Forstwirtschaft nach Durchschnittssätzen ermittelt werden. 2Soweit nach § 6b Absatz 3 eine Rücklage gebildet werden kann, ist ihre Bildung als Betriebsausgabe (Abzug) und ihre Auflösung als Betriebseinnahme (Zuschlag) zu behandeln; der Zeitraum zwischen Abzug und Zuschlag gilt als Zeitraum, in dem die Rücklage bestanden hat.
 
 (2) 1Voraussetzung für die Anwendung des Absatzes 1 ist, dass die Wirtschaftsgüter, bei denen ein Abzug von den Anschaffungs- oder Herstellungskosten oder von dem Wert nach § 6b Absatz 5 vorgenommen worden ist, in besondere, laufend zu führende Verzeichnisse aufgenommen werden. 2In den Verzeichnissen sind der Tag der Anschaffung oder Herstellung, die Anschaffungs- oder Herstellungskosten, der Abzug nach § 6b Absatz 1 und 3 in Verbindung mit Absatz 1, die Absetzungen für Abnutzung, die Abschreibungen sowie die Beträge nachzuweisen, die nach § 6b Absatz 3 in Verbindung mit Absatz 1 als Betriebsausgaben (Abzug) oder Betriebseinnahmen (Zuschlag) behandelt worden sind.
 
-##### § 6d Euroumrechnungsrücklage
+###### § 6d Euroumrechnungsrücklage
 
 (1) 1Ausleihungen, Forderungen und Verbindlichkeiten im Sinne des Artikels 43 des Einführungsgesetzes zum Handelsgesetzbuch, die auf Währungseinheiten der an der europäischen Währungsunion teilnehmenden anderen Mitgliedstaaten oder auf die ECU im Sinne des Artikels 2 der Verordnung (EG) Nr. 1103/97 des Rates vom 17. Juni 1997 (ABl. EG Nr. L 162 S. 1) lauten, sind am Schluss des ersten nach dem 31. Dezember 1998 endenden Wirtschaftsjahres mit dem vom Rat der Europäischen Union gemäß Artikel 109l Absatz 4 Satz 1 des EG-Vertrages unwiderruflich festgelegten Umrechnungskurs umzurechnen und mit dem sich danach ergebenden Wert anzusetzen. 2Der Gewinn, der sich aus diesem jeweiligen Ansatz für das einzelne Wirtschaftsgut ergibt, kann in eine den steuerlichen Gewinn mindernde Rücklage eingestellt werden. 3Die Rücklage ist gewinnerhöhend aufzulösen, soweit das Wirtschaftsgut, aus dessen Bewertung sich der in die Rücklage eingestellte Gewinn ergeben hat, aus dem Betriebsvermögen ausscheidet. 4Die Rücklage ist spätestens am Schluss des fünften nach dem 31. Dezember 1998 endenden Wirtschaftsjahres gewinnerhöhend aufzulösen.
 
@@ -1104,7 +1108,7 @@ veräußern, können im Wirtschaftsjahr der Veräußerung von den Anschaffungs- 
 
 (3) Die Bildung und Auflösung der jeweiligen Rücklage müssen in der Buchführung verfolgt werden können.
 
-##### § 6e Fondsetablierungskosten als Anschaffungskosten
+###### § 6e Fondsetablierungskosten als Anschaffungskosten
 
 (1) 1Zu den Anschaffungskosten von Wirtschaftsgütern, die ein Steuerpflichtiger gemeinschaftlich mit weiteren Anlegern gemäß einem von einem Projektanbieter vorformulierten Vertragswerk anschafft, gehören auch die Fondsetablierungskosten im Sinne der Absätze 2 und 3. 2Haben die Anleger in ihrer gesellschaftsrechtlichen Verbundenheit keine wesentlichen Möglichkeiten zur Einflussnahme auf das Vertragswerk, gelten die Wirtschaftsgüter im Sinne von Satz 1 als angeschafft.
 
@@ -1116,7 +1120,7 @@ veräußern, können im Wirtschaftsjahr der Veräußerung von den Anschaffungs- 
 
 (5) § 15b bleibt unberührt.
 
-##### § 7 Absetzung für Abnutzung oder Substanzverringerung
+###### § 7 Absetzung für Abnutzung oder Substanzverringerung
 
 (1) 1Bei Wirtschaftsgütern, deren Verwendung oder Nutzung durch den Steuerpflichtigen zur Erzielung von Einkünften sich erfahrungsgemäß auf einen Zeitraum von mehr als einem Jahr erstreckt, ist jeweils für ein Jahr der Teil der Anschaffungs- oder Herstellungskosten abzusetzen, der bei gleichmäßiger Verteilung dieser Kosten auf die Gesamtdauer der Verwendung oder Nutzung auf ein Jahr entfällt (Absetzung für Abnutzung in gleichen Jahresbeträgen). 2Die Absetzung bemisst sich hierbei nach der betriebsgewöhnlichen Nutzungsdauer des Wirtschaftsguts. 3Als betriebsgewöhnliche Nutzungsdauer des Geschäfts- oder Firmenwerts eines Gewerbebetriebs oder eines Betriebs der Land- und Forstwirtschaft gilt ein Zeitraum von 15 Jahren. 4Im Jahr der Anschaffung oder Herstellung des Wirtschaftsguts vermindert sich für dieses Jahr der Absetzungsbetrag nach Satz 1 um jeweils ein Zwölftel für jeden vollen Monat, der dem Monat der Anschaffung oder Herstellung vorangeht. 5Bei Wirtschaftsgütern, die nach einer Verwendung zur Erzielung von Einkünften im Sinne des § 2 Absatz 1 Satz 1 Nummer 4 bis 7 in ein Betriebsvermögen eingelegt worden sind, mindert sich der Einlagewert um die Absetzungen für Abnutzung oder Substanzverringerung, Sonderabschreibungen oder erhöhte Absetzungen, die bis zum Zeitpunkt der Einlage vorgenommen worden sind, höchstens jedoch bis zu den fortgeführten Anschaffungs- oder Herstellungskosten; ist der Einlagewert niedriger als dieser Wert, bemisst sich die weitere Absetzung für Abnutzung vom Einlagewert. 6Bei beweglichen Wirtschaftsgütern des Anlagevermögens, bei denen es wirtschaftlich begründet ist, die Absetzung für Abnutzung nach Maßgabe der Leistung des Wirtschaftsguts vorzunehmen, kann der Steuerpflichtige dieses Verfahren statt der Absetzung für Abnutzung in gleichen Jahresbeträgen anwenden, wenn er den auf das einzelne Jahr entfallenden Umfang der Leistung nachweist. 7Absetzungen für außergewöhnliche technische oder wirtschaftliche Abnutzung sind zulässig; soweit der Grund hierfür in späteren Wirtschaftsjahren entfällt, ist in den Fällen der Gewinnermittlung nach § 4 Absatz 1 oder nach § 5 eine entsprechende Zuschreibung vorzunehmen.
 
@@ -1142,7 +1146,7 @@ der Anschaffungs- oder Herstellungskosten; Absatz 1 Satz 5 gilt entsprechend. 2 
 
 (5) 1 Bei Gebäuden, die in einem Mitgliedstaat der Europäischen Union oder einem anderen Staat belegen sind, auf den das Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen) angewendet wird, und die vom Steuerpflichtigen hergestellt oder bis zum Ende des Jahres der Fertigstellung angeschafft worden sind, können abweichend von Absatz 4 als Absetzung für Abnutzung die folgenden Beträge abgezogen werden:
 
-1. bei Gebäuden im Sinne des Absatzes 4 Satz 1 Nummer 1, die vom Steuerpflichtigen auf Grund eines vor dem 1. Januar 1994 gestellten Bauantrags hergestellt oder auf Grund eines vor diesem Zeitpunkt rechtswirksam abgeschlossenen obligatorischen Vertrags angeschafft worden sind,
+1. bei Gebäuden im Sinne des Absatzes 4 Satz 1 Nummer 1, die vom Steuerpflichtigen auf Grund eines vor dem 1. Januar 1994 gestellten Bauantrags hergestellt oder auf Grund eines vor diesem Zeitpunkt rechtswirksam abgeschlossenen obligatorischen Vertrags angeschafft worden sind, 
 
 –im Jahr der Fertigstellung und 
 in den folgenden 3 Jahren
@@ -1152,7 +1156,7 @@ jeweils 5 Prozent,–in den darauf folgenden
 18 Jahren
 jeweils 2,5 Prozent,
 
-2. bei Gebäuden im Sinne des Absatzes 4 Satz 1 Nummer 2, die vom Steuerpflichtigen auf Grund eines vor dem 1. Januar 1995 gestellten Bauantrags hergestellt oder auf Grund eines vor diesem Zeitpunkt rechtswirksam abgeschlossenen obligatorischen Vertrags angeschafft worden sind,
+2. bei Gebäuden im Sinne des Absatzes 4 Satz 1 Nummer 2, die vom Steuerpflichtigen auf Grund eines vor dem 1. Januar 1995 gestellten Bauantrags hergestellt oder auf Grund eines vor diesem Zeitpunkt rechtswirksam abgeschlossenen obligatorischen Vertrags angeschafft worden sind, 
 
 –im Jahr der Fertigstellung
 und in den folgenden
@@ -1166,7 +1170,7 @@ jeweils 1,25 Prozent,
 
 3. bei Gebäuden im Sinne des Absatzes 4 Satz 1 Nummer 2, soweit sie Wohnzwecken dienen, die vom Steuerpflichtigen
 
-a) auf Grund eines nach dem 28. Februar 1989 und vor dem 1. Januar 1996 gestellten Bauantrags hergestellt oder nach dem 28. Februar 1989 auf Grund eines nach dem 28. Februar 1989 und vor dem 1. Januar 1996 rechtswirksam abgeschlossenen obligatorischen Vertrags angeschafft worden sind,
+a) auf Grund eines nach dem 28. Februar 1989 und vor dem 1. Januar 1996 gestellten Bauantrags hergestellt oder nach dem 28. Februar 1989 auf Grund eines nach dem 28. Februar 1989 und vor dem 1. Januar 1996 rechtswirksam abgeschlossenen obligatorischen Vertrags angeschafft worden sind, 
 
 –im Jahr der Fertigstellung und
 in den folgenden 3 Jahren
@@ -1178,7 +1182,7 @@ jeweils 2 Prozent,–in den darauf folgenden
 24 Jahren
 jeweils 1,25 Prozent,
 
-b) auf Grund eines nach dem 31. Dezember 1995 und vor dem 1. Januar 2004 gestellten Bauantrags hergestellt oder auf Grund eines nach dem 31. Dezember 1995 und vor dem 1. Januar 2004 rechtswirksam abgeschlossenen obligatorischen Vertrags angeschafft worden sind,
+b) auf Grund eines nach dem 31. Dezember 1995 und vor dem 1. Januar 2004 gestellten Bauantrags hergestellt oder auf Grund eines nach dem 31. Dezember 1995 und vor dem 1. Januar 2004 rechtswirksam abgeschlossenen obligatorischen Vertrags angeschafft worden sind, 
 
 –im Jahr der Fertigstellung 
 und in den folgenden 
@@ -1186,7 +1190,7 @@ und in den folgenden
 6 Jahrenjeweils 2,5 Prozent,–in den darauf folgenden 
 36 Jahrenjeweils 1,25 Prozent,
 
-c) auf Grund eines nach dem 31. Dezember 2003 und vor dem 1. Januar 2006 gestellten Bauantrags hergestellt oder auf Grund eines nach dem 31. Dezember 2003 und vor dem 1. Januar 2006 rechtswirksam abgeschlossenen obligatorischen Vertrags angeschafft worden sind,
+c) auf Grund eines nach dem 31. Dezember 2003 und vor dem 1. Januar 2006 gestellten Bauantrags hergestellt oder auf Grund eines nach dem 31. Dezember 2003 und vor dem 1. Januar 2006 rechtswirksam abgeschlossenen obligatorischen Vertrags angeschafft worden sind, 
 
 –im Jahr der Fertigstellung und
 in den folgenden 9 Jahren
@@ -1204,7 +1208,7 @@ der Anschaffungs- oder Herstellungskosten. 2 Im Fall der Anschaffung kann Satz 1
 
 (6) Bei Bergbauunternehmen, Steinbrüchen und anderen Betrieben, die einen Verbrauch der Substanz mit sich bringen, ist Absatz 1 entsprechend anzuwenden; dabei sind Absetzungen nach Maßgabe des Substanzverzehrs zulässig (Absetzung für Substanzverringerung).
 
-##### § 7a Gemeinsame Vorschriften für erhöhte Absetzungen und Sonderabschreibungen
+###### § 7a Gemeinsame Vorschriften für erhöhte Absetzungen und Sonderabschreibungen
 
 (1) 1Werden in dem Zeitraum, in dem bei einem Wirtschaftsgut erhöhte Absetzungen oder Sonderabschreibungen in Anspruch genommen werden können (Begünstigungszeitraum), nachträgliche Herstellungskosten aufgewendet, so bemessen sich vom Jahr der Entstehung der nachträglichen Herstellungskosten an bis zum Ende des Begünstigungszeitraums die Absetzungen für Abnutzung, erhöhten Absetzungen und Sonderabschreibungen nach den um die nachträglichen Herstellungskosten erhöhten Anschaffungs- oder Herstellungskosten. 2Entsprechendes gilt für nachträgliche Anschaffungskosten. 3Werden im Begünstigungszeitraum die Anschaffungs- oder Herstellungskosten eines Wirtschaftsguts nachträglich gemindert, so bemessen sich vom Jahr der Minderung an bis zum Ende des Begünstigungszeitraums die Absetzungen für Abnutzung, erhöhten Absetzungen und Sonderabschreibungen nach den geminderten Anschaffungs- oder Herstellungskosten.
 
@@ -1224,7 +1228,7 @@ der Anschaffungs- oder Herstellungskosten. 2 Im Fall der Anschaffung kann Satz 1
 
 (9) Sind für ein Wirtschaftsgut Sonderabschreibungen vorgenommen worden, so bemessen sich nach Ablauf des maßgebenden Begünstigungszeitraums die Absetzungen für Abnutzung bei Gebäuden und bei Wirtschaftsgütern im Sinne des § 7 Absatz 5b nach dem Restwert und dem nach § 7 Absatz 4 unter Berücksichtigung der Restnutzungsdauer maßgebenden Prozentsatz oder dem nach § 7 Absatz 5a maßgebenden Prozentsatz, bei anderen Wirtschaftsgütern nach dem Restwert und der Restnutzungsdauer.
 
-##### § 7b Sonderabschreibung für Mietwohnungsneubau
+###### § 7b Sonderabschreibung für Mietwohnungsneubau
 
 (1) 1Für die Anschaffung oder Herstellung neuer Wohnungen, die in einem Mitgliedstaat der Europäischen Union belegen sind, können nach Maßgabe der nachfolgenden Absätze im Jahr der Anschaffung oder Herstellung und in den folgenden drei Jahren Sonderabschreibungen bis zu jährlich 5 Prozent der Bemessungsgrundlage neben der Absetzung für Abnutzung nach § 7 Absatz 4 oder 5a in Anspruch genommen werden. 2Im Fall der Anschaffung ist eine Wohnung neu, wenn sie bis zum Ende des Jahres der Fertigstellung angeschafft wird. 3In diesem Fall können die Sonderabschreibungen nach Satz 1 nur vom Anschaffenden in Anspruch genommen werden. 4Bei der Anwendung des Satzes 1 sind den Mitgliedstaaten der Europäischen Union Staaten gleichgestellt, die auf Grund vertraglicher Verpflichtung Amtshilfe entsprechend dem EU-Amtshilfegesetz in einem Umfang leisten, der für die Überprüfung der Voraussetzungen dieser Vorschrift erforderlich ist.
 
@@ -1260,15 +1264,15 @@ der Anschaffungs- oder Herstellungskosten. 2 Im Fall der Anschaffung kann Satz 1
 
 (5) 1Die Sonderabschreibungen nach Absatz 1 werden nur gewährt, soweit die Voraussetzungen der Verordnung (EU) 2023/2831 eingehalten sind und dies durch den Anspruchsberechtigten in geeigneter Weise nachgewiesen wird. 2Satz 1 ist auf Sonderabschreibungen für neue Wohnungen, die aufgrund eines nach dem 31. Dezember 2022 und vor dem 1. Oktober 2029 gestellten Bauantrags oder einer in diesem Zeitraum getätigten Bauanzeige hergestellt werden, nur bei Anspruchsberechtigten mit Einkünften im Sinne der §§ 13, 15 und 18 anzuwenden.
 
-##### (XXXX) §§ 7c bis 7d (weggefallen)
+###### (XXXX) §§ 7c bis 7d (weggefallen)
 
-##### § 7e (weggefallen)
+###### § 7e (weggefallen)
 
 -
 
-##### § 7f (weggefallen)
+###### § 7f (weggefallen)
 
-##### § 7g Investitionsabzugsbeträge und Sonderabschreibungen zur Förderung kleiner und mittlerer Betriebe
+###### § 7g Investitionsabzugsbeträge und Sonderabschreibungen zur Förderung kleiner und mittlerer Betriebe
 
 (1) 1 Steuerpflichtige können für die künftige Anschaffung oder Herstellung von abnutzbaren beweglichen Wirtschaftsgütern des Anlagevermögens, die mindestens bis zum Ende des dem Wirtschaftsjahr der Anschaffung oder Herstellung folgenden Wirtschaftsjahres vermietet oder in einer inländischen Betriebsstätte des Betriebes ausschließlich oder fast ausschließlich betrieblich genutzt werden, bis zu 50 Prozent der voraussichtlichen Anschaffungs- oder Herstellungskosten gewinnmindernd abziehen (Investitionsabzugsbeträge). 2 Investitionsabzugsbeträge können nur in Anspruch genommen werden, wenn
 
@@ -1298,7 +1302,7 @@ b) im Wirtschaftsjahr, in dem die Abzüge vorgenommen werden sollen, ohne Berüc
 
 (7) 1Bei Personengesellschaften und Gemeinschaften sind die Absätze 1 bis 6 mit der Maßgabe anzuwenden, dass an die Stelle des Steuerpflichtigen die Gesellschaft oder die Gemeinschaft tritt. 2Vom Gewinn der Gesamthand oder Gemeinschaft abgezogene Investitionsabzugsbeträge können ausschließlich bei Investitionen der Personengesellschaft oder Gemeinschaft nach Absatz 2 Satz 1 gewinnerhöhend hinzugerechnet werden. 3Entsprechendes gilt für vom Sonderbetriebsgewinn eines Mitunternehmers abgezogene Investitionsabzugsbeträge bei Investitionen dieses Mitunternehmers oder seines Rechtsnachfolgers in seinem Sonderbetriebsvermögen.
 
-##### § 7h Erhöhte Absetzungen bei Gebäuden in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen
+###### § 7h Erhöhte Absetzungen bei Gebäuden in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen
 
 (1) 1Bei einem im Inland belegenen Gebäude in einem förmlich festgelegten Sanierungsgebiet oder städtebaulichen Entwicklungsbereich kann der Steuerpflichtige abweichend von § 7 Absatz 4 bis 5a im Jahr der Herstellung und in den folgenden sieben Jahren jeweils bis zu 9 Prozent und in den folgenden vier Jahren jeweils bis zu 7 Prozent der Herstellungskosten für Modernisierungs- und Instandsetzungsmaßnahmen im Sinne des § 177 des Baugesetzbuchs absetzen. 2Satz 1 ist entsprechend anzuwenden auf Herstellungskosten für Maßnahmen, die der Erhaltung, Erneuerung und funktionsgerechten Verwendung eines Gebäudes im Sinne des Satzes 1 dienen, das wegen seiner geschichtlichen, künstlerischen oder städtebaulichen Bedeutung erhalten bleiben soll, und zu deren Durchführung sich der Eigentümer neben bestimmten Modernisierungsmaßnahmen gegenüber der Gemeinde verpflichtet hat. 3Der Steuerpflichtige kann die erhöhten Absetzungen im Jahr des Abschlusses der Maßnahme und in den folgenden elf Jahren auch für Anschaffungskosten in Anspruch nehmen, die auf Maßnahmen im Sinne der Sätze 1 und 2 entfallen, soweit diese nach dem rechtswirksamen Abschluss eines obligatorischen Erwerbsvertrags oder eines gleichstehenden Rechtsakts durchgeführt worden sind. 4Die erhöhten Absetzungen können nur in Anspruch genommen werden, soweit die Herstellungs- oder Anschaffungskosten durch Zuschüsse aus Sanierungs- oder Entwicklungsförderungsmitteln nicht gedeckt sind. 5Nach Ablauf des Begünstigungszeitraums ist ein Restwert den Herstellungs- oder Anschaffungskosten des Gebäudes oder dem an deren Stelle tretenden Wert hinzuzurechnen; die weiteren Absetzungen für Abnutzung sind einheitlich für das gesamte Gebäude nach dem sich hiernach ergebenden Betrag und dem für das Gebäude maßgebenden Prozentsatz zu bemessen.
 
@@ -1308,7 +1312,7 @@ b) im Wirtschaftsjahr, in dem die Abzüge vorgenommen werden sollen, ohne Berüc
 
 (3) Die Absätze 1 bis 2 sind auf Gebäudeteile, die selbständige unbewegliche Wirtschaftsgüter sind, sowie auf Eigentumswohnungen und auf im Teileigentum stehende Räume entsprechend anzuwenden.
 
-##### § 7i Erhöhte Absetzungen bei Baudenkmalen
+###### § 7i Erhöhte Absetzungen bei Baudenkmalen
 
 (1) 1Bei einem im Inland belegenen Gebäude, das nach den jeweiligen landesrechtlichen Vorschriften ein Baudenkmal ist, kann der Steuerpflichtige abweichend von § 7 Absatz 4 bis 5a im Jahr der Herstellung und in den folgenden sieben Jahren jeweils bis zu 9 Prozent und in den folgenden vier Jahren jeweils bis zu 7 Prozent der Herstellungskosten für Baumaßnahmen, die nach Art und Umfang zur Erhaltung des Gebäudes als Baudenkmal oder zu seiner sinnvollen Nutzung erforderlich sind, absetzen. 2Eine sinnvolle Nutzung ist nur anzunehmen, wenn das Gebäude in der Weise genutzt wird, dass die Erhaltung der schützenswerten Substanz des Gebäudes auf die Dauer gewährleistet ist. 3Bei einem im Inland belegenen Gebäudeteil, das nach den jeweiligen landesrechtlichen Vorschriften ein Baudenkmal ist, sind die Sätze 1 und 2 entsprechend anzuwenden. 4Bei einem im Inland belegenen Gebäude oder Gebäudeteil, das für sich allein nicht die Voraussetzungen für ein Baudenkmal erfüllt, aber Teil einer Gebäudegruppe oder Gesamtanlage ist, die nach den jeweiligen landesrechtlichen Vorschriften als Einheit geschützt ist, kann der Steuerpflichtige die erhöhten Absetzungen von den Herstellungskosten für Baumaßnahmen vornehmen, die nach Art und Umfang zur Erhaltung des schützenswerten äußeren Erscheinungsbildes der Gebäudegruppe oder Gesamtanlage erforderlich sind. 5Der Steuerpflichtige kann die erhöhten Absetzungen im Jahr des Abschlusses der Baumaßnahme und in den folgenden elf Jahren auch für Anschaffungskosten in Anspruch nehmen, die auf Baumaßnahmen im Sinne der Sätze 1 bis 4 entfallen, soweit diese nach dem rechtswirksamen Abschluss eines obligatorischen Erwerbsvertrags oder eines gleichstehenden Rechtsakts durchgeführt worden sind. 6Die Baumaßnahmen müssen in Abstimmung mit der in Absatz 2 bezeichneten Stelle durchgeführt worden sein. 7Die erhöhten Absetzungen können nur in Anspruch genommen werden, soweit die Herstellungs- oder Anschaffungskosten nicht durch Zuschüsse aus öffentlichen Kassen gedeckt sind. 8§ 7h Absatz 1 Satz 5 ist entsprechend anzuwenden.
 
@@ -1316,11 +1320,11 @@ b) im Wirtschaftsjahr, in dem die Abzüge vorgenommen werden sollen, ohne Berüc
 
 (3) § 7h Absatz 3 ist entsprechend anzuwenden.
 
-##### § 7k (weggefallen)
+###### § 7k (weggefallen)
 
 ## 4. Überschuss der Einnahmen über die Werbungskosten
 
-##### § 8 Einnahmen
+###### § 8 Einnahmen
 
 (1) 1Einnahmen sind alle Güter, die in Geld oder Geldeswert bestehen und dem Steuerpflichtigen im Rahmen einer der Einkunftsarten des § 2 Absatz 1 Satz 1 Nummer 4 bis 7 zufließen. 2Zu den Einnahmen in Geld gehören auch zweckgebundene Geldleistungen, nachträgliche Kostenerstattungen, Geldsurrogate und andere Vorteile, die auf einen Geldbetrag lauten. 3Satz 2 gilt nicht bei Gutscheinen und Geldkarten, die ausschließlich zum Bezug von Waren oder Dienstleistungen berechtigen und die Kriterien des § 2 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes erfüllen.
 
@@ -1340,7 +1344,7 @@ b) im Wirtschaftsjahr, in dem die Abzüge vorgenommen werden sollen, ohne Berüc
 
 wird. 2 Unter den Voraussetzungen des Satzes 1 ist von einer zusätzlich zum ohnehin geschuldeten Arbeitslohn erbrachten Leistung auch dann auszugehen, wenn der Arbeitnehmer arbeitsvertraglich oder auf Grund einer anderen arbeits- oder dienstrechtlichen Rechtsgrundlage (wie Einzelvertrag, Betriebsvereinbarung, Tarifvertrag, Gesetz) einen Anspruch auf diese hat.
 
-##### § 9 Werbungskosten
+###### § 9 Werbungskosten
 
 (1) 1 Werbungskosten sind Aufwendungen zur Erwerbung, Sicherung und Erhaltung der Einnahmen. 2 Sie sind bei der Einkunftsart abzuziehen, bei der sie erwachsen sind. 3 Werbungskosten sind auch
 
@@ -1402,7 +1406,7 @@ der nach Satz 3 Nummer 1 gegebenenfalls in Verbindung mit Satz 5 maßgebenden Ve
 
 (6) 1Aufwendungen des Steuerpflichtigen für seine Berufsausbildung oder für sein Studium sind nur dann Werbungskosten, wenn der Steuerpflichtige zuvor bereits eine Erstausbildung (Berufsausbildung oder Studium) abgeschlossen hat oder wenn die Berufsausbildung oder das Studium im Rahmen eines Dienstverhältnisses stattfindet. 2Eine Berufsausbildung als Erstausbildung nach Satz 1 liegt vor, wenn eine geordnete Ausbildung mit einer Mindestdauer von 12 Monaten bei vollzeitiger Ausbildung und mit einer Abschlussprüfung durchgeführt wird. 3Eine geordnete Ausbildung liegt vor, wenn sie auf der Grundlage von Rechts- oder Verwaltungsvorschriften oder internen Vorschriften eines Bildungsträgers durchgeführt wird. 4Ist eine Abschlussprüfung nach dem Ausbildungsplan nicht vorgesehen, gilt die Ausbildung mit der tatsächlichen planmäßigen Beendigung als abgeschlossen. 5Eine Berufsausbildung als Erstausbildung hat auch abgeschlossen, wer die Abschlussprüfung einer durch Rechts- oder Verwaltungsvorschriften geregelten Berufsausbildung mit einer Mindestdauer von 12 Monaten bestanden hat, ohne dass er zuvor die entsprechende Berufsausbildung durchlaufen hat.
 
-##### § 9a Pauschbeträge für Werbungskosten
+###### § 9a Pauschbeträge für Werbungskosten
 
 1 Für Werbungskosten sind bei der Ermittlung der Einkünfte die folgenden Pauschbeträge abzuziehen, wenn nicht höhere Werbungskosten nachgewiesen werden:
 
@@ -1420,7 +1424,7 @@ b) von den Einnahmen aus nichtselbständiger Arbeit, soweit es sich um Versorgun
 
 ## 4a. Umsatzsteuerrechtlicher Vorsteuerabzug
 
-##### § 9b
+###### § 9b
 
 (1) Der Vorsteuerbetrag nach § 15 des Umsatzsteuergesetzes gehört, soweit er bei der Umsatzsteuer abgezogen werden kann, nicht zu den Anschaffungs- oder Herstellungskosten des Wirtschaftsguts, auf dessen Anschaffung oder Herstellung er entfällt.
 
@@ -1428,7 +1432,7 @@ b) von den Einnahmen aus nichtselbständiger Arbeit, soweit es sich um Versorgun
 
 ## 5. Sonderausgaben
 
-##### § 10
+###### § 10
 
 (1) Sonderausgaben sind die folgenden Aufwendungen, wenn sie weder Betriebsausgaben noch Werbungskosten sind oder wie Betriebsausgaben oder Werbungskosten behandelt werden:
 
@@ -1530,7 +1534,7 @@ um den Betrag zu kürzen, der, bezogen auf die Einnahmen aus der Tätigkeit, die
 
 (4) 1Vorsorgeaufwendungen im Sinne des Absatzes 1 Nummer 3 und 3a können je Kalenderjahr insgesamt bis 2 800 Euro abgezogen werden. 2Der Höchstbetrag beträgt 1 900 Euro bei Steuerpflichtigen, die ganz oder teilweise ohne eigene Aufwendungen einen Anspruch auf vollständige oder teilweise Erstattung oder Übernahme von Krankheitskosten haben oder für deren Krankenversicherung Leistungen im Sinne des § 3 Nummer 9, 14, 57 oder 62 erbracht werden. 3Bei zusammen veranlagten Ehegatten bestimmt sich der gemeinsame Höchstbetrag aus der Summe der jedem Ehegatten unter den Voraussetzungen von Satz 1 und 2 zustehenden Höchstbeträge. 4Übersteigen die Vorsorgeaufwendungen im Sinne des Absatzes 1 Nummer 3 die nach den Sätzen 1 bis 3 zu berücksichtigenden Vorsorgeaufwendungen, sind diese abzuziehen und ein Abzug von Vorsorgeaufwendungen im Sinne des Absatzes 1 Nummer 3a scheidet aus.
 
-(4a) 1Ist in den Kalenderjahren 2013 bis 2019 der Abzug der Vorsorgeaufwendungen nach Absatz 1 Nummer 2 Buchstabe a, Absatz 1 Nummer 3 und Nummer 3a in der für das Kalenderjahr 2004 geltenden Fassung des § 10 Absatz 3 mit folgenden Höchstbeträgen für den Vorwegabzug
+(4a) 1Ist in den Kalenderjahren 2013 bis 2019 der Abzug der Vorsorgeaufwendungen nach Absatz 1 Nummer 2 Buchstabe a, Absatz 1 Nummer 3 und Nummer 3a in der für das Kalenderjahr 2004 geltenden Fassung des § 10 Absatz 3 mit folgenden Höchstbeträgen für den Vorwegabzug 
 
 KalenderjahrVorwegabzug für
  den SteuerpflichtigenVorwegabzug im
@@ -1546,7 +1550,7 @@ zuzüglich des Erhöhungsbetrags nach Satz 3 günstiger, ist der sich danach erg
 
 (6) Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe aa ist für Vertragsabschlüsse vor dem 1. Januar 2012 mit der Maßgabe anzuwenden, dass der Vertrag die Zahlung der Leibrente nicht vor der Vollendung des 60. Lebensjahres vorsehen darf.
 
-##### § 10a Zusätzliche Altersvorsorge
+###### § 10a Zusätzliche Altersvorsorge
 
 (1) 1 In der inländischen gesetzlichen Rentenversicherung Pflichtversicherte können Altersvorsorgebeiträge (§ 82) zuzüglich der dafür nach Abschnitt XI zustehenden Zulage jährlich bis zu 2 100 Euro als Sonderausgaben abziehen; das Gleiche gilt für
 
@@ -1600,7 +1604,7 @@ wenn sie spätestens bis zum Ablauf des Beitragsjahres (§ 88) gegenüber der zu
 
 (7) Soweit nichts anderes bestimmt ist, sind die Regelungen des § 10a und des Abschnitts XI in der für das jeweilige Beitragsjahr geltenden Fassung anzuwenden.
 
-##### § 10b Steuerbegünstigte Zwecke
+###### § 10b Steuerbegünstigte Zwecke
 
 (1) 1 Zuwendungen (Spenden und Mitgliedsbeiträge) zur Förderung steuerbegünstigter Zwecke im Sinne der §§ 52 bis 54 der Abgabenordnung können insgesamt bis zu
 
@@ -1640,11 +1644,11 @@ fördern oder
 
 (4) 1Der Steuerpflichtige darf auf die Richtigkeit der Bestätigung über Spenden und Mitgliedsbeiträge vertrauen, es sei denn, dass er die Bestätigung durch unlautere Mittel oder falsche Angaben erwirkt hat oder dass ihm die Unrichtigkeit der Bestätigung bekannt oder infolge grober Fahrlässigkeit nicht bekannt war. 2Wer vorsätzlich oder grob fahrlässig eine unrichtige Bestätigung ausstellt oder veranlasst, dass Zuwendungen nicht zu den in der Bestätigung angegebenen steuerbegünstigten Zwecken verwendet werden, haftet für die entgangene Steuer. 3Diese ist mit 30 Prozent des zugewendeten Betrags anzusetzen. 4In den Fällen des Satzes 2 zweite Alternative (Veranlasserhaftung) ist vorrangig der Zuwendungsempfänger in Anspruch zu nehmen; die in diesen Fällen für den Zuwendungsempfänger handelnden natürlichen Personen sind nur in Anspruch zu nehmen, wenn die entgangene Steuer nicht nach § 47 der Abgabenordnung erloschen ist und Vollstreckungsmaßnahmen gegen den Zuwendungsempfänger nicht erfolgreich sind. 5Die Festsetzungsfrist für Haftungsansprüche nach Satz 2 läuft nicht ab, solange die Festsetzungsfrist für von dem Empfänger der Zuwendung geschuldete Körperschaftsteuer für den Veranlagungszeitraum nicht abgelaufen ist, in dem die unrichtige Bestätigung ausgestellt worden ist oder veranlasst wurde, dass die Zuwendung nicht zu den in der Bestätigung angegebenen steuerbegünstigten Zwecken verwendet worden ist; § 191 Absatz 5 der Abgabenordnung ist nicht anzuwenden.
 
-##### § 10c Sonderausgaben-Pauschbetrag
+###### § 10c Sonderausgaben-Pauschbetrag
 
 1Für Sonderausgaben nach § 10 Absatz 1 Nummer 4, 5, 7 und 9 sowie Absatz 1a und nach § 10b wird ein Pauschbetrag von 36 Euro abgezogen (Sonderausgaben-Pauschbetrag), wenn der Steuerpflichtige nicht höhere Aufwendungen nachweist. 2Im Fall der Zusammenveranlagung von Ehegatten verdoppelt sich der Sonderausgaben-Pauschbetrag.
 
-##### § 10d Verlustabzug
+###### § 10d Verlustabzug
 
 (1) 1Negative Einkünfte, die bei der Ermittlung des Gesamtbetrags der Einkünfte nicht ausgeglichen werden, sind bis zu einem Betrag von 1 000 000 Euro, bei Ehegatten, die nach den §§ 26, 26b zusammenveranlagt werden, bis zu einem Betrag von 2 000 000 Euro vom Gesamtbetrag der Einkünfte des unmittelbar vorangegangenen Veranlagungszeitraums vorrangig vor Sonderausgaben, außergewöhnlichen Belastungen und sonstigen Abzugsbeträgen abzuziehen (Verlustrücktrag). 2Soweit ein Ausgleich der negativen Einkünfte nach Satz 1 nicht möglich ist, sind diese vom Gesamtbetrag der Einkünfte des zweiten dem Veranlagungszeitraum vorangegangenen Veranlagungszeitraums vorrangig vor Sonderausgaben, außergewöhnlichen Belastungen und sonstigen Abzugsbeträgen abzuziehen. 3Dabei wird der Gesamtbetrag der Einkünfte des unmittelbar vorangegangenen Veranlagungszeitraums und des zweiten dem Veranlagungszeitraum vorangegangenen Veranlagungszeitraums um die Begünstigungsbeträge nach § 34a Absatz 3 Satz 1 gemindert. 4Ist für den unmittelbar vorangegangenen Veranlagungszeitraum oder den zweiten dem Veranlagungszeitraum vorangegangenen Veranlagungszeitraum bereits ein Steuerbescheid erlassen worden, so ist er insoweit zu ändern, als der Verlustrücktrag zu gewähren oder zu berichtigen ist. 5Das gilt auch dann, wenn der Steuerbescheid unanfechtbar geworden ist; die Festsetzungsfrist endet insoweit nicht, bevor die Festsetzungsfrist für den Veranlagungszeitraum abgelaufen ist, in dem die negativen Einkünfte nicht ausgeglichen werden. 6Auf Antrag des Steuerpflichtigen ist von der Anwendung des Verlustrücktrags nach den Sätzen 1 und 2 insgesamt abzusehen.
 
@@ -1654,7 +1658,7 @@ fördern oder
 
 (4) 1Der am Schluss eines Veranlagungszeitraums verbleibende Verlustvortrag ist gesondert festzustellen. 2Verbleibender Verlustvortrag sind die bei der Ermittlung des Gesamtbetrags der Einkünfte nicht ausgeglichenen negativen Einkünfte, vermindert um die nach Absatz 1 abgezogenen und die nach Absatz 2 abziehbaren Beträge und vermehrt um den auf den Schluss des vorangegangenen Veranlagungszeitraums festgestellten verbleibenden Verlustvortrag. 3Zuständig für die Feststellung ist das für die Besteuerung zuständige Finanzamt. 4Bei der Feststellung des verbleibenden Verlustvortrags sind die Besteuerungsgrundlagen so zu berücksichtigen, wie sie den Steuerfestsetzungen des Veranlagungszeitraums, auf dessen Schluss der verbleibende Verlustvortrag festgestellt wird, und des Veranlagungszeitraums, in dem ein Verlustrücktrag vorgenommen werden kann, zu Grunde gelegt worden sind; § 171 Absatz 10, § 175 Absatz 1 Satz 1 Nummer 1 und § 351 Absatz 2 der Abgabenordnung sowie § 42 der Finanzgerichtsordnung gelten entsprechend. 5Die Besteuerungsgrundlagen dürfen bei der Feststellung nur insoweit abweichend von Satz 4 berücksichtigt werden, wie die Aufhebung, Änderung oder Berichtigung der Steuerbescheide ausschließlich mangels Auswirkung auf die Höhe der festzusetzenden Steuer unterbleibt. 6Die Feststellungsfrist endet nicht, bevor die Festsetzungsfrist für den Veranlagungszeitraum abgelaufen ist, auf dessen Schluss der verbleibende Verlustvortrag gesondert festzustellen ist; § 181 Absatz 5 der Abgabenordnung ist nur anzuwenden, wenn die zuständige Finanzbehörde die Feststellung des Verlustvortrags pflichtwidrig unterlassen hat.
 
-##### § 10e Steuerbegünstigung der zu eigenen Wohnzwecken genutzten Wohnung im eigenen Haus
+###### § 10e Steuerbegünstigung der zu eigenen Wohnzwecken genutzten Wohnung im eigenen Haus
 
 (1) 1Der Steuerpflichtige kann von den Herstellungskosten einer Wohnung in einem im Inland belegenen eigenen Haus oder einer im Inland belegenen eigenen Eigentumswohnung zuzüglich der Hälfte der Anschaffungskosten für den dazugehörenden Grund und Boden (Bemessungsgrundlage) im Jahr der Fertigstellung und in den drei folgenden Jahren jeweils bis zu 6 Prozent, höchstens jeweils 10 124 Euro, und in den vier darauffolgenden Jahren jeweils bis zu 5 Prozent, höchstens jeweils 8 437 Euro, wie Sonderausgaben abziehen. 2Voraussetzung ist, dass der Steuerpflichtige die Wohnung hergestellt und in dem jeweiligen Jahr des Zeitraums nach Satz 1 (Abzugszeitraum) zu eigenen Wohnzwecken genutzt hat und die Wohnung keine Ferienwohnung oder Wochenendwohnung ist. 3Eine Nutzung zu eigenen Wohnzwecken liegt auch vor, wenn Teile einer zu eigenen Wohnzwecken genutzten Wohnung unentgeltlich zu Wohnzwecken überlassen werden. 4Hat der Steuerpflichtige die Wohnung angeschafft, so sind die Sätze 1 bis 3 mit der Maßgabe anzuwenden, dass an die Stelle des Jahres der Fertigstellung das Jahr der Anschaffung und an die Stelle der Herstellungskosten die Anschaffungskosten treten; hat der Steuerpflichtige die Wohnung nicht bis zum Ende des zweiten auf das Jahr der Fertigstellung folgenden Jahres angeschafft, kann er von der Bemessungsgrundlage im Jahr der Anschaffung und in den drei folgenden Jahren höchstens jeweils 4 602 Euro und in den vier darauffolgenden Jahren höchstens jeweils 3 835 Euro abziehen. 5§ 6b Absatz 6 gilt sinngemäß. 6Bei einem Anteil an der zu eigenen Wohnzwecken genutzten Wohnung kann der Steuerpflichtige den entsprechenden Teil der Abzugsbeträge nach Satz 1 wie Sonderausgaben abziehen. 7Werden Teile der Wohnung nicht zu eigenen Wohnzwecken genutzt, ist die Bemessungsgrundlage um den auf den nicht zu eigenen Wohnzwecken entfallenden Teil zu kürzen. 8Satz 4 ist nicht anzuwenden, wenn der Steuerpflichtige die Wohnung oder einen Anteil daran von seinem Ehegatten anschafft und bei den Ehegatten die Voraussetzungen des § 26 Absatz 1 vorliegen.
 
@@ -1680,7 +1684,7 @@ fördern oder
 
 (7) 1Sind mehrere Steuerpflichtige Eigentümer einer zu eigenen Wohnzwecken genutzten Wohnung, so können die Abzugsbeträge nach den Absätzen 1 und 2 und die Aufwendungen nach den Absätzen 6 und 6a gesondert und einheitlich festgestellt werden. 2Die für die gesonderte Feststellung von Einkünften nach § 180 Absatz 1 Nummer 2 Buchstabe a der Abgabenordnung geltenden Vorschriften sind entsprechend anzuwenden.
 
-##### § 10f Steuerbegünstigung für zu eigenen Wohnzwecken genutzte Baudenkmale und Gebäude in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen
+###### § 10f Steuerbegünstigung für zu eigenen Wohnzwecken genutzte Baudenkmale und Gebäude in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen
 
 (1) 1Der Steuerpflichtige kann Aufwendungen an einem eigenen Gebäude im Kalenderjahr des Abschlusses der Baumaßnahme und in den neun folgenden Kalenderjahren jeweils bis zu 9 Prozent wie Sonderausgaben abziehen, wenn die Voraussetzungen des § 7h oder des § 7i vorliegen. 2Dies gilt nur, soweit er das Gebäude in dem jeweiligen Kalenderjahr zu eigenen Wohnzwecken nutzt und die Aufwendungen nicht in die Bemessungsgrundlage nach § 10e oder dem Eigenheimzulagengesetz einbezogen hat. 3Für Zeiträume, für die der Steuerpflichtige erhöhte Absetzungen von Aufwendungen nach § 7h oder § 7i abgezogen hat, kann er für diese Aufwendungen keine Abzugsbeträge nach Satz 1 in Anspruch nehmen. 4Eine Nutzung zu eigenen Wohnzwecken liegt auch vor, wenn Teile einer zu eigenen Wohnzwecken genutzten Wohnung unentgeltlich zu Wohnzwecken überlassen werden.
 
@@ -1692,7 +1696,7 @@ fördern oder
 
 (5) Die Absätze 1 bis 4 sind auf Gebäudeteile, die selbständige unbewegliche Wirtschaftsgüter sind, und auf Eigentumswohnungen entsprechend anzuwenden.
 
-##### § 10g Steuerbegünstigung für schutzwürdige Kulturgüter, die weder zur Einkunftserzielung noch zu eigenen Wohnzwecken genutzt werden
+###### § 10g Steuerbegünstigung für schutzwürdige Kulturgüter, die weder zur Einkunftserzielung noch zu eigenen Wohnzwecken genutzt werden
 
 (1) 1 Der Steuerpflichtige kann Aufwendungen für Herstellungs- und Erhaltungsmaßnahmen an eigenen schutzwürdigen Kulturgütern im Inland, soweit sie öffentliche oder private Zuwendungen oder etwaige aus diesen Kulturgütern erzielte Einnahmen übersteigen, im Kalenderjahr des Abschlusses der Maßnahme und in den neun folgenden Kalenderjahren jeweils bis zu 9 Prozent wie Sonderausgaben abziehen. 2 Kulturgüter im Sinne des Satzes 1 sind
 
@@ -1712,19 +1716,19 @@ wenn sie in einem den Verhältnissen entsprechenden Umfang der wissenschaftliche
 
 (4) 1Die Absätze 1 bis 3 sind auf Gebäudeteile, die selbständige unbewegliche Wirtschaftsgüter sind, sowie auf Eigentumswohnungen und im Teileigentum stehende Räume entsprechend anzuwenden. 2§ 10e Absatz 7 gilt sinngemäß.
 
-##### § 10h (weggefallen)
+###### § 10h (weggefallen)
 
-##### § 10i (weggefallen)
+###### § 10i (weggefallen)
 
 ## 6. Vereinnahmung und Verausgabung
 
-##### § 11
+###### § 11
 
 (1) 1Einnahmen sind innerhalb des Kalenderjahres bezogen, in dem sie dem Steuerpflichtigen zugeflossen sind. 2Regelmäßig wiederkehrende Einnahmen, die dem Steuerpflichtigen kurze Zeit vor Beginn oder kurze Zeit nach Beendigung des Kalenderjahres, zu dem sie wirtschaftlich gehören, zugeflossen sind, gelten als in diesem Kalenderjahr bezogen. 3Der Steuerpflichtige kann Einnahmen, die auf einer Nutzungsüberlassung im Sinne des Absatzes 2 Satz 3 beruhen, insgesamt auf den Zeitraum gleichmäßig verteilen, für den die Vorauszahlung geleistet wird. 4Für Einnahmen aus nichtselbständiger Arbeit gilt § 38a Absatz 1 Satz 2 und 3 und § 40 Absatz 3 Satz 2. 5Die Vorschriften über die Gewinnermittlung (§ 4 Absatz 1, § 5) bleiben unberührt.
 
 (2) 1Ausgaben sind für das Kalenderjahr abzusetzen, in dem sie geleistet worden sind. 2Für regelmäßig wiederkehrende Ausgaben gilt Absatz 1 Satz 2 entsprechend. 3*Werden Ausgaben für eine Nutzungsüberlassung von mehr als fünf Jahren im Voraus geleistet, sind sie insgesamt auf den Zeitraum gleichmäßig zu verteilen, für den die Vorauszahlung geleistet wird.* 4Satz 3 ist auf ein Damnum oder Disagio nicht anzuwenden, soweit dieses marktüblich ist. 5§ 42 der Abgabenordnung bleibt unberührt. 6Die Vorschriften über die Gewinnermittlung (§ 4 Absatz 1, § 5) bleiben unberührt.
 
-##### § 11a Sonderbehandlung von Erhaltungsaufwand bei Gebäuden in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen
+###### § 11a Sonderbehandlung von Erhaltungsaufwand bei Gebäuden in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen
 
 (1) 1Der Steuerpflichtige kann durch Zuschüsse aus Sanierungs- oder Entwicklungsförderungsmitteln nicht gedeckten Erhaltungsaufwand für Maßnahmen im Sinne des § 177 des Baugesetzbuchs an einem im Inland belegenen Gebäude in einem förmlich festgelegten Sanierungsgebiet oder städtebaulichen Entwicklungsbereich auf zwei bis fünf Jahre gleichmäßig verteilen. 2Satz 1 ist entsprechend anzuwenden auf durch Zuschüsse aus Sanierungs- oder Entwicklungsförderungsmitteln nicht gedeckten Erhaltungsaufwand für Maßnahmen, die der Erhaltung, Erneuerung und funktionsgerechten Verwendung eines Gebäudes im Sinne des Satzes 1 dienen, das wegen seiner geschichtlichen, künstlerischen oder städtebaulichen Bedeutung erhalten bleiben soll, und zu deren Durchführung sich der Eigentümer neben bestimmten Modernisierungsmaßnahmen gegenüber der Gemeinde verpflichtet hat.
 
@@ -1734,13 +1738,13 @@ wenn sie in einem den Verhältnissen entsprechenden Umfang der wissenschaftliche
 
 (4) § 7h Absatz 1a bis 3 ist entsprechend anzuwenden.
 
-##### § 11b Sonderbehandlung von Erhaltungsaufwand bei Baudenkmalen
+###### § 11b Sonderbehandlung von Erhaltungsaufwand bei Baudenkmalen
 
 1Der Steuerpflichtige kann durch Zuschüsse aus öffentlichen Kassen nicht gedeckten Erhaltungsaufwand für ein im Inland belegenes Gebäude oder Gebäudeteil, das nach den jeweiligen landesrechtlichen Vorschriften ein Baudenkmal ist, auf zwei bis fünf Jahre gleichmäßig verteilen, soweit die Aufwendungen nach Art und Umfang zur Erhaltung des Gebäudes oder Gebäudeteils als Baudenkmal oder zu seiner sinnvollen Nutzung erforderlich und die Maßnahmen in Abstimmung mit der in § 7i Absatz 2 bezeichneten Stelle vorgenommen worden sind. 2Durch Zuschüsse aus öffentlichen Kassen nicht gedeckten Erhaltungsaufwand für ein im Inland belegenes Gebäude oder Gebäudeteil, das für sich allein nicht die Voraussetzungen für ein Baudenkmal erfüllt, aber Teil einer Gebäudegruppe oder Gesamtanlage ist, die nach den jeweiligen landesrechtlichen Vorschriften als Einheit geschützt ist, kann der Steuerpflichtige auf zwei bis fünf Jahre gleichmäßig verteilen, soweit die Aufwendungen nach Art und Umfang zur Erhaltung des schützenswerten äußeren Erscheinungsbildes der Gebäudegruppe oder Gesamtanlage erforderlich und die Maßnahmen in Abstimmung mit der in § 7i Absatz 2 bezeichneten Stelle vorgenommen worden sind. 3§ 7h Absatz 3 und § 7i Absatz 1 Satz 2 und Absatz 2 sowie § 11a Absatz 2 und 3 sind entsprechend anzuwenden.
 
 ## 7. Nicht abzugsfähige Ausgaben
 
-##### § 12
+###### § 12
 
 Soweit in § 10 Absatz 1 Nummer 2 bis 5, 7 und 9 sowie Absatz 1a Nummer 1, den §§ 10a, 10b und den §§ 33 bis 33b nichts anderes bestimmt ist, dürfen weder bei den einzelnen Einkunftsarten noch vom Gesamtbetrag der Einkünfte abgezogen werden
 
@@ -1758,7 +1762,7 @@ Soweit in § 10 Absatz 1 Nummer 2 bis 5, 7 und 9 sowie Absatz 1a Nummer 1, den �
 
 ## a) Land- und Forstwirtschaft (§ 2 Absatz 1 Satz 1 Nummer 1)
 
-##### § 13 Einkünfte aus Land- und Forstwirtschaft
+###### § 13 Einkünfte aus Land- und Forstwirtschaft
 
 (1) Einkünfte aus Land- und Forstwirtschaft sind
 
@@ -1776,7 +1780,7 @@ nicht mehr als 3 Vieheinheitenund für die weitere
 Fläche
 nicht mehr als 1,5 Vieheinheiten
 
-je Hektar der vom Inhaber des Betriebs regelmäßig landwirtschaftlich genutzten Fläche erzeugt oder gehalten werden. 3Die Tierbestände sind nach dem Futterbedarf in Vieheinheiten umzurechnen. 4§ 241 Absatz 2 bis 5 des Bewertungsgesetzes ist anzuwenden. 5Die Einkünfte aus Tierzucht und Tierhaltung einer Gesellschaft, bei der die Gesellschafter als Unternehmer (Mitunternehmer) anzusehen sind, gehören zu den Einkünften im Sinne des Satzes 1, wenn die Voraussetzungen des § 13b erfüllt sind und andere Einkünfte der Gesellschafter aus dieser Gesellschaft zu den Einkünften aus Land- und Forstwirtschaft gehören;
+ je Hektar der vom Inhaber des Betriebs regelmäßig landwirtschaftlich genutzten Fläche erzeugt oder gehalten werden. 3Die Tierbestände sind nach dem Futterbedarf in Vieheinheiten umzurechnen. 4§ 241 Absatz 2 bis 5 des Bewertungsgesetzes ist anzuwenden. 5Die Einkünfte aus Tierzucht und Tierhaltung einer Gesellschaft, bei der die Gesellschafter als Unternehmer (Mitunternehmer) anzusehen sind, gehören zu den Einkünften im Sinne des Satzes 1, wenn die Voraussetzungen des § 13b erfüllt sind und andere Einkünfte der Gesellschafter aus dieser Gesellschaft zu den Einkünften aus Land- und Forstwirtschaft gehören;
 
 2. Einkünfte aus sonstiger land- und forstwirtschaftlicher Nutzung (§ 242 des Bewertungsgesetzes);
 
@@ -1808,7 +1812,7 @@ bleibt der Entnahme- oder Veräußerungsgewinn ebenfalls außer Ansatz; Nummer 2
 
 (7) § 15 Absatz 1 Satz 1 Nummer 2, Absatz 1a, Absatz 2 Satz 2 und 3, §§ 15a und 15b sind entsprechend anzuwenden.
 
-##### § 13a Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen
+###### § 13a Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen
 
 (1) 1 Der Gewinn eines Betriebs der Land- und Forstwirtschaft ist nach den Absätzen 3 bis 7 zu ermitteln, wenn
 
@@ -1870,7 +1874,7 @@ d) aus der Auflösung von Rücklagen;
 
 (8) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage 1a dadurch zu ändern, dass es die darin aufgeführten Werte turnusmäßig an die Ergebnisse der Erhebungen nach § 2 des Landwirtschaftsgesetzes und im Übrigen an Erhebungen der Finanzverwaltung anpassen kann.
 
-##### § 13b Gemeinschaftliche Tierhaltung
+###### § 13b Gemeinschaftliche Tierhaltung
 
 (1) 1 Zu den Einkünften aus Land- und Forstwirtschaft gehören auch die Einkünfte aus landwirtschaftlicher Tierzucht und Tierhaltung von Genossenschaften (§ 1 Absatz 1 Nummer 2 des Körperschaftsteuergesetzes), von Gesellschaften, bei denen die Gesellschafter als Mitunternehmer (§ 15 Absatz 1 Satz 1 Nummer 2) anzusehen sind, oder von Vereinen (§ 1 Absatz 1 Nummer 5 des Körperschaftsteuergesetzes), wenn
 
@@ -1902,7 +1906,7 @@ b) die Summe der Vieheinheiten, die sich nach § 13 Absatz 1 Nummer 1 Satz 2 auf
 
 (5) Die Vorschriften des § 241 Absatz 2 bis 5 des Bewertungsgesetzes sind entsprechend anzuwenden.
 
-##### § 14 Veräußerung des Betriebs
+###### § 14 Veräußerung des Betriebs
 
 (1) 1Zu den Einkünften aus Land- und Forstwirtschaft gehören auch Gewinne, die bei der Veräußerung eines land- oder forstwirtschaftlichen Betriebs oder Teilbetriebs oder eines Anteils an einem land- und forstwirtschaftlichen Betriebsvermögen erzielt werden. 2§ 16 gilt entsprechend mit der Maßgabe, dass der Freibetrag nach § 16 Absatz 4 nicht zu gewähren ist, wenn der Freibetrag nach § 14a Absatz 1 gewährt wird.
 
@@ -1910,7 +1914,7 @@ b) die Summe der Vieheinheiten, die sich nach § 13 Absatz 1 Nummer 1 Satz 2 auf
 
 (3) 1Werden im Rahmen der Aufgabe des Betriebs einer land- und forstwirtschaftlichen Mitunternehmerschaft Grundstücke an den einzelnen Mitunternehmer übertragen oder scheidet ein Mitunternehmer unter Mitnahme einzelner Grundstücke aus einer Mitunternehmerschaft aus, gelten diese unabhängig von ihrer Größe auch bei fortgeführter oder erstmaliger Verpachtung bis zu einer Veräußerung oder Entnahme bei diesem weiterhin als Betriebsvermögen. 2Dies gilt entsprechend für Grundstücke des bisherigen Sonderbetriebsvermögens des einzelnen Mitunternehmers. 3Die Sätze 1 und 2 sind nur anzuwenden, wenn mindestens eine übertragene oder aus dem Sonderbetriebsvermögen überführte Fläche der Erzeugung von Pflanzen oder Tieren im Sinne des § 13 Absatz 1 zu dienen bestimmt ist. 4Für den übernehmenden Mitunternehmer gilt § 16 Absatz 3b entsprechend.
 
-##### § 14a Vergünstigungen bei der Veräußerung bestimmter land- und forstwirtschaftlicher Betriebe
+###### § 14a Vergünstigungen bei der Veräußerung bestimmter land- und forstwirtschaftlicher Betriebe
 
 (1) 1 Veräußert ein Steuerpflichtiger nach dem 30. Juni 1970 und vor dem 1. Januar 2001 seinen land- und forstwirtschaftlichen Betrieb im Ganzen, so wird auf Antrag der Veräußerungsgewinn (§ 16 Absatz 2) nur insoweit zur Einkommensteuer herangezogen, als er den Betrag von 150 000 Deutsche Mark übersteigt, wenn
 
@@ -1952,7 +1956,7 @@ b) die Summe der Vieheinheiten, die sich nach § 13 Absatz 1 Nummer 1 Satz 2 auf
 
 ## b) Gewerbebetrieb (§ 2 Absatz 1 Satz 1 Nummer 2)
 
-##### § 15 Einkünfte aus Gewerbebetrieb
+###### § 15 Einkünfte aus Gewerbebetrieb
 
 (1) 1 Einkünfte aus Gewerbebetrieb sind
 
@@ -1976,7 +1980,7 @@ b) die Summe der Vieheinheiten, die sich nach § 13 Absatz 1 Nummer 1 Satz 2 auf
 
 (4) 1Verluste aus gewerblicher Tierzucht oder gewerblicher Tierhaltung dürfen weder mit anderen Einkünften aus Gewerbebetrieb noch mit Einkünften aus anderen Einkunftsarten ausgeglichen werden; sie dürfen auch nicht nach § 10d abgezogen werden. 2Die Verluste mindern jedoch nach Maßgabe des § 10d die Gewinne, die der Steuerpflichtige in dem unmittelbar vorangegangenen und in den folgenden Wirtschaftsjahren aus gewerblicher Tierzucht oder gewerblicher Tierhaltung erzielt hat oder erzielt; § 10d Absatz 4 gilt entsprechend. 3Die Sätze 1 und 2 gelten entsprechend für Verluste aus Termingeschäften, durch die der Steuerpflichtige einen Differenzausgleich oder einen durch den Wert einer veränderlichen Bezugsgröße bestimmten Geldbetrag oder Vorteil erlangt. 4Satz 3 gilt nicht für die Geschäfte, die zum gewöhnlichen Geschäftsbetrieb bei Kreditinstituten, Finanzdienstleistungsinstituten und Finanzunternehmen im Sinne des Gesetzes über das Kreditwesen oder bei Wertpapierinstituten im Sinne des Wertpapierinstitutsgesetzes gehören oder die der Absicherung von Geschäften des gewöhnlichen Geschäftsbetriebs dienen. 5Satz 4 gilt nicht, wenn es sich um Geschäfte handelt, die der Absicherung von Aktiengeschäften dienen, bei denen der Veräußerungsgewinn nach § 3 Nummer 40 Satz 1 Buchstabe a und b in Verbindung mit § 3c Absatz 2 teilweise steuerfrei ist, oder die nach § 8b Absatz 2 des Körperschaftsteuergesetzes bei der Ermittlung des Einkommens außer Ansatz bleiben. 6Verluste aus stillen Gesellschaften, Unterbeteiligungen oder sonstigen Innengesellschaften an Kapitalgesellschaften, bei denen der Gesellschafter oder Beteiligte als Mitunternehmer anzusehen ist, dürfen weder mit Einkünften aus Gewerbebetrieb noch aus anderen Einkunftsarten ausgeglichen werden; sie dürfen auch nicht nach § 10d abgezogen werden. 7Die Verluste mindern jedoch nach Maßgabe des § 10d die Gewinne, die der Gesellschafter oder Beteiligte in dem unmittelbar vorangegangenen Wirtschaftsjahr oder in den folgenden Wirtschaftsjahren aus derselben stillen Gesellschaft, Unterbeteiligung oder sonstigen Innengesellschaft bezieht; § 10d Absatz 4 gilt entsprechend. 8Die Sätze 6 und 7 gelten nicht, soweit der Verlust auf eine natürliche Person als unmittelbar oder mittelbar beteiligter Mitunternehmer entfällt.
 
-##### § 15a Verluste bei beschränkter Haftung
+###### § 15a Verluste bei beschränkter Haftung
 
 (1) 1Der einem Kommanditisten zuzurechnende Anteil am Verlust der Kommanditgesellschaft darf weder mit anderen Einkünften aus Gewerbebetrieb noch mit Einkünften aus anderen Einkunftsarten ausgeglichen werden, soweit ein negatives Kapitalkonto des Kommanditisten entsteht oder sich erhöht; er darf insoweit auch nicht nach § 10d abgezogen werden. 2Haftet der Kommanditist am Bilanzstichtag den Gläubigern der Gesellschaft auf Grund des § 171 Absatz 1 des Handelsgesetzbuchs, so können abweichend von Satz 1 Verluste des Kommanditisten bis zur Höhe des Betrags, um den die im Handelsregister eingetragene Einlage des Kommanditisten seine geleistete Einlage übersteigt, auch ausgeglichen oder abgezogen werden, soweit durch den Verlust ein negatives Kapitalkonto entsteht oder sich erhöht. 3Satz 2 ist nur anzuwenden, wenn derjenige, dem der Anteil zuzurechnen ist, im Handelsregister eingetragen ist, das Bestehen der Haftung nachgewiesen wird und eine Vermögensminderung auf Grund der Haftung nicht durch Vertrag ausgeschlossen oder nach Art und Weise des Geschäftsbetriebs unwahrscheinlich ist.
 
@@ -2000,7 +2004,7 @@ b) die Summe der Vieheinheiten, die sich nach § 13 Absatz 1 Nummer 1 Satz 2 auf
 
 5. Mitreeder einer Reederei im Sinne des § 489 des Handelsgesetzbuchs, bei der der Mitreeder als Unternehmer (Mitunternehmer) anzusehen ist, wenn die persönliche Haftung des Mitreeders für die Verbindlichkeiten der Reederei ganz oder teilweise ausgeschlossen oder soweit die Inanspruchnahme des Mitreeders für Verbindlichkeiten der Reederei nach Art und Weise des Geschäftsbetriebs unwahrscheinlich ist.
 
-##### § 15b Verluste im Zusammenhang mit Steuerstundungsmodellen
+###### § 15b Verluste im Zusammenhang mit Steuerstundungsmodellen
 
 (1) 1Verluste im Zusammenhang mit einem Steuerstundungsmodell dürfen weder mit Einkünften aus Gewerbebetrieb noch mit Einkünften aus anderen Einkunftsarten ausgeglichen werden; sie dürfen auch nicht nach § 10d abgezogen werden. 2Die Verluste mindern jedoch die Einkünfte, die der Steuerpflichtige in den folgenden Wirtschaftsjahren aus derselben Einkunftsquelle erzielt. 3§ 15a ist insoweit nicht anzuwenden.
 
@@ -2012,7 +2016,7 @@ b) die Summe der Vieheinheiten, die sich nach § 13 Absatz 1 Nummer 1 Satz 2 auf
 
 (4) 1Der nach Absatz 1 nicht ausgleichsfähige Verlust ist jährlich gesondert festzustellen. 2Dabei ist von dem verrechenbaren Verlust des Vorjahres auszugehen. 3Der Feststellungsbescheid kann nur insoweit angegriffen werden, als der verrechenbare Verlust gegenüber dem verrechenbaren Verlust des Vorjahres sich verändert hat. 4Handelt es sich bei dem Steuerstundungsmodell um eine Gesellschaft oder Gemeinschaft im Sinne des § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe a der Abgabenordnung, ist das für die gesonderte und einheitliche Feststellung der einkommensteuerpflichtigen und körperschaftsteuerpflichtigen Einkünfte aus dem Steuerstundungsmodell zuständige Finanzamt für den Erlass des Feststellungsbescheids nach Satz 1 zuständig; anderenfalls ist das Betriebsfinanzamt (§ 18 Absatz 1 Nummer 2 der Abgabenordnung) zuständig. 5Handelt es sich bei dem Steuerstundungsmodell um eine Gesellschaft oder Gemeinschaft im Sinne des § 180 Absatz 1 Satz 1 Nummer 2 Buchstabe a der Abgabenordnung, können die gesonderten Feststellungen nach Satz 1 mit der gesonderten und einheitlichen Feststellung der einkommensteuerpflichtigen und körperschaftsteuerpflichtigen Einkünfte aus dem Steuerstundungsmodell verbunden werden; in diesen Fällen sind die gesonderten Feststellungen nach Satz 1 einheitlich durchzuführen.
 
-##### § 16 Veräußerung des Betriebs
+###### § 16 Veräußerung des Betriebs
 
 (1) 1 Zu den Einkünften aus Gewerbebetrieb gehören auch Gewinne, die erzielt werden bei der Veräußerung
 
@@ -2042,7 +2046,7 @@ b) die Summe der Vieheinheiten, die sich nach § 13 Absatz 1 Nummer 1 Satz 2 auf
 
 (5) Werden bei einer Realteilung, bei der Teilbetriebe auf einzelne Mitunternehmer übertragen werden, Anteile an einer Körperschaft, Personenvereinigung oder Vermögensmasse unmittelbar oder mittelbar von einem nicht von § 8b Absatz 2 des Körperschaftsteuergesetzes begünstigten Steuerpflichtigen auf einen von § 8b Absatz 2 des Körperschaftsteuergesetzes begünstigten Mitunternehmer übertragen, ist abweichend von Absatz 3 Satz 2 rückwirkend auf den Zeitpunkt der Realteilung der gemeine Wert anzusetzen, wenn der übernehmende Mitunternehmer die Anteile innerhalb eines Zeitraums von sieben Jahren nach der Realteilung unmittelbar oder mittelbar veräußert oder durch einen Vorgang nach § 22 Absatz 1 Satz 6 Nummer 1 bis 5 des Umwandlungssteuergesetzes weiter überträgt; § 22 Absatz 2 Satz 3 des Umwandlungssteuergesetzes gilt entsprechend.
 
-##### § 17 Veräußerung von Anteilen an Kapitalgesellschaften
+###### § 17 Veräußerung von Anteilen an Kapitalgesellschaften
 
 (1) 1Zu den Einkünften aus Gewerbebetrieb gehört auch der Gewinn aus der Veräußerung von Anteilen an einer Kapitalgesellschaft, wenn der Veräußerer innerhalb der letzten fünf Jahre am Kapital der Gesellschaft unmittelbar oder mittelbar zu mindestens 1 Prozent beteiligt war. 2Die verdeckte Einlage von Anteilen an einer Kapitalgesellschaft in eine Kapitalgesellschaft steht der Veräußerung der Anteile gleich. 3Anteile an einer Kapitalgesellschaft sind Aktien, Anteile an einer Gesellschaft mit beschränkter Haftung, Genussscheine oder ähnliche Beteiligungen und Anwartschaften auf solche Beteiligungen sowie Anteile an einer optierenden Gesellschaft im Sinne des § 1a des Körperschaftsteuergesetzes. 4Hat der Veräußerer den veräußerten Anteil innerhalb der letzten fünf Jahre vor der Veräußerung unentgeltlich erworben, so gilt Satz 1 entsprechend, wenn der Veräußerer zwar nicht selbst, aber der Rechtsvorgänger oder, sofern der Anteil nacheinander unentgeltlich übertragen worden ist, einer der Rechtsvorgänger innerhalb der letzten fünf Jahre im Sinne von Satz 1 beteiligt war.
 
@@ -2078,7 +2082,7 @@ b) die entgeltlich erworben worden sind und nicht innerhalb der gesamten letzten
 
 ## c) Selbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 3)
 
-##### § 18
+###### § 18
 
 (1) Einkünfte aus selbständiger Arbeit sind
 
@@ -2098,7 +2102,7 @@ b) die entgeltlich erworben worden sind und nicht innerhalb der gesamten letzten
 
 ## d) Nichtselbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 4)
 
-##### § 19
+###### § 19
 
 (1) 1 Zu den Einkünften aus nichtselbständiger Arbeit gehören
 
@@ -2150,7 +2154,7 @@ jeweils zuzüglich voraussichtlicher Sonderzahlungen im Kalenderjahr, auf die zu
 
 (3) 1Die Energiepreispauschale nach dem Versorgungsrechtlichen Energiepreispauschalen-Gewährungsgesetz oder vergleichbare Leistungen zum Ausgleich gestiegener Energiepreise nach Landesrecht sind als Einnahmen nach Absatz 2 zu berücksichtigen. 2Sie gelten nicht als Sonderzahlung im Sinne von Absatz 2 Satz 4, jedoch als regelmäßige Anpassung des Versorgungsbezugs im Sinne von Absatz 2 Satz 9. 3Im Lohnsteuerabzugsverfahren sind die Energiepreispauschale und vergleichbare Leistungen bei der Berechnung einer Vorsorgepauschale nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe b und c nicht zu berücksichtigen. 4In den Fällen des Satzes 1 sind die §§ 3 und 24a nicht anzuwenden.
 
-##### § 19a Sondervorschrift für Einkünfte aus nichtselbständiger Arbeit bei Vermögensbeteiligungen
+###### § 19a Sondervorschrift für Einkünfte aus nichtselbständiger Arbeit bei Vermögensbeteiligungen
 
 (1) 1Werden einem Arbeitnehmer von seinem Arbeitgeber oder einem Gesellschafter seines Arbeitgebers zusätzlich zum ohnehin geschuldeten Arbeitslohn Vermögensbeteiligungen im Sinne des § 2 Absatz 1 Nummer 1 Buchstabe a, b und f bis l und Absatz 2 bis 5 des Fünften Vermögensbildungsgesetzes an dem Unternehmen des Arbeitgebers unentgeltlich oder verbilligt übertragen, so unterliegt der Vorteil im Sinne des § 19 Absatz 1 Satz 1 Nummer 1 im Kalenderjahr der Übertragung nicht der Besteuerung. 2Dies gilt auch, wenn die Vermögensbeteiligungen mittelbar über Personengesellschaften gehalten werden. 3Als Unternehmen des Arbeitgebers im Sinne des Satzes 1 gilt auch ein Unternehmen im Sinne des § 18 des Aktiengesetzes, wenn die Schwellenwerte des Absatzes 3 in Bezug auf die Gesamtheit aller Konzernunternehmen nicht überschritten werden und die Gründung keines Konzernunternehmens mehr als 20 Jahre zurückliegt. 4Ein Vorteil im Sinne des Satzes 1 gilt in diesem Fall auch dann als zugeflossen, wenn es dem Arbeitnehmer rechtlich unmöglich ist, über die Vermögensbeteiligung zu verfügen. 5Bei der Ermittlung des Vorteils im Sinne des Satzes 1 ist der Freibetrag nach § 3 Nummer 39 abzuziehen, wenn die Voraussetzungen vorliegen. 6Ein nicht besteuerter Vorteil im Sinne des Satzes 1 ist bei der Berechnung der Vorsorgepauschale (§ 39b Absatz 2 Satz 5 Nummer 3) einzubeziehen. 7Die Anschaffungskosten sind mit dem gemeinen Wert der Vermögensbeteiligung anzusetzen.
 
@@ -2176,7 +2180,7 @@ jeweils zuzüglich voraussichtlicher Sonderzahlungen im Kalenderjahr, auf die zu
 
 ## e) Kapitalvermögen (§ 2 Absatz 1 Satz 1 Nummer 5)
 
-##### § 20
+###### § 20
 
 (1) Zu den Einkünften aus Kapitalvermögen gehören
 
@@ -2260,7 +2264,7 @@ b) aus der Veräußerung eines als Termingeschäft ausgestalteten Finanzinstrume
 
 ## f) Vermietung und Verpachtung (§ 2 Absatz 1 Satz 1 Nummer 6)
 
-##### § 21
+###### § 21
 
 (1) 1 Einkünfte aus Vermietung und Verpachtung sind
 
@@ -2280,7 +2284,7 @@ b) aus der Veräußerung eines als Termingeschäft ausgestalteten Finanzinstrume
 
 ## g) Sonstige Einkünfte (§ 2 Absatz 1 Satz 1 Nummer 7)
 
-##### § 22 Arten der sonstigen Einkünfte
+###### § 22 Arten der sonstigen Einkünfte
 
 Sonstige Einkünfte sind
 
@@ -2292,7 +2296,7 @@ b) Bezüge im Sinne des § 1 der Verordnung über die Steuerbegünstigung von St
 
 a) Leibrenten und andere Leistungen,
 
-aa) die aus den gesetzlichen Rentenversicherungen, der landwirtschaftlichen Alterskasse, den berufsständischen Versorgungseinrichtungen und aus Rentenversicherungen im Sinne des § 10 Absatz 1 Nummer 2 Buchstabe b erbracht werden, soweit sie jeweils der Besteuerung unterliegen. 2Bemessungsgrundlage für den der Besteuerung unterliegenden Anteil ist der Jahresbetrag der Rente. 3Der der Besteuerung unterliegende Anteil ist nach dem Jahr des Rentenbeginns und dem in diesem Jahr maßgebenden Prozentsatz aus der nachstehenden Tabelle zu entnehmen:
+aa) die aus den gesetzlichen Rentenversicherungen, der landwirtschaftlichen Alterskasse, den berufsständischen Versorgungseinrichtungen und aus Rentenversicherungen im Sinne des § 10 Absatz 1 Nummer 2 Buchstabe b erbracht werden, soweit sie jeweils der Besteuerung unterliegen. 2Bemessungsgrundlage für den der Besteuerung unterliegenden Anteil ist der Jahresbetrag der Rente. 3Der der Besteuerung unterliegende Anteil ist nach dem Jahr des Rentenbeginns und dem in diesem Jahr maßgebenden Prozentsatz aus der nachstehenden Tabelle zu entnehmen: 
 
 Jahr des
  RentenbeginnsBesteuerungsanteil
@@ -2300,7 +2304,7 @@ Jahr des
  RentenbeginnsBesteuerungsanteil
  in %bis 200550,0203287,0ab 200652,0203387,5200754,0203488,0200856,0203588,5200958,0203689,0201060,0203789,5201162,0203890,0201264,0203990,5201366,0204091,0201468,0204191,5201570,0204292,0201672,0204392,5201774,0204493,0201876,0204593,5201978,0204694,0202080,0204794,5202181,0204895,0202282,0204995,5202382,5205096,0202483,0205196,5202583,5205297,0202684,0205397,5202784,5205498,0202885,0205598,5202985,5205699,0203086,0205799,5203186,52058100,0 4Der Unterschiedsbetrag zwischen dem Jahresbetrag der Rente und dem der Besteuerung unterliegenden Anteil der Rente ist der steuerfreie Teil der Rente. 5Dieser gilt ab dem Jahr, das dem Jahr des Rentenbeginns folgt, für die gesamte Laufzeit des Rentenbezugs. 6Abweichend hiervon ist der steuerfreie Teil der Rente bei einer Veränderung des Jahresbetrags der Rente in dem Verhältnis anzupassen, in dem der veränderte Jahresbetrag der Rente zum Jahresbetrag der Rente steht, der der Ermittlung des steuerfreien Teils der Rente zugrunde liegt. 7Regelmäßige Anpassungen des Jahresbetrags der Rente führen nicht zu einer Neuberechnung und bleiben bei einer Neuberechnung außer Betracht. 8Folgen nach dem 31. Dezember 2004 Renten aus derselben Versicherung einander nach, gilt für die spätere Rente Satz 3 mit der Maßgabe, dass sich der Prozentsatz nach dem Jahr richtet, das sich ergibt, wenn die Laufzeit der vorhergehenden Renten von dem Jahr des Beginns der späteren Rente abgezogen wird; der Prozentsatz kann jedoch nicht niedriger bemessen werden als der für das Jahr 2005. 9Verstirbt der Rentenempfänger, ist ihm die Rente für den Sterbemonat noch zuzurechnen;
 
-bb) die nicht solche im Sinne des Doppelbuchstaben aa sind und bei denen in den einzelnen Bezügen Einkünfte aus Erträgen des Rentenrechts enthalten sind. 2Dies gilt auf Antrag auch für Leibrenten und andere Leistungen, soweit diese auf bis zum 31. Dezember 2004 geleisteten Beiträgen beruhen, welche oberhalb des Betrags des Höchstbeitrags zur gesetzlichen Rentenversicherung gezahlt wurden; der Steuerpflichtige muss nachweisen, dass der Betrag des Höchstbeitrags mindestens zehn Jahre überschritten wurde; soweit hiervon im Versorgungsausgleich übertragene Rentenanwartschaften betroffen sind, gilt § 4 Absatz 1 und 2 des Versorgungsausgleichsgesetzes entsprechend. 3Als Ertrag des Rentenrechts gilt für die gesamte Dauer des Rentenbezugs der Unterschiedsbetrag zwischen dem Jahresbetrag der Rente und dem Betrag, der sich bei gleichmäßiger Verteilung des Kapitalwerts der Rente auf ihre voraussichtliche Laufzeit ergibt; dabei ist der Kapitalwert nach dieser Laufzeit zu berechnen. 4Der Ertrag des Rentenrechts (Ertragsanteil) ist aus der nachstehenden Tabelle zu entnehmen:
+bb) die nicht solche im Sinne des Doppelbuchstaben aa sind und bei denen in den einzelnen Bezügen Einkünfte aus Erträgen des Rentenrechts enthalten sind. 2Dies gilt auf Antrag auch für Leibrenten und andere Leistungen, soweit diese auf bis zum 31. Dezember 2004 geleisteten Beiträgen beruhen, welche oberhalb des Betrags des Höchstbeitrags zur gesetzlichen Rentenversicherung gezahlt wurden; der Steuerpflichtige muss nachweisen, dass der Betrag des Höchstbeitrags mindestens zehn Jahre überschritten wurde; soweit hiervon im Versorgungsausgleich übertragene Rentenanwartschaften betroffen sind, gilt § 4 Absatz 1 und 2 des Versorgungsausgleichsgesetzes entsprechend. 3Als Ertrag des Rentenrechts gilt für die gesamte Dauer des Rentenbezugs der Unterschiedsbetrag zwischen dem Jahresbetrag der Rente und dem Betrag, der sich bei gleichmäßiger Verteilung des Kapitalwerts der Rente auf ihre voraussichtliche Laufzeit ergibt; dabei ist der Kapitalwert nach dieser Laufzeit zu berechnen. 4Der Ertrag des Rentenrechts (Ertragsanteil) ist aus der nachstehenden Tabelle zu entnehmen: 
 
 Bei Beginn
  der Rente
@@ -2346,7 +2350,7 @@ a) innerhalb eines Zeitraums bis zum zehnten Jahr nach dem Beginn der Auszahlung
 
 b) innerhalb eines Zeitraums zwischen dem zehnten und 20. Jahr nach dem Beginn der Auszahlungsphase das Einfache
 
-##### § 22a Rentenbezugsmitteilungen an die zentrale Stelle
+###### § 22a Rentenbezugsmitteilungen an die zentrale Stelle
 
 (1) 1 Nach Maßgabe des § 93c der Abgabenordnung haben die Träger der gesetzlichen Rentenversicherung, die landwirtschaftliche Alterskasse, die berufsständischen Versorgungseinrichtungen, die Pensionskassen, die Pensionsfonds, die Versicherungsunternehmen, die Unternehmen, die Verträge im Sinne des § 10 Absatz 1 Nummer 2 Buchstabe b anbieten, und die Anbieter im Sinne des § 80 als mitteilungspflichtige Stellen der zentralen Stelle (§ 81) unter Beachtung der im Bundessteuerblatt veröffentlichten Auslegungsvorschriften der Finanzverwaltung folgende Daten zu übermitteln (Rentenbezugsmitteilung):
 
@@ -2378,7 +2382,7 @@ b) innerhalb eines Zeitraums zwischen dem zehnten und 20. Jahr nach dem Beginn d
 
 (6) Die zentrale Stelle ist berechtigt, in den in § 151b Absatz 3 Satz 2 des Sechsten Buches Sozialgesetzbuch genannten Fällen die Rentenbezugsmitteilung an die Träger der gesetzlichen Rentenversicherung zu übermitteln.
 
-##### § 23 Private Veräußerungsgeschäfte
+###### § 23 Private Veräußerungsgeschäfte
 
 (1) 1 Private Veräußerungsgeschäfte (§ 22 Nummer 2) sind
 
@@ -2400,7 +2404,7 @@ b) innerhalb eines Zeitraums zwischen dem zehnten und 20. Jahr nach dem Beginn d
 
 ## h) Gemeinsame Vorschriften
 
-##### § 24
+###### § 24
 
 Zu den Einkünften im Sinne des § 2 Absatz 1 gehören auch
 
@@ -2416,7 +2420,7 @@ c) als Ausgleichszahlungen an Handelsvertreter nach § 89b des Handelsgesetzbuch
 
 3. Nutzungsvergütungen für die Inanspruchnahme von Grundstücken für öffentliche Zwecke sowie Zinsen auf solche Nutzungsvergütungen und auf Entschädigungen, die mit der Inanspruchnahme von Grundstücken für öffentliche Zwecke zusammenhängen.
 
-##### § 24a Altersentlastungsbetrag
+###### § 24a Altersentlastungsbetrag
 
 1 Der Altersentlastungsbetrag ist bis zu einem Höchstbetrag im Kalenderjahr ein nach einem Prozentsatz ermittelter Betrag des Arbeitslohns und der positiven Summe der Einkünfte, die nicht solche aus nichtselbständiger Arbeit sind. 2 Bei der Bemessung des Betrags bleiben außer Betracht:
 
@@ -2435,7 +2439,7 @@ c) als Ausgleichszahlungen an Handelsvertreter nach § 89b des Handelsgesetzbuch
 Das auf die Vollendung des
  64. Lebensjahres folgende KalenderjahrAltersentlastungsbetragin % der EinkünfteHöchstbetrag in Euro200540,01 900200638,41 824200736,81 748200835,21 672200933,61 596201032,01 520201130,41 444201228,81 368201327,21 292201425,61 216201524,01 140201622,41 064201720,8  988201819,2  912201917,6  836202016,0  760202115,2  722202214,4  684202314,0  665202413,6  646202513,2  627202612,8  608202712,4  589202812,0  570202911,6  551203011,2  532203110,8  513203210,4  494203310,0  4752034 9,6  4562035 9,2  4372036 8,8  4182037 8,4  3992038 8,0  3802039 7,6  3612040 7,2  3422041 6,8  3232042 6,4  3042043 6,0  2852044 5,6  2662045 5,2  2472046 4,8  2282047 4,4  2092048 4,0  1902049 3,6  1712050 3,2  1522051 2,8  1332052 2,4  1142053 2,0   952054 1,6   762055 1,2   572056 0,8   382057 0,4   192058 0,0     0
 
-##### § 24b Entlastungsbetrag für Alleinerziehende
+###### § 24b Entlastungsbetrag für Alleinerziehende
 
 (1) 1Allein stehende Steuerpflichtige können einen Entlastungsbetrag von der Summe der Einkünfte abziehen, wenn zu ihrem Haushalt mindestens ein Kind gehört, für das ihnen ein Freibetrag nach § 32 Absatz 6 oder Kindergeld zusteht. 2Die Zugehörigkeit zum Haushalt ist anzunehmen, wenn das Kind in der Wohnung des allein stehenden Steuerpflichtigen gemeldet ist. 3Ist das Kind bei mehreren Steuerpflichtigen gemeldet, steht der Entlastungsbetrag nach Satz 1 demjenigen Alleinstehenden zu, der die Voraussetzungen auf Auszahlung des Kindergeldes nach § 64 Absatz 2 Satz 1 erfüllt oder erfüllen würde in Fällen, in denen nur ein Anspruch auf einen Freibetrag nach § 32 Absatz 6 besteht. 4Voraussetzung für die Berücksichtigung ist die Identifizierung des Kindes durch die an dieses Kind vergebene Identifikationsnummer (§ 139b der Abgabenordnung). 5Ist das Kind nicht nach einem Steuergesetz steuerpflichtig (§ 139a Absatz 2 der Abgabenordnung), ist es in anderer geeigneter Weise zu identifizieren. 6Die nachträgliche Vergabe der Identifikationsnummer wirkt auf Monate zurück, in denen die Voraussetzungen der Sätze 1 bis 3 vorliegen.
 
@@ -2447,7 +2451,7 @@ Das auf die Vollendung des
 
 ## III. Veranlagung
 
-##### § 25 Veranlagungszeitraum, Steuererklärungspflicht
+###### § 25 Veranlagungszeitraum, Steuererklärungspflicht
 
 (1) Die Einkommensteuer wird nach Ablauf des Kalenderjahres (Veranlagungszeitraum) nach dem Einkommen veranlagt, das der Steuerpflichtige in diesem Veranlagungszeitraum bezogen hat, soweit nicht nach § 43 Absatz 5 und § 46 eine Veranlagung unterbleibt.
 
@@ -2457,7 +2461,7 @@ Das auf die Vollendung des
 
 (4) 1Die Erklärung nach Absatz 3 ist nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln, wenn Einkünfte nach § 2 Absatz 1 Satz 1 Nummer 1 bis 3 erzielt werden und es sich nicht um einen der Veranlagungsfälle gemäß § 46 Absatz 2 Nummer 2 bis 8 handelt. 2Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine Übermittlung durch Datenfernübertragung verzichten.
 
-##### § 26 Veranlagung von Ehegatten
+###### § 26 Veranlagung von Ehegatten
 
 (1) 1 Ehegatten können zwischen der Einzelveranlagung (§ 26a) und der Zusammenveranlagung (§ 26b) wählen, wenn
 
@@ -2479,7 +2483,7 @@ Das auf die Vollendung des
 
 (3) Wird von dem Wahlrecht nach Absatz 2 nicht oder nicht wirksam Gebrauch gemacht, so ist eine Zusammenveranlagung durchzuführen.
 
-##### § 26a Einzelveranlagung von Ehegatten
+###### § 26a Einzelveranlagung von Ehegatten
 
 (1) 1Bei der Einzelveranlagung von Ehegatten sind jedem Ehegatten die von ihm bezogenen Einkünfte zuzurechnen. 2Einkünfte eines Ehegatten sind nicht allein deshalb zum Teil dem anderen Ehegatten zuzurechnen, weil dieser bei der Erzielung der Einkünfte mitgewirkt hat.
 
@@ -2487,27 +2491,27 @@ Das auf die Vollendung des
 
 (3) Die Anwendung des § 10d für den Fall des Übergangs von der Einzelveranlagung zur Zusammenveranlagung und von der Zusammenveranlagung zur Einzelveranlagung zwischen zwei Veranlagungszeiträumen, wenn bei beiden Ehegatten nicht ausgeglichene Verluste vorliegen, wird durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates geregelt.
 
-##### § 26b Zusammenveranlagung von Ehegatten
+###### § 26b Zusammenveranlagung von Ehegatten
 
 Bei der Zusammenveranlagung von Ehegatten werden die Einkünfte, die die Ehegatten erzielt haben, zusammengerechnet, den Ehegatten gemeinsam zugerechnet und, soweit nichts anderes vorgeschrieben ist, die Ehegatten sodann gemeinsam als Steuerpflichtiger behandelt.
 
-##### § 27 (weggefallen)
+###### § 27 (weggefallen)
 
 -
 
-##### § 28 Besteuerung bei fortgesetzter Gütergemeinschaft
+###### § 28 Besteuerung bei fortgesetzter Gütergemeinschaft
 
 Bei fortgesetzter Gütergemeinschaft gelten Einkünfte, die in das Gesamtgut fallen, als Einkünfte des überlebenden Ehegatten, wenn dieser unbeschränkt steuerpflichtig ist.
 
-##### (XXXX) §§ 29 und 30 (weggefallen)
+###### (XXXX) §§ 29 und 30 (weggefallen)
 
 ## IV. Tarif
 
-##### § 31 Familienleistungsausgleich
+###### § 31 Familienleistungsausgleich
 
 1Die steuerliche Freistellung eines Einkommensbetrags in Höhe des Existenzminimums eines Kindes einschließlich der Bedarfe für Betreuung und Erziehung oder Ausbildung wird im gesamten Veranlagungszeitraum entweder durch die Freibeträge nach § 32 Absatz 6 oder durch Kindergeld nach Abschnitt X bewirkt. 2Soweit das Kindergeld dafür nicht erforderlich ist, dient es der Förderung der Familie. 3Im laufenden Kalenderjahr wird Kindergeld als Steuervergütung monatlich gezahlt. 4Bewirkt der Anspruch auf Kindergeld für den gesamten Veranlagungszeitraum die nach Satz 1 gebotene steuerliche Freistellung nicht vollständig und werden deshalb bei der Veranlagung zur Einkommensteuer die Freibeträge nach § 32 Absatz 6 vom Einkommen abgezogen, erhöht sich die unter Abzug dieser Freibeträge ermittelte tarifliche Einkommensteuer um den Anspruch auf Kindergeld für den gesamten Veranlagungszeitraum; bei nicht zusammenveranlagten Eltern wird der Kindergeldanspruch im Umfang des Kinderfreibetrags angesetzt. 5Bei der Prüfung der Steuerfreistellung und der Hinzurechnung nach Satz 4 bleibt der Anspruch auf Kindergeld für Kalendermonate unberücksichtigt, in denen durch Bescheid der Familienkasse ein Anspruch auf Kindergeld festgesetzt, aber wegen § 70 Absatz 1 Satz 2 nicht ausgezahlt wurde. 6Satz 4 gilt entsprechend für mit dem Kindergeld vergleichbare Leistungen nach § 65. 7Besteht nach ausländischem Recht Anspruch auf Leistungen für Kinder, wird dieser insoweit nicht berücksichtigt, als er das inländische Kindergeld übersteigt.
 
-##### § 32 Kinder, Freibeträge für Kinder
+###### § 32 Kinder, Freibeträge für Kinder
 
 (1) Kinder sind
 
@@ -2571,7 +2575,7 @@ für einen der Dauer dieser Dienste oder der Tätigkeit entsprechenden Zeitraum,
 
 4 Für ein nicht nach § 1 Absatz 1 oder 2 unbeschränkt einkommensteuerpflichtiges Kind können die Beträge nach den Sätzen 1 bis 3 nur abgezogen werden, soweit sie nach den Verhältnissen seines Wohnsitzstaates notwendig und angemessen sind. 5 Für jeden Kalendermonat, in dem die Voraussetzungen für einen Freibetrag nach den Sätzen 1 bis 4 nicht vorliegen, ermäßigen sich die dort genannten Beträge um ein Zwölftel. 6 Abweichend von Satz 1 wird bei einem unbeschränkt einkommensteuerpflichtigen Elternpaar, bei dem die Voraussetzungen des § 26 Absatz 1 Satz 1 nicht vorliegen, auf Antrag eines Elternteils der dem anderen Elternteil zustehende Kinderfreibetrag auf ihn übertragen, wenn er, nicht jedoch der andere Elternteil, seiner Unterhaltspflicht gegenüber dem Kind für das Kalenderjahr im Wesentlichen nachkommt oder der andere Elternteil mangels Leistungsfähigkeit nicht unterhaltspflichtig ist; die Übertragung des Kinderfreibetrags führt stets auch zur Übertragung des Freibetrags für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf. 7 Eine Übertragung nach Satz 6 scheidet für Zeiträume aus, für die Unterhaltsleistungen nach dem Unterhaltsvorschussgesetz gezahlt werden. 8 Bei minderjährigen Kindern wird der dem Elternteil, in dessen Wohnung das Kind nicht gemeldet ist, zustehende Freibetrag für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf auf Antrag des anderen Elternteils auf diesen übertragen, wenn bei dem Elternpaar die Voraussetzungen des § 26 Absatz 1 Satz 1 nicht vorliegen. 9 Eine Übertragung nach Satz 8 scheidet aus, wenn der Übertragung widersprochen wird, weil der Elternteil, bei dem das Kind nicht gemeldet ist, Kinderbetreuungskosten trägt oder das Kind regelmäßig in einem nicht unwesentlichen Umfang betreut. 10 Die den Eltern nach den Sätzen 1 bis 9 zustehenden Freibeträge können auf Antrag auch auf einen Stiefelternteil oder Großelternteil übertragen werden, wenn dieser das Kind in seinen Haushalt aufgenommen hat oder dieser einer Unterhaltspflicht gegenüber dem Kind unterliegt. 11 Die Übertragung nach Satz 10 kann auch mit Zustimmung des berechtigten Elternteils erfolgen, die nur für künftige Kalenderjahre widerrufen werden kann. 12 Voraussetzung für die Berücksichtigung des Kinderfreibetrags sowie des Freibetrags für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf des Kindes ist die Identifizierung des Kindes durch die an dieses Kind vergebene Identifikationsnummer (§ 139b der Abgabenordnung). 13 Ist das Kind nicht nach einem Steuergesetz steuerpflichtig (§ 139a Absatz 2 der Abgabenordnung), ist es in anderer geeigneter Weise zu identifizieren. 14 Die nachträgliche Identifizierung oder nachträgliche Vergabe der Identifikationsnummer wirkt auf Monate zurück, in denen die übrigen Voraussetzungen für die Gewährung des Kinderfreibetrags sowie des Freibetrags für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf des Kindes vorliegen.
 
-##### § 32a Einkommensteuertarif
+###### § 32a Einkommensteuertarif
 
 (1) 1 Die tarifliche Einkommensteuer bemisst sich nach dem auf volle Euro abgerundeten zu versteuernden Einkommen. 2 Sie beträgt ab dem Veranlagungszeitraum 2026 vorbehaltlich der §§ 32b, 32d, 34, 34a, 34b und 34c jeweils in Euro für zu versteuernde Einkommen
 
@@ -2605,7 +2609,7 @@ c) der bisherige Ehegatte und dessen neuer Ehegatte ebenfalls die Voraussetzunge
 
 2 Voraussetzung für die Anwendung des Satzes 1 ist, dass der Steuerpflichtige nicht nach den §§ 26, 26a einzeln zur Einkommensteuer veranlagt wird.
 
-##### § 32b Progressionsvorbehalt
+###### § 32b Progressionsvorbehalt
 
 (1) 1 Hat ein zeitweise oder während des gesamten Veranlagungszeitraums unbeschränkt Steuerpflichtiger oder ein beschränkt Steuerpflichtiger, auf den § 50 Absatz 2 Satz 2 Nummer 4 Anwendung findet,
 
@@ -2681,7 +2685,7 @@ c) sind bei Gewinnermittlung nach § 4 Absatz 3 die Anschaffungs- oder Herstellu
 
 (5) Die nach Absatz 3 übermittelten Daten können durch das nach Absatz 4 zuständige Finanzamt bei den für die Besteuerung der Leistungsempfänger nach dem Einkommen zuständigen Finanzbehörden abgerufen und zur Anwendung des § 72a Absatz 4 und des § 93c Absatz 4 Satz 1 der Abgabenordnung verarbeitet werden.
 
-##### § 32c Tarifermäßigung bei Einkünften aus Land- und Forstwirtschaft
+###### § 32c Tarifermäßigung bei Einkünften aus Land- und Forstwirtschaft
 
 (1) Auf Antrag des Steuerpflichtigen wird nach Ablauf von drei Veranlagungszeiträumen (Betrachtungszeitraum) unter den Voraussetzungen des Absatzes 5 für Einkünfte aus Land- und Forstwirtschaft im Sinne des § 13 eine Tarifermäßigung nach Satz 2 gewährt. Ist die Summe der tariflichen Einkommensteuer, die innerhalb des Betrachtungszeitraums auf die steuerpflichtigen Einkünfte aus Land- und Forstwirtschaft im Sinne des § 13 entfällt, höher als die Summe der nach Absatz 2 ermittelten fiktiven tariflichen Einkommensteuer, die innerhalb des Betrachtungszeitraums auf die steuerpflichtigen Einkünfte aus Land- und Forstwirtschaft im Sinne des § 13 entfällt, wird bei der Steuerfestsetzung des letzten Veranlagungszeitraums im Betrachtungszeitraum die tarifliche Einkommensteuer um den Unterschiedsbetrag ermäßigt. Satz 1 gilt nicht, wenn nur in einem Veranlagungszeitraum des Betrachtungszeitraums Einkünfte aus Land- und Forstwirtschaft erzielt werden.
 
@@ -2727,7 +2731,7 @@ Der Steuerpflichtige hat bei der Beantragung der Tarifermäßigung zu erklären,
 
 (7) Wird während eines Zeitraums von fünf Jahren nach Bekanntgabe des Einkommensteuerbescheids, mit dem die Tarifermäßigung für den jeweiligen Betrachtungszeitraum gewährt wird, durch die zuständige Behörde festgestellt, dass die Voraussetzungen im Sinne des Absatz 5 Satz 1 Nummer 5 nicht eingehalten wurden, ist eine Tarifermäßigung im Sinne des Absatzes 1 Satz 2 rückgängig zu machen. Diese Nichteinhaltung der Voraussetzung gilt als rückwirkendes Ereignis im Sinne von § 175 Absatz 1 Satz 1 Nummer 2 in Verbindung mit Absatz 2 der Abgabenordnung. Der Steuerpflichtige hat eine Nichteinhaltung der Voraussetzungen unverzüglich nach deren Feststellung dem zuständigen Finanzamt anzuzeigen. Die Festsetzungsfrist für die Steuer endet nicht vor Ablauf von vier Jahren nach Ablauf des Kalenderjahres, in dem die Finanzbehörde von der Nichteinhaltung der Voraussetzungen nach Satz 1 Kenntnis erlangt hat.
 
-##### § 32d Gesonderter Steuertarif für Einkünfte aus Kapitalvermögen
+###### § 32d Gesonderter Steuertarif für Einkünfte aus Kapitalvermögen
 
 (1) 1Die Einkommensteuer für Einkünfte aus Kapitalvermögen, die nicht unter § 20 Absatz 8 fallen, beträgt 25 Prozent. 2Die Steuer nach Satz 1 vermindert sich um die nach Maßgabe des Absatzes 5 anrechenbaren ausländischen Steuern. 3Im Fall der Kirchensteuerpflicht ermäßigt sich die Steuer nach den Sätzen 1 und 2 um 25 Prozent der auf die Kapitalerträge entfallenden Kirchensteuer. 4Die Einkommensteuer beträgt damit *e* – 4*q*4 +*k*. 5Dabei sind „e“ die nach den Vorschriften des § 20 ermittelten Einkünfte, „q“ die nach Maßgabe des Absatzes 5 anrechenbare ausländische Steuer und „k“ der für die Kirchensteuer erhebende Religionsgesellschaft (Religionsgemeinschaft) geltende Kirchensteuersatz.
 
@@ -2765,7 +2769,7 @@ b) zu mindestens 1 Prozent an der Kapitalgesellschaft beteiligt ist und durch ei
 
 (6) 1Auf Antrag des Steuerpflichtigen werden anstelle der Anwendung der Absätze 1, 3 und 4 die nach § 20 ermittelten Kapitaleinkünfte den Einkünften im Sinne des § 2 hinzugerechnet und der tariflichen Einkommensteuer unterworfen, wenn dies zu einer niedrigeren Einkommensteuer einschließlich Zuschlagsteuern führt (Günstigerprüfung). 2Absatz 5 ist mit der Maßgabe anzuwenden, dass die nach dieser Vorschrift ermittelten ausländischen Steuern auf die zusätzliche tarifliche Einkommensteuer anzurechnen sind, die auf die hinzugerechneten Kapitaleinkünfte entfällt. 3Der Antrag kann für den jeweiligen Veranlagungszeitraum nur einheitlich für sämtliche Kapitalerträge gestellt werden. 4Bei zusammenveranlagten Ehegatten kann der Antrag nur für sämtliche Kapitalerträge beider Ehegatten gestellt werden.
 
-##### § 33 Außergewöhnliche Belastungen
+###### § 33 Außergewöhnliche Belastungen
 
 (1) Erwachsen einem Steuerpflichtigen zwangsläufig größere Aufwendungen als der überwiegenden Mehrzahl der Steuerpflichtigen gleicher Einkommensverhältnisse, gleicher Vermögensverhältnisse und gleichen Familienstands (außergewöhnliche Belastung), so wird auf Antrag die Einkommensteuer dadurch ermäßigt, dass der Teil der Aufwendungen, der die dem Steuerpflichtigen zumutbare Belastung (Absatz 3) übersteigt, vom Gesamtbetrag der Einkünfte abgezogen wird.
 
@@ -2779,7 +2783,7 @@ b) zu mindestens 1 Prozent an der Kapitalgesellschaft beteiligt ist und durch ei
 
 3 Bei Erfüllung der Anspruchsvoraussetzungen nach Satz 2 Nummer 1 beträgt die Pauschale 900 Euro. 4 Bei Erfüllung der Anspruchsvoraussetzungen nach Satz 2 Nummer 2 beträgt die Pauschale 4 500 Euro. 5 In diesem Fall kann die Pauschale nach Satz 3 nicht zusätzlich in Anspruch genommen werden. 6 Über die Fahrtkostenpauschale nach Satz 1 hinaus sind keine weiteren behinderungsbedingten Fahrtkosten als außergewöhnliche Belastung nach Absatz 1 berücksichtigungsfähig. 7 Die Pauschale ist bei der Ermittlung des Teils der Aufwendungen im Sinne des Absatzes 1, der die zumutbare Belastung übersteigt, einzubeziehen. 8 Sie kann auch gewährt werden, wenn ein Behinderten-Pauschbetrag nach § 33b Absatz 5 übertragen wurde. 9 § 33b Absatz 5 ist entsprechend anzuwenden.
 
-(3) 1Die zumutbare Belastung beträgt
+(3) 1Die zumutbare Belastung beträgt 
 
 bei einem Gesamtbetrag
  der Einkünftebis
@@ -2805,7 +2809,7 @@ zu berechnen ist;
 
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Nachweises von Aufwendungen nach Absatz 1 und der Anspruchsvoraussetzungen nach Absatz 2a zu bestimmen.
 
-##### § 33a Außergewöhnliche Belastung in besonderen Fällen
+###### § 33a Außergewöhnliche Belastung in besonderen Fällen
 
 (1) 1Erwachsen einem Steuerpflichtigen Aufwendungen für den Unterhalt und eine etwaige Berufsausbildung einer dem Steuerpflichtigen oder seinem Ehegatten gegenüber gesetzlich unterhaltsberechtigten Person, so wird auf Antrag die Einkommensteuer dadurch ermäßigt, dass die Aufwendungen bis zur Höhe des Grundfreibetrags nach § 32a Absatz 1 Satz 2 Nummer 1 im Kalenderjahr vom Gesamtbetrag der Einkünfte abgezogen werden. 2Der Höchstbetrag nach Satz 1 erhöht sich um den Betrag der im jeweiligen Veranlagungszeitraum nach § 10 Absatz 1 Nummer 3 für die Absicherung der unterhaltsberechtigten Person aufgewandten Beiträge; dies gilt nicht für Kranken- und Pflegeversicherungsbeiträge, die bereits nach § 10 Absatz 1 Nummer 3 Satz 1 anzusetzen sind. 3Der gesetzlich unterhaltsberechtigten Person gleichgestellt ist eine Person, wenn bei ihr zum Unterhalt bestimmte inländische öffentliche Mittel mit Rücksicht auf die Unterhaltsleistungen des Steuerpflichtigen gekürzt werden. 4Voraussetzung ist, dass weder der Steuerpflichtige noch eine andere Person Anspruch auf einen Freibetrag nach § 32 Absatz 6 oder auf Kindergeld für die unterhaltene Person hat und die unterhaltene Person kein oder nur ein geringes Vermögen besitzt; ein angemessenes Hausgrundstück im Sinne von § 90 Absatz 2 Nummer 8 des Zwölften Buches Sozialgesetzbuch bleibt unberücksichtigt. 5Hat die unterhaltene Person andere Einkünfte oder Bezüge, so vermindert sich die Summe der nach Satz 1 und Satz 2 ermittelten Beträge um den Betrag, um den diese Einkünfte und Bezüge den Betrag von 624 Euro im Kalenderjahr übersteigen, sowie um die von der unterhaltenen Person als Ausbildungshilfe aus öffentlichen Mitteln oder von Förderungseinrichtungen, die hierfür öffentliche Mittel erhalten, bezogenen Zuschüsse; zu den Bezügen gehören auch steuerfreie Gewinne nach den §§ 14, 16 Absatz 4, § 17 Absatz 3 und § 18 Absatz 3, die nach § 19 Absatz 2 steuerfrei bleibenden Einkünfte sowie Sonderabschreibungen und erhöhte Absetzungen, soweit sie die höchstmöglichen Absetzungen für Abnutzung nach § 7 übersteigen. 6Ist die unterhaltene Person nicht unbeschränkt einkommensteuerpflichtig, so können die Aufwendungen nur abgezogen werden, soweit sie nach den Verhältnissen des Wohnsitzstaates der unterhaltenen Person notwendig und angemessen sind, höchstens jedoch der Betrag, der sich nach den Sätzen 1 bis 5 ergibt; ob der Steuerpflichtige zum Unterhalt gesetzlich verpflichtet ist, ist nach inländischen Maßstäben zu beurteilen. 7Werden die Aufwendungen für eine unterhaltene Person von mehreren Steuerpflichtigen getragen, so wird bei jedem der Teil des sich hiernach ergebenden Betrags abgezogen, der seinem Anteil am Gesamtbetrag der Leistungen entspricht. 8Nicht auf Euro lautende Beträge sind entsprechend dem für Ende September des Jahres vor dem Veranlagungszeitraum von der Europäischen Zentralbank bekannt gegebenen Referenzkurs umzurechnen. 9Voraussetzung für den Abzug der Aufwendungen ist die Angabe der erteilten Identifikationsnummer (§ 139b der Abgabenordnung) der unterhaltenen Person in der Steuererklärung des Unterhaltsleistenden, wenn die unterhaltene Person der unbeschränkten oder beschränkten Steuerpflicht unterliegt. 10Die unterhaltene Person ist für diese Zwecke verpflichtet, dem Unterhaltsleistenden ihre erteilte Identifikationsnummer (§ 139b der Abgabenordnung) mitzuteilen. 11Kommt die unterhaltene Person dieser Verpflichtung nicht nach, ist der Unterhaltsleistende berechtigt, bei der für ihn zuständigen Finanzbehörde die Identifikationsnummer der unterhaltenen Person zu erfragen. 12Voraussetzung für den Abzug der Aufwendungen nach Satz 1 ist, dass bei Geldzuwendungen die Zahlung der Unterhaltsleistungen durch Überweisung auf das Konto der unterhaltenen Person erfolgt ist.
 
@@ -2815,7 +2819,7 @@ zu berechnen ist;
 
 (4) In den Fällen der Absätze 1 und 2 kann wegen der in diesen Vorschriften bezeichneten Aufwendungen der Steuerpflichtige eine Steuerermäßigung nach § 33 nicht in Anspruch nehmen.
 
-##### § 33b Pauschbeträge für Menschen mit Behinderungen, Hinterbliebene und Pflegepersonen
+###### § 33b Pauschbeträge für Menschen mit Behinderungen, Hinterbliebene und Pflegepersonen
 
 (1) 1Wegen der Aufwendungen für die Hilfe bei den gewöhnlichen und regelmäßig wiederkehrenden Verrichtungen des täglichen Lebens, für die Pflege sowie für einen erhöhten Wäschebedarf können Menschen mit Behinderungen unter den Voraussetzungen des Absatzes 2 anstelle einer Steuerermäßigung nach § 33 einen Pauschbetrag nach Absatz 3 geltend machen (Behinderten-Pauschbetrag). 2Das Wahlrecht kann für die genannten Aufwendungen im jeweiligen Veranlagungszeitraum nur einheitlich ausgeübt werden.
 
@@ -2823,7 +2827,7 @@ zu berechnen ist;
 
 (3) 1Die Höhe des Pauschbetrags nach Satz 2 richtet sich nach dem dauernden Grad der Behinderung. 2Als Pauschbetrag werden gewährt bei einem Grad der Behinderung von mindestens:
 
-20384 Euro,   30620 Euro,   40860 Euro,   501 140 Euro,   601 440 Euro,   701 780 Euro,   802 120 Euro,   902 460 Euro, 1002 840 Euro.
+   20384 Euro,   30620 Euro,   40860 Euro,   501 140 Euro,   601 440 Euro,   701 780 Euro,   802 120 Euro,   902 460 Euro, 1002 840 Euro.
 
 3Menschen, die hilflos im Sinne des Satzes 4 sind, Blinde und Taubblinde erhalten einen Pauschbetrag von 7 400 Euro; in diesem Fall kann der Pauschbetrag nach Satz 2 nicht zusätzlich in Anspruch genommen werden. 4Hilflos ist eine Person, wenn sie für eine Reihe von häufig und regelmäßig wiederkehrenden Verrichtungen zur Sicherung ihrer persönlichen Existenz im Ablauf eines jeden Tages fremder Hilfe dauernd bedarf. 5Diese Voraussetzungen sind auch erfüllt, wenn die Hilfe in Form einer Überwachung oder einer Anleitung zu den in Satz 4 genannten Verrichtungen erforderlich ist oder wenn die Hilfe zwar nicht dauernd geleistet werden muss, jedoch eine ständige Bereitschaft zur Hilfeleistung erforderlich ist.
 
@@ -2857,7 +2861,7 @@ zu berechnen ist;
 
 (8) Die Vorschrift des § 33b Absatz 6 ist ab Ende des Kalenderjahres 2026 zu evaluieren.
 
-##### § 34 Außerordentliche Einkünfte
+###### § 34 Außerordentliche Einkünfte
 
 (1) 1Sind in dem zu versteuernden Einkommen außerordentliche Einkünfte enthalten, so ist die auf alle im Veranlagungszeitraum bezogenen außerordentlichen Einkünfte entfallende Einkommensteuer nach den Sätzen 2 bis 4 zu berechnen. 2Die für die außerordentlichen Einkünfte anzusetzende Einkommensteuer beträgt das Fünffache des Unterschiedsbetrags zwischen der Einkommensteuer für das um diese Einkünfte verminderte zu versteuernde Einkommen (verbleibendes zu versteuerndes Einkommen) und der Einkommensteuer für das verbleibende zu versteuernde Einkommen zuzüglich eines Fünftels dieser Einkünfte. 3Ist das verbleibende zu versteuernde Einkommen negativ und das zu versteuernde Einkommen positiv, so beträgt die Einkommensteuer das Fünffache der auf ein Fünftel des zu versteuernden Einkommens entfallenden Einkommensteuer. 4Die Sätze 1 bis 3 gelten nicht für außerordentliche Einkünfte im Sinne des Absatzes 2 Nummer 1, wenn der Steuerpflichtige auf diese Einkünfte ganz oder teilweise § 6b oder § 6c anwendet.
 
@@ -2873,7 +2877,7 @@ zu berechnen ist;
 
 (3) 1Sind in dem zu versteuernden Einkommen außerordentliche Einkünfte im Sinne des Absatzes 2 Nummer 1 enthalten, so kann auf Antrag abweichend von Absatz 1 die auf den Teil dieser außerordentlichen Einkünfte, der den Betrag von insgesamt 5 Millionen Euro nicht übersteigt, entfallende Einkommensteuer nach einem ermäßigten Steuersatz bemessen werden, wenn der Steuerpflichtige das 55. Lebensjahr vollendet hat oder wenn er im sozialversicherungsrechtlichen Sinne dauernd berufsunfähig ist. 2Der ermäßigte Steuersatz beträgt 56 Prozent des durchschnittlichen Steuersatzes, der sich ergäbe, wenn die tarifliche Einkommensteuer nach dem gesamten zu versteuernden Einkommen zuzüglich der dem Progressionsvorbehalt unterliegenden Einkünfte zu bemessen wäre, mindestens jedoch 14 Prozent. 3Auf das um die in Satz 1 genannten Einkünfte verminderte zu versteuernde Einkommen (verbleibendes zu versteuerndes Einkommen) sind vorbehaltlich des Absatzes 1 die allgemeinen Tarifvorschriften anzuwenden. 4Die Ermäßigung nach den Sätzen 1 bis 3 kann der Steuerpflichtige nur einmal im Leben in Anspruch nehmen. 5Erzielt der Steuerpflichtige in einem Veranlagungszeitraum mehr als einen Veräußerungs- oder Aufgabegewinn im Sinne des Satzes 1, kann er die Ermäßigung nach den Sätzen 1 bis 3 nur für einen Veräußerungs- oder Aufgabegewinn beantragen. 6Absatz 1 Satz 4 ist entsprechend anzuwenden.
 
-##### § 34a Begünstigung der nicht entnommenen Gewinne
+###### § 34a Begünstigung der nicht entnommenen Gewinne
 
 (1) 1 Sind in dem zu versteuernden Einkommen nicht entnommene Gewinne aus Land- und Forstwirtschaft, Gewerbebetrieb oder selbständiger Arbeit (§ 2 Absatz 1 Satz 1 Nummer 1 bis 3) nach Absatz 2 enthalten, ist die Einkommensteuer für diese Gewinne auf Antrag des Steuerpflichtigen ganz oder teilweise mit einem Steuersatz von
 
@@ -2927,7 +2931,7 @@ zu berechnen; dies gilt nicht, soweit für die Gewinne der Freibetrag nach § 16
 
 (11) 1Der Bescheid über die gesonderte Feststellung des nachversteuerungspflichtigen Betrags ist zu erlassen, aufzuheben oder zu ändern, soweit der Steuerpflichtige einen Antrag nach Absatz 1 stellt oder diesen ganz oder teilweise zurücknimmt und sich die Besteuerungsgrundlagen im Einkommensteuerbescheid ändern. 2Dies gilt entsprechend, wenn der Erlass, die Aufhebung oder Änderung des Einkommensteuerbescheids mangels steuerlicher Auswirkung unterbleibt. 3Die Feststellungsfrist endet nicht, bevor die Festsetzungsfrist für den Veranlagungszeitraum abgelaufen ist, auf dessen Schluss der nachversteuerungspflichtige Betrag und das nachversteuerungsfreie Entnahmevolumen des Betriebs oder Mitunternehmeranteils gesondert festzustellen sind. 4Der Einkommensteuerbescheid ist zu erlassen, aufzuheben oder zu ändern, soweit der Steuerpflichtige einen Antrag nach Absatz 1 stellt oder diesen ganz oder teilweise zurücknimmt und sich die gesonderte Feststellung des nachversteuerungspflichtigen Betrags ändert. 5Für die Festsetzungsfrist gilt Satz 3 sinngemäß.
 
-##### § 34b Steuersätze bei Einkünften aus außerordentlichen Holznutzungen
+###### § 34b Steuersätze bei Einkünften aus außerordentlichen Holznutzungen
 
 (1) Außerordentliche Holznutzungen sind
 
@@ -2961,7 +2965,7 @@ wenn besondere Schadensereignisse nach Absatz 1 Nummer 2 vorliegen und eine Eins
 
 ## 1. Steuerermäßigung bei ausländischen Einkünften
 
-##### § 34c
+###### § 34c
 
 (1) 1Bei unbeschränkt Steuerpflichtigen, die mit ausländischen Einkünften in dem Staat, aus dem die Einkünfte stammen, zu einer der deutschen Einkommensteuer entsprechenden Steuer herangezogen werden, ist die festgesetzte und gezahlte und um einen entstandenen Ermäßigungsanspruch gekürzte ausländische Steuer auf die deutsche Einkommensteuer anzurechnen, die auf die Einkünfte aus diesem Staat entfällt; das gilt nicht für Einkünfte aus Kapitalvermögen, auf die § 32d Absatz 1 und 3 bis 6 anzuwenden ist. 2Die auf die ausländischen Einkünfte nach Satz 1 erster Halbsatz entfallende deutsche Einkommensteuer ist in der Weise zu ermitteln, dass der sich bei der Veranlagung des zu versteuernden Einkommens, einschließlich der ausländischen Einkünfte, nach den §§ 32a, 32b, 34, 34a und 34b ergebende durchschnittliche Steuersatz auf die ausländischen Einkünfte anzuwenden ist. 3Bei der Ermittlung des zu versteuernden Einkommens und der ausländischen Einkünfte sind die Einkünfte nach Satz 1 zweiter Halbsatz nicht zu berücksichtigen; bei der Ermittlung der ausländischen Einkünfte sind die ausländischen Einkünfte nicht zu berücksichtigen, die in dem Staat, aus dem sie stammen, nach dessen Recht nicht besteuert werden. 4Gehören ausländische Einkünfte der in § 34d Nummer 3, 4, 6, 7 und 8 Buchstabe c genannten Art zum Gewinn eines inländischen Betriebes, sind bei ihrer Ermittlung Betriebsausgaben und Betriebsvermögensminderungen abzuziehen, die mit den diesen Einkünften zugrunde liegenden Einnahmen in wirtschaftlichem Zusammenhang stehen. 5Die ausländischen Steuern sind nur insoweit anzurechnen, als sie auf die im Veranlagungszeitraum bezogenen Einkünfte entfallen.
 
@@ -2983,7 +2987,7 @@ wenn besondere Schadensereignisse nach Absatz 1 Nummer 2 vorliegen und eine Eins
 
 3. die Berücksichtigung ausländischer Steuern, die nachträglich erhoben oder zurückgezahlt werden.
 
-##### § 34d Ausländische Einkünfte
+###### § 34d Ausländische Einkünfte
 
 Ausländische Einkünfte im Sinne des § 34c Absatz 1 bis 5 sind
 
@@ -3025,11 +3029,11 @@ c) bei Einkünften aus Leistungen einschließlich der Einkünfte aus Leistungen 
 
 ## 2. Steuerermäßigung bei Einkünften aus Land- und Forstwirtschaft
 
-##### § 34e (weggefallen)
+###### § 34e (weggefallen)
 
 ## 2a. Steuerermäßigung für Steuerpflichtige mit Kindern bei Inanspruchnahme erhöhter Absetzungen für Wohngebäude oder der Steuerbegünstigungen für eigengenutztes Wohneigentum
 
-##### § 34f
+###### § 34f
 
 (1) 1 Bei Steuerpflichtigen, die erhöhte Absetzungen nach § 7b oder nach § 15 des Berlinförderungsgesetzes in Anspruch nehmen, ermäßigt sich die tarifliche Einkommensteuer, vermindert um die sonstigen Steuerermäßigungen mit Ausnahme der §§ 34g und 35, auf Antrag um je 600 Deutsche Mark für das zweite und jedes weitere Kind des Steuerpflichtigen oder seines Ehegatten. 2 Voraussetzung ist,
 
@@ -3045,7 +3049,7 @@ c) bei Einkünften aus Leistungen einschließlich der Einkünfte aus Leistungen 
 
 ## 2b. Steuerermäßigung bei Zuwendungen an politische Parteien und an unabhängige Wählervereinigungen
 
-##### § 34g
+###### § 34g
 
 1 Die tarifliche Einkommensteuer, vermindert um die sonstigen Steuerermäßigungen mit Ausnahme des § 34f Absatz 3, ermäßigt sich bei Zuwendungen an
 
@@ -3061,7 +3065,7 @@ b) der Verein auf Bundes-, Landes- oder Kommunalebene bei der jeweils letzten Wa
 
 ## 3. Steuerermäßigung bei Einkünften aus Gewerbebetrieb
 
-##### § 35
+###### § 35
 
 (1) 1 Die tarifliche Einkommensteuer, vermindert um die sonstigen Steuerermäßigungen mit Ausnahme der §§ 34f, 34g, 35a und 35c, ermäßigt sich, soweit sie anteilig auf im zu versteuernden Einkommen enthaltene gewerbliche Einkünfte entfällt (Ermäßigungshöchstbetrag),
 
@@ -3085,7 +3089,7 @@ Summe der
 
 ## 4. Steuerermäßigung bei Aufwendungen für haushaltsnahe Beschäftigungsverhältnisse und für die Inanspruchnahme haushaltsnaher Dienstleistungen
 
-##### § 35a Steuerermäßigung bei Aufwendungen für haushaltsnahe Beschäftigungsverhältnisse, haushaltsnahe Dienstleistungen und Handwerkerleistungen
+###### § 35a Steuerermäßigung bei Aufwendungen für haushaltsnahe Beschäftigungsverhältnisse, haushaltsnahe Dienstleistungen und Handwerkerleistungen
 
 (1) Für haushaltsnahe Beschäftigungsverhältnisse, bei denen es sich um eine geringfügige Beschäftigung im Sinne des § 8a des Vierten Buches Sozialgesetzbuch handelt, ermäßigt sich die tarifliche Einkommensteuer, vermindert um die sonstigen Steuerermäßigungen, auf Antrag um 20 Prozent, höchstens 510 Euro, der Aufwendungen des Steuerpflichtigen.
 
@@ -3099,13 +3103,13 @@ Summe der
 
 ## 5. Steuerermäßigung bei Belastung mit Erbschaftsteuer
 
-##### § 35b Steuerermäßigung bei Belastung mit Erbschaftsteuer
+###### § 35b Steuerermäßigung bei Belastung mit Erbschaftsteuer
 
 1Sind bei der Ermittlung des Einkommens Einkünfte berücksichtigt worden, die im Veranlagungszeitraum oder in den vorangegangenen vier Veranlagungszeiträumen als Erwerb von Todes wegen der Erbschaftsteuer unterlegen haben, so wird auf Antrag die um sonstige Steuerermäßigungen gekürzte tarifliche Einkommensteuer, die auf diese Einkünfte entfällt, um den in Satz 2 bestimmten Prozentsatz ermäßigt. 2Der Prozentsatz bestimmt sich nach dem Verhältnis, in dem die festgesetzte Erbschaftsteuer zu dem Betrag steht, der sich ergibt, wenn dem steuerpflichtigen Erwerb (§ 10 Absatz 1 des Erbschaftsteuer- und Schenkungsteuergesetzes) die Freibeträge nach den §§ 16 und 17 und der steuerfreie Betrag nach § 5 des Erbschaftsteuer- und Schenkungsteuergesetzes hinzugerechnet werden.
 
 ## 6. Steuerermäßigung für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden
 
-##### § 35c Steuerermäßigung für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden
+###### § 35c Steuerermäßigung für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden
 
 (1) Für energetische Maßnahmen an einem in der Europäischen Union oder dem Europäischen Wirtschaftsraum belegenen zu eigenen Wohnzwecken genutzten eigenen Gebäude (begünstigtes Objekt) ermäßigt sich auf Antrag die tarifliche Einkommensteuer, vermindert um die sonstigen Steuerermäßigungen, im Kalenderjahr des Abschlusses der energetischen Maßnahme und im nächsten Kalenderjahr um je 7 Prozent der Aufwendungen des Steuerpflichtigen, höchstens jedoch um je 14 000 Euro und im übernächsten Kalenderjahr um 6 Prozent der Aufwendungen des Steuerpflichtigen, höchstens jedoch um 12 000 Euro für das begünstigte Objekt. Voraussetzung ist, dass das begünstigte Objekt bei der Durchführung der energetischen Maßnahme älter als zehn Jahre ist; maßgebend hierfür ist der Beginn der Herstellung. Energetische Maßnahmen im Sinne des Satzes 1 sind:
 
@@ -3147,7 +3151,7 @@ Zu den Aufwendungen für energetische Maßnahmen gehören auch die Kosten für d
 
 ## 1. Erhebung der Einkommensteuer
 
-##### § 36 Entstehung und Tilgung der Einkommensteuer
+###### § 36 Entstehung und Tilgung der Einkommensteuer
 
 (1) Die Einkommensteuer entsteht, soweit in diesem Gesetz nichts anderes bestimmt ist, mit Ablauf des Veranlagungszeitraums.
 
@@ -3183,7 +3187,7 @@ b) die nach § 3 Nummer 40 dieses Gesetzes, nach § 8b Absatz 1, 2 und 6 Satz 2 
 
 5 Ändert sich die festgesetzte Steuer, sind die Jahresraten entsprechend anzupassen. 6 Der Steuerpflichtige hat der zuständigen Finanzbehörde jährlich mit der Steuererklärung oder, sofern keine Pflicht zur Abgabe einer Steuererklärung besteht, zum 31. Juli anzuzeigen, ob die Voraussetzungen für die Ratenzahlung weiterhin erfüllt sind; kommt er dieser Anzeigepflicht oder seinen sonstigen Mitwirkungspflichten im Sinne des § 90 der Abgabenordnung nicht nach, werden die noch nicht entrichteten Jahresraten rückwirkend zum 1. August des vorangegangenen Jahres fällig, frühestens aber einen Monat nach Bekanntgabe des Steuerbescheids. 7 Unbeschadet des Satzes 6 hat der Steuerpflichtige den Eintritt eines Ereignisses nach Satz 4 der zuständigen Finanzbehörde unverzüglich anzuzeigen. 8 Unterliegt der Steuerpflichtige einer Erklärungspflicht, kann die Anzeige auf Grund eines Ereignisses nach Satz 4 Nummer 1 abweichend von der in Satz 7 genannten Frist mit der nächsten Steuererklärung erfolgen.
 
-##### § 36a Beschränkung der Anrechenbarkeit der Kapitalertragsteuer
+###### § 36a Beschränkung der Anrechenbarkeit der Kapitalertragsteuer
 
 (1) 1 Ungeachtet eines Abkommens zur Vermeidung der Doppelbesteuerung setzt bei Kapitalerträgen im Sinne des § 43 Absatz 1 Satz 1 Nummer 1a die volle Anrechnung der durch Steuerabzug erhobenen Einkommensteuer ferner voraus, dass der Steuerpflichtige hinsichtlich der diesen Kapitalerträgen zugrunde liegenden Anteile oder Genussscheine
 
@@ -3219,7 +3223,7 @@ b) die nach § 3 Nummer 40 dieses Gesetzes, nach § 8b Absatz 1, 2 und 6 Satz 2 
 
 (7) § 42 der Abgabenordnung bleibt unberührt.
 
-##### § 37 Einkommensteuer-Vorauszahlung
+###### § 37 Einkommensteuer-Vorauszahlung
 
 (1) 1Der Steuerpflichtige hat am 10. März, 10. Juni, 10. September und 10. Dezember Vorauszahlungen auf die Einkommensteuer zu entrichten, die er für den laufenden Veranlagungszeitraum voraussichtlich schulden wird. 2Die Einkommensteuer-Vorauszahlung entsteht jeweils mit Beginn des Kalendervierteljahres, in dem die Vorauszahlungen zu entrichten sind, oder, wenn die Steuerpflicht erst im Laufe des Kalendervierteljahres begründet wird, mit Begründung der Steuerpflicht.
 
@@ -3233,7 +3237,7 @@ b) die nach § 3 Nummer 40 dieses Gesetzes, nach § 8b Absatz 1, 2 und 6 Satz 2 
 
 (6) (weggefallen)
 
-##### § 37a Pauschalierung der Einkommensteuer durch Dritte
+###### § 37a Pauschalierung der Einkommensteuer durch Dritte
 
 (1) 1Das Finanzamt kann auf Antrag zulassen, dass das Unternehmen, das Sachprämien im Sinne des § 3 Nummer 38 gewährt, die Einkommensteuer für den Teil der Prämien, der nicht steuerfrei ist, pauschal erhebt. 2Bemessungsgrundlage der pauschalen Einkommensteuer ist der gesamte Wert der Prämien, die den im Inland ansässigen Steuerpflichtigen zufließen. 3Der Pauschsteuersatz beträgt 2,25 Prozent.
 
@@ -3243,7 +3247,7 @@ b) die nach § 3 Nummer 40 dieses Gesetzes, nach § 8b Absatz 1, 2 und 6 Satz 2 
 
 (4) Die pauschale Einkommensteuer gilt als Lohnsteuer und ist von dem Unternehmen in der Lohnsteuer-Anmeldung der Betriebsstätte im Sinne des Absatzes 3 anzumelden und spätestens am zehnten Tag nach Ablauf des für die Betriebsstätte maßgebenden Lohnsteuer-Anmeldungszeitraums an das Betriebsstättenfinanzamt abzuführen.
 
-##### § 37b Pauschalierung der Einkommensteuer bei Sachzuwendungen
+###### § 37b Pauschalierung der Einkommensteuer bei Sachzuwendungen
 
 (1) 1 Steuerpflichtige können die Einkommensteuer einheitlich für alle innerhalb eines Wirtschaftsjahres gewährten
 
@@ -3267,7 +3271,7 @@ den Betrag von 10 000 Euro übersteigen.
 
 ## 2. Steuerabzug vom Arbeitslohn (Lohnsteuer)
 
-##### § 38 Erhebung der Lohnsteuer
+###### § 38 Erhebung der Lohnsteuer
 
 (1) 1 Bei Einkünften aus nichtselbständiger Arbeit wird die Einkommensteuer durch Abzug vom Arbeitslohn erhoben (Lohnsteuer), soweit der Arbeitslohn von einem Arbeitgeber gezahlt wird, der
 
@@ -3293,7 +3297,7 @@ den Betrag von 10 000 Euro übersteigen.
 
 (4) 1Wenn der vom Arbeitgeber geschuldete Barlohn zur Deckung der Lohnsteuer nicht ausreicht, hat der Arbeitnehmer dem Arbeitgeber den Fehlbetrag zur Verfügung zu stellen oder der Arbeitgeber einen entsprechenden Teil der anderen Bezüge des Arbeitnehmers zurückzubehalten. 2Soweit der Arbeitnehmer seiner Verpflichtung nicht nachkommt und der Arbeitgeber den Fehlbetrag nicht durch Zurückbehaltung von anderen Bezügen des Arbeitnehmers aufbringen kann, hat der Arbeitgeber dies dem Betriebsstättenfinanzamt (§ 41a Absatz 1 Satz 1 Nummer 1) anzuzeigen. 3Der Arbeitnehmer hat dem Arbeitgeber die von einem Dritten gewährten Bezüge (Absatz 1 Satz 3) am Ende des jeweiligen Lohnzahlungszeitraums anzugeben; wenn der Arbeitnehmer keine Angabe oder eine erkennbar unrichtige Angabe macht, hat der Arbeitgeber dies dem Betriebsstättenfinanzamt anzuzeigen. 4Das Finanzamt hat die zu wenig erhobene Lohnsteuer vom Arbeitnehmer nachzufordern.
 
-##### § 38a Höhe der Lohnsteuer
+###### § 38a Höhe der Lohnsteuer
 
 (1) 1Die Jahreslohnsteuer bemisst sich nach dem Arbeitslohn, den der Arbeitnehmer im Kalenderjahr bezieht (Jahresarbeitslohn). 2Laufender Arbeitslohn gilt in dem Kalenderjahr als bezogen, in dem der Lohnzahlungszeitraum endet; in den Fällen des § 39b Absatz 5 Satz 1 tritt der Lohnabrechnungszeitraum an die Stelle des Lohnzahlungszeitraums. 3Arbeitslohn, der nicht als laufender Arbeitslohn gezahlt wird (sonstige Bezüge), wird in dem Kalenderjahr bezogen, in dem er dem Arbeitnehmer zufließt.
 
@@ -3303,7 +3307,7 @@ den Betrag von 10 000 Euro übersteigen.
 
 (4) Bei der Ermittlung der Lohnsteuer werden die Besteuerungsgrundlagen des Einzelfalls durch die Einreihung der Arbeitnehmer in Steuerklassen (§ 38b), Feststellung von Freibeträgen und Hinzurechnungsbeträgen (§ 39a) sowie Bereitstellung von elektronischen Lohnsteuerabzugsmerkmalen (§ 39e) oder Ausstellung von entsprechenden Bescheinigungen für den Lohnsteuerabzug (§ 39 Absatz 3 und § 39e Absatz 7 und 8) berücksichtigt.
 
-##### § 38b Lohnsteuerklassen, Zahl der Kinderfreibeträge
+###### § 38b Lohnsteuerklassen, Zahl der Kinderfreibeträge
 
 (1) 1 Für die Durchführung des Lohnsteuerabzugs werden Arbeitnehmer in Steuerklassen eingereiht. 2 Dabei gilt Folgendes:
 
@@ -3355,7 +3359,7 @@ c) der Arbeitnehmer allein das Kind angenommen hat.
 
 (3) 1Auf Antrag des Arbeitnehmers kann abweichend von Absatz 1 oder 2 eine für ihn ungünstigere Steuerklasse oder geringere Zahl der Kinderfreibeträge als Lohnsteuerabzugsmerkmal gebildet werden. 2Der Wechsel von der Steuerklasse III oder V in die Steuerklasse IV ist auch auf Antrag nur eines Ehegatten möglich mit der Folge, dass beide Ehegatten in die Steuerklasse IV eingereiht werden. 3Diese Anträge sind nach amtlich vorgeschriebenem Vordruck zu stellen und vom Antragsteller eigenhändig zu unterschreiben.
 
-##### § 39 Lohnsteuerabzugsmerkmale
+###### § 39 Lohnsteuerabzugsmerkmale
 
 (1) 1Für die Durchführung des Lohnsteuerabzugs werden auf Veranlassung des Arbeitnehmers Lohnsteuerabzugsmerkmale gebildet (§ 39a Absatz 1 und 4, § 39e Absatz 1 in Verbindung mit § 39e Absatz 4 Satz 1 und nach § 39e Absatz 8). 2Soweit Lohnsteuerabzugsmerkmale nicht nach § 39e Absatz 1 Satz 1 automatisiert gebildet werden oder davon abweichend zu bilden sind, ist das Finanzamt für die Bildung der Lohnsteuerabzugsmerkmale nach den §§ 38b und 39a und die Bestimmung ihrer Geltungsdauer zuständig. 3Für die Bildung der Lohnsteuerabzugsmerkmale sind die von den Meldebehörden nach § 39e Absatz 2 Satz 2 mitgeteilten Daten vorbehaltlich einer nach Satz 2 abweichenden Bildung durch das Finanzamt bindend. 4Die Bildung der Lohnsteuerabzugsmerkmale ist eine gesonderte Feststellung von Besteuerungsgrundlagen im Sinne des § 179 Absatz 1 der Abgabenordnung, die unter dem Vorbehalt der Nachprüfung steht. 5Die Bildung und die Änderung der Lohnsteuerabzugsmerkmale sind dem Arbeitnehmer bekannt zu geben. 6Die Bekanntgabe richtet sich nach § 119 Absatz 2 der Abgabenordnung und § 39e Absatz 6. 7Der Bekanntgabe braucht keine Belehrung über den zulässigen Rechtsbehelf beigefügt zu werden. 8Ein schriftlicher Bescheid mit einer Belehrung über den zulässigen Rechtsbehelf ist jedoch zu erteilen, wenn einem Antrag des Arbeitnehmers auf Bildung oder Änderung der Lohnsteuerabzugsmerkmale nicht oder nicht in vollem Umfang entsprochen wird oder der Arbeitnehmer die Erteilung eines Bescheids beantragt. 9Vorbehaltlich des Absatzes 5 ist § 153 Absatz 2 der Abgabenordnung nicht anzuwenden.
 
@@ -3391,7 +3395,7 @@ b) für eine private Krankenversicherung und für eine private Pflege-Pflichtver
 
 (9) (weggefallen)
 
-##### § 39a Freibetrag und Hinzurechnungsbetrag
+###### § 39a Freibetrag und Hinzurechnungsbetrag
 
 (1) 1 Auf Antrag des unbeschränkt einkommensteuerpflichtigen Arbeitnehmers ermittelt das Finanzamt die Höhe eines vom Arbeitslohn insgesamt abzuziehenden Freibetrags aus der Summe der folgenden Beträge:
 
@@ -3453,7 +3457,7 @@ b) in Höhe des Betrags für ein zweites oder ein weiteres Dienstverhältnis zug
 
 (5) Ist zuwenig Lohnsteuer erhoben worden, weil ein Freibetrag unzutreffend als Lohnsteuerabzugsmerkmal ermittelt worden ist, hat das Finanzamt den Fehlbetrag vom Arbeitnehmer nachzufordern, wenn er 10 Euro übersteigt.
 
-##### § 39b Einbehaltung der Lohnsteuer
+###### § 39b Einbehaltung der Lohnsteuer
 
 (1) Bei unbeschränkt und beschränkt einkommensteuerpflichtigen Arbeitnehmern hat der Arbeitgeber den Lohnsteuerabzug nach Maßgabe der Absätze 2 bis 6 durchzuführen.
 
@@ -3495,7 +3499,7 @@ ergibt den zu versteuernden Jahresbetrag. 6 Für den zu versteuernden Jahresbetr
 
 (6) 1Das Bundesministerium der Finanzen hat im Einvernehmen mit den obersten Finanzbehörden der Länder auf der Grundlage der Absätze 2 und 3 einen Programmablaufplan für die maschinelle Berechnung der Lohnsteuer aufzustellen und bekannt zu machen. 2Im Programmablaufplan kann von den Regelungen in den Absätzen 2 und 3 abgewichen werden, wenn sich das Ergebnis der maschinellen Berechnung der Lohnsteuer an das Ergebnis einer Veranlagung zur Einkommensteuer anlehnt.
 
-##### § 39c Einbehaltung der Lohnsteuer ohne Lohnsteuerabzugsmerkmale
+###### § 39c Einbehaltung der Lohnsteuer ohne Lohnsteuerabzugsmerkmale
 
 (1) 1Solange der Arbeitnehmer dem Arbeitgeber zum Zweck des Abrufs der elektronischen Lohnsteuerabzugsmerkmale (§ 39e Absatz 4 Satz 1) die ihm zugeteilte Identifikationsnummer sowie den Tag der Geburt schuldhaft nicht mitteilt oder das Bundeszentralamt für Steuern die Mitteilung elektronischer Lohnsteuerabzugsmerkmale ablehnt, hat der Arbeitgeber die Lohnsteuer nach Steuerklasse VI zu ermitteln. 2Kann der Arbeitgeber die elektronischen Lohnsteuerabzugsmerkmale wegen technischer Störungen nicht abrufen oder hat der Arbeitnehmer die fehlende Mitteilung der ihm zuzuteilenden Identifikationsnummer nicht zu vertreten, hat der Arbeitgeber für die Lohnsteuerberechnung die voraussichtlichen Lohnsteuerabzugsmerkmale im Sinne des § 38b längstens für die Dauer von drei Kalendermonaten zu Grunde zu legen. 3Hat nach Ablauf der drei Kalendermonate der Arbeitnehmer die Identifikationsnummer sowie den Tag der Geburt nicht mitgeteilt, ist rückwirkend Satz 1 anzuwenden. 4Sobald dem Arbeitgeber in den Fällen des Satzes 2 die elektronischen Lohnsteuerabzugsmerkmale vorliegen, sind die Lohnsteuerermittlungen für die vorangegangenen Monate zu überprüfen und, falls erforderlich, zu ändern. 5Die zu wenig oder zu viel einbehaltene Lohnsteuer ist jeweils bei der nächsten Lohnabrechnung auszugleichen.
 
@@ -3503,11 +3507,11 @@ ergibt den zu versteuernden Jahresbetrag. 6 Für den zu versteuernden Jahresbetr
 
 (3) 1In den Fällen des § 38 Absatz 3a Satz 1 kann der Dritte die Lohnsteuer für einen sonstigen Bezug mit 20 Prozent unabhängig von den Lohnsteuerabzugsmerkmalen des Arbeitnehmers ermitteln, wenn der maßgebende Jahresarbeitslohn nach § 39b Absatz 3 zuzüglich des sonstigen Bezugs 10 000 Euro nicht übersteigt. 2Bei der Feststellung des maßgebenden Jahresarbeitslohns sind nur die Lohnzahlungen des Dritten zu berücksichtigen.
 
-##### § 39d (weggefallen)
+###### § 39d (weggefallen)
 
 -
 
-##### § 39e Verfahren zur Bildung und Anwendung der elektronischen Lohnsteuerabzugsmerkmale
+###### § 39e Verfahren zur Bildung und Anwendung der elektronischen Lohnsteuerabzugsmerkmale
 
 (1) 1Das Bundeszentralamt für Steuern bildet für jeden Arbeitnehmer grundsätzlich automatisiert die Steuerklasse und für die bei den Steuerklassen I bis IV zu berücksichtigenden Kinder die Zahl der Kinderfreibeträge nach § 38b Absatz 2 Satz 1 als Lohnsteuerabzugsmerkmale (§ 39 Absatz 4 Satz 1 Nummer 1 und 2); für Änderungen gilt § 39 Absatz 2 entsprechend. 2Soweit das Finanzamt Lohnsteuerabzugsmerkmale nach § 39 bildet, teilt es sie dem Bundeszentralamt für Steuern zum Zweck der Bereitstellung für den automatisierten Abruf durch den Arbeitgeber mit. 3Lohnsteuerabzugsmerkmale sind frühestens bereitzustellen mit Wirkung von Beginn des Kalenderjahres an, für das sie anzuwenden sind, jedoch nicht für einen Zeitpunkt vor Beginn des Dienstverhältnisses.
 
@@ -3579,7 +3583,7 @@ ergibt den zu versteuernden Jahresbetrag. 6 Für den zu versteuernden Jahresbetr
 
 (10) Die beim Bundeszentralamt für Steuern nach Absatz 2 Satz 1 gespeicherten Daten können auch zur Prüfung und Durchführung der Einkommensbesteuerung (§ 2) des Steuerpflichtigen für Veranlagungszeiträume ab 2005, zur Ermittlung des reduzierten Beitragssatzes nach § 55 Absatz 3 Satz 3 bis 5 des Elften Buches Sozialgesetzbuch, zur Ermittlung des Einkommens nach § 97a des Sechsten Buches Sozialgesetzbuch und zur Prüfung eines Anspruchs auf Kindergeld verarbeitet werden.
 
-##### § 39f Faktorverfahren anstelle Steuerklassenkombination III/V
+###### § 39f Faktorverfahren anstelle Steuerklassenkombination III/V
 
 (1) 1Bei Ehegatten, die in die Steuerklasse IV gehören (§ 38b Absatz 1 Satz 2 Nummer 4 erster Halbsatz), hat das Finanzamt auf Antrag beider Ehegatten nach § 39a anstelle der Steuerklassenkombination III/V (§ 38b Absatz 1 Satz 2 Nummer 5) als Lohnsteuerabzugsmerkmal jeweils die Steuerklasse IV in Verbindung mit einem Faktor zur Ermittlung der Lohnsteuer zu bilden, wenn der Faktor kleiner als 1 ist. 2Der Faktor ist Y : X und vom Finanzamt mit drei Nachkommastellen ohne Rundung zu berechnen. 3„Y“ ist die voraussichtliche Einkommensteuer für beide Ehegatten nach dem Splittingverfahren (§ 32a Absatz 5) unter Berücksichtigung der in § 39b Absatz 2 genannten Abzugsbeträge. 4„X“ ist die Summe der voraussichtlichen Lohnsteuer bei Anwendung der Steuerklasse IV für jeden Ehegatten. 5Maßgeblich sind die Steuerbeträge des Kalenderjahres, für das der Faktor erstmals gelten soll.6In die Bemessungsgrundlage für Y werden jeweils neben den Jahresarbeitslöhnen der ersten Dienstverhältnisse zusätzlich nur Beträge einbezogen, die nach § 39a Absatz 1 Satz 1 Nummer 1 bis 6 als Freibetrag ermittelt und als Lohnsteuerabzugsmerkmal gebildet werden könnten; Freibeträge werden neben dem Faktor nicht als Lohnsteuerabzugsmerkmal gebildet. 7In den Fällen des § 39a Absatz 1 Satz 1 Nummer 7 sind bei der Ermittlung von Y und X die Hinzurechnungsbeträge zu berücksichtigen; die Hinzurechnungsbeträge sind zusätzlich als Lohnsteuerabzugsmerkmal für das erste Dienstverhältnis zu bilden. 8Arbeitslöhne aus zweiten und weiteren Dienstverhältnissen (Steuerklasse VI) sind im Faktorverfahren nicht zu berücksichtigen. 9Der nach Satz 1 gebildete Faktor gilt bis zum Ablauf des Kalenderjahres, das auf das Kalenderjahr folgt, in dem der Faktor erstmals gilt oder zuletzt geändert worden ist. 10Die Ehegatten können eine Änderung des Faktors beantragen, wenn sich die für die Ermittlung des Faktors maßgeblichen Jahresarbeitslöhne im Sinne des Satzes 6 ändern. 11Besteht eine Anzeigepflicht nach § 39a Absatz 1 Satz 5 oder wird eine Änderung des Freibetrags nach § 39a Absatz 1 Satz 4 beantragt, gilt die Anzeige oder der Antrag auf Änderung des Freibetrags zugleich als Antrag auf Anpassung des Faktors.
 
@@ -3589,7 +3593,7 @@ ergibt den zu versteuernden Jahresbetrag. 6 Für den zu versteuernden Jahresbetr
 
 (4) Das Faktorverfahren ist im Programmablaufplan für die maschinelle Berechnung der Lohnsteuer (§ 39b Absatz 6) zu berücksichtigen.
 
-##### § 40 Pauschalierung der Lohnsteuer in besonderen Fällen
+###### § 40 Pauschalierung der Lohnsteuer in besonderen Fällen
 
 (1) 1 Das Betriebsstättenfinanzamt (§ 41a Absatz 1 Satz 1 Nummer 1) kann auf Antrag des Arbeitgebers zulassen, dass die Lohnsteuer mit einem unter Berücksichtigung der Vorschriften des § 38a zu ermittelnden Pauschsteuersatz erhoben wird, soweit
 
@@ -3635,7 +3639,7 @@ b) Zuschüsse zu den Aufwendungen des Arbeitnehmers für Fahrten zwischen Wohnun
 
 (4) 1Das Pauschalierungswahlrecht des Arbeitgebers ist durch Übermittlung oder Abgabe einer Lohnsteuer-Anmeldung, in der die pauschale Lohnsteuer angegeben wird, auszuüben. 2Abweichend von Satz 1 kann der Arbeitgeber für den Prüfungszeitraum einer Lohnsteuer-Außenprüfung das Pauschalierungswahlrecht durch schriftliche oder elektronische Erklärung gegenüber dem Betriebsstättenfinanzamt ausüben. 3Die Erklärung nach Satz 2 ist spätestens bis zur Bestandskraft der auf Grund der Lohnsteuer-Außenprüfung erlassenen Bescheide abzugeben. 4Im Fall des Satzes 2 wird die pauschale Lohnsteuer vom Betriebsstättenfinanzamt durch Steuerbescheid festgesetzt.
 
-##### § 40a Pauschalierung der Lohnsteuer für Teilzeitbeschäftigte und geringfügig Beschäftigte
+###### § 40a Pauschalierung der Lohnsteuer für Teilzeitbeschäftigte und geringfügig Beschäftigte
 
 (1) 1 Der Arbeitgeber kann unter Verzicht auf den Abruf von elektronischen Lohnsteuerabzugsmerkmalen (§ 39e Absatz 4 Satz 2) oder die Vorlage einer Bescheinigung für den Lohnsteuerabzug (§ 39 Absatz 3 oder § 39e Absatz 7 oder Absatz 8) bei Arbeitnehmern, die nur kurzfristig beschäftigt werden, die Lohnsteuer mit einem Pauschsteuersatz von 25 Prozent des Arbeitslohns erheben. 2 Eine kurzfristige Beschäftigung liegt vor, wenn der Arbeitnehmer bei dem Arbeitgeber gelegentlich, nicht regelmäßig wiederkehrend beschäftigt wird, die Dauer der Beschäftigung 18 zusammenhängende Arbeitstage nicht übersteigt und
 
@@ -3661,7 +3665,7 @@ b) Zuschüsse zu den Aufwendungen des Arbeitnehmers für Fahrten zwischen Wohnun
 
 (7) 1 Der Arbeitgeber kann unter Verzicht auf den Abruf von elektronischen Lohnsteuerabzugsmerkmalen (§ 39e Absatz 4 Satz 2) die Lohnsteuer für Bezüge von kurzfristigen, im Inland ausgeübten Tätigkeiten beschränkt steuerpflichtiger Arbeitnehmer, die einer ausländischen Betriebsstätte dieses Arbeitgebers zugeordnet sind, mit einem Pauschsteuersatz von 30 Prozent des Arbeitslohns erheben. 2 Eine kurzfristige Tätigkeit im Sinne des Satzes 1 liegt nur vor, wenn die im Inland ausgeübte Tätigkeit 18 zusammenhängende Arbeitstage nicht übersteigt.
 
-##### § 40b Pauschalierung der Lohnsteuer bei bestimmten Zukunftssicherungsleistungen
+###### § 40b Pauschalierung der Lohnsteuer bei bestimmten Zukunftssicherungsleistungen
 
 (1) Der Arbeitgeber kann die Lohnsteuer von den Zuwendungen zum Aufbau einer nicht kapitalgedeckten betrieblichen Altersversorgung an eine Pensionskasse mit einem Pauschsteuersatz von 20 Prozent der Zuwendungen erheben.
 
@@ -3673,13 +3677,13 @@ b) Zuschüsse zu den Aufwendungen des Arbeitnehmers für Fahrten zwischen Wohnun
 
 (5) 1§ 40 Absatz 3 und 4 ist anzuwenden. 2Die Anwendung des § 40 Absatz 1 Satz 1 Nummer 1 auf Bezüge im Sinne des Absatzes 1, des Absatzes 3 und des Absatzes 4 ist ausgeschlossen.
 
-##### § 41 Aufzeichnungspflichten beim Lohnsteuerabzug
+###### § 41 Aufzeichnungspflichten beim Lohnsteuerabzug
 
 (1) 1Der Arbeitgeber hat am Ort der Betriebsstätte (Absatz 2) für jeden Arbeitnehmer und jedes Kalenderjahr ein Lohnkonto zu führen. 2In das Lohnkonto sind die nach § 39e Absatz 4 Satz 2 und Absatz 5 Satz 3 abgerufenen elektronischen Lohnsteuerabzugsmerkmale sowie die für den Lohnsteuerabzug erforderlichen Merkmale aus der vom Finanzamt ausgestellten Bescheinigung für den Lohnsteuerabzug (§ 39 Absatz 3 oder § 39e Absatz 7 oder Absatz 8) zu übernehmen. 3Bei jeder Lohnzahlung für das Kalenderjahr, für das das Lohnkonto gilt, sind im Lohnkonto die Art und Höhe des gezahlten Arbeitslohns einschließlich der steuerfreien Bezüge sowie die einbehaltene oder übernommene Lohnsteuer einzutragen; an die Stelle der Lohnzahlung tritt in den Fällen des § 39b Absatz 5 Satz 1 die Lohnabrechnung. 4Ferner sind das Kurzarbeitergeld, das Qualifizierungsgeld, der Zuschuss zum Mutterschaftsgeld nach dem Mutterschutzgesetz, der Zuschuss bei Beschäftigungsverboten für die Zeit vor oder nach einer Entbindung sowie für den Entbindungstag während einer Elternzeit nach beamtenrechtlichen Vorschriften, die Entschädigungen für Verdienstausfall nach dem Infektionsschutzgesetz, die nach § 3 Nummer 21 steuerfreien Einnahmen, die nach § 3 Nummer 28 steuerfreien Aufstockungsbeträge oder Zuschläge und die nach § 3 Nummer 28a steuerfreien Zuschüsse einzutragen. 5Ist während der Dauer des Dienstverhältnisses in anderen Fällen als in denen des Satzes 4 der Anspruch auf Arbeitslohn für mindestens fünf aufeinander folgende Arbeitstage im Wesentlichen weggefallen, so ist dies jeweils durch Eintragung des Großbuchstabens U zu vermerken. 6Hat der Arbeitgeber die Lohnsteuer von einem sonstigen Bezug im ersten Dienstverhältnis berechnet und ist dabei der Arbeitslohn aus früheren Dienstverhältnissen des Kalenderjahres außer Betracht geblieben, so ist dies durch Eintragung des Großbuchstabens S zu vermerken. 7Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, welche Einzelangaben im Lohnkonto aufzuzeichnen sind und Einzelheiten für eine elektronische Bereitstellung dieser Daten im Rahmen einer Lohnsteuer-Außenprüfung oder einer Lohnsteuer-Nachschau durch die Einrichtung einer einheitlichen digitalen Schnittstelle zu regeln. 8Dabei können für Arbeitnehmer mit geringem Arbeitslohn und für die Fälle der §§ 40 bis 40b Aufzeichnungserleichterungen sowie für steuerfreie Bezüge Aufzeichnungen außerhalb des Lohnkontos zugelassen werden. 9Die Lohnkonten sind bis zum Ablauf des sechsten Kalenderjahres, das auf die zuletzt eingetragene Lohnzahlung folgt, aufzubewahren. 10Die Aufbewahrungsfrist nach Satz 9 gilt abweichend von § 93c Absatz 1 Nummer 4 der Abgabenordnung auch für die dort genannten Aufzeichnungen und Unterlagen.
 
 (2) 1Betriebsstätte ist der Betrieb oder Teil des Betriebs des Arbeitgebers, in dem der für die Durchführung des Lohnsteuerabzugs maßgebende Arbeitslohn ermittelt wird. 2Wird der maßgebende Arbeitslohn nicht in dem Betrieb oder einem Teil des Betriebs des Arbeitgebers oder nicht im Inland ermittelt, so gilt als Betriebsstätte der Mittelpunkt der geschäftlichen Leitung des Arbeitgebers im Inland; im Fall des § 38 Absatz 1 Satz 1 Nummer 2 gilt als Betriebsstätte der Ort im Inland, an dem die Arbeitsleistung ganz oder vorwiegend stattfindet. 3Als Betriebsstätte gilt auch der inländische Heimathafen deutscher Handelsschiffe, wenn die Reederei im Inland keine Niederlassung hat.
 
-##### § 41a Anmeldung und Abführung der Lohnsteuer
+###### § 41a Anmeldung und Abführung der Lohnsteuer
 
 (1) 1 Der Arbeitgeber hat spätestens am zehnten Tag nach Ablauf eines jeden Lohnsteuer-Anmeldungszeitraums
 
@@ -3695,7 +3699,7 @@ b) Zuschüsse zu den Aufwendungen des Arbeitnehmers für Fahrten zwischen Wohnun
 
 (4) 1Arbeitgeber, die eigene oder gecharterte Handelsschiffe betreiben, dürfen die anzumeldende und abzuführende Lohnsteuer abziehen und einbehalten, die auf den Arbeitslohn entfällt, der an die Besatzungsmitglieder für die Beschäftigungszeiten auf diesen Schiffen gezahlt wird. 2Die Handelsschiffe müssen in einem Seeschiffsregister eines Mitgliedstaates der Europäischen Union oder eines Staates, auf den das Abkommen über den Europäischen Wirtschaftsraum anwendbar ist, eingetragen sein, die Flagge eines dieser Staaten führen und zur Beförderung von Personen oder Gütern im Verkehr mit oder zwischen ausländischen Häfen, innerhalb eines ausländischen Hafens oder zwischen einem ausländischen Hafen und der Hohen See betrieben werden. 3Die Sätze 1 und 2 sind entsprechend anzuwenden, wenn Seeschiffe im Wirtschaftsjahr überwiegend außerhalb der deutschen Hoheitsgewässer zum Schleppen, Bergen oder zur Aufsuchung von Bodenschätzen oder zur Vermessung von Energielagerstätten unter dem Meeresboden eingesetzt werden. 4Bei Besatzungsmitgliedern, die auf Schiffen, einschließlich Ro-Ro-Fahrgastschiffen, arbeiten, die im regelmäßigen Personenbeförderungsdienst zwischen Häfen im Hoheitsgebiet der Mitgliedstaaten der Europäischen Union eingesetzt werden, gelten die Sätze 1 und 2 nur, wenn die Besatzungsmitglieder Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines Staates sind, auf den das Abkommen über den Europäischen Wirtschaftsraum anwendbar ist. 5Bei Seeschiffen, die für Schlepp- und Baggerarbeiten genutzt werden, gelten die Sätze 1 und 2 nur, wenn es sich um seetüchtige Schlepper und Baggerschiffe mit Eigenantrieb handelt und die Schiffe während mindestens 50 Prozent ihrer Betriebszeit für Tätigkeiten auf See eingesetzt werden. 6Ist für den Lohnsteuerabzug die Lohnsteuer nach der Steuerklasse V oder VI zu ermitteln, bemisst sich der Betrag nach Satz 1 nach der Lohnsteuer der Steuerklasse I.
 
-##### § 41b Abschluss des Lohnsteuerabzugs
+###### § 41b Abschluss des Lohnsteuerabzugs
 
 (1) 1 Bei Beendigung eines Dienstverhältnisses oder am Ende des Kalenderjahres hat der Arbeitgeber das Lohnkonto des Arbeitnehmers abzuschließen. 2 Auf Grund der Aufzeichnungen im Lohnkonto hat der Arbeitgeber nach Abschluss des Lohnkontos für jeden Arbeitnehmer der für dessen Besteuerung nach dem Einkommen zuständigen Finanzbehörde nach Maßgabe des § 93c der Abgabenordnung neben den in § 93c Absatz 1 der Abgabenordnung genannten Daten insbesondere folgende Angaben zu übermitteln (elektronische Lohnsteuerbescheinigung):
 
@@ -3741,7 +3745,7 @@ b) Zuschüsse zu den Aufwendungen des Arbeitnehmers für Fahrten zwischen Wohnun
 
 (6) Die Absätze 1 bis 5 gelten nicht für Arbeitnehmer, soweit sie Arbeitslohn bezogen haben, der nach den §§ 40 bis 40b pauschal besteuert worden ist.
 
-##### § 41c Änderung des Lohnsteuerabzugs
+###### § 41c Änderung des Lohnsteuerabzugs
 
 (1) 1 Der Arbeitgeber ist berechtigt, bei der jeweils nächstfolgenden Lohnzahlung bisher erhobene Lohnsteuer zu erstatten oder noch nicht erhobene Lohnsteuer nachträglich einzubehalten,
 
@@ -3763,9 +3767,9 @@ b) Zuschüsse zu den Aufwendungen des Arbeitnehmers für Fahrten zwischen Wohnun
 
 dem Betriebsstättenfinanzamt unverzüglich elektronisch anzuzeigen. 2 Das Finanzamt hat die zu wenig erhobene Lohnsteuer vom Arbeitnehmer nachzufordern, wenn der nachzufordernde Betrag 10 Euro übersteigt. 3 § 42d bleibt unberührt.
 
-##### (XXXX) §§ 42 und 42a (weggefallen)
+###### (XXXX) §§ 42 und 42a (weggefallen)
 
-##### § 42b Lohnsteuer-Jahresausgleich durch den Arbeitgeber
+###### § 42b Lohnsteuer-Jahresausgleich durch den Arbeitgeber
 
 (1) 1 Der Arbeitgeber ist berechtigt, seinen Arbeitnehmern, die während des abgelaufenen Kalenderjahres (Ausgleichsjahr) ständig in einem zu ihm bestehenden Dienstverhältnis gestanden haben, die für das Ausgleichsjahr einbehaltene Lohnsteuer insoweit zu erstatten, als sie die auf den Jahresarbeitslohn entfallende Jahreslohnsteuer übersteigt (Lohnsteuer-Jahresausgleich). 2 Er ist zur Durchführung des Lohnsteuer-Jahresausgleichs verpflichtet, wenn er am 31. Dezember des Ausgleichsjahres mindestens zehn Arbeitnehmer beschäftigt. 3 Der Arbeitgeber darf den Lohnsteuer-Jahresausgleich nicht durchführen, wenn
 
@@ -3797,11 +3801,11 @@ dem Betriebsstättenfinanzamt unverzüglich elektronisch anzuzeigen. 2 Das Finan
 
 (4) 1Im Lohnkonto für das Ausgleichsjahr ist die im Lohnsteuer-Jahresausgleich erstattete Lohnsteuer gesondert einzutragen. 2In der Lohnsteuerbescheinigung für das Ausgleichsjahr ist der sich nach Verrechnung der erhobenen Lohnsteuer mit der erstatteten Lohnsteuer ergebende Betrag als erhobene Lohnsteuer einzutragen.
 
-##### § 42c (weggefallen)
+###### § 42c (weggefallen)
 
 -
 
-##### § 42d Haftung des Arbeitgebers und Haftung bei Arbeitnehmerüberlassung
+###### § 42d Haftung des Arbeitgebers und Haftung bei Arbeitnehmerüberlassung
 
 (1) Der Arbeitgeber haftet
 
@@ -3839,11 +3843,11 @@ dem Betriebsstättenfinanzamt unverzüglich elektronisch anzuzeigen. 2 Das Finan
 
 (9) 1Der Arbeitgeber haftet auch dann, wenn ein Dritter nach § 38 Absatz 3a dessen Pflichten trägt. 2In diesen Fällen haftet der Dritte neben dem Arbeitgeber. 3Soweit die Haftung des Dritten reicht, sind der Arbeitgeber, der Dritte und der Arbeitnehmer Gesamtschuldner. 4Absatz 3 Satz 2 bis 4 ist anzuwenden; Absatz 4 gilt auch für die Inanspruchnahme des Dritten. 5Im Fall des § 38 Absatz 3a Satz 2 beschränkt sich die Haftung des Dritten auf die Lohnsteuer, die für die Zeit zu erheben ist, für die er sich gegenüber dem Arbeitgeber zur Vornahme des Lohnsteuerabzugs verpflichtet hat; der maßgebende Zeitraum endet nicht, bevor der Dritte seinem Betriebsstättenfinanzamt die Beendigung seiner Verpflichtung gegenüber dem Arbeitgeber angezeigt hat. 6In den Fällen des § 38 Absatz 3a Satz 7 ist als Haftungsschuld der Betrag zu ermitteln, um den die Lohnsteuer, die für den gesamten Arbeitslohn des Lohnzahlungszeitraums zu berechnen und einzubehalten ist, die insgesamt tatsächlich einbehaltene Lohnsteuer übersteigt. 7Betrifft die Haftungsschuld mehrere Arbeitgeber, so ist sie bei fehlerhafter Lohnsteuerberechnung nach dem Verhältnis der Arbeitslöhne und für nachträglich zu erfassende Arbeitslohnbeträge nach dem Verhältnis dieser Beträge auf die Arbeitgeber aufzuteilen. 8In den Fällen des § 38 Absatz 3a ist das Betriebsstättenfinanzamt des Dritten für die Geltendmachung der Steuer- oder Haftungsschuld zuständig.
 
-##### § 42e Anrufungsauskunft
+###### § 42e Anrufungsauskunft
 
 1Das Betriebsstättenfinanzamt hat auf Anfrage eines Beteiligten darüber Auskunft zu geben, ob und inwieweit im einzelnen Fall die Vorschriften über die Lohnsteuer anzuwenden sind. 2Sind für einen Arbeitgeber mehrere Betriebsstättenfinanzämter zuständig, so erteilt das Finanzamt die Auskunft, in dessen Bezirk sich die Geschäftsleitung (§ 10 der Abgabenordnung) des Arbeitgebers im Inland befindet. 3Ist dieses Finanzamt kein Betriebsstättenfinanzamt, so ist das Finanzamt zuständig, in dessen Bezirk sich die Betriebsstätte mit den meisten Arbeitnehmern befindet. 4In den Fällen der Sätze 2 und 3 hat der Arbeitgeber sämtliche Betriebsstättenfinanzämter, das Finanzamt der Geschäftsleitung und erforderlichenfalls die Betriebsstätte mit den meisten Arbeitnehmern anzugeben sowie zu erklären, für welche Betriebsstätten die Auskunft von Bedeutung ist.
 
-##### § 42f Lohnsteuer-Außenprüfung
+###### § 42f Lohnsteuer-Außenprüfung
 
 (1) Für die Außenprüfung der Einbehaltung oder Übernahme und Abführung der Lohnsteuer ist das Betriebsstättenfinanzamt zuständig.
 
@@ -3853,7 +3857,7 @@ dem Betriebsstättenfinanzamt unverzüglich elektronisch anzuzeigen. 2 Das Finan
 
 (4) Auf Verlangen des Arbeitgebers können die Außenprüfung und die Prüfungen durch die Träger der Rentenversicherung (§ 28p des Vierten Buches Sozialgesetzbuch) zur gleichen Zeit durchgeführt werden.
 
-##### § 42g Lohnsteuer-Nachschau
+###### § 42g Lohnsteuer-Nachschau
 
 (1) 1Die Lohnsteuer-Nachschau dient der Sicherstellung einer ordnungsgemäßen Einbehaltung und Abführung der Lohnsteuer. 2Sie ist ein besonderes Verfahren zur zeitnahen Aufklärung steuererheblicher Sachverhalte.
 
@@ -3867,7 +3871,7 @@ dem Betriebsstättenfinanzamt unverzüglich elektronisch anzuzeigen. 2 Das Finan
 
 ## 3. Steuerabzug vom Kapitalertrag (Kapitalertragsteuer)
 
-##### § 43 Kapitalerträge mit Steuerabzug
+###### § 43 Kapitalerträge mit Steuerabzug
 
 (1) 1 Bei den folgenden inländischen und in den Fällen der Nummern 5 bis 7 Buchstabe a und Nummern 8 bis 12 sowie Satz 2 auch ausländischen Kapitalerträgen wird die Einkommensteuer durch Abzug vom Kapitalertrag (Kapitalertragsteuer) erhoben:
 
@@ -3959,7 +3963,7 @@ c) (weggefallen)
 
 (5) 1Für Kapitalerträge im Sinne des § 20, soweit sie der Kapitalertragsteuer unterlegen haben, ist die Einkommensteuer mit dem Steuerabzug abgegolten; die Abgeltungswirkung des Steuerabzugs tritt nicht ein, wenn der Gläubiger nach § 44 Absatz 1 Satz 10 und 11 und Absatz 5 in Anspruch genommen werden kann. 2Dies gilt nicht in Fällen des § 32d Absatz 2 und für Kapitalerträge, die zu den Einkünften aus Land- und Forstwirtschaft, aus Gewerbebetrieb, aus selbständiger Arbeit oder aus Vermietung und Verpachtung gehören. 3Auf Antrag des Gläubigers werden Kapitalerträge im Sinne des Satzes 1 in die besondere Besteuerung von Kapitalerträgen nach § 32d einbezogen. 4Eine vorläufige Festsetzung der Einkommensteuer im Sinne des § 165 Absatz 1 Satz 2 Nummer 2 bis 4 der Abgabenordnung umfasst auch Einkünfte im Sinne des Satzes 1, für die der Antrag nach Satz 3 nicht gestellt worden ist.
 
-##### § 43a Bemessung der Kapitalertragsteuer
+###### § 43a Bemessung der Kapitalertragsteuer
 
 (1) 1 Die Kapitalertragsteuer beträgt
 
@@ -3981,7 +3985,7 @@ wenn die Wirtschaftsgüter von der die Kapitalerträge auszahlenden Stelle erwor
 
 (4) 1Die Absätze 2 und 3 gelten entsprechend für die das Bundesschuldbuch führende Stelle oder eine Landesschuldenverwaltung als auszahlende Stelle. 2Werden die Wertpapiere oder Forderungen von einem Kreditinstitut, Finanzdienstleistungsinstitut oder einem Wertpapierinstitut mit der Maßgabe der Verwahrung und Verwaltung durch die das Bundesschuldbuch führende Stelle oder eine Landesschuldenverwaltung erworben, hat das Kreditinstitut, das Finanzdienstleistungsinstitut oder das Wertpapierinstitut der das Bundesschuldbuch führenden Stelle oder einer Landesschuldenverwaltung zusammen mit den im Schuldbuch einzutragenden Wertpapieren und Forderungen den Erwerbszeitpunkt und die Anschaffungsdaten sowie in Fällen des Absatzes 2 den Erwerbspreis der für einen marktmäßigen Handel bestimmten schuldbuchfähigen Wertpapiere des Bundes oder der Länder und außerdem mitzuteilen, dass es diese Wertpapiere und Forderungen erworben oder veräußert und seitdem verwahrt oder verwaltet hat.
 
-##### § 43b Bemessung der Kapitalertragsteuer bei bestimmten Gesellschaften
+###### § 43b Bemessung der Kapitalertragsteuer bei bestimmten Gesellschaften
 
 (1) 1Auf Antrag wird die Kapitalertragsteuer für Kapitalerträge im Sinne des § 20 Absatz 1 Nummer 1, die einer Muttergesellschaft, die weder ihren Sitz noch ihre Geschäftsleitung im Inland hat, oder einer in einem anderen Mitgliedstaat der Europäischen Union gelegenen Betriebsstätte dieser Muttergesellschaft, aus Ausschüttungen einer Tochtergesellschaft zufließen, nicht erhoben; § 50d Absatz 3 gilt entsprechend. 2Satz 1 gilt auch für Ausschüttungen einer Tochtergesellschaft, die einer in einem anderen Mitgliedstaat der Europäischen Union gelegenen Betriebsstätte einer unbeschränkt steuerpflichtigen Muttergesellschaft zufließen. 3Ein Zufluss an die Betriebsstätte liegt nur vor, wenn die Beteiligung an der Tochtergesellschaft tatsächlich zu dem Betriebsvermögen der Betriebsstätte gehört. 4Die Sätze 1 bis 3 gelten nicht für Kapitalerträge im Sinne des § 20 Absatz 1 Nummer 1, die anlässlich der Liquidation oder Umwandlung einer Tochtergesellschaft zufließen.
 
@@ -3997,7 +4001,7 @@ wenn die Wirtschaftsgüter von der die Kapitalerträge auszahlenden Stelle erwor
 
 (3) (weggefallen)
 
-##### § 44 Entrichtung der Kapitalertragsteuer
+###### § 44 Entrichtung der Kapitalertragsteuer
 
 (1) 1 Schuldner der Kapitalertragsteuer ist in den Fällen des § 43 Absatz 1 Satz 1 Nummer 1 bis 7b und 8 bis 12 sowie Satz 2 der Gläubiger der Kapitalerträge. 2 Die Kapitalertragsteuer entsteht in dem Zeitpunkt, in dem die Kapitalerträge dem Gläubiger zufließen. 3 In diesem Zeitpunkt haben in den Fällen des § 43 Absatz 1 Satz 1 Nummer 1, 2 bis 4 sowie 7a und 7b der Schuldner der Kapitalerträge, jedoch in den Fällen des § 43 Absatz 1 Satz 1 Nummer 1 Satz 2 die für den Verkäufer der Wertpapiere den Verkaufsauftrag ausführende Stelle im Sinne des Satzes 4 Nummer 1, und in den Fällen des § 43 Absatz 1 Satz 1 Nummer 1a, 5 bis 7 und 8 bis 12 sowie Satz 2 die die Kapitalerträge auszahlende Stelle den Steuerabzug unter Beachtung der im Bundessteuerblatt veröffentlichten Auslegungsvorschriften der Finanzverwaltung für Rechnung des Gläubigers der Kapitalerträge vorzunehmen. 4 Die die Kapitalerträge auszahlende Stelle ist
 
@@ -4081,7 +4085,7 @@ nach dem Einkommen zuständig ist; bei Kapitalerträgen im Sinne des § 43 Absat
 
 (7) 1In den Fällen des § 14 Absatz 3 des Körperschaftsteuergesetzes entsteht die Kapitalertragsteuer in dem Zeitpunkt der Feststellung der Handelsbilanz der Organgesellschaft; sie entsteht spätestens acht Monate nach Ablauf des Wirtschaftsjahres der Organgesellschaft. 2Die entstandene Kapitalertragsteuer ist an dem auf den Entstehungszeitpunkt nachfolgenden Werktag an das Finanzamt abzuführen, das für die Besteuerung der Organgesellschaft nach dem Einkommen zuständig ist. 3Im Übrigen sind die Absätze 1 bis 4 entsprechend anzuwenden.
 
-##### § 44a Abstandnahme vom Steuerabzug
+###### § 44a Abstandnahme vom Steuerabzug
 
 (1) 1 Soweit die Kapitalerträge, die einem unbeschränkt einkommensteuerpflichtigen Gläubiger zufließen, zusammen mit den Kapitalerträgen, für die die Kapitalertragsteuer nach § 44b zu erstatten ist oder nach Absatz 10 kein Steuerabzug vorzunehmen ist, den Sparer-Pauschbetrag nach § 20 Absatz 9 nicht übersteigen, ist ein Steuerabzug nicht vorzunehmen bei Kapitalerträgen im Sinne des
 
@@ -4163,7 +4167,7 @@ so ist der Steuerabzug bei Kapitalerträgen im Sinne des § 43 Absatz 1 Satz 1 N
 
 2 Wird der auszahlenden Stelle ein Freistellungsauftrag erteilt, der auch Kapitalerträge im Sinne des Satzes 1 erfasst, oder führt diese einen Verlustausgleich nach § 43a Absatz 3 Satz 2 unter Einbeziehung von Kapitalerträgen im Sinne des Satzes 1 durch, so hat sie den Steuerabzug nicht vorzunehmen, soweit die Kapitalerträge zusammen mit den Kapitalerträgen, für die nach Absatz 1 kein Steuerabzug vorzunehmen ist oder die Kapitalertragsteuer nach § 44b zu erstatten ist, den mit dem Freistellungsauftrag beantragten Freistellungsbetrag nicht übersteigen. 3 Absatz 6 ist entsprechend anzuwenden. 4 Werden Kapitalerträge im Sinne des § 43 Absatz 1 Satz 1 Nummer 1a von einer auszahlenden Stelle im Sinne des § 44 Absatz 1 Satz 4 Nummer 3 an eine ausländische Stelle ausgezahlt, hat diese auszahlende Stelle über den von ihr vor der Zahlung in das Ausland von diesen Kapitalerträgen vorgenommenen Steuerabzug der letzten inländischen auszahlenden Stelle in der Wertpapierverwahrkette, welche die Kapitalerträge auszahlt oder gutschreibt, auf deren Antrag eine Sammel-Steuerbescheinigung für die Summe der eigenen und der für Kunden verwahrten Aktien nach amtlich vorgeschriebenem Muster auszustellen. 5 Der Antrag darf nur für Aktien gestellt werden, die mit Dividendenberechtigung erworben und mit Dividendenanspruch geliefert wurden. 6 Wird eine solche Sammel-Steuerbescheinigung beantragt, ist die Ausstellung von Einzel-Steuerbescheinigungen oder die Weiterleitung eines Antrags auf Ausstellung einer Einzel-Steuerbescheinigung über den Steuerabzug von denselben Kapitalerträgen ausgeschlossen; die Sammel-Steuerbescheinigung ist als solche zu kennzeichnen. 7 Auf die ihr ausgestellte Sammel-Steuerbescheinigung wendet die letzte inländische auszahlende Stelle § 44b Absatz 6 mit der Maßgabe an, dass sie von den ihr nach dieser Vorschrift eingeräumten Möglichkeiten Gebrauch zu machen hat.
 
-##### § 44b Erstattung der Kapitalertragsteuer
+###### § 44b Erstattung der Kapitalertragsteuer
 
 (1) Nach Ablauf eines Kalenderjahres hat der zum Steuerabzug Verpflichtete die im vorangegangenen Kalenderjahr abgeführte Steuer auf Ausschüttungen eines Investmentfonds zu erstatten, soweit die Ausschüttungen nach § 17 des Investmentsteuergesetzes nicht als Ertrag gelten.
 
@@ -4187,11 +4191,11 @@ so ist der Steuerabzug bei Kapitalerträgen im Sinne des § 43 Absatz 1 Satz 1 N
 
 (7) 1Eine Gesamthandsgemeinschaft kann für ihre Mitglieder im Sinne des § 44a Absatz 7 oder Absatz 8 eine Erstattung der Kapitalertragsteuer bei dem für die gesonderte Feststellung ihrer Einkünfte zuständigen Finanzamt beantragen. 2Die Erstattung ist unter den Voraussetzungen des § 44a Absatz 4, 7 oder Absatz 8 und in dem dort bestimmten Umfang zu gewähren. 3Kapitalertragsteuer, die nach § 43 Absatz 1 Satz 1 Nummer 1a einbehalten wurde, ist unter den Voraussetzungen des § 44a Absatz 10 und in dem dort bestimmten Umfang zu erstatten, wenn der Gläubiger die Voraussetzungen nach § 36a Absatz 1 bis 3 erfüllt.
 
-##### § 45 Ausschluss der Erstattung von Kapitalertragsteuer
+###### § 45 Ausschluss der Erstattung von Kapitalertragsteuer
 
 1In den Fällen, in denen die Dividende an einen anderen als an den Anteilseigner ausgezahlt wird, ist die Erstattung oder Anrechnung von Kapitalertragsteuer für den Zahlungsempfänger ausgeschlossen. 2Satz 1 gilt nicht für den Erwerber eines Dividendenscheines oder sonstigen Anspruches in den Fällen des § 20 Absatz 2 Satz 1 Nummer 2 Buchstabe a Satz 2; beim Erwerber sind drei Fünftel der Kapitalertragsteuer nicht anzurechnen oder zu erstatten. 3In den Fällen des § 20 Absatz 2 Satz 1 Nummer 2 Buchstabe b ist die Erstattung von Kapitalertragsteuer an den Erwerber von Zinsscheinen nach § 37 Absatz 2 der Abgabenordnung ausgeschlossen.
 
-##### § 45a Anmeldung und Bescheinigung der Kapitalertragsteuer
+###### § 45a Anmeldung und Bescheinigung der Kapitalertragsteuer
 
 (1) 1Die Anmeldung der einbehaltenen Kapitalertragsteuer ist dem Finanzamt innerhalb der in § 44 Absatz 1 oder Absatz 7 bestimmten Frist nach amtlich vorgeschriebenem Vordruck auf elektronischem Weg zu übermitteln; die auszahlende Stelle hat die Kapitalertragsteuer auf die Erträge im Sinne des § 43 Absatz 1 Satz 1 Nummer 1a jeweils gesondert für das Land, in dem sich der Ort der Geschäftsleitung des Schuldners der Kapitalerträge befindet, anzugeben. 2Satz 1 gilt entsprechend, wenn ein Steuerabzug nicht oder nicht in voller Höhe vorzunehmen ist. 3Der Grund für die Nichtabführung ist anzugeben. 4Auf Antrag kann das Finanzamt zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Kapitalertragsteuer-Anmeldung von dem Schuldner, der den Verkaufsauftrag ausführenden Stelle, der auszahlenden Stelle oder einer vertretungsberechtigten Person zu unterschreiben.
 
@@ -4225,7 +4229,7 @@ so ist der Steuerabzug bei Kapitalerträgen im Sinne des § 43 Absatz 1 Satz 1 N
 
 (6) 1Der Aussteller einer Bescheinigung, die den Absätzen 2 bis 4 nicht entspricht, haftet für die auf Grund dessen verkürzten Steuern oder zu Unrecht gewährten Steuervorteile; dies gilt entsprechend für die die Kapitalerträge auszahlende Stelle und die Zwischenverwahrstellen nach § 45b Absatz 7 bei der Übermittlung fehlerhafter Angaben im Rahmen der Meldepflichten nach § 45b Absatz 2 in Verbindung mit den Absätzen 4 bis 6 Satz 1 und 2 sowie Absatz 7. 2Ist die Bescheinigung nach Absatz 3 durch ein inländisches Kredit-, Finanzdienstleistungs- oder Wertpapierinstitut auszustellen, so haftet der Schuldner auch, wenn er zum Zweck der Bescheinigung unrichtige Angaben macht.
 
-##### § 45b Angaben zur Bescheinigung und Abführung der Kapitalertragsteuer
+###### § 45b Angaben zur Bescheinigung und Abführung der Kapitalertragsteuer
 
 (1) Die die Kapitalerträge auszahlende Stelle weist jeder nach Maßgabe des § 45a Absatz 2 zu erteilenden Bescheinigung und jedem nach § 45b Absatz 5 zu übermittelnden Datensatz eine nach amtlichem Muster zu erstellende Ordnungsnummer zu.
 
@@ -4323,7 +4327,7 @@ e) der Name und die Wirtschafts-Identifikationsnummer nach § 139c der Abgabenor
 
 (10) 1Das Bundeszentralamt für Steuern speichert die nach den Absätzen 4 bis 6 und 9 übermittelten Daten zur Ermittlung der auf die Kapitalerträge einbehaltenen und abgeführten Kapitalertragsteuer und analysiert diese im Hinblick auf missbräuchliche Steuergestaltungsmodelle, die die Erlangung eines Steuervorteils aus der Erhebung oder Entlastung von Kapitalertragsteuer mit erheblicher Bedeutung zum Gegenstand haben. 2Es darf dazu auch ihm nach Maßgabe dieser Absätze übermittelte personenbezogene Daten verarbeiten, soweit dies zur Erfüllung der Aufgabe nach Satz 1 erforderlich ist.
 
-##### § 45c Zusammengefasste Mitteilung zur Bescheinigung und Abführung der Kapitalertragsteuer
+###### § 45c Zusammengefasste Mitteilung zur Bescheinigung und Abführung der Kapitalertragsteuer
 
 (1) 1 Die die Kapitalerträge auszahlende Stelle hat dem Bundeszentralamt für Steuern bis zum 31. Juli des auf den Zufluss der Kapitalerträge folgenden Kalenderjahres folgende Daten zu übermitteln:
 
@@ -4363,7 +4367,7 @@ e) der Name und die Wirtschafts-Identifikationsnummer nach § 139c der Abgabenor
 
 (4) 1Das Bundeszentralamt für Steuern speichert die ihm nach den Absätzen 1 und 2 übermittelten Daten zur Ermittlung der auf diese Kapitalerträge einbehaltenen und bescheinigten Kapitalertragsteuer und analysiert diese im Hinblick auf missbräuchliche Steuergestaltungsmodelle, die die Erlangung eines Steuervorteils aus der Erhebung oder Entlastung von Kapitalertragsteuer mit erheblicher Bedeutung zum Gegenstand haben. 2Es darf dazu ihm nach Maßgabe der Absätze 1 und 2 übermittelte personenbezogene Daten verarbeiten, soweit dies zur Erfüllung der Aufgabe nach Satz 1 erforderlich ist.
 
-##### § 45d Mitteilungen an das Bundeszentralamt für Steuern
+###### § 45d Mitteilungen an das Bundeszentralamt für Steuern
 
 (1) 1 Wer nach § 44 Absatz 1 dieses Gesetzes und nach § 7 des Investmentsteuergesetzes zum Steuerabzug verpflichtet ist, hat dem Bundeszentralamt für Steuern nach Maßgabe des § 93c der Abgabenordnung neben den in § 93c Absatz 1 der Abgabenordnung genannten Angaben folgende Daten zu übermitteln:
 
@@ -4381,13 +4385,13 @@ b) die Kapitalerträge, bei denen die Erstattung von Kapitalertragsteuer beim Bu
 
 (3) (weggefallen)
 
-##### § 45e Ermächtigung für Zinsinformationsverordnung
+###### § 45e Ermächtigung für Zinsinformationsverordnung
 
 1Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Richtlinie 2003/48/EG des Rates vom 3. Juni 2003 (ABl. EU Nr. L 157 S. 38) in der jeweils geltenden Fassung im Bereich der Besteuerung von Zinserträgen umzusetzen. 2§ 45d Absatz 1 Satz 2 und Absatz 2 ist entsprechend anzuwenden.
 
 ## 4. Veranlagung von Steuerpflichtigen mit steuerabzugspflichtigen Einkünften
 
-##### § 46 Veranlagung bei Bezug von Einkünften aus nichtselbständiger Arbeit
+###### § 46 Veranlagung bei Bezug von Einkünften aus nichtselbständiger Arbeit
 
 (1) (weggefallen)
 
@@ -4433,13 +4437,13 @@ b) für einen Steuerpflichtigen, der zum Personenkreis des § 1 Absatz 3 oder de
 
 (5) Durch Rechtsverordnung kann in den Fällen des Absatzes 2 Nummer 1, in denen die einkommensteuerpflichtigen Einkünfte, von denen der Steuerabzug vom Arbeitslohn nicht vorgenommen worden ist und die nicht nach § 32d Absatz 6 der tariflichen Einkommensteuer unterworfen wurden, den Betrag von 410 Euro übersteigen, die Besteuerung so gemildert werden, dass auf die volle Besteuerung dieser Einkünfte stufenweise übergeleitet wird.
 
-##### § 47 (weggefallen)
+###### § 47 (weggefallen)
 
 -
 
 ## VII. Steuerabzug bei Bauleistungen
 
-##### § 48 Steuerabzug
+###### § 48 Steuerabzug
 
 (1) 1Erbringt jemand im Inland eine Bauleistung (Leistender) an einen Unternehmer im Sinne des § 2 des Umsatzsteuergesetzes oder an eine juristische Person des öffentlichen Rechts (Leistungsempfänger), ist der Leistungsempfänger verpflichtet, von der Gegenleistung einen Steuerabzug in Höhe von 15 Prozent für Rechnung des Leistenden vorzunehmen. 2Vermietet der Leistungsempfänger Wohnungen, so ist Satz 1 nicht auf Bauleistungen für diese Wohnungen anzuwenden, wenn er nicht mehr als zwei Wohnungen vermietet. 3Bauleistungen sind alle Leistungen, die der Herstellung, Instandsetzung, Instandhaltung, Änderung oder Beseitigung von Bauwerken dienen. 4Als Leistender gilt auch derjenige, der über eine Leistung abrechnet, ohne sie erbracht zu haben.
 
@@ -4459,7 +4463,7 @@ b) für einen Steuerpflichtigen, der zum Personenkreis des § 1 Absatz 3 oder de
 
 2. sind § 42d Absatz 6 und 8 und § 50a Absatz 7 nicht anzuwenden.
 
-##### § 48a Verfahren
+###### § 48a Verfahren
 
 (1) 1Der Leistungsempfänger hat bis zum zehnten Tag nach Ablauf des Monats, in dem die Gegenleistung im Sinne des § 48 erbracht wird, eine elektronische Anmeldung, in der er den Steuerabzug für den Anmeldungszeitraum selbst zu berechnen hat, nach amtlich vorgeschriebenem Datensatz über die amtlich vorgeschriebene Schnittstelle zu übermitteln. 2Auf Antrag kann das Finanzamt zur Vermeidung unbilliger Härten auf die Übermittlung nach amtlich vorgeschriebenem Datensatz über die amtlich vorgeschriebene Schnittstelle verzichten; in diesem Fall ist die Anmeldung vom Leistungsempfänger nach amtlich vorgeschriebenem Vordruck abzugeben. 3Der Abzugsbetrag ist am zehnten Tag nach Ablauf des Anmeldungszeitraums fällig und an das für den Leistenden zuständige Finanzamt für Rechnung des Leistenden abzuführen. 4Die Anmeldung des Abzugsbetrags steht einer Steueranmeldung gleich.
 
@@ -4479,7 +4483,7 @@ b) für einen Steuerpflichtigen, der zum Personenkreis des § 1 Absatz 3 oder de
 
 (4) § 50b gilt entsprechend.
 
-##### § 48b Freistellungsbescheinigung
+###### § 48b Freistellungsbescheinigung
 
 (1) 1 Auf Antrag des Leistenden hat das für ihn zuständige Finanzamt, wenn der zu sichernde Steueranspruch nicht gefährdet erscheint und ein inländischer Empfangsbevollmächtigter bestellt ist, eine Bescheinigung nach amtlich vorgeschriebenem Vordruck zu erteilen, die den Leistungsempfänger von der Pflicht zum Steuerabzug befreit. 2 Eine Gefährdung kommt insbesondere dann in Betracht, wenn der Leistende
 
@@ -4509,7 +4513,7 @@ b) für einen Steuerpflichtigen, der zum Personenkreis des § 1 Absatz 3 oder de
 
 (6) 1Das Bundeszentralamt für Steuern speichert die Daten nach Absatz 3 Satz 1. 2Es erteilt dem Leistungsempfänger im Sinne des § 48 Absatz 1 Satz 1 im Wege einer elektronischen Abfrage Auskunft über die beim Bundeszentralamt für Steuern gespeicherten Freistellungsbescheinigungen.
 
-##### § 48c Anrechnung
+###### § 48c Anrechnung
 
 (1) 1 Soweit der Abzugsbetrag einbehalten und angemeldet worden ist, wird er auf vom Leistenden zu entrichtende Steuern nacheinander wie folgt angerechnet:
 
@@ -4527,7 +4531,7 @@ b) für einen Steuerpflichtigen, der zum Personenkreis des § 1 Absatz 3 oder de
 
 (3) Das Finanzamt kann die Anrechnung ablehnen, soweit der angemeldete Abzugsbetrag nicht abgeführt worden ist und Anlass zu der Annahme besteht, dass ein Missbrauch vorliegt.
 
-##### § 48d Besonderheiten im Fall von Doppelbesteuerungsabkommen
+###### § 48d Besonderheiten im Fall von Doppelbesteuerungsabkommen
 
 (1) 1Können Einkünfte, die dem Steuerabzug nach § 48 unterliegen, nach einem Abkommen zur Vermeidung der Doppelbesteuerung nicht besteuert werden, so sind die Vorschriften über die Einbehaltung, Abführung und Anmeldung der Steuer durch den Schuldner der Gegenleistung ungeachtet des Abkommens anzuwenden. 2Unberührt bleibt der Anspruch des Gläubigers der Gegenleistung auf Erstattung der einbehaltenen und abgeführten Steuer. 3Der Anspruch ist durch Antrag nach § 48c Absatz 2 geltend zu machen. 4Der Gläubiger der Gegenleistung hat durch eine Bestätigung der für ihn zuständigen Steuerbehörde des anderen Staates nachzuweisen, dass er dort ansässig ist. 5§ 48b gilt entsprechend. 6Der Leistungsempfänger kann sich im Haftungsverfahren nicht auf die Rechte des Gläubigers aus dem Abkommen berufen.
 
@@ -4535,7 +4539,7 @@ b) für einen Steuerpflichtigen, der zum Personenkreis des § 1 Absatz 3 oder de
 
 ## VIII. Besteuerung beschränkt Steuerpflichtiger
 
-##### § 49 Beschränkt steuerpflichtige Einkünfte
+###### § 49 Beschränkt steuerpflichtige Einkünfte
 
 (1) Inländische Einkünfte im Sinne der beschränkten Einkommensteuerpflicht (§ 1 Absatz 4) sind
 
@@ -4637,7 +4641,7 @@ c) in keinem anderen Staat einer Besteuerung unterliegen.
 
 (4) 1Abweichend von Absatz 1 Nummer 2 sind Einkünfte steuerfrei, die ein beschränkt Steuerpflichtiger mit Wohnsitz oder gewöhnlichem Aufenthalt in einem ausländischen Staat durch den Betrieb eigener oder gecharterter Schiffe oder Luftfahrzeuge aus einem Unternehmen bezieht, dessen Geschäftsleitung sich in dem ausländischen Staat befindet. 2Voraussetzung für die Steuerbefreiung ist, dass dieser ausländische Staat Steuerpflichtigen mit Wohnsitz oder gewöhnlichem Aufenthalt im Geltungsbereich dieses Gesetzes eine entsprechende Steuerbefreiung für derartige Einkünfte gewährt und dass das Bundesministerium für Verkehr und digitale Infrastruktur die Steuerbefreiung nach Satz 1 für verkehrspolitisch unbedenklich erklärt hat.
 
-##### § 50 Sondervorschriften für beschränkt Steuerpflichtige
+###### § 50 Sondervorschriften für beschränkt Steuerpflichtige
 
 (1) 1Beschränkt Steuerpflichtige dürfen Betriebsausgaben (§ 4 Absatz 4 bis 8) oder Werbungskosten (§ 9) nur insoweit abziehen, als sie mit inländischen Einkünften in wirtschaftlichem Zusammenhang stehen. 2§ 32a Absatz 1 ist mit der Maßgabe anzuwenden, dass das zu versteuernde Einkommen um den Grundfreibetrag des § 32a Absatz 1 Satz 2 Nummer 1 erhöht wird; dies gilt bei Einkünften nach § 49 Absatz 1 Nummer 4 nur in Höhe des diese Einkünfte abzüglich der nach Satz 5 abzuziehenden Aufwendungen übersteigenden Teils des Grundfreibetrags. 3Wenn für das um den Grundfreibetrag erhöhte zu versteuernde Einkommen ein besonderer Steuersatz nach § 32b Absatz 2 oder nach § 2 Absatz 5 des Außensteuergesetzes gilt, ist dieser auf das zu versteuernde Einkommen anzuwenden. 4§ 10 Absatz 1, 1a Nummer 1, 3 und 4, Absatz 2 bis 6, die §§ 10a, 10c, 16 Absatz 4, die §§ 24b, 32, 32a Absatz 6, die §§ 33, 33a, 33b, 35a und 35c sind nicht anzuwenden. 5Hiervon abweichend sind bei Arbeitnehmern, die Einkünfte aus nichtselbständiger Arbeit im Sinne des § 49 Absatz 1 Nummer 4 beziehen, § 10 Absatz 1 Nummer 2 Buchstabe a, Nummer 3 und Absatz 3 sowie § 10c anzuwenden, soweit die Aufwendungen auf die Zeit entfallen, in der Einkünfte im Sinne des § 49 Absatz 1 Nummer 4 erzielt wurden und die Einkünfte nach § 49 Absatz 1 Nummer 4 nicht übersteigen. 6Die Jahres- und Monatsbeträge der Pauschalen nach § 9a Satz 1 Nummer 1 und § 10c ermäßigen sich zeitanteilig, wenn Einkünfte im Sinne des § 49 Absatz 1 Nummer 4 nicht während eines vollen Kalenderjahres oder Kalendermonats zugeflossen sind.
 
@@ -4683,7 +4687,7 @@ e) wenn die Anrechnung einer ausländischen Steuer nach § 50d Absatz 7 Satz 2 b
 
 2. am inländischen Auftritt einer ausländischen Kulturvereinigung, wenn ihr Auftritt wesentlich aus öffentlichen Mitteln gefördert wird.
 
-##### § 50a Steuerabzug bei beschränkt Steuerpflichtigen
+###### § 50a Steuerabzug bei beschränkt Steuerpflichtigen
 
 (1) Die Einkommensteuer wird bei beschränkt Steuerpflichtigen im Wege des Steuerabzugs erhoben
 
@@ -4721,11 +4725,11 @@ e) wenn die Anrechnung einer ausländischen Steuer nach § 50d Absatz 7 Satz 2 b
 
 ## IX. Sonstige Vorschriften, Bußgeld-, Ermächtigungs- und Schlussvorschriften
 
-##### § 50b Prüfungsrecht
+###### § 50b Prüfungsrecht
 
 1Die Finanzbehörden sind berechtigt, Verhältnisse, die für die Anrechnung oder Vergütung von Körperschaftsteuer, für die Anrechnung oder Erstattung von Kapitalertragsteuer, für die Nichtvornahme des Steuerabzugs, für die Ausstellung der Jahresbescheinigung nach § 24c oder für die Mitteilungen an das Bundeszentralamt für Steuern nach § 45e von Bedeutung sind oder der Aufklärung bedürfen, bei den am Verfahren Beteiligten zu prüfen. 2Die §§ 193 bis 203 der Abgabenordnung gelten sinngemäß.
 
-##### § 50c Entlastung vom Steuerabzug in bestimmten Fällen
+###### § 50c Entlastung vom Steuerabzug in bestimmten Fällen
 
 (1) 1Soweit der Besteuerung von Einkünften, die der Kapitalertragsteuer oder dem Steuerabzug nach § 50a unterliegen, der § 43b, der § 50g oder ein Abkommen zur Vermeidung der Doppelbesteuerung entgegenstehen, sind dessen ungeachtet die Vorschriften zur Einbehaltung, Abführung und Anmeldung der Steuer anzuwenden. 2Der zum Steuerabzug Verpflichtete kann sich vorbehaltlich des Absatzes 2 nicht auf die Rechte des Gläubigers der Kapitalerträge oder Vergütungen aus § 43b, § 50g oder dem Abkommen berufen.
 
@@ -4743,7 +4747,7 @@ e) wenn die Anrechnung einer ausländischen Steuer nach § 50d Absatz 7 Satz 2 b
 
 (5) 1Der Freistellungsantrag und der Erstattungsantrag sind nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle zu übermitteln. 2Der Antragsteller hat durch eine Bestätigung der für ihn zuständigen Steuerbehörde des anderen Staates nachzuweisen, dass er dort ansässig ist oder in den Fällen des § 43b Absatz 1 Satz 1 zweite Alternative oder des § 50g Absatz 1 Satz 1 letzte Alternative dort eine Betriebsstätte hat. 3Zur Vermeidung unbilliger Härten kann das Bundeszentralamt für Steuern auf Antrag auf eine Übermittlung gemäß Satz 1 verzichten; in diesem Fall ist der Freistellungsantrag oder der Erstattungsantrag nach amtlich vorgeschriebenem Vordruck zu stellen. 4Die Entscheidung über einen Freistellungsantrag und die Entscheidung über einen Erstattungsantrag werden zum Datenabruf über die amtlich bestimmte Schnittstelle bereitgestellt, es sei denn, der Antrag war nach amtlich vorgeschriebenem Vordruck zu stellen; § 122a Absatz 3 und 4 der Abgabenordnung ist entsprechend anzuwenden.
 
-##### § 50d Anwendung von Abkommen zur Vermeidung der Doppelbesteuerung
+###### § 50d Anwendung von Abkommen zur Vermeidung der Doppelbesteuerung
 
 (1) (weggefallen)
 
@@ -4799,7 +4803,7 @@ e) wenn die Anrechnung einer ausländischen Steuer nach § 50d Absatz 7 Satz 2 b
 
 (15) 1Arbeitslohn, der für Zeiten einer widerruflichen oder unwiderruflichen Arbeitsfreistellung im Zusammenhang mit der Beendigung des Arbeitsverhältnisses gezahlt wird, gilt für Zwecke der Anwendung eines Abkommens zur Vermeidung der Doppelbesteuerung als Vergütung, die für die Ausübung einer Tätigkeit in dem Staat gewährt wird, in dem die Tätigkeit ohne die Freistellung ausgeübt worden wäre. 2Dies gilt nicht, soweit das Abkommen in einer gesonderten, ausdrücklich solchen Arbeitslohn betreffenden Vorschrift eine abweichende Regelung trifft. 3Absatz 9 Satz 1 Nummer 1 sowie Rechtsverordnungen gemäß § 2 Absatz 2 Satz 1 der Abgabenordnung bleiben davon unberührt.
 
-##### § 50e Bußgeldvorschriften; Nichtverfolgung von Steuerstraftaten bei geringfügiger Beschäftigung in Privathaushalten
+###### § 50e Bußgeldvorschriften; Nichtverfolgung von Steuerstraftaten bei geringfügiger Beschäftigung in Privathaushalten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 45d Absatz 1 Satz 1, der nach § 45e erlassenen Rechtsverordnung oder den unmittelbar geltenden Verträgen mit den in Artikel 17 der Richtlinie 2003/48/EG genannten Staaten und Gebieten eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abgibt.
 
@@ -4819,7 +4823,7 @@ e) wenn die Anrechnung einer ausländischen Steuer nach § 50d Absatz 7 Satz 2 b
 
 (6) 1Liegen die Voraussetzungen des § 40a Absatz 2 vor, werden Steuerstraftaten (§§ 369 bis 376 der Abgabenordnung) als solche nicht verfolgt, wenn der Arbeitgeber in den Fällen des § 8a des Vierten Buches Sozialgesetzbuch entgegen § 41a Absatz 1 Nummer 1, auch in Verbindung mit Absatz 2 und 3 und § 51a, und § 40a Absatz 6 Satz 3 dieses Gesetzes in Verbindung mit § 28a Absatz 7 Satz 1 des Vierten Buches Sozialgesetzbuch für das Arbeitsentgelt die Lohnsteuer-Anmeldung und die Anmeldung der einheitlichen Pauschsteuer nicht oder nicht rechtzeitig durchführt und dadurch Steuern verkürzt oder für sich oder einen anderen nicht gerechtfertigte Steuervorteile erlangt. 2Die Freistellung von der Verfolgung nach Satz 1 gilt auch für den Arbeitnehmer einer in Satz 1 genannten Beschäftigung, der die Finanzbehörde pflichtwidrig über steuerlich erhebliche Tatsachen aus dieser Beschäftigung in Unkenntnis lässt. 3Die Bußgeldvorschriften der §§ 377 bis 384 der Abgabenordnung bleiben mit der Maßgabe anwendbar, dass § 378 der Abgabenordnung auch bei vorsätzlichem Handeln anwendbar ist.
 
-##### § 50f Bußgeldvorschriften
+###### § 50f Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 22a Absatz 1 Satz 1 dort genannte Daten nicht, nicht vollständig oder nicht rechtzeitig übermittelt oder eine dort genannte Mitteilung nicht, nicht vollständig oder nicht rechtzeitig macht.
 
@@ -4827,7 +4831,7 @@ e) wenn die Anrechnung einer ausländischen Steuer nach § 50d Absatz 7 Satz 2 b
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die zentrale Stelle nach § 81.
 
-##### § 50g Entlastung vom Steuerabzug bei Zahlungen von Zinsen und Lizenzgebühren zwischen verbundenen Unternehmen verschiedener Mitgliedstaaten der Europäischen Union
+###### § 50g Entlastung vom Steuerabzug bei Zahlungen von Zinsen und Lizenzgebühren zwischen verbundenen Unternehmen verschiedener Mitgliedstaaten der Europäischen Union
 
 (1) 1Auf Antrag werden die Kapitalertragsteuer für Zinsen und die Steuer auf Grund des § 50a für Lizenzgebühren, die von einem Unternehmen der Bundesrepublik Deutschland oder einer dort gelegenen Betriebsstätte eines Unternehmens eines anderen Mitgliedstaates der Europäischen Union als Schuldner an ein Unternehmen eines anderen Mitgliedstaates der Europäischen Union oder an eine in einem anderen Mitgliedstaat der Europäischen Union gelegene Betriebsstätte eines Unternehmens eines Mitgliedstaates der Europäischen Union als Gläubiger gezahlt werden, nicht erhoben. 2Erfolgt die Besteuerung durch Veranlagung, werden die Zinsen und Lizenzgebühren bei der Ermittlung der Einkünfte nicht erfasst. 3Voraussetzung für die Anwendung der Sätze 1 und 2 ist, dass der Gläubiger der Zinsen oder Lizenzgebühren ein mit dem Schuldner verbundenes Unternehmen oder dessen Betriebsstätte ist. 4Die Sätze 1 bis 3 sind nicht anzuwenden, wenn die Zinsen oder Lizenzgebühren an eine Betriebsstätte eines Unternehmens eines Mitgliedstaates der Europäischen Union als Gläubiger gezahlt werden, die in einem Staat außerhalb der Europäischen Union oder im Inland gelegen ist und in der die Tätigkeit des Unternehmens ganz oder teilweise ausgeübt wird.
 
@@ -4901,11 +4905,11 @@ c) „Betriebsstätte“ eine feste Geschäftseinrichtung in einem Mitgliedstaat
 
 3. unbeschränkt der schweizerischen Körperschaftsteuer unterliegt, ohne von ihr befreit zu sein.
 
-##### § 50h Bestätigung für Zwecke der Entlastung von Quellensteuern in einem anderen Mitgliedstaat der Europäischen Union oder der Schweizerischen Eidgenossenschaft
+###### § 50h Bestätigung für Zwecke der Entlastung von Quellensteuern in einem anderen Mitgliedstaat der Europäischen Union oder der Schweizerischen Eidgenossenschaft
 
 Auf Antrag hat das Finanzamt, das für die Besteuerung eines Unternehmens der Bundesrepublik Deutschland oder einer dort gelegenen Betriebsstätte eines Unternehmens eines anderen Mitgliedstaats der Europäischen Union im Sinne des § 50g Absatz 3 Nummer 5 oder eines Unternehmens der Schweizerischen Eidgenossenschaft im Sinne des § 50g Absatz 6 Satz 2 zuständig ist, für die Entlastung von der Quellensteuer dieses Staats auf Zinsen oder Lizenzgebühren im Sinne des § 50g zu bescheinigen, dass das empfangende Unternehmen steuerlich im Inland ansässig ist oder die Betriebsstätte im Inland gelegen ist.
 
-##### § 50i Besteuerung bestimmter Einkünfte und Anwendung von Doppelbesteuerungsabkommen
+###### § 50i Besteuerung bestimmter Einkünfte und Anwendung von Doppelbesteuerungsabkommen
 
 (1) 1 Sind Wirtschaftsgüter des Betriebsvermögens oder sind Anteile im Sinne des § 17
 
@@ -4927,7 +4931,7 @@ so ist der Gewinn, den ein Steuerpflichtiger, der im Sinne eines Abkommens zur V
 
 (2) Bei Einbringung nach § 20 des Umwandlungssteuergesetzes sind die Wirtschaftsgüter und Anteile im Sinne des Absatzes 1 abweichend von § 20 Absatz 2 Satz 2 des Umwandlungssteuergesetzes stets mit dem gemeinen Wert anzusetzen, soweit das Recht der Bundesrepublik Deutschland hinsichtlich der Besteuerung des Gewinns aus der Veräußerung der erhaltenen Anteile oder hinsichtlich der mit diesen im Zusammenhang stehenden Anteile im Sinne des § 22 Absatz 7 des Umwandlungssteuergesetzes ausgeschlossen oder beschränkt ist.
 
-##### § 50j Versagung der Entlastung von Kapitalertragsteuern in bestimmten Fällen
+###### § 50j Versagung der Entlastung von Kapitalertragsteuern in bestimmten Fällen
 
 (1) 1 Ein Gläubiger von Kapitalerträgen im Sinne des § 43 Absatz 1 Satz 1 Nummer 1a, die nach einem Abkommen zur Vermeidung der Doppelbesteuerung nicht oder nur nach einem Steuersatz unterhalb des Steuersatzes des § 43a Absatz 1 Satz 1 Nummer 1 besteuert werden, hat ungeachtet dieses Abkommens nur dann Anspruch auf völlige oder teilweise Entlastung nach § 50c Absatz 3, wenn er
 
@@ -4953,7 +4957,7 @@ so ist der Gewinn, den ein Steuerpflichtiger, der im Sinne eines Abkommens zur V
 
 (5) Bestimmungen eines Abkommens zur Vermeidung der Doppelbesteuerung, § 42 der Abgabenordnung und andere steuerliche Vorschriften bleiben unberührt, soweit sie jeweils die Entlastung in einem weitergehenden Umfang einschränken.
 
-##### § 51 Ermächtigungen
+###### § 51 Ermächtigungen
 
 (1) Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 
@@ -5101,7 +5105,7 @@ i) (weggefallen)
 
 2. den Wortlaut dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen in der jeweils geltenden Fassung satzweise nummeriert mit neuem Datum und in neuer Paragraphenfolge bekannt zu machen und dabei Unstimmigkeiten im Wortlaut zu beseitigen.
 
-##### § 51a Festsetzung und Erhebung von Zuschlagsteuern
+###### § 51a Festsetzung und Erhebung von Zuschlagsteuern
 
 (1) 1Auf die Festsetzung und Erhebung von Steuern, die nach der Einkommensteuer bemessen werden (Zuschlagsteuern), sind die Vorschriften dieses Gesetzes mit Ausnahme des § 36a entsprechend anzuwenden. 2Wird Einkommensteuer im Wege des Steuerabzugs erhoben, dürfen die zu diesem Zweck verarbeiteten personenbezogenen Daten auch für die Erhebung einer Zuschlagsteuer im Wege des Steuerabzugs verarbeitet werden.
 
@@ -5135,7 +5139,7 @@ i) (weggefallen)
 
 (6) Die Absätze 1 bis 5 gelten für die Kirchensteuern nach Maßgabe landesrechtlicher Vorschriften.
 
-##### § 52 Anwendungsvorschriften
+###### § 52 Anwendungsvorschriften
 
 (1) 1Diese Fassung des Gesetzes ist, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum 2026 anzuwenden. 2Beim Steuerabzug vom Arbeitslohn gilt Satz 1 mit der Maßgabe, dass diese Fassung erstmals auf den laufenden Arbeitslohn anzuwenden ist, der für einen nach dem 31. Dezember 2025 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2025 zufließen. 3Beim Steuerabzug vom Kapitalertrag gilt Satz 1 mit der Maßgabe, dass diese Fassung des Gesetzes erstmals auf Kapitalerträge anzuwenden ist, die dem Gläubiger nach dem 31. Dezember 2025 zufließen.
 
@@ -5367,17 +5371,17 @@ tritt.
 
 (54) (weggefallen)
 
-##### § 52a (weggefallen)
+###### § 52a (weggefallen)
 
-##### § 52b (weggefallen)
+###### § 52b (weggefallen)
 
-##### § 53 (weggefallen)
+###### § 53 (weggefallen)
 
-##### § 54 (weggefallen)
+###### § 54 (weggefallen)
 
 -
 
-##### § 55 Schlussvorschriften (Sondervorschriften für die Gewinnermittlung nach § 4 oder nach Durchschnittssätzen bei vor dem 1. Juli 1970 angeschafftem Grund und Boden)
+###### § 55 Schlussvorschriften (Sondervorschriften für die Gewinnermittlung nach § 4 oder nach Durchschnittssätzen bei vor dem 1. Juli 1970 angeschafftem Grund und Boden)
 
 (1) 1Bei Steuerpflichtigen, deren Gewinn für das Wirtschaftsjahr, in das der 30. Juni 1970 fällt, nicht nach § 5 zu ermitteln ist, gilt bei Grund und Boden, der mit Ablauf des 30. Juni 1970 zu ihrem Anlagevermögen gehört hat, als Anschaffungs- oder Herstellungskosten (§ 4 Absatz 3 Satz 4 und § 6 Absatz 1 Nummer 2 Satz 1) das Zweifache des nach den Absätzen 2 bis 4 zu ermittelnden Ausgangsbetrags. 2Zum Grund und Boden im Sinne des Satzes 1 gehören nicht die mit ihm in Zusammenhang stehenden Wirtschaftsgüter und Nutzungsbefugnisse.
 
@@ -5391,7 +5395,7 @@ b) Blumen- und Zierpflanzenbau sowie Baumschulen 2,56 Euro je Quadratmeter
 
 2. für Flächen der forstwirtschaftlichen Nutzung je Quadratmeter 0,51 Euro,
 
-3. für Flächen der weinbaulichen Nutzung der Betrag, der sich unter Berücksichtigung der maßgebenden Lagenvergleichszahl (Vergleichszahl der einzelnen Weinbaulage, § 39 Absatz 1 Satz 3 und § 57 Bewertungsgesetz), die für ausbauende Betriebsweise mit Fassweinerzeugung anzusetzen ist, aus der nachstehenden Tabelle ergibt:
+3. für Flächen der weinbaulichen Nutzung der Betrag, der sich unter Berücksichtigung der maßgebenden Lagenvergleichszahl (Vergleichszahl der einzelnen Weinbaulage, § 39 Absatz 1 Satz 3 und § 57 Bewertungsgesetz), die für ausbauende Betriebsweise mit Fassweinerzeugung anzusetzen ist, aus der nachstehenden Tabelle ergibt: 
 
 LagenvergleichszahlAusgangsbetrag
  je Quadratmeter
@@ -5421,13 +5425,13 @@ LagenvergleichszahlAusgangsbetrag
 
 (7) Grund und Boden, der nach § 4 Absatz 1 Satz 5 des Einkommensteuergesetzes 1969 nicht anzusetzen war, ist wie eine Einlage zu behandeln; er ist dabei mit dem nach Absatz 1 oder Absatz 5 maßgebenden Wert anzusetzen.
 
-##### § 56 Sondervorschriften für Steuerpflichtige in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+###### § 56 Sondervorschriften für Steuerpflichtige in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
-Bei Steuerpflichtigen, die am 31. Dezember 1990 einen Wohnsitz oder ihren gewöhnlichen Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet und im Jahre 1990 keinen Wohnsitz oder gewöhnlichen Aufenthalt im bisherigen Geltungsbereich dieses Gesetzes hatten, gilt Folgendes:
+Bei Steuerpflichtigen, die am 31. Dezember 1990 einen Wohnsitz oder ihren gewöhnlichen Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet und im Jahre 1990 keinen Wohnsitz oder gewöhnlichen Aufenthalt im bisherigen Geltungsbereich dieses Gesetzes hatten, gilt Folgendes: 
 
 § 7 Absatz 5 ist auf Gebäude anzuwenden, die in dem Artikel 3 des Einigungsvertrages genannten Gebiet nach dem 31. Dezember 1990 angeschafft oder hergestellt worden sind.
 
-##### § 57 Besondere Anwendungsregeln aus Anlass der Herstellung der Einheit Deutschlands
+###### § 57 Besondere Anwendungsregeln aus Anlass der Herstellung der Einheit Deutschlands
 
 (1) Die §§ 7c, 7f, 7g, 7k und 10e dieses Gesetzes, die §§ 76, 78, 82a und 82f der Einkommensteuer-Durchführungsverordnung sowie die §§ 7 und 12 Absatz 3 des Schutzbaugesetzes sind auf Tatbestände anzuwenden, die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet nach dem 31. Dezember 1990 verwirklicht worden sind.
 
@@ -5441,7 +5445,7 @@ Bei Steuerpflichtigen, die am 31. Dezember 1990 einen Wohnsitz oder ihren gewöh
 
 (6) § 34f Absatz 3 Satz 3 ist erstmals auf die in dem in Artikel 3 des Einigungsvertrags genannten Gebiet für die zweite Hälfte des Veranlagungszeitraums 1990 festgesetzte Einkommensteuer anzuwenden.
 
-##### § 58 Weitere Anwendung von Rechtsvorschriften, die vor Herstellung der Einheit Deutschlands in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gegolten haben
+###### § 58 Weitere Anwendung von Rechtsvorschriften, die vor Herstellung der Einheit Deutschlands in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gegolten haben
 
 (1) Die Vorschriften über Sonderabschreibungen nach § 3 Absatz 1 des Steueränderungsgesetzes vom 6. März 1990 (GBl. I Nr. 17 S. 136) in Verbindung mit § 7 der Durchführungsbestimmung zum Gesetz zur Änderung der Rechtsvorschriften über die Einkommen-, Körperschaft- und Vermögensteuer – Steueränderungsgesetz – vom 16. März 1990 (GBl. I Nr. 21 S. 195) sind auf Wirtschaftsgüter weiter anzuwenden, die nach dem 31. Dezember 1989 und vor dem 1. Januar 1991 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet angeschafft oder hergestellt worden sind.
 
@@ -5449,11 +5453,11 @@ Bei Steuerpflichtigen, die am 31. Dezember 1990 einen Wohnsitz oder ihren gewöh
 
 (3) Die Vorschrift über den Steuerabzugsbetrag nach § 9 Absatz 1 der Durchführungsbestimmung zum Gesetz zur Änderung der Rechtsvorschriften über die Einkommen-, Körperschaft- und Vermögensteuer – Steueränderungsgesetz – vom 16. März 1990 (GBl. I Nr. 21 S. 195) ist für Steuerpflichtige weiter anzuwenden, die vor dem 1. Januar 1991 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet eine Betriebsstätte begründet haben, wenn sie von dem Tag der Begründung der Betriebsstätte an zwei Jahre lang die Tätigkeit ausüben, die Gegenstand der Betriebsstätte ist.
 
-##### (XXXX) §§ 59 bis 61 (weggefallen)
+###### (XXXX) §§ 59 bis 61 (weggefallen)
 
 ## X. Kindergeld
 
-##### § 62 Anspruchsberechtigte
+###### § 62 Anspruchsberechtigte
 
 (1) 1 Für Kinder im Sinne des § 63 hat Anspruch auf Kindergeld nach diesem Gesetz, wer
 
@@ -5487,7 +5491,7 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 5. eine Beschäftigungsduldung gemäß § 60d in Verbindung mit § 60a Absatz 2 Satz 3 des Aufenthaltsgesetzes besitzt.
 
-##### § 63 Kinder
+###### § 63 Kinder
 
 (1) 1 Als Kinder werden berücksichtigt
 
@@ -5501,7 +5505,7 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu bestimmen, dass einem Berechtigten, der im Inland erwerbstätig ist oder sonst seine hauptsächlichen Einkünfte erzielt, für seine in Absatz 1 Satz 3 erster Halbsatz bezeichneten Kinder Kindergeld ganz oder teilweise zu leisten ist, soweit dies mit Rücksicht auf die durchschnittlichen Lebenshaltungskosten für Kinder in deren Wohnsitzstaat und auf die dort gewährten dem Kindergeld vergleichbaren Leistungen geboten ist.
 
-##### § 64 Zusammentreffen mehrerer Ansprüche
+###### § 64 Zusammentreffen mehrerer Ansprüche
 
 (1) Für jedes Kind wird nur einem Berechtigten Kindergeld gezahlt.
 
@@ -5509,7 +5513,7 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 (3) 1Ist das Kind nicht in den Haushalt eines Berechtigten aufgenommen, so erhält das Kindergeld derjenige, der dem Kind eine Unterhaltsrente zahlt. 2Zahlen mehrere Berechtigte dem Kind Unterhaltsrenten, so erhält das Kindergeld derjenige, der dem Kind die höchste Unterhaltsrente zahlt. 3Werden gleich hohe Unterhaltsrenten gezahlt oder zahlt keiner der Berechtigten dem Kind Unterhalt, so bestimmen die Berechtigten untereinander, wer das Kindergeld erhalten soll. 4Wird eine Bestimmung nicht getroffen, so gilt Absatz 2 Satz 3 und 4 entsprechend.
 
-##### § 65 Andere Leistungen für Kinder
+###### § 65 Andere Leistungen für Kinder
 
 1 Kindergeld wird nicht für ein Kind gezahlt, für das eine der folgenden Leistungen zu zahlen ist oder bei entsprechender Antragstellung zu zahlen wäre:
 
@@ -5519,7 +5523,7 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 2 Soweit es für die Anwendung von Vorschriften dieses Gesetzes auf den Erhalt von Kindergeld ankommt, stehen die Leistungen nach Satz 1 dem Kindergeld gleich. 3 Steht ein Berechtigter in einem Versicherungspflichtverhältnis zur Bundesagentur für Arbeit nach § 24 des Dritten Buches Sozialgesetzbuch oder ist er versicherungsfrei nach § 28 Absatz 1 Nummer 1 des Dritten Buches Sozialgesetzbuch oder steht er im Inland in einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis, so wird sein Anspruch auf Kindergeld für ein Kind nicht nach Satz 1 Nummer 2 mit Rücksicht darauf ausgeschlossen, dass sein Ehegatte als Beamter, Ruhestandsbeamter oder sonstiger Bediensteter der Europäischen Union für das Kind Anspruch auf Kinderzulage hat.
 
-##### § 66 Höhe des Kindergeldes, Zahlungszeitraum
+###### § 66 Höhe des Kindergeldes, Zahlungszeitraum
 
 (1) Das Kindergeld beträgt monatlich für jedes Kind 259 Euro.
 
@@ -5527,11 +5531,11 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 (3) Werden die Freibeträge für Kinder nach § 31 Satz 1 in Verbindung mit § 32 Absatz 6 Satz 1 angehoben, wird das Kindergeld entsprechend erhöht. Das Kindergeld ist dabei auf volle Euro kaufmännisch zu runden.
 
-##### § 67 Antrag
+###### § 67 Antrag
 
 1Das Kindergeld ist bei der zuständigen Familienkasse elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich vorgeschriebene Schnittstelle zu beantragen; die Familienkasse kann auf die elektronische Antragstellung verzichten, wenn das Kindergeld schriftlich beantragt und der Antrag vom Berechtigten eigenhändig unterschrieben wird. 2Den Antrag kann außer dem Berechtigten auch stellen, wer ein berechtigtes Interesse an der Leistung des Kindergeldes hat. 3In Fällen des Satzes 2 ist § 62 Absatz 1 Satz 2 bis 3 anzuwenden. 4Der Berechtigte ist zu diesem Zweck verpflichtet, demjenigen, der ein berechtigtes Interesse an der Leistung des Kindergeldes hat, seine an ihn vergebene Identifikationsnummer (§ 139b der Abgabenordnung) mitzuteilen. 5Kommt der Berechtigte dieser Verpflichtung nicht nach, teilt die zuständige Familienkasse demjenigen, der ein berechtigtes Interesse an der Leistung des Kindergeldes hat, auf seine Anfrage die Identifikationsnummer des Berechtigten mit.
 
-##### § 68 Besondere Mitwirkungspflichten und Offenbarungsbefugnis
+###### § 68 Besondere Mitwirkungspflichten und Offenbarungsbefugnis
 
 (1) 1Wer Kindergeld beantragt oder erhält, hat Änderungen in den Verhältnissen, die für die Leistung erheblich sind oder über die im Zusammenhang mit der Leistung Erklärungen abgegeben worden sind, unverzüglich der zuständigen Familienkasse mitzuteilen. 2Ein Kind, das das 18. Lebensjahr vollendet hat, ist auf Verlangen der Familienkasse verpflichtet, an der Aufklärung des für die Kindergeldzahlung maßgebenden Sachverhalts mitzuwirken; § 101 der Abgabenordnung findet insoweit keine Anwendung.
 
@@ -5547,7 +5551,7 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 (7) 1Die Datenstelle der Rentenversicherung darf den Familienkassen in einem automatisierten Abrufverfahren die zur Überprüfung des Anspruchs auf Kindergeld nach § 62 Absatz 1a und 2 erforderlichen Daten übermitteln; § 79 Absatz 2 bis 4 des Zehnten Buches Sozialgesetzbuch gilt entsprechend. 2Die Träger der Leistungen nach dem Zweiten und Dritten Buch Sozialgesetzbuch dürfen den Familienkassen in einem automatisierten Abrufverfahren die zur Überprüfung des Anspruchs auf Kindergeld nach § 62 erforderlichen Daten übermitteln. 3Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Voraussetzungen für das Abrufverfahren und Regelungen zu den Kosten des Verfahrens nach Satz 2 festzulegen.
 
-##### § 69 Datenübermittlung an die Familienkassen
+###### § 69 Datenübermittlung an die Familienkassen
 
 1 Erfährt das Bundeszentralamt für Steuern, dass ein Kind, für das Kindergeld gezahlt wird, verzogen ist oder von Amts wegen von der Meldebehörde abgemeldet wurde, hat es der zuständigen Familienkasse unverzüglich die in § 139b Absatz 3 Nummer 1, 3, 5, 8 und 14 der Abgabenordnung genannten Daten zum Zweck der Prüfung der Rechtmäßigkeit des Bezugs von Kindergeld zu übermitteln. 2 Die beim Bundeszentralamt für Steuern gespeicherten Daten für ein Kind, für das Kindergeld gezahlt wird, werden auf Anfrage auch den Finanzämtern zur Prüfung der Rechtmäßigkeit der Berücksichtigung der Freibeträge nach § 32 Absatz 6 zur Verfügung gestellt. 3 Erteilt das Bundeszentralamt für Steuern auf Grund der Geburt eines Kindes eine neue Identifikationsnummer nach § 139b der Abgabenordnung, übermittelt es der zuständigen Familienkasse zum Zweck der Prüfung des Bezugs von Kindergeld unverzüglich
 
@@ -5555,7 +5559,7 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 2. soweit vorhanden, die in § 139b Absatz 3 Nummer 1, 3, 5, 8 und 10 und Absatz 3a der Abgabenordnung genannten Daten der Personen, bei denen für dieses Kind nach § 39e Absatz 1 ein Kinderfreibetrag berücksichtigt wird.
 
-##### § 70 Festsetzung und Zahlung des Kindergeldes
+###### § 70 Festsetzung und Zahlung des Kindergeldes
 
 (1) 1Das Kindergeld nach § 62 wird von den Familienkassen durch Bescheid festgesetzt und ausgezahlt. 2Die Auszahlung von festgesetztem Kindergeld erfolgt rückwirkend nur für die letzten sechs Monate vor Beginn des Monats, in dem der Antrag auf Kindergeld eingegangen ist. 3Der Anspruch auf Kindergeld nach § 62 bleibt von dieser Auszahlungsbeschränkung unberührt.
 
@@ -5565,7 +5569,7 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 (4) (weggefallen)
 
-##### § 71 Vorläufige Einstellung der Zahlung des Kindergeldes
+###### § 71 Vorläufige Einstellung der Zahlung des Kindergeldes
 
 (1) Die Familienkasse kann die Zahlung des Kindergeldes ohne Erteilung eines Bescheides vorläufig einstellen, wenn
 
@@ -5577,33 +5581,33 @@ c) nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Hei
 
 (3) Die Familienkasse hat die vorläufig eingestellte Zahlung des Kindergeldes unverzüglich nachzuholen, soweit die Festsetzung, aus der sich der Anspruch ergibt, zwei Monate nach der vorläufigen Einstellung der Zahlung nicht mit Wirkung für die Vergangenheit aufgehoben oder geändert wird.
 
-##### § 72 (weggefallen)
+###### § 72 (weggefallen)
 
-##### § 73 (weggefallen)
+###### § 73 (weggefallen)
 
 -
 
-##### § 74 Zahlung des Kindergeldes in Sonderfällen
+###### § 74 Zahlung des Kindergeldes in Sonderfällen
 
 (1) 1Das für ein Kind festgesetzte Kindergeld nach § 66 Absatz 1 kann an das Kind ausgezahlt werden, wenn der Kindergeldberechtigte ihm gegenüber seiner gesetzlichen Unterhaltspflicht nicht nachkommt. 2Dies gilt auch, wenn der Kindergeldberechtigte mangels Leistungsfähigkeit nicht unterhaltspflichtig ist oder nur Unterhalt in Höhe eines Betrags zu leisten braucht, der geringer ist als das für die Auszahlung in Betracht kommende Kindergeld. 3Die Auszahlung kann auch an die Person oder Stelle erfolgen, die dem Kind Unterhalt gewährt.
 
 (2) Für Erstattungsansprüche der Träger von Sozialleistungen gegen die Familienkasse gelten die §§ 102 bis 109 und 111 bis 113 des Zehnten Buches Sozialgesetzbuch entsprechend.
 
-##### § 75 Aufrechnung
+###### § 75 Aufrechnung
 
 (1) Mit Ansprüchen auf Erstattung von Kindergeld kann die Familienkasse gegen Ansprüche auf Kindergeld bis zu deren Hälfte aufrechnen, wenn der Leistungsberechtigte nicht nachweist, dass er dadurch hilfebedürftig im Sinne der Vorschriften des Zwölften Buches Sozialgesetzbuch über die Hilfe zum Lebensunterhalt oder im Sinne der Vorschriften des Zweiten Buches Sozialgesetzbuch über die Leistungen zur Sicherung des Lebensunterhalts wird.
 
 (2) Absatz 1 gilt für die Aufrechnung eines Anspruchs auf Erstattung von Kindergeld gegen einen späteren Kindergeldanspruch eines mit dem Erstattungspflichtigen in Haushaltsgemeinschaft lebenden Berechtigten entsprechend, soweit es sich um laufendes Kindergeld für ein Kind handelt, das bei beiden berücksichtigt werden kann oder konnte.
 
-##### § 76 Pfändung
+###### § 76 Pfändung
 
 Der Anspruch auf Kindergeld kann nur wegen gesetzlicher Unterhaltsansprüche eines Kindes, für das Kindergeld festgesetzt und dem Berechtigten ausgezahlt wird, gepfändet werden.
 
-##### § 76a (weggefallen)
+###### § 76a (weggefallen)
 
 -
 
-##### § 77 Erstattung von Kosten im Vorverfahren
+###### § 77 Erstattung von Kosten im Vorverfahren
 
 (1) 1Soweit der Einspruch gegen die Kindergeldfestsetzung erfolgreich ist, hat die Familienkasse demjenigen, der den Einspruch erhoben hat, die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen zu erstatten. 2Dies gilt auch, wenn der Einspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 126 der Abgabenordnung unbeachtlich ist. 3Aufwendungen, die durch das Verschulden eines Erstattungsberechtigten entstanden sind, hat dieser selbst zu tragen; das Verschulden eines Vertreters ist dem Vertretenen zuzurechnen.
 
@@ -5611,7 +5615,7 @@ Der Anspruch auf Kindergeld kann nur wegen gesetzlicher Unterhaltsansprüche ein
 
 (3) 1Die Familienkasse setzt auf Antrag den Betrag der zu erstattenden Aufwendungen fest. 2Die Kostenentscheidung bestimmt auch, ob die Zuziehung eines Bevollmächtigten oder Beistandes im Sinne des Absatzes 2 notwendig war.
 
-##### § 78 Übergangsregelungen
+###### § 78 Übergangsregelungen
 
 (1) bis (4) (weggefallen)
 
@@ -5619,7 +5623,7 @@ Der Anspruch auf Kindergeld kann nur wegen gesetzlicher Unterhaltsansprüche ein
 
 ## XI. Altersvorsorgezulage
 
-##### § 79 Zulageberechtigte
+###### § 79 Zulageberechtigte
 
 1 Die in § 10a Absatz 1 genannten Personen haben Anspruch auf eine Altersvorsorgezulage (Zulage). 2 Ist nur ein Ehegatte nach Satz 1 begünstigt, so ist auch der andere Ehegatte zulageberechtigt, wenn
 
@@ -5635,15 +5639,15 @@ Der Anspruch auf Kindergeld kann nur wegen gesetzlicher Unterhaltsansprüche ein
 
 3 Satz 1 gilt entsprechend für die in § 10a Absatz 6 Satz 1 und 2 genannten Personen, sofern sie unbeschränkt steuerpflichtig sind oder für das Beitragsjahr nach § 1 Absatz 3 als unbeschränkt steuerpflichtig behandelt werden.
 
-##### § 80 Anbieter
+###### § 80 Anbieter
 
 Anbieter im Sinne dieses Gesetzes sind Anbieter von Altersvorsorgeverträgen gemäß § 1 Absatz 2 des Altersvorsorgeverträge-Zertifizierungsgesetzes sowie die in § 82 Absatz 2 genannten Versorgungseinrichtungen.
 
-##### § 81 Zentrale Stelle
+###### § 81 Zentrale Stelle
 
 Zentrale Stelle im Sinne dieses Gesetzes ist die Deutsche Rentenversicherung Bund.
 
-##### § 81a Zuständige Stelle
+###### § 81a Zuständige Stelle
 
 1 Zuständige Stelle ist bei einem
 
@@ -5659,7 +5663,7 @@ Zentrale Stelle im Sinne dieses Gesetzes ist die Deutsche Rentenversicherung Bun
 
 2 Für die in § 10a Absatz 1 Satz 1 Nummer 5 genannten Steuerpflichtigen gilt Satz 1 entsprechend.
 
-##### § 82 Altersvorsorgebeiträge
+###### § 82 Altersvorsorgebeiträge
 
 (1) 1 Geförderte Altersvorsorgebeiträge sind im Rahmen des in § 10a Absatz 1 Satz 1 genannten Höchstbetrags
 
@@ -5667,7 +5671,7 @@ Zentrale Stelle im Sinne dieses Gesetzes ist die Deutsche Rentenversicherung Bun
 
 2. Tilgungsleistungen,
 
-die der Zulageberechtigte (§ 79) bis zum Beginn der Auszahlungsphase zugunsten eines auf seinen Namen lautenden Vertrags leistet, der nach § 5 des Altersvorsorgeverträge-Zertifizierungsgesetzes zertifiziert ist (Altersvorsorgevertrag). 2 Die Zertifizierung ist Grundlagenbescheid im Sinne des § 171 Absatz 10 der Abgabenordnung. 3 Als Tilgungsleistungen gelten auch Beiträge, die vom Zulageberechtigten zugunsten eines auf seinen Namen lautenden Altersvorsorgevertrags im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 des Altersvorsorgeverträge-Zertifizierungsgesetzes erbracht wurden und die zur Tilgung eines im Rahmen des Altersvorsorgevertrags abgeschlossenen Darlehens abgetreten wurden. 4 Im Fall der Übertragung von gefördertem Altersvorsorgevermögen nach § 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b des Altersvorsorgeverträge-Zertifizierungsgesetzes in einen Altersvorsorgevertrag im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 des Altersvorsorgeverträge-Zertifizierungsgesetzes gelten die Beiträge nach Satz 1 Nummer 1 ab dem Zeitpunkt der Übertragung als Tilgungsleistungen nach Satz 3; eine erneute Förderung nach § 10a oder Abschnitt XI erfolgt insoweit nicht. 5 Tilgungsleistungen nach den Sätzen 1 und 3 werden nur berücksichtigt, wenn das zugrunde liegende Darlehen für eine nach dem 31. Dezember 2007 vorgenommene wohnungswirtschaftliche Verwendung im Sinne des § 92a Absatz 1 Satz 1 eingesetzt wurde. 6 Bei einer Aufgabe der Selbstnutzung nach § 92a Absatz 3 Satz 1 gelten im Beitragsjahr der Aufgabe der Selbstnutzung auch die nach der Aufgabe der Selbstnutzung geleisteten Beiträge oder Tilgungsleistungen als Altersvorsorgebeiträge nach Satz 1. 7 Bei einer Reinvestition nach § 92a Absatz 3 Satz 9 Nummer 1 gelten im Beitragsjahr der Reinvestition auch die davor geleisteten Beiträge oder Tilgungsleistungen als Altersvorsorgebeiträge nach Satz 1. 8 Bei einem beruflich bedingten Umzug nach § 92a Absatz 4 gelten
+die der Zulageberechtigte (§ 79) bis zum Beginn der Auszahlungsphase zugunsten eines auf seinen Namen lautenden Vertrags leistet, der nach § 5 des Altersvorsorgeverträge-Zertifizierungsgesetzes zertifiziert ist (Altersvorsorgevertrag). 2 Die Zertifizierung ist Grundlagenbescheid im Sinne des § 171 Absatz 10 der Abgabenordnung. 3 Als Tilgungsleistungen gelten auch Beiträge, die vom Zulageberechtigten zugunsten eines auf seinen Namen lautenden Altersvorsorgevertrags im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 des Altersvorsorgeverträge-Zertifizierungsgesetzes erbracht wurden und die zur Tilgung eines im Rahmen des Altersvorsorgevertrags abgeschlossenen Darlehens abgetreten wurden. 4 Im Fall der Übertragung von gefördertem Altersvorsorgevermögen nach § 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b des Altersvorsorgeverträge-Zertifizierungsgesetzes in einen Altersvorsorgevertrag im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 des Altersvorsorgeverträge-Zertifizierungsgesetzes gelten die Beiträge nach Satz 1 Nummer 1 ab dem Zeitpunkt der Übertragung als Tilgungsleistungen nach Satz 3; eine erneute Förderung nach § 10a oder Abschnitt XI erfolgt insoweit nicht. 5 Tilgungsleistungen nach den Sätzen 1 und 3 werden nur berücksichtigt, wenn das zugrunde liegende Darlehen für eine nach dem 31. Dezember 2007 vorgenommene wohnungswirtschaftliche Verwendung im Sinne des § 92a Absatz 1 Satz 1 eingesetzt wurde. 6 Bei einer Aufgabe der Selbstnutzung nach § 92a Absatz 3 Satz 1 gelten im Beitragsjahr der Aufgabe der Selbstnutzung auch die nach der Aufgabe der Selbstnutzung geleisteten Beiträge oder Tilgungsleistungen als Altersvorsorgebeiträge nach Satz 1. 7 Bei einer Reinvestition nach § 92a Absatz 3 Satz 9 Nummer 1 gelten im Beitragsjahr der Reinvestition auch die davor geleisteten Beiträge oder Tilgungsleistungen als Altersvorsorgebeiträge nach Satz 1. 8 Bei einer Wiederaufnahme der Selbstnutzung nach § 92a Absatz 3 Satz 9 Nummer 5 oder bei einem beruflich bedingten Umzug nach § 92a Absatz 4 gelten
 
 1. im Beitragsjahr des Wegzugs auch die nach dem Wegzug und
 
@@ -5707,35 +5711,23 @@ b) ein vereinbartes Kapitalwahlrecht nicht oder nicht außerhalb des letzten Jah
 
 5. Übertragungen im Sinne des § 3 Nummer 55 bis 55c.
 
-(5) 1 Der Zulageberechtigte kann für ein abgelaufenes Beitragsjahr bis zum Beitragsjahr 2011 Altersvorsorgebeiträge auf einen auf seinen Namen lautenden Altersvorsorgevertrag leisten, wenn
+(5) (weggefallen)
 
-1. der Anbieter des Altersvorsorgevertrags davon Kenntnis erhält, in welcher Höhe und für welches Beitragsjahr die Altersvorsorgebeiträge berücksichtigt werden sollen,
-
-2. in dem Beitragsjahr, für das die Altersvorsorgebeiträge berücksichtigt werden sollen, ein Altersvorsorgevertrag bestanden hat,
-
-3. im fristgerechten Antrag auf Zulage für dieses Beitragsjahr eine Zulageberechtigung nach § 79 Satz 2 angegeben wurde, aber tatsächlich eine Zulageberechtigung nach § 79 Satz 1 vorliegt,
-
-4. die Zahlung der Altersvorsorgebeiträge für abgelaufene Beitragsjahre bis zum Ablauf von zwei Jahren nach Erteilung der Bescheinigung nach § 92, mit der zuletzt Ermittlungsergebnisse für dieses Beitragsjahr bescheinigt wurden, längstens jedoch bis zum Beginn der Auszahlungsphase des Altersvorsorgevertrages erfolgt und
-
-5. der Zulageberechtigte vom Anbieter in hervorgehobener Weise darüber informiert wurde oder dem Anbieter seine Kenntnis darüber versichert, dass die Leistungen aus diesen Altersvorsorgebeiträgen der vollen nachgelagerten Besteuerung nach § 22 Nummer 5 Satz 1 unterliegen.
-
-2 Wurden die Altersvorsorgebeiträge dem Altersvorsorgevertrag gutgeschrieben und sind die Voraussetzungen nach Satz 1 erfüllt, so hat der Anbieter der zentralen Stelle (§ 81) die entsprechenden Daten nach § 89 Absatz 2 Satz 1 für das zurückliegende Beitragsjahr nach einem mit der zentralen Stelle abgestimmten Verfahren mitzuteilen. 3 Die Beträge nach Satz 1 gelten für die Ermittlung der zu zahlenden Altersvorsorgezulage nach § 83 als Altersvorsorgebeiträge für das Beitragsjahr, für das sie gezahlt wurden. 4 Für die Anwendung des § 10a Absatz 1 Satz 1 sowie bei der Ermittlung der dem Steuerpflichtigen zustehenden Zulage im Rahmen des § 2 Absatz 6 und des § 10a sind die nach Satz 1 gezahlten Altersvorsorgebeiträge weder für das Beitragsjahr nach Satz 1 Nummer 2 noch für das Beitragsjahr der Zahlung zu berücksichtigen.
-
-##### § 83 Altersvorsorgezulage
+###### § 83 Altersvorsorgezulage
 
 In Abhängigkeit von den geleisteten Altersvorsorgebeiträgen wird eine Zulage gezahlt, die sich aus einer Grundzulage (§ 84) und einer Kinderzulage (§ 85) zusammensetzt.
 
-##### § 84 Grundzulage
+###### § 84 Grundzulage
 
 1Jeder Zulageberechtigte erhält eine Grundzulage; diese beträgt ab dem Beitragsjahr 2018 jährlich 175 Euro. 2Für Zulageberechtigte nach § 79 Satz 1, die zu Beginn des Beitragsjahres (§ 88) das 25. Lebensjahr noch nicht vollendet haben, erhöht sich die Grundzulage nach Satz 1 um einmalig 200 Euro. 3Die Erhöhung nach Satz 2 ist für das erste nach dem 31. Dezember 2007 beginnende Beitragsjahr zu gewähren, für das eine Altersvorsorgezulage beantragt wird.
 
-##### § 85 Kinderzulage
+###### § 85 Kinderzulage
 
 (1) 1Die Kinderzulage beträgt für jedes Kind, für das gegenüber dem Zulageberechtigten Kindergeld festgesetzt wird, jährlich 185 Euro. 2Für ein nach dem 31. Dezember 2007 geborenes Kind erhöht sich die Kinderzulage nach Satz 1 auf 300 Euro. 3Der Anspruch auf Kinderzulage entfällt für den Veranlagungszeitraum, für den das Kindergeld insgesamt zurückgefordert wird. 4Erhalten mehrere Zulageberechtigte für dasselbe Kind Kindergeld, steht die Kinderzulage demjenigen zu, dem gegenüber für den ersten Anspruchszeitraum (§ 66 Absatz 2) im Kalenderjahr Kindergeld festgesetzt worden ist.
 
 (2) 1Bei Eltern verschiedenen Geschlechts, die miteinander verheiratet sind, nicht dauernd getrennt leben (§ 26 Absatz 1) und ihren Wohnsitz oder gewöhnlichen Aufenthalt in einem Mitgliedstaat der Europäischen Union oder einem Staat haben, auf den das Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen) anwendbar ist, wird die Kinderzulage der Mutter zugeordnet, auf Antrag beider Eltern dem Vater. 2Bei Eltern gleichen Geschlechts, die miteinander verheiratet sind oder eine Lebenspartnerschaft führen, nicht dauernd getrennt leben (§ 26 Absatz 1) und ihren Wohnsitz oder gewöhnlichen Aufenthalt in einem Mitgliedstaat der Europäischen Union oder einem Staat haben, auf den das EWR-Abkommen anwendbar ist, ist die Kinderzulage dem Elternteil zuzuordnen, dem gegenüber das Kindergeld festgesetzt wird, auf Antrag beider Eltern dem anderen Elternteil. 3Der Antrag kann für ein abgelaufenes Beitragsjahr nicht zurückgenommen werden.
 
-##### § 86 Mindesteigenbeitrag
+###### § 86 Mindesteigenbeitrag
 
 (1) 1 Die Zulage nach den §§ 84 und 85 wird gekürzt, wenn der Zulageberechtigte nicht den Mindesteigenbeitrag leistet. 2 Dieser beträgt jährlich 4 Prozent der Summe der in dem dem Kalenderjahr vorangegangenen Kalenderjahr
 
@@ -5761,17 +5753,17 @@ jedoch nicht mehr als der in § 10a Absatz 1 Satz 1 genannte Höchstbetrag, verm
 
 2. die bezogenen Leistungen im Sinne des § 10a Absatz 6 Satz 2 Nummer 1.
 
-##### § 87 Zusammentreffen mehrerer Verträge
+###### § 87 Zusammentreffen mehrerer Verträge
 
 (1) 1Zahlt der nach § 79 Satz 1 Zulageberechtigte Altersvorsorgebeiträge zugunsten mehrerer Verträge, so wird die Zulage nur für zwei dieser Verträge gewährt. 2Der insgesamt nach § 86 zu leistende Mindesteigenbeitrag muss zugunsten dieser Verträge geleistet worden sein. 3Die Zulage ist entsprechend dem Verhältnis der auf diese Verträge geleisteten Beiträge zu verteilen.
 
 (2) 1Der nach § 79 Satz 2 Zulageberechtigte kann die Zulage für das jeweilige Beitragsjahr nicht auf mehrere Altersvorsorgeverträge verteilen. 2Es ist nur der Altersvorsorgevertrag begünstigt, für den zuerst die Zulage beantragt wird.
 
-##### § 88 Entstehung des Anspruchs auf Zulage
+###### § 88 Entstehung des Anspruchs auf Zulage
 
 Der Anspruch auf die Zulage entsteht mit Ablauf des Kalenderjahres, in dem die Altersvorsorgebeiträge geleistet worden sind (Beitragsjahr).
 
-##### § 89 Antrag
+###### § 89 Antrag
 
 (1) 1Der Zulageberechtigte hat den Antrag auf Zulage nach amtlich vorgeschriebenem Vordruck bis zum Ablauf des zweiten Kalenderjahres, das auf das Beitragsjahr (§ 88) folgt, bei dem Anbieter seines Vertrages einzureichen; dies kann auch elektronisch unter Angabe der erforderlichen Antragsdaten erfolgen, wenn sowohl der Anbieter als auch der Zulageberechtigte mit diesem Verfahren einverstanden sind. 2Hat der Zulageberechtigte im Beitragsjahr Altersvorsorgebeiträge für mehrere Verträge gezahlt, so hat er mit dem Zulageantrag zu bestimmen, auf welche Verträge die Zulage überwiesen werden soll. 3Beantragt der Zulageberechtigte die Zulage für mehr als zwei Verträge, so wird die Zulage nur für die zwei Verträge mit den höchsten Altersvorsorgebeiträgen gewährt. 4Sofern eine Zulagenummer (§ 90 Absatz 1 Satz 2) durch die zentrale Stelle (§ 81) oder eine Versicherungsnummer nach § 147 des Sechsten Buches Sozialgesetzbuch für den nach § 79 Satz 2 berechtigten Ehegatten noch nicht vergeben ist, hat dieser über seinen Anbieter eine Zulagenummer bei der zentralen Stelle zu beantragen. 5Der Antragsteller ist verpflichtet, dem Anbieter unverzüglich eine Änderung der Verhältnisse mitzuteilen, die zu einer Minderung oder zum Wegfall des Zulageanspruchs führt; dies kann auch elektronisch erfolgen, wenn sowohl der Anbieter als auch der Zulageberechtigte mit diesem Verfahren einverstanden sind.
 
@@ -5795,7 +5787,7 @@ als die für die Ermittlung und Überprüfung des Zulageanspruchs und Durchführ
 
 (3) 1Ist der Anbieter nach Absatz 1a Satz 1 bevollmächtigt worden, hat er der zentralen Stelle die nach Absatz 2 Satz 1 erforderlichen Angaben für jedes Kalenderjahr bis zum Ablauf des auf das Beitragsjahr folgenden Kalenderjahres zu übermitteln. 2Liegt die Bevollmächtigung erst nach dem im Satz 1 genannten Meldetermin vor, hat der Anbieter die Angaben bis zum Ende des folgenden Kalendervierteljahres nach der Bevollmächtigung, spätestens jedoch bis zum Ablauf der in Absatz 1 Satz 1 genannten Antragsfrist, zu übermitteln. 3Absatz 2 Satz 2 und 3 gilt sinngemäß.
 
-##### § 90 Verfahren
+###### § 90 Verfahren
 
 (1) 1Die zentrale Stelle ermittelt auf Grund der von ihr erhobenen oder der ihr übermittelten Daten, ob und in welcher Höhe ein Zulageanspruch besteht. 2Soweit der zuständige Träger der Rentenversicherung keine Versicherungsnummer vergeben hat, vergibt die zentrale Stelle zur Erfüllung der ihr nach diesem Abschnitt zugewiesenen Aufgaben eine Zulagenummer. 3Die zentrale Stelle teilt im Fall eines Antrags nach § 10a Absatz 1b der zuständigen Stelle, im Fall eines Antrags nach § 89 Absatz 1 Satz 4 dem Anbieter die Zulagenummer mit; von dort wird sie an den Antragsteller weitergeleitet.
 
@@ -5817,7 +5809,7 @@ als die für die Ermittlung und Überprüfung des Zulageanspruchs und Durchführ
 
 2. im Falle des Absatzes 3 von Amts wegen,
 
-3. auf besonderen Antrag des Zulageberechtigten, sofern nicht bereits eine Festsetzung von Amts wegen erfolgt ist, oder
+3. auf besonderen Antrag des Zulageberechtigten, sofern nicht bereits eine Festsetzung nach Nummer 1, 2 oder 4 erfolgt ist, oder
 
 4. auf Anforderung des zuständigen Finanzamtes, wenn dessen Daten von den Daten der zentralen Stelle abweichen; eine gesonderte Festsetzung unterbleibt, wenn eine Festsetzung nach den Nummern 1 bis 3 bereits erfolgt ist, für das Beitragsjahr keine Zulage beantragt wurde oder die Frist nach Absatz 3 Satz 1 abgelaufen ist.
 
@@ -5825,19 +5817,19 @@ als die für die Ermittlung und Überprüfung des Zulageanspruchs und Durchführ
 
 (5) 1Im Rahmen des Festsetzungsverfahrens oder Einspruchsverfahrens kann der Zulageberechtigte bis zum rechtskräftigen Abschluss des Festsetzungsverfahrens oder Einspruchsverfahrens eine nicht fristgerecht abgegebene Einwilligung nach § 10a Absatz 1 Satz 1 Halbsatz 2 gegenüber der zuständigen Stelle nachholen. 2Über die Nachholung hat er die zentrale Stelle unter Angabe des Datums der Erteilung der Einwilligung unmittelbar zu informieren. 3Hat der Zulageberechtigte im Rahmen des Festsetzungsverfahrens oder Einspruchsverfahrens eine wirksame Einwilligung gegenüber der zuständigen Stelle erteilt, wird er so gestellt, als hätte er die Einwilligung innerhalb der Frist nach § 10a Absatz 1 Satz 1 Halbsatz 2 wirksam gestellt.
 
-##### § 91 Datenerhebung und Datenabgleich
+###### § 91 Datenerhebung und Datenabgleich
 
 (1) 1Für die Berechnung und Überprüfung der Zulage sowie die Überprüfung des Vorliegens der Voraussetzungen des Sonderausgabenabzugs nach § 10a übermitteln die Träger der gesetzlichen Rentenversicherung, die landwirtschaftliche Alterskasse, die Bundesagentur für Arbeit, die Meldebehörden, die Familienkassen und die Finanzämter der zentralen Stelle auf Anforderung unter Angabe der Identifikationsnummer (§ 139b der Abgabenordnung) des Steuerpflichtigen die bei ihnen vorhandenen Daten nach § 89 Absatz 2 durch Datenfernübertragung; für Zwecke der Berechnung des Mindesteigenbeitrags für ein Beitragsjahr darf die zentrale Stelle bei den Trägern der gesetzlichen Rentenversicherung und der landwirtschaftlichen Alterskasse die bei ihnen vorhandenen Daten zu den beitragspflichtigen Einnahmen sowie in den Fällen des § 10a Absatz 1 Satz 4 zur Höhe der bezogenen Rente wegen voller Erwerbsminderung oder Erwerbsunfähigkeit erheben, sofern diese nicht vom Anbieter nach § 89 übermittelt worden sind; im Datenabgleich mit den Familienkassen sind auch die Identifikationsnummern des Kindergeldberechtigten und des Kindes anzugeben. 2Für Zwecke der Überprüfung nach Satz 1 darf die zentrale Stelle die ihr übermittelten Daten mit den ihr nach § 89 Absatz 2 übermittelten Daten automatisiert abgleichen. 3Ergibt die Überprüfung eine Abweichung von dem in der Steuerfestsetzung berücksichtigten Sonderausgabenabzug nach § 10a oder der gesonderten Feststellung nach § 10a Absatz 4, ist dies dem Finanzamt mitzuteilen; die Steuerfestsetzung oder die gesonderte Feststellung ist insoweit zu ändern. 4Ist die Zulage nach § 90 Absatz 4 von der zentralen Stelle unanfechtbar festgesetzt worden, sind diese gesondert festgesetzten Besteuerungsgrundlagen für das Finanzamt bindend und auch der gesonderten Feststellung nach § 10a Absatz 4 zu Grunde zu legen.
 
 (2) 1Die zuständige Stelle hat der zentralen Stelle die Daten nach § 10a Absatz 1 Satz 1 zweiter Halbsatz bis zum 31. März des dem Beitragsjahr folgenden Kalenderjahres durch Datenfernübertragung zu übermitteln. 2Liegt die Einwilligung nach § 10a Absatz 1 Satz 1 zweiter Halbsatz erst nach dem im Satz 1 genannten Meldetermin vor, hat die zuständige Stelle die Daten spätestens bis zum Ende des folgenden Kalendervierteljahres nach Erteilung der Einwilligung nach Maßgabe von Satz 1 zu übermitteln.
 
-##### § 92 Bescheinigung
+###### § 92 Bescheinigung
 
 1 Der Anbieter hat dem Zulageberechtigten jährlich bis zum Ablauf des auf das Beitragsjahr folgenden Jahres eine Bescheinigung nach amtlich vorgeschriebenem Muster zu erteilen über
 
 1. die Höhe der im abgelaufenen Beitragsjahr geleisteten Altersvorsorgebeiträge (Beiträge und Tilgungsleistungen),
 
-2. die im abgelaufenen Beitragsjahr getroffenen, aufgehobenen oder geänderten Ermittlungsergebnisse (§ 90),
+2. die Ermittlungsergebnisse (§ 90) im abgelaufenen Beitragsjahr,
 
 3. die Summe der bis zum Ende des abgelaufenen Beitragsjahres dem Vertrag gutgeschriebenen Zulagen,
 
@@ -5857,7 +5849,7 @@ als die für die Ermittlung und Überprüfung des Zulageanspruchs und Durchführ
 
 bedarf es keiner jährlichen Bescheinigung, wenn der Anbieter dem Zulageberechtigten in einer Bescheinigung im Sinne dieser Vorschrift Folgendes mitteilt: „Das Wohnförderkonto erhöht sich bis zum Beginn der Auszahlungsphase jährlich um 2 Prozent, solange Sie keine Zahlungen zur Minderung des Wohnförderkontos leisten.“ 4 Der Anbieter kann dem Zulageberechtigten mit dessen Einverständnis die Bescheinigung auch elektronisch bereitstellen.
 
-##### § 92a Verwendung für eine selbst genutzte Wohnung
+###### § 92a Verwendung für eine selbst genutzte Wohnung
 
 (1) 1 Der Zulageberechtigte kann das in einem Altersvorsorgevertrag gebildete und nach § 10a oder nach diesem Abschnitt geförderte Kapital in vollem Umfang oder, wenn das verbleibende geförderte Restkapital mindestens 3 000 Euro beträgt, teilweise wie folgt verwenden (Altersvorsorge-Eigenheimbetrag):
 
@@ -5935,7 +5927,7 @@ als Zeitpunkt der Aufgabe gilt. 12 Satz 9 Nummer 5 setzt voraus, dass bei einer 
 
 2 Der Steuerpflichtige hat den Antrag bei der zentralen Stelle zu stellen und dabei die notwendigen Nachweise zu erbringen. 3 Die zentrale Stelle erteilt dem Steuerpflichtigen einen Bescheid über die Bewilligung des Antrags und informiert den Anbieter des Altersvorsorgevertrags mit Wohnförderkonto des Zulageberechtigten über die Bewilligung, eine Wiederaufnahme der Selbstnutzung nach einem beruflich bedingten Umzug und den Wegfall der Voraussetzungen nach diesem Absatz; die Information hat nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu erfolgen. 4 Entfällt eine der in Satz 1 genannten Voraussetzungen, ist Absatz 3 mit der Maßgabe anzuwenden, dass bei einem Wegfall der Voraussetzung nach Satz 1 Nummer 1 als Zeitpunkt der Aufgabe der Zeitpunkt des Wegfalls der Voraussetzung und bei einem Wegfall der Voraussetzung nach Satz 1 Nummer 2 oder Nummer 3 der Eingang der Mitteilung des Steuerpflichtigen nach Absatz 3 als Zeitpunkt der Aufgabe gilt, spätestens jedoch die Vollendung des 67. Lebensjahres des Steuerpflichtigen.
 
-##### § 92b Verfahren bei Verwendung für eine selbst genutzte Wohnung
+###### § 92b Verfahren bei Verwendung für eine selbst genutzte Wohnung
 
 (1) 1Der Zulageberechtigte hat die Verwendung des Kapitals nach § 92a Absatz 1 Satz 1 spätestens zehn Monate vor dem Beginn der Auszahlungsphase des Altersvorsorgevertrags im Sinne des § 1 Absatz 1 Nummer 2 des Altersvorsorgeverträge-Zertifizierungsgesetzes bei der zentralen Stelle zu beantragen und dabei die notwendigen Nachweise zu erbringen. 2Er hat zu bestimmen, aus welchen Altersvorsorgeverträgen der Altersvorsorge-Eigenheimbetrag ausgezahlt werden soll. 3Die zentrale Stelle teilt dem Zulageberechtigten durch Bescheid und den Anbietern der in Satz 2 genannten Altersvorsorgeverträge nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung mit, bis zu welcher Höhe eine wohnungswirtschaftliche Verwendung im Sinne des § 92a Absatz 1 Satz 1 vorliegen kann.
 
@@ -5951,7 +5943,7 @@ als Zeitpunkt der Aufgabe gilt. 12 Satz 9 Nummer 5 setzt voraus, dass bei einer 
 
 (3) 1Die zentrale Stelle stellt zu Beginn der Auszahlungsphase und in den Fällen des § 92a Absatz 2a und 3 Satz 5 den Stand des Wohnförderkontos, soweit für die Besteuerung erforderlich, den Verminderungsbetrag und den Auflösungsbetrag von Amts wegen gesondert fest. 2Die zentrale Stelle teilt die Feststellung dem Zulageberechtigten, in den Fällen des § 92a Absatz 2a Satz 1 auch dem anderen Ehegatten, durch Bescheid und dem Anbieter nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung mit. 3Der Anbieter hat auf Anforderung der zentralen Stelle die zur Feststellung erforderlichen Unterlagen vorzulegen. 4Auf Antrag des Zulageberechtigten stellt die zentrale Stelle den Stand des Wohnförderkontos gesondert fest. 5§ 90 Absatz 4 Satz 2 bis 5 gilt entsprechend.
 
-##### § 93 Schädliche Verwendung
+###### § 93 Schädliche Verwendung
 
 (1) 1 Wird gefördertes Altersvorsorgevermögen nicht unter den in § 1 Absatz 1 Satz 1 Nummer 4 und 10 Buchstabe c des Altersvorsorgeverträge-Zertifizierungsgesetzes oder § 1 Absatz 1 Satz 1 Nummer 4, 5 und 10 Buchstabe c des Altersvorsorgeverträge-Zertifizierungsgesetzes in der bis zum 31. Dezember 2004 geltenden Fassung genannten Voraussetzungen an den Zulageberechtigten ausgezahlt (schädliche Verwendung), sind die auf das ausgezahlte geförderte Altersvorsorgevermögen entfallenden Zulagen und die nach § 10a Absatz 4 gesondert festgestellten Beträge (Rückzahlungsbetrag) zurückzuzahlen. 2 Dies gilt auch bei einer Auszahlung nach Beginn der Auszahlungsphase (§ 1 Absatz 1 Satz 1 Nummer 2 des Altersvorsorgeverträge-Zertifizierungsgesetzes) und bei Auszahlungen im Fall des Todes des Zulageberechtigten. 3 Hat der Zulageberechtigte Zahlungen im Sinne des § 92a Absatz 2 Satz 4 Nummer 1 oder § 92a Absatz 3 Satz 9 Nummer 2 geleistet, dann handelt es sich bei dem hierauf beruhenden Altersvorsorgevermögen um gefördertes Altersvorsorgevermögen im Sinne des Satzes 1; der Rückzahlungsbetrag bestimmt sich insoweit nach der für die in das Wohnförderkonto eingestellten Beträge gewährten Förderung. 4 Eine Rückzahlungsverpflichtung besteht nicht für den Teil der Zulagen und der Steuerermäßigung,
 
@@ -5967,7 +5959,13 @@ d) der auf den Altersvorsorge-Eigenheimbetrag entfällt.
 
 (2) 1Die Übertragung von gefördertem Altersvorsorgevermögen auf einen anderen auf den Namen des Zulageberechtigten lautenden Altersvorsorgevertrag (§ 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b des Altersvorsorgeverträge-Zertifizierungsgesetzes) stellt keine schädliche Verwendung dar. 2Dies gilt sinngemäß in den Fällen des § 4 Absatz 2 und 3 des Betriebsrentengesetzes, wenn das geförderte Altersvorsorgevermögen auf eine der in § 82 Absatz 2 Buchstabe a genannten Einrichtungen der betrieblichen Altersversorgung zum Aufbau einer kapitalgedeckten betrieblichen Altersversorgung übertragen und eine lebenslange Altersversorgung entsprechend § 82 Absatz 2 Satz 2 vorgesehen ist, wie auch in den Fällen einer Übertragung nach § 3 Nummer 55c Satz 2 Buchstabe a. 3In den übrigen Fällen der Abfindung von Anwartschaften der betrieblichen Altersversorgung gilt dies, soweit das geförderte Altersvorsorgevermögen zugunsten eines auf den Namen des Zulageberechtigten lautenden Altersvorsorgevertrages geleistet wird. 4Auch keine schädliche Verwendung sind der gesetzliche Forderungs- und Vermögensübergang nach § 9 des Betriebsrentengesetzes und die gesetzlich vorgesehene schuldbefreiende Übertragung nach § 8 Absatz 1 des Betriebsrentengesetzes.
 
-(3) 1 Auszahlungen zur Abfindung einer Kleinbetragsrente zu Beginn der Auszahlungsphase oder im darauffolgenden Jahr gelten nicht als schädliche Verwendung. 2 Eine Kleinbetragsrente ist eine Rente, die bei gleichmäßiger Verrentung des gesamten zu Beginn der Auszahlungsphase zur Verfügung stehenden Kapitals eine monatliche Rente ergibt, die 1 Prozent der monatlichen Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch nicht übersteigt. 3 Bei der Berechnung dieses Betrags sind alle bei einem Anbieter bestehenden Verträge des Zulageberechtigten insgesamt zu berücksichtigen, auf die nach diesem Abschnitt geförderte Altersvorsorgebeiträge geleistet wurden. 4 Die Sätze 1 bis 3 gelten entsprechend, wenn
+(3) 1 Auszahlungen zur Abfindung einer Kleinbetragsrente zu Beginn der Auszahlungsphase gelten nicht als schädliche Verwendung. 2 Eine Kleinbetragsrente ist
+
+1. eine Rente, die bei gleichmäßiger Verrentung des gesamten zu Beginn der Auszahlungsphase zur Verfügung stehenden Kapitals eine monatliche Rente ergibt, die 1,5 Prozent der monatlichen Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch nicht übersteigt, oder
+
+2. eine monatliche Leistung ab dem 1. Januar 2027, die bei einer gleichmäßigen Verteilung des gesamten zu Beginn der Auszahlungsphase zur Verfügung stehenden Kapitals im Rahmen eines Auszahlungsplans nach § 1 Absatz 1 Satz 1 Nummer 4 Buchstabe b des Altersvorsorgeverträge-Zertifizierungsgesetzes 1,5 Prozent der monatlichen Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch nicht übersteigt.
+
+3 Bei der Berechnung dieses Betrags sind alle bei einem Anbieter bestehenden Verträge des Zulageberechtigten insgesamt zu berücksichtigen, auf die nach diesem Abschnitt geförderte Altersvorsorgebeiträge geleistet wurden. 4 Die Sätze 1 bis 3 gelten entsprechend, wenn
 
 1. nach dem Beginn der Auszahlungsphase ein Versorgungsausgleich durchgeführt wird und
 
@@ -5975,7 +5973,7 @@ d) der auf den Altersvorsorge-Eigenheimbetrag entfällt.
 
 (4) 1Wird bei einem einheitlichen Vertrag nach § 1 Absatz 1a Satz 1 Nummer 2 zweiter Halbsatz des Altersvorsorgeverträge-Zertifizierungsgesetzes das Darlehen nicht wohnungswirtschaftlich im Sinne des § 92a Absatz 1 Satz 1 verwendet, liegt zum Zeitpunkt der Darlehensauszahlung eine schädliche Verwendung des geförderten Altersvorsorgevermögens vor, es sei denn, das geförderte Altersvorsorgevermögen wird innerhalb eines Jahres nach Ablauf des Veranlagungszeitraums, in dem das Darlehen ausgezahlt wurde, auf einen anderen zertifizierten Altersvorsorgevertrag übertragen, der auf den Namen des Zulageberechtigten lautet. 2Der Zulageberechtigte hat dem Anbieter die Absicht zur Kapitalübertragung, den Zeitpunkt der Kapitalübertragung bis zum Zeitpunkt der Darlehensauszahlung und die Aufgabe der Absicht zur Kapitalübertragung mitzuteilen. 3Wird die Absicht zur Kapitalübertragung aufgegeben, tritt die schädliche Verwendung zu dem Zeitpunkt ein, zu dem die Mitteilung des Zulageberechtigten hierzu beim Anbieter eingeht, spätestens aber am 1. Januar des zweiten Jahres nach dem Jahr, in dem das Darlehen ausgezahlt wurde.
 
-##### § 94 Verfahren bei schädlicher Verwendung
+###### § 94 Verfahren bei schädlicher Verwendung
 
 (1) 1In den Fällen des § 93 Absatz 1 hat der Anbieter der zentralen Stelle vor der Auszahlung des geförderten Altersvorsorgevermögens die schädliche Verwendung nach amtlich vorgeschriebenem Datensatz durch amtlich bestimmte Datenfernübertragung anzuzeigen. 2Die zentrale Stelle ermittelt den Rückzahlungsbetrag und teilt diesen dem Anbieter durch Datensatz mit. 3Der Anbieter hat den Rückzahlungsbetrag einzubehalten, mit der nächsten Anmeldung nach § 90 Absatz 3 anzumelden und an die zentrale Stelle abzuführen. 4Der Anbieter hat die einbehaltenen und abgeführten Beträge der zentralen Stelle nach amtlich vorgeschriebenem Datensatz durch amtlich bestimmte Datenfernübertragung mitzuteilen und diese Beträge dem Zulageberechtigten zu bescheinigen; mit Einverständnis des Zulageberechtigten kann die Bescheinigung elektronisch bereitgestellt werden. 5In den Fällen des § 93 Absatz 3 gilt Satz 1 entsprechend.
 
@@ -5983,11 +5981,11 @@ d) der auf den Altersvorsorge-Eigenheimbetrag entfällt.
 
 (3) 1Sofern der zentralen Stelle für den Zulageberechtigten im Zeitpunkt der schädlichen Verwendung eine Meldung nach § 118 Absatz 1a des Zwölften Buches Sozialgesetzbuch zum erstmaligen Bezug von Hilfe zum Lebensunterhalt und von Grundsicherung im Alter und bei Erwerbsminderung vorliegt, teilt die zentrale Stelle zum Zeitpunkt der Mitteilung nach Absatz 1 Satz 2 der Datenstelle der Rentenversicherungsträger als Vermittlungsstelle die schädliche Verwendung durch Datenfernübertragung mit. 2Dies gilt nicht, wenn das Ausscheiden aus diesem Hilfebezug nach § 118 Absatz 1a des Zwölften Buches Sozialgesetzbuch angezeigt wurde.
 
-##### § 95 Sonderfälle der Rückzahlung
+###### § 95 Sonderfälle der Rückzahlung
 
 1Die §§ 93 und 94 gelten entsprechend, wenn sich der Wohnsitz oder gewöhnliche Aufenthalt des Zulageberechtigten ab Beginn der Auszahlungsphase außerhalb der Mitgliedstaaten der Europäischen Union und der Staaten befindet, auf die das Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen) anwendbar ist, oder wenn der Zulageberechtigte ungeachtet eines Wohnsitzes oder gewöhnlichen Aufenthaltes in einem dieser Staaten nach einem Abkommen zur Vermeidung der Doppelbesteuerung mit einem dritten Staat als außerhalb des Hoheitsgebiets dieser Staaten ansässig gilt. 2Satz 1 gilt nicht, sofern sich der Wohnsitz oder gewöhnliche Aufenthalt des Zulageberechtigten bereits seit dem 22. Juni 2016 ununterbrochen im Vereinigten Königreich Großbritannien und Nordirland befindet und der Vertrag vor dem 23. Juni 2016 abgeschlossen worden ist.
 
-##### § 96 Anwendung der Abgabenordnung, allgemeine Vorschriften
+###### § 96 Anwendung der Abgabenordnung, allgemeine Vorschriften
 
 (1) 1Auf die Zulagen und die Rückzahlungsbeträge sind die für Steuervergütungen geltenden Vorschriften der Abgabenordnung entsprechend anzuwenden. 2Dies gilt nicht für § 163 der Abgabenordnung.
 
@@ -6009,15 +6007,15 @@ obwohl der Zulageberechtigte seiner Informationspflicht gegenüber dem Anbieter 
 
 (7) 1Für die Zulage gelten die Strafvorschriften des § 370 Absatz 1 bis 4, der §§ 371, 375 Absatz 1 und des § 376 sowie die Bußgeldvorschriften der §§ 378, 379 Absatz 1 und 4 und der §§ 383 und 384 der Abgabenordnung entsprechend. 2Für das Strafverfahren wegen einer Straftat nach Satz 1 sowie der Begünstigung einer Person, die eine solche Tat begangen hat, gelten die §§ 385 bis 408, für das Bußgeldverfahren wegen einer Ordnungswidrigkeit nach Satz 1 die §§ 409 bis 412 der Abgabenordnung entsprechend.
 
-##### § 97 Übertragbarkeit
+###### § 97 Übertragbarkeit
 
 1Das nach § 10a oder Abschnitt XI geförderte Altersvorsorgevermögen einschließlich seiner Erträge, die geförderten laufenden Altersvorsorgebeiträge und der Anspruch auf die Zulage sind nicht übertragbar. 2§ 93 Absatz 1a und § 4 des Betriebsrentengesetzes bleiben unberührt.
 
-##### § 98 Rechtsweg
+###### § 98 Rechtsweg
 
 In öffentlich-rechtlichen Streitigkeiten über die auf Grund des Abschnitts XI ergehenden Verwaltungsakte ist der Finanzrechtsweg gegeben.
 
-##### § 99 Ermächtigung
+###### § 99 Ermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, die Vordrucke für die Anträge nach § 89, für die Anmeldung nach § 90 Absatz 3 und für die in den §§ 92 und 94 Absatz 1 Satz 4 vorgesehenen Bescheinigungen und im Einvernehmen mit den obersten Finanzbehörden der Länder das Muster für die nach § 22 Nummer 5 Satz 7 vorgesehene Bescheinigung und den Inhalt und Aufbau der für die Durchführung des Zulageverfahrens zu übermittelnden Datensätze zu bestimmen.
 
@@ -6031,7 +6029,7 @@ In öffentlich-rechtlichen Streitigkeiten über die auf Grund des Abschnitts XI 
 
 ## XII. Förderbetrag zur betrieblichen Altersversorgung
 
-##### § 100 Förderbetrag zur betrieblichen Altersversorgung
+###### § 100 Förderbetrag zur betrieblichen Altersversorgung
 
 (1) 1Arbeitgeber im Sinne des § 38 Absatz 1 dürfen vom Gesamtbetrag der einzubehaltenden Lohnsteuer für jeden Arbeitnehmer mit einem ersten Dienstverhältnis einen Teilbetrag des Arbeitgeberbeitrags zur kapitalgedeckten betrieblichen Altersversorgung (Förderbetrag) entnehmen und bei der nächsten Lohnsteuer-Anmeldung gesondert absetzen. 2Übersteigt der insgesamt zu gewährende Förderbetrag den Betrag, der insgesamt an Lohnsteuer abzuführen ist, so wird der übersteigende Betrag dem Arbeitgeber auf Antrag von dem Finanzamt, an das die Lohnsteuer abzuführen ist, aus den Einnahmen der Lohnsteuer ersetzt.
 
@@ -6071,49 +6069,49 @@ d) 30 900 Euro bei einem jährlichen Lohnzahlungszeitraum;
 
 ## XIII. Mobilitätsprämie
 
-##### § 101 Bemessungsgrundlage und Höhe der Mobilitätsprämie
+###### § 101 Bemessungsgrundlage und Höhe der Mobilitätsprämie
 
 1Steuerpflichtige können neben der Berücksichtigung der Entfernungspauschalen ab dem 21. vollen Entfernungskilometer gemäß § 9 Absatz 1 Satz 3 Nummer 4 Satz 2, Nummer 5 Satz 6 und § 4 Absatz 5 Satz 1 Nummer 6 Satz 2 als Werbungskosten oder Betriebsausgaben eine Mobilitätsprämie beanspruchen. 2Bemessungsgrundlage der Mobilitätsprämie sind die berücksichtigten Entfernungspauschalen im Sinne des Satzes 1, begrenzt auf den Betrag, um den das zu versteuernde Einkommen den Grundfreibetrag im Sinne des § 32a Absatz 1 Satz 2 Nummer 1 unterschreitet; bei Ehegatten, die nach den §§ 26, 26b zusammen zur Einkommensteuer veranlagt werden, sind das gemeinsame zu versteuernde Einkommen und der doppelte Grundfreibetrag maßgebend. 3Bei Steuerpflichtigen mit Einkünften aus nichtselbständiger Arbeit gilt dies nur, soweit die Entfernungspauschalen im Sinne des Satzes 1 zusammen mit den übrigen zu berücksichtigenden Werbungskosten im Zusammenhang mit den Einnahmen aus nichtselbständiger Arbeit den Arbeitnehmer-Pauschbetrag nach § 9a Satz 1 Nummer 1 Buchstabe a übersteigen. 4Die Mobilitätsprämie beträgt 14 Prozent dieser Bemessungsgrundlage.
 
-##### § 102 Anspruchsberechtigung
+###### § 102 Anspruchsberechtigung
 
 Anspruchsberechtigt sind unbeschränkt oder beschränkt Steuerpflichtige im Sinne des § 1.
 
-##### § 103 Entstehung der Mobilitätsprämie
+###### § 103 Entstehung der Mobilitätsprämie
 
 Der Anspruch auf die Mobilitätsprämie entsteht mit Ablauf des Kalenderjahres, in dem der Anspruchsberechtigte die erste Tätigkeitsstätte im Sinne des § 9 Absatz 4 oder eine Betriebsstätte im Sinne des § 4 Absatz 5 Satz 1 Nummer 6 aufgesucht oder Familienheimfahrten im Rahmen einer doppelten Haushaltsführung im Sinne des § 9 Absatz 1 Satz 3 Nummer 5 Satz 5 sowie des § 4 Absatz 5 Satz 1 Nummer 6 durchgeführt hat.
 
-##### § 104 Antrag auf die Mobilitätsprämie
+###### § 104 Antrag auf die Mobilitätsprämie
 
 (1) Die Mobilitätsprämie wird auf Antrag gewährt.
 
 (2) 1Der Anspruchsberechtigte hat den Antrag auf die Mobilitätsprämie bis zum Ablauf des vierten Kalenderjahres, das auf das Kalenderjahr folgt, in dem nach § 103 die Mobilitätsprämie entsteht, zu stellen. 2Der Antrag ist nach amtlich vorgeschriebenem Vordruck bei dem Finanzamt zu stellen, das für die Besteuerung des Anspruchsberechtigten nach dem Einkommen zuständig ist.
 
-##### § 105 Festsetzung und Auszahlung der Mobilitätsprämie
+###### § 105 Festsetzung und Auszahlung der Mobilitätsprämie
 
 (1) 1Die Mobilitätsprämie ist nach Ablauf des Kalenderjahres im Rahmen einer Einkommensteuerveranlagung festzusetzen. 2Eine Festsetzung erfolgt nur, wenn die Mobilitätsprämie mindestens 10 Euro beträgt. 3Die festgesetzte Mobilitätsprämie mindert die festgesetzte Einkommensteuer im Wege der Anrechnung. 4Sie gilt insoweit als Steuervergütung. 5Die Auszahlung erfolgt aus den Einnahmen an Einkommensteuer.
 
 (2) 1Besteht das Einkommen ganz oder teilweise aus Einkünften aus nichtselbständiger Arbeit, die dem Steuerabzug unterlegen haben, gilt der Antrag auf Mobilitätsprämie zugleich als ein Antrag auf Einkommensteuerveranlagung. 2Besteht nach § 46 keine Pflicht zur Durchführung einer Veranlagung und wird keine Veranlagung, insbesondere zur Anrechnung von Lohnsteuer auf die Einkommensteuer nach § 46 Absatz 2 Nummer 8 beantragt, ist für die Festsetzung der Mobilitätsprämie die im Rahmen der Einkommensteuerveranlagung festgesetzte Einkommensteuer, die sich auf Grund des Antrags auf Mobilitätsprämie ergibt, mit Null Euro anzusetzen. 3Auch in den Fällen des § 25 gilt, ungeachtet des § 56 Satz 1 der Einkommensteuer-Durchführungsverordnung, der Antrag auf Mobilitätsprämie zugleich als Abgabe einer Einkommensteuererklärung.
 
-##### § 106 Ertragsteuerliche Behandlung der Mobilitätsprämie
+###### § 106 Ertragsteuerliche Behandlung der Mobilitätsprämie
 
 Die Mobilitätsprämie gehört nicht zu den steuerpflichtigen Einnahmen im Sinne des Einkommensteuergesetzes.
 
-##### § 107 Anwendung der Abgabenordnung
+###### § 107 Anwendung der Abgabenordnung
 
 Auf die Mobilitätsprämie sind die für Steuervergütungen geltenden Vorschriften der Abgabenordnung mit Ausnahme des § 163 der Abgabenordnung entsprechend anzuwenden.
 
-##### § 108 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
+###### § 108 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
 
 1Für die Mobilitätsprämie gelten die Strafvorschriften des § 370 Absatz 1 bis 4, der §§ 371, 375 Absatz 1 und des § 376 der Abgabenordnung sowie die Bußgeldvorschriften der §§ 378 und 379 Absatz 1 und 4 sowie der §§ 383 und 384 der Abgabenordnung entsprechend. 2Für das Strafverfahren wegen einer Straftat nach Satz 1 sowie der Begünstigung einer Person, die eine solche Tat begangen hat, gelten die §§ 385 bis 408 der Abgabenordnung, für das Bußgeldverfahren wegen einer Ordnungswidrigkeit nach Satz 1 die §§ 409 bis 412 der Abgabenordnung entsprechend.
 
-##### § 109 Verordnungsermächtigung
+###### § 109 Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Verfahren bei der Festsetzung und der Auszahlung der Mobilitätsprämie näher zu regeln.
 
 ## XIV. Sondervorschriften zur Bewältigung der Corona-Pandemie
 
-##### § 110 Anpassung von Vorauszahlungen für den Veranlagungszeitraum 2019
+###### § 110 Anpassung von Vorauszahlungen für den Veranlagungszeitraum 2019
 
 (1) 1Auf Antrag wird der für die Bemessung der Vorauszahlungen für den Veranlagungszeitraum 2019 zugrunde gelegte Gesamtbetrag der Einkünfte pauschal um 30 Prozent gemindert. 2Das gilt nicht, soweit in dem Gesamtbetrag der Einkünfte Einkünfte aus nichtselbständiger Arbeit (§ 19) enthalten sind. 3Voraussetzung für die Anwendung des Satzes 1 ist, dass die Vorauszahlungen für 2020 auf 0 Euro herabgesetzt wurden.
 
@@ -6121,7 +6119,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (3) 1Die Minderungen nach den Absätzen 1 und 2 dürfen insgesamt 10 000 000 Euro, bei Ehegatten, die nach den §§ 26 und 26b zusammenveranlagt werden, 20 000 000 Euro nicht überschreiten. 2§ 37 Absatz 3, 5 und 6 ist entsprechend anzuwenden.
 
-##### § 111 Vorläufiger Verlustrücktrag für 2020 und 2021
+###### § 111 Vorläufiger Verlustrücktrag für 2020 und 2021
 
 (1) 1Auf Antrag wird bei der Steuerfestsetzung für den Veranlagungszeitraum 2019 pauschal ein Betrag in Höhe von 30 Prozent des Gesamtbetrags der Einkünfte des Veranlagungszeitraums 2019 als Verlustrücktrag aus 2020 abgezogen (vorläufiger Verlustrücktrag für 2020). 2Bei der Berechnung des vorläufigen Verlustrücktrags für 2020 sind Einkünfte aus nichtselbständiger Arbeit (§ 19) nicht zu berücksichtigen, die im Gesamtbetrag der Einkünfte enthalten sind. 3Voraussetzung für die Anwendung des Satzes 1 ist, dass die Vorauszahlungen für den Veranlagungszeitraum 2020 auf 0 Euro herabgesetzt wurden. 4Soweit bei der Steuerfestsetzung für den Veranlagungszeitraum 2019 der vorläufige Verlustrücktrag für 2020 abgezogen wird, ist § 233a Absatz 2a der Abgabenordnung entsprechend anzuwenden.
 
@@ -6143,33 +6141,33 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 ## XV. Energiepreispauschale
 
-##### § 112 Veranlagungszeitraum, Höhe
+###### § 112 Veranlagungszeitraum, Höhe
 
 (1) Für den Veranlagungszeitraum 2022 wird Anspruchsberechtigten eine einmalige steuerpflichtige Energiepreispauschale gewährt.
 
 (2) Die Höhe der Energiepreispauschale beträgt 300 Euro.
 
-##### § 113 Anspruchsberechtigung
+###### § 113 Anspruchsberechtigung
 
 Unbeschränkt Steuerpflichtige nach § 1 Absatz 1, die im Veranlagungszeitraum 2022 Einkünfte aus § 13, § 15, § 18 oder § 19 Absatz 1 Satz 1 Nummer 1 erzielen, haben Anspruch auf eine Energiepreispauschale.
 
-##### § 114 Entstehung des Anspruchs
+###### § 114 Entstehung des Anspruchs
 
 Der Anspruch auf die Energiepreispauschale entsteht am 1. September 2022.
 
-##### § 115 Festsetzung mit der Einkommensteuerveranlagung
+###### § 115 Festsetzung mit der Einkommensteuerveranlagung
 
 (1) Die Energiepreispauschale wird mit der Einkommensteuerveranlagung für den Veranlagungszeitraum 2022 festgesetzt.
 
 (2) Absatz 1 gilt nicht, wenn die Energiepreispauschale nach § 117 vom Arbeitgeber ausgezahlt wurde.
 
-##### § 116 Anrechnung auf die Einkommensteuer
+###### § 116 Anrechnung auf die Einkommensteuer
 
 (1) 1Eine nach § 115 Absatz 1 festgesetzte Energiepreispauschale ist auf die festgesetzte Einkommensteuer anzurechnen. 2Die festgesetzte Energiepreispauschale ist bei der Ermittlung des Unterschiedsbetrages nach § 233a Absatz 3 Satz 1 der Abgabenordnung entsprechend zu berücksichtigen.
 
 (2) Ergibt sich nach der Anrechnung nach Absatz 1 ein Erstattungsbetrag, so wird dieser dem Anspruchsberechtigten ausgezahlt.
 
-##### § 117 Auszahlung an Arbeitnehmer
+###### § 117 Auszahlung an Arbeitnehmer
 
 (1) 1 Arbeitnehmer erhalten die Energiepreispauschale vom Arbeitgeber, wenn sie am 1. September 2022
 
@@ -6193,25 +6191,25 @@ anzumelden und abzuführen ist. 3 Übersteigt die insgesamt zu gewährende Energ
 
 (4) Eine vom Arbeitgeber ausgezahlte Energiepreispauschale ist in der elektronischen Lohnsteuerbescheinigung (§ 41b Absatz 1 Satz 2) mit dem Großbuchstaben E anzugeben.
 
-##### § 118 Energiepreispauschale im Einkommensteuer-Vorauszahlungsverfahren
+###### § 118 Energiepreispauschale im Einkommensteuer-Vorauszahlungsverfahren
 
 (1) 1Ist eine Einkommensteuer-Vorauszahlung auch für Einkünfte aus § 13, § 15 oder § 18 für den 10. September 2022 festgesetzt worden, dann ist diese Festsetzung um die Energiepreispauschale zu mindern. 2Betragen die für den 10. September 2022 festgesetzten Vorauszahlungen weniger als 300 Euro, so mindert die Energiepreispauschale die Vorauszahlung auf 0 Euro.
 
 (2) 1Die Minderung der Einkommensteuer-Vorauszahlung für den 10. September 2022 nach Absatz 1 hat durch Allgemeinverfügung nach § 118 Satz 2 der Abgabenordnung oder durch geänderten Vorauszahlungsbescheid zu erfolgen. 2Sachlich zuständig für den Erlass der Allgemeinverfügung ist jeweils die oberste Landesfinanzbehörde. 3Die Allgemeinverfügung ist im Bundessteuerblatt und auf den Internetseiten des Bundesministeriums der Finanzen zu veröffentlichen. 4Sie gilt am Tag nach der Herausgabe des Bundessteuerblattes, in dem sie veröffentlicht wird, als bekannt gegeben. 5Abweichend von § 47 Absatz 1 der Finanzgerichtsordnung endet die Klagefrist mit Ablauf von drei Monaten nach dem Tag der Bekanntgabe der Allgemeinverfügung. 6Die Klage ist nur gegen die oberste Finanzbehörde zu richten, die die Allgemeinverfügung erlassen hat.
 
-##### § 119 Steuerpflicht
+###### § 119 Steuerpflicht
 
 (1) 1Bei Anspruchsberechtigten, die im Veranlagungszeitraum 2022 Einkünfte aus nichtselbständiger Arbeit erzielt haben, ist die Energiepreispauschale stets als Einnahme nach § 19 Absatz 1 Satz 1 Nummer 1 für den Veranlagungszeitraum 2022 zu berücksichtigen. 2Dies gilt nicht für pauschal besteuerten Arbeitslohn nach § 40a. 3Im Lohnsteuerabzugsverfahren ist die Energiepreispauschale bei der Berechnung einer Vorsorgepauschale nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe a bis c nicht zu berücksichtigen.
 
 (2) 1Bei den übrigen Anspruchsberechtigten gilt die Energiepreispauschale stets als Einnahme nach § 22 Nummer 3 für den Veranlagungszeitraum 2022. 2Die Freigrenze nach § 22 Nummer 3 Satz 2 ist insoweit nicht anzuwenden.
 
-##### § 120 Anwendung der Abgabenordnung
+###### § 120 Anwendung der Abgabenordnung
 
 (1) 1Auf die Energiepreispauschale sind die für Steuervergütungen geltenden Vorschriften der Abgabenordnung entsprechend anzuwenden. 2§ 163 der Abgabenordnung gilt nicht.
 
 (2) In öffentlich-rechtlichen Streitigkeiten über die zur Energiepreispauschale ergehenden Verwaltungsakte der Finanzbehörden ist der Finanzrechtsweg eröffnet.
 
-##### § 121 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
+###### § 121 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
 
 (1) Für die Energiepreispauschale gelten die Strafvorschriften des § 370 Absatz 1 bis 4 und 7, der §§ 371, 375 Absatz 1 und des § 376 der Abgabenordnung sowie die Bußgeldvorschriften der §§ 378 und 379 Absatz 1 und 4 sowie der §§ 383 und 384 der Abgabenordnung entsprechend.
 
@@ -6219,11 +6217,11 @@ anzumelden und abzuführen ist. 3 Übersteigt die insgesamt zu gewährende Energ
 
 (3) Für das Bußgeldverfahren wegen einer Ordnungswidrigkeit nach Absatz 1 gelten die §§ 409 bis 412 der Abgabenordnung entsprechend.
 
-##### § 122 Nichtberücksichtigung als Einkommen bei Sozialleistungen, Unpfändbarkeit
+###### § 122 Nichtberücksichtigung als Einkommen bei Sozialleistungen, Unpfändbarkeit
 
 1Die Energiepreispauschale ist bei einkommensabhängigen Sozialleistungen nicht als Einkommen zu berücksichtigen. 2Die Energiepreispauschale ist in Höhe des in § 112 Absatz 2 genannten Betrages unpfändbar.
 
-##### Anlage 1 (zu § 4d Absatz 1)Tabelle für die Errechnung des Deckungskapitals für lebenslänglich laufende Leistungen von Unterstützungskassen
+###### Anlage 1 (zu § 4d Absatz 1)Tabelle für die Errechnung des Deckungskapitals für lebenslänglich laufende Leistungen von Unterstützungskassen
 
 (Fundstelle: BGBl. I 2009, 3530)
 
@@ -6285,13 +6283,13 @@ bis261117
 
 95 und älter 2 2
 
-##### Anlage 1a (zu § 13a)Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen
+###### Anlage 1a (zu § 13a)Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen
 
 (Fundstelle: BGBl. I 2014, 2426)
 
 Für ein Wirtschaftsjahr betragen
 
-1. der Grundbetrag und die Zuschläge für Tierzucht und Tierhaltung der landwirtschaftlichen Nutzung (§ 13a Absatz 4):
+1. der Grundbetrag und die Zuschläge für Tierzucht und Tierhaltung der landwirtschaftlichen Nutzung (§ 13a Absatz 4): 
 
 Gewinn pro Hektar selbst
 bewirtschafteter Fläche
@@ -6301,7 +6299,7 @@ ersten 25 Vieheinheiten
 weiteren Vieheinheiten
  300 EUR/Vieheinheit Angefangene Hektar und Vieheinheiten sind anteilig zu berücksichtigen.
 
-2. die Grenzen und Gewinne der Sondernutzungen (§ 13a Absatz 6):
+2. die Grenzen und Gewinne der Sondernutzungen (§ 13a Absatz 6): 
 
 NutzungGrenzeGrenze123Weinbauliche Nutzung0,66 ha0,16 haNutzungsteil Obstbau1,37 ha0,34 haNutzungsteil Gemüsebau
 Freilandgemüse
@@ -6334,7 +6332,7 @@ JahresfangTeichwirtschaft1,6 ha0,4 haFischzucht0,2 ha0,05 haImkerei70 Völker30 
 
 3. in den Fällen des § 13a Absatz 7 Satz 1 Nummer 3 die Betriebsausgaben 60 Prozent der Betriebseinnahmen.
 
-##### Anlage 2 (zu § 43b) Gesellschaften im Sinne der Richtlinie Nr. 2011/96/EU
+###### Anlage 2 (zu § 43b) Gesellschaften im Sinne der Richtlinie Nr. 2011/96/EU
 
 (Fundstelle: BGBl. I 2014, 1295 — 1297)
 
@@ -6460,7 +6458,7 @@ cc) nach dem Recht des Vereinigten Königreichs gegründete Gesellschaften;
 
 – corporation tax im Vereinigten Königreich.
 
-##### Anlage 3 (zu § 50g)
+###### Anlage 3 (zu § 50g)
 
 (Fundstelle: BGBl. I 2014, 1298 — 1299)
 
@@ -6579,4 +6577,3 @@ cc) Gesellschaften kroatischen Rechts mit der Bezeichnung „dioničko društvo�
 – impozit pe profit, impozitul pe veniturile obţinute din România de nerezidenţi in Rumänien,
 
 – porez na dobit in Kroatien.
-
