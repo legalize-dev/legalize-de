@@ -4,23 +4,28 @@ identifier: "STGEBO-2011"
 country: "de"
 rank: "bundesgesetz"
 publication_date: "2011-01-25"
-last_updated: "2026-04-04"
+last_updated: "2026-10-21"
 status: "in_force"
 source: "https://www.gesetze-im-internet.de/stgebo_2011/"
+text_state: "current"
 department: "BMJ (Bundesministerium der Justiz)"
 doknr: "BJNR009800011"
 slug: "stgebo_2011"
 bgbl_reference: "BGBl I 2011, 98"
 amtabk: "GebOSt"
-stand: "Zuletzt geändert durch Art. 3 V v. 19.12.2025 I Nr. 382"
+stand: "Zuletzt geändert durch Art. 6 V v. 12.8.2026 I Nr. 236"
+hinweis: "Änderung durch Art. 2 V v. 14.10.2026 I Nr. 310 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
 ---
 # Gebührenordnung für Maßnahmen im Straßenverkehr
 
-##### Eingangsformel
+> **This file always contains the latest consolidated text published by the source.
+> It is not the text as it stood on the date of any given commit.**
+
+###### Eingangsformel
 
 Auf Grund des § 6a Absatz 2 in Verbindung mit Absatz 3 und 4 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), des § 18 Absatz 2 in Verbindung mit Absatz 3 des Kraftfahrsachverständigengesetzes vom 22. Dezember 1971 (BGBl. I S. 2086) und des § 34a Absatz 2 in Verbindung mit Absatz 3 des Fahrlehrergesetzes vom 25. August 1969 *(BGBl. I S. 1336), von § 6a* Absatz 2 durch Artikel 2 Nummer 1 des Gesetzes vom 14. August 2006 (BGBl. I S. 1958), § 18 Absatz 2 zuletzt durch Artikel 291 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407), § 18 Absatz 3 durch Artikel 6 Nummer 12 Buchstabe b des Gesetzes vom 24. April 1998 (BGBl. I S. 747), § 34a Absatz 2 zuletzt durch Artikel 289 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 34a Absatz 3 zuletzt durch Artikel 2 des Gesetzes vom 24. April 1998 (BGBl. I S. 747) geändert worden sind, jeweils in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-##### § 1 Gebührentarif
+###### § 1 Gebührentarif
 
 (1) Für Amtshandlungen, einschließlich der Prüfungen und Untersuchungen im Sinne des § 6a des Straßenverkehrsgesetzes, des § 55 des Fahrlehrergesetzes und des § 18 des Kraftfahrsachverständigengesetzes, werden Gebühren nach dieser Verordnung erhoben. Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben sich aus dem Gebührentarif für Maßnahmen im Straßenverkehr (Anlage).
 
@@ -28,7 +33,7 @@ Auf Grund des § 6a Absatz 2 in Verbindung mit Absatz 3 und 4 des Straßenverkeh
 
 (3) Unterliegt die Amtshandlung der Umsatzsteuer, kann diese der Gebühr hinzugerechnet werden.
 
-##### § 2 Auslagen
+###### § 2 Auslagen
 
 (1) Soweit im Gebührentarif nichts anderes bestimmt ist, hat der Gebührenschuldner folgende Auslagen zu tragen:
 
@@ -52,23 +57,27 @@ Auf Grund des § 6a Absatz 2 in Verbindung mit Absatz 3 und 4 des Straßenverkeh
 
 9. die auf die Kosten der amtlich anerkannten Sachverständigen und Prüfer für den Kraftfahrzeugverkehr und der amtlich anerkannten Begutachtungsstellen für Fahreignung entfallende Mehrwertsteuer,
 
-10. die Kosten der amtlich anerkannten Sachverständigen und Prüfer sowie der Prüfstellen für Nachprüfungen im Auftrage des Kraftfahrt-Bundesamtes nach § 20 Absatz 6 der Straßenverkehrs-Zulassungs-Ordnung und § 9 der Fahrzeugteileverordnung sowie für Nachprüfungen nach international vereinbartem Recht, soweit ein Verstoß gegen diese Vorschriften nachgewiesen wird,
+10. die Kosten der amtlich anerkannten Sachverständigen und Prüfer sowie der Prüfstellen für Nachprüfungen im Auftrage des Kraftfahrt-Bundesamtes nach § 20 Absatz 6 der Straßenverkehrs-Zulassungs-Ordnung und § 9 der Fahrzeugteileverordnung sowie für Nachprüfungen nach international vereinbartem Recht,
 
 11. die Aufwendungen für die Übersendung oder Überbringung der Mitteilung der Zulassungsbehörde an den Versicherer auf Grund der Versicherungsbestätigung nach § 50 Absatz 1 der Fahrzeug-Zulassungsverordnung oder der Anzeige nach § 51 Absatz 2 der Fahrzeug-Zulassungsverordnung,
 
 12. die Kosten eines amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr, eines technischen Dienstes mit Gesamtfahrzeugbefugnissen der jeweiligen Fahrzeugklassen oder einer anderen vom Kraftfahrt-Bundesamt beauftragten Stelle für die Begutachtung eines Kraftfahrzeugs mit automatisierter oder autonomer Fahrfunktion einschließlich der Bewertung der informationstechnischen Sicherheit von Fahrzeugen und Fahrzeugteilen,
 
-13. die Kosten eines von der zuständigen Behörde beauftragten Gutachtens gemäß § 9 Absatz 3 Satz 1 der Autonome-Fahrzeuge-Genehmigungs-und-Betriebs-Verordnung.
+13. die Kosten eines von der zuständigen Behörde beauftragten Gutachtens gemäß § 9 Absatz 3 Satz 1 der Autonome-Fahrzeuge-Genehmigungs-und-Betriebs-Verordnung,
+
+14. die notwendigen Kosten, die im Rahmen von Überprüfungen von Genehmigungsobjekten durch das Kraftfahrt-Bundesamt auf die Einhaltung der Vorschriften entstehen.
 
 (2) Die Erstattung der in Absatz 1 aufgeführten Auslagen kann auch verlangt werden, wenn für die Amtshandlung, Prüfung oder Untersuchung Gebührenfreiheit besteht, bei Auslagen nach Absatz 1 Nummer 1 bis 9 jedoch nur, soweit ihr Gesamtbetrag 3 Euro übersteigt. Auslagen für die Versendung von Akten im Wege der Amtshilfe werden nicht erhoben.
 
-##### § 3 Kostengläubiger
+(3) In den Fällen des Absatzes 1 Nummer 10 und 14 kann von der Geltendmachung von Auslagen für die Konformitätsprüfung im Einzelfall abgesehen werden, wenn bei der Konformitätsprüfung kein Verstoß festgestellt wurde und die Erstattung von Auslagen für den Gebührenschuldner eine besondere Härte darstellen würde. Satz 1 gilt nicht, wenn die Konformitätsprüfung durch den Gebührenschuldner veranlasst wurde oder Rechtsvorschriften bestimmen, dass der Gebührenschuldner die Kosten der Konformitätsprüfung zu tragen hat.
+
+###### § 3 Kostengläubiger
 
 (1) Kostengläubiger ist der Rechtsträger, dessen Stelle eine kostenpflichtige Amtshandlung, Prüfung oder Untersuchung vornimmt.
 
 (2) Bei den Gebühren der amtlich anerkannten Sachverständigen und Prüfer für den Kraftfahrzeugverkehr ist der Träger der Technischen Prüfstelle für den Kraftfahrzeugverkehr Kostengläubiger.
 
-##### § 4 Kostenschuldner
+###### § 4 Kostenschuldner
 
 (1) Zur Zahlung der Kosten ist verpflichtet,
 
@@ -82,7 +91,7 @@ Auf Grund des § 6a Absatz 2 in Verbindung mit Absatz 3 und 4 des Straßenverkeh
 
 (3) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
-##### § 5 Persönliche Gebührenfreiheit
+###### § 5 Persönliche Gebührenfreiheit
 
 (1) Von der Zahlung der Gebühren nach dem 1. und 2. Abschnitt des Gebührentarifs sind befreit:
 
@@ -122,7 +131,7 @@ Auf Grund des § 6a Absatz 2 in Verbindung mit Absatz 3 und 4 des Straßenverkeh
 
 (7) Von der Zahlung der Gebühren nach der Nummer 141 des Gebührentarifs sind Stellen außerhalb des Geltungsbereichs des Straßenverkehrsgesetzes befreit, soweit sie eine Auskunft auf der Grundlage von § 37 bis § 37c des Straßenverkehrsgesetzes erhalten.
 
-##### § 6 Übergangs- und Anwendungsbestimmungen
+###### § 6 Übergangs- und Anwendungsbestimmungen
 
 (1) Die Vorschriften des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung sind anzuwenden, soweit nicht die §§ 1 bis 5 abweichende Regelungen über die Kostenerhebung, die Kostenbefreiung, den Umfang der zu erstattenden Auslagen, der Kostengläubiger- und Kostenschuldnerschaft enthalten.
 
@@ -134,15 +143,15 @@ Auf Grund des § 6a Absatz 2 in Verbindung mit Absatz 3 und 4 des Straßenverkeh
 
 2. diese Ermächtigung an einen anderen Rechtsträger nach § 6a Absatz 5a Satz 5 des Straßenverkehrsgesetzes weiter übertragen wird und soweit dieser auf dieser Grundlage eine Gebührenordnung erlässt.
 
-##### § 7 Inkrafttreten, Außerkrafttreten
+###### § 7 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft; gleichzeitig tritt die Gebührenordnung für Maßnahmen im Straßenverkehr vom 26. Juni 1970 (BGBl. I S. 865, 1298), die zuletzt durch Artikel 4 der Verordnung vom 21. April 2009 (BGBl. I S. 872) geändert worden ist, außer Kraft.
 
-##### Schlussformel
+###### Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-##### Anlage (zu § 1)
+###### Anlage (zu § 1)
 
 (Fundstelle: BGBl. I 2011, 101 - 123;
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -153,23 +162,27 @@ Gebühren des Bundes
 
 Gebühren- NummerGegenstandGebühr Euro
 
-A.Straßenverkehrsgesetz, Straßenverkehrs-Zulassungs-Ordnung, Fahrzeug-Zulassungsverordnung, Fahrerlaubnis-Verordnung, Berufskraftfahrerqualifikationsverordnung, Straßenverkehrs-Ordnung, EG-Fahrzeuggenehmigungsverordnung, Fahrzeugteileverordnung, Fahrpersonalverordnung und Internationale Vereinbarungen
+A.Straßenverkehrsgesetz, Straßenverkehrs-Zulassungs-Ordnung, Fahrzeug-Zulassungsverordnung, Fahrerlaubnis-Verordnung, Berufskraftfahrerqualifikationsverordnung, Straßenverkehrs-Ordnung, Fahrzeug-Genehmigungs-und-Marktüberwachungs-Verordnung, Fahrzeugteileverordnung, Fahrpersonalverordnung und Internationale Vereinbarungen
 
 1.Erlaubnisse und Genehmigungen für Fahrzeuge und Fahrzeugteile sowie Autorisierungen
 
 111Erteilung
 
-111.1einer Allgemeinen Betriebserlaubnis (ABE) oder EG-Typgenehmigung (Mehrphasen-Typgenehmigung nach §§ 3, 11, 15, 20 EG-FGV) für Fahrzeugtypen bei Vorlage aller relevanten Systemgenehmigungen nach Einzelrichtlinien534,00 bis 734,00
+111.1einer Allgemeinen Betriebserlaubnis (ABE) oder EU-Typgenehmigung (Mehrphasen-Typgenehmigung nach Kapitel III, IV und V der Verordnung (EU) 2018/858, Kapitel IV, V und VI der Verordnung (EU) Nr. 168/2013, Kapitel IV, V und VI der Verordnung (EU) Nr. 167/2013, § 5 FGMV) für Fahrzeugtypen bei Vorlage aller relevanten Systemgenehmigungen nach Einzelrechtsakten622,00 bis 842,00
 
-111.1.1einer EG-Typgenehmigung (Einphasen-Typgenehmigung und gemischte Typgenehmigung nach §§ 3, 11, 15, 20 EG-FGV) für Fahrzeugtypen ohne Vorlage aller relevanten Systemgenehmigungen nach Einzelrichtlinien 785,00 bis 4 853,00
+111.1.1einer EU-Typgenehmigung (Einphasen-Typgenehmigung nach Kapitel III und IV der Verordnung (EU) 2018/858, Kapitel IV und V der Verordnung (EU) Nr. 168/2013, Kapitel IV und V der Verordnung (EU) Nr. 167/2013) für Fahrzeugtypen ohne Vorlage aller relevanten Systemgenehmigungen nach Einzelrechtsakten 899,00 bis 5 373,00
 
-111.2einer Allgemeinen Betriebserlaubnis (ABE) oder amtlichen Bauartgenehmigung (ABG) für Fahrzeugteiletypen sowie einer Erlaubnis oder Genehmigung für selbstständige technische Einheiten, Autorisierung sowie nach Anlagen zur StVZO; je Erlaubnis- oder Genehmigungssachverhalt 404,00 bis 537,00
+111.1.2einer EU-Fahrzeug-Einzelgenehmigung nach Artikel 44 Absatz 1 der Verordnung (EU) 2018/858 396,00
 
-111.2.1von Genehmigungen nach ECE-Regelung Nummer 90 für unterschiedliche Bremsbelag-Einheiten mit gleichem ReibmaterialGebühr nach Gebührennummer 111.2 (einmalig) zzgl. 22,00 Euro für jede weitere Folgegenehmigung
+111.1.3einer mit einer EU-Fahrzeug-Einzelgenehmigung nach Artikel 44 Absatz 1 der Verordnung (EU) 2018/858 gleichzeitig beantragten weiteren EU-Fahrzeug-Einzelgenehmigung aufgrund in etwa gleicher technischer Fahrzeugmerkmale 55,00
 
-111.3einer Betriebserlaubnis für Kraftfahrzeuge mit autonomer Fahrfunktion8 925,00 bis 89 240,00
+111.2einer Allgemeinen Betriebserlaubnis (ABE), nationalen Teiletypgenehmigung oder Allgemeinen Bauartgenehmigung (ABG) für Fahrzeugteiletypen, einer Erlaubnis oder Genehmigung für Systeme von Fahrzeugen oder selbstständige technische Einheiten, einer Autorisierung sowie nach Anlagen zur StVZO; je Erlaubnis- oder Genehmigungssachverhalt 479,00 bis 626,00
 
-111.4einer Erprobungsgenehmigung für Kraftfahrzeuge mit autonomer Fahrfunktion8 925,00 bis 89 240,00
+111.2.1von Genehmigungen nach ECE-Regelung Nummer 90 für unterschiedliche Bremsbelag-Einheiten mit gleichem ReibmaterialGebühr nach Gebührennummer 111.2 (einmalig) zzgl. 35,00 Euro für jede weitere Folgegenehmigung
+
+111.3einer Betriebserlaubnis für Kraftfahrzeuge mit autonomer Fahrfunktion oder System- oder Bauteilegenehmigung für autonome Fahrsysteme2 550,00 bis 89 240,00
+
+111.4einer Erprobungsgenehmigung für Kraftfahrzeuge mit autonomer Fahrfunktion nach Personal- und Sachaufwand je Stunde und Person49,00 bis 129,00
 
 111.5einer Genehmigung einer nachträglichen Aktivierung einer autonomen Fahrfunktion in bereits zugelassenen Kraftfahrzeugen nach Personal- und Sachaufwand je Stunde und Person49,00 bis 129,00
 
@@ -179,25 +192,25 @@ A.Straßenverkehrsgesetz, Straßenverkehrs-Zulassungs-Ordnung, Fahrzeug-Zulassun
 
 112Erteilung eines Nachtrags
 
-112.1zu einer Allgemeinen Betriebserlaubnis (ABE) oder EG-Typgenehmigung für Fahrzeugtypen
+112.1zu einer Allgemeinen Betriebserlaubnis (ABE) oder EU-Typgenehmigung für Fahrzeugtypen
 
-112.1.1ohne Gutachten169,00 bis 179,00
+112.1.1ohne Gutachten186,00 bis 197,00
 
-112.1.2mit Gutachten340,00 bis 360,00
+112.1.2mit Gutachten374,00 bis 396,00
 
-112.1.3zu einer EG-Typgenehmigung (Einphasen-Typgenehmigung und gemischte Typgenehmigung nach §§ 3, 11, 15, 20 EG-FGV) für einen Fahrzeugtyp ohne Vorlage aller relevanten Systemgenehmigungen nach Einzelrichtlinien 169,00 bis 2 429,00
+112.1.3zu einer EU-Typgenehmigung (Einphasen-Typgenehmigung und gemischte Typgenehmigung nach Kapitel III, IV und V der Verordnung (EU) 2018/858, Kapitel IV, V und VI der Verordnung (EU) Nr. 168/2013, Kapitel IV, V und VI der Verordnung (EU) Nr. 167/2013, § 5 Absatz 1 und § 6 FGMV) für einen Fahrzeugtyp ohne Vorlage aller relevanten Systemgenehmigungen nach Einzelrechtsakten 186,00 bis 2 672,00
 
-112.2zu einer Allgemeinen Betriebserlaubnis (ABE) oder amtlichen Bauartgenehmigung (ABG) für Fahrzeugteiletypen sowie zu einer Erlaubnis oder Genehmigung für selbstständige technische Einheiten, Autorisierung sowie nach Anlagen zur StVZO; je Erlaubnis- oder Genehmigungssachverhalt
+112.2zu einer Allgemeinen Betriebserlaubnis (ABE), nationalen Teiletypgenehmigung oder Allgemeinen Bauartgenehmigung (ABG) für Fahrzeugteiletypen, einer Erlaubnis oder Genehmigung für Systeme von Fahrzeugen oder selbstständige technische Einheiten, einer Autorisierung sowie nach Anlagen zur StVZO; je Erlaubnis- oder Genehmigungssachverhalt
 
-112.2.1ohne Gutachten125,00 bis 135,00
+112.2.1ohne Gutachten138,00 bis 149,00
 
-112.2.2mit Gutachten251,00 bis 266,00
+112.2.2mit Gutachten276,00 bis 293,00
 
-112.3Erteilung von Nachträgen ohne Gutachten für mehrere Erlaubnisse oder Genehmigungen gleichzeitig auf Grund desselben SachverhaltsGebühr nach Gebührennummer 112.1 bzw. 112.2 (einmalig) zzgl. 22,00 Euro für jeden weiteren Folgenachtrag
+112.3Erteilung von Nachträgen ohne Gutachten für mehrere Erlaubnisse oder Genehmigungen gleichzeitig auf Grund desselben SachverhaltsGebühr nach Gebührennummer 112.1 bzw. 112.2 (einmalig) zzgl. 35,00 Euro für jeden weiteren Folgenachtrag
 
-112.4zur Betriebserlaubnis für Kraftfahrzeuge mit autonomer Fahrfunktion4 462,50 bis 44 620,00
+112.4zur Betriebserlaubnis für Kraftfahrzeuge mit autonomer Fahrfunktion oder System- oder Bauteilgenehmigung für autonome Fahrsysteme1 275,00 bis 44 620,00
 
-112.5zur Erprobungsgenehmigung für Kraftfahrzeuge mit autonomer Fahrfunktion4 462,50 bis 44 620,00
+112.5zur Erprobungsgenehmigung für Kraftfahrzeuge mit autonomer Fahrfunktion nach Personal- und Sachaufwand je Stunde und Person49,00 bis 129,00
 
 112.6einer Genehmigung einer nachträglichen Aktivierung einer autonomen Fahrfunktion in bereits zugelassenen Kraftfahrzeugen nach Personal- und Sachaufwand je Stunde und Person49,00 bis 129,00
 
@@ -205,87 +218,113 @@ A.Straßenverkehrsgesetz, Straßenverkehrs-Zulassungs-Ordnung, Fahrzeug-Zulassun
 
 112.8einer Erprobungsgenehmigung für automatisierte Fahrfunktionen nach Personal- und Sachaufwand je Stunde und Person 49,00 bis 129,00
 
+112.9Feststellung der Rechtsträgereigenschaft für die Umschreibung von Genehmigungen mit und ohne gegebene Rechtsnachfolge 590,00
+
+112.10Einmalige Feststellung der Rechtsträgereigenschaft bei Erteilung der EU-Fahrzeug-Einzelgenehmigung nach Artikel 44 Absatz 1 der Verordnung (EU) 2018/858 59,00
+
+112.11Für andere als in den Gebührennummern 111 bis 112.3 aufgeführte Maßnahmen nach Personal- und Sachaufwand je Stunde und Person 49,00 bis 126,00
+
 113Erteilung einer Unbedenklichkeitserklärung bei nachträglichen Änderungen genehmigter Fahrzeug- und Fahrzeugteiletypendie Hälfte der jeweiligen Gebühr nach den Gebührennummern 112.1.1 bis 112.2.2
 
-114Nachprüfung der Übereinstimmung der Produktion auf Grund einer durch das Kraftfahrt-Bundesamt erteilten Erlaubnis oder Genehmigung, wenn
+114Nachprüfung der Produktion sowie in Betrieb befindlicher Genehmigungsobjekte auf Grund einer durch das Kraftfahrt-Bundesamt erteilten Erlaubnis oder Genehmigung 380,00 bis 608,00
 
-114.1ein Verstoß gegen Meldepflichten festgestellt wird141,00
+114aMaßnahme nach Artikel 52 Absatz 1, 2 und 3 der Verordnung (EU) 2018/858, Artikel 46 Absatz 1 Unterabsatz 2 und Absatz 4 der Verordnung (EU) Nr. 168/2013, Artikel 41 Absatz 1 Unterabsatz 2 und Absatz 4 der Verordnung (EU) Nr. 167/2013, Artikel 16 der Verordnung (EU) 2019/1020 in Verbindung mit der Verordnung (EU) Nr. 167/2013 oder Verordnung (EU) Nr. 168/2013, § 8 Absatz 2 des Marktüberwachungsgesetzes in Verbindung mit Artikel 16 der Verordnung (EU) 2019/1020, § 14 FGMV 196,00 bis 1 960,00
 
-114.2eine Abweichung vom Typ oder von den Vorschriften über die Erlaubnis oder Genehmigung festgestellt wird 361,00
+114.1(weggefallen)
 
-1a.Anerkennung von Stellen zur Prüfung von Fahrzeugen und Fahrzeugteilen, Anerkennung von Stellen zur Kontrolle des Qualitätsmanagements bei der Herstellung von Fahrzeugen und Fahrzeugteilen, behördliche Bewertung von Maßnahmen zum Qualitäts- und Sicherheitsmanagement bei der Produktion von Fahrerkarte, Führerschein, Fahrerqualifizierungsnachweis und Zulassungsbescheinigung, Anfangsbewertung und Überprüfung der Übereinstimmung der Produktion
+114.2(weggefallen)
 
-115Anerkennung von Stellen zur Prüfung/Inspektion/Begutachtung von Fahrzeugen und Fahrzeugteilen
+1a.Benennung von Stellen zur Prüfung von Genehmigungsobjekten und von Stellen zur Kontrolle des Qualitätsmanagements bei der Herstellung von Genehmigungsobjekten nach Artikel 68 der Verordnung (EU) 2018/858, Artikel 63 der Verordnung (EU) Nr. 168/2013 oder Artikel 59 der Verordnung (EU) Nr. 167/2013, behördliche Bewertung von Maßnahmen zum Qualitäts- und Sicherheitsmanagement bei der Produktion von Fahrerkarte, Führerschein, Fahrerqualifizierungsnachweis und Zulassungsbescheinigung, Anfangsbewertung und Überprüfung der Übereinstimmung der Produktion sowie zur Bewertung von Verfahren zur Deklaration von CO2-Emission und Kraftstoffverbrauch
 
-115.1Anerkennung (ohne Begehung und Reisezeit)5 113,00 bis 23 622,00
+115Benennung von Stellen, die Genehmigungsobjekte prüfen oder die Prüfung beaufsichtigen, und von Stellen zur Kontrolle des Qualitätsmanagements bei der Herstellung von Genehmigungsobjekten (einschließlich Bestätigung der Kompetenz der Hersteller von Kleinserienfahrzeug zur Selbstprüfung)
 
-115.2Nachtrag zur Anerkennung (ohne Begehung und Reisezeit)2 556,00 bis 11 453,00
+115.1Erstbenennung6 273,00 bis 26 622,00
 
-115.3Begehung2 045,00 bis 7 158,00
+115.2Überwachung2 091,00 bis 16 830,00
 
-115.4Überwachung (mit Begehung)2 045,00 bis 10 737,00
+115.3Wiederbenennung3 009,00 bis 20 094,00
 
-115.5Re-Anerkennung (ohne Begehung und Reisezeit)1 534,00 bis 7 669,00
+115.4Nachtrag zur Benennung (Dokumentenänderung)
 
-116Anerkennung von Stellen als Technischer Dienst im Genehmigungsverfahren nach EG-FGV
+115.4.1Grundgebühr Benennungsurkundenerstellung oder -änderung 55,00
 
-116.1Anerkennung (ohne Begutachtung und Reisezeit)7 669,00 bis 41 517,00
+115.4.2Zusatzgebühr je geändertem Prüfverfahren30,00
 
-116.2Nachtrag zur Anerkennung (ohne Begutachtung und Reisezeit) 4 090,00 bis 20 758,00
+115.4.3Zusatzgebühr für Änderungen administrativer Angaben75,00
 
-116.3Begutachtung2 556,00 bis 15 748,00
+115.5(weggefallen)
 
-116.4Überwachung (mit Begutachtung)4 090,00 bis 21 474,00
+116Stundensatz für Leistungen, die außerhalb der von der Gebühren-Nummer 115 erfassten Pflichtaufgaben erbracht werden 102,00
 
-116.5Re-Anerkennung (ohne Begutachtung und Reisezeit)2 556,00 bis 9 715,00
+116.1(weggefallen)
 
-117Anerkennung von Stellen zur Kontrolle des Qualitätsmanagements bei der Herstellung von Fahrzeugen und Fahrzeugteilen
+116.2(weggefallen)
 
-117.1Anerkennung (ohne Begutachtung und Reisezeit)7 158,00 bis 20 452,00
+116.3(weggefallen)
 
-117.2Nachtrag zur Anerkennung (ohne Begutachtung und Reisezeit)3 579,00 bis 7 669,00
+116.4(weggefallen)
 
-117.3Begutachtung2 556,00 bis 8 692,00
+116.5(weggefallen)
 
-117.4Überwachung (mit Begutachtung)2 045,00 bis 8 692,00
+117(weggefallen)
 
-117.5Re-Anerkennung (ohne Begehung und Reisezeit)4 090,00 bis 10 226,00
+117.1(weggefallen)
 
-118Stundensatz für Leistungen, die außerhalb der von den Gebührennummern 115 bis 117 erfassten Pflichtaufgaben erbracht werden 97,10
+117.2(weggefallen)
 
-119Bewertung der qualitätssichernden Maßnahmen bei Herstellern im Rahmen des Typgenehmigungsverfahrens (Anfangsbewertung und laufende Konformitätsprüfungen)
+117.3(weggefallen)
 
-119.1Konformitätsbericht für Unternehmen mit einer Fertigungsstätte 716,00
+117.4(weggefallen)
 
-119.2Konformitätsbericht je weitere Fertigungsstätte562,00
+117.5(weggefallen)
 
-119.3Vorprüfung gemäß Recyclingrichtlinie1 278,00 bis 8 181,00
+118(weggefallen)
 
-119.4Verlängerung der Vorprüfungsbescheinigung 614,00 bis 2 965,00
+119Bewertung von Managementsystemen und vergleichbaren Vorkehrungen bei Herstellern im Rahmen des Typgenehmigungsverfahrens
+
+119.1Konformitätsbericht mit Vor-Ort-Begehung für Unternehmen mit einer Fertigungsstätte 1 479,00
+
+119.2CoP-Nachweisführung in Selbstauskunft716,00
+
+119.3Vorprüfung gemäß Recyclingrichtlinie (Erstbewertung)2 958,00
+
+119.4Verlängerung der Vorprüfung gemäß Recyclingrichtlinie (Wiederholungsprüfung)
+
+119.4.1Verlängerung ohne Vor-Ort-Begehung816,00 bis 1 122,00
+
+119.4.2Verlängerung mit Vor-Ort-Begehung1 836,00 bis 2 142,00
 
 119.5Bewertung der Unternehmen, die an der Herstellung oder Verteilung von Zulassungsbescheinigungen Teil I, EU-Führerscheinen, Fahrerqualifizierungsnachweisen, Stempeln, Plaketten, Plakettenträgern, Prüfmarken oder anderen Dokumenten beteiligt sind 2 659,00 bis 3 477,00
 
-119.6Bewertung von Überwachungsorganisationen 5 062,00 bis 6 442,00
+119.6Bewertung von Herstellern von N2/N3-Fahrzeugen hinsichtlich der Verfahren zur Deklaration von CO2-Emission und Kraftstoffverbrauch
+
+119.6.1Erstbewertung2 448,00
+
+119.6.2Wiederbewertung vor Ort1 632,00
 
 119.7Überwachung der an Herstellung oder Verteilung von Zulassungsbescheinigungen Teil I, EU-Führerscheinen, Fahrerqualifizierungsnachweisen, Stempeln, Plaketten, Plakettenträgern, Prüfmarken oder anderen Dokumenten beteiligten Unternehmen 1 483,00 bis 2 399,00
 
-119.8Überwachung von Überwachungsorganisationen 1 892,00 bis 2 914,00
+119.8Bewertung von Managementsystemen, deren Begutachtung und Überwachung an Externe vergeben wurde
+
+119.8.1Basisbewertung (Bericht und Dokumentation)1 020,00
+
+119.8.2Erweiterung/Änderung (einschließlich Dokumentation)408,00
 
 119.9(weggefallen)
 
-120Zulassung zur Selbstprüfung für Hersteller von Kleinserienfahrzeugen
+120(weggefallen)
 
-120.1Feststellen der Eignung und Zulassung zur Selbstprüfung (ohne Begutachtung von Prüfverfahren)3 120,00
+120.1(weggefallen)
 
-120.2Überwachung (ohne Begutachtung von Prüfverfahren) 1 270,00
+120.2(weggefallen)
 
-120.3Begutachtung je Prüfverfahren195,00
+120.3(weggefallen)
 
-120.4Stundensatz für Nachträge, Erweiterungen oder Änderungen der Urkunde in Sprache oder Format97,10
+120.4(weggefallen)
 
-121Stundensatz für Leistungen, die außerhalb der von den Gebührennummern 119 bis 120 erfassten Pflichtaufgaben erbracht werden 84,40
+121Stundensatz für Leistungen, die außerhalb der von der Gebühren-Nummer 119 erfassten Pflichtaufgaben erbracht werden 102,00
 
-122Stundensatz für Reisezeiten für Maßnahmen nach den Gebührennummern 115 bis 120 61,40
+122Stundensatz für Reisezeiten für Maßnahmen nach den Gebührennummern 115 bis 121 61,40
 
 2.Erfassung von Fahrzeugen und Fahrerlaubnissen
 
@@ -293,7 +332,7 @@ A.Straßenverkehrsgesetz, Straßenverkehrs-Zulassungs-Ordnung, Fahrzeug-Zulassun
 
 123.1Zuteilung einer Zulassungsbescheinigung Teil II nach § 14 Absatz 4 Nummer 1 FZV über die Zulassungsbehörde 4,40
 
-123.2Zuteilung einer Zulassungsbescheinigung Teil II nach § 14 Absatz 4 Nummer 2 FZV zur Ausfüllung durch den Hersteller oder dessen bevollmächtigten Vertreter nebst Überwachung 6,70
+123.2Zuteilung einer Zulassungsbescheinigung Teil II nach § 14 Absatz 4 Nummer 2 FZV zur Ausfüllung durch den Hersteller oder dessen bevollmächtigten Vertreter nebst Überwachung 9,85
 
 124Aufstellung von Erfassungsunterlagen für das Zentrale Fahrzeugregister (ZFZR) –bei Fahrzeugen ohne Zulassungsbescheinigung Teil II–bei der Ausgabe der roten Kennzeichen oder der Kurzzeitkennzeichenoder Berichtigung der Erfassungsunterlagen bei Halterwechsel3,20
 
@@ -415,9 +454,9 @@ Bei einer zum Zeitpunkt der Erteilung der Ausnahme bekannten Anzahl betroffener 
 
 181Sicherheitstechnische Überprüfungen
 
-181.1Bewertung der an Herstellung oder Verteilung von EG-Kontrollgeräten und deren Komponenten beteiligten Stellen. Die Stundensätze für Audit und Reisezeit bemessen sich nach den Gebührennummern 119.9 und 1222 659,00 bis 6 900,00
+181.1Bewertung der an Herstellung oder Verteilung von EG-Kontrollgeräten und deren Komponenten beteiligten Stellen. Die Stundensätze für Audit und Reisezeit bemessen sich nach den Gebührennummern 116 und 1222 659,00 bis 6 900,00
 
-181.2Überwachung der an Herstellung oder Verteilung von EG-Kontrollgeräten und deren Komponenten beteiligten Stellen. Die Stundensätze für Audit und Reisezeit bemessen sich nach den Gebührennummern 119.9 und 1221 483,00 bis 2 518,00
+181.2Überwachung der an Herstellung oder Verteilung von EG-Kontrollgeräten und deren Komponenten beteiligten Stellen. Die Stundensätze für Audit und Reisezeit bemessen sich nach den Gebührennummern 116 und 1221 483,00 bis 2 518,00
 
 182Digitale Zertifikate und Verschlüsselungsdienstleistungen
 
@@ -436,6 +475,10 @@ bei größeren Veranstaltungen mit außergewöhnlich hohem Verwaltungsaufwand 1 
 185Entscheidung über eine Ausnahme von einer Vorschrift der StVO nach § 46 Absatz 2a StVO je Ausnahmetatbestand und je Fahrzeug/Person Bei einer zum Zeitpunkt der Erteilung der Ausnahme bekannten Anzahl betroffener Fahrzeuge/Personen bzw. gleichartiger Fälle kann unter Berücksichtigung des geringeren Verwaltungsaufwandes eine verminderte Gesamtgebühr berechnet werden; dabei darf die Untergrenze des Gebührenrahmens von 45,00 Euro je Fahrzeug/Person und je Ausnahmetatbestand nicht unterschritten werden. 45,00 bis 1 070,00
 
 186Zurückweisung eines Widerspruchs oder Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung Von der Festsetzung einer Gebühr ist abzusehen, soweit durch die Rücknahme des Widerspruchs das Verfahren besonders rasch und mit geringem Verwaltungsaufwand abgeschlossen werden kann, wenn dies der Billigkeit nicht widerspricht.Gebühr in Höhe der Gebühr fürdie beantragte oder angefochtene Amtshandlung, mindestensjedoch 180,00 Euro; beigebührenfreien angefochtenen Amtshandlungen 180,00 Euro.
+
+10.Überprüfung der Einhaltung der Vorschriften durch die Marktüberwachungsbehörde
+
+190Stundensatz für Überprüfung von Genehmigungsobjekten52,00 bis 102,50
 
 B.Sonstige Maßnahmen auf dem Gebiet des Straßenverkehrs
 
@@ -471,7 +514,7 @@ bei anlassbezogener Eignungsbegutachtung zusätzlich10,20 bis 35,80
 
 202.6bei besonders hohem Aufwand der Feststellung des Besitzstandes10,20 bis 30,70
 
-202.7Ausfertigung eines Führerscheins, soweit nicht bereits in den Nummern 202.1 bis 202.5 eingeschlossen, oder einer als Nachweis der Fahrerlaubnis geltenden befristeten Prüfungsbescheinigung (§ 22 Absatz 4 Satz 7 FeV), soweit vom Bewerber veranlasst10,20
+202.7Ausfertigung eines Führerscheins, soweit nicht bereits in den Nummern 202.1 bis 202.5 eingeschlossen, oder einer als Nachweis der Fahrerlaubnis geltenden befristeten Prüfungsbescheinigung (§ 22 Absatz 4 Satz 6 FeV), soweit vom Bewerber veranlasst10,20
 
 202.8Ausfertigung einer Prüfungsbescheinigung nach § 48a FeV7,70
 
@@ -897,7 +940,7 @@ FBerufskraftfahrerqualifikationsgesetz (BKrFQG) und Berufskraftfahrerqualifikati
 
 344Prüfung eines Antrags auf Anrechnung anderer abgeschlossener spezieller Aus- und Weiterbildungsmaßnahmen sowie Entscheidung über den Antrag (§ 2 Absatz 5, § 4 Absatz 4 BKrFQV)7,00
 
-345Entscheidung über die Erteilung bei Anerkennung einer Ausbildungsstätte nach § 9 BKrFQG, Untersagung der Ausübung von Tätigkeiten nach § 10 Absatz 4 BKrFQG, Rücknahme oder Widerruf der Anerkennung, einschließlich Anerkennungsurkunde, nach § 10 Absatz 1 und 2 BKrFQG51,10 bis 511,00
+345Entscheidung über die Erteilung, Änderung oder Versagung der Anerkennung einer Ausbildungsstätte einschließlich der Ausstellung der Anerkennungsurkunde nach § 9 BKrFQG in Verbindung mit § 5 BKrFQV, Untersagung der Ausübung von Tätigkeiten nach § 10 Absatz 4 BKrFQG, Rücknahme oder Widerruf der Anerkennung, einschließlich Einziehung der Anerkennungsurkunde, nach § 10 Absatz 1 und 2 BKrFQG51,10 bis 511,00
 
 346Überwachung der Ausbildungsstätten nach § 11 Absatz 1 und 2 BKrFQG30,70 bis 511,00
 
@@ -1266,7 +1309,7 @@ als Zuschlag erhoben.
 
 499Für andere als die in diesem Abschnitt aufgeführten Prüfungen und Untersuchungen können Gebühren nach den Sätzen für vergleichbare Prüfungen oder Untersuchungen der Gebührennummern 401 bis 460 oder, soweit solche nicht bewertet sind, je angefangene Viertelstunde mindestens 22,70 Euro und höchstens 30,20 Euro erhoben werden. Der Zeitaufwand für Prüfgehilfen wird mit 70 v. H. des vorgenannten Satzes berechnet.
 
-##### Anhang (zu Gebühren-Nummer 263.1.1) Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- und Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO
+###### Anhang (zu Gebühren-Nummer 263.1.1) Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- und Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO
 
 (Fundstelle: BGBl. I 2020, 822 - 824)
 
@@ -1303,4 +1346,3 @@ b) Berechnung des Erhöhungsbetrages Zur Ermittlung des Erhöhungsbetrages wird 
 c) Berechnung der Gesamtgebühr Die Gesamtgebühr ergibt sich aus der Addition der Grundgebühr und des Erhöhungsbetrages: Gesamtgebühr = 40,00 Euro + Erhöhungsbetrag.
 
 d) Höchstgrenze Die Gesamtgebühr darf die obere Rahmengrenze von 1 300,00 Euro nicht überschreiten. Sie ist gegebenenfalls entsprechend zu kappen.
-
